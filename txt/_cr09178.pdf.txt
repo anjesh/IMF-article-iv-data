@@ -1,0 +1,4589 @@
+© 2009 International Monetary Fund
+
+[Month, Day], 201
+
+June 2009
+IMF Country Report No. 09/178
+August 2, 2001
+
+Luxembourg: 2009 Article IV Consultation—Staff Report; Public Information Notice
+on the Executive Board Discussion; and Statement by the Executive Director for
+Luxembourg
+Under Article IV of the IMF’s Articles of Agreement, the IMF holds bilateral discussions with
+members, usually every year. In the context of the 2009 Article IV consultation with Luxembourg,
+the following documents have been released and are included in this package:
+•
+
+The staff report for the 2009 Article IV consultation, prepared by a staff team of the IMF,
+following discussions that ended on March 30, 2009, with the officials of Luxembourg on
+economic developments and policies. Based on information available at the time of these
+discussions, the staff report was completed on May 8, 2009. The views expressed in the staff
+report are those of the staff team and do not necessarily reflect the views of the Executive
+Board of the IMF.
+
+•
+
+A Public Information Notice (PIN) summarizing the views of the Executive Board as
+expressed during its May 22, 2009, discussion of the staff report that concluded the Article IV
+consultation.
+
+•
+
+A statement by the Executive Director for Luxembourg.
+
+The policy of publication of staff reports and other documents allows for the deletion of market-sensitive
+information.
+Copies of this report are available to the public from
+International Monetary Fund • Publication Services
+700 19th Street, N.W. • Washington, D.C. 20431
+Telephone: (202) 623-7430 • Telefax: (202) 623-7201
+E-mail: publications@imf.org • Internet: http://www.imf.org
+
+International Monetary Fund
+Washington, D.C.
+
+INTERNATIONAL MONETARY FUND
+LUXEMBOURG
+Staff Report for the 2009 Article IV Consultation
+Prepared by the Staff Representatives for the 2009 Consultation with Luxembourg
+Approved by Ajai Chopra and Anthony R. Boote
+May 8, 2009
+Executive Summary
+Luxembourg faces its most severe recession since the steel crisis in the 1970s. Profitability in the
+financial sector—the main driver for growth and trade—is falling rapidly, and the contraction in activity is
+spreading decidedly across other key export sectors. GDP growth is projected to underperform the euro area
+in 2009 and contract by 5¼ percent in real terms, followed by a moderate decline in 2010.
+Resolution of home-host country issues is vital to enhance financial stability and additional regulatory
+action is needed. Given the large size of the financial sector and dominant foreign ownership, any rescue
+efforts in response to a systemic event would need to rely on parent banks and possibly their home
+countries. However, the systemic nature of the financial crisis has called into question the longstanding
+axiom that parent companies would always support their troubled subsidiaries. The authorities agree that
+reaching an arrangement on burden sharing is of paramount importance, but point to likely political
+obstacles. Additional regulatory action is needed to address liquidity risks, curtail leverage and strengthen
+both capital and supervisory capacity.
+International policy cooperation is also needed to mitigate reputational risks that may arise from a
+potential run on money market funds. The investments held by these funds exceed GDP by about eight
+times, therefore preventing the authorities from issuing credible guarantees on their own. Moreover, these
+funds play an important role in providing liquidity to Europe’s banking sector. Any disruption would not
+only undermine Luxembourg’s reputation as a well-run financial center, but could also lead to systemic
+liquidity shortages in Europe. To address these risks, the authorities should pursue burden-sharing
+agreements that would allow—in the case of strong redemptive pressure—the immediate issuance of a
+credible multilateral guarantee. The authorities consider the prospects of such a guarantee as uncertain.
+The adverse impact of the crisis on the growth outlook is partly mitigated by the authorities’ wellconceived fiscal policy response. It combines substantial fiscal stimulus, including subsidies aimed at
+stabilizing employment, with the full functioning of the automatic stabilizers. Consequently, this year’s
+budget is projected to swing into a deficit that is likely to exceed the Maastricht ceiling by a small margin.
+Nevertheless, the increase in near-term financing requirements is not expected to call into question fiscal
+sustainability, given low public sector indebtedness. Over the medium term, however, a decisive strategy is
+needed to curtail rapid expenditure growth and address aging-related challenges.
+
+2
+Contents
+
+Page
+
+I. The Context ............................................................................................................................3
+II. The Outlook: Macrofinancial Linkages and Spillovers ........................................................4
+A. Financial Crisis Weighing on Near-Term Outlook...................................................4
+B. Spillovers and the Crisis’ Adverse Effects on the Medium-Term Outlook ..............7
+III. Risks to Financial Stability ..................................................................................................9
+A. Intragroup Exposure and Liquidity Risks .................................................................9
+B. Leverage and Capitalization....................................................................................10
+C. The Importance of Money Market Funds to Euro Area Banks...............................12
+IV. The Response to the Crisis ................................................................................................13
+A. Policy Action...........................................................................................................13
+B. Policy Implications..................................................................................................14
+V. The Impact of the Crisis on the Budget ..............................................................................16
+VI. Staff Appraisal ...................................................................................................................18
+Tables
+1.
+2.
+3.
+4.
+
+Luxembourg: Basic Data, 2003–10 .............................................................................25
+Luxembourg: External Current Account, 2004–14 .....................................................26
+Luxembourg: Financial Soundness Indicators of the Banking System, 2002-08........27
+Luxembourg: General Government Operations 2006-10 ............................................28
+
+Figures
+1.
+Luxembourg Aggregate banking Sector Assets and Funding......................................21
+2.
+Luxembourg: Distribution of Liquidity over the Banking Sector, 2005–07 ...............22
+3.
+Luxembourg: Fiscal and Banking Sector Indicators....................................................23
+4.
+Luxembourg: Benefit Replacement Rates ...................................................................24
+Boxes
+1.
+Competitiveness.............................................................................................................8
+2.
+Money Market Funding and Euro Area Banks ............................................................12
+
+3
+I. THE CONTEXT
+1.
+Luxembourg hosts a financial center that is large by international standards,
+contributing substantially to the country’s prosperity. First-mover advantages, the steady
+strengthening of the regulatory
+4,000
+9,000
+Banking Sector Assets
+framework under the auspices of the
+(December 2008)
+3,500
+7,500
+European Union (EU), and
+3,000
+competitive taxation have fostered
+6,000
+rapid financial sector development
+2,500
+Percent of GDP
+over the past three decades. Besides 2,000
+4,500
+Billions of euros
+hosting 152 mostly foreign-owned
+(right scale)
+subsidiary banks, the financial center 1,500
+3,000
+1,000
+also boasts Europe’s largest
+1,500
+investment fund industry (IFI).
+500
+These foreign institutions tend to
+0
+0
+raise funding from abroad and, in
+BEL HKG 1/ IRL LUX NLD SPG GBR CHE
+turn, focus their lending and
+1/ September 2008.
+investment activities on
+opportunities abroad. Nevertheless, two of the largest foreign banks play a significant role in
+the domestic market, besides the state-owned savings bank. As such, the financial sector (FS)
+is the major engine of growth, the primary source of fiscal revenues, and the main reason
+Luxembourg’s per capita income is highest in the euro area.
+2.
+The financial sector’s systemic importance extends well beyond national
+boundaries. The sector’s main activity is to “upstream” liquidity from the Luxembourgbased subsidiaries to their mostly European parent groups. About half of aggregate lending
+by Luxembourg banks is channeled to the international interbank market, largely in the form
+of short-term financing to parent banks. The money market fund (MMF) industry—the
+second largest in the EU—raises a substantial part of this liquidity. Any event that
+undermines the functioning of the financial center could therefore have immediate
+repercussions for Europe’s banking sector.
+2500
+
+3600
+
+Luxembourg's Mutual Fund Industry
+
+Market Share of Mutual Fund Industries 1/
+
+Net assets under management
+(Bil. euros)
+
+2000
+
+70
+
+16
+
+2800
+
+Number of funds (right scale)
+
+12
+
+USA (right scale)
+Luxembourg
+Ireland
+Switzerland
+UK
+Hong Kong
+
+60
+
+1500
+2000
+
+8
+
+1000
+50
+1200
+
+4
+
+400
+
+0
+
+500
+
+0
+1990
+
+1993
+
+1996
+
+1999
+
+2002
+
+2005
+
+2008
+
+40
+2000 2001 2002 2003 2004 2005 2006 2007
+
+1/ Market share estimates based on net assets under
+management.
+
+4
+II. THE OUTLOOK: MACROFINANCIAL LINKAGES AND SPILLOVERS
+A. Financial Crisis Weighing on Near-Term Outlook
+3.
+Luxembourg’s economy is experiencing a pronounced deterioration. The FS and
+closely related sectors are responsible for nearly half of value added. As the financial crisis
+intensified, banking sector
+14
+50
+profits declined and the assets
+Financial Sector Contribution to Growth, 1996-2008
+(Percent)
+12
+under management of the IFI
+48
+Financial sector share of value added (right scale)
+contracted. Moreover,
+10
+Financial sector contribution to GDP growth
+Luxembourg’s economy is
+Real GDP growth
+46
+8
+subject to the ebb and flow of
+international trade, given a share 6
+44
+of exports in GDP of about
+4
+180 percent (2008). Falling
+42
+2
+exports in the fourth quarter of
+40
+2008 were largely responsible for 0
+a 5.2 percent year-on-year
+38
+contraction in output, and for the -2
+1996
+1998
+2000
+2002
+2004
+2006
+2008
+almost 1 percentage point reduction
+in
+GDP for the year (Table 1). Reflecting trade developments, the current account surplus
+declined by about 4 percentage points of GDP (Table 2).
+4.
+The recession is deepening this year, but the authorities see the contraction as
+less pronounced than staff. Three different agencies produce GDP growth projections, and
+the most conservative among these, albeit dated forecasts, is showing a 1.8 percent decline in
+real growth this year, followed by a brisk upturn of 2.1 percent in 2010. Given the large size
+of the FS and its ongoing contraction, it is unlikely that growth in Luxembourg could
+outperform that of the euro area. Staff forecasts a decline in real GDP this year of
+5.3 percent, followed by a further moderate decline in 2010.
+Comparative Macroframework, 2007-10
+(Percent change in real GDP growth)
+2007
+
+2008
+
+2009
+
+2010
+
+Proj.
+IMF staff (March 2009)
+
+5.2
+
+-0.9
+
+-5.3
+
+-0.3
+
+European Central Bank
+
+5.2
+
+...
+
+-3.0
+
+0.4
+
+Statec (March 2009)
+
+5.2
+
+-0.9
+
+-1.8
+
+2.1
+
+Stability and Growth Program (January 2009)
+
+5.2
+
+1.0
+
+-0.9
+
+1.4
+
+European Commission (January 2009)
+
+5.2
+
+1.0
+
+-0.9
+
+1.4
+
+5
+5.
+All major expenditure components of GDP are likely to be adversely affected by
+the financial crisis, waning confidence, and euro area recession.
+•
+
+The FS has been a longstanding source of dynamic employment and income growth.
+FS employment is likely to contract amidst global deleveraging, although the decline
+may be more moderate than in other financial centers, given the more steady activities
+of the IFI. Combined with a slowdown in wage growth, this would reinforce the sharp
+drop in consumer confidence and curb private consumption.
+8
+
+Employment
+
+Wage Bill
+
+12
+
+6
+4
+
+7
+
+2
+2
+
+•
+
+2008
+
+2007
+
+2006
+
+2005
+
+2004
+
+2003
+
+2002
+
+2001
+
+2000
+
+1997
+
+-8
+
+The FS is a major driver of exports. An appreciable decline of the external trade
+surplus is expected this year, given the pronounced slowdown in FS activity and
+plummeting foreign demand for merchandise exports.
+
+30
+
+Financial sector
+Other sectors
+
+25
+
+42
+Eurostat Industrial New Orders Index, June 2008January 2009
+(Annual percent change)
+
+32
+22
+
+20
+
+12
+
+15
+
+2
+
+10
+
+-8
+Luxembourg
+
+-18
+
+Jan-09
+
+Dec-08
+
+Nov-08
+
+1/ Financial sector includes financial services, insurance, computer and
+information services, and other business services.
+
+Euro area
+
+Oct-08
+
+2008
+
+-38
+2007
+
+-10
+2006
+
+-28
+2005
+
+-5
+
+Sep-08
+
+0
+
+Aug-08
+
+5
+
+Jul-08
+
+35
+
+Financial Sector Contribution to Growth of Total
+Service Exports, 2005-2008
+
+Jun-08
+
+40
+
+•
+
+Financial sector contribution (percentage
+points)
+
+2008
+
+2007
+
+2006
+
+2005
+
+2004
+
+2003
+
+2002
+
+2001
+
+2000
+
+1999
+
+1997
+
+1996
+
+-6
+
+1998
+
+Financial sector contribution (percentage
+points)
+
+1996
+
+-4
+
+Wage bill growth (percent)
+
+-3
+
+Employment growth (percent)
+
+1999
+
+-2
+
+1998
+
+0
+
+The adverse effects of the crisis on business confidence are pronounced. Temporary
+plant closures and output reduction in key sectors, including manufacturing and
+transport, appear to have accelerated in the first quarter of this year, and point to a
+likely postponement of private sector investment decisions.
+
+6
+
+20
+
+Industrial Confidence Indicator (SA)
+
+20
+
+Consumer Confidence Indicator (SA)
+
+10
+
+10
+
+0
+
+0
+
+-10
+
+-10
+
+-20
+
+-20
+-30
+
+Mar-09
+
+Mar-08
+
+Sep-08
+
+Mar-07
+
+Sep-07
+
+Sep-06
+
+Mar-06
+
+Mar-04
+
+Sep-04
+
+Mar-03
+
+Sep-03
+
+Mar-02
+
+Mar-09
+
+Sep-08
+
+Mar-08
+
+Sep-07
+
+Mar-07
+
+Mar-06
+
+Sep-06
+
+Mar-05
+
+Sep-05
+
+Sep-04
+
+Mar-04
+
+-60
+Sep-03
+
+-60
+Mar-03
+
+-50
+Mar-02
+
+-50
+Sep-02
+
+Luxembourg
+Euro area
+
+-40
+
+Sep-02
+
+-40
+
+Sep-05
+
+Luxembourg
+Euro area
+
+Mar-05
+
+-30
+
+6.
+The risks to the outlook are dominated by developments in Europe and the
+global financial system. With the thawing of the financial system still in an early stage and
+some conjunctural indicators stabilizing, the risks to the outlook appear broadly balanced.
+However, a further deterioration in European trade volumes would heavily weigh on
+Luxembourg’s prospects, given the close integration of its export sector with the EU. At the
+same time, a faster-than-expected recovery in financial markets could generate substantial
+upside risk.
+7.
+Inflation declined sharply in late 2008 and is expected to remain low for the
+foreseeable future. The partial reversal of earlier energy and food price increases lowered
+inflation to negative 0.3 percent year-on-year by March 2009, one of the lowest rates within
+the euro area. The pronounced decline in domestic demand is likely to curb wage demands
+and limit price increases in the non-tradable sector. Inflationary expectations have been
+falling rapidly, and inflation is forecast to remain low over the medium term.
+4
+
+60
+
+Annual Inflation
+(Percent change, period average)
+
+60
+Inflationary Expectations 1/
+(Percent)
+
+3
+
+40
+
+40
+
+2
+
+20
+
+20
+
+Luxembourg
+
+1
+
+0
+
+0
+Luxembourg
+Euro area
+
+Euro area
+0
+
+1/ Balance of responses.
+
+Mar-09
+
+Mar-08
+
+Mar-07
+
+Mar-06
+
+Mar-05
+
+Mar-04
+
+Mar-03
+
+-20
+Mar-02
+
+2009
+
+2008
+
+2007
+
+2006
+
+2005
+
+2004
+
+2003
+
+2002
+
+-20
+
+7
+B. Spillovers and the Crisis’ Adverse Effects on the Medium-Term Outlook
+8.
+With its large financial center, global financial developments spill over to
+Luxembourg. While growth has been typically strong, it has also been volatile, given the
+financial sector’s large share in output. Volatility in FS growth tends to mirror global
+financial market developments and is closely correlated with the volatility of overall GDP.
+Empirical analysis finds that a one percentage point increase in volatility of banking sector
+income leads to 0.2 percentage point deviation from trend growth.
+10
+
+0.05
+Real GDP Growth (Percent)
+0.04
+
+GDP Growth Volatility
+(Y-o-y)
+
+8
+
+Dot com bust
+0.03
+Luxembourg
+
+6
+
+0.02
+
+Euro area
+
+0.01
+4
+0.00
+2
+
+-0.01
+-0.02
+
+0
+-0.03
+
+Luxembourg
+Euro area
+-2
+
+-0.04
+1992
+
+1994
+
+1996
+
+1998
+
+2000
+
+2002
+
+2004
+
+2006
+
+2008
+
+1996Q1
+
+1998Q2
+
+2000Q3
+
+2002Q4
+
+2005Q1
+
+2007Q2
+
+9.
+The global financial crisis calls into question the viability of the business model
+underlying Luxembourg’s FS. Past rapid expansion of this sector was largely due to cost
+and tax differentials, which Luxembourg skillfully parlayed into a considerable first mover
+advantage. The financial sector has been vital to Luxembourg’s competitive position (Box 1).
+However, the business model will need to adjust to the new financial architecture that
+emerges in the aftermath of the crisis, and it is prudent to assume that deleveraging will
+curtail the economy’s growth potential over the medium term. The authorities agreed that the
+uncertainties surrounding the sector’s growth potential had risen markedly. However, they
+emphasized that the diversification across the FS and the steady flow of back-office
+transactions carried out by the IFI would mitigate any fallout from deleveraging.
+
+8
+
+Box 1. Competitiveness
+The financial sector has been supporting Luxembourg’s competitive position.
+•
+
+Relative unit labor costs point to a moderate overall competitiveness advantage. This is
+most pronounced in the financial sector, but is in part offset by traditional sectors,
+especially manufacturing. However, there are inherent difficulties in calculating and
+interpreting estimates of financial sector unit labor costs. Moreover, there is anecdotal
+evidence that some firms are relocating activities, especially back-office and custodian
+activities, to cheaper cost locations in the eastern part of the EU.
+
+•
+
+Luxembourg’s share of world merchandise exports is overall stable, while its share in
+the EU market is rising steadily.
+0.6
+110
+90
+70
+
+Competitiveness Relative to the Euro Area 1/
+Mining and quarrying
+Manufacturing
+Financial intermediation
+Total economy
+
+Share of Goods Exports
+(Percent, four quarter moving average)
+0.4
+
+50
+0.2
+
+30
+
+To the world
+To the EU
+
+10
+-10
+1/ Luxembourg unit labor costs as a percent of unit labor
+costs in the euro area expressed as deviations from 100.
+Positive value implies cost advantage.
+
+•
+
+Dec-99
+Jun-00
+Dec-00
+Jun-01
+Dec-01
+Jun-02
+Dec-02
+Jun-03
+Dec-03
+Jun-04
+Dec-04
+Jun-05
+Dec-05
+Jun-06
+Dec-06
+Jun-07
+Dec-07
+Jun-08
+
+0.0
+1990 1992 1994 1996 1998 2000 2002 2004
+
+Similarly, application of CGER methodology cannot identify any competitiveness gap.
+Confidence intervals for the current account norm and the equilibrium real exchange
+rate both span the estimated values, implying a competitiveness gap of about zero.
+CGER Assessment of Competitiveness
+
+Average competitiveness gap (in percent)
+Macroeconomic balance approach
+Equilibrium real exchange rate approach
+External stability approach
+Memorandum items:
+Assessment of competitiveness gap
+Current account norm (percent of GDP)
+Projected current account (percent of GDP)
+
+Estimate
+
+Confidence interval
+of the estimate
+
+Significantly different from
+zero at 95 percent
+confidence level
+
+6.0
+6.5
+8.7
+2.7
+
+n.a
+n.a
+-15.3 to 32.7
+n.a
+
+n.a
+n.a
+No
+n.a
+
+About zero
+8.7
+6.2
+
+n.a
+1.7 to 15.7
+n.a
+
+n.a
+No
+n.a
+
+9
+70
+
+18
+Net Assets of Mutual Funds
+(Percent change)
+
+40
+
+Luxembourg
+Euro area 1/
+World
+
+Banking Sector Assets
+(Percent change)
+
+16
+14
+12
+10
+8
+6
+
+10
+
+4
+Luxembourg
+
+2
+
+Euro area
+
+0
+20
+
+-2
+1999
+2002
+2005
+2008 2/
+1/ Excluding Cyprus, Malta, Slovenia prior to 2006, and
+Slovakia prior to 2003.
+2/ As of the third quarter for 2008.
+
+2000
+
+2002
+
+2004
+
+2006
+
+2008
+
+III. RISKS TO FINANCIAL STABILITY
+10.
+The close integration of the Luxembourg-based subsidiaries with their mostly
+European parent groups poses a major risk to financial stability.
+•
+
+High intra-group exposures and over-reliance on wholesale funding create
+appreciable liquidity risks that would materialize if the health of the European
+banking sector deteriorates.
+
+•
+
+Banks’ thinning, though still comfortable, capitalization and relatively high leverage
+are additional risks.
+
+•
+
+At the same time, there are systemic risks emanating from Luxembourg to the euro
+area, as a result of the large volume of money market and other short-term financing
+provided by the financial center to the European banking sector.
+A. Intragroup Exposure and Liquidity Risks
+
+11.
+Luxembourg-based subsidiaries are closely intertwined with their parent
+groups. Regulation facilitates the upstreaming of liquidity, as intragroup and interbank
+lending is exempt from large exposure limits. As a result, about half of the aggregate banking
+sector assets were interbank loans at end-2008, of which about two-thirds were intra-group
+liabilities (Figure 1). These exposures would become a substantive source of financial sector
+instability were the health of parent banks or other large banks to deteriorate. 1 At the same
+time, given their focus on opportunities abroad, the impact of a potential failure of most of
+the foreign-owned subsidiaries on the availability of credit to the domestic economy would
+be limited. Nevertheless, following their rescue in 2008 a substantial share of Dexia and
+
+1
+
+For a study on these risks, see Banque Centrale Du Luxembourg, Bulletin 2004/1.
+
+10
+BGL, two of the largest banks, remains in foreign ownership. These subsidiaries continue to
+play a major role in the domestic market. 2
+12.
+Wholesale markets are the primary source of funding. Given their mostly
+international focus, banking sector deposit taking is limited, and interbank and intra-group
+loans are the single largest sources of funds. Difficulties in the international bond, interbank,
+or money markets would thus have immediate repercussions for banks’ liquidity. The
+authorities agreed that liquidity conditions have tightened, but underscored that private
+banking and asset management activities had continued to allow most banks to raise
+substantial liquidity during the crisis (Figure 2).
+B. Leverage and Capitalization
+13.
+Capital levels appear comfortable when measured relative to risk-weighted
+assets, but the use of simpler leverage ratios point to less benign conclusions. The tier 1
+capital ratio has exhibited a moderate but steady decline from its peak in 2004 (Table 3).
+However, more than two thirds of the banking sector exhibited a leverage ratio—defined as
+the ratio of equity to the unweighted sum of assets—of less than 5 percent, a level that may
+be considered as too low. 3
+The tier 1 capital ratio remains comfortable overall, but has declined from its peak.
+14
+
+Tier 1 Capital Ratio (risk weighted, percent)
+
+13
+12
+11
+10
+9
+1999
+
+2000
+
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008 1/
+
+For about two thirds of the banking system, the leverage ratio fell below 5 percent.
+30
+
+20
+15
+10
+5
+
+Distribution of Banks' Leverage Ratios, December 2008 1/
+(Percent)
+
+Percent of banking sector
+assets
+
+25
+
+0
+0-1
+
+1-2
+
+2-3
+
+3-4
+
+4-5
+5-10
+Leverage ratio in percent
+
+10-20
+
+20-50
+
+1/ The leverage ratio is defined as eligible own funds divided by total assets.
+2
+
+BGL is the successor institution that emerged from the rescue of Fortis’ subsidiary in Luxembourg.
+
+3
+
+See GFSR October 2008, Box 1.2 for a discussion capital adequacy measures.
+
+>50
+
+11
+14.
+The financial turmoil is weighing on banking sector profitability. Cumulative
+banking sector profits declined by 17 percent year-on-year in 2008, in large part reflecting a
+sharp decline in one-off revenues and falling commission income. These were in part offset
+by an increase in the interest margin, as banks took advantage of high interbank rates.
+Nevertheless, interest income is expected to decline this year, mainly as a result of policy
+easing and normalizing interbank markets. These developments, combined with an
+appreciable increase in provisions, underscore the pressures on sector-wide profitability.
+... profitability is declining.
+
+Banks' provisions are rising rapidly...
+
+80
+
+80
+(Annual percent change)
+
+Net provisions (percent of gross income)
+60
+60
+40
+40
+
+20
+0
+
+20
+-20
+0
+
+Commission income
+Profits before provisions
+
+-40
+1995Q1 1997Q3 2000Q1 2002Q3 2005Q1 2007Q3
+
+1977 1981 1985 1989 1993 1997 2001 2005
+
+15.
+The relatively high leverage of parent banks calls into question how effectively
+they could intervene if a subsidiary faced a shortfall in capital. The equity-to-assets ratio
+suggests that subsidiaries tend to be better capitalized than their parent banks and group
+leverage ratios in many instances seem low, indicating risks to capital adequacy for both
+group and subsidiary banks.
+Parent banks' tier 1 capital is broadly comfortable,
+but the leverage ratio is relatively low.
+12
+
+Leverage and Tier 1 Capital Ratios of Select
+Parent Banks, 2007
+
+10
+
+10
+
+Leverage ratio (percent)
+
+9
+8
+7
+6
+5
+4
+3
+
+Leverage of Select Parent Banks and
+Subsidiaries, 2007
+Leverage ratio of parent banks
+(percent)
+
+11
+
+Parent banks' leverage ratios tend to exceed those
+of their subsidiaries.
+
+8
+6
+4
+2
+
+2
+
+Tier 1 capital ratio (percent)
+
+1
+5
+
+6
+
+7
+
+8
+
+9
+
+Leverage ratio of subsidiaries (percent)
+
+0
+10
+
+11
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+Mortgage lending
+
+16.
+Looking ahead, Luxembourg’s economic downturn and a cooling off in the real
+estate market could generate further pressures on banking sector capital. Loans to the
+private sector in Luxembourg, including
+125
+Private Sector Credit and Mortgage Lending, June 2008
+household mortgages, are concentrated in three
+(Percent of GDP)
+banks. One of these, the state-owned savings
+100
+GBR
+bank, is estimated to have issued more than
+40 percent of all household mortgages.
+75
+IRL
+Although a legal framework allowing
+securitization was introduced in 2004,
+DEU
+50
+BEL
+mortgage loans are typically held on balance
+FRA
+LUX
+sheet. This poses a potential risk to banks’
+GRC
+25
+capital, given that residential real estate prices are
+ITA
+estimated to have nearly doubled during the
+0
+50
+75
+100
+125
+150
+175
+200
+225
+past decade and are now showing signs of
+Private sector credit
+weakening. Nonetheless, the default rate on residential
+mortgage loans in Luxembourg remains extremely low.
+C. The Importance of Money Market Funds to Euro Area Banks
+17.
+MMFs provide substantial funding to Europe’s banking sector (Box 2). If these
+funds experience renewed redemption pressure, they would be forced to shed assets,
+potentially causing serious liquidity shortages for euro area banks. Although MMFs are not a
+vital source of financing for the Luxembourg economy, a potential run on Luxemburg’s
+funds could jeopardize the country’s reputation as a well run financial sector.
+
+Box 2. Money Market Funding and Euro Area Banks
+Luxembourg’s hosts the second largest MMF industry in Europe, holding 340 billion euro in assets
+under management (December 2008). Among these assets, claims on euro area banks were
+109 billion euro, mostly in the form of securities and deposits.
+Tight liquidity conditions and limited credit losses resulting from the failure of Lehman Brothers
+caused serious redemption pressure on U.S. MMFs in September 2008. To avert a run on these funds
+the U.S. authorities set up a liquidity facility and provided a temporary guarantee to their investors.
+The concerns over U.S. MMFs spilled over to Europe, and redemption pressures on MMFs in Ireland
+and Luxembourg were exacerbated in October 2008 by a guarantee from the German authorities to
+provide liquidity to resident MMFs. In the case of Luxembourg, parent institutions stepped in and
+provided some liquidity to their off-balance sheet funds. Although pressure eased and Luxembourg’s
+funds recorded renewed inflows in November and December, they also tended to shorten the
+maturity of their investments. As a result, short-term funding to euro area banks by Luxembourg’s
+MMFs rose to 99 billion euro.
+In contrast to the U.S. approach that provided MMFs with direct access to liquidity from the Federal
+
+13
+160
+Reserve System, the European Central Bank
+Money Market Funds' Financing to Euro Area Banks
+(ECB) relies on indirect provision of liquidity. 140
+(Billions of euros)
+A wide majority of European MMFs are
+120
+Long-term assets
+sponsored by parent banks and, in principle,
+Short-term assets
+these banks could place MMFs’ assets on their 100
+Total
+balance sheet, use these assets to raise liquidity
+80
+from the ECB, and pass the liquidity on to their
+60
+sponsored MMFs. However, weakened
+capitalization may limit the scope for banks to
+40
+take assets onto their balance sheets. At the
+20
+same time, providing direct access for MMFs to
+0
+ECB liquidity is complicated by the lack of a
+2007Q1
+2007Q3
+2008Q1
+2008Q3
+precise, European-wide definition of admissible
+MMF investments and detailed data on assets that can serve as collateral.
+
+Most importantly, however, there is no mechanism in place to coordinate a European guarantee to
+stem a potential run on MMFs.
+
+IV. THE RESPONSE TO THE CRISIS
+A. Policy Action
+18.
+The authorities’ response to the crisis has so far been ad hoc. When the European
+financial services conglomerate Fortis and Dexia bank experienced a severe loss of investor
+confidence in the fall of 2008, the Luxembourg authorities joined the rescue efforts of other
+host and home country authorities. The subsidiaries of Dexia and Fortis were the largest and
+third largest banks in Luxembourg in 2007, and the authorities contributed 2.9 billion euro,
+8 percent of GDP, in capital to support them. Moreover, a one-year guarantee for over
+4.5 billion euro was issued in support of Dexia’s funding. These measures appear to have
+restored confidence in the subsidiaries. The authorities also intervened in three insolvent
+Icelandic banks.
+19.
+Under an EU-wide initiative, the limit on deposit insurance (DI) was raised
+fivefold. Effective January 1, 2009 the DI limit increased to 100,000 euro for the indefinite
+future. The authorities are also revising the DI framework to address deficiencies of the
+existing scheme. In particular, they are concerned about the ex post funding of the current
+scheme, which obliges banks to cover the costs of an event that triggers the deposit insurance
+only once this event has occurred. It is their intention that the revised scheme will be funded
+on an ex-ante basis, although sufficient funding will need to be built up gradually. While the
+scheme will remain private and its membership mandatory, current plans call for it to be
+administered by the regulator.
+
+14
+B. Policy Implications
+20.
+The financial crisis has highlighted potent risks to financial stability and
+pertinent international initiatives are underway to address these. The Committee of
+European Banking Supervisors (CEBS) has recommendations forthcoming that would
+address liquidity management and intragroup exposure issues. Additional recommendations
+from the CEBS and the Basel Committee with respect to increasing capital and liquidity
+buffers, improving the quality of capital, and imposing limits on leverage are under
+discussion. The authorities are prepared to implement reforms in tandem with their
+competitor jurisdictions.
+21.
+International policy coordination is needed to safeguard the stability of both the
+banking sector and the money market.
+•
+
+Resolution of home-host country issues is vital to enhance financial stability.
+Given the disproportionately large size of the financial sector and dominant foreign
+ownership, any rescue efforts in response to a systemic event would need to rely on
+parent banks and possibly their home countries. However, the systemic nature of the
+financial crisis has called into question the longstanding axiom that parent companies
+would always support their troubled subsidiaries. Reaching an agreement on burden
+sharing is thus of paramount importance and should be pursued, even if this requires
+concessions from the authorities. The authorities agree on the importance of resolving
+home-host country issues and recognize the potential benefits of a proactive approach
+in seeking burden sharing agreements, notwithstanding likely political obstacles to
+such agreements. They also point to the importance of harmonizing the crisis
+resolution framework across the EU.
+
+•
+
+International policy cooperation is also needed to mitigate the risk of a potential
+run on MMFs. The investments held by MMFs exceed GDP by about 8 times,
+therefore preventing the authorities from issuing credible guarantees on their own.
+The continued flow of liquidity from Luxembourg’s financial sector, however, is
+important to financial stability in the euro area and, consequently, Luxembourg’s
+reputation as a well run financial center. The authorities are mindful of these risks.
+They recognize the importance of international cooperation, but consider the
+prospects for success as uncertain amid the heightened stress experienced in many
+countries’ financial systems and, in some instances, an inward focus of policy
+makers.
+
+22.
+Financial stability should also be enhanced by strengthening the prudential and
+regulatory regimes. Any policy tightening, however, needs to be phased in carefully, given
+the procyclical effects and the uncertain strength of banks’ balance sheets.
+
+15
+•
+
+Improving liquidity management and mitigating risks from intra-group exposure.
+While intragroup exposures are essential to banks’ business models, liquidity
+management has been largely shifted to the group level, effectively exposing
+subsidiaries to risks from liquidity shortages and maturity mismatches. As a result of
+legal changes in 2008, the central bank assumed responsibility for macro prudential
+surveillance of liquidity, while the regulator is stepping up its efforts at microprudential surveillance. Given that a one-size-fits-all liquidity requirement could be
+suboptimal, these institutions are jointly developing a tighter liquidity policy that
+takes due account of bank-specific circumstances. Following the development of a
+qualitative framework, the authorities intend to devise a quantitative framework.
+Close cooperation between these institutions will be essential to the success of this
+policy initiative.
+
+•
+
+Raising capital buffers and setting leverage ratios. In order to curtail excessive
+leverage, the authorities support the introduction of leverage ratios, and additional
+Basel capital requirements. These initiatives, however, need to be coordinated on an
+international level.
+
+23.
+Moreover, there is scope for strengthening supervisory capacity. Relative to the
+size of banking sector assets, the resources allocated to supervision in Luxembourg remain
+low by international standards, notwithstanding steady increases in recent years. Moreover,
+Luxembourg’s IFI is larger than that of comparator countries, underlining the resource
+constraint. Separately, heavy reliance on external auditors for on-site work will need to be
+reconsidered—in light of global regulatory failures in identifying emerging risks, renewed
+effort are necessary to build those skills in house. It will be crucial to have a strong on-site
+supervision program aimed at identifying and managing risks.
+Resources Allocated to Financial Sector Supervision
+
+Belgium (CBFA)
+Ireland (FSA)
+Luxembourg (CSSF)
+Switzerland (FINMA)
+UK (FSA)
+
+2007 budget
+(Millions of euro)
+
+In basis points of
+banking sector
+assets
+
+Banking sector
+assets 1/ (billions
+of euro)
+
+81.9
+55.8
+28.0
+64.6
+435.9
+
+0.7
+0.4
+0.3
+0.5
+0.5
+
+1,116
+1,409
+1,031
+1,350
+8,287
+
+Sources: National regulators; IMF staff estimates.
+1/ End 2007.
+
+16
+
+V. THE IMPACT OF THE CRISIS ON THE BUDGET
+
+General government gross debt
+
+24.
+Luxembourg’s public finances are much better positioned than those of most
+120
+other EU countries to weather
+General Government Balance and Gross Debt, 2008
+the recession. Notwithstanding
+(Percent of GDP)
+ITA
+100
+recent bank rescue efforts, the
+GRC
+public debt stock remains very
+BEL
+low by international standards,
+80
+DEU
+owing to past fiscal surpluses.
+Euro
+FRA
+PRT
+Following the tripartite
+60
+AUT
+agreement in 2006 to enhance
+NLD
+the competitiveness of the
+40
+ESP
+economy, wage indexation was
+FIN
+IRL
+partially suspended and some
+20
+LUX
+expenditures were curtailed. The
+budget swung into a substantial
+0
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+surplus in 2007 (3.6 percent of
+General
+government
+balance
+GDP).
+
+5
+
+25.
+However, past performance was in large part due to cyclical revenue strength
+and the 2008 budget was expansionary. Revenues surprised on the upside during 2006-08,
+largely driven by the strength of
+18
+Growth of General Government Total Expenditure
+the financial sector and one-off
+16
+(Percent change)
+events, including from the merger
+between Arcelor and Mittal. The 14
+Luxembourg
+12
+financial sector contributes an
+Euro area
+estimated 40 percent to corporate 10
+taxes, 25 percent to personal
+8
+income taxes, and about
+6
+30 percent to overall budget
+4
+revenues (Figure 3). The revenue
+impact of tax measures, including 2
+a child tax credit and indexation
+0
+of income brackets to inflation to
+2000 2001 2002 2003 2004 2005 2006 2007 2008
+mitigate bracket creep, are
+estimated to have reduced overall 2008 revenues by 0.9 percentage point of GDP. At the
+same time, current expenditure growth accelerated, in part reflecting an appreciable increase
+in intermediate consumption and a further real expansion of the wage bill. The authorities
+emphasized that the increase in the wage bill was related to the development of university
+and research capacity and was thus in fulfillment with the objectives under the Lisbon
+Strategy. Against this background, staff estimates that the budget surplus declined in 2008 to
+2.6 percent of GDP (Table 4).
+
+17
+
+26.
+The 2009 budget provides substantial fiscal stimulus. It supports both consumption
+and employment by
+Luxembourg: 2009 Fiscal Stimulus Measures
+compensating
+workers of qualified
+Measures
+Fiscal Impact
+(percent of GDP)
+firms for wages lost
+Expenditure side
+1.5
+due to reductions in
+Transfers
+to
+households
+0.7
+hours worked, while
+Unemployment benefit
+0.3
+also helping to defer
+Childcare subsidy
+0.1
+Allocation of allowances for social housing
+0.3
+dismissal decisions.
+Transfers to business
+0.1
+Furthermore, the
+Public investment, incl. research and development
+0.6
+execution of longRevenue side
+-1.5
+term public
+Personal income taxes
+-1.2
+Indexation of the personal income tax brackets
+-0.9
+investment projects
+Increased tax credits
+-0.3
+is being advanced,
+Corporate income taxes
+-0.3
+Abolition of capital contribution tax
+-0.3
+and domestic
+CIT rate reduction (from 22 percent to 21 percent) 1/
+0.0
+demand should also
+3.0
+Total fiscal impact
+be supported by the
+1/ Revenue impact starting in 2010.
+generosity of
+welfare benefits
+(Figure 4). Given a broad range of additional tax and expenditure measures, the overall fiscal
+stimulus is expected to reach 3 percent of GDP in 2009.
+27.
+Automatic stabilizers should be allowed to operate fully, notwithstanding a
+material deterioration in this year’s budget. The authorities expect the 2009 deficit to
+reach about half of staff’s forecast of 3.3 percent of GDP. These differences are in large part
+due to staff’s forecast for a deeper recession and its more conservative assessment of the
+revenue impact of the financial crisis. However, all agreed that automatic stabilizers should
+be allowed to operate freely under either scenario.
+18000
+16000
+14000
+12000
+
+33
+Social Expenditure (Per capita, constant 2000 prices and
+PPPs, in US dollars)
+Luxembourg
+Belgium
+France
+Germany
+Netherlands
+OECD - Total
+
+Social Expenditure (Percent of GDP)
+30
+27
+24
+
+10000
+21
+
+8000
+
+18
+
+6000
+4000
+
+Luxembourg
+France
+Netherlands
+
+Belgium
+Germany
+OECD - Total
+
+15
+1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005
+
+1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005
+
+18
+28.
+Nevertheless, over the medium and long term adjustment is necessary to foster
+fiscal sustainability, which is currently threatened on a number of fronts.
+•
+
+Medium-term expenditure pressures. The wage indexation mechanism will be applied
+in full again in 2010, following its partial suspension under the 2006 Tripartite
+Agreement, and social transfer payments and public wage expenditures will rise
+accordingly.
+
+•
+
+Medium-term revenue uncertainties. Global deleveraging, likely regulatory tightening
+across Europe, and changes to bank secrecy and their adverse effects on
+Luxembourg’s financial center will limit the revenues contributed by the single
+largest sector. Moreover, although proceeding gradually, changes in EU tax
+regulation are potentially curtailing the attractiveness of Luxembourg as a business
+location, including the introduction of the end-user principle under the VAT directive
+that will lower internet-related VAT revenues starting in 2015.
+
+•
+
+Long-term expenditure pressures. Far-reaching reforms of the public, pay-as-you-go
+pension system remain overdue, given that substantial funding gaps continue to
+threaten its long-term viability. 4
+VI. STAFF APPRAISAL
+
+29.
+Ongoing financial turmoil and the first global recession in 60 years pose
+daunting challenges to Luxembourg’s small open economy. The financial sector—hosting
+a large number of foreign-owned subsidiary banks, Europe’s largest investment fund
+industry and second largest money market industry—is fully exposed to the turmoil. Besides
+financial service exports, the contraction in European demand is also weighing heavily on the
+economy’s traditional export sectors. As a result, Luxembourg faces its most severe recession
+since the steel crisis in the mid-1970s.
+30.
+Continued economic success crucially hinges on the maintenance of financial
+stability. The authorities’ rescue efforts and intervention in the banking sector, while
+appropriate and decisive, were also ad hoc. There remains an urgent need to enhance crisis
+preparedness and devise an effective, multilateral response. Given that Luxembourg’s
+financial center is testimony to Europe’s advanced financial integration, the authorities
+should spearhead an initiative to develop an effective, multilateral crisis management
+strategy.
+•
+
+4
+
+Resolving home-host country issues and seeking burden sharing commitments. The
+systemic nature of the financial crisis has called into question the longstanding axiom
+For a comprehensive analysis see IMF Country Report No. 06/165, chapter III.
+
+19
+that parent companies would always support their subsidiaries in difficulty.
+Therefore, the authorities need to advance discussions with both parent companies
+and home countries with the aim of achieving burden sharing commitments.
+•
+
+Addressing the risks stemming from the close integration of Luxembourg-based
+subsidiaries with their parent groups. While intragroup exposures are essential to
+banks’ business models, liquidity management has been largely shifted to the group
+level, imposing undue risks of a liquidity shortage on subsidiaries. Addressing these
+risks requires comprehensive and continuous monitoring of liquidity at the local
+level; and devising a regulatory framework that embeds sufficient flexibility to take
+due account of bank-specific circumstances. In this regard, the joint efforts of the
+central bank and the regulator are welcome, and cooperation between these
+institutions will be vital for success.
+
+•
+
+Reining in excessive leverage. Luxembourg’s financial center has not escaped some
+of the excesses that have bedeviled the global financial system. More than half of
+Luxembourg’s banking system seemed overly leveraged at end-2008, with gearing
+ratios in excess of 20 times. While system-wide capital levels appear adequate, these
+developments call for a further strengthening of the regulatory regime, tightening of
+capital requirements, and the introduction of binding limits on leverage. However,
+such steps need to be coordinated internationally, and care needs to be taken with
+regard to the speed and timing these measures, in order to facilitate an orderly
+adjustment of banks’ balance sheets.
+
+•
+
+Safeguarding Luxembourg’s reputation as a well run financial center. The continued
+flow of liquidity from Luxembourg’s financial sector is important to financial
+stability in the euro area and, consequently, the country’s reputation as a well run
+financial center. The authorities should capitalize on this alignment of interests by
+pursuing burden sharing arrangements that would allow—in case of strong
+redemption pressures—the immediate issuance of a credible, multilateral guarantee to
+cover those funds’ liabilities. This is also pressing as MMFs do not have direct access
+to central bank liquidity. Weakened capital positions may currently limit banks’
+ability to take MMFs’ assets onto their balance sheets and, therefore, the extent to
+which banks can raise liquidity from the monetary authorities on behalf of their offbalance sheet MMFs. The need for a liquidity facility, therefore, should also be
+further explored.
+
+31.
+Notwithstanding their adverse impact on the deficit, the fiscal stimulus package
+is appropriate and the automatic stabilizers should be allowed to function fully. Public
+finances are well positioned to weather the recession. Despite recent bank rescue efforts, the
+public debt stock remains low by international standards, providing ample scope to finance
+budget pressures over the near term. The deficit is projected to exceed the Maastricht ceiling
+
+20
+by a small margin this year, but the automatic stabilizers should be allowed to operate fully
+given the precipitous economic contraction.
+32.
+Looking ahead, once the economy begins to emerge from recession, appreciable
+efforts will be needed to enhance medium- and long-term fiscal sustainability.
+•
+
+Expenditures are rising—in spite of past fiscal adjustment undertaken, current
+spending returned to buoyant growth in 2008. The planned return to full indexation of
+wages and social benefits in 2010 will likely exacerbate this trend, and also hamper
+efforts to improve competitiveness.
+
+•
+
+At the same time, uncertainties have arisen concerning the evolution of medium-term
+fiscal revenues. These stem primarily from the potentially adverse impact of global
+deleveraging, likely regulatory tightening in Europe, and changes to rules governing
+bank secrecy and their dampening effects on the fiscal revenues raised from
+Luxembourg’s financial center. Moreover, changes in EU tax regulation, including
+the 2015 introduction of the end-user principle that will curtail VAT revenues, are
+also a concern.
+
+In light of these risks and uncertainties, the reintroduction of full inflation indexation of
+wages and benefits should be reconsidered. Furthermore, far-reaching reforms of the public,
+pay-as-you-go pension system remain overdue, and should proceed with priority, given that
+substantial funding gaps continue to threaten its long-term viability.
+33.
+It is proposed that the next Article IV consultation with Luxembourg will be held
+within 24 months.
+
+21
+Figure 1. Luxembourg: Aggregate Banking Sector Assets and Funding
+Banking sector assets have grown steadily...
+36
+
+...and are large even when adjusting for intra-group claims.
+14
+
+(In multiples of GDP)
+
+(In multiples of GDP)
+
+33
+
+12
+
+30
+10
+27
+Total assets
+24
+
+8
+
+Intra-group claims
+Interbank claims
+
+21
+
+6
+
+18
+4
+15
+
+Total assets, excl. intra-group claims
+2
+
+12
+9
+1999Q4 2001Q2 2002Q4 2004Q2 2005Q4 2007Q2 2008Q4
+Deposits are a relatively small source of
+funding...
+
+Total claims on non-financial sector
+
+0
+1999Q4 2001Q2 2002Q4 2004Q2 2005Q4 2007Q2 2008Q4
+
+...while reliance on money markets has increased rapidly.
+60
+(Percent of liabilities)
+
+(Percent of liabilities end-2008)
+Bond
+markets
+Other (4%)
+(8%)
+
+50
+Interbank
+lending 1/
+(38%)
+
+Deposits
+Money markets
+Bond markets
+Interbank lending 1/
+
+40
+
+30
+
+Money
+markets
+(30%)
+
+20
+
+10
+
+Deposits
+(20%)
+
+Source: IMF, IFS; and IMF staff estimates.
+1/ Including liabilities to creditors outside the euro area.
+
+0
+1999Q4 2001Q2 2002Q4 2004Q2 2005Q4 2007Q2 2008Q4
+
+22
+
+Figure 2. Luxembourg: Distribution of Liquidity over
+the Banking Sector, 2005–07 1/ 2/ (Percent)
+
+Share of banking sector
+
+25
+
+Banking sector liquidity was high in 2005.
+
+Distribution of Banks' Liquidity Ratio, 2005
+
+25
+
+20
+
+20
+
+15
+
+15
+
+10
+
+10
+
+5
+
+5
+
+0
+
+0
+10 20 30 40 50 60 70 80 90 100 110 120 130 140 150 160 170 180 190 200 210 220 230 240
+
+Share of banking sector
+
+25
+
+It showed signs of tightening in parts of the banking sector in 2006,...
+
+Distribution of Banks' Liquidity Ratio, 2006
+
+25
+
+20
+
+20
+
+15
+
+15
+
+10
+
+10
+
+5
+
+5
+
+0
+
+0
+10 20 30 40 50 60 70 80 90 100 110 120 130 140 150 160 170 180 190 200 210 220 230 240
+
+Share of banking sector
+
+25
+
+...and a "fat tail" emerged amid a sharp tightening of liquidity in 2007.
+
+Distribution of Banks' Liquidity Ratio, 2007
+
+25
+
+20
+
+20
+
+15
+
+15
+
+10
+
+10
+
+5
+
+5
+
+0
+
+0
+10 20 30 40 50 60 70 80 90 100 110 120 130 140 150 160 170 180 190 200 210 220 230 240
+
+Sources: BCL; BankScope; and IMF staff estimates.
+1/ In the absence of bank-specific liquidity data in accordance with the financial soundness indicators, liquidity is
+approximated by the ratio of liquid assets to customer and short-term funds.
+2/ Based on a sample covering 80 percent of customer and short-term funds.
+
+23
+
+Figure 3. Luxembourg: Fiscal and Banking Sector Indicators
+(Percent of GNI)
+Indirect tax revenues are highly correlated with
+banks' commission income; a percentage point
+decline in the ratio of commission income to
+GNI reduces the indirect tax income-to-GNI
+ratio by a 0.9 percentage point.
+
+Budget revenues are highly correlated with banking
+sector income; a 1 percentage point decline in banking
+sector income-to-GNI ratio reduces the revenue-to-GNI
+ratio by 0.8 percentage point.
+50
+
+3.0
+
+18
+Indirect taxes
+
+16
+40
+
+Banking sector
+commission income
+Asset taxes (right scale)
+
+14
+
+2.5
+2.0
+
+12
+30
+10
+
+1.5
+8
+
+20
+
+1.0
+
+6
+10
+
+General government revenues
+Banking sector gross income
+
+0
+
+4
+
+0.5
+2
+
+0.0
+
+0
+1977 1980 1983 1986 1989 1992 1995 2002 2005
+
+1977 1980 1983 1986 1989 1992 1995 2002 2005
+
+However, delays in banks' corporate income tax
+payments tend to obscure the correlation with overall
+corporate income tax revenues.
+
+Personal income taxes are increasingly correlated with
+banking sector salaries.
+
+12
+
+12
+Total corporate income taxes
+
+10
+
+10
+
+8
+
+8
+
+6
+
+6
+
+4
+
+Personal income taxes
+Banking sector salaries
+
+2
+
+Banking sector corporate income taxes
+
+4
+
+2
+
+0
+
+0
+1977 1980 1983 1986 1989 1992 1995 2002 2005
+
+1977 1980 1983 1986 1989 1992 1995 2002 2005
+
+Source: Luxembourg authorities; and IMF staff estimates.
+
+24
+Figure 4. Luxembourg: Benefit Replacement Rates 1/
+(In percent)
+Replacement rates of welfare benefits are relatively high...
+90
+85
+80
+
+Replacement Rates of Welfare Benefits
+(Average of net replacement rates over 60 months of unemployment)
+
+75
+
+Luxembourg
+
+70
+
+OECD
+
+81
+
+73
+64
+
+65
+60
+
+58
+52
+
+55
+50
+
+44
+
+45
+40
+
+Single person no children
+
+Married couple w child
+
+...especially for unemployment benefits...
+
+110
+100
+
+Married couple w/o child
+
+Replacement Rates of Unemployment Benefits
+(Net replacement rates: initial phase of unemployment)
+
+94
+
+90
+
+93
+84
+
+84
+
+85
+
+76
+
+80
+70
+60
+50
+40
+2/3 Average earnings
+
+80
+
+1.5 Times average earnings
+
+...and pensions.
+
+120
+100
+
+Average earnings
+
+100
+88
+
+Gross Replacement Rates of Pensions
+(Gross replacement rates by earnings)
+83
+
+73
+59
+
+60
+
+49
+
+40
+20
+0
+Half average earnings
+
+Average earner
+
+Double average earnings
+
+Sources: OECD, Benefits and Wages; and Pensions at a Glance: Public policies across OECD countries 2007.
+1/ (Gross) replacement rate computed as the percentage of (gross) income support provided relative to most recent
+(gross) income from employment.
+
+25
+Table 1. Luxembourg: Basic Data, 2003-10
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+Est.
+
+2009
+
+2010
+
+Projections
+
+Volume changes, in percent
+Supply and demand
+Gross domestic product
+Total domestic demand
+Private consumption
+Public consumption
+Gross investment
+Gross fixed investment
+Inventory accumulation 1/
+Foreign balance 1/
+Exports of goods and nonfactor services
+Imports of goods and nonfactor services
+
+1.5
+0.5
+-5.3
+4.1
+8.8
+6.3
+0.5
+1.2
+6.8
+6.9
+
+4.5
+3.3
+2.7
+4.6
+3.2
+0.8
+0.5
+1.7
+11.2
+11.8
+
+5.2
+5.0
+1.9
+3.4
+11.2
+3.4
+1.4
+1.4
+6.0
+6.0
+
+6.4
+1.4
+2.9
+2.7
+-1.5
+1.0
+-0.3
+5.0
+14.6
+13.4
+
+5.2
+3.8
+2.1
+2.6
+7.2
+11.8
+-0.7
+2.5
+4.4
+3.5
+
+-0.9
+1.6
+1.8
+1.3
+1.6
+1.7
+-0.1
+-2.1
+0.3
+1.7
+
+-5.3
+-1.5
+-2.7
+5.7
+-4.1
+0.4
+-0.9
+-3.8
+-7.5
+-6.3
+
+-0.3
+0.4
+-0.5
+2.9
+-0.1
+-1.5
+0.4
+-0.6
+-0.9
+-0.7
+
+220.6
+8.8
+4.0
+211.8
+2.3
+136.9
+348.7
+4.7
+
+224.0
+15.4
+6.9
+208.6
+-1.5
+132.8
+341.4
+-2.1
+
+227.3
+12.8
+5.6
+214.5
+2.8
+133.1
+347.6
+1.8
+
+2.0
+2.7
+2.3
+4.3
+1.8
+
+1.6
+4.1
+3.4
+1.5
+5.7
+
+-0.2
+-0.4
+0.2
+1.9
+5.6
+
+1.8
+1.8
+1.8
+0.0
+0.3
+
+In thousands, unless otherwise noted
+Employment and unemployment
+Resident labor force
+Unemployed
+(As a percent of total labor force)
+Resident employment
+(change in percent)
+Cross-border workers (net)
+Total employment
+(Change in percent)
+
+201.3
+7.0
+3.5
+194.3
+1.0
+97.6
+292.6
+1.8
+
+204.3
+8.0
+3.9
+196.3
+1.0
+102.2
+299.1
+2.2
+
+207.7
+8.9
+4.3
+198.7
+1.2
+108.6
+307.8
+2.9
+
+212.7
+9.5
+4.5
+203.2
+2.3
+115.9
+319.0
+3.6
+
+216.8
+9.6
+4.4
+207.1
+1.9
+125.4
+333.2
+4.5
+
+Annual changes, in percent
+Prices and costs
+GDP deflator
+CPI (harmonized), p.a.
+CPI (national definition), p.a.
+
+Average nominal wage growth 2/
+Nominal unit labor costs 2/
+
+6.0
+2.5
+2.0
+1.1
+-4.3
+
+1.9
+3.2
+2.2
+3.7
+-0.3
+
+4.5
+3.8
+2.5
+3.7
+-2.7
+
+5.4
+3.0
+2.7
+3.1
+-4.5
+In percent of GDP
+
+Public finances
+General government revenues
+General government expenditures
+General government balance
+General government net debt
+General government gross debt
+
+42.2
+41.8
+0.5
+-52.1
+6.2
+
+41.4
+42.5
+-1.1
+-49.4
+6.4
+
+41.6
+41.6
+0.0
+-45.6
+6.1
+
+39.9
+38.6
+1.4
+-44.7
+6.7
+
+40.8
+37.2
+3.6
+-48.8
+6.9
+
+43.3
+40.7
+2.6
+-43.6
+14.8
+
+43.5
+46.8
+-3.3
+-42.8
+18.9
+
+44.4
+48.4
+-4.0
+-38.1
+22.6
+
+Current account
+Current account balance
+Balance of trade in goods and services
+Factor income balance
+Transfer balance
+
+8.1
+23.9
+-13.6
+-2.1
+
+11.8
+27.6
+-12.7
+-3.1
+
+11.0
+32.0
+-17.9
+-3.1
+
+10.4
+38.4
+-24.8
+-3.1
+
+9.8
+45.9
+-31.4
+-4.7
+
+5.5
+41.1
+-30.1
+-5.5
+
+5.1
+37.4
+-27.1
+-5.2
+
+5.7
+36.7
+-26.2
+-4.9
+
+Period average
+Exchange rates
+U.S. dollar per euro
+percent change
+Nominal effective rate (2000=100)
+percent change
+Real effective rate (CPI based; 2000=100)
+percent change
+Interest rates
+Short term 3/
+Long-term government bond yield 4/
+
+1.13
+19.7
+105.7
+3.4
+107.0
+3.8
+
+1.24
+9.9
+106.5
+0.8
+107.8
+0.7
+
+1.25
+0.2
+104.9
+-1.5
+106.7
+-1.1
+
+1.26
+0.8
+106.3
+1.3
+108.6
+1.8
+
+1.37
+9.2
+108.2
+1.8
+110.9
+2.1
+
+1.47
+7.3
+107.9
+-0.2
+110.3
+-0.5
+
+…
+…
+
+…
+…
+
+…
+
+…
+
+…
+
+…
+
+2.3
+3.3
+
+2.0
+2.8
+
+2.1
+2.4
+
+2.8
+3.3
+
+3.8
+4.2
+
+3.9
+...
+
+...
+...
+
+...
+...
+
+Memorandum items: Land area = 2,586 square kilometers; population in 2008 = 488 thousand; GDP per capita = €75,066.
+Sources: Data provided by the authorities; IMF, WEO database; and IMF staff calculations.
+1/ Contribution to GDP growth.
+2/ Overall economy.
+3/ Average annual deposit rate for nonfinancial corporations with maturity up to one year.
+4/ The yield refers to OLUX-4 series.
+
+26
+Table 2. Luxembourg: External Current Account, 2004-14
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+Projections
+
+(Billions of euro)
+Current account
+
+3.3
+
+3.3
+
+3.5
+
+3.6
+
+2.0
+
+1.8
+
+2.0
+
+2.2
+
+2.3
+
+2.5
+
+2.7
+
+7.6
+38.2
+30.6
+
+9.7
+44.6
+34.9
+
+13.0
+53.6
+40.6
+
+16.7
+61.3
+44.6
+
+15.1
+61.6
+46.5
+
+13.0
+54.6
+41.6
+
+12.9
+54.9
+42.0
+
+13.3
+57.0
+43.7
+
+13.7
+59.3
+45.6
+
+14.2
+62.1
+47.9
+
+14.7
+65.0
+50.3
+
+Balance on goods
+Goods exports
+Goods imports
+
+-2.9
+10.9
+13.7
+
+-3.4
+11.7
+15.1
+
+-3.5
+13.0
+16.5
+
+-3.5
+13.3
+16.8
+
+-4.3
+14.6
+18.9
+
+-4.3
+12.6
+16.9
+
+-4.3
+12.9
+17.2
+
+-4.6
+13.4
+18.0
+
+-5.0
+14.0
+19.0
+
+-5.5
+14.6
+20.1
+
+-6.0
+15.2
+21.2
+
+Balance on services
+Service exports
+Service imports
+
+10.5
+27.3
+16.8
+
+13.1
+32.9
+19.8
+
+16.5
+40.5
+24.0
+
+20.2
+48.0
+27.8
+
+19.4
+47.0
+27.7
+
+17.2
+41.9
+24.7
+
+17.2
+42.0
+24.8
+
+17.9
+43.6
+25.7
+
+18.8
+45.4
+26.6
+
+19.7
+47.5
+27.8
+
+20.6
+49.8
+29.1
+
+Net factor income
+
+-3.5
+
+-5.4
+
+-8.4
+
+-11.4
+
+-11.0
+
+-9.4
+
+-9.2
+
+-9.4
+
+-9.6
+
+-9.8
+
+-10.0
+
+Balance on current transfers
+
+-0.9
+
+-0.9
+
+-1.0
+
+-1.7
+
+-2.0
+
+-1.8
+
+-1.7
+
+-1.8
+
+-1.8
+
+-1.9
+
+-2.0
+
+Balance on goods and services
+Export of goods and services
+Import of goods and services
+
+(Percent of GDP)
+Current account
+
+11.8
+
+11.0
+
+10.4
+
+9.8
+
+5.5
+
+5.1
+
+5.7
+
+6.0
+
+6.1
+
+6.2
+
+6.4
+
+27.6
+138.8
+111.1
+
+32.0
+147.5
+115.6
+
+38.4
+157.9
+119.5
+
+45.9
+168.4
+122.5
+
+41.1
+167.9
+126.9
+
+37.4
+157.4
+120.0
+
+36.7
+155.9
+119.1
+
+36.6
+156.4
+119.8
+
+36.2
+156.2
+120.0
+
+35.8
+156.8
+121.0
+
+35.4
+157.0
+121.6
+
+Goods
+Goods exports
+Goods imports
+
+-10.4
+39.5
+49.9
+
+-11.2
+38.8
+50.0
+
+-10.2
+38.4
+48.7
+
+-9.6
+36.6
+46.2
+
+-11.7
+39.7
+51.4
+
+-12.3
+36.5
+48.7
+
+-12.1
+36.7
+48.8
+
+-12.5
+36.8
+49.3
+
+-13.2
+36.8
+50.0
+
+-13.9
+36.8
+50.7
+
+-14.5
+36.8
+51.3
+
+Services
+Service exports
+Service imports
+
+38.0
+99.2
+61.2
+
+43.2
+108.7
+65.5
+
+48.6
+119.5
+70.9
+
+55.5
+131.8
+76.3
+
+52.8
+128.3
+75.4
+
+49.7
+120.9
+71.3
+
+48.8
+119.2
+70.4
+
+49.1
+119.6
+70.5
+
+49.4
+119.4
+70.0
+
+49.7
+120.0
+70.2
+
+49.9
+120.3
+70.3
+
+-12.7
+
+-17.9
+
+-24.8
+
+-31.4
+
+-30.1
+
+-27.1
+
+-26.2
+
+-25.7
+
+-25.2
+
+-24.7
+
+-24.1
+
+-3.1
+
+-3.1
+
+-3.1
+
+-4.7
+
+-5.5
+
+-5.2
+
+-4.9
+
+-4.9
+
+-4.9
+
+-4.9
+
+-4.9
+
+Balance on goods and services
+Export of goods and services
+Import of goods and services
+
+Net factor income
+Balance on current transfers
+
+Source: Statec and IMF staff projections.
+
+27
+Table 3. Luxembourg: Financial Soundness Indicators of the Banking System, 2002-08 1/
+(Percent, weighted period average unless otherwise indicated)
+
+Capital adequacy
+Bank regulatory capital to risk-weighted assets
+Bank capital to assets
+Tier 1 regulatory capital ratio
+Asset quality
+Net new value adjustments to own funds
+Value adjustments on credit to total gross credit
+Non-performing large exposures to total large exposures 3/
+Real credit growth 4/
+Non-financial corporate sector
+Luxembourg households
+Liquidity
+Liquidity ratio
+Coefficient of maturity transformation 5/
+Market risks
+Total gross exposure in financial derivatives to own funds
+Interest rate operations to own funds
+Exchange rate operations to own funds
+Other operations to own funds 6/
+Net foreign currency position to own funds
+CHF positive net position
+negative net position
+GBP positive net position
+negative net position
+JPY positive net position 7/
+negative net position
+USD positive net position
+negative net position
+Asset composition
+Overall exposure to the corporate sector in total exposures
+Financial corporations
+Nonfinancial corporations
+of which: to the corporate sector
+Exposure to Luxembourg households in total exposures
+Share of mortgage lending in total lending to the private secto
+Large exposures to total exposures 3/
+Profitability and Earnings Structure
+Return on assets
+Income before provisions and taxes to total assets
+Net after-tax income to total assets
+Return on equity (Net after-tax income to regulatory capital)
+Share in gross income
+Net interest income
+Commissions and fees
+Results on financial operations
+Operating costs to gross income
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2007 2/
+
+2008
+Sept.
+
+15.0
+5.5
+13.1
+
+17.1
+5.8
+14.4
+
+17.5
+5.5
+14.7
+
+16.3
+5.3
+14.1
+
+14.9
+5.0
+13.6
+
+13.9
+4.6
+13.0
+
+13.5
+na
+12.3
+
+15.4
+4.5
+na
+
+5.1
+0.4
+0.4
+
+2.1
+0.3
+0.5
+
+2.7
+0.3
+0.3
+
+0.8
+0.2
+0.2
+
+-7.9
+9.1
+
+-11.2
+19.5
+
+-6.6
+10.5
+
+5.8
+11.6
+
+na
+na
+na
+na
+na
+na
+
+67.0
+2.7
+
+66.0
+2.5
+
+65.0
+2.5
+
+...
+0.1
+0.2
+...
+16.8
+19.6
+...
+63.3
+2.4
+
+na
+0.1
+0.2
+na
+20.5
+18.8
+
+66.0
+2.7
+
+...
+0.1
+0.2
+...
+18.6
+13.0
+...
+63.0
+2.4
+
+61.0
+1.8
+
+na
+na
+
+3,302
+2,127
+860
+315
+
+2,815
+2,083
+686
+45
+
+2,986
+2,216
+724
+47
+
+2,745
+1,913
+781
+52
+
+3,152
+2,108
+952
+83
+
+2,903
+1,766
+989
+148
+
+2,760
+1,622
+999
+138
+
+na
+na
+na
+na
+
+1.9
+-2.8
+0.8
+-1.4
+0.5
+-2.2
+3.3
+-4.2
+
+0.6
+-3.2
+1.2
+-0.8
+7.6
+-4.2
+3.3
+-2.9
+
+0.8
+-7.1
+1.5
+-1.2
+7.4
+-1.9
+1.4
+-2.8
+
+1.5
+-8.5
+1.2
+-0.8
+0.9
+-1.4
+1.6
+-3.8
+
+1.5
+-4.5
+1.0
+-0.9
+0.6
+-1.3
+5.5
+-5.1
+
+2.3
+-1.3
+0.9
+-0.8
+0.4
+-0.2
+2.3
+-8.3
+
+2.4
+-1.2
+0.7
+-0.9
+0.1
+-0.1
+5.9
+-0.7
+
+na
+na
+na
+na
+na
+na
+na
+na
+
+83.3
+70.0
+13.3
+65.0
+1.3
+17.8
+94.1
+
+83.6
+71.0
+12.6
+66.7
+1.5
+19.6
+93.2
+
+82.3
+70.8
+11.5
+64.7
+1.6
+15.6
+93.1
+
+82.3
+71.2
+11.1
+65.6
+1.6
+19.2
+94.1
+
+83.8
+71.6
+12.2
+68.9
+1.7
+17.7
+94.4
+
+85.6
+71.9
+13.7
+75.0
+1.8
+17.5
+91.9
+
+86.6
+72.4
+14.3
+78.1
+1.9
+17.6
+86.5
+
+na
+na
+na
+na
+na
+na
+na
+
+1.3
+0.7
+0.4
+9.0
+
+1.3
+0.6
+0.5
+8.9
+
+1.3
+0.7
+0.5
+9.9
+
+1.2
+0.7
+0.5
+10.5
+
+1.5
+0.9
+0.8
+16.5
+
+...
+0.8
+...
+15.1
+
+1.4
+na
+0.7
+na
+
+na
+0.7
+na
+8.0
+
+58.4
+38.0
+3.6
+41.7
+
+57.2
+36.3
+6.5
+41.2
+
+53.1
+38.8
+8.2
+43.1
+
+48.4
+42.9
+8.7
+42.3
+
+50.6
+41.8
+7.6
+36.6
+
+...
+...
+...
+...
+
+57.3
+40.9
+1.8
+39.0
+
+na
+na
+na
+na
+
+Sources: Banque Centrale du Luxembourg.
+1/ All banks operating on the basis of Luxembourg law, excluding branches of foreign banks.
+2/ End of period data.
+3/ Large exposures are defined as exposures above 6.2 million euros or 10 percent of banks' own funds.
+4/ All banks including branches of foreign banks.
+5/ A coefficient above 1 means that banks' assets have a longer average duration than liabilities.
+6/ Variation in 2003 compared to 2002 due to a transfer of activities from a subsidiary to a branch within the same group.
+7/ Increase in 2003 and 2004 compared to 2002 mainly due to a significant position of a bank at 31/12/2003.
+
+28
+Table 4. Luxembourg: General Government Operations 2006-10
+(Percent of GDP)
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+Est.
+
+Projections
+
+Revenue
+Current revenue
+Tax revenue
+Indirect taxes
+Direct taxes
+Social security contributions
+Other current revenue
+Capital revenue
+
+39.9
+39.7
+25.6
+12.5
+13.0
+10.8
+3.4
+0.2
+
+40.8
+40.6
+26.1
+12.6
+13.4
+11.0
+3.6
+0.2
+
+43.3
+43.0
+27.2
+12.8
+14.4
+11.7
+4.1
+0.3
+
+43.5
+43.3
+26.7
+12.8
+14.0
+12.3
+4.3
+0.2
+
+44.4
+44.2
+27.5
+13.5
+14.0
+12.4
+4.4
+0.2
+
+Expenditure
+Current expenditure
+Wages and salaries
+Goods and services
+Social transfers in kind
+Social transfers and pensions
+Subsidies
+Interest payments
+Other current expenditure
+Capital expenditure
+
+38.6
+33.3
+7.4
+3.0
+4.8
+13.5
+1.5
+0.2
+2.8
+5.3
+
+37.2
+32.6
+7.3
+3.1
+4.8
+13.1
+1.5
+0.2
+2.6
+4.7
+
+40.7
+35.5
+7.9
+3.4
+5.0
+14.4
+1.6
+0.3
+2.9
+5.2
+
+46.8
+40.7
+8.6
+3.8
+5.6
+17.1
+1.8
+0.4
+3.3
+6.1
+
+48.4
+41.0
+9.0
+3.8
+5.9
+16.4
+1.7
+0.5
+3.6
+7.5
+
+1.4
+
+3.6
+
+2.6
+
+-3.3
+
+-4.0
+
+Overall balance
+
+Source: Statec; and IMF staff estimates.
+
+INTERNATIONAL MONETARY FUND
+LUXEMBOURG
+Staff Report for the 2009 Article IV Consultation—Informational Annex
+Prepared by European Department
+May 8, 2009
+
+Contents
+I.
+II.
+
+Page
+
+Fund Relations ...............................................................................................................2
+Statistical Issues .............................................................................................................4
+
+2
+ANNEX I. LUXEMBOURG: FUND RELATIONS
+(As of March 31, 2009)
+•
+
+Mission: March 19-31, 2009. The concluding statement of the mission is available at
+http://www.imf.org/external/np/ms/2009/033009.htm.
+
+•
+
+Staff team: Messrs. Odenius (Head), Daal, Oestreicher (all EUR), and Ms. Elliott
+(MCM).
+
+•
+
+Country interlocutors included: Prime Minister Jean-Claude Juncker, Mr. Jeannot
+Krecké, Minister of the Economy and Foreign Trade; Mr. Mars Di Bartolomeo,
+Minister of Health and Social Security; Mr. François Biltgen, Minister of Labor and
+Employment; Mr. Yves Mersch, Governor, Central Bank of Luxembourg; Dr. Serge
+Allegrezza, Director, Statec, Mr. Jean Guill, Director of Treasury, Ministry of
+Finance, and Mr. Claude Simon, General Supervisor, Financial Sector Supervisory
+Commission. Mr. Johann Prader, IMF Alternate Executive Director also participated
+in the discussions. Outreach activities included meetings with parliament’s crisis
+committee, members of parliament, and a press conference.
+
+•
+
+Fund relations: The previous Article IV consultation took place on April 26, 2006
+(IMF Country Report No.06/164). The staff report and associated Executive Board’s
+assessment are available at http://www.imf.org/external/pubs/ft/scr/2006/cr06164.pdf.
+
+•
+
+Data: Luxembourg subscribes to the Fund’s Special Data Dissemination
+Standard, and data provision is adequate for surveillance (Annex II).
+
+I.
+
+Membership Status: Joined: December 27, 1945; Article VIII
+
+II.
+
+General Resources Account:
+Quota
+Fund Holdings of Currency
+Reserve position in Fund
+
+SDR Million
+279.10
+243.04
+36.10
+
+Percent Quota
+100.00
+87.08
+12.93
+
+III.
+
+SDR Department:
+Net Cumulative Allocation
+Holdings
+
+SDR Million
+16.96
+13.46
+
+Percent Allocation
+100.00
+79.40
+
+IV.
+
+Outstanding Purchases and Loans: None
+
+V.
+
+Financial Arrangements: None
+
+3
+VI.
+
+Projected Payments to the Fund (SDR million; based on existing use of
+resources and present holdings of SDRs):
+Forthcoming
+2009
+2010
+2011
+2012
+
+2013
+
+Principal
+Charges/Interest
+Total
+
+0.00
+0.02
+0.02
+
+0.00
+0.01
+0.01
+
+0.00
+0.02
+0.02
+
+0.00
+0.02
+0.02
+
+0.00
+0.02
+0.02
+
+VII. Exchange Rate Arrangement:
+Luxembourg’s currency is the euro, which floats freely and independently against other
+currencies. Luxembourg has accepted the obligations of Article VIII, Sections 2, 3, and 4,
+and maintains an exchange system free of restrictions on payments and transfers for current
+international transactions, other than restrictions notified to the Fund under Decision
+No. 144 (52/51).
+
+4
+
+ANNEX II. LUXEMBOURG: STATISTICAL ISSUES
+(As of April 21, 2009 )
+I. Assessment of Data Adequacy for Surveillance
+General: Data provision is adequate for surveillance. The Central Service for Statistics and
+Economic Studies (Statec) regularly publishes a full range of economic and financial data
+and provides an advance release calendar for main statistical releases at:
+http://www.statistiques.public.lu/fr/calendrier/index.html.
+On-line access to Statec’s databases and those of other jurisdictions is available to all users
+simultaneously at the time of release through the Statistics Portal of Luxembourg.
+Key publicly accessible websites for macroeconomic data and analysis are:
+Statistics Portal of Luxembourg...........http://www.statistiques.public.lu/fr/
+Statec....................................................http://www.statec.public.lu/fr/index.html
+Central Bank of Luxembourg..............http://www.bcl.lu/en/index.php
+Ministry of Finance..............................http://www.mf.public.lu/
+
+National Accounts: Luxembourg avails itself of the SDDS special flexibility for the
+timeliness of the national accounts, and generally disseminates national accounts data not
+later than four months after the reference period (the SDDS timeliness requirement for the
+national accounts is three months). Reduction of the reporting lag would aid surveillance.
+II. Data Standards and Quality
+Subscriber to the Fund’s Special Data
+Dissemination Standard (SDDS) since May
+12, 2006. Uses SDDS flexibility options on
+the timeliness of national accounts and
+analytical accounts of the central bank.
+
+No data ROSC is available.
+
+5
+LUXEMBOURG: TABLE OF COMMON INDICATORS REQUIRED FOR SURVEILLANCE
+(As of April 21, 2009 )
+Date of
+Latest
+Observation
+
+Date
+Received
+
+Frequency
+of
+Data7
+
+Frequency
+of
+Reporting7
+
+Frequency
+of
+Publication7
+
+04/21/09
+
+04/21/09
+
+D
+
+D
+
+D
+
+International Reserve Assets and
+Reserve Liabilities of the Monetary
+Authorities1
+
+February 09
+
+03/30/09
+
+M
+
+M
+
+M
+
+Reserve/Base Money
+
+February 09
+
+03/30/09
+
+M
+
+M
+
+M
+
+Broad Money
+
+February 09
+
+03/30/09
+
+M
+
+M
+
+M
+
+Central Bank Balance Sheet
+
+February 09
+
+03/30/09
+
+M
+
+M
+
+M
+
+Consolidated Balance Sheet of the
+Banking System
+
+February 09
+
+03/30/09
+
+M
+
+M
+
+M
+
+Interest Rates2
+
+04/21/09
+
+04/21/09
+
+D
+
+D
+
+D
+
+Consumer Price Index
+
+March 09
+
+04/08/09
+
+M
+
+M
+
+M
+
+Revenue, Expenditure, Balance and
+Composition of Financing3 – General
+Government4
+
+2008
+
+2008
+
+A
+
+A
+
+A
+
+Revenue, Expenditure, Balance and
+Composition of Financing3– Central
+Government
+
+2008 Q4
+
+04/01/09
+
+Q
+
+Q
+
+Q
+
+Stocks of Central Government and
+Central Government-Guaranteed Debt5
+
+2008 Q4
+
+04/01/09
+
+Q
+
+Q
+
+Q
+
+External Current Account Balance
+
+2008 Q4
+
+04/30/09
+
+Q
+
+Q
+
+Q
+
+Exports and Imports of Goods and
+Services
+
+January 2009
+
+04/02/09
+
+M
+
+M
+
+M
+
+GDP/GNP
+
+2008 Q4
+
+04/09/09
+
+Q
+
+Q
+
+Q
+
+Gross External Debt
+
+2008 Q4
+
+03/30/09
+
+Q
+
+Q
+
+Q
+
+International Investment Position6
+
+2008 Q4
+
+03/30/09
+
+Q
+
+Q
+
+Q
+
+Exchange Rates
+
+1
+
+Including reserve assets that are pledged or otherwise encumbered.
+Both market-based and officially-determined, including discount rates, money market rates, rates on treasury
+bills, notes and bonds.
+3
+Foreign, domestic bank, and domestic nonbank financing.
+4
+The general government consists of the central government (budgetary funds, extra budgetary funds, and social
+security funds) and state and local governments.
+5
+Including currency and maturity composition.
+6
+Includes external gross financial asset and liability positions vis-à-vis nonresidents.
+7
+Daily (D); weekly (W); monthly (M); quarterly (Q); annually (A); irregular (I); and not available (NA).
+2
+
+Public Information Notice (PIN) No. 09/71
+FOR IMMEDIATE RELEASE
+June 3, 2009
+
+International Monetary Fund
+700 19th Street, NW
+Washington, D. C. 20431 USA
+
+IMF Executive Board Concludes 2009 Article IV Consultation with
+Luxembourg
+On May 22, 2009 the Executive Board of the International Monetary Fund (IMF) concluded
+the Article IV consultation with Luxembourg. 1
+Background
+Ongoing financial turmoil and global recession pose daunting challenges to Luxembourg’s
+small open economy. The financial sector—hosting a large number of foreign-owned
+subsidiary banks, Europe’s largest investment fund industry and second largest money
+market industry—is fully exposed to the turmoil. Besides financial service exports, the
+contraction in European demand is also weighing heavily on the economy’s other export
+sectors. GDP declined by almost 1 percent in 2008, while reduced demand pressures and
+the easing of commodity import prices sharply reduced inflation.
+The recession is expected to deepen this year, despite some cushioning from substantial
+and well-designed fiscal stimulus. Real GDP growth is forecast to decline by another 5¼
+percent, amid a further contraction in the financial sector and continued weakness in
+external demand. Meanwhile, the contraction in output, the full functioning of the automatic
+stabilizers, combined with fiscal stimulus measures are projected to result in a budget
+deficit this year marginally in excess of the Maastricht ceiling. Nevertheless, the increase in
+the near-term financing requirement is not expected to call into question fiscal
+
+1
+
+Under Article IV of the IMF's Articles of Agreement, the IMF holds bilateral discussions with
+members, usually every year. A staff team visits the country, collects economic and financial
+information, and discusses with officials the country's economic developments and policies. On
+return to headquarters, the staff prepares a report, which forms the basis for discussion by the
+Executive Board. At the conclusion of the discussion, the Managing Director, as Chairman of
+the Board, summarizes the views of Executive Directors, and this summary is transmitted to
+the country's authorities.
+
+2
+sustainability, given low public sector indebtedness. Price pressures should remain
+subdued throughout the year.
+In the current environment, the large size of the financial sector, dominant foreign
+ownership, and close integration of local subsidiaries with their mostly European parent
+groups have implications for financial stability. High intra-group exposures and overreliance on wholesale funding create liquidity risks that would materialize if the health of
+the European banking sector were to deteriorate. Banks’ capital—though still
+comfortable—is thinning, while leverage remains relatively high. At the same time, there
+are systemic risks emanating from Luxembourg to the euro area, as a result of the large
+volume of money market and other short-term financing provided by the financial center to
+the European banking sector.
+Executive Board Assessment
+While Luxembourg’s economy has outperformed most of the euro area in the recent past, it
+is now heavily exposed to the global crisis given its large, internationally-integrated
+financial sector and strong reliance on exports. With weakening activity in the financial
+system and falling export demand, output is expected to decline in excess of the euro area
+average in 2009, and changes to the global and European financial architecture could
+lower potential growth over the longer term.
+Executive Directors emphasized that maintaining financial stability is a precondition for
+continued economic success, and welcomed the authorities’ efforts to ensure the
+soundness of the financial sector. They supported the recent successful interventions in
+the banking sector, including the rescue of two major banks, and the initiative to improve
+banks’ liquidity management. Strong cooperation between the central bank and the
+regulator will be vital for success.
+Many Directors stressed the importance of further enhancing crisis preparedness. In
+light of the large size of the financial sector and its systemic importance, they suggested a
+multilateral and cooperative approach. This would require the resolution of home-host
+country banking issues, including through a proactive pursuit of burden-sharing
+arrangements, that should also cover the large money market fund industry as well. In this
+context, the need for a liquidity facility could be explored. A number of other Directors
+were, however, of the view that current arrangements in the European Union provide an
+adequate framework for cross-border cooperation on crisis management and resolution of
+financial stability issues.
+Directors supported the authorities’ proposed regulatory and supervisory actions to
+improve financial stability by strengthening the resilience of individual institutions, and
+welcomed the authorities’ request for an Financial Sector Assessment Program update.
+While noting that system-wide capital levels appear adequate, they called for a further
+strengthening of the regulatory regime, a tightening of capital requirements, and the
+introduction of binding limits on leverage. However, Directors cautioned that such
+measures need to be phased in carefully and coordinated internationally, especially at the
+level of the European Union. Looking ahead, Directors noted that the financial sector will
+need to adjust to the new financial architecture that emerges in the aftermath of the crisis.
+
+3
+In this context, they welcomed the authorities’ ongoing efforts to streamline the financial
+services industry as well as to diversify the services sector.
+Directors noted that Luxembourg’s public finances are well positioned to weather the
+recession. They considered the size and scope of the authorities’ fiscal stimulus package
+to be appropriate, and supported their intention to allow the automatic stabilizers to
+function fully. Despite recent bank rescue efforts, the public debt stock remains low by
+international standards and provides ample scope to finance budgetary pressures over the
+near term. At the same time, Directors welcomed the authorities’ recognition of the need,
+once recovery begins, for strong efforts to enhance medium- term fiscal sustainability, as
+expenditures are rising and the evolution of medium-term fiscal revenues is uncertain.
+Directors therefore advised the authorities to reconsider the planned return to full
+indexation of wages and social benefits in 2010, as this could exacerbate budgetary
+pressures, and also hamper efforts to improve competitiveness. Directors also stressed
+that far-reaching reforms of the public, pay-as-you-go pension system remain overdue, and
+should be pursed with priority, given that substantial funding gaps continue to threaten its
+long-term viability.
+
+Public Information Notices (PINs) form part of the IMF's efforts to promote transparency of the IMF's
+views and analysis of economic developments and policies. With the consent of the country
+(or countries) concerned, PINs are issued after Executive Board discussions of Article IV consultations
+with member countries, of its surveillance of developments at the regional level, of post-program
+monitoring, and of ex post assessments of member countries with longer-term program engagements.
+PINs are also issued after Executive Board discussions of general policy matters, unless otherwise
+decided by the Executive Board in a particular case.
+
+4
+Luxembourg: Selected Economic Indicators, 2005-09
+2005
+Real economy
+Real GDP
+Unemployment (as a percent of total labor force)
+Resident employment
+Total employment
+CPI (harmonized), p.a.
+Gross fixed investment (in percent of GDP)
+
+2006
+
+2008
+
+2009 1/
+Proj.
+
+(Change in percent, unless otherwise indicated)
+5.2
+4.3
+
+6.4
+4.5
+
+5.2
+4.4
+
+-0.9
+4.0
+
+-5.3
+6.9
+
+198.7
+307.8
+3.8
+3.4
+
+203.2
+319.0
+3.0
+1.0
+
+207.1
+333.2
+2.7
+11.8
+
+211.8
+348.7
+4.1
+1.7
+
+208.6
+341.4
+-0.4
+0.4
+
+Public finances
+General government revenues
+General government expenditures
+General government balance
+General government gross debt
+
+2007
+
+(Percent of GDP)
+41.6
+41.6
+0.0
+6.1
+
+39.9
+38.6
+1.4
+6.7
+
+40.8
+37.2
+3.6
+6.9
+
+43.3
+40.7
+2.6
+14.8
+
+43.5
+46.8
+-3.3
+18.9
+
+11.0
+32.0
+-17.9
+-3.1
+
+10.4
+38.4
+-24.8
+-3.1
+
+9.8
+45.9
+-31.4
+-4.7
+
+5.5
+41.1
+-30.1
+-5.5
+
+5.1
+37.4
+-27.1
+-5.2
+
+Balance of payments
+Current account balance
+Balance of trade in goods and services
+Factor income balance
+Transfer balance
+Exchange rates
+Exchange rate regime
+U.S. dollar per euro
+Nominal effective rate (2000=100)
+Real effective rate (CPI based; 2000=100)
+
+Member of the euro area
+1.25
+104.9
+106.7
+
+1.26
+106.3
+108.6
+
+Sources: Data provided by the authorities; and IMF staff calculations and projections.
+1/ Staff projections, if not otherwise indicated.
+
+1.37
+108.2
+110.9
+
+1.47
+107.9
+110.3
+
+…
+
+Statement by Johann Prader, Alternate Executive Director for Luxembourg
+and Dirk Mevis, Advisor to Executive Director
+May 22, 2009
+On behalf of the Luxembourg authorities, we thank the staff for the constructive and
+fruitful discussions during the 2009 Article IV consultation mission to Luxembourg. The
+current global environment is challenging for many countries. Luxembourg is no
+exception. It is particularly vulnerable because of its large financial sector and strong
+reliance on exports.
+The Luxembourg economy is relatively well-prepared to confront the current downturn.
+The general government budget recorded surpluses in 2005—2008 and the central
+government and social security have accumulated sizeable reserves. In 2008, at 14.7
+percent of GDP, public debt remains low by international standards. Consequently, there
+is fiscal space to support the economy in this challenging environment.
+At the current juncture, the authorities are focusing their efforts on ensuring the
+soundness of the financial sector, and launching important infrastructure projects so as to
+mitigate the adverse effects of the downturn on economic activity and employment.
+Economic developments and outlook
+According to the latest estimates and forecasts published on May 18, Luxembourg
+experienced negative GDP growth in 2008 (-0.9 percent). In 2009, GDP is expected to
+contract by 4 percent. For 2010, the Luxembourg statistical office (Statec) projects a
+moderate resumption of economic growth (1.0 percent). However, risks to this outlook
+remain skewed to the downside.
+In 2008, employment growth held strong at 4.7 percent and even in 2009, it is expected to
+remain positive at 1 percent. This may be related to effects of labor hoarding by firms due
+to a scarcity of skilled labor in Luxembourg. Nevertheless, the openness of the
+Luxembourg economy as evidenced by gross exports, which account for 180 percent of
+GDP, leaves the country vulnerable to a drop in trade in goods and services. While
+domestic demand is still strong, the sectors that are focused on exports suffer
+considerably. This affects mainly the manufacturing and services sectors, including the
+steel industry, automotive supplies, the plastic industry and metal construction. The
+construction sector is somewhat sheltered by the infrastructure projects that the
+government has implemented in the context of its stimulus package.
+In order to counter these effects and help firms overcome the downturn while maintaining
+their human capital, the government has expanded and relaxed the partial unemployment
+
+2
+scheme. Under this scheme, the government subsidizes wages for enterprises which
+temporarily reduce their activity level. While in “normal” times, before the downturn, an
+average of three firms was participating in the scheme at a given point in time, in March
+2009 participation had risen to 114 firms, covering about 9000 workers. The government
+is considering to expand this scheme further.
+The financial sector in Luxembourg is dominated by foreign-owned banks of which a
+large number are subsidiaries. The banking sector has done fairly well during most of
+2008, as interest income rose because of high credit spreads. The balance sheets of banks
+peaked in October 2008 and by March 2009 it had declined by roughly 5 percent.
+However, most of the decline in activity has taken place in off-balance sheet activities
+consisting mostly of guarantees and other commitments.
+Nevertheless, besides the two large banks, Fortis and Dexia, where events in the group
+forced the government – in close coordination with the authorities in the neighboring
+countries – to step in to protect the domestic subsidiaries, the sector has remained quite
+stable. By March 2009, employment in the banking sector had somewhat declined.
+During the past few decades, developments in international financial markets have
+shaped growth in Luxembourg. Therefore, any deleveraging in the global financial
+industry impacts growth in Luxembourg’s financial sector. In the past, the Luxembourg
+authorities have regularly adjusted the legal framework so as to create favorable business
+conditions for financial players. As confirmed by international organizations, great care
+has been taken to put in place sound financial regulation in line with international
+standards and promoting financial stability. The so-called Luxembourg “business model”
+provides a solid base for further adjustments in a post-crisis environment.
+The diversity of the Luxembourg financial sector adds to its strength. Also, the
+sophisticated and extensive variety of services ranging from banking to asset
+management, insurance and re-insurance business and covering securitization activities,
+as well as extensive legal, auditing and IT expertise will ensure that Luxembourg
+maintains its place among the top international financial centers even in the future.
+Apart from the financial sector, the authorities are always looking for niches to attract
+new industries to Luxembourg. The recent establishment by major players in the ICT and
+e-commerce field of their European headquarters in Luxembourg is an example of the
+authorities’ forward-looking policies. The authorities are also working on several action
+plans, including logistics and related services, biotechnology and clean energy. These
+action plans encompass investments in infrastructure, research and capacity building
+measures.
+
+3
+Financial sector issues
+For many decades now, Luxembourg has been a well-established financial center with
+close links to other financial centers within and outside the European Union. Asset
+management, particularly private banking and investment funds administration, has been
+a key activity of the financial center of Luxembourg. Therefore, it is not surprising that
+the Luxembourg establishments of cross-border banking groups have become an
+important source of funding for their groups.
+In October 2008, the law of the Banque centrale du Luxembourg (BCL) was amended,
+entrusting the BCL with the explicit responsibility of liquidity supervision of markets and
+market operators and with the possibility to provide emergency liquidity assistance. The
+BCL has recently issued a regulation that sets the framework for its liquidity supervision
+in line with internationally recognized rules and standards. The Commission de
+Surveillance du Secteur Financier (CSSF) is focusing on the supervision of the liquidity
+of individual banks. Currently, discussions are taking place between the two institutions
+to organize and coordinate their work in the area of liquidity supervision. The new legal
+framework, therefore, set up the foundations of a framework for liquidity surveillance of
+markets and market operators that takes on board the lessons from the current crisis, in
+particular the paramount importance of liquidity risk for financial stability.
+Banks in Luxembourg continue to be well capitalized. In most cases, Luxembourg
+subsidiaries are better capitalized than their parent banks. While welcoming the use of
+leverage ratios as an additional indicator, the authorities note that leverage ratios have to
+be used with caution as their usefulness strongly depends on the business model of banks
+and the kind of instruments they hold (e.g. covered bonds have high leverage but very
+low risk).
+The money market funds (MMF) segment has been fairly resilient during the past several
+months. The turbulence following the Lehman bankruptcy triggered some redemptive
+pressures which have been accommodated by the sponsoring banks. The authorities do
+not see a need for issuing a general guarantee for MMFs (like the one issued in the
+United States in autumn 2008), since the latter are being sponsored by banks, which in
+turn have access to the liquidity facilities of the ESCB. The Luxembourg authorities
+would welcome a common European definition of MMFs as well as increased
+transparency requirements for MMFs.
+The mandatory private deposit insurance scheme in Luxembourg has proven its
+effectiveness following the failure of the Luxembourg subsidiaries of the Icelandic banks.
+Even though the system is funded ex-post, banks have built up provisions amounting to
+Euro 800 million. In order to foster the depositors’ confidence in the financial sector and
+given the recent increase of the covered amount from euros 20,000 to 100,000, an indepth revision of the deposit guarantee scheme is under way. The main features of the
+
+4
+revision will be to turn the scheme into a publicly-run system, to introduce ex ante
+funding and to reduce considerably the payout period.
+The Luxembourg supervisory authorities have comprehensive experience of close
+cooperation with home supervisors through regular bilateral and multilateral meetings.
+Recently, this cooperation and information exchange with supervisors from other
+countries (EU Member states and other countries) has intensified. The supervisory
+authorities consider that colleges are a valuable tool for promoting supervisory
+cooperation and welcome the changes in EU legislation that make the setting up of
+colleges a legal obligation in the banking and insurance sectors.
+In the context of recent international developments, in March 2009, the government
+decided to adopt the OECD standards for exchange of information on request when
+concluding double taxation agreements.
+During the Article IV consultation mission, the authorities formally requested an update
+of the 2002 FSAP exercise.
+Fiscal policies
+After several years of fiscal surpluses, 2009 will mark a turning point in this respect. The
+stimulus package that the authorities are implementing along with declining revenues will
+result in a deficit which, according to the latest Statec forecast, could reach 2.3 percent of
+GDP in 2009. The difference between the staff projection of 3.2 percent of GDP and the
+authorities’ projection is mainly because of the different growth assumptions and their
+impact on revenues. On the expenditure side, social expenditures will weigh heavily on
+the budget. The lagged impact of the business cycle on certain taxes, notably corporate
+income taxes, will continue to exert pressure on public finances in 2010 and 2011.
+The discretionary stimulus measures that will be implemented during 2009 and 2010 are
+expected to amount to 2.4 percent of GDP. They focus mainly on employment
+preservation, income redistribution, infrastructure investments, subsidies for clean energy
+and energy preservation and the promotion of research. However, due to large automatic
+stabilizers, the total budgetary support to the economy is even higher. The authorities are
+nevertheless proceeding carefully so that the country’s sound fiscal position is not
+jeopardized in the medium term.
+The Luxembourg social security system provides universal coverage and generous
+benefits. At the current juncture, it contributes significantly to offset the adverse impact
+of the downturn in living standards and social cohesion. Due to the strong economic and
+employment growth during the past couple of decades, the financial position of the social
+security system is sound in the short to medium-term. However, with unchanged policies
+
+5
+and on the basis of prudent assumptions regarding future economic and employment
+growth, the medium to long-term sustainability of the social security system is not
+ensured. The authorities are fully aware of the sustainability risk and are engaged in a
+dialogue with social partners in order to identify possible policy adjustments to improve
+and ensure the sustainability of the system.
+
+

@@ -1,0 +1,10261 @@
+©2009 International Monetary Fund
+
+[Month, Day], 201
+
+February 2009
+IMF Country Report No. 09/53
+August 2, 2001
+
+Mexico: 2008 Article IV Consultation—Staff Report; Staff Supplement; and Public
+Information Notice on the Executive Board Discussion
+Under Article IV of the IMF’s Articles of Agreement, the IMF holds bilateral discussions with
+members, usually every year. In the context of the 2008 Article IV consultation with Mexico, the
+following documents have been released and are included in this package:
+•
+
+The staff report for the 2008 Article IV consultation, prepared by a staff team of the IMF,
+following discussions that ended on December 12, 2008, with the officials of Mexico on
+economic developments and policies. Based on information available at the time of these
+discussions, the staff report was completed on January 15, 2009. The views expressed in the
+staff report are those of the staff team and do not necessarily reflect the views of the
+Executive Board of the IMF.
+
+•
+
+A staff supplement of February 3, 2009, updating information on recent developments.
+
+•
+
+A Public Information Notice (PIN) summarizing the views of the Executive Board as
+expressed during its February 6, 2009 discussion of the staff report that concluded the
+Article IV consultation.
+
+The document listed below has been or will be separately released.
+Selected Issues Paper
+The policy of publication of staff reports and other documents allows for the deletion of market-sensitive
+information.
+Copies of this report are available to the public from
+International Monetary Fund • Publication Services
+700 19th Street, N.W. • Washington, D.C. 20431
+Telephone: (202) 623-7430 • Telefax: (202) 623-7201
+E-mail: publications@imf.org • Internet: http://www.imf.org
+
+International Monetary Fund
+Washington, D.C.
+
+INTERNATIONAL MONETARY FUND
+MEXICO
+Staff Report for the 2008 Article IV Consultation
+Prepared by the Staff Representatives for the 2008 Consultation with Mexico
+Approved by David J. Robinson and Philip Gerson
+January 15, 2009
+Executive Summary
+•
+
+Focus. The consultation focused on the economic and financial sector implications of the global crisis
+and the policy responses to manage them. Medium term prospects, including for structural reforms,
+were also discussed.
+
+•
+
+Assessment. The outlook is for a significant drop in growth against the background of tight financial
+conditions and a U.S. recession. Thanks to strong policy frameworks and balance sheets, a
+countercyclical policy response is not only desirable but also possible—the first time in Mexico. The
+economy is relatively well-positioned to adjust to external shocks in an orderly manner. Still, risks
+remain, especially from a further worsening of the global context.
+
+•
+
+Policy advice. The staff report advocates to:
+•
+•
+•
+•
+
+•
+
+Ease monetary policy in the face of the projected increase in economic slack.
+Consider further fiscal policy stimulus if the outlook worsens more than expected.
+Continue to respond quickly to financial market stresses, including through development banks
+and liquidity provision, to prevent an abrupt tightening of financial conditions.
+Bolster the risk management framework, including through further strengthening the bank
+resolution and bankruptcy framework, more extensive bank and corporate risk assessments, and
+enhanced coordination between regulators.
+Take measures to offset the expected medium-term decline in fiscal revenues from oil and
+consider the possibility of shifting to a structural fiscal rule, to allow more flexible macro
+management.
+
+Authorities’ position. The authorities broadly shared the staff’s assessment. They agreed that a
+deteriorating outlook called for an easing bias of macro policies but were weighing credibility and other
+constraints. Promoting normal functioning of financial markets and preserving stability amidst volatile
+global conditions remained a priority. They emphasized the importance of structural reforms to improve
+growth prospects.
+Staff. The mission conducted discussions in Mexico City during December 1−12, 2008 with officials
+(including from Banco de Mexico, Ministry of Finance, Ministry of Economy, and CNBV) and private
+sector counterparts. The team comprised S. Phillips (head), V. Haksar (incoming mission chief), R. Blavy,
+R. García-Saltos, K. Krajnyák (all WHD); A. Cebotari (FAD); and M. Souto (MCM), supported by
+V. Tulin at headquarters. D.J. Robinson (WHD) joined the mission for part of the discussions;
+N. Eyzaguirre (WHD) participated in the concluding meeting with Secretary Carstens. A. Guerra and
+L. Jiménez (OED) joined the mission meetings.
+
+2
+Contents
+
+Page
+
+I.
+
+Context for the Consultation .............................................................................................4
+
+II.
+
+A Wave of External Shocks ..............................................................................................4
+
+III. Outlook and Risks—Assessing the Implications of External Shocks.............................13
+IV. Policy Choices—Responding to the Global Crisis and Enhancing Resilience ...............18
+A. Macro Policy Management ...................................................................................18
+B. Financial Policies to Preserve Stability.................................................................26
+C. Medium-Term Challenges and Goals ...................................................................29
+V.
+
+Staff Appraisal ..............................................................................................................33
+
+Boxes
+1. Real and Financial Spillovers from the United States to Mexico ...................................14
+2. The 2009 Oil Price Hedge ...............................................................................................23
+3. Fiscal Policy Framework and the Reform of PEMEX ....................................................24
+4. Outstanding Structural Reforms ......................................................................................31
+Figures
+1. Real Sector Developments ................................................................................................5
+2. External Sector—Trade and Current Account ..................................................................7
+3. Bond Market Developments..............................................................................................8
+4. Exchange Rate Indicators................................................................................................10
+5. Banking Indicators ..........................................................................................................11
+6. Household Sector ............................................................................................................15
+7. External Sector—Capital Account ..................................................................................17
+8. Inflation and Monetary Policy.........................................................................................19
+9. Public Debt Sustainability: Bound Tests.........................................................................25
+10. External Debt Sustainability: Bound Tests .....................................................................30
+Tables
+1. Selected Economic, Financial, and Social Indicators, 2004–2010..................................36
+2. Financial Operations of the Public Sector, 2005–2013...................................................37
+3. Summary Balance of Payments, 2005–2013...................................................................38
+4. Summary Operations of the Financial System, 2002–2008 ............................................39
+5. Financial Soundness Indicators for Commercial Banks, 2002–2008..............................40
+6. Indicators of External Vulnerability, 2002–2008............................................................41
+
+3
+Contents
+
+Page
+
+7.
+8.
+9.
+
+Baseline Medium-Term Projections, 2004–2013............................................................42
+Public Sector Debt Sustainability Framework, 2002–2013 ............................................43
+Public Sector Debt Sustainability Framework—Gross Public Sector
+Debt, 2002–2013...................................................................................................44
+10. External Debt Sustainability Framework, 2003–2013 ....................................................45
+11. External Sustainability Framework—Gross External
+Debt, 2003–2013...................................................................................................46
+Appendix
+Background and Summary of Informational Annexes ............................................................47
+
+4
+I. CONTEXT FOR THE CONSULTATION
+1.
+Mexico has made substantial progress over the past decade in strengthening its
+economic framework and enhancing resilience. Inflation has been anchored in a low range
+and public and private balance sheets have been substantially strengthened. Most
+importantly, public external debt and financing requirements have been sharply reduced. The
+external current account position has been solid and official reserves have been built up
+steadily, though not to the extent in some other emerging markets. The banking system is
+highly profitable and well-capitalized. This performance has been underpinned by a solid,
+rules-based macro-institutional policy framework. Inflation targeting has achieved a high
+degree of credibility in the context of a freely floating exchange rate regime. Sizeable fiscal
+adjustment earlier in this decade and the introduction of a fiscal responsibility law have been
+additional support. Meanwhile, the 2006 FSAP Update acknowledged the strength and
+sophistication of the financial sector supervisory framework.
+2.
+However, the external environment has deteriorated sharply in the last months,
+presenting a new test for Mexico’s resilience and current policy framework. The global
+financial shock-wave, which for many months had not severely affected Latin America, has
+intensified following the failure of Lehman Brothers. Financial markets in Mexico too have
+been affected by shortages of liquidity, and a pull back by foreign investors leading to asset
+price drops across the board. In addition to tighter financial conditions, the weakening
+outlook for U.S. activity, remittances, and international oil prices all weigh on prospects for
+Mexico. The authorities have responded with measures to address liquidity problems—
+including through foreign exchange intervention—and support domestic debt markets, and
+with fiscal stimulus to support demand. The central bank has put its tightening cycle on hold
+in view of the outlook for a widening output gap and reduced inflation pressures.
+3.
+This year’s Article IV discussions focused on assessing risks arising in the
+current conjuncture, and weighing policy options to mitigate the current real and
+financial shocks, while also considering implications for the medium term.
+II. A WAVE OF EXTERNAL SHOCKS
+4.
+Over the past year, Mexico has been hit by a series of mainly external shocks
+influencing inflation, growth, and the external current account:
+•
+
+Growth: the Mexican economy has begun to decelerate in tandem with the slowdown
+in the U.S. (Figure 1), reflecting a marked slowdown in industrial production, and
+falling capacity utilization, but also broader based weakness in the services and
+manufacturing sectors. Domestic demand has eased in tandem with a sharp
+deterioration of confidence, especially in October.
+
+5
+Figure 1. Mexico: Real Sector Developments
+The economy has slowed, broadly in line with U.S. cyclical developments.
+…with activity moving broadly in line with the U.S.
+
+GDP growth has slowed...
+12
+
+12
+
+Real GDP, seasonally adjusted
+(In percent)
+quarter-on-quarter
+
+8
+
+annualized growth rate
+year-on-year
+growth rate
+
+8
+
+10
+
+8
+
+4
+
+4
+
+0
+
+0
+
+10
+
+Industrial production
+(y/y percent change)
+
+8
+Mexico
+
+6
+
+4
+
+2
+
+2
+
+0
+
+0
+
+-2
+
+-2
+
+-4
+
+-4
+
+-6
+-4
+
+-4
+
+2000
+
+2001
+
+2002
+
+2003 2004
+
+2005
+
+2006 2007
+
+2008
+
+-8
+
+2000
+
+8
+
+20
+
+0
+
+-8
+2003
+
+2006
+
+2007
+
+2006 2007
+
+2008
+
+20
+
+15
+
+15
+10
+5
+
+0
+
+0
+
+0
+
+2008
+
+-5
+Total domestic demand
+
+-10
+-15
+2003
+
+-10
+
+Net exports
+
+-15
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+…and capacity utilization in manufacturing is declining.
+10
+
+76
+
+76
+
+Capacity utilization in manufacturing sector
+(In percent, seasonally adjusted, 3-month moving average)
+
+8
+6
+
+q/q annualized percent change
+(right scale)
+
+74
+
+74
+
+72
+
+72
+
+70
+
+70
+
+4
+2
+
+13.0
+
+0
+
+12.5
+
+-2
+Formal employment in
+the private sector
+
+12.0
+11.5
+2000 2001 2002
+
+2003 2004 2005 2006
+
+-4
+-6
+
+2007 2008
+
+68
+2000
+
+Consumer and business confidence have weakened sharply
+in recent months...
+
+150
+
+2005
+
+5
+
+-8
+
+2005
+
+13.5
+
+170
+
+2004
+
+4
+
+-4
+
+…formal sector employment growth is slowing...
+15.0
+Formal employment in the private sector
+14.5 (Millions of persons, seasonally adjusted)
+14.0
+
+2003
+
+-5
+
+services
+goods
+GDP
+2004
+
+2002
+
+Real GDP by expenditure, contributions to q/q growth
+(In percent, saar)
+Real GDP
+
+10
+4
+
+-4
+
+2001
+
+…while domestic demand is moderating...
+12
+
+Real GDP by industry, contributions to q/q growth
+(In percent, saar)
+
+8
+
+-6
+
+United States
+
+-8
+
+The slowdown is led by manufacturing...
+12
+
+6
+
+4
+
+Confidence indicators
+(Index, January 2003=100)
+
+Business confidence
+
+68
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+…and growth forecasts for 2009 have shifted down.
+170
+
+70
+
+150
+
+60
+
+130
+
+130
+
+110
+
+110
+
+Distribution of Consensus Forecast for 2009 GDP growth
+(In percent of observations within a 0.4%-wide band)
+Nov-08
+Jun-08
+Jan-08
+
+50
+40
+30
+
+90
+70
+
+Consumer
+confidence
+
+50
+2000 2001 2002 2003 2004 2005 2006 2007 2008
+
+90
+
+20
+
+70
+
+10
+
+50
+
+0
+-1.4
+
+-0.6
+
+0.2
+
+Sources: Consensus Forecasts; EMED; Haver Analytics; and IMF staff calculations.
+
+1.0
+
+1.8
+
+2.6
+
+3.4
+
+4.2
+
+6
+•
+
+•
+
+Inflation: international commodity
+price shocks and later the peso’s
+depreciation have pushed up
+inflation. Also, last year’s fiscal
+package, involving introduction of
+higher taxes, has tended to slightly
+increase the price level this year.
+Headline inflation was above
+6 percent y/y by end-December,
+compared to a 3 percent target, while
+inflation expectations for 2009
+drifted up to about 4.4 percent.
+External current account: non-oil
+export volumes have begun to
+weaken, reflecting especially the
+slowdown in the U.S. (Figure 2).
+Pressure on the trade balance has
+been compounded by falling oil
+export prices and domestic
+production declines. Meanwhile
+remittances (which account for some
+2.2 percent of GDP) started
+declining, reflecting especially
+Mexico’s close links with U.S. states
+most affected by the housing crunch.1
+
+Impact of State-Level Economic Conditions in the
+U.S. on Aggregate Remittances to Mexico
+
+Sources: U.S. Census Bureau, Migration Policy Institute,
+national authorities, staff calculations.
+Note: For each state, size of dot represents the share of
+Mexican immigrants in state’s population. Red-shaded
+states denotes states where economic conditions had a
+significant impact on aggregate remittances to Mexico.
+For states in white, correlation coefficients were not
+significant.
+
+5.
+The September intensification of the global financial shock had a significant
+impact on Mexico as on other major emerging markets. To a considerable extent, this
+reflected the generalized emerging market sell off, though the episode also exposed some
+Mexico-specific concerns.
+•
+
+1
+
+Generalized asset price decline. Asset prices in Mexico fell sharply during
+September−October, in line with other emerging markets in Latin America and Asia,
+but less so than in emerging Europe. This reflected in part deleveraging by foreign
+investors, and generalized heightened risk aversion amongst market players
+(Figure 3). Asset prices have been more stable in recent months.
+
+For further analysis, see the accompanying Selected Issues paper.
+
+7
+Figure 2. Mexico: External Sector - Trade and Current Account
+Mexico's small current account deficit is likely to remain broadly stable as the global crisis unfolds.
+The current account balance has been broadly stable in recent
+years...
+1
+1
+Current account balance
+Current account
+balance
+0 (In percent of GDP)
+0
+-1
+
+-1
+Trade balance
+
+-2
+
+-2
+
+-3
+
+-3
+Non-oil trade balance
+
+-4
+-5
+2003
+
+2004
+
+2005
+
+-4
+
+Non-oil current
+account balance
+
+2006
+
+2007
+
+-5
+
+2008
+
+And external demand conditions are worsening...
+35
+30 (y/y percent change, 3-mma)
+Non-oil imports
+25
+U.S. real GDP
+20
+(right scale)
+15
+10
+5
+0
+-5
+-10
+Auto exports to the
+-15
+Non-oil exports
+United States
+-20
+2000 2001 2002 2003 2004 2005 2006 2007 2008
+
+7
+6
+5
+4
+3
+2
+1
+0
+-1
+-2
+-3
+
+…lower oil prices would contribute to a widening, absent the
+government's oil price hedge.
+140
+Oil spot prices
+(Index, 1980=100)
+130
+(In U.S. dollars per barrel)
+120
+World average
+110
+oil price
+100
+90
+Terms of trade
+80
+(right scale)
+70
+60
+50
+40
+Pemex average
+30
+oil price
+20
+10
+2000 2001 2002 2003 2004 2005 2006 2007 2008
+
+15
+
+Family remittances, sa
+(q/q percent change)
+
+(In billions of U.S.
+dollars per quarter)
+quarterly level
+(right scale)
+
+q/q percent
+change
+
+10
+
+8
+7
+6
+
+3
+2
+
+-5
+-10
+2000
+
+9
+
+4
+
+0
+
+1
+0
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+60
+55
+50
+45
+40
+
+...a slowdown also seen in some other Latin American
+countries recently.
+
+5
+
+5
+
+65
+
+…but import growth is likely to decline from recent high rates,
+as the economy slows, providing an offset.
+10
+50
+Imports
+Final domestic demand
+9
+45
+(y/y percent change)
+(right scale)
+8
+40
+7
+35
+Consumer goods
+6
+30
+5
+25
+4
+20
+3
+15
+2
+10
+1
+5
+0
+0
+Intermediate
+goods
+-1
+-5
+-2
+-10
+Capital goods
+-3
+-15
+2000 2001 2002 2003 2004 2005 2006 2007 2008
+
+Recorded inbound family remittances contracted in recent
+quarters, after years of rapid growth...
+20
+
+70
+
+75
+
+75
+
+(y/y percent change)
+
+Brazil
+
+60
+
+Mexico
+
+45
+
+Argentina
+
+60
+45
+
+30
+
+30
+
+15
+
+15
+
+0
+
+0
+
+-15
+2003
+
+-15
+2004
+
+Sources: Mexican authorities; EMED; Haver Analytics; IFS; and IMF staff estimates.
+
+2005
+
+2006
+
+2007
+
+2008
+
+8
+Figure 3. Mexico: Bond Market Developments
+Bond markets reflect contagion from the global financial crisis, as external spreads have jumped, while the
+domestic market has so far remained relatively calm .
+Spreads are sharply up...
+600
+
+600
+
+Bond spreads (In basis points)
+
+500
+
+500
+
+400
+
+... in line with movements seen in other EMs...
+1000
+EMBI stripped spreads
+(In basis points)
+800
+
+800
+
+400
+
+Peso-denominated 10-year bond minus
+U.S. dollar denominated 10-year bond
+
+600
+
+300
+
+300
+
+200
+
+200
+
+EMBI+ Mexico
+(right scale)
+
+100
+
+Sep-06
+
+Mar-07
+
+Sep-07
+
+Mar-08
+
+600
+
+200
+Chile
+
+Sep-08
+
+0
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+500
+
+400
+
+400
+Colombia
+
+Brazil
+
+200
+
+300
+
+9.5
+Mbono yield curve
+(In percent)
+
+9.0
+
+9.0
+
+8.5
+
+8.5
+
+8.0
+
+8.0
+
+200
+Mexico
+
+10/13/2008
+12/10/2008
+1/9/2009
+
+7.5
+
+100
+
+100
+Chile
+
+0
+Jan-06
+
+Jul-06
+
+Jan-07
+
+Jul-07
+
+Jan-08
+
+Jul-08
+
+7.0
+1y 3y 5y 7y
+
+10y
+
+15y
+
+20y
+
+24
+
+16
+(In percent)
+
+11
+
+10
+
+10
+
+9
+
+9
+
+8
+
+8
+
+14
+12
+
+(In percent of GDP)
+
+Share of foreign holding of total
+government securities
+
+10
+8
+6
+
+5
+2004
+
+7
+
+10 year
+3 year
+1 year
+3 month
+
+6
+
+2005
+
+2006
+
+6
+
+2007
+
+30y
+
+…and some exit of foreign investors from the bond market.
+12
+
+Government bond yields
+(In percent)
+
+7
+
+7.5
+
+7.0
+
+0
+Jan-09
+
+…despite recent spikes in term premia...
+
+11
+
+2009
+
+9.5
+
+600
+
+500
+
+12
+
+2008
+
+The yield curve has flattened...
+700
+
+10-year CDS spreads
+(In basis points)
+
+300
+
+400
+
+0
+
+…as are default premia.
+700
+
+Brazil
+
+Non Latin
+
+200
+
+0
+
+0
+Mar-06
+
+600
+
+Latin America
+
+Mexico
+400
+
+100
+
+1000
+
+2008
+
+5
+2009
+
+20
+
+16
+
+12
+
+8
+
+4
+2
+0
+1999 2000 2001 2002 2003 2004 2005 2006 2007 2008
+
+4
+
+0
+
+Sources: Bloomberg L.P.; Consensus Forecasts; Datastream; Haver Analytics; IMF Information Notice System; and IMF staff
+calculations.
+
+9
+•
+
+•
+
+•
+
+Corporate foreign exchange losses. The
+abrupt currency depreciation (Figure 4)
+in Mexico flushed out home-grown
+vulnerabilities. In particular, some
+Mexican companies, which had been
+short-selling peso volatility betting that
+stable levels of recent years would
+continue, experienced large losses. This
+led to further pressure on the currency
+and to a loss of confidence of investors
+in at least some Mexican corporates.
+Money market pressures. Increased risk
+aversion intensified the ongoing
+disruption of the relatively small MBS
+and commercial paper markets in
+Mexico, which together comprise some
+6 percent of GDP. Mutual funds were
+particularly affected by losses in longterm government paper, triggering large
+early redemptions in October–
+November.
+
+EM Financial Markets After Lehman
+11/21/2008-01/09/2009
+
+9/12/2008-11/21/2008
+
+Exchange Rate
+(Percentage change,
+LCU per U.S. dollars)
+
+Stock Market Performance 1/
+(Percentage change,
+in U.S. dollars)
+Chile
+Colombia
+Mexico
+Brazil
+Emerging Asia
+Emerging Europe
+-60
+
+-40
+
+-20
+
+0
+
+20
+
+Sovereign 10-year CDS Spreads
+(Increase, in basis points)
+
+40 -10
+
+0
+
+10
+
+20
+
+30
+
+40
+
+Corporate Bond Spreads
+(Increase, in basis points)
+
+Chile
+Colombia
+Mexico
+Brazil
+Emerging Asia
+Emerging Europe
+-200 -100
+
+0
+
+100 200 300 -500
+
+0
+
+500 1000 1500 2000
+
+1/ Stock market indices for regional aggregates correspond to MSCI U.S. dollar
+indices. Regional aggregates for exchange rates change, CDS and corporate
+spreads are unweighted averages. Emerging Asia includes China, India, Indonesia,
+Korea, Malaysia, Philippines, Taiwan, and Thailand. Emerging Europe includes
+Czech Republic, Hungary, Poland, Russia, and Turkey. Emerging Europe for
+corporate bond bench spreads includes Kazakhstan, Russia, and Ukraine.
+Sources: Credit Suisse; Datastream; and IMF staff calculations.
+
+Credit conditions. Credit growth has decelerated markedly, reflecting in part liquidity
+and capital pressures on Mexican subsidiaries of global banks that account for almost
+80 percent of system deposits (Figure 5).
+
+6.
+In the first half of 2008, the near-term policy focus was on containing inflation
+and mitigating the welfare impact of higher food prices.
+•
+
+Monetary and exchange rate policy. The policy stance was tightened by 75 bps
+during the summer months, reaching 8¼ percent, amid rising headline and inflation
+expectations. The peso tended to appreciate during this period. In July, the authorities
+suspended the rule-based daily dollar auctions,2 while continuing to abstain from any
+discretionary FX market intervention.
+
+•
+
+Transfers and subsidy policies. To counter the impact of food price shocks on the
+poor, the government announced in May an expansion of the system of conditional
+
+2
+
+Following a large purchase by the government of dollars from Banxico, the authorities in July suspended the
+regular auctioning of half the public sector's net dollar inflows, explaining that this would permit Banxico’s
+reserves to return to their previous level more quickly.
+
+10
+Figure 4. Mexico: Exchange Rate Indicators
+The peso market has experienced considerable volatility in recent months.
+
+120
+110
+
+The real effective exchange rate has been steady...
+Real effective exchange rate (REER)
+(Index, 1990=100, increase indicates appreciation)
+REER,
+CPI-based
+
+100
+
+120
+110
+100
+90
+
+90
+80
+REER: past 10year average
+
+70
+
+80
+
+Nominal effective
+exchange rate
+
+70
+60
+
+60
+
+…until the peso depreciated sharply against the U.S. dollar in
+recent months...
+14.0
+14.0
+13.5
+13.5 Nominal exchange rate
+(Mexican pesos per U.S. dollar)
+13.0
+13.0
+12.5
+12.5
+12.0
+12.0
+11.5
+11.5
+11.0
+11.0
+10.5
+10.5
+10.0
+10.0
+9.5
+9.5
+9.0
+9.0
+8.5
+8.5
+2000 2001 2002 2003 2004 2005 2006 2007 2008
+
+2000 2001 2002 2003 2004 2005 2006 2007 2008
+
+...even as interest rate differentials with the US have widened.
+16
+
+12
+
+20
+
+12
+
+4
+
+Risk premium
+
+10
+
+0
+
+2000 2001 2002 2003 2004 2005 2006 2007 2008
+
+5
+
+0
+
+0
+
+-5
+
+-5
+Expected appreciation of
+peso against U.S. dollar
+(negative indicates depreciation)
+
+-15
+
+-10
+-15
+
+2000 2001 2002 2003 2004 2005 2006 2007 2008
+
+…as peso volatility rose sharply...
+
+…while remaining in line with other major currencies.
+50
+
+50
+
+45
+
+45
+
+40
+
+40
+
+40
+
+35
+
+35
+
+30
+
+30
+
+25
+
+25
+
+20
+
+20
+
+15
+
+45
+
+10
+
+5
+
+-10
+
+50
+
+15
+
+8
+
+4
+
+0
+
+20
+
+Risk premium on the Mexican peso 1/
+(In percent)
+Interest rate differential (1-year)
+
+15
+
+Interest rate differential
+(1-year, in percent)
+
+8
+
+The risk premium on the currency has increased...
+16
+
+Forward premium on the Mexican peso
+(As percent of spot rate)
+12-month
+forward premium
+
+Volatility of peso-dollar options (In the money)
+
+50
+
+Distribution of daily exchange rate changes since Oct-2008
+(In percent of observations that fall into 1%-wide band)
+
+35
+
+45
+40
+35
+
+MXN
+CLP
+BRL
+CAD
+
+30
+25
+20
+
+30
+25
+20
+
+15
+
+15
+
+15
+
+10
+
+10
+
+10
+
+10
+
+5
+
+5
+
+5
+
+5
+
+0
+
+Jan-06
+
+Jul-06
+
+Jan-07
+
+Jul-07
+
+Jan-08
+
+Jul-08
+
+The build-up in peso foreign exchange positions has unwound...
+14.0
+140
+Noncommercial positions in Mexican peso (Thousands) 120
+13.5
+(Mexican pesos per U.S. dollar)
+100
+13.0
+80
+Exchange
+12.5
+60
+rate
+40
+12.0
+20
+11.5
+0
+11.0
+-20
+-40
+10.5
+-60
+10.0
+-80
+Number of net noncommercial positions
+9.5
+-100
+in Chicago market (right scale)
+-120
+9.0
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+
+0
+-8
+
+Jan-09
+
+-6
+
+-4
+
+-2
+
+0
+
+2
+
+4
+
+6
+
+8
+
+…and financial flows from the U.S. have slowed.
+5
+4
+
+5
+
+Monthly U.S. net sales of Mexican securities
+(In billions of U.S. dollars)
+
+4
+
+Bonds
+
+3
+
+3
+
+Stocks
+
+2
+
+2
+
+1
+
+1
+
+0
+
+0
+
+-1
+
+-1
+
+-2
+2003
+
+-2
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+Sources: Bloomberg L.P.; Consensus Forecasts; Haver Analytics; IMF Information Notice System; and IMF staff calculations.
+1/ Risk premium is constructed as a difference between interest rate differential on 1-year CETES and 1-year U.S. T-bill rates
+and the Consensus Forecast expected 12-month-ahead depreciation of Mexican peso against the U.S. dollar.
+
+11
+Figure 5. Mexico: Banking Indicators
+Domestic credit growth is slowing sharply as NPLs and borrowing costs rise.
+Credit to the Private Sector 1/
+2700
+2500 (In billions of Mexican pesos)
+2300
+2100
+1900
+1700
+1500
+1300
+1100
+900
+700
+500
+
+(y/y percent change)
+
+Outstanding
+y/y change (right scale)
+
+45
+40
+35
+30
+25
+20
+15
+10
+
+2004
+
+2005
+
+2006
+
+Housing 3/
+1100
+(In billions of Mexican pesos)
+
+2007
+
+Credit to Private Enterprises 2/
+1000
+(In billions of Mexican pesos)
+(y/y percent change)
+900
+Outstanding
+800
+y/y change (right scale)
+700
+600
+
+400
+
+0
+
+300
+
+2008
+
+(y/y percent change)
+
+1000
+900
+
+35
+30
+25
+20
+10
+5
+0
+-5
+
+2004
+
+2005
+
+2006
+
+25
+
+Consumer 2/
+600
+(In billions of Mexican pesos)
+
+20
+
+500
+
+15
+
+400
+
+10
+
+300
+
+5
+
+200
+
+2007
+
+2008
+
+(y/y percent change)
+
+60
+50
+40
+
+800
+
+30
+
+700
+Outstanding
+
+600
+
+20
+Outstanding
+
+0
+
+500
+2004
+
+2005
+
+2006
+
+2007
+
+10
+
+y/y change (right scale)
+
+y/y change (right scale)
+
+20
+
+40
+
+15
+
+500
+
+5
+
+45
+
+100
+
+2008
+
+0
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+Interest Rates
+
+Non-performing Loans 4/
+
+20
+
+(In percent of total)
+Total
+Housing
+Consumer
+Commercial
+
+15
+
+10
+
+45
+40
+
+15
+
+10
+
+45
+
+Nominal interest rates (In percent)
+
+40
+
+Credit cards
+
+35
+
+35
+
+30
+
+30
+
+25
+
+25
+
+20
+
+20
+
+15
+5
+
+5
+
+15
+Mortgages
+
+10
+
+10
+
+5
+0
+2004
+
+0
+2005
+
+2006
+
+2007
+
+2008
+
+5
+
+0
+2004
+
+0
+2005
+
+2006
+
+2007
+
+2008
+
+Demand deposits are increasing as appetite for risk declines.
+Deposits
+2500
+(In billions of Mexican pesos)
+Time
+2000
+Time
+
+Money Supply: M4
+(y/y percent change)
+Demand
+Demand
+
+1500
+
+35
+30
+25
+
+6500
+
+(In billions of Mexican pesos)
+
+(y/y percent change)
+
+6000
+
+20
+
+5500
+
+15
+
+5000
+
+20
+
+15
+
+10
+1000
+500
+
+5
+
+4500
+
+0
+
+4000
+
+-5
+-10
+
+0
+2004
+
+-15
+2005
+
+2006
+
+2007
+
+2008
+
+25
+
+10
+Level
+
+3500
+
+y/y percent change (right scale)
+
+3000
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+Sources: Bank of Mexico; EMED; Haver Analytics; and IMF staff calculations.
+1/ Total financing of domestic non-financial private sector. Includes credit granted by commercial and development
+banks, Sofoles, Sofomes, factoring, leasing, credit unions, savings and loans institutions, and Infonavit.
+2/ By commercial banks, development banks, Sofoles, and Sofomes.
+3/ By commercial banks, development banks, Sofoles, Sofomes, and Infonavit.
+4/ By commercial and development banks.
+
+5
+
+12
+cash transfers. As international gasoline prices soared far above the administered
+price charged by PEMEX in Mexico, the government acted to reduce this costly and
+untargeted price subsidy, by gradually increasing the pace of adjustment for prices
+charged by PEMEX.
+7.
+As market conditions suddenly worsened post-Lehman, the authorities
+responded with policy actions on multiple fronts:
+•
+
+Exchange rate policy. In early October, at a time of several episodes of sharp
+depreciation and low market liquidity, the central bank (Banxico) intervened in the
+foreign exchange market for the first time in a decade—and on a large scale, with a
+mix of small rules-based and extraordinary dollar auctions.3
+
+•
+
+Stabilizing debt markets. The treasury announced a reduction in the duration of
+planned government bond issuances over the next 12 months to support demand for
+government bonds, while Banxico expanded interest rate swaps. Public sector
+financial institutions have provided guarantees on MBS and commercial paper
+markets, and taken on the role of buyer-of-last-resort in a number of cases.
+
+•
+
+Securing external financing. Banxico entered into a dollar swap facility with the
+Federal Reserve, for US$30 billion, in place through April 2009. The authorities
+announced additional financing of US$5 billion from IFIs (World Bank and IDB).
+
+•
+
+Fiscal stimulus. The congress approved a modification of the balanced budget target
+of the Fiscal Responsibility Law, which effectively eased the fiscal stance by about
+0.6 percent of GDP in 2009 (relative to the previous version of the rule). The overall
+fiscal impulse for 2009 is expected to be close to 1 percent of GDP.
+
+•
+
+Monetary policy. While the monetary stance remains moderately restrictive, the
+increased provision of liquidity by the central bank effectively led to overnight rates
+sometimes below the 8¼ percent target.
+
+8.
+Financial markets and asset prices broadly stabilized after late October, albeit at
+generally weaker levels. However, volatility remains high in an environment of
+substantially reduced trading activity, especially in offshore derivative markets. The yield
+curve has flattened after spiking at the longer end in October, but rates are higher than earlier
+in the year. While money market conditions have improved, bank credit to the private sector
+continues to decelerate and commercial paper markets are tight.
+3
+
+Banxico announced that it will make available through auction US$400 million each day, to the highest
+bidders, but at a minimum peso/dollar price 2 percent depreciated from the previous day. This auction
+mechanism was previously in place during 1997−2001. Outside this mechanism, Banxico auctioned much
+larger amounts in several “extraordinary” interventions, including some US$6 billion on October 10. Since
+intervention began, Banxico has sold about US$15 billion, the bulk of this around mid-October.
+
+13
+III. OUTLOOK AND RISKS––ASSESSING THE IMPLICATIONS OF EXTERNAL SHOCKS
+9.
+External real and financial shocks are expected to affect significantly Mexico’s
+short-term prospects. Strong real and financial links to the U.S. expose Mexico more to the
+downturn than other emerging markets (Box 1). Financial conditions are noticeably tighter as
+appetite for risk has decreased globally and the global financial sector has continued to
+deleverage. Also, declining oil prices are eating into external and fiscal revenues (although a
+price hedging policy should offset this loss in 2009). The adjustment process is projected to
+be orderly, given Mexico’s proven buffers, and the expectation of a flexible policy response,
+but there are downside risks.
+Mexico: Medium-Term Staff Scenario: Main Elements
+(In percent of GDP, unless otherwise indicated)
+Projections
+2010 2011
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2012
+
+2013
+
+External current account balance
+Oil trade balance
+Exports
+Imports
+
+-0.9
+1.6
+3.1
+1.5
+
+-0.7
+1.8
+3.8
+2.0
+
+-0.6
+2.0
+4.1
+2.1
+
+-1.0
+1.9
+4.2
+2.3
+
+-2.2
+1.2
+4.6
+3.4
+
+-2.2
+0.6
+2.9
+2.3
+
+-2.5
+0.6
+3.4
+2.7
+
+-2.6
+0.2
+3.4
+3.2
+
+-2.8
+-0.3
+3.3
+3.6
+
+-2.9
+-0.7
+3.1
+3.8
+
+Augmented balance 1/
+Oil augmented balance
+Non-oil augmented balance
+
+-1.7
+4.3
+-6.1
+
+-1.4
+5.0
+-6.4
+
+-0.6
+5.2
+-5.8
+
+-1.4
+5.1
+-6.5
+
+-1.7
+5.1
+-6.8
+
+-2.9
+4.6
+-7.5
+
+-2.8
+4.0
+-6.7
+
+-2.5
+3.6
+-6.0
+
+-2.4
+3.2
+-5.6
+
+-2.4
+2.8
+-5.2
+
+Net international reserves, end-year
+Augmented public debt, gross
+Augmented public debt, net
+
+8.1
+41.4
+36.8
+
+8.1
+39.9
+35.3
+
+7.1
+38.5
+32.5
+
+7.6
+38.3
+31.5
+
+7.8
+39.3
+33.0
+
+9.7
+42.1
+36.2
+
+9.2
+42.5
+36.9
+
+8.6
+41.7
+36.5
+
+8.0
+41.0
+36.2
+
+7.5
+40.4
+36.0
+
+Real GDP, percent change
+Crude oil production, percent change
+
+4.0
+0.4
+
+3.1
+-1.4
+
+4.9
+-2.3
+
+3.2
+-5.3
+
+1.8
+-8.6
+
+-0.3
+-2.3
+
+2.1
+2.5
+
+4.9
+-1.9
+
+4.7
+-1.7
+
+4.6
+-0.8
+
+Sources: Mexican authorities; and IMF staff estimates.
+1/ IMF staff definitions.
+
+10.
+A significant slowdown is projected, and the widening output gap should lead to
+a sharp decline in inflation. GDP growth is projected to turn negative in 2009 (around
+-¼ percent) as external demand drops, confidence weakens (Figure 6), and domestic and
+external financial conditions remain tight. Growth is expected to pick up gradually in 2010 as
+the U.S. economy, supported by a large fiscal stimulus, recovers. In the meantime, as
+economic slack increases and the impact of commodity price and exchange rate shocks fades,
+inflation is likely to decline rapidly towards Banxico’s 3 percent inflation target.
+11.
+Tighter financial conditions are expected to be an important factor in the
+slowdown. The cost of external financing is expected to remain high (with the EMBI above
+400 bps) and market funding for corporates costly and limited (with external spreads
+averaging about 900 bps and the domestic market largely limited to rollovers), essentially
+shutting out most firms from new financing. Domestic credit growth is expected to slow
+sharply, as deleveraging by global banks influences the balance sheets of their Mexican
+subsidiaries, and banks adjust to deteriorating loan portfolio performance (particularly on the
+
+14
+
+Box 1. Real and Financial Spillovers from the United States to Mexico1
+Mexico’s links to the U.S. suggest that the outlook for the Mexican economy is strongly dependent on U.S.
+developments. Given the large uncertainty surrounding the course, duration and severity of the current U.S.
+downturn, a key question is, how could this dependence be quantified? The effects of real and financial shocks
+in the U.S. on Mexico can be assessed based on the IMF’s newly developed Global Projection Model. The
+model links several blocks of the world economy—namely, the U.S., the Euro area, Japan, Mexico, and an
+aggregate of inflation targeting economies in Latin America (LA5).
+The results suggest that shocks in the United States account for about one-fourth of the variation in Mexican
+growth. Almost half of this contribution is explained by financial conditions in the U.S., which are considered a
+forward looking indicator for the availability of financing and a leading indicator for output in the U.S. and thus
+for Mexico.2 Reflecting tight trade and financial linkages, Mexico is more strongly affected by real shocks in
+the U.S. than any other country in the LA5. A negative output gap shock of 0.4 percent in the U.S. generates in
+Mexico a 0.1 percent negative output gap on impact that cumulates to 0.25 percent after 4 quarters. These
+results are in line with previous IMF research.
+Tighter U.S. financial conditions also tend to slow activity and widen the output gap in Mexico. As in the U.S.,
+the negative effect on output is persistent—peaking after about 2 years—and similar in size to the effect in the
+U.S. itself. This suggests that, with the large shock to U.S. financial conditions still unfolding, a significant drag
+on Mexican activity is still in the pipeline.
+Output Gap Response to a 0.4 Percent Negative U.S.
+Output Gap Shock 1/
+0.15
+0.10
+
+0.15
+
+(In percent)
+
+0.10
+
+0.05
+
+0.05
+
+0.00
+
+0.00
+
+0.3
+
+LA5
+US
+EU
+JA
+MEX
+
+(In percent)
+
+0.2
+0.1
+
+0.2
+0.1
+
+-0.05
+
+-0.05
+
+-0.10
+
+-0.10
+
+-0.1
+
+-0.1
+
+-0.2
+
+-0.2
+
+-0.3
+
+-0.3
+
+LA5
+EU
+
+-0.20
+
+JA
+
+-0.25
+
+MEX
+
+-0.30
+
+-0.15
+-0.20
+-0.25
+-0.30
+
+0 1
+
+2 3 4
+
+5 6
+
+7
+
+8 9 10 11 12 13 14 15
+
+Sources: IMF staff calculations.
+1/ Size of the shock is one standard deviation.
+
+2
+
+0.3
+
+0.0
+
+-0.15
+
+1
+
+Output Gap Response to a 6 Percentage Points Shock
+in U.S. Bank Lending Tightening 1/
+
+0.0
+
+-0.4
+
+-0.4
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9 10 11 12 13 14 15
+
+Sources: IMF staff calculations.
+1/ Size of the shock is one standard deviation.
+
+Prepared by Roberto García-Saltos and Kornelia Krajnyák.
+
+The U.S. financial conditions are measured by a Bank Lending Tightening (BLT) variable—an unweighted average of the
+responses to questions regarding lending conditions presented in the Federal Reserve Board’s quarterly Senior Loan Officer
+Survey of Bank Lending Practices.
+
+15
+Figure 6. Mexico: Household Sector
+Support from the household sector to growth is likely to fade in the current economic slowdown.
+
+Private consumption has been dynamic in the current
+growth cycle, usually exceeding real GDP growth...
+
+6
+
+…but consumer confidence has dropped sharply.
+120
+Consumer confidence index
+(Index, January 2003=100)
+115
+
+5
+
+5
+
+110
+
+110
+
+4
+
+4
+
+105
+
+105
+
+3
+
+3
+
+100
+
+100
+
+2
+
+95
+
+95
+
+1
+
+90
+
+7
+
+7
+Real private consumption
+(y/y percent change)
+
+Private
+consumption
+
+6
+
+Real GDP
+
+2
+
+1
+
+0
+-1
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2
+
+Manufacturing
+employment,
+3-mma
+
+90
+
+85
+
+-1
+
+80
+2003
+
+Factors supporting strong domestic consumption are starting
+to erode...
+4
+10
+(y/y percent change)
+
+8
+
+6
+
+-2
+
+4
+
+-4
+
+Real remunerations in
+manufacturing, 3-mma
+(right scale)
+
+85
+80
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+…and the growth in credit to households has slowed sharply.
+70
+
+70
+Credit to the private sector 1/
+(In percent of total credit)
+
+60
+To households
+To private enterprises
+
+50
+0
+
+115
+
+Compared with 12 months ago
+In 12 months ahead
+Consumer confidence
+
+0
+
+2008
+
+120
+
+(In percent)
+
+Share of household credit in
+private sector credit (right scale)
+
+60
+
+50
+
+40
+
+40
+
+30
+
+30
+
+20
+
+20
+
+10
+
+10
+
+2
+
+-6
+
+0
+
+-8
+2000 2001 2002 2003 2004 2005 2006 2007 2008
+
+-2
+
+0
+
+0
+2003
+
+2004
+
+Sources: Bank of Mexico; EMED; Haver Analytics; INEGI; and IMF staff calculations.
+1/ Includes credit to enterprises granted through securities.
+
+2005
+
+2006
+
+2007
+
+2008
+
+16
+consumer side). Negative feedback effects between worsening credit quality, weakening
+bank capital, and a further growth slowdown, are key downside risks to the outlook.
+12.
+On the external side, gross private capital inflows are projected to slow
+significantly in 2009, in line with global trends, offset by higher public borrowing from
+international development institutions (Figure 7). For related reasons, Mexican FDI and
+portfolio investments abroad are also projected to slow. Private sector external financing
+requirements, below 2 percent of GDP in 2009, appear manageable though concentrated, and
+some corporates will be facing sizable maturities. The current account deficit is expected to
+remain broadly stable––around 2¼ percent of GDP––as smaller net oil exports are offset by
+shrinking imports. In this baseline scenario, external payments are expected to balance in
+2009 without significant further FX market
+intervention or exchange rate adjustment.
+13.
+Uncertainties are large and risks to
+growth in 2009 are on the downside.
+Reflecting tight links with the U.S., the
+authorities agreed that Mexico shares in the
+uncertainties and risks surrounding the U.S.
+outlook, with much depending on the size,
+composition, and timing of the planned U.S.
+fiscal stimulus, as well as developments in
+the auto industry. The staff views risks as
+tilted to the downside, including from weak
+U.S. demand, and tighter or more volatile
+financial markets than assumed.
+
+5
+
+Risks to the Outlook
+
+Real GDP
+(y/y percent change)
+
+4
+
+5
+90 percent
+confidence
+interval
+
+50 percent
+confidence
+interval
+
+4
+
+3
+
+3
+
+2
+
+2
+
+1
+
+1
+
+0
+
+0
+
+-1
+
+Skew (mean less
+Downside risks
+Weaker U.S. demand
+Financial conditions
+
+mode)
+2009
+-0.14
+-0.11
+
+2010
+-0.09
+-0.10
+
+-1
+
+-2
+-2
+14.
+Over the medium-term a cyclical
+2006
+2007
+2008
+2009
+2010
+rebound is projected to close the output
+gap over a five-year horizon. A key aspect of the outlook is the projected decline in oil
+exports, with the public sector (PEMEX) a net oil importer as early as 2013. Risks to the
+medium term growth outlook also arise from increasing constraints on fiscal space to fund
+needed new public investment, and the possibility that potential growth could soften more
+than assumed as a result of the crisis. Furthermore, organized crime could also weigh on
+growth over the medium term.
+
+17
+Figure 7. Mexico: External Sector - Capital Account
+After a strengthening in Mexico's capital account until 2007, the country's external position is being tested by the
+current environment.
+External debt ratios have been on a downward trend...
+25
+
+External debt
+(In percent of GDP)
+
+20
+
+…supported by repayment of public debt in 2005-06.
+25
+
+8
+20
+
+Total external debt
+
+15
+
+15
+
+10
+
+10
+
+5
+
+10
+
+6
+
+4
+
+4
+
+2
+
+2
+
+0
+
+0
+
+-2
+
+-2
+-4
+Private, net
+Total, net
+
+-6
+0
+2003
+
+0
+2004
+
+2005
+
+2006
+
+2007
+
+-8
+
+2008
+
+2000
+
+While net private inflows have slowed in recent years...
+70
+
+40
+
+60
+
+30
+
+30
+
+50
+
+20
+
+20
+
+10
+
+10
+
+0
+
+0
+
+(In billions of U.S. dollars)
+
+Private sector
+
+40
+
+-10
+
+-10
+
+Bonds and loans
+Direct Investment, net
+Equities and change in assests abroad
+
+-20
+-30
+2000
+
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+90
+80
+
+-20
+-30
+2007
+
+(In billions of U.S. dollars)
+
+60
+
+U.S. Agency debt
+U.S. Treasury debt
+
+60
+40
+
+30
+
+30
+
+20
+
+20
+
+10
+
+10
+
+0
+2004
+
+2005
+
+2006
+
+2007
+
+International reserves increased due to higher oil export receipts
+by the public sector...
+90
+6
+Net international reserves
+80
+NIR
+(In billions of U.S. dollars)
+70
+60
+
+2007
+
+70
+60
+50
+
+Short term
+
+40
+Long term
+
+30
+20
+
+10
+
+10
+
+0
+2002
+
+10
+
+0
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+10
+
+(In billions of U.S. dollars)
+Parent company accounts
+Reinvested profits
+Direct investments in
+New investment
+Mexico 1/
+
+8
+
+6
+
+6
+
+4
+
+4
+
+2
+
+2
+
+0
+2000
+
+0
+2003
+
+2006
+
+50
+
+Equities
+
+2002
+
+2005
+
+20
+
+8
+
+80
+70
+
+2000
+
+2004
+
+Gross external debt of private nonfinancial corporations
+(Billions of U.S. dollars)
+
+30
+
+90
+
+Mexico's holding of
+U.S. securities (as of June):
+
+Corporate debt
+
+40
+
+-8
+2003
+
+Foreign direct investment has been fairly stable.
+100
+
+70
+50
+
+2002
+
+-6
+
+40
+
+…and gross portfolio assets abroad have grown.
+100
+
+2001
+
+Public, net
+
+…private sector borrowing has increased modestly...
+50
+
+50
+
+8
+
+6
+
+-4
+
+5
+
+Public external debt
+
+10
+
+(In billions of U.S. dollars)
+
+NIR in months of
+imports (right scale)
+
+2004
+
+2006
+
+2008
+
+…but still, are not high by international standards.
+25
+20
+
+300
+
+Gross international reserves at end-2007
+In percent of GDP (left scale)
+In percent of short term debt (right scale)
+
+4
+
+200
+
+15
+
+50
+40
+30
+
+0
+2002
+
+2
+
+20
+
+10
+
+100
+
+5
+
+10
+0
+2000 2001 2002 2003 2004 2005 2006 2007 2008
+
+0
+
+0
+
+0
+ARG
+
+BRA
+
+COL
+
+VEN
+
+CHL
+
+MEX
+
+LAC
+
+Sources: Mexican authorities; Haver Analytics; U.S. Treasury TIC benchmark surveys; and IMF staff estimates.
+1/ FDI excludes the US$12.5 billion Citibank acquisition of Banamex in 2001Q3 and the US$4 billion BBVA acquisition of
+Bancomer in 2004Q1.
+
+18
+IV. POLICY CHOICES—RESPONDING TO THE GLOBAL CRISIS AND ENHANCING
+RESILIENCE
+The policy discussions in this consultation focused on three questions:
+A. Macro Policy Management—what role can monetary and fiscal policies play in
+supporting economic activity in 2009?
+B. Financial Sector Policies—what additional steps can be taken to mitigate a credit crunch
+and preserve stability in the face of small pressure points across the system?
+C. Medium-Term Challenges and Goals––how does the weakened outlook for oil
+production and the external environment affect the policy strategy?
+A. Macro Policy Management
+The current macroeconomic policy challenge is to alleviate the negative impact of the very
+large external shocks facing Mexico. Countercyclical policy efforts will be essential, with
+their design taking due account of the need to preserve credibility and of the room for
+financing.
+Monetary policy
+15.
+On monetary policy, the staff assessment is that there should be scope for easing
+from the currently restrictive policy interest rate. Although headline inflation had
+continued to rise, this mainly reflects supply side shocks, while underlying inflationary
+pressures—notably domestic demand and wage growth—remain very moderate (Figure 8).
+With the output gap projected to widen significantly, and commodity prices declining, the
+staff’s projections suggest that consumer price inflation is likely to slow sharply from early
+2009. Consistent with this assessment, markets currently expect easing in Mexico to begin in
+the first part of 2009.
+16.
+The authorities broadly agreed, but stressed that the timing and speed of
+monetary policy easing needed to be carefully weighed. In this connection, they noted that
+indicators of inflation expectations for 2009 and even 2010 were above the 3 percent target,
+and had not yet started to come firmly down following their recent increase. They noted that
+price-setters may have not yet fully internalized the weaker outlook for demand, and that
+expectations could be backward looking, putting undue weight on recent supply shocks, in
+particular the large October depreciation of the peso. The staff agreed that these were valid
+concerns, but also recognized, with the authorities, the risks of easing the policy interest rate
+too slowly, taking into account the lags with which monetary policy operates, and the speed
+at which U.S. economic activity appears to be decelerating. In this context, the staff
+suggested that the communications efforts of Banxico will be key, and will be aided by the
+
+19
+Figure 8. Mexico: Inflation and Monetary Policy
+T he moderately restrictive policy stance has been gradually tightened as inflation rose to over 5 percent.
+Inflation has been significantly above its 3 percent target in
+recent months...
+14
+12
+
+…partly due to rapid food price inflation...
+14
+
+Consumer price index
+(y/y percent change)
+
+Headline
+
+10
+
+10
+
+Core
+Target
+
+8
+
+12
+
+12
+10
+8
+
+10
+8
+
+6
+
+6
+
+4
+
+4
+
+2
+
+2
+
+2
+
+0
+
+0
+2003
+
+6
+
+4
+
+4
+
+2
+0
+2000 2001 2002 2003 2004 2005 2006 2007 2008
+…prompting Banxico to keep interest rates on hold...
+
+10
+
+Overnight
+interest rate
+
+8
+
+0
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+…at moderately restrictive levels.
+12
+
+(In percent)
+
+10
+
+Headline inflation
+Non-food
+Food
+Target
+
+8
+
+6
+
+12
+
+12
+
+(y/y percent change)
+
+20
+
+20
+
+Real interest rates, 3-month
+(In percent)
+
+15
+
+Mexico
+Colombia
+Brazil
+Chile
+
+15
+
+10
+
+10
+
+5
+
+5
+
+0
+
+0
+
+8
+
+6
+
+6
+
+4
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+4
+2009
+
+-5
+2001
+
+Wage growth has been fairly stable…
+14
+
+10
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+…as well as unit labor costs...
+14
+
+Wages
+(y/y percent change)
+Contractual wages
+
+12
+
+-5
+2002
+
+20
+
+12
+
+Core services price index
+
+Labor productivity and unit labor costs in manufacturing
+(y/y percent change)
+
+20
+
+10
+
+10
+
+0
+
+0
+
+10
+
+8
+
+8
+
+6
+
+6
+
+4
+
+4
+
+2
+
+2
+
+-10
+
+Labor productivity
+
+-10
+
+Unit labor costs
+2000 2001 2002 2003 2004 2005 2006 2007 2008
+
+2002
+
+6
+
+Inflation expectations–survey-based
+(CPI, y/y percent change)
+
+7
+
+12
+
+6
+
+10
+
+5
+
+5
+
+4
+
+4
+
+3
+2
+
+Target
+End-2008
+End-2009
+12-month ahead
+2009-2012
+
+Expected inflation:
+
+0
+2002
+
+2
+1
+0
+
+2003
+
+2004
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+Yields on nominal and indexed
+10-year bonds (In percent)
+
+12
+10
+
+8
+
+8
+
+6
+
+6
+
+3
+
+Variability
+range
+
+1
+
+2003
+
+...but the spread between nominal and inflation-indexed
+interest rates has come back to about 4% .
+
+…short-term inflation is expected to be elevated; 2009
+expectations are now up to 1.3 points above the target...
+7
+
+-20
+
+-20
+
+2005
+
+2006
+
+2007
+
+2008
+
+4
+
+4
+Bonos
+2
+0
+2002
+
+2
+
+Udibonos
+Implied inflation
+2003
+
+2004
+
+Sources: Bloomberg L.P.; EMED; Haver Analytics; INEGI; and IMF staff calculations.
+
+2005
+
+0
+2006
+
+2007
+
+2008
+
+20
+enhanced communications framework—particularly the quarterly publication of Banxico’s
+own inflation forecasts—initiated in 2007.
+17.
+The staff and authorities agreed that the independently floating exchange rate
+regime had continued to serve Mexico well, amid unusually large external shocks. The
+full flexibility of the peso had been a key shock absorber, with the recent depreciation of the
+peso playing a stabilizing role, helping to rebalance portfolios and clear markets for financial
+assets—indeed, surveys point to expectations of peso appreciation in the near term,
+offsetting a rise in the risk premium investor’s demand for holding peso-denominated
+instruments. On the whole, the peso’s depreciation had not had significant destabilizing
+effects, as the balance sheets of the government and the banking system had not been
+vulnerable to depreciation. Most of the corporate sector also seemed resilient to a weaker
+peso, reflecting progress in strengthening balance sheets (see accompanying Selected Issues
+paper), although some corporations had made considerable losses on complex derivatives
+positions, the existence of which had not been widely known. Upon investigating this
+incident, the authorities assessed that the problem was contained, with most such positions
+closed in October. Going forward, they considered that existing derivatives reporting
+requirements are broadly adequate but that implementation and enforcement must be
+improved; actions against various involved parties are already underway.
+18.
+The recent FX intervention has helped ensure orderly markets, while preserving
+the most essential benefits of the fully flexible exchange rate regime, and leaving the
+bulk of Mexico’s international reserves still in place as a cushion against future shocks.
+The authorities noted that the bulk of the intervention to date had been confined to a brief
+period in October and targeted at relieving liquidity pressures in the FX market related to the
+corporate losses on derivative transactions. Foreign exchange had been sold only in preannounced amounts, at prices determined by the market in competitive auctions, so that there
+was no constraint on the movement of the exchange rate, and no suggestion of a targeted
+level of the peso. Notwithstanding the intervention, NIR at end-2008 was about
+US$7½ billion above its level a year earlier, aided by strong foreign exchange receipts earlier
+in the year from oil. The authorities noted that their recent swap agreement with the U.S.
+Federal Reserve had boosted foreign exchange liquidity, although they had not found it
+necessary so far to utilize this agreement. The authorities also welcomed the creation of the
+Fund’s Short-term Liquidity Facility, as a potentially useful tool for countries with strong
+policy records, but did not see Mexico using this facility at this time.
+19.
+The staff’s assessment is that the peso’s real exchange rate is somewhat weaker
+than its medium-term equilibrium value. This conclusion is based largely on the results of
+
+21
+Consensus Probability of Peso Appreciation or
+the three multi-country methodologies
+Depreciation against U.S. Dollar
+implemented by the IMF’s Research
+50
+50
+(Percent)
+4
+Department. Among other factors, this
+40
+40
+analysis takes into account expected
+30
+30
+productivity differentials between Mexico
+20
+20
+and its key trading partners, while excluding
+10
+10
+such temporary factors as the recent cyclical
+downturn in remittances. This assessment is
+0
+0
+-20%
+or
+-6%
+to
++/5%
++6%
+to
++
++20%
+or
+broadly consistent with the views of market
+more
+19%
+19%
+more
+analysts that the peso is likely to appreciate.5
+Source: Foreign Exchange Consensus Forecasts December 2008.
+As in the previous consultation, the
+authorities noted that assessments of equilibrium exchange rates are subject to great
+uncertainties, observing that possible longer-term shifts in risk aversion, and in potential
+growth patterns across countries, were now heightening uncertainties.
+
+Fiscal Policy
+20.
+On fiscal policy, the government is now set to play an appropriate
+countercyclical role in 2009, but will face a complicated balancing act in 2010. The
+unusual size of the demand shock and output gap expected for 2009, the staff agreed, clearly
+called for an active countercyclical effort beyond the operation of Mexico’s limited
+automatic stabilizers. At the same time, policymakers will be looking ahead to 2010, when
+revenues from oil exports are projected to drop more significantly, possibly triggering a
+premature withdrawal of fiscal stimulus by constraining government expenditure.
+21.
+For 2009, the staff estimated the fiscal stimulus implied by the approved budget
+at about 1 percent of GDP. This will be the first time that fiscal policy has been able to act
+countercyclically in a downturn. This stimulus will be made possible notwithstanding the
+
+4
+
+The three methodologies include the macroeconomic balance approach (that compares the difference between
+the “sustainable” and the projected medium-term current account balance); the external sustainability approach,
+and the reduced-form equilibrium real exchange rate regression approach. Estimates suggest that the peso has
+shifted somewhat to the weak side with the large effective peso depreciation in September−October. All three
+methodologies now indicate a slight undervaluation. In making this assessment, the future level of Mexico’s oil
+production remains a key uncertainty. Recent downward revisions to the medium-term oil production outlook
+suggest a downward shift in the equilibrium rate, although this could be reduced—or even reversed—to the
+extent that recent reforms are successful in allowing Mexico to tap its deep water oil resources.
+
+5
+
+Surveys taken since October’s large depreciation have consistently pointed to expected appreciation of the
+peso against the dollar of 5 to 10 percent over the coming 12 months. A special consensus survey in December
+suggested a nearly 50 percent probability that the peso will appreciate by more than 5 percent by end-2009, and
+only a 19 percent chance of a larger-than-5-percent depreciation. With the 12-month forward discount rate (and
+interest differential) above 7 percent, the implied risk premium is above 10 percent.
+
+22
+balanced budget rule,6 and a large decline in oil export prices that might have required a
+contraction of spending in 2009, as follows:
+•
+
+A successful oil price hedging operation is expected to prevent a major decline in oilrelated income in 2009 (Box 2). In addition, the peso’s recent depreciation will help
+support the value of oil export income, against a projected decline in net oil export
+volume of about 5 percent.
+
+•
+
+A recent modification of the Fiscal Responsibility Law’s balanced budget target,
+related to PEMEX reform (Box 3), will create room for 0.6 percent of GDP in higher
+spending in 2009. This room will be used mainly for infrastructure investment.
+
+•
+
+An expansion of development banks’ net lending, from 0.3 percent of GDP in 2008 to
+a projected 0.5 percent of GDP in 2009, will further support economic activity. This
+will be complemented by further extension of guarantees by development banks of
+about 1.2 percent of GDP. Both types of activity help to avoid a supply shock via a
+credit crunch (see below).
+
+22.
+The staff recommended keeping the fiscal stance under close review as the
+economic situation develops—if the outlook were to deteriorate further, consideration
+could be given to additional easing of the fiscal stance. This could take the form of a larger
+positive impulse in 2009, or a slower withdrawal of stimulus in 2010. Indeed, the muchreduced outlook for oil export prices will be felt harder in 2010 and, other things constant,
+the FRL will require government expenditure to be cut back by about ¾ percent of GDP,
+relative to the 2009 expansion. A sudden reversal of stimulus may not be desirable at that
+time, though reversal will have to come eventually.7
+23.
+Government financing has not so far come under sustained pressure but this
+remains a potential risk, especially if the global financial situation were to deteriorate
+further. The authorities agreed that volatile global markets increased the need for flexibility
+in the financing mix. On the whole, government bonds so far have benefited from an
+
+6
+
+Ordinarily, the Fiscal Responsibility Law (FRL) seeks to hold the budget balance steady from year to year
+unless exceptional circumstances are invoked at the time of budget approval. Since the FRL’s introduction,
+exceptional circumstances have not been invoked.
+
+7
+
+At the least, it should be possible to allow that automatic stabilizers on the tax revenue side operate. That is, if
+lower-than-expected growth pulls down revenue, there would be no requirement to cut expenditure; instead, the
+policy framework allows using previously accumulated stabilization funds. Roughly, a 1 percentage point
+shortfall in growth lowers non-oil tax revenue by about 0.1 percent of GDP.
+
+23
+
+Box 2. The 2009 Oil Price Hedge1
+Mexico’s budget is heavily dependent on revenues from oil, which account for about 8 percent of GDP or more
+than a third of revenues. Although the bulk of oil revenues are from domestic sales and do not fluctuate
+proportionately when world prices change (given the long-standing policy of keeping domestic prices of
+gasoline and diesel about constant in real terms), about a quarter are from net exports and vary directly with
+world prices. For example, as of 2008, a US$10 per barrel drop in oil (export and import) prices would reduce
+oil revenues by ¼ percent of GDP.
+To safeguard the 2009 budget from an unexpected drop in oil prices, the authorities hedged about 70 percent of
+PEMEX gross exports of crude oil (330 million barrels) at the budgeted price of US$70 per barrel for the
+Mexican oil mix. The size of this operation was chosen to effectively hedge all of PEMEX net export revenues
+(taking into account that PEMEX also imports fuels, at lower cost when world prices decline).
+The hedge was purchased in the third quarter of 2008 at a cost of US$1.5 billion, paid out of the oil stabilization
+fund. The hedge will be due to pay out at the end of 2009 if the average annual price of Mexico’s 2009 exports
+comes below US$70 per barrel. With the average price for the Mexican oil mix projected by the staff at
+US$47.3 per barrel for 2009, the value of the hedge is estimated at US$7.5 billion (0.8 percent of GDP), far
+above the cost of the hedging operation.
+1
+
+Prepared by Aliona Cebotari
+
+“internal flight to quality”; the spike in yields in October was limited to the long end and has
+been largely reversed. While demand for bonds is likely to be supported by the steadily
+expanding pension funds, foreigners’ demand is less assured (as the recent sell-off has
+demonstrated, although still over 10 percent of domestic debt is in foreign hands). Domestic
+issuance should be able to provide the bulk of gross financing needs in 2009. At the same
+time, the authorities wish to maintain Mexico’s presence internationally—indeed, Mexico in
+December8 was the first emerging market country to tap international capital markets since
+September—and also envisage drawing on World Bank and IDB funding. Arranging such
+external financing will reduce the additional pressure on the domestic bond market related to
+financing the fiscal stimulus.
+24.
+The staff shared the authorities’ mindfulness of potential limits to discretionary
+fiscal policy moves. The focus on infrastructure investment is appropriate to Mexico’s needs,
+but there are natural limits to accelerating such expenditure. Given volatile global markets,
+financing conditions could, in principle, become limiting factors on further fiscal expansion,
+and maintaining credibility in financial markets via adherence to a rules-based policy
+framework is key. With public debt (augmented definition) close to 40 percent of GDP in
+most stress scenarios over the medium term (Figure 9), a fiscal stimulus effort of 1–2 years’
+8
+
+The government raised US$2 billion in a 10-year issuance. With a spread of 390 basis points and the base rate
+down almost to 2 percent, the borrowing cost came in just below 6 percent.
+
+24
+
+Box 3. Fiscal Policy Framework and the Reform of PEMEX1
+The federal budget is highly reliant on
+revenue from PEMEX oil production,
+which is now in a declining phase.
+Since the last consultation, the
+authorities have lowered their projection
+of PEMEX production over the medium
+term. For as long as oil production
+continues to fall, or fails to keep up with
+domestic consumption of hydrocarbons,
+PEMEX imports have to rise, effectively
+lowering budget revenue. Staff estimate
+that PEMEX net exports of hydrocarbons
+will fall to about zero in 2013, from
+about 2 percent of GDP in 2008.
+
+Crude Oil Production, 2009-2013
+3.5
+
+3.5
+
+(million barrels a day)
+3.124
+
+3.117
+
+2008
+
+2009
+3.118
+
+3.107
+
+3.115
+
+3.0
+
+3.0
+2.819
+2.75
+
+2.785
+
+2.718
+
+2.697
+
+2.5
+
+2.5
+
+2.0
+
+2.0
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+Source: SHCP, "General Criteria for Economic Policy," 2008 and 2009.
+
+This decline in oil export revenue over the medium term is expected to be partially offset by
+gains in non-oil tax revenue, from the tax policy reform that began to be implemented in 2008,
+coupled with tax administration efforts.
+For a longer-term solution, the 2008 reform of the state-owned oil sector (PEMEX) aims to
+boost production by improving governance and increasing investment. Independent members
+will be added to the board of PEMEX, and new mechanisms for contracting with the private sector
+are now possible. However, private equity stakes in PEMEX, as well as the risk-sharing contracts
+that are standard in the global oil industry, are not allowed, leaving PEMEX at a disadvantage in this
+respect relative to other state-owned oil companies, such as Brazil’s Petrobras.
+It is too soon to know the reform’s pay-off in terms of higher oil production. A first test will be
+whether the investment-related elements of the reform will prove adequate to attract the large,
+technology-intensive projects and expertise necessary to develop Mexico’s deep water oil resources.
+Once such projects do begin, major effects on production could be as much as 10 years away.
+The PEMEX reform was accompanied by related modifications of the Fiscal Responsibility
+Law (FRL). Starting with the 2009 budget year, the calculation of the fiscal target will exclude
+capital spending by PEMEX (although this change does not necessarily represent the lifting of a
+constraint on PEMEX investment2 and PEMEX expenditure remains subject to congressional
+approval). This change does introduce a relaxation of the required fiscal stance over the next several
+years, relative to the path implied by the unmodified rule, worth about 0.6 percent of GDP in 2009.
+The FRL also was strengthened in a number of respects: (i) to raise the maximum size of the oil
+stabilization funds, which had been capped at relatively low levels, (ii) to record all PEMEX-related
+debt in the federal debt statistics, and (iii) to assure the orderly evolution of the augmented public
+debt. The authorities estimate that this will require keeping the augmented fiscal deficit—which
+includes PEMEX capital spending—at no more than 2½ percent of GDP each year.
+1
+2
+
+Prepared by Steve Phillips.
+
+Before this change, most PEMEX investment had not counted immediately against the targeted traditional
+budget balance—but years later, when associated amortization was paid. Now, new capital expenditure by
+PEMEX will be reflected contemporaneously, and more transparently, in the traditional budget balance, though
+not counted against the fiscal policy target.
+
+25
+Figure 9. Mexico: Public Debt Sustainability: Bound Tests 1/
+(Gross public sector debt in percent of GDP)
+Baseline and historical scenarios
+
+Interest rate shock (in percent)
+
+55
+50
+
+18
+Gross financing need under
+baseline (right scale)
+
+16
+
+55
+50
+
+Baseline
+
+45
+
+45
+
+Historical
+
+i-rate shock
+
+43
+
+14
+
+40
+
+Baseline
+
+40
+
+40
+
+12
+35
+
+35
+10
+
+30
+
+8
+25
+2003 2004 2005 2006 2007 2008 2009 2010 2011 2012
+
+Primary balance shock (in percent of GDP) and
+no policy change scenario (constant primary balance)
+
+55
+
+55
+
+50
+
+50
+
+47
+
+45
+40
+35
+30
+
+2.7
+3.9
+Historical: 1.0
+
+25
+2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013
+
+Growth shock (in percent per year)
+
+Growth shock
+
+Baseline:
+Scenario:
+
+30
+
+Baseline: 0.2
+Scenario: -0.1
+Historical: 1.3
+
+45
+40
+Baseline
+
+Scenario: 1.9
+Historical:
+
+40
+
+Baseline
+
+35
+
+Baseline: 3.0
+
+42
+
+PB shock
+
+No policy change
+
+40
+
+34
+
+30
+
+3.3
+
+25
+2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013
+
+25
+2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013
+
+Real depreciation and contingent liabilities shocks 3/
+
+Combined shock 2/
+55
+
+55
+
+50
+
+50
+
+50
+
+45
+
+Combined
+shock
+
+44
+
+45
+
+43
+40
+
+40
+
+40
+
+Baseline
+
+40
+Baseline
+contingent
+liabilities shock
+
+35
+
+35
+
+30
+
+30
+
+25
+2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013
+
+25
+2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013
+
+30 %
+depreciation
+
+Sources: International Monetary Fund, Country desk data, and staff estimates.
+1/ Shaded areas represent actual data.Individual shocks are permanent one-half standard deviation shocks.
+Figures in the boxes represent average projections for the respective variables in the baseline and scenario being
+presented. Ten-year historical average for the variable is also shown. Debt stock corresponds to gross public
+sector debt.
+2/ Permanent 1/4 standard deviation shocks applied to real interest rate, growth rate, and primary balance.
+3/ One-time real depreciation of 30 percent and 10 percent of GDP shock to contingent liabilities occur in 2008,
+with real depreciation defined as nominal depreciation (measured by percentage fall in dollar value of local
+currency) minus domestic inflation (based on GDP deflator).
+
+26
+duration should not threaten perceptions of solvency. But clearly, the stimulus has to be
+reversed in time, as government revenues from foreign sources—net oil exports—are
+projected to decline. (Indeed, the FRL will require an ongoing tightening of the “domestic”
+fiscal balance over the medium term, and for as long as net oil exports continue declining.)
+25.
+The staff broadly supported the authorities’ plans for targeted and careful use of
+the development banks to provide or incentivize credit.9 In recent months, development
+banks helped support the corporate bond market through guarantees and direct lending; the
+authorities plan to step up these activities in 2009. The well-capitalized development banks
+have room to expand, and the budget allows for further increasing capital. At a time of tight
+financial conditions, these activities can provide support to the economy, including by
+avoiding a supply-side credit shock.
+B. Financial Policies to Preserve Stability
+26.
+The mission noted that the initial impact of the global crisis on the Mexican
+banking sector had been modest, reflecting minimal direct exposure to toxic assets or
+troubled global players as counterparties, and strong reliance on domestic deposits for
+funding. Banks remain strongly capitalized and have been highly profitable (Table 5—see
+also the Selected Issues paper). With several of the largest Mexican banks being subsidiaries
+of large global institutions, however, groupwide caution in lending has translated into
+tightening credit conditions and slowing credit growth in Mexico. Potential liquidity or
+capital pressures that troubled global parents may put on their (highly liquid) Mexican
+subsidiaries are a potential concern, but the authorities noted that related party lending rules
+(which are conservative by international standards) are in place, and that they closely monitor
+the largest banks’ liquidity situation, and remain in close contact with counterpart
+supervisors. These measures have so far contained liquidity transfers, and the authorities
+emphasized that notwithstanding shocks to some parent banks in their home markets,
+spillovers to confidence in banks in Mexico have not been evident.
+27.
+Although risks remain, strong balance sheets position the banking system well
+for weathering the continued global turmoil and the domestic downturn. The banking
+system’s traditional business and funding model has provided insulation from significant
+losses related to global financial volatility. In 7 of the 8 largest banks, the deposit base is
+larger than the loan portfolio, and capital cushions are substantial. Although non-performing
+loans (particularly on the consumer lending side) are expected to increase further as the
+economy weakens, the authorities’ stress tests indicate that the system is well-placed to
+
+9
+
+Development banks operate under strict prudential controls and regulation by the banking supervisory agency,
+including an obligation for the government to provide appropriate capital. Their net lending is reported in the
+augmented fiscal balance and public sector borrowing requirement statistics.
+
+27
+handle shocks to credit quality and bond prices.10 Banks’ currency exposure is limited by
+regulation—foreign currency denominated credit is less than 5 percent of the total, and less
+than 15 percent of deposits is in foreign currency. Interbank liquidity has not come under
+pressure; lower-tier institutions that may yet face some problems would have recourse to
+Banxico’s expanded liquidity facilities.
+28.
+Financial markets show the effects of reduced appetite for risk and duration,
+and the authorities have responded with policy adjustments. Trading volumes have fallen
+in the derivatives market, as well as in the peso market. The small MBS market remains dry
+and dislocation has necessitated government support in the corporate paper market (see
+below). Moreover, short-term market valuation risk on holdings of long-term government
+bonds can be substantial for pension funds and some banks (a fact highlighted by the global
+EM bond selloff in October, although Mexican government bond prices quickly recovered
+from that episode, helped by steps to somewhat reduce duration). The authorities emphasized
+that such valuation losses do not affect pension funds’ long-run returns, nor threaten the
+solvency of banks, but could lead to an undesirable procyclical tightening of credit to the
+private sector. Against that background, they had recently modified accounting rules for
+some holdings of government bonds by banks.11
+29.
+Policy action to support financial markets may need to continue to ease the real
+effects of financial shocks. Although the corporate sector’s leverage is low by international
+standards—bank lending to the sector is about 7 percent of GDP and the corporate paper
+market is about 3 percent of GDP—and few firms tap international capital markets,
+disruptions to financing flows would reverberate through the real economy. The authorities
+have acted (through development banks) with partial guarantees and direct credit to help
+domestic debt rollovers when liquidity dried up in the corporate paper market; the programs
+could be stepped up if necessary. External rollover needs have been modest in the months
+since September. No major problems have been reported, but the fact that Cemex (Mexico’s
+largest international company) was only partially able to complete a planned swap of external
+debt maturing in 2009 is indicative of tight conditions. The authorities projected more
+substantial refinancing needs in 200912 but expected that Mexican firms would retain market
+access, albeit at tighter terms. The staff noted that should major dislocations occur, Banxico’s
+10
+
+A shock mimicking market conditions during the 1995 crisis would not drive capital in any grouping of banks
+below the regulatory minimum.
+11
+
+In particular, holdings of government bonds that are repo’d are no longer required to be valued at current
+market prices, but can instead be booked in the held-to-maturity category. To implement this change, a one-time
+reclassification of certain bond holdings has been permitted.
+12
+
+On residency basis, refinancing needs (excluding trade credit) are estimated around US$7 billion. Market
+estimates that also consider borrowing by affiliates suggest that Mexican corporates face refinancing needs on
+external bonds and syndicated loans of some US$16 billion in 2009.
+
+28
+possibilities for direct support to the corporate sector would be limited, but that assistance
+could be provided through other channels, including development banks.
+30.
+While the Mexican financial system remains generally resilient, the authorities
+are mindful of individual pressure points. The staff highlighted existing pressures on
+mutual fund redemptions, potential funding pressures on some small financial intermediaries,
+and still substantial holdings by non-resident investors of Mexican portfolio assets.13 The
+authorities emphasized that in contrast with previous crises, so far, residents’ portfolios had
+shifted within Mexico, towards banks and short-term government paper. However, in the
+current volatile financial environment, they stressed that they stood ready to address any
+emerging problems rapidly, to prevent them from escalating. A buy-back operation of the
+deposit insurer’s debt had helped liquidity in mutual funds, and supervisors were in close
+contact with institutions with potential liquidity or funding problems.
+31.
+The staff stressed the need for taking additional early steps where possible to
+head off pressures and support the functioning of financial markets. While the 2006
+FSAP Update recognized many strengths of the Mexican policy framework, enhancing tools
+for crisis management, contingency planning and monitoring are particularly important in the
+current turbulent environment, and further efforts may yet be needed to manage an
+impending credit crunch:
+•
+
+Coordination among regulators. Though recent policy actions illustrate the
+authorities’ ability to act speedily, the existence of multiple regulators could impair
+timely and strategic policy responses. The authorities noted that coordination amongst
+members of the Financial Stability Committee (FSC)14 is well advanced, with regular
+meetings of supervisors and a formal internal protocol on coordinated policy
+responses near finalization.
+
+•
+
+Strengthening the bank resolution framework. Although there is a special bank
+resolution regime under the banking law, bankruptcy proceedings for banks are
+currently undertaken within the corporate bankruptcy framework. This could
+potentially slow down aspects of the regulatory response. As part of their ongoing
+refinement of the financial policy framework, the authorities have prepared a draft
+reform to address these concerns.
+
+13
+
+At end-2007, non-residents held about 25 percent of GDP in Mexican portfolio assets (US$154 billion in
+equities and US$117 billion in bonds). These values have likely declined as the peso depreciated, the stock
+market fell, foreign investors exited the corporate paper market, and reduced their participation in the
+government bond market as part of the generalized emerging market sell-off. Non-residents have additional
+exposure to peso denominated bonds through offshore OTC derivatives, though data on these are not available.
+14
+
+Comprising the central bank, Ministry of Finance, bank supervisor and deposit insurer.
+
+29
+•
+
+Monitoring the corporate sector. The staff recommended broadening the scope of
+monitoring the corporate sectors’ domestic as well as external financing needs,
+including the operations of Mexican multinationals’ offshore affiliates. The
+authorities concurred, while adding that they have strengthened disclosure on
+corporate derivative exposures, noting that the losses in October largely reflected bad
+judgment by risk managers in a small number of Mexican corporates.
+
+•
+
+Facilitating financial market functioning. The authorities noted that if needed,
+recent measures to support markets—which include Banxico’s expanded liquidity
+facilities; a flexible approach to the government’s debt financing strategy to ease
+pressures on certain market segments; acting as a buyer of last resort or guarantor;
+and direct credit to the corporate sector—could be used more extensively.
+
+•
+
+Preparing for tail risks. Given its low external debt, Mexico is less vulnerable than
+many countries to a “sudden stop” of external financing (Figure 10). Even so, staff
+noted the value of contingency plans, including on how to use government resources
+most effectively to ease the impact of a potential sharp tightening of external
+financing conditions for the private sector.
+
+32.
+The staff also discussed implications for Mexico of financial sector policies in the
+advanced countries. Concerns have been expressed in some quarters that the extension of
+guarantees to financial intermediaries and assets in the advanced countries has increased the
+relative riskiness of emerging market assets, compounding pressure on asset prices and the
+cost of capital. The authorities agreed this was a potential concern, but felt that at present the
+sharp increase in global risk aversion was dominating any changes in relative risks.
+33.
+While near-term financial stability was a key focus, the authorities are also
+looking to needed future reforms. Going forward, they saw a need for increased regulation
+especially of non-bank institutions. They also hoped to be closely involved with reforms of
+the international financial architecture; in this context, some saw merits in the Spanish model
+of counter-cyclical provisioning and tighter regulation including of off-balance sheet risk and
+structured investments.
+C. Medium-Term Challenges and Goals
+34.
+The environment facing Mexico has deteriorated since the last consultation,
+beyond the near-term effects of the global crisis, raising the value of proceeding with
+pro-growth reforms. Growth of potential output in Mexico is likely to strengthen less than
+previously thought, reflecting a higher cost of capital internationally, and weaker growth in
+the U.S. Meanwhile, prospects for lower government revenue from oil exports over the
+medium term will reduce “fiscal space” for public sector investments.
+35.
+In this context, the authorities pointed to recent progress on reforms and agreed
+on the importance of maintaining momentum (Box 4). Recent reforms included steps in
+
+30
+Figure 10. Mexico: External Debt Sustainability: Bound Tests 1/
+(External debt in percent of GDP)
+Interest rate shock (in percent)
+
+Baseline and historical scenarios
+35
+30
+
+Gross financing need under
+baseline (right scale)
+
+Baseline
+
+15
+
+30
+
+i-rate shock
+
+30
+
+29
+
+29
+
+Historical
+
+Baseline
+
+25
+20
+
+10
+
+25
+
+5
+
+20
+
+0
+
+15
+
+15
+
+15
+10
+5
+0
+
+2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013
+
+Growth shock (in percent per year)
+
+2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013
+
+35
+
+35
+
+Baseline: 8.2
+Scenario: 8.4
+Historical: 7.7
+
+Non-interest current account shock
+(in percent of GDP)
+
+31
+
+30
+
+Growth shock
+
+CA shock
+
+29
+
+29
+Baseline
+
+25
+
+20
+
+Baseline:
+Scenario:
+Historical:
+
+Baseline
+
+25
+
+3.2
+2.2
+3.3
+
+20
+
+15
+2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013
+
+40
+
+30
+
+31
+
+29
+Baseline
+
+Baseline:
+
+-0.5
+
+Scenario:
+Historical:
+
+-0.8
+0.0
+
+15
+2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013
+
+Combined shock 2/
+35
+Combined
+shock
+
+31
+
+30
+
+35
+
+30
+
+Real depreciation shock 3/
+30 %
+depreciation
+
+Baseline
+
+37
+
+29
+
+25
+25
+20
+
+20
+
+15
+
+15
+
+2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013
+
+2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013
+
+Sources: International Monetary Fund, Country desk data, and staff estimates.
+1/ Shaded areas represent actual data. Individual shocks are permanent one-half standard deviation shocks.
+Figures in the boxes represent average projections for the respective variables in the baseline and scenario being
+presented. Ten-year historical average for the variable is also shown.
+2/ Permanent 1/4 standard deviation shocks applied to real interest rate, growth rate, and current account
+balance.
+3/ One-time real depreciation of 30 percent occurs in 2009.
+
+31
+
+Box 4. Outstanding Structural Reforms1
+The authorities are committed to an ambitious reform agenda, needed to boost potential growth in Mexico.
+Key challenges include:
+•
+
+Strengthening competition, particularly in key network sectors, is a priority. Effective
+implementation of the 2006 competition law, notably action by the strengthened competition commission,
+will be key.
+
+•
+
+Deepening financial intermediation. Access to credit and financial development are low. Reforms aim
+to improve access and competition (lower fees and commissions, correspondence banking, investment
+regime of pension funds and insurance companies). Contract enforcement and creditor rights’ protection
+needs to be strengthened.
+
+•
+
+Improving education. To increase accountability and progressivity, in 2008 the government introduced
+standardized national tests and performance-linked pay for primary education.
+
+•
+
+Resolving security issues by fighting crime. This is a priority of the government, with a recently
+approved judicial system reform.
+
+•
+
+Boosting competition, flexibility in product and labor markets, and reducing informality. This
+includes scope for rationalizing the electricity tariff structure and boosting productivity in the sector—for
+example through a reform of the national electricity company akin to the 2008 oil sector reform.
+
+•
+
+Liberalization of foreign trade and investment—removing those barriers to external competition that
+still exist in the form of import licensing requirements and limitations on FDI, building on recent steps to
+reduce exemptions from custom duties.
+
+1
+
+Prepared by Rodolphe Blavy.
+
+the areas of the state-owned oil sector, finance, education, and the judicial system. A plan to
+streamline external trade procedures and reduce tariffs on imports from countries with which
+Mexico does not have a free trade agreement was also approved late last year. Reforms to
+increase security and confront organized crime would continue to be a top priority.
+36.
+Improving the degree of competition among firms also remains a priority. The
+authorities emphasized ongoing progress, despite the absence of “headline” events recently.
+Promoting competitive behavior in key network sectors, such as telecommunications,
+transportation, and energy, could have major growth benefits and was particularly important.
+The staff also urged moving ahead with plans for labor reform, which would be even more
+important if net emigration of Mexicans to the U.S. slows.
+37.
+The staff welcomed the recent reform of PEMEX as a step in the right direction
+even though major benefits would take time to materialize (Box 3). The authorities were
+confident that this reform would be sufficient to begin the development of Mexico’s
+untapped oil resources, including in deep waters.
+
+32
+Mexico: Public Sector Operations
+(In percent of GDP)
+2007
+Budgetary revenue
+
+2008
+
+2009
+
+Projections
+2010
+2011
+
+2012
+
+2013
+21.0
+
+22.2
+
+22.3
+
+22.1
+
+21.6
+
+21.4
+
+21.2
+
+7.9
+
+8.2
+
+8.1
+
+7.5
+
+7.1
+
+6.7
+
+6.3
+
+2.5
+
+2.0
+
+1.1
+
+1.2
+
+0.8
+
+0.4
+
+0.0
+
+Nonoil revenues
+
+14.4
+
+14.1
+
+14.0
+
+14.1
+
+14.3
+
+14.5
+
+14.7
+
+Budgetary expenditure
+Wages
+Pensions
+Subsidies and transfers
+Infrastructure investment
+Other primary spending
+Interest
+
+22.2
+5.8
+2.1
+2.3
+3.0
+6.8
+2.1
+
+22.2
+5.9
+1.9
+2.7
+3.2
+6.6
+2.1
+
+23.9
+6.2
+2.0
+2.3
+4.6
+6.4
+2.3
+
+23.4
+6.1
+2.1
+2.4
+3.9
+6.3
+2.4
+
+23.1
+5.9
+2.2
+2.6
+3.7
+6.3
+2.4
+
+22.9
+5.8
+2.3
+2.6
+3.6
+6.3
+2.3
+
+22.8
+5.6
+2.4
+2.7
+3.5
+6.3
+2.3
+
+Non-budgetary spending
+
+1.5
+
+1.7
+
+1.1
+
+1.0
+
+0.7
+
+0.6
+
+0.6
+
+Oil revenues
+o/w: from net exports
+
+Augmented balance
+
+-1.4
+
+-1.7
+
+-2.9
+
+-2.8
+
+-2.5
+
+-2.4
+
+-2.4
+
+Gross public sector debt
+Net public sector debt
+
+38.3
+31.5
+
+39.3
+33.0
+
+42.1
+36.2
+
+42.5
+36.9
+
+41.7
+36.5
+
+41.0
+36.2
+
+40.4
+36.0
+
+Sources: Mexican authorities; and IMF staff estimates.
+
+38.
+Looking at the medium term, the staff noted the risk that declining revenue from
+PEMEX could constrain the growth of important public sector investments and social
+spending. This had been partly offset by the exclusion of PEMEX capital expenditures from
+the Fiscal Responsibility Law (FRL) budget target, which allows higher capital expenditures
+in 2009 and beyond. Nonetheless, it remains essential to continue to increase revenues
+through better tax administration, and keep the growth rate of the public sector wage bill
+below that of GDP, as set out in the authorities’ medium-term fiscal plan. Further fiscal space
+could be obtained by focusing the costly price subsidy to electricity consumption to those
+with low incomes.
+39.
+The authorities emphasized their commitment to maintaining fiscal discipline
+over the medium term. While the removal of PEMEX expenditures from the budget target
+would itself allow an easing of the fiscal stance in 2009 and in the medium term (relative to
+the path that would have been implied by the unmodified rule), this effect would dissipate
+over the longer term.15 Moreover, the policy rule for the annual fiscal balance now has been
+supplemented by a requirement to ensure the orderly evolution of the augmented public
+debt—and for this the authorities estimate that it will be necessary to keep the augmented
+fiscal deficit at no more than 2½ percent of GDP. The staff also encouraged the authorities to
+15
+
+The change relates to accounting for amortization payments, associated with oil sector investment undertaken
+in previous years. Until now, these counted as expenditure, reducing fiscal space under the balanced budget
+requirement. Indeed, because such amortization payments are scheduled to rise over the medium term, the
+unmodified fiscal rule would have required tightening the underlying fiscal position in coming years (beyond
+the tightening required to offset the decline of oil export revenue).
+
+33
+continue their work to monitor more systematically on and off-budget fiscal risks. This
+would be of growing importance in view of the impact of the weakening economic situation
+on contingent liabilities—including in the pension system—as well as increasing
+development bank guarantees, and public-private partnerships in infrastructure investment.
+40.
+Finally, the staff and the authorities discussed the possibility of eventually
+refining the fiscal policy framework. The balanced budget rule has a number of advantages
+and is supportive of fiscal discipline, but some features may be procyclical in nature or do
+not always assure the operation of automatic stabilizers. Consideration could be given to a
+rule that would allow greater, and more systematic, smoothing of expenditure in response to
+cyclical fluctuations (across budget years) in output and the tax base. This would help
+smooth the business cycle in a credibility-consistent manner.
+V. STAFF APPRAISAL
+41.
+Mexico, like other emerging markets, is being increasingly affected by the global
+crisis. Ongoing deleveraging and increased risk aversion of foreign investors have placed
+strains on many asset classes and institutions in emerging markets, including in Mexico. This
+financial shock is now being exacerbated by slumping external demand as the United
+States—to which Mexico’s economy is closely linked––faces a deep recession. As a result,
+Mexico is expected to experience a sharp slowdown, with substantial downside risks related
+to prospects for the U.S., and a further tightening of financing conditions
+42.
+That said, Mexico faces this external crisis from a position of much greater
+strength than in the past. Over the last decade, Mexico has made significant gains in
+improving the macroeconomic policy framework––including the flexible exchange rate––and
+in strengthening public, corporate and banking sector balance sheets. Correspondingly, the
+resilience of the economy to shocks has significantly increased, and—for the first time
+ever—the authorities are in a position to respond to a downturn with countercyclical policies.
+43.
+The current policy challenge is to smooth the downturn while maintaining
+stability. Financial market strains have been deftly handled––the policy measures taken since
+October have been effective in stabilizing markets. Sentiment has also been helped by the
+swap facility agreed with the U.S. Federal Reserve, as well as market perceptions that the
+creation of the SLF has improved financing options for key emerging market countries.
+44.
+The balance of inflation risks is shifting towards room for easing monetary
+policy. There should be substantial scope for lowering interest rates during 2009, given the
+projected growth slowdown and likely withdrawal of fiscal stimulus in 2010. However, the
+timing is complicated by the fact that there has not yet been a clear downturn in neither
+headline inflation nor expectations which remain above target. Balanced against these are the
+rising costs to waiting with the growing deterioration in the U.S. outlook. In this context,
+
+34
+ongoing steps by the Bank of Mexico to explain to the public the outlook and downside risks,
+and prepare the market for policy changes are welcome.
+45.
+The flexible exchange rate has been a key shock absorber. The depreciation of the
+peso in October has helped clear asset markets and rebalance portfolios, while central bank
+intervention—in controlled quantities—has helped address liquidity shortages in the foreign
+exchange market while preserving the most essential aspects of the flexible currency regime.
+From a medium-term perspective, the peso may now be somewhat undervalued, based on the
+staff’s various methodologies.
+46.
+The 2009 budget provides welcome stimulus, but the fiscal stance will need to be
+kept under review as the situation develops. The planned stimulus in this year’s budget is
+very timely and the fiscal stance at the present exceptional juncture is appropriate. Budget
+policy is being supplemented by an important effort to support intermediation and financial
+stability through development banks. The policy of hedging the price of oil sold by PEMEX
+in the upcoming budget year is expected to pay handsome dividends in 2009—an experience
+which may offer lessons to other countries—and should help preserve room for the planned
+expansion of spending to support activity. But with the expiration of the oil price hedge, the
+stimulus would be largely withdrawn in 2010. Looking forward, further easing could be
+considered if the economic situation were to deteriorate significantly more than expected, or
+to smooth the withdrawal of stimulus in 2010. However, financing and implementation
+constraints and the potential impact on credibility are limiting factors.
+47.
+Nonetheless, financial conditions remain tight with risks to the downside––early
+action to strengthen further the risk management framework is key. Risks in individual
+financial sector segments—including smaller intermediaries and corporate financing
+prospects—will need to be monitored carefully and it will be important to continue moving
+proactively. It would be opportune to press ahead with ongoing efforts to bolster the risk
+management framework, including advancing on the proposed reform of the bankruptcy
+framework for banks, and further extensions of current risk assessments to analyzing
+liquidity and funding risks for banks and corporates. The enhanced coordination amongst the
+different financial sector regulators is a welcome step and it will be important to finalize
+agreed protocols for joint action and information sharing, while also engaging in “fire drill”
+exercises to test readiness.
+48.
+The increasingly less favorable medium-term environment heightens the
+importance of accelerating the reform agenda. Looking forward, potential growth in
+Mexico is likely to be adversely affected by a higher global cost of capital, weaker U.S.
+potential growth, and falling oil production. This will add to the central challenge facing
+Mexico of boosting relatively low levels of output and productivity growth. It will be crucial
+to pick up the pace of implementation of the well-identified reform agenda, including on
+increasing product market competition and labor market flexibility. The recently approved
+PEMEX reform is a step forward, but potential production benefits are some years away,
+
+35
+while the effectiveness of the new framework for attracting needed new private participation
+is yet to be demonstrated.
+49.
+Assuring the fiscal space for new public investment and key social expenditures
+is another key challenge. Fiscal space is projected to come under pressure over the mediumterm, as oil revenue falls, and pension costs rise. This highlights the importance of achieving
+the authorities’ goals for tax administration gains and restraint of current expenditure. Other
+policies to raise revenue or cut untargeted subsidies may become necessary. The constraints
+to managing the economic downturn within the current balanced budget rule suggest the
+possibility of eventually moving to a cyclically-adjusted fiscal balance target. In addition, the
+likely increase in contingent fiscal liabilities because of the crisis, underscores the need to
+continue enhancing the analysis of fiscal risks, including at the aggregate public sector level.
+50.
+It is recommended that the next Article IV consultation with Mexico occur on the
+standard 12-month cycle.
+
+36
+Table 1. Mexico: Selected Economic, Financial, and Social Indicators, 2004–2010
+I. Social and Demographic Indicators
+GDP per capita (U.S. dollars, 2007)
+Population (millions, 2007)
+Life expectancy at birth (years, 2006)
+Under 5 mortality rate (per thousand, 2006)
+
+9,717
+105.3
+74.5
+35.3
+
+Households below the poverty line (percent, 2002)
+Income share of highest 20 percent / lowest 20 percent
+Adult illiteracy rate (2005)
+Gross primary education enrollment rate (2006)
+
+33.0
+12.8
+8.4
+112.7
+
+II. Economic Indicators
+2004
+
+2005
+
+2006
+
+2007
+
+Proj.
+2008
+
+Proj.
+2009
+
+Proj.
+2010
+
+(Annual percentage change, unless otherwise indicated)
+National accounts in constant prices
+Real GDP
+Net exports (contribution)
+Total domestic demand
+Private consumption
+Public consumption
+Gross fixed private investment
+Gross fixed public investment 1/
+Change in business inventories (contribution)
+
+4.0
+0.0
+3.9
+5.6
+-2.8
+9.3
+3.0
+-1.0
+
+3.1
+-0.6
+3.7
+4.8
+3.5
+8.5
+-1.7
+-1.2
+
+4.9
+-0.8
+5.6
+5.6
+0.3
+11.2
+2.6
+-0.1
+
+3.2
+-0.4
+3.5
+4.2
+1.0
+5.5
+6.3
+-0.6
+
+1.8
+-1.5
+3.2
+3.3
+0.2
+5.9
+3.9
+-0.2
+
+-0.3
+-0.2
+-0.1
+0.6
+2.0
+-5.0
+5.2
+-0.1
+
+2.1
+-0.4
+2.4
+2.2
+2.1
+2.7
+1.8
+0.1
+
+External sector
+Exports, f.o.b.
+Export volume
+Imports, f.o.b.
+Import volume
+Petroleum exports (percent of total exports)
+Terms of trade (deterioration -)
+
+14.1
+2.1
+15.4
+9.3
+12.6
+5.8
+
+14.0
+5.3
+12.7
+7.3
+14.9
+3.0
+
+16.7
+8.5
+15.4
+10.4
+15.6
+2.9
+
+8.8
+3.5
+10.1
+4.4
+15.8
+-0.3
+
+8.8
+-1.2
+11.1
+2.6
+17.0
+1.6
+
+-13.9
+-1.8
+-14.0
+-6.3
+10.7
+-4.5
+
+6.7
+2.9
+6.1
+2.4
+12.3
+0.0
+
+-4.6
+
+3.4
+
+0.0
+
+-0.3
+
+-1.8
+
+...
+
+...
+
+-3.8
+
+4.1
+
+0.5
+
+-0.1
+
+3.2
+
+...
+
+...
+
+5.1
+1.5
+3.9
+0.3
+
+3.3
+3.2
+3.6
+-0.2
+
+4.0
+4.7
+3.6
+0.4
+
+3.7
+4.2
+3.7
+1.0
+
+6.5
+...
+3.9
+...
+
+3.6
+...
+4.5
+...
+
+3.1
+...
+4.2
+...
+
+12.6
+6.8
+
+15.0
+9.2
+
+12.8
+7.2
+
+11.5
+7.2
+
+11.9
+7.7
+
+8.0
+...
+
+8.4
+...
+
+Exchange rates
+Nominal exchange rate (US$/Mex$)
+(average, depreciation -)
+Real effective exchange rate (CPI based)
+(average, depreciation -)
+Employment and inflation
+Consumer prices (end of year)
+Formal sector employment (annual average)
+Formal sector unemployment rate (annual average)
+Real manufacturing wages (annual average)
+Money and credit
+Broad money (M4a)
+Treasury bill rate (28-day cetes, in percent, annual average)
+
+(In percent of GDP)
+Nonfinancial public sector
+Augmented balance 2/
+Non-oil augmented balance
+Augmented primary balance
+Traditional balance 3/
+Gross public sector debt
+Net public sector debt
+o/w percent in foreign currency
+
+-1.7
+-6.1
+1.2
+-0.2
+41.4
+36.8
+39.1
+
+-1.4
+-6.4
+1.6
+-0.1
+39.9
+35.3
+34.8
+
+-0.6
+-5.8
+2.2
+0.1
+38.5
+32.5
+28.9
+
+-1.4
+-6.5
+1.3
+0.0
+38.3
+31.5
+26.4
+
+-1.7
+-6.8
+1.3
+0.0
+39.3
+33.0
+21.6
+
+-2.9
+-7.5
+-0.2
+-1.8
+42.1
+36.2
+18.9
+
+-2.8
+-6.7
+-0.1
+-1.8
+42.5
+36.9
+17.5
+
+Savings and investment
+Gross domestic investment
+Public investment
+Private investment
+Change in inventories
+Gross national saving
+Public saving 4/
+Private saving
+External current account balance
+Non-oil external current account balance
+Net foreign direct investment
+
+24.8
+4.7
+15.0
+5.1
+23.9
+2.9
+21.0
+-0.9
+-2.5
+2.5
+
+24.1
+4.5
+15.6
+4.1
+23.5
+3.1
+20.4
+-0.7
+-2.4
+1.9
+
+25.9
+4.4
+16.3
+5.2
+25.3
+3.8
+21.5
+-0.6
+-2.6
+1.5
+
+26.0
+4.5
+16.3
+5.2
+25.0
+3.1
+21.9
+-1.0
+-2.9
+2.6
+
+26.9
+4.7
+16.4
+5.8
+24.7
+3.0
+21.7
+-2.2
+-3.4
+3.0
+
+26.3
+5.0
+16.1
+5.3
+24.1
+2.1
+22.0
+-2.2
+-2.8
+1.8
+
+26.4
+4.9
+16.1
+5.4
+24.0
+2.2
+21.8
+-2.5
+-3.1
+2.7
+
+7.0
+
+6.6
+
+6.9
+
+7.8
+
+78.0
+172.7
+18.9
+61.7
+
+85.6
+145.1
+20.6
+85.7
+
+91.2
+136.3
+26.0
+47.3
+
+91.2
+119.3
+27.0
+56.4
+
+(In percent of exports of goods, nonfactor services, and transfers)
+Public external debt service 5/
+
+11.8
+
+10.2
+
+13.9
+
+(In billions of U.S. dollars, unless otherwise indicated)
+Net international reserves
+Gross official reserves in percent of short-term debt 6/
+Gross external debt (in percent of GDP, end of period)
+Crude oil export price, Mexican mix (US$/bbl)
+
+61.5
+155.1
+21.9
+31.0
+
+68.7
+125.7
+20.4
+42.8
+
+67.7
+174.9
+17.8
+53.1
+
+Sources: National Institute of Statistics and Geography; Bank of Mexico; Secretariat of Finance and Public Credit; and IMF staff estimates.
+1/ Staff estimates.
+2/ Includes adjustments for development banks, Pidiregas, oil stabilization fund, IPAB.
+3/ The break in the series in 2009 is due to definitional and accounting changes.
+4/ Estimated as as the difference between the augmented fiscal balance, as reported by SHCP, and public investment, as reported in the national
+accounts.
+5/ Includes the IMF and public development banks and trust funds net of the collateral of Brady bonds.
+6/ In percent of short-term debt by residual maturity. Historical data include all prepayments.
+
+37
+Table 2. Mexico: Financial Operations of the Public Sector, 2005–2013
+(In percent of GDP)
+2005
+
+Budgetary revenue, by type
+
+2006
+
+2007
+
+2010
+
+2011
+
+2012
+
+2013
+
+Budget
+
+Proj.
+
+Budget
+
+Proj.
+
+Proj.
+
+Proj.
+
+Proj.
+
+Proj.
+21.0
+
+2008
+
+2009
+
+21.1
+
+21.9
+
+22.2
+
+21.1
+
+22.3
+
+21.7
+
+22.1
+
+21.6
+
+21.4
+
+21.2
+
+Oil revenue
+
+7.9
+
+8.3
+
+7.9
+
+7.2
+
+8.2
+
+7.9
+
+8.1
+
+7.5
+
+7.1
+
+6.7
+
+6.3
+
+Non-oil tax revenue 1/
+
+8.6
+
+9.0
+
+9.4
+
+10.0
+
+9.9
+
+9.8
+
+9.9
+
+10.1
+
+10.2
+
+10.4
+
+10.6
+
+Non-oil non-tax revenue
+
+4.6
+
+4.6
+
+5.0
+
+3.9
+
+4.2
+
+4.0
+
+4.1
+
+4.1
+
+4.1
+
+4.1
+
+4.1
+
+Budgetary revenue, by entity
+Federal government revenue
+Tax revenue, of which:
+excises (including fuel)
+Nontax revenue
+Public enterprises
+PEMEX
+Other
+
+21.1
+15.3
+8.8
+0.5
+6.5
+5.8
+2.0
+3.8
+
+21.9
+15.1
+8.6
+-0.1
+6.5
+6.8
+3.1
+3.7
+
+22.2
+15.3
+9.0
+-0.1
+6.3
+6.9
+3.4
+3.6
+
+21.1
+14.8
+10.1
+0.5
+4.6
+6.3
+2.9
+3.4
+
+22.3
+16.0
+8.2
+-1.3
+7.7
+6.3
+2.8
+3.5
+
+21.7
+14.9
+9.0
+-0.5
+5.9
+6.8
+3.2
+3.6
+
+22.1
+16.2
+11.1
+1.5
+5.1
+6.0
+2.6
+3.3
+
+21.6
+15.6
+10.9
+1.2
+4.8
+6.0
+2.6
+3.4
+
+21.4
+15.5
+10.8
+1.0
+4.8
+5.8
+2.4
+3.4
+
+21.2
+15.5
+10.9
+0.9
+4.6
+5.6
+2.3
+3.4
+
+21.0
+15.5
+11.1
+0.9
+4.4
+5.5
+2.1
+3.4
+
+Budgetary expenditure
+Primary
+Programmable
+Current
+Wages
+Pensions
+Subsidies and transfers
+Other
+Capital
+Physical capital
+Financial capital
+Nonprogrammable
+Of which: revenue sharing
+Interest payments 2/
+
+21.2
+18.9
+15.8
+12.7
+6.0
+1.9
+2.2
+2.5
+3.1
+2.5
+0.6
+3.1
+3.0
+2.3
+
+21.8
+19.4
+16.0
+12.8
+5.9
+1.9
+2.2
+2.8
+3.2
+2.6
+0.6
+3.4
+3.2
+2.4
+
+22.2
+20.1
+17.0
+13.3
+5.8
+2.1
+2.3
+3.1
+3.6
+3.0
+0.6
+3.1
+3.0
+2.1
+
+21.1
+18.9
+15.5
+12.1
+5.8
+1.9
+2.4
+2.0
+3.4
+3.1
+0.3
+3.3
+3.3
+2.2
+
+22.2
+20.2
+16.8
+13.2
+5.9
+1.9
+2.7
+2.7
+3.6
+3.2
+0.4
+3.4
+3.3
+2.1
+
+23.4
+21.2
+17.8
+13.2
+6.1
+2.0
+2.3
+2.8
+4.6
+4.2
+0.4
+3.4
+3.3
+2.3
+
+23.9
+21.6
+18.4
+13.4
+6.2
+2.0
+2.3
+2.8
+5.0
+4.6
+0.4
+3.3
+3.1
+2.3
+
+23.4
+21.0
+17.7
+13.5
+6.1
+2.1
+2.4
+2.8
+4.1
+3.9
+0.2
+3.3
+3.2
+2.4
+
+23.1
+20.8
+17.4
+13.5
+5.9
+2.2
+2.6
+2.8
+3.9
+3.7
+0.2
+3.3
+3.2
+2.4
+
+22.9
+20.6
+17.3
+13.5
+5.8
+2.3
+2.6
+2.8
+3.8
+3.6
+0.2
+3.3
+3.2
+2.3
+
+22.8
+20.5
+17.2
+13.5
+5.6
+2.4
+2.7
+2.8
+3.7
+3.5
+0.2
+3.3
+3.2
+2.3
+
+Traditional balance 3/
+Traditional balance for balanced budget rule
+
+-0.1
+…
+
+0.1
+…
+
+0.0
+0.0
+
+0.0
+0.0
+
+0.0
+0.0
+
+-1.8
+0.0
+
+-1.8
+0.0
+
+-1.8
+0.0
+
+-1.8
+0.0
+
+-1.8
+0.0
+
+-1.8
+0.0
+
+Adjustments to the traditional balance
+PIDIREGAS
+IPAB
+Budgetary adjustments
+PEMEX, oil stabilization fund, FARP (-: net inflows)
+FARAC
+Debtor support
+Development banks
+Nonrecurring revenue
+
+1.2
+0.9
+0.2
+0.1
+-0.1
+0.0
+0.0
+-0.1
+0.2
+
+0.7
+1.1
+0.1
+0.2
+-0.5
+0.0
+0.0
+-0.5
+0.3
+
+1.5
+0.9
+0.1
+0.4
+-0.4
+-0.2
+0.0
+0.0
+0.6
+
+1.9
+1.2
+0.2
+0.1
+0.0
+0.0
+0.0
+0.3
+0.1
+
+1.7
+1.1
+0.2
+0.2
+-0.3
+0.0
+0.0
+0.3
+0.2
+
+0.8
+0.2
+0.2
+0.2
+-0.2
+0.0
+0.0
+0.4
+0.0
+
+1.1
+0.2
+0.2
+0.3
+-0.2
+0.0
+0.0
+0.5
+0.1
+
+1.0
+0.2
+0.1
+0.1
+0.0
+0.0
+0.0
+0.4
+0.1
+
+0.7
+0.2
+0.1
+0.2
+-0.2
+0.0
+0.0
+0.3
+0.1
+
+0.6
+0.2
+0.1
+0.1
+-0.2
+0.0
+0.0
+0.3
+0.1
+
+0.6
+0.2
+0.1
+0.1
+-0.2
+0.0
+0.0
+0.3
+0.1
+
+Augmented balance 4/
+Augmented interest expenditure
+Augmented primary balance 5/
+
+-1.4
+2.9
+1.6
+
+-0.6
+2.8
+2.2
+
+-1.4
+2.7
+1.3
+
+-1.9
+2.7
+0.8
+
+-1.7
+3.0
+1.3
+
+-2.6
+2.5
+-0.1
+
+-2.9
+2.6
+-0.2
+
+-2.8
+2.6
+-0.1
+
+-2.5
+2.6
+0.1
+
+-2.4
+2.5
+0.1
+
+-2.4
+2.5
+0.1
+
+42.8
+-1.5
+-6.4
+-6.5
+5.0
+2.8
+6.9
+3.4
+39.9
+67.9
+32.1
+35.3
+9,230
+
+53.1
+-1.1
+-5.8
+-6.3
+5.2
+3.1
+6.9
+3.7
+38.5
+73.5
+26.5
+32.5
+10,342
+
+61.7
+-1.5
+-6.5
+-6.5
+5.1
+2.8
+6.7
+3.9
+38.3
+73.0
+27.0
+31.5
+11,178
+
+49.0
+-1.6
+-6.3
+
+85.7
+-1.4
+-6.8
+-6.5
+5.1
+3.1
+6.9
+4.3
+39.3
+75.8
+24.2
+33.0
+12,140
+
+70.0
+-2.2
+...
+
+47.3
+-2.4
+-7.5
+-7.0
+4.6
+3.5
+7.0
+4.6
+42.1
+78.5
+21.5
+36.2
+12,734
+
+56.4
+-2.4
+-6.7
+-6.3
+4.0
+3.5
+7.0
+3.9
+42.5
+79.9
+20.1
+36.9
+13,505
+
+62.1
+-2.1
+-6.0
+-5.7
+3.6
+3.5
+6.9
+3.7
+41.7
+81.0
+19.0
+36.5
+14,611
+
+65.4
+-2.1
+-5.6
+-5.2
+3.2
+3.5
+6.9
+3.6
+41.0
+82.2
+17.8
+36.2
+15,769
+
+67.6
+-2.1
+-5.2
+-4.9
+2.8
+3.5
+6.9
+3.5
+40.4
+83.2
+16.8
+36.0
+17,015
+
+Memorandum items
+Crude oil export price, Mexican mix (US$/bbl)
+Augmented balance excluding development banks
+Non-oil augmented balance 6/
+Non-oil augmented balance excluding development banks
+Oil augmented balance
+Oil-related expenditure
+Transfers to state and local governments
+Total investment spending
+Gross public sector debt
+Domestic (percentage of total debt)
+External (percentage of total debt)
+Net public sector debt
+Nominal GDP (billions of Mexican pesos)
+
+4.4
+2.7
+6.7
+4.3
+...
+...
+...
+...
+12,078
+
+...
+...
+...
+4.4
+...
+...
+...
+...
+12,883
+
+Sources: Mexican authorities; and IMF staff estimates. Data refer to non-financial public sector, including PEMEX and other public enterprises but excluding state and
+local governments (except as noted).
+1/ Total tax revenue excluding excise tax on gasoline.
+2/ Includes transfers to IPAB and the debtor support programs.
+3/ The break in the series in 2009 is due to definitional and accounting changes.
+4/ Public Sector Borrowing Requirements excl. nonrecurrent revenue.
+5/ Treats transfers to IPAB as interest payments.
+6/ Excludes oil revenue (oil extraction rights, PEMEX net income, oil excess return levies, excise tax on gasoline) and PEMEX operational expenditure, interest
+payments, and capital expenditure.
+
+38
+Table 3. Mexico: Summary Balance of Payments, 2005–2013
+2005
+Current account
+Merchandise trade balance, f.o.b.
+Exports
+Of which :
+Petroleum and derivatives
+Manufactures
+Imports
+Petroleum and derivatives
+Factor income
+Other services and transfers
+of which Remittances
+
+2006
+
+2007
+
+(In billions of U.S. dollars)
+-5.6
+-6.0
+-10.2
+-7.6
+-6.1
+-10.1
+214.2
+249.9
+271.9
+
+Staff Projections
+2010
+2011
+
+2008
+
+2009
+
+-24.1
+-17.4
+295.8
+
+-20.8
+-14.6
+254.7
+
+-24.4
+-14.0
+271.9
+
+2012
+
+2013
+
+-27.8
+-14.7
+295.8
+
+-31.4
+-16.5
+321.0
+
+-34.8
+-17.4
+348.1
+
+31.9
+175.2
+-221.8
+16.9
+-14.0
+16.0
+20.3
+
+39.0
+202.7
+-256.1
+20.0
+-18.3
+18.4
+23.7
+
+43.0
+219.7
+-281.9
+23.9
+-18.2
+18.1
+23.8
+
+50.4
+235.8
+-313.2
+37.5
+-22.9
+16.2
+23.5
+
+27.4
+220.0
+-269.3
+21.9
+-21.4
+15.2
+21.3
+
+33.5
+230.9
+-285.8
+27.2
+-26.0
+15.6
+22.1
+
+36.1
+251.9
+-310.5
+34.4
+-30.0
+17.0
+24.4
+
+37.4
+275.5
+-337.5
+40.8
+-33.4
+18.5
+26.9
+
+38.3
+301.6
+-365.5
+46.9
+-37.1
+19.8
+29.4
+
+Financial account
+Public sector
+Medium- and long-term borrowing
+Disbursements
+Amortization 1/
+Other, including short-term borrowing
+Private sector
+Direct investment
+Bonds and loans 2/
+Banking system
+Corporate sector
+Equity investments and change in assets abroad
+Equity investments
+Change in assets abroad
+
+15.8
+-6.7
+-7.3
+6.8
+14.1
+0.5
+22.5
+16.3
+10.6
+-2.3
+12.9
+-4.4
+3.4
+-7.7
+
+-1.6
+-18.4
+-20.5
+9.8
+30.3
+2.1
+16.7
+13.9
+12.2
+0.4
+11.7
+-9.4
+2.8
+-12.2
+
+20.7
+2.1
+-5.1
+6.6
+11.7
+7.2
+18.6
+18.8
+22.0
+3.0
+19.0
+-22.3
+-0.5
+-21.8
+
+31.7
+-2.6
+-3.6
+9.2
+12.8
+1.0
+34.3
+23.0
+34.3
+0.0
+34.3
+-23.0
+-0.5
+-22.5
+
+26.5
+10.1
+2.0
+14.4
+12.4
+8.1
+16.3
+11.9
+17.1
+0.0
+17.1
+-12.7
+-0.5
+-12.2
+
+24.4
+0.0
+-1.0
+11.7
+12.6
+1.0
+24.4
+18.9
+23.0
+0.2
+22.9
+-17.5
+-0.5
+-17.0
+
+27.8
+0.0
+-1.0
+11.6
+12.5
+1.0
+27.8
+20.3
+26.2
+0.5
+25.8
+-18.8
+-0.5
+-18.2
+
+31.4
+0.1
+-0.9
+11.5
+12.4
+1.0
+31.4
+21.7
+29.8
+0.5
+29.3
+-20.1
+-0.5
+-19.6
+
+34.8
+0.1
+-0.9
+11.4
+12.3
+1.0
+34.7
+23.2
+33.0
+0.2
+32.8
+-21.5
+-0.5
+-20.9
+
+Errors and omissions and valuation adjustments
+Net international reserves (increase -)
+
+-3.0
+-7.2
+
+6.7
+1.0
+
+-0.1
+-10.3
+
+0.0
+-7.6
+
+0.0
+-5.6
+
+0.0
+0.0
+
+0.0
+0.0
+
+0.0
+0.0
+
+0.0
+0.0
+
+-2.2
+-2.8
+-2.1
+27.0
+2.9
+28.5
+2.3
+0.6
+91.8
+
+-2.5
+-3.1
+-2.0
+27.4
+3.4
+28.8
+2.7
+0.6
+98.1
+
+-2.6
+-2.8
+-1.5
+27.8
+3.4
+29.1
+3.2
+0.2
+112.0
+
+-2.8
+-2.4
+-1.1
+28.2
+3.3
+29.6
+3.6
+-0.3
+127.4
+
+-2.9
+-2.1
+-0.7
+28.6
+3.1
+30.0
+3.8
+-0.7
+144.1
+
+100.4
+3.9
+3.5
+136.3
+102.4
+1.40
+47.3
+26.0
+9.1
+244.9
+64.7
+
+100.4
+3.6
+3.2
+119.3
+89.7
+1.44
+56.4
+27.0
+8.6
+267.9
+64.0
+
+100.4
+3.3
+2.9
+104.6
+78.8
+1.41
+62.1
+27.6
+7.9
+294.2
+63.3
+
+100.4
+3.0
+2.7
+91.9
+69.7
+1.38
+65.4
+28.4
+7.3
+324.1
+62.6
+
+100.4
+…
+…
+…
+…
+1.37
+67.6
+29.3
+6.8
+357.1
+61.8
+
+6.9
+
+7.8
+
+7.7
+
+7.3
+
+7.0
+
+-1.8
+-1.8
+-6.3
+-3.5
+-7.0
+-6.3
+
+2.9
+3.0
+2.4
+3.0
+2.2
+2.5
+
+5.8
+7.0
+5.5
+5.8
+5.4
+5.8
+
+6.3
+7.4
+6.2
+5.4
+6.5
+5.5
+
+6.5
+7.5
+6.1
+5.0
+6.6
+5.3
+
+(In percent of GDP, unless otherwise indicated)
+Memorandum items:
+Current account balance
+-0.7
+-0.6
+-1.0
+-2.2
+Nonoil current account balance 3/
+-2.4
+-2.6
+-2.9
+-3.4
+Nonoil trade balance 3/
+-2.7
+-2.6
+-2.9
+-2.8
+25.3
+26.3
+26.6
+27.1
+Merchandise exports
+3.8
+4.1
+4.2
+4.6
+Petroleum and derivatives exports
+26.2
+27.0
+27.6
+28.7
+Merchandise imports
+2.0
+2.1
+2.3
+3.4
+Petroleum and derivatives imports
+Oil Trade balance
+1.8
+2.0
+1.9
+1.2
+54.2
+64.0
+64.2
+82.2
+Gross financing needs (billions of US$) 4/
+Gross international reserves 5/
+74.1
+76.3
+87.2
+94.8
+End-year (billions of US$)
+3.2
+3.0
+3.1
+3.9
+Months of imports of goods and services
+2.9
+2.8
+2.9
+3.6
+Months of imports plus interest payments
+125.7
+174.9
+172.7
+145.1
+Percent of short-term debt (by residual maturity) 6/
+114.0
+141.7
+116.9
+110.0
+Percent of gross financing requirement 7/
+Crude oil export volume (millions of bbl/day)
+1.82
+1.79
+1.69
+1.43
+Crude oil export price, Mexican mix (US$/bbl)
+42.8
+53.1
+61.7
+85.7
+Gross total external debt
+20.4
+17.8
+18.9
+20.6
+Of which: Public external debt
+12.8
+10.2
+10.3
+9.5
+Gross total external debt (billions of US$)
+173.1
+169.0
+193.1
+224.8
+Of which: Public external debt
+104.0
+89.2
+85.0
+77.9
+Public external debt service (in percent of exports
+of goods, services, and transfers)
+10.2
+13.9
+7.0
+6.6
+Export volume
+Non-oil exports
+Import volume
+Consumer goods
+Intermediate goods
+Capital goods
+
+(Annual percentage change)
+5.3
+8.5
+3.5
+6.8
+10.5
+5.3
+7.3
+10.4
+4.4
+21.6
+14.4
+12.6
+5.3
+11.5
+3.1
+13.7
+13.8
+6.2
+
+-1.2
+2.5
+2.6
+9.8
+-0.5
+10.3
+
+Sources: Bank of Mexico; Secretariat of Finance and Public Credit; and IMF staff projections.
+1/ Includes pre-payment of external debt.
+2/ Includes financing of PIDIREGAS.
+3/ Excluding oil exports and petroleum products imports.
+4/ Defined as the sum of the current account deficit, debt amortization (including short-term debt), and gross reserves accumulation.
+5/ Excludes balances under bilateral payments accounts.
+6/ In percent of short-term debt by residual maturity. Historical data include all prepayments.
+7/ The financing requirement excludes pre-payments of public sector debt and reserve accumulation.
+
+39
+
+Table 4. Mexico: Summary Operations of the Financial System, 2002–2008 1/
+2008
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+Q1
+
+Q2
+
+Q3
+
+(In billions of Mexican pesos)
+Bank of Mexico
+Net international reserves 2/
+In U.S. dollars (billions)
+Net domestic assets
+Net credit to nonfinancial public sector
+Net credit to financial institutions
+Other
+Monetary base
+
+500.9
+48.0
+-237.0
+-152.6
+97.2
+-181.6
+
+645.4
+57.4
+-341.8
+-142.8
+92.1
+-291.1
+
+685.7
+61.5
+-345.5
+-144.4
+81.9
+-283.0
+
+730.3
+68.7
+-350.2
+-201.9
+81.1
+-229.5
+
+731.7
+67.7
+-281.9
+-429.8
+81.1
+66.8
+
+851.3
+78.0
+-356.6
+-676.7
+74.8
+245.3
+
+894.9
+84.0
+-447.2
+-774.4
+74.1
+253.1
+
+883.0
+85.7
+-435.4
+-817.5
+73.0
+309.1
+
+914.9
+83.3
+-456.3
+-936.8
+72.5
+408.1
+
+263.9
+
+303.6
+
+340.2
+
+380.0
+
+449.8
+
+494.7
+
+447.7
+
+447.6
+
+458.6
+
+599.1
+2,217.7
+1,065.0
+130.7
+1,284.9
+3,304.6
+
+543.7
+2,467.2
+1,207.9
+112.6
+1,399.0
+3,750.7
+
+498.2
+2,699.0
+1,297.7
+154.9
+1,579.4
+4,222.0
+
+567.1
+2,893.5
+1,259.2
+168.6
+1,762.1
+4,857.2
+
+339.7
+3,453.7
+1,326.3
+73.3
+2,103.7
+5,480.4
+
+409.4
+4,014.9
+1,451.0
+4.0
+2,471.4
+6,113.4
+
+436.7
+3,920.0
+1,351.5
+3.1
+2,564.0
+6,299.6
+
+362.0
+4,163.4
+1,418.2
+2.4
+2,634.6
+6,343.1
+
+553.3
+4,076.8
+1,305.7
+1.9
+2,714.7
+6,586.2
+
+(In annual percentage change)
+17.0
+15.0
+12.0
+10.8
+13.5
+12.6
+10.2
+8.9
+12.9
+
+11.7
+15.0
+11.6
+
+18.4
+12.8
+19.4
+
+10.0
+11.5
+17.5
+
+9.2
+13.2
+17.7
+
+9.5
+11.6
+16.8
+
+11.2
+12.0
+14.0
+
+2.1
+22.1
+15.1
+2.1
+
+9.0
+16.9
+19.9
+2.2
+
+17.2
+6.1
+18.7
+1.1
+
+30.5
+7.5
+20.3
+22.5
+
+27.3
+4.8
+13.7
+33.8
+
+18.8
+16.3
+15.6
+25.9
+
+14.7
+19.8
+13.8
+22.1
+
+6.1
+25.9
+10.6
+17.2
+
+(In percent of GDP)
+4.0
+4.0
+49.6
+49.3
+18.5
+18.4
+
+4.1
+52.6
+19.1
+
+4.3
+53.0
+20.3
+
+4.4
+54.7
+22.1
+
+3.8
+53.2
+21.7
+
+3.7
+52.5
+21.8
+
+3.7
+53.4
+22.0
+
+9.8
+9.2
+11.2
+3.4
+7.8
+5.4
+
+11.5
+8.9
+12.0
+4.1
+8.0
+5.9
+
+13.5
+8.6
+12.7
+4.6
+8.0
+7.3
+
+12.5
+9.2
+12.5
+4.5
+8.0
+7.1
+
+12.5
+9.3
+12.4
+4.5
+7.9
+7.2
+
+12.3
+9.8
+12.3
+4.3
+8.0
+7.4
+
+Financial system 1/
+Net foreign assets
+Net domestic assets
+Net credit to nonfinancial public sector
+Net holdings of Bank of Mexico securities
+Credit to private sector 3/
+Liabilities to the private sector
+Memorandum items:
+Growth of monetary base
+Growth of liabilities to the private sector
+Growth of credit to domestic non-financial private sector 3/
+of which
+Banking Sector 3/
+Nonbank financial institutions 3/
+Households
+Non-financial corporate loans
+Monetary base
+Liabilities to the private sector
+Credit to domestic non-financial private sector 3/
+of which
+Banking Sector 3/
+Nonbank financial institutions 3/
+Households
+Consumer loans
+Mortgages
+Non-financial corporate loans
+
+3.9
+48.8
+19.0
+10.5
+8.5
+9.5
+1.6
+7.9
+7.3
+
+0.2
+19.6
+12.9
+-3.2
+
+9.4
+9.1
+9.6
+1.9
+7.8
+6.4
+
+9.0
+9.4
+10.2
+2.5
+7.7
+5.7
+
+Sources: Bank of Mexico; National Banking and Securities Commission; and IMF staff estimates.
+1/ Financial system includes Central Bank, commercial and development banks, and nonbank financial institutions (e.g. Sofoles, pension funds).
+The presentation, different from that of the BoM, is based on International Financial Statistics methodology.
+2/ NIR figures are as published by Banco de Mexico, which are defined net of foreign currency denominated liabilities to Mexico's government.
+3/ Includes credit granted by commercial and development banks, Sofoles, Sofomes, factoring, leasing, credit unions, savings and loans institutions, and Infonavit.
+
+40
+Table 5. Mexico: Financial Soundness Indicators for Commercial Banks, 2002–2008
+(In percent, end of period)
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+Sep. 2008
+
+Capital adequacy
+Regulatory capital to risk-weighted assets
+Regulatory Tier 1 capital to risk-weighted assets
+Capital to assets
+Gross asset position in financial deriv. to capital
+Gross liability position in financial deriv. to capital
+
+15.49
+
+14.18
+
+14.07
+
+14.32
+
+16.09
+
+15.95
+
+13.64
+11.34
+4.14
+3.04
+
+12.74
+11.44
+6.32
+4.46
+
+12.76
+11.20
+15.77
+14.12
+
+13.42
+12.54
+24.33
+21.48
+
+15.09
+13.55
+35.31
+33.78
+
+14.68
+13.81
+36.13
+34.99
+
+15.30
+13.81
+13.73
+47.15
+47.73
+
+4.56
+
+3.15
+
+2.51
+
+1.82
+
+1.99
+
+2.69
+
+2.53
+
+1.06
+9.34
+60.58
+
+2.03
+17.71
+53.89
+
+2.13
+18.97
+61.88
+
+3.19
+25.43
+61.94
+
+3.51
+25.89
+63.19
+
+2.74
+19.86
+65.97
+
+6.71
+73.22
+
+11.61
+64.78
+
+3.58
+65.64
+
+6.63
+57.97
+
+6.63
+53.95
+
+0.84
+53.43
+
+85.07
+
+88.03
+
+87.48
+
+86.03
+
+88.29
+
+88.00
+
+1.76
+12.82
+68.28
+2.69
+53.91
+87.67
+
+26.47
+77.83
+98.85
+
+31.61
+92.22
+116.99
+
+35.15
+106.02
+119.07
+
+33.69
+94.46
+120.10
+
+30.30
+85.06
+107.45
+
+28.73
+80.98
+95.78
+
+24.77
+79.08
+88.71
+
+20.41
+
+15.56
+
+16.78
+
+13.65
+
+13.02
+
+13.82
+
+16.61
+
+138.09
+
+167.11
+
+201.78
+
+241.34
+
+208.35
+
+169.15
+
+170.76
+
+Asset quality
+Nonperforming loans to total gross loans
+Earnings and profitability
+Return on assets (before e.i. & taxes)
+Return on equity (before e.i. & taxes)
+Interest margin to gross income
+Trading income to total income
+Noninterest expenses to gross income
+Personnel expenses to noninterest expenses
+Liquidity
+Liquid assets to total assets
+Liquid assets to short-term liabilities
+Customer deposits to total (noninterbank) loans
+Sensitivity to market risk
+Net open position in equities to capital
+Provisions
+Provisions/NPL
+Sources: CNBV and IMF staff estimates.
+
+41
+Table 6. Mexico: Indicators of External Vulnerability, 2002–2008
+
+Financial Market indicators
+Exchange rate (per U.S. dollar, end-period)
+(year-to-date percent change)
+28-day treasury auction rate (percent; period average)
+EMBI+ Mexico (basis points; period average)
+Stock exchange index in U.S. dollar terms (year-to-date percent change)
+Financial system
+Bank of Mexico net international reserves (US$ billion)
+Real credit to the private sector (12-month percent change) 1/
+Commercial banks' nonperforming loans (percent of total loans)
+Commercial banks' loan loss provision (percent of nonperforming loans)
+Exports and Imports
+Trade balance (US$ billion; year-to-date)
+Exports (year to date, annual percentage change) 2/
+Of which
+Non-oil
+Imports (year to date, annual percentage change) 2/
+Of which
+Consumer goods
+Capital goods
+Terms of trade (12-month percent change)
+Real effective exchange rate (CPI based; 12-month percent change) 3/
+External Debt
+Nonfinancial public sector external debt (percent of GDP)
+Nonfinancial public sector short-term external debt (percent of GDP) 4/
+Private sector external debt (percent of GDP)
+Private sector short-term external debt (percent of GDP)
+Memorandum items:
+Gross international reserves to short-term debt (by residual maturity, percent) 4/
+Monetary base to gross international reserves (percent)
+Net international reserves to M2
+
+2008
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+Dec.
+
+Dec.
+
+Dec.
+
+Dec.
+
+Dec.
+
+Dec.
+
+Mar.
+
+Jun.
+
+Sep.
+
+Dec.
+
+10.44
+14.0
+7.0
+312
+-15.7
+
+11.24
+7.6
+6.1
+205
+33.4
+
+11.15
+-0.8
+8.5
+166
+48.0
+
+10.63
+-4.6
+8.2
+125
+44.5
+
+10.81
+1.7
+7.0
+105
+46.1
+
+10.92
+1.0
+7.4
+143
+10.6
+
+10.65
+-1.5
+7.4
+172
+18.7
+
+10.31
+-4.7
+7.3
+139
+16.6
+
+10.98
+1.6
+8.2
+221
+-7.4
+
+13.83
+27.9
+8.0
+408
+-33.9
+
+48.0
+15.3
+
+57.4
+4.8
+
+61.5
+2.5
+
+68.7
+13.3
+
+67.7
+27.5
+
+78.0
+17.1
+
+84.0
+7.2
+
+85.7
+7.7
+
+83.3
+5.5
+
+85.4
+...
+
+4.6
+138.1
+
+3.2
+167.1
+
+2.5
+201.8
+
+1.8
+241.3
+
+2.0
+208.4
+
+2.5
+169.2
+
+...
+...
+
+...
+...
+
+...
+...
+
+...
+...
+
+-7.6
+1.4
+
+-5.8
+2.3
+
+-8.8
+14.1
+
+-7.6
+14.0
+
+-6.1
+16.7
+
+-10.1
+8.8
+
+-1.5
+16.6
+
+-2.3
+17.1
+
+-8.4
+15.3
+
+-11.1
+13.1
+
+0.4
+0.2
+
+0.0
+1.1
+
+12.4
+15.4
+
+11.0
+12.7
+
+15.7
+15.4
+
+8.5
+10.1
+
+10.7
+14.4
+
+11.2
+14.6
+
+69.5
+-26.0
+
+8.6
+13.7
+
+7.2
+-6.7
+2.2
+-8.6
+
+1.6
+-3.7
+3.2
+-9.9
+
+18.1
+11.8
+5.8
+1.1
+
+24.0
+16.0
+3.0
+7.2
+
+17.1
+16.4
+2.9
+-1.9
+
+16.7
+10.1
+-0.3
+-1.5
+
+23.2
+9.5
+8.8
+1.4
+
+18.0
+15.2
+11.0
+3.4
+
+19.2
+18.6
+0.9
+5.1
+
+...
+...
+...
+...
+
+15.0
+0.7
+8.2
+1.4
+
+15.7
+0.4
+7.6
+1.4
+
+14.4
+0.5
+7.0
+1.1
+
+12.3
+0.2
+7.4
+1.1
+
+9.4
+0.2
+7.5
+1.0
+
+8.3
+0.2
+8.4
+1.1
+
+...
+...
+...
+...
+
+...
+...
+...
+...
+
+...
+...
+...
+...
+
+...
+...
+...
+...
+
+109.4
+49.9
+
+135.8
+45.8
+
+155.1
+47.5
+
+125.7
+48.2
+
+174.9
+54.5
+
+172.7
+52.0
+
+...
+46.1
+
+...
+46.2
+
+...
+42.2
+
+16.5
+
+18.9
+
+18.2
+
+16.8
+
+14.8
+
+15.9
+
+15.1
+
+16.0
+
+16.1
+
+...
+...
+...
+
+Sources: Bank of Mexico; National Banking and Securities Commission; National Institute of Statistics and Geography; Secretariat of Finance and Public Credit;
+and IMF staff estimates.
+1/ Does not include loans associated with FOBAPROA/IPAB debt-restructuring programs.
+2/ In U.S. dollar terms.
+3/ Increase signifies appreciation.
+4/ The short-term debt by residual maturity includes pre-payment of debt.
+
+42
+Table 7. Mexico: Baseline Medium-Term Projections, 2004–2013
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+Staff Projections
+2009
+2010
+2011
+
+2012
+
+2013
+
+(Annual percentage change, unless otherwise indicated)
+National income and prices
+Real GDP
+Consumer prices (end of year)
+Consumer prices (average)
+External sector
+Nonoil current account balance 1/
+Exports, f.o.b.
+Imports, f.o.b.
+Terms of trade (deterioration -)
+Oil export price (US$ / bbl)
+Interest rates
+Treasury bill rate (average 28-day cetes)
+Real interest rate (28-day cetes)
+
+4.0
+5.1
+4.7
+
+3.1
+3.3
+4.0
+
+4.9
+4.0
+3.6
+
+3.2
+3.7
+4.0
+
+1.8
+6.5
+5.1
+
+-0.3
+3.6
+4.8
+
+2.1
+3.1
+3.4
+
+4.9
+3.0
+3.0
+
+4.7
+3.0
+3.0
+
+4.6
+3.0
+3.0
+
+-2.5
+14.1
+15.4
+5.8
+31.0
+
+-2.4
+14.0
+12.7
+3.0
+42.8
+
+-2.6
+16.7
+15.4
+2.9
+53.1
+
+-2.9
+8.8
+10.1
+-0.3
+61.7
+
+-3.4
+8.8
+11.1
+1.6
+85.7
+
+-2.8
+-13.9
+-14.0
+-4.5
+47.3
+
+-3.1
+6.7
+6.1
+0.0
+56.4
+
+-2.8
+8.8
+8.6
+-0.1
+62.1
+
+-2.4
+8.5
+8.7
+-0.2
+65.4
+
+-2.1
+8.5
+8.3
+-0.2
+67.6
+
+6.8
+2.0
+
+9.2
+5.0
+
+7.2
+3.4
+
+7.2
+3.1
+
+7.8
+2.5
+
+6.1
+1.2
+
+5.5
+2.0
+
+6.3
+3.2
+
+6.3
+3.2
+
+6.3
+3.2
+
+(In percent of GDP)
+Nonfinancial public sector
+Augmented balance
+Augmented primary balance
+Augmented non-oil balance 2/
+
+-1.7
+1.2
+-6.1
+
+-1.4
+1.6
+-6.4
+
+-0.6
+2.2
+-5.8
+
+-1.4
+1.3
+-6.5
+
+-1.7
+1.3
+-6.8
+
+-2.9
+-0.2
+-7.5
+
+-2.8
+-0.1
+-6.7
+
+-2.5
+0.1
+-6.0
+
+-2.4
+0.1
+-5.6
+
+-2.4
+0.1
+-5.2
+
+Saving and investment
+Gross domestic investment
+Fixed investment
+Public
+Private
+Inventories
+
+24.8
+19.7
+4.7
+15.0
+5.1
+
+24.1
+20.0
+4.5
+15.6
+4.1
+
+25.9
+20.7
+4.4
+16.3
+5.2
+
+26.0
+20.8
+4.5
+16.3
+5.2
+
+26.9
+21.1
+4.7
+16.4
+5.8
+
+26.3
+21.0
+5.0
+16.1
+5.3
+
+26.4
+21.0
+4.9
+16.1
+5.4
+
+26.7
+21.3
+4.8
+16.5
+5.4
+
+27.0
+21.6
+4.7
+16.9
+5.3
+
+27.2
+21.9
+4.6
+17.3
+5.3
+
+Gross national saving
+Public sector
+Private sector
+
+23.9
+2.9
+21.0
+
+23.5
+3.1
+20.4
+
+25.3
+3.8
+21.5
+
+25.0
+3.1
+21.9
+
+24.7
+3.0
+21.7
+
+24.1
+2.1
+22.0
+
+24.0
+2.2
+21.8
+
+24.1
+2.3
+21.8
+
+24.2
+2.3
+21.9
+
+24.3
+2.2
+22.1
+
+Current account balance
+
+-0.9
+
+-0.7
+
+-0.6
+
+-1.0
+
+-2.2
+
+-2.2
+
+-2.5
+
+-2.6
+
+-2.8
+
+-2.9
+
+Sources: Bank of Mexico; National Institute of Statistics and Geography; Secretariat of Finance and Public Credit; and IMF staff projections.
+1/ Excluding oil exports and petroleum products imports.
+2/ Excluding oil revenues, Pemex expenditures, and oil investments.
+
+Table 8. Mexico: Public Sector Debt Sustainability Framework, 2002-2013
+(In percent of GDP, unless otherwise indicated)
+
+2002
+
+2003
+
+Actual
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+45.9
+15.0
+
+45.6
+15.7
+
+41.4
+14.4
+
+39.9
+12.3
+
+38.5
+9.4
+
+38.3
+8.3
+
+39.3
+7.1
+
+42.1
+6.9
+
+42.5
+6.4
+
+41.7
+5.9
+
+41.0
+5.5
+
+40.4
+5.1
+
+Change in gross public sector debt
+Identified debt-creating flows (4+7+12)
+Primary deficit
+Revenue and grants
+Primary (noninterest) expenditure
+Automatic debt dynamics 2/
+Contribution from interest rate/growth differential 3/
+Of which contribution from real interest rate
+Of which contribution from real GDP growth
+Contribution from exchange rate depreciation 4/
+Other identified debt-creating flows
+Privatization receipts (negative)
+Recognition of implicit or contingent liabilities
+Other (specify, e.g. bank recapitalization)
+Residual, including asset changes (2-3) 5/
+
+1.6
+1.2
+-0.3
+19.8
+19.5
+2.1
+0.2
+0.6
+-0.3
+1.9
+-0.6
+-0.6
+0.0
+0.0
+0.5
+
+-0.3
+-1.4
+-0.3
+20.6
+20.2
+-0.5
+-1.6
+-0.9
+-0.7
+1.1
+-0.6
+-0.6
+0.0
+0.0
+1.1
+
+-4.1
+-5.1
+-1.2
+19.3
+18.1
+-2.6
+-2.5
+-0.9
+-1.6
+-0.1
+-1.3
+-1.3
+0.0
+0.0
+1.0
+
+-1.5
+-2.5
+-1.6
+20.9
+19.3
+-0.7
+0.0
+1.2
+-1.2
+-0.7
+-0.2
+-0.2
+0.0
+0.0
+1.0
+
+-1.4
+-3.8
+-2.2
+21.6
+19.4
+-1.3
+-1.5
+0.2
+-1.7
+0.2
+-0.3
+-0.3
+0.0
+0.0
+2.3
+
+-0.2
+-2.0
+-1.3
+21.6
+20.3
+-0.1
+-0.2
+0.9
+-1.1
+0.1
+-0.6
+-0.6
+0.0
+0.0
+1.8
+
+1.0
+-1.6
+-1.3
+22.0
+20.7
+-0.1
+-0.1
+0.5
+-0.6
+2.2
+-0.2
+-0.2
+0.0
+0.0
+0.3
+
+2.9
+0.9
+0.2
+21.9
+22.2
+0.8
+0.8
+0.6
+0.1
+...
+-0.1
+-0.1
+0.0
+0.0
+1.9
+
+0.3
+0.3
+0.1
+21.6
+21.7
+0.2
+0.2
+1.1
+-0.8
+...
+-0.1
+-0.1
+0.0
+0.0
+0.1
+
+-0.8
+-0.8
+-0.1
+21.3
+21.2
+-0.7
+-0.7
+1.3
+-1.9
+...
+-0.1
+-0.1
+0.0
+0.0
+0.1
+
+-0.7
+-0.7
+-0.1
+21.1
+21.0
+-0.6
+-0.6
+1.3
+-1.8
+...
+-0.1
+-0.1
+0.0
+0.0
+0.1
+
+-0.6
+-0.7
+-0.1
+20.9
+20.9
+-0.5
+-0.5
+1.2
+-1.8
+...
+-0.1
+-0.1
+0.0
+0.0
+0.1
+
+Gross public sector debt-to-revenue ratio 1/
+
+231.7
+
+221.7
+
+214.6
+
+191.1
+
+178.2
+
+177.4
+
+178.3
+
+192.1
+
+197.1
+
+196.0
+
+194.7
+
+193.1
+
+Gross financing need 6/
+in billions of U.S. dollars
+
+14.7
+103.5
+
+14.1
+98.9
+
+11.8
+89.3
+
+11.9
+100.6
+
+10.3
+97.5
+
+9.4
+96.0
+
+9.0
+98.4
+
+9.7
+91.5
+
+9.4
+93.3
+
+8.9
+95.3
+
+8.5
+96.8
+
+8.2
+100.0
+
+38.4
+37.9
+
+38.0
+38.9
+
+35.9
+37.4
+
+33.8
+36.0
+
+31.7
+34.6
+
+29.7
+34.3
+
+1.8
+8.4
+1.6
+...
+6.7
+3.7
+-1.3
+
+-0.3
+7.0
+1.7
+...
+5.3
+6.7
+0.2
+
+2.1
+6.6
+2.8
+...
+3.9
+-0.2
+0.1
+
+4.9
+6.5
+3.4
+...
+3.1
+2.5
+-0.1
+
+4.7
+6.5
+3.4
+...
+3.1
+3.7
+-0.1
+
+4.6
+6.5
+3.4
+...
+3.1
+4.1
+-0.1
+
+Scenario with key variables at their historical averages 7/
+Scenario with no policy change (constant primary balance) in 2007-2012
+Key Macroeconomic and Fiscal Assumptions Underlying Baseline
+Real GDP growth (in percent)
+Average nominal interest rate on public debt (in percent) 8/
+Average real interest rate (nominal rate minus change in GDP deflator, in percent)
+Nominal appreciation (increase in US dollar value of local currency, in percent)
+Inflation rate (GDP deflator, in percent)
+Growth of real primary spending (deflated by GDP deflator, in percent)
+Primary deficit
+
+0.8
+8.4
+1.4
+-12.3
+7.0
+5.5
+-0.3
+
+1.7
+7.6
+-2.0
+-7.1
+9.6
+5.3
+-0.3
+
+4.0
+7.3
+-1.8
+0.8
+9.1
+-6.9
+-1.2
+
+3.1
+7.6
+3.2
+4.8
+4.4
+9.9
+-1.6
+
+4.9
+7.8
+1.0
+-1.6
+6.8
+5.5
+-2.2
+
+3.2
+7.5
+2.8
+-1.0
+4.7
+8.1
+-1.3
+
+1/ Gross public sector debt.
+2/ Derived as [(r - π(1+g) - g + αε(1+r)]/(1+g+π+gπ)) times previous period debt ratio, with r = interest rate; π = growth rate of GDP deflator; g = real GDP growth rate; α = share of foreign-currency
+denominated debt; and ε = nominal exchange rate depreciation (measured by increase in local currency value of U.S. dollar).
+3/ The real interest rate contribution is derived from the denominator in footnote 2/ as r - π (1+g) and the real growth contribution as -g.
+4/ The exchange rate contribution is derived from the numerator in footnote 2/ as αε(1+r).
+5/ For projections, this line includes exchange rate changes.
+6/ Defined as public sector deficit, plus amortization of medium and long-term public sector debt, plus short-term debt at end of previous period.
+7/ The key variables include real GDP growth; real interest rate; and primary balance in percent of GDP.
+8/ Derived as nominal interest expenditure divided by previous period debt stock.
+9/ Assumes that key variables (real GDP growth, real interest rate, and other identified debt-creating flows) remain at the level of the last projection year.
+
+43
+
+Baseline: Gross public sector debt 1/
+o/w foreign-currency denominated
+
+Debt-stabilizing
+primary
+balance 9/
+-0.6
+
+-0.7
+0.3
+
+Table 9. Mexico: Public Sector Debt Sustainability Framework--Gross Public Sector Debt, 2002-2013
+(In percent of GDP, unless otherwise indicated)
+
+2002
+
+2003
+
+Actual
+2004
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+Projections
+2010
+2011
+
+2012
+
+2013
+
+I. Baseline Projections
+Gross Public Sector Debt
+in billions of U.S. dollars
+
+45.9
+298.1
+
+45.6
+306.4
+
+41.4
+318.5
+
+39.9
+346.4
+
+38.5
+368.0
+
+38.3
+392.1
+
+39.3
+344.6
+
+42.1
+396.7
+
+42.5
+420.3
+
+41.7
+442.5
+
+41.0
+465.6
+
+40.4
+490.3
+
+38.4
+37.9
+
+38.0
+38.9
+
+35.9
+37.4
+
+33.8
+36.0
+
+31.7
+34.6
+
+29.7
+33.0
+
+39.7
+39.9
+39.6
+39.9
+41.9
+49.3
+
+43.0
+43.7
+42.8
+43.4
+44.8
+52.3
+
+43.8
+45.1
+43.5
+44.3
+45.1
+52.7
+
+43.5
+45.6
+43.0
+44.1
+44.3
+51.8
+
+43.3
+46.4
+42.7
+44.1
+43.6
+51.0
+
+43.1
+47.5
+42.4
+44.0
+43.0
+50.3
+
+342.5
+402.8
+
+376.9
+435.1
+
+377.9
+443.7
+
+375.6
+452.3
+
+372.0
+460.7
+
+367.5
+388.4
+
+348.4
+346.6
+347.6
+348.0
+294.5
+432.4
+
+404.9
+403.0
+403.1
+404.0
+337.9
+492.4
+
+433.6
+433.3
+430.4
+431.9
+358.0
+521.5
+
+461.5
+465.2
+456.8
+459.1
+377.0
+549.5
+
+491.0
+501.3
+484.6
+487.7
+396.8
+578.7
+
+522.7
+542.8
+514.4
+518.4
+417.9
+609.8
+
+II. Stress Tests
+Gross Public Sector Debt
+A. Alternative Scenarios
+A1. Key variables are at their historical averages in 2008-13 1/
+A2. No policy change (constant primary balance) in 2008-13
+B. Bound Tests
+B1. Real interest rate is at baseline plus one-half standard deviations
+B2. Real GDP growth is at baseline minus one-half standard deviations
+B3. Primary balance is at baseline minus one-half standard deviations
+B4. Combination of B1-B3 using 1/4 standard deviation shocks
+B5. One time 30 percent real depreciation in 2008 2/
+B6. 10 percent of GDP increase in other debt-creating flows in 2008
+
+44
+
+Gross public sector debt in billions of U.S. dollars
+A. Alternative Scenarios
+A1. Key variables are at their historical averages in 2008-13 1/
+A2. No policy change (constant primary balance) in 2008-13
+B. Bound Tests
+B1. Real interest rate is at baseline plus one-half standard deviations
+B2. Real GDP growth is at baseline minus one-half standard deviations
+B3. Primary balance is at baseline minus one-half standard deviations
+B4. Combination of B1-B3 using 1/4 standard deviation shocks
+B5. One time 30 percent real depreciation in 2008 2/
+B6. 10 percent of GDP increase in other debt-creating flows in 2008
+
+1/ The key variables include real GDP growth; real interest rate; and primary balance in percent of GDP.
+2/ Real depreciation is defined as nominal depreciation (measured by percentage fall in dollar value of local currency) minus domestic inflation (based on GDP deflator).
+
+Table 10. Mexico: External Debt Sustainability Framework, 2003-2013
+(In percent of GDP, unless otherwise indicated)
+
+2003
+
+1 Baseline: External debt
+
+2004
+
+Actual
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+Projections
+2011
+2012
+
+2013
+
+21.9
+
+20.4
+
+17.8
+
+18.9
+
+20.6
+
+26.0
+
+27.0
+
+27.6
+
+28.4
+
+29.3
+
+0.1
+0.0
+-0.4
+1.5
+25.3
+26.8
+-1.3
+1.7
+1.7
+-0.4
+0.4
+0.1
+
+-1.3
+-2.8
+-0.6
+1.8
+26.6
+28.4
+-1.8
+-0.3
+1.5
+-0.9
+-1.0
+1.5
+
+-1.5
+-3.9
+-0.8
+1.5
+27.2
+28.6
+-2.3
+-0.8
+1.4
+-0.6
+-1.6
+2.4
+
+-2.6
+-3.2
+-0.8
+1.3
+28.0
+29.3
+-1.7
+-0.7
+1.5
+-0.9
+-1.3
+0.6
+
+1.1
+-2.3
+-0.5
+1.6
+28.3
+29.9
+-2.0
+0.2
+1.5
+-0.5
+-0.8
+3.4
+
+1.7
+-0.5
+1.0
+2.3
+28.8
+31.1
+-2.4
+0.9
+1.2
+-0.3
+-0.9
+3.1
+
+5.4
+1.1
+0.8
+2.2
+29.0
+31.2
+-1.2
+1.4
+1.4
+0.1
+...
+4.2
+
+1.0
+-0.2
+0.5
+2.1
+29.3
+31.4
+-2.1
+1.5
+2.0
+-0.5
+...
+1.2
+
+0.6
+-0.7
+0.4
+2.1
+29.7
+31.8
+-2.1
+1.0
+2.2
+-1.2
+...
+1.3
+
+0.8
+-0.6
+0.4
+2.2
+30.0
+32.2
+-2.1
+1.1
+2.3
+-1.2
+...
+1.4
+
+0.9
+-0.5
+0.5
+2.3
+30.4
+32.6
+-2.1
+1.2
+2.4
+-1.2
+...
+1.4
+
+External debt-to-exports ratio (in percent)
+
+91.6
+
+82.3
+
+75.2
+
+63.5
+
+66.7
+
+71.6
+
+89.5
+
+92.0
+
+93.1
+
+94.7
+
+96.5
+
+Gross external financing need (in billions of US dollars) 4/
+in percent of GDP
+
+54.9
+7.8
+
+50.2
+6.6
+
+47.0
+5.5
+
+65.0
+6.9
+
+53.9
+5.3
+
+74.6
+6.8
+
+86.2
+9.1
+
+98.1
+9.9
+
+112.0
+10.5
+
+127.4
+11.2
+
+144.1
+11.8
+
+20.6
+
+19.0
+
+18.1
+
+17.1
+
+16.1
+
+15.1
+
+1.8
+4.8
+7.0
+8.4
+10.9
+-1.0
+2.4
+
+-0.3
+-13.2
+5.7
+-12.9
+-13.1
+-0.8
+1.2
+
+2.1
+3.1
+8.1
+6.5
+6.0
+-0.5
+2.1
+
+4.9
+2.3
+8.9
+8.5
+8.5
+-0.4
+2.1
+
+4.7
+2.2
+9.0
+8.3
+8.5
+-0.4
+2.1
+
+4.6
+2.2
+9.0
+8.2
+8.2
+-0.5
+2.1
+
+2 Change in external debt
+3 Identified external debt-creating flows (4+8+9)
+4
+Current account deficit, excluding interest payments
+5
+Deficit in balance of goods and services
+6
+Exports
+7
+Imports
+8
+Net non-debt creating capital inflows (negative)
+9
+Automatic debt dynamics 1/
+10
+Contribution from nominal interest rate
+11
+Contribution from real GDP growth
+12
+Contribution from price and exchange rate changes 2/
+13 Residual, incl. change in gross foreign assets (2-3) 3/
+
+Scenario with key variables at their historical averages 5/
+
+45
+
+23.2
+
+Debt-stabilizing
+non-interest
+current account 6/
+-1.5
+
+-2.4
+
+Key Macroeconomic Assumptions Underlying Baseline
+Real GDP growth (in percent)
+GDP deflator in US dollars (change in percent)
+Nominal external interest rate (in percent)
+Growth of exports (US dollar terms, in percent)
+Growth of imports (US dollar terms, in percent)
+Current account balance, excluding interest payments
+Net non-debt creating capital inflows
+
+1.7
+-1.9
+7.2
+2.0
+1.2
+0.4
+1.3
+
+4.0
+4.3
+6.9
+13.9
+14.8
+0.6
+1.8
+
+3.1
+8.1
+7.4
+14.0
+12.6
+0.8
+2.3
+
+4.9
+6.8
+8.1
+15.6
+14.6
+0.8
+1.7
+
+3.2
+4.5
+8.8
+8.7
+10.0
+0.5
+2.0
+
+1/ Derived as [r - g - ρ(1+g) + εα(1+r)]/(1+g+ρ+gρ) times previous period debt stock, with r = nominal effective interest rate on external debt; ρ = change in domestic GDP deflator in US dollar terms, g = real GDP growth rate,
+ε = nominal appreciation (increase in dollar value of domestic currency), and α = share of domestic-currency denominated debt in total external debt.
+2/ The contribution from price and exchange rate changes is defined as [-ρ(1+g) + εα(1+r)]/(1+g+ρ+gρ) times previous period debt stock. ρ increases with an appreciating domestic currency (ε > 0) and rising inflation (based on GDP deflato
+3/ For projection, line includes the impact of price and exchange rate changes.
+4/ Defined as current account deficit, plus amortization on medium- and long-term debt, plus short-term debt at end of previous period.
+5/ The key variables include real GDP growth; nominal interest rate; dollar deflator growth; and both non-interest current account and non-debt inflows in percent of GDP.
+6/ Long-run, constant balance that stabilizes the debt ratio assuming that key variables (real GDP growth, nominal interest rate, dollar deflator growth, and non-debt inflows in percent of GDP) remain at their levels
+of the last projection year.
+
+Table 11. Mexico: External Sustainability Framework--Gross External Debt, 2003-2013
+
+2003
+
+2004
+
+Actual
+2005
+
+2006
+
+2007
+
+2009
+
+Projections
+2010
+2011
+
+2012
+
+2013
+
+26.0
+244.9
+
+27.0
+267.9
+
+27.6
+294.2
+
+28.4
+324.1
+
+29.3
+357.1
+
+20.6
+
+19.0
+
+18.1
+
+17.1
+
+16.1
+
+15.1
+
+20.6
+20.6
+20.6
+20.6
+20.6
+
+26.0
+26.2
+26.3
+26.3
+32.8
+
+27.1
+27.5
+27.7
+27.7
+34.0
+
+27.8
+28.4
+28.6
+28.6
+34.7
+
+28.7
+29.5
+29.8
+29.8
+35.6
+
+29.7
+30.7
+31.0
+31.1
+36.6
+
+224.8
+
+226.2
+
+234.3
+
+241.9
+
+248.8
+
+254.6
+
+224.8
+224.8
+224.8
+224.8
+224.8
+
+245.5
+244.8
+248.0
+246.7
+243.2
+
+269.3
+267.8
+274.6
+271.9
+265.1
+
+296.5
+293.9
+305.1
+300.6
+290.3
+
+327.3
+323.5
+339.7
+333.2
+318.7
+
+361.6
+356.3
+378.2
+369.3
+350.1
+
+2008
+
+I. Baseline Projections
+
+Gross external debt in percent of GDP
+in billions of U.S. dollars
+
+23.2
+162.4
+
+21.9
+166.2
+
+20.4
+173.1
+
+17.8
+169.0
+
+18.9
+193.1
+
+20.6
+224.8
+II. Stress Tests
+
+Gross external debt in percent of GDP
+A. Alternative Scenarios
+A1. Key variables are at their historical averages in 2009-13 1/
+B. Bound Tests
+
+Gross external debt in billions of U.S. dollars
+A. Alternative Scenarios
+A1. Key variables are at their historical averages in 2009-13 1/
+B. Bound Tests
+B1. Nominal interest rate is at baseline plus one-half standard deviations
+B2. Real GDP growth is at baseline minus one-half standard deviations
+B3. Non-interest current account is at baseline minus one-half standard deviations
+B4. Combination of B1-B4 using 1/4 standard deviation shocks
+B5. One time 30 percent nominal depreciation in 2008
+
+1/ The key variables include real GDP growth; nominal interest rate; dollar deflator growth; and both non-interest current account and non-debt inflows in percent of GDP.
+
+46
+
+B1. Nominal interest rate is at baseline plus one-half standard deviations
+B2. Real GDP growth is at baseline minus one-half standard deviations
+B3. Non-interest current account is at baseline minus one-half standard deviations
+B4. Combination of B1-B3 using 1/4 standard deviation shocks
+B5. One time 30 percent nominal depreciation in 2009
+
+47
+Appendix I. Background and Summary of Informational Annexes
+Discussions. The 2008 Article IV consultation discussions were held in Mexico City during
+December 1–12, 2008. The mission met with the Minister of Finance, the Governor and the
+members of the Board of the Bank of Mexico, senior staff of several government ministries
+and agencies, representatives of regulatory agencies, and banks.
+Exchange arrangement. Mexico has accepted the obligations of Article VIII, sections 2, 3,
+and 4, and does not have restrictions on payments for current international transactions.
+Mexico has a floating exchange rate regime since December 22, 1994.
+Fund relations. Mexico has no outstanding purchases or loans.
+Technical assistance. Since 2005, STA has provided assistance in national accounts. In 2007
+and 2008, FAD provided assistance in customs administration, intergovernmental fiscal
+relations, and treasury.
+Statistical Issues. Core data are adequate for surveillance. Mexico observes the Special Data
+Dissemination Standards (SDDS) and its metadata are posted on the Dissemination Standards
+Bulletin Board (DSBB). A data ROSC for Mexico was completed on May 23, 2003 and was
+subsequently published as IMF Country Report No. 03/150. In a number of cases, the
+periodicity and timeliness of disseminated data exceeded SDDS requirements. Still, there is
+room for improvement in a number or areas (see Informational Annex III), including
+subnational government fiscal and debt statistics.
+Relations with the World Bank. As of October 31, 2008, Mexico was the Bank’s eighth
+largest borrower with US$4.1 billion debt outstanding, representing 3.3 percent of the
+IBRD’s total portfolio. The new Country Partnership Strategy that was discussed by the
+Board in April 2008 proposes anchoring most lending in a large annual DPL that will support
+government's overall development strategy and will be accompanied by an enhanced package
+of non-lending services. As of this date, Mexico's IBRD portfolio consisted of 17 projects
+under implementation for a net commitment of US$2.5 billion, of which US$1.4 remain
+undisbursed. During this fiscal year, 5 new loans for a total lending volume of
+US$1,859 million have been approved. It is expected that by the end of FY 09 a total lending
+amount of US$4 billion will be approved for Mexico.
+
+INTERNATIONAL MONETARY FUND
+MEXICO
+Staff Report for the 2008 Article IV Consultation—Informational Annex
+Prepared by the Western Hemisphere Department
+January 15, 2009
+
+Contents
+
+Page
+
+Annexes
+Annex I.
+
+Fund Relations ........................................................................................................ 2
+
+Annex II. Relations with the World Bank .............................................................................. 4
+Annex III. Statistical Issues...................................................................................................... 5
+
+2
+ANNEX I. MEXICO—FUND RELATIONS
+(As of December 31, 2008)
+Mexico has accepted the obligations of Article VIII, sections 2, 3, and 4, and does not have
+restrictions on payments for current international transactions.
+Comprehensive economic data are available for Mexico on a timely basis. It subscribes to
+the SDDS, and economic data are adequate to conduct surveillance.
+
+I.
+
+Membership Status: Joined December 31, 1945; Article VIII.
+
+II. General Resources Account:
+Quota
+Fund holdings of currency
+Reserve position in Fund
+III.
+
+SDR Department:
+Net cumulative allocation
+Holdings
+
+IV. Outstanding Purchases and Loans:
+V.
+
+VI.
+
+SDR Million
+3,152.80
+2,909.99
+242.86
+
+% Quota
+100.00
+92.30
+7.70
+
+SDR Million
+290.02
+335.88
+
+% Allocation
+100.00
+115.81
+
+None
+
+Latest Financial Arrangements:
+
+Type
+
+Approval Date
+
+Stand-by
+Stand-by
+EFF
+
+Jul 07, 1999
+Feb 01, 1995
+May 26, 1989
+
+Expiration
+Date
+Nov 30, 2000
+Feb 15, 1997
+May 25, 1993
+
+Amount
+Approved
+(SDR Million)
+3,103.00
+12,070.20
+3,729.60
+
+Amount Drawn
+(SDR Million)
+1,939.50
+8,758.02
+3,263.40
+
+Projected Payments to the Fund:
+
+2008
+Principal
+Charges/Interest
+Total
+
+Forthcoming
+2009
+2010
+
+2011
+
+2012
+
+0.02
+0.02
+
+0.02
+0.02
+
+0.02
+0.02
+
+0.02
+0.02
+
+3
+VII.
+
+VIII.
+
+IX.
+
+X.
+
+Exchange Rate Arrangement: Mexico has an independent floating exchange rate
+regime since December 22, 1994. Mexico maintains an exchange system that is free
+of restrictions on the making of payments and transfers for current international
+transactions.
+Article IV. Consultation: The last Article IV consultation was concluded by the
+Executive Board on December 3, 2007. The relevant staff report was IMF country
+Report No. 07/379.
+Technical Assistance
+Year Dept.
+Purpose
+2008 FAD
+Customs Administration
+2007 FAD
+Intergovernmental Fiscal Relations
+2007 FAD
+Customs Administration
+2007 FAD
+Treasury
+2007 MCM
+Accounting and Budgeting Functions, BoM
+2005 STA
+National Accounts
+
+Resident Representative: None
+
+4
+ANNEX II. MEXICO—RELATIONS WITH THE WORLD BANK
+The Bank’s relationship with Mexico in recent years provides a good demonstration of the
+Bank’s current role in middle income countries (MICs). On the demand side, as in the case of
+many other MICs, Mexico is interested in Bank support for addressing global priorities,
+including climate change, catastrophe risk management, and trade integration. The country
+also seeks to draw on the Bank’s international experience through high-level technical
+assistance, and to maintain its relationship with the Bank as a fallback financing option
+should private credit markets fail to provide sufficient liquidity at some future point.
+Mexico has been a leading consumer of many of the new or redesigned products and services
+that the Bank has developed. It was the first country to use local currency products, which
+have eliminated foreign currency risk to financial intermediaries in subnational loans.
+Mexico is also a leading implementer of Global Environment Facility (GEF) grants and other
+products that help to counter climate change and environmental degradation. Government
+officials have worked closely with Bank staff on efforts aiming toward the use of existing
+fiduciary and safeguard systems within Bank projects, both to reduce the cost of doing
+business with the Bank and to facilitate the development of the country’s institutions. Mexico
+has been open to the Bank’s facilitation of dialogue on major development issues such as
+poverty and inequality, often through jointly sponsored conferences and workshops. Where
+Bank support could not be easily carried out through loan or grant-financed programs,
+various units of government have been willing to pay for the Bank’s unique expertise through
+fee-based services arrangements.
+As of October 31, 2008, Mexico was the Bank’s eighth largest borrower with US$4.1 billion
+debt outstanding, representing 3.3 percent of the IBRD’s total portfolio. The new Country
+Partnership Strategy that was discussed by the Board in April 2008 proposes anchoring most
+lending in a large annual DPL that will support government's overall development strategy
+and will be accompanied by an enhanced package of non-lending services. As of this date,
+Mexico's IBRD portfolio consisted of 17 projects under implementation for a net
+commitment of US$2.5 billion, of which US$1.4 billion remain undisbursed. During this
+fiscal year, 5 new loans for a total lending volume of US$1.9 billion have been approved. It
+is expected that by the end of FY 09 a total lending amount of US$4 billion will be approved
+for Mexico.
+
+5
+ANNEX III. MEXICO—STATISTICAL ISSUES
+Data provision is adequate for surveillance. The overall quality of Mexican statistics is good.
+A data ROSC for Mexico was completed on May 23, 2003 and was subsequently published
+as IMF Country Report No. 03/150. Mexico observes the Special Data Dissemination
+Standard (SDDS) and its metadata are posted on the Dissemination Standards Bulletin Board
+(DSBB). In a number of cases, the periodicity and timeliness of disseminated data exceed
+SDDS requirements. However, there are various areas where improvements could be made.
+The authorities are aware of this situation and are continuing work in this regard.
+Real Sector Statistics
+A national accounts mission conducted in January 2008 assessed the results of the inputoutput table for the new base year 2003, evaluated the production and generation of income
+accounts by economic activity and the sources and methods of the estimates on the nonobserved economy. The mission observed that most of the recommendations on methodology
+made by the previous mission conducted in May 2006 had been implemented. The National
+Institute of Statistics and Informatics (INEGI) compiled the 2003 supply and use table and
+the 2003 input-output table, concluded the production and generation of income accounts for
+the period 2003–2006, and compiled the 2003 employment and remunerations matrix at
+detailed level (3-digit level of the North American Industry Classification System NAICS, 96
+sub-sectors). Methods are consistent with the guidelines of the System of National Accounts
+1993 (1993 SNA), with some exceptions, such as the lack of estimates for agricultural workin-progress, the no distribution of the financial services indirectly measured (FISIM) by use,
+and the allocation of inputs for restaurant services to household final consumption. The
+authorities of the INEGI released the new national accounts series in March 2008.
+In addition, the Mexican Congress recently approved the law of the National System of
+Statistical and Geographical Information (NSSGI), which grants financial and operational
+autonomy to the INEGI.
+Government Finance Statistics
+In the fiscal area, the authorities have reported since 2001 a comprehensive measure of the
+fiscal balance—the Public Sector Borrowing Requirement—that encompasses the direct net
+cost of public investment projects with deferred recording in the fiscal accounts
+(PIDIREGAS) as well as the interest cost on a number of government liabilities that had not
+been previously recorded. Both the preliminary (available with a 45-day lag following the
+end of each quarter) and the final (available mid-year of the subsequent year) data are
+published and submitted to congress, ensuring that revisions are transparent and subject to
+public scrutiny.
+
+6
+Monetary and Financial Statistics
+Monetary data, compiled in line with the methodology of the Monetary and Financial
+Statistics Manual (MFSM), are reported on a regular monthly basis to STA. The authorities
+have completed the migration to the new standardized report forms for the central bank, other
+depository corporations, and other financial corporations. Due to lack of information,
+financial derivatives are not sectorized and their net balance is included as part of Other
+Items (Net).
+External Sector Statistics
+Although some of the balance of payments statistics conform to the fifth edition of the
+Balance of Payments Manual, a full transition has not yet been completed. Several measures
+to improve external debt statistics have been carried out, including the compilation of data on
+external liabilities of publicly traded companies registered with the Mexican stock exchange
+(external debt outstanding, annual amortization schedule for the next four years broken down
+by maturity, and type of instrument), but a projection of the total external debt service of
+commercial banks is still not available. International reserves data are compiled according to
+the Operational Guidelines for the Data Template on International Reserves and Foreign
+Currency Liquidity of the IMF (2001).
+
+MEXICO: TABLE OF COMMON INDICATORS REQUIRED FOR SURVEILLANCE
+(AS OF DECEMBER 19, 2008)
+Date of latest
+observation
+
+Date received
+
+November 2008
+
+December 2008
+
+October 2008
+
+November 2008
+
+Reserve/Base Money
+
+October 2008
+
+Broad Money
+
+Frequency of
+
+Frequency of
+
+Frequency of
+
+Data
+
+Reporting
+
+publication
+
+7
+
+7
+
+7
+
+D
+
+D
+
+D
+
+M
+
+M
+
+M
+
+December 2008
+
+M
+
+D, M
+
+W
+
+October 2008
+
+December 2008
+
+M
+
+M
+
+M
+
+Central Bank Balance Sheet
+
+October 2008
+
+December 2008
+
+W
+
+W
+
+W
+
+Consolidated Balance Sheet of the Banking System
+
+October 2008
+
+December 2008
+
+October 2008
+
+November 2008
+
+D
+
+D
+
+D
+
+November 2008
+
+December 2008
+
+Bi-W
+
+Bi-W
+
+Bi-W
+
+Exchange Rates
+International Reserve Assets and Reserve Liabilities
+of the Monetary Authorities
+
+Interest Rates
+
+1
+
+2
+
+Consumer Price Index
+Revenue, Expenditure, Balance and Composition of
+3
+
+4
+
+Memo Items:
+Data Quality – Methodological
+
+Data Quality Accuracy
+
+soundness
+
+and reliability
+
+8
+
+9
+
+LO, LO, O, O
+
+LO, O, O, O, O
+
+O, O, LNO, O
+
+LO, LNO, O, O, LNO
+
+LO, LNO, LNO, O
+
+O, O, O, O, O
+
+LO, LO, LO, LO
+
+LO, O, O, O, LO
+
+O, O, LO, O
+
+LO, LNO, O, LO, LO
+
+Financing – General Government
+
+3
+
+October 2008
+
+December 2008
+
+M
+
+M
+
+M
+
+July 2008
+
+October 2008
+
+M
+
+NA
+
+M
+
+Q3 2008
+
+October 2008
+
+Q
+
+Q
+
+Q
+
+July 2008
+
+September 2008
+
+M
+
+M
+
+Bi-W
+
+Q3 2008
+
+November 2008
+
+Q
+
+Q
+
+Q
+
+August 2008
+
+November 2008
+
+M
+
+M
+
+M
+
+2007
+
+September 2008
+
+7
+
+Revenue, Expenditure, Balance and Composition of
+Financing – Central Government
+Stocks of Central Government and Central
+5
+
+Government-Guaranteed Debt
+
+External Current Account Balance
+Exports and Imports of Goods and Services
+GDP/GNP
+Gross External Debt
+
+International Investment position6
+1
+
+Includes reserve assets pledged or otherwise encumbered as well as net derivative positions.
+Both market-based and officially-determined, including discount rates, money market rates, rates on treasury bills, notes and bonds.
+3
+Foreign, domestic bank, and domestic nonbank financing.
+4
+The general government consists of the central government (budgetary funds, extra budgetary funds, and social security funds) and state and local governments.
+5
+Including currency and maturity composition.
+6
+Includes external gross financial asset and liability positions vis a vis nonresidents.
+7
+Daily (D); Weekly (W); Monthly (M); Quarterly (Q); Annually (A); Irregular (I); Not Available (NA).
+8
+Reflects the assessment provided in the data ROSC published on May 23, 2003 and based on the findings of the mission that took place during February 20 to March 7, 2002. For the dataset corresponding to the variable in
+each row, the assessment indicates whether international standards concerning (respectively) concepts and definitions, scope, classification/sectorization, and basis for recording are fully observed (O), largely observed (LO),
+largely not observed (LNO), or not observed (NO).
+9
+Same as footnote 7, except referring to international standards concerning (respectively) source data, statistical techniques, assessment and validation of source data, assessment and validation of intermediate data and
+statistical outputs, and revision studies.
+2
+
+INTERNATIONAL MONETARY FUND
+MEXICO
+Staff Report for the 2008 Article IV Consultation
+Supplementary Information
+Prepared by the Staff Representatives for the 2008 Consultation with Mexico
+Approved by David J. Robinson and Philip Gerson
+February 3, 2009
+This supplement reports on economic and policy developments since the staff report
+was issued on January 16, 2009.
+1.
+Weakening outlook. Weak activity indicators, rapidly declining non-oil exports,
+lower remittances, slowing employment growth and depressed confidence measures suggest
+that the Mexican economy closed 2008 on a weaker note than projected in the staff report;
+indeed, the Ministry of Finance now estimates that the economy contracted at a 1 percent
+(y/y) rate in the fourth quarter.1 Prospects for 2009 have correspondingly worsened, and it is
+likely that growth will be lower than the staff’s current forecast of -¼ percent.
+2.
+Orderly markets but tight corporate financial conditions. After their brief spike in
+October, government domestic bond yields have declined significantly and are now below
+their levels before the turbulence. While the stock market also recovered somewhat towards
+the latter part of the year, it dropped about 12½ percent in January on weak activity indicators
+in Mexico and in the U.S., Mexico’s main export market. The peso has weakened further
+amid relatively calm market conditions, bringing the currency’s cumulative depreciation
+since its peak in July to over 40 percent. External corporate spreads remain wide, suggesting
+that access to financing is difficult; indeed, a smaller Mexican company has just announced
+that it will not be able to meet an upcoming bond payment. However, a larger Mexican
+multinational has recently successfully completed a refinancing of $4 billion in obligations
+falling due this year.
+3.
+Fiscal policy stimulus. The weakening economy prompted the authorities to
+announce a further fiscal stimulus package in early January. The main measures include
+1
+
+This compares to a staff projection of 0 percent y/y growth in the fourth quarter of 2008.
+
+2
+higher infrastructure and social spending and development bank lending—partly anticipated
+in the staff reports growth and fiscal projections—and temporary reductions in energy prices.2
+On the staff’s definition, total fiscal stimulus for 2009 is now estimated at around 1½ percent
+of GDP.3
+4.
+Monetary policy easing. Banxico’s latest quarterly inflation report, released at endJanuary, noted that the outlook for growth had deteriorated sharply, and issued a substantial
+downward revision to the growth projection for 2009.4 Although headline inflation was high
+at 6½ percent in December and volatile financial conditions remained an upside risk,
+inflation was expected to fall sharply to below 4 percent by end-2009 as the economy slowed,
+commodity price declines fed through, and recent measures to freeze gasoline prices and cut
+gas and electricity tariffs were felt. Against this background, Banco de México cut its policy
+rate by 50 basis points in January. Separately, Banxico has this week announced an
+extension, through October 2009, of the US$30 billion swap facility agreed in October last
+year with the Federal Reserve.
+5.
+Given rapidly materializing downside risks, staff supports recent monetary and
+fiscal policy action. Measures of the fiscal stimulus package are generally well-targeted at
+alleviating the downturn. As such, the thrust of the staff’s appraisal remains unchanged.
+
+2
+
+These include a freeze in gasoline prices for 2009 and changes in cost recovery formulae for electricity tariffs
+to allow quicker pass through of currently falling input costs.
+
+3
+
+The staff measures fiscal stimulus as the change in the domestic resource balance, i.e. the change in the
+augmented balance, less the change in net oil export revenues by PEMEX, with some additional adjustments.
+
+4
+
+Banxico now projects the economy to contract between 0.8 to 1.8 percent in 2009. The late January consensus
+forecast for growth is -0.7 percent this year.
+
+Public Information Notice (PIN) No. 08/xx
+FOR IMMEDIATE RELEASE
+[Month, dd, yyyy]
+
+International Monetary Fund
+700 19th Street, NW
+Washington, D. C. 20431 USA
+
+IMF Executive Board Concludes 2008 Article IV Consultation with Mexico
+On February 6, 2009, the Executive Board of the International Monetary Fund (IMF) concluded
+the Article IV consultation with Mexico.1
+Background
+Mexico has made substantial progress over the past decade in strengthening its economic
+framework. However, the external environment has deteriorated sharply since last year, testing
+Mexico’s resilience and current policy framework.
+Since September 2008, financial markets in emerging markets, including Mexico, have been
+disrupted by shortages of liquidity, and a pull back by foreign investors leading to substantial
+asset price drops. Credit growth in Mexico has also decelerated markedly. The abrupt currency
+depreciation in October last year resulted in sharp losses for some Mexican companies on
+foreign currency derivative positions.
+The weakening outlook for U.S. activity, remittances, and international oil prices all weigh on
+prospects for Mexico. Growth has begun to decelerate as the U.S. has slowed sharply and
+consumer confidence in Mexico has weakened. Real GDP growth is projected at minus
+0.3 percent in 2009 with a gradual pick-up in 2010 to annual average growth of 2.1 percent.
+Headline inflation reached almost 6.5 percent year-over-year by end-December—above the
+3 percent target—mainly pushed up by external supply shocks. However, inflation is expected
+to fall towards the target over the next year in the face of a widening output gap.
+1
+
+Under Article IV of the IMF's Articles of Agreement, the IMF holds bilateral discussions with
+members, usually every year. A staff team visits the country, collects economic and financial
+information, and discusses with officials the country's economic developments and policies. On
+return to headquarters, the staff prepares a report, which forms the basis for discussion by the
+Executive Board. At the conclusion of the discussion, the Managing Director, as Chairman of the
+Board, summarizes the views of Executive Directors, and this summary is transmitted to the
+country's authorities.
+
+2
+The current account deficit is expected to widen in 2008—from 1 percent of GDP in 2007––and
+then remain in a broadly stable range of 2–2.5 percent of GDP over the next years. Non-oil
+export volumes have begun to weaken, reflecting especially the slowdown in the U.S.,
+compounding the effect of falling oil export receipts and remittances. However, there will be
+some offset as imports are expected to slow in line with moderating domestic demand and the
+weaker exchange rate.
+The authorities have responded promptly with a comprehensive policy package. On financial
+markets, measures including foreign currency intervention and steps to buoy up domestic debt
+markets have helped contain stresses, although some pressure points remain. The
+announcement of a swap agreement with the Federal Reserve has also supported confidence.
+On macro policies, the fiscal stance is set to ease, with a stimulus of about 1.5 percent of GDP
+budgeted in 2009. Fiscal policy is on track to achieve balance in 2008−09, on the traditional
+budget measures, as required by the Fiscal Responsibility Law (FRL). But reflecting the planned
+stimulus, the augmented balance is set to widen in 2009 by over 1 percent of GDP from a
+projected minus 1.7 percent of GDP deficit in 2008. The government’s oil price hedge policy is
+expected to safeguard room for maintaining spending levels in 2009 to support needed
+investments and social spending. Meanwhile, the central bank cut its policy rate by 50 basis
+points in January, pointing in its statement to an expected downward trend in inflation and the
+deteriorating outlook for growth.
+Executive Board Assessment
+Executive Directors commended Mexico’s significant improvements in its macroeconomic policy
+framework over the last decade, including the flexible exchange rate and rules-based fiscal and
+monetary policies, and in strengthened public, corporate and banking sector balance sheets.
+Directors noted that, as a result, the economy faces the current external crisis from a more
+robust position than in the past and for the first time the authorities can respond to a downturn
+with countercyclical policies, while maintaining stability and without jeopardizing medium-term
+sustainability. They observed that market sentiment had also been supported by the swap
+facility agreed with the U.S. Federal Reserve.
+Directors endorsed the planned 2009 fiscal stimulus, which should, along with increased
+development bank intermediation, provide timely support to economic activity. They observed
+that the counter-cyclical spending increases would protect employment and support low-income
+families, increase competitiveness of small-and medium-sized businesses, and augment
+infrastructure. Such measures were partly financed in effect by the authorities’ prudent price
+hedging of oil sold by PEMEX.
+Directors considered that if the economic situation were to deteriorate more or longer than
+expected, there could be scope for further fiscal easing in 2009 and also to smooth the planned
+withdrawal of fiscal stimulus in 2010. They welcomed the authorities’ recognition of financing
+and implementation constraints and the need to carefully weigh the potential impact on hardearned policy credibility.
+
+3
+Looking forward, Directors noted that providing the fiscal space for needed public investment
+and social expenditures was a key challenge, especially in view of projected lower oil revenues
+and rising pension costs. They encouraged the authorities to advance efforts to improve tax
+administration and restrain current expenditure, including by refocusing untargeted subsidies.
+Directors also encouraged the authorities to refine the fiscal policy framework by giving
+consideration to moving from the current balanced budget rule to a fiscal rule that would allow
+greater expenditure smoothing in response to cyclical fluctuations, while ensuring policy
+credibility.
+Directors generally saw the balance of inflation risks as tilted to the downside, suggesting room
+for monetary policy easing. Nonetheless, they recognized that still-high headline inflation and
+above-target inflation expectations are complicating factors, underscoring the importance of
+communication efforts to explain the outlook and downside risks. In that light, they welcomed
+the timely interest rate cut in January 2009.
+Directors agreed that the flexible exchange rate has been an important shock absorber, and
+viewed central bank intervention as having helped address liquidity shortages in the foreign
+exchange market, while preserving essential aspects of the flexible currency regime. Directors
+noted the staff’s assessment that the peso may be somewhat undervalued from a medium-term
+perspective.
+Directors welcomed the staff finding that the banking sector was well-capitalized, profitable, and
+supported by a robust regulatory framework. However, they noted that financial conditions
+remain tight and emphasized the need to carefully monitor risks in individual financial sector
+segments, including smaller intermediaries and corporate financing. Directors encouraged the
+authorities to press ahead with efforts to bolster the risk management framework—including by
+advancing the proposed reform of the bankruptcy framework for banks, and extending current
+risk assessments for analyzing liquidity and funding risks for banks and corporates. Directors
+welcomed the enhanced coordination amongst the different financial sector regulators and
+emphasized the importance of finalizing protocols for joint action and information sharing.
+Directors considered that acceleration of the reform agenda remained key to improving growth
+prospects over the medium term. They welcomed the recently approved reforms in the energy
+sector and import tariff reductions as positive steps forward. However, Directors noted that
+significant additional progress was needed, including product and labor market reform,
+improving infrastructure and education, and strengthening competition.
+
+Public Information Notices (PINs) form part of the IMF's efforts to promote transparency of the IMF's
+views and analysis of economic developments and policies. With the consent of the country
+(or countries) concerned, PINs are issued after Executive Board discussions of Article IV consultations
+with member countries, of its surveillance of developments at the regional level, of post-program
+monitoring, and of ex post assessments of member countries with longer-term program engagements.
+PINs are also issued after Executive Board discussions of general policy matters, unless otherwise
+decided by the Executive Board in a particular case.
+
+4
+Mexico: Selected Economic and Financial Indicators 1/
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008 prel.
+projections
+
+(Annual percentage changes, unless otherwise indicated)
+Real GDP
+Real GDP per capita 2/
+Gross domestic investment (in percent of GDP)
+Gross national savings (in percent of GDP)
+Consumer price index (end period)
+
+4.0
+2.9
+24.8
+23.9
+5.1
+
+3.1
+2.1
+24.1
+23.5
+3.3
+
+4.9
+3.8
+25.9
+25.3
+4.0
+
+3.2
+2.2
+26.0
+25.0
+3.7
+
+1.8
+0.7
+26.9
+24.7
+6.5
+
+14.1
+15.4
+-0.9
+
+14.0
+12.7
+-0.7
+
+16.7
+15.4
+-0.6
+
+8.8
+10.1
+-1.0
+
+8.8
+11.1
+-2.2
+
+External sector
+Exports, f.o.b.
+Imports, f.o.b.
+External current account balance (in percent of GDP)
+Change in net international reserves (end of period,
+billions of U.S. dollars)
+Outstanding external debt (in percent of GDP)
+Total debt service ratio 3/
+(in percent of exports of goods, services, and transfers)
+
+4.1
+21.9
+
+7.2
+20.4
+
+-1.0
+17.8
+
+10.3
+18.9
+
+7.6
+20.6
+
+20.8
+
+18.0
+
+23.4
+
+16.3
+
+16.4
+
+Nonfinancial public sector (in percent of GDP)
+Augmented overall balance
+Traditional overall balance
+Gross augmented public sector debt
+Net augmented public sector debt
+
+-1.7
+-0.2
+41.4
+36.8
+
+-1.4
+-0.1
+39.9
+35.3
+
+-0.6
+0.1
+38.5
+32.5
+
+-1.4
+0.0
+38.3
+31.5
+
+-1.7
+0.0
+39.3
+33.0
+
+Money and credit
+Monetary base
+Broad money (M4a)
+Treasury bill rate (28-day cetes, in percent, annual average)
+
+12.0
+12.6
+6.8
+
+11.7
+15.0
+9.2
+
+18.4
+12.8
+7.2
+
+10.0
+11.5
+7.2
+
+10.6
+11.9
+7.7
+
+Sources: National Institute of Statistics and Geography; Bank of Mexico; and Ministry of Finance and Public Credit;
+and IMF staff estimates.
+1/ Methodological differences mean that the figures in this table may differ from those published by
+the authorities.
+2/ Fund staff estimates.
+3/ Public and private sectors.
+
+

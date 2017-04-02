@@ -1,0 +1,5489 @@
+© 2009 International Monetary Fund
+
+[Month, Day], 201
+
+May 2009
+IMF Country Report No. 09/145
+August 2, 2001
+
+New Zealand: 2009 Article IV Consultation—Staff Report; Public Information Notice
+on the Executive Board Discussion
+Under Article IV of the IMF’s Articles of Agreement, the IMF holds bilateral discussions with
+members, usually every year. In the context of the 2009 Article IV consultation with New Zealand,
+the following documents have been released and are included in this package:
+•
+
+The staff report for the 2009 Article IV consultation, prepared by a staff team of the IMF,
+following discussions that ended on March 23, 2009, with the officials of New Zealand on
+economic developments and policies. Based on information available at the time of these
+discussions, the staff report was completed on April 22, 2009. The views expressed in the
+staff report are those of the staff team and do not necessarily reflect the views of the
+Executive Board of the IMF.
+
+•
+
+A Public Information Notice (PIN) summarizing the views of the Executive Board as
+expressed during its May 6, 2009, discussion of the staff report that concluded the Article IV
+consultation.
+
+The document listed below has been or will be separately released.
+Selected Issues Paper
+The policy of publication of staff reports and other documents allows for the deletion of market-sensitive
+information.
+Copies of this report are available to the public from
+International Monetary Fund • Publication Services
+700 19th Street, N.W. • Washington, D.C. 20431
+Telephone: (202) 623-7430 • Telefax: (202) 623-7201
+E-mail: publications@imf.org • Internet: http://www.imf.org
+
+International Monetary Fund
+Washington, D.C.
+
+INTERNATIONAL MONETARY FUND
+NEW ZEALAND
+Staff Report for the 2009 Article IV Consultation
+Prepared by the Asia and Pacific Department
+(In consultation with other departments)
+Approved by James Gordon and Martin Mühleisen
+April 22, 2009
+
+•
+
+Discussions: March 13–23, 2009, with Minister of Finance Bill English, the Governor of
+the Reserve Bank of New Zealand Alan Bollard, the Treasury Secretary John Whitehead,
+and other senior officials and representatives of the private sector and trade unions.
+
+•
+
+Team: Mr. Brooks (head), Messrs. Cubero, Rozhkov, and Schule (all APD). Mr. Ha (OED)
+also participated in the meetings.
+
+•
+
+Mission Focus: Policies needed to lift the economy out of recession, reduce external
+vulnerabilities, and preserve macroeconomic and financial stability.
+
+•
+
+Past Fund Advice: For a description of policy issues discussed in the 2008 Article IV
+consultation, see http://www.imf.org/external/pubs/cat/longres.cfm?sk=21976.0 and
+Appendix I.
+
+•
+
+Exchange System: New Zealand has accepted the obligations of Article VIII, Sections 2, 3,
+and 4. The exchange rate is free of restrictions on the making of payments and transfers for
+current international transactions other than restrictions notified to the Fund in accordance
+with Decision No. 144-(52/51). The de facto exchange rate arrangement is free floating.
+
+•
+
+Official Development Assistance: 0.3 percent of national income for ODA in 2008/09,
+focused on the Pacific.
+
+2
+Contents
+
+Page
+
+Executive Summary...................................................................................................................3
+I. Background.............................................................................................................................4
+II. Policy Discussions...............................................................................................................10
+A. The Outlook ............................................................................................................10
+B. Fiscal Policy ............................................................................................................12
+C. Monetary Policy ......................................................................................................14
+D. Financial Sector.......................................................................................................15
+E. External Stability.....................................................................................................17
+III. Staff Appraisal ...................................................................................................................20
+Tables
+1.
+2.
+3.
+4.
+
+Selected Economic and Financial Indicators, 2005–10 ..............................................22
+Summary of Central Government Budget, 2004/05–2008/09 ....................................23
+Balance of Payments and External Debt, 2004–09.....................................................24
+Medium-Term Scenario, 2008–14 ..............................................................................25
+
+Figures
+1.
+Macroeconomic Developments ....................................................................................4
+2.
+Monetary and Financial Conditions..............................................................................5
+3.
+Fiscal Position...............................................................................................................7
+4.
+External Developments.................................................................................................8
+5.
+Banking Sector Developments......................................................................................9
+6.
+Fiscal Outlook.............................................................................................................13
+7.
+External Debt Sustainability: Bound Tests .................................................................26
+Boxes
+1.
+2.
+3.
+4.
+
+Tail Risks to the Forecast............................................................................................11
+Review of the Monetary Policy Framework...............................................................16
+New Zealand’s Equilibrium Real Effective Exchange Rate.......................................18
+Households’ Saving Rate and Wealth.........................................................................19
+
+Appendixes
+I.
+Main Recommendations of the 2008 Article IV Consultation ...................................27
+II.
+Policy Responses to the Global Financial Crisis ........................................................28
+
+3
+
+Executive Summary
+After several years of strong growth, the New Zealand economy entered into recession in
+early 2008, dragged down initially by the end of the housing boom and a drought, and later
+by the global downturn. With sound macroeconomic policies, a flexible exchange rate, a low
+level of public debt, flexible labor markets, and a healthy banking sector, New Zealand is in a
+better position than most advanced countries to face the global storm. However, the nearterm outlook is challenging. Staff expects the New Zealand economy to contract by about
+2 percent in 2009, with a gradual recovery over the medium term. Risks are weighted to the
+downside, linked to the unprecedented uncertainties surrounding the depth and duration of
+the global recession.
+A key vulnerability is the high level of short-term external debt, mostly owed by banks. A
+low probability but high impact event would be a loss of investor confidence in banks or the
+sovereign. This could lead to a further increase in the cost and/or reduced availability of
+external funding, which would require a more painful economic adjustment.
+A sizable fiscal stimulus is helping support domestic demand, but staff and the authorities
+shared concerns about the expected deterioration of the fiscal position over the medium term.
+The projected increase in public debt is similar to other advanced countries. However, given
+New Zealand’s high external debt, a credible strategy to reduce the deficit over the medium
+term is needed to preserve investor confidence. There is very limited scope for additional
+fiscal stimulus beyond that already in the pipeline.
+Monetary policy was appropriately eased since mid-2008 which should help support demand.
+Staff and the authorities agreed that, in light of the weak outlook for growth and inflation, the
+reduction of the official cash rate should continue.
+The banking sector has weathered well the global crisis so far. Good credit ratings have
+allowed banks to refinance their external debt. The introduction of funding guarantees and
+the extension of the Reserve Bank’s liquidity facilities, have supported confidence in the
+financial system and eased funding pressures. Nevertheless, banks’ exposure to short-term
+external debt remains high. Banks are also vulnerable to an increase in loan defaults. Banks
+should be required to undertake extreme stress tests and increase their capital if needed. The
+key objective is to sustain banks’ strong balance sheets, which is crucial for maintaining
+access to offshore funding.
+
+4
+I. BACKGROUND
+1.
+After several years of strong growth, New Zealand entered a recession in early
+2008 (Table 1). As the housing boom ended in response to tight monetary policy, domestic
+demand fell, led by private consumption (Figure 1). In addition, agricultural exports were
+hit by drought in early 2008. The downturn was exacerbated later in the year by the global
+slowdown. The correction in commodity export prices reduced farm incomes and put
+further pressure on consumption. Real GDP contracted in all quarters of 2008, with a fall of
+3½ percent (saar) in the fourth quarter, bringing annual growth to 1/3 percent.
+Figure 1. Macroeconomic Developments
+New Zealand experienced a period of strong growth,
+accompanied by a housing boom.
+240
+220
+
+House Price Index
+(2002 = 100)
+
+200
+
+160
+140
+
+240
+
+12
+
+220
+
+11
+
+200
+
+Australia
+Canada
+Iceland
+Ireland
+New Zealand
+United Kingdom
+United States
+
+180
+
+The end of the housing boom and a severe drought were initial
+triggers of the slowdown...
+
+180
+160
+
+10
+
+15
+10
+
+8
+
+100
+80
+
+60
+2000
+
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+60
+2009
+
+...which started in early 2008, and was later exacerbated by the
+global crisis.
+10
+
+10
+
+GDP (annual average, rhs)
+
+Private consumption
+(annual average, rhs)
+
+6
+
+8
+
+0
+
+6
+
+-5
+
+5
+
+-10
+
+4
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+-15
+2009
+
+Consumer and business confidence weakened sharply during
+2008, as the economy slowed.
+50
+
+160
+
+Real Growth
+(Seasonally adjusted, in percent)
+
+5
+
+House sales
+(3-month moving average, thousand units, lhs)
+
+120
+
+80
+
+20
+
+9
+
+7
+
+100
+
+25
+
+House price inflation
+(y/y percent, rhs)
+
+140
+
+120
+
+8
+
+30
+
+House Price Inflation and Sales
+
+150
+
+Consumer and Business
+Confidence Indices
+
+40
+30
+
+6
+
+140
+
+QSBO Domestic Trading
+Activity Index (rhs)
+
+20
+
+130
+
+10
+
+4
+
+0
+
+120
+
+4
+2
+
+110
+
+2
+
+0
+
+100
+
+-10
+Consumer confidence
+(Westpac-Mc Dermott Miller Index, lhs)
+
+-20
+-30
+
+0
+
+-2
+
+90
+
+-4
+
+80
+
+GDP (quarter-on-quarter, lhs)
+-2
+1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008
+
+-40
+-50
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+Sources: Reserve Bank of New Zealand, REINZ, Statistics New Zealand; Haver Analytics; and Fund staff calculations.
+
+2.
+CPI inflation has eased sharply since peaking in September 2008. Driven by
+high oil and food prices, annual CPI inflation rose to 5 percent in the third quarter
+(Figure 2). Since then, weak economic activity and a sharp decline in oil prices resulted in a
+significant easing of inflation pressures. Annual CPI inflation fell to 3 percent in the March
+2009 quarter, within the Reserve Bank’s target band of 1 to 3 percent. The labor market
+remained relatively resilient, but started to slow in late 2008, with unemployment rising to
+4¾ percent (text figures).
+
+5
+Figure 2. Monetary and Financial Conditions
+Inflation peaked in September 2008, but since then inflationary
+pressures have eased...
+8
+
+8
+
+CPI Inflation
+
+7
+
+6
+
+5
+
+5
+
+4
+
+4
+
+3
+
+3
+
+2
+
+2
+
+1
+
+1
+
+0
+
+0
+
+-1
+
+Nontradables
+
+-1
+
+-2
+
+Tradables
+
+-2
+
+-3
+
+Headline CPI
+
+-3
+
+12
+
+12
+
+Interest Rates
+
+7
+
+(Percent change, y/y)
+
+6
+
+...and the RBNZ loosened monetary policy, cutting the official
+rate by a total of 525 basis points.
+
+10
+
+10
+
+2-year mortgage rate
+for new customers
+
+8
+
+8
+
+Official cash rate
+
+6
+
+6
+
+4
+
+4
+
+-4
+
+-4
+-5
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+-5
+2009
+
+2008
+
+Effective lending rates fell, but not as much as the Official Cash
+Rate and the bank bill rate...
+12
+
+12
+
+Effective lending rate
+(non-residential)
+
+Effective lending rate
+(residential)
+
+8
+
+6
+
+6
+
+4
+
+2
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2008
+
+12
+
+12
+
+New Zealand and United States
+2-Year Swap Rates
+
+8
+
+7
+
+(Deflated by inflation expected for next year)
+
+7
+
+6
+
+Effective lending rate
+(non-residential)
+
+6
+
+5
+4
+
+5
+Effective lending rate
+(residential)
+
+4
+3
+
+2
+1
+2003
+
+1
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+180
+
+10
+
+(2000 = 100)
+160
+
+8
+140
+
+200
+
+REER (INS, lhs)
+NEER (INS, lhs)
+RBNZ TWI (rhs)
+
+180
+160
+
+NZ 5-year
+6
+
+6
+
+4
+
+4
+
+140
+
+120
+
+120
+
+2-year NZ to US swap spread
+2
+
+2
+
+0
+Jul-08
+
+Sep-08
+
+Nov-08
+
+2009
+
+220
+
+NZ 2-year
+
+May-08
+
+2
+
+90-day bank bill rate
+
+NZ$ Effective Exchange Rate
+
+8
+
+0
+Mar-08
+
+2009
+
+The exchange rate depreciated sharply from the levels that the
+authorities called “unjustifiably high”.
+
+Swap rates have come down from the peak in early 2008.
+
+10
+
+2007
+
+3
+
+90-day bank bill rate
+
+2002
+
+2006
+
+8
+
+10
+
+8
+
+2001
+
+2005
+
+Real Interest Rates
+
+10
+
+2
+2000
+
+2004
+
+...and falling inflation kept real effective lending rates at a high
+level.
+
+Nominal Interest Rates
+
+4
+
+2
+
+2
+2003
+
+Jan-09
+
+Mar-09
+
+100
+100
+80
+Feb-03
+
+Feb-04
+
+Feb-05
+
+Feb-06
+
+Feb-07
+
+Sources: International Financial Statistics;Reserve Bank of New Zealand; Statistics New Zealand; Bloomberg.
+
+Feb-08
+
+80
+Feb-09
+
+6
+
+10
+9
+
+95
+
+Indicators of Resource Pressure
+(In percent)
+
+94
+
+8
+
+93
+
+7
+
+92
+
+6
+
+91
+
+5
+
+90
+
+4
+
+89
+
+3
+
+88
+
+2
+
+87
+
+1
+
+Unemployment rate (lhs)
+Manufacturers' capacity utilization (rhs)
+
+86
+
+0
+85
+1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009
+Sources: New Zealand Institute of Economic Research; and Statistics New Zealand.
+
+4.5
+
+4.5
+
+Labor Cost Index
+4.0
+
+(All industries, 12-month growth rate)
+
+4.0
+3.5
+
+3.5
+Public sector
+3.0
+
+3.0
+
+2.5
+
+2.5
+
+2.0
+
+2.0
+
+Private sector
+
+1.5
+
+1.5
+
+1.0
+
+1.0
+1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008
+Sources: Statistics New Zealand; and Fund staff calculations.
+
+3.
+As the economy contracted and inflation pressures eased, monetary policy was
+loosened and the exchange rate depreciated sharply. The Reserve Bank cut the official
+cash rate by 525 basis points since July 2008 to 3 percent, and the nominal exchange rate
+depreciated by 25 percent in trade-weighted terms between December 2007 and March
+2009. This did not have a material adverse impact on balance sheets, as most external debt
+is denominated in New Zealand dollars or hedged. In fact, banks’ offshore funding needs
+have been eased by the depreciation of the exchange rate, as foreign currency borrowing
+now provides more New Zealand dollars than a year ago.
+4.
+The fiscal position remained
+100
+strong, but the outlook has deteriorated.
+Gross Public Debt, 2008
+(In percent of GDP)
+The surplus1 was 3 percent of GDP in
+80
+2007/08, the government’s net financial
+60
+assets are positive, and gross public debt is
+low by international standards (text figure).
+40
+However, a deficit of 1½ percent of GDP is
+20
+expected for 2008/09 (Table 2 and
+Figure 3). Part of the deterioration was a
+0
+result of the economic downturn, as the
+GRC HUN US PRT CAN AUT UK ICE IRL ESP FIN NZL AUS
+increase in tax revenues in recent years was Sources: World Economic Outlook; and Fund staff calculations.
+partly driven by cyclical factors, such as rising commodity and house prices. Another part
+was driven by measures introduced last year—namely personal income tax cuts staggered
+over three years and expenditure increases.
+
+1
+
+Operating balance before gains and losses (OBEGAL).
+
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+
+7
+Figure 3. Fiscal Position
+The budget is projected to move into deficit in the current fiscal
+year...
+
+...as a result of income tax cuts, new spending initiatives, and a
+worsened growth outlook.
+
+6
+
+50
+
+6
+
+Operating Balance
+Before gains and losses
+(OBEGAL)
+
+5
+4
+
+5
+
+50
+
+Revenue and Expenditure
+(In percent of GDP)
+
+45
+
+45
+
+4
+
+(In percent of GDP)
+
+3
+
+3
+
+2
+
+2
+
+1
+
+1
+
+0
+
+0
+
+-1
+
+-1
+
+-2
+
+-2
+
+40
+
+40
+
+Revenue
+
+35
+
+35
+
+30
+
+30
+Expenditure
+
+25
+
+25
+
+20
+
+20
+
+1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009
+
+1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009
+
+Tax receipts from individuals and corporates fell in 2008 as the
+economy slowed...
+
+...and the fiscal impulse is projected to increase sharply in
+2008/09.
+
+12
+
+16
+
+Tax Revenue
+
+3
+
+3
+
+Fiscal Impulse
+
+(Percent of GDP)
+
+(In percent of GDP)
+
+2
+
+Individual taxes (rhs)
+
+10
+
+1
+
+Net GST (lhs)
+
+2
+Tighter
+
+1
+
+15
+0
+
+0
+
+8
+
+Looser
+
+-1
+
+14
+6
+
+Jan-05
+
+Jan-06
+
+Jan-07
+
+Jan-08
+
+13
+Jan-09
+
+Public debt is low, but is starting to increase as the fiscal
+position deteriorates.
+
+-2
+
+-3
+
+-3
+
+Gross and Net Debt
+
+-4
+
+-4
+1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009
+
+The spreads on New Zealand government debt have fallen
+from recent peaks, but remain elevated.
+70
+
+70
+
+500
+
+60
+
+(In percent of GDP)
+
+400
+50
+
+50
+
+40
+
+40
+Gross debt
+
+30
+
+30
+
+500
+
+Spreads of 10-Year Government Bond Yield to
+United States
+New Zealand
+Australia
+(In basis points)
+
+Canada
+
+400
+
+Ireland
+
+300
+
+300
+
+200
+
+200
+
+100
+
+100
+
+20
+
+20
+10
+
+-2
+
+Corporate taxes (lhs)
+
+4
+Jan-04
+
+60
+
+-1
+
+Net crown debt
+(including NZS)
+
+10
+0
+
+0
+
+0
+
+0
+
+-10
+
+-10
+
+-20
+
+-20
+1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009
+
+-100
+Mar-08
+
+-100
+Jun-08
+
+Note: Fiscal years ending June 30.
+Sources: The New Zealand Treasury; SNZ; and Fund staff calculations and projections.
+
+Sep-08
+
+Dec-08
+
+Mar-09
+
+8
+5.
+The current account deficit widened to almost 9 percent of GDP in 2008. High
+oil prices and the lagged effect of an appreciated exchange rate contributed to strong import
+growth, despite the slowdown in consumption (Table 3 and Figure 4). Unlike in many Asian
+countries, export volumes have held up because of the low share of medium- and high-tech
+manufacturing exports. Private capital inflows continued to finance the deficit, and net
+foreign liabilities increased to 94 percent of GDP.
+Figure 4. External Developments
+High oil prices and the lagged effect of an appreciated exchange
+rate lifted the current account deficit.
+
+Private capital inflows continued to finance the deficit,
+increasing net foreign liabilities to 94 percent of GDP.
+150
+
+8
+
+150
+
+6
+
+140
+
+4
+
+130
+
+2
+
+2
+
+120
+
+0
+
+0
+
+110
+
+110
+
+-2
+
+100
+
+100
+
+-4
+
+90
+
+90
+
+-6
+
+80
+
+80
+
+-8
+
+70
+
+70
+
+-10
+
+60
+
+60
+
+-12
+
+50
+
+8
+
+Current Account
+
+6
+
+(In percent of GDP, s.a.)
+
+4
+
+Goods and services
+
+Current account
+
+-2
+-4
+-6
+
+Income and current
+Transfers
+
+-8
+-10
+
+-12
+1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008
+
+800
+
+Foreign Investment Position, June 2008
+(In percent of 2008 GDP)
+
+600
+
+-200
+-400
+
+…and banks’ foreign liabilities are comparable to other OECD
+countries.
+
+600
+
+80%
+
+80%
+
+70%
+
+70%
+
+60%
+
+60%
+
+50%
+
+50%
+
+40%
+
+40%
+
+30%
+
+30%
+
+20%
+
+20%
+10%
+
+-400
+
+-600
+
+-600
+
+10%
+
+-800
+
+-800
+
+0%
+
+ICE
+
+UK
+
+HUN
+
+FIN
+
+GRC
+
+NZL
+
+AUS
+
+CAN
+
+50
+
+90%
+
+-200
+
+Gross liabilities
+Gross assets
+Net foreign assets
+
+120
+
+100%
+
+0
+
+0
+
+130
+
+800
+
+200
+
+200
+
+Net Foreign Liabilities
+Gross external debt
+
+140
+
+1000
+
+400
+
+400
+
+(In percent of GDP)
+
+1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008
+
+While net foreign liabilities are high, gross liabilities are lower
+than in many other developed countries...
+1000
+
+External Debt
+
+100%
+
+Banks: Total Foreign Liabilities, 2007
+(In percent of total assets)
+
+90%
+
+0%
+IRL PRT UK GRC FIN ICE NZL ESP HUN AUT AUS CAN
+
+Sources: Reserve Bank of New Zealand, REINZ, Statistics New Zealand; International Financial Statistics; and Fund staff calculations.
+
+6.
+The banking sector has weathered well the global crisis so far. It remains
+profitable, with aggregate capital well above the regulatory minimum (Figure 5). Impaired
+assets have increased noticeably over recent months, but are low by international standards
+(¼ percent of total loans), and are covered by provisions. Regulations restricted banks’ use
+of securitization, which limited the fallout from the financial turmoil. However, banks’
+short-term external debt remains high and most of their assets are with the household sector,
+whose debt has risen to 160 percent of disposable income. Nonbank financial institutions
+have been hard hit by the housing downturn, but their assets account for only 5 percent of
+system-wide assets.
+
+9
+
+Figure 5. Banking Sector Developments
+90-day interest rates have fallen sharply, offsetting the widening
+of the spread.
+12
+
+10
+
+%
+
+Basis points
+
+Bank Bill Rates and Overnight
+Index Swap Rates
+
+Spread (rhs)
+90-day bank bill rate
+3 month OIS rate
+
+160
+140
+120
+
+80
+6
+
+60
+40
+
+4
+
+20
+2
+Mar-07
+
+Jul-07
+
+Nov-07
+
+Mar-08
+
+Jul-08
+
+Nov-08
+
+0
+Mar-09
+
+225
+
+175
+150
+125
+
+100
+
+100
+
+75
+
+75
+
+50
+
+50
+
+25
+
+25
+
+0
+Jan-08
+
+0
+Mar-08
+
+May-08
+
+Jul-08
+
+Sep-08
+
+Nov-08
+
+Jan-09
+
+Mar-09
+
+... but banks are exposed to mortgage loans held by
+households that are highly indebted...
+160
+
+0.65
+
+150
+
+0.55
+
+140
+
+8
+
+0.45
+
+130
+
+6
+
+0.35
+
+120
+
+Tier 1 capital to RWA
+
+0.25
+
+110
+
+Total capital to RWA
+
+0.15
+
+100
+
+Impared assets/ total lending (rhs)
+
+0.05
+
+90
+
+10
+
+200
+
+125
+
+170
+
+(In percent)
+
+225
+
+5-Year spread
+1-Year spread
+
+150
+
+0.75
+
+12
+
+250
+
+(Average of 4 Major Australian Banks)
+
+175
+
+0.85
+
+Soundness Indicators
+
+Credit Default Swap (CDS) Spreads
+
+200
+
+The banking sector remains sound...
+14
+
+275
+
+275
+250
+
+100
+
+8
+
+CDS spreads for major Australian banks widened.
+
+17
+
+Household Debt and Interest Payments
+
+16
+
+(Percent of disposable income)
+
+15
+14
+13
+12
+
+4
+2
+
+-0.05
+0
+1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008
+
+250
+
+150
+
+8
+7
+
+30
+
+30
+
+Credit Growth
+
+(In percent of disposable income)
+New Zealand
+Australia
+Germany
+Italy
+
+9
+
+Debt servicing (rhs)
+
+Credit growth has slowed, especially to households.
+
+Household Debt
+200
+
+10
+
+80
+1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008
+
+...compared with most other developed countries.
+250
+
+11
+
+Household debt (lhs)
+
+UK
+Spain
+France
+
+25
+
+(Year on year percentage change)
+
+25
+
+200
+20
+150
+
+100
+
+100
+
+50
+
+50
+
+20
+
+Household loans
+
+15
+
+15
+10
+
+10
+
+Total
+
+5
+
+5
+Business loans
+
+0
+
+0
+0
+
+0
+1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008
+
+-5
+2003
+
+-5
+2004
+
+Sources: Bloomberg; Eurostat; Reserve Bank of New Zealand; and Statistics New Zealand.
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+10
+II. POLICY DISCUSSIONS
+7.
+Discussions focused on the policies needed to lift the economy out of recession,
+reduce external vulnerabilities, and preserve macroeconomic and financial stability. In
+particular, the key topics included:
+•
+
+choosing the appropriate degree and speed of monetary easing;
+
+•
+
+preserving medium-term fiscal sustainability;
+
+•
+
+maintaining stability of the financial sector;
+
+•
+
+reducing external vulnerabilities.
+A. The Outlook
+8.
+Staff and the authorities agreed that the near-term outlook is weak, and that
+uncertainty is higher than usual. Staff emphasized the significant deterioration in the
+global outlook in recent months, and the likely spillover effects that the global downturn
+may have on New Zealand (Box 1). Households are constrained by high debt levels, falling
+house and equity prices, and uncertain employment prospects. Business investment is held
+back by a fall in confidence, weaker profitability, and tighter credit conditions. Downside
+risks in the outlook are high and linked to the unprecedented uncertainties surrounding the
+depth and duration of the global recession. Staff expects the economy to contract by about
+2 percent in 2009.
+9.
+In the medium term, staff projects a gradual recovery beginning in 2010
+(Table 4). The uncertainty in the world financial markets will likely continue to constrain
+the ability to raise funding offshore, particularly at longer maturities, and may therefore
+limit the availability of credit for the private sector. Higher saving by households, slower
+credit growth, and a fall in commodity
+160
+160
+New Zealand's Gross Domestic Product:
+prices will put a brake on growth. The
+Actual and Potential (Fund Staff Projections)
+150
+150
+(Seasonally adjusted, 2003Q1 = 100)
+recovery is expected to be gradual and led
+140
+140
+Gross domestic product
+by government expenditure and net exports,
+Potential output
+130
+with the latter driven by the depreciation of 130
+Potential output trend
+(average, 1998Q1-2007Q4)
+120
+120
+the exchange rate and a bounce back of
+agricultural exports from drought. Growth
+110
+110
+is projected to rise above the potential rate
+100
+100
+of about 2½ percent by 2012. The
+90
+90
+projections assume a permanent loss of
+2000
+2002
+2004
+2006
+2008
+2010
+2012
+2014
+output relative to a 10-year trend that is in
+line with international experience (text figure).
+
+11
+Box 1. New Zealand: Tail Risks to the Forecast
+The IMF’s Global Integrated Monetary and Fiscal Model has been used to estimate the potential
+impact of a global deflationary shock on New Zealand. The model has a number of useful features,
+including various nominal and real rigidities, overlapping generations and rule-of-thumb consumers, and an
+elaborate representation of monetary and fiscal policies.1
+In scenario 1, the global downturn deepens and becomes long-lived. A combination of shocks to
+consumption and investment hit both the rest of the world and New Zealand in 2009 and 2010. In addition,
+lower foreign demand for New Zealand
+Impact on New Zealand of AdverseShocks
+commodities put pressure on commodity
+(Percent or percentage point deviation from baseline)
+prices. Given the two-country structure of the
+2009
+2010
+2011
+2012
+model, the shock is effectively the same
+World
+across all New Zealand’s trading partners. At
+-1.0
+-1.5
+-1.3
+-1.1
+home and abroad, policy interest rates are cut, Real GDP
+New Zealand: Scenario 1
+and fiscal automatic stabilizers are allowed to
+Real GDP
+-1.1
+-2.0
+-1.9
+-1.8
+work. Nonetheless, the capital stock and trend Inflation
+-0.6
+-0.9
+-0.9
+-0.6
+output fall below baseline; the output gap
+Current Account/GDP
+-0.8
+-1.1
+-0.7
+-0.5
+closes after five years, but the level of GDP
+New Zealand: Scenario 2
+remains below baseline.
+Real GDP
+-3.9
+-4.4
+-4.3
+-3.8
+Domestic Demand*
+
+-8.8
+
+In scenario 2, tighter foreign financing
+Net Exports*
+4.9
+conditions force a painful adjustment. On
+Current Account/GDP
+5.6
+top of scenario 1, foreign investors demand a
+REER 1/
+-15.5
+5 percentage points higher risk premium,
+Inflation
+-0.6
+which triggers a sharp fall in domestic
+Nominal Policy Rate
+-1.5
+Priv. Real Interest Rate
+4.3
+demand to 10–11 percent below baseline.
+Fiscal
+Balance/GDP
+-2.4
+GDP and inflation also fall below baseline,
+Public Debt/GDP
+2.7
+but net exports and the current account
+Source: GIMF simulations.
+balance improve. Reductions in policy interest
+* Contribution to change in real GDP.
+rates and automatic fiscal stabilizers help
+1/ Minus = devaluation.
+cushion the downturn, but public debt
+increases.
+__________________
+1
+For a complete description of the model, see Kumhof and Laxton (2009).
+
+-11.1
+6.7
+4.8
+-9.5
+-0.7
+-2.1
+3.5
+-2.8
+5.4
+
+-10.6
+6.3
+4.2
+-5.2
+-0.4
+-1.9
+3.4
+-2.7
+7.1
+
+-9.1
+5.3
+4.1
+-3.6
+-0.2
+-1.7
+3.4
+-2.3
+7.8
+
+10.
+The risks to the outlook are tilted to the downside. A low probability but high
+impact event would be a loss of investor confidence in banks and the sovereign, which
+would require a painful economic adjustment. So far, banks’ sound financial positions have
+allowed them to refinance significant amounts of short-term offshore debt. However, it is
+possible that the full impact of the global turmoil on capital flows is yet to be felt.2 A loss of
+investor confidence could lead to a further increase in the cost and/or reduced availability of
+banks’ external funding. On the upside, a stronger-than-expected recovery in Asia and
+Australia, which account for about half of New Zealand’s exports, could boost export
+incomes and result in higher-than-forecast growth.
+2
+
+World Economic Outlook, April 2009.
+
+12
+11.
+The authorities project a somewhat stronger recovery. The authorities noted that a
+number of factors differentiate New Zealand favorably from many other countries, including
+the absence of a banking crisis and a flexible exchange rate. They therefore believed that
+recession is likely to lead to a smaller permanent output loss than in other advanced economies.
+B. Fiscal Policy
+12.
+A significant fiscal stimulus is underway. The policy measures taken in 2008
+provide a cumulative stimulus of around 3 percent of GDP by 2009/10, which will help
+cushion the near-term impact on the economy of the global downturn. The combined effect
+of the policy decisions and the weaker outlook for commodity prices and growth, however,
+is a sharp worsening of the fiscal projections over the next 4–5 years.
+13.
+Staff and the authorities shared concerns about the expected deterioration of
+the fiscal position over the medium term. Staff projects that, without changes to current
+policies, the deficit would reach almost 6 percent of GDP by 2013/14, with gross public
+debt of more than 50 percent of GDP by 2014 (Figure 6). In a scenario with lower economic
+growth, the fiscal position would deteriorate even further.3 While this increase in debt is
+broadly in line with that forecast for other advanced countries,4 New Zealand’s sizable
+short-term external debt (65 percent of GDP) and large current account deficit (9 percent of
+GDP) constrain fiscal policy’s room for maneuver (text figures). A further deterioration in
+the near-term fiscal outlook could generate a market backlash and raise borrowing costs,
+undermining the effectiveness of the sizable fiscal and monetary stimulus already in train.
+Thus, there is very limited scope for additional fiscal stimulus beyond the sizable stimulus
+already in the pipeline.
+100
+
+100.0
+
+Total Short-term Debt, 2008
+
+10
+
+(In percent of GDP)
+80
+
+80.0
+
+60
+
+60.0
+
+40
+
+40.0
+
+20
+
+20.0
+
+0
+
+0.0
+
+PRT
+
+NZL
+
+AUS
+
+ESP
+
+FIN
+
+US
+
+GRC AUT
+
+CAN HUN
+
+Sources: International Financial Statistics; WEO; and Fund staff estimates.
+
+3
+4
+
+15
+
+15
+
+5
+
+Current Account Balance, 2008
+(In percent of GDP)
+
+10
+5
+
+0
+
+0
+
+-5
+
+-5
+
+-10
+
+-10
+
+-15
+
+-15
+
+-20
+
+-20
+
+-25
+
+-25
+
+-30
+
+-30
+
+-35
+
+-35
+-40
+
+-40
+
+AUT FIN CAN UK AUS IRL
+
+US HUN NZL ESP PRT GRC ICE
+
+Sources: World Economic Outlook; and Fund staff calculations.
+
+See the accompanying Selected Issues paper.
+
+The World Economic Outlook, April 2009, forecasts an increase in gross public debt from 2008 to 2014 of
+about 22 percent of GDP for the Euro area, and 35–40 percent of GDP for Japan, the United Kingdom, and the
+United States.
+
+13
+Figure 6. Fiscal Outlook (Fund Staff Projections)
+Based on current policies, the fiscal position is projected to
+deteriorate further in the medium term...
+
+...mainly due to the worsened growth outlook, but also due to
+additional planned tax cuts and spending measures.
+5
+
+5
+
+Operating Balance
+Before gains and losses
+(OBEGAL)
+
+4
+3
+2
+
+3
+
+1
+
+0
+
+0
+
+-1
+
+-1
+
+-2
+
+-2
+
+-3
+
+-3
+
+-4
+
+-4
+
+-5
+
+-5
+
+-6
+
+-6
+-7
+
+-7
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+60
+
+(In percent of GDP)
+
+50
+
+45
+
+Expenditure
+
+Forecast
+
+40
+
+35
+
+40
+
+35
+
+30
+
+30
+
+Revenue
+
+25
+
+25
+
+20
+
+20
+2007
+
+Debt is projected to rise significantly, and the net financial asset
+position would move into deficit.
+
+Gross and Net Debt
+
+(In percent of GDP)
+
+45
+
+2014
+
+70
+
+50
+
+Revenue and Expenditure
+
+2
+
+(In percent of GDP)
+
+Forecast
+
+1
+
+50
+
+4
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+In the staff’s baseline scenario, the fiscal impulse continues
+until 2013; staff’s adjustment scenario moves it to a tighter
+position as growth resumes.
+
+70
+
+4
+
+60
+
+3
+
+50
+
+2
+
+40
+
+1
+
+1
+
+Fiscal Impulse
+(Change in structural
+operating balance)
+
+Forecast
+
+Tighter
+
+4
+3
+2
+
+Forecast
+40
+
+Gross debt
+
+30
+
+30
+
+0
+
+0
+
+20
+
+20
+
+-1
+
+-1
+
+10
+
+-2
+
+0
+
+-3
+
+-10
+
+-10
+
+-4
+
+-20
+
+-20
+
+-5
+
+Net crown debt
+(including NZS)
+
+10
+0
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+-2
+Looser
+
+-3
+
+Adjustment scenario
+Baseline scenario
+
+-4
+-5
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+Note: Fiscal years ending June 30.
+Sources: The New Zealand Treasury; Statistics New Zealand; and Fund staff calculations and projections.
+
+14.
+Staff emphasized that preserving investor confidence will require a credible
+strategy to reduce the deficit over the medium term. Staff advised that concrete
+measures be laid out in the May 2009 budget to stabilize gross public debt in the medium
+term and bring it back to around the current level in the longer term. The bulk of measures
+to be taken for medium-term fiscal consolidation should aim to have an impact in 2010/11
+and beyond, when growth is projected to recover. While the focus should be on the
+expenditure side given the increase in spending in recent years, the size of the required
+adjustment is large, and revenue measures will likely also be needed to close the gap.
+Options for expenditure reduction include cutting low priority programs—preferably those
+with the least impact on demand in the near term—and improving ‘value for money’ in
+public sector services. Options for increasing revenue over the medium-term should aim at
+minimizing the impact on long-term growth. Even with consolidation, the fiscal stance
+would likely remain expansionary through 2010–11, because of already-budgeted personal
+tax cuts and spending increases (text figures).
+
+14
+
+60
+
+60
+
+4
+
+50
+
+2
+
+Operating Balance
+Before Gains and Losses
+- Staff Projections
+
+Gross Public Debt
+50
+
+(Staff projections, in percent of GDP)
+
+4
+
+2
+
+(In percent of GDP)
+
+Current policies
+Adjustment scenario
+
+40
+
+0
+
+0
+
+30
+
+30
+
+-2
+
+-2
+
+20
+
+20
+
+-4
+
+-4
+
+10
+
+10
+
+-6
+
+0
+
+-8
+
+40
+
+0
+2008/09
+
+2009/10
+
+2010/11
+
+2011/12
+
+2012/13
+
+2013/14
+
+-6
+
+Current policies
+Adjustment scenario
+
+-8
+2008/09
+
+2009/10
+
+2010/11
+
+2011/12
+
+2012/13
+
+2013/14
+
+Sources: The New Zealand Treasury; Statistics New Zealand; and Fund staff calculations and projections.
+
+15.
+The authorities stressed their firm commitment not to allow debt to rise to
+levels that would undermine investor confidence. They emphasized that the projected
+increase in debt over the medium term is outside the range that the government considers
+prudent. The authorities are already taking steps to eliminate existing unfunded
+commitments and stop the growth of employment in government administration. Further
+measures will be laid out in the May 2009 budget.
+16.
+The mission encouraged the authorities to prepare contingency plans in case
+the economic and fiscal outlook deteriorates further. Staff noted that, given the
+uncertainty about the economic outlook, medium-term projections should be based on
+conservative revenue assumptions. If the outlook worsens, the authorities should allow the
+automatic stabilizers to operate, but put in place offsetting measures that would reduce the
+deficit in the medium term.
+17.
+Over the long term, key budgetary risks are the growing healthcare costs and public
+pension outlays. These risks should be addressed before the demographic pressures intensify.
+C. Monetary Policy
+18.
+The economic slowdown and tight monetary policy earlier in the cycle have
+helped to ease inflationary pressures. The output gap has turned negative and staff
+projects headline inflation to fall to less than 1 percent (y/y) by December 2009, before
+slowly returning to the middle of the 1–3 percent target band in the medium term.
+19.
+Staff noted that the substantial easing of monetary policy since mid-2008 has
+been appropriate. The sizable reduction in the official cash rate over the last few months
+has largely, though not fully, been passed through to rates for new borrowing. The monetary
+stimulus already in train should help support demand. The depreciation of the exchange rate
+has also cushioned the fall in export prices and volumes, and helped ease banks’ offshore
+funding pressures. Staff welcomed the outcome of the parliamentary inquiry into the
+
+15
+monetary policy framework (Box 2). The authorities felt that the inflation targeting regime
+remained appropriate, and has been helpful in reducing the likelihood of deflation.
+20.
+Given the weak outlook for growth and inflation, the Reserve Bank should
+continue to reduce the official cash rate. Credit growth is slowing, and credit standards
+have been tightened. Also, increased spreads on bank borrowing (especially for 2–5 year
+terms) and lower inflation expectations have partially offset the impact of the lower cash
+rate on real lending rates. Moreover, households with fixed rate mortgages will benefit from
+lower interest rates only with a lag.
+21.
+The mission agreed with the authorities that further easing of monetary policy
+should proceed in smaller steps. The authorities noted, and staff agreed, that interest rates
+should be set so that New Zealand remains competitive in international capital markets,
+because of the country’s high short-term external debt. Reducing the official cash rate to
+zero could lead to significant capital outflows and a sharp depreciation of the exchange rate.
+The authorities saw no immediate need for quantitative easing, given that monetary policy
+remains effective in New Zealand. Nonetheless, the staff suggested that the authorities
+consider alternative easing instruments and their potential efficacy in the unlikely event that
+such measures are needed.
+D. Financial Sector
+22.
+Steps taken in the second half of 2008 have helped to improve confidence in the
+banking system. The introduction of retail and wholesale funding guarantees, and the
+extension of the Reserve Bank’s liquidity facilities, have helped maintain banks’ access to
+funding and supported confidence in the financial system (Appendix II). Moreover, new
+funding arrangements with parent banks have helped fill the gap left by the limited access to
+medium-term funding.
+23.
+Staff stressed the importance of contingency planning for the worst-case
+scenarios. A sharp rise in unemployment could seriously affect the quality of mortgage
+books, while farmers are highly indebted and exposed to a fall in commodity prices. Staff
+analysis suggests that banks’ capital is resilient to an increase in the default rate to 5–
+6 percent of total loans.5 Nevertheless, given the downside risks in the outlook, banks
+should be required to conduct extreme stress tests to assess their vulnerability to a sharp
+jump in unemployment, a large drop in house prices, and a significant increase in funding
+costs. Banks’ capital is well above the regulatory minimum of 8 percent. However, if these
+extreme stress tests were to point to the need for one or more banks to increase provisioning
+and raise capital, this should be done early, as it would be more difficult to raise capital if
+banks come under stress. The key objective is to sustain banks’ strong balance sheets, which
+is crucial for maintaining access to offshore funding.
+5
+
+See the accompanying Selected Issues paper.
+
+16
+
+Box 2. New Zealand: Review of the Monetary Policy Framework
+A parliamentary inquiry into the monetary policy framework was undertaken
+in 2007/08 because of concerns about an overvalued exchange rate. Some
+submissions to the inquiry pointed to the adverse impact on export competitiveness
+from high policy interest rates driving up the exchange rate and argued for a more
+flexible approach to monetary policy or an exchange rate target.
+The inflation-targeting framework has become more flexible since it was
+introduced in 1990. Initially a 12 month rate of inflation of 0–2 percent was
+targeted, but this was changed progressively to “1–3 percent on average over the
+medium term.” In addition, since 1999 the Reserve Bank has been required to “seek
+to avoid unnecessary instability in output, the exchange rate or interest rates.”
+The inquiry recommended no further significant changes to the framework. The
+inquiry found that the case for modifying the inflation target, such as a adopting a
+wider target range, could have costs in terms of credibility in the commitment to
+price stability, without the promise of significant benefit. It also dismissed arguments
+for targeting the exchange rate as it would take away monetary policy independence
+and lose a buffer to shocks.
+The government’s response to the inquiry noted that while the monetary policy
+framework was in line with international best practice, it could be developed
+further. In particular, it could take account of asset price cycles and general
+imbalances in the economy.
+
+24.
+The authorities reiterated their commitment to continued monitoring and
+stress testing of banks’ capital position. They noted that banks are now required to
+conduct regular stress tests under Basel II. The Reserve Bank is currently reviewing banks’
+capital adequacy associated with agricultural lending.
+25.
+Staff supported the Reserve Bank’s proposed prudential liquidity rules for
+banks. The rules would strengthen the disclosure requirements for liquidity risk and require
+banks to maintain robust liquidity positions.6 Over time, the new rules should help reduce
+banks’ dependence on short-term offshore funding.
+6
+
+These include limits on a bank’s mismatch positions over one week and one month, and a minimum “core
+funding” ratio of 70 percent. The latter is defined as a ratio of “core funding” (shareholders’ equity, wholesale
+and retail funding with residual maturity more than one year, and 80 percent of retail funding with residual
+maturity less than one year) to total assets.
+
+17
+26.
+Staff welcomed other measures taken to strengthen the supervision of the
+financial sector. The decision to make the Reserve Bank the regulator of nonbank financial
+institutions, and the regulator and supervisor of the insurance sector should improve
+investor confidence, and strengthen the resilience of the non-bank financial sector. Staff
+also welcomed the ongoing collaboration with the Australian authorities on banking
+supervision, regulation, and crisis preparedness.
+E. External Stability
+27.
+The staff considered that the sharp fall of the exchange rate brought the
+currency broadly in line with fundamentals (Box 3). The depreciation was driven by the
+beginning of the loosening cycle by the Reserve Bank and the fall in commodity prices. The
+authorities stressed that they remain committed to a free floating exchange rate regime, with
+only limited interventions by the Reserve Bank.
+28.
+The depreciation, combined with the global financial turmoil and the domestic
+recession, should lead to a narrowing of the current account deficit. More limited
+access to offshore funding and higher private savings will push the current account deficit to
+lower levels (Box 4). The trade balance is expected to improve, with imports restrained by
+the weakness in private consumption and investment, and by the lower exchange rate. At
+the same time, exports should recover from the drought, and benefit from the depreciated
+currency.
+29.
+Continued disruptions in global markets might hamper access to balance-ofpayments financing. In this context, the government’s wholesale funding guarantee and
+increased term funding from Australian parent banks have provided important cushions. If
+in the event of a large shock these prove insufficient, official foreign exchange reserves, the
+government’s offshore borrowing capacity, and some use of the swap facility with the U.S.
+Federal Reserve should limit the extent of a disruptive adjustment. This underlines the need
+to maintain fiscal sustainability. The mission encouraged the authorities to facilitate the
+expansion of term funding from Australian parent banks to their New Zealand subsidiaries.
+
+18
+Box 3. New Zealand: New Zealand’s Equilibrium Real Effective Exchange Rate
+Staff estimates suggest that the New
+Zealand dollar is broadly in line with
+fundamentals. These estimates are based
+on the macroeconomic balance (MB)
+approach, the equilibrium real exchange
+rate (ERER) approach, and the external
+sustainability (ES) approach.
+The MB estimates suggest that the
+equilibrium current account deficit is
+around 5 percent of GDP, reflecting
+relatively high population growth. Staff’s
+projected current account deficit is in line
+with the norm. This implies little deviation
+of the exchange rate from equilibrium.
+The ERER estimates suggest a small
+undervaluation. The model attempts to
+explain the REER on the basis of the terms
+of trade, relative productivity, and relative
+government consumption. Using the March
+2009 level of 109 for the REER as the base,
+the equation suggests an undervaluation of
+about 7 percent in 2013, assuming a further
+weakening of the terms of trade over the
+medium-term.
+The ES approach implies an
+overvaluation of 5 percent, if we assume
+that net foreign liabilities (NFL) stabilize at
+the norm estimated by the model of about
+73 percent of GDP over the medium-term.
+However, the predicted NFL is mainly
+explained by the fixed effect, which casts
+doubt on the model. A larger overvaluation
+would result if we assume an even faster
+fall in NFL. A smaller overvaluation of less
+than 1 percent would result if we assume
+NFL stabilizes at the end-2008 level of
+94 percent of GDP.
+
+Exchange Rate Assessment: Baseline Results 1
+CA/GDP
+Norm
+
+REER
+Overvaluation
+
+2
+
+3
+
+MB Approach:
+Desk
+
+ERER Approach:
+Desk
+ES Approach:
+Desk
+
+Projection
+
+-4.9
+
+-4.4
+
+-2.4
+
+…
+
+…
+
+-6.8
+
+-3.3
+
+-4.4
+
+5.1
+
+4
+
+5
+
+Source: Fund staff estimates.
+1/ All results are expressed in percent .
+2/ Staff projection of the underlying CA/GDP in 2013.
+3/ Based on a semi-elasticity of the CA/GDP with respect to the REER of –0.21
+4/ Overvaluation is assessed relative to the average for March 2009.
+5/ Based on nominal GDP growth rate of 5 percent.
+
+150
+
+150
+
+ERER Approach
+140
+
+140
+Actual/projected
+REER
+
+130
+
+130
+Equilibrium
+REER
+
+120
+
+120
+
+110
+
+110
+
+100
+
+100
+Terms of Trade
+
+90
+
+90
+1985
+
+1989
+
+1993
+
+1997
+
+2001
+
+2005
+
+2009
+
+35
+30
+
+2013
+
+35
+
+New Zealand: 90 pecent confidence intervals
+
+30
+
+25
+
+25
+
+20
+
+20
+
+15
+
+15
+
+10
+
+10
+
+5
+
+5
+
+0
+
+0
+
+-5
+
+-5
+
+-10
+
+-10
+
+-15
+
+-15
+
+-20
+
+-20
+
+-25
+
+-25
+MB
+
+ERER
+
+ES
+
+The estimates are subject to considerable
+uncertainty, as shown by the wide range of the confidence intervals. Further discussion of the models
+and the uncertainty surrounding the analysis is presented in the IMF WP/09/07 “Australia and New
+Zealand Exchange Rates: A Quantitative Assessment” by H. Edison and F. Vitek.
+
+19
+
+Box 4. New Zealand: Households’ Saving Rate and Wealth
+The decline of household saving was reversed in 2008. During the recent economic
+boom, the saving rate (the ratio of household savings to disposable income) fell deeply
+into negative territory, and reached -13 percent in 2007. In 2008, as the economy slid
+into recession, the saving rate increased, to an estimated -10½ percent by year-end.
+Saving is negatively correlated with households’ net wealth. In 2008, New Zealand
+households lost more than 10 percent of
+7
+-50
+Savings Rate and Change in Net Household Wealth
+(In percent of households' disposable income)
+their net wealth, as equity and house
+-30
+2
+prices fell. Previous staff analysis has
+-10
+shown that, in addition to wealth effects,
+-3
+10
+the long-term behavior of the households’
+30
+-8
+saving rate in New Zealand is explained
+50
+by the ease of access of households to
+-13
+70
+credit, the government’s fiscal balance,
+90
+-18
+and the level of pension and income
+1994
+1996
+1998
+2000
+2002
+2004
+2006
+2008
+support from the government.1 In 2008,
+tighter credit conditions and the deterioration in the government’s fiscal balance would
+be expected to increase the household saving rate.
+Change in net wealth
+(RHS, inverted scale)
+
+Savings rate (LHS)
+
+Source: RBNZ; and Staff calculations
+
+The household saving rate can be expected to increase further in the near term.
+Households’ wealth in New Zealand is
+Nominal House Prices : Actual and Predicted Values
+(Index, 1992=100)
+held predominantly in housing. Staff
+estimates show that, although average
+house prices have fallen by 7½ percent
+during 2008, they remain about 5 percent
+above their equilibrium value.2 Other
+factors influencing the saving rate are also
+not likely to reverse. Lending standards
+will remain tight in the near future, and the
+government balance will fall further into
+deficit. A simple extrapolation of past trends suggests that the saving rate may increase
+further, and become positive within 2–3 years.
+200
+
+200
+
+180
+
+180
+
+Actual
+
+160
+
+160
+
+Predicted
+
+140
+
+140
+
+120
+
+120
+
+100
+
+100
+
+80
+2003
+
+80
+
+2004
+
+2005
+
+Source: RBNZ and staff calculations
+
+_________________________
+1
+
+IMF Country Report No. 03/122 (Chapter 2).
+
+2
+
+This updates staff’s analysis in IMF Country Report No. 08/163 (Box 3).
+
+2006
+
+2007
+
+2008
+
+20
+III. STAFF APPRAISAL
+30.
+The economy is in recession, and the near term outlook is challenging. New
+Zealand is in a better position than most advanced countries to face the global storm, given
+its sound macroeconomic policies, flexible exchange rate, low level of public debt, flexible
+labor markets, and healthy banking sector. Nevertheless, high household debt, falling house
+and equity prices, and uncertain employment prospects, will weigh down on private
+consumption. Also, banks’ access to offshore funding will continue to be constrained by the
+global financial turmoil. Negative growth is expected in 2009, and a gradual recovery is not
+projected to begin until 2010.
+31.
+A sizable policy stimulus is in train, which should help support domestic
+demand, but the medium-term fiscal outlook has deteriorated significantly. Despite the
+relatively low level of public debt, the scope for further stimulus is constrained by New
+Zealand’s high short-term external debt. Staff is concerned that a market backlash from a
+further increase in the budget deficit in the near-term could raise borrowing costs and
+undermine the impact of the stimulus measures taken.
+32.
+Staff welcomes the authorities’ commitment to limit the increase in public debt.
+Preserving investor confidence will require a credible strategy to reduce the deficit over the
+medium term. While the focus of fiscal consolidation should be on the expenditure side,
+revenue measures are likely to be needed to close the gap. Staff advises that concrete
+measures be laid out in the May 2009 budget to stabilize gross public debt in the medium
+term and bring it back to around the current level in the longer term. Even with
+consolidation, the fiscal stance would likely remain expansionary through 2010–11, because
+of already-budgeted personal tax cuts and spending increases.
+33.
+The substantial easing of monetary policy was appropriate and should help
+support domestic demand. Further easing of monetary policy is needed, given the weak
+outlook for inflation, slowing in credit growth and increase in banks’ borrowing spreads. In
+contrast with many advanced countries, monetary policy remains effective in New Zealand,
+as banks are sound and have passed on most of the reduction in the official cash rate to
+borrowers. Nevertheless, it would be useful to consider alternative instruments, such as
+quantitative easing, and their potential efficacy, in the unlikely event that such measures are
+needed. The inflation targeting framework remains appropriate as it has helped anchor
+medium-term inflation expectations.
+34.
+The banking sector has weathered the global crisis well so far, and measures
+taken by the authorities have supported confidence. The introduction of the retail and
+wholesale funding guarantees and the extension of the Reserve Bank’s liquidity facilities
+were timely measures that have helped to improve confidence in the financial system and
+eased funding pressures for banks. Nevertheless, banks’ reliance on short-term external debt
+remains high, and they are vulnerable to an increase in loan defaults. Banks should be
+
+21
+required to undertake extreme stress tests and increase their capital if needed. The
+authorities should also press ahead with the proposed prudential liquidity rules that will
+reduce banks’ dependence on short-term offshore funding.
+35.
+The sharp fall of the exchange rate brought the currency broadly in line with
+fundamentals. The narrowing of interest rate differentials and the fall in commodity prices
+have been the key factors behind the depreciation.
+36.
+The depreciation of the exchange rate, combined with the global financial
+turmoil and domestic recession will drive an adjustment in the current account deficit.
+This adjustment will be conditional on, and driven by, an increase in private savings.
+37.
+Staff recommends that the next Article IV consultation be held on the standard 12month cycle.
+
+22
+Table 1. New Zealand: Selected Economic and Financial Indicators, 2005–10
+Nominal GDP (2008):
+Population (2008):
+
+US$128.9 billion
+4.3 million
+
+GDP per capita (2008):
+US$30,045
+Quota: SDR 894.6 million
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+Proj.
+
+2010
+Proj.
+
+2.8
+4.4
+4.8
+3.9
+3.7
+-0.1
+-0.3
+5.5
+
+1.9
+2.3
+2.5
+4.9
+-0.1
+-0.8
+1.8
+-2.6
+
+3.2
+4.2
+4.1
+3.6
+5.0
+0.4
+3.8
+8.4
+
+0.3
+-0.2
+0.2
+4.0
+-3.6
+0.4
+-1.7
+2.6
+
+-2.0
+-3.2
+-2.2
+3.1
+-10.2
+-0.6
+-5.0
+-10.3
+
+0.5
+-1.3
+-2.5
+2.4
+-1.2
+0.0
+2.9
+-2.6
+
+3.0
+3.2
+3.7
+
+3.4
+2.7
+3.8
+
+2.4
+3.2
+3.6
+
+4.0
+3.4
+4.1
+
+1.3
+0.8
+6.5
+
+1.1
+1.3
+7.5
+
+Investment and saving (in percent of GDP)
+Investment
+National saving 2/
+
+24.9
+16.5
+
+23.6
+14.9
+
+24.0
+15.8
+
+23.2
+14.3
+
+19.8
+12.0
+
+20.2
+13.1
+
+Public finance (in percent of GDP) 3/
+Revenue
+Expenditure
+Operating balance 4/
+Operating balance before gains and losses
+Net Crown debt including NZS Fund
+
+33.5
+29.4
+4.3
+4.7
+3.0
+
+35.8
+31.0
+6.2
+4.6
+-1.1
+
+34.4
+31.8
+3.5
+3.7
+-4.4
+
+34.5
+31.9
+1.8
+3.0
+-7.3
+
+33.3
+35.4
+-1.7
+-1.4
+-4.5
+
+32.4
+37.5
+-3.9
+-4.2
+-0.2
+
+Money and credit (end of period)
+Resident M3 (percent change) 5/
+Private domestic credit (percent change) 5/
+
+9.4
+10.2
+
+11.3
+12.4
+
+11.1
+12.8
+
+10.1
+7.3
+
+8.9
+6.0
+
+...
+...
+
+7.1
+5.9
+
+7.5
+5.8
+
+8.3
+6.3
+
+8.0
+6.1
+
+3.7
+4.6
+
+...
+...
+
+-8.5
+-13.2
+-2.4
+
+-8.7
+-14.2
+-1.9
+
+-8.2
+-14.4
+-1.3
+
+-8.9
+-16.0
+-1.3
+
+-7.8
+-13.4
+-1.2
+
+-7.0
+-12.1
+-0.7
+
+1.1
+
+0.0
+
+6.0
+
+7.4
+
+-7.3
+
+-4.3
+
+-131.1
+-84.3
+13.1
+
+-142.2
+-87.1
+19.9
+
+-152.6
+-87.1
+22.3
+
+-169.3
+-93.8
+19.3
+
+-182.7
+-106.1
+24.5
+
+-194.9
+-113.0
+...
+
+0.70
+70.4
+134.3
+137.6
+
+0.65
+65.4
+123.8
+128.1
+
+0.74
+70.9
+133.0
+137.7
+
+0.71
+65.7
+124.1
+129.3
+
+0.53
+53.8
+97.5
+104.4
+
+...
+...
+...
+...
+
+155.6
+
+163.2
+
+175.1
+
+180.4
+
+172.2
+
+172.5
+
+Real growth (percent change)
+GDP (production basis)
+Final domestic demand
+Private consumption
+Government consumption
+Fixed investment
+Inventories 1/
+Exports of goods and services
+Imports of goods and services
+Headline CPI inflation (percent change)
+End of period (percent change)
+Unemployment rate (in percent)
+
+Interest rates (period average)
+Interest rate (90-day, in percent) 6/
+Government bond yield (10-year, in percent) 6/
+Balance of payments (in percent of GDP)
+Current account
+(In billions of New Zealand dollars)
+Trade balance (goods)
+Terms of trade (percent change)
+Foreign assets and liabilities (NZ$ billion)
+Net international investment position
+(In percent of GDP)
+Official reserves 5/
+Exchange rate (period average)
+U.S. dollar per New Zealand dollar 6/
+Trade-weighted index (June 1979 = 100) 6/
+Nominal effective exchange rate 7/
+Real effective exchange rate 7/
+GDP (in billions of New Zealand dollars)
+
+Sources: Data provided by the New Zealand authorities; and Fund staff estimates and projections.
+1/ Contribution in percent of GDP.
+2/ Based on national accounts data.
+3/ Fiscal years ending June 30.
+4/ Equals revenue less expenditure plus net surplus of state-owned enterprises and Crown entities.
+5/ Data for 2009 are for January.
+6/ Data for 2009 are for January-March.
+7/ IMF Information Notice System index (2000 = 100). Data for 2009 are for January.
+
+23
+Table 2. New Zealand: Summary of Central Government Budget, 2004/05–2008/09 1/
+2004/05
+
+2005/06
+
+2006/07
+
+New GAAP
+2007/08
+
+2008/09
+Proj.
+
+(In billions of New Zealand dollars)
+Revenue
+Tax revenue
+
+51.0
+45.7
+
+57.0
+50.0
+
+58.5
+53.3
+
+61.7
+55.0
+
+58.7
+52.0
+
+Expenditure
+Social security and welfare
+Health
+Education
+Defense
+Finance costs
+Other
+
+44.9
+14.3
+8.6
+7.7
+1.2
+2.2
+10.9
+
+49.3
+15.4
+9.4
+9.8
+1.4
+2.3
+11.0
+
+54.0
+16.8
+10.4
+9.3
+1.5
+2.3
+13.8
+
+57.0
+17.9
+11.3
+9.6
+1.6
+2.5
+14.3
+
+62.3
+19.1
+12.4
+10.7
+1.8
+2.7
+15.7
+
+Net surplus from SOEs and Crown entities
+Operating balance 2/
+Operating balance before gains and losses
+
+0.4
+6.6
+7.1
+
+2.2
+9.8
+7.3
+
+1.4
+5.9
+6.3
+
+-1.5
+3.2
+5.4
+
+0.6
+-3.0
+-2.5
+
+Residual cash balance 3/
+
+3.1
+
+3.0
+
+2.9
+
+2.1
+
+-8.3
+
+35.5
+4.5
+35.5
+
+33.9
+-1.8
+50.0
+
+30.6
+-7.5
+96.8
+
+31.4
+-13.0
+105.5
+
+36.5
+-7.9
+107.8
+
+Gross sovereign-issued debt
+Net core Crown debt with NZS Fund
+Net worth 4/
+
+(In percent of GDP)
+Revenue
+Tax revenue
+
+33.5
+30.0
+
+35.8
+31.4
+
+34.4
+31.4
+
+34.5
+30.8
+
+33.3
+29.5
+
+Expenditure
+Social security and welfare
+Health
+Education
+Defense
+Finance costs
+Other
+
+29.4
+9.3
+5.6
+5.0
+0.8
+1.4
+7.2
+
+31.0
+9.7
+5.9
+6.2
+0.9
+1.5
+6.9
+
+31.8
+9.9
+6.1
+5.5
+0.9
+1.4
+8.1
+
+31.9
+10.0
+6.3
+5.4
+0.9
+1.4
+8.0
+
+35.4
+10.9
+7.0
+6.1
+1.0
+1.5
+8.9
+
+Net surplus from SOEs and Crown entities
+Operating balance 2/
+Operating balance before gains and losses
+
+0.3
+4.3
+4.7
+
+1.4
+6.2
+4.6
+
+0.8
+3.5
+3.7
+
+-0.8
+1.8
+3.0
+
+0.3
+-1.7
+-1.4
+
+Residual cash balance 3/
+
+2.0
+
+1.9
+
+1.7
+
+1.2
+
+-4.7
+
+23.3
+3.0
+23.2
+
+21.3
+-1.1
+31.4
+
+18.1
+-4.4
+57.0
+
+17.6
+-7.3
+59.1
+
+20.7
+-4.5
+61.2
+
+2.1
+4.0
+
+2.3
+6.6
+
+2.0
+13.0
+
+2.1
+14.2
+
+2.2
+14.3
+
+Gross sovereign-issued debt
+Net core Crown debt with NZS Fund
+Net worth 4/
+Memorandum items (in billions of NZ dollars)
+Contributions to NZS Fund
+NZS Fund balance
+
+Sources: New Zealand Treasury; Economic and Fiscal Forecasts, December 2008; and Fund staff estimates and projections.
+1/ Fiscal years ending June 30. From 2006/07, accounts follow the new version of New Zealand Generally Accepted Accounting Practices.
+2/ Equals revenue less expenditure plus net surplus of state-owned enterprises and Crown entities.
+3/ Net core Crown cashflow from operations after contributions to NZS Fund, purchases of physcial assets, and advances and
+capital injections.
+4/ Includes financial assets of the NZS Fund.
+
+24
+Table 3. New Zealand: Balance of Payments and External Debt, 2004–09
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+Proj.
+
+(In percent of GDP)
+Current account balance
+Goods balance
+Exports, f.o.b.
+Imports, f.o.b.
+Services balance
+Receipts
+Payments
+Income balance
+Receipts
+Payments
+Transfers balance
+Inflows
+Outflows
+
+-6.4
+-1.4
+20.8
+-22.2
+0.9
+8.2
+-7.3
+-6.0
+1.6
+-7.7
+0.1
+0.9
+0.6
+
+-8.5
+-2.4
+20.1
+-22.4
+0.3
+7.9
+-7.5
+-6.7
+1.4
+-8.1
+0.2
+1.1
+0.6
+
+-8.7
+-1.9
+21.3
+-23.2
+0.2
+7.6
+-7.5
+-7.3
+1.5
+-8.8
+0.4
+1.2
+0.6
+
+-8.2
+-1.3
+21.1
+-22.5
+0.2
+7.2
+-7.1
+-7.5
+2.1
+-9.6
+0.3
+1.1
+0.6
+
+-8.9
+-1.3
+24.3
+-25.5
+-0.6
+6.9
+-7.5
+-7.5
+1.6
+-9.1
+0.5
+1.3
+0.6
+
+-7.8
+-1.2
+25.5
+-26.7
+-2.3
+6.7
+-8.9
+-4.9
+2.3
+-7.1
+0.5
+1.4
+0.6
+
+Capital and financial account balance
+Capital account (net)
+Financial account (net)
+Direct investment (net)
+Portfolio investment (net)
+Equity securities (net)
+Debt securities (net)
+Other investment (net)
+Assets
+Liabilities
+
+7.7
+0.2
+7.6
+3.1
+6.2
+-1.5
+7.7
+-1.7
+-0.2
+-1.5
+
+7.7
+-0.2
+7.9
+2.7
+0.0
+-1.1
+1.1
+5.2
+1.6
+3.6
+
+7.8
+-0.2
+8.0
+6.9
+-1.3
+-1.0
+-0.4
+2.5
+-5.1
+7.6
+
+8.4
+-0.4
+8.8
+-0.6
+8.4
+-0.4
+8.9
+0.9
+-4.0
+5.0
+
+4.2
+-0.4
+4.6
+1.5
+-5.3
+0.3
+-5.7
+8.5
+6.2
+2.3
+
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+
+Net errors and omissions
+
+-1.4
+
+0.8
+
+0.9
+
+-0.2
+
+4.7
+
+...
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.1
+
+...
+
+Overall balance
+
+(Assets and liabilities as of end-December)
+Total external debt
+Short-term
+Long-term
+
+107.6
+53.3
+54.3
+
+106.7
+55.4
+51.3
+
+115.5
+59.5
+56.0
+
+123.1
+67.2
+55.9
+
+137.4
+64.3
+73.1
+
+148.3
+...
+...
+
+Net international investment position
+Net equity
+Net debt
+
+-81.8
+-14.2
+-67.6
+
+-84.3
+-12.1
+-72.2
+
+-87.1
+-11.2
+-75.9
+
+-87.1
+-8.8
+-78.3
+
+-93.8
+-7.2
+-86.6
+
+-106.1
+...
+...
+
+19.3
+5.8
+5.0
+6.5
+16.6
+
+24.5
+11.8
+4.8
+8.1
+20.5
+
+(In billions of New Zealand dollars)
+Gross official reserves 1/
+RBNZ net short position in forex swaps 1/
+RBNZ net open foreign currency position 1/
+Gross reserves in months of future imports of g&s
+Gross reserves as percent of short-term debt
+
+9.7
+1.5
+0.0
+3.9
+12.2
+
+13.1
+2.7
+0.0
+5.1
+15.2
+
+Sources: Data provided by the New Zealand authorities; and Fund staff estimates and projections.
+1/ For 2009, actual number for end-February.
+
+19.9
+10.5
+-0.1
+8.1
+20.5
+
+22.3
+10.3
+2.5
+8.1
+18.9
+
+25
+Table 4. New Zealand: Medium-Term Scenario, 2008–14
+Average
+1998-2007
+
+2008
+
+2009
+
+2010
+
+Real growth (percent change)
+GDP (production basis)
+Final domestic demand
+Consumption
+Private consumption
+Government consumption
+Fixed investment
+Private business
+Private residential
+Public investment
+Changes in inventories 1/
+Exports of goods and services
+Imports of goods and services
+Net exports (contribution to growth)
+
+3.2
+4.0
+3.6
+3.8
+3.1
+5.2
+5.5
+3.1
+8.1
+0.0
+4.0
+6.0
+-0.7
+
+0.3
+-0.2
+1.0
+0.2
+4.0
+-3.6
+1.0
+-17.3
+-5.6
+0.4
+-1.7
+2.6
+-1.5
+
+-2.0
+-3.2
+-1.0
+-2.2
+3.1
+-10.2
+-14.1
+-17.8
+2.9
+-0.6
+-5.0
+-10.3
+2.4
+
+0.5
+-1.3
+-1.3
+-2.5
+2.4
+-1.2
+-4.8
+2.4
+5.6
+0.0
+2.9
+-2.6
+1.8
+
+2.4
+0.6
+0.4
+-0.2
+2.3
+1.4
+0.0
+3.5
+3.2
+0.0
+5.4
+-0.3
+1.8
+
+Saving and investment (percent of GDP)
+Gross capital formation
+Fixed investment
+Changes in inventories
+National saving 2/
+Private
+Public
+
+22.9
+22.0
+0.9
+17.1
+14.2
+2.8
+
+23.2
+22.3
+0.9
+14.3
+15.7
+-1.4
+
+19.8
+19.2
+0.5
+12.0
+15.6
+-3.6
+
+20.2
+19.6
+0.5
+13.1
+17.9
+-4.8
+
+Inflation and unemployment (percent)
+Headline CPI inflation (period average)
+Headline CPI inflation (end of period)
+Unemployment rate
+Output gap (staff estimate)
+
+2.2
+2.3
+5.0
+...
+
+4.0
+3.4
+4.1
+0.2
+
+1.3
+0.8
+6.5
+-2.0
+
+Government budget (percent of GDP) 3/
+Revenue
+Expenditure
+SOE and Crown entity surplus (net)
+Operating balance 4/
+Operating balance before gains and losses
+Residual cash balance
+Gross Crown debt
+Net Crown debt including NZS Fund
+
+33.0
+30.9
+0.8
+2.9
+2.6
+0.9
+28.3
+…
+
+34.5
+31.9
+-0.8
+1.8
+3.0
+1.2
+17.6
+-7.3
+
+Terms of trade (2002=100, goods & services)
+Terms of trade (2002=100, goods)
+Terms of trade (percent change, goods)
+Export prices
+Import prices
+
+104.4
+103.7
+1.8
+2.4
+0.6
+
+Balance of payments (percent of GDP)
+Current account balance
+Balance on goods and services
+Balance on income and transfers
+Net foreign liabilities (percent of GDP) 5/
+Gross external debt 5/
+
+Projections
+2011
+2012
+
+2013
+
+2014
+
+3.1
+2.3
+2.0
+2.0
+2.1
+3.0
+2.9
+3.2
+3.1
+0.0
+5.6
+2.9
+0.8
+
+3.2
+2.6
+2.4
+2.5
+2.0
+3.2
+3.5
+2.5
+3.0
+0.0
+5.5
+3.7
+0.6
+
+3.2
+2.9
+2.7
+2.9
+2.0
+3.5
+4.0
+2.8
+3.0
+0.0
+5.2
+4.1
+0.4
+
+20.2
+19.7
+0.5
+14.8
+20.0
+-5.2
+
+20.3
+19.8
+0.5
+15.7
+21.1
+-5.4
+
+20.5
+19.9
+0.5
+16.1
+21.7
+-5.6
+
+20.6
+20.1
+0.5
+16.3
+22.0
+-5.7
+
+1.1
+1.3
+7.5
+-3.2
+
+1.7
+2.0
+6.4
+-2.6
+
+2.1
+2.1
+5.3
+-1.9
+
+2.0
+2.0
+4.8
+-1.1
+
+2.1
+2.2
+4.6
+-0.4
+
+33.3
+35.4
+0.3
+-1.7
+-1.4
+-4.7
+20.7
+-4.5
+
+32.4
+37.5
+1.2
+-3.9
+-4.2
+-6.8
+25.7
+-0.2
+
+31.5
+37.5
+1.0
+-4.9
+-5.1
+-8.4
+33.6
+8.6
+
+31.4
+37.5
+0.9
+-5.2
+-5.4
+-8.5
+40.0
+16.2
+
+31.8
+37.9
+0.8
+-5.4
+-5.6
+-8.8
+46.6
+24.1
+
+31.6
+38.0
+0.8
+-5.6
+-5.9
+-9.1
+53.3
+31.9
+
+120.9
+123.4
+7.4
+19.6
+11.3
+
+108.4
+114.4
+-7.3
+1.6
+9.6
+
+102.9
+109.5
+-4.3
+-0.6
+3.9
+
+101.9
+109.0
+-0.4
+4.3
+4.7
+
+101.7
+109.2
+0.2
+4.3
+4.1
+
+101.8
+109.8
+0.5
+4.4
+3.9
+
+102.0
+110.4
+0.5
+3.9
+3.3
+
+-5.8
+0.0
+-5.8
+
+-8.9
+-1.8
+-7.0
+
+-7.8
+-3.4
+-4.4
+
+-7.0
+-3.4
+-3.7
+
+-5.4
+-1.8
+-3.6
+
+-4.7
+-1.0
+-3.6
+
+-4.4
+-0.4
+-4.0
+
+-4.3
+0.1
+-4.4
+
+81.6
+108.0
+
+93.8
+137.4
+
+106.1
+148.3
+
+113.0
+153.9
+
+114.0
+154.7
+
+112.9
+153.8
+
+111.5
+152.6
+
+110.0
+151.4
+
+Sources: Data provided by the New Zealand authorities; and Fund staff estimates and projections.
+1/ Contribution in percent of GDP.
+2/ Fund staff estimates; calculated as residual from gross national investment and external current account balance.
+3/ Fiscal years ending June 30.
+4/ Equals revenue less expenditure plus net surplus of state-owned enterprises and Crown entities.
+5/ Data for end-December.
+
+26
+Figure 7. New Zealand: External Debt Sustainability: Bound Tests 1/
+(Gross external debt in percent of GDP)
+Real interest rate shock (in percent)
+
+Baseline and historical scenarios 2/
+170
+Gross financing need
+under baseline (right
+scale)
+
+160
+
+110
+
+170
+
+100
+
+160
+
+Baseline
+153
+
+150
+
+90
+
+Historical
+
+140
+
+150
+
+Baseline:
+
+2.3
+
+Scenario:
+
+2.6
+4.1
+
+Historical:
+
+i-rate shock
+
+Baseline
+
+155
+
+153
+
+140
+80
+130
+
+130
+70
+
+118
+
+120
+
+60
+
+110
+100
+2003
+
+2005
+
+2007
+
+2009
+
+2011
+
+50
+2013
+
+Growth shock (in percent per year)
+1.5
+
+160
+
+Scenario:
+
+150
+
+Historical:
+
+0.9
+3.1
+
+Growth
+shock
+
+110
+100
+2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013
+
+170
+
+170
+
+Baseline:
+
+120
+
+160
+
+160
+150
+
+Baseline
+
+153
+
+140
+
+140
+
+130
+
+130
+
+120
+
+120
+
+110
+
+110
+
+100
+2003
+
+170
+
+2005
+
+2007
+
+2009
+
+2011
+
+2013
+
+170
+Combined
+shock
+
+160
+
+150
+
+160
+150
+
+Baseline
+
+140
+
+153
+
+-2.4
+
+Scenario:
+
+-3.5
+
+Historical:
+
+-2.2
+
+CA shock
+
+Baseline
+
+157
+
+153
+
+Real depreciation shock 4/
+30 %
+depreciation
+Baseline
+
+155
+153
+
+140
+
+130
+
+130
+
+120
+
+120
+
+110
+
+110
+
+100
+2003
+
+Baseline:
+
+100
+2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013
+
+Combined shock 3/
+
+160
+
+Non-interest current account shock
+(in percent of GDP)
+
+2005
+
+2007
+
+2009
+
+2011
+
+2013
+
+100
+2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013
+
+Sources: Fund staff estimates and projections.
+1/ Shaded areas represent actual data. Individual shocks are permanent one-half standard deviation shocks.
+Figures in the boxes represent average projections for the respective variables in the baseline and scenario
+being presented. Ten-year historical average for the variable is also shown.
+2/ The historical scenario assumes that real GDP growth, inflation, current account deficit, and nominal interest
+rate are equal to ten-year historical averages from 2009 onward.
+3/ Permanent 1/4 standard deviation shocks applied to interest rate, growth rate, and current account balance.
+4/ This scenario assumes foreign exchange hedging covers 91 percent of foreign currency debt, consistent with
+the findings of hedging surveys conducted by Statistics New Zealand.
+
+27
+Appendix I. New Zealand: Main Recommendations of the 2008 Article IV Consultation
+(Consultation discussions ended on March 3, 2008)
+Fund Recommendations
+
+Policy Actions
+
+Monetary policy: Staff recommended that policy
+remain on hold pending clearer indications of the
+future path of the economy. Staff advised the
+authorities to be ready to respond if the
+slowdown in trading partners or the fallout from
+global financial turmoil turned out worse than
+expected.
+
+The Official Cash Rate (OCR) was kept
+unchanged a 8.25 percent through July 2008. As
+the outlook for growth deteriorated and
+inflationary pressures eased, the RBNZ
+responded by cutting the OCR by a total of 525
+basis points to 3.0 percent.
+
+Staff advised against any major changes to the
+inflation targeting framework.
+
+A parliamentary inquiry into the monetary policy
+framework enclosed the inflation-targeting regime
+and recommended no significant changes.
+
+Fiscal policy: Staff supported a transition to
+lower budget surpluses conditional on the state of
+the economy, and recommended flexibility in the
+implementation of the fiscal stimulus so that its
+effects be felt once inflationary pressures were
+expected to have abated. Staff pointed to
+uncertainty regarding the durability of higher
+corporate tax revenues and noted it would be
+prudent to delay spending the revenue surprises
+until it was clear that they were structural.
+
+The May 2008 budget introduced cuts in personal
+income taxes (staggered over three years) and
+an increase in spending. The sharper-thanexpected economic downturn has resulted in a
+further deterioration of the fiscal position. The
+operating balance before gains and losses
+(OBEGAL) is projected to reach a deficit of
+1½ percent of GDP in 2008/09.
+
+Financial sector policy: Staff recommended
+that the RBNZ prepare a contingency plan to
+provide additional domestic liquidity in case of
+further disruption o banks’ access to liquidity, and
+welcomed the RBNZ’s steps to develop a set of
+liquidity rules to reduce banks’ reliance on shortterm external funding.
+
+The RBNZ has twice (in May and December
+2008) expanded the range of securities
+acceptable for domestic liquidity operations. In
+October it established a US$15 billion swap line
+with the U.S. Fed, and in November it introduced
+two new facilities to support banking system
+liquidity: a term auction facility (TAF) and
+Reserve Bank bill tenders. In October 2008 the
+RBNZ issued a consultation paper on new
+prudential liquidity rules. When implemented,
+these rules should improve banks’ liquidity
+management and reduce their reliance on shortterm wholesale funding.
+
+28
+
+Appendix II. New Zealand: Policy Responses to the Global Financial Crisis
+Monetary Policy
+
+The Official Cash Rate (OCR) has been reduced by 525 basis points
+since July 2008, to 3.0 percent.
+
+Liquidity Support
+
+The Reserve Bank expanded in May and December 2008 the range of
+securities eligible as collateral for domestic Reserve Bank’s liquidity
+operations, to include mortgage-backed, asset-backed, and corporate
+securities.
+In October 2008, the Reserve Bank established a US$15 billion swap
+line with the U.S. Fed, initially through April 2009 and later extended to
+October 2009.
+The Reserve Bank introduced in November 2008 two new facilities to
+support bank liquidity: a term auction facility and Reserve Bank bill
+tenders.
+
+Funding Guarantees
+
+In October 2008 the Treasury introduced a blanket guarantee on all
+deposits in approved deposit-taking institutions for two years. The
+guarantee is free on the first NZ$5 billion of deposits, then charged at 10
+bps. A fee of 300 bps will apply to finance companies rated below BB.
+In November 2008 the guarantee was offered on banks’ wholesale
+funding, on an opt-in basis (by institution and by instrument) for a fee
+differentiated by the risk of the issuer and the maturity of the security.
+
+Financial
+Regulation/Supervision
+
+In October 2008 non-bank deposit takers were subjected to tighter
+requirements, including restrictions on dividends and increased reporting
+requirements.
+The reserve Bank is currently consulting with banks on a new prudential
+liquidity regime. When implemented, the new policy should strengthen
+banks’ arrangements for liquidity risk management and enhance their
+liquidity position, including by reducing their reliance on short-term
+wholesale funding.
+
+Fiscal Policy
+
+Although not directly in response to the crisis, the May 2008 budget
+introduced personal income tax cuts (staggered over three years,
+starting in October 2008) as well as a rise in spending, for a total
+estimated fiscal impulse of 3.5 percent of GDP in FY 2008/09.
+A relief package for small businesses, totaling NZ$480 million
+(0.3 percent of GDP) was announced in February 2009. It aims at
+lowering taxes on cash flows, improving access to credit, and reducing
+compliance costs.
+
+INTERNATIONAL MONETARY FUND
+NEW ZEALAND
+Staff Report for the 2009 Article IV Consultation—Informational Annex
+Prepared by the Asia and Pacific Department
+April 22, 2009
+
+Contents
+
+Page
+
+I.
+
+Fund Relations ...............................................................................................................2
+
+II.
+
+Statistical Issues .............................................................................................................3
+
+2
+ANNEX I. NEW ZEALAND: FUND RELATIONS
+(As of March 31, 2009)
+I.
+
+Membership Status: Joined: August 31, 1961; Article VIII
+
+II.
+
+General Resources Account:
+Quota
+Fund Holdings of Currency
+Reserve position in Fund
+
+SDR Million
+894.60
+780.87
+113.74
+
+Percent Quota
+100.00
+87.29
+12.71
+
+III.
+
+SDR Department:
+Net cumulative allocation
+Holdings
+
+SDR Million
+141.32
+14.36
+
+Percent Allocation
+100.00
+10.16
+
+IV.
+
+Outstanding Purchases and Loans:
+
+None
+
+V.
+
+Financial Arrangements:
+
+None
+
+VI.
+
+Projected Obligations to Fund:
+
+None
+
+VII.
+
+Exchange Arrangement:
+New Zealand accepted the obligations of Article VIII on August 5, 1982. The
+New Zealand dollar has floated independently since March 1985 and the de facto
+exchange rate arrangement is free floating. New Zealand maintains an exchange
+system that is free of restrictions on the making of payments and transfers for current
+international transactions, other than restrictions notified to the Fund in accordance
+with Decision No. 144-(52/51).
+
+VIII. Article IV Consultation:
+New Zealand is on the 12-month consultation cycle. The 2008 Article IV consultation
+discussions were held during February 22–March 3, 2008; the Executive Board
+discussed the staff report (IMF Country Report No. 08/163) and concluded the
+consultation on May 9, 2008.
+IX.
+
+FSAP Participation and ROSCs:
+FSAP mission took place during October 30–November 18, 2003. The FSSA and the
+Detailed Assessments of Observance of IOSCO Objectives and Principles of
+Securities Regulation and FATF Recommendations for Anti-Money Laundering and
+Combating the Financing of Terrorism were published under Country Reports No.
+04/126, No. 04/417, and No. 05/284, respectively.
+
+X.
+
+Technical Assistance:
+
+None
+
+XI.
+
+Resident Representative/Advisor:
+
+None
+
+3
+ANNEX II. NEW ZEALAND: STATISTICAL ISSUES
+New Zealand publishes a wide array of high quality economic and financial data, which are
+fully adequate for surveillance purposes. The authorities are continuing to enhance data
+quality and expand the range of data products available, including a project led by the New
+Zealand Treasury to publish fiscal data consistent with the Government Finance Statistics
+Manual 2001 (GFSM 2001). The Reserve Bank of New Zealand has indicated that it is not at
+present in a position to submit the standardized report forms for monetary statistics
+introduced in October 2004. New Zealand has made progress toward becoming a subscriber
+to the Special Data Dissemination Standard (SDDS). The main remaining issues are the
+requirement for publication of an industrial production index, and the timeliness of local
+government data.
+Table of Common Indicators Required for Surveillance
+(As of April 17, 2009)
+Date of
+latest
+observation
+
+Date
+received
+
+Frequency
+of
+Data6
+
+Frequency
+of
+Reporting6
+
+Frequency
+of
+Publication6
+
+4/17/09
+
+4/17/09
+
+D
+
+D
+
+D
+
+International Reserve Assets and Reserve
+Liabilities of the Monetary Authorities1
+
+2/09
+
+3/30/09
+
+M
+
+M
+
+M
+
+Reserve/Base Money
+
+2/09
+
+3/30/09
+
+M
+
+M
+
+M
+
+Broad Money
+
+2/09
+
+3/30/09
+
+M
+
+M
+
+M
+
+Central Bank Balance Sheet
+
+2/09
+
+3/30/09
+
+M
+
+M
+
+M
+
+Consolidated Balance Sheet of the Banking
+System
+
+2/09
+
+3/30/09
+
+M
+
+M
+
+M
+
+Interest Rates2
+
+4/17/09
+
+4/17/09
+
+D
+
+D
+
+D
+
+Consumer Price Index
+
+Q1 2009
+
+4/17/09
+
+Q
+
+Q
+
+Q
+
+Revenue, Expenditure, Balance and
+Composition of Financing3—General
+Government4
+
+2007/08
+
+10/6/08
+
+A
+
+A
+
+NA
+
+Revenue, Expenditure, Balance and
+Composition of Financing3– Central Government
+
+2/09
+
+4/3/09
+
+M
+
+M
+
+M
+
+Stocks of Central Government and Central
+Government-Guaranteed Debt5
+
+2/09
+
+4/3/09
+
+M
+
+M
+
+M
+
+External Current Account Balance
+
+Q4 2008
+
+3/26/09
+
+Q
+
+Q
+
+Q
+
+Exports and Imports of Goods and Services
+
+Q4 2008
+
+3/26/09
+
+Q
+
+Q
+
+Q
+
+GDP/GNP
+
+Q4 2008
+
+3/27/09
+
+Q
+
+Q
+
+Q
+
+Gross External Debt
+
+Q4 2008
+
+3/27/09
+
+Q
+
+Q
+
+Q
+
+Exchange Rates
+
+1
+
+Includes reserve assets pledged or otherwise encumbered as well as net derivative positions.
+Both market-based and officially determined, including discount rates, money market rates, rates on treasury bills, notes, and bonds.
+Foreign, domestic bank, and domestic non-bank financing.
+4
+The general government consists of the central government (including budgetary, extra budgetary, and social security funds) and state and
+local governments.
+5
+Including currency and maturity composition.
+6
+Daily (D), Weekly (W), Monthly (M), Quarterly (Q), Annually (A), Irregular (I); Not Available (NA).
+2
+3
+
+Public Information Notice (PIN) No. 09/57
+FOR IMMEDIATE RELEASE
+May 14, 2009
+
+International Monetary Fund
+700 19th Street, NW
+Washington, D. C. 20431 USA
+
+IMF Executive Board Concludes 2009 Article IV Consultation with
+New Zealand
+On May 6, 2009 the Executive Board of the International Monetary Fund (IMF) concluded the
+Article IV consultation with New Zealand. 1
+Background
+After several years of strong growth, the New Zealand economy entered a recession in early
+2008. The long-anticipated cooling of domestic demand was initially triggered by the end of the
+housing boom and a severe drought, and later exacerbated by the global slowdown. Real GDP
+contracted in all quarters of 2008. CPI inflation has eased since peaking in September 2008,
+driven by weak economic activity and a sharp decline in oil prices. The labor market remained
+relatively resilient, but also started to weaken in late 2008, with unemployment rising to
+4.6 percent.
+As the economy contracted and inflation pressures eased, monetary policy was loosened and
+the exchange rate depreciated significantly. The official cash rate (OCR) was cut by a total of
+575 basis points since July 2008, to 2½ percent. The fiscal position remained strong, but the
+outlook has weakened considerably. The budget balance is projected to reach a deficit of
+
+1
+
+Under Article IV of the IMF's Articles of Agreement, the IMF holds bilateral discussions with
+members, usually every year. A staff team visits the country, collects economic and financial
+information, and discusses with officials the country's economic developments and policies. On
+return to headquarters, the staff prepares a report, which forms the basis for discussion by the
+Executive Board. At the conclusion of the discussion, the Managing Director, as Chairman of the
+Board, summarizes the views of Executive Directors, and this summary is transmitted to the
+country's authorities.
+
+2
+1½ percent of GDP in 2008/09 (July-June), compared to a surplus of 3 percent of GDP in
+2007/08.
+The trade balance deteriorated, widening the current account deficit further to about 9 percent
+of GDP in 2008. Private capital inflows continued to finance the deficit, and net foreign
+liabilities increased to 94 percent of GDP.
+The banking sector remains sound. However, banks’ significant exposure to short-term
+external wholesale funding and housing loans makes them vulnerable to rollover risk and a
+sharp increase in mortgage default rates.
+The near-term outlook is weak, and the uncertainty regarding the economy’s prospects is
+higher than usual, due to the unprecedented uncertainties surrounding the depth and duration
+of the global recession. On balance, staff expects the economy to contract by about 2 percent
+in 2009.
+Executive Board Assessment
+Executive Directors noted that, following a decade of strong growth, during which significant
+imbalances and vulnerabilities accumulated, the New Zealand economy slipped into recession
+in early 2008. As the housing boom ended in response to tight monetary policy, the downturn
+was exacerbated by the global economic crisis and the near-term outlook is challenging.
+Directors commended the New Zealand authorities for their policy response, which will help
+support domestic demand in the short run and enhance financial stability. Moreover, the
+authorities’ strong track record of sound and transparent macroeconomic policies and
+structural reforms has allowed New Zealand to enter the downturn from a position of strength.
+Directors noted that the significant fiscal stimulus underway will help cushion the near-term
+impact of the downturn. The combined effect of the stimulus and the weaker outlook for
+commodity prices and growth is, however, resulting in a significant deterioration of the
+medium-term fiscal outlook. Given New Zealand’s considerable short-term external debt and
+large current account deficit, a rapid increase in public debt could lead to a higher country risk
+premium, which would reduce the benefits from the macroeconomic stimulus. Directors
+therefore welcomed the authorities’ commitment to limit the increase in public debt, and to
+present in the upcoming 2009 budget a credible strategy to reduce the fiscal deficit over the
+medium term. In this context, they noted that steps are already being taken to eliminate
+existing unfunded commitments and to stop the growth of employment in government
+administration. Directors encouraged the authorities to make contingency plans, given the
+unprecedented uncertainties in the global economic environment.
+
+3
+Directors considered that the significant easing of monetary policy since July 2008 has been
+appropriate. Lower policy rates have been largely passed on to lending rates, stimulating
+demand and gradually providing relief to existing borrowers. Directors observed that, in light of
+the weak outlook for growth and inflation, further easing may be warranted, but should proceed
+cautiously. Directors concurred that the inflation targeting regime has served New Zealand well
+providing a strong anchor for inflation expectations. Directors noted that the monetary easing,
+together with the fall in international commodity prices, has also led to a significant
+depreciation of the exchange rate. The exchange rate is now broadly in line with fundamentals,
+and the depreciation should help narrow the current account deficit.
+Directors noted that the financial sector has remained resilient in the global crisis, buttressed
+by sound prudential policies. They commended the authorities for taking timely measures to
+strengthen confidence and support bank access to funding, including through the introduction
+of funding guarantees and the expansion of the Reserve Bank’s liquidity facilities and
+acceptable collateral instruments. Noting that banks remain highly exposed to short-term
+external debt and to an increase in mortgage defaults, Directors welcomed the authorities’
+commitment to closely monitor the financial system, and called for extreme stress tests for
+banks and increased bank capital if needed. The proposed prudential liquidity rules for the
+banking system should help reduce banks’ reliance on short-term external funding. Directors
+commended the ongoing collaboration with the Australian authorities on banking supervision,
+regulation, and crisis preparedness.
+
+Public Information Notices (PINs) form part of the IMF's efforts to promote transparency of the IMF's
+views and analysis of economic developments and policies. With the consent of the country
+(or countries) concerned, PINs are issued after Executive Board discussions of Article IV consultations
+with member countries, of its surveillance of developments at the regional level, of post-program
+monitoring, and of ex post assessments of member countries with longer-term program engagements.
+PINs are also issued after Executive Board discussions of general policy matters, unless otherwise
+decided by the Executive Board in a particular case. The staff report (use the free Adobe Acrobat
+Reader to view this pdf file) for the 2009 Article IV Consultation with New Zealand is also available.
+
+4
+New Zealand: Selected Economic Indicators
+
+2005
+
+2006
+
+2007
+
+2008
+
+Proj.
+2009
+
+Proj.
+2010
+
+Real economy (percent change)
+GDP (production basis)
+Final domestic demand
+Exports of goods and services
+Imports of goods and services
+Headline CPI inflation (end of period)
+Unemployment rate (in percent)
+National saving (in percent of GDP) 1/
+Investment (in percent of GDP)
+
+2.8
+4.4
+-0.3
+5.5
+3.2
+3.7
+16.5
+24.9
+
+1.9
+2.3
+1.8
+-2.6
+2.7
+3.8
+14.9
+23.6
+
+3.2
+4.2
+3.8
+8.4
+3.2
+3.6
+15.8
+24.0
+
+0.3
+-0.2
+-1.7
+2.6
+3.4
+4.1
+14.3
+23.2
+
+-2.0
+-3.2
+-5.0
+-10.3
+0.8
+6.5
+12.0
+19.8
+
+0.5
+-1.3
+2.9
+-2.6
+1.3
+7.5
+13.1
+20.2
+
+Government budget (in percent of GDP) 2/
+Revenue
+Expenditure
+Operating balance before gains and losses
+Net Crown debt including NZS Fund
+
+33.5
+29.4
+4.7
+3.0
+
+35.8
+31.0
+4.6
+-1.1
+
+34.4
+31.8
+3.7
+-4.4
+
+34.5
+31.9
+3.0
+-7.3
+
+33.3
+35.4
+-1.4
+-4.5
+
+32.4
+37.5
+-4.2
+-0.2
+
+Money and credit (end of period)
+M3, resident (change in percent)
+Private domestic credit (change in percent)
+
+9.4
+10.2
+
+11.3
+12.4
+
+11.1
+12.8
+
+10.1
+7.3
+
+8.9
+6.0
+
+...
+...
+
+7.1
+5.9
+
+7.5
+5.8
+
+8.3
+6.3
+
+8.0
+6.1
+
+3.7
+4.6
+
+...
+...
+
+-8.5
+-2.4
+1.1
+
+-8.7
+-1.9
+0.0
+
+-8.2
+-1.3
+6.0
+
+-8.9
+-1.3
+7.4
+
+-7.8
+-1.2
+-7.3
+
+-7.0
+-0.7
+-4.3
+
+External assets and liabilities (in percent of GDP)
+Official reserves ($NZ billion) 4/
+Gross external debt
+Net international investment position
+
+13.1
+106.7
+-84.3
+
+19.9
+115.5
+-87.1
+
+22.3
+123.1
+-87.1
+
+19.3
+137.4
+-93.8
+
+24.5
+148.3
+-106.1
+
+...
+153.9
+-113.0
+
+Exchange rate (period average)
+US$/$NZ 5/
+Trade-weighted index (June 1979 = 100) 5/
+Nominal effective exchange rate 6/
+Real effective exchange rate 6/
+
+0.7
+70.4
+134.3
+137.6
+
+0.6
+65.4
+123.8
+128.1
+
+0.7
+70.9
+133.0
+137.7
+
+0.7
+65.7
+124.1
+129.3
+
+0.5
+53.8
+97.5
+104.4
+
+...
+...
+...
+...
+
+Interest rates (period average)
+Interest rate (90-day, in percent) 3/
+Government bond yield (10-year, in percent) 3/
+Balance of payments (in percent of GDP)
+Current account balance
+Trade balance (goods)
+Terms of trade (change in percent)
+
+Sources: Data provided by the New Zealand authorities; and IMF staff estimates and projections.
+1/ Based on national accounts data.
+2/ Fiscal years ending June 30.
+3/ Data for 2009 are as of end-March.
+4/ Data for 2009 are as of end-January.
+5/ Data for 2009 are for January-March.
+6/ IMF Information Notice System index (2000 = 100). Data for 2009 are for January.
+
+

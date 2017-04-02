@@ -1,0 +1,9638 @@
+IMF Country Report No. 12/253
+
+FINLAND
+August 2012
+
+2012 ARTICLE IV CONSULTATION
+Under Article IV of the IMF’s Articles of Agreement, the IMF holds bilateral discussions with
+members, usually every year. In the context of the 2012 Article IV consultation with Finland,
+the following documents have been released and are included in this package:
+
+
+
+Staff Report for the 2012 Article IV consultation, prepared by a staff team of the IMF,
+following discussions that ended on June 11, 2012, with the officials of Finland on economic
+developments and policies. Based on information available at the time of these discussions,
+the staff report was completed on August 3, 2012. The views expressed in the staff report are
+those of the staff team and do not necessarily reflect the views of the Executive Board of the
+IMF.
+
+
+
+
+
+Staff Statement of August 27, 2012 updating information on recent developments.
+
+
+
+Statement by the Executive Director for Finland.
+
+Informational Annex prepared by the IMF.
+
+Public Information Notice (PIN) summarizing the views of the Executive Board as
+expressed during its August 27, 2012 discussion of the staff report that concluded the Article
+IV consultation.
+
+The document listed below has been or will be separately released.
+
+Selected Issues Paper and Analytical Notes
+
+The policy of publication of staff reports and other documents allows for the deletion of
+market-sensitive information.
+Copies of this report are available to the public from
+International Monetary Fund  Publication Services
+700 19th Street, N.W.  Washington, D.C. 20431
+Telephone: (202) 623-7430  Telefax: (202) 623-7201
+E-mail: publications@imf.org Internet: http://www.imf.org
+
+International Monetary Fund
+Washington, D.C.
+©2012 International Monetary Fund
+
+FINLAND
+August 3, 2012
+
+STAFF REPORT FOR THE 2012 ARTICLE IV CONSULTATION
+
+KEY ISSUES
+Context: After a robust rebound following the 2008–09 crisis, economic activity in
+Finland has slowed markedly, owing to gyrations in euro area (EA) financial markets,
+which have dragged down external demand and impaired domestic confidence. Risks
+to the outlook are tilted to the downside with the main risk being an intensification of
+the EA sovereign debt crisis that could spill over to Finland. A slowdown of world
+growth or an adverse oil price shock could also negatively impact the economy. While
+competitiveness remains broadly satisfactory, margins have been eroded and it may
+become a concern should current trends continue.
+Further strengthening the financial sector: While the banking sector is well
+capitalized, risks emanating from the crisis as well as heightened requirements
+envisaged under Basel III warrant higher capital and liquidity buffers, which should be
+accomplished in moderate steps to prevent deleveraging. With a majority of assets
+controlled by subsidiaries of foreign banks, the sector is vulnerable to a short-term
+funding shortfall and spillovers from a worsening of the EA crisis. Given the heavy
+concentration of the banking sector, nationally systemic banks should be subject to
+closer supervision and more stringent prudential requirements. At the same time,
+strengthening macro-prudential tools would help mitigate risks in the housing market.
+Balancing near- and longer-term fiscal objectives: The near-term fiscal stance is
+appropriately neutral as it avoids pro-cyclical withdrawal of support when growth is set
+to weaken while not endangering long-term sustainability. As the recovery strengthens,
+the structural fiscal position should be gradually tightened to close the sustainability
+gap. Budget retrenchment should be implemented flexibly, allowing automatic
+stabilizers to operate if macro conditions are less favorable than anticipated.
+Raising potential growth: With a rapidly aging population, structural policies to
+enhance potential growth should focus on lengthening working careers. In addition,
+further competition in the service and health care sectors as well as municipal reform
+could spur productivity and help close the sustainability gap.
+
+2012 ARTICLE IV REPORT
+
+Approved By
+
+Mahmood Pradhan
+(EUR) and Tamim
+Bayoumi (SPR)
+
+FINLAND
+
+Discussions for the 2012 Article IV consultations were held in Helsinki
+during May 31–June 11, 2012. The mission comprised Mr. L. Figliuoli
+(head), Ms. L. Christiansen, Mr. D. Kanda, Ms. M. Hassine, Mr. A. Aslam
+(all EUR) and Mr. M. Kortelainen (RES). Mr. H. Berger (EUR) joined for
+part of the mission. The mission met with Mr. E. Liikanen, Governor of
+the Bank of Finland; Ms. J. Urpilainen, Minister of Finance; other senior
+officials; social partners; representatives of the financial sector; and
+research communities.
+
+CONTENTS
+KEY ISSUES _______________________________________________________________________________________ 1
+INTRODUCTION __________________________________________________________________________________ 4
+RECENT ECONOMIC DEVELOPMENTS AND OUTLOOK ________________________________________ 4
+A. Recent Developments ___________________________________________________________________________4
+B. Macro Outlook ________________________________________________________________________________ 13
+POLICY DISCUSSIONS __________________________________________________________________________ 16
+C. Maintaining Financial Stability _________________________________________________________________ 16
+D. Fiscal Policy ____________________________________________________________________________________ 19
+E. Structural Reforms _____________________________________________________________________________ 26
+STAFF APPRAISAL ______________________________________________________________________________ 27
+TABLES
+1. Macroeconomic Framework, 2009–17 _________________________________________________________ 38
+2. Indicators of Financial Vulnerability, 2005–12 _________________________________________________ 39
+3. General Government Statement of Operations, 2007–13 ______________________________________ 40
+4. General Government Integrated Balance Sheet, 2005–10 _____________________________________ 41
+5. Balance of Payments, 2009–17_________________________________________________________________ 42
+6. Net International Investment Position, 2003–11 _______________________________________________ 43
+7. External Debt Sustainability Framework, 2007–17 _____________________________________________ 44
+8. FSAP Update Recommendations, 2010 ________________________________________________________ 45
+9. Public Sector Debt Sustainability Framework, 2007–17 ________________________________________ 46
+10. Proposed Structural Fiscal Measures _________________________________________________________ 47
+
+2
+
+INTERNATIONAL MONETARY FUND
+
+FINLAND 2012 ARTICLE IV REPORT
+
+FIGURES
+1. Real Sector Developments, 2007–12 ___________________________________________________________ 29
+2. Labor Market and Inflation, 2007–12 __________________________________________________________ 30
+3. Financial Sector, 1998–2011 ___________________________________________________________________ 31
+4. Financial Position, 2004–11 ____________________________________________________________________ 32
+5. Fiscal Sector, 2006–12 _________________________________________________________________________ 33
+6. External Developments, 2007–11 ______________________________________________________________ 34
+7. External Debt Sustainability: Bound Tests ______________________________________________________ 35
+8. Public Debt Sustainability: Bound Tests ________________________________________________________ 36
+9. Sustainability Analysis: Public Net Debt, 2011–60 _____________________________________________ 37
+BOXES
+1. Cross-Border Spillovers __________________________________________________________________________7
+2. Macro-Financial Linkages ______________________________________________________________________ 10
+3. External Competitiveness ______________________________________________________________________ 11
+
+INTERNATIONAL MONETARY FUND
+
+3
+
+2012 ARTICLE IV REPORT
+
+FINLAND
+
+INTRODUCTION
+1.
+Despite strong fundamentals and a track record of good policies, Finland’s near-term
+outlook is threatened by intensifying external strains. Activity in the EA is set to contract in 2012
+on the back of the protracted sovereign debt crisis, financial sector deleveraging, and additional
+fiscal consolidation in several European countries. Spillovers to Finland already have been significant,
+given its highly open economy and trade and financial linkages with Europe, and, as a result, growth
+decelerated at the end of 2011. Though activity in the first quarter was slightly stronger than
+expected, growth is projected to slow significantly in 2012. Thus, the key immediate policy concern
+is to cushion the downturn, while mitigating financial, fiscal, and structural vulnerabilities.
+2.
+Downside risks prevail. A further deterioration of financial market conditions could have
+severe negative spillovers for Finland. Increased concern about fiscal sustainability in the EA, forcing
+additional front-loaded fiscal tightening, would dampen further the prospects for near-term
+recovery. In case of a strong intensification of the EA crisis, leading to heightened financial stress
+and associated deleveraging, a sharp recession would be inevitable.
+3.
+The Finnish economy also faces important longer-run challenges. Rapid aging and
+slowing productivity, coupled with recent cost pressures that have eroded competitiveness, threaten
+longer-term growth and fiscal sustainability. Growing financial integration in Europe and complexity
+create new risks and test supervisory abilities.
+
+RECENT ECONOMIC DEVELOPMENTS AND OUTLOOK
+
+4
+
+INTERNATIONAL MONETARY FUND
+
+Italy *
+
+Greece **
+
+Spain
+
+France *
+
+Netherlands
+
+Germany
+
+Canada
+
+United States
+
+United Kingdom *
+
+Finland
+
+Denmark **
+
+Ireland
+
+4.
+The Finnish economy rebounded robustly in 2010, but stalled at the end of 2011.
+Following the steep (almost 8½ percent) real GDP decline of 2009, domestic demand surged
+strongly in 2010, propelled by rising consumer
+Capital Ratios
+(Percent, data at end-2011Q4)
+confidence and renewed wage growth, leading to
+18
+Regulatory Tier 1 capital to risk-weighted assets
+Capital to assets
+16
+a rapid recovery in activity. However, exports,
+14
+12
+which had collapsed more than 20 percent
+10
+8
+in 2009, never regained their previous vigor. As
+6
+4
+the sovereign debt turmoil in the EA intensified in
+2
+0
+the second half of 2011, dwindling demand from
+trading partners dragged the economy to a
+standstill in late 2011. For the year as a whole,
+domestic demand prevented a sharper weakening
+* Data at end-2011Q2; ** Data at end-2011Q3.
+Sources: IMF Financial Soundness Indicators and Fund staff calculations.
+of growth, which reached almost 3 percent.
+
+Portugal
+
+A. Recent Developments
+
+FINLAND 2012 ARTICLE IV REPORT
+
+(Table 1, Figure 1). Though activity in the first quarter of 2012 turned out slightly stronger than
+expected, weak investment continued to point to a deteriorating growth outlook.
+
+(percentage points)
+
+Change in unemployment rate
+
+5.
+The labor market slowly improved, while inflation decelerated. The unemployment rate
+rose about 2½ percentage points during 2008–09 to
+Finland: Okun's Law, 1980-2010
+an 8¾ percent high, but well below Okun’s law
+6
+predictions thanks largely to labor hoarding. It then
+4
+declined modestly during the subsequent recovery,
+2
+ending the first quarter of 2012 at around
+0
+7½ percent, with subdued growth prospects
+constraining firms’ willingness to hire. Harmonized
+-2
+y = -0.3139x - 0.4433
+consumer price inflation, which had exceeded that
+R² = 0.394
+-4
+of the EA since late 2010 reflecting cost pressures
+-6
+and a value-added tax (VAT) increase, started to
+-8
+-6
+-4
+-2
+0
+2
+4
+6
+8
+Output gap
+come down in the second half of 2011, reaching just
+(percent)
+Sources: IMF World Economic Outlook and Fund staff calculations.
+above 2½ percent at year-end, in line with EA
+inflation (Figure 2).
+6.
+The banking system has remained generally sound despite mounting EA turbulence,
+but vulnerabilities persist. (Table 2; Figures 3–4).
+
+
+
+
+
+
+
+
+The capital adequacy ratio (CAR) stood at
+14¼ percent at end-2011, well above
+regulatory standards. At 13½ percent at
+end-2011, the core Tier 1 capital ratio was
+unchanged from a year earlier, though it
+remains higher than in European peers.
+The non-performing loan (NPL) rate, at
+½ percent in March 2012, remains low.
+However, the NPL to capital ratio, at
+5½ percent in Q411, increased slightly
+relative to one year earlier due mainly to an
+uptick in troubled loans to households and, to
+a lesser extent, to corporations.
+Profitability has deteriorated amid weakening
+interest income and increased competition for
+retail business. Return on assets dropped
+further during 2011, to ½ percent in Q112.
+Large foreign exposures subject Finnish banks
+to spillover and deleveraging risks owing to
+the financial sector strains in the EA (Box 1). In
+
+Financial Stress Index, 2006-2012 1/
+
+14
+12
+10
+8
+6
+4
+2
+0
+-2
+-4
+-6
+
+Finland
+Sweden
+Germany
+Denmark
+
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+Sources: Cardarelli, R., S. Elekdag, and S. Lall (2009), "Financial Stress, Downturns,
+and Recoveries," IMF Working Paper, WP/09/100 and Fund staff calculations.
+1/ The financial stress index is a composite of the spread between commercial
+papers and sovereign bonds, the beta of the banking sector (from a CAPM), the
+term structure of interest rates, and volatilities in stock returns and in the
+exchange rate. Large values imply higher distress. A value of zero indicates
+neutral financial conditions.
+
+Bank Rollover Requirement, 2012-13
+(Billions of euro, LHS; percent of debt, RHS)
+200
+
+2013
+2012
+2013, percent of debt, RHS
+2012, percent of debt, RHS
+
+180
+160
+140
+
+25
+20
+15
+
+120
+100
+80
+
+10
+
+60
+40
+
+5
+
+20
+0
+
+0
+Germany
+
+United
+France Netherlands
+Kingdom
+Sources: Dealogic and Fund staff calculations.
+
+Sweden
+
+INTERNATIONAL MONETARY FUND
+
+Finland
+
+5
+
+2012 ARTICLE IV REPORT
+
+FINLAND
+
+addition, the Finnish banking sector is highly concentrated, with a majority of assets
+controlled by subsidiaries of foreign Nordic banks, and heavily dependent on wholesale
+funding. This heightens the vulnerability to a short-term funding shortfall and spillovers
+from a possible worsening of the EA crisis (AN1 1). Moreover, the net external position of
+Finnish banks has deteriorated over the past year, reflecting both higher foreign exposure
+and greater dependence on foreign funds.
+7.
+The insurance and pension fund sectors are weathering well the ongoing crisis, but
+not without suffering losses.
+
+The deep economic downturn combined with the low level of interest rates and highly
+volatile equity and bond markets led to reduced solvency margins for insurers in 2010–11.
+However, at 3¾ and 4 times the regulatory requirement for nonlife and life insurance
+respectively, such margins remain high relative to European peers. Investments of Finnish
+insurers returned a loss just shy of 2 percent at end-2011.
+Compared to other European countries, Finnish pension funds have given preference to
+equity over debt instruments in their portfolios. Hence, tumbling share prices during the
+height of the crisis caused deeper losses, from which pension funds are still healing.
+
+
+
+8.
+Household indebtedness has surged. Household debt as a share of disposable income
+increased sharply during the past decade, rendering household balance sheets riskier. With
+mortgages overwhelmingly of the floating-rate variety, decline in interest rates and longer
+repayment terms have lowered borrowing costs. In addition, banks have first charge at default and
+full recourse against borrowers. Thus, default rates have remained low. Unlike other EA countries,
+mortgage growth in Finland has been stable throughout 2011, exceeding the EA average by about
+4 percentage points. The share of highly indebted households, likely to face heightened repayment
+problems in 2012 as unemployment increases again, is rising.
+Selected Countries: Household Debt, 2010
+
+Household Saving and Debt, 2000-11
+
+(Percent of disposable income)
+
+(Percent of disposable income)
+5
+4
+
+Saving
+Debt (RHS)
+
+3
+
+120
+110
+100
+90
+
+1
+80
+
+0
+-1
+-2
+2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011
+Sources: Statistics Finland and Fund staff calculations.
+
+6
+
+300
+250
+200
+
+2
+
+1
+
+350
+
+150
+100
+
+70
+
+50
+
+60
+
+0
+DNK
+
+NLD
+
+NOR
+
+SWE
+
+USA
+
+FIN
+
+EA17
+
+FRA
+
+Sources: Haver Analytics and Fund staff calculations.
+
+Analytical Note. See Finland: Selected Issues and Analytical Notes, International Monetary Fund, 2012.
+
+INTERNATIONAL MONETARY FUND
+
+DEU
+
+ITL
+
+2012 ARTICLE IV REPORT
+
+FINLAND
+
+addition, the Finnish banking sector is highly concentrated, with a majority of assets
+controlled by subsidiaries of foreign Nordic banks, and heavily dependent on wholesale
+funding. This heightens the vulnerability to a short-term funding shortfall and spillovers
+from a possible worsening of the EA crisis (AN1 1). Moreover, the net external position of
+Finnish banks has deteriorated over the past year, reflecting both higher foreign exposure
+and greater dependence on foreign funds.
+7.
+The insurance and pension fund sectors are weathering well the ongoing crisis, but
+not without suffering losses.
+
+The deep economic downturn combined with the low level of interest rates and highly
+volatile equity and bond markets led to reduced solvency margins for insurers in 2010–11.
+However, at 3¾ and 4 times the regulatory requirement for nonlife and life insurance
+respectively, such margins remain high relative to European peers. Investments of Finnish
+insurers returned a loss just shy of 2 percent at end-2011.
+Compared to other European countries, Finnish pension funds have given preference to
+equity over debt instruments in their portfolios. Hence, tumbling share prices during the
+height of the crisis caused deeper losses, from which pension funds are still healing.
+
+
+
+8.
+Household indebtedness has surged. Household debt as a share of disposable income
+increased sharply during the past decade, rendering household balance sheets riskier. With
+mortgages overwhelmingly of the floating-rate variety, decline in interest rates and longer
+repayment terms have lowered borrowing costs. In addition, banks have first charge at default and
+full recourse against borrowers. Thus, default rates have remained low. Unlike other EA countries,
+mortgage growth in Finland has been stable throughout 2011, exceeding the EA average by about
+4 percentage points. The share of highly indebted households, likely to face heightened repayment
+problems in 2012 as unemployment increases again, is rising.
+Selected Countries: Household Debt, 2010
+
+Household Saving and Debt, 2000-11
+
+(Percent of disposable income)
+
+(Percent of disposable income)
+5
+4
+
+Saving
+Debt (RHS)
+
+3
+
+120
+110
+100
+90
+
+1
+80
+
+0
+-1
+-2
+2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011
+Sources: Statistics Finland and Fund staff calculations.
+
+6
+
+300
+250
+200
+
+2
+
+1
+
+350
+
+150
+100
+
+70
+
+50
+
+60
+
+0
+DNK
+
+NLD
+
+NOR
+
+SWE
+
+USA
+
+FIN
+
+EA17
+
+FRA
+
+DEU
+
+Sources: Haver Analytics and Fund staff calculations.
+
+Analytical Note (AN). See Finland: Selected Issues and Analytical Notes, International Monetary Fund, 2012.
+
+INTERNATIONAL MONETARY FUND
+
+ITL
+
+FINLAND 2012 ARTICLE IV REPORT
+
+Box 1. Finland: Cross-Border Spillovers1
+Finland’s financial and trade linkages to the other Nordics make it sensitive to growth
+slowdowns in the region. Although Finland’s trade pattern across countries is relatively
+diversified, its financial linkages are more concentrated in the Nordics. Foreign direct investment
+in Finland is dominated by Sweden with close to 60 percent of the total for Finland. Similarly,
+cross-border banking flows are dominated by Sweden and other Nordic countries.
+A diversified trade pattern and limited
+exposure to countries with large
+consolidation plans help limit spillovers
+from fiscal consolidation in the euro area.
+Despite notable consolidation plans in some of
+its trading partners, the impact on Finland’s
+growth in 2012 and 2013 from worldwide
+consolidation will likely be low. Simulation
+results imply that domestic consolidation plans
+are likely to generate a more significant drag
+on GDP with a likely reduction in 2012 of
+¼ percentage point, while foreign
+consolidation will reduce output growth by
+around 0.1 percentage points in 2012
+and 2013.
+
+Comparison - Export Market Destinations, 2011
+100
+
+80
+
+(Percent of total merchandise exports)
+Advanced Economies
+Emerging & Developing Economies
+Developing Asia
+
+European Union (agg)
+BRIC
+China, P.R.: Mainland
+
+60
+
+40
+
+20
+
+0
+FIN
+
+FRA
+
+DEU
+
+NLD
+
+AUT
+
+SWE
+
+EU
+
+JPN
+
+UK
+
+USA
+
+Sources: IMF Direction of Trade Statistics and Fund staff calculations.
+
+Contribution to Growth from Global Fiscal Consolidation,
+201113
+0.1
+
+(Percentage points)
+
+0.0
+
+While bank exposure to high spread
+-0.1
+countries is very limited, significant
+-0.2
+linkages with banks in Sweden and
+-0.3
+Denmark make Finland susceptible to
+Domestic
+Germany, France, Netherlands
+shocks in these countries. The claims of
+-0.4
+United States, United Kingdom
+Others
+Finnish banks on the three program countries
+Growth effect
+-0.5
+Greece, Ireland, and Portugal are very limited
+2011
+2012
+2013
+Sources: Direction of Trade Statistics, World Economic Outlook and Fund staff calculations.
+so that the direct impact from a default on
+50 percent of the outstanding sovereign claims would entail no notable losses to Finnish banks.
+Further, losses would remain small even if Finnish banks lose 30 percent of their asset value in
+the three program countries. Claims on Sweden and Germany are more relevant and a
+10 percent haircut on these assets reveals a more severe loss of around 2 and ½ percent of GDP,
+respectively.
+______________
+1
+See AN 1.
+
+INTERNATIONAL MONETARY FUND
+
+7
+
+2012 ARTICLE IV REPORT
+
+FINLAND
+
+Box 1. Finland: Cross-Border Spillovers (concluded)
+
+Spillovers to Finland from International Banks' Exposures
+(As of September 2011)
+Shock originating from
+
+Magnitude 1/
+
+Greece
+Greece, Ireland and Portugal
+Italy
+Spain
+France
+Germany
+Sweden
+UK
+Selected European Countries 4/
+US
+
+Deleveraging
+need 2/
+
+30
+30
+10
+10
+10
+10
+10
+10
+10
+10
+
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+55.8
+0.0
+
+Finnish banks'
+Impact on credit
+losses (percent availability (percent
+of GDP)
+of GDP) 3/
+0.0
+0.1
+0.1
+0.1
+0.2
+0.6
+1.9
+0.4
+3.6
+0.3
+
+-0.1
+-0.7
+-0.4
+-0.9
+-3.3
+-5.1
+-56.5
+-2.6
+-71.6
+-4.4
+
+Sources: RES/MFU Bank Contagion Module based on BIS, ECB, and IFS data.
+1/ Magnitude denotes the percent of on-balance sheet claims (all borrowing sectors) that default.
+2/ Deleveraging need is the amount (in percent of Tier I capital) that needs to be raised through asset sales
+in response to the shock in order to meet a domestic banking sector Tier I capital asset ratio of 10 percent,
+expressed in percent of total assets and asuming no recapitalizations.
+3/ Reduction in foreign banks' credit to Finland due to the impact of the analyzed shock on their balance
+sheet, assuming a uniform deleveraging across domestic and external claims.
+4/ Greece, Ireland, Portugal, Italy, Spain, France, Germany, Sweden, and the United Kingdom.
+
+Considerable risk stems from a growth slowdown in Sweden or a simultaneous growth
+slowdown in the rest of the euro area. Multi-country VAR analysis suggests that a negative
+growth shock in Sweden of ½ standard deviation in 2012 alone could lower GDP growth in
+Finland by about 0.1 percentage point in 2012 and above ½ percentage point in 2013 compared
+with the current baseline. A shock to all euro area members (excluding Finland) could lower
+Finnish GDP growth by more than ½ percentage point in 2013.
+Output Growth Comparison: Euro Area Wide 2012 Shock
+
+Output Growth Comparison: Sweden 2012 Shock
+8
+
+(Percent)
+
+6
+
+6
+
+4
+
+4
+
+2
+
+2
+
+0
+
+0
+
+-2
+
+-2
+
+-4
+-6
+-8
+-10
+
+-4
+DEU
+FIN
+NLD
+SWE
+
+-12
+2007Q1 2008Q1 2009Q1 2010Q1 2011Q1 2012Q1 2013Q1 2014Q1 2015Q1
+Sources: OECD, Poirson and Weber (2011), World Economic Outlook, and Fund staff calculations.
+
+8
+
+8
+
+INTERNATIONAL MONETARY FUND
+
+-6
+-8
+-10
+
+(Percent)
+
+DEU
+FIN
+NLD
+
+SWE
+-12
+2007Q1 2008Q1 2009Q1 2010Q1 2011Q1 2012Q1 2013Q1 2014Q1 2015Q1
+Sources: OECD, Poirson and Weber (2011), World Economic Outlook, and Fund staff calculations.
+
+FINLAND 2012 ARTICLE IV REPORT
+
+9.
+Real estate prices are at historically high levels but broadly in line with fundamentals.
+After moderate retrenchment in 2009, house prices recovered the pre-crisis growth path and
+according to some indicators real house prices and credit are above their long-run trend (Box 2).
+Nevertheless, the increase in housing prices exceeded income growth only marginally in recent
+years, suggesting the absence of major real estate bubbles (AN 2). The fall in rental rates for office
+space in 2011 is likely the harbinger of a modest price correction for commercial real estate,
+particularly with banks tightening lending policies.
+Growth of Mortgage Loans, 19992012
+
+Real House Price Growth, 200112
+25
+
+(Year-on-year percent change)
+
+(Year-on-year percent change)
+
+18
+
+20
+
+16
+
+15
+
+14
+
+10
+
+12
+
+Euro area
+Finland
+
+10
+
+5
+
+8
+
+0
+
+6
+
+-5
+-10
+-15
+
+Finland
+
+United Kingdom
+
+Denmark
+
+Netherlands
+
+Norway
+
+Sweden
+
+4
+2
+0
+
+-20
+2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012
+
+-2
+Jan-04
+
+Sources: OECD and Fund staff calculations.
+
+Jan-06
+
+Jan-08
+
+Jan-10
+
+Sources: European Central Bank, Haver Analytics, and Fund staff calculations.
+
+10.
+The fiscal position deteriorated sharply during the acute 2009 recession, and, while
+consolidation has begun, the costs of population aging loom large. Reflecting both automatic
+stabilizers and discretionary stimulus, the general government (GG) headline balance deteriorated
+by 7 percent of GDP in 2009, spawning a deficit of about 2¾ percent of GDP in 2009–10
+(Tables 3–4, Figure 5). In 2011, the budgetary stance tightened by about 1 percent of GDP in
+structural terms. This followed from a hike in energy taxes and the full-year impact of a
+1 percentage point raise in the standard rate of VAT to 23 percent in mid-2010, while, on the
+expenditure side, the stimulus measures started to be phased out. Nonetheless, with weaker-thanprojected growth, the headline deficit stood at around ¾ percent of GDP and gross debt continued
+to increase, ending 2011 at close to 49 percent of GDP. Meanwhile, population aging remains a
+challenge for long-term fiscal sustainability, with associated GG costs estimated at 6½ percent of
+GDP per annum by 2016 (AN 6 and ¶31). Related to below-the-line operations, Finland has secured
+collateral for its financial assistance to some debtor countries through the EFSF.
+Aging-Related Expenditure: Different Scenarios, 200860
+
+General Government Balances, 200712
+6
+
+(Percent of GDP)
+
+4
+2
+
+Denmark
+
+Euro area
+
+Finland
+
+Germany
+
+Netherlands
+
+Sweden
+
+32
+
+(Percent of GDP)
+
+30
+
+28
+
+0
+-2
+
+26
+
+Baseline
+High life expectancy (1 year)
+Zero migration
+
+-4
+
+24
+
+-6
+
+Higher employment rate (+1pp)
+Higher employment rate for older workers (+5pp)
+Higher labor productivity
+
+-8
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+Sources: World Economic Outlook and Fund staff calculations.
+
+2012
+
+22
+2008 2012 2016 2020 2024 2028 2032 2036 2040 2044 2048 2052 2056 2060
+Sources: DG ECFIN: The 2009 Ageing Report and Fund staff calculations.
+
+INTERNATIONAL MONETARY FUND
+
+9
+
+2012 ARTICLE IV REPORT
+
+FINLAND
+
+Box 2. Finland: Macro-Financial Linkages1
+Financial Conditions Index, 2000Q1-2011Q4
+
+Financial variables have strengthened the
+economic recovery but support is fading.
+The low interest rate environment and the
+improvement in the situation in the banking sector
+in 2010 have stimulated demand for mortgage
+loans and housing prices. This in turn strengthened
+household asset positions, which underpinned
+robust private consumption growth. The recovery
+lost steam as asset markets started to deteriorate
+and the outlook clouded over, slowing investment
+
+(Percentage points of y/y real GDP growth)
+8
+6
+4
+2
+0
+-2
+-4
+-6
+
+Banking sector
+REER
+Housing price
+GDP growth
+
+-8
+-10
+
+-12
+2000Q1 2001Q3 2003Q1 2004Q3 2006Q1 2007Q3 2009Q1 2010Q3
+Sources: Cardarelli, R., S. Elekdag, and S. Lall (2009), "Financial Stress, Downturns,
+and Recoveries," IMF Working Paper, WP/09/100 and IMF staff calculations.
+
+in residential property and consumption growth.
+4.64
+
+Finland: Credit to Households and Output Developments,
+1990-2011Q1
+(Logs)
+2008Q1
+
+4.62
+2007Q1
+
+2011Q1
+
+4.60
+Real GDP
+
+The historic relationship between credit,
+housing, and output growth is strong in
+Finland, making output susceptible to negative
+shocks in real estate and credit markets. Vector
+Autoregressions (VARs) suggest that a negative
+shock to credit availability of 5 percent could be
+associated with a reduction in output by ¼ to
+½ percent after one year and 1 to 1¾ percent
+after 2 years. Housing prices would be lower by ¼
+to 2½ percent in the first year and 2¼ to
+2¾ percent in the second year. At the current level
+of output, housing prices and credit are above
+their long-run trend.
+
+LIBOR
+Stock index
+Overall FCI
+
+2006Q1
+
+4.58
+
+2010Q1
+2009Q1
+
+2005Q1
+
+4.56
+
+2004Q1
+
+4.54
+
+2003Q1
+
+2001Q1
+2002Q1
+
+4.52
+
+2000Q1
+
+4.50
+1.50
+
+1.60
+
+1.70
+1.80
+Real Credit to Households
+
+1.90
+
+2.00
+
+Sources: National authorities and Fund staff calculations.
+
+Finland: House Prices and Output Developments, 1990-2011Q1
+(Logs)
+4.65
+2008Q1
+2007Q1
+
+4.60
+
+2006Q1
+
+2009Q1
+
+2011Q1
+2010Q1
+
+2005Q1
+
+4.55
+
+Real GDP
+
+The credit market is broadly in equilibrium and
+major disruptions from the credit market to
+economic growth are less likely. Credit demand
+declined with economic prospects. With the
+relative resilience of the banking sector to the
+woes in the euro area, the impact on credit
+provision has been limited. Thus, there has been
+little misalignment in the credit market throughout
+the earlier phases of the crisis and the recovery
+phase.
+______________
+1
+See AN 2.
+
+2004Q1
+2002Q1
+2001Q1
+
+2003Q1
+
+2000Q1
+
+4.50
+
+1999Q1
+1998Q1
+
+4.45
+
+1997Q1
+
+1990Q1
+
+1996Q1
+1991Q1
+
+1995Q1
+
+4.40
+
+1992Q1
+
+1994Q1
+1993Q1
+
+4.35
+1.75
+
+1.80
+
+1.85
+
+1.90
+1.95
+2.00
+2.05
+Real House Price Index
+Sources: National authorities, OECD, and Fund staff calculations.
+
+Finland: Excess Supply/Demand for Credit, 2000Q22011Q3
+15
+10
+
+(Percentage by which demand exceeds supply)
+Excess demand
+(left scale)
+
+Volume of credit, in log
+(right scale)
+
+0.4
+0.2
+
+0
+
+0.0
+-0.2
+
+-5
+Excess supply
+(left scale)
+
+-15
+2000Q2 2001Q4 2003Q2 2004Q4 2006Q2 2007Q4 2009Q2 2010Q4
+Source: Fund staff calculations.
+
+INTERNATIONAL MONETARY FUND
+
+0.6
+
+5
+
+-10
+
+10
+
+2.10
+
+-0.4
+-0.6
+
+FINLAND 2012 ARTICLE IV REPORT
+
+11.
+Previous large current account surpluses have waned, suggesting that
+competitiveness, while still adequate, has eroded. With the collapse in exports of 2009 and a
+renewed slowdown in trading partner growth at end-2011, the current account turned from a
+2½ percent of GDP surplus in 2008 to a ¾ percent of GDP deficit in 2011. Exports, which in 2008
+accounted for more than 45 percent of GDP, have now fallen below the 40 percent mark
+(Tables 5–7, Figures 6–7). Additionally, Finland has continued to lose export market share (Box 3).
+Nonetheless, econometric estimates do not suggest misalignment. On balance, in staff’s view,
+competitiveness remains broadly satisfactory, though margins have been eroded and it may
+become a concern should current trends continue. While the authorities share this assessment, they
+highlight that most of the structural export decline (from outsourcing by the ICT and paper
+industries) already has taken place, limiting the risks of further deterioration. The relatively robust
+external position limits vulnerabilities from capital flows, with the net international investment
+position improving steadily since 2007 and expected to remain comfortable. Both assets and
+liabilities have been rising at a strong pace with considerable direct investment net assets, while
+portfolio and other investment are in net liability.
+
+Box 3. Finland: External Competitiveness
+Various price and quantity indicators imply some deterioration in competitiveness. Real
+effective exchange rates (REERs) based on various cost and price indices have, on average, moved
+broadly sideways. Meanwhile, the current account has continued its downward trend, reaching a
+deficit (of 0.7 percent of GDP) in 2011—the first time in nearly two decades.
+Real effective exchange rates hint at a worsening of relative profitability in manufacturing.
+Using the ratio of the REERs based on HICP and on unit wage cost in manufacturing as a proxy for
+relative profitability points to deteriorating conditions. After trending upward for more than a decade,
+albeit with temporary interruptions, including during the 2008–09 crisis, this measure now again is
+showing a decline in relative profitability.
+Finland has continued to lose export market share. Finland’s export market share in the world has
+been on a declining trend for more than a decade. Since 2008, the decline in export share in the EU
+market has also intensified, not least on the back of declining exports of electronics due to both
+outsourcing of production and a downsizing of the ICT industry.
+Finland: Real Effective Exchange Rates, 1994-2011 1/
+130
+
+(1999 = 100)
+
+Finland: Export Shares, 1999-2011 1/
+1.3
+1.2
+
+120
+
+1.1
+
+EU
+
+0.9
+0.8
+
+100
+
+80
+
+World
+
+1.0
+
+110
+
+90
+
+(Percent)
+
+0.7
+HICP (REER)
+ULC-total economy (REER)
+UWC-manufacturing (REER)
+Relative profitability 2/
+
+70
+1994Q1
+1998Q1
+2002Q1
+2006Q1
+2010Q1
+Sources: European Commission and Fund staff calculations.
+1/ Based on data for 36 industrial countries.
+2/ Computed as the ratio of the HICP REER to the UWC-manufacturing
+REER.
+
+0.6
+0.5
+0.4
+0.3
+1999
+2002
+2005
+2008
+2011
+Sources: International Financial Statistics and Fund staff calculations.
+1/ Computed as Finland's exports to the World and the EU in percent of total
+World and EU imports from the World, respectively.
+
+INTERNATIONAL MONETARY FUND
+
+11
+
+2012 ARTICLE IV REPORT
+
+FINLAND
+
+Box 3. Finland: External Competitiveness (concluded)
+The IMF’s multilaterally-consistent
+methodologies suggest the real
+exchange rate is broadly in balance.
+Recent external balance assessment (EBA)
+estimates support the view that the real
+exchange rate, or more generally the
+external position, is broadly in line with
+fundamentals. Specifically, while the EBA
+real exchange rate approach continues to
+flag mild real undervaluation, the
+macroeconomic balance approach points
+to the opposite. In the external
+sustainability approach, the current
+account is exactly aligned with
+fundamentals. However, CGER
+methodologies indicate the real exchange
+rate is moderately weaker than implied by
+fundamentals. In particular, the three
+different approaches produce a deviation
+from fundamentals-based values in the
+range of 2 to–18 percent depending on
+the CGER method used, averaging a
+-6 percent deviation, suggesting moderate
+real undervaluation.
+
+Estimates of Competitiveness Using EBA Methodologies 1/
+(Deviation from norms)
+Methodology
+CA gaps (percent of GDP)
+Macroeconomic balance (MB) approach
+External sustainability (ES) approach
+Equilibrium real exchange rate approach (percent deviation)
+
+-2.5
+0.0
+-7.0
+
+Memorandum items:
+Current account balance (percent of GDP)
+Current account norm (MB approach)
+Current account norm (ES approach)
+
+1.8
+-0.1
+
+Source: IMF staff estimates.
+1/ EBA (External Balance Assessment). CA gaps: minus indicates
+overvaluation. REER gaps: minus indicates undervaluation. REER deviations
+between -10 and +10 mean the real exchange rate (RER) is close to balance.
+EBA estimates are based on data available in spring 2012.
+
+Estimates of Competitiveness Using CGER Methodologies 1/
+(Percent deviation from levels implied by medium-term fundamentals)
+Methodology
+Macroeconomic balance (MB) approach
+External sustainability (ES) approach
+Equilibrium real exchange rate approach
+
+2
+-2
+-18
+
+Source: IMF staff estimates.
+1/ CGER (Consultative Group on Exchange Rate Issues). Values between -10
+and +10 mean the real exchange rate (RER) is close to balance. Minus
+indicates undervaluation. International Monetary Fund, 2008, “Exchange Rate
+Assessments: CGER Methodologies” (available at www.imf.org). CGER
+estimates are based on data available in spring 2012.
+
+On balance, staff estimates that the real exchange rate and the external balance are broadly in
+line with fundamentals. As discussed above, developments in non-econometric indicators suggest
+competitiveness has deteriorated, thereby eroding the moderate margins of competitiveness estimated
+in the past, but without resulting in real overvaluation. Moreover, IMF econometric methodologies do
+not show significant deviations from fundamentals-based values overall.
+
+12
+
+INTERNATIONAL MONETARY FUND
+
+FINLAND 2012 ARTICLE IV REPORT
+
+B. Macro Outlook
+Prospects for 2012 and 2013
+
+United Kingdom
+
+Denmark
+
+Netherlands
+
+Euro area
+
+Finland
+
+Germany
+
+Sweden
+
+12.
+Following the slowdown at the end of 2011, growth is projected to weaken further
+before picking up at the end of 2012 and
+Real GDP Growth, 201112
+in 2013. Staff forecasts real GDP to expand by
+(Percent)
+5
+around ½ percent in 2012, driven by weak
+2011
+4
+2012
+consumption and investment marred also by
+3
+sluggish exports, with negative growth in the
+2
+middle of the year. Assuming financial market
+1
+conditions in the EA normalize gradually,
+0
+activity should start to recover at end-2012,
+-1
+leading to about 1½ percent GDP growth
+in 2013. Consequently, output will fall further
+Sources: World Economic Outlook and Fund staff calculations.
+below potential in 2012, with the output gap
+closing only slowly over the medium term, even
+Finland: Output Gap, 201016
+(Percent of potential GDP)
+though trend growth remains below pre-crisis
+2
+Production function
+Multivariate
+HP-filter
+rates. As the economy slows in 2012, inflation will
+1
+Average 1/
+Authorities
+decline to below 3 percent, though monetary
+0
+indicators point to persistent expansionary
+-1
+-2
+conditions through the end of 2012 and tax hikes
+-3
+will continue to put upward pressure on prices.
+-4
+The unemployment rate will rise again to nearly
+-5
+8 percent by end-2012, decreasing slowly
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+Sources: Stability Programme for Finland 2012 and Fund staff calculations.
+thereafter. The Ministry of Finance’s growth
+1/ Average of output gap estimates from staff's production function,
+multivariate, and HP-filter approaches.
+projections are slightly higher for 2012 and lower
+for 2013 than staff’s, while the Bank of Finland is somewhat more sanguine for 2012.
+
+Medium- and Long-Term Prospects
+13.
+The renewed deceleration is likely to exacerbate the permanent output loss, and aging
+will weigh further on potential growth. The latter will remain below pre-crisis values as weak
+investment in 2008–09 and again in 2012 is taking its toll (Table 1). A potential output loss of as
+much as 8 percent by 2017 is estimated relative to the pre-crisis trend (AN 3). At the same time, the
+rapidly aging population will constrain growth of working-age cohorts. With manufacturing
+productivity set to expand below 2 percent, growth prospects are lackluster in the absence of
+increases in the participation rate or reforms to boost productivity.
+
+Risks to the Outlook
+14.
+The authorities agreed that risks to the outlook are tilted to the downside, with
+heightened uncertainties. Downside risks primarily relate to uncertainty about financial market
+gyrations in the EA and spillovers from a deeper and more protracted EA recession than currently
+
+INTERNATIONAL MONETARY FUND
+
+13
+
+2012 ARTICLE IV REPORT
+
+FINLAND
+
+projected (AN 1 and Risk Assessment Matrix). On the positive side, financial market reactions to EA
+crisis resolution actions could surprise on the upside, leading to a faster return to normalcy than
+currently expected. Further depreciation of the euro could have a similar effect. Over the longer run,
+persistent expansionary monetary conditions and safe-haven capital inflows could be conducive to
+overheating and asset-price bubbles. More specifically:
+
+
+The baseline scenario includes a gradual easing of European financial market tensions.
+However, heavier deleveraging and a credit crunch are a possibility.
+
+
+
+Persistence of negative investor sentiment could lead to widening spreads also for Finland,
+prompting further domestic fiscal retrenchment to avoid losing the coveted AAA rating.
+
+
+
+More fiscal tightening abroad than anticipated or stronger-than-expected adverse effects of
+the budget retrenchment assumed in the baseline could hit Finnish exports hard (AN 1),
+given the very open nature of the economy. In general, though, the authorities are more
+optimistic on the impact of fiscal consolidation.
+
+
+
+Negative growth impacts could also derive from a significant reduction in Finnish real estate
+prices, an adverse oil supply shock, or a slowdown of world growth.
+
+In principle, each of these factors could drive deviations from the baseline in either direction and
+impact staff’s central projection for activity accordingly. Nevertheless, the probability of downside
+outcomes is deemed prevalent—with unusually pronounced dispersion—as reflected in the
+discussion above.
+15.
+A strong intensification of the EA crisis, leading to more acute financial stress, would
+generate severe negative spillovers. The Finnish banking system, with its close integration with its
+Nordic neighbors, could suffer a strong adverse impact. This would likely take the form of liquidity
+withdrawal by parent banks, amid difficulties in wholesale funding, forcing a strong deleveraging of
+Finnish banks and likely an associated credit crunch. As a consequence, real activity would also be
+impaired and contract severely. Staff simulations suggest that, amid sharp increases in sovereign
+and corporate risk premia, accompanied by further fiscal consolidation, Finnish GDP could shrink by
+4 percent below the baseline in 2012–13 (AN 4).
+
+14
+
+INTERNATIONAL MONETARY FUND
+
+FINLAND 2012 ARTICLE IV REPORT
+
+Finland: Risk Assessment Matrix1/
+(Scale—high, medium, or low)
+
+Source of Risks
+1. Strong
+intensification of the
+EA crisis.
+
+Overall Level of Concern
+Relative Likelihood2/
+Impact if Realized
+Medium
+High
+ Heightened financial stress could  Effects through lower export
+worsen the EA outlook.
+demand and inward financial
+ Fiscal tightening in major EA
+spillovers, resulting in deleveraging
+countries could have strongerand increased uncertainty.
+than-expected adverse effects on
+growth.
+
+2. Slowdown of
+world growth.
+
+Medium
+ Slowing demand from emerging
+Asia and the U.S.
+
+High
+ Finland is highly sensitive to external
+trade shocks. In 2009, the collapse
+in exports contributed to a close to
+8½ percent reduction in GDP.
+ A shock could have a more severe
+impact now, as fiscal buffers have
+been drawn down, while the room
+for further monetary relaxation is
+also scant.
+
+3. “Drying up” of
+financial markets.
+
+Medium
+ Contagion arising from an
+intensification of financial stress
+in the EA.
+
+High
+ Finland has little direct exposure to
+the most vulnerable euro-zone
+countries, but the banking sector is
+dominated by subsidiaries of
+foreign banks and highly
+concentrated. The banking system’s
+funding gap is around 50 billion
+euros, closed through foreign
+sources.
+ Adverse shocks could reduce
+banking sector liquidity, forcing
+deleveraging and possibly an
+associated credit crunch.
+
+4. Adverse oil price
+shock.
+
+Medium
+ Geo-political risks could lead to a
+sharp increase in oil prices.
+
+Medium
+ Higher energy prices could depress
+demand and raise inflation.
+
+5. Mispricing of
+assets.
+
+Low
+ Persistence of expansionary
+monetary conditions could fuel
+excessive asset price increases.
+
+Medium
+ A downward correction in real
+estate prices could cause a marked
+decline in output (AN 2).
+
+1/
+
+The Risk Assessment Matrix (RAM) shows events that could materially alter the baseline path discussed in this report (which is
+the scenario most likely to materialize in the view of the staff). The RAM reflects staff's views on the source of risks and overall
+level of concerns as of the time of discussions with the authorities. The relative likelihood of risks listed is the staff’s subjective
+assessment of the risks surrounding this baseline.
+2/
+In case the baseline does not materialize.
+
+INTERNATIONAL MONETARY FUND
+
+15
+
+2012 ARTICLE IV REPORT
+
+FINLAND
+
+POLICY DISCUSSIONS
+16.
+Against this background, Finland must address existing vulnerabilities and long-term
+sustainability issues, while paying due attention to short-term growth.
+
+
+In the financial sector, proactive efforts should be undertaken to lift capital to the levels
+envisaged under Basel III. More emphasis should be given to liquidity provisioning as
+heightened stress in the wholesale market is a key risk and new regulation under Basel III will
+require further adjustment efforts by banks. In light of squeezed profit margins, supervision
+should ensure that the prudential business model is maintained and no excessive move to
+higher risk-return portfolios is undertaken. Cross-border supervision should be further
+intensified because financial flows have increased, in particular across the Nordic region.
+
+
+
+Fiscal policy must strike a delicate balance between supporting short-term economic activity,
+mitigating recessionary forces, and addressing the sustainability gap. Given the deteriorated
+outlook, this argues for allowing automatic stabilizers to work fully in the near term and
+planning a gradual pace of consolidation over the medium term.
+
+
+
+Further structural policies to spur potential growth should be implemented. This includes
+raising the effective retirement age and boosting labor supply. Moreover, strengthening
+competition in the service and health care sectors could enhance productivity, while, in the
+public sector, merging municipalities could realize economies of scale.
+
+C. Maintaining Financial Stability
+Bank Capitalization and Liquidity
+17.
+The consensus was that, while the banking sector is sound, individual institutions may
+need to strengthen capital and liquidity, especially the latter. Banks already meet the minimum
+capital and conservation buffer requirements envisaged under Basel III, though the authorities
+acknowledged that not all credit institutions satisfy the leverage ratio requirement. Furthermore,
+compliance with Basel III liquidity requirements will entail some additional effort as regards the asset
+composition of the liquidity buffer and the size of long-term stable funding (AN 5). As the banking
+system is substantially funded through foreign sources and wholesale markets, staff argued that
+banks ought to be encouraged to build up capital and above all liquidity buffers gradually. The
+authorities concurred, emphasizing that these objectives should be accomplished in measured but
+steady steps over the medium term to avoid fostering pressures for deleveraging.
+
+16
+
+INTERNATIONAL MONETARY FUND
+
+FINLAND 2012 ARTICLE IV REPORT
+
+18.
+Supervisors confirmed that, according to stress tests, capital buffers are sufficient,
+while liquidity provision should be improved (AN 5). Under a prolonged recession scenario
+for 2012–15, banks overall remain above the current minimum capital requirement. Nevertheless,
+profitability would suffer gravely and the Tier 1 ratio decline by more than 4 percentage points, with
+one of the seven largest banks falling below
+Finland: Breakdown of Tier 1 Capital Change
+minimum requirements. Further, the liquidity
+Under Adverse Scenario, 2011-15
+coverage ratio would be insufficient in the
+(In percent of risk-weighted assets)
+transition to Basel III, raising the risk that banks
+2011 2013 2015
+may have to rely on emergency liquidity
+Tier 1 capital ratio
+13.6
+12.0
+9.5
+assistance. Moreover, the net stable funding
+Change in Tier 1 capital ratio from 2011
+-1.5
+-4.0
+Of which:
+ratio would not meet the corresponding
+Change in capital 1/
+-0.2
+-1.8
+requirement for some banks. The increase in
+Change in assets 1/
+-4.0
+-4.5
+Change
+in
+risks
+1/
+2.6
+2.3
+unemployment and simultaneous drop in real
+Sources: Finnish authorities and Fund staff calculations.
+estate prices assumed in the stress scenario
+1/ Increase(+)/decrease(-).
+would also significantly impact NPL ratios.
+Finland: Aggregate Stress Test Results, 2011-15
+Baseline
+
+Adverse scenario
+
+2011
+
+2012
+
+2013
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+Change
+(2011-15)
+
+Total income (percent change from previous year) 1/
+
+3.0
+
+4.0
+
+6.0
+
+3.0
+
+-17.5
+
+-3.5
+
+-21.6
+
+-5.1
+
+-47.9
+
+Profitability (operating profit after taxes, percent of own funds, RoE)
+
+8.4
+
+8.2
+
+8.8
+
+8.4
+
+1.4
+
+-1.7
+
+-9.1
+
+-8.5
+
+-16.9
+
+Tier 1 capital (percent of risk-weighted assets)
+
+13.6
+
+12.7
+
+12.8
+
+13.6
+
+12.6
+
+12.0
+
+10.7
+
+9.5
+
+-4.0
+
+Tier 1+2 capital (percent of risk-weighted assets)
+
+14.2
+
+13.7
+
+13.8
+
+14.2
+
+13.1
+
+12.4
+
+10.9
+
+9.6
+
+-4.6
+
+147.8
+
+162.3
+
+167.3
+
+147.8
+
+159.3
+
+164.1
+
+169.0
+
+174.1
+
+17.8
+
+Memorandum item:
+Risk-weighted assets (billion euros) 2/
+Sources: Bank of Finland, FIN-FSA, and Fund staff calculations.
+1/ Change (2011-15) computed as the sum of the 2012-15 growth rates.
+2/ Change (2011-15) denotes the percentage change over the period.
+
+19.
+The authorities concurred on the need for preemptive action to mitigate the
+considerable risk posed by potential interruptions of bank funding from abroad. A renewed
+worsening of the EA crisis could hamper long-term wholesale funding and exacerbate vulnerabilities
+posed by large international groups. Hence, the mission argued that stepped-up efforts are needed
+to ensure preparedness to prevent or alleviate potential disruptions in cross-border flows, by
+designing contingency plans (encompassing burden-sharing agreements) with home authorities, the
+European Banking Authority, and the European Central Bank, including clear delineation of
+responsibilities of each institution.
+
+Other Micro Supervision and Regulation of Financial Institutions
+20.
+Though cross-border banking activities have received increased attention, supervisors
+recognized that additional steps would be useful. Several memoranda of understanding
+(MoUs)—in line with best international practice—have been signed with foreign (mainly Nordic and
+Baltic) supervisors and supervisory colleges have been active. Nevertheless, the authorities noted
+that MoUs are not binding, which hampers enforcement actions. It would be helpful to strengthen
+their legal status. At any rate, closer harmonization in application of international standards as well
+
+INTERNATIONAL MONETARY FUND
+
+17
+
+2012 ARTICLE IV REPORT
+
+FINLAND
+
+as common reporting systems and supervisory approaches would buttress effectiveness of crossborder supervision. Similarly, it was agreed that enhancing cross-border sharing of supervisory
+information could facilitate preparedness in host and home countries. This would require
+appropriate legal changes and would pave the way for the application of a more holistic toolkit for
+assessing risks from cross-border exposures. Finally, advances in cross-border crisis-handling and
+bank resolution would be crucial (¶25).
+21.
+Supervision of the insurance sector conforms to international standards but staff
+counseled speedier enactment of the new regulatory framework. The 2010 Financial Sector
+Assessment Program (FSAP) update recommended strengthening the analysis of the (consolidated)
+risk profile of complex financial groups by integrating procedures and practices of banking and
+insurance supervision (Table 8). This has been partly implemented and further work is ongoing. The
+new supervisory framework should be complemented by prompt introduction of supporting
+regulations, clarifying inter alia requirements on the level and structure of capital as well as eligible
+instruments for bank-insurers, a key step given the prevalence of the banc-assurance model in
+Finland.
+
+Macro-Prudential Supervision
+22.
+Heavy concentration in the banking sector implies high contagion risk from systemic
+banks and requires enhanced supervision. The mission reported that, according to bank
+contagion maps based on balance sheet inter-linkages, a few institutions act as liquidity hubs, thus,
+rendering them systemically crucial in the event
+Finland: Banking Sector Concentration, 19982010
+100
+0.5
+of a crisis. The authorities also informed that
+Share of 5 largest credit institutions in total assets (percent, RHS)
+FIN Herfindahl index
+Finnish subsidiaries have substantially increased
+NLD Herfindahl index
+90
+0.4
+FRA Herfindahl index
+short-term financing to parent banks in 2011 and
+80
+0.3
+derivative operations are increasingly being
+located within Finnish subsidiaries. Thus, officials
+70
+0.2
+accepted that nationally systemic banks should
+be subject to closer supervision and possibly
+60
+0.1
+more stringent prudential requirements, such as
+50
+0.0
+additional capital buffers, greater reliance on
+1998
+2000
+2002
+2004
+2006
+2008
+2010
+Sources: Bank of Finland, DataInsight, ECB Data Warehouse, Haver, IMF
+loss-absorbing capital instruments, higher
+Financial Soundness Indicators database, and Fund staff calculations.
+liquidity provisions and topped-up contributions
+to the Deposit Guarantee Fund.
+23.
+There was agreement that close monitoring of banks’ risk taking behavior is
+warranted, particularly in the current low interest rate environment. The mission noted that the
+high degree of variable-rate loans combined with low rates have made the private sector more
+vulnerable to a rapid rise in the interest rate. Further, the authorities were concerned that very low
+rates over a prolonged period may encourage more risk taking by banks to increase short-term
+
+18
+
+INTERNATIONAL MONETARY FUND
+
+FINLAND
+
+profitability, including by accelerating credit
+expansion, ultimately with an adverse impact on
+financial sector health. The mission also advised
+that protracted accommodative monetary
+conditions could in the long run fuel excessive
+credit growth and asset bubbles. In this
+connection, it noted that the estimated adverse
+impact of potential housing price shocks on
+household consumption and economic activity is
+sizable.
+
+2012 ARTICLE IV REPORT
+
+Credit Institutions' Interest Rate Margins, 200312
+7
+6
+5
+
+(Average lending minus average deposit rate)
+
+Euro area avg. margin with nonfinancial corporations
+Euro area avg. margin with households
+FIN avg. margin with nonfinancial corporations
+FIN avg. margin with households
+
+4
+3
+2
+1
+
+Average discrepancy 1/
+
+0
+Jan-03
+Jan-05
+Jan-07
+Jan-09
+Jan-11
+Sources: ECB and Fund staff calculations.
+1/ Average discrepancy is a simple average of the difference in margins
+between the euro area and Finland for long-term loans to nonfinancial
+corporations and households.
+
+24.
+Discussions concluded that macro-prudential management would benefit from
+strengthening limits to loan-to-value (LTV) ratios and other tools. Officials reported and staff
+welcomed: (i) plans to define national competencies for macro-prudential supervision; (ii) the indepth survey of vulnerabilities related to the housing and credit markets; (iii) publication of standard
+definitions to calculate the LTV ratio; and (iv) the prospective introduction of countercyclical capital
+buffers. While the authorities currently recommend a maximum LTV ratio of 90 percent, staff
+endorsed giving the Financial Supervisory Authority (FIN-FSA) authority to set binding LTV ceilings
+and recommended formulation of a plan to reduce gradually LTV ratios. Further, staff would support
+introduction of a national loan registry (NLR). Though the authorities generally agreed, they
+explained that large banks may resist the NLR as it could dent their oligopolistic position. In
+addition, the mission reiterated the desirability to limit further interest rate deductibility on
+mortgage loans.
+
+Crisis Resolution
+25.
+Officials concurred that crisis and bank resolution frameworks should also be
+reinforced. Supervisors noted that the Deposit Guarantee Scheme has increased available
+resources, with earlier and faster payouts in crisis conditions. Staff argued that contingency planning
+should be developed in cooperation with home country supervisors, to ensure coordination of
+interventions in parent banks and their subsidiaries in case of crisis, in particular with ex-ante
+burden-sharing guidelines to limit the scope for contagion from abroad. Regarding bank resolution,
+staff shared the authorities’ preference for a common bank-resolution framework at the EU level.
+The authorities concurred that, if progress at the EU-level lags, it would be beneficial to formulate
+proactively national or regional resolution frameworks.
+
+D. Fiscal Policy
+Short-Term Fiscal Policy
+26.
+The short-term fiscal stance is neutral. The general government (GG) structural primary
+surplus is expected to stay virtually unchanged in 2012, consistent with a worsening of the headline
+GG deficit by slightly more the ¼ percent of GDP (to around 1 percent of GDP). With pension funds
+exhibiting a 2¾ percent of GDP surplus and local governments in a slight deficit, the central
+government (CG) headline deficit is estimated to weaken by a similar amount.
+
+INTERNATIONAL MONETARY FUND
+
+19
+
+2012 ARTICLE IV REPORT
+
+FINLAND
+
+27.
+
+Staff supported the authorities’ 2012 fiscal stance.
+
+
+
+The authorities’ budget for 2012 provides
+for virtually full operation of automatic
+stabilizers, leading to an increase in the
+headline deficit, thereby supporting
+domestic demand. This is desirable,
+because the outlook for near-term growth
+is weak and the output gap is still sizable
+(at least based on the production function
+approach, used also by the European
+Commission and the authorities). On the
+other hand, the long-term fiscal
+sustainability gap is also considerable (¶31),
+owing to the impact of population aging on
+public expenditures. This remains true even
+though gross public debt, at below
+50 percent of GDP in 2011, is comparatively
+low and GG net financial assets are positive.
+Thus, staff concurred that a broadly
+neutral 2012 fiscal policy is appropriate,
+avoiding pro-cyclical withdrawal of support
+to the economy while preventing damage
+to long-term sustainability prospects.
+
+
+
+20
+
+Finland: Monetary Conditions Index, 200011 1/
+(Percentage point contribution to year-on-year real GDP growth)
+4
+
+12
+
+3
+
+9
+
+2
+
+6
+
+1
+
+3
+
+0
+
+0
+
+-1
+
+-3
+
+-2
+
+-6
+
+LIBOR
+REER
+Real GDP growth (percent, RHS)
+
+-3
+-4
+
+-9
+-12
+
+2000 2001 2002 2003 2005 2006 2007 2008 2010 2011
+Source: Fund staff calculations.
+1/ The Monetary Conditions Index is based on two subcomponents of the
+Financial Conditions Index (see AN 2).
+
+Finland: General Government Balances, 201115
+(Percent of potential GDP)
+3
+2
+1
+0
+-1
+-2
+
+Output gap
+Headline (percent of GDP)
+Structural
+Structural primary 1/
+Primary balance 1/
+
+-3
+-4
+-5
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+Sources: DataInsight, Finnish Ministry of Finance, Statistics Finland, and Fund staff
+calculations.
+1/ Adjusted for interest expenditure.
+
+At the same time, it was not disputed that
+Selected Countries: Maturing Debt, 2012
+(Billion euros. Maturing debt as of January 18, 2012)
+16
+structural fiscal relaxation in 2012 ex ante
+Denmark
+14
+Finland
+may be excessive. First, considerable
+Norway
+12
+uncertainty surrounds estimates of
+Sweden
+10
+potential output, with the multivariate
+8
+approach, for example, suggesting a very
+6
+small output gap, if any. Hence, on
+4
+balance, the evidence from the output gap
+2
+appears sufficient to justify allowing
+0
+Jan-12
+Mar-12
+May-12
+Jul-12
+Sep-12
+Nov-12
+automatic stabilizers to operate but not
+Sources: Bloomberg LP and Fund staff calculations.
+enough to support initiating discretionary
+stimulus. Second, monetary conditions in Finland appear to be quite expansionary, thus, also
+providing considerable support to economic activity. Third, Finland is a small, very open
+economy; hence fiscal stimulus tends to dissipate abroad.
+
+INTERNATIONAL MONETARY FUND
+
+FINLAND 2012 ARTICLE IV REPORT
+
+Finland: Evolution of Fiscal Position
+(Percent of GDP, unless otherwise indicated)
+2010
+
+2011
+
+2012
+2013
+2014
+2015
+Staff 1/ Auth. Staff 1/ Auth. Staff 1/ Auth. Staff 1/ Auth.
+
+General government revenue
+General government expenditure
+General government balance
+
+52.7
+55.5
+-2.8
+
+53.2
+54.0
+-0.8
+
+53.3
+54.4
+-1.1
+
+53.3
+54.4
+-1.1
+
+53.9
+54.5
+-0.6
+
+53.9
+54.4
+-0.5
+
+54.1
+54.1
+0.1
+
+54.1
+54.2
+-0.1
+
+54.2
+54.0
+0.2
+
+54.2
+54.2
+0.0
+
+Central government balance (baseline)
+Central government balance (government program target scenario)
+
+-5.6
+-5.6
+
+-3.1
+-3.1
+
+-3.4
+-3.4
+
+-3.4
+…
+
+-2.6
+-2.6
+
+-2.5
+…
+
+-1.9
+-1.6
+
+-2.0
+…
+
+-1.7
+-1.0
+
+-1.9
+…
+
+General government primary balance 3/
+GG structural balance 2/
+GG structural primary balance 2/ 3/
+Discretionary measures 2/ 4/
+GG structural primary balance, excluding discretionary measures 2/ 3/
+
+-1.5
+-0.1
+1.2
+…
+…
+
+0.6
+0.9
+2.3
+…
+…
+
+0.2
+1.0
+2.3
+0.0
+2.3
+
+0.2
+…
+…
+…
+…
+
+0.7
+1.3
+2.5
+0.9
+1.6
+
+0.8
+…
+…
+…
+…
+
+1.5
+1.1
+2.5
+1.6
+0.9
+
+1.3
+…
+…
+…
+…
+
+1.8
+0.8
+2.4
+2.2
+0.2
+
+1.6
+…
+…
+…
+…
+
+GG structural balance (government program target scenario) 2/
+GG structural primary balance (government program target scenario) 2/
+
+-0.1
+1.2
+
+0.9
+2.3
+
+1.0
+2.3
+
+…
+…
+
+1.3
+2.5
+
+…
+…
+
+1.4
+2.8
+
+…
+…
+
+1.6
+3.1
+
+…
+…
+
+4.2
+…
+…
+
+6.6
+0.6
+2.0
+
+2.5
+…
+…
+
+3.6
+0.4
+1.7
+
+4.0
+…
+…
+
+4.0
+0.8
+2.1
+
+4.9
+…
+…
+
+4.4
+0.9
+2.3
+
+4.2
+…
+…
+
+4.1
+0.7
+2.2
+
+Memorandum items:
+Nominal GDP growth (in percent)
+Authorities' structural balance
+Authorities' structural primary balance
+
+Sources: Ministry of Finance, 2012 Stability Program, and Fund staff calculations.
+1/ Staff projections are based on the authorities' announced measures, but staff's growth and output gap assumptions. The government program
+target scenario includes additional measures, as deemed necessary by staff, to reach the 2015 central government 1 percent of GDP deficit target.
+2/ Percent of potential GDP.
+3/ Excluding interest expenditure.
+4/ 5 billion (2015 level, about 2.2 percent of GDP) in adjustment measures during the program period. Distributed as 40 percent taking effect by
+2013, 70 percent by 2014, and 100 percent by 2015.
+
+Medium-Term Fiscal Policy
+28.
+The authorities pursue substantial fiscal adjustment through 2015, but measures
+specified so far fall short of the target. The government program aims at setting the CG
+debt-to-GDP ratio on a declining path and reducing the CG deficit from around 3 to 1 percent of
+GDP between 2011 and 2015 (the end of the government’s term).2 However, under current policies
+and macroeconomic assumptions, staff expects the CG deficit to stay above 1½ percent of GDP
+in 2015, broadly in line with the Ministry of Finance projections. At the same time, as lower growth
+has permanent effects on potential output and aging costs mount, the GG structural primary
+balance fails to improve markedly over the medium term. Gross public debt is projected at slightly
+more than 50 percent of GDP in 2015, hence rollover risks are limited. The retrenchment is equally
+divided between revenue and expenditure, though some measures are still to be properly defined.
+For example, the government program also includes generic steps such as shrinking the grey
+economy. The authorities agreed that current measures may prove insufficient and will review
+annually progress toward meeting the deficit and debt targets, identifying additional measures if
+needed.
+
+2
+
+The government program target scenario.
+
+INTERNATIONAL MONETARY FUND
+
+21
+
+2012 ARTICLE IV REPORT
+
+FINLAND
+
+Finland: Central Government Consolidation Measures, Net Cumulative Effect by 2015
+Expenditure
+(-) Cut central government transfers to local governments.
+(-) Cut defence spending and materials procurement.
+(-) Public administration ICT reform.
+(-) Freeze University Index adjustment.
+(-) Cut expenditure for reimbursement of prescription-only medicines under statutory health insurance.
+(-) Cut business subsidies.
+(-) Other expenditure cuts, net.
+TOTAL, net
+Revenue
+(+) Increase excise duties on alcohol, tobacco, sweets, soft drinks, and energy.
+(+) Increase all VAT rates by 1 percentage point (standard rate to increase to 24 percent).
+(+) Vehicle taxation.
+(-) Reduce corporate income tax rate from 26 percent to 24.5 percent.
+(+) Freeze thresholds for earned income and investment income taxes.
+(+) Other revenue measures, net.
+TOTAL, net
+
+EUR billion 1/
+-1.1
+-0.2
+-0.1
+-0.1
+-0.1
+-0.1
+-0.5
+-2.2
+0.5
+0.9
+0.2
+-0.5
+0.8
+0.6
+2.5
+
+Sources: Ministry of Finance; Programme of the Finnish Government , Prime Minister's Office, Finland; Stability
+Programme for Finland 2012 , Ministry of Finance; Revised Central Government Spending Limits 2012-15 , Ministry of
+Finance; Central Government Spending Limits 2013-16 , Ministry of Finance; Framework Agreement (October, 2011),
+Central Labour Market Organisations of Finland.
+1/ Ministry of Finance estimates.
+
+29.
+The authorities’ consolidation plan is apt, given long-term fiscal sustainability
+challenges. Fiscal policy in the medium-run must balance the conflicting objectives of supporting
+growth and making progress toward closing the sustainability gap (AN 6). Staff argued that a
+gradual structural adjustment, about ½ percent of GDP per annum, would strike an appropriate
+balance between output stabilization and fiscal sustainability. It would close the sustainability gap in
+10 years with growth sufficient to eliminate the output gap over the medium term. The authorities’
+plans through 2015 are broadly in line with such an adjustment path (though, as noted earlier, in the
+absence of additional measures, actual tightening will be lower). Nevertheless, some officials
+expressed concern that adjustment fatigue and the political cycle could jeopardize fiscal tightening,
+were it smoothed over 10 years.
+30.
+But discussions highlighted that it should be implemented flexibly to avoid harming
+growth.
+
+
+
+22
+
+With the renewed slowdown in economic activity, the mission stressed that the planned
+adjustment should be delayed if growth were to falter significantly below potential. At least
+automatic stabilizers should be allowed to operate fully, and further structural consolidation
+postponed until a recovery has taken firm hold. Indeed, negative effects on demand from
+budget consolidation are likely to be higher when monetary policy has very limited ability to
+accommodate budget tightening as is currently the case. In addition, simultaneous fiscal
+consolidation in several European countries could have a larger-than-expected
+contractionary impact.
+
+INTERNATIONAL MONETARY FUND
+
+FINLAND 2012 ARTICLE IV REPORT
+
+
+
+The need for immediate fiscal consolidation is lessened by the fact that Finnish authorities
+have a strong track record in fiscal discipline. As noted, rollover risks are marginal. Despite
+the sustainability gap, financial markets still regard Finland as low risk. Moreover, the GG
+structural balance is expected to remain above the limit agreed at the European level over
+the medium-term without measures beyond those already identified.
+
+
+
+These considerations suggest that flexibility in the implementation of the planned fiscal
+adjustment is both possible and desirable. The authorities generally agreed, but noted that,
+to warrant relaxation of their plan, the shock to the recovery would have to be considerable.
+
+
+
+The authorities and staff also considered that it might be preferable to substitute part of the
+headline tightening with structural measures that improve significantly fiscal sustainability,
+but only modestly impact the government balance and domestic demand in the short run.
+These include increasing the retirement age and boosting productivity in the public service
+system—the average effective retirement age was around 60 in 20073, and productivity in
+local governments has been on a declining trend for several years.
+
+Long-Term Fiscal Sustainability
+31.
+The long-term GG position is not yet fully sustainable, reflecting a rapidly aging
+population and the impact of the crisis. Specifically, staff estimates a sustainability gap of about
+4¼ percent of GDP. This is lower than the assessment at the time of the last consultation (6 percent
+of GDP) because of stronger-than-anticipated fiscal performance in 2010 and adjustment in 2011
+(AN 6). Nonetheless, with the onset of aging and
+Decomposing Pension Expenditure Projections, 201060
+2.5
+60
+the associated increase in health-care and longPension expenditure (percent of GDP)
+Dependency ratio (percent)
+Benefits ratio (percent)
+Inverse employment rate (RHS)
+Eligibility ratio (RHS)
+50
+term care costs, closing the gap requires action.
+2.0
+Absent corrective measures, public debt is
+40
+1.5
+projected to rise to over 220 percent of GDP
+30
+by 2060. Spreading uniformly the adjustment over
+1.0
+20
+a 10-year period, sustainability requires structural
+0.5
+measures totaling 4½ percent of GDP. On balance, 10
+as noted above, this would therefore imply an
+0.0
+0
+2010 2015 2020 2025 2030 2035 2040 2045 2050 2055 2060
+adjustment of about ½ percent per annum,
+Sources: DG ECFIN: The 2009 Ageing Report and Fund staff calculations.
+consistent with previous recommendations
+(Table 9, Figures 8–9).
+
+Measures to Achieve Sustainability
+32.
+With an already high revenue ratio, it was accepted that there is little scope for further
+increases in the tax burden. Revenue measures should therefore focus on a broadening of the tax
+base and a shift from labor taxation to consumption and property-based taxation. Consumption and
+3
+
+OECD Economic Surveys: Finland, 2010, Volume 2010/4, April.
+
+INTERNATIONAL MONETARY FUND
+
+23
+
+2012 ARTICLE IV REPORT
+
+FINLAND
+
+property taxes are generally less distortionary than income taxes. In this connection, the
+one percentage point increase in the standard VAT rate and the energy tax hike are steps in the
+right direction; but more should be done, including by reducing the number of items on reduced
+VAT rates. Property tax rates are low by international comparison and the authorities agreed that
+higher rates would provide municipalities with a more stable source of income, creating scope for
+reducing municipalities’ reliance on highly cyclical corporate taxes. Staff endorsed the authorities’
+plans to lower mortgage interest deductibility, which subsidizes home ownership and promotes
+indebtedness by households, potentially heightening vulnerabilities of the financial system.
+33.
+Therefore, expenditure measures will need to account for the majority of adjustment.
+With a rapidly aging population and associated increasing health care costs, priority should be given
+to measures that help restrain growth in demand for health- and long-term care, while improving
+efficiency in the provision of such services, as advocated by the OECD4 and contain local
+government spending growth. The generosity of the social and unemployment benefits system
+could also be moderated. For example, unemployment and disability pipelines to early retirement
+should be further restricted (Table 10). Tuition fees and more loans in lieu of student grants for
+tertiary education could also help generate some expenditure savings, but also, and more
+importantly, encourage faster graduation and entry into the work force.
+34.
+There was agreement that reform of the fiscal framework, especially for local
+governments (LG), could facilitate reaching sustainability. The authorities acknowledged that
+increased attention should be given to contain rapid expenditure growth in LG. This aim could be
+supported by moving toward expenditure ceilings for municipalities and by smoothing their revenue
+stream to avoid pro-cyclical spending peaks and troughs, thus strengthening long-term budget
+planning. Moreover, additional mergers of municipalities would pave the way for efficiency
+improvements. Nevertheless, officials remarked that constitutionally protected autonomy of LG
+complicated implementation of these steps, which required steady consensus-building among
+municipalities. As a result, LG reform has been postponed until at least 2013. Separately, staff argued
+that an independent fiscal council could analyze the macroeconomic framework to assess the
+realism of budgetary projections, together with a greater focus on risk analysis and the effects of
+potential downside scenarios (AN 7).
+
+4
+
+OECD Economic Surveys: Finland, 2012, February. Notably, substantial efficiencies could be gained by merging
+municipalities—which provide the bulk of health care services—into sufficiently large units, and rationalizing the
+inefficient parallel funding system for health care. Long-term home care should also be encouraged.
+
+24
+
+INTERNATIONAL MONETARY FUND
+
+FINLAND 2012 ARTICLE IV REPORT
+
+Finland: Fiscal Sustainability, 2011–60
+(Percent of GDP)
+6
+
+Primary Balance
+4
+2
+0
+-2
+
+Immediate full adjustment
+Plausible adjustment 1/
+No measures
+Delayed adjustment
+Optimal adjustment
+
+-4
+-6
+
+2011 2014 2017 2020 2023 2026 2029 2032 2035 2038 2041 2044 2047 2050 2053 2056 2059
+5
+
+Overall Balance
+
+0
+
+-5
+
+-10
+
+Immediate full adjustment
+Plausible adjustment 1/
+No measures
+Delayed adjustment
+Optimal adjustment
+
+-15
+
+-20
+
+2011 2014 2017 2020 2023 2026 2029 2032 2035 2038 2041 2044 2047 2050 2053 2056 2059
+250
+200
+150
+100
+
+Immediate full adjustment
+Plausible adjustment 1/
+No measures
+Delayed adjustment
+Optimal adjustment
+
+Public Debt 2/
+
+50
+0
+-50
+-100
+2011 2014 2017 2020 2023 2026 2029 2032 2035 2038 2041 2044 2047 2050 2053 2056 2059
+
+Sources: ECFIN: The 2009 Ageing Report and Fund staff calculations.
+1/ The plausible adjustment scenario is that of uniform adjustment over a 10-year period.
+2/ Negative public debt reflects the accumulation of assets.
+
+INTERNATIONAL MONETARY FUND
+
+25
+
+2012 ARTICLE IV REPORT
+
+FINLAND
+
+E. Structural Reforms
+
+U.S.
+
+UK
+
+Sweden
+
+Austria
+
+Spain
+
+Denmark
+
+Ireland
+
+France
+
+Netherlands
+
+Belgium
+
+Germany
+
+Finland
+
+35.
+With population aging and an imminent decline of working age cohorts, there was
+consensus that actions are needed to increase labor supply. Studies, including by the OECD and
+IMF5, find a significant positive long-term effect of labor and product market reforms on total factor
+productivity, growth, and employment. The authorities noted that they have raised the effective
+Income-Replacement Benefit Recipiency Rates 1/
+retirement age in recent years and the latest
+(Percent of population aged 15-64)
+16
+agreement with social partners increases it by four
+Unemployment
+14
+Incapacity (sickness and disability)
+months, while further measures are to be
+12
+10
+implemented by 2017. Also, labor market policies
+8
+6
+and benefits have been adjusted to hasten
+4
+2
+activation of the unemployed, while a tax
+0
+deduction is planned to encourage work training
+programs. Staff welcomed such actions, while
+stressing that these efforts to boost employment
+Sources: Duell, N., D. Grubb, and S. Singh (2009), "Activation Policies in
+Finland," OECD Social, Employment and Migration Working Papers, No. 98,
+could also be supported by further lowering the
+OECD Publishing and Fund staff calculations.
+1/ Data are from 2004 and should be considered approximate.
+taxation of labor.
+36.
+Similarly, re-orienting R&D expenditures and strengthening competition in the service
+sector would enhance productivity, and thus growth. The authorities acknowledged the results
+of a recent review by the OECD6 whereby R&D expenditure should be refocused on basic research
+with incentives adjusted to reward academic quality and are studying options in this area. Staff also
+observed that tuition fees and more reliance on loans rather than grants for students would improve
+the cost effectiveness of higher education. Additionally, the large productivity differential between
+manufacturing and services should be reduced by opening the service sector to more competition,
+particularly in wholesale and retail trade, not least by relaxing excessive municipal zoning
+restrictions. These efforts should be supported by strengthening resources and powers of the
+competition authority to enforce the new competition law of 2011. Opening the health care sector
+competition could also improve efficiency and help contain the buildup of aging pressures.
+
+Model-Based Average Impacts of Structural Reforms on Growth in the OECD 1/
+Policy
+
+Definition of shock
+
+Effect
+
+Statutory retirement age
+
++ 1 year
+
++ 0.3 percent GDP per capita
+
+Unemployment benefits, replacement rate
+
+- 10 percentage points
+
+Business R&D
+
++ 1 percent
+
++ 0.13 percent TFP growth
+
+Public R&D
+
++ 1 percent
+
++ 0.17 percent TFP growth
+
++ 3 percent GDP per capita
+
+Source: OECD.
+1/ Assessment of the impact of structural reforms on growth or GDP should be taken with great caution.
+5
+
+OECD Economic Surveys: Euro Area, 2012, and Barkbu, Rahman, Valdes, and staff team, ”Fostering Growth in Europe
+Now,” IMF Staff Discussion Note No. 12/07.
+6
+
+OECD Economic Surveys: Finland, 2012, February.
+
+26
+
+INTERNATIONAL MONETARY FUND
+
+FINLAND 2012 ARTICLE IV REPORT
+
+37.
+Further municipality reform would also enhance public sector efficiency. Staff noted
+that such reform (¶34), together with more systematic benchmarking, could generate productivity
+gains at the LG level. This would be particularly important for the health-care sector, which is
+primarily within the purview of municipalities.
+
+STAFF APPRAISAL
+38.
+Despite strong foundations and policies, Finland’s near-term outlook is threatened by
+intensifying external strains. As a result of adverse spillovers from the marked slowdown of
+activity in the EA, GDP growth is to decelerate markedly in 2012. Accordingly, output will fall further
+below potential in 2012 and inflation will moderate. Though activity should start to recover late
+in 2012, volatile financial market conditions and to a lesser extent structural fiscal consolidation (also
+in trading partners) will remain a hindrance. Competitiveness, albeit still adequate, has worsened
+significantly in recent years. Risks to the outlook—primarily from external sources—are tilted to the
+downside, with heightened uncertainties. The supply potential of the economy may have been
+significantly curbed by the crisis and the recent deterioration in competitiveness, aggravating the
+problems posed by aging, not least to fiscal sustainability.
+39.
+Bank capital and, above all, liquidity buffers should be gradually enhanced. Though the
+Finnish system is well capitalized and liquid, progress is needed in some institutions with respect to
+the leverage ratio and liquidity to meet the prospective Basel III requirements. Moreover, volatile
+financial market conditions suggest that strengthening both capital and liquidity buffers would be
+prudent. To ease concerns posed by marked reliance on wholesale funding, high concentration, and
+dependence on foreign parent banks, upping liquidity cushions is particularly important. These aims
+should be pursued in stages over the medium term to prevent deleveraging.
+40.
+Further steps toward strengthening supervision of nationally systemic banks and
+reinforcement of macro-prudential tools would be desirable. Contagion risk from systemic
+banks acting as liquidity hubs is exacerbated by heavy concentration in the Finnish banking system.
+Hence closer supervision and possibly more stringent prudential requirements for nationally
+systemic banks, such as additional capital buffers, higher liquidity provisions, and topped-up
+contributions to the Deposit Guarantee Fund would be appropriate. Supervisors should scrutinize
+carefully bank risk-taking behavior, in light of incentives to seek higher short-term profits, not least
+by pushing on credit growth, in an environment of low interest margins, given that most loans are
+based on floating rates and tied to Euribor rates, currently at historical lows. Allocation of the
+macro-prudential responsibility to the FIN-FSA in cooperation with other authorities as well as
+publication of standard definitions to calculate the loan-to-value ratio (LTV) and the planned
+introduction of countercyclical capital buffers are welcome. These steps should be complemented by
+granting the FIN-FSA authority to make LTV ceilings binding and implementing a national loan
+registry to guard against excessive borrowing.
+41.
+There is scope to buttress further the effectiveness of cross-country supervision and
+crisis resolution mechanisms. MoUs are not binding and consideration should be given to
+
+INTERNATIONAL MONETARY FUND
+
+27
+
+2012 ARTICLE IV REPORT
+
+FINLAND
+
+strengthen their legal status. Mutual sharing of supervisory information could facilitate preparedness
+in host and home countries and should be enhanced. Joint contingency planning with other national
+authorities for cross-border resolution should be advanced with ex-ante burden-sharing guidelines
+defined to limit contagion. A common bank-resolution framework at the EU level would be
+preferable, but national or regional plans are advisable in the interim.
+42.
+The fiscal stance planned through 2015 is appropriate, but should be implemented
+flexibly. Fiscal policy must balance the conflicting objectives of supporting growth and making
+progress toward closing the sustainability gap, arising from the impact of population aging on
+public expenditures. Thus, the broadly neutral fiscal policy for 2012 and the gradual structural
+tightening envisaged for 2013–2015 are appropriate, avoiding pro-cyclical withdrawal of support to
+the economy while beginning progress toward long-term sustainability. Specifically, this adjustment
+path eliminates the sustainability gap in 10 years, and allows for a steady reduction and eventual
+disappearance of the output gap by 2017. Given the unusual downside risks surrounding the
+recovery, the authorities should nevertheless stand ready to loosen budget policy if growth
+underperforms considerably, in particular letting automatic stabilizers operate fully and delaying
+further structural consolidation until a recovery has taken firm hold.
+43.
+Measures that directly reduce the impact of aging on public expenditures or broaden
+the tax base should form a key plank of medium-term adjustment efforts. These include steps
+to mitigate the expected rise in health- and long-term care costs and further tighten unemployment
+and disability pipelines to early retirement as well as increases in the statutory minimum and
+maximum retirement ages. With an already high revenue ratio, there is little scope for further
+increases in the tax burden. Hence, revenue measures should focus on broadening the tax base, and
+shifting from labor taxation to less distortionary consumption- and property-based taxation,
+especially for LG, not least by reducing special treatments under the VAT and mortgage interest
+deductibility.
+44.
+Improvements to the fiscal framework, notably for LG, would help achieve
+sustainability. Expenditure ceilings for municipalities could contribute to slow down increases in
+spending in LG. Reduced dependence on highly cyclical revenue sources would buttress long-term
+budget planning. Additional mergers of municipalities would pave the way for economies of scale.
+45.
+To maintain potential growth amid the looming decline of working age cohorts and
+aging, policies should encourage greater labor force participation and productivity. Apart from
+raising statutory retirement ages, overhaul of tax and benefit systems ought to curtail disincentives
+to enter or stay in the labor market. Moreover, public R&D expenditures should be refocused on
+basic research rather than direct support to business R&D. Tuition fees and more reliance on loans
+rather than grants for students would likely improve higher education efficiency. Additionally, the
+large productivity differential between manufacturing and services should be reduced by opening
+the service sector to more competition. Similarly, opening the health care sector to competition
+could improve efficiency and help contain the buildup of aging pressures.
+46.
+It is recommended that the next Article IV consultation be held on the current
+24-month cycle.
+
+28
+
+INTERNATIONAL MONETARY FUND
+
+FINLAND
+
+2012 ARTICLE IV REPORT
+
+Figure 1. Finland: Real Sector Developments, 2007–12
+15
+
+...while consumer demand is holding up well.
+
+Year-on-year growth is weakening...
+120
+
+Contribution to Real GDP Growth
+(Percentage points, not seasonally adjusted)
+
+118
+
+10
+
+35
+
+Retail Sales and New Car Registrations
+(Volume index, seasonally adjusted, 2005 = 100)
+
+30
+
+116
+25
+
+114
+
+5
+
+112
+0
+
+20
+
+110
+15
+
+108
+-5
+
+106
+Public consumption
+Private consumption
+Gross capital formation
+Net Exports
+Real GDP growth 1/
+
+-10
+
+-15
+2008 Q1
+
+2009 Q1
+
+2010 Q1
+
+2011 Q1
+
+2012 Q1
+
+104
+
+150
+
+Retail trade (LHS)
+New car registrations (1000 units, RHS)
+
+100
+Jan-07
+
+0
+Jan-08
+
+Jan-09
+
+Jan-10
+
+Jan-11
+
+Jan-12
+
+...as producer and construction conf idence
+retain a negative outlook.
+40
+
+Industrial Production and New Orders
+(Seasonally adjusted, 2005=100)
+
+Confidence Indicators
+(Seasonally adjusted, percent balance) 2/
+
+20
+
+Industrial production
+
+140
+
+5
+
+102
+
+Industrial production is anemic...
+160
+
+10
+
+Industrial New Orders: Manufacturing
+
+130
+
+0
+
+120
+110
+
+-20
+
+100
+-40
+
+90
+80
+
+-60
+
+Consumer confidence
+
+70
+
+Construction confidence
+
+60
+Jan-07
+
+Jan-08
+
+Jan-09
+
+Jan-10
+
+Jan-11
+
+Jan-12
+
+-80
+Jan-07
+
+Producer confidence
+Jan-08
+
+Jan-09
+
+Jan-10
+
+Jan-11
+
+Jan-12
+
+Sources: Eurostat, Finnish Authorities, Haver Analytics, and Fund staff calculations.
+1/ Percent.
+2/ Percent balance indicates the percentage of respondents reporting an increase minus the percentage
+of respondents reporting a decrease.
+
+INTERNATIONAL MONETARY FUND
+
+29
+
+2012 ARTICLE IV REPORT
+
+FINLAND
+
+Figure 2. Finland: Labor Market and Inflation, 2007–12
+Employment growth is weakening...
+20
+15
+
+...while wage growth remains f lat.
+8
+
+Employment and Total Hours Worked
+(Percent change, year on year)
+
+6
+
+10
+
+4
+
+5
+
+2
+
+0
+
+0
+
+-5
+
+-2
+
+60
+50
+
+15
+
+Job Vacancies and Earnings
+(Percent change, year on year, nsa)
+
+40
+
+10
+
+30
+20
+
+5
+
+10
+0
+
+0
+
+-10
+-20
+
+-10
+
+-4
+
+-15
+
+-6
+
+Total hours worked
+
+-20
+Jan-07
+
+Employment (RHS)
+Jan-08
+
+Jan-09
+
+-8
+Jan-10
+
+Jan-11
+
+Jan-12
+
+The unemployment rate is perf orming better
+than in the euro area as a whole...
+14
+
+3.0
+
+Harmonized Unemployment Rate
+(Percent, seasonally adjusted)
+Finland: Long-term unemployment rate, nsa (RHS)
+
+12
+
+Finland
+
+-30
+-40
+
+-10
+
+-50
+
+Job vacancies
+
+-60
+Jan-07
+
+Jan-08
+
+6
+
+Wage and salary index: Industry less construction
+Jan-09
+
+Jan-10
+
+Jan-11
+
+Jan-12
+
+...and year-on-year headline inf lation has
+come down close to the euro area average.
+Harmonized Consumer Price Index
+(Percent change, year on year, nsa)
+
+5
+2.5
+4
+
+Euro area
+
+10
+
+-5
+
+2.0
+
+3
+
+8
+1.5
+
+2
+
+6
+1.0
+4
+
+1
+0
+
+0.5
+
+2
+
+0
+Jan-07
+
+0.0
+Jan-08
+
+Jan-09
+
+Jan-10
+
+Jan-11
+
+Jan-12
+
+-1
+-2
+Jan-07
+
+Finland HICP
+Finland core HICP 1/
+Euro area HICP
+Euro area, core HICP 1/
+Jan-08
+
+Jan-09
+
+Sources: Eurostat, Finnish Authorities, and Fund staff calculations.
+1/ Core inflation is defined as headline inflation excluding energy and seasonal food.
+
+30
+
+INTERNATIONAL MONETARY FUND
+
+Jan-10
+
+Jan-11
+
+Jan-12
+
+-15
+
+FINLAND 2012 ARTICLE IV REPORT
+
+Figure 3. Finland: Financial Sector, 1998–2011
+Capital to risk-weighted assets is above
+the regulatory minimum.
+
+The Finnish banking sector is highly
+concentrated relative to that of its peers.
+0.5
+
+Share of 5 largest credit institutions
+in total assets (percent, RHS)
+FIN Herfindahl index
+
+0.4
+
+100
+
+85
+
+NLD Herfindahl index
+
+(Percent)
+Regulatory capital to risk-weighted assets
+
+95
+90
+
+FRA Herfindahl index
+
+18
+
+Basel II regulatory minimum
+
+16
+
+14
+
+80
+
+0.3
+
+75
+
+12
+
+70
+
+0.2
+
+65
+60
+
+0.1
+
+10
+
+8
+
+55
+50
+
+0
+1998
+
+2001
+
+2004
+
+2007
+
+6
+2007Q4
+
+2010
+
+While the leverage ratio is also within
+European standards, prof itability is declining...
+20
+
+Leverage ratio (RoA relative to RoE)
+
+18
+
+Basel III threshold (percent)
+
+16
+
+Return on assets (RoA, percent) (RHS)
+
+Return on equity (RoE, percent)
+
+2009Q4
+
+2010Q4
+
+...and credit institutions' interest rate margins
+are below the euro area average.
+1.6
+
+7
+
+1.4
+
+6
+
+1.2
+14
+
+(Percentage points)
+
+5
+
+1
+
+12
+
+2008Q4
+
+Euro area avg. margin with nonfinancial
+corporations
+Euro area avg. margin with households
+FIN avg. margin with nonfinancial
+corporations
+FIN avg. margin with households
+
+4
+0.8
+
+10
+
+3
+
+8
+
+0.6
+
+6
+0.4
+
+2
+
+4
+2
+0
+2007Q4
+
+2008Q4
+
+2009Q4
+
+2010Q4
+
+2011Q4
+
+0.2
+
+1
+
+0
+
+0
+Jan-03
+
+Average discrepancy 1/
+
+Jan-05
+
+Jan-07
+
+Jan-09
+
+Jan-11
+
+Sources: Bank of Finland, DataInsight, ECB Data Warehouse, FSI database, Haver Analytics, and Fund staff
+calculations.
+1/ The average discrepancy is a simple average of the difference in margins in the euro area and Finland
+for long-term loans to nonfinancial corporations and households.
+
+INTERNATIONAL MONETARY FUND
+
+31
+
+2012 ARTICLE IV REPORT
+
+FINLAND
+
+Figure 4. Finland and Selected Countries: Financial Position, 2004–11
+Finland is a net contributor to the liquidity of the
+Eurosystem, mainly due to Target II balances...
+
+...and Finland's net claims on the Eurosystem
+have increased even in relative terms.
+180
+
+800
+
+(Billions of euros)
+
+600
+
+160
+
+400
+
+140
+
+200
+
+120
+
+0
+
+100
+
+-200
+
+80
+
+-400
+-600
+-800
+-1000
+Jan-04
+
+Austria
+
+Benelux
+
+France
+
+Germany
+
+Greece
+
+Ireland
+
+Italy
+
+Portugal
+
+Spain
+
+Finland
+
+60
+40
+20
+
+Aggregate 1/
+Jan-06
+
+Jan-08
+
+Jan-10
+
+Jan-12
+
+0
+Jan-05
+
+Meanwhile, the Bank of Finland's balance sheet has
+weakened, with larger non-euro area exposure...
+40
+
+35
+
+(Percent of quarterly GDP)
+
+Bank of Finland's Balance Sheet
+(Percent)
+Capital/total liabilities
+
+Jan-07
+
+Jan-09
+
+Jan-11
+
+... and the external position of Finnish banks has
+gradually deteriorated.
+250
+
+0
+
+200
+
+-50
+
+150
+
+-100
+
+Claims on non-euro area residents 2/
+Polynomial trend
+
+30
+
+25
+
+20
+100
+
+15
+
+Net external position (RHS)
+
+-150
+
+Assets
+Liabilities
+
+10
+
+Polynomial trend
+
+50
+
+-200
+
+5
+
+0
+Jan-05
+
+International investment position
+(Percent of quarterly GDP)
+
+Jan-07
+
+Jan-09
+
+Jan-11
+
+0
+Jan-06
+
+Jan-08
+
+Sources: Bank of Finland, European Central Bank, and Fund staff calculations.
+1/ Non-weighted net position of the eurosystem.
+2/ Percent of quarterly GDP.
+
+32
+
+INTERNATIONAL MONETARY FUND
+
+Jan-10
+
+-250
+
+FINLAND 2012 ARTICLE IV REPORT
+
+Figure 5. Finland and Selected Countries: Fiscal Sector, 2006–12
+Finland's f iscal balance is relatively high in
+international comparison...
+8
+6
+
+...due to a surplus in employment pension f unds,
+which are part of the general government.
+8
+
+General Government Net lending/borrowing
+(Percent of GDP)
+
+6
+
+4
+
+4
+
+2
+
+2
+
+0
+
+0
+
+-2
+
+-2
+
+-4
+
+Finland
+
+-4
+General government
+
+Sweden
+-6
+-8
+-10
+
+-6
+
+Denmark
+Netherlands
+Germany
+2007
+
+Central government
+Local government
+
+-8
+
+France
+
+2006
+
+Finland: Fiscal Balances
+(Percent of GDP)
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+-10
+
+Finland: Fiscal Balances and the Output Gap
+(Percent of potential GDP)
+Output gap
+
+6
+
+Headline 1/
+
+Other social security funds
+2006
+
+But both headline and structural balances have
+worsened markedly...
+8
+
+Employment pension funds
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+...and though it remains below 60 percent of
+GDP, gross debt has increased sharply.
+55
+
+50
+
+Finland: General Government Gross Debt (EMU debt)
+(Percent of GDP in the current and three previous
+quarters)
+
+Structural
+Structural primary 2/
+
+4
+
+Primary balance 2/
+
+2
+
+45
+
+40
+
+0
+
+35
+
+-2
+30
+-4
+25
+
+-6
+-8
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+20
+2007Q1
+
+2008Q1
+
+2009Q1
+
+2010Q1
+
+2011Q1
+
+Sources: DataInsight, Finnish Ministry of Finance, Statistics Finland, and Fund staff calculations.
+1/ Percent of GDP.
+2/ Adjusted for interest expenditure.
+
+INTERNATIONAL MONETARY FUND
+
+33
+
+2012 ARTICLE IV REPORT
+
+FINLAND
+
+Figure 6. Finland: External Developments, 2007–11
+Real ef f ective exchanges rates have
+generally appreciated during 2011...
+130
+
+14
+
+Effective Exchange Rates 1/
+(1999 = 100)
+
+12
+
+...and the current account recorded a
+def icit f or the f irst time since 1993.
+Current Account Balance
+(Percent of GDP)
+
+Current account
+Goods balance
+Services balance
+
+120
+10
+8
+
+110
+
+6
+100
+4
+90
+
+80
+
+70
+1994Q1
+
+1.4
+
+2
+
+NEER
+HICP (REER)
+ULC-total economy (REER)
+UWC-manufacturing (REER)
+GDP deflator (REER)
+Export deflator (REER)
+Relative profitability
+
+1998Q1
+
+2002Q1
+
+0
+-2
+-4
+
+2006Q1
+
+1996
+
+2010Q1
+
+Meanwhile, export shares have continued
+their downward trend...
+Finland Export Shares 2/
+(Percent)
+
+1998
+
+2000
+
+2002
+
+2004
+
+2006
+
+2008
+
+2010
+
+...as exports of electronics suf fer.
+1.8
+
+1.2
+
+1.6
+
+1.0
+
+1.4
+
+0.8
+
+1.2
+
+0.6
+
+1.0
+
+0.4
+
+0.8
+
+Exports of Electronics
+(Billions of euros)
+
+0.6
+
+0.2
+World
+
+EU
+
+0.0
+1999
+
+2002
+
+2005
+
+2008
+
+2011
+
+0.4
+Jan-00
+
+Jan-02
+
+Jan-04
+
+Jan-06
+
+Jan-08
+
+Jan-10
+
+Jan-12
+
+Sources: European Commission, DataInsight, Haver Analytics, International Financial Statistics, and Fund staff
+calculations.
+1/ Based on data for 36 industrial countries.
+2/ Computed as Finland's exports to the World and the EU in percent of total World and EU imports from the
+World, respectively.
+
+34
+
+INTERNATIONAL MONETARY FUND
+
+FINLAND 2012 ARTICLE IV REPORT
+
+Figure 7. Finland: External Debt Sustainability: Bound Tests 1/ 2/
+(External debt in percent of GDP)
+
+250
+
+Interest rate shock (in percent)
+
+Baseline and historical scenarios
+
+300
+
+Gross financing
+need under
+baseline (rhs)
+
+300 350
+
+273
+
+Baseline
+
+250 300
+Historical 218
+
+200
+
+200
+
+150
+
+150
+
+100
+
+100
+
+50
+
+50
+
+Baseline
+
+250
+
+i-rate
+shock
+
+200
+
+273
+264
+
+150
+
+0
+2007
+
+2009
+
+2011
+
+2013
+
+0
+2017
+
+2015
+
+100
+50
+0
+2007
+
+Growth shock (in percent per year)
+400
+
+400
+
+350
+
+Growth
+shock 289
+
+300
+250
+
+273
+
+Baseline
+
+200
+
+2009
+
+2011
+
+100
+50
+0
+2007
+
+2009
+
+2011
+
+300
+
+2015
+
+2017
+
+CA shock
+
+150
+
+273
+268
+
+2.0
+
+2.2
+
+0.1
+
+100
+
+Baseline:
+
+Scenario:
+
+Scenario:
+
+0.8
+
+Historical:
+
+1.9
+
+50
+
+Historical:
+
+2013
+
+2015
+
+2017
+
+0
+2007
+
+350
+
+350
+Combined
+shock
+
+250
+
+Baseline
+
+200
+
+280
+273
+
+2013
+
+2015
+
+2017
+
+Real depreciation shock 4/
+380
+
+30% depreciation
+
+Baseline
+
+273
+
+200
+
+100
+
+100
+
+50
+
+50
+2015
+
+2011
+
+250
+
+150
+
+2013
+
+2009
+
+4.7
+
+300
+
+150
+
+2011
+
+2013
+
+Baseline
+
+250
+
+400
+
+2009
+
+0.9
+
+Baseline:
+
+Combined shock 3/
+
+0
+2007
+
+1.1
+
+Historical:
+
+350
+
+400
+
+300
+
+0.9
+
+Non-interest current account shock
+(in percent of GDP)
+
+200
+
+150
+
+Baseline:
+Scenario:
+
+2017
+
+0
+2007
+
+2009
+
+2011
+
+2013
+
+2015
+
+2017
+
+Sources: International Monetary Fund: Country desk data, and Fund staff calculations.
+1/ Shaded areas represent actual data. Individual shocks are permanent one-half standard deviation
+shocks. Figures in the boxes represent average projections for the respective variables in the baseline
+and scenario being presented. Ten-year historical average for the variable is also shown.
+2/ For historical scenarios, the historical averages are calculated over the ten-year period, and the
+information is used to project debt dynamics five years ahead.
+3/ Permanent 1/4 standard deviation shocks applied to real interest rate, growth rate, and current
+account balance.
+4/ One-time real depreciation of 30 percent occurs in 2013.
+
+INTERNATIONAL MONETARY FUND
+
+35
+
+2012 ARTICLE IV REPORT
+
+FINLAND
+
+Figure 8. Finland: Public Debt Sustainability: Bound Tests 1/ 2/
+(Public debt in percent of GDP)
+Interest rate shock (in percent)
+
+Baseline and historical scenarios
+65
+
+15
+10
+
+60
+
+Baseline
+
+60
+
+0
+50
+
+-5
+
+Baseline:
+
+0.9
+
+Scenario:
+
+1.8
+
+Historical: 2.6
+
+5
+
+55
+50
+
+65
+
+55
+
+52
+
+50
+
+Baseline
+
+45
+
+I-rate
+Shock
+
+50
+
+-10
+45
+
+Historical
+
+40
+2007
+
+2009
+
+2011
+
+2013
+
+2015
+
+45
+
+-20 40
+2017
+2007
+
+70
+
+Baseline:
+
+2.0
+
+Scenario:
+
+0.1
+
+65
+
+Historical:
+
+1.9
+
+60
+
+Growth
+Shock
+
+60
+
+Baseline
+
+2011
+
+2013
+
+2015
+
+2017
+
+40
+2007
+
+65
+
+65
+Combined
+Shock
+
+57
+
+60
+
+55
+
+55
+
+50
+
+50
+
+Baseline
+
+Baseline:
+
+1.8
+0.2
+
+Historical:
+
+3.5
+
+PB shock
+
+2017
+
+50
+
+57
+57
+
+50
+
+Combined shock 3/
+
+60
+
+2015
+
+Scenario:
+
+Baseline
+
+45
+
+45
+
+2009
+
+2013
+
+65
+
+50
+
+40
+2007
+
+2011
+
+71
+
+55
+
+55
+50
+
+2009
+
+Primary balance shock (in percent of GDP) and
+no policy change scenario (constant primary balance)
+
+Growth shock
+(in percent per year)
+
+75
+
+-15
+
+50
+
+No policy change
+
+2009
+
+2011
+
+2013
+
+2015
+
+2017
+
+Real depreciation and
+contingent liabilities shocks 4/
+Contingent
+Liabilities
+Shock
+
+59
+30 percent
+depreciation
+50
+Baseline
+
+50
+
+45
+
+45
+40
+2007
+
+2009
+
+2011
+
+2013
+
+2015
+
+2017
+
+40
+2007
+
+2009
+
+2011
+
+2013
+
+2015
+
+2017
+
+Sources: International Monetary Fund country desk data, and Fund staff estimates.
+1/ Shaded areas represent actual data. Individual shocks are permanent one-half standard deviation shocks.
+Figures in the boxes represent average projections for the respective variables in the baseline and scenario being
+presented. Ten-year historical average for the variable is also shown.
+2/ For historical scenarios, the historical averages are calculated over the ten-year period, and the information is
+used to project debt dynamics five years ahead.
+3/ Permanent 1/4 standard deviation shocks applied to real interest rate, growth rate, and primary balance.
+4/ One-time real depreciation of 30 percent and 10 percent of GDP shock to contingent liabilities occur in 2012,
+with real depreciation defined as nominal depreciation (measured by percentage fall in dollar value of local
+currency) minus domestic inflation (based on GDP deflator).
+
+36
+
+INTERNATIONAL MONETARY FUND
+
+Figure 9. Finland: Sustainability Analysis: Public Net Debt, 2011–60 1/
+(In percent of GDP)
+
+250
+
+Immediate full adjustment
+Optimal adjustment
+
+200
+
+Plausible adjustment 2/
+No measures
+
+150
+
+Delayed adjustment
+
+100
+
+50
+
+0
+
+-50
+
+2011 2013 2015 2017 2019 2021 2023 2025 2027 2029 2031 2033 2035 2037 2039 2041 2043 2045 2047 2049 2051 2053 2055 2057 2059
+
+Sources: ECFIN: The 2009 Ageing Report, and Fund staff calculations.
+1/ Net debt is defined as gross debt minus liquid financial assets.
+2/ The plausible adjustment scenario is that of uniform adjustment over a 10-year period.
+
+2012 ARTICLE IV REPORT
+
+37
+
+FINLAND
+
+INTERNATIONAL MONETARY FUND
+
+-100
+
+2012 ARTICLE IV REPORT
+
+FINLAND
+
+Table 1. Finland: Macroeconomic Framework, 2009–17
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+Proj.
+(Percentage change, unless otherwise indicated)
+Output and demand (volumes)
+GDP
+Domestic demand
+Private consumption
+Public consumption
+Gross fixed capital formation
+Change in stocks (contribution to growth in percent of GDP)
+Exports of goods and services
+Imports of goods and services
+Net exports (contribution to growth in percent of GDP)
+
+-8.4
+-6.1
+-2.7
+1.1
+-13.3
+-2.0
+-21.5
+-16.4
+-3.0
+
+3.7
+3.1
+3.0
+0.2
+2.6
+0.8
+7.8
+7.7
+0.1
+
+2.9
+4.1
+3.1
+0.8
+4.3
+1.8
+-1.1
+0.2
+-0.5
+
+0.6
+0.6
+3.3
+0.6
+-0.9
+-1.1
+1.6
+1.6
+0.0
+
+1.6
+1.4
+1.8
+0.5
+1.2
+0.0
+3.8
+3.1
+0.2
+
+2.5
+2.3
+2.6
+0.8
+3.1
+0.0
+5.9
+5.3
+0.2
+
+2.1
+2.0
+2.3
+0.8
+2.7
+0.0
+5.3
+5.2
+0.0
+
+1.9
+1.9
+2.1
+0.8
+2.7
+0.0
+5.3
+5.3
+0.0
+
+1.9
+1.9
+2.0
+0.8
+2.7
+0.0
+5.3
+5.3
+0.0
+
+Prices, costs, and income
+Consumer price inflation (harmonized, average)
+Consumer price inflation (harmonized, end-year)
+GDP deflator
+Unit labor cost, manufacturing
+
+1.6
+1.8
+1.4
+18.0
+
+1.7
+2.8
+0.4
+-10.0
+
+3.3
+2.6
+3.6
+-2.6
+
+2.8
+2.5
+1.9
+2.8
+
+2.3
+2.3
+2.4
+0.2
+
+2.2
+2.2
+2.3
+0.7
+
+2.0
+2.0
+2.1
+0.5
+
+2.0
+2.0
+2.1
+0.2
+
+2.0
+2.0
+2.0
+0.2
+
+Labor market
+Labor force
+Employment
+Unemployment rate (in percent)
+
+-0.9
+-2.9
+8.2
+
+-0.2
+-0.4
+8.4
+
+0.4
+1.1
+7.8
+
+0.3
+0.4
+7.7
+
+0.0
+-0.1
+7.8
+
+0.0
+0.0
+7.7
+
+0.0
+0.2
+7.6
+
+0.1
+0.2
+7.5
+
+0.1
+0.2
+7.4
+
+Potential output and NAIRU
+Output gap (in percent of potential output) 1/
+Growth in potential output
+NAIRU (in percent)
+
+-7.2
+0.5
+7.7
+
+-4.6
+0.9
+7.6
+
+-3.1
+1.3
+7.6
+
+-3.7
+1.3
+7.5
+
+-3.2
+1.1
+7.5
+
+-1.9
+1.1
+7.5
+
+-1.1
+1.3
+7.5
+
+-0.5
+1.3
+7.4
+
+0.0
+1.4
+7.4
+
+0.1
+1.5
+1.1
+2.5
+52.2
+-52.0
+
+0.2
+1.8
+0.8
+2.4
+51.6
+-50.1
+
+0.6
+2.3
+0.9
+2.5
+50.6
+-48.8
+
+0.8
+2.5
+0.8
+2.5
+49.5
+-47.7
+
+...
+...
+...
+...
+
+...
+...
+...
+...
+
+...
+...
+...
+...
+
+...
+...
+...
+...
+
+19.5
+19.6
+
+19.7
+19.7
+
+19.8
+19.8
+
+19.9
+19.9
+
+(In percent of GDP)
+General gvernment finances 2/
+Overall balance
+Primary balance 3/
+Structural balance (in percent of potential GDP)
+Structural primary balance (in percent of potential GDP) 3/
+Gross debt
+Net debt (negative of net financial worth)
+
+-2.7
+-1.3
+1.4
+2.7
+43.5
+-62.8
+
+-2.8
+-1.5
+-0.1
+1.2
+48.4
+-64.7
+
+-0.8
+0.6
+0.9
+2.3
+48.5
+-59.8
+
+-1.1
+0.2
+1.0
+2.3
+51.2
+-57.2
+
+-0.6
+0.7
+1.3
+2.5
+52.4
+-54.5
+(In percent)
+
+Money and interest rates
+M3 (Finnish contribution to euro area , growth rate, e.o.p.)
+Finnish MFI euro area loans (growth rate, e.o.p.)
+3-month money market rate 4/
+10-year government bonds yield 4/
+
+-1.7
+1.4
+1.2
+3.7
+
+4.8
+6.3
+0.8
+3.0
+
+6.9
+6.2
+1.4
+3.0
+
+...
+...
+0.7
+2.0
+
+...
+...
+...
+...
+
+(In percent of GDP)
+National saving and investment
+Gross national saving
+Gross domestic investment
+
+20.4
+18.6
+
+20.9
+19.5
+
+21.2
+21.9
+
+19.0
+19.7
+
+19.2
+19.5
+
+(In percent of GDP)
+Balance of payments
+Current account balance
+Trade balance
+Net international investment position
+Gross external debt
+Exchange rates (period average)
+Euro per US$
+Nominal effective rate (appreciation in percent)
+Real effective rate (appreciation in percent) 5/
+
+1.8
+1.8
+0.0
+169.0
+
+1.4
+1.4
+10.6
+194.1
+
+-0.7
+-0.6
+14.0
+216.0
+
+-0.7
+-0.1
+15.4
+240.2
+
+-0.4
+0.0
+16.2
+254.1
+
+-0.1
+0.2
+17.2
+262.0
+
+0.0
+0.3
+18.2
+268.1
+
+0.0
+0.3
+19.2
+271.4
+
+0.0
+0.3
+20.2
+272.5
+
+0.72
+1.9
+1.1
+
+0.76
+-4.5
+-5.4
+
+0.72
+0.0
+0.0
+
+...
+...
+...
+
+...
+...
+...
+
+...
+...
+...
+
+...
+...
+...
+
+...
+...
+...
+
+...
+...
+...
+
+Sources: Bank of Finland, International Financial Statistics, Information Notice System, Ministry of Finance, Statistics Finland, and Fund staff calculations.
+1/ A negative value indicates a level of actual GDP that is below potential output.
+2/ Fiscal projections include measures as specified in the Government Program.
+3/ Adjusted for interest expenditure.
+4/ 2012 data are from June 29.
+5/ CPI-based real effective exchange rate.
+
+38
+
+INTERNATIONAL MONETARY FUND
+
+FINLAND 2012 ARTICLE IV REPORT
+
+Table 2. Finland: Indicators of Financial Vulnerability, 2005–12
+2005
+
+Households
+Total household debt (in percent of GDP)
+Total household debt (in percent of disposable income)
+Financial assets/GDP
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+51.5
+
+56.1
+
+57.3
+
+60.0
+
+66.6
+
+63.1
+
+59.7
+
+…
+
+91.9
+
+101.2
+
+105.4
+
+107.5
+
+107.6
+
+113.4
+
+114.4
+
+…
+
+113.1
+
+117.9
+
+112.1
+
+99.9
+
+119.9
+
+123.9
+
+112.7
+
+…
+
+Non-financial corporations
+Gross debt (in percent of GDP)
+
+84.5
+
+87.7
+
+90.4
+
+104.8
+
+107.0
+
+104.8
+
+100.3
+
+…
+
+Government
+General government debt (EMU definition, in percent of GDP)
+
+41.7
+
+39.6
+
+35.2
+
+33.9
+
+43.5
+
+48.4
+
+48.6
+
+…
+
+37.2
+
+34.9
+
+30.6
+
+29.4
+
+37.8
+
+42.7
+
+42.7
+
+…
+
+Central government debt (in percent of GDP)
+Banking sector
+Outstanding credit to nonfinancial corporations (annual percent change, e.o.p.)
+Credit to households (percent change, e.o.p.)
+
+7.8
+
+8.4
+
+12.9
+
+18.8
+
+-4.8
+
+4.8
+
+6.9
+
+15.1
+
+13.0
+
+11.2
+
+8.0
+
+5.5
+
+6.2
+
+5.2
+
+5.4 1/
+
+…
+
+42.1
+
+42.0
+
+40.9
+
+43.3
+
+43.0
+
+38.4
+
+38.7 1/
+
+0.40
+
+0.39
+
+0.38
+
+0.48
+
+0.51
+
+0.47
+
+0.53
+
+0.60 1/
+
+Regulatory capital as percent of risk-weighted assets
+
+17.2
+
+15.1
+
+15.1
+
+13.6
+
+14.6
+
+14.4
+
+15.4
+
+… 2/
+
+Regulatory tier 1 capital to risk-weighted assets
+Equity/total assets (in percent)
+
+15.0
+
+12.8
+
+13.5
+
+12.5
+
+13.8
+
+13.6
+
+14.5
+
+… 2/
+
+9.2
+
+9.4
+
+7.9
+
+6.2
+
+6.4
+
+5.5
+
+4.4
+
+4.4 1/
+
+Housing loans in percent of total lending
+Asset quality
+Non-performing loans/total loans (in percent) 4/
+Capital adequacy
+
+7.9 1/
+
+Profitability
+Interest rate margin (percentage points, e.o.p.) 5/
+
+2.3
+
+2.6
+
+2.6
+
+2.4
+
+1.6
+
+1.5
+
+1.8
+
+1.7 1/
+
+Net interest income (in percent of total income)
+
+60.6
+
+53.7
+
+50.5
+
+67.8
+
+52.3
+
+45.7
+
+53.6
+
+47.4 1/
+
+Return on equity (in percent)
+
+11.8
+
+14.4
+
+18.0
+
+12.2
+
+10.0
+
+9.2
+
+10.1
+
+12.3 1/
+
+0.9
+
+1.2
+
+1.4
+
+0.9
+
+0.6
+
+0.5
+
+0.5
+
+0.5 1/
+
+6.0
+
+6.4
+
+5.0
+
+4.8
+
+7.5
+
+6.8
+
+6.8
+
+6.2 1/
+
+40.7
+
+39.8
+
+37.8
+
+34.1
+
+34.1
+
+29.9
+
+24.8
+
+25.5 1/
+
+16.4
+
+18.4
+
+18.7
+
+13.8
+
+15.6
+
+13.6
+
+10.8
+
+11.1 1/
+
+31.1
+
+17.9
+
+20.5
+
+-53.4
+
+19.5
+
+18.7
+
+-30.1
+
+-24.9 3/
+
+8.0
+
+7.8
+
+6.0
+
+0.9
+
+-2.3
+
+8.1
+
+2.8
+
+Return on assets (in percent)
+Liquid assets/total assets (in percent) 6/
+Deposits as percent of assets
+Off-balance sheet liabilities/total assets (in percent)
+Asset prices
+Change in stock market index (in percent, e.o.p.)
+Change in housing price index (in percent, year average)
+
+…
+
+Sources: Bank of Finland, Financial Supervision Authority, Finnish Bankers' Association, Haver Analytics, Statistics Finland, and Fund staff calculations.
+1/ As of March 2012.
+2/ As of December 2011.
+3/ As of April, 2012, change since April, 2011.
+4/ Loans are defined as the sum of claims on credit institutions, the public, and public sector entities.
+5/ Average of margins (average lending rate minus average deposit rate) on loans to non-financial corporations and households for deposit, commercial, cooperative, and
+savings banks, and foreign branches.
+6/ Liquid assets are defined as the sum of bills discounted by the central bank, debt securities, and the balance sheet item "liquid assets."
+
+INTERNATIONAL MONETARY FUND
+
+39
+
+2012 ARTICLE IV REPORT
+
+FINLAND
+
+Table 3. Finland: General Government Statement of Operations, 2007–13
+(In percent of GDP, unless otherwise indicated)
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+2013
+Proj.
+
+Revenue
+Tax revenues
+Taxes on production and imports
+Current taxes on income, wealth, etc.
+Capital taxes
+Social contributions
+Grants
+Other revenue
+
+52.7
+30.8
+13.0
+17.5
+0.3
+12.0
+0.2
+9.7
+
+53.6
+30.6
+12.9
+17.4
+0.4
+12.2
+0.2
+10.6
+
+53.4
+29.8
+13.4
+16.1
+0.3
+12.9
+0.2
+10.4
+
+52.7
+29.5
+13.3
+15.9
+0.2
+12.7
+0.2
+10.3
+
+53.2
+30.4
+14.0
+16.1
+0.2
+12.4
+0.2
+10.2
+
+53.3
+30.4
+14.3
+16.0
+0.2
+12.5
+0.2
+10.1
+
+53.9
+30.9
+14.7
+16.0
+0.2
+12.5
+0.2
+10.3
+
+Expenditure
+Expense
+Compensation of employees
+Use of goods and services
+Consumption of fixed capital (CFC)
+Interest
+Subsidies
+Grants
+Social benefits
+Other expense
+Net acquisition of nonfinancial assets
+Net acquisition of nonfinancial assets excl. CFC
+Consumption of fixed capital (CFC)
+
+47.4
+47.1
+12.9
+9.3
+2.1
+1.5
+1.3
+1.0
+17.2
+1.8
+0.3
+2.4
+-2.1
+
+49.3
+48.9
+13.3
+10.0
+2.1
+1.5
+1.3
+1.1
+17.7
+2.0
+0.4
+2.5
+-2.1
+
+56.1
+55.5
+14.7
+11.3
+2.2
+1.4
+1.4
+1.3
+20.8
+2.3
+0.6
+2.9
+-2.2
+
+55.5
+55.2
+14.4
+11.4
+2.1
+1.4
+1.5
+1.2
+20.9
+2.2
+0.4
+2.5
+-2.1
+
+54.0
+53.6
+13.9
+11.1
+2.1
+1.4
+1.4
+1.2
+20.3
+2.2
+0.4
+2.5
+-2.1
+
+54.4
+54.0
+13.9
+10.8
+2.1
+1.3
+1.4
+1.2
+21.0
+2.2
+0.4
+2.5
+-2.1
+
+54.5
+54.0
+13.7
+10.9
+2.1
+1.3
+1.4
+1.2
+21.1
+2.3
+0.4
+2.5
+-2.1
+
+5.6
+5.3
+
+4.6
+4.2
+
+-2.1
+-2.7
+
+-2.5
+-2.8
+
+-0.4
+-0.8
+
+-0.7
+-1.1
+
+-0.1
+-0.6
+
+Net acquisition of financial assets
+Currency and deposits
+Securities other than shares
+Loans
+Shares and other equity
+Insurance technical reserves
+Financial derivatives
+Other accounts receivable
+
+4.8
+0.4
+-0.6
+0.0
+4.5
+0.0
+0.0
+0.5
+
+4.5
+0.4
+1.9
+1.9
+0.2
+0.0
+0.0
+0.0
+
+5.6
+-0.9
+2.0
+1.6
+3.5
+0.0
+0.0
+-0.6
+
+3.5
+2.7
+-4.1
+0.4
+3.8
+0.0
+0.0
+0.7
+
+2.3
+1.2
+1.1
+-0.3
+0.0
+0.0
+0.0
+0.3
+
+…
+…
+…
+…
+…
+…
+…
+…
+
+…
+…
+…
+…
+…
+…
+…
+…
+
+Net incurrence of liabilities
+Special Drawing Rights (SDRs)
+Currency and deposits
+Securities other than shares
+Loans
+Shares and other equity
+Insurance technical reserves
+Financial derivatives
+Other accounts payable
+
+-0.4
+0.0
+0.0
+-1.4
+0.4
+0.0
+0.0
+-0.1
+0.7
+
+0.2
+0.0
+0.0
+-0.7
+0.6
+0.0
+0.0
+0.4
+0.0
+
+8.3
+0.0
+0.0
+6.4
+0.6
+0.0
+0.0
+-0.2
+1.4
+
+6.5
+0.0
+0.0
+6.7
+0.3
+0.0
+0.0
+-0.4
+-0.1
+
+3.2
+0.0
+0.0
+2.1
+1.3
+0.0
+0.0
+0.0
+-0.2
+
+…
+…
+…
+…
+…
+…
+…
+…
+…
+
+…
+…
+…
+…
+…
+…
+…
+…
+…
+
+6.8
+3.2
+4.8
+-1.1
+1.0
+35.2
+-72.5
+32.5
+3.9
+179.8
+
+5.7
+3.1
+4.6
+-1.8
+0.5
+33.9
+-52.2
+31.1
+1.8
+185.7
+
+-1.3
+1.4
+2.7
+-2.6
+-4.8
+43.5
+-62.8
+39.3
+-7.2
+172.5
+
+-1.5
+-0.1
+1.2
+-3.7
+-5.6
+48.4
+-64.7
+44.0
+-4.6
+179.7
+
+0.6
+0.9
+2.3
+-2.8
+-3.1
+48.5
+-59.8
+44.8
+-3.1
+191.7
+
+0.2
+1.0
+2.3
+-2.9
+-3.4
+51.2
+-57.2
+47.8
+-3.7
+196.5
+
+0.7
+1.3
+2.5
+-2.8
+-2.6
+52.4
+-54.5
+49.4
+-3.2
+204.3
+
+Net operating balance
+Net lending/borrowing
+
+Memorandum items:
+Primary balance (excl. interest expense)
+Structural balance (in percent of potential GDP)
+Structural primary balance (in percent of potential GDP) 1/
+Robust balance (in percent of potential GDP)
+Central government net lending/borrowing
+General government gross debt
+General government net debt 2/
+Central government gross debt
+Output gap (percent of potential output)
+Nominal GDP (Euro bill.)
+
+Sources: International Financial Statistics, Government Finance Statistics, Eurostat, Ministry of Finance, and IMF staff estimates.
+1/ Adjusted for interest expenditure.
+2/ Defined as the negative of net financial worth.
+
+40
+
+INTERNATIONAL MONETARY FUND
+
+FINLAND 2012 ARTICLE IV REPORT
+
+Table 4. Finland: General Government Integrated Balance Sheet, 2005–10
+(In percent of GDP)
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+…
+
+…
+
+…
+
+…
+
+…
+
+…
+
+…
+
+…
+
+…
+
+…
+
+…
+
+…
+
+58.6
+
+69.4
+
+72.5
+
+52.2
+
+62.8
+
+64.7
+
+Financial assets
+Currency and deposits
+Securities other than shares
+Loans
+Shares and other equity
+Insurance technical reserves
+Financial derivatives
+Other accounts receivable/payable
+
+107.0
+5.9
+28.3
+12.4
+55.5
+0.0
+0.1
+4.6
+
+115.0
+6.3
+26.3
+12.2
+64.5
+0.0
+1.3
+4.4
+
+113.9
+6.2
+23.1
+11.3
+66.8
+0.1
+1.8
+4.6
+
+92.5
+6.5
+22.9
+12.8
+44.7
+0.1
+1.1
+4.5
+
+114.5
+6.0
+27.2
+15.4
+60.9
+0.1
+0.6
+4.3
+
+122.5
+8.5
+21.8
+15.2
+70.8
+0.1
+1.2
+4.8
+
+Liabilities
+Currency and deposits
+Securities other than shares
+Loans
+Shares and other equity
+Insurance technical reserves
+Financial derivatives
+Other accounts receivable/payable
+
+48.4
+0.2
+36.7
+7.1
+0.1
+0.0
+-0.2
+4.4
+
+45.6
+0.2
+33.9
+6.3
+0.0
+0.0
+0.9
+4.3
+
+41.4
+0.2
+29.3
+6.1
+0.0
+0.0
+1.0
+4.7
+
+40.4
+0.2
+28.6
+7.2
+0.0
+0.0
+-0.2
+4.5
+
+51.8
+0.3
+37.3
+7.7
+0.0
+0.0
+0.3
+6.2
+
+57.8
+0.3
+43.0
+7.7
+0.3
+0.0
+0.6
+6.0
+
+Net worth
+Nonfinancial assets
+Net financial worth
+
+Sources: Global Insight, Government Finance Statistics, and Fund staff calculations.
+
+INTERNATIONAL MONETARY FUND
+
+41
+
+2012 ARTICLE IV REPORT
+
+FINLAND
+
+Table 5. Finland: Balance of Payments, 2009–17
+(In billions of euro, unless otherwise indicated)
+2009
+
+2010
+
+2011
+
+2013
+
+2014
+
+2015
+Proj.
+
+2016
+
+2017
+
+3.1
+1.8
+
+2.6
+1.4
+
+-1.3
+-0.7
+
+-1.4
+-0.7
+
+-0.8
+-0.4
+
+-0.1
+-0.1
+
+0.0
+0.0
+
+0.0
+0.0
+
+0.0
+0.0
+
+3.5
+2.0
+
+2.8
+1.5
+
+-0.2
+-0.1
+
+-0.3
+-0.1
+
+0.4
+0.2
+
+1.1
+0.5
+
+1.2
+0.5
+
+1.3
+0.6
+
+1.3
+0.5
+
+Exports of goods and services
+Goods
+Services
+
+65.1
+45.1
+20.0
+
+72.8
+52.5
+20.3
+
+75.8
+56.7
+19.1
+
+78.7
+58.4
+20.3
+
+81.9
+60.7
+21.2
+
+86.6
+64.2
+22.4
+
+91.2
+67.4
+23.8
+
+96.2
+70.9
+25.3
+
+101.6
+74.7
+26.9
+
+Imports of goods and services
+Goods
+Services
+
+-61.6
+-42.1
+-19.6
+
+-70.0
+-49.9
+-20.1
+
+-75.9
+-57.8
+-18.2
+
+-79.0
+-58.5
+-20.5
+
+-81.5
+-60.8
+-20.7
+
+-85.6
+-63.7
+-21.9
+
+-90.1
+-66.8
+-23.2
+
+-94.9
+-70.3
+-24.7
+
+-100.2
+-74.0
+-26.2
+
+1.3
+0.3
+1.0
+
+1.5
+0.3
+1.2
+
+0.6
+0.3
+0.3
+
+0.5
+0.3
+0.3
+
+0.6
+0.3
+0.3
+
+0.6
+0.3
+0.3
+
+0.7
+0.3
+0.4
+
+0.7
+0.3
+0.4
+
+0.8
+0.3
+0.4
+
+-1.7
+-2.1
+
+-1.7
+-2.0
+
+-1.6
+-2.0
+
+-1.7
+-2.1
+
+-1.7
+-2.1
+
+-1.8
+-2.2
+
+-1.9
+-2.3
+
+-2.0
+-2.4
+
+-2.1
+-2.5
+
+5.2
+
+-2.9
+
+9.7
+
+1.4
+
+0.8
+
+0.1
+
+0.0
+
+0.0
+
+0.0
+
+0.2
+5.0
+-3.3
+0.3
+-3.5
+-5.9
+2.2
+12.6
+-8.8
+21.4
+-4.4
+17.0
+-0.6
+-8.3
+
+0.2
+-3.1
+-2.8
+5.1
+-7.9
+-7.6
+-0.4
+6.1
+-29.6
+35.6
+-15.2
+21.2
+1.7
+0.3
+
+0.2
+9.5
+-3.9
+0.0
+-3.9
+9.6
+0.6
+3.4
+-81.4
+84.9
+-9.1
+12.6
+-0.3
+-8.4
+
+0.2
+1.2
+-2.0
+3.0
+-5.0
+9.7
+0.0
+-6.4
+-55.5
+49.1
+-6.4
+0.0
+0.0
+0.0
+
+0.2
+0.6
+-2.1
+3.1
+-5.2
+9.7
+0.0
+-7.0
+-40.0
+33.0
+-5.1
+-1.9
+0.0
+0.0
+
+0.2
+0.0
+-2.2
+3.3
+-5.5
+9.8
+0.0
+-7.6
+-35.0
+27.4
+-4.6
+-3.0
+0.0
+0.0
+
+0.2
+-0.1
+-2.1
+3.1
+-5.2
+9.8
+0.0
+-7.9
+-30.0
+22.1
+-4.1
+-3.7
+0.0
+0.0
+
+0.2
+-0.2
+-1.9
+2.9
+-4.8
+9.9
+0.0
+-8.1
+-25.0
+16.9
+-3.7
+-4.4
+0.0
+0.0
+
+0.2
+-0.2
+-2.4
+2.6
+-5.0
+9.9
+0.0
+-7.7
+-20.0
+12.3
+-3.3
+-4.4
+0.0
+0.0
+
+172.5
+
+179.7
+
+191.7
+
+196.5
+
+204.3
+
+214.3
+
+223.3
+
+232.4
+
+241.6
+
+Current account
+(percent of GDP)
+Goods and services
+(percent of GDP)
+
+Income
+Compensation of employees
+Investment income
+Current transfers
+(of which, official)
+Capital and financial account
+Capital account
+Financial account
+Direct investment
+In Finland
+Abroad
+Portfolio investment
+Financial derivatives
+Other investment
+Assets
+Liabilities
+Official
+Private
+Reserve assets
+Net errors and omissions
+Memorandum item:
+GDP at current prices
+
+Sources: Bank of Finland, Statistics Finland, and Fund staff calculations.
+
+42
+
+2012
+
+INTERNATIONAL MONETARY FUND
+
+FINLAND 2012 ARTICLE IV REPORT
+
+Table 6. Finland: Net International Investment Position, 2003–11
+(In percent of GDP, unless otherwise indicated)
+2003
+Assets
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+156.2
+
+178.1
+
+195.5
+
+209.8
+
+212.9
+
+221.3
+
+266.9
+
+315.8
+
+Direct investment abroad
+
+41.4
+
+41.0
+
+44.1
+
+44.1
+
+44.0
+
+44.2
+
+52.0
+
+57.1
+
+56.0
+
+Portfolio investment abroad
+
+58.2
+
+70.6
+
+83.1
+
+98.0
+
+96.7
+
+69.6
+
+101.4
+
+118.0
+
+108.5
+
+Other investment abroad
+
+364.1
+
+50.5
+
+60.3
+
+62.2
+
+64.3
+
+69.0
+
+104.3
+
+108.9
+
+136.8
+
+195.4
+
+31.2
+
+35.0
+
+37.3
+
+42.0
+
+42.9
+
+44.3
+
+55.6
+
+67.4
+
+90.9
+
+Trade credits
+
+3.5
+
+4.3
+
+3.8
+
+3.5
+
+4.1
+
+3.3
+
+3.2
+
+3.2
+
+3.2
+
+Other debt liabilities
+
+1.6
+
+2.3
+
+2.3
+
+2.0
+
+1.9
+
+6.4
+
+3.1
+
+5.9
+
+5.1
+
+Financial derivatives
+
+14.2
+
+18.7
+
+18.8
+
+16.8
+
+20.2
+
+50.2
+
+47.0
+
+60.3
+
+96.3
+
+6.1
+
+6.2
+
+6.1
+
+3.4
+
+3.2
+
+3.2
+
+4.6
+
+4.0
+
+4.2
+
+182.6
+
+188.1
+
+210.7
+
+223.6
+
+240.8
+
+231.0
+
+266.8
+
+305.2
+
+350.1
+
+27.3
+
+27.7
+
+29.5
+
+32.3
+
+34.6
+
+32.3
+
+34.1
+
+35.6
+
+33.5
+
+108.2
+
+107.0
+
+124.0
+
+132.6
+
+143.4
+
+95.6
+
+117.8
+
+125.3
+
+113.8
+
+Loans and deposits
+
+Reserve assets
+Liabilities
+Direct investment in Finland
+Portfolio investment in Finland
+Other investment abroad
+
+47.1
+
+53.5
+
+57.2
+
+58.7
+
+62.8
+
+103.1
+
+114.9
+
+144.2
+
+202.9
+
+29.2
+
+30.9
+
+33.8
+
+37.0
+
+38.2
+
+46.9
+
+60.9
+
+75.1
+
+101.8
+
+Trade credits
+
+2.4
+
+2.5
+
+3.1
+
+2.8
+
+2.9
+
+3.3
+
+3.0
+
+3.4
+
+3.3
+
+Other debt liabilities
+
+1.3
+
+2.0
+
+2.0
+
+2.6
+
+2.4
+
+2.8
+
+5.2
+
+8.2
+
+5.6
+
+Financial derivatives
+
+14.2
+
+18.1
+
+18.3
+
+16.3
+
+19.3
+
+50.1
+
+45.7
+
+57.5
+
+92.2
+
+-26.4
+
+-10.0
+
+-15.3
+
+-13.8
+
+-27.9
+
+-9.7
+
+0.0
+
+10.6
+
+14.0
+
+14.0
+
+13.3
+
+14.6
+
+11.7
+
+9.4
+
+11.8
+
+17.9
+
+21.4
+
+22.5
+
+-50.0
+
+-36.4
+
+-40.9
+
+-34.6
+
+-46.7
+
+-26.0
+
+-16.5
+
+-7.4
+
+-5.3
+
+3.4
+
+6.8
+
+5.0
+
+5.6
+
+6.2
+
+1.2
+
+-6.0
+
+-7.4
+
+-7.5
+
+Loans and deposits
+
+1.9
+
+4.2
+
+3.5
+
+5.1
+
+4.7
+
+-2.6
+
+-5.3
+
+-7.7
+
+-10.8
+
+Trade credits
+
+1.1
+
+1.8
+
+0.7
+
+0.7
+
+1.2
+
+0.1
+
+0.2
+
+-0.2
+
+-0.1
+
+Other debt liabilities
+
+0.3
+
+0.3
+
+0.3
+
+-0.7
+
+-0.5
+
+3.6
+
+-2.1
+
+-2.3
+
+-0.6
+
+Financial derivatives
+
+0.1
+
+0.6
+
+0.5
+
+0.5
+
+0.9
+
+0.1
+
+1.3
+
+2.8
+
+4.1
+
+6.1
+
+6.2
+
+6.1
+
+3.4
+
+3.2
+
+3.2
+
+4.6
+
+4.0
+
+4.2
+
+145.5
+
+152.3
+
+157.4
+
+165.8
+
+179.8
+
+185.7
+
+172.5
+
+179.7
+
+191.7
+
+Loans and deposits
+
+Net international investment position
+Direct investment
+Portfolio investment
+Other investment abroad
+
+Reserve assets
+Memorandum item:
+GDP at current prices (in billions of euros)
+
+Sources: Bank of Finland, Statistics Finland, and Fund staff calculations.
+
+INTERNATIONAL MONETARY FUND
+
+43
+
+2007
+
+1 Baseline: External debt
+
+2008
+
+Actual
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+Projections
+2016
+2017
+
+137.2
+
+169.0
+
+194.1
+
+216.0
+
+240.2
+
+254.1
+
+262.0
+
+268.1
+
+271.4
+
+272.5
+
+-1.0
+-17.5
+-5.6
+-5.3
+45.9
+40.6
+5.9
+-17.7
+1.3
+-5.5
+-13.5
+16.4
+
+16.1
+-4.4
+-4.2
+-4.0
+47.2
+43.1
+10.2
+-10.4
+1.5
+-0.3
+-11.5
+20.5
+
+31.8
+19.1
+-2.5
+-2.0
+37.7
+35.7
+2.0
+19.6
+0.8
+13.0
+5.8
+12.7
+
+25.1
+3.6
+-1.9
+-1.5
+40.5
+38.9
+3.8
+1.7
+0.5
+-6.4
+7.6
+21.5
+
+21.9
+-19.4
+0.0
+0.1
+39.5
+39.6
+0.5
+-19.9
+0.7
+-5.1
+-15.5
+41.2
+
+24.3
+-1.3
+-0.9
+0.1
+40.1
+40.2
+-0.8
+0.4
+1.7
+-1.3
+...
+25.6
+
+13.9
+-4.2
+-1.7
+-0.2
+40.1
+39.9
+-0.8
+-1.7
+2.1
+-3.8
+...
+18.1
+
+7.9
+-6.9
+-2.2
+-0.5
+40.4
+39.9
+-0.9
+-3.8
+2.2
+-6.0
+...
+14.8
+
+6.1
+-6.2
+-2.3
+-0.5
+40.9
+40.3
+-1.0
+-2.9
+2.3
+-5.2
+...
+12.2
+
+3.3
+-6.2
+-2.4
+-0.6
+41.4
+40.8
+-1.1
+-2.6
+2.4
+-5.0
+...
+9.5
+
+1.1
+-5.9
+-2.3
+-0.5
+42.0
+41.5
+-0.9
+-2.6
+2.3
+-5.0
+...
+6.9
+
+External debt-to-exports ratio (in percent)
+
+263.7
+
+290.9
+
+447.8
+
+479.4
+
+546.4
+
+599.5
+
+634.0
+
+648.2
+
+656.2
+
+655.7
+
+648.2
+
+Gross external financing need (in billions of US dollars) 4/
+in percent of GDP
+
+162.9
+66.1
+
+185.8
+68.0
+
+233.8
+97.3
+
+305.8
+128.2
+
+388.4
+145.6 10-Year
+
+10-Year
+
+562.9
+223.3
+
+399.7
+155.0
+
+352.7
+130.9
+
+342.5
+122.5
+
+333.8
+115.2
+
+333.4
+111.3
+
+228.1
+
+230.4
+
+232.1
+
+230.0
+
+225.2
+
+217.9
+
+Historical
+Average
+
+Standard
+Deviation
+
+1.9
+6.2
+0.9
+8.3
+11.3
+4.7
+-3.8
+
+3.9
+7.5
+0.4
+14.2
+14.5
+2.8
+3.7
+
+0.6
+-6.1
+0.7
+-4.2
+-4.1
+0.9
+0.8
+
+1.6
+0.7
+0.9
+2.3
+1.5
+1.7
+0.8
+
+2.5
+2.0
+0.9
+5.5
+4.7
+2.2
+0.9
+
+2.1
+1.7
+0.9
+4.9
+4.8
+2.3
+1.0
+
+1.9
+1.6
+0.9
+5.0
+4.9
+2.4
+1.1
+
+1.9
+1.5
+0.9
+5.0
+5.1
+2.3
+0.9
+
+2 Change in external debt
+3 Identified external debt-creating flows (4+8+9)
+4
+Current account deficit, excluding interest payments
+5
+Deficit in balance of goods and services
+6
+Exports
+7
+Imports
+8
+Net non-debt creating capital inflows (negative)
+9
+Automatic debt dynamics 1/
+10
+Contribution from nominal interest rate
+11
+Contribution from real GDP growth
+12
+Contribution from price and exchange rate changes 2/
+13 Residual, incl. change in gross foreign assets (2-3) 3/
+
+Scenario with key variables at their historical averages 5/
+Key Macroeconomic Assumptions Underlying Baseline
+Real GDP growth (in percent)
+GDP deflator in US dollars (change in percent)
+Nominal external interest rate (in percent)
+Growth of exports (US dollar terms, in percent)
+Growth of imports (US dollar terms, in percent)
+Current account balance, excluding interest payments
+Net non-debt creating capital inflows
+
+5.3
+12.4
+1.3
+19.8
+17.8
+5.6
+-5.9
+
+0.3
+10.5
+1.4
+13.8
+17.8
+4.2
+-10.2
+
+-8.4
+-4.0
+0.5
+-29.6
+-27.2
+2.5
+-2.0
+
+3.7
+-4.3
+0.3
+6.5
+8.2
+1.9
+-3.8
+
+2.9
+8.7
+0.4
+9.2
+13.8
+0.0
+-0.5
+
+-10.9
+
+1/ Derived as [r - g -  (1+g) +  (1+r)]/(1+g+ +g ) times previous period debt stock, with r = nominal effective interest rate on external debt; = change in domestic GDP deflator in US dollar terms, g = real GDP growth rate,
+ = nominal appreciation (increase in dollar value of domestic currency), and  = share of domestic-currency denominated debt in total external debt.
+2/ The contribution from price and exchange rate changes is defined as [- (1+g (1+r1+g+ +g ) times previous period debt stock. increases with an appreciating domestic currency (> 0) and rising inflation (based on GDP deflator).
+3/ For projection, line includes the impact of price and exchange rate changes.
+4/ Defined as current account deficit, plus amortization on medium- and long-term debt, plus short-term debt at end of previous period.
+5/ The key variables include real GDP growth; nominal interest rate; dollar deflator growth; and both non-interest current account and non-debt inflows in percent of GDP.
+6/ Long-run, constant balance that stabilizes the debt ratio assuming that key variables (real GDP growth, nominal interest rate, dollar deflator growth, and non-debt inflows in percent of GDP) remain at their levels
+of the last projection year.
+
+FINLAND
+FINLAND 2012
+2012ARTICLE
+ARTICLEIVIVREPORT
+REPORT
+
+121.1
+
+Debt-stabilizing
+non-interest
+current account 6/
+-7.6
+
+FINLAND
+
+INTERNATIONAL MONETARY FUND
+
+(In percent of GDP, unless otherwise indicated)
+
+2012 ARTICLE IV REPORT
+
+44
+
+Table 7. Finland: External Debt Sustainability Framework, 2007–17
+
+FINLAND 2012 ARTICLE IV REPORT
+
+Table 8. Finland: FSAP Update Recommendations, 2010
+Recommendation
+
+Status
+
+Financial Stability Analysis
+Monitor bank mortgage pricing practices and household
+Broadly implemented: Survey on pricing practices
+debt service capacity closely. Increase efforts to compile
+conducted in 2010; unified standard methodology on
+information on banks’ mortgage portfolio, including loan-toLTV calculation from July 2012.
+value (LTV) ratios. Frequency: annually.
+Mostly completed with macro-financial modeling
+Enhance the top-down stress testing framework by
+linkages, annual top-down stress testing exercises, and
+(i) modeling macro-financial linkages on a bank-by-bank
+close cooperation between the FIN-FSA and the BoF.
+basis; (ii) further integrating bank and sectoral data;
+Under way: improvement of existing models including
+(iii) incorporating financial conglomerate dimension; and
+liquidity stress tests.
+(iv) improving the synergies between the Bank of Finland’s
+(BOF) Research and Financial Stability Divisions and the FINFSA. Exercise can be conducted quarterly.
+Make available quarterly core financial soundness indicators
+using the data dissemination system already in place.
+Enhance the current framework to assess systemic risk by:
+(i) using more detailed information on cross-border
+exposures; (ii) including all nonbank elements of the financial
+sector and cross-border linkages; (iii) establishing crossborder cooperation on systemic risk assessment with other
+authorities; and (iv) integrating the framework in the set of
+supervisory tools, to better feed into policy action.
+
+Implemented.
+Implemented: Regional MoU (2010); supervisory
+colleges set up that use detailed quarterly liquidity
+reports and closely monitor cross-border financial
+institutions.
+
+Safety Net
+Set up a bank-specific resolution regime to enhance costNot implemented: To be implemented with the EU27
+effectiveness and speed of bank resolution.
+Resolution Regime.
+Largely implemented on governance, protection of
+Use Core Principles for Effective Deposit Insurance Systems
+depositors, funding, coverage, and cooperation with
+to evaluate and assure operational resources of the Deposit
+other safety net participants, including central banks and
+Insurance Scheme commensurate with needs.
+supervisors.
+Supervision and Regulation
+Improve FIN-FSA’s supervisory powers to impose
+administrative fines and/or penalty payments beyond the
+current securities markets related scope; increase the
+maximum amount of such fines and penalties.
+
+Partly implemented: Securities: Higher penalties and
+stronger authority of FIN-FSA; insurance: FIN-FSA
+lacking sanctioning power except for reporting issues;
+banks: enhanced supervisory powers only with Basel III.
+
+Increase the effectiveness of cross-border supervision,
+including information sharing with home supervisors with
+respect to the activity of foreign branches.
+
+Largely implemented: Nordic/Baltic countries MoU
+(08/2010) on exchange of information, enhanced
+cooperation framework, and management and
+resolution of cross-border systemic crises.
+
+Increase the focus on liquidity risk, using the forthcoming
+liquidity standard of FIN-FSA as a catalyst for detailed
+analysis of supervised institutions’ funding profiles.
+
+Implemented: BoF and FIN-FSA quarterly monitor banks'
+liquidity and are in the process of developing liquidity
+stress tests. Collateral availability and quality is reviewed
+weekly bank by bank.
+
+Further integrate procedures and practices of banking and
+insurance supervision, with a view to enhancing FIN-FSA’s
+analysis of the (consolidated) risk profile of complex financial
+groups active in Finland.
+
+Mostly implemented: Unified on-site inspection and
+supervisory processes; cross-utilization of expertise in
+supervising market risks and in model validation.
+
+INTERNATIONAL MONETARY FUND
+
+45
+
+46
+
+1 Baseline: Public sector debt 1/
+o/w foreign-currency denominated
+
+2008
+
+Actual
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+Projections
+2014 2015
+
+2016
+
+2017
+
+35.2
+0.0
+
+33.9
+0.0
+
+43.5
+0.0
+
+48.4
+0.0
+
+48.5
+0.0
+
+51.2
+0.0
+
+52.4
+0.0
+
+52.2
+0.0
+
+51.6
+0.0
+
+50.6
+0.0
+
+49.5
+0.0
+
+-4.5
+-8.4
+-6.8
+52.7
+46.0
+-1.6
+-1.6
+0.3
+-1.9
+0.0
+0.0
+0.0
+0.0
+0.0
+3.9
+
+-1.2
+-5.3
+-5.7
+53.6
+47.9
+0.4
+0.4
+0.5
+-0.1
+0.0
+0.0
+0.0
+0.0
+0.0
+4.1
+
+9.5
+5.3
+1.3
+53.4
+54.7
+4.0
+4.0
+0.9
+3.1
+0.0
+0.0
+0.0
+0.0
+0.0
+4.2
+
+4.9
+1.1
+1.5
+52.7
+54.2
+-0.4
+-0.4
+1.2
+-1.6
+0.0
+0.0
+0.0
+0.0
+0.0
+3.8
+
+0.1
+-2.2
+-0.6
+53.2
+52.6
+-1.6
+-1.6
+-0.3
+-1.3
+0.0
+0.0
+0.0
+0.0
+0.0
+2.4
+
+2.6
+-0.1
+-0.2
+53.3
+53.1
+0.1
+0.1
+0.4
+-0.3
+...
+0.0
+0.0
+0.0
+0.0
+2.7
+
+1.2
+-1.4
+-0.7
+53.9
+53.2
+-0.7
+-0.7
+0.1
+-0.8
+...
+0.0
+0.0
+0.0
+0.0
+2.6
+
+-0.3
+-2.5
+-1.5
+54.1
+52.6
+-1.0
+-1.0
+0.2
+-1.2
+...
+0.0
+0.0
+0.0
+0.0
+2.2
+
+-0.6
+-2.3
+-1.8
+54.2
+52.4
+-0.5
+-0.5
+0.5
+-1.0
+...
+0.0
+0.0
+0.0
+0.0
+1.8
+
+-1.0
+-2.6
+-2.3
+54.4
+52.1
+-0.4
+-0.4
+0.6
+-1.0
+...
+0.0
+0.0
+0.0
+0.0
+1.6
+
+-1.1
+-2.7
+-2.5
+54.5
+52.0
+-0.2
+-0.2
+0.7
+-0.9
+...
+0.0
+0.0
+0.0
+0.0
+1.6
+
+Public sector debt-to-revenue ratio 1/
+
+66.7
+
+63.4
+
+81.5
+
+91.8
+
+91.2
+
+96.1
+
+97.3
+
+96.4
+
+95.1
+
+93.1
+
+90.8
+
+Gross financing need 6/
+in billions of U.S. dollars
+
+-1.2
+-3.0
+
+-0.1
+-0.2
+
+7.9
+18.9
+
+10.9
+26.0
+
+8.4
+22.3
+
+7.3
+18.3
+
+7.0
+18.0
+
+6.4
+17.3
+
+6.3
+17.5
+
+5.8
+16.9
+
+5.5
+16.5
+
+51.2
+51.2
+
+50.7
+53.0
+
+49.8
+54.0
+
+48.4
+55.0
+
+46.9
+56.0
+
+45.3
+57.2
+
+0.6
+2.8
+0.9
+...
+1.9
+1.5
+-0.2
+
+1.6
+2.7
+0.3
+...
+2.4
+1.8
+-0.7
+
+2.5
+2.9
+0.5
+...
+2.3
+1.5
+-1.5
+
+2.1
+3.1
+1.0
+...
+2.1
+1.7
+-1.8
+
+1.9
+3.4
+1.3
+...
+2.1
+1.3
+-2.3
+
+1.9
+3.5
+1.5
+...
+2.0
+1.6
+-2.5
+
+2 Change in public sector debt
+3 Identified debt-creating flows (4+7+12)
+4 Primary deficit
+5
+Revenue and grants
+6
+Primary (noninterest) expenditure
+7 Automatic debt dynamics 2/
+8
+Contribution from interest rate/growth differential 3/
+9
+Of which contribution from real interest rate
+10
+Of which contribution from real GDP growth
+11
+Contribution from exchange rate depreciation 4/
+12 Other identified debt-creating flows
+13
+Privatization receipts (negative)
+14
+Recognition of implicit or contingent liabilities
+15
+Other (specify, e.g. bank recapitalization)
+16 Residual, including asset changes (2-3) 5/
+
+Scenario with key variables at their historical averages 7/
+Scenario with no policy change (constant primary balance) in 2012-2017
+
+Debt-stabilizing
+primary
+balance 9/
+-0.2
+
+Key Macroeconomic and Fiscal Assumptions Underlying Baseline
+Real GDP growth (in percent)
+Average nominal interest rate on public debt (in percent) 8/
+Average real interest rate (nominal rate minus change in GDP deflator, in percent)
+Nominal appreciation (increase in US dollar value of local currency, in percent)
+Inflation rate (GDP deflator, in percent)
+Growth of real primary spending (deflated by GDP deflator, in percent)
+Primary deficit
+
+5.3
+4.0
+1.0
+10.3
+3.0
+1.5
+-6.8
+
+0.3
+4.3
+1.3
+-6.6
+2.9
+4.4
+-5.7
+
+-8.4
+3.8
+2.4
+7.2
+1.4
+4.8
+1.3
+
+3.7
+3.3
+2.9
+-9.5
+0.4
+2.7
+1.5
+
+2.9
+3.1
+-0.5
+-0.3
+3.6
+-0.1
+-0.6
+
+Sources: GlobalInsight, IMF World Economic Outlook, Statistics Finland, and Fund staff calculations and projections.
+1/ Indicate coverage of public sector, e.g., general government or nonfinancial public sector. Also whether net or gross debt is used.
+2/ Derived as [(r - (1+g  - g + (1+r]/(1+g++g)) times previous period debt ratio, with r = interest rate;  = growth rate of GDP deflator; g = real GDP growth rate;  = share of foreign-currency
+denominated debt; and  = nominal exchange rate depreciation (measured by increase in local currency value of U.S. dollar).
+3/ The real interest rate contribution is derived from the denominator in footnote 2/ as r - π (1+g) and the real growth contribution as -g.
+4/ The exchange rate contribution is derived from the numerator in footnote 2/ as (1+r).
+5/ For projections, this line includes exchange rate changes.
+6/ Defined as public sector deficit, plus amortization of medium and long-term public sector debt, plus short-term debt at end of previous period.
+7/ The key variables include real GDP growth; real interest rate; and primary balance in percent of GDP.
+8/ Derived as nominal interest expenditure divided by previous period debt stock.
+9/ Assumes that key variables (real GDP growth, real interest rate, and other identified debt-creating flows) remain at the level of the last projection year.
+
+FINLAND
+
+INTERNATIONAL MONETARY FUND
+
+2007
+
+2012 ARTICLE IV REPORT
+
+Table 9. Finland: Public Sector Debt Sustainability Framework, 2007–17
+(In percent of GDP, unless otherwise indicated)
+
+0.3
+-0.2
+
+FINLAND 2012 ARTICLE IV REPORT
+
+Table 10. Finland: Proposed Structural Fiscal Measures
+Measure
+Further pension reform:
+
+ Raising retirement
+age.
+ Lowering accrual rate
+for pension benefits.
+ Tightening early
+retirement.
+
+Savings in health and
+long-term care:
+
+ Increase in user fees.
+ Tightening
+entitlements to
+long-term care.
+ Productivity increases.
+ Benchmarking.
+
+Rationale
+
+Authorities’ View
+
+The average effective retirement age was
+around 60 in 2007, and the OECD
+estimates that raising it to 67 would
+suffice to close the sustainability gap.
+Even partial movement would greatly
+facilitate adjustment efforts. Sizable
+savings could be accrued by lowering the
+accrual rate for pension benefits—
+particularly for periods of parental leave,
+unemployment, and education—and
+tightening early retirement via disability
+or unemployment (disability pension
+recipients total about 8½ percent of the
+working age population, well above the
+OECD average of 5¾ percent).
+
+The authorities do not
+dispute the need for such
+measures. Steps already
+taken are expected to raise
+the effective retirement
+age by close to two years,
+and additional measures
+are to be introduced
+by 2017. Also, since 2010
+new pensions are adjusted
+downward as life
+expectancy rises.
+
+Health-care and long-term care
+expenditure are projected by the EC to
+rise to around 3¼ percent of GDP
+by 2060 with population aging, due to
+expensive advances in medical
+technology and real income growth,
+given high income elasticity of healthservices demand. Thus, an increase in
+user fees could moderate demand
+growth, although care should be taken to
+prevent overburdening the chronically ill.
+Tightening entitlements in long-term
+care could spawn savings in an area
+where aging pressures will be strong.
+Productivity increases in health- and
+long-term care of ½ percent a year
+(which has been achieved in some OECD
+countries) would significantly lower
+upward projections for spending.
+Domestic and international
+benchmarking to identify best practices
+would also be beneficial.
+
+The authorities agree on
+the need to contain costs
+and increase productivity
+and have made some
+progress in these areas.
+But they also emphasize
+the need to keep extensive
+availability of social
+services given societal
+preferences.
+
+INTERNATIONAL MONETARY FUND
+
+47
+
+FINLAND 2012 ARTICLE IV REPORT
+
+Table 10. Finland: Proposed Structural Fiscal Measures (concluded)
+Measure
+ Reform of local
+government (LG):
+ Reduce reliance on
+corporate taxes and
+enhance reliance on
+property taxes.
+ Ceiling on municipal
+income tax rates.
+ Broader competitive
+bidding.
+ Merger of municipalities.
+
+Improved rate of return on
+government financial assets.
+
+Rationale
+
+Authorities’ view
+
+Spending at the municipal level has
+grown faster than in the rest of the
+general government (GG) and
+municipality productivity has
+declined by about 10 percent
+over 2000–08. Reliance on corporate
+taxes at the municipal level—which
+have funded strong expenditure
+increases in good times due to their
+high cyclicality—ought to be
+reduced, offset by higher property
+taxation or, possibly, central
+government (CG) transfers. A ceiling
+on municipal income tax rates,
+expenditure ceilings at the municipal
+or local government level, and
+restraint in the growth of CG
+transfers would strengthen incentives
+for LG spending consolidation. Also,
+competitive bidding in the provision
+of services to LGs should be
+broadened to generate cost savings.
+Finally, there is scope for efficiency
+gains through mergers of
+municipalities.
+
+The authorities support the
+measures in principle but
+stress that the Finnish
+constitution gives local
+authorities broad autonomy.
+Thus, the consensus of the
+local government must be
+sought prior to introducing
+the reforms, which is not easy.
+The authorities have put
+forward a proposal for
+mergers of municipalities but
+any potential reform has been
+postponed until after the
+local elections in the autumn
+of 2012.
+
+General government financial assets
+exceeded 100 percent of GDP
+in 2010 and substantial portions of
+these assets are low-yielding,
+reflecting a cautious investment
+approach. Given the large stock, an
+asset management strategy that
+generates a modest increase in
+returns could make a significant
+contribution to close the
+sustainability gap.
+
+The authorities are
+considering options to do so
+while limiting any significant
+increase in risks.
+
+INTERNATIONAL MONETARY FUND
+
+48
+
+2012 ARTICLE IV REPORT—INFORMATIONAL ANNEX
+
+FINLAND
+
+FINLAND
+STAFF REPORT FOR THE 2012 ARTICLE IV
+August 3, 2012
+
+CONSULTATION––INFORMATIONAL ANNEX
+
+Prepared By
+
+European Department
+(in consultation with other departments)
+
+CONTENTS
+I. FUND RELATIONS _____________________________________________________________________ 2
+II. STAFF ANALYTICAL WORK ON FINLAND, 2001–12 ________________________________ 4
+III. PAST FUND STAFF RECOMMENDATIONS AND IMPLEMENTATION ______________ 6
+IV. STATISTICAL ISSUES _________________________________________________________________ 8
+
+2012 ARTICLE IV REPORT—INFORMATIONAL ANNEX
+
+FINLAND
+
+I. FUND RELATIONS
+(As of June 30, 2012)
+
+Mission: May 31 to June 11, 2012 in Helsinki. The concluding statement of the mission is available
+at http://www.imf.org/external/np/ms/2012/061112.htm.
+Staff team: Mr. L. Figliuoli (Head), Ms. L. Christiansen, Mr. D. Kanda, Ms. M. Hassine, Mr. A. Aslam
+(all EUR), and Mr. M. Kortelainen (RES). Mr. H. Berger (EUR) joined for part of the mission.
+Country interlocutors: Mr. E. Liikanen, Governor of the Bank of Finland; Ms. J. Urpilainen, Minister
+of Finance; other senior officials of the central bank, the ministry of finance, the ministry of
+employment and economy, the Financial Supervisory Authorities, Local and Regional Authorities;
+Parliamentary authority; social partners; and members of the business, financial sector, and
+research communities.
+Fund relations: The previous Article IV consultation discussions were held in Helsinki during May
+27 to June 7, 2010 and the staff report was discussed by the Executive Board on August 25, 2010.
+The Executive Board’s assessment and staff report (IMF country Report No. 10/273, September
+2010) are available at http://www.imf.org/external/pubs/cat/longres.aspx?sk=24180.0. The Article
+IV discussions with Finland are on the 24-month consultation cycle.
+
+I.
+
+Membership Status: Joined January 14, 1948; Article VIII.
+
+II.
+
+General Resources Account:
+Quota
+Fund holdings of currency
+Reserve Tranche Position
+Lending to the Fund
+New Arrangements to Borrow
+
+SDR Million
+1,263.80
+841.54
+422.27
+
+III.
+
+SDR Department:
+Net cumulative allocation
+Holdings
+
+SDR Million
+1,189.51
+1,120.71
+
+IV.
+
+Outstanding Purchases and Loans:
+
+None
+
+Latest Financial Arrangements:
+
+None
+
+V.
+
+2
+
+INTERNATIONAL MONETARY FUND
+
+Percent of Quota
+100.00
+66.59
+33.41
+
+227.70
+Percent of Quota
+100.00
+94.22
+
+FINLAND
+
+VI.
+
+2012 ARTICLE IV REPORT—INFORMATIONAL ANNEX
+
+Projected Payments to Fund:
+(SDR million; based on existing use of resources and present holdings of SDRs):
+Forthcoming
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+Charges/Interest
+
+0.04
+
+0.10
+
+0.10
+
+0.10
+
+0.10
+
+Total
+
+0.04
+
+0.10
+
+0.10
+
+0.10
+
+0.10
+
+Principal
+
+VII.
+
+Exchange Rate Arrangements:
+Finland’s currency is the euro, which floats freely and independently against other currencies.
+Finland has accepted the obligations under Article VIII, Sections 2(a), 3, and 4 of the Fund’s
+Articles of Agreement. It maintains an exchange system free of restrictions on the making of
+payments and transfers for current international transactions, except for those measures
+imposed for security reasons in accordance with Regulations of the Council of the European
+Union, as notified to the Executive Board in accordance with Decision No. 144-(52/51).
+
+INTERNATIONAL MONETARY FUND
+
+3
+
+2012 ARTICLE IV REPORT—INFORMATIONAL ANNEX
+
+FINLAND
+
+II. STAFF ANALYTICAL WORK ON FINLAND, 2001–12
+Fiscal Policy
+
+
+From Short-term Vulnerabilities to Long-term Sustainability, Analytical Note 6, Selected Issues and
+Analytical Notes, August 2012 www.imf.org.
+Fiscal Rules in Perspective, Analytical Note 7, Selected Issues and Analytical Notes, August 2012
+www.imf.org.
+
+
+
+Long Run Fiscal Sustainability in Finland, Analytical Note 5, September 2010, IMF Country Report
+No. 10/273.
+
+
+
+Fiscal Sustainability in Finland: The Role of Population Aging and Structural Reforms, Selected
+Issues, February 2005, IMF Country Report No. 05/36.
+
+
+
+The Impact of Fiscal Policy in Finland, Selected Issues, October 2003, IMF Country Report No.
+03/326.
+
+Financial Sector
+
+
+Basel III and the Finnish Financial System, Analytical Note 5, Selected Issues and Analytical Notes,
+August 2012 www.imf.org.
+
+
+
+Macro-financial Linkages, Analytical Note 2, Selected Issues and Analytical Notes, August 2012
+www.imf.org.
+
+
+
+Macroeconomic Deleverage Scenarios, Analytical Note 4, Selected Issues and Analytical Notes,
+August 2012 www.imf.org.
+
+
+
+Macro-Financial Linkages, Analytical Note 1, September 2010, IMF Country Report No. 10/273.
+
+
+
+International Trade and Financial Spillovers, Analytical Note 2, September 2010, IMF Country
+Report No. 10/273.
+
+
+
+Financial-Real Sector Linkages in Finland, Appendix I, February 2009, IMF Country Report No.
+09/39.
+
+Labor Markets
+
+
+4
+
+Enhancing Employment Rates in Finland: The Role of Activation Strategies, Selected Issues, August
+2007, IMF Country Report No. 07/278.
+
+INTERNATIONAL MONETARY FUND
+
+FINLAND
+
+2012 ARTICLE IV REPORT—INFORMATIONAL ANNEX
+
+Growth, Productivity, and Related Cyclical Issues
+
+
+International Spillovers, Analytical Note 1, Selected Issues and Analytical Notes, August 2012
+www.imf.org.
+
+
+
+Potential Output Estimates, Analytical Note 3, Selected Issues and Analytical Notes, August 2012
+www.imf.org.
+
+
+
+The Crisis and Potential Output in Finland, Analytical Note 3, September 2010, IMF Country Report
+No. 10/273.
+
+
+
+External Competitiveness, Analytical Note 4, September 2010, IMF Country Report No. 10/273.
+
+
+
+Estimating the Output Gap in Finland, October 2003, IMF Country Report No. 03/326.
+
+
+
+A Note on Finland’s “New Economy”, Selected Issues, November 2001, IMF Country Report No.
+01/215.
+
+INTERNATIONAL MONETARY FUND
+
+5
+
+2012 ARTICLE IV REPORT—INFORMATIONAL ANNEX
+
+FINLAND
+
+III. PAST FUND STAFF RECOMMENDATIONS AND
+IMPLEMENTATION
+Past Staff Recommendations
+
+Fiscal Policy
+
+Although the general government deficit is
+manageable, the overall fiscal position under
+current policies remains unsustainable. While the
+large fiscal impulse in 2009 was warranted from
+a cyclical perspective, the composition of fiscal
+measures raised concerns as not all would be
+automatically reversed once growth resumed. A
+strong and credible commitment to a measured
+budget consolidation is required to restore
+sustainability. Stronger consolidation would be
+possible only if growth turns out to be more
+robust than expected. The twin objectives of
+reducing output and fiscal sustainability gaps
+must be balanced. Fiscal adjustment efforts
+should focus on expenditure restraint, notably at
+the local level and via pension, old age and
+healthcare reforms, as well as tax base
+broadening, although scope remains for raising
+indirect and property taxes. The efficiency of
+public services needs to be increased.
+
+Implementation
+
+Local government reform is being discussed with
+the aim of reducing the number of municipalities
+to a smaller total, which can provide basic public
+services more cost effectively and efficiently.
+However, the decision has been postponed. The
+standard VAT rate was increased by one
+percentage point to 23 percent and energy taxes
+were increased on average by 150 percent.
+Excise duties were raised while the corporate
+income tax rate was cut. Municipalities were
+given a greater share of revenues, and also
+raised municipal tax rates. Significant reforms in
+the pension system were adopted in 2005 with
+little action subsequently, though on
+January 1, 2011 the age limit for the part-time
+pension was increased to 60 years for individuals
+born after 1952. Further plans include increasing
+pension contributions by 0.4 percentage points
+in both 2015 and 2016.
+
+Labor Market Policy
+The wage bargaining system needs to allow for
+greater flexibility in wage setting. Measures are
+needed to ease labor market mismatches, reduce
+structural unemployment, and induce early entry
+into the labor force. Reforms of tertiary
+educational financing could also promote earlier
+employment among the youth. At the other end
+of the age spectrum, the unemployment pipelines
+ought to be further restricted or eliminated.
+
+6
+
+INTERNATIONAL MONETARY FUND
+
+The government has undertaken to expand labor
+participation through reforms of the tax and
+benefits system and intensified training. The
+Finnish central-level labor market organizations
+concluded a broad-based framework agreement in
+October 2011. The new agreement sets the
+framework for pay and cost increases in branchlevel collective agreements for a period of
+25 months. Wage increases were moderated in
+exchange for a 0.5 percent cut in the corporate
+income tax. On education, in 2011 there was a
+minor tightening of annual minimum
+requirements for progress in study to qualify for
+financial support, while university funding rules
+remain unchanged. A social guarantee, coming
+
+FINLAND
+
+2012 ARTICLE IV REPORT—INFORMATIONAL ANNEX
+
+into force in 2012, will offer youth, within
+3 months of becoming unemployed, a job,
+on-the-job training, a study place, or a period in a
+workshop or retraining.
+Competition Policy
+Increase competition in services (for example,
+liberalizing shop operating hours) and product
+markets, especially in ‘sheltered’ sectors, to
+boost productivity growth.
+
+Finland has raised R&D investment to 4 percent
+of GDP in 2010 in line with its target. The
+government will review the use of R&D tax
+incentives over direct subsidies for businesses
+and start-ups. The 2011 Competition Act
+brought regulation in line with
+recommendations from the European
+Commission. It allows for stricter merger control,
+enhanced damage compensation,
+whistle-blowing instruments, and expanded
+investigative powers for the Finnish Competition
+Authority.
+
+Financial Sector Policy
+Actions in support of the financial system have
+been appropriate but bank cost efficiency should
+be improved, while excessive risk-taking
+avoided. Supervision and crisis management
+frameworks for large cross-border institutions
+must also be strengthened. A bank-specific
+resolution regime would render the process
+faster and more cost-effective. Vigilance on
+liquidity risk and banks’ funding and risk profiles
+should be stepped up. There is also scope to
+further strengthen the analytical frameworks for
+stress testing and systemic risk assessment.
+Intense competition has reduced banks’ net
+interest margins. Further cost reductions will be
+important as funding stresses, associated with
+the euro area sovereign debt crisis, could persist.
+
+A Memorandum of Understanding (MoU) on
+financial stability, crisis management and crisis
+resolution was signed by the ministries of
+finance, central banks, and financial supervisory
+authorities in Denmark, Estonia, Finland, Iceland,
+Latvia, Lithuania, Norway, and Sweden. The
+supervisory authorities of the participating
+countries also set up a cross-border stability
+group. A uniform financial sector stress test was
+conducted between March and May 2012 by the
+FIN-FSA in cooperation with supervised entities.
+Supervision exercises were more risk-based
+throughout 2011 and on-site inspection activity
+increased.
+
+INTERNATIONAL MONETARY FUND
+
+7
+
+2012 ARTICLE IV REPORT—INFORMATIONAL ANNEX
+
+FINLAND
+
+IV. STATISTICAL ISSUES
+(As of June 20, 2012)
+Assessment of Data Adequacy for Surveillance:
+General: Data provision is adequate for surveillance.
+Data Standards and Quality
+Subscriber to the Fund’s Special Data Dissemination Standard (SDDS) since June 3, 1996. Uses SDDS
+flexibility options for timeliness on data for central government operations.
+A data ROSC was electronically published on October 31, 2005
+(http://www.imf.org/external/pubs/cat/longres.cfm?sk=18675.0).
+
+8
+
+INTERNATIONAL MONETARY FUND
+
+FINLAND 2012 ARTICLE IV REPORT—INFORMATIONAL ANNEX
+
+Finland: Table of Common Indicators Required for Surveillance
+(As of July 18, 2012)
+Date of
+latest
+observation
+
+Date
+received
+
+Frequency
+of
+7
+Data
+
+Frequency
+of
+7
+Reporting
+
+Frequency
+of
+7
+Publication
+
+06/12
+
+07/02/12
+
+D
+
+D
+
+D
+
+05/12
+
+07/12
+
+M
+
+M
+
+M
+
+Reserve/Base Money
+
+05/12
+
+07/12
+
+M
+
+M
+
+M
+
+Broad Money
+
+04/10
+
+06/10
+
+M
+
+M
+
+M
+
+Central Bank Balance Sheet
+
+05/10
+
+06/10
+
+M
+
+M
+
+M
+
+05/10
+
+06/10
+
+M
+
+M
+
+M
+
+Interest Rates
+
+06/12
+
+07/02/12
+
+D
+
+D
+
+D
+
+Consumer Price Index
+
+05/12
+
+06/12
+
+M
+
+M
+
+M
+
+Q4 2011
+
+04/12
+
+A
+
+A
+
+A
+
+Exchange Rates
+International Reserve Assets and Reserve
+1
+Liabilities of the Monetary Authorities
+
+Consolidated Balance Sheet of the
+Banking System
+2
+
+Revenue, Expenditure, Balance and
+3
+Composition of Financing – General
+4
+Government
+Revenue, Expenditure, Balance and
+3
+Composition of Financing – Central
+Government
+Stocks of Central Government and
+5
+Central Government-Guaranteed Debt
+External Current Account Balance
+Exports and Imports of Goods and
+Services
+GDP/GNP
+Gross External Debt
+International Investment Position
+
+6
+
+11/11
+
+01/12
+
+A
+
+A
+
+A
+
+05/10
+
+06/10
+
+M
+
+M
+
+M
+
+Q4 2011
+
+04/12
+
+M
+
+M
+
+M
+
+Q4 2011
+
+04/12
+
+M
+
+M
+
+M
+
+Q4 2011
+
+03/12
+
+Q
+
+Q
+
+Q
+
+04/08
+
+06/08
+
+M
+
+M
+
+M
+
+Q4 2011
+
+03/12
+
+M
+
+M
+
+M
+
+Memo Items:
+Data Quality–
+Methodologic
+8
+al soundness
+
+Data Quality–
+Accuracy and
+9
+reliability
+
+O, O, O, O
+
+LO, O, LO, O,
+O
+
+LO, LO, LNO,
+O
+
+LO, O, O, O, O
+
+O, O, O, LO
+
+LO, O, LO, O,
+O
+
+O, O, O, O
+
+LO, O, LO, O,
+O
+
+1
+
+Any reserve assets that are pledged or otherwise encumbered should be specified separately. Also, data should comprise short-term liabilities
+linked to a foreign currency but settled by other means as well as the notional values of financial derivatives to pay and to receive foreign currency,
+including those linked to a foreign currency but settled by other means.
+2
+Both market-based and officially-determined, including discount rates, money market rates, rates on treasury bills, notes, and bonds.
+3
+Foreign, domestic bank, and domestic nonbank financing.
+4
+The general government consists of the central government, including National Insurance Scheme, and local governments.
+5
+Including currency and instrument composition.
+6
+Includes external gross financial asset and liability positions vis-a-vis nonresidents.
+7
+Daily (D); weekly (W); monthly (M); quarterly (Q); annually (A); irregular (I); and not available (NA).
+8
+Reflects the assessment provided in the data ROSC (published in October 2005, and based on the findings of the mission that took place during
+May 10–25, 2005) for the dataset corresponding to the variable in each row. The assessment indicates whether international standards concerning
+concepts and definitions, scope, classification/sectorization, and basis for recording are fully observed (O); largely observed (LO); largely not
+observed (LNO); or not observed (NO).
+9
+Same as footnote 8, except referring to international standards concerning source data, statistical techniques, assessment and validation of
+source data, assessment and validation of intermediate data and statistical outputs, and revision studies.
+
+INTERNATIONAL MONETARY FUND
+
+9
+
+Statement by the IMF Staff Representative on Finland
+August 27, 2012
+
+1.
+This statement summarizes developments in Finland since the issuance of the
+staff report (www.imf.org). The additional information does not change the thrust of the
+staff appraisal.
+2.
+Economic developments in 2011 have proven somewhat weaker than indicated in
+the staff report, while staff now also projects lower growth in 2013.
+•
+Recent revisions to the official data reveal that real GDP growth in 2011 reached
+2.7 percent, down from the 2.9 percent previously estimated. In addition, revisions to
+the current account statistics now put the corresponding 2011 deficit at 1.2 percent of
+GDP, compared to 0.7 percent of GDP before.
+•
+Real GDP growth for 2013 is now expected at 1.4 percent (compared to 1.6 percent in
+the staff report), reflecting up-to-date information pointing to a longer-lasting period
+of weak growth than anticipated in the staff report, owing to continuation of the
+weakness in the euro area. In particular, new orders in manufacturing continued their
+worsening trend in June and consumer confidence has deteriorated.
+3.
+Staff projects the 2012 headline fiscal balance to be also slightly weaker. The
+deficit for 2012 is now expected at 1.3 percent of GDP (compared to 1.1 percent before),
+partly owing to lower-than-expected tax collections, which has prompted a downward
+revision of general government revenue.
+
+Public Information Notice (PIN) No. 12/103
+FOR IMMEDIATE RELEASE
+August 31, 2012
+
+International Monetary Fund
+700 19th Street, NW
+Washington, D. C. 20431 USA
+
+IMF Executive Board Concludes 2012 Article IV Consultation with
+Finland
+On August 27, 2012 the Executive Board of the International Monetary Fund (IMF) concluded
+the Article IV consultation with Finland. 1
+Background
+While Finland has strong fundamentals and a track record of good policies, the near-term
+economic outlook is highly vulnerable to external developments. This owes in particular to the
+high export dependence and financial sector interlinkages with other Nordic countries.
+Spillovers to Finland have already been significant with growth decelerating at end-2011 as the
+euro area sovereign debt crisis intensified. Although Finland has benefited from safe-haven
+status during the European sovereign debt turmoil so far, risks to the outlook are tilted to the
+downside.
+After the deep recession of 2008–09, the Finnish economy rebounded robustly in 2010 but the
+sovereign debt turmoil in the euro area dragged it to a standstill in late 2011. Though activity in
+the first quarter of 2012 turned out slightly stronger than expected, weak investment continued
+to point to a deteriorating growth outlook, consistent with a deterioration in construction and
+producer confidence indicators. The unemployment rate came down gradually in 2011, after a
+Under Article IV of the IMF's Articles of Agreement, the IMF holds bilateral discussions with
+members, usually every year. A staff team visits the country, collects economic and financial
+information, and discusses with officials the country's economic developments and policies. On
+return to headquarters, the staff prepares a report, which forms the basis for discussion by the
+Executive Board. At the conclusion of the discussion, the Managing Director, as Chairman of the
+Board, summarizes the views of Executive Directors, and this summary is transmitted to the
+country's authorities. An explanation of any qualifiers used in summings up can be found here:
+http://www.imf.org/external/np/sec/misc/qualifiers.htm.
+1
+
+2
+moderate increase during the 2008–09 crisis partly due to labor hoarding, but it ceased to
+improve in the second quarter of 2012. Meanwhile, inflation started to moderate in the second
+half of 2011 after the effects of indirect tax increases waned. While competitiveness remains
+adequate it has deteriorated markedly as Finland continued to lose export market shares during
+the past decade, and for the first time in nearly two decades recorded a small current account
+deficit in 2011.
+The banking system has remained generally sound despite the increasing strains in the euro
+area financial markets. Capital comfortably exceeds regulatory requirements and the nonperforming loan rate remains low, though it increased somewhat during 2011. However, banks’
+operating profits have declined amid weakening interest income and increased competition for
+retail business. In addition, the Finnish banking sector is highly concentrated with a majority of
+assets controlled by subsidiaries of foreign Nordic banks, exposing it to the risk of short-term
+funding shortfall and financial-sector spillovers from a potential intensification of the euro area
+crisis. The insurance and pension fund sectors have weathered the ongoing crisis well, though
+the insurance sector has suffered a reduction in solvency margins during 2010–11.
+Nonetheless, these still remain high and well above regulatory minima. Household debt has
+risen rapidly during the past decade and now accounts for more than 110 percent of disposable
+income, while house prices appear broadly in line with fundamentals.
+The fiscal position improved markedly in 2011 after a sharp deterioration in 2009. As fiscal
+policy turned to support growth through automatic stabilizers and discretionary budget stimulus,
+the general government budget position worsened by about 7 percentage points of GDP in
+2009 but remained below the Maastricht deficit limit in 2009–10. With some policy tightening
+and continued economic recovery into 2011, the headline deficit of the general government
+improved markedly to less than 1 percent of GDP, and gross debt, while continuing to increase,
+ended 2011 at below 50 percent of GDP. Nonetheless, projected weak growth in 2012 will likely
+result in a renewed worsening of the headline deficit and population aging remains a challenge
+for long-term fiscal sustainability.
+Executive Board Assessment
+Executive Directors commended Finland’s strong economic fundamentals and continued sound
+policy management. Directors noted, however, that as a small open economy, with deep trade
+and financial linkages, the country is sensitive to adverse spillovers from the turmoil in the euro
+area. Economic activity has slowed and risks to the outlook are tilted to the downside. The
+economy also faces longer-term challenges arising from an aging population and slowing
+productivity, which could impact competitiveness and growth. Against this backdrop, Directors
+welcomed the authorities’ commitment to prudent policies aimed at improving internal and
+external imbalances, safeguarding financial sector stability, and ensuring long-term fiscal
+sustainability.
+
+3
+
+Directors welcomed that the banking sector is sound and well capitalized. In light of the high
+dependence on wholesale funding and foreign parent banks, they emphasized the importance
+of gradually building up bank capital and liquidity buffers. This will also be important with regard
+to the transition to Basel III and the additional efforts needed for some individual institutions to
+satisfy leverage ratio and liquidity requirements.
+Directors welcomed the authorities’ plans to strengthen macroprudential supervision and
+underscored the need to strengthen limits to loan-to-value ratios and to introduce a national
+loan registry to guard against excessive borrowing. They also recommended close monitoring of
+banks’ risk-taking behavior given the vulnerability of households to a rapid rise in the interest
+rate owing to the large share of variable-rate loans.
+Directors highlighted the need to enhance cross-country supervision and crisis resolution
+frameworks in response to increased cross-border banking activities and the prominent role of
+large international groups. While a common bank-resolution framework-along with a common
+enforcement mechanism—at the EU level is preferable, most Directors noted that national or
+regional plans should be designed in the interim.
+Directors supported the current broadly neutral fiscal stance and the authorities’ adjustment
+plan aimed at addressing long-term fiscal challenges and closing the sustainability gap. They
+agreed that automatic stabilizers should be allowed to operate if downside risks materialize, and
+many Directors saw merit in a flexible approach to implementing medium-term consolidation
+plans, in particular if growth underperforms significantly.
+Directors observed that fiscal efforts should focus on mitigating the expected rise in health and
+long-term care costs and further tightening unemployment and disability pipelines to early
+retirement as well as increasing the statutory minimum and maximum retirement age. On the
+revenue side, they recommended broadening the tax base and a shift from labor taxation to
+consumption and property-based taxation. Improvements to the fiscal framework to slow down
+increases in local government spending could also help achieve sustainability.
+To boost potential growth and competitiveness, Directors emphasized the need for reforming
+the labor market and improving productivity. They welcomed the recent steps to increase the
+effective retirement age and adjust pension entitlements, but highlighted the need for further
+efforts towards greater labor force participation. They also recommended refocusing public R&D
+expenditures toward basic research, further competition in the service sector, and increased
+flexibility in wage setting.
+
+4
+
+Public Information Notices (PINs) form part of the IMF's efforts to promote transparency of the IMF's
+views and analysis of economic developments and policies. With the consent of the country
+(or countries) concerned, PINs are issued after Executive Board discussions of Article IV consultations
+with member countries, of its surveillance of developments at the regional level, of post-program
+monitoring, and of ex post assessments of member countries with longer-term program engagements.
+PINs are also issued after Executive Board discussions of general policy matters, unless otherwise
+decided by the Executive Board in a particular case. The staff report (use the free Adobe Acrobat Reader
+to view this pdf file) for the 2012 Article IV Consultation with Finland is also available.
+
+Finland: Selected Economic Indicators, 2010–13
+2010
+2011
+
+2012 1/
+
+2013 1/
+
+2.7
+3.3
+7.8
+19.6
+20.8
+
+0.6
+2.8
+7.6
+18.3
+19.9
+
+1.4
+2.3
+7.7
+18.5
+19.8
+
+-2.9
+-1.5
+48.6
+
+-0.8
+0.6
+49.1
+
+-1.3
+0.0
+52.5
+
+-0.9
+0.4
+53.8
+
+Money and credit (end of year, percentage change)
+M3 (Finnish contribution to euro area, growth rate, e.o.p.)
+Finnish MFI euro area loans (growth rate, e.o.p.)
+
+4.8
+6.3
+
+6.9
+6.2
+
+…
+…
+
+…
+…
+
+Interest rates (year average, percent)
+3-month money market rate 4/
+10-year government bonds yield 4/
+
+0.8
+3.0
+
+1.4
+3.0
+
+0.7
+2.0
+
+…
+…
+
+Balance of payments (in percent of GDP)
+Trade balance
+Current account
+
+1.4
+1.4
+
+-0.6
+-1.2
+
+-0.2
+-1.6
+
+-0.3
+-1.3
+
+Real economy
+GDP (change in percent)
+Consumer price inflation (harmonized, average) 2/
+Unemployment rate (in percent) 2/
+Gross national saving (in percent of GDP)
+Gross domestic investment (in percent of GDP)
+
+3.3
+1.7
+8.4
+19.9
+18.5
+
+Public finances (general government, in percent of GDP)
+Overall balance
+Primary balance 3/
+Gross debt (Maastricht definition)
+
+Exchange rate
+Exchange rate regime
+Euro
+Present rate (July 18, 2012)
+USD1.22 per euro
+Nominal effective rate (appreciation in percent)
+-4.5
+0.0
+…
+Real effective rate (appreciation in percent) 5/
+-5.4
+0.1
+…
+Sources: Finnish authorities, International Financial Statistics, and IMF staff estimates.
+1/ Fund staff estimates and projections, unless otherwise indicated.
+2/ Consistent with Eurostat methodology.
+3/ Adjusted for interest expenditure.
+4/ 2012 data are from June 29.
+5/ CPI-based real effective exchange rate.
+
+…
+…
+
+Statement by Benny Andersen, Executive Director for Finland
+and Kari Korhonen, Senior Advisor to the Executive Director
+August 27, 2012
+The Finnish authorities once again welcome the candid dialogue with the mission and agree
+on balance with the findings presented in the staff report.
+Recent Economic Developments and Outlook
+The authorities share the staff’s views on recent developments and outlook. Following the
+onset of the global financial crisis Finland’s economy plummeted in 2009, but recovered well
+during 2010, driven by external demand and strong residential building construction, and has
+weathered the euro area (EA) crisis relatively well until the end of 2011, supported by robust
+private consumption and investment. This is largely due to the fact that at the outbreak of the
+crisis there were no major imbalances in the Finnish economy.
+However, the outlook has recently deteriorated due to the deepening and prolonging of the
+EA sovereign debt crisis. GDP declined by 0.3 percent in Q2 of 2012 from the same period
+of last year. Growth is expected to come almost entirely from private consumption in 2012.
+The latest forecast by the Ministry of Finance as of June sees an annual rate of growth of
+1.2 percent in 2013.
+Last year, exports declined in volume terms by close to 1 percent and the trade balance
+moved into a deficit. This year, exports are forecast to grow only slowly owing to weak
+demand in our main export markets in Europe. Finland’s international competitiveness has
+deteriorated since 2010 and this is reflected in some loss of market share. Consumer price
+inflation peaked at 3.7 percent in July 2011, but has since decelerated to 2.9 percent this past
+July. The Ministry of Finance forecasts the harmonized inflation rate to moderate from
+3.0 percent in 2012 to 2.4 percent in 2013.
+In line with the deceleration of economic activity, the increase in employment came to a
+standstill by the end of 2011. The risk of higher than forecast unemployment rate is
+warranted, in particular, if the uncertain situation and weaker confidence were to continue
+both in Finland and in the rest of Europe. The recent announcement by Nokia of a substantial
+cut of jobs in Finland along with other companies’ layoff news is reflected in the latest
+confidence surveys that show increased pessimism. Employment in the public sector
+increased during the past two years. There is pressure to increase staffing in the social
+services sector, in particular in health and old age care. Hence, it is expected that public
+sector employment will continue to increase in spite of the tight fiscal situation in
+municipalities.
+In spite of the EA crisis, the state of the financial system has remained stable in Finland. The
+low ECB policy rates have had a positive impact on the economy. Moreover, Finland has
+
+2
+been able to afford expansionary fiscal policies when needed in order to support employment
+and growth. Households have clearly benefited from the low interest rate environment and
+have not been forced to deleverage. The authorities have, however, repeatedly cautioned
+banks/households about the risks of excessive lending/borrowing for housing and
+consumption.
+Risks to the Outlook
+The authorities agree with staff on the risks to the outlook presented in the staff report. The
+current account has turned from a sizeable surplus in the past decade into a small deficit.
+There are several explanations for this outcome such as sector-specific problems in the
+forestry and electronics industries, adverse commodity price developments and weakened
+international competitiveness since 2010. Given the low interest rates since 2009, household
+consumption and housing investments have been boosted by debt-financing. This
+development has contributed to the rebalancing of the current account. While the current
+account deficit is still small, and its financing does not pose a problem, it nevertheless points
+to a risk of emerging external imbalance should the deficit continue to grow.
+Regarding the stability of the financial system, spillovers due to the EA crisis pose
+potentially serious risks for Finland as well. As pointed out by staff, the risks from domestic
+sources emanate mainly from mortgage financing, which is mostly linked to very short-term
+interest rates. The authorities agree with staff that the household debt could burden the riskbearing capacity of Finland’s financial system and the economy in the longer term if it
+continues to increase as it has in the past few years.
+In view of the weakened economic outlook in Finland and in her main trading partners, the
+risk of higher unemployment has become more evident over the summer. The authorities do
+share staff’s concern about the risks facing the economy in the short and longer term and are
+committed to implementing policies that aim for a better internal and external balance and
+maintenance of financial sector stability.
+Financial stability
+The authorities concur with staff’s view that the main risks to Finland’s financial stability
+originate currently from the EA crisis. A mitigating factor for the banking sector is the fact
+that the Nordic banks operating in Finland are only moderately exposed to the EA crisis
+countries.
+Staff and the authorities agree that while the banking sector is currently sound and meets the
+minimum capital and conservation buffer requirements envisaged under Basel III, some
+institutions would benefit from stronger capital and especially liquidity buffers in order to
+better withstand adverse market conditions. The authorities will encourage the financial
+sector to build up capital and liquidity buffers gradually in order not to induce deleveraging.
+
+3
+With regard to staff’s recommendation on an extra capital charge for SIFIs, a high level
+working group is analyzing whether such a charge should be implemented through the
+Finnish legislation.
+On the bank funding situation, staff and authorities agree that a worsening of the EA crisis
+has the potential to put wholesale funding at risk, because the Finnish banking sector is
+highly concentrated and largely dependent of wholesale funding.
+The increase of cross-border banking activities requires commensurate strengthening of the
+supervision and regulation framework for the maintenance of financial stability at all times.
+Accordingly the authorities envisage a continued enhancement of cross-border cooperation
+bringing benefits to all parties involved. While they appreciate the current cross-border
+cooperation agreed in the Memoranda of Understanding, they see merit in making them more
+effective. The recent initiative to move towards a Banking Union at EU/EA level in a
+relatively short timeframe is a major step forward in strengthening cross-border supervision.
+The recovery and resolution framework for banks should be developed. This issue was
+discussed also during the 2010 and 2011 consultations and the authorities voiced their
+preference for a common EU-level framework. For the authorities, the latest (June 2012)
+proposal by the EU Commission for an EU recovery and resolution directive provides a good
+basis to move forward in this area. Similarly, the pending FSAP recommendation on the
+supervisory framework for bank-assurance will be accomplished when implementing the new
+EU regulations (CRD4 and Financial Conglomerates Directive).
+House prices and household debt increased strongly in Finland before the financial crisis, as
+in most other developed economies, but the level of household debt remained relatively low
+in international comparison. There are no clear indications of real overvaluation in Finnish
+house prices; rather they are in line with fundamentals.
+Nevertheless, the authorities are well aware of the potential risks emanating in the housing
+market in view of the uncertain economic outlook and rising unemployment. The authorities
+have cautioned households of being perhaps overly optimistic about their future income
+growth and the continuation of the very low level of interest rates as more or less permanent.
+Likewise, the authorities have reminded the mortgage lenders of requiring adequate down
+payments from borrowers and calculations of mortgage servicing capacity at significantly
+higher interest rates than at the current historically low rates. It seems that the authorities’
+advice is working, because the latest data on individual mortgages shows that interest
+margins are on the rise and that borrowers are motivated to lower the interest margin by
+increasing their down payments, which reduces Loan-to-Value ratios (LTV).
+Staff’s advice to policymakers for mitigating risks of household debt is to design policy tools
+which could be implemented quickly in order to moderate debt growth in case that is deemed
+
+4
+necessary. For instance, setting binding LTV ratios would be one such potential tool, and the
+authorities welcome the plan to legislate such powers for the FIN-FSA. Banks would also
+start to report standardized LTV ratios to the supervisor in the future. Staff suggested the
+establishment of national loan registry, whose implementation – and effectiveness as a
+macro-prudential tool – in Finland will be explored. Traditionally, Finnish homeowners are
+reliable mortgage borrowers, firstly, because the homeownership is the most common form
+for building equity and, secondly, affordable rental housing for family needs is scarce.
+Fiscal policy
+The authorities share the staff’s view on the fiscal position and fiscal policy stance. The
+government’s fiscal strategy is focused on the achievement of long-term sustainability. The
+government is committed to a substantial reduction in the central government debt-to-GDP
+ratio by 2015 as well as to cutting central government deficit to below 1 percent of GDP.
+In view of the weakened economic outlook, the government is looking into new measures to
+revive economic activity and to build up consumer and industry confidence. Continuation of
+structural reforms plays an important role in this respect. In spite of the formidable challenge
+the government now faces, it is determined to continue fiscal consolidation within the
+Government Program for 2012-2015. The closing of the fiscal sustainability gap as planned
+does not allow slippages.
+The plan ahead is as follows: during spring of 2013, after the government has made an
+assessment of the progress in the Program targets, additional revenue and expenditure
+measures will be determined, if needed, to keep the Program on track.
+Even though the Finnish general government deficits and debt are relatively low compared to
+those of many other countries, bringing the debt ratio on a declining path is a must and will
+enable Finland to maintain the AAA rating. Demographic ageing reduces potential growth,
+increases age-related spending and poses a tough challenge on the sustainability of public
+finances. This challenge has been aggravated by the deterioration of the public finances in
+the wake of the financial crisis. Tax revenue has dropped, while public expenditure has
+continued to grow. In relation to GDP, public expenditure is expected to remain at an
+elevated level in the next few years despite recent consolidation measures.
+Closing the sustainability gap of 4¼ percent over 10 years implies now an adjustment of
+½ percent of GDP per annum. The authorities agree with staff on the suggested measures to
+achieve sustainability. These measures are in line with the ones already discussed during the
+2010 consultation and the 2011 staff visit. They are included in the government’s program.
+There is full agreement between staff and the authorities on the fact that the scope for
+increasing income taxation is limited and that the tax base should be broadened to taxing
+
+5
+consumption, energy and property. Staff’s suggestion to eliminate items on reduced VAT
+deserves merit, but the authorities have faced opposition, for instance, on the grounds that
+raising VAT on food items would mainly hurt persons on fixed incomes, low income earners
+and families with dependent children. The lower VAT rates were earlier introduced on some
+services in order to raise demand for them and thus generate employment in the service
+sector, which is the fastest growing sector in terms of employment.
+On the expenditure side, the government is currently working on measures to limit the
+growth of fiscal expenditures related to old age care and thus preparing in advance for the
+future aging related costs. In this vein, the ongoing project of municipal mergers is expected
+to have a significant impact on containing costs when the baby boom generation reaches the
+age of 75 and over in about 10 years.
+The issue of tuition fees appears regularly in the consultation discussions concerning saving
+in the tertiary education, which up to now has been free in Finland. There is a strong
+consensus in the Finnish society that education should be provided free of charge to those
+who qualify, and reforms should not lead to less equal opportunities and limit upward
+mobility. In fact, measures have been already taken to speed up the graduation from tertiary
+education by limiting the number of years of obtaining educational grants. This financial
+incentive has already had an impact by shortening the average time spent toward graduation
+with Master’s degrees.
+Structural reforms to promote growth
+Upon observations of the structural reforms recommended by Fund staff during the
+Article IV consultations of the past decade, one finds that there has been significant progress
+on most of them such as the pension reform, lengthening of working life on both ends and
+municipal consolidation. It takes time to garner political support for major structural reforms,
+but the prevailing negotiation process involving the authorities at the central and local level,
+and employee and employer organizations has turned out to be a workable model.
+In the social services sector, the authorities see room for more private-public partnership in
+order to provide diversification of services and to enhance cost efficiency. There is also room
+for improvement to find a better balance between unemployment benefits and incentives to
+work such that accepting employment would become clearly preferable to living on benefits
+and transfers.
+Also, promoting competition in various sectors of the economy would increase potential
+output. International cost-competitiveness of Finnish production must be enhanced such that
+further weakening of the external balance is to be avoided. At the same time, increased
+flexibility in wage setting at the firm and industry level is needed. This would promote costcompetitiveness and the ability of the economy to adapt to changes.
+
+

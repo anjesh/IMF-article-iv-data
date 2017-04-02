@@ -1,0 +1,8624 @@
+IMF Country Report No. 12/342
+
+FRANCE
+December 2012
+
+2012 ARTICLE IV CONSULTATION
+Under Article IV of the IMF’s Articles of Agreement, the IMF holds bilateral discussions with
+members, usually every year. In the context of the 2012 Article IV consultation with France,
+the following documents have been released and are included in this package:
+
+
+Staff Report for the 2012 Article IV consultation, prepared by a staff team of the IMF,
+following discussions that ended on October 29, 2012, with the officials of France on
+economic developments and policies. Based on information available at the time of these
+discussions, the staff report was completed on December 6, 2012. The views expressed in the
+staff report are those of the staff team and do not necessarily reflect the views of the
+Executive Board of the IMF.
+
+Public Information Notice (PIN) summarizing the views of the Executive Board as
+expressed during its December 20, 2012 discussion of the staff report that concluded the
+Article IV consultation.
+The document listed below has been or will be separately released.
+Selected Issues Paper
+Financial System Stability Assessment
+The policy of publication of staff reports and other documents allows for the deletion of
+market-sensitive information.
+Copies of this report are available to the public from
+International Monetary Fund  Publication Services
+700 19th Street, N.W.  Washington, D.C. 20431
+Telephone: (202) 623-7430  Telefax: (202) 623-7201
+E-mail: publications@imf.org Internet: http://www.imf.org
+
+International Monetary Fund
+Washington, D.C.
+
+©2012 International Monetary Fund
+
+Corrected CORRECTED 12/18/1
+
+FRANCE
+STAFF REPORT FOR THE 2012 ARTICLE IV CONSULTATION
+December 6, 2012
+
+KEY ISSUES:
+The growth outlook is clouded by a stalling recovery in Europe and a
+competitiveness gap vis-à-vis partners. Assuming a rapid resolution of the euro area
+crisis, the authorities project growth to rebound to 0.8 percent in 2013, against
+0.4 percent in the staff’s scenario. The competitiveness shortfall is reflected in loss of
+export market share and low profit margins. Despite high unemployment and the open
+output gap, core inflation is declining only very slowly, owing to wage inertia.
+The authorities are embarked on a path of rapid fiscal consolidation, reflecting
+euro area commitments and the need to solidify market confidence. They target a
+reduction of the deficit from 4½ percent of GDP in 2012 to 3 percent in 2013, with a
+view to reaching a balanced position by 2017. Based on a more conservative growth
+outlook, staff projects a deficit of 3½ percent of GDP in 2013. A more measured pace of
+fiscal consolidation would have been preferable on cyclical grounds, but market and
+euro area imperatives have reduced fiscal space. While planned adjustment over the
+medium-term is about evenly divided between revenue and expenditure measures, staff
+considers that the already high tax ratio (relative to partner countries) calls for
+rebalancing towards more expenditure containment.
+Impediments in the functioning of the labor and product markets are at the core of
+the competitiveness gap that has built up over time. The planned reduction of labor
+costs (through a corporate income tax credit) will improve competitiveness, if supported
+by wage moderation. But the key to improved outcomes in terms of growth and
+employment lies in reforming the labor market so as to increase the capacity of
+enterprise to invest, adapt and create jobs. Discussions under way between social
+partners create a unique opportunity to achieve meaningful reforms in this area.
+Liberalization in the services sector would enhance the benefits of labor market reform,
+but may be difficult to pursue in tandem.
+Financial stability concerns, which arose in connection with euro area tensions and
+dollar liquidity problems in 2011, have abated considerably. Since 2011, French
+banks moved swiftly to strengthen their solvency ratios and funding structures, largely
+through external deleveraging. However, banks remain heavily reliant on wholesale
+funding, which could be a source of vulnerability in the event of another severe liquidity
+or euro area confidence shock. A critical challenge for the French financial system, and
+its ability to provide long term financing to the domestic economy, comes from the need
+to adapt to international regulatory changes.
+
+FRANCE
+
+Approved By
+
+Mahmood Pradhan
+and Martin Mühleisen
+
+Discussions took place in Paris from October 15 to 29. The staff team
+comprised Messrs. Gardner (head), Hallaert, Cheng (all EUR), Geiregat
+(SPR), and Sy (MCM). France Executive Director Mr. Fayolle and
+Ms. Terracol (OED) participated in the discussions. Staff met with
+Ministers Moscovici (Finance and Economy), Sapin (Labor), Cahuzac
+(Budget), Bricq (Trade), Bank of France Governor Noyer, other senior
+officials, and financial sector, academic, parliament and trade union
+representatives.
+
+CONTENTS
+RECENT ECONOMIC DEVELOPMENTS AND OUTLOOK ................................................................ 4
+A. The Economic and Financial Context ....................................................................................................4
+B. Outlook and Risks .........................................................................................................................................9
+POLICY DISCUSSIONS .................................................................................................................... 14
+A. Calibrating Fiscal Adjustment ............................................................................................................... 15
+B. Closing the Competitiveness Gap ....................................................................................................... 19
+C. Consolidating Financial Stability .......................................................................................................... 25
+STAFF APPRAISAL ........................................................................................................................... 30
+Tables
+1. Selected Economic and Social Indicators, 2009-2017 ................................................................................. 32
+2. Balance of Payments, 2008-2017 ......................................................................................................................... 33
+3a. General Government Statement of Operations, 2008-2017 ................................................................... 34
+3b. General Government Integrated Balance Sheet 2002-2010 ................................................................... 35
+4. Vulnerability Indicators, 2006-2012 .................................................................................................................... 36
+5. Daily Movements of Selected Financial Indicators ....................................................................................... 37
+6. The Core Set of Financial Soundness Indicators, 2004-2011 .................................................................... 37
+7. Encouraged Financial Soundness Indicators, 2004-2011 ........................................................................... 38
+Figures
+1. Evolution of Main Economic Indicators since 2008 .........................................................................................5
+2. Economy-Wide Unit Labor Cost, Productivity, Labor Compensation, and Profits............................ 22
+3. Unit Labor Costs, Productivity and Labor Compensation in Manufacturing and Non-Tradable
+Services ............................................................................................................................................................................... 23
+
+2
+
+INTERNATIONAL MONETARY FUND
+
+FRANCE
+
+Boxes
+1. France’s Growth Performance through the Crises of 2008-12 ....................................................................6
+2. Medium-Term Fiscal Consolidation .................................................................................................................... 17
+3. Transposition into French Law of the Treaty on Stability, Coordination and Governance in the
+Economic and Monetary Union ................................................................................................................................ 18
+4. Financial System Stability Assessment (FSSA) – Main Findings ............................................................... 27
+Annexes
+I. France: External Assessment ................................................................................................................................... 39
+II. Main Recommendations of the 2011 Article IV and Authorities’ Response ....................................... 46
+III: Debt Sustainability Analysis .................................................................................................................................. 47
+
+INTERNATIONAL MONETARY FUND
+
+3
+
+FRANCE
+
+RECENT ECONOMIC DEVELOPMENTS AND OUTLOOK
+A. The Economic and Financial Context
+1.
+
+While France weathered the 2008 financial and subsequent euro-area crises relatively
+
+well compared to other advanced countries, its recovery has been sluggish. France suffered
+smaller output and employment losses than most advanced economies and euro area partners.
+However, output and employment remain below pre-crisis levels. Large automatic stabilizers and a
+relatively less open economy—than Germany, the UK and, obviously, the smaller European
+economies—may have shielded the economy from the full impact of the crises. France may also
+have been subject to lesser shocks or less exposed to asset price shocks (see Box 1)
+Employment Loss and Recovery
+
+10
+9
+
+DEU
+
+CAN
+
+8
+
+JPN
+
+7
+
+CHE
+
+6
+5
+
+USA
+
+BEL
+
+4
+
+EA
+FRA
+
+3
+
+NLD
+
+UK
+
+2
+1
+
+ITA
+
+0
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+Output Loss (Percent change of Real GDP from peak to trough)
+
+Sources: Haver Analytics; and staff calculations.
+
+2.
+
+Employment Recovery (Percent change from
+post-crisis trough to 2012Q2)
+
+Output Recovery (Percent change of Real GDP
+from trough to 2012Q2)
+
+Output Loss and Recovery
+
+6
+5
+CHE
+
+CAN
+
+4
+DEU
+
+3
+
+USA
+
+UK
+
+BEL
+
+2
+1
+
+FRA
+
+ITA
+NLD
+
+0
+
+EA
+JPN
+
+-1
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+Employment Loss (Percent change from pre-crisis peak to post-crisis trough)
+
+Sources: Haver Analytics; and staff calculations.
+
+France has become a less open economy over the last decade relative to partners,
+
+reflecting a steady loss of export market share relative to its European peers. The loss of export
+competitiveness is reflected in a steady deterioration of the current account balance and a decline in
+the openness ratio of 9 percentage points from 2000 to 2010 relative to the euro area average, and
+of 24 percentage points relative to Germany.1 While lower openness may have dampened the
+inward impact of the crisis through the trade channel, more significantly it limits the economy’s
+ability to rebound in the short term and constrains potential growth in the medium term. The loss of
+competitiveness is also revealed by a steady narrowing of profit margins. Although some of the
+recent decline is likely to be cyclical, the share of capital income in national income has been trailing
+behind that of European partner countries.
+
+1
+
+4
+
+Openness ratio is defined as (exports + imports)/GDP.
+
+INTERNATIONAL MONETARY FUND
+
+FRANCE
+
+Figure 1. Evolution of Main Economic Indicators since 2008
+Real GDP
+
+(2008Q1=100)
+104
+
+France
+
+102
+
+EA17
+
+100
+
+UK
+
+Germany
+Italy
+
+98
+96
+94
+
+Jul-12
+
+Mar-12
+
+Nov-11
+
+Jul-11
+
+Mar-11
+
+Nov-10
+
+Jul-10
+
+Mar-10
+
+Nov-09
+
+Jul-09
+
+Mar-09
+
+Nov-08
+
+Mar-08
+
+Jul-08
+
+92
+
+Sources: Haver; Staff calculations.
+
+Real Exports
+(2008Q1=100)
+115
+
+France
+
+110
+
+EA17
+
+105
+
+Germany
+UK
+
+100
+
+Italy
+
+95
+90
+85
+80
+
+Jul-12
+
+Mar-12
+
+Mar-11
+
+Mar-11
+
+Nov-11
+
+Nov-10
+
+Nov-10
+
+Jul-11
+
+Jul-10
+
+Jul-10
+
+Mar-10
+
+Nov-09
+
+Jul-09
+
+Mar-09
+
+Nov-08
+
+Jul-08
+
+Mar-08
+
+75
+
+Sources: Haver; Staff calculations.
+
+Employment
+(2008Q1=100)
+104
+
+France
+EA17
+Germany
+
+102
+
+UK
+Italy
+
+100
+
+98
+
+Jul-12
+
+Mar-12
+
+Nov-11
+
+Jul-11
+
+Mar-10
+
+Nov-09
+
+Jul-09
+
+Mar-09
+
+Nov-08
+
+Jul-08
+
+Mar-08
+
+96
+
+Sources: Haver; Staff calculations.
+
+INTERNATIONAL MONETARY FUND
+
+5
+
+FRANCE
+
+Box 1. France’s Growth Performance through the Crises of 2008-12
+France’s growth performance since 2008—
+through both the global financial crisis and the
+subsequent euro area sovereign debt crisis—has
+been better than most of its European peers, with
+real GDP in 2012 projected to be slightly higher
+than it was in 2008. In order to put this
+observation into context, we ask the following
+two questions:
+
+Euro Area Countries: Cumulative Growth during 2008-2012, from the latest
+WEO (X-axis) vs Forecast Error from the vintage of 2008 (Y-axis)
+
+0
+
+Netherlands
+Finland
+
+Portugal
+Spain
+
+Luxembourg
+
+Ireland
+
+Cyprus
+
+-20
+
+Slovak Republic
+
+Estonia
+Slovenia
+
+Predicted growth as
+of 2008 higher than
+that for France
+
+Greece
+
+-40
+-20
+
+-15
+
+-10
+
+-5
+
+0
+
+5
+
+Sources: WEO and staff calculations. The X-axis shows the projected culmulative growth rate for 2008-12 according to the
+2012 October 2012. The Y-axis is the "forecast error" defined as the difference between the culumulative growth using the
+2008 Fall WEO and that using the 2012 Fall WEO.
+
+10
+
+Unexplained Forecast Error
+4
+3
+2
+1
+
+Italy
+
+Slovenia
+
+Portugal
+
+Denmark
+
+Ireland
+
+Germany
+
+Austria
+
+Belgium
+
+Spain
+
+France
+
+Cyprus
+
+Finland
+
+Netherlands
+
+-3
+
+Luxembourg
+
+-2
+
+Malta
+
+0
+-1
+
+Greece
+
+How much of the difference in growth
+outcomes was already anticipated in 2008? In
+the case of France, the 2008 Fall WEO vintage
+projected that real GDP in 2012 would
+be 7½ percent higher than in 2008. With
+cumulative growth of only ¼ percent over the
+period, the forecast error comes to 7¼ percent.
+By contrast, Germany was expected to grow by
+only around 3¾ percent over the period and, in
+the end, the forecast error was very small
+(approximately 1 percent). The line drawn
+through the chart on the right corresponds to
+a 2008 growth forecast of 7.5 percent (equal to
+that of France). Countries above the line had a
+lower growth forecast, while countries below it
+had a higher growth forecast.
+
+Austria
+France
+Malta
+
+Denmark
+
+Italy
+
+Predicted growth
+as of 2008 lower
+than that for
+France
+
+Germany
+Belgium
+
+-4
+-5
+
+Sources: WEO. The unexplained forecast error is computed as the residuals by regressing the forecast
+error (defined above) on some economic shocks such as forecast errors (defined in a similar way) on fiscal
+consolidation and exports, as well as changes in house prices and bond yields.
+
+To what extent can the forecast error be explained by observable shocks? To answer this question, we
+regress the forecast error on four economic and policy shocks: a fiscal shock (measured by the forecast
+errors of the structural deficit projection), an external shock (measured by the forecast error of exports), and
+two asset price shocks, i.e., changes in the real price of housing and in the sovereign yields.2 The residuals
+from this regression should reflect idiosyncratic national factors3. France’s very low regression residual
+suggests that France’s forecast error can be largely explained by the observable shocks and its relative good
+performance reflects therefore smaller shocks (or lower exposure to asset price shocks) rather than Frenchspecific positive characteristics. By contrast, Slovenia and Italy, for instance, appear to have benefited from
+idiosyncratic factors that reduced the impact of the shocks by over 2 percentage points of GDP. At the other
+extreme, growth in Malta, Greece and Luxembourg was 3–4 percent lower over the period than can be
+explained by the shocks they faced.
+
+2
+
+Asset price shocks are measured as the difference in price (or yield) between now and 2008, on the assumption that
+changes in asset prices were unexpected.
+
+3
+
+With a sample of 18 countries (euro 17 plus Denmark) the regression shows a relatively good fit, with an adjusted
+2
+R of 86 percent.
+
+6
+
+INTERNATIONAL MONETARY FUND
+
+FRANCE
+
+3.
+
+By contrast, financial integration with the
+
+rest of the world has increased over the last
+decade, as French banks moved to the top of the
+league in terms of size and global
+interconnectedness.4 Four of the 25 largest global
+banks (2011) are French. Mostly through increased
+wholesale funding, French banks became major
+players in investment banking, international credit
+and derivative markets. They also expanded their
+
+Banking Stock Market Valuation
+(Since post-Lehman trough, 1/2/2009=100)
+70
+60
+50
+40
+30
+France
+20
+
+Germany
+
+10
+
+USA
+
+0
+3/1/09
+
+4
+
+9/1/12
+
+Germany
+Italy
+
+600
+
+business model may be less resilient in the current
+
+abatement in market tension after July 2012.
+
+3/1/12
+
+France
+
+700
+
+400
+
+crisis intensified in 2011, but also benefited from the
+
+9/1/11
+
+(Since post-Lehman trough, in basis points)
+
+500
+
+market capitalization relative to peers since the euro
+
+3/1/11
+
+800
+
+financial crisis relatively well, but their underlying
+environment. They experienced sharper drops in
+
+9/1/10
+
+Bank 5-year Credit Default Swap Spreads
+
+in Southern Europe. From 2000 to 2007, the balance
+times GDP. French banks weathered the 2008
+
+3/1/10
+
+Source: Datastream.
+
+international operations through subsidiaries, mostly
+sheet of the top four banks grew from 1.5 to 2.7
+
+9/1/09
+
+Euro area
+United Kingdom
+
+300
+200
+100
+0
+3/1/09
+
+9/1/09
+
+3/1/10
+
+9/1/10
+
+3/1/11
+
+9/1/11
+
+3/1/12
+
+9/1/12
+
+Source: Bloomberg.
+
+See accompanying Selected Issues Paper, “The Business Model of French Banks”.
+
+INTERNATIONAL MONETARY FUND
+
+7
+
+FRANCE
+
+4.
+
+The euro area crisis highlighted the
+
+General Government Structural Deficit and Gross Debt
+
+need to correct an underlying fiscal structural
+
+100
+
+6
+Gross debt, percent of GDP (RHS)
+
+imbalance, but has not triggered, in the case
+
+Structural deficit, percent of potential GDP
+
+5
+
+of France, an adverse sovereign-banking risk
+
+75
+4
+
+spiral. The combination of large structural fiscal
+
+3
+
+deficits prior to the crisis and a strongly
+
+50
+
+2
+
+countercyclical fiscal stance in 2009 to 2010
+
+25
+1
+
+eroded the room for maneuver on the fiscal front
+
+0
+
+by the time the euro-crisis erupted. Sovereign
+
+0
+1990
+
+1992
+
+1994
+
+1996
+
+1998
+
+2000
+
+2002
+
+2004
+
+2006
+
+2008
+
+2010
+
+2012
+
+Source: IMF, WEO.
+
+spreads (vis-à-vis Germany) rose rapidly in the
+second half of 2011 as French banks also came
+
+Non-resident holdings of French government
+negotiable debt securities
+
+under pressure. The authorities responded
+with a plan of steady fiscal consolidation and a
+
+(In percent of negotiable debt outstanding)
+
+75
+
+deficit target of 4.5 percent of GDP for 2012.
+Sovereign-banking sector cross exposures
+
+70
+
+increased, but not to a tipping point. French
+
+65
+
+financial system holdings of domestic
+
+60
+
+sovereign debt picked up the slack left by the
+decline of nonresident holdings starting in the
+second half of 2010. Meanwhile government
+guarantees to the financial sector increased to
+
+55
+
+50
+Sep-05
+
+nearly 4 percent of GDP in 2011 and are
+
+5.
+
+As elsewhere in Europe, the 2010–11
+
+economic recovery gave way to stagnation
+in 2012. Real GDP is projected to grow by
+0.2 percent in 2012, with the unemployment
+rate rising to over 10 percent. Inflation is
+expected to remain at around 2 percent in 2012,
+reflecting not only the impact of higher
+commodity prices earlier in the year, but also
+the inertia of wage inflation.
+
+8
+
+INTERNATIONAL MONETARY FUND
+
+Sep-07
+
+Sep-08
+
+Sep-09
+
+Sep-10
+
+Sep-11
+
+Core CPI and Wage Rates
+
+expected to remain at 4 percent of GDP in 2013,
+about one third of which to Dexia.
+
+Sep-06
+
+Source: French authorities.
+
+(Annual percent change)
+
+4.5
+
+Monthly Wages
+
+4.0
+
+Core CPI
+
+3.5
+
+Unit Labor Costs (Total Economy)
+
+3.0
+2.5
+2.0
+1.5
+1.0
+0.5
+0.0
+-0.5
+1991
+
+1993
+
+1995
+
+1997
+
+Sources: Haver's Analytics.
+
+1999
+
+2001
+
+2003
+
+2005
+
+2007
+
+2009
+
+2011
+
+FRANCE
+
+6.
+
+The current account recorded a
+
+deficit of 1.9 percent of GDP in 2011, driven
+by a worsening balance in net exports of
+goods. Exports continued to recover but
+imports were up by nearly 2 percentage points
+of GDP, largely on account of higher
+petroleum imports. The current account deficit
+in 2012 is projected to be smaller (1.5 percent
+of GDP), as a slowdown in import volume
+growth should more than offset a softening in real export growth. The surplus in the financial
+account in 2011 was marked by a retrenchment in net asset flows, in contrast to previous years. This
+evolution was notable in the banking sector, which also shed liabilities (and BIS data suggests that
+this has continued in the first half of 2012). France’s net international investment position (IIP)
+dropped further in 2011. While the bulk of the negative net IIP is due to the government’s net
+liabilities, small net positions in other sectors may mask large gross positions, as with the banking
+sector. The IMF’s External Balance Assessment methodology points to relatively small deviations of
+the current account and the exchange rate from their estimated equilibrium levels (see Annex I).
+7.
+
+Upon taking office in mid 2012, the incoming government endorsed the 2012
+
+and 2013 fiscal commitments of the previous government. The slowing economy had opened
+up a gap relative to the previous government’s budget deficit target, which had been based on an
+arguably overoptimistic growth assumption. At the same time, market tensions remained high. In
+response, the government took broad-based revenue measures equivalent to 0.6 percent of GDP
+(on an annual basis), in order to meet the 2012 fiscal deficit target. Achievement of the deficit target
+remains subject to uncertainties surrounding the financial performance of the social security
+accounts and local governments. As part of its electoral commitments, the incoming government
+also lowered the retirement age from 62 to 60 for certain categories of workers, financed through an
+increase in social security contributions by up to 0.5 percentage points by 2017.
+
+B. Outlook and Risks
+8.
+
+Banking on an early resolution of the euro area crisis, the authorities expected real
+
+GDP growth to bounce back to 0.8 percent in 2013. This significant acceleration is predicated on
+an expected improvement of the euro area environment, which would revive exports and, in turn,
+
+INTERNATIONAL MONETARY FUND
+
+9
+
+FRANCE
+
+stimulate domestic investment and consumption. The authorities acknowledged that their projection
+is on the optimistic side, but still within a credible range of economic forecasts.
+9.
+
+Staff projects a more modest
+
+Staff Projections: Aggregate Demand Components
+
+recovery, with growth of 0.4 percent in 2013.
+
+108
+
+The staff’s projection takes into account
+
+106
+
+Real Private Consumption
+
+continued weakness in high frequency
+
+104
+
+indicators and the impact of continued fiscal
+
+102
+
+consolidation in Europe generally. However, the
+difference relative to the authorities’ scenario
+comes essentially from a much weaker
+contribution of the foreign balance to growth,
+
+(Constant Prices, 2011Q1=100)
+
+Real Private Investment
+
+Projections
+
+Real Exports
+
+100
+
+98
+2011Q1
+
+2011Q3
+
+2012Q1
+
+2012Q3
+
+2013Q1
+
+2013Q3
+
+Sources: Global Insight; Haver; and Staff projections.
+
+which reflects the assumption that the resolution of the euro area crisis will take time. Tensions in
+the euro area are also expected to continue to weigh on confidence and thus on domestic demand
+through at least the first half of 2013. In the staff’s scenario, the unemployment rate is projected to
+rise further, notwithstanding measures planned by the government to improve job prospects for
+new entrants and seniors. The main domestic downside risk to the projection is associated with a
+failure of private consumption and investment to rebound as expected in the second half of 2013.
+France: Contributions to GDP
+(in percent)
+IMF
+2012
+2013
+Real GDP growth
+0.2
+0.4
+Total domestic demand
+-0.4
+0.5
+Private consumption
+0.0
+0.2
+Government consumption
+0.3
+0.3
+Gross Fixed Investment
+0.0
+0.0
+Stockbuilding
+-0.7
+0.1
+Foreign balance
+0.6
+-0.1
+Exports
+0.7
+0.2
+Imports
+0.1
+0.3
+
+10.
+
+Authorities
+2013
+0.8
+0.6
+0.2
+0.3
+0.2
+0.0
+0.2
+1.3
+-1.1
+
+Despite an open output gap, core inflation is projected to decline only very slowly
+
+in 2013. In line with recent trends, nominal wage inflation in the private sector is expected to remain
+at around 2 percent in 2013 despite the increase in unemployment. Because of the high minimum
+wage and a compressed wage structure, the discretionary increase in the minimum wage decided by
+
+10
+
+INTERNATIONAL MONETARY FUND
+
+FRANCE
+
+the government in July 2012 (0.6 percentage points above the increase of the index) is likely to
+dampen the effect of labor market conditions on wage formation.5
+11.
+
+The authorities also retain a more optimistic medium-term outlook, with average
+
+annual growth projected at 2 percent from 2014 to 2017, against 1.3 percent in the staff’s
+scenario. The authorities scenario is based on global growth returning to its pre-crisis level of over
+5 percent, i.e., nearly a full percentage point higher than in the Fall 2012 WEO. In line with recent
+trends, the staff’s scenario also assumes that real exports of goods and services will grow less than
+the export market, but that the gap will close over the medium term.
+12.
+
+Moody’s recent sovereign downgrade by one notch (from Aaa to Aa1) appears to have
+
+been largely anticipated and did not trigger any noticeable market reaction. Because banks’
+stand-alone ratings (without systemic support) are several notches below that of the sovereign, the
+rating action does not carry over to banks. Most banks remain, however, under negative watch by
+rating agencies. A downgrade would be potentially costly in terms of their wholesale funding and
+their derivative trading owing to higher margin and collateral requirements.
+13.
+
+Downside risks lie mostly in the re-emergence of significant euro area tensions (see
+
+Risk Assessment Matrix). Based on staff estimates, a decline of real GDP by half a standard deviation
+in the euro periphery relative to the baseline (equivalent to roughly 2 percentage points) would
+reduce growth in France by ½ a percentage point in 2013 and 1 percent in 2014.6 The implication of
+renewed tensions in the euro area on French sovereign spreads is more ambiguous. The 2012 IMF
+Spillover Report shows that the behavior of bond spreads of euro area countries (including France)
+vis-à-vis Germany has been dominated by a common component, reflecting perceptions of euro
+area-wide risks. Based on this analysis, French yields would be adversely affected by renewed
+tensions. This effect could be dampened by the fact that France moved, in 2012, to a (relative) safe
+haven status, although this status could be reversed if, in parallel, renewed financial sector tensions
+were to set in motion an adverse sovereign-banking nexus.
+
+5
+
+The minimum wage is indexed to the CPI plus half of the annual increase in the real hourly labor wage in industry.
+According to a study by the Banque de France, 20–30 percent of minimum wage increases find their way over the
+medium term in an increase in the average wage (Cette et al., Banque de France, Document de travail 366,
+February 2012).
+6
+
+See accompanying Selected Issues Paper, “Growth and Fiscal Spillovers of France”.
+
+INTERNATIONAL MONETARY FUND
+
+11
+
+FRANCE
+
+14.
+
+Financial vulnerabilities stem from the French banking sector’s extensive cross-border
+
+financial linkages and exposure to wholesale funding. French banks have reduced very
+significantly their exposures to euro area periphery countries, but exposures to Italy remain
+substantial, including through subsidiaries. A worsening situation in the periphery and its
+consequences through the area could affect Italy disproportionately and undermine French banks’
+ongoing recapitalization plans, and, in the extreme, threaten financial stability. While banks’ funding
+structures have improved since 2011 (as discussed below), exposure to wholesale markets remains
+high, and margins for quick disposal of non-core assets have shrunk. As reported in the 2012
+Spillover Report, European banks identified as having the capacity to create negative spillovers for
+all G-SIFIs (as well as all major European banks) include French banks. Spillovers from large systemic
+French banks could become active if they were forced into an accelerated retrenchment from
+corporate and investment banking, from retail banking in other countries, and from their holdings of
+sovereign paper of peripheral euro area countries.7
+15.
+
+Faster slowdown of growth in the core euro area and outside of the euro area is also a
+
+risk; as noted above, the expected gradual rebound of domestic demand could also be slower
+in coming. While the staff’s scenario accounts for the contractionary effect of fiscal policy, the size
+of the fiscal multipliers is itself uncertain, and private demand is also subject to other downside risks.
+Trade channels effects of weaker condition in the core euro area would be potentially significant.
+However, growth spillover analysis suggests that French output co-moves less with global output
+shocks than Italy, Belgium, Netherlands, and Germany, for instance. This may reflect France’s large
+automatic stabilizers and less open economy.
+7
+
+12
+
+See accompanying Selected Issues Paper “Financial Spillovers”.
+
+INTERNATIONAL MONETARY FUND
+
+FRANCE
+
+France: Risk Assessment Matrix
+Source of Risk
+Strong intensification of the euro area
+crisis and related increase in financial
+market stress…
+
+Relative Likelihood
+
+9
+
+8
+Impact if Realized
+
+Medium
+Growth contagion from lower regional
+demand
+
+High
+Strong adverse effects through the trade
+channel, notably from Spain and Italy.
+
+Increased financial segmentation due to
+uncertainty over euro area viability
+
+Higher interest rates owing to euro viability
+concerns. France’s (relative) safe haven status
+possibly undermined by adverse sovereignbank spillovers
+Fiscal policy response should be coordinated at
+the European level in order to support
+confidence, and calibrated based on the fiscal
+space of national authorities.
+
+…leading to difficulties accessing
+wholesale market funding, with related
+liquidity pressures.
+
+Medium
+Accelerated bank deleveraging aggravating
+crisis
+
+High
+Stress for French SIFIs (from losses in euro area
+periphery and from exposure to wholesale
+market funding) with outward spillovers
+Appropriate liquidity support should be
+provided by the European Central Bank, and
+capital preservation measures on banks should
+be considered if necessary.
+
+Failure to close competitiveness gap
+
+Stagnation of world growth
+
+Medium
+Difficulty in implementing structural reforms
+
+High
+Absent an improvement in competitiveness,
+growth would falter, the external asset position
+would deteriorate, and fiscal adjustment would
+be more challenging.
+
+Medium
+Slowing demand from emerging Asia and
+from the United States.
+
+Medium
+Impact muted because of weaker trade links
+outside of the EU than European peers.
+Euro area-wide monetary policy would remain
+the first line of defense. France should continue
+to meet its medium-term fiscal targets.
+
+Housing price correction
+
+Medium
+Housing overvaluation estimated at 10–
+20 percent
+
+Low
+Price adjustment expected to be gradual, with
+limited impact on banks owing to sound
+lending standards
+Macro-prudential measures could be
+introduced in the event of excessive risk taking
+in real estate.
+
+8
+
+The Risk Assessment Matrix shows events that could materially alter the baseline path discussed in this report
+(which is the scenario most likely to materialize in the view of staff). The relative likelihood of risks reflects the staff’s
+subjective assessment (at the time of discussions with the authorities) of the risks surrounding this baseline.
+9
+
+In case the baseline does not materialize.
+
+INTERNATIONAL MONETARY FUND
+
+13
+
+FRANCE
+
+16.
+
+Macroeconomic risks related to a correction in real estate prices appear to be
+
+relatively contained.10 The increase in housing prices (over 100 percent in real terms since the
+mid 1990s) has been supported by
+stronger fundaments (higher
+population growth, relatively low
+supply of housing, and low household
+indebtedness) than in other countries
+with rising real estate prices, but also
+by tax incentives that have fueled
+demand without addressing underlying
+supply constraints. There is a
+perception of price overvaluation,
+especially in Paris (by 10-20 percent at
+
+Real House Prices
+(2000Q1=100)
+220
+200
+180
+
+FRA
+
+ESP
+
+ITA
+
+DEU
+
+USA
+
+UK
+
+2001
+
+2002
+
+160
+140
+120
+100
+80
+2000
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+Sources: OECD and Staff calculations.
+
+end-2011 according to staff estimates).
+However, there is no housing glut or household debt overhang that could trigger a sudden price
+adjustment. Moreover, stress tests suggest that banks are well placed to absorb the impact of a
+possible sizable price adjustment owing to tight underwriting criteria (emphasizing sustainability of
+the borrower’s income, not collateral value) and the absence of nonrecourse loans. The impact of a
+possible price correction on private demand would also be contained reflecting weak evidence of
+wealth effects on consumption.
+
+POLICY DISCUSSIONS
+17.
+
+Context: the authorities face the four way challenge of a stalling recovery, the constraints on
+
+fiscal policy created by euro area fiscal rules and a rising debt ratio, a competitiveness gap related to
+structural rigidities, and the need to preserve financial stability in the face of continued uncertainty.
+18.
+
+Objectives: the overarching economic objectives are to contribute to a common solution to
+
+the euro area crisis, and to create conditions for stronger growth, which would not only address
+social and employment needs, but would also ease the process of fiscal consolidation and allow the
+financial sector to pursue deleveraging in an orderly manner.
+19.
+
+Authorities’ policy strategy: the authorities noted that the first order of business for the
+
+President and his government had been to help support crisis resolution in the euro area, including
+by sticking to France’s fiscal commitments consistent with the euro area stabilization strategy. With
+the risks of an imminent break up largely averted, policy priorities have shifted to the process of
+10
+
+This analysis is based on the findings of the 2012 FSAP Update.
+
+14
+
+INTERNATIONAL MONETARY FUND
+
+FRANCE
+
+forging stronger financial and fiscal integration in the euro area and to domestic structural reforms
+to improve competitiveness and raise potential growth. The authorities noted that policies had
+taken on board previous Fund advice (see Annex II).
+
+A. Calibrating Fiscal Adjustment
+20.
+
+The authorities considered that an ambitious fiscal target in 2013, consistent with their
+
+commitment vis-à-vis the EU, was the anchor of credibility and was needed to reinforce
+confidence in the euro area stabilization strategy. To abide by the EU’s Excessive Deficit
+Procedure (EDP), France is committed to bring its budget deficit down to 3 percent of GDP in 2013.
+To meet this objective, the 2013 budget contains measures equivalent to 1.2 percent of GDP.
+Combined with the measures already taken in July 2012, total structural adjustment in 2013 is
+estimated by staff at 1.3 percent of (potential) GDP, ¾ of it coming from revenue measures. About
+half of the structural adjustment targeted over the next five years (2012 to 2017) would thus take
+place in the first year. The authorities explained that such front-loaded adjustment is critical not only
+for bringing debt on a sustainable path and thus their policy credibility, but also for the credibility of
+the euro area crisis resolution strategy. They considered that any perceived lack of resolve on their
+part could lead to an unraveling of confidence and that the risks associated with such a scenario
+would vastly outweigh the impact of fiscal consolidation on demand. Market participants also
+highlighted the importance of meeting 2013 fiscal target, mostly as reassurance about the direction
+of policies. Reflecting the expectation of lower growth, staff projects that the 2013 budget will
+deliver a deficit of 3.5 percent of GDP.
+21.
+
+Staff took the view that the medium-term balanced budget target was appropriate,
+
+but that, if growth in 2013 were to fall short of the authorities’ assumption, maintaining
+the 2013 deficit target unchanged at 3 percent of GDP would move fiscal policy into an overly
+pro-cyclical stance, notwithstanding the importance of coordination at the European level.
+Even though the current policy stance is already pro-cyclical, staff acknowledged the constraints on
+policy choices noted by the authorities (see above). Staff estimates suggest that global fiscal
+consolidation plans could already be costing France 1.6 percentage points in foregone growth
+in 2013 to 2014—1.4 percentage points of which from domestic consolidation, the rest from
+consolidation in partner countries. Similarly, fiscal consolidation in France has potential outward
+effects on euro area partners—the most affected country would be Belgium, for which the resulting
+cumulative real GDP loss over the period 2012–14 would reach 0.4 percentage points. The
+authorities pointed out that fiscal multiplier effects associated with the 2013 budget are likely to be
+smaller than average because about 80 percent of the adjustment effort would fall on households in
+the top income centile with a low propensity to consume. Under the staff’s scenario, which
+converges slightly more gradually toward a balanced budget position in the medium term, the debt
+INTERNATIONAL MONETARY FUND
+
+15
+
+FRANCE
+
+ratio would peak at 91 percent of GDP in 2014 and begin declining thereafter. The Debt
+Sustainability Analysis (Annex III) suggests that debt dynamics are resilient to most standard shocks,
+although not to a severe combined interest rate and growth shock.
+22.
+
+The authorities’ originally planned for a 50/50 split between revenue and expenditure
+
+measures over the medium term (2012 to 2017), but have since decided to rebalance the
+planned adjustment slightly towards more expenditure containment (in order to finance part of
+the planned reduction in labor costs—see below). Under the authorities’ plans, expenditure growth
+would thus decline from an average of 1.8 percent per year (in real terms) in 2000 to 2012, to
+0.5 percent in 2013 to 2017; and the tax burden would be reduced by 0.3 percentage points of GDP
+from its 2013 peak to 2017 (Box 2). Staff pointed out, however, that France had started out with an
+already higher tax burden than most of its peers in 2011, and that the measures taken in 2012 and
+planned for 2013 would only increase the distance from its peers, with the risk of accentuating
+distortions and disincentives.
+23.
+
+A more ambitious expenditure effort is also desirable to protect the medium-term
+
+deficit target against the risks that the authorities’ relatively optimistic growth assumption
+for 2014 to 2017 will not be realized. The authorities explained that expenditure containment over
+the medium term would rest on wage moderation and a stabilization of the number of civil servants
+at the central government level, stricter selection of investment projects, and tighter constraints on
+local government spending. An inter-ministerial committee (chaired by the PM), charged with
+identifying ways to rationalize government functions, should also help set spending priorities, and
+thus avoid inefficient across-the-board cuts. Staff remarked that the rapid growth in spending by
+local governments, in excess of the transfer of mandates, had already squeezed the room for
+maneuver of the central government, and that more adjustment should be expected of them. Also,
+the government’s plans envision a gradual closure of the deficit of the social security accounts,
+based on regular revisions to pension policy and strict containment of health expenditures, but a
+more front-loaded effort to close the structural deficits of the social security funds would be
+desirable, if only to counter the risks associated with relatively optimistic assumptions about growth
+and employment. On the revenue front, the authorities indicated that they would review more
+critically the broad use of tax expenditures and social security exemptions.
+
+16
+
+INTERNATIONAL MONETARY FUND
+
+FRANCE
+
+Box 2. Medium-Term Fiscal Consolidation
+The medium-term fiscal consolidation plan targets a balanced structural budget in 2016
+and a steady reduction of the debt-to-GDP ratio starting in 2014. Over the period 2013
+to 2017, the Loi de programmation des finances publiques 2012 to 2017 (the medium-term budget
+law) projects that the adjustment burden would be roughly equally divided between revenue and
+spending measures, but revenue measures are frontloaded whereas expenditures measures are
+back-loaded. Following a 1 percentage point increase in 2012, the tax-to-GDP ratio would remain
+roughly stable while the containment of expenditures would gradually lower the expenditure-toGDP ratio by 2.7 percentage points of GDP. The subsequent decision to offset the fiscal impact of
+the EUR 20 billion cut in labor cost—half by an increase in VAT rates and a new green tax and half
+by spending cuts—would reduce the expenditure-to-GDP and tax-to-GDP ratios by 0.2 points of
+GDP in 2015 and 0.4 points in 2016 and 2017 leaving the headline deficit trajectory unchanged.
+Under staff’s weaker growth projection, reaching a structural balanced budget by the end
+of the period requires more aggressive spending containment over the medium term. Real
+expenditure growth would need to be lower than projected by the authorities by almost
+0.2 percent per year over 2015 to 2017. And compensating for the reduction in social security
+contributions would result in a near freeze of expenditures in real terms in 2015 to 2016
+compared with a real growth of 0.3 percent in the authorities’ scenario.
+Medium-Term Fiscal Targets (2013 to 2017, in percent of GDP)11
+2013
+
+2014
+
+2015
+Authorities
+
+Fiscal Balance
+Structural Balance
+
+13
+
+Real Spending Growth (in percent)
+
+14
+
+Gross Debt
+GDP Real Growth
+
+Structural Balance
+
+13
+
+Real Spending Growth (in percent)
+Gross Debt
+GDP Real Growth
+
+2017
+
+-3.0
+
+-2.2
+
+-1.3
+
+-0.6
+
+-0.3
+
+-1.6
+
+-1.1
+
+-0.5
+
+0.0
+
+0.0
+
+0.9
+
+0.7
+
+0.3
+
+0.3
+
+0.8
+
+91.3
+
+90.5
+
+88.5
+
+85.8
+
+82.9
+
+0.8
+
+2.0
+
+2.0
+
+2.0
+
+2.0
+
+IMF Staff
+Fiscal Balance
+
+2016
+
+12
+
+12
+
+-3.5
+
+-2.9
+
+-2.1
+
+-1.2
+
+-0.1
+
+-1.4
+
+-1.1
+
+-0.8
+
+-0.5
+
+0.0
+
+0.8
+
+0.7
+
+0.1
+
+0.1
+
+0.5
+
+90.9
+
+91.3
+
+90.2
+
+88.0
+
+84.6
+
+0.4
+
+1.0
+
+1.5
+
+1.7
+
+1.9
+
+Source: French authorities and IMF staff.
+
+11
+
+Authorities projections and staff projections differ due to differences in projected growth rates, in potential growth, output gap,
+and unemployment over the period.
+
+12
+13
+14
+
+Includes the fiscal impact of the measures to reduce labor cost.
+In percent of potential GDP.
+
+Staff estimates based on announced policies
+
+INTERNATIONAL MONETARY FUND
+
+17
+
+FRANCE
+
+Box 3. Transposition into French law of the Treaty on Stability, Coordination and
+Governance in the Economic and Monetary Union
+In October 2012, through an “organic law,” France aligned its laws to the requirements of
+the European Treaty on Stability, Coordination, and Governance (Fiscal Compact). An
+organic law ranks, in hierarchy, between the Constitution and ordinary laws. As a result, all Budget
+Laws will have to be consistent with both the Constitution and the new organic law.
+The organic law establishes:
+The medium-term objective of a structural deficit capped at 0.5 percent of GDP.15
+The organic law stipulates that the Lois de Programmation des Finances Publiques (LPFP, the
+multi-year fiscal laws established as part of the constitutional amendment of 2008) will define
+the medium-term structural deficit target and specify the yearly structural deficits to reach it.
+The LPFP will also have to present debt-to-GDP dynamics16, and include a floor on new
+revenues and a ceiling on expenditures for the State and the Social Security system. As a
+result, in case a spending shock breaches the expenditure ceiling, expenditure cuts in other
+areas will have to compensate.
+
+
+ A new fiscal council, the “Haut Conseil des Finances Publiques” (HCPF), to ensure
+that the rules are met. Under the new architecture, the HCFP, which is associated with (but
+not part of) the Cour des Comptes (Audit Court),17 will provide an independent view on the
+appropriateness of the macroeconomic projections underpinning the LPFP, the draft budget
+law, and the draft Social Security Finance law18, as well as their consistency with the mediumterm trajectory toward the medium-term objective and with France’s European commitments.
+The Conseil Constitutionnel (Constitutional Court) has indicated that it will consider the HCPF’s
+views when deliberating on the credibility of the budget law, and thus its consistency with the
+Constitution.
+
+A corrective mechanism. If, taking into account the exceptional factors mentioned in the
+Treaty, the HCPF identifies that the fiscal outturn deviates from the medium-term trajectory, it
+will alert the government. The government will have to explain the reasons for the deviation
+and, if the deviation is substantial, it will have to implement corrective measures in the
+following year’s Budget Law, at the latest.
+
+
+15
+
+If the public debt exceeds 60 percent of GDP, 1 percent otherwise. The structural deficit is the structural deficit of the general
+government.
+16
+
+The LPFP, covering 2012 to 2017, already does so.
+
+17
+
+The HCPF, chaired by the head of the Cour des Comptes, consists of 11 members: five (including the chair) from the Cour
+des Comptes, four nominated by Parliament, one by the Conseil économique, social et environnemental (a consultative assembly
+representing employers, labor unions, and NGOs), and, ex officio, the head of INSEE (the Statistical and Economic Studies
+Agency).
+18
+
+The HCPF can, but is not required to, provide a view on the on the growth projections underpinning revised budget laws.
+
+18
+
+INTERNATIONAL MONETARY FUND
+
+FRANCE
+
+24.
+
+Parliament approved in October 2012 an organic law transposing the requirements of
+
+the EU Fiscal Compact into French law (Box 3). The organic law introduces a fiscal rule in the form
+of a medium-term structural deficit target and reinforces the link between annual budget laws and
+the medium-term target by requiring budgets to specify the trajectory toward the medium-term
+target, as well as corrective mechanisms in the event of deviations from it. It also sets up a fiscal
+council with three mandates: (i) to provide an independent opinion on the macro-economic
+assumptions underlying the state and social security budgets; (ii) to examine whether budgetary
+objectives are consistent with the medium-term fiscal targets of the multi-year fiscal law; and (iii) to
+identify deviations from established targets and monitor implementation of corrective actions. The
+fiscal council has the requisite independence from the executive branch, but its mandate is more
+limited than fiscal councils in the United Kingdom and the Netherlands, for instance, in that it will
+not produce an independent forecast. The authorities noted that reputational costs (for the
+government of deviating from the fiscal council’s opinion on the government’s growth forecast, and
+for the fiscal council members of endorsing projections that deviate from independent forecasts)
+would enforce greater discipline into the projections, without the costs (in terms of staffing and
+overall coherence) of separating the fiscal and macroeconomic projection functions. The staff asked
+about the possible conflict of interest between the monitoring and ex-ante evaluation roles of the
+fiscal council and the ex-post audit and advisory role of the Audit Court (Cour des Comptes) to which
+the fiscal council is associated. The authorities considered that such a risk was minimized by the
+broad and politically diverse composition of the fiscal council, which would not be dominated by
+Audit Court members.
+
+B. Closing the Competitiveness Gap
+25.
+
+The competitiveness gap that has built up over time owes to a range of structural
+
+problems, with impediments in the functioning of labor and product markets at its core. In
+July 2012, the government launched two initiatives to improve the functioning of the economy. First,
+it mandated social partners to negotiate a broad reform of the labor market by year-end to increase
+its flexibility while improving job security. Second, it commissioned a competitiveness report from
+Louis Gallois, a leading business executive, to identify the sources of competitiveness loss and
+related corrective actions. The Gallois report, released on November 5, highlights high labor costs
+(and low profitability) and non-cost factors, such as: the difficulty French SMEs have in accessing
+export markets; the inability of French manufacturers to move up the value added chain as
+compared, for instance, with German manufacturers; a weak integration between fundamental
+research and industrial R&D, despite France’s noted preeminence in the hard sciences; an education
+system which still creates mismatches between demand and supply; and less stable relationships
+between large enterprises and their supply chain, again as compared to Germany.
+
+INTERNATIONAL MONETARY FUND
+
+19
+
+FRANCE
+
+Labor market functioning
+26.
+
+Discussions centered on the following priorities:
+Creating more adaptable work and compensation arrangements at the enterprise level.
+
+
+
+National regulations and collective sector agreements have limited the ability of enterprises to
+negotiate wage and/or work arrangements that take into account competitive or cyclical
+pressures. The authorities remarked that, by precluding negotiated arrangements, these
+rigidities have tended to accentuate conflictual labor relations with suboptimal outcomes in
+terms of job and capital preservation. These rigidities have also raised the (shadow) cost of labor
+over the cycle, and as such limited potential growth. The authorities have called on social
+partners to find ways for enterprises under pressure to negotiate more flexible work and pay
+arrangements with their employees, while giving employees and their representatives more say
+in the early stages of restructuring plans.
+Lessening legal and judicial uncertainty of layoffs, and reducing the insider/outsider
+
+
+
+divide in the labor market. The uncertainty that weighs on layoffs reflects both the broad work
+protection rights afforded by the labor code and the very lengthy and uncertain judicial process
+of challenging individual and collective layoffs. This uncertainty has raised the implicit cost of
+labor, created disincentives to hire, and promoted reliance on temporary work arrangements.
+The authorities acknowledged that this situation has, in turn, aggravated the dual labor market
+divide, where workers on temporary contracts (80 percent of new hiring) bear an uneven share
+of job uncertainty. Temporary work arrangements also undermine incentives to train and
+develop employees, and ultimately productivity growth. Staff analysis suggests that legal
+uncertainty over collective dismissals indeed acts as a critical hindrance to competitiveness19. To
+address these problems, the government has asked social partners to find ways to make openended contracts more attractive and to
+Employment Rate by Age Group in 2011
+
+facilitate negotiated solutions that would
+discourage recourse to legal action in the
+
+90
+
+case of collective dismissals.
+
+80
+
+France
+
+70
+
+Germany
+
+Increasing labor market participation
+
+
+
+and employability. The French labor
+market is characterized by low
+
+60
+50
+40
+30
+
+employment rates at both ends of the
+
+20
+
+age range. The low level of employment
+
+10
+
+of relatively skilled older workers may
+
+0
+Age 15-24
+
+Age 25-54
+
+Source: Haver.
+19
+
+See accompanying Selected Issues Paper, “Structural Reforms and Export Performance”.
+
+20
+
+INTERNATIONAL MONETARY FUND
+
+Age 55-64
+
+FRANCE
+
+reflect disincentives to work and to retain workers due to the combination of retirement and
+unemployment benefits. Employment rates among older workers have begun to increase in the
+wake of the 2010 pension reform (increase in the retirement age) and elimination of incentives
+for early retirement, but the government also introduced a new incentive scheme that targets
+the joint employment of a new worker (trainee) and retention of an older worker (trainer).
+However, the more persistent problem is with employment of youth and low-skilled workers.
+While the level of the minimum wage (discussed below) is an important constraining factor for
+unskilled workers, so are inadequate training opportunities and active labor market policies.
+Staff also pointed out that the high replacement rate and long duration of unemployment
+benefits undermined incentives to work after a spell of unemployment, and that benefits should
+be tightened, especially as labor market conditions improve. The authorities noted that efforts to
+improve training and active labor market policies are being stepped up following the merger of
+the job placement and unemployment benefits agencies into a single agency (Pôle Emploi).
+27.
+
+The authorities were optimistic that social partners would rise to the challenge of
+
+proposing meaningful reforms on all of the above issues. Most parties acknowledged that the
+current situation is socially unsustainable and, according to some observers, the legitimacy of labor
+unions depends on their ability to be part of a cooperative solution. The government plans to
+support the outcome of the negotiations with legislative changes, but has also indicated that, in the
+absence of a suitable agreement, it would be willing to move ahead unilaterally.
+
+Labor Costs
+28.
+
+There has been much debate on the role of labor costs in the competitiveness gap.
+
+Although labor costs in the economy as a whole appear indeed to be higher than in Germany, the
+difference is not so evident in manufacturing, whereas it is much more pronounced in non-tradable
+services. Also, price competitiveness, as measured by the CPI-based real exchange rate, does not
+point to a serious misalignment. However, the share of capital income in national income, and
+relatedly profits as a share of value added, have been declining steadily in France in contrast to
+developments in partner countries. This suggests that French enterprises have been able to sustain
+price competitiveness by squeezing profit margins, which in turn has limited their capacity (and
+incentives) to invest. The open output gap would normally be expected to put downward pressure
+on real wages and restore profitability over time. However, this adjustment has been slowed by the
+combination of low inflation and stickiness of nominal wage inflation.
+
+INTERNATIONAL MONETARY FUND
+
+21
+
+FRANCE
+
+Figure 2. Economy-Wide Unit Labor Cost, Productivity, Labor Compensation, and Profits
+(Seasonally and working day adjusted)
+Total Economy
+
+Total Economy
+
+(Per-Labor Compensation, thousands of euro per labor)
+
+(Unit Labor Costs, euro per unit of value added produced at 2000 prices)
+0.9
+
+0.8
+
+12
+France
+
+France
+
+Germany
+
+Germany
+
+Italy
+
+Italy
+
+Spain
+
+Spain
+
+0.7
+
+8
+0.6
+
+0.5
+
+0.4
+1990Q1 1992Q1 1994Q1 1996Q1 1998Q1 2000Q1 2002Q1 2004Q1 2006Q1 2008Q1 2010Q1 2012Q1
+
+4
+1990Q1 1992Q1 1994Q1 1996Q1 1998Q1 2000Q1 2002Q1 2004Q1 2006Q1 2008Q1 2010Q1 2012Q1
+
+Source: Eurostat.
+
+Source: Eurostat.
+
+Total Economy
+
+(Labor Productivity, thousands of euro at 2000 prices per labor)
+15
+
+12
+
+France
+9
+
+Germany
+Italy
+Spain
+
+6
+1990Q1 1992Q1 1994Q1 1996Q1 1998Q1 2000Q1 2002Q1 2004Q1 2006Q1 2008Q1 2010Q1 2012Q1
+
+Source: Eurostat.
+
+22
+
+INTERNATIONAL MONETARY FUND
+
+FRANCE
+
+Figure 3. Unit Labor Costs, Productivity and Labor Compensation in Manufacturing and
+Non-Tradable Services20
+(Seasonally and working day adjusted)
+Manufacturing
+
+Non-Tradable Services
+
+(Unit Labor Costs, euro per unit of value added produced at 2000 prices)
+1.0
+
+(Unit Labor Costs, euro per unit of value added produced at 2000 prices)
+0.9
+
+France
+0.9
+
+Germany
+
+France
+0.8
+
+Italy
+Spain
+
+0.8
+
+Germany
+Italy
+
+0.7
+
+Spain
+
+0.6
+0.7
+
+0.5
+0.6
+
+0.4
+
+0.5
+1990Q1 1992Q1 1994Q1 1996Q1 1998Q1 2000Q1 2002Q1 2004Q1 2006Q1 2008Q1 2010Q1 2012Q1
+
+0.3
+1990Q1 1992Q1 1994Q1 1996Q1 1998Q1 2000Q1 2002Q1 2004Q1 2006Q1 2008Q1 2010Q1 2012Q1
+
+Source: Eurostat.
+
+Source: Eurostat.
+
+Manufacturing
+
+Non-Tradable Services
+
+(Per-Labor Compensation, thousands of euro per labor)
+13
+France
+Germany
+11
+
+(Per-Labor Compensation, thousands of euro per labor)
+11
+
+Italy
+Spain
+
+10
+
+France
+Germany
+
+9
+
+Italy
+Spain
+
+8
+9
+
+7
+6
+
+7
+
+5
+5
+1990Q1 1992Q1 1994Q1 1996Q1 1998Q1 2000Q1 2002Q1 2004Q1 2006Q1 2008Q1 2010Q1 2012Q1
+
+4
+1990Q1 1992Q1 1994Q1 1996Q1 1998Q1 2000Q1 2002Q1 2004Q1 2006Q1 2008Q1 2010Q1 2012Q1
+
+Source: Eurostat.
+
+Source: Eurostat.
+
+Manufacturing
+
+Non-Tradable Services
+
+(Labor Productivity, thousands of euro at 2000 prices per labor)
+
+(Labor Productivity, thousands of euro at 2000 prices per labor)
+16
+
+18
+France
+16
+
+Germany
+Italy
+
+14
+
+Spain
+14
+
+12
+
+12
+
+10
+
+10
+
+8
+
+France
+Germany
+Italy
+
+8
+1990Q1 1992Q1 1994Q1 1996Q1 1998Q1 2000Q1 2002Q1 2004Q1 2006Q1 2008Q1 2010Q1 2012Q1
+
+Source: Eurostat.
+
+20
+
+Spain
+
+6
+1990Q1 1992Q1 1994Q1 1996Q1 1998Q1 2000Q1 2002Q1 2004Q1 2006Q1 2008Q1 2010Q1 2012Q1
+
+Source: Eurostat.
+
+Non-tradable services comprise wholesale and retail trade, real estate and professional services.
+
+INTERNATIONAL MONETARY FUND
+
+23
+
+FRANCE
+
+29.
+
+To restore the profitability of enterprises, the Gallois report recommended a
+
+competiveness shock in the form of a reduction of employers’ social security contributions of
+roughly 1.0 percent of GDP. The report suggested that the reduction be financed through a mix of
+expenditure cuts and increases in income and indirect taxes. Staff took the position that:
+(i) rebalancing the distribution of national income in favor of capital through the tax system is likely
+to have only temporary effects if the measure is not accompanied by deeper structural reforms; and
+(ii) the effect risks being eroded even more quickly if it is financed by a shift in the tax burden rather
+than a cut in spending, because of the possible impact of higher taxes on wage demands.
+30.
+
+The government has taken on board the recommended reduction of social security
+
+contributions, but plans to phase it in over two years starting in 2014. Rather than lowering
+social security contributions outright, the government will achieve the same objective through a
+corporate income tax credit. The authorities considered that they could not implement the measure
+in 2013, because of the adverse demand effects of higher (offsetting) taxes in the current context.
+The tax credit is to be financed by a mix of higher indirect taxes and cuts in spending starting
+in 2014. It is part of a broader package of measures which include a commitment to greater stability
+in the tax system for enterprises, and stronger apprenticeship programs.
+31.
+
+The high level of the minimum wage is another impediment to growth and
+
+employment. Because it applies uniformly across all sectors, the minimum wage is generally
+recognized as having contributed to the difficult integration of low-skilled and young workers in the
+labor force. The government’s decision to boost the minimum wage in July by 0.6 percent above the
+normal indexation mechanism, although modest, reversed a policy of strict containment that had
+allowed minimum wage increases to drift below average wage growth since 2008. Staff
+recommended a policy of wage moderation when it comes to future changes to the minimum wage.
+Government programs have helped alleviate the impact of the high minimum wage through special
+employment schemes and reductions in social security contributions at the low end of the pay scale
+– the latter at a cost of 1 percent of GDP annually. The government has announced that it will
+continue to make use of subsidized employment schemes, notably with a target coverage
+of 100,000 unskilled youth in 2013. However, the effectiveness of subsidized employment schemes
+as a vehicle to durable entry into the labor force has been questioned.
+
+24
+
+INTERNATIONAL MONETARY FUND
+
+FRANCE
+
+Minimum Wage in Percent of Average Wage
+
+Minimum Wage and Hourly Average Wage
+(December 1999 =100)
+
+41%
+
+160
+
+(Moving average 4 quarters)
+Whole economy
+
+150
+
+Minimum wage
+
+140
+
+Average wage (whole economy)
+
+40%
+
+Manufacturing
+
+39%
+
+130
+120
+
+38%
+
+110
+37%
+
+100
+90
+Dec-99
+
+Dec-01
+
+Dec-03
+
+Dec-05
+
+Dec-07
+
+Dec-09
+
+Dec-11
+
+Sources: Dares and IMF staff calculation.
+
+36%
+Sep-90 Sep-92 Sep-94 Sep-96 Sep-98 Sep-00 Sep-02 Sep-04 Sep-06 Sep-08 Sep-10 Sep-12
+
+Sources: Dares and IMF staff calculation.
+
+Services Market
+32.
+Services remain more regulated in France than in most other OECD countries, notably
+in professional services and transport. This tends to lead to higher prices for households and
+enterprises, owing to lower productivity or higher rents. The impact on prices of the entry of a fourth
+mobile phone operator in 2012 illustrates the potential benefits of increased competition. Even
+though most services are not themselves exposed to international competition, they are an input for
+industries that do compete in international markets. For instance, about one fourth of all inputs
+consumed by industry comes from the services sector. Staff analysis suggests that that liberalizing
+network services and professional services would have a large positive impact on productivity, and
+by implication competitiveness.21 By raising the purchasing power of households, deregulation of
+services would also support the labor market reforms discussed above.
+33.
+The authorities acknowledged the potential benefits of more competition in the
+services sector, but indicated that reforms had to be sequenced. France has yet to make
+progress on the reforms of consumer services (retail, energy, telecommunication and real estate)
+announced as part of the “G20 action matrix.” The authorities explained that, while priority had been
+given to labor market reforms, they would continue pursuing reforms on other fronts. Meanwhile,
+they have asked the OECD to conduct a study to identify the areas of reform with the greatest
+growth payoff.
+
+C. Consolidating Financial Stability
+34.
+Financial stability concerns, which arose in connection with euro area tensions and
+dollar liquidity problems in 2011, have abated considerably. Whereas French banks’ universal
+and diversified business model helped them weather the 2008 to 2009 financial crisis relatively well,
+
+21
+
+See accompanying Selected Issues paper, “Gains from Services Sector Deregulation”.
+
+INTERNATIONAL MONETARY FUND
+
+25
+
+FRANCE
+
+their exposure to periphery EU countries and their heavy reliance on wholesale funding caused
+significant drops in equity prices and raised concerns about financial stability in 2011. In response,
+French banks moved aggressively to strengthen their solvency ratios and funding structures through
+retained earnings and disposal of international non-core businesses. The key findings of the FSSA
+are discussed in Box 4.
+35.
+
+Reflecting the stability and profitability
+
+of the banks’ domestic operations as well as the
+changed operational and regulatory
+environment, deleveraging focused on foreign
+
+EU Bank Core Tier 1 Ratios
+.
+
+14
+12
+
+8
+
+assets (such as trade and project financing),
+
+6
+
+investment banking, and holdings of sovereign
+
+4
+
+to banking sectors elsewhere, French banks were
+able preserve positive domestic credit growth (and
+
+Peer EU
+
+10
+
+operations. It targeted mainly US dollar funded
+
+paper of higher-risk euro area countries. In contrast
+
+France
+
+2
+0
+2010
+
+2012Q2
+
+Sources: SNL Financial and Staff Estimates.
+
+low credit interest rates) through the whole crisis period (2008 to 2012). While lending standards
+may have been tightened given the slowdown of the economy, the overall softening of credit
+growth in 2012 is generally attributable to a shift in demand rather than supply. However, given
+ongoing balance sheet adjustments, domestic credit growth may be constrained in the event of an
+upswing in demand. Banks considered that the impact of their external deleveraging had been
+muted by the fact that other financial institutions were able to step in quickly into the areas vacated
+by them.
+
+26
+
+INTERNATIONAL MONETARY FUND
+
+FRANCE
+
+Box 4. Financial System Stability Assessment (FSSA) – Main Findings
+The FSSA is based on the Financial Sector Assessment Program (FSAP) Update for France, which was
+undertaken in January and June 2012. The findings were further discussed with the authorities during
+the Article IV consultation mission in October 2012.
+The key macro-relevant findings of the FSSA are as follows:
+
+
+France’s financial system has shown resilience to severe market pressures but faces challenges.
+
+While its structure has contributed to solid profit generation, the crisis exposed the risks posed by the
+banks’ size, complexity, and dependence on wholesale funding. The larger banks have been actively
+restructuring their balance sheets—moving to more stable sources of funding; reducing their crossborder presence; and building up capital. They remain, however, vulnerable to sustained disruptions in
+funding markets and reduced profitability, which would cause delays in meeting capital-raising plans.
+
+
+The regulatory and supervisory regime for banks, insurance and securities markets, and market
+
+infrastructures is of a very high standard. Areas for improvement include greater de jure independence
+of supervisory authorities; disclosure of the capital treatment and related financial interactions within
+complex banking groups; a move toward a more economic risk-focused approach to insurance
+regulation and supervision; and enhanced supervision of investment service providers and financial
+advisors.
+
+
+French banks, and listed companies more generally, make extensive public financial disclosures
+
+under IFRS, and as a result of bank regulations (Pillar III of Basel II). Nonetheless, disclosure of financial
+sector data falls short of best international practice and enhancements would be highly desirable.
+Market discipline would benefit from the publication of regular and comparable data on an institutionby-institution basis, as well as detailed official analyses of financial sector developments in France..
+
+INTERNATIONAL MONETARY FUND
+
+27
+
+FRANCE
+
+Looking forward, banks have
+
+lowered overall risk exposures, but remain
+heavily reliant on wholesale funding;
+meanwhile they are well positioned to
+comply with internationally-set capital
+requirements ahead of schedule. Exposure to
+high-yield euro area sovereigns has been
+reduced by 54 percent (nearly €30 billion)
+since 2010, and consolidated banking claims
+on the same group of countries were reduced
+
+French Banks: Tangible Common Equity to Tangible Assets
+(Percent)
+Tangible common equity to tangible assets (Percent)
+
+36.
+
+4.5
+December 2011
+4.0
+
+June 2010
+
+3.5
+December 2008
+3.0
+
+2.5
+
+2.0
+35
+
+40
+
+45
+
+50
+
+55
+
+Reliance on wholesale funding (Percent of total funding)
+
+by 17 percent over the same period. Non-sovereign exposures to high-yield euro area countries are
+mainly to the Italian non-financial private sector through French banks’ subsidiaries. Liquidity buffers
+have been bolstered, including by making use of the ECB’s Long Term Refinancing Operations
+(LTRO). The three largest banks report liquidity and funding buffers of over 100 percent of their
+funding needs. However, banks’ ratios are based on less stringent assumptions than the proposed
+Basel III liquidity coverage ratio (LCR) and net stable funding ratio (NSFR). At the same time,
+exposure to wholesale market funding remains high overall and could be a source of vulnerability in
+the event of another severe liquidity or euro area confidence shock. The FSAP stress tests suggest
+that, after one month of stress, several banks would require central bank support in reaction to an
+additional shock amounting to a 5 percent withdrawal of wholesale funding22. If faced with renewed
+pressures, French banks indicated that they have further margins to dispose of non-core assets
+before having to cut into their core lending activities. However such margins have shrunk, and quick
+deleveraging could be costly. Given the size of French banks, the realization of severe liquidity or
+capital shocks would require a policy response at the European level and, on that score, the
+authorities confirmed their desire to move swiftly on the three pillars of a European banking union
+(supervision, deposit insurance, and resolution).
+37.
+
+A critical challenge for the French financial system, and its ability to provide long term
+
+financing, comes from the need to adapt to international regulatory changes. The main
+constraint on the banks’ capacity to provide long-term loans could come from more stringent
+regulatory liquidity requirements. At the same time, insurance companies also face incentives to
+reduce investments in equity in response to new regulations and accounting standards. The
+conjunction of these two factors raises the question of how the financial system (dominated in
+France by these two types of institutions) will channel savings to meet the long-term financing
+(including equity) needs of enterprises. One avenue would be for banks to move more toward the
+originate-and-transfer model of credit, although it is not clear how quickly or easily market
+institutions can adapt to this. Another avenue is to increase the deposit base by removing tax
+incentives that deflects saving away from banks.
+
+22
+
+Exposure to liquidity shocks is discussed in paragraph 25 of the accompanying FSSA.
+
+28
+
+INTERNATIONAL MONETARY FUND
+
+FRANCE
+
+38.
+
+The review of the financial taxation of savings envisaged for next year would be the
+
+occasion to realign tax incentives toward long-term saving. Presently, tax incentives benefit life
+insurance and short-term regulated savings products, which mostly accrue to public financial
+institutions. As a result, deposits accounted for only one third of total bank liabilities at end-2011,
+among the lowest in Europe. The government’s decision to double the ceiling on regulated saving
+accounts, which are directed to the financing of social housing, will further divert deposits from the
+banking sector The effect is expected to be manageable, but staff noted that the constraints on the
+supply of social housing were not primarily a lack of financing and that if resources collected
+through regulated savings exceed the housing financing need they should be reallocated to banks.
+The authorities agreed that tax incentives should favor long-term saving regardless of the
+underlying financial instrument, and should not discriminate between financial intermediaries.
+39.
+
+In response to the Liikanen Group report, the authorities indicated that they would
+
+move ahead with their own banking reform to separate the retail from the “speculative”
+activities of banks. The objective of the reform is to carve out only those activities that do not
+significantly contribute to the financing of the economy. In the authorities’ view this means that only
+proprietary trading activities should be excluded, while market making activities which are
+considered critical to serving corporate clients should remain within the core business of banks.
+
+INTERNATIONAL MONETARY FUND
+
+29
+
+FRANCE
+
+STAFF APPRAISAL
+40.
+
+The growth outlook for France remains fragile owing to weak conditions in Europe
+
+generally, but it is also clouded by a loss of competitiveness relative to its trading partners. As
+financial stability risks abate, and with the prospects of a gradual resolution of the euro area crisis,
+France’s competitiveness gap will become the main challenge for macroeconomic stability, growth,
+and job creation. The loss of competitiveness predates the crisis, but risks becoming even more
+severe if the French economy does not adapt along with its major trading partners in Europe,
+notably Italy and Spain which, following Germany, are now engaged in significant reforms of their
+labor markets and services sectors.23
+41.
+
+The challenge for fiscal policy is to pursue consolidation at a pace that balances
+
+cyclical considerations with the need to preserve market confidence in French policies and in
+the euro area crisis resolution strategy. The government’s front-loaded adjustment strategy
+provides a strong signal of its resolve and enhances credibility which, over time, had suffered from
+the persistence of large structural deficits. However, it is also likely to dampen an already uncertain
+short-term growth outlook characterized by significant downside risks to demand. On purely cyclical
+grounds, a more measured pace of fiscal adjustment would be appropriate, but European and
+market imperatives have reduced fiscal space at this juncture. A pickup of growth in 2013 along the
+lines expected by the government should permit the measures deployed in the draft 2013 budget to
+achieve the government’s fiscal target. By contrast, persistent weakness of economic activity in the
+euro area (and in France) should be the occasion to review the speed of fiscal consolidation at the
+European level, in order to provide more support to the recovery. Starting in 2014, the organic law
+transposing into French law the Fiscal Compact should also enhance the credibility and predictability
+of fiscal policy by linking policies to a structural deficit target.
+42.
+
+The quality of fiscal adjustment would be enhanced by rebalancing the fiscal effort
+
+toward expenditure containment beyond what is currently envisaged. With rates of taxation
+already among the highest in Europe, the ratcheting up of the tax burden in 2012–13 places France
+at an additional competitive disadvantage relative to its peers. Stronger containment and
+rationalization of public spending is needed at all levels of the public sector. The initiatives taken by
+the government to improve the efficiency of public spending are welcome, but will need to be
+supported by stronger containment of local government spending, strict adherence to health
+spending limits, as well as timely adaptations of the retirement age to preserve the pension system’s
+financial balance. The government’s decision to review periodically the efficiency and the rationale
+23
+
+Reforms are described in the 2012 Article IV Staff Reports for Italy and Spain, but the reforms have continued since
+then in the judicial and, bankruptcy areas (Italy), and product market liberalization (Spain).
+
+30
+
+INTERNATIONAL MONETARY FUND
+
+FRANCE
+
+of tax expenditures and social security contributions exemptions is also welcome, especially if it is
+used to achieve a more efficient tax system based on a broader base and lower rates. The main
+policy risk comes from the back-loading of expenditure adjustment, which could prove harder to
+realize than the upfront increase in taxes. This places more urgency on defining expenditure
+rationalization plans.
+43.
+
+The challenge for structural policies is to move the economy closer to the efficiency
+
+frontier while preserving the benefits of France’s inclusive social model. Rebalancing the
+distribution of national income toward entrepreneurial income should be part of the strategy, but
+cannot be durably achieved solely through the tax system. Wage moderation, notably in terms of
+the minimum wage, should also contribute. But the key to realizing more efficient and inclusive
+outcomes in terms of growth and employment lies in improving the functioning of the labor market
+by increasing the capacity of enterprises to invest and adapt, and strengthening employment
+incentives. Discussions under way between social partners create a unique opportunity to achieve
+the needed critical mass of reforms. The benefits of labor market reform would be further enhanced
+if combined with greater competition in the services sector, which would spur productivity and
+redistribute rents to households and sectors that are exposed to international competition.
+44.
+
+The French financial system has proven to be resilient and able to react quickly to
+
+vulnerabilities created by the crisis, although its globally systemic banks remain exposed to
+international and euro-area financial risks, notably through heavy reliance on the wholesale
+funding market. Capital and liquidity buffers are much stronger today. Deleveraging was carried
+out by retrenching from investment banking and international trade financing, where other
+institutions could fill the gap relatively quickly, without squeezing access to credit. In the event of
+renewed financial market tensions, banks should still have margins to dispose of non-core assets,
+but at a cost and with likely outward spillovers.
+45.
+
+As banks and insurance companies, which are the backbone of the French financial
+
+system, adapt to international regulatory changes, the tax treatment of financial income
+should be realigned to support this process. The overhaul of the financial taxation of savings
+envisaged by the government should be an important instrument to encourage long-term saving,
+regardless of the underlying financial instrument. Distortions created by regulated short term
+savings accounts should also be reduced over time.
+46.
+
+It is recommended that the next Article IV consultation with France be held on the standard
+
+12-month cycle.
+
+INTERNATIONAL MONETARY FUND
+
+31
+
+FRANCE
+
+Table 1. France: Selected Economic and Social Indicators, 2009–17
+Projections
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+Real economy (change in percent)
+Real GDP
+Domestic demand
+Nominal GDP (billions of euros)
+CPI (year average)
+Unemployment rate (in percent)
+Gross national savings (percent of GDP)
+Gross domestic investment (percent of GDP)
+
+-3.1
+-2.6
+1886
+0.1
+9.5
+17.6
+18.9
+
+1.7
+1.6
+1937
+1.5
+9.7
+17.7
+19.3
+
+1.7
+1.7
+1997
+2.1
+9.6
+18.7
+20.6
+
+0.2
+-0.4
+2042
+2.0
+10.3
+18.5
+20.0
+
+0.4
+0.5
+2095
+1.6
+10.6
+18.2
+19.7
+
+1.0
+1.2
+2161
+1.5
+10.7
+18.2
+19.8
+
+1.5
+1.3
+2244
+1.7
+10.5
+18.7
+19.9
+
+1.7
+1.3
+2334
+1.8
+10.1
+19.3
+20.0
+
+1.9
+1.5
+2433
+1.9
+9.7
+19.8
+20.1
+
+Public finance (percent of GDP)
+Central government balance
+General government balance
+Structural balance (percent of potential GDP)
+Primary balance
+General government gross debt
+
+-6.2
+-7.5
+-4.7
+-5.1
+79.0
+
+-6.3
+-7.1
+-4.6
+-4.7
+82.3
+
+-4.4
+-5.2
+-3.5
+-2.6
+86.0
+
+-3.7
+-4.5
+-2.6
+-1.9
+89.5
+
+-2.7
+-3.5
+-1.4
+-1.0
+90.9
+
+-2.1
+-2.9
+-1.1
+-0.4
+91.3
+
+-1.5
+-2.1
+-0.8
+0.4
+90.2
+
+-1.0
+-1.2
+-0.5
+1.3
+88.0
+
+-0.2
+-0.1
+0.0
+2.4
+84.6
+
+Money and interest rates (in percent)
+Money market rate 1/
+
+0.7
+
+0.5
+
+0.8
+
+0.1
+
+...
+
+...
+
+...
+
+...
+
+...
+
+Government bond yield 1/
+
+3.6
+
+3.1
+
+3.3
+
+2.6
+
+...
+
+...
+
+...
+
+...
+
+...
+20.7
+
+Balance of payments (in percent of GDP)
+Exports of goods
+Volume growth (in percent)
+Imports of goods
+Volume growth (in percent)
+
+18.4
+
+20.2
+
+21.2
+
+21.1
+
+20.6
+
+20.3
+
+20.3
+
+20.5
+
+-12.1
+
+9.6
+
+5.3
+
+2.5
+
+0.6
+
+2.4
+
+4.0
+
+4.5
+
+4.6
+
+20.7
+
+23.0
+
+24.9
+
+24.2
+
+23.6
+
+23.3
+
+23.0
+
+22.8
+
+22.7
+
+-9.6
+
+8.9
+
+4.9
+
+0.2
+
+0.9
+
+2.9
+
+2.9
+
+3.0
+
+3.5
+
+-2.3
+
+-2.7
+
+-3.7
+
+-3.1
+
+-3.0
+
+-3.0
+
+-2.7
+
+-2.3
+
+-2.0
+
+Current account
+
+-1.3
+
+-1.6
+
+-1.9
+
+-1.5
+
+-1.5
+
+-1.6
+
+-1.2
+
+-0.7
+
+-0.3
+
+FDI (net)
+
+-3.2
+
+-1.8
+
+-1.8
+
+-1.7
+
+-1.6
+
+-1.5
+
+-1.4
+
+-1.4
+
+-1.3
+
+Official reserves (US$ billion)
+
+46.6
+
+55.8
+
+48.6
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+...
+
+Trade balance
+
+Fund position (as of January 31, 2012)
+Holdings of currency (percent of quota)
+
+80.8
+
+79.7
+
+73.1
+
+70.9
+
+...
+
+...
+
+...
+
+...
+
+Holdings of SDRs (percent of allocation)
+
+95.9
+
+96.1
+
+95.5
+
+94.2
+
+...
+
+...
+
+...
+
+...
+
+...
+
+10739
+
+10739
+
+10739
+
+10739
+
+...
+
+...
+
+...
+
+...
+
+...
+
+Quota (SDRs million)
+Exchange rates
+Euro per U.S. dollar, period average
+
+0.72
+
+0.75
+
+0.72
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+Nominal effective rate, ULC-styled (2000=100)
+
+104.8
+
+102.4
+
+102.4
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+Real effective exchange rate, ULC-based (2000=100)
+
+107.8
+
+105.0
+
+103.8
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+Potential output and output gap
+Potential output
+Output gap
+
+1.0
+
+0.8
+
+0.5
+
+0.5
+
+0.6
+
+0.6
+
+0.7
+
+0.8
+
+0.8
+
+-4.6
+
+-3.8
+
+-2.7
+
+-2.9
+
+-3.1
+
+-2.7
+
+-1.9
+
+-0.9
+
+0.0
+
+Social indicators
+Per capita GDP (2006): US$35,471; Life expectancy at birth (2009): 77.7 (male) and 84.4 (female);
+Poverty rate (mid-2000s): 14.1 percent (60 percent line), 7.1 percent (50 percent line);
+Income distribution (ratio of income received by top and bottom quintiles, 2004): 4.2.
+Sources: French authorities; IMF staff estimates and projections.
+1/ For 2012, average for January-April.
+
+32
+
+INTERNATIONAL MONETARY FUND
+
+Table 2. France: Balance of Payments, 2008-17
+(Percent of GDP)
+Projections
+2002
+
+2003
+
+2004
+
+2005
+
+1.2
+
+0.7
+
+0.5
+
+-0.5
+
+-0.6
+
+-1.0
+
+-1.7
+
+1.7
+0.3
+
+1.1
+0.1
+
+0.5
+-0.3
+
+-0.7
+-1.3
+
+-1.0
+-1.7
+
+-1.4
+-2.2
+
+Exports of goods and services
+Exports of goods
+Exports of services
+
+26.9
+21.0
+5.9
+
+25.5
+20.1
+5.5
+
+25.9
+20.4
+5.5
+
+26.2
+20.6
+5.6
+
+Imports of goods and services
+Imports of goods (f.o.b.)
+Imports of services
+
+-25.2
+-20.5
+-4.7
+
+-24.5
+-19.9
+-4.6
+
+-25.4
+-20.7
+-4.8
+
+0.6
+
+0.8
+
+1.1
+
+1.1
+
+1.7
+
+1.7
+
+1.7
+
+-1.0
+
+-1.1
+
+-1.1
+
+-1.3
+
+-1.2
+
+-1.2
+
+Balance on current account
+Balance on goods and services
+Balance of trade (f.o.b., c.i.f.)
+
+Income, net
+Current transfers, net
+Balance on capital account
+Balance on financial account
+
+2006 2007 2008 2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+-1.3
+
+-1.6
+
+-1.9
+
+-1.5
+
+-1.5
+
+-1.6
+
+-1.2
+
+-0.7
+
+-0.3
+
+-2.2
+-3.1
+
+-1.3
+-2.3
+
+-1.9
+-2.7
+
+-2.5
+-3.7
+
+-1.8
+-3.1
+
+-1.8
+-3.0
+
+-1.9
+-3.0
+
+-1.5
+-2.7
+
+-1.0
+-2.3
+
+-0.6
+-2.0
+
+27.2 27.0 27.1
+21.5 21.2 21.2
+5.7
+5.8
+5.8
+
+25.7
+18.4
+7.3
+
+27.7
+20.2
+7.5
+
+29.3
+21.2
+8.1
+
+29.0
+21.1
+7.9
+
+28.3
+20.6
+7.6
+
+27.8
+20.3
+7.5
+
+27.8
+20.3
+7.5
+
+28.0
+20.5
+7.6
+
+28.3
+20.7
+7.6
+
+-26.9 -28.2 -28.4 -29.3 -27.0
+-21.9 -23.2 -23.4 -24.3 -20.7
+-5.0 -5.0 -5.0 -5.0 -6.3
+
+-29.6
+-23.0
+-6.7
+
+-31.8
+-24.9
+-6.9
+
+-30.7
+-24.2
+-6.6
+
+-30.1
+-23.6
+-6.5
+
+-29.7
+-23.3
+-6.4
+
+-29.3
+-23.0
+-6.3
+
+-29.0
+-22.8
+-6.2
+
+-28.9
+-22.7
+-6.2
+
+1.7
+
+2.1
+
+2.4
+
+1.7
+
+1.7
+
+1.7
+
+1.7
+
+1.7
+
+1.7
+
+-1.3
+
+-1.8
+
+-1.7
+
+-1.8
+
+-1.4
+
+-1.4
+
+-1.4
+
+-1.4
+
+-1.4
+
+-1.4
+
+0.0
+
+-0.5
+
+0.1
+
+0.0
+
+0.0
+
+0.1
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+-1.1
+
+0.6
+
+-0.5
+
+-0.1
+
+1.4
+
+1.6
+
+0.9
+
+1.2
+
+1.4
+
+2.9
+
+1.5
+
+1.5
+
+1.6
+
+1.2
+
+0.7
+
+0.3
+
+-0.1
+
+-0.6
+
+-1.2
+
+-1.9
+
+-1.7
+
+-2.6
+
+-3.2
+
+-3.2
+
+-1.8
+
+-1.8
+
+-1.7
+
+-1.6
+
+-1.5
+
+-1.4
+
+-1.4
+
+-1.3
+
+Portfolio investment, net
+
+-0.7
+
+0.4
+
+-3.2
+
+-0.8
+
+-6.0
+
+-6.4
+
+1.3
+
+12.8
+
+6.4
+
+12.6
+
+11.6
+
+11.1
+
+10.7
+
+9.9
+
+8.9
+
+8.1
+
+Other investment, net
+
+-0.9
+
+1.4
+
+3.8
+
+1.3
+
+9.5
+
+8.5
+
+3.3
+
+-7.8
+
+-4.6
+
+-8.9
+
+-8.4
+
+-8.0
+
+-7.6
+
+-7.2
+
+-6.9
+
+-6.5
+
+Reserve assets
+
+0.3
+
+-0.1
+
+-0.2
+
+0.4
+
+-0.5
+
+0.0
+
+0.4
+
+0.2
+
+-0.3
+
+0.3
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+Errors and omissions, net
+
+0.1
+
+-1.3
+
+0.2
+
+1.8
+
+-0.9
+
+-0.7
+
+0.8
+
+0.1
+
+0.1
+
+-1.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+Sources: French authorities; IMF staff estimates and projections.
+
+33
+
+FRANCE
+
+INTERNATIONAL MONETARY FUND
+
+Direct investment, net
+
+FRANCE
+
+Table 3.a. France: General Government Statement of Operations, 2008-17
+(Percent of GDP, unless otherwise indicated)
+
+Revenue
+Taxes
+Social contributions
+Grants
+Other revenue
+Expenditure
+Expense
+Compensation of employees
+Use of goods and services
+Consumption of fixed capital
+Interest
+Subsidies
+Grants
+Social benefits
+Other expense
+Net acquisition of nonfinancial assets
+Acquisitions of nonfinancial assets
+Disposals of nonfinancial assets
+Consumption of fixed capital
+Gross Operating Balance
+Net Operating Balance
+Net lending (+)/borrowing (–)
+Net acquisition of financial assets
+Monetary gold and SDRs
+Currency and deposits
+Debt securities
+Loans
+Equity and investment fund shares
+Insurance, pensions, and standardized guarantee schemes
+Financial derivatives and employee stock options
+Other accounts receivable
+Net incurrence of liabilities
+SDRs
+Currency and deposits
+Debt securities
+Loans
+Equity and investment fund shares
+Insurance, pensions, and standardized guarantee schemes
+Financial derivatives and employee stock options
+Other accounts payable
+Memorandum items:
+Structural balance
+Structural balance (in percent of potential GDP)
+Structural primary balance 1/
+Central government net lending/borrowing
+General government Maastricht balance
+Gross debt (Maastricht definition)
+
+2009
+
+2010
+
+2011 2012 2013
+(in percent of GDP)
+
+49.9
+26.7
+18.1
+...
+...
+53.3
+52.5
+12.8
+5.1
+2.6
+2.9
+1.4
+0.8
+23.5
+3.4
+0.8
+...
+...
+-2.6
+0.1
+-2.6
+-3.3
+3.1
+0.0
+0.6
+1.2
+0.4
+0.3
+0.0
+0.1
+0.5
+6.4
+0.0
+-0.1
+5.7
+0.6
+0.0
+0.0
+0.0
+0.3
+
+49.1
+25.1
+18.7
+...
+...
+56.7
+55.9
+13.5
+5.5
+2.8
+2.4
+1.7
+0.8
+25.4
+3.8
+0.8
+...
+...
+-2.8
+-4.0
+-6.7
+-7.5
+0.8
+0.0
+1.1
+-1.1
+-0.2
+0.6
+0.0
+0.0
+0.3
+8.3
+0.0
+0.1
+7.9
+0.4
+0.0
+0.0
+0.0
+-0.1
+
+49.5
+25.6
+18.6
+...
+...
+56.6
+56.1
+13.4
+5.8
+2.7
+2.4
+1.7
+0.7
+25.6
+3.8
+0.5
+...
+...
+-2.7
+-3.9
+-6.6
+-7.1
+1.0
+0.0
+0.1
+0.8
+0.2
+-0.5
+0.0
+0.0
+0.4
+8.1
+0.0
+0.9
+5.5
+1.0
+0.0
+0.0
+0.0
+0.6
+
+50.8
+26.8
+18.8
+...
+...
+56.0
+55.5
+13.2
+5.5
+2.6
+2.6
+1.5
+0.7
+25.6
+3.7
+0.4
+...
+...
+-2.6
+-2.1
+-4.7
+-5.2
+1.6
+0.0
+1.1
+-0.6
+0.3
+-0.2
+0.0
+0.0
+0.9
+6.8
+0.0
+0.6
+5.6
+-0.5
+0.0
+0.0
+0.0
+1.0
+
+51.7
+27.7
+18.9
+...
+...
+56.2
+55.8
+13.0
+5.4
+2.6
+2.6
+1.5
+0.7
+26.0
+4.0
+0.4
+...
+...
+-2.6
+-1.5
+-4.1
+-4.5
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+
+52.7
+28.8
+18.8
+...
+...
+56.2
+55.7
+12.8
+5.4
+2.5
+2.5
+1.5
+0.7
+26.1
+4.3
+0.4
+...
+...
+-2.5
+-0.5
+-3.0
+-3.5
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+
+52.7
+28.9
+18.7
+...
+...
+55.6
+55.2
+12.6
+5.3
+2.5
+2.5
+1.5
+0.7
+26.0
+4.2
+0.4
+...
+...
+-2.5
+0.0
+-2.5
+-2.9
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+
+-3.0
+-3.0
+-0.4
+-3.3
+-3.3
+68.2
+
+-4.9
+-4.7
+-3.0
+-6.2
+-7.5
+79.2
+
+-4.8
+-4.6
+-2.9
+-6.3
+-7.1
+82.3
+
+-3.6
+-3.5
+-1.4
+-4.4
+-5.2
+86.0
+
+-2.7
+-2.6
+-0.6
+-3.7
+-4.5
+89.5
+
+-1.4
+-1.4
+0.4
+-2.7
+-3.5
+90.9
+
+-1.1
+-1.1
+0.8
+-2.1
+-2.9
+91.3
+
+Source: GFS yearbook, INSEE, French authorities, and IMF staff estimates and projections.
+1/ Excludes cyclical effects.
+
+34
+
+INTERNATIONAL MONETARY FUND
+
+Projections
+2014 2015
+
+2008
+
+2016
+
+2017
+
+52.5
+28.8
+18.6
+...
+...
+54.6
+54.2
+12.2
+5.3
+2.4
+2.5
+1.5
+0.6
+25.8
+3.8
+0.4
+...
+...
+-2.4
+0.7
+-1.7
+-2.1
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+
+52.3
+28.7
+18.5
+...
+...
+53.5
+53.1
+11.9
+5.3
+2.3
+2.5
+1.5
+0.6
+25.3
+3.6
+0.4
+...
+...
+-2.3
+1.5
+-0.8
+-1.2
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+
+52.4
+29.0
+18.4
+...
+...
+52.6
+52.2
+11.5
+5.3
+2.2
+2.5
+1.5
+0.6
+25.2
+3.3
+0.4
+...
+...
+-2.2
+2.5
+0.3
+-0.1
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+
+-0.8
+-0.8
+1.2
+-1.5
+-2.1
+90.2
+
+-0.5
+-0.5
+1.6
+-1.0
+-1.2
+88.0
+
+0.0
+0.0
+2.2
+-0.2
+-0.1
+84.6
+
+FRANCE
+
+Table 3.b. France: General Government Integrated Balance Sheet, 2002-10
+(Percent of GDP)
+2002 2003 2004 2005 2006 2007
+STOCK POSITIONS:
+Net worth
+Nonfinancial assets
+Net financial worth
+Financial assets
+Monetary gold and SDRs
+Currency and deposits
+Debt securities
+Loans
+Equity and investment fund shares
+Insurance, pensions, and standardized
+Financial derivatives and employee stock
+Other accounts receivable
+Liabilities
+Monetary gold and SDRs
+Currency and deposits
+Debt securities
+Loans
+Equity and investment fund shares
+Insurance, pensions, and standardized
+Financial derivatives and employee stock
+Other accounts payable
+Memorandum items:
+Debt (at market value)
+Debt at face value
+Maastricht debt
+OTHER ECONOMIC FLOWS:
+Change in net worth from other flows
+Nonfinancial assets
+Net financial worth
+Financial assets
+Monetary gold and SDRs
+Currency and deposits
+Debt securities
+Loans
+Equity and investment fund shares
+Insurance, pensions, and standardized
+Financial derivatives and employee stock
+Other accounts receivable
+Liabilities
+Monetary gold and SDRs
+Currency and deposits
+Debt securities
+Loans
+Equity and investment fund shares
+Insurance, pensions, and standardized
+Financial derivatives and employee stock
+Other accounts payable
+Source: GFS yearbook, French authorities, and IMF
+
+2008
+
+2009
+
+2010
+
+...
+...
+-44.4
+26.3
+0.0
+2.6
+1.7
+2.3
+12.1
+0.1
+0.0
+7.6
+70.7
+0.0
+1.5
+52.7
+9.3
+0.0
+0.0
+0.0
+7.3
+
+...
+...
+-46.6
+28.6
+0.0
+3.4
+1.5
+2.1
+13.5
+0.1
+0.0
+8.1
+75.2
+0.0
+1.0
+56.3
+10.0
+0.0
+0.0
+0.0
+7.9
+
+...
+...
+-47.4
+29.7
+0.0
+3.5
+1.3
+2.2
+15.4
+0.1
+0.0
+7.2
+77.1
+0.0
+0.9
+59.5
+9.8
+0.0
+0.0
+0.0
+6.9
+
+...
+...
+-45.4
+33.6
+0.0
+3.2
+1.4
+1.9
+19.3
+0.1
+0.0
+7.7
+78.9
+0.0
+0.9
+61.3
+9.9
+0.0
+0.0
+0.0
+6.8
+
+...
+...
+-39.3
+34.6
+0.0
+1.3
+1.7
+1.7
+22.1
+0.1
+0.0
+7.8
+73.9
+0.0
+1.2
+56.2
+9.7
+0.0
+0.0
+0.0
+7.0
+
+...
+...
+-35.7
+37.3
+0.0
+1.3
+1.9
+1.6
+24.2
+0.1
+0.0
+8.1
+73.0
+0.0
+1.2
+54.5
+10.0
+0.0
+0.0
+0.0
+7.3
+
+...
+...
+-45.8
+33.4
+0.0
+2.1
+2.6
+1.5
+18.8
+0.1
+0.1
+8.2
+79.2
+0.0
+1.4
+60.8
+9.8
+0.0
+0.0
+0.0
+7.3
+
+...
+...
+-52.3
+38.5
+0.0
+3.0
+2.5
+2.0
+21.9
+0.1
+0.1
+9.0
+90.8
+0.0
+1.3
+70.9
+11.0
+0.0
+0.0
+0.0
+7.7
+
+...
+...
+-58.7
+36.2
+0.0
+1.9
+2.3
+2.1
+20.9
+0.1
+0.2
+8.8
+94.9
+0.0
+1.2
+74.4
+11.5
+0.0
+0.0
+0.0
+7.8
+
+70.7
+66.3
+59.0
+
+75.2
+71.1
+63.2
+
+77.1
+71.9
+65.0
+
+78.9
+73.5
+66.7
+
+73.9
+70.9
+64.0
+
+73.0
+71.5
+64.2
+
+79.2
+75.5
+68.2
+
+90.8
+86.7
+79.0
+
+94.9
+90.0
+82.4
+
+...
+...
+6.4
+4.3
+0.0
+0.0
+0.0
+0.0
+4.3
+0.0
+0.0
+0.0
+-2.2
+0.0
+0.0
+-2.1
+-0.1
+0.0
+0.0
+0.0
+0.0
+
+...
+...
+4.5
+3.4
+0.0
+0.0
+0.0
+0.0
+3.3
+0.0
+0.0
+0.1
+-1.1
+0.0
+0.0
+-1.1
+-0.1
+0.0
+0.0
+0.0
+0.1
+
+...
+...
+-7.6
+-5.1
+0.0
+0.0
+0.1
+0.0
+-5.2
+0.0
+0.0
+0.0
+2.5
+0.0
+0.0
+2.4
+0.0
+0.0
+0.0
+0.0
+0.1
+
+...
+...
+2.2
+2.2
+0.0
+0.0
+0.1
+0.1
+2.2
+0.0
+0.0
+-0.1
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+
+...
+...
+-0.6
+0.0
+0.0
+0.0
+-0.1
+0.0
+-0.1
+0.0
+0.1
+0.0
+0.6
+0.0
+0.0
+0.5
+0.0
+0.0
+0.0
+0.0
+0.1
+
+...
+...
+...
+...
+...
+...
+...
+...
+-2.7
+0.7
+0.9
+3.3
+-1.5
+0.5
+2.0
+3.7
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.1
+-0.1
+0.0
+0.1
+-0.2
+0.0
+0.0
+-0.3
+0.0
+-0.1
+-1.5
+0.7
+2.1
+3.9
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.2
+-0.2
+1.1
+0.5
+0.0
+0.0
+0.0
+0.0
+-0.1
+0.0
+0.0
+0.0
+1.3
+-0.2
+1.1
+0.3
+0.0
+0.0
+0.1
+0.2
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+staff estimates and projections.
+
+INTERNATIONAL MONETARY FUND
+
+35
+
+FRANCE
+
+Table 4. France: Vulnerability Indicators, 2006–12
+(In percent of GDP; unless otherwise indicated)
+
+External Indicators
+Exports (annual percentage change, in U.S. dollars)
+Imports (annual percentage change, in U.S. dollars)
+Terms of trade (annual percentage change)
+Current account balance
+Capital and financial account balance
+Of which
+Inward portfolio investment (debt securities, etc.)
+Inward foreign direct investment
+Other investment (net)
+Total reserves minus gold
+(in billions of U.S. dollars, end-of-period)
+Euros per U.S. dollar (period average)
+Market Indicators
+Financial Markets
+Public sector debt 1/
+3-month T-bill yield (percentage points, eop)
+3-month T-bill yield in real terms (percentage points, eop)
+US 3 month T-bill
+Spread with the US T-bill (percentage points, eop)
+5- to 8-year government bond (percentage points, eop)
+10-year government bond (United States)
+Spread with US bond (percentage points, eop)
+Yield curve (10 year - 3 month, percentage points, eop)
+Stock market index (period average)
+Real estate prices (index, Q1-10=100, period average)
+Credit markets (end-of-period 12-month growth rates)
+Credit to the private sector
+Bank credit to households
+Housing Loans
+Bank credit to nonfinancial enterprises
+Sectoral risk indicators
+Household sector
+Household savings ratio
+Household financial savings ratio
+Real estate household solvency ratio (index, 2001=100) 2/
+Corporate sector
+Profitability of business sector (financial margin)
+Investment ratio
+Savings ratio
+Self-financing ratio
+Banking sector
+Share of housing loans in bank credit to the private sector
+Share of nonperforming loans in total loans
+Ratio of nonperforming loans net of provisions to capital
+Liquid assets to total short-term liabilities
+Return on assets
+Return on equity
+Regulatory capital to risk-weighted assets
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+Est.
+2012
+
+24.9
+25.1
+-1.5
+-0.6
+1.4
+
+17.9
+19.2
+1.2
+-1.0
+1.7
+
+-5.1
+-3.2
+-0.7
+-1.7
+1.0
+
+-2.9
+-3.7
+2.8
+-1.3
+1.2
+
+-1.1
+-0.8
+-1.3
+-1.6
+1.4
+
+7.2
+5.8
+-2.1
+-1.6
+9.5
+
+…
+…
+…
+…
+…
+
+8.4
+3.2
+9.5
+
+4.5
+3.7
+8.5
+
+6.4
+2.3
+3.3
+
+16.7
+0.9
+-7.8
+
+5.0
+1.2
+-4.6
+
+-1.8
+2.9
+-12.1
+
+…
+…
+…
+
+42.7
+0.8
+
+45.7
+0.7
+
+33.6
+0.7
+
+46.6
+0.7
+
+55.8
+0.8
+
+48.6
+0.8
+
+49.2
+0.8
+
+64.1
+3.5
+2.0
+4.8
+-1.4
+3.8
+4.6
+-0.8
+0.3
+273.1
+98.6
+
+64.2
+3.8
+1.3
+3.1
+0.7
+4.4
+4.1
+0.3
+0.5
+306.1
+105.1
+
+68.2
+1.9
+0.9
+0.0
+1.9
+3.5
+2.4
+1.1
+1.6
+232.0
+106.0
+
+79.2
+
+82.3
+
+86.0
+
+…
+
+0.4
+
+0.5
+
+0.1
+
+0.1
+
+-0.6
+0.1
+0.3
+3.5
+3.6
+-0.1
+3.1
+178.6
+98.5
+
+-1.2
+0.2
+0.3
+3.3
+3.3
+0.1
+2.8
+200.3
+103.5
+
+-2.2
+0.0
+0.1
+3.2
+2.0
+1.2
+3.0
+192.1
+109.7
+
+-2.2
+0.1
+0.0
+3.0
+2.1
+1.0
+2.9
+181.0
+…
+
+11.0
+11.4
+15.1
+9.7
+
+13.4
+10.7
+12.8
+14.1
+
+6.2
+5.7
+7.5
+10.6
+
+-0.7
+2.9
+3.7
+-2.1
+
+5.6
+6.0
+8.2
+1.4
+
+4.4
+5.8
+6.2
+4.7
+
+2.7
+4.6
+6.0
+3.6
+
+Mar
+Mar
+Mar
+Mar
+
+14.9
+4.9
+97
+
+15.4
+5.0
+97
+
+15.5
+5.0
+101
+
+16.4
+7.4
+102.0
+
+15.9
+7.0
+99.4
+
+16.1
+6.8
+100.4
+
+…
+…
+98.4
+
+Q1
+
+37.8
+17.4
+15.2
+81.6
+
+38.4
+18.4
+16.5
+83.8
+
+38.1
+18.9
+14.0
+69.3
+
+35.8
+17.1
+13.8
+75.7
+
+36.7
+17.9
+15.7
+81.8
+
+35.3
+18.7
+13.5
+67.2
+
+…
+…
+…
+…
+
+37.3
+3.0
+
+37.1
+2.7
+
+37.6
+2.8
+
+39.2
+4.0
+
+40.2
+3.8
+
+40.8
+3.7
+
+40.9
+…
+
+6.8
+146.7
+0.6
+14.0
+10.9
+
+6.6
+150.3
+0.4
+9.8
+10.2
+
+10.3
+128.3
+0.1
+3.6
+10.5
+
+19.3
+93.1
+0.3
+7.2
+12.4
+
+17.2
+76.2
+0.6
+12.0
+12.7
+
+21.9
+74.8
+0.6
+13.1
+12.8
+
+…
+…
+…
+…
+…
+
+Sources: French authorities; INSEE; BdF; ECB; Haver; Credit Logement; IMF, International Financial Statistics; and Bloomberg.
+1/ The debt figure does not include guarantees on non-general government debt.
+2/ This index combines the effect of real disposable income, repayment conditions for loans, real estate prices, and interest subsidies.
+
+36
+
+INTERNATIONAL MONETARY FUND
+
+Date
+2012
+
+Mar
+Mar
+
+Apr
+Mar
+Apr
+Mar
+Apr
+Apr
+Mar
+Mar
+Mar
+
+Mar
+
+…
+
+FRANCE
+
+Table 5. France: Daily Movements of Selected Financial Indicators
+Change since:
+Latest
+2010-2011
+observation:
+12/5/2012 Last Closing 7 days ago 7/1/2011
+Trough
+Peak
+
+Since 2000
+Trough
+Peak
+
+3590.5
+43.4
+6.0
+28.2
+
+0.3
+0.6
+0.3
+-1.1
+
+2.5
+3.0
+6.1
+4.3
+
+(Percent)
+-10.4
+29.1
+-20.5
+88.1
+-44.0
+109.9
+-33.6
+88.0
+
+-13.6
+-27.2
+-55.8
+-46.0
+
+49.4
+108.8
+109.9
+88.0
+
+-48.1
+-52.6
+-81.5
+-79.9
+
+3M Basis Swap Spread
+Euribor-OIS 3M Spread
+
+-24.1
+12.4
+
+1.1
+-0.3
+
+4.2
+0.9
+
+(Basis points)
+3.4
+133.4
+-9.2
+2.0
+
+-16.4
+-88.3
+
+185.9
+21.1
+
+-21.6
+-194.6
+
+Sovereign 10Y Yield Spread
+Sovereign 5Y CDS Spread
+BNP Paribas 5Y CDS Spread
+Crédit Agricole 5Y CDS Spread
+Société Générale 5Y CDS Spread
+
+65.2
+79.7
+143.7
+159.5
+174.3
+
+1.3
+0.6
+-3.5
+-0.9
+-2.8
+
+-3.2
+-4.6
+-18.8
+-13.8
+-17.1
+
+-124.9
+-170.0
+-215.9
+-244.3
+-265.9
+
+66.6
+78.2
+138.3
+153.7
+168.4
+
+-124.9
+-170.0
+-215.9
+-244.3
+-265.9
+
+CAC 40 Index
+BNP Paribas Equity
+Crédit Agricole Equity
+Société Générale Equity
+
+27.4
+0.3
+30.7
+26.2
+42.3
+
+46.5
+50.0
+93.6
+97.4
+112.7
+
+Sources: Bloomberg; and staff calculations.
+
+Table 6. France: The Core Set of Financial Soundness Indicators, 2004-2011
+Indicator
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+11.5
+
+11.3
+
+10.9
+
+10.2
+
+10.5
+
+12.4
+
+Estimate
+2010
+2011
+
+Deposit-taking institutions 1/
+Regulatory capital to risk-weighted assets
+
+12.5
+
+12.2
+10.9
+
+Regulatory Tier I capital to risk-weighted assets
+
+8.8
+
+8.2
+
+8.2
+
+7.7
+
+8.5
+
+10.2
+
+10.7
+
+Nonperforming loans net of provisions to capital
+
+9.8
+
+8.6
+
+6.8
+
+6.6
+
+8.2
+
+10.8
+
+10.0
+
+9.2
+
+Bank provisions to Nonperforming loans
+
+n.a.
+
+n.a.
+
+170
+
+158.3
+
+131.0
+
+109.5
+
+112.0
+
+115.3
+
+Nonperforming loans to total gross loans
+
+4.2
+
+3.5
+
+3.0
+
+2.7
+
+2.8
+
+3.6
+
+3.5
+
+3.5
+
+Sectoral distribution of loans to total loans, of which
+Deposit-takers
+Nonfinancial corporation
+Households (including individual firms)
+Nonresidents (including financial sectors)
+
+34.0
+18.7
+24.9
+4.2
+
+30.1
+18.8
+26.5
+4.7
+
+30.6
+18.6
+26.6
+4.2
+
+32.2
+18.1
+24.8
+4.7
+
+33.6
+18.3
+24.1
+4.7
+
+34.1
+17.5
+24.5
+4.6
+
+36.5
+20.5
+30.5
+6.1
+
+40.2
+19.2
+28.7
+5.9
+
+ROA
+ROA
+ROE
+ROE
+
+0.5
+0.53
+10.6
+12.7
+
+0.6
+0.49
+11.8
+13.5
+
+0.6
+0.57
+14.0
+17.22
+
+0.4
+0.35
+9.8
+13.34
+
+0.0
+0.1
+-1.0
+3.8
+
+0.4
+0.3
+8.2
+6.4
+
+0.3
+0.6
+7.9
+11.8
+
+0.0
+0.4
+1.2
+8.2
+
+(aggregated data on a parent-company basis) 2/
+(main groups on a consolidated basis) 3/
+(aggregated data on a parent-company basis) 2/
+(main groups on a consolidated basis) 3/
+
+Interest margin to gross income
+
+33.2
+
+32.4
+
+28.2
+
+25.3
+
+40.4
+
+34.9
+
+49.4
+
+51.5
+
+Noninterest expenses to gross income
+
+63.9
+
+64.3
+
+62.4
+
+68.4
+
+84.2
+
+63.1
+
+65.7
+
+67.4
+
+Liquid assets to total assets
+Liquid assets to short-term liabilities
+
+21.3
+155.1
+
+20.5
+150.1
+
+19.9
+146.7
+
+18.9
+150.3
+
+18.3
+139.6
+
+18.3
+150.1
+
+23.0
+144.4
+
+24.1
+136.3
+
+Net open position in foreign exchange to capital
+Net open positions in FX (in millions of euros) 4/
+Net open positions in equities to Tier I capital
+
+6,669
+4.8
+
+5275
+n.a.
+
+5,283
+n.a.
+
+7,058
+n.a.
+
+n.a.
+n.a.
+
+n.a.
+n.a.
+
+n.a.
+n.a.
+
+n.a.
+n.a.
+
+Sources: Banque de France, ACP
+1/
+2/
+3/
+4/
+
+These may be grouped in different peer groups based on control, business lines, or group structure.
+All credit institutions' aggregated data on a parent-company basis.
+Consolidated data for the seven main banking groups (2005, IFRS).
+Impact of the creation of the euro has to be taken into account.
+
+INTERNATIONAL MONETARY FUND
+
+37
+
+FRANCE
+Table 7. France: Encouraged Financial Soundness Indicators, 2004-11
+(In percent, unless otherwise indicated)
+
+Indicator
+Corporate sector
+Total debt to equity
+Return on equity
+Interest paid to financial firms 1/
+Corporate net foreign exchange exposure to equity
+Number of enterprise bankruptcies (thousands)
+Number of enterprise creations (thousands)
+Deposit-taking institutions
+Capital (net worth) to assets
+International consolidated claims of French banks, of which
+(BIS data, as percent of total international claims)
+Advanced countries
+Developing Europe
+Latin America and Caribbean
+Africa and Middle East
+Asia and Pacific Area
+Offshore Financial Centers
+Gross asset position in financial derivatives to capital
+Gross liability position in financial derivatives to capital
+Large exposures to capital
+Trading income to total income
+Personnel expenses to noninterest expenses
+Spread between reference lending and deposit rates
+Spread between highest and lowest interbank rate
+Customer deposits to total (noninterbank) loans
+FX loans to total loans 2/
+FX liabilities to total liabilities
+Net open position in equities to capital
+Market liquidity
+Average bid-ask spread in the securities market 3/
+Average daily turnover ratio in the securities market
+Other financial corporations
+Assets to total financial system assets
+Assets to GDP
+Households
+Household debt to GDP
+Household debt service and principal payments to income
+Real estate markets
+Real estate prices
+Residential real estate loans to total loans
+Commercial real estate loans to total loans
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+73.0
+5.4
+8.7
+n.a.
+n.a.
+n.a.
+
+71.0
+5.2
+8.8
+n.a.
+n.a.
+n.a.
+
+59.2
+4.4
+9.7
+n.a.
+n.a.
+n.a.
+
+55.1
+4.0
+11.5
+n.a.
+n.a.
+n.a.
+
+87.5
+5.6
+13.7
+n.a.
+n.a.
+n.a.
+
+78.4
+4.5
+9.9
+n.a.
+n.a.
+n.a.
+
+77.7
+4.5
+8.8
+n.a.
+n.a.
+n.a.
+
+87.8
+4.7
+10.1
+n.a.
+n.a.
+n.a.
+
+5.1
+
+4.4
+
+4.5
+
+4.1
+
+4.2
+
+4.5
+
+4.6
+
+5.5
+
+84.2
+2.6
+1.0
+3.1
+2.6
+6.5
+372.5
+358.5
+4.6
+20.0
+56.5
+214
+n.a.
+80.6
+10.8
+15.1
+n.a.
+
+83.7
+2.8
+1.1
+3.1
+2.6
+6.6
+543.7
+484.7
+3.6
+23.9
+58.3
+215
+n.a.
+83.5
+12.0
+17.8
+n.a.
+
+85.1
+3.2
+0.9
+2.6
+2.5
+5.6
+337.0
+293.0
+1.4
+26.0
+54.0
+226
+n.a.
+80.5
+11.4
+18.6
+n.a.
+
+84.0
+4.0
+1.0
+2.6
+2.9
+5.5
+235.0
+227.0
+4.7
+16.8
+53.3
+232
+n.a.
+77.4
+11.3
+18.1
+n.a.
+
+84.2
+4.3
+1.1
+3.1
+2.6
+4.7
+633.2
+616.3
+3.1
+-63.9
+51.6
+218
+n.a.
+78.0
+10.5
+16.8
+n.a.
+
+83.3
+4.6
+1.2
+3.5
+2.9
+4.4
+362.7
+361.9
+4.1
+16.4
+61.1
+237
+n.a.
+85.3
+10.4
+15.3
+n.a.
+
+79.8
+5.7
+1.4
+4.4
+4.0
+4.7
+286.2
+286.7
+6.3
+10.3
+44.9
+252
+
+79.3
+6.0
+1.4
+5.1
+3.6
+4.6
+388.8
+388.0
+2.4
+-13.2
+42.1
+232
+
+79.5
+9.8
+16.4
+n.a.
+
+78.4
+8.9
+15.4
+n.a.
+
+n.a.
+n.a.
+
+n.a.
+n.a.
+
+n.a.
+7.0
+
+n.a.
+7.7
+
+n.a.
+5.4
+
+n.a.
+3.4
+
+n.a.
+4.3
+
+n.a.
+
+19.9
+159.9
+
+20.2
+180.8
+
+20.9
+207.8
+
+20.6
+223.1
+
+19.7
+207.4
+
+20.9
+227.5
+
+20.76
+231.9
+
+39.2
+
+42.1
+
+44.6
+
+47.1
+
+49.3
+
+53.3
+
+2010
+
+55.0
+
+12.36
+
+12.85
+
+14.49
+
+12.10
+
+11.68
+
+12.26
+
+13.17
+
+16.0
+n.a.
+n.a.
+
+14.8
+n.a.
+n.a.
+
+10.0
+n.a.
+n.a.
+
+5.5
+n.a.
+n.a.
+
+-3.8
+n.a.
+n.a.
+
+-4.2
+n.a.
+n.a.
+
+7.7
+n.a.
+n.a.
+
+Sources: Banque de France ; ACP ; BIS ; Ministère des Finances
+1/ In percent of financial firms' gross operating surplus.
+2/ Data cover interbank and customer lending to residents and nonresidents on a metropolitan basis.
+3/ Or in other markets that are most relevant to bank liquidity, such as foreign exchange markets.
+4/ Other indicators such as additional balance sheet data (e.g. maturity mismatches in foreign currency), data on the life insurance sector, or
+information on the corporate and household sector may be added where available and relevant.
+
+38
+
+INTERNATIONAL MONETARY FUND
+
+Estimate
+2011
+
+2004
+
+19.3886
+220.932
+55.9
+
+12.6
+3.7
+n.a.
+n.a.
+
+FRANCE
+
+Annex I. France: External Assessment
+Background—External Developments
+The current account recorded a deficit of 1.9 percent of GDP in 2011, driven by a worsening balance in
+net exports of goods. Exports continued to recover but imports were up by nearly two percentage
+points of GDP, especially on account of petroleum imports. The surplus in the financial account
+in 2011 was marked by a retrenchment in net asset flows, including in the banking sector (which also
+shed liabilities), in contrast to previous years. The balance of payments recorded a small deficit.
+France’s net international investment position (IIP) dropped further. While the bulk of the negative net
+IIP is due to the government’s net liabilities, small net positions in other sectors may mask large gross
+positions, as with the banking sector.
+1.
+
+Current account developments in 2011. The current account in 2011 recorded a deficit of
+
+1.9 percent of GDP, driven by a worsening balance in net exports of goods. Notwithstanding the
+continuation in the recovery of exports of goods since 2009, imports in 2011 jumped by nearly
+two percentage points of GDP, nearly half of it due to higher petroleum prices. The improvement in
+the balance on services continued in 2011, partly thanks to gains in the travel sector. The income
+balance remained in surplus thanks to net contributions from employee compensation and direct
+investment.
+France: Current Account Balance, 2000–11 (in percent of GDP)
+
+Current account
+Net exports of goods
+Exports of goods
+Imports of goods
+Net exports of services
+Income balance
+Current transfers
+Memorandum item:
+Nominal GDP (in US$ billions)
+
+2000
+
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+1.5
+
+1.8
+
+1.2
+
+0.7
+
+0.5
+
+-0.5
+
+-0.6
+
+-1.0
+
+-1.7
+
+-1.3
+
+-1.6
+
+-1.9
+
+-0.2
+22.4
+-22.6
+1.3
+1.5
+-1.0
+
+0.3
+22.0
+-21.7
+1.1
+1.5
+-1.1
+
+0.5
+21.0
+-20.5
+1.1
+0.6
+-1.0
+
+0.2
+20.1
+-19.9
+0.8
+0.8
+-1.1
+
+-0.2
+20.4
+-20.7
+0.7
+1.1
+-1.1
+
+-1.3
+20.6
+-21.9
+0.7
+1.1
+-1.3
+
+-1.7
+21.5
+-23.2
+0.7
+1.7
+-1.2
+
+-2.2
+21.2
+-23.4
+0.8
+1.7
+-1.2
+
+-3.1
+21.2
+-24.3
+0.9
+1.7
+-1.3
+
+-2.3
+18.4
+-20.7
+1.0
+1.7
+-1.8
+
+-2.7
+20.2
+23.0
+0.8
+2.1
+-1.7
+
+-3.7
+21.2
+-24.9
+1.2
+2.4
+-1.8
+
+1,330
+
+1,339
+
+1,457
+
+1,796
+
+2,058
+
+2,140
+
+2,258
+
+2,586
+
+2,845
+
+2,627
+
+2,571
+
+2,778
+
+Source: French authorities and IMF staff estimates.
+
+2.
+
+Developments in the financial account. The financial account ended 2011 with a surplus of
+
+2.9 percent of GDP, including a small reduction in reserve assets (0.3 percent of GDP). In contrast
+with previous years, the surplus in 2011 was marked by a net retrenchment in net asset flows of
+some 1.6 percent of GDP (4.9 percent of GDP when direct investment is excluded), led by the
+banking sector and other non-public sector. Net external liability flows were still positive but these
+
+INTERNATIONAL MONETARY FUND
+
+39
+
+FRANCE
+
+have been declining and turned negative in the second half of 2011. The evolution of external
+liabilities was also dominated by the banking sector, where net external liabilities fell by 7.3 percent
+of GDP. Taken together, the retrenchment in external assets and liabilities accelerated in the second
+half of 2011, with net external asset claims abroad falling by US$257 billion and net external
+liabilities by US$196 billion (9.3 and 7.1 percentage points of 2011 GDP respectively).
+France: Capital and Financial Account, 2000–11 (in percent of GDP)
+
+Capital and financial account
+Capital account
+Financial account
+Direct investment
+Portfolio investment
+Financial derivatives
+Other investment
+Reserve assets
+Errors and omissions
+
+2000
+
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+-2.1
+0.1
+-2.2
+
+-2.1
+0.0
+-2.1
+
+-1.1
+0.0
+-1.1
+
+0.2
+-0.5
+0.6
+
+-0.4
+0.1
+-0.5
+
+0.0
+0.0
+-0.1
+
+1.3
+0.0
+1.4
+
+1.7
+0.1
+1.6
+
+0.9
+0.0
+0.9
+
+1.3
+0.0
+1.2
+
+1.4
+0.0
+1.4
+
+3.0
+0.0
+2.9
+
+-9.9
+2.6
+0.4
+4.5
+0.2
+0.6
+
+-2.7
+1.6
+0.2
+-1.5
+0.4
+0.3
+
+-0.1
+-0.7
+0.4
+-0.9
+0.3
+0.1
+
+-0.6
+0.4
+-0.4
+1.4
+-0.1
+-1.3
+
+-1.2
+-3.2
+0.3
+3.8
+-0.2
+0.2
+
+-1.9
+-0.8
+0.3
+1.3
+0.4
+1.8
+
+-1.7
+-6.0
+0.2
+9.5
+-0.5
+-0.9
+
+-2.6
+-6.4
+2.3
+8.5
+0.0
+-0.7
+
+-3.3
+1.3
+-0.6
+3.3
+0.4
+0.8
+
+-3.2
+12.8
+-0.9
+-7.8
+0.2
+0.1
+
+-1.8
+6.4
+1.8
+-4.6
+-0.3
+0.1
+
+-1.8
+12.6
+0.7
+-8.9
+0.3
+-1.0
+
+Source: French authorities and IMF staff estimates.
+
+3.
+
+International Investment
+
+Position (IIP). France’s net IIP turned negative
+in 2007 and dropped to -15.4 percent of GDP
+by the end of 2011.1 The IIP is being
+supported mainly by a net positive position in
+
+France. Balance of Payments: Asset and Liability Flows
+(2011, in percent of GDP)
+
+6
+
+4
+
+2
+0.3
+0
+
+-2
+
+GDP) and reserve assets (about 6 percent of
+
+-4
+
+combined negative net position of the other
+components (portfolio investments, other
+
+3.8
+3.2
+2.2
+
+direct investment (of about 15 percent of
+GDP), but these are more than offset by the
+
+4.5
+
+Liability flows
+(increase: +)
+
+3.0
+
+Net
+flows
+
+-1.8
+
+Asset flows
+(increase: -)
+
+-6
+
+-4.7
+
+-8
+Financial
+account
+
+Direct
+investment
+
+Trade
+credit
+
+Other flows, of
+which:
+
+Monetary
+authorities
+
+Government
+
+Banks
+
+Other
+sectors
+
+Source: IMF.
+
+investments, and financial derivatives). The bulk of France’s net negative position is due to the
+government’s net liabilities which have been accumulating gradually over 2010 to 2011. Again, small
+net positions may mask large gross positions. This is the case for the banking sector, which at the
+end of 2011 had a net position of -0.4 percent of GDP but gross assets and liabilities of 80.8 percent
+of GDP and 80.4 percent of GDP, respectively (excluding any outstanding direct investment).
+1
+
+As a result of differences between end-of-period and average exchange rates, ratios calculated using variables
+expressed in U.S. dollars may differ somewhat from ratios calculated for the same variables expressed in euros.
+
+40
+
+INTERNATIONAL MONETARY FUND
+
+FRANCE
+
+Incidentally, the net IIP of banks improved by 6.3 percentage points of GDP compared to 2010, as a
+result of a reduction in assets by 11.8 percentage points of GDP and in liabilities by 18.1 percentage
+points.
+France: International Investment Position
+(In percent of GDP)
+
+50
+
+320
+Net IIP (RHS)
+
+280
+
+40
+
+Assets
+
+240
+
+Liabilities
+
+30
+
+200
+
+20
+
+160
+10
+
+120
+
+0
+
+80
+
+-10
+
+40
+0
+
+-20
+2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011
+
+Source: IMF.
+
+France: Composition of International Investment Position
+(2011, in percent of GDP)
+120
+117
+
+Assets
+
+95
+
+106
+
+Liabilities
+81
+
+80
+
+70
+49
+
+45
+
+49
+35
+
+20
+6
+
+9
+
+11
+4
+
+-5
+Direct
+investment
+
+Source: IMF.
+
+4.
+
+Reserve
+assets
+
+Monetary
+Government
+Banks
+Other
+authorities
+sectors
+Composition of portfolio & other investment and financial
+derivatives
+
+Developments in the real exchange rate. France’s real effective exchange rate (on CPI
+
+basis) depreciated by about 2.8 percent from end-2010 through June 2012, compared with a
+depreciation of 3.9 percent for the entire Euro Area. Measured over the same period, the real
+exchange rate in terms of unit cost of labor (UCL) depreciated by 0.9 percent, compared with a
+depreciation of 2.3 percent for the Euro Area as a whole.
+
+INTERNATIONAL MONETARY FUND
+
+41
+
+FRANCE
+
+France: Nominal (NEER) and Real Effective (REER) Exchange Rates
+(Jan. 2000–Jun. 2012 , Index: average 2005 = 100) 1/
+115
+NEER
+110
+105
+
+REER (CPI based)
+REER (UCL based)
+
+100
+95
+90
+85
+2000M1
+
+2002M1
+
+2004M1
+
+2006M1
+
+2008M1
+
+2010M1
+
+2012M1
+
+Source: IMF, Information Notification System.
+
+1/ An increase (decrease) is an appreciation (depreciation). CPI is the consumer price index and ULC the unit cost of labor.
+
+External Assessment
+The EBA methodology suggests small gaps relative to the current account and real exchange rate
+“norms” (in the order of 1 percent of GDP and 3 percent, respectively), especially when viewed from a
+medium-term perspective. Nevertheless, the gradual deteriorations in the current account balance and
+international investment position over the last decade point to a competitiveness problem. Structural
+reforms to reduce rigidities in the labor and product markets, promote innovation, and create
+favorable business conditions could help restore competitiveness and improve the current account
+balance.
+5.
+
+This section assesses the level of the current account and real exchange rate. The
+
+external assessment uses the External Balance Assessment (EBA) methodology which is being
+developed by the IMF; the EBA is the successor to the CGER methodology and was first introduced
+in the 2012 Pilot External Sector Report. Like its predecessor, the EBA methodology consists of three
+complementary approaches: the current account method, the real exchange rate method, and the
+external sustainability method (see Box below). The EBA results discussed in this section are based
+on an update using (WEO) data for Fall 2012.
+
+42
+
+INTERNATIONAL MONETARY FUND
+
+FRANCE
+
+External Balance Assessment (EBA) methodology
+The EBA consists of three complementary methods: the regression-based current account and
+real exchange rate methods, and the model-free external sustainability method.
+The current account and real exchange rate approaches use the same conceptual model, one
+being quantity based and the other one price based, so the discussion focuses on the current
+account method. The starting point is a regression model that explains the current account (“ca”,
+in percent of GDP) in terms of non-policy variables (“X”), policy variables (“P”), and a residual (“ε”).
+The non-policy variables capture determinants such as demographics, growth, and cyclical
+influences. The regression model has four policy variables: fiscal policy (the cyclically-adjusted
+fiscal balance), social protection (proxied by public health spending as a percentage of GDP), the
+presence of capital controls, and foreign exchange intervention (change in reserves). Many
+variables are expressed in terms of deviations from world averages for multilateral consistency,
+and some allow for interaction terms.
+The current account is decomposed into a current account “norm”, which uses the estimated
+current account from the regression model but with the policy variables set at recommended
+levels (denoted P*), and the current account “gap”. This gap is the sum of the contribution from
+policy variables deviating from their recommended levels and the regression residual. Formally:
+.
+
+.
+
+.
+
+"
+
+.
+
+"
+
+.
+
+"
+
+"
+
+The recommended policy level for the cyclically-adjusted fiscal balance is obtained from country
+desk teams; for social protection it is taken from a regression benchmark; for capital controls, it is
+obtained by taking the smaller of either the country’s value or the average level of the capital
+controls measure, and for the change in reserves, it is either the observed change in 2012, if the
+overall reserves level was deemed adequate, or zero, if reserves were in excess of a range deemed
+adequate.
+The external sustainability method calculates a current account gap as the difference between the
+medium-term current account and the current account which stabilizes net foreign assets (NFA) to
+GDP (“nfa”) at a benchmark level. The medium-term current account is the WEO level
+projected 2017, the growth rate (“g”) is the medium-term nominal growth rate, and for most
+countries the benchmark NFA/GDP is set at the 2010 level, with the latter taken from the External
+Wealth of Nations database. The NFA-stabilizing current account is then given by
+.
+.
+
+INTERNATIONAL MONETARY FUND
+
+43
+
+FRANCE
+
+6.
+
+Current account method. The current account approach suggests a current account gap
+
+equal to -0.6 percent of GDP in 2012. This is the result of the difference between a current account
+norm (when policy variables are at recommended values) of -1.1 percent of GDP and the realized
+current balance of -1.7 percent of GDP. The current account gap results from two parts: policy gaps
+(that is, actual policies deviating from recommended policies) contributed -1.2 percentage points of
+GDP, while the regression residual (that is, the part not explained by the regression model)
+contributed 0.6 percentage points of GDP. The policy gap is mostly explained by actual spending on
+social protection being significantly higher than the benchmark “recommended” estimate.
+External Balance Assessment (EBA) -- Current Account (CA):
+Projected, Estimated, and at Recommended Policies
+(In percent of GDP) 1/
+
+1.0
+0.5
+
+Part of CA "gap" due to
+regression residual
+
+Regression
+residual
+
+Projected CA
+for 2012
+
+0.6
+
+Estimated CA with
+recommended policies (P*)
+
+0.6
+
+0.0
+-0.5
+-1.0
+-1.5
+
+-1.1
+-1.7
+
+-1.2
+
+CA
+"gap"
+
+-2.3
+
+Estimated CA
+with current
+policies (P)
+-1.2
+
+-2.0
+
+Part of CA "gap" due to
+current policies (P) deviating
+from recommended policies
+
+Difference between estimated CA
+at current and recommended
+
+-2.5
+Source: IMF staff calculations.
+1/ Results based on data as of Fall 2012; estimations are adjusted to ensure multilateral consistency.
+
+7.
+
+Real exchange rate method. The real exchange rate method suggests a real exchange rate
+
+gap of -3 percent in 2012, that is: a real appreciation of 3 percent would close the gap with the
+estimated real exchange rate, evaluated at recommended policies. This is the net result of a
+regression residual contributing -6 percent and policy gaps contributing +4 percent.
+France: External balance assessment (EBA): Exchange rate approach (2012)
+Real exchange rate gap
+Contribution from policy gaps
+Regression residual
+
+-3%
+4%
+-6%
+
+Source: IMF staff calculations.
+
+8.
+
+External sustainability (ES) method. The ES method suggests a positive current account
+
+gap of 0.1 percent of GDP. The benchmark current account that would stabilize net foreign assets
+
+44
+
+INTERNATIONAL MONETARY FUND
+
+FRANCE
+
+(in percent of GDP) at the end–2010 level is -0.5 percent of GDP. This benchmark is compared with
+the medium-term projection for the current account (adjusted to ensure closed output gaps and a
+constant real effective exchange rate) of -0.3 percent of GDP.
+
+France: External balance assessment (EBA): External sustainability approach
+(In percent of GDP)
+Realized
+2011
+CA/GDP
+(A)
+
+Unadjusted
+2017
+CA/GDP
+(B)
+
+Adjusted
+2017
+CA/GDP
+(C)
+
+-2.2%
+
+-0.4%
+
+-0.3%
+
+NFA/GDP
+CA/GDP
+2010 stabilizing NFA
+(benchmark) at benchmark
+(D)
+(F)
+-17.9%
+
+-0.5%
+
+CA/GDP
+gap
+(C)-(F)
+0.1%
+
+Source: IMF staff calculations.
+
+.
+
+INTERNATIONAL MONETARY FUND
+
+45
+
+FRANCE
+
+Annex II. France: Main Recommendations of the 2011 Article IV
+Consultation and Authorities’ Response
+Fund Recommendations
+
+Policy Actions
+Fiscal Policy
+
+Prepare contingency measures in
+case growth outcomes fall short of
+expectations
+
+Each downward revision of projected economic growth was accompanied
+by new fiscal measures in order to meet the fiscal targets.
+
+Enact a fiscal rule
+
+A fiscal rule was introduced in the fall 2012 as part of the transposition
+into French law of the European Fiscal Compact.
+
+Cap the autonomous spending of
+local governments and social security
+
+To contain local government spending, financial transfers from the state
+to the local governments are frozen in 2012 and 2013 and will be cut
+in 2014 and 2015. Policy measures reduced the growth rate of social
+security spending (from 3.6 percent in 2010 to 3.2 percent in 2011 and to
+a projected 2.8 percent in 2012).
+
+Deepen the reforms of the pension
+and health care systems
+
+The implementation of the 2010 pension reform was accelerated by one
+year in November 2011. However, in July 2012, the increase of the
+retirement age from 60 to 62 was eliminated for some workers and the
+cost was covered by an increase in social contributions of up to
+0.5 percent by 2017.
+Financial Sector Policy
+
+Swiftly raise banks capital levels, with
+the aim of meeting Basel III
+requirements by 2013/14.
+
+French banks are well positioned to comply ahead of schedule with
+internationally-set capital requirements. Some banks already meet the
+Basel III capital ratios.
+Structural Reforms
+
+Keep real wage increase in line with
+productivity improvements
+
+Wage moderation continues to be applied for civil servants. However,
+in 2012, the government decided to increase the minimum wage by more
+than required by the indexation formula.
+
+Increase labor force participation
+
+The pension reforms and the elimination of incentive for early retirement
+have increased the participation of seniors in the labor market.
+
+Foster competition in the services
+sector
+
+The adoption of a law to increase competition in consumer services
+committed as part of the G20 has been postponed. A fourth mobile
+operator entered the market in January 2012. 4G licenses were allocated
+in December 2011 and increased competition.
+
+Modernize the tax and benefit
+system
+
+The various fiscal packages adopted in 2011 and 2012 rely on tax
+increases (some of them temporary) but do not modernize or reform the
+tax system.
+
+46
+
+INTERNATIONAL MONETARY FUND
+
+FRANCE
+
+Annex III. Debt Sustainability Analysis
+Due to the combined effect of low growth and large fiscal deficits, the debt-to-GDP ratio increased
+from about 64 percent on the eve of the crisis to about 90 percent in 2012.Reducing of the debt ratio
+over the medium term has become a key objective of the authorities’ policy. Under staff projections,
+which integrate the authorities’ announced fiscal measures, the debt-to-GDP ratio would peak in 2014
+and decline thereafter. The path of the debt ratio is particularly vulnerable to growth and interest rate
+shocks.
+Background
+
+
+Debt ratio. The combined effect of low
+growth over several years and the
+persistence of high fiscal deficits (due to
+the impact of large automatic stabilizers
+and of the fiscal stimulus) have increased
+the debt-to-GDP ratio by
+25.7 percentage points in five years to
+almost 90 percent in 2012. Part of the
+increase is also due to the financial
+support to other Euro area countries1,
+which is projected at 2.5 percent of the
+GDP in 2012.2 Under the authorities’
+scenario, the debt ratio would start
+declining as early as 2014. Under staff
+projections, the ratio would start declining
+only in 2015.
+
+Debt-to-GDP ratio
+(Percent)
+95
+90
+
+84.6
+
+85
+
+82.9
+
+80
+Authorities' projections
+
+75
+
+IMF baseline
+
+70
+65
+60
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+Sources: French authorities and IMF staff.
+
+French Government Yield Curve
+(Quote at the end of the month, in percent)
+4.0
+3.5
+
+
+
+3.0
+Sovereign yields. Currently, yields on
+2.5
+French debt are at historically low levels.
+2.0
+The benchmark yield (10 years) has
+10/2011
+10/2012
+1.5
+declined from just under 5 percent in
+1.0
+July 2008 to 2¼ percent in mid–
+0.5
+October 2012. Spreads over the German
+0.0
+Bund, which had increased to almost 200
+0.25 2
+5
+8 11 14 17 20 23 26 29 32 35 38
+Maturity in Years
+basis points in November 2011, have since
+Sources: French Authorities.
+declined to about 60 basis points. Since
+July 2012, France’s short term debt has been auctioned at negative interest rates.
+
+41
+
+1
+
+Bilateral loans (direct and through the EFSF to Greece, Ireland, and Portugal) and contributions to the ESM.
+
+2
+
+2.8 percent lower in 2017 under the authorities’ framework.
+
+44
+
+INTERNATIONAL MONETARY FUND
+
+47
+
+50
+
+47
+
+FRANCE
+
+10 Year Sovereign Yields
+(In Percent)
+8
+
+France
+Belgium
+Germany
+Italy
+Spain
+
+7
+6
+5
+4
+3
+2
+1
+0
+2006M1
+
+2007M1
+
+2008M1
+
+2009M1
+
+2010M1
+
+2011M1
+
+2012M1
+
+Source: Thomson Financial/Datastream.
+
+French 10 Year Sovereign Spread with German Bund
+(In Basis Points)
+160
+140
+120
+100
+80
+60
+40
+20
+0
+2006M1
+
+2007M1
+
+2008M1
+
+2009M1
+
+2010M1
+
+2011M1
+
+2012M1
+
+Source: Thomson Financial/Datastream.
+
+
+
+Debt service. Owing to the sharp decline in interest rates, the rising debt has had a limited
+impact on the debt service. Interest payments account for 2.6 percent of GDP, the same level as
+in 2006 when the debt-to-GDP ratio was 25.8 percentage point lower.
+
+Scenario analysis
+ Baseline (See Table 1). Staff projects that the debt-to-GDP ratio will peak at 91.3 percent
+in 2014 and then decline to about 84½ percent in 2017. Interest payments would remain at their
+low level of 2.5 percent of GDP because: (i) fiscal consolidation leads to a primary surplus
+starting in 2015; and (ii) given the maturity structure of the debt (average maturity of just over
+7 years as of end September 2012), the projected increase of market interest rates starting
+in 2014 passes through slowly to implicit interest rate and the budget. A 100 basis point shock
+to all (short and long) interest rates is estimated to increase debt payment by only 0.1 percent of
+GDP.
+48
+
+INTERNATIONAL MONETARY FUND
+
+FRANCE
+
+Four scenarios are used to evaluate the sustainability of debt and the vulnerability of shocks.
+
+
+Slow recovery scenario. Under this scenario, real GDP is assumed to contract in 2013 by
+0.5 percent and to increase only gradually thereafter to 1 percent in 2017. As a result, the debtto-GDP would increase to 95 percent in 2017, despite the implementation of the fiscal measures
+assumed in the baseline. The lower growth scenario could result from the combination of several
+factors including a failure to implement
+Growth and Interest Rate Shocks
+domestic structural reforms, an external
+(Percent)
+100
+demand shortfall, additional bank
+95.0
+95
+deleveraging affecting domestic credit
+90
+90.7
+growth, and possibly a larger impact of
+85
+the fiscal consolidation on economic
+84.6
+80
+growth.
+75
+
+Baseline
+
+Interest rate shock
+
+
+
+High interest rate scenario. An
+Growth shock
+70
+interest rate shock could be triggered
+65
+by renewed tensions in the euro area.
+60
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+The shock is assumed to be of a similar
+Sources: IMF staff estimates.
+magnitude as the one experienced by
+Italy during 2009 to 2011 (across
+Fiscal Policy Slippage Scenario
+different maturities): interest rates on
+(Percent)
+new short-term debt are
+115
+110
+1.8 percentage points higher than in
+Primary expenditure shock
+105
+the baseline during the whole period
+Baseline
+100
+starting in 2013 and interest rates on
+95
+89.3
+90
+medium- and long-term debt are
+85
+higher than in the baseline scenario by
+84.6
+80
+2.9 percentage points in 2013 to 2014,
+75
+2.1 points in 2015, 1.9 points in 2016
+70
+65
+and 1.5 points in 2017. No spending
+60
+cut is assumed to offset the fiscal
+2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017
+impact of higher interest rates. Under
+Sources: IMF staff estimates.
+this scenario, reflecting the slow pass
+through of interest rates on the budget, the debt ratio would peak in 2015 (2014 in the baseline)
+at 93.8, and would decline afterwards, but would still be above 90 percent in 2017.
+
+
+
+Fiscal policy slippage scenario. In this scenario, difficulties in containing spending as planned
+are assumed to raise primary expenditure by about 1 percent of GDP above the level projected
+in the baseline starting in 2013. Assuming everything else constant, the debt to GDP ratio rises
+to 91.8 percent in 2016 before declining and coming back in 2017 close to its 2012 level.
+
+INTERNATIONAL MONETARY FUND
+
+49
+
+FRANCE
+
+
+
+Combined growth and interest rate. This scenario, which combines the interest rate and
+growth shocks described above, could potentially arise in the event of renewed stress in the
+euro area crisis combined with insufficient structural reforms. Under this scenario, the debt-toGDP ratio rises above 100 percent as early as 2016 and is still increasing by 2017.
+Combined Growth and Interest Rate Shocks
+(Percent)
+115
+110
+105
+
+101.5
+
+100
+95
+
+90.7
+
+90
+85
+
+84.6
+
+80
+
+Growth and interest rate shocks
+
+75
+
+Interest rate schock
+
+70
+
+Baseline
+
+65
+60
+2007
+
+2008
+
+2009
+
+2010
+
+Sources: IMF staff estimates.
+
+50
+
+INTERNATIONAL MONETARY FUND
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+Table 1. France: Public Sector Debt Sustainability, 2007-2017
+(In percent of GDP, unless otherwise indicated)
+2007
+
+2008
+
+Actual
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+Projections
+2014 2015
+
+2016
+
+2017
+
+Baseline: Public sector debt 1/
+o/w foreign-currency denominated
+
+64.2
+0.0
+
+68.2
+0.0
+
+79.2
+0.0
+
+82.3
+0.0
+
+86.0
+0.0
+
+89.5
+0.0
+
+90.9
+0.0
+
+91.3
+0.0
+
+90.2
+0.0
+
+88.0
+0.0
+
+Debt-stabilizing
+primary
+balance 9/
+84.6
+-1.0
+0.0
+
+Change in public sector debt
+Identified debt-creating flows (4+7+12)
+Primary deficit
+Revenue and grants
+Primary (noninterest) expenditure
+Automatic debt dynamics 2/
+Contribution from interest rate/growth differential 3/
+Of which contribution from real interest rate
+Of which contribution from real GDP growth
+Contribution from exchange rate depreciation 4/
+Other identified debt-creating flows
+Privatization receipts (negative)
+Recognition of implicit or contingent liabilities
+Other (specify, e.g. bank recapitalization)
+Residual, including asset changes (2-3) 5/
+
+0.1
+-0.3
+0.0
+49.9
+49.9
+-0.3
+-0.3
+1.1
+-1.4
+0.0
+0.0
+0.0
+0.0
+0.0
+0.4
+
+4.0
+1.8
+0.4
+49.9
+50.4
+1.4
+1.4
+1.3
+0.1
+0.0
+0.0
+0.0
+0.0
+0.0
+2.2
+
+10.8
+9.3
+5.1
+49.1
+54.2
+4.1
+4.1
+1.9
+2.2
+0.0
+0.0
+0.0
+0.0
+0.0
+1.6
+
+3.3
+5.0
+4.7
+49.5
+54.2
+0.3
+0.3
+1.6
+-1.3
+0.0
+0.0
+0.0
+0.0
+0.0
+-1.7
+
+3.6
+2.8
+2.6
+50.8
+53.4
+0.2
+0.2
+1.5
+-1.4
+0.0
+0.0
+0.0
+0.0
+0.0
+0.8
+
+3.6
+2.6
+1.9
+51.7
+53.6
+0.7
+0.7
+0.9
+-0.2
+...
+0.0
+0.0
+0.0
+0.0
+1.0
+
+1.4
+1.2
+1.0
+52.7
+53.7
+0.2
+0.2
+0.5
+-0.3
+...
+0.0
+0.0
+0.0
+0.0
+0.2
+
+0.3
+0.1
+0.4
+52.7
+53.2
+-0.3
+-0.3
+0.5
+-0.9
+...
+0.0
+0.0
+0.0
+0.0
+0.2
+
+-1.0
+-1.2
+-0.4
+52.5
+52.1
+-0.8
+-0.8
+0.5
+-1.3
+...
+0.0
+0.0
+0.0
+0.0
+0.2
+
+-2.2
+-2.3
+-1.3
+52.3
+50.9
+-1.0
+-1.0
+0.5
+-1.5
+...
+0.0
+0.0
+0.0
+0.0
+0.1
+
+-3.4
+-3.5
+-2.4
+52.4
+50.0
+-1.1
+-1.1
+0.5
+-1.6
+...
+0.0
+0.0
+0.0
+0.0
+0.1
+
+Public sector debt-to-revenue ratio 1/
+
+128.8
+
+136.6
+
+160.9
+
+166.4
+
+169.2
+
+173.1
+
+172.5
+
+173.1
+
+172.0
+
+168.4
+
+161.3
+
+Gross financing need 6/
+in billions of U.S. dollars
+
+9.9
+256.6
+
+12.5
+354.2
+
+20.7
+544.7
+
+22.7
+581.9
+
+19.3
+537.2
+
+15.2
+392.6
+
+16.7
+434.8
+
+16.2
+432.7
+
+15.1
+416.8
+
+13.4
+383.7
+
+11.3
+334.6
+
+89.5
+89.5
+
+92.4
+91.8
+
+95.2
+93.6
+
+98.2
+94.8
+
+101.0
+95.7
+
+103.8
+96.5
+
+0.2
+3.1
+1.1
+...
+2.0
+0.7
+1.9
+
+0.4
+2.8
+0.6
+...
+2.2
+0.6
+1.0
+
+1.0
+2.8
+0.6
+...
+2.2
+0.0
+0.4
+
+1.5
+2.8
+0.6
+...
+2.2
+-0.6
+-0.4
+
+1.7
+2.9
+0.7
+...
+2.3
+-0.5
+-1.3
+
+1.9
+3.0
+0.6
+...
+2.4
+0.0
+-2.4
+
+Scenario with key variables at their historical averages 7/
+Scenario with no policy change (constant primary balance) in 2012-2017
+
+1.3
+-1.2
+
+Key Macroeconomic and Fiscal Assumptions Underlying Baseline
+
+-
+
+2.3
+4.4
+1.8
+10.3
+2.6
+1.3
+0.0
+
+-0.1
+4.7
+2.1
+-6.6
+2.5
+0.8
+0.4
+
+-3.1
+3.5
+2.8
+7.2
+0.7
+4.5
+5.1
+
+1.7
+3.1
+2.1
+-9.5
+1.0
+1.3
+4.7
+
+1.7
+3.3
+2.0
+-0.3
+1.3
+0.3
+2.6
+
+1/ Indicate coverage of public sector, e.g., general government or nonfinancial public sector. Also whether net or gross debt is used.
+2/ Derived as [(r - (1+g - g + (1+r]/(1+g++g)) times previous period debt ratio, with r = interest rate;  = growth rate of GDP deflator; g = real GDP growth rate;  = share of foreign-currency
+denominated debt; and  = nominal exchange rate depreciation (measured by increase in local currency value of U.S. dollar).
+3/ The real interest rate contribution is derived from the denominator in footnote 2/ as r - π (1+g) and the real growth contribution as -g.
+4/ The exchange rate contribution is derived from the numerator in footnote 2/ as (1+r).
+5/ For projections, this line includes exchange rate changes.
+6/ Defined as public sector deficit, plus amortization of medium and long-term public sector debt, plus short-term debt at end of previous period.
+7/ The key variables include real GDP growth; real interest rate; and primary balance in percent of GDP.
+8/ Derived as nominal interest expenditure divided by previous period debt stock.
+9/ Assumes that key variables (real GDP growth, real interest rate, and other identified debt-creating flows) remain at the level of the last projection year.
+
+51
+
+FRANCE
+
+INTERNATIONAL MONETARY FUND
+
+Real GDP growth (in percent)
+Average nominal interest rate on public debt (in percent) 8/
+Average real interest rate (nominal rate minus change in GDP deflator, in p
+Nominal appreciation (increase in US dollar value of local currency, in perc
+Inflation rate (GDP deflator, in percent)
+Growth of real primary spending (deflated by GDP deflator, in percent)
+Primary deficit
+
+FRANCE
+STAFF REPORT FOR THE 2012 ARTICLE IV
+December 6, 2012
+
+CONSULTATION—INFORMATIONAL ANNEX
+Prepared By
+
+The European Department
+
+CONTENTS
+I. FUND RELATIONS ______________________________________________________________________2
+II. STATISTICAL ISSUES ___________________________________________________________________8
+III. TABLE OF COMMON INDICATORS REQUIRED FOR SURVEILLANCE _______________9
+
+FRANCE
+
+ANNEX I. FRANCE: FUND RELATIONS
+(As of October 31, 2012)
+I.
+
+Membership Status: Joined December 27, 1945; Article VIII.
+
+II.
+
+General Resources Account:
+Quota
+Fund Holding of Currency (Exchange Rate)
+Reserve Tranche Position
+Lending to the Fund
+New Arrangements to Borrow
+
+III.
+
+SDR Department:
+Net Cumulative Allocation
+Holdings
+
+SDR Million
+
+Percent of Quota
+
+10,738.50
+7,197.16
+3,541.39
+
+100.00
+67.02
+32.98
+
+2,207.39
+SDR Million
+
+Percent of Allocation
+
+10,134.20
+9,469.87
+
+100.00
+93.44
+
+IV.
+
+Outstanding Purchases and Loans: None
+
+V.
+
+Latest Financial Arrangements: None
+
+VI.
+
+Projected Payments to Fund (SDR million; based on existing use of resources and present
+holdings of SDRs):
+
+Principal
+Charges/Interest
+Total
+
+2012
+
+2013
+
+0.14
+0.14
+
+0.72
+0.72
+
+VII.
+
+Implementation of HIPC Initiative: Not applicable
+
+VIII.
+
+Safeguards Assessments: Not applicable
+
+IX.
+
+Exchange Rate Arrangements:
+
+Forthcoming
+2014 2015
+0.72
+0.72
+
+0.72
+0.72
+
+2016
+0.72
+0.72
+
+
+
+France’s currency is the euro, which floats freely and independently against other currencies.
+
+
+
+France maintains an exchange system free of restrictions on the making of payments and
+transfers for current international transactions, except for exchange restrictions imposed solely
+for the preservation of international security. These restrictions involving certain individuals and
+
+2
+
+INTERNATIONAL MONETARY FUND
+
+FRANCE
+
+entities and which target specified countries have been notified to the Fund pursuant to
+Executive Board Decision No. 144-(52/51). In accordance with the relevant EU regulations and
+UNSC resolutions, certain restrictions are maintained on the making of payments and transfers
+for current or military international transactions with respect to Belarus, the Democratic Republic
+of Congo, the former Government of Côte d’Ivoire, the Islamic Republic of Iran, the former
+government of Iraq, the Democratic People’s Republic of Korea, Guinea (republic of), Guinea
+Bissao, the former Government of Liberia, the former Government of Libya, Myanmar, the former
+Government of Tunisia, Transnistria (the independentist region of Moldova), Eritrea, the former
+Government of Egypt, Somalia, Sudan and South Sudan, Syria, certain individuals associated with
+the government of the former Federal Republic of Yugoslavia, certain individuals associated with
+the murder of former Lebanese Prime Minister Rafiq Hariri, and Zimbabwe.
+
+
+X.
+
+Measures have been taken to freeze accounts of listed persons and entities linked to terrorists
+pursuant to the relevant EU regulations (n°881/2002, n°2580/2001 and n°753/2011) and UN
+Security Council resolutions (resolutions 1267 and 1373 and subsequent resolutions).
+Article IV Consultation:
+
+The last Article IV consultation was concluded on July 25, 2011. The associated Executive Board
+assessment is available at http://www.imf.org/external/np/sec/pn/2011/pn1199.htm and the staff
+report at http://www.imf.org/external/pubs/ft/scr/2011/cr11211.pdf France is on the standard
+12-month consultation cycle.
+XI.
+
+FSAP Participation and ROSC:
+
+France–Report on the Observance of Standards and Codes
+
+October 17, 2000
+
+(ROSC): Module I–Fiscal Transparency
+Fiscal Transparency—Update
+
+IMF Country Report
+No. 01/196, 11/05/01
+
+Fiscal Transparency—Update
+
+IMF Country Report
+No. 04/345, 11/03/04
+
+Summary: The report found that France has achieved a high level of fiscal transparency and has
+introduced a number of improvements in coverage and presentation of fiscal information. Notable
+areas of progress include the development in the final accounts publication to include more
+complete information on government assets and liabilities as well as disclosure of contingent
+liabilities. Accounting standards have been changed to reflect accruals principles in a number of
+INTERNATIONAL MONETARY FUND
+
+3
+
+FRANCE
+
+areas, and these standards are clearly explained. The staff suggested that further steps could be
+taken to identify and report quasi-fiscal activities in the budget presentation, provide a more
+consolidated picture of fiscal activity outside the appropriation process, and improve the
+reconciliation of stated policies with outcomes at the general government level.
+These issues have been addressed in the Loi organique aux lois de finance (LOLF), which has become
+fully effective on January 1, 2006. In addition to the annual appropriations, the first multi-annual
+fiscal framework law was adopted in January 2009, and contains fiscal objectives for the
+period 2009–12. The budget is organized along missions and provides details on the level of
+appropriations for each mission and performance indicators by which the expected results of the
+mission will be assessed ex post. The State Audit Office has been given the new assignment of
+certifying the public accounts, and implementation of accruals basis accounting has been confirmed.
+Parliamentary oversight powers have been strengthened.
+France–Report on the Observance of Standards and Codes
+
+October 2000, corrected:
+
+(ROSC): Module II–Transparency in Monetary and Financial
+
+2/15/01
+
+Policies
+Transparency in Monetary and Financial Policies—Update
+
+IMF Country Report
+No. 01/197, 11/05/01
+
+Transparency in Monetary and Financial Policies—Update
+
+IMF Country Report
+No. 02/248, 11/13/02
+
+Summary: The 2000 ROSC noticed that transparency of financial policies is accorded a high priority
+by all financial agencies assessed, and they are in observance of the good practices of the Code of
+Good Practices on Transparency in Monetary and Financial Policies. The major agencies disclose their
+objectives, their legal and institutional frameworks, and have open processes of policymaking and
+regulation. The principles of transparency are observed by dissemination of relevant information to
+the public and in the agencies’ arrangements for internal conduct, integrity, and accountability.
+However, the staff noted that the framework for supervision and regulation applicable to mutual
+insurance firms is not as well defined and suggested to improve its transparency. The transparency
+of monetary policy was not assessed by the Fund team as the Banque de France is a member of the
+European System of Central Banks and no longer conducts independent monetary policy.
+Subsequently, the framework for supervision and regulation applicable to a specific group of mutual
+insurance firms was modified in a number of steps. In August 2003, legislation created a single
+4
+
+INTERNATIONAL MONETARY FUND
+
+FRANCE
+
+supervisory body, the Commission de Contrôle des Assurances, Mutuelles et Institutions de
+Prévoyance (CCAMIP) by merging the regular insurance supervisor (CCA) and mutualities’ supervisor
+(CCMIP). Coordination with the banking sector supervisors was strengthened and the powers of the
+supervisory authorities extended.
+France–Report on the Observance of Standards and Codes
+
+IMF Country Report
+
+(ROSC): Data Module
+
+No. 03/339, 10/2903
+
+Data Module––Update
+
+IMF Country Report
+No. 04/345, 11/03/04
+
+Data Module––Update
+
+IMF Country Report
+No. 05/398, 11/07/05
+
+Summary: The report found that France is in observance of the Fund’s Special Data Dissemination
+Standard (SDDS). In particular, the mandate of INSEE and the Banque de France for the production
+of the six macroeconomic datasets is clearly defined, with the reporting burden and the
+confidentiality provisions given special consideration notably through the CNIS. Professionalism is
+central to the statistical operations of the two institutions, internationally and/or European accepted
+methodologies are generally followed, the degree of accuracy and reliability of the six datasets is
+remarkable, statistics are relevant and provided on a timely basis, and they are accessible to the
+public.
+The report made a number of suggestions for further improvements: the responsibility of INSEE as
+the producer of government finance statistics should be clarified; data sharing between the Banque
+de France and the rest of the French statistical system improved; classification and valuation
+methods in balance-of-payments statistics reviewed; consistency between the current account of the
+balance of payments and the goods and services account in the national accounts improved; the
+timing of revisions in the quarterly and annual national accounts aligned; and identification of data
+production units of INSEE facilitated.
+France continues to implement several of the 2003 ROSC Data Module recommendations, including
+by promoting a broader understanding of statistical data revisions, making greater use of firm-level
+data to improve the measurement of changes in stocks, and intensifying work on portfolio
+investment income with the objective of starting to record those transactions on an accrual basis.
+
+INTERNATIONAL MONETARY FUND
+
+5
+
+FRANCE
+
+France–Financial System Stability Assessment (FSSA)
+
+IMF Country Report
+No. 04/344, 11/03/04
+
+FSAP Assessment and Reports on ROSCs
+
+IMF Country Report
+No. 04/345, 11/03/04
+
+FSAP Assessment
+
+IMF Country Report
+No. 05/185, 06/08/05
+
+Publication of FSAP—Detailed Assessment of Observance of
+
+IMF Country Report
+
+Standards and Codes
+
+No. 05/186, 06/08/05
+
+Summary: The report concluded that France’s financial sector is strong and well supervised. No
+weaknesses that could cause systemic risks were identified. The strength of the system is supported
+by the financial soundness indicators and the strong conformity to the supervisory and regulatory
+standards approved by the Basel Committee, IAIS, IOSCO, FATF, and CPSS. The degree of
+observance of the transparency code is high in all relevant areas. The French banking sector has
+been modernized and restructured over the past two decades and is well capitalized. Systemic
+vulnerabilities in the important insurance sector are well contained. Securities markets are large and
+sophisticated.
+Notwithstanding the strengths of the French financial sector, a number of issues emerged from the
+FSAP, including (i) concentration in banking may have reached a point where further consolidation
+could intensify concerns over the scope for collusion and long-term stability where many banks
+could be considered “too big to fail;” (ii) banks’ large and growing portfolios of fixed-rate residential
+housing loans could represent a longer-term risk in the event of large increases in funding costs
+and/or a significant fall in real estate prices; (iii) some administered savings schemes and other
+policy measures give rise to costs and impede financial market innovation. These schemes are not
+well targeted to achieve intended social goals and are not well aligned with current priorities, such
+as strengthening the pension system; (iv) the banking system’s rapid accumulation of capital
+strengthens banks’ resilience.
+This accumulation is harder to control for mutual banks, given their legal restrictions on
+remuneration of their members. And, for all banks, it could encourage expansion through expensive
+takeovers and risky new ventures; (v) the supervisory system of the financial sector is composed of
+specialized segments. Coordination mechanisms need to be further adapted. Additional steps
+6
+
+INTERNATIONAL MONETARY FUND
+
+FRANCE
+
+should be considered in the future as cross-sectoral financial groups become more prevalent; (vi)
+the consolidation of the French stock and futures markets with others in Europe has increased the
+importance of effective cooperation across national jurisdictions. Moreover, the authorities face the
+challenge of adjusting to and effectively implementing the significant regulatory overhaul that took
+place in late 2003; and (vii) the infrastructure for the clearing and settlement of payments and
+securities is generally sound and modern. However, there is some room for improvement in the
+clearing and settlement of retail payments and securities, where the multilateral netting systems lack
+fully adequate safeguards to ensure timely settlement in case of default.
+
+INTERNATIONAL MONETARY FUND
+
+7
+
+FRANCE
+
+ANNEX II. FRANCE: STATISTICAL ISSUES
+The economic database is comprehensive and of high quality, and data provision to the Fund is
+adequate for surveillance. The authorities regularly publish a full range of economic and financial
+data, and calendar dates of main statistical releases are also provided. France subscribes to the
+Fund’s Special Data Dissemination Standard. The transmission of data in electronic form from INSEE
+(Institut national de la statistique et des études économiques) and the profusion of data from various
+institutions (Banque de France, INSEE, ministry of finance, ministry of labor and solidarity) have
+helped to build an infrastructure, in which all data can be easily accessed through the Economic
+Data Sharing System. A data ROSC mission conducted an assessment of the statistical system in
+March 2003, and the report was published in October 2003. A factual update to the main report was
+published in November 2004.
+France’s monetary and banking statistics methodology conforms with the European Central Bank
+framework, which provides comparable details as the Standardized Report Forms developed by STA.
+Statistics for International Financial Statistics on banking institutions and monetary aggregates are
+prepared on a monthly basis and are timely. Monetary data are also disseminated in the quarterly
+IFS Supplement on monetary and financial statistics. France follows the European System of
+Integrated Economic Accounts 1995 (ESA95). Data for GDP and its expenditure components are
+available from 1978 onwards. Both annual and quarterly accounts provide reliable information,
+although estimates from the two accounts differ slightly before the quarterly accounts are revised to
+be aligned to the annual ones. In 2005, national accounts estimates were rebased to 2000 prices.
+Government finance statistics have been strengthened recently. Both central and general
+government data are presented in a more comprehensive fashion than previously and the data
+for 2006 and 2007 also reflect the various impacts of recent budgetary reform. Although the source
+data is collected by the Ministry of Economy and Finance, INSEE is principally responsible for the
+compilation and dissemination of fiscal data in a framework that is consistent with ESA95. INSEE’s
+website has recently been enhanced; in particular, it includes expenditure tables and government
+revenues by subsector (central government, miscellaneous central government agencies, local
+governments, and social security administration).
+Balance-of-payments statistics should be interpreted with caution, given large errors and omissions.
+Greater coherence between the external current account and the rest of the world account in the
+national accounts is needed. In this regard, work with promising early results has been undertaken
+on the transportation account.
+
+8
+
+INTERNATIONAL MONETARY FUND
+
+FRANCE
+
+ANNEX III. FRANCE: TABLE OF COMMON INDICATORS
+REQUIRED FOR SURVEILLANCE
+(As of November 30, 2012)
+Date of
+Latest
+Observation
+10/12
+
+Date
+Received
+
+Frequency
+of
+Data
+Monthly
+
+Frequency
+of
+Reporting
+Monthly
+
+Frequency
+of
+Publication
+Monthly
+
+Exchange Rates
+11/12
+International Reserve Assets and Reserve
+Liabilities of the Monetary Authorities1
+11/12
+11/12
+Monthly
+Monthly
+Monthly
+International Investment Position
+2011
+Q1:2012
+Annual
+Annual
+Annual
+Reserve/Base Money
+10/12
+11/12
+Monthly
+Monthly
+Monthly
+Broad Money
+10/12
+11/12
+Monthly
+Monthly
+Monthly
+Central Bank Balance Sheet
+10/12
+11/12
+Monthly
+Monthly
+Monthly
+Consolidated Balance Sheet of the Banking
+System
+10/12
+11/12
+Monthly
+Monthly
+Monthly
+Interest Rates2
+10/12
+11/12
+Monthly
+Monthly
+Monthly
+Consumer Price Index
+10/12
+11/12
+Monthly
+Monthly
+Monthly
+Revenue, Expenditure, Balance and Composition
+of Financing3—General Government4
+Q4:2011
+05/12
+Quarterly
+Quarterly
+Quarterly
+Revenue, Expenditure, Balance and Composition
+of Financing3—Central Government5
+09/12
+11/12
+Monthly
+Monthly
+Monthly
+Stock of Central Government Debt
+10/12
+11/12
+Monthly
+Monthly
+Monthly
+Stock of Central Government-Guaranteed Debt
+Q3:2012
+10/12
+Quarterly
+Quarterly
+Quarterly
+External Current Account Balance
+Q3:2012
+11/12
+Quarterly
+Quarterly
+Quarterly
+Exports and Imports of Goods and Services
+Q3:2012
+11/12
+Quarterly
+Quarterly
+Quarterly
+GDP/GNP
+Q3:2012
+11/12
+Quarterly
+Quarterly
+Quarterly
+Gross External Debt
+Q4:2011
+05/12
+Quarterly
+Quarterly
+Quarterly
+1
+Includes reserve assets pledged or otherwise encumbered as well as net derivative positions.
+2
+Both market-based and officially-determined, including discount rates, money market rates, rates on treasury bills,
+notes and bonds.
+3
+Foreign, domestic bank, and domestic nonbank financing.
+4
+The general government consists of the central government (budgetary funds, extra budgetary funds, and social
+security funds) and state and local governments.
+5
+This information is provided on a budget-accounting basis (not on a national accounts basis).
+
+INTERNATIONAL MONETARY FUND
+
+9
+
+Public Information Notice (PIN) No. 12/146
+
+International Monetary Fund
+
+FOR IMMEDIATE RELEASE
+
+700 19th Street, NW
+
+December 21, 2012
+
+Washington, D. C. 20431 USA
+
+IMF Executive Board Concludes 2012 Article IV Consultation with France
+On December 20, 2012, the Executive Board of the International Monetary Fund (IMF) concluded
+the Article IV consultation with France.1
+Background
+The growth outlook for France remains fragile reflecting weak conditions in Europe. While market
+tensions have recently eased, the path towards a resolution of the euro area crisis remains
+uncertain and fiscal consolidation throughout Europe will continue to depress demand. In this
+environment, growth is expected to slow markedly from 1.7 percent in 2011 to 0.2 percent
+in 2012, and to recover only very gradually to 0.4 percent in 2013. With job creation remaining
+subdued, unemployment is expected to rise further.
+The recovery of the French economy is also hampered by a loss of competitiveness which is
+reflected in a steady loss of export market share and low profit margins relative to European
+partners, which in turn affects the ability of enterprises to invest and innovate. The
+competitiveness gap owes largely to impediments in the functioning of labor and product markets
+
+1
+
+Under Article IV of the IMF's Articles of Agreement, the IMF holds bilateral discussions with
+members, usually every year. A staff team visits the country, collects economic and financial
+information, and discusses with officials the country's economic developments and policies. On return
+to headquarters, the staff prepares a report, which forms the basis for discussion by the Executive
+Board. At the conclusion of the discussion, the Managing Director, as Chairman of the Board,
+summarizes the views of Executive Directors, and this summary is transmitted to the country's
+authorities. An explanation of any qualifiers used in summings up can be found here:
+http://www.imf.org/external/np/sec/misc/qualifiers.htm.
+
+2
+
+(especially services) accumulated over time. To begin to address these problems, the
+government has announced a reduction of employers’ social security contributions (to reduce
+labor costs), and has indicated that it would seek to make the labor market more adaptable based
+on the result of ongoing negotiations between the social partners.
+The sizable fiscal consolidation which started in 2010 is continuing. The overall budget deficit is
+projected to come down from 7.5 percent of GDP in 2009 to 4.5 percent in 2012. The 2013
+budget targets a further reduction of the deficit to 3 percent of GDP, with a view to reaching a
+balanced budget position over the medium term. Adjustment is heavily frontloaded and about
+equally divided (over the medium term) between revenue and expenditure measures. Based on
+the IMF’s more conservative growth outlook, the 2013 budget would result in a deficit of
+3.5 percent of GDP.
+Financial stability concerns, which arose in connection with euro area tensions and dollar liquidity
+problems in 2011, have abated considerably. French banks have moved aggressively to improve
+their solvency ratios and funding structures; and they are well positioned to comply ahead of
+schedule with internationally-set capital requirements. However, banks remain heavily reliant on
+wholesale funding, which could become a vulnerability in the event of renewed market stress.
+Executive Board Assessment
+Executive Directors welcomed the resilience of the French economy in withstanding relatively well
+the euro area crisis and enjoying a safe haven status. They noted, however, that economic
+growth remains sluggish and the near-term outlook is subject to downside risks. The main
+challenge going forward would be to further strengthen the recovery, while addressing the
+competitiveness gap vis-à-vis trading partners and safeguarding financial stability. In this context,
+Directors underscored the need to properly calibrate fiscal policy and remove structural rigidities
+that constrain competitiveness and growth.
+Directors commended the authorities for their commitment to fiscal discipline in line with the euroarea stabilization strategy, and for the transposition of the EU Fiscal Compact into French law.
+They noted that the adoption of the fiscal responsibility law and creation of the Fiscal Council
+would strengthen credibility by anchoring fiscal policy to a balanced position over the medium
+term. Many Directors stressed that adherence to the EU’s fiscal target in 2013 would be crucial to
+preserve credibility and market confidence, and advised that contingency measures be prepared
+should downside risks materialize. Other Directors encouraged the authorities to refrain from
+additional fiscal tightening in the event of slower-than-expected growth in 2013. Directors called
+for a rebalancing of fiscal adjustment over the medium term toward additional expenditure
+containment in a growth-friendly manner, stressing the adverse supply side effects of the high tax
+ratio.
+
+3
+
+Directors underscored the need to address the competitiveness gap through deep labor and
+product market reforms. They welcomed the authorities’ recent decision to lower social security
+contributions, and recommended wage moderation as a supporting measure. They also
+welcomed the ongoing negotiations among social partners to improve the functioning of the labor
+market, and encouraged the authorities to move forward with the ambitious labor market reform.
+Directors also observed that greater competition in the services sector would help lower
+production costs and enhance the benefits of the labor market reform. They called on the
+authorities to open the services sector to more competition, while acknowledging the need for
+careful sequencing of the various reforms.
+Directors noted the Financial System Stability Assessment’s findings that the French financial
+system has been resilient to shocks and that financial stability risks have receded. They
+commended the authorities’ strong regulatory and supervisory regime, and welcomed moves to
+boost financial oversight further, including at the European level. Directors welcomed the rapid
+improvements in bank capitalization and funding structures in the aftermath of the crisis.
+Nevertheless, they observed that banks remain exposed to the risk of financial stress owing to
+their still-significant reliance on wholesale funding and exposure to periphery euro-area countries.
+To stimulate deposit mobilization by banks, Directors encouraged further tax reform to create a
+level playing field and remove disincentives against bank deposits.
+
+Public Information Notices (PINs) form part of the IMF's efforts to promote transparency of the IMF's
+views and analysis of economic developments and policies. With the consent of the country
+(or countries) concerned, PINs are issued after Executive Board discussions of Article IV consultations
+with member countries, of its surveillance of developments at the regional level, of post-program
+monitoring, and of ex post assessments of member countries with longer-term program engagements.
+PINs are also issued after Executive Board discussions of general policy matters, unless otherwise
+decided by the Executive Board in a particular case. The staff report (use the free Adobe Acrobat
+Reader to view this pdf file) for the 2012 Article IV Consultation with France is also available.
+
+4
+
+France: Selected Economic and Social Indicators, 2009–13
+Projections
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+Real economy (change in percent)
+Real GDP
+Domestic demand
+Nominal GDP (billions of euros)
+CPI (year average)
+Unemployment rate (in percent)
+Gross national savings (percent of GDP)
+Gross domestic investment (percent of GDP)
+
+-3.1
+-2.6
+1886
+0.1
+9.5
+17.6
+18.9
+
+1.7
+1.6
+1937
+1.5
+9.7
+17.7
+19.3
+
+1.7
+1.7
+1997
+2.1
+9.6
+18.7
+20.6
+
+0.2
+-0.4
+2042
+2.0
+10.3
+18.5
+20.0
+
+0.4
+0.5
+2095
+1.6
+10.6
+18.2
+19.7
+
+Public finance (percent of GDP)
+Central government balance
+General government balance
+Structural balance (percent of potential GDP)
+Primary balance
+General government gross debt
+
+-6.2
+-7.5
+-4.7
+-5.4
+79.0
+
+-6.3
+-7.1
+-4.6
+-4.8
+82.3
+
+-4.4
+-5.2
+-3.5
+-2.7
+86.0
+
+-3.7
+-4.5
+-2.6
+-2.0
+89.5
+
+-2.7
+-3.5
+-1.4
+-1.2
+90.9
+
+0.7
+3.6
+
+0.5
+3.1
+
+0.8
+3.3
+
+0.1
+2.6
+
+...
+...
+
+18.4
+-12.1
+20.7
+-9.6
+-2.3
+-1.3
+-3.2
+46.6
+
+20.2
+9.6
+23.0
+8.9
+-2.7
+-1.6
+-1.8
+55.8
+
+21.2
+5.3
+24.9
+4.9
+-3.7
+-1.9
+-1.8
+48.6
+
+21.1
+2.5
+24.2
+0.2
+-3.1
+-1.5
+-1.7
+...
+
+20.6
+0.6
+23.6
+0.9
+-3.0
+-1.5
+-1.6
+...
+
+104.8
+107.8
+
+102.4
+105.0
+
+102.4
+103.8
+
+...
+...
+
+...
+...
+
+Money and interest rates (in percent)
+Money market rate 1/
+Government bond yield 1/
+Balance of payments (in percent of GDP)
+Exports of goods
+Volume growth (in percent)
+Imports of goods
+Volume growth (in percent)
+Trade balance
+Current account
+FDI (net)
+Official reserves (US$ billion)
+Exchange rates
+Euro per U.S. dollar, period average
+Nominal effective rate, ULC-styled (2000=100)
+Real effective exchange rate, ULC-based
+(2000=100)
+
+Social indicators
+Per capita GDP (2006): US$35,471; Life expectancy at birth (2009): 77.7 (male) and 84.4 (female);
+Poverty rate (mid-2000s): 14.1 percent (60 percent line), 7.1 percent (50 percent line);
+Income distribution (ratio of income received by top and bottom quintiles, 2004): 4.2.
+Sources: French authorities; IMF staff estimates and projections.
+1/ For 2012, average for January-April.
+
+

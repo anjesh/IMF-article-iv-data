@@ -1,0 +1,8432 @@
+IMF Country Report No. 13/102
+
+PHILIPPINES
+April 2013
+
+2013 ARTICLE IV CONSULTATION
+Under Article IV of the IMF’s Articles of Agreement, the IMF holds bilateral discussions with
+members, usually every year. In the context of the 2013 Article IV consultation with
+Philippines, the following documents have been released and are included in this package:
+
+
+
+Staff Report for the 2013 Article IV consultation, prepared by a staff team of the IMF,
+following discussions that ended on January 23, 2013, with the officials of Philippines on
+economic developments and policies. Based on information available at the time of these
+discussions, the staff report was completed on March 5, 2013. The views expressed in the staff
+report are those of the staff team and do not necessarily reflect the views of the Executive
+Board of the IMF.
+
+
+
+
+Informational Annex prepared by the IMF.
+
+
+
+Statement by the Executive Director for Philippines.
+
+Public Information Notice (PIN) summarizing the views of the Executive Board as
+expressed during its March 29, 2013 discussion of the staff report that concluded the
+Article IV consultation.
+
+The document listed below has been or will be separately released.
+Selected Issues Paper
+
+The policy of publication of staff reports and other documents allows for the deletion of
+market-sensitive information.
+Copies of this report are available to the public from
+International Monetary Fund  Publication Services
+700 19th Street, N.W.  Washington, D.C. 20431
+Telephone: (202) 623-7430  Telefax: (202) 623-7201
+E-mail: publications@imf.org Internet: http://www.imf.org
+
+International Monetary Fund
+Washington, D.C.
+
+©2013 International Monetary Fund
+
+PHILIPPINES
+STAFF REPORT FOR THE 2013 ARTICLE IV CONSULTATION
+March 5, 2013
+
+KEY ISSUES
+Context. Low interest rates and sustained remittances offset weak activity abroad and
+real appreciation to raise GDP growth to 6½ percent in 2012. The current account
+remained in surplus, supported by remittances and receipts from business process
+outsourcing, while inflation fell on peso appreciation and subdued commodity prices
+amid a closed output gap. Despite several surge episodes in recent years, capital flows
+have generally been modest. Real estate activity is brisk.
+The benefits of faster growth have yet to be disseminated to the broader population.
+Unemployment and poverty remain stubbornly elevated. The longstanding problems of
+poor infrastructure, limited competition, and governance issues have created a climate
+that is not conducive to investing in productive sectors or generating well paying jobs,
+inducing large overseas employment and, in turn, remittance inflows and real
+appreciation.
+Outlook and risks. Growth is expected to remain resilient on robust domestic demand,
+with inflation within the target band. Adjustment to large persistent inflows is set to
+continue, further narrowing the current account. The global economy presents a
+downside risk to Philippine growth. On the domestic front, overly rapid credit extension,
+with intensified real estate activity and stretched asset prices, could accelerate GDP
+growth in the near term, but make it more volatile in the longer run.
+Policy recommendations. With macroeconomic conditions on a solid footing, low
+interest rates and ample funding should be harnessed to foster sustained, more inclusive
+growth, while vigilance and deft policymaking are needed to contain stability risks:
+
+
+
+
+
+
+
+
+Allowing the exchange rate to continue to move broadly in line with fundamentals
+would limit further reserve buildup beyond already very high levels. A mix of tools
+should be used to enhance liquidity management and complement interest rate
+decisions in strengthening monetary control.
+Focusing financial sector oversight on real estate, loan concentration, and nonbank
+intermediation would limit the buildup of systemic risks. Broadening and
+strengthening the legal authority of the BSP, and raising its capital, are required.
+Continuing to mobilize fiscal revenue while stabilizing the deficit at 2 percent of GDP
+would fund increased spending for inclusive growth and strengthen resilience of
+public finances to shocks.
+Improving the investment climate by allowing more foreign ownership, timely and
+transparent execution of PPPs, and adopting a continuously rolling medium­term
+fiscal plan would promote FDI, expand competition, relieve infrastructure
+bottlenecks, and catalyze private investment in productive sectors.
+
+PHILIPPINES
+
+Approved By
+Jerry Schiff and
+Elliot Harris
+
+Staff team: Rachel van Elkan (head), Dan Nyberg, Longmei Zhang (all
+APD), Masahiro Nozaki (FAD), and Shanaka Peiris (resident
+representative). Alphew Cheng (advisor, OED) participated in many
+meetings and Der Jiun Chia (Executive Director) joined the concluding
+meeting. Mission dates: January 9−23, 2013.
+
+CONTENTS
+CONTEXT _________________________________________________________________________________________ 4
+RECENT DEVELOPMENTS, OUTLOOK AND RISKS ______________________________________________ 5
+EXTERNAL SECTOR ASSESSMENT: ACCOMMODATING ONGOING STRUCTURAL
+TRANSFORMATION _________________________________________________________________________ 7
+POLICIES FOR STABILITY AND INCLUSIVE GROWTH __________________________________________ 8
+A. Monetary and Exchange Rate Policy ___________________________________________________________8
+B. Financial Sector Policies ______________________________________________________________________ 10
+C. Fiscal Policy __________________________________________________________________________________ 12
+D. Structural Policies to Sustain Growth and Boost Inclusiveness _______________________________ 14
+STAFF APPRAISAL ______________________________________________________________________________ 16
+BOXES
+1. Declining Import Intensity of Growth ________________________________________________________ 18
+2. Growing Nonbank Financial Intermediation _________________________________________________ 19
+3. Foreign Exchange Management in the Philippines: The Role of Remittances and
+Capital Flows _____________________________________________________________________________ 20
+4. Structure of Interest Rates ___________________________________________________________________ 21
+5. Sterilization Practices—A Cross-Country Perspective ________________________________________ 22
+6. Public Investment and Public-Private Partnerships (PPPs) ___________________________________ 23
+7. GDP Versus GNI: What Difference Does It Make? ____________________________________________ 24
+8. Improved Public Debt Profile ________________________________________________________________ 25
+FIGURES
+1. Macroeconomic Developments ______________________________________________________________ 26
+2. Banking Sector _______________________________________________________________________________ 27
+3. Financial Markets_____________________________________________________________________________ 28
+4. Real Sector ___________________________________________________________________________________ 29
+5. Cross-Country Comparisons _________________________________________________________________ 30
+
+2
+
+INTERNATIONAL MONETARY FUND
+
+PHILIPPINES
+
+TABLES
+1. Selected Economic Indicators, 2009–14 ______________________________________________________ 31
+2. National Government Cash Accounts, 2008–14 (In billions of pesos) ________________________ 32
+3. National Government Cash Accounts, 2008–14 (In percent of GDP) _________________________ 33
+4. General Government Operations, 2008–13 __________________________________________________ 34
+5. Depository Corporation Survey, 2008–12 ____________________________________________________ 35
+6. Balance of Payments, 2009–14 _______________________________________________________________ 36
+7. Baseline Medium-Term Outlook, 2009–17 ___________________________________________________ 37
+8. Banking Sector Indicators, 2008–12 __________________________________________________________ 38
+9. Indicators of External Vulnerability, 2007–12 _________________________________________________ 39
+APPENDICES
+I. Risk Assessment Matrix ______________________________________________________________________ 40
+II. External Sector Developments and Assessment ______________________________________________ 41
+III. Debt Sustainability Analysis __________________________________________________________________ 48
+IV. Staff Policy Advice from the 2010 and 2011 Article IV Consultations ________________________ 53
+
+INTERNATIONAL MONETARY FUND
+
+3
+
+PHILIPPINES
+
+CONTEXT
+1.
+The Philippines’ macroeconomic fundamentals improved considerably during the past
+decade, closing the door on an era of recurrent balance of payments crises. Public debt was
+nearly halved, inflation has eased to low single digits, and growth has picked up and become more
+stable. Equally important, external vulnerabilities were reduced owing in large part to a reliable
+stream of remittances from Filipinos working abroad that shifted the current account consistently
+into surplus and allowed the buildup of a large stock of official foreign currency (fx) reserves. As a
+result, the Philippines is on the verge of achieving a net external asset position.
+2.
+However, new macro­financial challenges are emerging, even as legacy structural
+issues remain:
+
+
+
+
+Large and relatively stable remittances and service exports, together with smaller but potentially
+volatile capital inflows, have been exerting strong upward pressure on the exchange rate. These
+have been met with a mix of appreciation and reserve accumulation. Expectations of continued
+appreciation and improved investor sentiment toward the Philippines may also be fueling
+inflows. Reserves are now very high relative to standard metrics. Low interest rates are pushing
+up prices of financial assets and shifting resources to nontradable sectors, including real estate.
+Long­standing impediments to stronger and more inclusive growth may exacerbate stability risks.
+Concentrated ownership of resources, inadequate public infrastructure, and tight limits on
+foreign ownership do not encourage investment into productive activities that could help
+sustain future growth or generate sufficient well­paying jobs to absorb the rapidly expanding
+labor force. As a result, funds are more likely to be absorbed into liquid financial markets and
+real estate, while limited domestic job opportunities have induced large overseas employment
+and, in turn, remittance inflows.
+
+3.
+The focus on improving governance seeks to strengthen the foundations for sound
+policymaking. The government of President Aquino—elected in 2010 for a single six­year term—
+adopted the platform of “good governance is good for economics.” In practical terms, this has
+translated into programs to reduce poverty, improve tax compliance, and create a more transparent
+public sector. In support of inclusiveness, the government and the Moro Islamic Liberation Front
+(MILF) signed a Framework Peace Agreement in October 2012 that holds the prospect of
+reinvigorating growth and reducing poverty in Mindanao region. Mid­term elections for half the
+seats in the upper house of Congress and all the lower house seats are scheduled for May 2013.
+4.
+In concluding the 2011 Article IV consultation, Executive Directors saw the main policy
+challenge as safeguarding macroeconomic stability while building the foundations for
+stronger and more inclusive growth. Over the past year, the authorities have been proactive in
+many of these areas (see Appendix V). Nonetheless, this remained the main theme of the current
+consultation discussions.
+
+4
+
+INTERNATIONAL MONETARY FUND
+
+PHILIPPINES
+
+RECENT DEVELOPMENTS, OUTLOOK AND RISKS
+5.
+In 2012, the Philippine economy shrugged off weaknesses abroad to grow by more
+than 6½ percent, while preserving internal and external stability. Part of the growth pick up
+from less than 4 percent in 2011 reflects a surge in exports on product diversification (Box 1);
+however, both consumption and especially investment—private and public— expanded rapidly,
+fuelled by low interest rates and sustained remittances. These influences are apparent on the
+production side, where construction, domestic trade, financial intermediation, and real estate grew
+quickly. Meanwhile, the current account maintained a surplus of about 3 percent of GDP, supported
+by remittances and business process outsourcing exports—which together totaled 14 percent of
+GDP. Inflation moderated through the year, ending at 2.9 percent (3.1 percent in year­average
+terms, near the bottom of the 4±1 percent target band), owing partly to strong peso appreciation
+amid a broadly closed output gap.
+6.
+On the external side, the balance of payments surplus moderated on smaller financial
+inflows. Official reserves rose by US$8.5 billion in 2012 to US$84 billion (3 times the Fund’s reserve
+benchmark for emerging markets), despite a shift to faster nominal effective appreciation
+(3.6 percent) compared to previous years. In 2012, the Philippines experienced one of the
+largest percentage increases in reserves and one of the largest nominal appreciations against the
+U.S. dollar within Asia. Net financial inflows eased last year as both the government and the private
+sector shifted from external to domestic financing. However, equity inflows have been strong and
+accelerated further in January 2013 on expectations that domestic growth prospects relative to
+advanced economies would remain favorable.
+7.
+Reflecting ample liquidity and the low interest­rate environment, asset prices have
+risen rapidly. The Philippines’ stock exchange index rose 33 percent in 2012 and a further 8 percent
+during January 2013, with bank share prices jumping 59 percent in 2012. Yields on 3­month Treasury
+bills eased further to below 0.2 percent. Nominal prices of high­end residential properties (only
+available series) have also been buoyant, rising 8 percent year­on­year, with rents increasing more
+than 15 percent. Although slowing from 2011, loans by universal and commercial banks grew at a
+brisk 16 percent, funded in part from remittances channeled to banks and drawdown of banks’
+deposits at the BSP, but as a share of GDP (31 percent) remain well below the 1997 peak. However,
+shadow banking—including through real estate developers—is growing (Box 2).
+
+Staff Position
+8.
+Growth’s recent resilience is likely to persist, reflecting sustained inflows and the
+spillover of exceptionally accommodative monetary policies abroad. Under the baseline
+medium­term framework, these factors are expected to continue to cushion the Philippine economy
+from lingering sub­par global growth, while keeping inflation manageable and moderating the
+current account surplus. GDP growth is forecast to ease back slightly from the elevated pace of 2012
+as base effects dissipate, but to remain underpinned by robust domestic absorption. This path
+would keep output expanding broadly in line with potential growth, which is expected to increase
+
+INTERNATIONAL MONETARY FUND
+
+5
+
+PHILIPPINES
+
+gradually from 5 percent to 5½ percent reflecting some improvement in the investment climate. The
+current account surplus is projected to narrow to 1¼ percent of GDP by 2017 on slower growth of
+remittances than of nominal GDP, and rising net imports. Inflation is expected to remain within the
+lower half of the target band (to be reduced to 3±1 percent from 2015).
+9.
+Risks to this outlook could materialize from both external and domestic sources
+(Appendix I):
+
+
+
+
+On the external front, extreme events originating in advanced economies or a protracted period
+of slow global growth continue to be the main downside risks for Philippine growth. However,
+the impact may be more contained than in many other EMs because the economy is less open
+to trade, and ample reserves exist to meet portfolio outflows and avoid excessive depreciation.
+Remittances provide an additional transmission channel, with depreciation shielding
+consumption by raising their domestic purchasing power. However, in the event of persistent
+slow global growth that leads to protracted unemployment in host countries, demand for
+foreign workers may decline. The resulting fall in remittances would weaken domestic demand
+and possibly house prices.
+On the domestic side, difficulties absorbing the abundant liquidity into productive sectors could
+further drive up asset prices and tilt activity increasingly toward real estate. Under this
+medium­likelihood scenario, near­term growth would be faster, but asset prices and GDP
+growth could become more volatile over the longer term in response to renewed risk aversion
+or higher interest rates in advanced economies. Debt­servicing problems at a domestic
+conglomerate—while a low probability event—could lead to sharply higher funding costs,
+undercapitalized banks, and a domestic credit crunch that pulls down growth sharply given the
+relatively concentrated loan portfolios of many banks.
+
+Authorities’ Views
+10.
+The recent growth performance of the Philippine economy was seen as mainly
+domestically generated. From the demand side, growth was driven by consumption and
+government spending while, from the supply side, the industry and service sectors provided the
+impetus. The spillover effects from extraordinarily accommodative monetary policy in advanced
+economies to emerging markets were duly managed, while spillovers from the European crisis were
+seen as coming mainly through trade, rather than monetary or financial channels, and therefore
+contributed negatively to Philippine growth. To mitigate this drag, timely monetary and fiscal policy
+measures were implemented, made possible by sufficient policy space.
+11.
+The authorities forecast economic activity to accelerate gradually, accompanied by
+faster potential growth that would prevent the buildup of demand pressures. Growth is
+projected to rise from 6−7 percent in 2013 to 7−8 percent by 2016. Achieving these growth
+objectives while also meeting the lower inflation target from 2015 requires easing existing supply
+bottlenecks, supported by rollout of public­private partnership (PPP) projects and infrastructure
+
+6
+
+INTERNATIONAL MONETARY FUND
+
+PHILIPPINES
+
+upgrades that would enhance productivity growth. Finalization of the Mindanao Peace Agreement
+was also expected to spur medium­term growth.
+12.
+Notwithstanding the positive economic outlook, the authorities remain alert to global
+and domestic risks. A global slowdown would likely have a larger impact on the Philippine
+economy than would renewed euro area turbulence in view of the limited direct linkages with the
+euro area. Growth could also be affected in the medium term if productive sectors are unable to
+quickly absorb foreign inflow surges. The ensuing risk of asset price bubbles and/or too rapid
+appreciation could compromise growth’s sustainability and dent employment generation.
+
+EXTERNAL SECTOR ASSESSMENT: ACCOMMODATING
+ONGOING STRUCTURAL TRANSFORMATION
+Staff Position
+13.
+Sustained large­scale foreign earnings are likely to have caused significant permanent
+macroeconomic changes. Persistent remittance inflows and more recently services exports have
+raised real permanent income, strengthening demand for both tradables and nontradables. With the
+Philippines a price taker for tradables, these changes are consistent with a more appreciated
+equilibrium real exchange rate.
+14.
+Developments in recent years indicate the economy is continuing to adjust to the new
+equilibrium. The relative price of nontradables has increased alongside a rising share of
+employment devoted to nontradables. These trends are also apparent in the sizable cumulative
+REER appreciation since 2004 that has helped to narrow the current account surplus in recent years
+(see Appendix II). Nonetheless, from a multilaterally­consistent perspective, staff assesses the
+external position to be somewhat stronger than implied by medium­term fundamentals and
+desirable policies. As discussed in Box 3, this is compatible with smoothing out the transition, as
+evidenced by continued fx intervention despite reserves that are more than adequate for
+precautionary purposes. Further adjustment toward equilibrium is expected in the next few years,
+facilitated by modest additional real appreciation and stepped­up imports of investment goods.
+
+Authorities’ Views
+15.
+The peso’s nominal and real effective appreciation in recent years has been driven to a
+large extent by structural balance of payments flows. The BSP maintains a presence in the
+foreign exchange market to smooth out excessive currency movements, particularly in response to
+capital inflow surges, resulting in the continued build up of reserves. In the absence of the BSP’s
+foreign exchange operations, it is likely the peso would have exhibited more volatility. The REER has
+generally maintained its external price competitiveness against major trading partners, with the peso
+having moved in tandem with many Asian currencies in 2012. Notwithstanding, the country enjoys a
+robust external position.
+
+INTERNATIONAL MONETARY FUND
+
+7
+
+PHILIPPINES
+
+16.
+The authorities noted that staff’s current external sector assessment differs from
+assessments of recent years. In the 2010 and 2011 Article IV consultation discussions, the peso was
+judged to have been fairly valued and aligned with fundamentals. In the interim, the peso has
+appreciated considerably. This raises concerns about the appropriateness of the methodology
+adopted by the staff, which may not adequately capture Philippine­specific factors, such as
+remittances.
+17.
+Structural factors were seen as explaining the high level of reserves and sizable current
+account surplus. Because of limited scope for prepayment of government bonds and loans, the
+Philippines faces larger net inflows than otherwise. Uncertainty surrounding whether individual
+foreign workers will have their employment contracts renewed triggers a precautionary saving
+motive. With no facility to pool this idiosyncratic risk, and despite little aggregate risk,
+economy­wide saving is therefore pushed up. In addition, weakness in the investment climate has
+created a timing mismatch between receipt of external inflows and subsequent investment
+spending, leading to the accumulation of reserves. The current account will narrow as the economy
+expands and once barriers to investment are removed. Thus, the positive current account gap
+should be seen in the context of structural factors that may not require currency adjustment to
+eliminate.
+
+POLICIES FOR STABILITY AND INCLUSIVE GROWTH
+A. Monetary and Exchange Rate Policy
+Background
+18.
+Short­term market interest rates have fallen to exceptionally low levels. Moderating
+price pressures during 2012 allowed the inflation­targeting BSP to lower the policy rate by a
+cumulative 100 basis points to 3.5 percent. Nonetheless, market rates remain disconnected from the
+policy rate, with yields on government bonds with maturities up to 5 years falling below the policy
+rate (Box 4). Over the past 18 months, the BSP amended a range of policy tools to discourage
+speculative activity and reduce sterilization costs, including: (i) ceasing remuneration of required
+reserves; (ii) prohibiting external funds from its Special Deposit Account (SDA)—a short­term facility
+with a balance equivalent to nearly US$40 billion (16 percent of GDP)—and lowering the rate below
+the policy rate; (iii) raising capital charges and introducing limits on banks’ nondeliverable forward
+(NDF) positions; and (iv) curtailing its fx forward book (counterpart to one leg of banks’ forward
+positions).
+
+Staff Position
+19.
+Transmission of policy rates is hampered by lax monetary policy in advanced
+economies and liquidity overhang from past reserve accumulation. In this setting, a single
+policy tool is not sufficient to simultaneously deliver inflation, growth and systemic financial stability
+goals. The BSP’s weakening capital position is an additional consideration. The authorities’ decision
+to reduce their participation in the fx market, and to adopt and/or
+
+8
+
+INTERNATIONAL MONETARY FUND
+
+PHILIPPINES
+
+amend in a timely manner a variety of macroprudential instruments aimed at tightening monetary
+conditions to mitigate financial stability risks, is welcome. While effectiveness of these measures is
+difficult to definitively assess, and the link between the policy rate and short­term market rates may
+have been disturbed, the measures taken over the past 18 months have reduced the attractiveness
+of certain forms of financial intermediation that were growing rapidly and have since slowed or
+declined.
+20.
+Going forward, managing current inflows and absorbing the liquidity overhang from
+past interventions through a package of reinforcing measures are priorities to strengthen
+monetary control:
+
+
+
+
+
+
+Diverting and absorbing inflows: The government has contributed to moderating inflows by
+scaling back external borrowing, but there is scope to go below the 20 percent target on the
+external share of gross borrowing for 2013. Recent amnesties by the BSP allowing foreign
+repatriation of investment proceeds should be made permanent to facilitate outflows of
+“trapped” funds, together with making the import payment regime more flexible. Recourse to
+capital flow measures may be warranted at some point if macroprudential tools are not able to
+contain financial stability risks. Further developing long­term financing instruments may
+facilitate absorption of resources into productive uses, including those with a high import
+content in order to moderate net inflows.
+Exchange rate policy: The exchange rate should continue to move broadly in line with
+fundamentals, which would also limit further reserve buildup and sterilization needs. However,
+halting intervention may abruptly appreciate the peso, intensifying perceptions of a one­way bet
+in the context of persistent structural inflows, depriving firms of time needed to achieve
+productivity gains. Accommodating normal appreciation pressures, but leaning gently against
+the wind of unusually strong pressures, is recommended, together with greater exchange rate
+flexibility at fairly short horizons.1
+Liquidity management: The large volume of short­term BSP liabilities makes liquidity
+management vulnerable to shifts in market sentiment. Recent initiatives to enhance coordination
+of asset and liability management within the broad public sector could deliver efficiency gains
+and greater specialization along the maturity spectrum of debt (with the government focusing
+on the longer end). More generally, shifting from passive sterilization to an actively-managed
+interest rate corridor with variable-rate instruments (including BSP bills) may improve liquidity
+control.
+
+21.
+The capital position of the BSP should be strengthened to allow it to effectively
+implement policy and sterilize liquidity. The ₱20 billion (0.2 percent of GDP) capital injection in
+the BSP in late 2012 is a welcome incremental step. However, the current arrangement of
+1
+
+Low value­at­risk due to limited exchange rate variability lowers the cost of peso plays by reducing the size of
+needed capital cushions.
+
+INTERNATIONAL MONETARY FUND
+
+9
+
+PHILIPPINES
+
+asymmetric profit sharing and unpredictable capital top­ups detracts from operational
+independence for monetary policy (Box 6). Replacing it with a legally­mandated system of automatic
+loss compensation or stipulating a minimum level of capital is preferred.
+
+Authorities Views
+22.
+Traditional monetary policy instruments need to be complemented with
+macroprudential policy tools amid sustained capital flows. As in other EMs, the BSP has
+expanded its policy toolkit and will introduce new instruments and make refinements as conditions
+warrant. The BSP continues to inhabit the middle ground of exchange rate regimes, participating in
+the fx market to smooth out excesses. Given existing scope to further adjust macroprudential
+policies (such as levying reserve requirements on SDAs), no need for capital flow measures was
+anticipated at the current juncture. However, the BSP continues to keep its options open should
+circumstances arise that may require capital flow measures. The large amount of short­term BSP
+liabilities was not considered problematic, and these are managed with a variety of instruments.
+Closer cooperation between the BSP and government on liability management has been helpful in
+expanding the range and maturity of liquidity­absorbing instruments. Amending the Central Bank
+Law to allow the BSP to issue its own securities and ensure adequate capitalization would provide
+additional flexibility to manage liquidity.
+
+B. Financial Sector Policies
+23.
+Background. The financial sector continued to perform well in 2012, although weaknesses
+are present. Regarding banks, profitability was robust, the NPL ratio continued to decline, capital
+adequacy remained strong, and credit growth was brisk. Loans by universal and commercial banks
+grew by 16 percent to a still­moderate 31 percent of GDP. Banks are beginning to orient new
+lending to households where margins are wider, which will over time dilute high loan concentrations
+to corporate groups. Nonbank financial intermediation also grew rapidly, with strong activity in IPOs,
+bond issuance, and financing through real estate developers. Nonetheless, household and corporate
+sectors remained large net savers in the aggregate. About 80 percent of new residential
+construction (by number of units) is in the low­middle price bracket. Of these, about half are
+reported to be purchased pre­construction by overseas foreign workers (OFWs).2 Legal responsibility
+for preserving financial stability is not assigned. Legislative changes aimed at rectifying critical
+AML/CFT weaknesses identified by FATF were recently adopted.
+24.
+Staff’s position. The BSP’s generally proactive approach to oversight of the banking sector
+and emphasis on sound bank governance are welcome. The introduction of Basel III capital
+requirements from January 2014 is an appropriately counter­cyclical measure. Since 2006, the BSP
+has adopted a risk-based supervisory approach, and resolved some 160 weak banks. However,
+developing an escalating Prompt Corrective Action and bank rehabilitation framework—as
+recommended in the 2010 FSSA Update—remain priorities. Moreover, banks’ increasing exposure to
+2
+
+OFWs bear the direct fx risks, and the risk of possible nonrenewal of short­term employment contracts.
+
+10
+
+INTERNATIONAL MONETARY FUND
+
+PHILIPPINES
+
+real estate (RE) and sustained large exposures to individual borrowers remain a concern, while the
+rapid development of nonbank financing carries risks.
+
+
+
+
+
+
+Real estate: Expanding the coverage of banks’ RE exposure monitored by the BSP (to include
+bank’s equity positions and loans to thrift banks for RE onlending) and agreeing with banks
+voluntary guidelines on “contract­to­sell” financing for real estate developers are welcome. The
+inter­agency Financial Sector Forum’s initiative to gather information on all sources of real estate
+finance is also commendable. However, several risks are apparent. Real estate developers may
+apply less­stringent lending standards and more­generous loan terms than required of banks,
+including on loan­to­value (LtV) (the standard cap is 60 percent) and by offering initial teaser
+terms. Some banks may also not be in full compliance with LtV limits. In addition, no institution
+has oversight responsibility for the housing sector from a macro­financial perspective.3 Several
+macroprudential measures are therefore recommended to contain the buildup of risks in this
+sector. The existing 20 percent limit on a bank’s real estate exposure under the narrow definition
+should be applied to the more comprehensive measure. Prudent loan origination standards and
+existing regulations should be strongly enforced, supported a comprehensive positive credit
+registry, conservative debt­to­income guidelines for retail borrowers, and granting an explicit
+legal mandate to an appropriate institution for stability aspects related to the RE sector. A
+counter­cyclical capital charge on RE, a general provisioning requirement on newly­issued RE
+loans, taxing RE transactions, and lower LtV limits would be warranted if RE supply­demand
+imbalances get further out of line.
+Loan concentration: Banks’ declaration of large exposures to consolidated clients under
+recently­strengthened governance requirements has aided the BSP’s preparation of
+“conglomerate maps.” These maps may reveal larger exposures to individual related borrowers
+than previously recognized and permitted ceilings. With a handful of large conglomerates
+following broadly similar business models, and bank exposures to them equivalent to a sizable
+share of total bank capital, systemic risks are heightened. The earlier relaxation of the single
+borrower limit (SBL) for petroleum purchases and PPP financing further expands conglomerates’
+access to credit, reinforcing risks and the economy’s already concentrated ownership structure.
+It is therefore advised to begin to roll back all SBLs (defined to encompass affiliated entities) to
+the standard 25 percent through effective sunset clauses and, where a consolidated borrower
+exceeds applicable limits, require banks to develop—and agree with borrowers—credible plans
+for timely reduction of excessive exposures. Specific provisions should also be applied in
+proportion to the SBL breach, consistent with the Basel Committee’s pronouncements.
+Rapid growth of nonbank financial intermediation provides a welcome deepening of local
+financial markets, which until recently have been dominated by banking. However, diversification
+could have the unwanted effect of shifting intermediation to segments subject to data gaps and
+
+3
+
+The Housing and Land Use Regulatory Board is responsible, inter alia, for regulating construction standards and
+licensing real estate projects, while the Securities and Exchange Commission issues business licenses to
+RE developers.
+
+INTERNATIONAL MONETARY FUND
+
+11
+
+PHILIPPINES
+
+less­stringent regulatory standards and oversight. The FSF is therefore urged to continue to fill
+in data gaps, including on corporate leverage and currency exposure; however, because the FSF
+has no separate legal authority, staff recommends amending the BSP’s charter to permit it to
+request and receive information on all members of conglomerate groups so it can review the
+main activities of the group that may have a material impact on the soundness of the bank, and
+take appropriate supervisory action. Enhancing legal protections for BSP supervisors to protect
+them from litigation related to the conduct of their duties and relaxing the “extraordinary
+diligence requirement” is essential to allow effective execution of supervisory functions.
+25.
+Authorities’ views. The authorities broadly shared staff’s assessment of the financial sector.
+An active and broad reform agenda is being pursued to prevent the buildup of sector risks. The
+recent extension of the SBL in the case of PPP financing reflects delayed initiation of the projects.
+The BSP monitors loan concentrations closely and has enhanced reporting requirements for entities
+that exceed their limits. To continue to effectively manage financial sector risks, they hoped that
+approval of the amended BSP charter—including broader supervisory authority and stronger legal
+protection of supervisors—would be promptly granted.
+
+C. Fiscal Policy
+Background
+26.
+A broad set of reforms is underway to make the fiscal position more resilient and raise
+policy effectiveness. The Philippines’ revenue­to­GDP ratio is low compared with peers, despite
+relatively high rates on some taxes (e.g., CIT), reflecting in part exemptions and extensive tax
+incentives. Moreover, interest costs have tended to absorb a sizable share of revenue, compressing
+room to spend on health, education, and infrastructure.4 The authorities have embarked on major
+fiscal and governance reform, as detailed in the 2011−16 Philippine Development Plan. This
+encompasses revenue mobilization through tax policy and tax administration reform, boosting social
+and infrastructure spending, introducing means­tested social programs (e.g., conditional cash
+transfers) and universal health insurance, budget process reform (e.g., zero­based budgeting), and
+strengthened oversight of government­owned corporations.
+27.
+The government is committed to generating additional revenue to fund priority
+spending while continuing to pursue further debt consolidation. The deficit is estimated to have
+widened by 0.2 percentage points in 2012, to 2.3 percent of GDP. This reflected a jump in
+investment spending from 2011, partly offset by stronger revenue collection from ongoing tax
+administration reforms, revenue buoyancy, and improved spending efficiency. Excises on tobacco
+and alcohol (“sin taxes”) were raised from 2013, yielding 0.3 percent of GDP, and will be used to
+further expand health insurance coverage for low­income households. For 2013−16, the authorities
+are targeting a deficit of 2 percent of GDP while raising the revenue­to­GDP ratio to 18 percent
+(from 14.3 percent in 2012) and the tax ratio to 16 percent (from 12.8 percent in 2012) in order to
+4
+
+At around 2¾ percent of GDP, annual public investment spending is very low relative to infrastructure needs.
+
+12
+
+INTERNATIONAL MONETARY FUND
+
+PHILIPPINES
+
+create space for new spending. Pension spending for uniformed personnel will rise from ½ percent
+of GDP in 2012 to ¾ percent of GDP in 2016 in the absence of reform.
+
+Staff Position
+28.
+Staff endorses the authorities’ fiscal strategy for the period 2013−16. This would permit
+additional resources for social and infrastructure spending in support of faster, more inclusive
+medium­term growth. Further resources will be made available under planned PPPs (currently
+projects amounting to 2 percent of GDP are in the pipeline), but related contingent liabilities and
+other risks should be carefully monitored and included in the fiscal accounts (Box 6). Under the
+staff’s baseline scenario, the deficit path is consistent with national government primary surpluses of
+½−1 percent of GDP that are expected to lower the debt ratio to 44 percent of GDP by 2016.5 While
+this implies a fairly rapid debt reduction path, even at the expected 2016 level, the debt­to­revenue
+ratio would remain relatively high compared to other EMs (although on a par if measured against
+GDP, and lower if measured against GNI, Box 7). Moreover, debt service costs and the gross
+financing requirement relative to tax revenue would remain elevated (55 percent and 70 percent,
+respectively, Box 8). Refinancing debt, lengthening maturities, and continuing to reduce external
+borrowing would further strengthen resilience to shocks.
+29.
+Staff supports the authorities’ dual approach to mobilizing the ambitious, but
+necessary, additions to revenue. Strengthened tax administration and compliance offer the
+prospect of sizable revenue gains. Improvements in handling return filings, data processing, large
+taxpayer service, audit, and arrears management are important markers of progress. Accelerating
+the reform momentum is essential to ensure that critical milestones, including rollout of new IT
+systems by end­2013, are met. However, yields from administration reform are unpredictable in
+terms of amount and timing. Staff therefore also recommends reforming the tax system by
+broadening bases, reducing exemptions and allowances, and taxing currently under­taxed activities.
+This should include rationalizing tax incentives for the corporate sector, introducing a fair and
+sustainable fiscal and regulatory framework for the natural resource sector, and raising excises on
+petroleum.
+
+Authorities Views
+30.
+Steady progress has been made in implementing the authorities’ broad fiscal strategy.
+This includes reform of tax administration, overhaul of “sin” taxes, increased social spending with
+expanded coverage of conditional cash transfers and health insurance for the poor, budget process
+reform, and performance­based bonuses for government employees. Procedures for executing
+infrastructure projects were also improved, ensuring timely implementation. The government
+remains committed to the 2 percent of GDP deficit target through 2016, but may allow a larger
+deficit in the event of a global shock.
+
+5
+
+In cyclically­adjusted terms, fiscal policy is expected to be broadly neutral in 2013.
+
+INTERNATIONAL MONETARY FUND
+
+13
+
+PHILIPPINES
+
+31.
+On mobilizing revenue, immediate priorities are tax and customs administration
+reform and amending the mining tax law. To identify revenue foregone from tax incentives
+awarded to firms, the government is requiring beneficiaries to report the amount of tax incentives
+granted, with the aggregate tax expenditures to be presented in budget documents. They are also
+considering measures to enhance tax compliance by the self­employed and professionals, and
+establishing a minimum presumptive value for each shipping container that enters the country, to
+be taxable at customs. Regarding mining, adopting a regulatory and fiscal regime that achieves
+equity, transparency, and environmental sustainability will bring growth to underdeveloped regions
+and a reliable new source of fiscal revenue.
+
+D. Structural Policies to Sustain Growth and Boost Inclusiveness
+Background
+32.
+Sustaining growth. A notable improvement in the business climate was registered in recent
+years, but progress has been uneven. The Philippines advanced ten positions in the past year to 65th
+place in the World Economic Forum’s 2013 Global Competitiveness Rankings, mainly on improved
+public institutions and reduced red tape and corruption, although it remains in the bottom half of
+the sample on these factors, while infrastructure is seen to be in a poor state. On the other hand, the
+improved macroeconomic environment and large domestic market are seen as important strengths.
+Separately, concentration of resources and strict limits on foreign ownership in a broad set of
+sectors and across all professions have held back FDI to low levels, especially compared to other
+countries in the region.
+33.
+Enhancing inclusiveness. The incidence of poverty remains stubbornly high (above
+26 percent on the national definition as of 2009, but around 40 percent on the ”less than US$2 per
+day” measure). The unemployment rate has been stuck around 7 percent since the GFC—
+considerably higher than in neighboring countries, while underemployment stands at 19 percent.
+Despite robust economic expansion during 2012, employment shrank by nearly 900 thousand.
+
+Staff Position
+34.
+Continuing to improve the investment climate would help channel savings into
+productive activities and promote more sustainable growth. Relaxing limits on foreign
+ownership could substantially raise FDI—particularly as integration within ASEAN and other
+multilateral groupings is set to deepen—and increase competition in key sectors.6 Timely and
+
+6
+
+Nicoletti and others (2003) find that removing foreign equity ceilings is the most important potent way to raise FDI,
+and removal of such ceilings could increase FDI significantly (by nearly 80 percent). The positive impact of FDI on real
+growth through, inter alia, transfer of technology and management practices is well­documented (see papers cited in
+IMF 2012, “Liberalization and Management of Capital Flows”). For example, Aizenman and Sushko (2011) find that
+higher levels of FDI lead to an increased probability of a growth take off. There is also strong evidence that greater
+competition raises growth. For example, Aghion and others (2009) find that increased entry into an industry
+promotes innovation and productivity of the incumbents.
+
+14
+
+INTERNATIONAL MONETARY FUND
+
+PHILIPPINES
+
+transparent execution of Public­Private Partnership (PPP) and large government investment projects
+could help catalyze private investment by signaling impartiality and effectiveness of
+decision­makers, while relieving infrastructure and energy constraints. Adopting a continuously
+rolling medium­term fiscal framework, instead of one that extends only to the end of the current
+Presidential term, would inform the private sector of the government’s future development
+priorities, providing critical guidance for private projects with long gestation periods. As such, it
+could help prevent the “stop­start” growth episodes observed in previous decades. In addition,
+effective use of the anti­money laundering framework would support the authorities’ efforts to
+detect and deter corruption.
+35.
+Domestic job creation is key to achieving inclusive growth and reducing incentives for
+emigration and dependence on remittances that have come to complicate the policy
+environment. Existing initiatives to expand access to formal credit by micro firms, SMEs and the
+agriculture sector—all of which are labor intensive—encourage employment by lowering the cost of
+entrepreneurship. Improving the job­readiness of the labor force is also crucial, and recent measures
+extending the number of years of compulsory schooling from 10 to 12 and widening the coverage
+of health insurance and the conditional cash transfer (CCT) program help meet immediate basic
+needs and support a more productive labor force in the future.7 More generally, transitioning to a
+growth path where gains are more widely shared requires fundamental change to the business
+environment, but which could become self­sustaining once a critical mass of reforms has been
+implemented. The authorities are therefore urged to push ahead with significant and broad­based
+improvements to the investment climate.
+
+Authorities Views
+36.
+The authorities reaffirmed their commitment to faster, more inclusive growth,
+supported by improved governance. They acknowledged the economy’s recent jobless expansion,
+and indicated that making the economy more investment and industry­led were priorities to
+generate more high­quality jobs and sustain growth over the medium term. PPPs were seen as a
+support for sustainable growth, and project rollout had therefore been deliberate to ensure the
+process was transparent and well structured. Several PPPs focus on improving transport
+infrastructure, and hence provide conditions conducive to future productivity and employment
+growth. ASEAN integration was expected to offer new opportunities, increasing competition even in
+the absence of new domestic entrants, and also attracting additional FDI. While some restrictions on
+foreign ownership are specified in the constitution, and may therefore be difficult to amend,
+approval of an anti­trust bill is pending.
+
+7
+
+The CCT program, first introduced in 2008, will be further expanded in 2013 to cover 3.8 million households, at a
+budget cost of about 0.4 percent of GDP. Family benefits depend on children’s school attendance and mothers’ and
+their young children’s regular health check­ups.
+
+INTERNATIONAL MONETARY FUND
+
+15
+
+PHILIPPINES
+
+STAFF APPRAISAL
+37.
+Macroeconomic fundamentals are on a solid footing, but the long­standing challenge
+of fostering inclusive growth remains. Large inflows from abroad are therefore a mixed blessing,
+providing the opportunity to undertake productive investments to sustain future growth and make it
+more equitable, but bringing a stronger real exchange rate and the risk of excesses in financial and
+real estate markets that could lead to future volatility.
+38.
+The Philippine economy has weathered the volatile global environment well, and the
+outlook is favorable. Over the medium term, growth is expected to remain resilient on robust
+domestic demand brought by low interest rates and sustained remittances. This should insulate
+against sub­par global growth. The current account is forecast to moderate further, with inflation
+remaining within the target band, supported by a modest increase in potential growth.
+39.
+This growth outlook is subject to two­way risks. A protracted period of slow global
+growth or a large adverse demand shock in a major country or across a class of countries pose the
+main downside threat for the Philippine economy in the near term. On the domestic side,
+overly­rapid credit expansion, coupled with intensified real estate activity and stretched asset
+prices—possibly driven by a capital inflow surge—could accelerate GDP growth in the near term.
+However, a subsequent unwinding would likely have large negative macroeconomic effects over the
+longer run. In this context, concentrated loan portfolios of banks and increasing leverage of
+corporates could pose a risk to macro­financial stability.
+40.
+The Philippine economy is continuing to adjust to the large persistent inflows coming
+from abroad. The real exchange rate has risen strongly in recent years and the current account
+surplus has moderated. While the external sector is seen as somewhat stronger than warranted by
+medium­term fundamentals and desirable policies, further narrowing of the current account
+expected over the next few years would close the remaining gap.
+41.
+Transmission of domestic policy interest rates has been weakened by low interest rates
+abroad and ample domestic liquidity. The BSP has increasingly relied on a variety of tools to
+tighten monetary conditions and preserve macro­financial stability. The decision to shift the policy
+mix more toward currency appreciation than in the past is welcome, supported by the timely and
+targeted use of macroprudential policies.
+42.
+A reinforcing set of policies is needed to manage current inflows and absorb liquidity
+from past interventions. The exchange rate should continue to move broadly in line with
+fundamentals, limiting further reserve build up beyond already high levels, but leaning gently
+against the wind in response to unusually strong appreciation pressures. Continuing to coordinate
+asset and liability management within the public sector, with the government focusing on the longer
+end of the yield curve and further reducing its foreign borrowing, would enhance liquidity
+management. Permanently liberalizing remaining regulations on fx outflows and developing
+long­term financing instruments would moderate and more effectively absorb inflows. Recourse to
+capital flow measures may be needed if macroprudential tools appear insufficient to contain stability
+16
+
+INTERNATIONAL MONETARY FUND
+
+PHILIPPINES
+
+risks. Predictable arrangements for ensuring adequate BSP capital are essential to support
+operational independence for monetary policy.
+43.
+Financial sector oversight has generally been proactive, but supervisory gaps
+embedded in law may limit scope to contain risks. Early adoption of Basel III capital requirements
+is a welcome counter­cyclical measure. Amending the BSP charter to widen the supervisory
+perimeter to include conglomerate parents of banks, while ensuring strengthened legal protection
+for supervisors, is necessary to preempt systemic risks related to real estate, shadow banking, and
+large bank exposures to connected corporate entities. Assigning responsibility for the preservation
+of financial stability is also needed. Ensuring prudent loan origination standards, applying the
+existing cap to the new broader definition of bank’s real estate exposure, and strongly enforcing
+existing prudential regulations are essential. Further tightening macroprudential policies may be
+needed if real estate activity and/or credit continue to grow rapidly. Applying single borrower limits
+to all affiliated entities and beginning immediately to gradually to unwind exemptions would ease
+macro­stability risks from concentrated exposures. Recent actions to address AML/CFT weaknesses
+identified by FATF are welcome, and full use of the AML framework should be made to support
+anti­corruption efforts.
+44.
+The continued focus on mobilizing fiscal revenue will help fund spending in support of
+sustained and inclusive growth, while strengthening resilience to shocks. The government’s
+ambitious revenue goals are appropriate. This would allow the deficit to stabilize at around
+2 percent of GDP—corresponding to a broadly neutral stance in 2013—and thereby reducing the
+debt service burden, while creating significant room for new spending on infrastructure and social
+needs. While strengthened tax administration and compliance could yield considerable revenue,
+timing is uncertain, and parallel efforts to broaden tax bases, reduce exemptions and allowances,
+and better tax currently under­taxed activities should continue. The recent increases in excises on
+tobacco and alcohol are therefore welcome.
+45.
+Significant, broad­based improvements to the investment climate would make growth
+more persistent and support domestic job creation. Existing micro­ and agri­finance initiatives
+and expanded basic social care and compulsory schooling support entrepreneurship and a more
+productive labor force. However, the investment to GDP ratio remains subdued. Allowing more
+foreign ownership, executing PPPs in a timely and transparent manner, and adopting a continuously
+rolling medium­term fiscal plan would promote FDI, expand competition, relieve infrastructure
+bottlenecks and catalyze private investment in productive sectors.
+46.
+It is recommended that the next Article IV consultation take place on the standard
+12­month cycle.
+
+INTERNATIONAL MONETARY FUND
+
+17
+
+PHILIPPINES
+
+Box 1. Philippines: Declining Import Intensity of Growth
+Over the past decade, the import intensity of Philippine GDP has come down substantially. As a share of nominal GDP,
+imports dropped from close to 55 percent to 35 percent.
+The decline in the import share was accompanied by a falling export share. The drop of shares in nominal terms includes
+the effect of peso appreciation and changes in world prices. In real terms, the magnitudes are much smaller, but still
+notable.
+Exports and Imports as Share of GDP
+( In real terms)
+
+Exports and Imports as Share of GDP
+( In nominal terms)
+
+58
+
+60
+Exports
+
+55
+
+Imports
+
+Exports
+
+56
+
+Imports
+
+54
+
+50
+
+52
+
+45
+
+50
+
+40
+
+48
+46
+
+35
+
+44
+
+30
+
+42
+
+25
+
+40
+
+2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012
+Source: National account data.
+
+2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012
+Source: Nationa account data.
+
+The falling import share to a large extent reflects changes in the structure of exports.1/ Exports are diversifying away from
+goods toward services, which have a very low import content. Service exports increased from 8 percent of total exports
+in 2000 to 25 percent in 2011, mainly driven by the Business Process Outsourcing (BPO) sector. Within goods exports,
+diversification from manufactures to agricultural and mineral products (which also have high domestic content) has
+occurred. Further, the composition of manufactured goods is shifting from highly import­intensive electronics to products
+2/
+that are likely to have larger domestic value­added.
+Share of Electronics in Goods Trade
+
+Philippines: Export Structure
+
+( In Percent)
+
+(Share in total of goods and services export)
+
+Services
+Goods
+Agriculture
+Minerals
+Manufacture
+Electronics
+Other manufactures
+
+2000
+
+2011
+
+8
+92
+4
+2
+83
+67
+16
+
+25
+76
+6
+4
+62
+39
+23
+
+Source: Balance of payments data.
+
+60
+
+75
+70
+65
+
+Exports
+Imports (right scale)
+
+60
+55
+50
+45
+40
+35
+30
+
+50
+40
+30
+20
+10
+0
+
+2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012
+Source: Balance of payments data.
+
+____________________________
+1/ The share is calculated using balance of payments data because only a short time series based on national accounts
+data is available.
+2/ Recently released National Accounts data indicates this shift accelerated in 2012, with non­electronics manufacturing
+growing by 40 percent for the year, and its share in exports reaching the same level as that for electronics.
+
+18
+
+INTERNATIONAL MONETARY FUND
+
+PHILIPPINES
+
+Box 2. Philippines: Growing Nonbank Financial Intermediation
+New bank lending to the private sector remained strong at ₱450 billion in 2012, similar to the
+previous year. However, this conveys only part of the domestic financing picture, which also includes
+new equity and bond issuances. In 2012, new equity financing through IPOs and other placements
+increased sharply to ₱220 billion, more than double the amount issued the previous year.1/ Bond
+issuance was also active, mainly driven by financial firms. Moreover, the increase in corporate equity
+may signal the intention to raise debt in the future.
+Equity Financing
+
+Corporate Bond Issuance
+
+250
+
+450
+
+(In billions of pesos)
+Banks
+
+(In billions of pesos)
+Nonbank financial
+
+Industrial
+
+400
+
+200
+
+Industrial
+
+Bank
+
+Nonbank financial
+
+350
+300
+
+150
+
+250
+200
+
+100
+
+150
+100
+
+50
+
+50
+
+0
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+Sources: Philippine Stock Exchange.
+
+0
+2007
+2008
+2009
+2010
+Sources: Bloomberg L.P.; and IMF staff calculations.
+
+2011
+
+2012
+
+A measure of broad funding, defined as the sum of newly­extended bank loans and new issuance of
+equity and bonds, is needed to track financing flows to the private sector. This requires consolidating
+out banks’ funding through the capital market
+Sources of Financing: Nonbank Private Sector
+that is used to finance future bank lending (the
+( In billions of pesos)
+same applies to nonbank financial firms, but
+800
+Bank loans
+Bond issuances
+Equity capital
+700
+because data on their lending activities is not
+600
+available, this source of credit can be best
+500
+captured on the funding side). As indicated in the
+400
+chart, broad funding flows to the nonbank
+300
+private sector have grown rapidly in recent years
+200
+100
+(66 percent in 2011 and 13 percent in 2012), and
+were 7 percent of GDP in 2012. While bank
+2007
+2008
+2009
+2010
+2011
+2012
+Sources: Bloomberg L.P.; Philippine Stock Exchange; and Bangko Sentral ng Pilipinas.
+lending continues to dominate total flows, equity
+and bond issuance now account for 40 percent of
+total financing.
+________________________________
+1/ Nonfinancial corporations include diversified holding companies (which may encompass one or more financial
+firms, including banks). Financial corporations include nonbanks whose primary business is real estate development,
+and in that context, provide credit to final property buyers.
+
+INTERNATIONAL MONETARY FUND
+
+19
+
+PHILIPPINES
+
+Box 3. Foreign Exchange Management in the Philippines:
+The Role of Remittances and Capital Flows
+International reserves have risen substantially over the last decade. Using a relatively standard
+foreign exchange reaction function, we explore empirically the underlying factors driving foreign
+exchange intervention, focusing on possible different responses to capital flows and remittances.
+Because the BSP is an inflation targeting central bank, we explicitly include the inflation rate as an
+additional explanatory variable.
+There is evidence that the BSP “leans against the wind” to moderate exchange rate changes and
+volatility driven by portfolio flows and, to a lesser extent, remittances.1/ Intervention—proxied by the
+overall balance of payments—is found to be larger when the peso is appreciating in nominal
+effective terms and exhibiting greater volatility. Portfolio and other financial flows and remittances
+are associated with significant reserve accumulation, but with a larger response in the case of the
+former. There is also evidence that reserve accumulation is weaker when inflation is higher,
+suggesting a role for the exchange rate in delivering the inflation target. On the other hand,
+deviation of the real exchange rate from trend is not found to be a significant determinant of
+intervention.
+These findings are consistent with the BSP’s stated practice of participating in the market to smooth
+exchange rate volatility, with a larger response to speculative (hot money) flows than to structural
+(remittance) flows. Nonetheless, some intervention in response to the much larger remittance than
+financial inflows is needed to explain the rapid increase in the reserve stock, especially in recent
+years. This conclusion accords with a recent statement by the BSP Governor that “we can allow some
+currency appreciation for structural flows.”
+
+_________________________________________
+1/ For sterilized intervention to affect the exchange rate, controls on outflows and/or imperfect substitutability of
+foreign and domestic assets is needed. However, if sterilization is only partial, then intervention can affect the
+exchange rate in the absence of capital controls or imperfect substitutability of assets.
+
+20
+
+INTERNATIONAL MONETARY FUND
+
+PHILIPPINES
+
+Box 4. Philippines: Structure of Interest Rates
+Since late 2010, the yield curve for Philippine government securities has dropped sharply across the maturity
+spectrum, with the largest fall at the front end, which
+sank by more than 250 basis points within the span of a
+Government Bond Yields
+(In percent, end of period)
+10
+month. Short­term rates are now at exceptionally low
+2/22/2013
+2012
+2011
+2010
+2009
+levels (3­month T­bill rate was 0.05 percent in
+8
+January 2013). More recently, rates at the longer end of
+6
+the spectrum have been moderating. Structural factors,
+including more­limited supply of government paper
+4
+owing to the improving fiscal situation, have played a
+2
+role. The timing of developments also suggests an
+0
+important role for portfolio inflows, which were very
+1M
+3M
+1Y
+5Y
+10Y
+25Y
+Source: Bloomberg L.P.
+strong in late 2010. While nonresidents may have
+initially preferred short­term instruments—in part to
+avoid repricing risk, with short­term rates having reached very low levels, demand is continuing to shift
+further out, helping to flatten the curve.
+
+INTERNATIONAL MONETARY FUND
+
+Jul-12
+
+Jan-13
+
+Jul-11
+
+Jan-12
+
+Jul-10
+
+Jan-11
+
+Jul-09
+
+Jan-10
+
+Jul-08
+
+Jan-09
+
+Jul-07
+
+Jan-08
+
+Jul-06
+
+Jan-07
+
+Jul-05
+
+Jan-06
+
+Jul-04
+
+Jan-05
+
+Jan-04
+
+Market­determined interest rates have become disconnected from official rates. During 2004−05, short­term
+market rates were inside the BSP’s interest rate corridor
+Policy Rates and Three-Month T-Bill Rates
+(defined by the repo and the reverse repo rates).
+(In percent)
+14
+However, in 2006−07 when capital inflows were strong,
+BSP's repurchase rate
+12
+BSP's reverse repurchase
+elevated demand for securities pushed market rates
+3-month treasury bill rate
+10
+BSP's SDA interest rate
+below the bottom of the corridor. Demand eased with
+8
+the onset of the global financial crisis, and T­bill rates
+6
+reverted to the corridor floor. Renewed foreign
+4
+demand since late 2010 has generally kept the
+2
+3­month T­bill rate below the policy rate (with the gap
+0
+tending to move with global risk perceptions). Despite
+Sources: CEIC Data Co., Ltd.; and Haver Analytics.
+the cumulative 100 bps cut in the policy rate in 2012,
+this gap has now widened to more than 300 bps.
+
+21
+
+PHILIPPINES
+
+Box 5. Philippines: Sterilization Practices—A Cross­Country Perspective
+Sterilization costs for many emerging market central banks have likely increased in recent years on rising international reserves and
+possibly­widening gaps between domestic and foreign interest rates. These costs arise from the desire to withdraw part of the liquidity created
+through fx intervention in order to contain inflation pressure and the risk of asset price bubbles. Sterilization liabilities issued by the central bank—if
+held voluntarily by the private sector—generally pay a domestic interest rate that exceeds the yield on the central banks’ fx reserves. The resulting
+net interest loss could in some circumstances reduce monetary policy’s flexibility and, if persistent, run down central bank capital. Realized losses
+from fx depreciation are an additional cost.
+Central banks use a variety of instruments to sterilize liquidity:
+
+
+Reserve requirements—the proportion of liabilities banks must deposit at the central bank—may be remunerated or unremunerated, and can be
+a low­cost form of sterilization if no or low interest rates are paid.
+
+
+
+Central bank bills withdraw liquidity at the short­end of the yield curve. Such bills are usually issued at market rates.
+
+
+
+Standing deposit facilities lock up liquidity equal to demand at the specified interest rate. An alternative is an auctioned deposit facility, where
+the rate is market determined.
+
+
+
+The central bank may sell its holdings of government securities (at the opportunity cost of foregone interest income), but the central bank’s stock
+of securities is finite and may be exhausted quickly in an environment of sustained excess liquidity.
+
+
+
+The central bank can use its forward or swap book to temporarily affect liquidity conditions.
+
+In several countries, the fiscal authorities play an explicit role in sterilization, with or without incurring related costs:
+In India, where the RBI is not permitted to issue its own securities, it may do so for sterilization purposes on behalf of the government, up to a limit
+approved by parliament. The proceeds are then deposited at the RBI in an unremunerated “market stabilization scheme” account, and the
+government pays the interest cost on the securities. In Colombia, the Treasury issues “sterilization” bonds to the market. The collected funds are
+deposited at the CBR, which pays interest on them. Hence, this operation does not impact the government’s finances, but overcomes the CBR’s
+limited supply of sterilization instruments.
+1/
+
+Governments may also incur sterilization costs as a result of legal arrangements on central bank recapitalization or profit sharing. There is no
+consensus on the minimum level of capital a central bank should maintain, and it is feasible for a central bank to operate effectively with negative
+capital for an extended period (e.g., Chile). This may account for why automatic frameworks for central bank recapitalization are relatively rare (one
+exception is Indonesia, where the government is required to support a minimum level of central bank capital). However, many countries have
+symmetric profit­loss sharing arrangements, whereby central bank losses are compensated by transfers from the budget (e.g., Malaysia). In Brazil,
+the BCB receives treasury bills through recapitalization operations, which are conducted whenever the BCB’s operating income is negative. The BCB
+uses these treasury bills to conduct sterilization operations. However, even in the absence of formal arrangements, because the central bank is part
+of the consolidated public sector, its losses are therefore a fiscal obligation.
+In the Philippines, the main sterilization instrument is the BSP’s Special Deposit Account (SDA), a deposit facility open to banks and the private sector
+(subject to minimum deposit amounts), with maturities ranging from 7 days
+to 1 month. Interest rates have historically been close to the policy rate
+Philippines: Main Sterilization Instruments
+(with a small term premium), although the rate for all maturities was
+(In millions of peso)
+3,000,000
+recently cut to 50 bps below the policy rate. The SDA balance has grown
+Special deposit account
+rapidly, and stood at ₱1.6 trillion (16 percent of GDP) at end 2012. Other
+2,500,000
+BSP's forward position
+Reserve requirements
+sterilization instruments include unremunerated reserve requirements
+2,000,000
+(18 percent of peso deposits at banks) and fx swaps. The BSP has largely
+1,500,000
+exhausted its stock of government securities and is not permitted to issue
+central bank bills.
+1,000,000
+500,000
+
+1/ Nyawata (2012) documents central bank losses as a result of sterilization activities.
+
+INTERNATIONAL MONETARY FUND
+
+Jul-12
+
+Jul-11
+
+Jan-12
+
+Jan-11
+
+Jul-10
+
+Jul-09
+
+Jan-10
+
+Jan-09
+
+Jul-08
+
+Jul-07
+
+Jan-08
+
+Jan-07
+
+Sources: Philippines authorities; and CEIC Data Company Ltd.
+
+_____________________________
+
+22
+
+Jul-06
+
+0
+Jan-06
+
+As a result of the wide domestic­foreign interest differential, sterilization
+costs have risen. For 2012, the loss is projected at 0.9 percent of GDP,
+partially offset by a capital injection of 0.2 percent of GDP that is part of a
+multi­year 0.5 percent of GDP recapitalization, of which four­fifths has been
+done. Under current BSP Law, 75 percent of BSP profits are transferred to
+the budget, but there is no automatic fiscal compensation in case of losses.
+
+PHILIPPINES
+
+Box 6. Philippines: Public Investment and Public-Private Partnerships (PPPs)
+Public investment is low in the Philippines. The public expenditure review by the World Bank pointed
+out a significant gap in public investment, noting that it is lower in the Philippines by almost
+4 percent of GDP than in regional peers. This does not bode well for rapidly improving the
+Philippines’ poor current state of infrastructure. Low fiscal revenue has been the major constraint to
+raising public investment.
+
+Asian economies
+Advanced and emerging economies outside Asia
+
+Public Investment to GDP, 2011−12
+
+20
+
+CHN
+15
+
+MNG
+
+10
+NPL
+
+5
+
+KHM
+VNM
+IND
+
+BGD
+IDN
+PHL
+
+0
+1
+
+2
+
+MYS
+
+3
+
+THA
+NZL
+AUS
+LKA
+
+4
+
+TWN
+KOR
+
+5
+
+Infrastructure Score, 2010 (1−7, 7=best)
+Sources: IMF, World Economic Outlook; and World Economic Forum.
+
+JPN HKG
+SGP
+
+6
+
+7
+
+(Public investment, in percent of GDP, 2000−10 average)
+
+Link Between Government Revenue and Public Investment
+
+Public Investment and Infrastructure
+
+12
+Malaysia
+Vietnam
+
+10
+
+8
+
+India
+Thailand
+
+6
+Taiwan Province
+Indonesia
+of China
+
+4
+
+Korea
+
+Philippines
+
+2
+14
+
+17
+
+20
+
+23
+
+26
+
+(Government revenue, in percent of GDP, 2000−10 average)
+
+To address the infrastructure bottleneck, the authorities have raised the budget for public investment
+and embarked on PPPs. Supported by higher tax revenue, national government capital spending
+increased by about 0.3 percent of GDP in 2012 to
+2.7 percent of GDP. The current government
+Philippines: Public-Private Partnerships: Pipeline Projects 1/
+initiated a series of PPP projects, but these have
+Project cost
+Number of projects
+been implemented slowly, with contracts for only
+(In billions of pesos)
+2/
+two projects (road network and classroom
+Agriculture
+1.9
+2
+Education
+16.4
+1
+construction) awarded so far to the private sector.
+Health
+6.2
+2
+Road network
+80.4
+4
+While the PPP pipeline includes 22 projects across
+Transportation
+85.2
+10
+various sectors, the total cost of all projects is still
+Water
+1.2
+3
+Local government
+0.0
+2
+small (less than 2 percent of GDP). Nevertheless,
+Total
+191.2
+24
+since PPPs involve contingent liabilities, such as an
+(In percent of GDP)
+1.8
+…
+obligation to compensate for unexpected losses,
+Source: Philippines PPP center.
+1/ Includes two projects for which contracts have been awarded.
+associated fiscal risks should be carefully
+2/ Includes 10 projects without an estimate of project cost.
+monitored and reflected in the fiscal accounts. For
+this purpose, a PPP framework has been established to guide project evaluation and approval
+processes. In addition, government agencies are required to prepare contingent liability
+management plans.
+
+INTERNATIONAL MONETARY FUND
+
+23
+
+PHILIPPINES
+
+Box 7. Philippines: GDP Versus GNI: What Difference Does It Make?
+Gross domestic product is typically used to measure a country’s level of development and is the
+benchmark against which domestic and external sustainability are assessed. However, in some
+countries, GDP differs substantially—either positively or negatively—from gross national income (GNI),
+which is the sum of domestically­generated income (GDP) and net income received from abroad. GNI
+may therefore be a better measure of a country’s repayment capacity, and using that concept may
+provide a more evenhanded approach to cross­country comparisons. Also, for countries where
+indebtedness is high, the choice of scaling factor may affect whether or not sustainability thresholds are
+breached.
+In the Philippines, large­scale emigration has led to sizable foreign­sourced income. As a result, GNI is
+considerably larger than GDP. Official GNI data is 30 percent larger than GDP. However, this includes
+total compensation of all Philippine nationals working abroad—even those with longstanding links to
+other countries and who primarily spend their incomes abroad. A more appropriate measure of GNI is
+to supplement GDP only with income and transfers that are remitted back to the Philippines and are
+therefore available domestically. On this definition, and staff’s assumption that unreported remittances
+are half of officially­recorded remittances, GNI is about 15 percent larger than GDP.
+
+Using GNI instead of GDP provides a somewhat
+more favorable picture of the Philippines’
+standard of living, debt sustainability, and external
+sector position. While the differences are
+generally not large, with GNI, some indicators
+may fall below specific thresholds—for example,
+the public debt ratio is reduced below 50 percent.
+
+24
+
+INTERNATIONAL MONETARY FUND
+
+GDP and Remittances
+250
+
+25
+GDP
+
+Remittances (right scale)
+
+2012 Indicators
+Income per capita (US$)
+External debt ratio
+Public debt ratio
+Current account balance
+Consumption share
+Private sector bank credit
+
+2012
+
+2011
+
+2010
+
+0
+2009
+
+0
+2008
+
+5
+
+2007
+
+50
+
+2006
+
+10
+
+2005
+
+100
+
+2004
+
+15
+
+2003
+
+150
+
+2001
+
+20
+
+2002
+
+200
+
+2000
+
+In billions of U.S. dollars
+
+Assessing repayment capacity should rely on
+permanent income, thereby giving less importance
+to temporary sources of income. For the Philippines,
+whether or not to include remittances as part of
+permanent income depends on their time­series
+properties relative to GDP and their likely
+persistence. Remittances have grown steadily over
+the past decade. Also, push and pull factors that
+underpin emigration and repatriation of remittances
+can be expected to continue over the medium to
+longer term.
+
+GDP
+
+GNI
+
+2,613
+32%
+54%
+3%
+80%
+31%
+
+3,441
+28%
+47%
+2.6%
+69.6%
+27%
+
+PHILIPPINES
+
+Box 8. Philippines: Improved Public Debt Profile
+
+(In percent of GDP)
+10
+
+NFPS primary deficit
+Change in NFPS debt
+
+5
+
+120
+
+Other
+NFPS debt (right scale)
+
+100
+80
+
+0
+
+60
+-5
+
+40
+
+-10
+
+20
+0
+
+2016
+
+2015
+
+2014
+
+2013
+
+2012
+
+2011
+
+2010
+
+2009
+
+2008
+
+2007
+
+2006
+
+2005
+
+2004
+
+2003
+
+-15
+Sources: Philippine authorities; and IMF staff estimates.
+
+Philippines: National Government Gross Financing Requirements
+(In percent of GDP)
+
+25
+
+NG deficit
+Short term debt
+Amortization of medium and long term debt
+Gross financing requirements
+
+20
+15
+10
+5
+
+2012
+
+2011
+
+2010
+
+2009
+
+2008
+
+2007
+
+2006
+
+2005
+
+0
+2004
+
+Nimble debt management by the government improved
+the public debt profile and reduced gross funding
+requirements. The government has successfully financed
+its operations mainly from medium­ and long­term
+domestic debt. Moreover, it has conducted debt swaps
+to lengthen maturities and issued global peso bonds
+since 2010. As a result, the share of short­term debt in
+national government debt decreased from 15 percent
+in 2003 to 6 percent in 2011, and the share of
+fx­denominated debt declined from 51 percent in 2003
+to 40 percent in 2011.1/ The gross funding requirements
+of the national government shrank from 22 percent of
+GDP in 2003 to 9 percent of GDP in 2012.
+
+Philippines: Contributions to Changes in Nonfinancial Public
+Sector (NFPS) Debt
+
+2003
+
+The Philippines has succeeded in almost halving the
+public sector debt ratio over the past decade.
+Nonfinancial public sector debt (general government
+debt plus debt owed by nonfinancial public corporations)
+decreased from 96 percent of GDP in 2003 to 56 percent
+of GDP in 2011. The bulk of the debt reduction took
+place in years preceding the Global Recession, thanks to
+primary surpluses, high output growth, and exchange
+rate appreciation. Over the medium term, the
+government’s deficit target of 2 percent of GDP will
+translate into primary surpluses of ½−1 percent of GDP
+for the national government and anchor further
+reduction of public debt to 44 percent of GDP by 2016.
+
+Sources: Philippine authorities; and IMF staff estimates.
+1/ Short-term debt comprises T-bills outstanding.
+
+Emerging Market: Countries General Government Debt, 2011
+(In percent of general government revenue)
+400
+
+Average
+
+350
+300
+250
+200
+150
+100
+50
+
+India
+
+Jordan
+Egypt
+
+Malaysia
+Philippines
+
+Morocco
+Mexico
+
+Brazil
+Kenya
+
+Hungary
+Thailand
+
+South Africa
+Poland
+
+Colombia
+Indonesia
+
+Lithuania
+Argentina
+
+Turkey
+China
+
+Romania
+Latvia
+
+Ukraine
+Peru
+
+Bulgaria
+Nigeria
+
+Kazakhstan
+Chile
+
+0
+Saudi Arabia
+Russia
+
+On the other hand, a cross­country comparison indicates
+vulnerabilities still exist. While public debt and gross
+funding requirements as percent of GDP are close to the
+average of emerging market countries (and lower if
+measured against GNI), they are higher than for peers if
+measured against government revenue. Moreover,
+dependence on external debt is still high compared to
+ASEAN countries (except Indonesia), China, and India.
+________________________________
+
+Sources: Philippine authorities; IMF, World Economic Outlook; and IMF staff estimates.
+
+1/ The share of fx debt in NFPS debt declined from 68 percent in 2003 to 48 percent in 2011. The fx share is somewhat
+higher at the NFPS level than at the national government level owing to foreign borrowing by state­owned companies and
+netting out of domestic currency debt held by the “bond sinking fund” (part of NFPS, but not national government).
+
+INTERNATIONAL MONETARY FUND
+
+25
+
+PHILIPPINES
+
+Figure 1. Philippines: Macroeconomic Developments
+
+26
+
+INTERNATIONAL MONETARY FUND
+
+PHILIPPINES
+
+Figure 2. Philippines: Banking Sector
+Universal and Commercial Banks: Loans by Sector, 2012
+
+Funding of Increase in Bank Loans to the Private Sector
+
+(In percent)
+
+(Philippines pesos, annual change)
+
+50
+
+800
+
+40
+
+600
+
+30
+
+400
+
+20
+
+200
+
+10
+
+0
+
+0
+-10
+
+Share
+
+-200
+
+-20
+
+Year-on-year growth
+
+-400
+
+Sources: CEIC Data Company Ltd; and IMF staff calculations.
+
+Real estate
+
+Manufacturing
+
+Wholesale and
+retail trade
+
+Others
+
+Financial
+
+Electricity, gas,
+and water
+
+Transport
+
+Agriculture
+
+-30
+
+-600
+
+Other
+
+Financial assets
+
+Cash and due from banks 2/
+
+Capital
+
+Deposits
+
+Private sector loans
+
+-800
+2010
+
+2011
+
+2012Q2 1/
+
+Sources: Central bank of Philippines; and IMF staff estimates and calculations.
+1/ Change from 2011:Q4 to 2012:Q2.
+2/ Includes SDA holdings at BSP.
+
+INTERNATIONAL MONETARY FUND
+
+27
+
+PHILIPPINES
+
+Figure 3. Philippines: Financial Markets
+
+Foreign Exchange Market
+60
+
+Daily trading volume (US$ millions, right scale)
+
+50
+
+1,800
+
+Exchange rate volatility (left scale 1/)
+
+1,600
+1,400
+
+40
+
+1,200
+
+30
+
+1,000
+800
+
+20
+
+600
+400
+
+10
+
+200
+
+0
+Jan-08
+
+0
+Jan-09
+
+Jan-10
+
+Jan-11
+
+Jan-12
+
+Source: Bloomberg L.P.
+1/ Annualized standard deviation of 1-month price change (in percent).
+
+28
+
+2,000
+
+Spot (pesos/US$, left scale)
+
+INTERNATIONAL MONETARY FUND
+
+Jan-13
+
+PHILIPPINES
+
+Figure 4. Philippines: Real Sector
+
+INTERNATIONAL MONETARY FUND
+
+29
+
+PHILIPPINES
+
+Figure 5. Philippines: Cross-Country Comparisons
+
+Change in Real GDP and Current Account, 2012
+8
+
+Change in Real GDP growth
+
+6
+
+Change in current account in percent of GDP
+
+4
+2
+0
+-2
+-4
+-6
+India
+
+China
+
+Thailand
+
+Philippines
+
+Malaysia
+
+Indonesia
+
+Taiwan POC
+
+Singapore
+
+Hong Kong
+SAR
+
+Korea
+
+-8
+
+Sources: CEIC Data Company Ltd.; and Bloomberg LP.
+
+Three-Month Treasury Bill
+
+Change in Government Bond Yields
+(In percent)
+
+(In percent)
+
+1.0
+
+10
+
+Change in 1-year government bond (Dec 2012-Dec 2011)
+
+3-month t-bill rate (Dec 2012)
+
+8
+
+0.5
+
+Change in 3-month T-bill (Dec 2012-Dec 2011)
+
+6
+
+Change in 10-year government bond (Dec 2012-Dec 2011)
+
+0.0
+
+4
+
+-0.5
+
+2
+
+-1.0
+
+0
+
+Government Yields, 2012
+(In percent)
+9
+10-year bond
+
+1-year bond
+
+7
+6
+5
+4
+3
+2
+1
+
+30
+
+INTERNATIONAL MONETARY FUND
+
+India
+
+China
+
+Thailand
+
+Philippines
+
+Malaysia
+
+Indonesia
+
+Taiwan POC
+
+Singapore
+
+Korea
+
+Hong Kong
+SAR
+
+0
+
+Sources: CEIC Data Company Ltd.; and Bloomberg LP.
+
+India
+
+China
+
+Thailand
+
+Philippines
+
+Malaysia
+
+Indonesia
+
+Taiwan POC
+
+Singapore
+
+Korea
+
+India
+
+China
+
+Thailand
+
+Philippines
+
+Malaysia
+
+Indonesia
+
+Taiwan POC
+
+Singapore
+
+Korea
+
+Hong Kong
+SAR
+
+Sources: CEIC Data Company Ltd.; and Bloomberg LP.
+
+Sources: CEIC Data Company Ltd.; and Bloomberg LP.
+
+8
+
+Hong Kong
+SAR
+
+-1.5
+
+-2
+
+PHILIPPINES
+
+Table 1. Philippines: Selected Economic Indicators, 2009–14
+Nominal GDP (2012): P 10,568 billion ($250 billion)
+Population (2011): 94.2 million
+GDP per capita (2011): $2,386
+Poverty headcount ratio at $2 a day at PPP (2009): 42 percent
+IMF quota: SDR 1,019.3 million
+Main products and exports: Electronics and agricultural products
+Unemployment rate (October 2012): 6.8 percent
+2009
+GDP and prices (percent change)
+Real GDP
+CPI (annual average)
+CPI (end year)
+
+2010
+
+2011
+
+2012
+
+2013
+Staff proj.
+
+2014
+
+1.1
+4.2
+4.4
+
+7.6
+3.8
+3.6
+
+3.9
+4.7
+4.2
+
+6.6
+3.1
+2.9
+
+6.0
+3.1
+3.7
+
+5.5
+3.2
+3.0
+
+Investment and saving (percent of GDP)
+Gross investment
+National saving
+
+16.6
+22.1
+
+20.5
+25.0
+
+21.7
+24.8
+
+19.4
+22.4
+
+20.1
+22.5
+
+20.6
+22.6
+
+Public finances (percent of GDP)
+National government balance (authorities' definition)
+National government balance 1/
+Nonfinancial public sector balance 2/
+Revenue and grants
+Expenditure
+Nonfinancial public sector debt
+
+-3.7
+-3.8
+-3.1
+20.0
+23.1
+58.1
+
+-3.5
+-3.6
+-3.4
+18.4
+21.8
+54.8
+
+-2.0
+-2.1
+-1.0
+18.3
+19.3
+55.7
+
+-2.2
+-2.3
+-1.1
+18.5
+19.6
+54.5
+
+-2.0
+-2.0
+-1.0
+19.1
+20.1
+51.3
+
+-2.0
+-2.0
+-1.0
+19.4
+20.4
+48.7
+
+Monetary sector (percent change, end of period)
+Broad money (M3)
+Interest rate (91-day treasury bill, end of period, in percent) 3/
+Credit to the private sector (in percent)
+
+8.3
+4.3
+10.0
+
+10.6
+1.3
+8.9
+
+6.3
+1.7
+19.3
+
+10.6
+0.5
+16.2
+
+…
+…
+…
+
+…
+…
+…
+
+External sector
+Export value (percent change)
+Import value (percent change)
+Current account (percent of GDP)
+Capital and Financial account (US$ billions)
+Direct investment (net)
+Errors and omissions (US$ billions)
+Overall balance (US$ billions)
+Total external debt (percent of GDP) 4/
+Debt service ratio 5/
+Reserves(US$ billions)
+Reserves/short-term liabilities 6/
+
+-22.1
+-24.0
+5.6
+-1.6
+1.6
+-1.3
+6.4
+38.8
+14.3
+44.2
+391.0
+
+34.9
+32.9
+4.5
+7.4
+0.7
+-2.0
+14.3
+37.4
+11.3
+62.4
+403.2
+
+-6.4
+2.1
+3.1
+5.2
+1.3
+-2.0
+10.2
+34.1
+11.9
+75.3
+476.6
+
+8.1
+6.0
+3.0
+1.3
+0.6
+-2.4
+6.4
+31.8
+10.5
+83.8
+457.0
+
+4.6
+7.8
+2.4
+1.2
+0.9
+0.0
+7.9
+28.4
+11.3
+91.8
+469.7
+
+5.9
+7.5
+2.1
+1.9
+0.9
+0.0
+8.6
+26.5
+11.1
+100.4
+492.3
+
+Exchange rate (period averages)
+Pesos per U.S. dollar
+Nominal effective exchange rate (2005 =100)
+Real effective exchange rate (2005 =100)
+
+47.6
+106.7
+120.4
+
+45.1
+109.4
+125.9
+
+43.3
+108.3
+126.7
+
+42.2
+112.2
+132.7
+
+n.a.
+n.a.
+n.a.
+
+n.a.
+n.a.
+n.a.
+
+Sources: Philippine authorities; World Bank, and IMF staff projections.
+1/ Fund definition. Excludes privatization receipts and includes deficit from restructuring of the previous central bank (Central
+Bank-Board of Liquidators).
+2/ Includes the national government, 14 government-owned enterprises, social security institutions, and local governments.
+3/ Secondary market rate.
+4/ Includes external debt not registered with the central bank, and private capital lease agreements.
+5/ In percent of exports of goods and nonfactor services.
+6/ Reserves as a percent of short-term debt (including medium- and long-term debt due in the following year).
+
+INTERNATIONAL MONETARY FUND
+
+31
+
+PHILIPPINES
+
+Table 2. Philippines: National Government Cash Accounts, 2008−14
+(In billions of pesos, unless otherwise noted)
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+2013
+Budget Proj. Budget Proj.
+
+2014
+Proj.
+
+Revenue and grants
+Tax revenue
+Net income and profits
+Excises
+VAT
+Tariffs
+Other 1/ 2/
+Nontax revenue
+
+1,173 1,128 1,208 1,359
+1,049
+988 1,094 1,202
+482
+452
+489
+572
+77
+68
+88
+88
+297
+302
+330
+383
+88
+68
+81
+43
+105
+97
+106
+116
+124
+140
+114
+157
+
+1,559 1,511
+1,427 1,351
+...
+638
+...
+95
+...
+438
+...
+52
+...
+128
+132
+159
+
+1,779 1,673
+1,651 1,525
+...
+697
+...
+136
+...
+479
+...
+53
+...
+161
+127
+148
+
+1,854
+1,691
+758
+156
+521
+55
+200
+162
+
+Expenditure and net lending
+Current expenditures
+Personnel services
+Maintenance and operations
+Allotments to local government units
+Subsidies
+Tax expenditure
+Interest
+Capital and equity expenditure
+Net lending
+
+1,282 1,429 1,529 1,561
+1,043 1,149 1,240 1,293
+375
+414
+469
+500
+139
+178
+189
+202
+171
+203
+219
+229
+17
+17
+17
+46
+59
+51
+46
+34
+283
+286
+301
+282
+225
+275
+280
+250
+14
+5
+9
+18
+
+1,843 1,751
+1,446 1,414
+586
+553
+255
+262
+219
+219
+32
+31
+34
+33
+321
+317
+374
+305
+23
+31
+
+2,025 1,908
+1,589 1,542
+641
+618
+299
+276
+242
+242
+42
+42
+27
+27
+337
+337
+410
+339
+27
+27
+
+2,109
+1,692
+691
+300
+272
+46
+29
+354
+388
+29
+
+Balance
+On the authorities' presentation 3/
+
+-109
+-68
+
+-301
+-294
+
+-321
+-314
+
+-201
+-198
+
+-284
+-279
+
+-240
+-229
+
+-246
+-241
+
+-235
+-230
+
+-255
+-251
+
+Sources: Philippine authorities; and IMF staff projections.
+1/ Projections include possible gains from tax administrative measures for 2013 and 2014.
+2/ Includes other percentage taxes, documentary stamp tax, and noncash collections. Noncash collections are also
+reflected as tax expenditures under current expenditures.
+3/ Includes privatization receipts as revenue and excludes the operations of the Central Bank-Board of Liquidators
+(CB-BOL).
+
+32
+
+INTERNATIONAL MONETARY FUND
+
+PHILIPPINES
+
+Table 3. Philippines: National Government Cash Accounts, 2008–14
+(In percent of GDP, unless otherwise noted)
+2008
+
+2009
+
+2010
+
+Revenue and grants
+Tax revenue
+Net income and profits
+Excises
+VAT
+Tariffs
+Other 1/ 2/
+Nontax revenue
+
+15.2
+13.6
+6.2
+1.0
+3.8
+1.1
+1.4
+1.6
+
+14.1
+12.3
+5.6
+0.9
+3.8
+0.9
+1.2
+1.7
+
+13.4
+12.1
+5.4
+1.0
+3.7
+0.9
+1.2
+1.3
+
+14.0
+12.3
+5.9
+0.9
+3.9
+0.4
+1.2
+1.6
+
+14.5
+13.3
+...
+...
+...
+...
+...
+1.2
+
+14.3
+12.8
+6.0
+0.9
+4.1
+0.5
+1.2
+1.5
+
+14.9
+13.8
+...
+...
+...
+...
+...
+1.1
+
+14.5
+13.2
+6.0
+1.2
+4.1
+0.5
+1.4
+1.3
+
+14.7
+13.4
+6.0
+1.2
+4.1
+0.4
+1.6
+1.3
+
+Expenditure and net lending
+Current expenditures
+Personnel services
+Maintenance and operations
+Allotments to local government units
+Subsidies
+Tax expenditure
+Interest
+Capital and equity expenditure
+Net lending
+
+16.6
+13.5
+4.9
+1.8
+2.2
+0.2
+0.8
+3.7
+2.9
+0.2
+
+17.8
+14.3
+5.2
+2.2
+2.5
+0.2
+0.6
+3.6
+3.4
+0.1
+
+17.0
+13.8
+5.2
+2.1
+2.4
+0.2
+0.5
+3.3
+3.1
+0.1
+
+16.0
+13.3
+5.1
+2.1
+2.4
+0.5
+0.3
+2.9
+2.6
+0.2
+
+17.2
+13.5
+5.5
+2.4
+2.0
+0.3
+0.3
+3.0
+3.5
+0.2
+
+16.6
+13.4
+5.2
+2.5
+2.1
+0.3
+0.3
+3.0
+2.9
+0.3
+
+16.9
+13.3
+5.4
+2.5
+2.0
+0.4
+0.2
+2.8
+3.4
+0.2
+
+16.5
+13.4
+5.4
+2.4
+2.1
+0.4
+0.2
+2.9
+2.9
+0.2
+
+16.8
+13.5
+5.5
+2.4
+2.2
+0.4
+0.2
+2.8
+3.1
+0.2
+
+Balance
+On the authorities' presentation 3/
+
+-1.4
+-0.9
+
+-3.8
+-3.7
+
+-3.6
+-3.5
+
+-2.1
+-2.0
+
+-2.6
+-2.6
+
+-2.3
+-2.2
+
+-2.1
+-2.0
+
+-2.0
+-2.0
+
+-2.0
+-2.0
+
+2.2
+46.7
+307.4
+14.1
+
+-0.2
+47.1
+334.8
+17.6
+
+-0.2
+46.2
+344.3
+14.9
+
+0.8
+45.4
+325.2
+12.0
+
+0.3
+…
+…
+…
+
+0.7
+45.1
+315.5
+8.8
+
+0.8
+…
+…
+…
+
+0.9
+42.9
+296.1
+8.2
+
+0.8
+41.1
+279.1
+8.6
+
+-0.3
+58.2
+264.7
+0.0
+
+-3.1
+58.1
+291.0
+-3.0
+
+-3.4
+54.8
+297.6
+-4.0
+
+-1.0
+55.7
+304.6
+-1.2
+
+…
+…
+…
+…
+
+-1.1
+54.5
+294.3
+-1.9
+
+…
+…
+…
+…
+
+-1.0
+51.3
+268.6
+-1.6
+
+-1.0
+48.7
+250.8
+-1.5
+
+Memorandum items:
+National government
+Primary balance
+Debt 4/
+(In percent of national government revenues)
+Gross financing requirement 5/
+Nonfinancial public sector (NFPS) 6/
+Balance
+Debt
+(In percent of NFPS revenues)
+Consolidated public sector balance 7/
+
+2011
+
+2012
+Budget Proj.
+
+2013
+Budget Proj.
+
+2014
+Proj.
+
+Sources: Philippine authorities; and IMF staff projections.
+1/ Projections include possible gains from tax administrative measures for 2013 and 2014.
+2/ Includes other percentage taxes, documentary stamp tax, and noncash collections. Noncash collections are also
+reflected as tax expenditures under current expenditures.
+3/ Includes privatization receipts as revenue and excludes the operations of the Central Bank-Board of Liquidators (CB-BOL).
+4/ Consolidated (net of national government debt held by the sinking fund) and excluding contingent/guaranteed debt.
+5/ Defined as the deficit, plus amortization of medium- and long-term debt, plus the stock of short-term debt at the end of the
+6/ Includes the national government, 14 government-owned enterprises, social security institutions, and local governments. Debt
+is consolidated (net of intra-nonfinancial public sector holdings of debt). Balance is cash basis.
+7/ Includes nonfinancial public sector, government financial institutions, and BSP. Balance is cash basis.
+
+INTERNATIONAL MONETARY FUND
+
+33
+
+PHILIPPINES
+
+Table 4. Philippines: General Government Operations, 2008−13 1/
+(In percent of GDP)
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+Proj.
+
+2013
+Proj.
+
+Revenue
+Taxes
+Taxes on income, profits, and capital gains
+Taxes on goods and services
+Taxes on international trade and transactions
+Taxes not elsewhere classified
+Social contributions
+Grants
+Other revenue
+
+18.7
+14.4
+6.2
+5.8
+1.1
+1.2
+1.8
+0.0
+2.4
+
+17.5
+13.1
+5.6
+5.5
+0.9
+1.1
+1.9
+0.0
+2.4
+
+16.7
+12.9
+5.4
+5.5
+0.9
+1.0
+1.9
+0.0
+2.0
+
+17.3
+13.0
+5.9
+5.7
+0.4
+1.1
+1.9
+0.0
+2.4
+
+17.7
+13.5
+6.0
+5.9
+0.5
+1.1
+2.0
+0.0
+2.3
+
+18.0
+13.9
+6.0
+6.2
+0.5
+1.2
+2.1
+0.0
+2.0
+
+Total expenditure
+Expense
+Compensation of employees 2/
+Purchases/use of goods and services 2/
+Interest 2/
+Social benefits
+Expense not elsewhere classified
+Net acquisition of nonfinancial assets
+
+18.6
+15.8
+4.9
+1.8
+3.4
+1.5
+4.2
+2.9
+
+20.1
+16.7
+5.2
+2.2
+3.3
+1.7
+4.3
+3.4
+
+19.2
+16.1
+5.2
+2.1
+3.0
+1.7
+4.1
+3.1
+
+17.9
+15.5
+5.1
+2.1
+2.6
+1.8
+3.9
+2.4
+
+18.5
+15.8
+5.2
+2.5
+2.7
+1.9
+3.6
+2.7
+
+18.8
+15.9
+5.4
+2.4
+2.6
+1.9
+3.6
+2.9
+
+Net lending/borrowing
+National government
+Local government units
+Social security institutions (SSIs)
+
+0.0
+-1.2
+0.5
+0.8
+
+-2.6
+-3.7
+0.5
+0.5
+
+-2.5
+-3.4
+0.4
+0.5
+
+-0.6
+-1.7
+0.5
+0.7
+
+-0.8
+-1.8
+0.2
+0.8
+
+-0.8
+-1.8
+0.3
+0.7
+
+Net acquisition of financial assets
+Net incurrence of liabilities
+
+1.8
+1.8
+
+0.3
+2.9
+
+1.5
+4.0
+
+0.6
+1.2
+
+4.3
+5.0
+
+1.9
+2.7
+
+3.8
+44.2
+
+2.9
+44.3
+
+3.0
+43.5
+
+...
+41.9
+
+...
+41.9
+
+...
+39.7
+
+Memorandum items:
+National government cash holdings
+Consolidated general government debt
+Sources: Philippine authorities; and IMF staff projections.
+
+1/ Based on GFSM2001. General government includes the national government, social security institutions,
+and local governments.
+2/ National government only. The expense item related to SSIs and local governments are not separately
+available and are included in the amount for expense not elsewhere classified.
+
+34
+
+INTERNATIONAL MONETARY FUND
+
+PHILIPPINES
+
+Table 5. Philippines: Depository Corporation Survey, 2008−12
+(In billions of pesos, unless otherwise indicated)
+2008
+Dec.
+
+2009
+Dec.
+
+2010
+Dec.
+
+2,027,856
+
+2,425,533
+
+2,865,080
+
+3,242,542
+
+3,225,363
+
+Net domestic assets
+Net claims on nonfinancial public sector
+Claims on private sector
+Net claims on other financial corporations
+Capital accounts
+Other items (net)
+
+2,560,622
+1,108,389
+2,244,079
+66,114
+1,012,094
+154,134
+
+2,559,344
+1,189,037
+2,340,648
+-114,655
+1,044,020
+188,334
+
+2,662,986
+1,367,313
+2,663,097
+-410,931
+1,080,747
+124,255
+
+2,578,910
+1,520,557
+3,093,882
+-894,944
+1,258,757
+118,172
+
+2,529,012
+1,235,361
+3,335,020
+-960,520
+1,108,146
+27,296
+
+Broad money
+National currency
+Foreign currency
+
+4,588,478
+3,656,740
+931,738
+
+4,984,876
+3,954,489
+1,030,388
+
+5,528,067
+4,462,060
+1,066,007
+
+5,821,452
+4,801,828
+1,019,625
+
+5,754,375
+4,721,631
+1,032,744
+
+1,680,066
+
+1,969,717
+
+2,657,283
+
+3,233,794
+
+3,307,945
+
+-704,227
+1
+-529,536
+388,093
+8,593
+
+-890,032
+1
+-689,101
+323,242
+-16,863
+
+-1,503,183
+1
+-1,417,264
+233,202
+-14,953
+
+-1,908,656
+1
+-1,846,634
+287,252
+-12,445
+
+-2,009,252
+1
+-1,814,574
+30,823
+-14,211
+
+961,466
+545,095
+414,384
+
+1,047,928
+582,533
+464,965
+
+1,120,546
+601,275
+518,755
+
+1,323,000
+648,911
+673,511
+
+1,298,553
+592,449
+705,791
+
+14,373
+
+31,758
+
+33,554
+
+2,137
+
+140
+
+347,790
+
+455,815
+
+207,797
+
+8,748
+
+Net domestic assets
+Net claims on nonfinancial public sector
+Claims on private sector
+Net claims on financial corporations
+Capital accounts
+Other items (net)
+
+3,791,351
+903,582
+2,244,078
+1,014,447
+624,001
+253,245
+
+4,035,382
+1,049,864
+2,340,647
+1,146,154
+720,778
+219,495
+
+4,807,774
+1,205,078
+2,663,096
+1,642,090
+847,546
+145,056
+
+5,295,056
+1,282,883
+3,093,881
+1,751,828
+971,505
+137,969
+
+5,351,591
+1,385,006
+3,335,019
+1,659,434
+1,077,322
+49,454
+
+Liquid liabilities
+
+4,139,141
+
+4,491,197
+
+5,015,571
+
+5,303,804
+
+5,269,008
+
+Total
+Net foreign assets
+
+2011
+Dec.
+
+2012
+Oct.
+
+Bangko Sentral ng Pilipinas
+Net foreign assets
+Net domestic assets
+Claims on private sector
+Net claims on financial corporations
+Capital accounts
+Other items (net)
+Base money
+Currency in circulation
+Other depository corporations liabilities
+Other liquid liabilities
+Other Depository Corporations
+Net foreign assets
+
+-82,582
+
+Source: IMF, International Financial Statistics .
+
+INTERNATIONAL MONETARY FUND
+
+35
+
+PHILIPPINES
+
+Table 6. Philippines: Balance of Payments, 2009−14
+(In billions of U.S. dollars)
+2009
+Current account balance
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+9.4
+
+8.9
+
+7.0
+
+7.4
+
+6.8
+
+6.7
+
+-6.7
+-8.8
+37.6
+46.5
+2.1
+11.0
+8.9
+-0.2
+5.7
+4.6
+5.9
+2.6
+16.3
+16.9
+15.1
+0.6
+
+-8.2
+-11.0
+50.7
+61.7
+2.7
+14.1
+11.4
+0.5
+6.1
+5.1
+5.6
+2.5
+16.6
+17.5
+16.2
+0.8
+
+-11.9
+-15.5
+47.5
+63.0
+3.6
+15.4
+11.9
+1.3
+7.0
+5.8
+5.7
+2.6
+17.6
+18.5
+17.1
+0.9
+
+-11.2
+-15.5
+51.3
+66.8
+4.3
+17.8
+13.5
+0.2
+7.3
+6.3
+7.1
+3.3
+18.4
+19.4
+18.0
+1.0
+
+-12.7
+-18.3
+53.7
+72.0
+5.6
+20.4
+14.8
+0.3
+7.7
+6.6
+7.4
+3.5
+19.2
+20.3
+18.9
+1.1
+
+-13.9
+-20.5
+56.9
+77.4
+6.6
+22.8
+16.2
+0.7
+8.1
+6.9
+7.5
+3.2
+19.9
+21.2
+19.8
+1.3
+
+Capital and financial account
+Capital account
+Financial account
+Direct investment
+Portfolio investment
+Equity
+Debt
+Financial derivatives
+Other investment, of which :
+Currency and deposits
+Loans
+
+-1.6
+0.1
+-1.7
+1.6
+-0.6
+-1.1
+0.5
+0.0
+-2.7
+4.0
+-2.4
+
+7.4
+0.1
+7.3
+0.7
+4.4
+0.5
+3.9
+-0.2
+2.4
+-0.3
+4.9
+
+5.2
+0.2
+5.1
+1.3
+5.5
+1.0
+4.5
+1.0
+-2.7
+-1.2
+1.2
+
+1.3
+0.1
+1.2
+0.6
+3.5
+1.7
+1.8
+0.0
+-2.9
+-1.8
+-2.4
+
+1.2
+0.1
+1.0
+0.9
+2.8
+1.1
+1.7
+0.0
+-2.7
+-1.2
+-2.9
+
+1.9
+0.1
+1.8
+0.9
+3.4
+1.1
+2.3
+0.0
+-2.6
+-1.2
+-1.8
+
+Errors and omissions
+
+-1.3
+
+-2.0
+
+-2.0
+
+-2.4
+
+0.0
+
+0.0
+
+6.4
+8.2
+
+14.3
+
+10.2
+
+6.4
+
+7.9
+
+8.6
+
+5.6
+6.5
+11.3
+44.2
+391.0
+65.3
+38.8
+14.3
+-22.1
+-24.0
+5.0
+5.9
+
+4.5
+10.6
+15.5
+62.4
+403.2
+74.6
+37.4
+11.3
+34.9
+32.9
+2.4
+8.3
+
+3.1
+12.3
+15.8
+75.3
+476.6
+76.6
+34.1
+11.9
+-6.4
+2.1
+8.5
+7.5
+
+3.0
+13.0
+18.3
+83.8
+457.0
+79.6
+31.8
+10.5
+8.1
+6.0
+9.4
+5.5
+
+2.4
+13.3
+19.5
+91.8
+469.7
+80.7
+28.4
+11.3
+4.6
+7.8
+11.6
+5.1
+
+2.1
+14.0
+20.4
+100.4
+492.3
+83.4
+26.5
+11.1
+5.9
+7.5
+12.8
+4.8
+
+Trade balance of goods and services
+Goods
+Exports, f.o.b.
+Imports, f.o.b.
+Services
+Receipts
+Payments
+Income
+Receipts, of which :
+Resident workers abroad
+Payments
+Interest payments
+Transfers (net)
+Receipts, of which :
+Nonresident workers remittances
+Payments
+
+Overall balance
+Memorandum items:
+Current account/GDP
+Short-term debt (original maturity)
+Short-term debt (residual maturity)
+Gross reserves
+(in percent of st. debt by res. maturity) 1/
+Monitored external debt (in billions) 2/
+(in percent of GDP)
+Debt service ratio 3/
+Export value (percent change)
+Import value (percent change)
+Gross external financing needs 4/
+Remittances value (percent change)
+
+Sources: Philippine authorities; and Fund staff projections.
+1/ As a percent of short-term debt.
+2/ Includes some external debt not registered with the central bank and private capital lease agreements.
+3/ In percent of goods and nonfactor services exports.
+4/ Current account deficit, plus amortization on medium- and long-term debt, plus short-term debt at the end of the previous period.
+
+36
+
+INTERNATIONAL MONETARY FUND
+
+PHILIPPINES
+
+Table 7. Philippines: Baseline Medium-Term Outlook, 2009–17
+(In percent of GDP, unless otherwise indicated)
+Staff Proj.
+2014 2015
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+1.1
+4.2
+
+7.6
+3.8
+
+3.9
+4.7
+
+6.6
+3.1
+
+6.0
+3.1
+
+5.5
+3.2
+
+GDP by expenditure
+Consumption (percent change)
+Private
+Public
+Gross fixed investment (percent change)
+Net exports (contribution to growth)
+
+3.3
+2.3
+10.9
+-1.7
+0.1
+
+3.4
+3.4
+4.0
+19.1
+-0.6
+
+5.6
+6.3
+1.0
+0.2
+-2.2
+
+6.8
+6.1
+11.8
+8.7
+2.0
+
+6.7
+6.7
+6.3
+8.1
+-1.7
+
+Investment and saving
+Gross investment
+Private
+Public
+National saving
+Private
+Public
+
+16.6
+13.2
+3.4
+22.1
+21.7
+0.4
+
+20.5
+17.3
+3.3
+25.0
+25.7
+-0.7
+
+21.7
+19.8
+2.0
+24.8
+24.1
+0.7
+
+19.4
+16.8
+2.6
+22.4
+21.7
+0.7
+
+Public finances
+Nonfinancial public sector balance 1/
+Primary balance
+Revenue and grants
+Expenditure (primary)
+Interest
+Nonfinancial public sector gross financing need
+Domestic
+Foreign currency
+National government balance
+Nonfinancial public sector debt
+
+-3.1
+0.8
+20.0
+19.1
+3.9
+17.9
+13.8
+4.1
+-3.8
+58.1
+
+-3.4
+0.3
+18.4
+18.2
+3.7
+15.3
+12.5
+2.9
+-3.6
+54.8
+
+-1.0
+2.2
+18.3
+16.1
+3.2
+11.6
+9.6
+2.0
+-2.1
+55.7
+
+-22.1
+-24.0
+-4.0
+5.6
+44.2
+391.0
+38.8
+14.3
+
+34.9
+32.9
+-4.1
+4.5
+62.4
+403.2
+37.4
+11.3
+
+-6.4
+2.1
+-5.3
+3.1
+75.3
+476.6
+34.1
+11.9
+
+GDP and prices
+Real GDP (percent change)
+CPI (percent change, annual average)
+
+External sector
+Export value (percent change)
+Import value (percent change)
+Trade balance of goods and services
+Current account
+Reserves (US$ billions)
+Reserves/short-term liabilities 2/
+Total external debt
+Debt service ratio (in percent of exports of goods and services)
+
+2016
+
+2017
+
+5.3
+3.3
+
+5.4
+3.2
+
+5.5
+3.3
+
+6.4
+6.1
+8.2
+8.2
+-1.3
+
+5.9
+5.9
+5.5
+7.9
+-1.2
+
+6.4
+6.6
+5.5
+5.9
+-1.2
+
+6.5
+6.7
+5.3
+6.0
+-1.0
+
+20.1
+17.2
+2.9
+22.5
+21.2
+1.3
+
+20.6
+17.4
+3.1
+22.6
+21.0
+1.7
+
+21.1
+17.9
+3.2
+23.0
+21.3
+1.7
+
+21.2
+17.8
+3.3
+22.9
+21.0
+1.8
+
+21.3
+17.9
+3.3
+22.6
+20.8
+1.8
+
+-1.1
+2.2
+18.5
+16.3
+3.3
+8.1
+7.0
+1.1
+-2.3
+54.5
+
+-1.0
+2.2
+19.1
+16.9
+3.2
+7.6
+6.6
+0.9
+-2.0
+51.3
+
+-1.0
+2.0
+19.4
+17.4
+3.0
+7.9
+6.4
+1.5
+-2.0
+48.7
+
+-1.0
+1.9
+19.5
+17.6
+2.8
+7.9
+6.5
+1.3
+-2.0
+46.3
+
+-1.0
+1.7
+19.6
+17.9
+2.7
+8.6
+7.4
+1.2
+-2.0
+44.1
+
+-1.0
+1.6
+19.6
+18.0
+2.6
+8.5
+7.0
+1.5
+-2.0
+41.8
+
+8.1
+6.0
+-4.5
+3.0
+83.8
+457.0
+31.8
+10.5
+
+4.6
+7.8
+-4.5
+2.4
+91.8
+469.7
+28.4
+11.3
+
+5.9
+7.5
+-4.4
+2.1
+100.4
+492.3
+26.5
+11.1
+
+7.3
+7.9
+-4.3
+1.9
+109.2
+506.1
+25.0
+10.5
+
+7.5
+8.7
+-4.2
+1.7
+117.8
+519.4
+23.6
+9.8
+
+7.3
+9.6
+-4.4
+1.3
+125.8
+531.2
+22.3
+8.8
+
+Sources: Philippine authorities; and IMF staff projections.
+1/ Includes the national government, 14 government-owned enterprises, social security institutions, and local governments. Cash
+basis.
+2/ Reserves as a percent of short-term debt (including medium- and long-term debt due in the following year).
+
+INTERNATIONAL MONETARY FUND
+
+37
+
+PHILIPPINES
+
+Table 8. Philippines: Banking Sector Indicators, 2008−12 1/
+(In percent)
+
+Capital adequacy
+Total capital to total assets
+Capital adequacy ratio (Solo) 1/
+Asset quality
+NPL ratio 2/
+NPA ratio 3/
+Distressed asset ratio 4/
+NPL coverage ratio 5/
+NPA coverage ratio 6/
+Profitability
+Return on assets
+Return on equity
+Cost-to-income ratio
+Liquidity
+Liquid assets to deposits
+Loans (gross) to deposits
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+Q1
+
+10.6
+14.7
+
+11.1
+14.9
+
+11.7
+16.0
+
+12.6
+16.7
+
+n.a.
+n.a.
+
+4.5
+5.1
+10.7
+86.0
+44.4
+
+4.1
+4.5
+9.3
+93.1
+48.7
+
+3.9
+3.9
+8.8
+97.6
+52.7
+
+3.0
+3.3
+7.0
+103.7
+57.1
+
+3.1
+3.4
+7.1
+104.0
+58.2
+
+0.8
+6.9
+74.2
+
+1.2
+10.8
+65.8
+
+1.4
+12.2
+63.6
+
+1.5
+12.1
+65.0
+
+1.6
+12.7
+64.7
+
+52.5
+69.7
+
+52.7
+68.1
+
+59.7
+64.5
+
+56.5
+70.0
+
+56.4
+71.9
+
+Source: Philippines authorities, Status Report on the Philippines Financial System .
+1/ Solo refers to the head office and branches.
+2/ Nonperforming loans over total loan portfolio excluding interbank loans.
+3/ (Nonperforming loans + real and other property aquired (ROPA)) over total gross assets, where
+ROPA is a measure of the stock of foreclosed properties held by a bank.
+4/ Ratio of (NPLs + Gross ROPA + current restructured loans) to (Gross total loan portfolio + Gross
+ROPA).
+5/ Ratio of loan loss reserves to NPLs.
+6/ Ratio of valuation reserves (for loans and ROPA) to NPAs.
+
+38
+
+INTERNATIONAL MONETARY FUND
+
+PHILIPPINES
+
+Table 9. Philippines: Indicators of External Vulnerability, 2007−12
+(In percent of GDP, unless otherwise indicated)
+
+2007 2008 2009 2010 2011 2012
+Est.
+
+External indicators (including external liquidity)
+Gross international reserves, (in billions U.S. dollars)
+Maturing short-term debt (in billions U.S. dollars)
+Amortization of medium and long-term debt (in billions U.S. dollars)
+Net FDI inflows (in billions of U.S. dollars)
+FX deposits residents (in billions of U.S. dollars)
+Total gross external debt
+
+33.8
+9.9
+4.1
+-0.6
+19.5
+44.6
+
+37.6
+10.0
+4.1
+1.3
+20.6
+37.5
+
+44.2
+6.5
+4.3
+1.6
+22.8
+38.8
+
+62.4
+10.6
+4.8
+0.7
+25.1
+37.4
+
+75.3
+12.3
+4.9
+1.3
+24.3
+34.1
+
+83.8
+13.0
+4.5
+0.6
+25.0
+31.8
+
+Nonfinancial public sector indicators:
+Overall balance
+Primary balance
+Debt
+Debt denominated in FX or linked to the exchange rate (in percent of total)
+Short-term general government debt (original maturity, in percent of total)
+Average effective interest rate of government debt (in percent)
+Amortization of total debt
+
+0.2
+4.6
+58.9
+57.2
+16.5
+6.8
+15.9
+
+-0.3
+3.7
+58.2
+58.5
+18.2
+7.5
+15.6
+
+-3.1
+0.8
+58.1
+58.8
+14.1
+7.0
+12.8
+
+-3.4
+0.3
+54.8
+53.2
+11.2
+7.1
+10.7
+
+-1.0
+2.2
+55.7
+47.6
+6.0
+6.3
+8.3
+
+-1.1
+2.2
+54.5
+42.8
+5.1
+6.4
+6.8
+
+Sources: Philippine authorities; and IMF staff estimates.
+
+INTERNATIONAL MONETARY FUND
+
+39
+
+PHILIPPINES
+
+Appendix I. Philippines: Risk Assessment Matrix 1/
+Nature/Source
+of Main Threats
+
+Incomplete delivery
+of euro area policy
+commitments; Fiscal
+policy shock in the
+United States
+
+Protracted period of
+slow European (or
+global) growth
+
+Capital inflow
+reversal affecting
+EMs, accompanied
+by a strong
+unwinding of asset
+price overvaluation
+
+Domestic asset price
+bubble fuelled by
+abundant liquidity
+
+Default by a
+highly­leveraged
+domestic
+conglomerate
+
+Likelihood
+of Risk
+
+Medium;
+Low/Medium
+
+Medium
+
+Transmission Channels
+ Exports to Europe, U.S., and
+other destinations will
+weaken. Slow exports will
+spill over to domestic
+demand through
+employment and confidence
+channels.
+ Heightened global risk
+aversion may trigger capital
+outflows and weaken the
+peso. European bank
+deleveraging may weigh on
+domestic credit supply.
+ The number of OFWs—
+especially in Europe and the
+United States—may decline,
+reducing remittances.
+
+ Extended period of slow
+export growth through direct
+and indirect channels.
+ High unemployment in
+Europe could reduce OFWs
+working there, lowering
+remittance inflows.
+ Given its relatively better
+growth prospects, Philippines
+could see higher financial
+inflows.
+ Prices of real and financial
+assets fall.
+ External financing becomes
+less available.
+
+Medium
+
+Low­medium
+
+ Continued inflows into
+financial assets and real
+estate.
+ Activity in construction and
+related industries accelerates,
+while others weaken.
+ Financial sector exposure to
+real estate grows.
+
+Low
+
+ Default by one part of a
+group on its foreign
+obligations and/or domestic
+loans.
+ With a handful of large
+conglomerates following
+broadly similar business
+models, and bank exposure
+to them equivalent to a
+sizable share of total capital,
+systemic risks are
+heightened.
+
+Expected Impact of Risk
+Medium
+ Direct exports to Europe account for
+12 percent of total exports (2.6 percent
+of GDP), while exports to the
+U.S. account for 15 percent of total
+exports. Indirect trade channels are likely
+to dominate. However, the import
+content of exports is high, mitigating the
+effect on GDP.
+ Financial exposure to Europe is fairly
+limited. European banks' claims on
+Philippines amount to 7 percent of GDP
+(about 3 percentage points from UK
+banks), but this includes deposits
+collected locally to fund local lending.
+However, capital outflows are likely to
+tighten monetary conditions, including
+through higher market interest rates.
+ Nearly one­fifth of OFW remittances are
+derived from Europe, two­fifth are from
+the United States. Some decline in
+remittances from several affected
+countries was seen during previous
+phases of the euro crisis.
+Low/Medium
+ Philippines has been diversifying exports
+away from advanced economies to Asia,
+and this process will continue.
+ Cost-saving by firms in advanced
+countries will shift back office activities
+abroad, benefiting the Philippines'
+Business Process Outsourcing sector.
+ Given the region's better growth
+prospects, the flow of funds from
+advanced economies into Asia and the
+Philippines will continue. This could
+sustain upward pressure on asset prices.
+Low
+ While prices of equities and securities
+have risen sharply, real estate prices
+have just begun to pick up.
+ Falling real estate prices may increase
+banks' NPLs, but effect on capital should
+be manageable.
+ Domestic credit is funded largely from
+remittances, rather than through capital
+markets. This will help banks avoid
+funding pressures, avoid a large credit
+crunch, and insulate domestic demand.
+Medium
+ Near-term growth rises strongly.
+ Vulnerability of the financial system
+gradually builds.
+ Asset price correction through financial
+accelerator channel weakens growth.
+
+Medium
+ Loans to entire group are written down,
+causing a major reduction of bank
+capital. Reduced bank capital could
+create a domestic credit crunch.
+ Concerns arise about the profitability
+and liquidity of other major
+conglomerates, raising their funding
+costs.
+
+Recommended Policy Response
+ Ample space exists for a strong
+monetary and fiscal stimulus.
+ With abundant international reserves,
+intervention should be used to
+prevent excessive depreciation that
+would stoke inflation. However, some
+weakening of the exchange rate
+should be permitted.
+
+ Undertake structural reforms,
+including improving the investment
+climate, to boost domestic demand.
+ Adjust macroprudential policies as
+needed to limit risks related to
+elevated asset prices.
+
+ Same as above.
+ Ensure banks have adequate capital
+buffers.
+
+ Preemptively tighten monetary
+conditions and macroprudential
+policies as needed to prevent
+elevated asset prices.
+ Ensure adequate bank capital to
+absorb credit losses.
+
+ The BSP should proactively roll back
+banks' single borrower limits,
+underpinned by credible agreements
+between the banks and the
+conglomerate.
+ In case of default, rapidly recapitalize
+banks to prevent disruptive
+contraction of credit.
+ Avoid regulatory forbearance at
+banks and fiscal transfers to the
+affected conglomerate.
+
+1/ The Risk Assessment Matrix shows events that could materially alter the baseline path discussed in this report (which is the scenario most likely to materialize in the view of staff). The relative likelihood of
+risks reflects the staff’s subjective assessment (at the time of discussions with the authorities) of the risks surrounding this baseline.
+
+40
+
+INTERNATIONAL MONETARY FUND
+
+PHILIPPINES
+
+Appendix II. Philippines—External Sector Developments and Assessment
+Current Account (CA)
+Since shifting into surplus in 2003, the CA peaked at 5 percent of GDP, supported by remittances
+from Filipinos working abroad and, more recently, exports of services, but has narrowed to around
+3 percent of GDP since 2011. Excluding remittances, the CA remains in deficit (around 5 percent of
+GDP). Compared with the pre­Asian crisis period, the improved CA reflects a higher saving rate
+alongside a lower investment rate.
+
+Effective Exchange Rate (EER)
+In contrast to the volatility of previous decades, since 2004, the real EER has been on an upward
+trend, appreciating by 5 percent per year on average. The pace of appreciation accelerated in 2012,
+with the index now close to its previous peak in the late 1990s. Recently, the Philippines’ REER has
+strengthened much faster than those of its close neighbors (Indonesia, Malaysia, and Thailand).
+Meanwhile, the nominal EER has been relatively flat.
+
+Financial Account
+The financial account has tended to run a small positive balance, but saw modest outflows in 2009.
+Portfolio flows and “other investment” dominate the financial flows, but these often move in
+INTERNATIONAL MONETARY FUND
+
+41
+
+PHILIPPINES
+
+opposite directions. FDI is small. In 2012, the financial account surplus was much lower than the
+previous year on weaker debt inflows. The authorities are liberalizing restrictions on capital outflows
+and import prefinancing.
+Reserve Accumulation, Reserve Adequacy, and Net IIP
+Gross international reserves increased from US$20 billion in 1990 to US$83.8 billion (33.5 percent of
+GDP) at end 2012, with much of the accumulation occurring since 2004. Reserves now stand at
+3 times the Fund’s reserve adequacy metric for EMs, against a benchmark of 1 to 1½ times, and a
+higher multiple than for most other EMs. This suggests the Philippines holds more reserves than is
+warranted to meet normal expected contingencies. Reserve buildup continued in 2012, but at a
+slower pace than in recent years.
+
+The net international investment position (IIP) had a small negative balance at end 2011 (latest
+data), amounting to 8.7 percent of GDP. Continuation of recent external sector trends is expected to
+shift the net IIP into surplus in the coming years. Total external liabilities amount to 57.6 percent of
+GDP (US$130 billion), with official reserves sufficient to cover two thirds. In turn, nearly half of
+liabilities correspond to portfolio investment, with a further third reflecting other investment
+liabilities. FDI liabilities are about 20 percent of total external liabilities.
+Pilot External Balance Assessment (EBA) and CGER1
+According to the Fund’s pilot EBA methodology, the Philippines’ CA was larger than predicted
+in 2012, suggesting the external sector could be stronger than warranted by medium­term
+fundamentals. The gap rises once deviations of domestic and foreign policies from their desired
+values are taken into account (although the policy gaps are mainly due to the rest of the world). This
+gap first opened in 2001, and has since widened. On the other hand, EBA’s REER approach suggests
+the external sector could be weaker than warranted by medium­term fundamentals since 2006, with
+a real overvaluation at end 2012. This seemingly inconsistent pattern of results is not unique to EBA,
+as shown in the 2011 Article IV report that was based on the CGER methodologies, and continues to
+hold under the latest CGER update.
+
+1
+
+This section is based on Fund staff analysis in the IMF, External Balance Assessment (EBA): Data and Estimates from
+the Pilot Exercise (http://www.imf.org/external/np/res/eba/data.htm), and thus is preliminary.
+
+42
+
+INTERNATIONAL MONETARY FUND
+
+PHILIPPINES
+
+Technical factors suggest that in the Philippine case, more weight should be given to the CA result
+than to the REER result. This is because the EBA REER regression cannot capture the effect on the
+REER of the rise in permanent income due to remittances (see below). Moreover, the model relies
+heavily on comparing current with past levels of the REER, making the result sensitive to the sample
+period used.1
+Impact of Remittances
+Remittances from Filipinos working abroad have grown strongly over the past 10 years, and
+officially­recorded personal remittances have risen to near 10 percent of GDP. This reflects large
+labor emigration (currently some 10 percent of the population are overseas Filipinos, with some
+12¼ percent of the labor force classified as overseas foreign workers). Relative to the counterfactual
+of no workers abroad and no remittance inflows, consumption of imports and nontradables is likely
+higher. Thus, the equilibrium REER would tend to be more appreciated and the trade balance
+smaller (i.e., more negative) then otherwise. Remittances are therefore analogous to the “transfer
+problem” of war reparations and “Dutch disease” from natural resource booms. Consistent with
+adjustment to the more appreciated equilibrium, the relative price of nontradables, share of
+employment devoted to nontradables, and the actual REER have risen in recent years. The
+magnitude of the rise in the equilibrium REER depends on numerous factors, including preferences
+and the expected persistence of remittance inflows.
+
+1
+
+Because the REER is an index of prices, making cross­country comparisons infeasible, country dummies are included
+in the regression. As a result, for each country, the residuals sum to zero over the sample period. With the actual
+REER having exhibited large swings and having been on an upward trend in recent years, the fixed effect leads to a
+fitted series that is both flatter than the actual REER, and under predicts recent REER appreciation. Therefore, the
+REER model result of overvaluation may in large part be a consequence of the methodology, rather than reflecting
+fundamental economic considerations.
+
+INTERNATIONAL MONETARY FUND
+
+43
+
+PHILIPPINES
+
+Price Indices of Tradables and Nontradables
+
+Price ratio of NT over T
+
+1.2
+
+60
+
+1.0
+
+55
+
+0.8
+
+350
+
+0.6
+
+In percent
+
+Tradables
+
+Nontradables
+
+50
+45
+
+0.4
+
+Sources: Bangko Sentral ng Pilipinas.
+
+2010
+
+2012:H1
+
+2008
+
+2006
+
+2004
+
+2002
+
+2000
+
+1998
+
+1996
+
+1994
+
+1992
+
+1990
+
+1988
+
+2010
+
+2008
+
+2006
+
+2004
+
+2002
+
+2000
+
+1998
+
+1996
+
+1994
+
+1992
+
+1990
+
+1988
+
+1986
+
+1984
+
+1982
+
+1980
+
+Source: Bangko Sentral ng Pilipinas.
+
+35
+1986
+
+0.0
+
+0
+
+40
+
+1984
+
+0.2
+
+1982
+
+175
+
+1980
+
+Price index
+
+65
+
+1.4
+
+Nontradable
+
+525
+
+Share of Tradable and Nontradable Goods Sectors to Total
+Employment
+
+1.6
+
+Tradable
+
+Price ratio
+
+700
+
+Whether recipients perceive remittances to be temporary or permanent can affect spending
+behavior. According to the permanent income hypothesis, only permanent income is consumed
+each period. Therefore, if remittances are expected to be short­lived, a large part would be saved to
+support consumption following the dry­up of inflows. Thus, when remittances are seen as
+temporary, the equilibrium real appreciation would be smaller, and the current account surplus
+larger, than when remittances are perceived to be long lasting.
+Staff expects that remittances will remain sizable for the foreseeable future. While conditions in host
+countries and the nominal exchange rate path will be important determining factors, continued
+rapid growth of the working­age population (2 percent per year until 2025), elevated unemployment
+and under­employment at home, rising remittances per foreign worker, and a still­large wage gap
+with host countries are expected to sustain labor outflows and remittance inflows over the
+medium to long term.
+The current view that remittances are perceived to be persistent differs from the approach in
+the 2010 and 2011 Article IV consultations, where from a very long­term perspective, slowing
+population growth and a constant retirement rate were forecast to gradually reduce outward
+migration, causing remittances to fall to 5 percent of GDP by 2050. In the face of a long­term
+decline in remittance receipts, intertemporal consumption smoothing would call for increased
+saving in the short and medium term.1 On the assumption that saving behavior targets a future
+income stream equal to a constant real per capita annuity, this implies additional saving of—and a
+smaller current account gap by—2.2 percent of GDP in 2016 (the reference period for the
+assessment under CGER in the previous staff report), although the results are extremely sensitive to
+how the annuity is specified.2 This additional saving was seen as sufficient to bring the forecast
+medium­term CA into line with the medium­term norm (1.8 percent of GDP). Note that under EBA,
+the reference period is shifted to the current year.3
+1
+
+This is analogous to the treatment of revenue from natural resources with a finite stock and/or high price volatility.
+
+2
+
+See Box 2 of IMF Country Report No. 11/59 for further details.
+
+3
+
+For 2011, the implied additional saving under this approach was 1.5 percent of GDP, and the CA norm was
+0.9 percent of GDP (against an actual CA of 3 percent of GDP).
+
+44
+
+INTERNATIONAL MONETARY FUND
+
+PHILIPPINES
+
+Revisiting EBA—GNI versus GDP
+Philippine gross national income (GNI) is significantly larger than GDP, which could materially impact
+the external sector assessment. Whereas for most countries the difference between GNI and GDP is
+modest, in the Philippines, GNI is about 15 percent larger owing to remittances that supplement
+residents’ domestically­generated income.1 Irrespective of whether income is sourced domestically
+or received from abroad, it is income—rather than GDP—that is the appropriate basis on which
+saving and investment decisions are made. This implies that the current account scaled by GNI,
+rather than GDP, should be the basis for assessing the Philippines external sector.2 Several other
+variables used in EBA, such as social spending, fiscal policy, and the per capita income gap, would
+also be better measured relative to GNI.
+Rescaling the current account and relevant EBA regressors by GNI narrows the EBA regression gaps.3
+On the current account, this reflects both a reduction in the actual current account ratio and an
+increase in the fitted value, with the unexplained regression residual declining to 2.9 percent of
+GDP.4,5
+
+1
+
+While official data put remittances currently at 10 percent of GDP, survey­based data indicate unregistered
+remittances are about 50 percent higher than those coming through official channels and captured in statistics. In
+calculating GNI, staff assumes that total remittances are 1½ times the officially reported amount (currently
+15 percent of GDP). This GNI concept differs from the one used by the National Statistics Office, which assumes all
+overseas foreign workers (OFWs) are residents, and includes all their income earned abroad in GNI, resulting in GNI
+exceeding GDP by about 30 percent in 2012. However, this would tend to significantly overstate the amount of
+resources available to people residing in the Philippines because many OFWs have longstanding ties to their host
+countries and consume much of their income abroad.
+2
+
+While we assume underreporting of remittances, we consider the current account to be correctly measured. This is
+because the overall balance of payments is given independently by the BSP’s fx intervention, and the financial
+account is—if anything—also underreported. The implication is that actual imports are considerably larger than
+officially documented. This accords with anecdotal evidence on customs receipts and Global Financial Integrity’s 2012
+report that finds evidence of over­reporting of the trade balance, based on cross­checking with partner country data,
+of about 6½ percent of GDP.
+3
+
+Because EBA is estimated on a large set of countries for which GDP is close to GNI, the estimated EBA coefficients
+remain valid.
+4
+
+The implied REER overvaluation narrows slightly to about 11 percent. However, the caveat regarding inclusion of a
+fixed effect remains valid, and hence the CA approach is regarded as more informative.
+
+5
+
+The regression residual is based on the observed CA and the model predicted CA, both evaluated at actual policies.
+The current account norm is defined as the predicted CA evaluated at desired policies, while the total EBA gap is the
+sum of the regression residual and the contribution of policy gaps.
+
+INTERNATIONAL MONETARY FUND
+
+45
+
+PHILIPPINES
+
+Current Account (CA) Regression
+
+Projection
+2012 CA/Y
+
+With Actual Policies ("P")
+Predicted CA/Y
+Residual
+
+With Recommended Policies ("P*")
+EBA Norm
+EBA Total
+(for 2012)
+CA Gap
+
+CA with GDP
+
+3.0%
+
+-1.2%
+
+4.1%
+
+-2.1%
+
+5.1%
+
+CA with GNI
+
+2.6%
+
+-0.3%
+
+2.9%
+
+-1.4%
+
+4.0%
+
+Real Effective Exchange Rate (REER) Regression
+
+Predicted
+
+Actual
+2012
+
+Residual
+
+With Actual Policies ("P")
+Overvaluation
+Predicted
+(In percent)
+
+EBA Norm
+(for 2012)
+
+EBA Total
+REER Gap
+
+With Recommended Policies ("P*")
+Overvaluation
+Norm
+(In percent)
+
+REER with GDP
+
+130.5
+
+115.9
+
+12.6
+
+114.9
+
+13.6
+
+REER with GNI
+
+130.5
+
+117.7
+
+10.9
+
+117.3
+
+11.2
+
+Source: IMF staff estimates, based on pilot external balance assessment.
+
+Remittances may also affect the current account through the precautionary saving channel. Despite
+only moderate fluctuation of remittances at the aggregate level, overseas workers may perceive
+considerable idiosyncratic risk associated with possible nonrenewal of work contracts. No
+information is publicly available on the incidence of contract nonrenewal for incumbent workers.
+However, balance of payment data suggest that one quarter of remittances are derived from
+workers with contracts of less than one year.1 With no facility to pool individual risk, the saving rate
+for foreign workers on short­term contracts may be higher than otherwise.2 Due to insufficient data,
+
+1
+
+Close to half of overseas workers are classified as being on temporary employment contracts (of unspecified
+duration), with most of the rest being immigrants or legal permanent residents abroad whose stay does not depend
+on work contracts. Hence, some unknown share of temporary overseas workers who are on short­term contracts may
+be affected by the heightened precautionary saving motive.
+2
+
+On average since 2008, some 37 percent of households with an overseas worker report that some (unspecified)
+share of remittances is allocated to savings.
+
+46
+
+INTERNATIONAL MONETARY FUND
+
+PHILIPPINES
+
+quantifying this effect is not feasible, although it could potentially have a measurable impact on
+aggregate equilibrium saving.
+Overall Assessment
+Developments in recent years indicate the economy continues to adjust to the new equilibrium.
+While numerical approaches may not adequately incorporate all relevant country­specific
+considerations, including the rise in permanent income and that household cautiousness induces
+them to save part of the permanent income gain, staff is of the view that the external sector is
+currently somewhat stronger than warranted by medium­term fundamentals and desirable policies.
+However, further narrowing of the current account forecast over the medium term is expected to
+restore the external sector to equilibrium.
+Implications of Different Reference Periods
+Under previous Fund approaches, the reference period for assessing the external sector was the
+medium term. Under EBA, this is brought forward to the current year. This change affects staff’s
+assessment for the Philippines: while the external sector is seen as “somewhat stronger” in 2012, it is
+recognized that the economy is continuing to undergo transition, although at a moderating pace.
+This is reflected in staff’s medium­term projections, and by 2017, it is expected that the external
+sector will be in line with medium­term fundamentals and desired policies.1
+
+1
+
+This was also the case in the prior assessments, where the CA was above the implied norm in 2010 and 2011, but
+the combination of a rising norm and a moderating CA were expected to close the gap by 2016 (the previous
+reference point).
+
+INTERNATIONAL MONETARY FUND
+
+47
+
+PHILIPPINES
+
+Appendix III. Philippines—Debt Sustainability Analysis
+The outlook for public debt dynamics is favorable. Nonfinancial sector public debt has declined from
+96 percent of GDP in 2003 to 56 percent of GDP in 2011. Based on the government’s medium˗term
+objective of a national government deficit to 2 percent of GDP, public debt is projected to continue
+this declining trend to 42 percent of GDP by 2017. Gross financing need is also expected to decline
+from 15 percent of GDP in 2010 to 9 percent of GDP by 2017. If the deficit were to remain 1 percent
+of GDP higher than currently projected or if medium˗term growth were lower by 1 percent, the
+decline in public debt would be more gradual and debt levels would remain at about 46 percent of
+GDP through 2017. Given the high share of foreign currency debt (about 48 percent), the main
+vulnerability arises from exchange rate risk.
+Projected external debt dynamics are also favorable. In recent years, external debt has steadily
+declined, from nearly 80 percent of GDP in 2001 to below 35 percent of GDP at end­2011. Under the
+staff’s baseline scenario, the external debt ratio is projected to continue decline in the medium term,
+as a result of current account surpluses. Further, the debt dynamics appear to be resilient to various
+shocks: one­half standard deviation shocks to interest rate, growth, and the current account lead to
+only a modest deterioration in the debt ratios over the medium term. However, exchange rate
+volatility remains a vulnerability as a one­time real depreciation of 30 percent in 2013 would imply a
+15 percent jump in external debt ratio.
+
+48
+
+INTERNATIONAL MONETARY FUND
+
+PHILIPPINES
+
+Figure III.1. Philippines: Public Debt Sustainability Bound Tests 1/ 2/
+(Public debt, in percent of GDP)
+65
+
+Baseline and Historical Scenarios
+
+19
+
+Gross financing need
+under baseline
+(right scale)
+
+60
+
+17
+15
+
+55
+
+13
+
+Baseline
+50
+
+Historical
+
+9
+42
+40
+
+40
+
+7
+5
+
+2009
+
+2011
+
+60
+55
+
+2013
+
+3
+2017
+
+2015
+
+3.8
+
+Historical:
+
+2.6
+
+i-rate shock
+43
+
+Baseline
+
+45
+40
+2007
+
+42
+2009
+
+2011
+
+2013
+
+2015
+
+2017
+
+Primary Balance Shock (in percent of GDP) and
+No Policy Change Scenario (constant primary balance)
+
+65
+
+65
+
+60
+
+Baseline:
+
+5.5
+
+Scenario:
+
+4.6
+4.9
+
+Historical:
+
+55
+
+Growth shock
+
+50
+
+46
+Baseline
+
+45
+
+42
+2009
+
+2011
+
+2013
+
+2015
+
+2017
+
+PB shock
+47
+Baseline
+42
+
+45
+40
+35
+2007
+
+No policy change
+
+2009
+
+2011
+
+55
+
+55
+Combined
+shock
+
+50
+
+Baseline
+
+2013
+
+2015
+
+2017
+
+30 %
+depreciation
+contingent
+liabilities
+shock
+
+2015
+
+53
+51
+
+50
+Baseline
+
+46
+
+2011
+
+2013
+
+40
+
+65
+60
+
+2009
+
+2.4
+
+50
+
+60
+
+45
+
+1.9
+0.9
+
+Real Depreciation and Contingent Liabilities Shocks 4/
+
+Combined Shock 3/
+
+65
+
+Baseline:
+Scenario:
+Historical:
+
+60
+
+55
+
+40
+2007
+
+3.2
+
+50
+
+Growth Shock (in percent per year)
+
+40
+2007
+
+Baseline:
+Scenario:
+
+11
+
+45
+
+35
+2007
+
+Interest Rate Shock (in percent)
+65
+
+42
+
+2017
+
+45
+42
+40
+2007
+
+2009
+
+2011
+
+2013
+
+2015
+
+2017
+
+Sources: International Monetary Fund, country desk data; and staff estimates.
+1/ Shaded areas represent actual data. Individual shocks are permanent one-half standard deviation shocks. Figures in the boxes represent average
+projections for the respective variables in the baseline and scenario being presented. Ten-year historical average for the variable is also shown.
+2/ For historical scenarios, the historical averages are calculated over the ten-year period, and the information is used to project debt dynamics five years
+ahead.
+3/ Permanent 1/4 standard deviation shocks applied to real interest rate, growth rate, and primary balance.
+4/ One-time real depreciation of 30 percent and 10 percent of GDP shock to contingent liabilities occur in 2010, with real depreciation defined as
+nominal depreciation (measured by percentage fall in dollar value of local currency) minus domestic inflation (based on GDP deflator).
+
+INTERNATIONAL MONETARY FUND
+
+49
+
+PHILIPPINES
+
+Figure III.2. Philippines: External Debt Sustainability Bound Tests 1/ 2/
+(External debt, in percent of GDP)
+70
+65
+60
+55
+50
+45
+40
+35
+30
+25
+20
+15
+10
+5
+0
+2007
+
+Baseline and Historical Scenarios
+
+10
+8
+
+Baseline
+
+Historical
+
+22
+
+40
+30
+
+70
+
+20
+2007
+
+70
+
+65
+
+Baseline:
+
+5.5
+
+65
+
+60
+
+Scenario: 4.6
+
+60
+
+45
+
+40
+
+40
+Growth shock
+
+30
+25
+20
+2007
+
+Baseline
+2009
+
+2011
+
+2013
+
+2013
+
+2015
+
+Baseline:
+
+20
+2007
+
+Historical: 5.0
+
+CA shock
+Baseline
+2009
+
+Combined Shock 3/
+70
+
+65
+
+65
+
+60
+
+60
+
+55
+
+55
+
+50
+
+50
+
+45
+
+45
+
+40
+
+2.6
+
+Scenario: 1.8
+
+25
+
+2017
+
+2011
+
+30
+25
+
+Baseline
+2009
+
+2011
+
+2013
+
+2015
+
+2017
+
+Real Depreciation Shock 4/
+
+30 %
+depreciation
+33
+
+35
+30
+
+24
+
+25
+
+22
+2015
+
+25
+
+22
+
+2013
+
+40
+Combined
+shock
+
+35
+
+2017
+
+Non-Interest Current Account Shock
+(In percent of GDP)
+
+30
+
+23
+
+70
+
+20
+2007
+
+2011
+
+22
+
+22
+
+35
+
+22
+2015
+
+2009
+
+50
+
+45
+35
+
+Baseline
+
+55
+
+Historical: 4.9
+
+50
+
+i-rate shock
+
+25
+
+9
+
+Growth Shock (in percent per year)
+
+55
+
+Historical: 4.4
+
+50
+
+35
+
+0
+2017
+
+2015
+
+3.2
+
+Scenario: 3.5
+
+45
+4
+2
+
+2013
+
+Baseline:
+
+60
+55
+
+6
+
+2011
+
+Interest Rate Shock (in percent)
+
+65
+
+Gross financing need
+under baseline
+(right scale)
+
+2009
+
+70
+
+2017
+
+20
+2007
+
+Baseline
+2009
+
+2011
+
+2013
+
+2015
+
+22
+2017
+
+Sources: International Monetary Fund, Country desk data, and staff estimates.
+1/ Shaded areas represent actual data. Individual shocks are permanent one-half standard deviation shocks. Figures in the boxes represent
+average projections for the respective variables in the baseline and scenario being presented. Ten-year historical average for the variable is also
+shown.
+2/ For historical scenarios, the historical averages are calculated over the ten-year period, and the information is used to project debt dynamics
+five years ahead.
+3/ Permanent 1/4 standard deviation shocks applied to real interest rate, growth rate, and current account balance.
+4/ One-time real depreciation of 30 percent occurs in 2010.
+
+50
+
+INTERNATIONAL MONETARY FUND
+
+253.5
+
+Public sector debt-to-revenue ratio 1/
+
+6.6
+6.8
+3.7
+18.7
+3.1
+20.5
+-4.6
+
+4.2
+7.5
+0.0
+-12.8
+7.5
+2.2
+-3.7
+
+14.0
+24.2
+
+264.7
+
+-0.7
+-0.8
+-3.7
+22.0
+18.3
+2.3
+-2.4
+-0.2
+-2.2
+4.6
+0.7
+-0.4
+0.0
+1.1
+0.1
+
+58.2
+34.0
+
+2008
+
+1.1
+7.0
+4.3
+2.4
+2.8
+5.8
+-0.8
+
+17.9
+30.1
+
+291.0
+
+-0.1
+-0.8
+-0.8
+20.0
+19.1
+0.9
+1.7
+2.4
+-0.6
+-0.8
+-0.9
+0.0
+0.0
+-0.9
+0.6
+
+58.1
+34.1
+
+Actual
+2009
+
+7.6
+7.1
+2.8
+5.6
+4.2
+2.1
+-0.3
+
+15.3
+30.6
+
+297.6
+
+-3.3
+-4.3
+-0.3
+18.4
+18.2
+-4.3
+-2.6
+1.3
+-4.0
+-1.7
+0.3
+0.0
+0.0
+0.4
+1.0
+
+54.8
+29.1
+
+2010
+
+3.9
+6.3
+2.2
+-0.1
+4.1
+-8.0
+-2.2
+
+11.6
+26.2
+
+304.6
+
+0.9
+-1.0
+-2.2
+18.3
+16.1
+-0.9
+-0.9
+1.1
+-2.0
+0.0
+2.1
+0.0
+0.0
+2.1
+2.0
+
+55.7
+26.5
+
+2011
+
+6.6
+6.4
+4.5
+...
+1.8
+8.1
+-2.2
+
+54.5
+54.5
+
+8.1
+20.3
+
+294.3
+
+-1.3
+-0.6
+-2.2
+18.5
+16.3
+-1.1
+-1.1
+2.3
+-3.4
+...
+2.7
+-0.1
+0.0
+2.8
+-0.6
+
+54.5
+23.3
+
+2012
+
+6.0
+6.4
+3.3
+...
+3.1
+10.0
+-2.2
+
+51.3
+51.3
+
+7.6
+21.5
+
+268.6
+
+-3.2
+-3.1
+-2.2
+19.1
+16.9
+-1.4
+-1.4
+1.6
+-3.0
+...
+0.6
+0.0
+0.0
+0.6
+-0.1
+
+51.3
+20.6
+
+2013
+
+5.5
+6.3
+3.1
+...
+3.2
+8.6
+-2.0
+
+48.4
+48.4
+
+7.9
+24.9
+
+250.8
+
+-2.6
+-3.0
+-2.0
+19.4
+17.4
+-1.2
+-1.2
+1.4
+-2.6
+...
+0.2
+0.0
+0.0
+0.2
+0.4
+
+48.7
+19.3
+
+2014
+
+5.3
+6.4
+3.1
+...
+3.3
+6.6
+-1.9
+
+45.5
+45.7
+
+7.9
+27.1
+
+237.4
+
+-2.4
+-2.7
+-1.9
+19.5
+17.6
+-1.1
+-1.1
+1.3
+-2.4
+...
+0.2
+0.0
+0.0
+0.2
+0.3
+
+46.3
+18.3
+
+5.4
+6.4
+3.2
+...
+3.2
+7.0
+-1.7
+
+42.7
+43.1
+
+8.6
+32.4
+
+224.3
+
+-2.2
+-2.5
+-1.7
+19.6
+17.9
+-1.0
+-1.0
+1.3
+-2.3
+...
+0.3
+0.0
+0.0
+0.3
+0.3
+
+44.1
+16.9
+
+Projections
+2015
+2016
+
+5.5
+6.5
+3.2
+...
+3.3
+6.1
+-1.6
+
+39.7
+40.3
+
+8.5
+35.0
+
+212.9
+
+-2.3
+-2.5
+-1.6
+19.6
+18.0
+-1.0
+-1.0
+1.2
+-2.2
+...
+0.1
+0.0
+0.0
+0.1
+0.3
+
+41.8
+16.3
+
+2017
+
+-0.8
+-0.9
+
+-0.9
+
+Debt-stabilizing
+primary
+balance 9/
+
+1/ Coverage of public sector is for non-financial public sector gross debt.
+2/ Derived as [(r - p(1+g) - g + ae(1+r)]/(1+g+p+gp)) times previous period debt ratio, with r = interest rate; p = growth rate of GDP deflator; g = real GDP growth rate; a = share of foreign-currency
+denominated debt; and e = nominal exchange rate depreciation (measured by increase in local currency value of U.S. dollar).
+3/ The real interest rate contribution is derived from the denominator in footnote 2/ as r - π (1+g) and the real growth contribution as -g.
+4/ The exchange rate contribution is derived from the numerator in footnote 2/ as ae(1+r).
+5/ For projections, this line includes exchange rate changes.
+6/ Defined as public sector deficit, plus amortization of medium and long-term public sector debt, plus short-term debt at end of previous period.
+7/ The key variables include real GDP growth; real interest rate; and primary balance in percent of GDP.
+8/ Derived as nominal interest expenditure divided by previous period debt stock.
+9/ Assumes that key variables (real GDP growth, real interest rate, and other identified debt-creating flows) remain at the level of the last projection year.
+
+Real GDP growth (in percent)
+Average nominal interest rate on public debt (in percent) 8/
+Average real interest rate (nominal rate minus change in GDP deflator, in percent)
+Nominal appreciation (increase in U.S. dollar value of local currency, in percent)
+Inflation rate (GDP deflator, in percent)
+Growth of real primary spending (deflated by GDP deflator, in percent)
+Primary deficit
+
+Key macroeconomic and fiscal assumptions underlying baseline
+
+Scenario with key variables at their historical averages 7/
+Scenario with no policy change (constant primary balance) in 2011−2016
+
+17.1
+25.5
+
+-12.2
+-13.3
+-4.6
+23.2
+18.6
+-8.5
+-2.0
+2.3
+-4.3
+-6.5
+-0.2
+-1.3
+0.0
+1.1
+1.1
+
+Change in public sector debt
+Identified debt-creating flows (4+7+12)
+Primary deficit
+Revenue and grants
+Primary (noninterest) expenditure
+Automatic debt dynamics 2/
+Contribution from interest rate/growth differential 3/
+Of which : contribution from real interest rate
+Of which : contribution from real GDP growth
+Contribution from exchange rate depreciation 4/
+Other identified debt-creating flows
+Privatization receipts (negative)
+Recognition of implicit or contingent liabilities
+Other (specify, e.g., bank recapitalization)
+Residual, including asset changes (2-3) 5/
+
+Gross financing need 6/
+In billions of U.S. dollars
+
+58.9
+33.7
+
+Baseline: public sector debt 1/
+Of which : foreign-currency denominated
+
+2007
+
+(In percent of GDP, unless otherwise indicated)
+
+Table III.1. Philippines: Public Sector Debt Sustainability Framework, 2007–17
+
+PHILIPPINES
+
+INTERNATIONAL MONETARY FUND
+
+51
+
+52
+
+INTERNATIONAL MONETARY FUND
+112.3
+
+External debt-to-exports ratio (in percent)
+
+1.1
+-4.0
+4.0
+-16.1
+-20.6
+7.1
+0.3
+
+7.6
+10.1
+3.9
+33.4
+32.0
+5.7
+0.6
+
+3.9
+8.4
+3.4
+-2.9
+2.5
+4.3
+1.0
+
+1.9
+6.3
+0.7
+13.4
+12.7
+1.6
+1.4
+
+10-Year
+Standard
+Deviation
+
+6.6
+4.5
+3.6
+9.7
+7.1
+4.1
+1.1
+
+31.8
+
+9.4
+3.7
+
+115.2
+
+-2.3
+-6.1
+-4.1
+-59.6
+27.6
+-32.0
+-1.1
+-0.9
+1.1
+-2.0
+...
+3.7
+
+31.8
+
+2012
+
+6.0
+7.1
+3.7
+7.3
+8.2
+3.4
+0.8
+
+26.9
+
+11.6
+4.1
+
+108.9
+
+-3.4
+-4.9
+-3.4
+-56.6
+26.0
+-30.5
+-0.8
+-0.6
+1.0
+-1.7
+...
+1.5
+
+28.4
+
+2013
+
+5.5
+5.8
+3.3
+7.6
+7.8
+2.9
+0.8
+
+22.5
+
+12.8
+4.0
+
+104.7
+
+-2.1
+-4.3
+-2.9
+-54.6
+25.1
+-29.5
+-0.8
+-0.6
+0.8
+-1.4
+...
+2.2
+
+26.3
+
+2014
+
+5.3
+4.5
+3.3
+8.6
+8.2
+2.7
+0.8
+
+18.0
+
+13.7
+3.9
+
+99.6
+
+-1.6
+-3.9
+-2.7
+-53.8
+24.8
+-29.0
+-0.8
+-0.5
+0.8
+-1.3
+...
+2.3
+
+24.7
+
+5.4
+4.5
+3.0
+9.0
+9.0
+2.3
+0.7
+
+13.4
+
+15.2
+3.9
+
+94.3
+
+-1.6
+-3.6
+-2.3
+-53.2
+24.5
+-28.7
+-0.7
+-0.5
+0.7
+-1.2
+...
+2.0
+
+23.1
+
+Projections
+2015
+2016
+
+5.5
+4.5
+2.6
+9.1
+9.8
+1.8
+0.7
+
+8.7
+
+17.1
+4.0
+
+89.2
+
+-1.5
+-3.2
+-1.8
+-52.8
+24.3
+-28.6
+-0.7
+-0.6
+0.5
+-1.2
+...
+1.7
+
+21.6
+
+2017
+
+-2.0
+
+-2.2
+
+Debt-stabilizing
+non-interest
+current account 6/
+
+1/ Derived as [r - g - r(1+g) + ea(1+r)]/(1+g+r+gr) times previous period debt stock, with r = nominal effective interest rate on external debt; r = change in domestic GDP deflator in U.S. dollar terms, g = real GDP
+growth rate, e = nominal appreciation (increase in dollar value of domestic currency), and a = share of domestic-currency denominated debt in total external debt.
+2/ The contribution from price and exchange rate changes is defined as [-r(1+g) + ea(1+r)]/(1+g+r+gr) times previous period debt stock. r increases with an appreciating domestic currency (e > 0) and rising inflation
+3/ For projection, line includes the impact of price and exchange rate changes.
+4/ Defined as current account deficit, plus amortization on medium- and long-term debt, plus short-term debt at end of previous period.
+5/ The key variables include real GDP growth; nominal interest rate; dollar deflator growth; and both non-interest current account and non-debt inflows in percent of GDP.
+6/ Long-run, constant balance that stabilizes the debt ratio assuming that key variables (real GDP growth, nominal interest rate, dollar deflator growth, and non-debt inflows in percent of GDP) remain at their levels
+of the last projection year.
+
+4.2
+11.6
+4.9
+-2.2
+6.5
+4.0
+0.0
+
+8.5
+3.8
+
+121.7
+
+-3.3
+-8.3
+-4.3
+-61.3
+28.0
+-33.3
+-1.0
+-3.0
+1.1
+-1.3
+-2.9
+5.0
+
+34.1
+
+2011
+
+4.9
+6.4
+4.4
+7.0
+6.4
+5.0
+1.5
+
+Key macroeconomic assumptions underlying baseline
+6.6
+14.6
+5.8
+11.9
+9.8
+7.1
+1.7
+
+2.4
+1.2
+
+115.1
+
+-1.4
+-11.1
+-5.7
+-69.1
+32.5
+-36.6
+-0.6
+-4.8
+1.3
+-2.5
+-3.5
+9.7
+
+37.4
+
+2010
+
+Real GDP growth (in percent)
+GDP deflator in U.S. dollars (change in percent)
+Nominal external interest rate (in percent)
+Growth of exports (U.S. dollar terms, in percent)
+Growth of imports (U.S. dollar terms, in percent)
+Current account balance, excluding interest payments
+Net nondebt creating capital inflows
+
+5.0
+2.9
+
+134.4
+
+1.2
+-4.8
+-7.1
+-61.7
+28.9
+-32.9
+-0.3
+2.7
+1.6
+-0.4
+1.5
+6.0
+
+38.8
+
+Actual
+2009
+
+10-Year
+Historical
+Average
+
+10.4
+6.0
+
+112.4
+
+-7.0
+-8.3
+-4.0
+-73.5
+33.4
+-40.1
+0.0
+-4.3
+1.9
+-1.6
+-4.6
+1.3
+
+37.5
+
+2008
+
+Scenario with key variables at their historical averages 5/
+
+4.7
+3.1
+
+-5.8
+-15.6
+-7.1
+-83.5
+39.7
+-43.8
+-1.7
+-6.7
+2.4
+-2.7
+-6.4
+9.8
+
+Change in external debt
+Identified external debt-creating flows (4+8+9)
+Current account deficit, excluding interest payments
+Deficit in balance of goods and services
+Exports
+Imports
+Net nondebt creating capital inflows (negative)
+Automatic debt dynamics 1/
+Contribution from nominal interest rate
+Contribution from real GDP growth
+Contribution from price and exchange rate changes 2/
+Residual, including change in gross foreign assets (2-3) 3/
+
+Gross external financing need (in billions of U.S. dollars) 4/
+In percent of GDP
+
+44.6
+
+Baseline: external debt
+
+2007
+
+(In percent of GDP, unless otherwise indicated)
+
+Table III.2. Philippines: External Debt Sustainability Framework, 2007–17
+
+PHILIPPINES
+
+PHILIPPINES
+
+Appendix IV: Philippines—Staff Policy Advice from the 2010 and 2011 Article IV
+Consultations
+Staff Advice
+
+Policy Actions
+Fiscal
+
+Strengthen excise taxes, rationalize fiscal incentives, and address
+inefficiencies in the VAT (2010 and 2011).
+
+Congress approved in 2012 a law to rationalize excise tax on alcohol and tobacco.
+The law raised excise tax rates, simplified product categorization, and introduced
+inflation indexation for the tax rates, in line with recommendations of IMF TA.
+
+Manage the civil service wage bill to avoid crowding out other
+priority spending (2010 and 2011).
+
+There will be no adjustment in the pay scale for government employees in 2013, after
+salary increases under a 4­year salary standardization program were completed
+in 2012.
+
+Establish a medium­term budget framework (2010).
+
+The medium­term fiscal framework was presented in the Philippines Development
+Plan for 2011–16. It has not been updated since.
+
+Monitor fiscal risks of PPPs carefully and reflect them in the fiscal
+accounts (2010 and 2011).
+
+The authorities issued a resolution that provides for the preparation of a contingent
+liability management plan by implementing agencies, training for project evaluation
+and contingent liability assessment, and full disclosure of the required budget for
+contingent liabilities that will become real liabilities.
+
+A substantial increase in benefit payments for uniformed
+personnel needs to be managed in a fiscally sustainable
+way (2011).
+
+Inter­governmental discussions are underway.
+
+Financial, Monetary and Exchange Rate Policy
+Monitor potential pressure points, including concentration and
+interest risks at banks, real estate exposures of nonbanks, and
+channels for inward spillovers from global financial turbulence
+(2010 and 2011).
+
+The BSP strengthened banks’ governance requirements and prepared “conglomerate
+maps” to monitor concentration risks. Monitoring of the banks’ exposure to the real
+estate sector was enhanced, including through collaboration with other agencies
+under the auspices of the Financial Sector Forum. Single borrower limits were
+increased in case of the public­private partnerships (PPP).
+
+Further strengthening the supervisory and regulatory framework
+as well as the AML/CFT regime (2010 and 2011).
+
+Measures to address weaknesses in the AML/CFT regime were recently adopted.
+
+Passage of amendments to the Central Bank Act that would
+strengthen liquidity management and enhance policy
+effectiveness, including through increasing legal powers and
+protection for the supervisory authorities, and enhanced
+supervision of banks’ conglomerate exposures. (2010 and 2011).
+
+The amendments to the central bank act have not been passed by the legislature.
+Basel III capital requirements will be introduced in January 2014.
+
+Scope for further flexibility of the exchange rate in response to
+sustained inflows (2010 and 2011).
+
+In 2012, the authorities allowed the policy mix to shift more toward currency
+appreciation than in the past.
+
+Need an appropriate mix of policy tools to manage capital inflows
+and monetary conditions, while facilitating productive use of
+these inflows (2010 and 2011).
+
+A range of macroprudential policy tools is being used to tighten monetary
+conditions.
+
+Structural
+Building faster and more inclusive growth. Promoting private
+investment and addressing impediments to job creating and
+productivity are crucial for raising potential growth (2010
+and 2011).
+
+Initiatives have been introduced to expand access to formal credit for small and
+medium size enterprises and the agricultural sector. Recent measures to extend
+compulsory schooling from 10−12 years and expand healthcare and the CCT
+program will help support a more productive labor force. Efforts to improve
+governance should strengthen the foundations for sound policymaking.
+
+INTERNATIONAL MONETARY FUND
+
+53
+
+PHILIPPINES
+STAFF REPORT FOR THE 2013 ARTICLE IV
+March 5, 2013
+
+CONSULTATION—INFORMATIONAL ANNEX
+Prepared By
+
+Asia and Pacific Department
+
+CONTENTS
+FUND RELATIONS ________________________________________________________________________2
+IMF-WORLD BANK COLLABORATION ___________________________________________________5
+RELATIONS WITH THE ASIAN DEVELOPMENT BANK __________________________________9
+STATISTICAL ISSUES ____________________________________________________________________ 11
+
+PHILIPPINES
+
+FUND RELATIONS
+(As of January 31, 2013)
+I. Membership Status: Joined December 27, 1945; Article VIII
+II. General Resources Account
+SDR Millions
+
+Percent of Quota
+
+1,019.30
+
+100.00
+
+Fund holdings of currency
+
+711.75
+
+69.83
+
+Reserve position in Fund
+
+307.56
+
+30.17
+
+Quota
+
+Lending to the Fund
+New Arrangements to Borrow
+
+42.40
+
+III. SDR Department
+SDR Millions
+
+Percent of Allocation
+
+Net cumulative allocation
+
+837.96
+
+100.00
+
+Holdings
+
+838.26
+
+100.04
+
+IV. Outstanding Purchases and Loans: None
+V. Latest Financial Arrangements:
+Amount
+Approved
+(SDR millions)
+
+Amount
+Drawn
+(SDR millions)
+
+Type
+
+Approval
+Date
+
+Expiration
+Date
+
+Stand-by
+
+04/01/98
+
+12/31/00
+
+1,020.79
+
+783.23
+
+EFF
+
+06/24/94
+
+03/31/98
+
+791.20
+
+791.20
+
+Stand-by
+
+02/20/91
+
+03/31/93
+
+334.20
+
+334.20
+
+VI. Projected Payments to Fund (SDR millions; based on existing use of resources and present
+holdings of SDRs):
+Forthcoming
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+Charges/interest
+
+0.01
+
+0.01
+
+0.01
+
+0.01
+
+0.01
+
+Total
+
+0.01
+
+0.01
+
+0.01
+
+0.01
+
+0.01
+
+Principal
+
+2
+
+INTERNATIONAL MONETARY FUND
+
+PHILIPPINES
+
+VII. Exchange Arrangement:
+The de jure exchange rate arrangement is free floating, while the de facto exchange arrangement is
+classified as floating. The value of the Philippine peso is determined in the interbank foreign
+exchange market; the Bangko Sentral intervenes in the spot and forward markets in order to smooth
+undue short-term fluctuations in the exchange rate and to strategically build reserves. Philippines has
+not introduced any new exchange measure that could give rise to multiple currency practices and
+maintains an exchange system free of restrictions on the making of payments and transfers for
+current international transactions.
+VIII. Article IV Consultation:
+Philippines is on the standard 12˗month cycle. The 2011 Article IV consultation was discussed by the
+Executive Board on February 17, 2012 (IMF Country Report No. 12/49).
+IX. Financial Sector Assessment Program (FSAP) and Report on Standards and Codes (ROSC)
+Participation:
+MCM: Philippines’ FSAP was conducted during the fourth quarter of 2001; FSAP missions visited
+Manila in October and November–December 2001. The final version of the report was discussed
+with the authorities in June 2002. The associated FSSA was discussed by the Executive Board
+together with the Article IV staff report in September 2002. The FSAP update mission took place in
+November 2009.
+FAD: Discussions on fiscal transparency were held in Manila in September 2001. The ROSC report
+was discussed by the Executive Board in September 2002 together with the Article IV staff report,
+and published in October 2002. The update to the ROSC report was published in June 2004.
+STA: ROSC Data Module mission was conducted in September 2003, and the report was published
+in August 2004.
+X. Technical Assistance:
+In the fiscal area, FAD has executed a TA project financed by the Millennium Challenge Corporation
+to improve the basic functions of tax administration by the Bureau of Internal Revenue, in line with
+recommendations made by FAD TA missions in 2005, 2008, and 2009. The project provides for a
+resident tax advisor as well as an extensive program of short­term expert visits. FAD TA on tax policy
+in 2010 and 2011 assessed Philippines’ tax system and advised on a road map for a pro­growth and
+equitable tax system. On public financial management areas, FAD has provided TA on spending
+controls and cash management, including through a peripatetic advisor on cash management
+since 2009. In January and June 2012, FAD missions provided TA on cash management and budget
+education. In April 2012, FAD provided TA on reform of fiscal regimes for mining and petroleum. In
+
+INTERNATIONAL MONETARY FUND
+
+3
+
+PHILIPPINES
+
+September 2012, FAD provided follow­up TA on general tax policy. From January 2011January 2013, FAD provided a resident tax administration advisor. FAD TA missions on tax
+administration took place in January, February, and April-May 2012.
+An LEG legal expert visited Manila to discuss anti­money laundering initiatives in March 2002 and
+for the regional United Nations Security Council Resolutions/Financing of Terrorism Convention
+Project workshop in July 2010. A LEG TA mission on AML/CFT took place in February 2012. In
+April 2012, LEG provided TA on fiscal law.
+An MCM resident banking supervision advisor was stationed in Manila to assist the BSP in the
+implementation of a new supervisory model from May 2003 to June 2012, when it was converted to
+peripatetic assistance. MCM TA in the area of problem bank identification, management, and
+resolution took place in March 2009 and, together with TA on banking supervision, in April­May and
+October-December 2010 and a TA mission on stress testing visited Manila in June 2009. The Japan
+Administered Account for Selected IMF Activities inspection visit took place in May 2010. In 2011,
+MCM TA missions on bank supervision took place in May­July, and November; TA missions on bank
+resolution took place in November-December; and TA missions on DSGE models for monetary
+policy formulation took place in May. In 2012, MCM TA missions on banking supervision took place
+in April and July­August, September, November-December. In 2013, an MCM TA mission on banking
+supervision took place in January-February.
+A STA peripatetic mission visited Manila in July–August 2003, January–February 2004, and February–
+March 2005 to provide TA in balance of payments and international investment position statistics
+and in implementing the recommendations made by the ROSC Data Module mission. An STA
+mission took place in March˗April 2006 to assist the authorities in compiling and disseminating
+government finance statistics in accordance with Government Finance Statistics Manual 2001. A STA
+mission took place in August 2009 to finalize a monetary statistics compilation system based on the
+Standardized Report Forms. An STA TA mission on migration to GFSM took place in February 2012,
+and a STA mission on balance of payments statistics visited Manila in April­May 2012. In
+September 2012, an STA mission provided TA on the producer and consumer price indices.
+XI. Resident Representative:
+A Resident Representative has been stationed in Manila since January 1984. Mr. Shanaka Jayanath
+Peiris assumed the post of Resident Representative in September 2012.
+
+4
+
+INTERNATIONAL MONETARY FUND
+
+PHILIPPINES
+
+IMF-WORLD BANK COLLABORATION
+(As of February 26, 2013)
+Background
+The Bank and the Fund country teams on Philippines exchanged views to coordinate the teams’ work
+during 2013 through the resident representative’s office and headquarters missions. The teams
+agreed on Philippines’ main macroeconomic challenges to navigate the uncertain global
+environment to maintain macroeconomic stability, create policy space to meet future potential
+shocks, and build the foundations for faster and more inclusive growth. Based on this shared
+assessment, the teams identified three structural reform areas as macro­critical, in view of their
+central role in achieving sustained inclusive growth: (1) raising investment, including public sector
+capital spending; (2) strengthening public finance and social safety nets; and (3) the financial sector.
+Table 1 details the specific activities planned by the two country teams over the period
+January 2013˗December 2013, along with their expected deliveries, and the division of labor.
+The Key Areas with Joint Programs
+Strengthening Public Finance
+The continued focus on mobilizing fiscal revenue help fund spending in support of sustained and
+inclusive growth, while strengthening the resilience to shocks. The Fund and the Bank have a long
+standing program of support for strengthening public finance and involve close coordination in
+support of tax administration reforms in the Bureau of Internal revenue; tax policy reform including
+fiscal incentives rationalization; management of fiscal risks; debt management strategy;
+strengthening the fiscal unit in the Department of Finance (focused on assessing and strengthening
+customs and BIR performance); and support for the Bureau of Treasury’s lead role in implementation
+of a Single Treasury Account (TSA).
+Financial Sector
+A joint Bank/Fund Financial System Stability Assessment took place in 2009, following up on the
+initial joint FSAP in 2002. Following the FSAP recommendations, the Fund has focused on technical
+assistance in bank supervision. The bank has taken the lead in nonbank financial sector. Joint areas
+of interest are banking sector soundness, and capital market development.
+No disagreement among the two teams emerged on either the key issues, challenges or on the
+division of tasks to tackle these. It was agreed that further details on collaboration, as necessary,
+would be agreed at the technical level as work progresses. The teams have the following requests
+for information and collaboration from their counterparts:
+
+INTERNATIONAL MONETARY FUND
+
+5
+
+PHILIPPINES
+
+
+
+The Fund team requests to be kept informed of progress in World Bank’s discussions with the
+government on financing of infrastructure, PPPs, and implementation of the development policy
+loan. Review and sharing of analytical work, in particular the annually prepared Philippines
+Development Report (PDR), would be welcome, in addition to follow up from the 2010 FSAP,
+and on work related to the reform of social safety nets, public expenditure reviews, and public
+financial management.
+
+
+
+The Bank team requests to be kept informed of the Fund’s assessments of macroeconomic
+policies and prospects and to coordinate closely the technical assistance work, especially in
+areas such as tax policy and administration, where the Bank has an existing program in place, as
+well as in public expenditure analysis and management, where extensive Bank work is ongoing.
+The Bank would welcome participation in the Article IV consultation and other relevant IMF
+mission.
+
+6
+
+INTERNATIONAL MONETARY FUND
+
+PHILIPPINES
+
+Table 1. Philippines: Bank and Fund Planned and Ongoing Activities in Macro-Critical
+Structural Reform Areas, January 2013-December 2013
+Products
+Bank Work Program
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fund Work Program
+
+
+
+
+
+
+
+
+
+Joint Work Program
+
+
+
+
+
+
+
+
+
+
+
+
+Expected Delivery Date
+
+Philippines Development Report on ”Creating More and Better
+Jobs”
+Philippine Economic Update
+Programmatic policy analysis and implementation support for
+inclusive growth
+Programmatic support on improving statistics
+Supervision on NPSTAR project
+Backstopping of GFMIS implementation (AusAID)
+Development Policy Loan 2
+Development Policy Loan 3
+Report on migration and remittances
+Grant (AusAID) on developing an enterprise survey
+Grant (IDF) on program evaluation
+Financial Modeling for Deposit Insurance (FIRST)
+Microinsurance reporting system (FIRST)
+Financial Education and Consumer Protection with BSP (SECO)
+Programmatic AAA for Financial Sector Development
+
+
+
+March 2013
+
+
+
+
+April and October, 2013
+June 2013 to June 2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+June 2013 to June 2016
+Project closing June 2013
+ongoing
+Board, March 2013
+Concept Note, May 2013
+March 2013
+Closing in December 2013
+Closing in December 2015
+September 2013
+June 2013
+December 2013
+June 2014
+
+Article IV consultation with a focus on harnessing ample
+external funding to support sustained, more inclusive growth,
+while containing stability risks.
+Article IV staff report
+
+
+
+January 2013
+
+
+
+March 2013
+
+Banking supervision technical assistance (TA)
+Tax administration TA
+Public financial management (cash management and budget
+execution) TA
+Tax policy TA
+Liquidity management and forecasting
+
+
+
+
+
+Ongoing
+Ongoing
+Ongoing
+
+
+
+
+Ongoing
+Ongoing
+
+Close coordination in Support to Tax Administration Reforms
+in the BIR (IMF under an MCC supported work program and
+WB thought its NPSTAR operation) , support for reinforcing
+reforms Tax policy: fiscal incentives rationalization
+Management of Fiscal Risk and GOCC/PPPs
+DoF-BTr Debt Management Strategy
+Support for fiscal unit in DoF (focused on assessing and
+strengthening customs and BIR performance)
+support for the Bureau of Treasury’s lead role in
+implementation of a Single Treasury Account (TSA)
+Collaboration and review of Philippines Development Policy
+Loans Program
+ DPL 2 Board
+ DPL 3 Concept Note
+Review of Philippines Development Report on ”Creating More
+and Better Jobs”
+Review of Concept Note programmatic policy analysis and
+implementation support for inclusive growth
+
+
+
+Ongoing
+
+
+
+
+
+Ongoing
+Ongoing
+Ongoing
+
+
+
+Ongoing
+
+
+
+
+
+March 2013
+May 2013
+March 2013
+
+
+
+April 2013
+
+INTERNATIONAL MONETARY FUND
+
+7
+
+PHILIPPINES
+
+IMF-World Bank Collaboration Matrix: Macro-Critical Structural Issues
+Short-Term
+Reforms
+Raising potential
+growth
+
+Investment
+incentives
+
+Energy sector
+taxation
+Oil
+deregulation
+law
+
+Medium- and Long-term Reforms of Direct
+Relevance to IMF 1/
+Corporate sector
+Corporate sector performance and vulnerabilities
+(IMF/WB)
+Investment environment
+Regulatory framework (WB)
+Corruption /rule of law (WB)
+Investment incentives (IMF)
+Energy Sector
+Power supply and expected shortage (WB)
+Energy sector taxation (IMF)
+Rice market
+NFA operation and efficiency (WB)
+Pricing and subsidy of rice (WB/IMF)
+Labor market (WB in relation to education )
+Regulatory framework (WB)
+Wages/union structure (WB)
+
+Other Structural
+Reforms 2/
+Corporate governance
+Concentration/oligopoly/
+monopoly (WB˗2005
+CEM)
+
+Structural reforms in key sectors (e.g., ports and
+shipping, water, tourism, agriculture, and
+IT­enabled services) (WB)
+Public finance
+
+BIR reform
+Cash
+management
+Expenditure
+efficiency
+(capital
+spending)
+
+Financial sector
+
+Revenue administration
+BIR reform (IMF/WB)
+BOC (IMF in relation to customs)/WB in relation to
+trade facilitation)
+Revenue forecasting (WB/IMF)
+Public financial management
+Cash management (IMF)
+IFMIS/fiscal reporting (IMF)
+Budget preparation (IMF/WB)
+Budget execution (IMF/WB)
+Tax Policy (IMF/WB)
+Expenditure efficiency/policy
+Social safety net (WB)
+Level of spending (IMF/WB)
+Efficiency (WB)
+Medium-term Expenditure Framework (WB/IMF)
+GOCC reform (WB)
+Fiscal Responsibility Law (IMF/WB)
+
+PPPs (WB/IMF)
+Debt Management
+(World Bank/IMF)
+
+Bank supervision (IMF)
+Banking sector soundness (IMF/WB)
+PDIC
+Contingency Framework (IMF)
+Capital market development (IMF/WB)
+International coordination to limit regulatory
+arbitrage (IMF)
+
+1/ Issues directly relevant for IMF work; (IMF) means work done in­house, (IMF/WB) implies in­house work in parallel or
+collaboration with the WB; and no specific reference means input required from other institutions.
+2/ Noncritical, but useful input to IMF analysis.
+
+8
+
+INTERNATIONAL MONETARY FUND
+
+PHILIPPINES
+
+RELATIONS WITH THE ASIAN DEVELOPMENT BANK
+(As of February 2013)
+Since joining the Asian Development Bank (ADB) in 1966, Philippines has received 199 sovereign
+loans for a total of $12,945.6 million, and 396 technical assistance (TA), including supplementary
+approvals, amounting to $218.9 million. The energy, public sector management, and agriculture and
+natural resources account for the largest proportion of ADB lending (combined 59.7 percent of the
+total) (Table 2). As of December 31, 2012, cumulative direct value˗added cofinancing for Philippines
+since 1970 amounted to $2.73 billion for 50 investment projects and $61.5 million for 57 TA projects.
+Table 2. Cumulative ADB Lending to Philippines
+(As of February 2013)
+
+Sector
+
+Energy
+Public sector management
+Agriculture and natural resources
+Transport and ICT
+Finance
+Water and other municipal infrastructure
+and services
+Multi-sector
+Health and social protection
+Education
+Industry and trade
+Total
+
+No. of
+Loans
+
+Amount of
+Loans
+(US$ millions)
+
+Percent
+(by amount)
+
+27
+10
+60
+27
+20
+27
+
+2,988.2
+2,728.0
+2,009.0
+1,354.8
+1,328.0
+1,042.9
+
+23.1
+21.1
+15.5
+10.5
+10.3
+8.1
+
+8
+7
+8
+5
+
+701.2
+367.4
+252.1
+174.0
+
+5.4
+2.8
+1.9
+1.3
+
+199
+
+12,945.6
+
+100.0
+
+ADB’s private sector operations in Philippines began in 1986. As of February 2013, cumulative
+approvals in 27 projects amounted to $792.1 million. ADB’s private sector operations in Philippines
+included financing for power plants and investments in banks and private equity funds. In 2008, a
+$200 million loan was approved and disbursed for the acquisition, rehabilitation, and operation of
+the existing 600˗megawatt Masinloc coal˗fired thermal power plant in Zambales province by
+Masinloc Power Partners Co. Ltd. In 2009, a $120 million loan was approved for KEPCO SPC Power
+Corporation for the construction, operation and maintenance of a new coal fired power plant in the
+Visayas region using circulating fluidized bed technology. In 2012, an equity investment of
+$25 million was approved for Philippine Investment Alliance for Infrastructure Fund.
+
+INTERNATIONAL MONETARY FUND
+
+9
+
+PHILIPPINES
+
+The Country Partnership Strategy (CPS) 2011−2016 was endorsed by the ADB Board of Directors on
+October 26, 2011. The CPS is aligned with the Philippine Development Plan 2011−2016 and
+Strategy 2020. The key objective of ADB support will be to help Philippines achieve, high, inclusive,
+and sustainable growth. The intended outcomes of the CPS are: (i) improved investment climate and
+private sector development; (ii) more efficient, effective, and equitable social service delivery;
+(iii) reduced environmental degradation and vulnerability to climate change disasters;
+and (iv) strengthened governance and reduced corruption. The Country Operations Business Plan
+(COBP), 2013–2015, the second under the CPS 2011–2016 was approved on 1 October 2012.
+
+10
+
+INTERNATIONAL MONETARY FUND
+
+PHILIPPINES
+
+STATISTICAL ISSUES
+(As of February 11, 2013
+I. Assessment of Data Adequacy for Surveillance
+General: Data provision to the Fund has some shortcomings, but is broadly adequate for surveillance.
+National accounts: As part of a World Bank-funded project, Improving the Quality and Usefulness of the Philippine
+System o f National Accounts, the National Statistical Coordination Board (NSCB) rebased the national accounts
+from 1985 to 2000. Continuing improvements include on-going efforts to fully implement the System of National
+Accounts, 2008. Despite the authorities’ efforts to improve quality, weaknesses remain in the national accounts. These
+include the coverage of the GDP and the statistical discrepancies in the GDP estimates between the expenditure and
+production sides. The authorities are working on improving (i) the accuracy of the GDP volume measures; (ii) the
+coverage of the public corporations sector; (iii) the accuracy of the quarterly GDP data; and (iv) the adoption of
+benchmark techniques to reconcile quarterly and annual national accounts estimates. The NSCB is currently
+participating in the IMF Statistics Department’s Project on the Implementation of the System of National Accounts and
+the International Comparison Program, funded by the Government of Japan. This three-year technical assistance
+project provides assistance to improve the quality of the national accounts and price statistics.
+Price statistics: In July 2011, the National Statistics Office introduced a rebased consumer price index (CPI). The
+updated CPI is compiled using weights based on the 2006 Family Income and Expenditure Survey. Data from
+the 2008 Commodity and Outlet Survey were used to augment the provincial market baskets. One important
+methodological change implemented in the updated CPI is the adoption of the internationally recommended
+Classification of Individual Consumption by Purpose (COICOP) for the classification of all items. As noted in the above
+section, assistance will be provided to improve the quality of price statistics in Philippines.
+External sector statistics: Steps have been taken to improve the quality of balance of payment statistics. In 2005, the
+Central Bank of Philippines (BSP) created a Department of Economic Statistics, with one of its units to concentrate on
+compiling, analyzing, and publishing the balance of payments and the international investment position. Since
+deregulation in the early 1990s, international transactions have increasingly flowed through nontraditional channels
+that are not adequately covered by the statistical reporting system. The authorities have introduced new data
+sources, including the Cross Border Transactions Survey and administrative-based reporting systems to address
+coverage issues, but challenges remain. The Foreign Currency Deposit Units (FCDUs), which account for about
+70−75 percent of foreign exchange settlements, are exempt from reporting requirements because of strict banking
+secrecy rules.
+Monetary and financial statistics: Compilation of monetary and financial statistics (MFS) largely conforms to the
+Fund’s methodology.
+Government finance statistics: Provision of fiscal data is broadly adequate for surveillance. Major areas for
+improvement include detailed data for levels of the public sector beyond the national government as well as
+transition of fiscal data reporting to the GFSM 2001 format. Fiscal Transparency ROSCs were conducted in 2002
+and 2004.
+
+II. Data Standards and Quality
+Philippines subscribed to the Special Data Dissemination Standards
+(SDDS) in August 1996.
+
+A data ROSC was published in
+August 2004.
+
+INTERNATIONAL MONETARY FUND
+
+11
+
+PHILIPPINES
+
+Philippines: Table of Common Indicators Required for Surveillance
+(As of February 11, 2013)
+Date of
+Latest
+Observation
+
+Date
+Received
+
+Frequency
+of
+7
+Data
+
+Frequency
+of
+7
+Reporting
+
+Frequency
+of
+7
+Publication
+
+2/11/13
+
+2/11/13
+
+D
+
+D
+
+D
+
+International reserve assets and
+reserve liabilities of the monetary
+1
+authorities
+
+1/13
+
+2/13
+
+D
+
+D
+
+M
+
+Reserve/base money
+
+1/13
+
+2/13
+
+D
+
+W
+
+W
+
+Broad money
+
+11/12
+
+1/13
+
+M
+
+M
+
+M
+
+Central bank balance sheet
+
+10/12
+
+1/13
+
+M
+
+M
+
+M
+
+Consolidated balance sheet of the
+banking system
+
+11/12
+
+1/13
+
+M
+
+M
+
+M
+
+2/11/13
+
+2/11/13
+
+D
+
+D
+
+D
+
+Consumer price index
+
+1/13
+
+2/13
+
+M
+
+M
+
+Revenue, expenditure, balance and
+3
+composition of financing —general
+4
+government
+
+2011
+
+12/12
+
+Q
+
+Revenue, expenditure, balance and
+3
+composition of financing —central
+government
+
+11/12
+
+1/13
+
+Stocks of central government and
+central government-guaranteed
+5
+debt
+
+Q3:2012
+
+External current account balance
+
+Memo Items:
+Data Quality—
+Methodological
+8
+Soundness
+
+Data Quality—
+Accuracy and
+9
+Reliability
+
+O, LO, LO, LNO
+
+LO, O, O, O,
+LO
+
+M
+
+O, O, O, O
+
+O, LO, O, LO,
+LO
+
+Q
+
+Q
+
+LO, LO, O, O
+
+LO, LO, LO, LO,
+LO
+
+M
+
+M
+
+M
+
+12/12
+
+Q
+
+Q
+
+Q
+
+Q3:2012
+
+12/12
+
+Q
+
+Q
+
+Q
+
+O, LO, LO, LO
+
+LNO, LO, O,
+LO, LO
+
+Exports and imports of goods and
+services
+
+Q3:2012
+
+12/12
+
+Q
+
+Q
+
+Q
+
+GDP/GNP
+
+Q4:2012
+
+1/13
+
+Q
+
+Q
+
+Q
+
+LO, LO, O, LO
+
+LNO, LNO, O,
+LO, O
+
+Gross external debt
+
+Q3:2012
+
+12/12
+
+Q
+
+Q
+
+Q
+
+2011
+
+09/12
+
+A
+
+A
+
+A
+
+Exchange rates
+
+2
+
+Interest rates
+
+International investment position
+
+6
+
+1
+Any reserve assets that are pledged of otherwise encumbered should be specified separately. Also, data should comprise short-term liabilities linked to a foreign currency
+but settled by other means as well as the notional values of financial derivatives to pay and to receive foreign currency, including those linked to a foreign currency but settled
+by other means.
+2
+Both market-based and officially determined, including discount rates, money market rates, rates on treasury bills, notes, and bonds.
+3
+Foreign, domestic bank, and domestic nonbank financing.
+4
+The general government consists of the central government (budgetary funds, extra budgetary funds, and social security funds) and state and local governments.
+5
+Including currency and maturity composition.
+6
+Includes external gross financial asset and liability positions vis-à-vis nonresidents.
+7
+Daily (D), Weekly (W), Monthly (M), Quarterly (Q), Annually (A), Irregular (I); Not Available (NA).
+8
+Reflects the assessment provided in the data ROSC or the Substantive Update (published on August 25, 2004, and based on the findings of the mission that took place
+during September 1–16, 2003) for the dataset corresponding to the variable in each row. The assessment indicates whether international standards concerning concepts and
+definitions, scope, classification/sectorization, and basis for recording are fully observed (O), largely observed (LO), largely not observed (LNO), or not observed (NO).
+9
+Same as footnote 8, except referring to international standards concerning source data, statistical techniques, assessment and validation of source data, assessment and
+validation of intermediate data and statistical outputs, and revision studies.
+
+12
+
+INTERNATIONAL MONETARY FUND
+
+Public Information Notice (PIN) No. 13/44
+FOR IMMEDIATE RELEASE
+April 18, 2013
+
+International Monetary Fund
+700 19th Street, NW
+Washington, D. C. 20431 USA
+
+IMF Executive Board Concludes 2013 Article IV Consultation with the
+Philippines
+On March 29, 2013, the Executive Board of the International Monetary Fund (IMF) concluded
+the Article IV consultation with the Philippines. 1
+Background
+In 2012, the Philippine economy shrugged off weakness abroad to grow by more than
+6½ percent, while preserving internal and external stability. This reflected strong consumption
+and investment, fuelled by exceptionally­low interest rates and sustained remittances, as well as
+continued export product diversification. The current account surplus remained around
+3 percent of GDP supported by remittances and business process outsourcing exports, while
+inflation moderated to 3.1 percent in year­average terms.
+Large and stable inflows from abroad contributed to the cumulative 10 percent real appreciation
+since end 2009. Despite the larger-than-expected appreciation of the peso last year, reserves
+still rose by about US$9 billion. In total, they remain high—at the equivalent of 34 percent of
+GDP. Capital inflows moderated in 2012 relative to the previous year, but picked up in
+early 2013.
+
+Under Article IV of the IMF's Articles of Agreement, the IMF holds bilateral discussions with
+members, usually every year. A staff team visits the country, collects economic and financial
+information, and discusses with officials the country's economic developments and policies. On
+return to headquarters, the staff prepares a report, which forms the basis for discussion by the
+Executive Board. At the conclusion of the discussion, the Managing Director, as Chairman of the
+Board, summarizes the views of Executive Directors, and this summary is transmitted to the
+country's authorities. An explanation of any qualifiers used in summings up can be found here:
+http://www.imf.org/external/np/sec/misc/qualifiers.htm.
+1
+
+2
+Financial and real estate markets have been buoyant. Equity prices rose by one third in 2012,
+bank credit and other sources of financing are growing briskly, while short­term T­bill rates have
+dropped below 0.2 percent. Real estate activity is proceeding quickly, although price growth
+remains in the single digits.
+Despite the strong economic performance over the past decade, the benefits have not
+permeated the broader population. Unemployment is around 6¾ percent—high from a regional
+perspective—and the poverty rate remains stubbornly elevated. The weak investment climate of
+poor infrastructure, limited competition due to tight restrictions on foreign investment and
+concentrated ownership, and continued red tape and corruption are seen as contributing
+factors.
+Policies are geared to maintaining stability and supporting sustained and inclusive growth. The
+Bangko Sentral ng Pilipinas (BSP) has reduced its policy interest rate while utilizing a broader
+range of tools than in the past to respond to easing domestic inflation pressures and low interest
+rates abroad. The fiscal stance was mildly supportive of growth in 2012. The government is
+undertaking reforms to raise fiscal revenue while increasing social and infrastructure spending
+and lowering the debt ratio. In the financial sphere, oversight and regulation of the real estate
+sector has been stepped up. Expanded social programs will help meet basic needs, while
+numerous Public­Private Partnership projects in various stages of preparation are intended to
+alleviate infrastructure­related growth bottlenecks.
+Executive Board Assessment
+Executive Directors commended the authorities’ prudent policies which have delivered strong
+macroeconomic outcomes and set the stage for favorable economic prospects for the near
+term. However, Directors noted risks associated with global uncertainties, volatile capital
+inflows, banks’ increasing exposure to some sectors, and the possibility of stretched asset
+prices. Accordingly, they stressed the importance of continued prudent policy implementation
+and stepped up reforms to bolster resilience, sustain high growth, and reduce poverty.
+Directors welcomed the broadening of the policy toolkit to strengthen monetary control and
+preserve macrofinancial stability. In this context, they noted that authorities’ participation in the
+foreign exchange market continues to be limited to smoothing excessive volatility, and urged
+that the exchange rate continue to move broadly in line with fundamentals. Careful deployment
+of macroprudential measures will be key to managing inflows and risks of asset price bubbles.
+Directors highlighted that arrangements to ensure adequate central bank capital will be
+essential to support operational independence of monetary policy.
+Directors commended the generally proactive financial sector oversight. Further steps to close
+supervisory gaps, including by broadening the central bank’s authority to allow supervision of
+
+3
+conglomerate parents of banks and strengthening legal protections for supervisors would help
+mitigate systemic risks from real estate, shadow banking, and concentrated credit exposures.
+Directors welcomed recent actions to address weaknesses in the regime to combat money
+laundering and the financing of terrorism.
+Directors endorsed the authorities’ continued focus on further strengthening the fiscal position
+over the medium term. Efforts to improve tax administration and compliance, broaden the tax
+base, and reduce exemptions will be necessary to generate budgetary space for infrastructure
+and social spending. Recent increases in alcohol and tobacco excises are welcome steps in this
+direction.
+Directors noted with satisfaction some improvement in the business climate. However, to
+sustain strong growth, increase domestic job creation, and reduce poverty, they saw the need
+for further reforms geared toward increasing investment, improving infrastructure, and
+enhancing governance. Directors agreed that the expanded coverage of public health care,
+conditional cash transfers, and longer compulsory schooling would help meet immediate basic
+needs and support a more productive workforce. To catalyze private investment, Directors
+encouraged the authorities to relax limits on foreign ownership, execute public-private
+partnerships in a transparent manner, and strengthen the medium-term fiscal framework.
+
+Public Information Notices (PINs) form part of the IMF's efforts to promote transparency of the IMF's
+views and analysis of economic developments and policies. With the consent of the country
+(or countries) concerned, PINs are issued after Executive Board discussions of Article IV consultations
+with member countries, of its surveillance of developments at the regional level, of post-program
+monitoring, and of ex post assessments of member countries with longer-term program engagements.
+PINs are also issued after Executive Board discussions of general policy matters, unless otherwise
+decided by the Executive Board in a particular case. The staff report (use the free Adobe Acrobat
+Reader to view this pdf file) for the 2013 Article IV Consultation with the Philippines is also available.
+
+4
+Philippines: Selected Economic Indicators, 2009–14
+
+GDP and prices (percent change)
+Real GDP
+CPI (annual average)
+CPI (end year)
+Investment and saving (percent of GDP)
+Gross investment
+National saving
+Public finances (percent of GDP)
+National government balance (authorities' definition)
+National government balance 1/
+Nonfinancial public sector balance 2/
+Revenue and grants
+Expenditure
+Nonfinancial public sector debt
+Monetary sector (percent change, end of period)
+Broad money (M3)
+Interest rate (91-day treasury bill, end of period, in percent) 3/
+Credit to the private sector (in percent)
+External sector
+Export value (percent change)
+Import value (percent change)
+Current account (percent of GDP)
+Capital and Financial account (US$ billions)
+Direct investment (net)
+Errors and omissions (US$ billions)
+Overall balance (US$ billions)
+Total external debt (percent of GDP) 4/
+Debt service ratio 5/
+Reserves(US$ billions)
+Reserves/short-term liabilities 6/
+Exchange rate (period averages)
+Pesos per U.S. dollar
+Nominal effective exchange rate (2005 =100)
+Real effective exchange rate (2005 =100)
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013 2014
+Staff proj.
+
+1.1
+4.2
+4.4
+
+7.6
+3.8
+3.6
+
+3.9
+4.7
+4.2
+
+6.6
+3.1
+2.9
+
+6.0
+3.1
+3.7
+
+5.5
+3.2
+3.0
+
+16.6
+22.1
+
+20.5
+25.0
+
+21.7
+24.8
+
+19.4
+22.4
+
+20.1
+22.5
+
+20.6
+22.6
+
+-3.7
+-3.8
+-3.1
+20.0
+23.1
+58.1
+
+-3.5
+-3.6
+-3.4
+18.4
+21.8
+54.8
+
+-2.0
+-2.1
+-1.0
+18.3
+19.3
+55.7
+
+-2.2
+-2.3
+-1.1
+18.5
+19.6
+54.5
+
+-2.0
+-2.0
+-1.0
+19.1
+20.1
+51.3
+
+-2.0
+-2.0
+-1.0
+19.4
+20.4
+48.7
+
+8.3
+4.3
+10.0
+
+10.6
+1.3
+8.9
+
+6.3
+1.7
+19.3
+
+10.6
+0.5
+16.2
+
+…
+…
+…
+
+…
+…
+…
+
+-22.1
+-24.0
+5.6
+-1.6
+1.6
+-1.3
+6.4
+38.8
+14.3
+44.2
+391.0
+
+34.9
+32.9
+4.5
+7.4
+0.7
+-2.0
+14.3
+37.4
+11.3
+62.4
+403.2
+
+-6.4
+2.1
+3.1
+5.2
+1.3
+-2.0
+10.2
+34.1
+11.9
+75.3
+476.6
+
+8.1
+6.0
+3.0
+1.3
+0.6
+-2.4
+6.4
+31.8
+10.5
+83.8
+457.0
+
+4.6
+7.8
+2.4
+1.2
+0.9
+0.0
+7.9
+28.4
+11.3
+91.8
+469.7
+
+5.9
+7.5
+2.1
+1.9
+0.9
+0.0
+8.6
+26.5
+11.1
+100.4
+492.3
+
+47.6
+106.7
+120.4
+
+45.1
+109.4
+125.9
+
+43.3
+108.3
+126.7
+
+42.2
+112.2
+132.7
+
+n.a.
+n.a.
+n.a.
+
+n.a.
+n.a.
+n.a.
+
+Sources: Philippine authorities; World Bank, and IMF staff projections.
+1/ Fund definition. Excludes privatization receipts and includes deficit from restructuring of the previous central bank
+(Central Bank-Board of Liquidators).
+2/ Includes the national government, 14 government-owned enterprises, social security institutions, and local
+governments.
+3/ Secondary market rate.
+4/ Includes external debt not registered with the central bank, and private capital lease agreements.
+5/ In percent of exports of goods and nonfactor services.
+6/ Reserves as a percent of short-term debt (including medium- and long-term debt due in the following year).
+
+Statement by Der Jiun Chia, Executive Director for the Philippines
+and Alphew Cheng, Advisor to Executive Director
+March 29, 2013
+1.
+Since the last Article IV Consultation, Philippine authorities continued to
+implement sound macroeconomic policies that sustained investor confidence and supported
+economic growth. Policy efforts and resulting economic gains were affirmed by improvements
+in investor confidence, credit ratings, and competitiveness rankings. Despite the positive
+developments, authorities recognize the need for continued vigilance against global uncertainties
+and risks associated with capital flows. Authorities are determined to preserve and capitalize on
+the gains achieved through good governance and sound policies, and are committed to push for
+more reforms that will help reduce unemployment and promote a sustainable and more inclusive
+growth. In this regard, authorities thank the staff for highlighting the risks to the economy and
+for sharing useful insights during the conduct of the 2013 Article IV Consultation.
+Recent Developments
+2.
+Despite the continued weakness in the global economy, the country enjoyed strong
+growth in 2012. The services sector, including trade, rentals and business process outsourcing,
+remained the main driver of growth. A sharp rebound in the industry sector was also seen on
+account of the expansion in manufacturing and construction. On the expenditure side, consumer
+demand maintained its strength while government spending picked up with increased outlays for
+public construction and social programs.
+3.
+Growth was supported by a stable macroeconomic environment. Average inflation
+rate for 2012 was recorded at 3.2% and fiscal deficit was kept under 3.0% of GDP. The current
+account and the BOP continued to post surpluses, with remittance flows from overseas Filipinos
+rising by 6.3% year-on-year, exhibiting resiliency amid global developments. International
+reserves continued to increase and external debt ratios improved. The banking system also
+remained sound, registering steady growth in assets, deposit base and capital, as well as
+improvements in asset quality.
+4.
+Although growth had been strong, labor markets showed little improvement.
+Unemployment rate remained close to 7.0% and underemployment hovered around 20.0%.
+Authorities took steps to improve the labor market, for example, through the identification of indemand professions and skills, trainings to address skill mismatches, and other community-based
+employment programs. While improvements are expected given the growth momentum, moving
+forward, authorities believe that more effort is needed, particularly in encouraging investments
+and creating more jobs.
+Policy Actions
+5.
+Authorities adopted a broad policy framework to facilitate growth of the economy
+while at the same time allowing for buffers to ensure stability. This include (i) consolidating
+the fiscal position, but with strengthened social and infrastructure spending through better tax
+administration and collection; (ii) strengthening debt sustainability through lengthening maturity
+and shifting towards domestic financing; (iii) adopting a supportive monetary policy in light of
+
+2
+manageable inflation expectations and increasing potential output; (iv) strengthening financial
+institutions to support credit growth needed to sustain economic expansion; and,
+(v) implementing structural reforms to promote investments and more inclusive growth.
+6.
+During the year, fiscal authorities improved revenue and tax efforts to increase
+resources for infrastructure and social spending. Authorities instituted programs to strengthen
+tax compliance and intensified efforts to run after back taxes to ensure permanent improvements
+in future tax collections. Authorities are working to put in place electronic systems to improve
+tax and customs administration. Authorities are also moving to enhance the transparency of fiscal
+incentives as a step towards removing redundancies and inefficiencies. Moreover, authorities are
+working with industry representatives to study options for the mining sector’s fiscal regime to
+enable the government to receive its fair share of mining revenues.
+7.
+Meanwhile, authorities introduced new budget procedures to ensure the consistency
+of programs with the country’s development plans and the prompt disbursement of funds
+to line agencies. Authorities also established a performance-based incentive system to promote
+meritocracy and good public service delivery. For 2013, authorities introduced the policy for the
+one-year validity of appropriations to enhance predictability of funding requirements. Preprocurement activities were allowed to be undertaken upon budget submission to facilitate faster
+project implementation.
+8.
+On the financing of the fiscal deficit, authorities continued to actively manage
+liabilities to minimize interest expense and provide fiscal space for budget priorities.
+Authorities engaged in liability management exercises that lengthened the duration of
+government debt and reduced the foreign exchange exposure of and the dependency on external
+debt by changing the borrowing mix in favor of local sources. In addition, authorities are
+committed to work closely with market participants to continue developing the domestic bond
+market. Authorities have recently rationalized the auction schedule in response to market
+developments. Authorities are moving to deepen bond market liquidity by establishing a unified
+market for taxable and tax-exempt bondholders.
+9.
+Amid the benign inflation outlook and to encourage investment activities, monetary
+authorities reduced policy rates by a total of 100 basis points in 2012. In April 2012, the
+central bank successfully transitioned to the rationalized reserve requirement regime that helped
+simplify compliance and monitoring, and ensured adequate liquidity in the financial system. In
+July 2012, monetary authorities clarified that the special deposit account (SDA) facility, which is
+a monetary policy tool intended to absorb excess domestic liquidity, should not be made
+available for opportunistic investment activities funded from non-resident sources. In
+January 2013, the authorities adjusted the SDA facility by reducing its interest rate below the
+policy rate, consistent with the monetary authorities’ continuing efforts to fine-tune the
+operations of the central bank’s monetary policy tools. Over the medium term, they view the
+move as a possible transition towards introducing an interest rate corridor framework for
+monetary policy operations. In relation to this, monetary authorities thank staff for the recently
+concluded technical mission to study the adoption of this new monetary policy implementation
+framework, and will consider staff suggestions. In March 2013, to continue with the fine-tuning
+operations given the benign inflation outlook, they decided to set the interest rate on reverse
+repurchase facility at the same rate of 3.5% for all tenors, and reduced the SDA rate further.
+
+3
+10.
+Consistent with the desired lower inflation path, authorities reduced the mediumterm inflation target for 2015-2016 to 3.0% +/- 1.0%. The move reflects authorities’ view on
+the favorable trends in the structure of inflation, the lower exchange rate pass-through, and the
+expected higher capacity of the economy for growth under a low inflation environment.
+11.
+To ensure the stability in the provision of credit, the central bank enhanced the
+governance standards of financial institutions through new regulations. It emphasized the
+need for Board members of financial institutions to exercise objective judgment and to ensure a
+stronger system of checks and balances. It also revised the compliance programs of banks to
+strengthen the credibility of the banking system. Further, it announced the adoption of Basel III
+capital adequacy rules for universal and commercial banks by 2014. Authorities continue to work
+with legislators on the amendment of the central bank’s charter to strengthen the supervisory
+powers of the central bank. The amendment will be delayed until the next Congress is convened
+after the elections this coming May. They also continue to strengthen the monitoring of
+exposures of the financial system to the real estate sector and conglomerates. For example, in
+August 2012, the central bank approved new reporting guidelines to provide a more
+comprehensive measure of a bank’s real estate exposures. Authorities will remain vigilant to
+ensure that banks apply prudent credit standards while financing the growth of the economy.
+12.
+Alongside the strengthening of financial institutions, authorities continued to
+actively pursue policies for inclusive finance. Authorities implemented rules promoting more
+transparency in lending and facilitated the widening of products for microenterprises. In addition,
+authorities continued to promote financial education through the establishment of learning
+centers, and ensure access to credit by mapping out financial service access points. To comply
+with international standards, authorities also continued to update laws relating to anti-money
+laundering, with the most recent update done in February 2013.
+13.
+Authorities showed their commitment and ability to deliver major reforms with the
+passage of key legislations in late 2012. These include the reproductive health, the “sin” tax,
+and the 2013 budget laws. The reproductive health law aims to improve living standards of poor
+families that are often burdened with more children than could be supported, and to allow the
+government to reallocate subsidies to such families to other critical budgetary items, such as
+education, health care and economic services. Meanwhile, the excise tax reform on tobacco and
+alcohol is expected to expand the revenue base of the government and to cover the financing
+requirements for a universal health care program. As for the 2013 budget, social services,
+particularly education, will receive the biggest allocation, while infrastructure program and other
+capital outlays will continue to support economic development.
+Outlook and Risks
+14.
+Despite concerns about spillovers from the external environment, authorities are
+optimistic for 2013. Authorities believe that growth can accelerate in 2013 as Private-Public
+Partnership projects move into implementation phase, while tourism, business process
+outsourcing and manufacturing sectors continue to expand. Inflation is expected to remain within
+target in 2013, and authorities deem the current policy stance appropriate. Authorities view that
+the benign inflation outlook allows room for monetary policy to remain supportive of economic
+growth. To protect the domestic market from further weakness in the global economy, authorities
+
+4
+see the need to nurture domestic demand and intra-regional trade. Hence, structural reforms will
+be geared towards tapping domestic and regional sources of growth. These include accelerating
+infrastructure development, ensuring the adequacy and efficiency of power supply, and
+enhancing administrative efficiencies to improve competitiveness. Also, authorities believe that
+macro-prudential policies can help ward off the build-up of imbalances and asset-price
+misalignments brought about by global liquidity and capital flows. Authorities remain committed
+to allow the exchange rate to be determined by market forces, but will also guard against
+excessive exchange rate volatility that could undermine economic growth.
+15.
+Moving forward, authorities reiterate their commitment to deliver policies that will
+promote strong and inclusive growth, in line with the Philippine Development Plan. They
+will continue to ensure that good governance is observed in the bureaucracy and continues to
+serve as the backbone for economic growth. Macroeconomic stability will be preserved through
+strong fiscal discipline, prudent monetary policy, and pro-active financial sector regulation.
+Policies will continue to help improve the investment climate and to sustain strong growth, while
+providing buffers against external and domestic shocks. Further, growth will be made more
+inclusive with continuing programs for financial inclusion, consumer protection, public health,
+education, housing, employment and conditional cash transfers. Authorities remain firm in their
+commitment to the Millennium Development Goals. In this regard, authorities express their
+appreciation for the technical assistance extended by various development partners, including the
+Fund.
+
+

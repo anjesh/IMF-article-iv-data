@@ -1,0 +1,5672 @@
+March 2010
+IMF Country Report No. 10/74
+
+© 2010 International Monetary Fund
+
+January 11, 2010
+December 10, 2009
+
+February 3, 2010 January 11, 2010
+2009
+January 29, 2001
+
+Islamic Republic of Iran: 2009 Article IV Consultation—Staff Report; Staff
+Supplement; Public Information Notice on the Executive Board Discussion; and
+Statement by the Executive Director for Iran
+Under Article IV of the IMF’s Articles of Agreement, the IMF holds bilateral discussions with
+members, usually every year. In the context of the 2009 Article IV consultation with Iran, the
+following documents have been released and are included in this package:
+
+
+The staff report for the 2009 Article IV consultation, prepared by a staff team of the IMF,
+following discussions that ended on December 10, 2009, with the officials of Iran on
+economic developments and policies. Based on information available at the time of these
+discussions, the staff report was completed on January 11, 2010. The views expressed in the
+staff report are those of the staff team and do not necessarily reflect the views of the
+Executive Board of the IMF.
+
+
+
+A staff supplement of January 11, 2010 updating information on recent developments.
+
+
+
+A Public Information Notice (PIN) summarizing the views of the Executive Board as
+expressed during its February 3, 2010 discussion of the staff report that concluded the
+Article IV consultation.
+
+
+
+A statement by the Executive Director for Iran.
+
+The document listed below has been or will be separately released.
+Selected Issues Paper
+The policy of publication of staff reports and other documents allows for the deletion of market-sensitive
+information.
+Copies of this report are available to the public from
+International Monetary Fund  Publication Services
+700 19th Street, N.W.  Washington, D.C. 20431
+Telephone: (202) 623-7430  Telefax: (202) 623-7201
+E-mail: publications@imf.org Internet: http://www.imf.org
+Price: $18.00 a copy
+
+International Monetary Fund
+Washington, D.C.
+
+INTERNATIONAL MONETARY FUND
+ISLAMIC REPUBLIC OF IRAN
+Staff Report for the 2009 Article IV Consultation
+Prepared by the Middle East and Central Asia Department
+Approved by Juan Carlos Di Tata (MCD) and David Marston (SPR)
+January 11, 2010
+Mission Dates: February 23–March 10, 2009, Tehran. The consultation discussions continued at
+the time of the Spring Meetings in Washington D.C., and during November 29-December 9, 2009
+in Tehran.
+Team: Mr. Guillaume (head), Ms. Farahbaksh, Ms. Zermeño, Mr. Zytek (all MCD), Mr. Krelove
+(FAD), Mr. Schmidt (MCM expert, Bank of France), and Ms. Djahanyekta (Administrative
+Assistant, MCD). Mr. Di Tata (MCD) and Mr. Mojarrad (OED) participated in some of the policy
+discussions.
+Meetings: The mission met with the Governor of the Central Bank, the Minister of Economy and
+Finance, other senior officials, and representatives of the commercial banks.
+Exchange arrangement: Iran maintains one exchange restriction and two multiple currency
+practices subject to approval under Article VIII, Sections 2(a) and 3, respectively. The Fund
+approved the retention of the two multiple currency practices (MCPs) through March 25, 2010 or
+the conclusion of the Article IV consultation, whichever is earlier. The exchange rate arrangement
+has been reclassified as other managed arrangement (Iran maintains a managed float vis-à-vis a
+basket of currencies).
+Past surveillance: The authorities and the Fund have generally agreed on broad policy priorities,
+including in the context of the 2008 Article IV consultation concluded on July 1, 2008. The report
+and PIN are available at http://www.imf.org/external/pubs/cat/longres.cfm?sk=22281.0
+
+2
+Contents
+
+Page
+
+Executive Summary ...................................................................................................................3
+I.
+
+Iran in the Global Economy ...........................................................................................4
+
+II.
+
+Recent Political and Economic Developments ..............................................................4
+
+III.
+
+Macroeconomic and Financial Policies to Address the Global Economic Downturn
+and the Recent Drop in Oil Prices..................................................................................9
+A. Short- and Medium-Term Outlook .........................................................................10
+B. Fiscal Policy ............................................................................................................11
+C. Monetary and Financial Policies .............................................................................12
+D. External Current Account and Exchange Rate Policy ............................................13
+E. Energy Price Reform ...............................................................................................13
+F. Risks to the Macroeconomic Outlook .....................................................................16
+
+IV.
+
+Staff Appraisal .............................................................................................................18
+
+Text Table
+Medium-Term Scenario, 2006/07–2014/15 .............................................................................11
+Boxes
+1.
+Exchange Rate Assessment............................................................................................9
+2.
+Impact of High Energy Subsidies on Iran’s Economy.................................................14
+3.
+Impact of Oil Price at $40 per Barrel on the Macroeconomic Outlook .......................16
+Figures
+1.
+Growth, Unemployment, and Per Capita Income, 2000/01–2008/09............................5
+2.
+CPI Inflation and Global Food Prices, 2000/01–2008/09..............................................5
+3.
+Fiscal Developments, 2000/01–2008/09........................................................................5
+4.
+Monetary Developments, 2000/01–2008/09 ..................................................................6
+5.
+Banking Sector Developments .......................................................................................7
+6.
+Stock Exchange Developments, 2000–09......................................................................8
+7.
+External Sector Developments, 2000/01–2008/09 ........................................................8
+8.
+Energy Price Reform Medium-Term Scenario, 2006/07–2014/15 ..............................15
+9.
+Medium-Term Scenario with Oil Price of $40 per barrel, 2006/07–2014/15..............17
+Tables
+1.
+Selected Macroeconomic Indicators, 2006/07–2014/15 ..............................................20
+2.
+Balance of Payments, 2006/07–2014/15......................................................................21
+3.
+Consolidated Accounts of the Central Government and the Oil Stabilization Fund,
+2006/07–2009/10 (in billions of Rials) ........................................................................22
+4.
+Consolidated Accounts of the Central Government and the Oil Stabilization Fund,
+2006/07–2009/10 (in percent of GDP) ........................................................................23
+5.
+Central Bank Balance Sheet, 2006/07–2009/10 ..........................................................24
+6.
+Monetary Survey, 2006/07–2009/10 ...........................................................................25
+7.
+Vulnerability Indicators, 2003/04–2008/09 .................................................................26
+Attachment
+Draft Public Information Notice ..............................................................................................27
+
+3
+EXECUTIVE SUMMARY
+Background and outlook
+Iran’s economic performance was strong in recent years, supported by high oil prices and
+expansionary fiscal and monetary policies. However, real GDP growth has slowed following
+the recent decline in oil prices, the non-oil fiscal position has become tighter, and the banks’
+financial situation has weakened. The recent approval of an ambitious energy price reform by
+Parliament could bring significant medium- and long-term benefits by increasing economic
+efficiency, and would help improve the macroeconomic outlook.
+The 2009/10 budget envisages an increase in non-oil revenue, but the overall fiscal deficit will
+need to be financed by resorting to Oil Stabilization Fund (OSF) resources. Gross official
+reserves remained at a comfortable level at end-September 2009. Over the medium term, based
+on the current WEO oil price projections, government spending will need to be adjusted
+significantly, in the absence of economic reforms, to achieve a sustainable fiscal position.
+Authorities’ views
+The authorities were in broad agreement with the staff’s assessment and recommendations.
+On fiscal policy, further consolidation is envisaged by broadening the base of the newly
+implemented VAT and implementing other tax policy and administration measures, and by
+reducing fuel and nonfuel subsidies.
+On monetary policy, the main objectives are to consolidate the recent gains in reducing
+inflation to low single digit levels, while ensuring adequate liquidity growth to support
+economic recovery; contain the commercial banks’ access to Central Bank of Iran’s (CBI)
+lending; and improve the banking system’s regulatory and supervisory framework.
+Structural reforms have focused on the proposed energy price reform. The authorities also plan
+to strengthen the soundness of the banking system.
+Staff recommendations
+A reduction of energy subsidies and a significant increase of non-oil revenue are needed to
+improve economic efficiency and achieve a more sustainable medium-term fiscal position.
+Monetary policy should aim at consolidating the recent gains in reducing inflation and encouraging
+financial intermediation. The CBI should limit banks’ access to its lending facilities, and gradually
+liberalize interest rates. The steady deterioration of banks’ soundness indicators needs to be
+addressed upfront by restructuring loan portfolios and recapitalizing banks.
+Greater exchange rate flexibility is needed to support the ongoing external adjustment.
+
+4
+I. IRAN IN THE GLOBAL ECONOMY
+1.
+In the last three years, Iran’s economic growth has been robust and its external
+position has strengthened on the back of rising international oil prices and procyclical
+policies. Real GDP growth averaged an estimated 5.6 percent a year during 2005/06–2008/09, 1
+while gross official reserves reached $80.5 billion (about 12 months of imports) by endSeptember 2009. Income per capita increased, unemployment declined to about 10 percent, and
+reportedly general welfare indicators improved. High oil revenues financed an increase in
+public spending, and boosted liquidity growth. Easy access by banks to the CBI’s lending
+facilities and negative real interest rates fuelled a credit boom. Higher government spending
+and subsidized credit contributed to the economic expansion.
+2.
+Although the Iranian economy is relatively insulated from the recent turmoil in
+international financial markets, it has been severely affected by the slowdown in global
+demand and the associated drop in oil prices. Given the limited scope for capital inflows
+due to international sanctions, the decline in fiscal and export oil revenues has recently led to a
+reduction in government spending and imports as a percentage of GDP. Although negative
+spillovers from the U.S. and European banking systems have been limited by the absence of
+exposure to international assets and the small foreign exposure of Iranian banks, the banking
+sector’s soundness indicators have deteriorated. Iran’s stock market index has recently
+rebounded after dropping sharply in the second half of 2008 and early 2009, in line with other
+global and regional markets.
+3.
+Iran has the third largest proven oil and gas reserves, and is one of the world’s largest
+oil producers. Nevertheless, its oil production has declined in recent years and medium term
+production capacity depends on the resources available for investment in the sector. The prospects
+for oil investment are uncertain because of Iran’s limited access to external and domestic financing
+and artificially low domestic energy prices.
+II. RECENT ECONOMIC DEVELOPMENTS
+4.
+The sharp decline in the oil price and rising inflation led the authorities to tighten
+fiscal and monetary policies in the second half of 2008/09. As a result, both economic
+growth and inflation fell.
+•
+
+1
+2
+
+Real GDP growth is estimated by staff to have declined to 2-2½ percent in 2008/09
+from almost 7 percent in 2007/08. 2 This reflects a reduction in oil production and a
+weakening of non-oil real GDP growth. Domestic activity and demand growth slowed
+significantly due to the global economic slowdown and lower credit growth (Figure 1).
+The fiscal Iranian year starts on March 21.
+
+There is a significant margin of error for these estimates as a result of the lack of information on the
+performance of large enterprises since September 2008.
+
+5
+Figure 1. Islamic Republic of Iran: Growth, Unemployment, and Per Capita Income, 2000/01–2008/09 1/
+12
+
+16
+
+Contribution to Growth by Sector
+(In percent)
+
+10
+
+Unemployment and Per Capita Income Growth
+(In percent)
+
+14
+
+8
+
+12
+
+6
+
+10
+
+4
+
+8
+
+2
+
+6
+
+Per capita income growth
+Unemployment rate 2/
+
+0
+-2
+
+Services
+
+Industry
+
+Agriculture
+
+Hydrocarbon
+
+4
+2
+
+Real GDP at factor cost
+
+-4
+2000/01
+
+2002/03
+
+2004/05
+
+2006/07
+
+0
+
+2008/09
+
+2000/01
+
+2002/03
+
+2004/05
+
+2006/07
+
+2008/09
+
+Sources: Iranian authorities; and Fund staff estimates.
+1/ Data for 2008/09 are preliminary.
+2/ Last observation December 2008.
+
+•
+
+Tight monetary policy and
+continued real exchange rate
+appreciation succeeded in sharply
+reducing twelve-month end-ofperiod CPI inflation from almost 30
+percent in October 2008 to about
+7½ percent in October 2009. The
+drop in international commodity
+prices and good harvest in 2009
+have also contributed to the decline
+in inflation (Figure 2).
+
+5.
+In line with Iran’s procyclical
+fiscal stance 3 and the drop in oil prices,
+the non-oil fiscal deficit is estimated to
+have declined by one percentage point of
+GDP, to about 18 percent GDP, in
+2008/09 (Figure 3). This was mainly due to
+a reduction in expenditure. A VAT with a
+three percent rate was successfully
+implemented across Iran in September 2008
+to replace the system of integrated levies. 4
+3
+4
+
+Figure 2. Islamic Republic of Iran: CPI inflation and
+Global Food Prices, 2000/01–2008/09
+(Twelve-month percentage change)
+50
+40
+30
+20
+10
+0
+Overall
+
+-10
+
+Food and Beverages
+Core CPI (excludes food and beverages)
+
+-20
+
+Global food price index
+
+-30
+2000
+
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+Sources: Iranian authorities; and Fund staff estimates.
+1/ Last observation: March 2009.
+
+Figure 3. Islamic Republic of Iran: Fiscal Developments, 2000/01–2008/09 1/
+(In percent of GDP)
+35
+
+25
+
+15
+
+5
+
+-5
+
+-15
+
+-25
+
+Oil revenue
+
+Non oil revenue
+
+Total expenditure
+
+Non oil balance
+
+OSF balance
+
+-35
+2000/01
+
+2002/03
+
+2004/05
+
+2006/07
+
+2008/09
+
+Sources: Iranian authorities; and Fund staff estimates
+
+See paragraph 15.
+
+Under the VAT, tobacco products are taxed at a rate of 15 percent, and the rate on fuel products is 30 percent.
+No separate set of excise taxes has been introduced. Revenues are shared equally between the central
+(continued)
+
+6
+
+6.
+CBI’s measures to reduce liquidity growth helped contain credit expansion in
+2008/09 (Figure 4). While the growth of broad money (M2) and credit was above 20 percent
+a year over the last three years, in the second half of 2008/09, to bring down liquidity growth,
+the CBI restructured its lending facilities and issued high denomination CBI notes to replace
+commercial bank checks. 5 Base money contracted in the first half of 2009/10 as banks repaid
+credit lines opened by the central bank to facilitate the substitution of bank checks in
+2008/09. Credit growth declined from 22½ percent in September 2008 to 11 percent in
+September 2009 as real lending rates increased sharply and banks were reluctant to extend
+new loans in light of the steady deterioration of their portfolios.
+
+Figure 4. Islamic Republic of Iran: Monetary Developments, 2000/01–2008/09 1/
+Growth in Monetary Aggregates
+(In percent)
+
+70
+60
+
+M1
+
+20
+
+50
+
+Credit to Economy
+
+15
+
+40
+
+10
+
+30
+
+5
+
+20
+
+0
+
+10
+
+-5
+
+0
+
+-10
+
+-10
+
+-15
+2000/01
+
+2002/03
+
+2004/05
+
+2006/07
+
+Nominal and Real Interest Rates (Lending)
+(In percent)
+
+25
+
+2008/09
+
+Real lending rate
+Nominal lending rate
+
+2000/01
+
+2002/03
+
+2004/05
+
+2006/07
+
+2008/09
+
+Sources: Iranian authorities; and Fund staff estimates.
+1/ Data through December 2008.
+
+7.
+The recent data from the banking sector shows a steady weakening of soundness
+indicators as a result of distorted credit policies and slower domestic demand growth
+(Figure 5). It also shows an increase in the market share of private banks, which have become
+leaders in the provision of participatory facilities 6.
+government and the municipalities. Initially, all importers, exporters, and incorporated businesses with annual
+turnover in excess of three billion rials (about $300,000) are subject to VAT. The VAT law was approved by
+the Expediency Council rather than the whole Parliament; the Council’s decisions are valid for a period of
+five years. At that time, the VAT law will need to be submitted to the entire Parliament for approval.
+5
+
+Commercial bank endorsable checks were effectively circulating in lieu of high-denomination bills. They were
+issued directly by commercial banks, undermining the CBI’s ability to earn seignorage.
+6
+
+Participatory lending is based on profit sharing between bank and customer on the proceeds of the loan. It
+includes Mosharekat Madani, a joint venture, and Mozarebeh, a contract wherein the bank undertakes to
+provide the cash capital and other party undertakes to use it for commercial purposes and divide the profit at a
+specified ratio between the two parties at the end of the term of the contract.
+
+7
+•
+
+The use of the banking sector to provide direct financing to mostly private
+beneficiaries through central bank credit, and limited tools to monitor credit risk and
+credit quality, have led to strong balance sheet growth, a decline in capital adequacy
+ratios, and a significant increase in nonperforming assets.
+
+•
+
+The decline in the spread between lending and deposit rates has hampered banks’
+profitability.
+
+•
+
+The deterioration of the banks’ loan portfolios has been broad-based. Despite a
+decline in real estate prices, the share of NPLs related to housing and construction has
+been relatively small in comparison to other countries in the region.
+
+Figure 5. Islamic Republic of Iran: Banking Sector Developments 1/
+(In percent)
+
+Share of Banks in the Aggregated Total Balance
+Sheet of the Banking Sector
+
+100%
+
+Facilities Extended Under Islamic Contracts
+Direct investment
+Legal partnership
+
+90%
+80%
+70%
+
+Hire purchase
+Gharz-al-hasaneh
+Forward transactions
+
+60%
+50%
+40%
+
+Private banks and nonbank credit
+institutions
+Specialized ba nks
+
+30%
+20%
+10%
+
+Comme rcial banks
+
+Havaleh
+
+Comm ercia l banks
+
+Mozarebeh
+Other*
+
+Specia lize d b anks
+Private banks
+
+Civil partnership
+Installment sale
+
+0%
+Mar-03
+
+Mar-04
+
+Mar-05
+
+Mar-06
+
+Mar-07
+
+Mar-08
+
+Sep-08
+
+Bank s' Capital Adequacy Ratio,
+2004/05–2007/08
+
+0%
+
+20%
+
+40%
+
+60%
+
+80%
+
+100%
+
+Banks' Return On Assets,
+2004/05–2007/08
+
+20
+
+20
+
+18
+
+18
+
+16
+
+16
+
+14
+
+14
+
+14
+
+12
+
+12
+
+12
+
+12
+
+10
+
+10
+
+10
+
+10
+
+8
+
+8
+
+8
+
+8
+
+6
+
+6
+
+6
+
+6
+
+4
+
+4
+
+4
+
+4
+
+2
+
+2
+
+2
+
+2
+
+0
+
+0
+
+0
+
+20
+18
+16
+
+Ira n
+
+2004/05
+
+30
+
+Emerging Ma rket Median
+
+2005/06
+
+2006/07
+
+Banks' Nonperforming Loans Ratio (Gross),
+2004/05–2007/08
+Iran
+Emerging marke t median
+
+25
+
+30
+25
+
+Iran provisioning rate
+
+20
+
+20
+
+15
+
+15
+
+10
+
+10
+
+5
+
+5
+
+0
+
+0
+2004/05
+
+2005/06
+
+2006/07
+
+18
+
+Average lendin g and deposit rate spread (in perce nt)
+
+14
+
+16
+
+0
+2004/05
+
+2007/08
+
+20
+
+Iran
+Emerging Market M edian
+
+2005/06
+
+2006/07
+
+2007/08
+
+Sectoral Breakdown of NPLs, 2008
+(In percent of total)
+Manuf acturin g and
+mining
+T rade
+Agriculture
+Hou sing
+Exports
+Con struction
+
+2007/08
+
+Sources: Iranian authorities; and Fund Staff estimates.
+1/ Median emerging market data from IMF "Summary of Ec onomic and Financial Indicators for Emerging Market
+Countries, April 16, 2009."
+
+8
+
+8.
+In line with developments
+in the GCC and global markets,
+Tehran’s stock market declined
+by 38 percent between its peak
+in July 2008 and April 2009, but
+it rebounded by 58 percent by
+November 2009 (Figure 6).
+Despite restrictions to foreign
+portfolio investment, spillovers
+from neighboring stock markets
+have been significant in recent
+years, particularly from Saudi
+Arabia. 7
+
+180
+
+Figure 6. Islamic Republic of Iran: Stock Exchange Developments, 2000–09
+Weekly Stock Market Indices, January 14, 2008–December 7, 2009
+Jan 1, 2000 = 100
+
+160
+
+1200
+
+1000
+140
+120
+
+800
+
+100
+600
+80
+60
+
+400
+
+IRAN
+U.A.E. Index
+
+40
+
+Saudi Arabia Stock Market
+Average Oil Price
+
+200
+
+20
+0
+
+0
+
+Jan-08
+
+Mar-08
+
+May-08
+
+Jul-08
+
+Sep-08
+
+Nov-08
+
+Jan-09
+
+Mar-09
+
+May-09
+
+Jul-09
+
+Sep-09
+
+Nov-09
+
+Source: Bloomberg.
+
+9.
+The current account surplus remained strong in 2008/09, reflecting mainly a
+decline in imports as domestic demand weakened (Figure 7). The current account surplus
+is estimated to have declined from 12 percent of GDP in 2007/08 to 7 percent in 2008/09.
+Gross official reserves, including the OSF foreign assets, fell slightly from $83 billion at end2007/08 to about $80 billion at end-2008/09, and stood at $80.5 billion at end-September
+2009. Large debt amortizations have further lowered the outstanding external debt to an
+estimated $20 billion (about 6½ percent of GDP) in 2008/09. The rial depreciated in nominal
+terms by 9 percent against the U.S. dollar between March 2008 and September 2009. The
+mission’s preliminary assessment indicates some overvaluation of the real effective exchange
+rate (Box 1).
+Figure 7. Islamic Republic of Iran: External Sector Developments, 2000/01–2008/09 1/
+90
+80
+
+Current Account Balance and Gross Official Reserves
+(In billions of U.S. dollars)
+
+70
+
+External Debt
+(In percent of GDP)
+
+60
+Iran's short–term debt
+
+70
+
+Iran's medium– and long–term debt
+
+50
+
+Median emerging market medium– and long–term debt
+
+60
+
+Median emerging market short–term debt
+
+40
+
+Current account balance
+
+50
+
+Gross of f icial reserves
+
+40
+
+30
+
+30
+
+20
+
+20
+10
+
+10
+
+0
+
+0
+2000/01
+
+2002/03
+
+2004/05
+
+2006/07
+
+2008/09
+
+2000/01
+
+s
+
+2002/03
+
+2004/05
+
+2006/07
+
+2008/09
+
+Sources: Iranian authorities; and Fund staff estimates.
+1/ Data for 2008/09 are preliminary.
+2/ Median emerging market data from IMF "Summary of Economic and Financial Indicators for Emerging Market Countries, April 16,
+
+7
+
+Staff estimates of an Auto-Regressive Multivariate Generalized Autocorrelation Conditional Heteroskedastic
+model (AR-MGARCH) show significant spillover from the Saudi to the Tehran stock market, both in the return
+and volatility equations in the period.
+
+9
+Box 1. Islamic Republic of Iran: Exchange Rate Assessment
+Staff’s econometric estimates suggest that the rial was slightly overvalued at end-2008. A CGER-type
+assessment using the equilibrium real effective exchange rate (ERER) approach suggests that the rial was
+undervalued during the late 1990s up to 2003/04.1 Starting in 2005/06, the terms of trade gains owing to higher
+oil prices appreciated the equilibrium REER. At the same time, Iran’s high inflation relative to its trading
+partners appreciated the actual REER considerably, ultimately reversing the estimated undervaluation.
+In 2008/09, the rial became slightly overvalued with the worsening of the terms of trade and the increase in
+domestic inflation relative to partner countries. Panel mean estimates for oil producing countries suggest
+some overvaluation as of end-2008/09.
+The macroeconomic balance (MB) approach also indicates a small overvaluation of the rial in 2008.
+Based on a panel regression for oil-exporting countries, the current account norm for Iran would be a surplus
+of about eight percent of GDP. This compares with a projected surplus of about 1½ percent over the medium
+term. As for other oil-producing countries, these estimates are subject to a high degree of uncertainty.
+
+850
+
+Projected Current Account Balance and Norm, 2007–2014
+(In percent of GDP)
+
+Actual and Equilibrium Real Effective Exchange Rate
+Indices, 1981–2008
+Actual REER 2000 = 100
+12
+
+750
+Misalignment (in percent)
+
+650
+
+Equilibrium REER (Index)
+
+550
+
+8
+
+Misalignment (in percent)
+Projected Current Account Balance
+
+Actual REER (Index)
+
+4
+
+450
+350
+
+Current Account Norm (2014)
+
+0
+
+250
+
+-4
+
+150
+50
+
+-8
+
+-50
+-150
+1981 1984 1987 1990 1993 1996 1999 2002 2005 2008
+
+-12
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+Sources: Iranian authorities and Fund staff estimates.
+
+________________
+1/ “Methodology for CGER Exchange Rate Assessments,” IMF, November 2006
+www.imf.org/external/np/pp/eng/2006/110806.pdf).
+
+III. MACROECONOMIC AND FINANCIAL POLICIES TO ADDRESS THE GLOBAL ECONOMIC
+DOWNTURN AND THE RECENT DROP IN OIL PRICES
+10.
+The authorities’ main medium-term macroeconomic challenges are to support
+non-oil GDP growth, further reduce inflation, and lessen Iran’s fiscal dependency on
+oil. As part of Iran’s reform efforts, the Parliament has recently approved an important
+energy price reform to be implemented in the context of the 2010/11 budget. The reform
+aims at reducing/eliminating price subsidies on domestic energy consumption and other
+commodities in order to remove a major economic distortion, enhance economic efficiency,
+and improve the fiscal position in the medium term. The authorities also intend to strengthen
+the banking sector to ensure that it continues to support growth.
+
+10
+11.
+In response to Iran’s deteriorating external environment, the authorities plan
+some increase in spending in 2009/10. With limited access to external financing, the
+authorities are addressing the decline in oil receipts by strengthening non-oil revenues (which
+account for only one-third of current expenditures) and using OSF financing.
+A. Short- and Medium-Term Outlook
+12.
+The authorities are responding to their macroeconomic challenges through the
+2009/10 budget and the recent establishment of a high-level interministerial working
+group. The main objective of this group is to prepare reforms, including in the areas of tax
+and customs policy, and administration and financial and capital markets to improve
+monetary policy implementation and bank soundness.
+13.
+The economy is projected to continue growing in 2009/10, albeit at a slower pace,
+and inflation is expected to decline further. An increase in public consumption would help
+mitigate the impact of weaker domestic and external demand on non-oil GDP growth, which
+is projected by the staff at 2½-3 percent. Oil production has declined in line with the
+reduction in OPEC quotas, which would result in real GDP growth of 1½-2 percent. Average
+CPI inflation is projected to drop to about 10 percent, consistent with the CBI’s policies to
+continue limiting liquidity growth. The external current account balance is expected to
+decline further to 2½ percent of GDP in 2009/10 on account of lower oil exports and despite
+a significant reduction in imports. With the capital and financial account remaining in deficit,
+international reserves (including OSF resources) are projected to increase slightly to about
+$84 billion by end-2009/10.
+14.
+The staff prepared a medium-term baseline scenario through 2014/15 reflecting
+the authorities’ current policy intentions (Text Table 1), but excluding the energy price
+reform of which implementation details have not yet been worked out (see Section E).
+Consistent with the latest WEO oil projection, this scenario assumes Iranian crude oil prices
+to increase gradually to about $80 per barrel over the medium term. Real GDP growth is
+projected to average about 3 percent a year, reflecting constant oil production after 2009/10
+and moderate non-oil growth owing to limited progress on key structural reforms to support
+private sector activity. Under this scenario, a continued prudent monetary policy would keep
+inflation in the single/low double digits. The non-oil primary deficit will decline somewhat,
+while the external current account surplus would fall over time, reflecting lower export
+revenues.
+
+11
+Text Table 1. Islamic Republic of Iran: Medium-Term Scenarios, 2006/07–2014/15 1/
+2006/07
+
+2007/08
+
+2008/09
+
+2009/10
+
+Staff Projections
+2010/11
+2011/12 2012/13
+
+2013/14 2014/15
+
+I. Baseline Scenario
+(Annual percentage change)
+Real GDP at market prices
+CPI inflation (average)
+
+5.8
+11.9
+
+7.8
+18.4
+
+2.3
+25.4
+
+1.8
+10.3
+
+3.0
+8.5
+
+3.2
+10.0
+
+0.7
+-20.7
+-28.2
+
+2.7
+-19.0
+-26.4
+
+-0.7
+-17.9
+-23.7
+
+-2.7
+-16.1
+-20.0
+
+-1.4
+-15.6
+-19.6
+
+-1.3
+-14.7
+-18.3
+
+Gross government debt
+Gross assets 2/
+
+19.7
+15.5
+
+17.9
+17.4
+
+16.1
+14.2
+
+16.3
+12.2
+
+14.8
+10.2
+
+External current account balance
+Investment
+Change in stocks
+Total fixed capital investment
+Public
+Private
+Gross national savings
+Public
+Private
+
+9.2
+32.6
+6.2
+26.4
+11.1
+15.3
+41.7
+11.8
+30.0
+
+11.9
+33.2
+7.4
+25.8
+8.6
+17.1
+45.1
+11.3
+33.8
+
+7.2
+34.5
+8.0
+26.5
+9.9
+16.6
+41.7
+9.2
+32.5
+
+2.6
+31.9
+9.4
+22.6
+7.9
+14.6
+34.5
+5.2
+29.3
+
+Gross official reserves (in billions of U.S. dollars)
+In months of imports of goods and services
+
+60.5
+10.1
+
+82.9
+11.5
+
+79.6
+12.5
+
+Memorandum items:
+Oil and gas sector
+Total oil and gas exports (in billions of U.S. dollars)
+Average oil export price (in U.S. dollar/barrel; WEO proj.)
+Average oil export price (in U.S. dollars/barrel)
+Crude oil production (in millions of barrels/day)
+
+62.0
+63.3
+57.5
+4.0
+
+81.8
+80.7
+75.5
+4.1
+
+81.9
+84.2
+79.7
+3.9
+
+3.2
+10.0
+
+3.2
+10.0
+
+3.2
+10.0
+
+-1.3
+-14.0
+-17.3
+
+-1.2
+-12.9
+-15.8
+
+-0.7
+-11.3
+-13.8
+
+13.9
+8.6
+
+12.8
+6.8
+
+11.9
+5.4
+
+10.9
+4.5
+
+2.4
+31.5
+9.0
+22.5
+8.0
+14.5
+34.0
+6.6
+27.4
+
+1.6
+31.1
+8.6
+22.5
+8.0
+14.5
+32.7
+6.7
+26.0
+
+1.3
+30.5
+8.3
+22.2
+7.6
+14.6
+31.8
+6.3
+25.5
+
+0.6
+29.4
+8.0
+21.4
+6.9
+14.6
+30.0
+5.7
+24.3
+
+0.2
+27.7
+7.6
+20.1
+5.6
+14.5
+27.9
+4.8
+23.0
+
+84.3
+12.0
+
+89.5
+11.9
+
+93.4
+12.0
+
+96.8
+11.9
+
+98.2
+11.8
+
+98.0
+11.9
+
+59.2
+69.1
+65.4
+3.7
+
+64.4
+77.6
+73.5
+3.7
+
+64.4
+80.3
+76.0
+3.7
+
+63.4
+82.0
+77.6
+3.7
+
+62.2
+83.9
+79.4
+3.7
+
+60.7
+85.6
+81.1
+3.7
+
+(In percent of GDP; unless otherwise indicated)
+Overall general government balance (cash basis)
+Non-oil primary balance (commitment basis)
+Non-oil primary balance in percent of non-oil GDP (commitment basis)
+
+Sources: Iranian authorities; and Fund staff estimates and projections.
+1/ The Iranian fiscal year ends March 20.
+2/ Government deposits with the banking system.
+
+B. Fiscal Policy
+15.
+The overall fiscal deficit (on a cash basis) is projected to widen moderately to 2.7
+percent in 2009/10 from 0.7 percent in 2008/09, owing mainly to lower oil revenues. The
+2009/10 budget envisages a decline in the non-oil primary fiscal deficit to about 16 percent
+of GDP, from 18 percent in 2008/09, mainly as a result of a further strengthening of tax
+administration and larger VAT registration that more than offsets a planned increase in
+spending. There is no scope of fiscal stimulus due to the lack of access to external financing
+and limited OSF resources. The authorities are accelerating their privatization program to
+help finance the non-oil deficit.
+16.
+The system of indirect taxes is being modernized with the introduction of the
+VAT, and the authorities are considering other measures to improve tax policy and
+administration. The VAT net is to be broadened by widening registration to smaller and
+unincorporated businesses, closely monitoring the processing of VAT refunds, and
+strengthening the audit function. Over the medium term, the authorities intend to study the
+benefits of increasing the standard VAT rate and broadening the tax base by including real
+estate and fee-based financial services. They will also assess the benefits of reducing the
+dispersion in import tariff rates and broadening the import base.
+17.
+Looking forward, the authorities plan to modernize the income tax and customs
+duty systems to support a diversification away from oil. In particular, they are focusing on
+
+12
+ways to develop self-assessment procedures for corporate income taxes. They are also
+considering simplifying capital income regulations, introducing general tax incentives such
+as accelerated depreciation provisions in the business income tax, and reforming taxes on
+assets.
+18.
+The authorities believe that there is also a need to reduce nonfuel subsidies and
+are considering phasing out agricultural and food subsidies over the medium term.
+Substituting targeted transfers to households for these subsidies would result in fiscal savings
+and would help rationalize consumption.
+C. Monetary and Financial Policies
+19.
+Consistent with one of its main policy objectives, the CBI has been implementing
+measures to reduce inflation. Starting in July 2008, the CBI has taken steps to consolidate
+its overdraft facility into credit lines. As noted above, it has also regained control over
+monetary policy by replacing banks’ checks with CBI issued high-denomination bills. These
+bills are issued at the request of banks, provided they are fully covered by their deposits at
+the CBI. The CBI also established an interbank market in July 2008 to reduce the banks’
+demand for central bank facilities and help improve liquidity management.
+20.
+As a first step toward the gradual liberalization of rates of return, state-owned
+banks were allowed to equalize the rates of return on term deposits with those of private
+banks. Moreover, the CBI has proposed to continue adjusting rates of returns in line with
+trends in consumer price inflation.
+21.
+The authorities have also been taking measures to strengthen banks’ risk
+management. In particular, they have improved bank supervision by implementing a new
+banking supervision framework, including a new loan classification system. The CBI has
+also established a credit rating institute to enhance the transparency of banks’ information on
+customer credit risk.
+22.
+The authorities intend to recapitalize the banking sector ahead of their full
+privatization. To this end, a company for the resolution of nonperforming loans was recently
+created.
+23.
+The authorities adopted implementing regulations for the Anti-Money
+Laundering (AML) law on December 5, 2009 which incorporate advice provided by
+staff and reflect progress towards establishing a more comprehensive AML
+framework. The authorities have prepared a draft law on combating the financing of
+terrorism (CFT) and have requested further technical assistance to bring Iran’s CFT
+framework more in line with the international standard. Staff provided preliminary comments
+on the draft CFT Law and is planning a follow up TA mission in 2010 focusing on CFT and
+on the various aspects of Iran's developing AML framework.
+
+13
+D. External Current Account and Exchange Rate Policy
+24.
+The authorities intend to manage the exchange rate flexibly vis-à-vis a basket of
+currencies, while preserving an adequate level of international reserves. The staff noted
+that in the current global economic environment greater exchange rate flexibility would help
+adjust the external current account and preserve external competitiveness, particularly if
+consumer prices were to increase significantly after the implementation of the proposed
+energy price reform.
+25.
+The staff also suggested gradually liberalizing the trade regime, improving
+customs procedures, and pursuing preparatory work toward WTO accession. The
+authorities believe in the advantages of a simplified customs tariff schedule and are
+considering changes as part of their review of tax policy and administration.
+E. Energy Price Reform 8
+26.
+To reduce the negative impact on the economy of high energy subsidies (Box 2),
+the Parliament has approved a bill to increase domestic energy prices and phase out
+subsidies on several other commodities and services. 9 While details on the implementation
+of the energy bill still need to be worked out, the reform bill envisages a gradual price
+increase over a period of 5 years towards Iran border f.o.b. prices, with a significant upfront
+price adjustment. To offset the short-term negative impact on wealth and consumption, the
+bill also contemplates compensatory measures for households and enterprises, including cash
+transfers and incentives to support the adoption of more energy-efficient technologies. To
+facilitate the implementation of the proposed reform, the authorities have initiated a media
+campaign to make the public aware of the need to adjust fuel prices.
+27.
+The proposed energy price reform could bring significant medium- and longterm benefits by increasing economic efficiency, and would help address the risks to the
+macroeconomic outlook. The reform would strengthen the fiscal and external positions by
+reducing implicit energy subsidies and gasoline imports. It would also facilitate higher
+investment in oil production capacity and electricity generation. The authorities are aware
+that, in the short-run, the reform could trigger major changes in the economy
+by (i) increasing the cost of energy and non-energy products made in Iran, which would
+result in a one-off-increase in production costs and output prices, and would affect the
+external competitiveness of some Iranian producers; and (ii) changing the demand pattern of
+goods and services.
+
+8
+
+See selected issues paper on “The Economics of Energy Price Reform in the Islamic Republic of Iran”.
+The bill targets subsidies on gasoline, diesel, natural gas, LNG, CNG, electricity, water, wheat, flour, rice
+milk, sugar, edible oils, and aviation, rail, and postal services.
+
+9
+
+14
+Box 2. Impact of High Energy Subsidies on Iran’s Economy
+At a price of 10 cents per liter of gasoline, Iran’s energy products are amongst the most
+heavily subsidized in the world. This has encouraged excessive use of energy (both in per
+capita terms and per unit of GDP), as reflected by Iran’s move from being one of the lowest
+energy intensity users in the world in 1980 to one of the highest in 2009 (Figure 8). Low
+energy prices have encouraged the development of energy intensive industries and excessive
+consumption, causing pollution and environmentally related damage. Low energy prices have
+also resulted in insufficient resources for adequate investment in oil production and refineries.
+Excessive gasoline consumption has turned Iran into a net gasoline importer, with a negative
+impact on the external current account and the fiscal balance.
+Islamic Republic of Iran: Comparison of Primary Energy Intensity and Gasoline Prices
+International Comparison of Primary Energy Intensities in 1980
+(Energy consumption, Btu per 2000 U.S. dollars at purchasing
+power parity GDP)
+
+International Comparison of Primary Energy Intensities in 2006
+(Energy consumption, Btu per 2000 U.S. dollars at purchasing
+power parity GDP)
+U.A.E.
+
+United States
+
+Iran
+
+Venezuela
+Pakistan
+
+Venezuela
+
+Switzerland
+
+United States
+
+Mexico
+
+Pakistan
+
+U.A.E.
+
+Mexico
+
+Iran
+
+Switzerland
+0
+
+4,000
+
+8,000
+
+12,000
+
+0
+
+16,000
+
+5,000
+
+10,000
+
+15,000
+
+Retail Gasoline Price in Selected Middle East Countries, Q1 2008
+(In Rials per liter)
+Mauritania
+Pakistan
+Kazakhstan
+Azerbaijan
+Kyrgyz_Republic
+Turkmenistan
+United Arab Emirates
+Iraq
+Bahrain
+Qatar
+Egypt
+Libya
+Iran
+0
+
+2,000
+
+4,000
+
+6,000
+
+8,000
+
+10,000
+
+12,000
+
+Sources: Country authorities; EIA; Eurostat; International Energy Annual 2006; U.S. Department of Energy; and Fund staff estimates.
+
+20,000
+
+15
+Figure 8. Islamic Republic of Iran: Energy Price Reform Medium-Term Scenario,
+2006/07–2014/15
+Real GDP Growth
+
+Real Non-Oil GDP Growth
+
+10
+
+10
+
+8
+
+8
+
+6
+
+6
+
+6
+
+6
+
+4
+
+4
+
+4
+
+4
+
+2
+
+2
+
+2
+
+2
+
+0
+
+0
+
+0
+
+10
+
+(In percent)
+
+8
+
+Baseline
+Energy price reform
+
+2006/07
+
+3
+
+2008/09
+
+2010/11
+
+2012/13
+
+(In millions of barrels per day)
+
+2.5
+
+2.5
+
+2
+
+2
+Baseline
+Energy price reform
+
+1.5
+
+1.5
+
+1
+
+1
+2006/07
+
+35
+30
+
+2008/09
+
+2010/11
+
+2012/13
+
+2014/15
+
+CPI Inflation
+(In percent)
+Baseline
+Energy price reform
+
+25
+
+15
+
+10
+
+10
+
+5
+
+5
+
+0
+
+0
+2008/09
+
+2010/11
+
+2012/13
+
+2014/15
+
+2014/15
+
+15
+10
+
+5
+
+5
+
+0
+
+0
+Baseline
+
+-5
+
+-5
+
+Energy price reform
+
+-10
+
+-10
+2006/07
+
+250
+
+15
+
+2012/13
+
+10
+
+30
+20
+
+2010/11
+
+(In percent of GDP)
+
+300
+
+25
+
+2008/09
+
+Current Account Balance
+
+15
+
+35
+
+20
+
+2006/07
+
+0
+
+2014/15
+
+3
+
+8
+
+Baseline
+Energy price reform
+
+2006/07
+
+Crude Oil Exports
+
+10
+
+(In percent)
+
+2008/09
+
+2010/11
+
+2012/13
+
+2014/15
+
+Gross Official Reserves
+
+300
+
+(In billions of U.S. dollars)
+
+250
+
+Baseline
+Energy price reform
+
+200
+
+200
+
+150
+
+150
+
+100
+
+100
+
+50
+
+50
+
+0
+
+0
+2006/07
+
+2008/09
+
+2010/11
+
+2012/13
+
+2014/15
+
+16
+28.
+To illustrate the potential impact of the energy price reform, the staff
+formulated an alternative macroeconomic scenario assuming a gradual energy price
+increase starting in 2010/11, with significant frontloading in the first three years
+(Figure 8). Under this scenario, consumer prices would initially jump as domestic energy
+prices increase, but inflation would gradually subside thereafter with the appropriate mix of
+fiscal, monetary, and exchange rate policies. The adjustment of domestic energy prices to
+international levels would remove a major price distortion in the economy, thereby
+increasing energy efficiency and improving resource allocation. The reform would also help
+strengthen the fiscal position by increasing the revenues accruing to the government and
+energy producers from domestic sales of fuel products, and would provide resources for
+investment in production capacity. As a result, real non-oil GDP growth is expected to
+increase gradually to 6½–7½ percent a year over the medium term. The external position
+would also strengthen because of higher oil export volumes and lower gasoline imports, and
+official reserves would rise significantly.
+F. Risks to the Macroeconomic Outlook
+29.
+The medium-term macroeconomic outlook is subject to considerable downside
+risks.
+•
+
+Delays in adopting the appropriate measures to strengthen the banking sector could
+jeopardize public confidence and banks’ capacity to provide the credit necessary to
+support higher real GDP growth.
+
+•
+
+The upside risk of the planned domestic energy price reform could be more than offset by
+a lack of social consensus on the appropriate policy mix to accompany the increase in
+domestic energy prices. This could potentially derail the adjustment process and
+encourage excessive recourse to CBI financing for on-lending by banks, further
+weakening the banks’ credit portfolios.
+
+•
+
+A decline in oil prices below current WEO projections would put Iran’s economy under
+serious stress, particularly in the absence of domestic energy price reform. To illustrate
+this risk, the staff has produced a macroeconomic scenario with international oil prices at
+$40 per barrel over the next five years (Box 3 and Figure 9).
+Box 3. Impact of Oil Price at $40 per Barrel on the Macroeconomic Outlook
+The staff assessed the macroeconomic impact of a drop in crude oil prices to $40 per barrel over 2009/10–2014/15. Under
+this scenario, real GDP growth would decline to about 2½ percent a year, reflecting lower oil production and slower
+growth in the non-oil sectors owing to reduced public spending and limited credit growth. Revenues of the oil company
+would be insufficient to ensure the investment necessary to sustain production. Public spending, particularly capital
+expenditure, would have to contract substantially by 2010/11, given the limited resources available in the OSF. Over the
+medium term, the projected 11 percent contraction in public spending required in the absence of domestic energy price
+reform is unlikely to be sustainable. Because of Iran’s relatively high international reserves, the immediate impact of
+lower export revenues on imports would be limited in the first two years.
+
+17
+Figure 9. Islamic Republic of Iran: Medium–Term Scenario with Oil Price of $40 Per Barrel,
+2006/07–2014/15
+10
+
+Real GDP Growth
+(In percent)
+
+8
+
+Baseline
+
+10
+
+10
+
+8
+
+8
+
+Real Non-Oil GDP Growth
+
+10
+
+(In percent)
+
+8
+
+Baseline
+$40 oil price
+
+$40 oil price
+
+6
+
+6
+
+6
+
+4
+
+4
+
+4
+
+4
+
+2
+
+2
+
+2
+
+2
+
+0
+
+0
+
+6
+
+0
+2006/07
+
+3
+
+2008/09
+
+2010/11
+
+2012/13
+
+Crude Oil Exports
+
+3
+
+(In millions of barrels per day)
+
+2.5
+
+2.5
+
+2
+
+2
+Baseline
+$40 oil price
+
+1.5
+
+1.5
+1
+
+1
+2006/07
+
+2008/09
+
+2010/11
+
+2012/13
+
+100
+
+(In billions of U.S. dollars)
+
+200
+
+2008/09
+
+2010/11
+
+2012/13
+
+2014/15
+
+Crude Oil Price
+
+100
+
+(In U.S. dollars per barrel)
+
+80
+
+80
+
+60
+
+60
+
+40
+
+40
+WEO oil prices as of October 2009
+
+20
+
+20
+
+$40 oil price
+
+0
+
+0
+
+2014/15
+
+Gross Official Reserves
+250
+
+0
+2006/07
+
+2014/15
+
+2006/07
+
+250
+
+15
+
+200
+
+10
+
+2008/09
+
+2010/11
+
+2012/13
+
+2014/15
+
+Current Account Balance
+
+15
+
+(In percent of GDP)
+
+10
+
+Baseline
+$40 oil price
+
+150
+
+5
+
+100
+
+100
+
+0
+
+0
+
+50
+
+50
+
+-5
+
+-5
+
+0
+
+-10
+
+150
+
+Baseline
+$40 oil price
+
+0
+2006/07
+
+2008/09
+
+2010/11
+
+2012/13
+
+2014/15
+
+5
+
+-10
+2006/07
+
+Sources: Iranian authorities; and Fund staff estimates and projections.
+
+2008/09
+
+2010/11
+
+2012/13
+
+2014/15
+
+18
+IV. STAFF APPRAISAL
+30.
+Iran’s economic performance was strong in recent years, supported by high oil
+prices and expansionary fiscal and monetary policies. Real GDP growth was above
+five percent a year, the external position strengthened, and welfare indicators improved. The
+authorities’ response to the deterioration in the external economic environment, particularly
+to the sharp decline in oil prices, has been broadly adequate. The non-oil primary deficit was
+reduced, inflation dropped markedly in the second half of 2008/09 and the first half of
+2009/10, and the external position remains strong.
+31.
+However, there are significant risks to the macroeconomic outlook. These include
+delays in adopting the measures necessary to strengthen the banking sector; possible
+difficulties in reaching a consensus on the appropriate policy mix to accompany the planned
+energy price reform; and a significant decline in oil prices.
+32.
+Looking forward, fiscal policy should aim at addressing the impact of the decline
+in oil revenues in order to contain the need for OSF resources. In this regard, the staff
+welcomes the non-oil revenue effort envisaged in 2009/10, which is expected to help reduce
+the non-oil fiscal deficit while allowing for some increase in spending relative to the level of
+the previous fiscal year. Achieving the projected increase in non-oil revenues will require
+broadening the VAT registration net, strengthening tax administration to collect arrears from
+large state-owned enterprises, and simplifying the import tariff schedule to increase the
+effective tariff rate on imports.
+33.
+The proposed domestic energy price reform is a major step towards improving
+Iran’s medium-term macroeconomic outlook and fiscal position. This reform will help
+strengthen the fiscal and external balances, allow for higher investment in the energy sector,
+and support higher real GDP growth over the medium-term. The success of the reform will
+depend critically on the effective and timely implementation of a well-targeted mechanism of
+cash transfers to the poor and steps to facilitate the adoption of energy efficient technologies
+by the corporate sector. To anchor expectations, it will be important to outline clear
+macroeconomic policies in support of the reform, including avoiding quasi-fiscal financing
+through the banking sector and the accumulation of energy-related payment arrears, ensuring
+adequate tightening of monetary policy to limit the secondary effects of the price increase on
+the aggregate price level while maintaining sufficient liquidity in the banking sector, and
+preserving an adequate level of external competitiveness.
+34.
+The recent high volatility of oil prices and the worsened global economic outlook
+also highlight the need to put in place a rolling medium-term fiscal framework. Such
+framework should integrate the operations of the central government budget and the OSF in
+order to reduce macroeconomic volatility and domestic and external vulnerabilities. At the
+same time, further measures are needed to improve the business climate and encourage the
+participation of domestic and foreign investors in the privatization and restructuring of public
+enterprises. In this regard, a close dialogue with World Bank staff on improving the
+privatization process and implementing other macro-critical reforms would be very helpful.
+
+19
+35.
+The CBI has been successful in regaining control over monetary policy and
+reducing liquidity to lower inflation. In this regard, the restructuring of overdraft lending
+into a short-term liquidity facility is a step in the right direction. Going forward, access to the
+liquidity facility should require the use of collateral, possibly in the form of government
+participation paper or CBI paper. This would also help develop a secondary market. The staff
+also welcomes the recent establishment of an interbank market, which constitutes another
+important step to help improve liquidity management. Going forward, CBI lending to
+commercial banks for on-lending to the private sector should be discouraged, and the cost
+of providing assistance to enterprises should be borne by the government through direct
+budgetary subsidies.
+36.
+The staff welcomes the steps taken thus far to equalize the rates of return on
+term deposits between different categories of banks and recommends a gradual
+liberalization of rates of returns, particularly on the lending side. This reform is
+particularly important in view of the planned domestic energy price reform. The
+liberalization of rates of return would eliminate distortions, allow for a transparent
+transmission of the CBI’s monetary policy, restore credit market fluidity, and improve the
+banking system’s soundness indicators. More generally, the CBI’s independence to
+implement monetary policy should be strengthened in order to enable it to achieve its price
+and financial stability objectives.
+37.
+Although Iran’s banking sector has remained relatively insulated from the
+ongoing international financial crisis, the steady increase in nonperforming loans needs
+to be addressed upfront, particularly in view of the planned energy price reform.
+Banks’ balance sheets are likely to be affected by the impact of the increase in energy prices
+on corporate profits, and the recapitalization of the banking sector is essential to strengthen
+solvency and liquidity. Equally critical are further efforts to improve data collection on
+banking facilities and assessment of customer credit risk, and to enhance the regulatory
+framework on asset and liability management.
+38.
+Recent estimates suggest that the rial is broadly in line with fundamentals.
+However, in light of the high oil price volatility, greater exchange rate flexibility would help
+adjust the external current account and maintain a strong reserve position.
+39.
+The authorities should persevere with their efforts to bring Iran’s AML/CFT
+framework in line with the international standard, with the continued cooperation of
+international organizations.
+40.
+Although data is broadly adequate for surveillance purposes, the staff
+recommends improving the timeliness of macroeconomic data provision. High frequency
+indicators on real sector activity will be especially important to tailor monetary policy during
+the implementation of the planned domestic energy price reform.
+41.
+It is recommended that the next Article IV consultation with the Islamic
+Republic of Iran be held on the standard 12-month cycle.
+
+20
+
+Table 1. Islamic Republic of Iran: Selected Macroeconomic Indicators, 2006/07–2014/15 1/ 2/
+
+Oil and gas sector
+Total oil and gas exports (in billions of U.S. dollars)
+Average oil export price (in U.S. dollars/barrel)
+Crude oil production (in millions of barrels/day)
+
+2006/07
+
+2007/08
+
+62.0
+57.5
+4.0
+
+81.8
+75.5
+4.1
+
+Est.
+2008/09
+
+2009/10
+
+81.9
+79.7
+3.9
+
+2010/11
+
+59.2
+65.4
+3.7
+
+2011/12
+
+64.4
+73.5
+3.7
+
+Proj.
+
+2012/13
+
+64.4
+76.0
+3.7
+
+2013/14
+
+2014/15
+
+63.4
+77.6
+3.7
+
+62.2
+79.4
+3.7
+
+60.7
+81.1
+3.7
+
+4,711,626
+397.6
+3.2
+3.2
+0.0
+3.5
+10.0
+10.0
+10.3
+...
+
+5,354,474
+420.9
+3.2
+3.2
+0.0
+3.5
+10.0
+10.0
+10.1
+...
+
+6,092,326
+447.7
+3.2
+3.2
+0.0
+3.5
+10.0
+10.0
+10.2
+...
+
+(Annual change; in percent; unless otherwise indicated)
+National accounts
+Nominal GDP at market prices (in billions of Iranian rials)
+Nominal GDP (in billions of U.S. dollars)
+Real GDP at market prices
+Real GDP at factor cost
+Real oil and gas GDP
+Real non-oil GDP
+CPI inflation (average)
+CPI inflation (end of period)
+GDP deflator at factor cost
+Unemployment rate (in percent of labor force)
+
+2,044,024
+222.1
+6.2
+6.6
+3.0
+6.6
+11.9
+15.3
+13.8
+12.1
+
+2,654,949
+285.9
+8.1
+6.7
+0.8
+7.6
+18.4
+22.5
+20.5
+10.6
+
+3,188,609
+333.1
+2.3
+2.3
+-3.7
+2.9
+25.4
+17.8
+17.4
+9.8
+
+3,265,231
+327.1
+1.8
+1.8
+-6.7
+2.7
+10.3
+8.0
+0.6
+...
+
+3,673,364
+353.7
+3.0
+3.0
+0.0
+3.3
+8.5
+10.0
+9.2
+...
+
+4,138,915
+377.2
+3.2
+3.2
+0.0
+3.5
+10.0
+10.0
+9.2
+...
+
+Investment and savings
+Investment
+Change in stocks
+Total fixed capital investment
+Public
+Private
+Gross national savings
+Public
+Private
+Savings/investment balance
+Public
+Private
+
+32.6
+6.2
+26.4
+11.1
+15.3
+41.7
+11.8
+30.0
+9.2
+0.7
+8.5
+
+33.2
+7.4
+25.8
+8.6
+17.1
+45.1
+11.3
+33.8
+11.9
+2.7
+9.3
+
+34.5
+8.0
+26.5
+9.9
+16.6
+41.7
+9.2
+32.5
+7.2
+-0.7
+7.9
+
+31.9
+9.4
+22.6
+7.9
+14.6
+34.5
+5.2
+29.3
+2.6
+-2.7
+5.3
+
+31.5
+9.0
+22.5
+8.0
+14.5
+34.0
+6.6
+27.4
+2.4
+-1.4
+3.9
+
+31.1
+8.6
+22.5
+8.0
+14.5
+32.7
+6.7
+26.0
+1.6
+-1.3
+2.8
+
+30.5
+8.3
+22.2
+7.6
+14.6
+31.8
+6.3
+25.5
+1.3
+-1.3
+2.6
+
+29.4
+8.0
+21.4
+6.9
+14.6
+30.0
+5.7
+24.3
+0.6
+-1.2
+1.8
+
+27.7
+7.6
+20.1
+5.6
+14.5
+27.9
+4.8
+23.0
+0.2
+-0.7
+0.9
+
+Budgetary operations
+Revenue
+Oil
+Non-oil
+Expenditure and net lending, of which:
+Current
+Capital
+Balance (commitment basis)
+Balance (cash basis)
+Financing
+Domestic financing (banking sector)
+Domestic financing (nonbank, including privatization)
+External financing
+Non-oil balance (commitment basis)
+Non-oil primary balance (commitment basis)
+Non-oil balance (cash basis)
+Non-oil balance in percent of non-oil GDP (commitment basis)
+
+29.9
+20.8
+8.9
+29.8
+20.3
+7.1
+0.0
+0.7
+-0.7
+-1.5
+0.8
+0.0
+-20.7
+-20.7
+-20.0
+-28.3
+
+30.9
+21.8
+9.0
+28.3
+21.2
+5.6
+2.7
+2.7
+-2.7
+-4.4
+1.7
+0.0
+-19.1
+-19.0
+-19.1
+-26.5
+
+27.0
+17.9
+8.9
+27.0
+18.7
+7.7
+0.0
+-0.7
+0.7
+0.8
+-0.1
+0.0
+-17.9
+-17.9
+-18.6
+-23.7
+
+24.4
+13.4
+10.9
+27.1
+20.7
+6.4
+-2.7
+-2.7
+2.7
+1.7
+0.9
+0.1
+-16.1
+-16.1
+-16.1
+-19.9
+
+24.7
+14.2
+10.3
+26.1
+19.6
+6.5
+-1.4
+-1.4
+1.4
+0.6
+0.7
+0.1
+-15.6
+-15.6
+-15.6
+-19.6
+
+23.6
+13.5
+10.0
+24.9
+18.4
+6.4
+-1.3
+-1.3
+1.3
+0.5
+0.6
+0.1
+-14.7
+-14.7
+-14.7
+-18.3
+
+22.8
+12.7
+9.9
+24.1
+18.0
+6.1
+-1.3
+-1.3
+1.3
+0.7
+0.6
+0.1
+-14.0
+-14.0
+-14.0
+-17.4
+
+21.7
+11.7
+10.0
+23.0
+17.6
+5.3
+-1.2
+-1.2
+1.2
+0.7
+0.5
+0.1
+-12.9
+-12.9
+-12.9
+-15.9
+
+20.5
+10.6
+9.8
+21.3
+17.2
+4.0
+-0.7
+-0.7
+0.7
+0.2
+0.4
+0.1
+-11.4
+-11.3
+-11.4
+-13.9
+
+Monetary sector
+Net foreign assets
+Net domestic assets
+Credit to the private sector
+Narrow money (M1)
+Broad money (M3)
+Velocity of broad money (ratio of GDP to M3)
+
+16.9
+68.2
+34.0
+29.6
+39.2
+1.7
+
+26.9
+30.2
+33.3
+29.7
+28.6
+1.7
+
+4.6
+18.5
+11.4
+-2.1
+16.6
+1.7
+
+...
+...
+...
+...
+...
+...
+
+...
+...
+...
+...
+...
+...
+
+...
+...
+...
+...
+...
+...
+
+(In percent of GDP at market prices; unless otherwise indicated)
+
+(Annual change; in percent; unless otherwise indicated)
+10.9
+25.9
+11.3
+11.1
+14.7
+1.5
+
+...
+...
+...
+...
+...
+...
+
+...
+...
+...
+...
+...
+...
+
+(In billions of U.S. dollars; unless otherwise indicated)
+
+External sector
+Exports of goods and services
+Imports of goods and services
+Current account balance
+In percent of GDP at market prices
+External public and publicly guaranteed debt
+Of which: short-term debt
+Gross official reserves
+In months of the following year's imports of goods and services
+
+84.6
+-64.7
+20.4
+9.2
+23.2
+9.1
+60.5
+10.1
+
+107.0
+-73.4
+34.1
+11.9
+28.1
+9.9
+82.9
+11.5
+
+111.1
+-87.9
+24.0
+7.2
+20.1
+6.3
+79.6
+12.5
+
+85.5
+-77.8
+8.6
+2.6
+16.3
+3.3
+84.3
+12.0
+
+92.9
+-85.2
+8.6
+2.4
+14.2
+3.3
+89.5
+11.9
+
+96.2
+-91.4
+5.9
+1.6
+12.5
+3.3
+93.4
+12.0
+
+98.3
+-94.4
+5.0
+1.3
+11.1
+3.3
+96.8
+11.9
+
+99.5
+-98.3
+2.5
+0.6
+10.1
+3.3
+98.2
+11.8
+
+100.5
+-100.9
+0.9
+0.2
+9.1
+3.3
+98.0
+11.9
+
+Memorandum items:
+Nominal effective exchange rate, 2000/01=100
+Real effective exchange rate, 2000/01=100
+Average exchange rate (Iranian rials per U.S. dollar)
+End-of-period exchange rate (Iranian rials per U.S. dollar)
+
+72.7
+129.9
+9,202
+9,243
+
+68.5
+139.6
+9,285
+8,956
+
+68.0
+165.8
+9,574
+9,717
+
+…
+…
+…
+…
+
+…
+…
+…
+…
+
+…
+…
+…
+…
+
+…
+…
+…
+…
+
+…
+…
+…
+…
+
+…
+…
+…
+…
+
+Sources: Iranian authorities; and Fund staff estimates and projections.
+1/ The Iranian fiscal year ends March 20.
+2/ In the absence of details on the recently approved bill on removing subsidies in the energy sector, the projections assume no changes in subsidy policies.
+
+21
+
+Table 2. Islamic Republic of Iran: Balance of Payments, 2006/07–2014/15 1/
+(In millions of U.S. dollars; unless otherwise indicated)
+
+2006/07
+
+2007/08
+
+Est.
+2008/09
+
+2009/10
+
+2010/11
+
+Proj.
+2011/12
+2012/13
+
+Current account balance
+(in percent of GDP at market prices)
+
+20,402
+9.2
+
+34,081
+11.9
+
+23,987
+7.2
+
+8,573
+2.6
+
+8,613
+2.4
+
+5,852
+1.6
+
+Trade balance
+Exports
+Oil and gas
+Crude oil
+Petroleum products and natural gas
+Non-oil and gas
+Imports
+
+26,035
+76,055
+62,011
+50,717
+11,294
+14,044
+-50,020
+
+40,819
+97,401
+81,764
+68,646
+13,118
+15,637
+-56,582
+
+32,039
+100,572
+81,855
+70,291
+11,564
+18,717
+-68,533
+
+17,081
+77,408
+59,240
+50,502
+8,738
+18,168
+-60,327
+
+16,870
+83,482
+64,427
+55,889
+8,538
+19,055
+-66,612
+
+Services (net)
+Credits
+Debits
+
+-6,146
+8,554
+-14,700
+
+-7,198
+9,610
+-16,808
+
+-8,837
+10,566
+-19,403
+
+-9,371
+8,059
+-17,431
+
+513
+
+460
+
+785
+
+-4,014
+60
+
+-12,357
+-1,491
+
+Medium- and long-term debt
+Trade credit
+
+-25
+-2,369
+
+Other capital
+
+2013/14
+
+2014/15
+
+5,037
+1.3
+
+2,540
+0.6
+
+912
+0.2
+
+12,806
+84,488
+64,355
+56,452
+7,904
+20,133
+-71,683
+
+10,888
+85,079
+63,361
+55,820
+7,541
+21,718
+-74,191
+
+8,392
+85,779
+62,233
+54,619
+7,614
+23,546
+-77,387
+
+6,745
+86,385
+60,746
+53,114
+7,632
+25,640
+-79,640
+
+-9,207
+9,426
+-18,633
+
+-7,998
+11,756
+-19,754
+
+-7,001
+13,216
+-20,217
+
+-7,116
+13,768
+-20,884
+
+-7,224
+14,077
+-21,301
+
+864
+
+950
+
+1,045
+
+1,149
+
+1,264
+
+1,391
+
+-9,597
+-695
+
+-3,904
+-219
+
+-3,369
+-268
+
+-1,985
+-314
+
+-1,599
+-214
+
+-1,177
+-164
+
+-1,127
+-114
+
+-62
+-3,693
+
+-2,967
+-5,098
+
+-1,702
+-2,124
+
+-2,101
+0
+
+-1,671
+0
+
+-1,385
+0
+
+-1,013
+0
+
+-1,013
+0
+
+-1,680
+
+-7,111
+
+-837
+
+141
+
+-1,000
+
+0
+
+0
+
+0
+
+0
+
+Errors and omissions
+
+-2,784
+
+690
+
+-17,666
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+Overall balance
+
+13,604
+
+22,413
+
+-3,276
+
+4,669
+
+5,244
+
+3,867
+
+3,437
+
+1,363
+
+-215
+
+Change in gross official reserves (increase -)
+Change in central bank reserve liabilities (increase -)
+Change in net official reserves (increase -)
+
+-13,604
+4,162
+-9,442
+
+-22,413
+1,626
+-20,787
+
+3,276
+-2,859
+417
+
+-4,669
+0
+-4,669
+
+-5,244
+0
+-5,244
+
+-3,867
+0
+-3,867
+
+-3,437
+0
+-3,437
+
+-1,363
+0
+-1,363
+
+215
+0
+215
+
+Memorandum items:
+Gross official reserves (in millions of U.S. dollars)
+(in months of the following year’s imports)
+
+60,450
+10.1
+
+82,863
+11.5
+
+79,587
+12.5
+
+84,257
+12.0
+
+89,501
+11.9
+
+93,367
+12.0
+
+96,804
+11.9
+
+98,167
+11.8
+
+97,952
+11.9
+
+8,439
+4.0
+10.4
+
+10,065
+3.6
+9.8
+
+7,206
+2.3
+6.0
+
+7,206
+4.9
+5.0
+
+7,206
+4.1
+4.0
+
+7,206
+3.5
+3.3
+
+7,206
+3.2
+2.8
+
+7,206
+2.7
+2.4
+
+7,206
+2.6
+2.0
+
+Transfers (net)
+Capital and financial account balance
+Foreign direct investment and portfolio equity
+
+Gross foreign liabilities of the Central Bank of Iran (in millions of dollars)
+External debt service (as percent of exports)
+External debt (in percent of GDP)
+Sources: Iranian authorities; and Fund staff estimates and projections.
+1/ The Iranian fiscal year ends March 20.
+
+22
+Table 3. Islamic Republic of Iran: Consolidated Accounts of the Central
+Government and the Oil Stabilization Fund, 2006/07–20010/11
+(In billions of rials)
+
+2006/07
+Revenues
+Oil revenues
+Oil revenues to the budget
+Profit tax on NIOC 1/
+Dividend transfers from NIOC
+Domestic sale of petroleum products
+Budget allocation
+Transfers from OSF
+Oil revenues transferred to the OSF (after transfers to
+the budget)
+Non-oil revenues to the budget
+Tax
+Direct tax
+Indirect tax
+Customs duties
+Nontax
+Non-oil revenues to the OSF
+
+2007/08
+
+Est.
+2008/09
+
+2009/10
+
+Proj.
+
+2010/11
+
+610,262
+
+821,152
+
+859,906
+
+796,697
+
+905,989
+
+424,150
+
+578,708
+
+569,951
+
+436,159
+
+521,988
+
+392,761
+26,134
+23,521
+0
+181,881
+161,225
+
+444,278
+29,237
+32,425
+0
+173,519
+209,098
+
+559,589
+36,700
+58,721
+0
+279,933
+184,235
+
+498,071
+37,000
+60,310
+0
+177,662
+223,099
+
+549,211
+51,259
+82,014
+0
+174,190
+241,748
+
+31,389
+
+134,430
+
+10,362
+
+-61,912
+
+-27,223
+
+182,387
+125,487
+71,557
+14,123
+39,806
+56,900
+
+237,893
+162,579
+97,097
+16,663
+48,819
+75,314
+
+283,918
+203,042
+130,453
+15,900
+56,689
+80,876
+
+354,315
+240,454
+153,994
+29,771
+56,689
+113,861
+
+378,974
+270,079
+171,741
+33,202
+65,136
+108,895
+
+3,725
+
+4,551
+
+6,038
+
+6,223
+
+5,027
+
+609,741
+
+750,311
+
+860,240
+
+884,798
+
+958,037
+
+Central government expenditures
+
+561,365
+
+710,022
+
+841,093
+
+884,798
+
+958,037
+
+Current expenditures
+Compensation of employees
+Interest payments
+Subsidies
+Goods and services
+Grants
+Social benefits
+Gasoline imports
+Other
+
+415,804
+133,584
+4,743
+60,600
+32,263
+43,857
+69,959
+43,959
+26,839
+
+562,306
+151,583
+7,371
+62,862
+39,119
+13,823
+64,492
+33,820
+189,236
+
+595,254
+211,000
+5,982
+61,000
+55,000
+50,800
+139,605
+60,867
+11,000
+
+676,682
+229,000
+5,982
+68,000
+71,600
+28,700
+181,000
+34,300
+58,100
+
+720,837
+255,465
+5,234
+73,780
+80,686
+32,287
+208,385
+35,000
+30,000
+
+Capital expenditures
+
+145,561
+
+147,716
+
+245,839
+
+208,116
+
+237,199
+
+48,376
+48,376
+0
+
+40,289
+40,289
+0
+
+19,148
+19,148
+0
+
+0
+0
+0
+
+0
+0
+0
+
+Overall balance (commitment basis)
+Overall balance (cash basis)
+
+521
+14,799
+
+70,841
+70,841
+
+-334
+-22,520
+
+-88,101
+-88,100
+
+-52,048
+-52,048
+
+Non-oil balance (commitment basis)
+Non-oil balance (cash basis)
+
+-423,629
+-409,351
+
+-507,867
+-507,867
+
+-570,285
+-592,471
+
+-524,259
+-524,259
+
+-574,035
+-574,035
+
+-14,799
+673
+-15,472
+-30,927
+-34,913
+3,987
+15,455
+
+-70,841
+1,233
+-72,074
+-115,890
+-132,770
+16,881
+43,815
+
+22,520
+858
+21,663
+24,935
+7,142
+17,792
+-3,272
+
+88,100
+3,702
+84,398
+55,689
+55,689
+0
+28,709
+
+52,048
+3,852
+48,196
+22,196
+22,196
+0
+26,000
+
+Expenditure
+
+OSF expenditures
+Domestic on-lending
+Other
+
+Financing
+Foreign financing
+Domestic financing
+Banking system
+Central bank
+Commercial banks
+Other domestic, including privatization
+
+Sources: Iranian authorities; and Fund staff estimates and projections.
+1/ National Iranian Oil Corporation.
+
+23
+
+Table 4. Islamic Republic of Iran: Consolidated Accounts of the Central
+Government and the Oil Stabilization Fund, 2006/07–20010/11
+
+2006/07
+
+2007/08
+
+Est.
+2008/09
+
+Proj.
+2009/10
+
+2010/11
+
+(In percent of GDP; unless otherwise indicated)
+Revenues
+
+29.9
+
+30.9
+
+27.0
+
+24.4
+
+24.7
+
+20.8
+
+21.8
+
+17.9
+
+13.4
+
+14.2
+
+19.2
+1.3
+1.2
+0.0
+8.9
+7.9
+1.5
+
+16.7
+1.1
+1.2
+0.0
+6.5
+7.9
+5.1
+
+17.5
+1.2
+1.8
+0.0
+8.8
+5.8
+0.3
+
+15.3
+1.1
+1.8
+0.0
+5.4
+6.8
+-1.9
+
+15.0
+1.4
+2.2
+0.0
+4.7
+6.6
+-0.7
+
+Non-oil revenues to the budget
+Tax
+Direct tax
+Indirect tax
+Customs duties
+Nontax
+
+8.9
+6.1
+3.5
+0.7
+1.9
+2.8
+
+9.0
+6.1
+3.7
+0.6
+1.8
+2.8
+
+8.9
+6.4
+4.1
+0.5
+1.8
+2.5
+
+10.9
+7.4
+4.7
+0.9
+1.7
+3.5
+
+10.3
+7.4
+4.7
+0.9
+1.8
+3.0
+
+Non-oil revenues to the OSF
+
+0.2
+
+0.2
+
+0.2
+
+0.2
+
+0.1
+
+29.8
+
+28.3
+
+27.0
+
+27.1
+
+26.1
+
+Central government expenditures
+
+27.5
+
+26.7
+
+26.4
+
+27.1
+
+26.1
+
+Current expenditures
+Compensation of employees
+Interest payments
+Subsidies
+Goods and services
+Grants
+Social benefits
+Gasoline imports
+Other
+
+20.3
+6.5
+0.2
+3.0
+1.6
+2.1
+3.4
+2.2
+1.3
+
+21.2
+5.7
+0.3
+2.4
+1.5
+0.5
+2.4
+1.3
+7.1
+
+18.7
+6.6
+0.2
+1.9
+1.7
+1.6
+4.4
+1.9
+0.3
+
+20.7
+7.0
+0.2
+2.1
+2.2
+0.9
+5.5
+1.1
+1.8
+
+19.6
+7.0
+0.1
+2.0
+2.2
+0.9
+5.7
+1.0
+0.8
+
+Capital expenditures
+
+7.1
+
+5.6
+
+7.7
+
+6.4
+
+6.5
+
+OSF expenditures
+Domestic on-lending
+Other
+
+2.4
+2.4
+0.0
+
+1.5
+1.5
+0.0
+
+0.6
+0.6
+0.0
+
+0.0
+0.0
+0.0
+
+0.0
+0.0
+0.0
+
+0.0
+0.7
+
+2.7
+2.7
+
+0.0
+-0.7
+
+-2.7
+-2.7
+
+-1.4
+-1.4
+
+-20.7
+-20.0
+-20.7
+-20.0
+
+-19.1
+-19.1
+-19.0
+-19.0
+
+-17.9
+-18.6
+-17.9
+-18.6
+
+-16.1
+-16.1
+-16.1
+-16.1
+
+-15.6
+-15.6
+-15.6
+-15.6
+
+12.4
+40.7
+-28.3
+
+(In percent of non-oil GDP)
+12.7
+12.1
+39.2
+35.8
+-26.5
+-23.7
+
+13.7
+33.7
+-19.9
+
+13.1
+32.7
+-19.6
+
+Oil revenues
+Oil revenues to the budget
+Profit tax on NIOC
+Dividend transfers from NIOC
+Domestic sale of petroleum products
+Budget allocation
+Transfers from OSF
+Oil revenues transferred to the OSF
+
+Expenditure
+
+Overall balance (commitment basis)
+Overall balance (cash basis)
+Non-oil
+Non-oil
+Non-oil
+Non-oil
+
+balance (commitment basis)
+balance (cash basis)
+primary balance (commitment basis)
+primary balance (cash basis)
+
+Non-oil revenues
+Expenditure
+Non-oil budget balance
+Memorandum items:
+Net public debt
+Gross public debt
+Government financial assets
+
+(In percent of GDP; unless otherwise indicated)
+4.2
+19.7
+15.5
+
+Sources: Iranian authorities; and Fund staff estimates and projections.
+
+0.5
+17.9
+17.4
+
+1.9
+16.1
+14.2
+
+4.1
+16.3
+12.2
+
+4.6
+14.8
+10.2
+
+24
+
+Table 5. Islamic Republic of Iran: Central Bank Balance Sheet, 2006/07–20009/10
+(In billions of rials; unless otherwise indicated)
+
+Net foreign assets (NFA)
+In millions of U.S. dollars
+Foreign assets
+In millions of U.S. dollars
+Foreign liabilities 1/
+In millions of U.S. dollars
+Net domestic assets (NDA)
+Net domestic credit
+Central government, net
+Claims
+Deposits
+Claims on banks
+Claims on nonfinancial public enterprises (NFPEs)
+Other items net, excluding central bank participation papers (CPPs)
+Base money
+Currency
+Currency in circulation
+Cash in vaults
+Reserves
+Required reserves
+Excess reserves
+Deposits of NFPE and municipalities
+Other liabilities
+CPPs
+Foreign currency deposits of NFPEs and municipalities
+Memorandum items:
+End-period change (in percent of base money)
+Base money
+NFA
+NDA (net of other liabilities)
+Sources: Central Bank of Iran; and Fund staff estimates and projections.
+1/ Includes some liabilities in foreign currency to residents.
+
+2006/07
+
+2007/08
+
+Prel.
+2008/09
+
+Proj.
+2009/10
+
+480,740
+52,011
+558,740
+60,450
+78,000
+8,439
+
+651,980
+72,798
+742,122
+82,863
+90,142
+10,065
+
+703,329
+72,381
+773,352
+79,587
+70,023
+7,206
+
+789,498
+77,050
+863,336
+84,257
+73,839
+7,206
+
+-163,596
+-75,882
+-158,107
+87,450
+245,557
+54,887
+27,337
+-87,714
+
+-250,586
+-119,265
+-290,877
+81,197
+372,074
+137,694
+33,918
+-131,321
+
+292,064
+67,489
+61,452
+6,038
+212,486
+184,828
+27,658
+12,089
+
+382,980
+88,047
+79,909
+8,138
+277,452
+235,841
+41,611
+17,481
+
+556,925
+206,352
+157,764
+48,588
+334,495
+225,228
+109,267
+16,078
+
+556,925
+200,745
+153,478
+47,268
+338,445
+307,757
+30,688
+17,734
+
+25,079
+21,566
+3,514
+
+18,414
+16,372
+2,042
+
+6,561
+0
+6,561
+
+6,919
+0
+6,919
+
+26.0
+39.5
+-13.6
+
+31.1
+58.6
+-27.5
+
+45.4
+13.4
+32.0
+
+0.0
+15.5
+-15.5
+
+-139,843 -225,654
+-5,141
+21,083
+-283,735 -228,046
+74,779
+74,779
+358,514 302,824
+239,758 206,409
+38,836
+42,719
+-134,701 -246,737
+
+25
+
+Table 6. Islamic Republic of Iran: Monetary Survey, 2006/07–20009/10 1/
+(In billions of rials; unless otherwise indicated)
+
+2006/07
+
+2007/08
+
+Prel.
+2008/09
+
+Proj.
+2009/10
+
+656,772
+71,056
+820,599
+88,781
+163,828
+17,725
+
+833,482
+93,064
+1,040,061
+116,130
+206,580
+23,066
+
+872,006
+89,740
+1,053,093
+108,376
+181,087
+18,636
+
+967,367
+94,409
+1,158,322
+113,045
+190,955
+18,636
+
+Net domestic assets (NDA)
+Net domestic credit
+Net credit to government
+Claims on nonfinancial public enterprises (NFPEs)
+Claims on the private sector 3/
+Of which: Foreign currency claims 3/
+Other items, net, excluding CPPs
+
+726,828
+1,414,560
+-172,688
+95,951
+1,491,297
+265,096
+-687,732
+
+946,434
+1,790,723
+-288,577
+91,913
+1,987,387
+323,661
+-844,289
+
+1,121,883
+2,035,525
+-263,643
+84,614
+2,214,554
+348,003
+-913,642
+
+1,412,824
+2,345,498
+-207,954
+88,497
+2,464,955
+366,967
+-932,674
+
+Broad money (M3)
+M2
+Cash
+Deposits
+Demand deposits
+Time deposits
+CPPs held by nonbanks
+Foreign currency deposits
+
+1,383,600
+1,296,288
+61,452
+1,234,837
+365,182
+869,655
+21,566
+65,746
+
+1,779,916
+1,657,774
+79,909
+1,577,865
+473,279
+1,104,586
+16,372
+105,770
+
+2,076,040
+1,917,444
+157,764
+1,759,680
+383,796
+1,375,884
+0
+158,595
+
+2,380,191
+2,209,609
+153,478
+2,056,131
+448,454
+1,607,677
+0
+170,583
+
+292,064
+426,634
+4.74
+1.72
+
+382,980
+553,188
+4.65
+1.68
+
+556,925
+541,560
+3.73
+1.65
+
+556,925
+601,931
+4.27
+1.47
+
+16.9
+68.2
+26.0
+29.6
+39.0
+39.2
+37.0
+41.7
+34.0
+
+26.9
+30.2
+31.1
+29.7
+27.9
+28.6
+32.8
+35.7
+33.3
+
+4.6
+18.5
+45.4
+-2.1
+15.7
+16.6
+11.1
+12.2
+11.4
+
+10.9
+25.9
+0.0
+11.1
+15.2
+14.7
+12.1
+12.4
+11.3
+
+Net foreign assets (NFA)
+In millions of U.S. dollars
+Foreign assets
+In millions of U.S. dollars
+Foreign liabilities 2/
+In millions of U.S. dollars
+
+Memorandum items:
+Base money
+M1
+Multiplier (M3/base money)
+Income velocity of M3
+Annual percentage change
+NFA
+NDA
+Base money
+M1
+M2, excluding foreign currency deposits and CPPs
+M3
+Credit to the private sector and NFPEs in rials
+Credit to private sector in rials
+Total claims on private sector
+
+Sources: Central Bank of Iran; and Fund staff estimates and projections.
+1/ The Iranian fiscal year ends March 20.
+2/ Includes some liabilities in foreign currency to residents.
+3/ Includes on-lending of the Oil Stabilization Fund resources and claims under letters of credit
+for trade financing.
+
+26
+Table 7. Islamic Republic of Iran: Vulnerability Indicators, 2003/04–2008/09 1/
+2003/04
+
+2004/05
+
+2005/06
+
+2006/07
+
+2007/08
+
+2008/09
+
+External solvency indicators
+Real effective exchange rate (REER) (end of period; percent change)
+Total public and publicly guaranteed external debt (in billions of U.S. dollars)
+(In percent of GDP)
+Short-term external debt (in billions of U.S. dollars)
+(In percent of GDP)
+(In percent of exports of goods and services) 2/
+External debt service (in percent of exports of goods and services) 2/ 3/
+
+-2.1
+17.1
+12.7
+4.8
+3.6
+12.1
+4.5
+
+1.0
+23.1
+14.3
+10.2
+6.3
+20.7
+6.5
+
+6.1
+24.8
+13.2
+10.7
+5.7
+15.1
+4.4
+
+2.5
+23.2
+10.4
+9.1
+4.1
+11.0
+4.0
+
+7.4
+28.1
+9.8
+9.9
+3.5
+9.4
+3.6
+
+18.8
+20.1
+6.0
+6.3
+1.9
+5.8
+2.3
+
+External liquidity indicators
+Total official reserves (in billions of U.S. dollars)
+(In months of the following year's imports of goods and services) 2/
+(In percent of short-term external debt)
+Commercial banks net foreign assets (in billions of U.S. dollars)
+Foreign assets
+Foreign liabilities 4/
+Oil and oil-related exports (in percent of exports of goods)
+
+24.7
+6.1
+517
+4.6
+6.6
+2.0
+80.5
+
+33.3
+7.3
+326
+12.2
+27.1
+15.0
+82.6
+
+46.8
+8.9
+439
+18.9
+29.1
+10.2
+83.6
+
+60.5
+10.1
+664
+19.0
+28.3
+9.3
+81.5
+
+82.9
+11.5
+838
+20.3
+33.3
+13.0
+83.9
+
+79.6
+12.5
+1265
+17.4
+28.8
+11.4
+81.4
+
+Public sector solvency indicators
+Public and publicly guaranteed debt (in percent of GDP)
+Oil revenue (in percent of total revenue)
+
+26.5
+69.4
+
+26.3
+69.1
+
+23.7
+72.2
+
+19.7
+69.5
+
+17.9
+70.5
+
+16.1
+66.3
+
+Financial sector indicators
+Risk-weighted capital adequacy of banks (in percent) 5/
+Ratio of nonperforming loans of banks (in percent of total loans) 5/
+Loan provisions as a percentage of nonperforming loans
+Net profit margin of banks to total assets (in percent)
+Net domestic credit (percent change)
+Private sector credit in local currency (percent change)
+Net domestic credit (in percent of GDP)
+
+5.7
+7.4
+44.6
+1.0
+58.9
+73.8
+66.6
+
+9.8
+7.7
+57.9
+1.2
+18.5
+23.0
+62.3
+
+9.9
+9.9
+47.1
+0.8
+22.3
+32.1
+63.1
+
+9.1
+15.7
+…
+0.7
+32.1
+34.0
+69.2
+
+6.5
+18.3
+30.0
+0.8
+26.6
+33.3
+67.4
+
+…
+…
+…
+…
+13.7
+11.4
+63.8
+
+124.8
+22.0
+B+
+
+6.4
+22.8
+BB-
+
+-21.9
+15.9
+BB-
+
+5.3
+16.8
+B+
+
+2.7
+17.8
+B+
+
+-21.0
+…
+B+
+
+Market assessment/financial market indicators
+Stock market price index (percent change; end-of-period)
+Stock market capitalization (in percent of GDP)
+Fitch sovereign rating
+Sources: Iranian authorities; and Fund staff estimates.
+
+1/ The Iranian fiscal year ends March 20.
+2/ Excluding interest receipts and payments.
+3/ Excluding service of short-term external debt.
+4/ Including contingent liabilities under letters of credit.
+5/ Islamic banks exhibit important differences in their risk profile and asset classification, which limit international comparability.
+6/ Estimate.
+
+6/
+6/
+6/
+6/
+6/
+6/
+6/
+
+6/
+6/
+
+6/
+
+INTERNATIONAL MONETARY FUND
+ISLAMIC REPUBLIC OF IRAN
+2009 Article IV Consultation
+Informational Annex
+Prepared by Middle East and Central Asia Department
+(In consultation with other Departments)
+January 11, 2010
+Contents
+
+Page
+
+I.
+
+Relations with the Fund .................................................................................................. 2
+
+II.
+
+World Bank-IMF Relations ........................................................................................... 4
+
+III.
+
+Statistical Issues ............................................................................................................. 5
+
+2
+APPENDIX I. ISLAMIC REPUBLIC OF IRAN: RELATIONS WITH THE FUND
+(As of November 30, 2009)
+I.
+
+Membership Status
+
+II.
+
+General Resources Account
+
+Joined: 12/29/1945; Article VIII
+
+SDR Million
+1,497.20
+1,497.20
+0.01
+
+Percent of Quota
+100.00
+100.00
+0.00
+
+Net cumulative allocation
+Holdings
+
+SDR Million
+1,426.06
+1,535.53
+
+Percent of Allocation
+100.00
+107.68
+
+IV.
+
+Outstanding Purchases and Loans
+
+None
+
+V.
+
+Financial Arrangements
+
+None
+
+VI.
+
+Projected Payments to Fund
+(SDR Million; based on existing use of resources and present holdings of SDRs)
+
+Quota
+Fund holdings of currency
+Reserve position
+III.
+
+SDR Department
+
+Principal
+Charges/Interest
+Total
+
+2010
+
+Forthcoming
+2011
+2012
+
+2013
+
+0.11
+0.11
+
+0.11
+0.11
+
+0.11
+0.11
+
+0.11
+0.11
+
+Nonfinancial Relations
+VII.
+
+Exchange System
+
+The exchange rate is determined in the interbank foreign exchange market. The Islamic
+Republic of Iran maintains a de jure managed floating arrangement against a basket. The rial
+gradually depreciated against a composite of currencies, including the Euro, the U.S. dollar,
+and the Japanese yen. Effective January 4, 2008, the classification of the de facto exchange
+rate arrangement was changed from a conventional pegged arrangement to a crawling peg,
+and later in 2008, in view of further increase in exchange rate flexibility, the arrangement was
+reclassified to other managed arrangement. With effect from September 6, 2004, the Islamic
+Republic of Iran accepted the obligations under Article VIII, Sections 2, 3, and 4 of the
+Fund’s Articles of Agreement. Iran maintains one exchange restriction and two multiple
+currency practices subject to Fund jurisdiction under Article VIII, Sections 2(a) and 3.
+
+3
+a.
+The exchange restriction arises from limitations on the transferability of rial profits
+from certain investments under the Foreign Investment Promotion and Protection Act and
+from limitations on other investment-related current international payments under this act.
+b.
+
+The multiple currency practices arise from the following:
+
+1.
+Budget subsidies for foreign exchange purchases in connection with payments of
+certain letters of credit opened prior to March 21, 2002 under the previous multiple exchange
+rate system; and
+2.
+Obligations of entities that had received allocations of foreign exchange at subsidized
+“allocated rates” under the previous multiple exchange rate system to surrender unused
+allocations to the Central Bank of Iran at the allocation rate.
+VIII.
+
+Last Article IV Consultation
+
+The last Article IV consultation was concluded by the Executive Board on July 14, 2008.
+IX.
+
+Technical Assistance
+
+Since FY 2006, Iran received the following technical assistance:
+FAD
+FY 2009 – Tax administration and VAT
+FY 2010 -- Tax policy
+LEG
+FY 2007 –
+FY 2009 –
+
+Anti-Money Laundering/Combating Financing of Terrorism regulations
+Anti-Money Laundering/Combating Financing of Terrorism regulations
+
+MCM
+FY 2007
+FY 2008
+FY 2008
+FY 2008
+
+Banking regulation and supervision
+Technical assistance assessment visit
+Currency reform
+Macroeconomic and monetary modeling.
+
+–
+–
+–
+–
+
+4
+APPENDIX II. ISLAMIC REPUBLIC OF IRAN: RELATIONS WITH THE WORLD BANK
+The Islamic Republic of Iran: JMAP Implementation
+Area
+World Bank
+Fiscal sector
+Labor market
+Private sector development
+Regional development
+Energy Sector
+Private sector development
+IMF
+Financial sector
+
+Fiscal sector
+
+Trade and exchange restrictions
+
+Shared responsibility
+Fiscal sector
+Financial sector
+
+Product
+
+Delivery date
+
+Public expenditure review
+Report on employment growth
+Technical assistance report
+Technical assistance report
+Electricity Pricing and Power Sector Reform - report
+Programmatic analytical and advisory work on investment climate -ongoing
+
+FY 2009
+FY 2009
+FY 2009
+FY 2009
+FY 2010
+FY 2010
+
+2009 Article IV consultation staff report
+Technical assistance
+Currency reform
+Monetary policy modeling
+AML/CFT
+Bank restructuring and supervision
+
+FY 2008-10
+FY 2009-10
+FY 2009-10
+FY 2010
+
+2009 Article IV consultation staff report
+Selected issues papers:
+Energy sector reform
+Technical assistance:
+Major tax reforms
+
+FY 2009-10
+
+2009 Article IV consultation staff report
+Exchange rate assessment: CGER Methodologies
+Technical assistance:
+Implementing changes to the foreign investment regulatory framework
+
+FY 2009-10
+
+Introduction of VAT
+FSAP update
+
+FY 2010
+FY 2011–12
+
+FY 2009-10
+
+5
+APPENDIX III. ISLAMIC REPUBLIC OF IRAN: STATISTICAL ISSUES
+Data provision to the Fund is generally adequate for effective surveillance; however, the data
+are reported with significant delays. The Central Bank of Iran (CBI) disseminates key
+statistical aggregates in its quarterly Economic Trends, also available at
+<http://www.cbi.ir/e/>. Since 2002, the Fund’s Statistics Department has assisted the
+authorities in their efforts to subscribe to the Special Data Dissemination Standard (SDDS).
+The progress, however, has been slow and gaps in meeting SDDS requirements for data
+coverage, periodicity, and timeliness remain.
+Real sector statistics
+•
+
+National accounts statistics are reasonably sound. Improvements have been made in
+the coverage of the informal economy. However, there is scope for further progress,
+especially in the coverage of small-scale industries and services. Also, the CBI and
+the Statistical Council of Iran (SCI) have undertaken to review and unify their
+respective GDP estimates.
+
+•
+
+Price statistics are sound and released in a timely manner. The official labor market
+statistics are released by the SCI, and are based on the definitions recommended by
+the International Labor Organization (ILO). The data are based on an urban and rural
+population sample of about 100,000 households, and the threshold for considering a
+person employed is two days a week. Labor market statistics, however, could benefit
+from further improvement, particularly with regard to employment and wage data.
+
+Government finance statistics
+•
+
+The data are compiled in accordance with the Government Finance Statistics Manual,
+2001 (GFSM 2001) for the core central government operations. Starting 2003/04, the
+fiscal data include implicit energy subsidies.
+
+•
+
+Data on central government operations cover the general budget, the special purpose
+funds, and certain transactions with the Social Security Organization. These data are
+not consolidated. There is a need to expand the coverage of central government to
+include the complete transactions of the Social Security Organization, four pension
+funds, five procurement and distribution centers, and the OSF.
+
+•
+
+The submission for the 2006 Government Finance Statistics Yearbook included for
+the first time data for general and local governments.
+
+•
+
+The existing cash-based government accounting system should be upgraded to enable
+recording of expenditures at the pre-payment stage.
+
+•
+
+Financing data in the GFS are not broken down by residency of debt holders or by
+type of debt instruments. The discrepancy between fiscal and monetary data on deficit
+financing has often been relatively large, partly due to foreign currency valuation
+
+6
+problems. There is a need to develop a comprehensive database on domestic public
+debt, with a breakdown by domestic creditor.
+•
+
+The Bonyad-e-Mostazafan va Janbazan (BMJ, Foundation of the Oppressed and
+Injured) could be considered a holding company and classified in the nonfinancial
+public corporations sector.
+
+Monetary statistics
+•
+
+Monthly monetary data are reported to STA for publication in IFS, but periodicity has
+been lagging.
+
+•
+
+Compilation of monetary statistics diverges from international standards in the
+application of the residency criterion and in sectorization and classification of
+accounts. The authorities are undertaking improvements in each of these areas, in line
+with the recommendations of STA missions.
+
+•
+
+The measure of broad money employed by the CBI does not include deposits of
+public nonfinancial corporations, local governments, or foreign-currency deposits
+of residents.
+
+External sector data
+•
+
+The accounting system for foreign exchange receipts and payments of the CBI and
+banks is being implemented in line with the methodological guidelines of the Fund’s
+Balance of Payments Manual, fifth edition (BPM5). This will allow compilation of
+balance of payments statistics on a quarterly basis. Annual balance of payments data
+up to 2000 have been reported to STA for publication in BOPSY and IFS.
+
+•
+
+Data on the international investment position are compiled, but not disseminated.
+Only data on public and publicly guaranteed debt are disseminated, but classifications
+do not fully accord with the guidelines of the External Debt Guide. The data template
+on international reserves and foreign currency liquidity is not compiled.
+
+7
+Islamic Republic of Iran: Table of Common Indicators Required for Surveillance
+(As of December 16, 2009)
+Date of latest
+Observation
+Exchange Rates
+
+Dec. 16, 2009
+
+Date
+Received
+Dec. 16,
+2009
+
+Frequency
+of
+6
+Data
+
+Frequency
+of
+6
+Reporting
+
+Frequency
+of
+6
+Publication
+
+D
+
+D
+
+D
+
+International Reserve Assets and Reserve Liabilities of the
+1
+Monetary Authorities
+
+Sept. 2009
+
+Dec. 2009
+
+M
+
+M
+
+M
+
+Reserve/Base Money
+
+Sept. 2009
+
+Dec. 2009
+
+M
+
+M
+
+M
+
+Broad Money
+
+Sept. 2009
+
+Dec. 2009
+
+M
+
+M
+
+M
+
+Central Bank Balance Sheet
+
+Sept. 2009
+
+Dec. 2009
+
+M
+
+M
+
+M
+
+Consolidated Balance Sheet of the Banking System
+
+Sept. 2009
+
+Dec. 2009
+
+M
+
+M
+
+M
+
+Sept. 2009
+
+Dec. 2009
+
+M
+
+M
+
+M
+
+Consumer Price Index
+
+Oct. 2009
+
+Dec. 2009
+
+M
+
+M
+
+Q
+
+Revenue, Expenditure, Balance and Composition of
+3
+4
+Financing –General Government
+
+June 2009
+
+Dec. 2009
+
+M
+
+M
+
+M
+
+Revenue, Expenditure, Balance and Composition of
+3
+Financing –Central Government
+
+June 2009
+
+Dec. 2009
+
+A
+
+A
+
+A
+
+Stocks of Central Government and Central Government5
+Guaranteed Debt
+
+June 2009
+
+Dec. 2009
+
+A
+
+A
+
+A
+
+External Current Account Balance
+
+Sept. 2009
+
+Dec. 2009
+
+M
+
+Q
+
+Q
+
+Exports and Imports of Goods and Services
+
+Sept. 2009
+
+Dec. 2009
+
+M
+
+Q
+
+Q
+
+GDP/GNP
+
+Q2 2008/09
+
+March 2009
+
+Q
+
+Q
+
+Q
+
+Gross External Debt
+
+Sept. 2009
+
+Dec. 2009
+
+M
+
+Q
+
+Q
+
+International Investment Position 7/
+
+Sept. 2009
+
+Dec. 2009
+
+A
+
+I
+
+NA
+
+Interest Rates
+
+2
+
+1/ Includes reserve assets pledged or otherwise encumbered as well as net derivative positions.
+2/ Both market-based and officially determined, including discount rates, money market rates, rates on treasury bills, and notes and bonds.
+3/ Foreign, domestic bank, and domestic nonbank financing.
+4/ The general government consists of the central government (budgetary funds, extra budgetary funds, and social security funds) and state and local
+governments.
+5/ Including currency and maturity composition.
+6/ Daily (D), weekly (W), monthly (M), quarterly (Q), annually (A), irregular (I), and not available (NA).
+7/ Includes the external financial assets and liabilities vis-à-vis nonresidents of the financial sector.
+
+Public Information Notice (PIN) No. 10/24
+FOR IMMEDIATE RELEASE
+February 18, 2010
+
+International Monetary Fund
+700 19th Street, NW
+Washington, D. C. 20431 USA
+
+IMF Executive Board Concludes 2009 Article IV Consultation with the
+Islamic Republic of Iran
+On February 3, 2010 the Executive Board of the International Monetary Fund (IMF) concluded
+the Article IV consultation with the Islamic Republic of Iran. 1
+Background
+Iran’s economic performance was strong in recent years, supported by high oil prices and
+expansionary fiscal and monetary policies. Real GDP growth was above 5 percent a year, the
+external position strengthened, and welfare indicators improved. The recent drop in oil prices
+and rising inflation, however, led the authorities to tighten fiscal and monetary policies since the
+second half of 2008/09. Real GDP growth is estimated by staff to have decelerated to 2–
+2½ percent in 2008/09, from almost 7 percent in 2007/08, owing to a reduction in oil production
+and slower growth in the non-oil sector. At the same time, inflation has declined significantly.
+The current account surplus is estimated to have remained strong in 2008/09 despite the drop
+in oil prices, reflecting a good performance of non-oil exports. Preliminary estimates suggest
+that the surplus narrowed from 12 percent of GDP in 2007/08 to 7 percent in 2008/09. Gross
+official reserves, including the Oil Stabilization Fund (OSF) foreign assets, declined slightly from
+$83 billion at end-2007/08 to $80.5 billion at end-September 2009. Large debt amortizations
+Under Article IV of the IMF's Articles of Agreement, the IMF holds bilateral discussions with
+members, usually every year. A staff team visits the country, collects economic and financial
+information, and discusses with officials the country's economic developments and policies. On
+return to headquarters, the staff prepares a report, which forms the basis for discussion by the
+Executive Board. At the conclusion of the discussions, the Managing Director, as Chairman of the
+Board, summarizes the views of Executive Directors, and this summary is transmitted to the
+country's authorities. An explanation of any qualifiers used in summings up can be found here:
+http://www.imf.org/external/np/sec/misc/qualifiers.htm.
+1
+
+2
+have further lowered the outstanding external debt to an estimated $20 billion (6½ percent of
+GDP) in 2008/09. The rial depreciated in nominal terms by 9 percent against the U.S. dollar in
+the period March 2008-September 2009.
+Twelve-month CPI inflation dropped to 7½ percent in October 2009, from almost 30 percent in
+October 2008, as money (M1) growth slowed, reversing the increasing trend of recent years.
+The drop in international commodity prices contributed to the decline in inflation. In 2008/09, the
+non-oil fiscal deficit is estimated to have declined by one percentage point of GDP, to about 18
+percent of GDP. This was mainly achieved through a reduction in government expenditure. In
+addition, a VAT with a three percent rate was successfully implemented across Iran in
+September 2008 to replace the system of integrated levies. The Central Bank of Iran (CBI) also
+introduced measures to tighten monetary policy, in particular, in the second half of 2008/09 it
+restructured its lending facilities and issued high-denominated notes to replace commercial
+bank checks.
+The recent performance of the banking sector shows a steady increase in the market share of
+private banks, which have become leaders in the provision of participatory facilities, and a
+weakening of soundness indicators because of credit policies and slower domestic demand
+growth.
+In the structural area, the approval of an ambitious energy price reform by the Parliament in
+December 2009 is expected to bring about an improvement in both the fiscal and external
+positions, facilitate higher investment in the energy sector, and support higher real GDP growth.
+In the financial area, the CBI established an interbank market in July 2008 to reduce the banks’
+demand for central bank facilities and help improve liquidity management. The authorities have
+also improved bank supervision by implementing a new banking supervision framework,
+including a new loan classification system. In addition, the CBI has put in place a credit rating
+agency to enhance transparency regarding customer credit risk. The authorities have also
+adopted implementing regulations for the Anti-Money Laundering (AML) law as another step
+toward establishing a more comprehensive AML framework. The authorities have requested
+additional technical assistance with the drafting of a law on combating the financing of terrorism
+and to bring Iran’s AML/CFT more in line with international standards.
+Looking forward, the authorities’ main macroeconomic challenges are to support non-oil GDP
+growth, further reduce inflation, and lessen Iran’s fiscal dependency on oil by expanding
+domestic sources of revenue. The 2009/10 budget envisages a reduction in the non-oil fiscal
+deficit to be achieved through an increase in non-oil revenue. Gross official reserves are
+projected to remain at a comfortable level at end-2009/10, and inflation is expected to decline
+further. Over the medium term, based on current WEO oil price projections, measures will be
+needed to further reduce the non-oil fiscal deficit. Against this background, the implementation
+of the proposed energy price reform is a critical step to improve the medium-term fiscal outlook
+and increase economic efficiency.
+
+3
+
+Executive Board Assessment
+Directors noted that Iran’s economy had performed strongly in recent years supported by high
+oil prices and expansionary fiscal and monetary policies. However, declining oil prices have had
+an adverse effect on output and external fiscal balances. In light of this, Directors supported the
+authorities’ plans to increase non-oil revenue and reduce subsidies, and stressed the need to
+address forcefully the soundness of the banking system.
+Directors emphasized the positive medium-term impact of the planned domestic energy price
+reform on the macroeconomic outlook. This reform would help strengthen the fiscal and external
+accounts, enable higher investment in the energy sector, and support stronger and more
+sustainable growth.
+Directors stressed that the success of the planned energy price reform will depend importantly
+on the effective and timely implementation of a well-targeted mechanism of cash transfers to the
+poor as well as the transition to using energy efficient technologies. Anchoring expectations
+through prudent macroeconomic policies will be important for limiting the secondary effects of
+the energy price increases on the general price level. Directors particularly stressed the need to
+avoid quasi-fiscal operations through the banking sector. This will also require a sufficiently tight
+monetary policy, while providing adequate liquidity to the banking sector.
+Directors encouraged the implementation of a rolling medium-term fiscal framework which
+integrates the operations of the central government budget and the Oil Stabilization Fund to
+help reduce domestic and external vulnerabilities.
+Directors complimented the authorities for sharply bringing down inflation by tightening fiscal
+policies and liquidity conditions. They recommended that access to the CBI’s liquidity facility be
+made subject to the use of collateral. Directors welcomed the steps taken to equalize the rates
+of return on term deposits between public and private banks, and stressed the need to gradually
+liberalize rates of return, particularly on the lending side. Many Directors called for strengthening
+the independence of the central bank.
+Directors emphasized the importance of addressing the increase in banks’ nonperforming loans
+and welcomed the authorities’ intention to take additional measures as necessary. They noted
+that balance sheets of banks were likely to be affected by the impact of the increase in energy
+prices on corporate profits and encouraged the authorities to recapitalize the banking system.
+Directors observed that recent estimates suggested that the rial was broadly in line with
+fundamentals. However, they were broadly of the view that in light of the high oil price volatility,
+greater exchange rate flexibility would help adjust the external current account and preserve a
+strong international reserves position.
+
+4
+
+Directors noted the progress made towards establishing a more comprehensive AML/CFT
+framework and urged the authorities to strengthen this effort so as to bring their AML/CFT
+framework in line with international standards.
+Directors considered that economic data were broadly adequate for surveillance purposes but
+recommended that its timeliness be improved.
+Public Information Notices (PINs) form part of the IMF's efforts to promote transparency of the IMF's
+views and analysis of economic developments and policies. With the consent of the country
+(or countries) concerned, PINs are issued after Executive Board discussions of Article IV consultations
+with member countries, of its surveillance of developments at the regional level, of post-program
+monitoring, and of ex post assessments of member countries with longer-term program engagements.
+PINs are also issued after Executive Board discussions of general policy matters, unless otherwise
+decided by the Executive Board in a particular case.
+
+5
+
+Islamic Republic of Iran: Selected Economic Indicators, 2006/07–2008/09
+2006/07
+
+2007/08
+
+Real GDP growth (factor cost; percentage change)
+
+6.6
+
+6.7
+
+CPI inflation (period average; percentage change)
+
+11.9
+
+18.4
+
+25.4
+
+CPI inflation (end of period; percentage change)
+
+15.3
+12.1
+
+22.5
+10.6
+
+17.8
+…
+
+0.0
+
+2.7
+
+39.2
+
+28.6
+
+Current account balance (in percent of GDP)
+
+9.2
+
+11.9
+
+7.2 1/
+
+Overall external balance (in percent of GDP)
+
+6.1
+
+7.8
+
+-1.0 1/
+
+Gross international reserves (in billions of U.S. dollars)
+
+60.5
+
+82.9
+
+Public and publicly guaranteed external debt (in percent of GDP)
+
+10.4
+
+9.8
+
+9,202
+
+9,285
+
+Unemployment rate (in percent)
+Central government balance (in percent of GDP)
+Broad money growth (percentage change)
+
+Exchange rate (period average; rials per U.S. dollar)
+Sources: Iranian authorities; and IMF staff estimates.
+1/ Estimate.
+
+2008/09
+2.3 1/
+
+0.0 1/
+16.6
+
+79.6
+6.0 1/
+9,574
+
+Statement by Jafar Mojarrad, Executive Director for the Islamic Republic of Iran
+February 3, 2010
+My authorities thank staff for their hard work and the constructive discussions and useful
+analysis, including the high-quality selected issues paper. They continue to value the
+professional work of staff on Iran, as well as Fund’s policy advice. They are also grateful
+for the technical assistance provided by FAD and LEG, and look forward to further close
+collaboration with Fund TA departments in the period ahead.
+Overview
+Since the last Article IV consultation, economic developments in Iran have been marked
+by the global economic turmoil, which led to a sharp drop in oil prices, and a decline in
+demand for exports and foreign financing, in particular in the oil sector. These factors
+have impacted economic activity, albeit less than expected.
+Notwithstanding these unfavorable developments, the authorities have remained focused
+on implementing their reform agenda, and the achievements in this regard are
+satisfactory. As highlighted in the staff report, real GDP growth averaged 5.6 percent
+during 2005/06–2008 /09, which translated into a significant increase in per capita
+income, inflation was brought down to a single digit level, and unemployment declined to
+about 10 percent. The external position is strong and there are no immediate risks to its
+viability. Despite the sharp contraction in oil export receipts, the current account
+remained in surplus, albeit less than in previous years, and gross official reserves at a
+comfortable level equivalent to 12 months of imports. Iran’s external debt has continued
+to decline, reaching 5 percent of GDP. The managed floating exchange rate regime has
+continued to serve the economy well, and we note staff assessment that the exchange rate
+is broadly in line with fundamentals.
+My authorities are fully aware of the remaining challenges ahead, which will be
+addressed in the forthcoming five-year development plan. These include sustaining high
+growth rates to provide employment opportunities for a growing labor force, maintaining
+a low inflation rate, diversifying the economy away from the hydrocarbon sector,
+enhancing non-oil revenue performance and base, fostering efficiency and private sector
+development, and reducing regional and social disparities.
+Reducing inflation
+The authorities have given priority to addressing the issue of high inflation, a major
+concern during previous Article IV consultations. Notwithstanding the fallout from the
+global economic slowdown and lower oil prices, the authorities tightened fiscal and
+monetary policies in 2008/09 and 2009/10 to reduce inflation. Consequently, as
+highlighted in the staff report, inflation was brought down to 7½ percent in October 2009,
+from 30 percent a year earlier and 19 percent on average over the last three years.
+Nonetheless, the tighter fiscal and monetary policies, combined with lower oil output,
+
+2
+have inevitably affected real GDP growth, which is estimated at 2.3 percent in 2008/09
+and 2 percent in 2009/10, even though growth in the non-oil sector has shown signs of
+resilience.
+Fiscal policy
+Fiscal policy was tightened in 2008/09 and 2009/10, in a departure from past years’
+stance. The non-oil fiscal balance, which was reduced by 1 percentage point of GDP
+in 2008/09, is estimated to decline further by 2 percentage points to 16 percent of GDP
+in 2009/10, one of the lowest non-oil fiscal deficits among the oil producing countries in
+the MENA region, as shown in the October 2009 Regional Economic Outlook. This has
+been achieved mainly through improvement in non-oil revenue mobilization, including
+the successful implementation of a VAT and further strengthening of tax administration.
+On the expenditure side, the authorities have kept the lid on total spending, which is
+estimated to decline by 6½ percent in real terms in 2009/10 (assuming an average
+inflation rate of 10 percent). Privatization receipts continue to contribute to financing the
+non-oil deficit. Continued efforts in enhancing the non-oil revenue performance should
+bring Iran close to insulating the budget from the volatility of oil prices.
+The draft budget law for fiscal year 2010/11 was submitted to Parliament on
+January 23, 2010. While detailed information will be available in the coming weeks,
+there are indications that fiscal policy will remain prudent to help address temporary
+effects of the energy price reform, which will be introduced in 2010/11 (see below).
+Monetary policy
+Monetary policy was aimed at containing the growth of domestic liquidity and keeping
+credit growth under control. The Central Bank of Iran (CBI) has continued to reduce its
+lending to banks, while directing banks to the interbank money market to meet their
+liquidity needs. Moreover, the CBI has replaced banks’ checks in circulation with CBIissued high denomination bills, thereby regaining control of monetary growth. In recent
+years, commercial banks were allowed to issue endorsable checks backed by client
+deposits to facilitate cash transactions in large denominations. However, these quasimonetary instruments had grown to the point of complicating the task of controlling
+money growth.
+Monetary policy in 2010/11 will be attentive to the need to support economic activity,
+while helping smooth the impact of the energy price reform and preserving the gains
+achieved in reducing inflation.
+Financial sector
+The financial sector has been insulated from the global turmoil, and bank intermediation
+has continued to grow, reflecting in part the expansion of private banks, which have
+increased their market share. To foster competition and efficiency in the delivery of
+
+3
+financial services, the authorities have allowed public banks to match the rates of return
+on term deposit facilities offered by private banks.
+The CBI has stepped up its efforts to preserve bank soundness and strengthen supervisory
+standards. A new banking supervision framework, including a new loan classification
+system, has been implemented. In addition, the CBI has established a credit rating entity
+to help improve information on customer credit risk. Other steps include the
+establishment of a bank-owned company for the resolution of nonperforming loans and
+the planned recapitalization of certain banks before their privatization. My authorities are
+of the view that the rise in nonperforming loans is essentially due to the slowdown in
+economic activity and the depressed external demand, as happened in many other
+countries. They intend to continue to monitor the situation closely and take additional
+measures as needed to ensure that financial institutions remain solvent and profitable.
+Medium-term outlook and reforms
+Iran’s medium-term economic prospects will be shaped by the ambitious reforms of the
+next five-year development plan. The draft plan law, which is being debated by
+Parliament, sets ambitious, but achievable targets for growth, unemployment, inflation,
+and improvement in the living conditions. My authorities are convinced that with
+sustained implementation of wide-ranging reforms, Iran will be able to fully tap its
+economic potential, given the country’s endowment in energy resources, its abundant and
+skilled labor force, and its entrepreneurial business community. As such, they are
+confident that the medium-term outlook is favorable.
+The energy price reform, which has been under preparation for several years, was
+approved by Parliament on January 05, 2010, and implementation is expected to start in
+April of this year, once the related regulations are approved. This reform will be a major
+step toward enhancing energy efficiency, improving resource allocation, and targeting
+and reducing the high cost of subsidies on energy. My authorities are aware of the
+challenges of implementing such an important, but complex reform, as outlined in the
+useful SIP, including in particular its economic and social impact in the short and long
+run. Preparations are underway to work out detailed implementation steps, including
+active communication to keep the public well informed. The authorities agree with staff
+that the energy price reform will bring about significant benefits in the medium and long
+term, and stand ready to address any short-term adverse effects.
+Efforts will continue to focus also on improving the business environment by
+streamlining procedures, facilitating access to credit by SMEs, encouraging technological
+innovation, and fostering job training and employment. In the fiscal area, the authorities
+will continue to enhance non-oil revenue by broadening the tax base, reviewing income
+and trade taxes, and strengthening tax administration. Efforts will also be made to
+streamline public administration and enhance the efficiency of government spending,
+including reducing the subsidies and improving their targeting. In the financial sector, the
+authorities intend to improve the performance and financial strength of public banks,
+while further encouraging the development of private banks.
+
+4
+
+Conclusion
+The Iranian economy has continued to exhibit strong performance, despite adverse
+external developments. High rates of growth and employment creation have been
+achieved, and the external position has strengthened. The authorities have shown
+determination in bringing inflation down to a low level, and will seek to preserve this
+achievement. They are also embarking on more ambitious and wide-ranging reforms in
+the context of the forthcoming five-year development plan, including the far-reaching
+energy price reform. My authorities highly appreciate the technical assistance and policy
+advice provided by the IMF as they set to tackle challenging tasks in the period ahead.
+
+

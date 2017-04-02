@@ -1,0 +1,6111 @@
+March 2008
+IMF Country Report No. 08/111
+
+© 2008 International Monetary Fund
+
+[Month, Day], 2001
+[Month, Day], 2001
+
+August 2, 2001
+January 29, 2001
+August 2, 2001
+
+Belgium: 2007 Article IV Consultation—Staff Report; Staff Supplement; and Public
+Information Notice on the Executive Board Discussion
+Under Article IV of the IMF’s Articles of Agreement, the IMF holds bilateral discussions with
+members, usually every year. In the context of the 2007 Article IV consultation with Belgium, the
+following documents have been released and are included in this package:
+•
+
+The staff report for the 2007 Article IV consultation, prepared by a staff team of the IMF,
+following discussions that ended on January 28, 2008, with the officials of Belgium on
+economic developments and policies. Based on information available at the time of these
+discussions, the staff report was completed on February 28, 2008. The views expressed in the
+staff report are those of the staff team and do not necessarily reflect the views of the
+Executive Board of the IMF.
+
+•
+
+A staff supplement of March 19, 2008 updating information on recent developments.
+
+•
+
+A Public Information Notice (PIN) summarizing the views of the Executive Board as
+expressed during its March 21, 2008 discussion of the staff report that concluded the
+Article IV consultation.
+
+The policy of publication of staff reports and other documents allows for the deletion of market-sensitive
+information.
+Copies of this report are available to the public from
+International Monetary Fund • Publication Services
+700 19th Street, N.W. • Washington, D.C. 20431
+Telephone: (202) 623-7430 • Telefax: (202) 623-7201
+E-mail: publications@imf.org • Internet: http://www.imf.org
+Price: $18.00 a copy
+
+International Monetary Fund
+Washington, D.C.
+
+INTERNATIONAL MONETARY FUND
+BELGIUM
+Staff Report for the 2007 Article IV Consultation
+Prepared by Staff Representatives for the 2007 Consultation with Belgium
+Approved by Alessandro Leipold and Michael Hadjimichael
+February 28, 2008
+
+EXECUTIVE SUMMARY
+Headwinds from a more testing international environment and domestic political tensions
+are challenging Belgium’s enviable economic performance. Economic growth is expected to
+decelerate significantly—in the staff’s view to 1.6 percent in 2008, though the authorities
+remain somewhat more sanguine. The recent spike in energy and food prices will likely push
+average inflation to 2.9 percent in 2008. Partial indexation will temper its impact on real
+incomes, but poses risks to competitiveness. With political tensions following the June 2007
+elections, federal policy making has been at a standstill since April 2007, delaying much
+needed fiscal consolidation and structural reforms. Meanwhile, the window to tackle the
+implications of population aging—through fiscal pre-funding and higher growth—is closing
+rapidly.
+The impact of financial turmoil on the financial system appears contained but, together
+with heightened cross-border integration, will continue to require the dedicated attention
+of supervisors. While not ruling out downside surprises, especially in the event of a severe and
+prolonged economic downturn, supervisors indicated that financial institutions remained
+sound. More transparent disclosure of exposures and valuation assumptions and their
+implications for banks’ earnings and capital would dampen market volatility. While already
+high-quality prudential supervision is being further enhanced, the relentless rise in the crossborder dimension of the financial system requires stronger coordination with host country
+authorities.
+Though the policy agenda to address aging and fiscal federalism imbalances is well
+known, timely delivery is not certain. On the positive side, fiscal consolidation is set to
+resume in 2008, without recourse to significant one-off measures. But plans fall short of staff
+advice and the urgent reform of fiscal federalism arrangements will need to be executed
+without fiscal costs. Greater accountability, more transparency, and stronger coordination
+among federal and sub-federal entities are key to achieving the required medium-term buildup
+of fiscal surpluses. Structural reforms will need to resume without delay to boost employment
+rates and productivity.
+
+2
+Contents
+
+Page
+
+Executive Summary ...................................................................................................................1
+I. Introduction ............................................................................................................................4
+II. Outlook: Supporting Growth, Managing Inflation, and Preserving Competitiveness ..........5
+A. How Significant a Slowdown Lies Ahead? ..............................................................5
+B. How is Inflation Affecting the Economy? ................................................................7
+C. Is Competitiveness an Issue? ....................................................................................9
+III. Financial Sector: Addressing Turbulence and Enhancing Stability ..................................11
+A. How is the Financial System Coping with Financial Turbulence?.........................11
+B. Will Financial Strains Impact the Real Economy? .................................................13
+C. How Can Financial Stability be Further Enhanced? ...............................................15
+IV. Fiscal Policy: Resuming Consolidation and Improving Institutions .................................16
+A. Why has Fiscal Consolidation Become an Urgent Priority? ..................................16
+B. Why is There a Need to Revise Fiscal Federalism Arrangements? ........................20
+V. Structural Reforms: Raising Employment and Productivity ..............................................21
+VI. Staff Appraisal ...................................................................................................................23
+Text Box
+1. Complex Political Environment.........................................................................................4
+Text Tables
+1. Economic Outlook .............................................................................................................6
+2. Inflation Impact on Lowest Income Group........................................................................8
+3. Saving-Investment Balances............................................................................................10
+4. Unit Labor Costs in the Private Sector, 2003-08 .............................................................11
+5. General Government Fiscal Indicators, 2003-2009.........................................................17
+6. Fiscal Accounts by Level of Government, 2002-2007 ....................................................19
+Tables
+1. Main Economic Indicators, 2003–09...............................................................................25
+2. Operations of the General Government, 2000–2006 .......................................................26
+3. Fiscal Scenarios, 2004–13 ...............................................................................................27
+4. Financial Soundness Indicators of the Non-Banking Sectors, 2001-07 ..........................28
+5. Financial Soundness Indicators of the Banking Sector, 2002-07 ....................................29
+6. Indicators of External and Financial Vulnerability, 2001-07 ..........................................30
+
+3
+Figures
+1. Political Tensions and Sovereign Spreads .........................................................................4
+2. GDP Growth ......................................................................................................................5
+3. Employment Growth..........................................................................................................5
+4. Business Confidence..........................................................................................................6
+5. Residential Construction....................................................................................................6
+6. Real GDP Growth: Risks to the Forecast ..........................................................................7
+7. Headline Inflation ..............................................................................................................8
+8. Contribution to Inflation ....................................................................................................8
+9. Competitiveness Indicators..............................................................................................10
+10. Financial Indicators..........................................................................................................12
+11. Bank Lending Survey Data..............................................................................................14
+12. Projected Fiscal Costs of Aging.......................................................................................16
+13. HFC Recommended Adjustment .....................................................................................16
+14. Fiscal Balance Projections ...............................................................................................17
+15. Vertical Imbalance—Aging-Related Spending ...............................................................20
+16. Horizontal Imbalance—Tax Revenue .............................................................................20
+17. Employment and Unemployment ....................................................................................21
+Appendix
+1. Fund Relations .................................................................................................................31
+2. Statistical Issues...............................................................................................................34
+
+4
+I. INTRODUCTION
+1.
+While economic performance has remained good, difficulties in building
+consensus for institutional reform have caused an ill-affordable hiatus in economic
+policy making. Economic growth was robust in 2007, bringing down unemployment to the
+lowest level since 2002. As elsewhere in the euro area, growth is expected to slow
+significantly owing to a weakening of the international environment and financial turbulence,
+though the domestic financial system appears to be resilient. The recent spike in energy and
+food prices is of concern, as partial indexation may pose risks to competitiveness. More
+worrisome is the interruption in policy-making at the federal level, broadly since April 2007,
+reflecting a complex political environment (Box 1). The coordinated early and decisive
+policy response to tackle long-term challenges that Executive Directors called for in last
+year’s consultation has thus remained absent.
+Box 1. Complex Political Environment
+In the June 2007 federal elections, voters rejected the outgoing left-right coalition and put the center
+Christian Democrats in a commanding position to form a new coalition, but disagreements on reforms of
+fiscal federalism arrangements led to a 6-month political impasse. In the absence of a federal government,
+policy making continued only at the regional, community, and local levels but without the usual
+coordination mechanisms.
+To deal with urgent policy matters, especially the 2008 budget, an interim federal government was formed
+on December 21, 2007, under outgoing Prime Minister Verhofstadt. A regular federal government is
+expected to be put in place by March 23, 2008, consisting of the same coalition partners but headed by a
+new Prime Minister. However, serious tensions remain within the coalition, especially surrounding
+constitutional reforms, and the policy
+Figure 1. Political Tensions and Sovereign Spreads
+agenda is already being influenced by
+the perspective of the regional
+20
+(Basis points)
+(In percent)
+elections of 2009.
+Spread 1/
+The impact of the political uncertainty
+can be seen in movements in sovereign
+spreads (Figure 1), with spikes in
+political tensions1 leading to their
+widening. Indeed, fiscal policy has so
+far been the main victim of the
+political turmoil: the general
+government is likely to record a deficit
+of 0.1 percent of GDP in 2007 instead
+of the targeted surplus of 0.3 percent
+of GDP required under the previously
+agreed strategy to deal with aging.
+
+1
+
+2nd negotiations fail
+(12/2/07)
+
+15
+1st negotiations fail
+(8/23/07)
+
+10
+
+5
+
+0
+06/1/07
+
+Negotiations restart
+(9/29/07)
+
+07/13/07
+
+08/24/07
+
+Vote BHV
+(11/7/07)
+
+10/8/07
+
+11/19/07
+
+Source: Belgium Debt Agency
+1/ Compared to average of Germany, France, Spain, and Netherlands.
+
+Political tensions peaked when negotiations to form a government failed twice and when a dispute over
+an electoral district (BHV) evoked the specter of a partition of the country.
+
+5
+II. OUTLOOK: SUPPORTING GROWTH, MANAGING INFLATION, AND PRESERVING
+COMPETITIVENESS
+A. How Significant a Slowdown Lies Ahead?
+2.
+A mostly favorable global
+environment and strong domestic demand
+delivered robust economic growth in 2007
+(Figure 2). The strong performance of
+Germany and emerging markets as well as
+easy financing conditions created a supportive
+external environment during most of the year.
+Domestically, household and business
+confidence indicators rose significantly,
+inflation was subdued, and job creation
+increased significantly. All in all, GDP rose
+by 2.7 percent in 2007.
+3.
+Robust economic activity absorbed a
+growing labor force and allowed the
+unemployment rate to decline
+continuously (Figure 3). In addition to
+cyclical factors, employment growth also
+benefited from a sharp increase in the selfemployed, associated with labor immigration
+following EU enlargement, and the
+government-subsidized voucher program for
+domestic services which led to the creation
+of low-skill jobs in the services sector. As a
+result, 55,000 jobs were added during the
+first 9 months of 2007, raising households’
+net disposable income which, in turn,
+spurred strong consumption growth.
+Meanwhile, labor shortages have started to
+appear in some regions and sectors.
+
+Figure 2. GDP Growth
+7
+6
+
+(Percent change, annualized)
+Belgium
+Euro Area
+France
+Germany
+
+5
+4
+3
+2
+1
+0
+-1
+2004Q1
+
+2005Q1
+
+2006Q1
+
+2007Q1
+
+Source: WEO
+
+Figure 3. Employment Growth
+(Percent change, annualized)
+0.5
+
+Belgium employment
+N3 employment 1/
+
+0.3
+
+0.1
+
+-0.1
+2004Q1
+
+2005Q1
+
+2006Q1
+
+2007Q1
+
+Sources: Eurostat; and OECD, Economic Outlook.
+1/ France, Germany, and the Netherlands.
+
+4.
+The authorities and staff agreed that growth would decline significantly, but
+differed on the degree of the slowdown. The authorities’ macroeconomic framework
+underlying the budget is based on GDP growth of 1.9 percent in 2008, which they felt was
+only slightly on the optimistic side. The staff expects economic growth to fall to 1.6 percent
+(Text Table 1). There was agreement that the slowdown would affect all demand
+components. Business investment is expected to decelerate due to greater uncertainty and to
+a lesser extent because of less favorable financing conditions (Figure 4). Residential
+
+6
+
+construction will ease from historic highs in line with developments in house prices and
+mortgage markets (Figure 5).1 Consumption will grow at a lower pace mostly due to sluggish
+real disposable income growth as inflation rises and the pace of job creation diminishes.
+However, with consumer credit less developed than in Anglo-Saxon countries, the drag from
+less favorable financing conditions will be smaller. Finally, the global slowdown and euro
+appreciation will dampen export growth.
+Text Table 1. Economic Outlook
+(Annual growth rates from previous period, unless otherwise indicated)
+Est.
+
+Proj.
+
+2005 2006 2007
+
+Est.
+
+2008
+
+Q1
+
+2007
+Q2 Q3
+
+3.0
+1.9
+4.8
+...
+1.8
+...
+...
+
+2.8
+2.4
+4.7
+...
+1.5
+...
+...
+
+Real GDP (constant prices)
+Private consumption expenditure
+Gross fixed capital formation
+Unemployment rate
+Consumer price index
+General government balance (in percent of GDP)
+Current account balance (in percent of GDP)
+
+2.0
+1.4
+6.7
+8.4
+2.5
+-2.3
+2.6
+
+2.9
+2.1
+4.2
+8.2
+2.3
+0.4
+2.7
+
+2.7
+2.5
+4.9
+7.5
+1.8
+-0.1
+3.3
+
+1.6
+1.5
+1.4
+7.4
+2.9
+-0.5
+3.0
+
+Memorandum items:
+Oil prices (US$ per barrel) 1/
+Partner country growth 2/
+
+41.3
+1.2
+
+20.5
+2.6
+
+10.7
+2.4
+
+21.3
+1.8
+
+2.6
+2.8
+4.2
+...
+1.3
+...
+...
+
+Q4
+2.4
+2.9
+6.1
+...
+2.6
+...
+...
+
+-6.2 -3.2 7.0 48.4
+2.9 2.1 2.5 2.2
+
+Projections
+2008
+Q1 Q2 Q3 Q4
+2.0
+2.4
+2.6
+...
+3.3
+...
+...
+
+1.6
+1.7
+1.2
+...
+3.1
+...
+...
+
+1.4
+1.0
+1.0
+...
+2.8
+...
+...
+
+1.4
+1.1
+0.7
+...
+2.6
+...
+...
+
+52.6 30.8 16.9 -2.7
+1.7 1.1 0.9 1.1
+
+Source: IMF, World Economic Outlook.
+1/ Crude Oil (petroleum), simple average of three spot prices; Dated Brent, West Texas Intermediate, and the Dubai Fateh, US$ per barrel.
+2/Real GDP growth (France, Germany, Netherlands).
+
+120
+
+Figure 4. Business Confidence
+
+115
+
+10
+
+6
+
+8
+
+4
+
+110
+
+Figure 5. Residential Construction
+
+8
+
+2
+105
+
+10
+
+(In Percent of GDP)
+Growth contribution: other
+Growth: residential construction
+Output share: 30-year average
+Output share of residential construction
+
+6
+
+8
+6
+
+4
+
+4
+
+2
+
+2
+
+0
+100
+95
+
+-2
+0
+
+Economic sentiment indicator
+
+-4
+
+Industrial confidence indicator (right)
+90
+2007M1
+
+2007M4
+
+2007M7
+
+2007M10
+
+-6
+2008M1
+
+0
+1996
+
+2001
+
+2006
+
+-2
+
+Source: National Bank of Belgium
+
+Source: National Bank of Belgium
+
+1
+
+However, with residential construction only making up 5.7 percent of GDP in 2007, the slowdown in this
+sector is not a major factor.
+
+-2
+
+7
+5.
+There was agreement that risks were tilted to the downside, but that there was
+no need for a policy response beyond the operation of automatic fiscal stabilizers. Oil
+prices, the euro appreciation and the duration of the financial turmoil are all weighing on the
+downside, while lack of decisive progress with domestic reforms could further sap
+confidence (Figure 6). The staff supported the authorities’ intention to allow automatic
+stabilizers to operate, thus abandoning the past procyclical practice of targeting nominal
+balances. However, the staff cautioned that consolidation would need to resume in earnest
+(see Section IV.A.) and that, with widespread indexation practices (see Sections II.B
+and II.C), broader fiscal support to the economy could prove counterproductive.
+Figure 6. Belgium: Real GDP Growth: Risks to the Forecast
+3.5
+
+3.5
+(In Percent)
+30-percent confidence interval
+
+3.0
+
+3.0
+
+2.5
+
+2.5
+
+2.0
+
+2.0
+60-percent confidence interval
+
+1.5
+
+1.5
+1.0
+
+1.0
+90-percent confidence interval
+
+0.5
+
+0.5
+0.0
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+0.0
+2009
+
+The chart includes the following risks to the baseline projections of growth (2.7 percent in 2007
+and 1.6 percent in 2008):
+● persistent tightening of financing conditions;
+● 10 percent euro appreciation;
+● 1 percent drop in foreign demand;
+● boost in domestic confidence reflecting steady progress in reform agenda;
+● a US recession and a disorderly unwinding of global imbalances.
+They are weighted by the staff's subjective probability assessment of their occurrence.
+Source: IMF staff estimates.
+
+B. How is Inflation Affecting the Economy?
+
+6.
+The factors that moderated inflation in the course of 2007 reversed toward the
+end of the year. The liberalization of the gas and electricity markets in Brussels and
+Wallonia initially reduced the consumer price of energy, exerting a moderating effect on the
+HICP until the summer of 2007, and allowing inflation to stay well below the average of the
+euro area. However, subsequently, the sharp increase in energy and food prices pushed
+inflation up to 3.1 percent in December 2007.
+
+8
+7.
+Inflation is expected to peak in early 2008 and recede in the course of the year
+(Figures 7 and 8). Even though energy and food markets are likely to stabilize, base effects
+and increases in the distribution margins in the energy sector in January will keep inflation
+high during the first quarter of 2008. Thereafter, inflation is projected to decline gradually to
+around 2 percent by year-end, but the year average will register about 2.9 percent.
+Figure 8. Contribution to Inflation 1/
+
+Figure 7. Headline Inflation
+5
+
+4
+
+Energy
+Food
+Other
+HICP
+
+(In percent)
+
+(12-month percent change)
+4
+
+3
+3
+2
+
+2
+
+1
+
+Belgium
+Euro Area
+
+1
+0
+
+0
+2003M1 2004M1 2005M1 2006M1 2007M1
+Source: Eurostat.
+
+-1
+2004
+2005
+2006
+2007
+2008
+Source: National Bank of Belgium and IMF estimates.
+1/ The estimates for 2008 reflect IMF staff projections.
+
+Low-income groups are being disproportionately affected by the food and
+8.
+energy price increases, triggering a necessary increase in targeted income support. With
+consumption patterns varying according to the income level of the household, a study by the
+central bank (NBB) shows that lower-income households suffer greater loss of purchasing
+power when these components register above average increases. This was observed between
+2004 and 2006 (Text Table 2), and is again applicable since September 2007. Hence, the
+authorities have increased the subsidies to low-income households for purchases of heating
+oil, through a mechanism that is generally well targeted and whose budgetary implications
+are capped.
+Text Table 2. Inflation Impact on Lowest Income Group
+
+Inflation
+Inflation first decile
+Implicit gain (+)/loss (-) in purchasing
+power for lower income
+Source: National Bank of Belgium
+
+19971998
+
+19992003
+
+20042006
+
+2007
+
+2.4
+2.9
+
+9.7
+8.8
+
+6.9
+7.8
+
+1.8
+2.0
+
+-0.5
+
+0.8
+
+-0.9
+
+-0.2
+
+9
+9.
+More general income support measures would not be justified, especially since
+existing partial indexation practices already hold up purchasing power. Public and
+private sector wages are indexed to a core inflation index, the so-called “health index,”
+though some increases are subject to a lower cap. These mechanisms will boost wages by 3
+percent in 2008. Even so, against the background of tight labor markets, there are calls for
+further wage increases. The mission cautioned against broader wage increases, which would
+evoke past episodes of mishandled supply shocks and subsequent painful adjustment. In line
+with the tradition of responsible wage bargaining and mindful of the risks to competitiveness,
+labor union leaders emphasized the need to stick to existing wage agreements, though they
+recognized that recent price increases had raised social tensions. Meanwhile, the authorities
+indicated that they had no intention to provide broad income support and would consider the
+mission’s advice to seek ways to contain prices by further promoting competition, especially
+in the retail sector, and reviewing the distribution margins in the energy sector.
+C. Is Competitiveness an Issue?
+
+10.
+The authorities agreed that various indicators suggest that the current level of
+the real effective exchange rate is broadly appropriate. Export performance remains
+relatively robust, with the trend decline in export shares, except for a brief episode in 2006,
+fully in line with what is to be expected from the mature structure of the economy. Based on
+the CGER methodology, staff estimates of the REER range between a 2 percent
+undervaluation (reduced-form estimation) and a 4 percent overvaluation (external
+sustainability approach). The former approach evaluates the difference between the current
+REER and an equilibrium REER derived from a panel regression in which fundamental
+determinants of the REER are evaluated at their trend levels.2 The latter approach verifies
+whether on the basis of current trade elasticities, the actual exchange rate is consistent with
+maintaining a benchmark level of net foreign assets as a share of GDP, here chosen to be the
+2006 level.
+Current and trade accounts have been recording a steady surplus. The current
+11.
+account surplus reflects net savings of the private sector, more than offsetting public sector
+deficits. This is driven by high corporate savings, while Ricardian equivalence considerations
+have led to a decline in household savings (Text Table 3).3
+
+2
+
+For Belgium, the relevant fundamental variables are: relative productivity, the net foreign asset position, the
+terms of trade, and government consumption. For details, see Methodology of CGER Assessments
+www.imf.org/external/np/pp/eng/2006/110806.pdf.
+
+3
+
+The government’s fiscal consolidation led individuals to lower their saving rate (see e.g. J. C. Cuaresma, and
+G. Reitschuler, 2007, “Is the Ricardian Equivalence Proposition an ‘Aerie Fairy’ Theory for Europe?”
+Economica, 74).
+
+10
+
+Text Table 3 . Belgium: Saving-Investment Balances
+(in percent of GDP)
+2002
+
+2003
+
+2004
+
+2005
+
+2006 2007 Est.
+
+24.0
+17.6
+6.4
+-1.7
+4.7
+
+23.3
+17.1
+6.1
+-1.7
+4.4
+
+23.7
+18.1
+5.6
+-1.7
+3.9
+
+23.8
+18.6
+5.2
+-1.8
+3.4
+
+24.9
+19.1
+5.8
+-1.7
+4.1
+
+Private savings
+Private investment
+Private saving surplus
+Government saving surplus
+National saving surplus
+Source: IMF staff estimates.
+
+Investment in Belgium remains attractive, but the high level of labor costs
+12.
+underscores the importance of preserving competitiveness through wage moderation.
+The authorities have eased business regulation and cut corporate income taxes, thereby
+supporting corporate profitability. Moreover, the 2007-08 wage agreements planned to keep
+wage growth well below key trading partners. However, higher-than-expected inflation will
+trigger wage indexation in 2008 and lift wages above the envisaged path. Hence, labor costs
+will evolve in line with partner countries, albeit from a higher starting level. Consequently,
+additional wage moderation will be necessary, though the extent of the recent REER
+appreciation would be smaller with more up-to-date weights (Figure 9, Text Table 4).
+Continuing labor and product market reforms would also help boost productivity
+(Section V).
+Figure 9. Belgium: Competitiveness Indicators
+130
+125
+120
+115
+
+115
+
+Real effective exchange rates
+(2000=100, based on RULC)
+
+Unit labor cost (manufacturing, 2000=100)
+
+Belgium
+France
+Germany
+Netherlands
+
+Belgium
+
+110
+
+Three key trading partners
+105
+
+110
+105
+
+100
+
+100
+95
+2000Q1
+
+95
+2002Q1
+
+2004Q1
+
+2006Q1
+
+Sources: IMF, DOT, IFS, and WEO; and OECD, Economic Outlook.
+
+2000
+
+2002
+
+2004
+
+2006
+
+26.0
+19.2
+6.8
+-2.1
+4.7
+
+11
+Text Table 4. Belgium: Unit Labor Costs in the Private Sector, 2003-08
+(Percentage change from previous year, adjusted for seasonal and calendar effects)
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+Gross wages per hour worked
+Collectively-agreed wages 1/
+Agreed real wage increases
+Indexations
+Wage drift 2/
+
+2.1
+1.9
+0.4
+1.5
+0.2
+
+2.5
+2.4
+1.0
+1.4
+0.1
+
+2.4
+2.3
+0.3
+2.0
+0.1
+
+3.3
+2.3
+0.5
+1.8
+1.0
+
+2.4
+1.9
+0.2
+1.6
+0.5
+
+3.0
+2.7
+0.6
+2.1
+0.3
+
+Employers' social security contributions 3/
+
+0.0
+
+-0.1
+
+-0.5
+
+-0.1
+
+0.0
+
+0.0
+
+Labor costs per hour worked
+In France, Germany, and the Netherlands
+
+2.1
+3.2
+
+2.4
+1.9
+
+1.9
+1.7
+
+3.2
+2.3
+
+2.4
+2.5
+
+3.0
+3.3
+
+Labor productivity 4/
+
+2.1
+
+2.3
+
+1.1
+
+1.6
+
+1.1
+
+1.1
+
+Unit labor costs
+
+0.0
+
+0.1
+
+0.8
+
+1.6
+
+1.3
+
+1.9
+
+Source: Belgian authorities and IMF staff estimates and projections.
+1/ Wage increases fixed by Interprofessional Wage Agreements (IPA).
+2/ Resulting from increases and bonuses granted by firms, as well as from changes in employment structures.
+3/ Contribution to changes in labor costs.
+4/ Private sector value added per hour.
+
+III. FINANCIAL SECTOR: ADDRESSING TURBULENCE AND ENHANCING STABILITY
+A. How is the Financial System Coping with Financial Turbulence?
+
+13.
+The impact on the financial sector of the ongoing financial turbulence appears
+manageable. The balance sheets of the major banks have deteriorated since mid-2007 and
+synthetic credit default insurance spreads have risen significantly in response to the global
+financial problems (Figure 10). However, strains appear to be smaller than in other major
+markets, although they vary from bank to bank. Bank exposure to subprime mortgages is
+limited to less than 1 percent of total assets and credit risk stress tests for subprime-related
+exposures do not result in a significant impact. Although the size of current financial
+vulnerabilities is inevitably subject to much uncertainty and differs by bank, estimated
+exposures to asset-backed securities (ABS) and collateralized debt obligations (CDO) also
+appear moderate. ABCP conduits sponsored by some of the largest banks have experienced
+difficulties in rolling over maturing commercial paper and some banks have brought these
+vehicles back on their books, but their size is small compared to the banks’ total on-balance
+sheet assets.
+Despite some write-offs related to the financial turmoil, supervisors judged the
+14.
+financial system to have remained sound. Banks remain well capitalized, and solvency and
+coverage ratios of insurance companies and pension funds have been increasing.
+Participation in ECB liquidity operations does not seem to have been affected by the
+financial turmoil, and in response to the stress in financial markets, banks have taken
+liquidity-enhancing measures and reinforced contingency funding plans and liquidity
+
+12
+Figure 10. Belgium: Financial Indicators
+160
+
+130
+Equities (1/3/07 = 100)
+
+120
+
+Credit default swap spreads
+(basis points, 5 years)
+
+140
+
+110
+
+120
+
+100
+
+Fortis
+Dexia
+KBC
+
+100
+
+90
+
+80
+
+80
+
+60
+
+70
+
+Fortis
+
+60
+
+Dexia
+
+50
+
+KBC
+
+40
+20
+
+4200
+
+4000
+
+4.5
+
+3800
+
+4.0
+
+Stock indices
+
+3/3/08
+
+1/3/08
+
+11/3/07
+
+9/3/07
+
+7/3/07
+
+5/3/07
+
+3/3/08
+
+7/3/07
+
+5/3/07
+
+3.0
+1/3/07
+
+3200
+
+3.5
+
+3/3/08
+
+3400
+
+3400
+3/3/07
+
+3 month
+
+7/3/07
+
+Euro Stoxx 50 (right)
+
+1/3/07
+
+Overnight
+
+3600
+
+BEL 20
+
+3600
+
+Interbank rates (percent)
+5.0
+
+5/3/07
+
+3800
+
+5.5
+
+3/3/07
+
+4000
+
+1/3/08
+
+4200
+
+1/3/08
+
+4400
+
+11/3/07
+
+4400
+
+11/3/07
+
+4600
+
+9/3/07
+
+4600
+
+9/3/07
+
+4800
+
+3/3/07
+
+3/3/08
+
+1/3/08
+
+11/3/07
+
+9/3/07
+
+7/3/07
+
+5/3/07
+
+3/3/07
+
+1/3/07
+
+1/3/07
+
+0
+
+40
+
+24
+
+5.0
+
+120
+
+Government interest rates (percent)
+
+4.8
+
+Sovereign spread
+(in basis points)
+18
+
+4.6
+4.4
+
+Libor - 3 month
+government
+yield (right)
+
+12
+
+4.2
+4.0
+3.8
+
+10 year
+
+90
+
+10 year spread
+with German
+Bund
+
+60
+
+6
+
+30
+
+0
+
+0
+
+Sources: Thomson Financial/DataStream and Bloomberg.
+
+3/3/08
+
+1/3/08
+
+11/3/07
+
+9/3/07
+
+7/3/07
+
+5/3/07
+
+3/3/07
+
+3/3/08
+
+1/3/08
+
+11/3/07
+
+9/3/07
+
+7/3/07
+
+5/3/07
+
+3/3/07
+
+1/3/07
+
+3.4
+
+1/3/07
+
+3 month treasury bill
+
+3.6
+
+13
+contingency procedures. Moreover, banks’ vulnerability to liquidity shocks is mitigated by
+the traditionally large costumer deposit base relative to the loan book, and the presence of a
+large securities portfolio, which can be deployed to obtain secured financing in wholesale
+markets. Exposure to emerging markets is modest at less than 4 percent of total assets.
+Nonetheless, recent volatility in equity prices of financial institutions indicates
+15.
+the need for more transparent disclosure of exposures and their implications for banks’
+earnings and capital. Recent actions taken by some banks to consolidate off-balance sheet
+exposures, albeit generally not large, generated unease about banks’ earnings, even while the
+adverse impact of the turbulence on profitability and balance sheets of financial institutions
+appears manageable. Supervisory authorities agreed that early and clear disclosure of
+exposure by financial institutions and their valuation assumptions and methods would help
+ease such concerns and were actively encouraging financial institutions to improve
+transparency. Nevertheless, valuation remained a difficult task and volatile market conditions
+were likely to persist for some time. The authorities also support an international tier to
+supervision for regionally and globally systemic institutions and coordinated efforts to
+address and prevent further financial turbulence.
+B. Will Financial Strains Impact the Real Economy?
+
+16.
+Repercussions of the financial turbulence on the real economy have so far been
+limited. In contrast to the tightening credit standards in the euro area as a whole, there is no
+tightening trend in the lending criteria applied by Belgian banks (Figure 11). Bank credit
+demand by non-financial corporate firms increased in late 2007 and was expected to stabilize
+in early 2008. Household appetite for credit was robust in late 2007 and anticipated to hold
+up in early 2008, despite a slowdown in the mortgage market. At the same time, banks
+remained cautious about lending prospects, noting the adverse impact of the financial
+turbulence on their balance sheets. The authorities agreed that continued turbulence in
+financial markets but, more importantly, a severe and protracted slowdown of economic
+activity, could strain the financial sector’s balance sheets, with repercussion for credit
+conditions.
+The high personal savings ratio and low household leverage provide a buffer to
+17.
+financial turbulence, but not complete insulation. Gross financial assets of the household
+sector amount to over 400 percent of gross disposable income compared to financial
+liabilities of around 80 percent, contributing to one of the highest levels of accumulated net
+worth in industrialized countries. At the same time, the household sector has sharply
+increased its borrowing in recent years, lifted by a buoyant mortgage market. With housing
+and equity prices moderating, net wealth creation is expected to slow down. In addition,
+households have been increasing their claims on institutional investors, raising the risk
+profile of household assets. Hence, while households do not appear overly sensitive to credit
+
+14
+Figure 11. Belgium: Bank Lending Survey Data
+Lending Criteria - Non-Financial Corporate Sector
+0.6
+Belgium (left)
+Euro area (right)
+
+0.3
+
+0.6
+
+Credit demand - Non-Financial Corporate Sector
+
+0.3
+
+Belgium (left)
+Euro area (right)
+
+0.2
+
+0.2
+
+0.4
+
+0.1
+
+0.2
+
+0.1
+
+0.0
+
+0.0
+
+0.0
+
+-0.1
+
+-0.2
+
+-0.1
+
+-0.4
+
+-0.2
+
+-0.4
+
+-0.2
+
+-0.6
+2005Q1
+
+-0.3
+
+-0.6
+2005Q1
+
+0.4
+
+Looser
+conditions
+
+0.2
+0.0
+-0.2
+
+Tightening
+conditions
+
+2006Q1
+
+2007Q1
+
+Belgium (left)
+Euro area (right)
+Looser
+conditions
+
+0.4
+0.2
+0.0
+
+Tightening
+conditions
+
+-0.2
+-0.4
+-0.6
+2005Q1
+
+2006Q1
+
+0.8
+
+0.2
+
+0.6
+
+0.1
+
+0.4
+
+0.1
+
+0.0
+
+0.2
+
+0.0
+
+-0.1
+
+0.0
+
+-0.1
+
+-0.2
+
+-0.2
+
+-0.2
+
+-0.3
+
+-0.4
+2005Q1
+
+Lending Criteria - Other Consumer Credits
+0.3
+Belgium (left)
+Euro area (right)
+
+0.4
+
+Looser
+conditions
+
+0.2
+0.0
+-0.2
+
+Tightening
+conditions
+
+-0.4
+-0.6
+2005Q1
+
+2006Q1
+
+2007Q1
+
+Source: National Bank of Belgium.
+
+0.3
+
+0.3
+
+2007Q1
+
+0.6
+
+2007Q1
+
+Credit Demand - Residential Mortgages
+
+Lending Criteria - Residential Mortgages
+0.6
+
+-0.3
+2006Q1
+
+Belgium (left)
+Euro area (right)
+
+0.2
+
+-0.3
+2006Q1
+
+2007Q1
+
+Credit demand - Other Consumer Credit
+0.6
+
+0.3
+
+Belgium (left)
+Euro area (right)
+
+0.2
+
+0.4
+
+0.1
+
+0.2
+
+0.1
+
+0.0
+
+0.0
+
+0.0
+
+-0.1
+
+-0.2
+
+-0.1
+
+-0.2
+
+-0.4
+
+-0.2
+
+-0.3
+
+-0.6
+2005Q1
+
+0.2
+
+-0.3
+2006Q1
+
+2007Q1
+
+15
+conditions, financial turbulence has raised uncertainty about household real incomes. With
+the sensitivity of private consumption to changes in real income comparatively high in
+Belgium, a slowdown in private demand is likely.
+The deleveraging of the corporate sector has reduced debt-financing risks in the
+18.
+short term. Profit margins of nonfinancial corporations continued to rise through mid-2007,
+allowing internal funds to finance investment. Similarly, with the implementation of the
+notional interest rate deduction for corporate equity in 2006, equity financing exploded. The
+corporate sector’s healthy balance sheets suggest resilience to a credit squeeze. However, the
+financial turbulence-induced slowdown in domestic and global demand is likely to pressure
+profit margins and delay investment plans.
+C. How Can Financial Stability be Further Enhanced?
+
+19.
+Commendable progress has been made in enhancing the effectiveness of the
+prudential supervision, helping to safeguard financial stability. In line with the 2005 FSAP
+recommendations, the supervisory framework is being continuously upgraded. The
+management committee of the Banking, Insurance and Finance Commission (CBFA) has
+been streamlined and synergies between the CBFA and the central bank (NBB) have been
+further developed. Regular stress tests have helped promote a systematic dialogue between
+supervisory authorities and market participants, while a thorough test of detailed procedures
+for financial crisis management yielded a satisfactory outcome. Prudential supervision of the
+insurance sector has been upgraded and regulation of the pension funds sector reinforced.
+At the same time, financial innovations and cross-border consolidation are
+20.
+modifying the financial landscape considerably. Given the increasing sophistication of
+financial instruments and the complexity of bancassurance conglomerates, the authorities are
+well aware of the need to remain vigilant and ensure that their capacity to identify risks keep
+pace with market developments. To help limit the adverse effects of the ongoing financial
+turbulence, they favor more disclosure of exposures, risks, and valuation assumptions and
+methodologies. The staff noted that with the cross-border dimension of the financial system
+continuing to gain importance, especially following the recent Fortis-ABN AMRO
+transaction, deeper coordination with host country authorities will be needed.
+
+16
+IV. FISCAL POLICY: RESUMING CONSOLIDATION AND IMPROVING INSTITUTIONS
+A. Why has Fiscal Consolidation Become an Urgent Priority?
+
+21.
+Fiscal adjustment should be at the core
+of a comprehensive strategy to address the
+projected rise in aging-related costs. Population
+aging will raise public expenditures by close to
+6 percentage points of GDP by 2050 (Figure 12).
+In the absence of fiscal adjustment, the public
+debt-to-GDP ratio is set to move onto an
+unsustainable path. There is broad public support
+for a significant pre-funding of the rise in agingrelated spending, reflecting concerns about
+intergenerational fairness and the need to avoid
+activity-discouraging tax increases or drastic
+spending cuts in the future. This strategy, as
+carefully articulated by the High Finance Council
+(HFC), consists of building surpluses gradually and
+using the savings from declining public debt to
+finance part of the costs of aging (Figure 13).
+Durable primary expenditure restraint will be
+needed to deliver the required primary surpluses as
+Belgium’s revenue-to-GDP ratio—close to
+50 percent of GDP—is already very high. Ideally,
+spending should be lowered even further to allow a
+reduction in the tax burden on labor, which would
+help job creation, as would growth-enhancing
+policies and entitlement reforms.
+
+Figure 12. Projected Fiscal Costs of Aging
+
+40
+
+(In Percent of GDP)
+30
+
+Other social spending
+Health care
+Pension
+
+6.1 percent of
+GDP increase
+
+20
+
+10
+
+0
+2007
+Source: Hight Finance Council.
+
+2050
+
+Figure 13. HFC Recommended Adjustment
+5
+
+100
+
+(In Percent of GDP)
+
+4
+3
+
+Debt (right)
+Balance
+Primary balance
+
+80
+60
+
+2
+
+40
+1
+
+20
+
+0
+-1
+2007
+2017
+2027
+Source: High Finance Council
+
+0
+2037
+
+2047
+
+Initially planned to begin in 2007, fiscal
+22.
+consolidation has slipped below the HFC’s
+recommended path. The 2007 budget is now estimated to post a small deficit instead of the
+planned surplus of 0.3 percent of GDP (Text Table 5). The authorities stressed that fiscal
+slippage was mostly due to the hiatus in policy making since April 2007, albeit partly offset
+by higher revenue reflecting higher-than-anticipated economic growth. In addition, with the
+elimination of one-off measures, fiscal policy was broadly neutral, with the structural balance
+remaining close to balance. However, on current policies, the fiscal position is set to
+deteriorate, raising concerns about medium and long-term sustainability (Figure 14). In this
+context, the authorities recognized that fiscal consolidation is a priority to address the
+projected rise in aging-related costs.
+
+17
+Text Table 5. Belgium: General Government Fiscal Indicators, 2003-2009
+(In percent of GDP, unless otherwise indicated)
+
+General government balance 2/
+Nonstructural measures
+Structural balance
+Interest charges
+Structural primary balance
+Change in structural balance
+Public debt 2/
+Memorandum items:
+Real primary spending growth (in percent) 2/
+Real GDP growth
+
+2003
+
+2004
+
+2005
+
+2006
+
+Est.
+2007
+
+Proj. 1/
+2008 2009
+
+0.0
+1.2
+-1.0
+5.3
+4.3
+-0.8
+98.7
+
+0.0
+0.8
+-0.6
+4.7
+4.2
+0.5
+94.4
+
+-2.3
+-2.0
+0.4
+4.2
+4.5
+0.9
+92.2
+
+0.4
+0.7
+-0.1
+4.0
+3.8
+-0.5
+88.1
+
+-0.1
+-0.1
+-0.1
+3.8
+3.8
+0.1
+84.5
+
+-0.5
+-0.1
+-0.2
+3.7
+3.5
+-0.1
+81.7
+
+-0.5
+0.0
+-0.2
+3.5
+3.3
+0.0
+79.2
+
+4.9
+1.0
+
+-0.2
+2.8
+
+8.9
+2.0
+
+-3.7
+2.9
+
+3.7
+2.7
+
+2.0
+1.6
+
+2.0
+1.8
+
+Sources: National Bank of Belgium; and IMF staff.
+1/ Based on unchanged policy assumption.
+2/ Assumes Eurostat's treatment of the national railway company debt transfer in 2005.
+
+23.
+The authorities are committed to resuming structural fiscal adjustment in 2008.
+Staff stressed the need for a significant effort so
+as to restore the credibility of their commitment
+Figure 14. Fiscal Balance Projections
+2.5
+to fiscal consolidation. However, given that
+(In Percent of GDP)
+only a provisional budget has been in place in
+2.0
+Current policies (staff projection)
+Staff recommended path
+the first quarter of 2008, reaching a surplus of
+HFC path
+1.5
+½ percent of GDP already this year, as
+1.0
+envisaged under the HFC-recommended
+scenario, appears to be unrealistic. Targeting a
+0.5
+structural improvement of ½ percent of GDP in
+0.0
+2008 would seem to strike the right balance
+-0.5
+with feasibility. It is consistent with the
+prescription of the Stability and Growth Pact
+-1.0
+for countries that have not yet reached their
+2006 2007 2008 2009 2010 2011 2012 2013
+medium-term objectives, and would bolster
+Source: High Finance Council; and Staff
+confidence in economic policies, especially
+important now that other sources of uncertainty cloud the outlook. On the basis of the
+authorities’ macroeconomic assumptions, this approach would imply a nominal budget
+surplus of nearly 0.2 percent of GDP. The authorities responded they would try to achieve a
+small surplus, though this would be difficult, and emphasized that balancing the budget in
+nominal terms in 2008 was their minimum objective. At the same time, they conceded that
+uncertainty regarding constitutional reform and the political economy of the 2009 regional
+elections posed significant risks for fiscal consolidation.
+The authorities are focused on using structural measures to deliver the required
+24.
+consolidation, while avoiding recourse to one-off measures. They agreed that such
+
+18
+measures only postponed the needed adjustment and often constitute non-transparent claims
+on future resources. For the same reason, staff emphasized that public-private partnerships
+should not be used to circumvent fiscal adjustment needs. Risks and future spending
+obligations related to such arrangements should be reported in a transparent way.
+Delivering the envisaged structural adjustment requires a concerted effort at all
+25.
+levels of government. The authorities agreed that there is little room for new spending
+initiatives or tax cuts, absent compensation elsewhere within the tighter budget envelope,
+though various coalitions partners remained to be convinced. At the same time, the high tax
+pressure, especially on labor, also rules out further increases in the overall tax burden.
+Hence, the adjustment will need to focus on expenditure restraint, for which the following
+will be essential:
+•
+
+Any savings from a declining interest bill will have to be set aside.
+
+•
+
+Regions and communities will need to contribute more than envisaged in the budgets
+adopted for 2008. Sustaining a surplus of at least 0.3 percent of GDP, as was
+achieved in 2007, seems feasible (Text Table 6). In the staff’s view, such an objective
+is justified because commitments to future spending have increased under publicprivate partnerships, and the resolution of vertical imbalances in the fiscal federalism
+arrangements will require a devolution of competencies and associated spending to
+the regions without a proportional transfer of revenues. However, some regions
+disagree with this approach and seek further transfers from the federal level.
+
+•
+
+The social security surplus should be maintained at its current level (about 0.5 percent
+of GDP). The authorities agreed that the rise in health care spending could be kept in
+line with trend-GDP growth without compromising the high quality of the health care
+system.
+
+•
+
+Similarly, there is scope to slow the pace of spending growth on priority items in the
+federal budget compared to existing plans, and curb other discretionary spending,
+e.g., by streamlining functions across levels of government, deriving efficiency gains
+from upcoming retirements from the civil service, outsourcing of activities, and
+cutting subsidies.
+
+•
+
+In addition, subsidies (including tax expenditure) for key items rose by ½ percentage
+point of GDP over the past five years. Partly reversing this process (e.g., by lowering
+the subsidies for service vouchers) will help fiscal adjustment and raise efficiency and
+fairness. Moreover, tax exemptions (e.g., on some savings instruments) can usefully
+be tightened.
+
+19
+Text Table 6. Belgium: Fiscal Accounts by Level of Government, 2002-2007 1/
+(In percent of GDP)
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+Est.
+
+Revenue
+Federal
+Social security
+Local government
+Regions and communities
+
+13.1
+18.8
+6.5
+11.4
+
+13.9
+18.7
+6.9
+11.7
+
+11.5
+19.3
+6.6
+11.7
+
+11.7
+19.2
+6.7
+11.7
+
+11.2
+19.2
+6.6
+11.7
+
+10.7
+19.5
+6.6
+11.8
+
+Primary expenditure
+Federal
+Social security
+Local government
+Regions and communities
+
+8.0
+18.3
+6.5
+11.3
+
+8.7
+18.9
+6.7
+11.5
+
+7.3
+19.3
+6.5
+11.3
+
+10.3
+19.2
+6.6
+11.3
+
+7.5
+18.9
+6.7
+11.3
+
+8.1
+18.9
+6.5
+11.4
+
+Balance
+Federal
+Social security
+Local government
+Regions and communities
+
+-0.2
+0.5
+-0.2
+-0.1
+
+0.3
+-0.3
+-0.1
+0.0
+
+-0.1
+0.1
+-0.2
+0.2
+
+-2.4
+0.0
+-0.1
+0.3
+
+0.1
+0.3
+-0.2
+0.2
+
+-0.9
+0.5
+0.0
+0.3
+
+Sources: National Bank of Belgium; and IMF staff.
+1/ Follows Eurostat's definition of the national railway company debt transfer in 2005.
+
+Fiscal adjustment over the medium term will need to make up for the recent
+26.
+slippage. The authorities argued that the measures adopted in the 2008 budget together with
+upcoming reforms to fiscal federalism arrangements should set in motion sufficient
+adjustment to deliver the HFC-recommended surplus of 1.1 percent of GDP by 2011,
+consistent with a primary structural surplus of close to 4½ percent of GDP. Staff noted,
+however, that future surpluses will need to exceed this path to make up for the recent
+slippage and catch up with the required reduction in public debt. Interest savings from
+favorable debt dynamics will then bring about further increases in nominal surpluses.
+More generally, refocusing the fiscal framework on a medium-term path for the
+27.
+primary surplus will allow to anchor sustainable fiscal consolidation. The authorities
+noted that moving away from a nominal budget target could complicate public
+communication and accountability, but agreed that a multi-year expenditure framework
+would help guide the annual budget process, including through the careful costing of
+initiatives within a multi-year budgetary envelope. In addition, a performance-oriented
+approach to budgeting should help increase efficiency and the effectiveness of public
+services.
+
+20
+B. Why is There a Need to Revise Fiscal Federalism Arrangements?
+
+28.
+The current fiscal federalism arrangements have led to unsustainable fiscal
+imbalances among different levels of government. Current expenditure and revenue
+assignments will result in widening imbalances between the federal institutions (federal
+government and social security, the so-called “Entity I”) and regional and local governments
+(the so-called “Entity II,” Figure 15). With
+Figure 15. Vertical Imbalance most of the increase in aging-related spending
+Aging-related Spending
+projected to fall on Entity I, the federal entities 4
+(Increase in percent of GDP)
+Entity II
+will have to bear the brunt of the adjustment,
+Entity I
+likely leading to an unsustainable squeeze in
+3
+expenditure growth at the federal level. Entity
+II will need to share more of the adjustment
+2
+burden in the context of changes in the fiscal
+federalism arrangements, possibly through a
+1
+shift of some aging-related expenditure
+responsibilities from Entity I to Entity II. The
+authorities agreed that such a shift would be
+0
+2007-2015
+2015-2030
+2030-2050
+necessary and that regional entities would
+Source: High Finance Council
+need to become fully accountable for any
+decisions that impact the social security
+system. In addition, strengthening the municipalities’ accountability for their budgetary
+decisions was also necessary. The authorities hoped to be able to build a consensus to solve
+these vertical imbalances in the next few months.
+Current fiscal federalism arrangements also feature horizontal imbalances
+29.
+within Entity II. These imbalances reflect
+Figure 16. Horizontal Imbalance - Tax Revenue
+regional income and growth differentials due
+5
+to the linking of the distribution of part of
+(Percent real growth)
+North
+intergovernmental revenue sharing to the
+4
+South
+growth of personal income tax revenues
+(Figure 16). While tempered by an
+3
+equalization scheme and expected to evolve as
+2
+regional growth patterns change, horizontal
+imbalances raise equity, incentive, and
+1
+solidarity concerns, adding another layer of
+complexity to reaching agreement on
+0
+population-aging burden sharing. A broad
+199520022007201120162001
+2006
+2011
+2015
+2050
+consensus will have to guide their resolution.
+Source: High Finance Council
+It will be essential that any new agreements be
+neutral from a consolidated budget
+perspective, provide incentives for regions to work toward narrowing income differences,
+and are fully transparent about the intergovernmental solidarity mechanisms.
+
+21
+30.
+Successful medium-term adjustment will also require greater accountability,
+more transparency, and stronger coordination among government entities. The
+arrangements to coordinate fiscal policy between levels of government centered on the High
+Finance Council overall have been effective, but could be further strengthened. To avoid a
+hiatus in these arrangements in periods of political uncertainty, targets for the different levels
+of government could be fixed for a rolling multi-year horizon, which would facilitate
+medium-term expenditure planning, and be embedded in published internal stability pacts.
+The role of the High Finance Council could be reinforced and expanded through a mandate
+that includes an assessment of compliance with the internal stability pact at the stage of
+budget submission to parliament, and through a strengthening of the analytic capacity of the
+HFC. The authorities agreed that further devolution of competencies would necessitate
+strengthening of coordination and accountability for budgetary and other economic policies,
+but there was no agreement yet on what mechanism to put in place.
+V. STRUCTURAL REFORMS: RAISING EMPLOYMENT AND PRODUCTIVITY
+
+31.
+Pressing ahead with structural reforms, especially in the labor market, is key to
+preserving high living standards. Without further reforms, demographic trends will
+dampen long-term growth, as population aging curbs labor supply and sharply raises
+dependency ratios. Despite recent increases, employment rates remain among the lowest in
+the industrialized world, especially among older and low-skilled workers (Figure 17). While
+some areas of the country are close to full employment, others are mired in high
+unemployment, contributing to geographical differences in growth and income. In addition,
+labor market participation is low throughout the country, underscoring fundamental skill
+mismatches and limited labor mobility.
+
+Figure 17. Employment and Unemployment
+Employment remains below the OECD average
+85
+
+(In percent of working age population)
+Belgium
+France
+Netherlands
+
+Unemployment is high with stark regional differences
+20
+
+Euro Area
+Germany
+
+(In percent of the labor force)
+Belgium
+Flanders
+
+Wallonia
+Brussels
+
+15
+
+75
+
+10
+65
+5
+
+55
+
+0
+1995
+
+1997
+
+1999
+
+2001
+
+2003
+
+2005
+
+2007
+
+Sources: National Bank of Belgium; OECD; and IMF.
+
+1995
+
+1997
+
+1999
+
+2001
+
+2003
+
+2005
+
+22
+32.
+To sustain good rates of job creation, further labor market reforms will be
+essential. The spotlight on activation policies (i.e., enforcing job search requirements and
+providing job search assistance) has been appropriate, and has taken advantage of the until
+recently buoyant economy. Nonetheless, better tailoring of labor market policies to regional
+needs and coordination across regions and sub-regions is necessary to raise their
+effectiveness. Consensus is lacking for a new round of comprehensive labor market reforms,
+though most stakeholders agree on the need to further improve labor market performance.
+Specifically, labor market reforms should involve:
+•
+
+Raising investment in human capital. There is broad agreement that the pursuit of
+ongoing initiatives with respect to R&D, the further strengthening of programs for
+on-the-job and life-long training, and an increase in the efficiency of secondary and
+higher education are likely to pay off handsomely in terms of the economy’s ability to
+adopt new technologies, attract foreign investment, and maintain comparatively high
+living standards.
+
+•
+
+Removing inactivity traps and keeping older workers in the labor force. To achieve
+the first, a comprehensive review of the tax-benefit system would be useful, but parts
+of the political spectrum and labor unions are adverse to lowering or taxing benefits.
+In line with OECD recommendations, a balanced reform could consist of the phasing
+out of unemployment benefits—virtually all other industrialized countries have strict
+time limits and phased benefits—in exchange for an increase in payouts during the
+first few months of unemployment. It could be accompanied by the inclusion of all
+out-of-work benefits and allowances in taxable income, in exchange for a gradual,
+rather than immediate removal of these benefits when jobs are taken up.
+Alternatively, a higher earned income tax credit could be considered. Such an
+approach would reap the synergies between fiscal adjustment and labor market
+polices. To help raise employment rates of older workers, the planned extension of
+activation policies to these workers is welcome, but it will need to be complemented
+by a complete phasing out of early retirement regimes.
+
+•
+
+Sustaining wage moderation and increasing wage flexibility. While the central
+wage-bargaining framework is likely to continue to maintain wage moderation,
+shifting its focus from job preservation to job creation would improve labor market
+outcomes. To take better account of productivity differentials between regions,
+sectors, and enterprises, and foster a dynamic reallocation of workers to new
+activities, the practice of “all-in” wage agreements should be extended and larger
+margins for wage differentiation allowed. Social partners, however, do not see a need
+for any significant changes to the current wage-bargaining framework.
+
+More competition in product markets will boost productivity. The authorities
+33.
+agreed that continuing the reduction in the administrative burden on businesses and
+households, and the swift implementation of EU directives regarding market liberalization
+
+23
+and the removal of obstacles to competition would raise efficiency. They indicated that
+progress in this area had fallen victim to the hiatus in federal policy making following the
+June 2007 elections and suffered from lack of coordination between regional and federal
+levels of government. With the preoccupation about fiscal federalism reforms, they conceded
+that reviving attention for structural reform could take a while.
+VI. STAFF APPRAISAL
+
+34.
+With growth slowing and the window to address population aging closing
+rapidly, returning to an ambitious reform agenda has become urgent. Expectations a
+year ago that, following the June 2007 elections, a new federal government would take
+immediate decisive action to meet long-term challenges have not been validated. The
+difficulty in creating consensus around much needed fiscal federalism reforms has so far
+prevented the emergence of a full-fledged government and diverted attention from these
+priorities. However, further delays in building up fiscal surpluses and boosting employment
+rates and productivity cannot be afforded. Meanwhile, clarifying the direction of policies
+early on has become especially important now that other sources of uncertainty cloud the
+outlook.
+Addressing the cyclical downturn through automatic fiscal stabilizers is
+35.
+appropriate, while the impact of partial indexation on competitiveness will require
+continued wage moderation. After several years of robust economic performance, growth is
+expected to slow significantly, mostly owing to external factors. In addition, risks are tilted
+to the downside. Provided fiscal consolidation is resumed, the authorities’ intention to allow
+fiscal stabilizers to operate fully and abandon the procyclical use of one-off measures to meet
+nominal budget targets is welcome. Similarly, limiting the response to energy price spikes to
+an increase in well-targeted and capped income support for the lowest-income households is
+apposite. Indeed, with widespread partial indexation, broader measures would be
+counterproductive. Furthermore, maintaining competitiveness, which is broadly fine at its
+current level, will require wage moderation going forward.
+Maintaining a sound financial system and high-quality supervision are
+36.
+paramount. Financial institutions have remained resilient in the face of the ongoing
+financial turbulence, but market conditions have yet to return to normal and a stronger-thanexpected economic slowdown could prove taxing. Financial institutions therefore need to
+uphold capital buffers. Actions by supervisors to promote early disclosure of exposures and
+losses and enhanced transparency practices would be welcome as they would help dampen
+market volatility and underpin confidence. While already high-quality prudential supervision
+is being further enhanced, the relentless rise in the cross-border dimension of the financial
+system requires stronger coordination with host country authorities.
+Resuming ambitious fiscal consolidation and improving fiscal frameworks and
+37.
+federalism arrangements are urgent priorities. While there has so far been broad support
+for a strategy of pre-funding of the expected rise in aging costs, actual fiscal consolidation
+
+24
+has slipped below the path recommended by the High Finance Council as the result of the
+hiatus in policy making at the federal level since April 2007. It will be important to get back
+on track as soon as possible:
+•
+
+From this perspective, the intention to resume fiscal consolidation in 2008 is
+welcome, but a more ambitious effort, amounting to an improvement in the structural
+balance by ½ percent of GDP, would better underpin credibility and bolster
+confidence in economic policies.
+
+•
+
+Delivering the necessary structural adjustment will require a concerted effort at all
+levels of government. There is no room for new spending initiatives or tax cuts, while
+the high tax pressure, especially on labor, also rules out further increases in the
+overall tax burden. Expenditure restraint will thus need to be the primary source of
+adjustment.
+
+•
+
+Refocusing the fiscal framework on a medium-term path for the primary surplus will
+be key to achieving consolidation objectives. The authorities’ intent to avoid recourse
+to one off measures is welcome, as such measures often imply nontransparent claims
+on future resources. In the same vein, recourse to public-private partnerships, which
+has risen substantially recently, should be restrained.
+
+•
+
+Finally, while a broad consensus will need to guide the revision of fiscal federalism
+arrangements, it will be important that new arrangements be neutral from a
+consolidated budgetary perspective, provide incentives for regions to narrow income
+differences, and be accompanied by strengthened accountability and stronger
+coordination of economic policies across all levels of government.
+
+Implementing a new round of structural reforms will be essential to reap
+38.
+synergies with fiscal adjustment and achieve the much needed increase in employment
+rates and productivity growth. Progress in raising employment rates is evident, owing to
+better activation policies, while initiatives with respect to training, education and R&D
+investments are likely to pay off in terms of productivity. Meanwhile, the wage bargaining
+framework continues to deliver wage moderation. Nonetheless, labor market performance is
+still lagging well behind the OECD average, and large geographical differences in
+unemployment rates reflect deep-rooted structural problems. Priority areas for reform are
+removing inactivity traps, raising low employment rates of older workers, and fostering labor
+mobility. Addressing these issues would generate synergies between fiscal adjustment and
+labor market reforms. Further goods and services markets reforms would boost productivity
+growth and consumer welfare.
+
+It is proposed that the next Article IV consultation be held on the standard 12-month
+39.
+cycle.
+
+25
+Table 1. Belgium: Main Economic Indicators, 2003-09
+(Percentage change from previous year; unless otherwise indicated)
+Est.
+
+Proj.
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+1.0
+0.7
+2.1
+-0.3
+-1.8
+0.0
+2.9
+2.8
+0.2
+-0.9
+
+2.8
+1.4
+1.8
+7.5
+7.4
+0.2
+6.3
+6.5
+0.1
+0.0
+
+2.0
+1.4
+-0.2
+6.7
+4.6
+0.2
+4.1
+4.9
+-0.5
+-0.2
+
+2.9
+2.1
+0.0
+4.2
+3.9
+0.8
+2.6
+2.5
+0.2
+0.2
+
+2.7
+2.5
+1.8
+4.9
+5.1
+0.1
+4.6
+5.0
+-0.1
+0.4
+
+1.6
+1.5
+2.4
+1.4
+1.9
+0.0
+4.6
+5.2
+-0.4
+-0.2
+
+1.8
+1.9
+2.2
+2.7
+3.0
+0.0
+5.4
+5.4
+0.1
+-0.4
+
+1.1
+0.1
+8.2
+7.9
+
+1.5
+0.7
+8.4
+7.9
+
+1.5
+1.2
+8.4
+7.8
+
+1.0
+1.3
+8.2
+7.7
+
+0.5
+1.6
+7.5
+7.6
+
+0.5
+0.6
+7.4
+7.5
+
+0.5
+0.4
+7.5
+7.5
+
+1.6
+-0.4
+1.5
+0.9
+
+2.4
+-0.2
+1.9
+2.1
+
+2.4
+-0.5
+2.5
+0.7
+
+2.0
+-0.7
+2.3
+1.6
+
+1.7
+0.8
+1.8
+1.1
+
+2.4
+0.3
+2.9
+1.0
+
+2.1
+0.0
+1.9
+1.4
+
+2.3
+4.2
+
+2.1
+4.2
+
+2.2
+3.4
+
+3.1
+3.8
+
+4.3
+4.3
+
+...
+...
+
+...
+...
+
+23.3
+17.1
+6.1
+-1.7
+4.4
+
+23.7
+18.1
+5.6
+-1.7
+3.9
+
+23.8
+18.6
+5.2
+-1.8
+3.4
+
+24.9
+19.1
+5.8
+-1.7
+4.1
+
+25.6
+19.3
+6.3
+-2.1
+4.2
+
+25.4
+19.1
+6.3
+-2.4
+3.9
+
+25.4
+19.1
+6.3
+-2.4
+3.8
+
+Public finances, general government (in percent of GDP) 4/
+Revenue
+51.1
+49.2
+Expenditure
+51.1
+49.2
+Of which: interest on public debt
+5.3
+4.7
+Fiscal balance
+0.0
+0.0
+Primary balance
+5.3
+4.7
+Structural balance 5/
+-1.0
+-0.6
+Gross public debt
+98.7
+94.4
+
+49.4
+51.6
+4.2
+-2.3
+1.9
+0.4
+92.2
+
+48.7
+48.4
+4.0
+0.4
+4.3
+-0.1
+88.1
+
+48.5
+48.7
+3.8
+-0.1
+3.7
+-0.1
+85.1
+
+48.2
+48.7
+3.7
+-0.5
+3.2
+-0.2
+82.2
+
+48.1
+48.6
+3.6
+-0.5
+3.0
+-0.2
+79.7
+
+Demand and output (in real terms)
+GDP
+Private consumption
+Public consumption
+Gross fixed investment
+Of which: enterprise investment
+Stockbuilding 1/
+Exports of goods and nonfactor services
+Imports of goods and nonfactor services
+Foreign balance 1/
+Output gap (in percent of potential GDP)
+Labor market
+Labor force (national definition)
+Employment (national definition)
+EU harmonized unemployment rate 2/
+NAIRU 2/
+Prices, wages, and incomes
+GDP deflator
+Terms of trade (goods)
+Consumer price index (harmonized)
+Labor productivity 3/
+Interest rates (percent)
+Money market rate (3 month)
+Government bond yield
+Saving and investment (in percent of GDP)
+Private saving
+Private investment
+Private saving surplus
+Government saving surplus
+National saving surplus
+
+Balance of payments
+Current account balance (in billions of euros)
+(In percent of GDP)
+Trade balance (in billions of euros)
+(In percent of GDP)
+Exchange rates
+Nominal effective rate (2000=100)
+Real effective rate (2000=100) 6/
+
+11.4
+4.1
+9.7
+3.5
+
+10.2
+3.5
+7.8
+2.7
+
+7.9
+2.6
+4.7
+1.6
+
+8.4
+2.7
+2.6
+0.8
+
+10.7
+3.2
+3.8
+1.2
+
+10.2
+3.0
+4.3
+1.3
+
+10.6
+3.0
+4.6
+1.3
+
+105.7
+110.3
+
+106.8
+111.9
+
+106.9
+113.3
+
+107.3
+115.0
+
+109.1
+117.6
+
+...
+...
+
+...
+...
+
+Sources: Data provided by the authorities; and IMF staff estimates and projections.
+1/ Contribution to growth.
+2/ Percent of the labor force.
+3/ Based on national accounts data, for economy-wide.
+4/ Includes the effect of the restructuring of the national railway company in 2005 as presented by Eurostat.
+5/ Excludes effect of one-off measures, including the restructuring of the national railway company in 2005.
+6/ Based on relative unit labor costs in manufacturing.
+
+26
+Table 2. Belgium: Operations of the General Government, 2000-2006 1/
+(In percent of GDP, unadjusted for working days)
+2000
+
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+Revenue
+Tax revenue
+Direct taxes
+Personal income tax
+Company income tax
+Other direct taxes
+Indirect taxes
+Social contributions
+Other taxes
+Nontax revenue
+
+49.1
+44.4
+17.1
+13.6
+3.3
+0.1
+12.9
+13.9
+0.5
+4.7
+
+49.6
+44.4
+17.3
+14.0
+3.2
+0.1
+12.5
+14.2
+0.5
+5.2
+
+49.8
+44.7
+17.1
+13.9
+3.2
+0.1
+12.7
+14.4
+0.5
+5.1
+
+51.1
+44.2
+16.7
+13.6
+3.0
+0.1
+12.7
+14.3
+0.5
+6.9
+
+49.2
+44.5
+16.7
+13.3
+3.3
+0.1
+13.0
+14.0
+0.8
+4.7
+
+49.4
+44.3
+16.9
+13.3
+3.6
+0.1
+13.0
+13.7
+0.6
+5.1
+
+48.7
+43.9
+16.5
+12.6
+3.9
+0.1
+13.2
+13.6
+0.7
+4.8
+
+Expenditure
+Primary expenditure
+Current expenditure
+Wages
+Operations and maintenance
+Social transfers
+Old age
+Health
+Unemployment
+Other social transfer
+Subsidies to enterprises
+Other transfers
+Capital expenditure
+Interest
+
+49.0
+42.4
+39.3
+11.5
+3.2
+21.3
+8.3
+5.6
+1.7
+5.7
+1.3
+2.0
+3.1
+6.6
+
+49.1
+42.6
+40.2
+11.7
+3.3
+21.8
+8.4
+5.8
+1.8
+5.8
+1.3
+2.0
+2.4
+6.5
+
+49.8
+44.1
+41.6
+12.2
+3.8
+22.3
+8.6
+5.7
+2.0
+6.0
+1.3
+2.1
+2.5
+5.7
+
+51.1
+45.8
+42.7
+12.3
+3.7
+23.0
+8.7
+6.1
+2.1
+6.1
+1.4
+2.3
+3.1
+5.3
+
+49.2
+44.5
+42.2
+12.0
+3.7
+23.0
+8.6
+6.2
+2.1
+6.1
+1.2
+2.4
+2.2
+4.7
+
+51.6
+47.5
+42.4
+12.0
+3.6
+22.8
+8.5
+6.3
+2.0
+6.0
+1.6
+2.4
+5.1
+4.2
+
+48.4
+44.4
+41.9
+11.8
+3.6
+22.4
+8.4
+6.1
+1.9
+6.0
+1.7
+2.4
+2.5
+4.0
+
+Overall balance
+
+0.1
+
+0.6
+
+0.0
+
+0.0
+
+0.0
+
+-2.3
+
+0.4
+
+Primary balance
+
+6.7
+
+7.0
+
+5.7
+
+5.3
+
+4.7
+
+1.9
+
+4.3
+
+-0.5
+0.1
+107.7
+
+-0.4
+-0.1
+106.5
+
+-0.2
+0.2
+103.5
+
+-1.0
+0.0
+98.7
+
+-0.6
+-0.2
+94.4
+
+0.4
+-0.3
+92.2
+
+-0.1
+-0.6
+88.1
+
+Memorandum items:
+Structural balance
+Central government balance
+Gross public debt (Maastricht definition)
+
+Source: Data provided by the Belgian authorities.
+1/ Includes the effect of the restructuring of the national railway company in 2005 as per Eurostat.
+According to the authorities, the government balance should be 0.1 percent of GDP in 2005 and
+the public debt 91.5 percent of GDP.
+
+27
+Table 3. Belgium: Fiscal Scenarios, 2004-13
+(In percent of GDP, unadjusted for working days; unless otherwise indicated)
+
+2004
+
+2005
+
+2006
+
+Est.
+2007
+
+2008
+
+2009
+
+Projection
+2010 2011
+
+2012
+
+2013
+
+Current policies (A)
+Revenue
+Expenditure
+Primary expenditure
+Interest payments
+Balance 1/
+Structural balance 2/
+Change in structural balance
+
+49.2
+49.2
+44.5
+4.7
+0.0
+-0.6
+0.5
+
+49.4
+51.6
+47.5
+4.2
+-2.3
+0.4
+0.9
+
+48.7
+48.4
+44.4
+4.0
+0.4
+-0.1
+-0.5
+
+48.5
+48.7
+44.8
+3.8
+-0.1
+-0.1
+0.1
+
+48.2
+48.7
+45.0
+3.7
+-0.5
+-0.2
+-0.1
+
+48.1
+48.7
+45.1
+3.6
+-0.5
+-0.2
+0.0
+
+48.1
+48.5
+45.1
+3.5
+-0.5
+-0.2
+0.0
+
+48.0
+48.4
+45.1
+3.4
+-0.4
+-0.2
+0.0
+
+48.0
+48.3
+45.0
+3.3
+-0.3
+-0.1
+0.0
+
+47.9
+48.2
+45.0
+3.2
+-0.3
+-0.1
+0.0
+
+Primary balance
+Structural primary balance 2/
+Debt 1/
+
+4.7
+4.2
+94.4
+
+1.9
+4.5
+92.2
+
+4.3
+3.8
+88.1
+
+3.7
+3.8
+85.1
+
+3.2
+3.5
+82.3
+
+3.0
+3.3
+79.8
+
+3.0
+3.3
+77.3
+
+3.0
+3.2
+74.9
+
+2.9
+3.1
+72.6
+
+2.9
+3.0
+70.4
+
+Memorandum items (in percent):
+Real primary expenditure growth 2/
+Output gap
+GDP growth
+
+-0.2
+0.0
+2.8
+
+8.9
+-0.2
+2.0
+
+-3.7
+0.2
+2.9
+
+3.7
+0.4
+2.7
+
+2.0
+-0.2
+1.6
+
+2.0
+-0.4
+1.8
+
+2.0
+-0.3
+2.0
+
+2.0
+-0.2
+2.0
+
+2.0
+-0.1
+2.0
+
+2.0
+0.0
+2.0
+
+Staff-recommended scenario (B)
+Revenue
+Expenditure
+Primary expenditure
+Interest payments
+Balance 1/
+Structural balance 2/
+Change in structural balance
+
+49.2
+49.2
+44.5
+4.7
+0.0
+-0.6
+0.5
+
+49.4
+51.6
+47.5
+4.2
+-2.3
+0.4
+0.9
+
+48.7
+48.4
+44.4
+4.0
+0.4
+-0.1
+-0.5
+
+48.5
+48.7
+44.8
+3.8
+-0.1
+-0.1
+0.1
+
+48.2
+48.1
+44.4
+3.7
+0.1
+0.4
+0.4
+
+48.1
+47.6
+44.1
+3.5
+0.5
+0.8
+0.4
+
+48.1
+47.1
+43.8
+3.4
+0.9
+1.2
+0.4
+
+48.0
+46.8
+43.5
+3.2
+1.3
+1.5
+0.3
+
+48.0
+46.4
+43.3
+3.1
+1.6
+1.8
+0.3
+
+47.9
+46.1
+43.2
+2.9
+1.9
+2.0
+0.2
+
+Primary balance
+Structural primary balance 2/
+Debt 1/
+
+4.7
+4.2
+94.4
+
+1.9
+4.5
+92.2
+
+4.3
+3.8
+88.1
+
+3.7
+3.8
+85.1
+
+3.8
+4.1
+81.7
+
+4.1
+4.4
+78.2
+
+4.3
+4.6
+74.3
+
+4.5
+4.7
+70.4
+
+4.6
+4.8
+66.4
+
+4.7
+4.9
+62.3
+
+Memorandum items (in percent):
+Real primary expenditure growth 2/
+Output gap
+GDP growth
+
+-0.2
+0.0
+2.8
+
+8.9
+-0.2
+2.0
+
+-3.7
+0.2
+2.9
+
+3.7
+0.4
+2.7
+
+0.6
+-0.2
+1.6
+
+0.9
+-0.5
+1.7
+
+1.2
+-0.4
+1.9
+
+1.5
+-0.3
+1.9
+
+1.5
+-0.2
+2.0
+
+1.6
+-0.1
+2.0
+
+Sources: Data provided by the authorities; and IMF staff projections.
+1/ Includes the effect of the restructuring of the national railway company in 2005 as presented by Eurostat. According to
+the authorities, the government balance should be 0.1 percent of GDP in 2005 and the public debt 91.5 percent of GDP.
+2/ Excludes one-off measures including the restructuring of the national railway company in 2005.
+
+28
+Table 4. Belgium: Financial Soundness Indicators of the Non-Banking Sectors, 2001-07
+(In percent)
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+Insurance sector 1/
+Coverage ratio 2/
+Profitability (return on equity) 3/
+Life
+Premiums 4/
+Technical result/premiums 3/
+Non-life Premiums 4/
+Combined ratio 3/
+Technical result/premiums 3/
+
+276.0
+12.1
+13.1
+6.1
+7.8
+117.5
+0.0
+
+254.1
+-10.4
+14.4
+-1.7
+8.5
+111.6
+-3.4
+
+248.4
+7.3
+17.6
+2.7
+9.0
+102.1
+8.8
+
+250.7
+18.0
+20.0
+4.0
+9.6
+99.6
+12.8
+
+258.8
+23.3
+25.2
+4.7
+8.9
+104.3
+12.0
+
+252.6
+20.8
+20.4
+4.9
+9.3
+101.7
+12.7
+
+256.7
+30.1
+23.1
+6.8
+9.8
+100.4
+16.7
+
+Corporate sector 5/
+Total debt (percent of equity)
+Profitability (return on equity)
+Debt service coverage ratio
+
+83.0
+9.8
+113.6
+
+79.5
+11.7
+176.7
+
+78.2
+12.9
+195.6
+
+70.6
+10.4
+182.8
+
+65.6
+15.8
+285.0
+
+60.5
+14.8
+236.4
+
+...
+...
+...
+
+Household sector
+Debt (in percent of GDP) 6/
+Interest burden (in percent of disposable income) 7/
+Financial savings ratio (in percent of GDP) 6/
+Savings rate 7/
+
+41.3
+2.5
+7.5
+16.6
+
+41.4
+1.8
+5.0
+15.9
+
+42.3
+1.5
+4.0
+14.8
+
+43.1
+1.2
+4.8
+13.5
+
+41.1
+1.6
+1.5
+12.3
+
+46.2
+2.0
+2.4
+12.6
+
+48.8
+2.0
+6.2
+12.8
+
+Real estate sector 8/
+House price inflation
+Houses
+Apartments
+Mortgage loans as percent of total loans
+o/w Domestic households
+Variable rate mortgages (in percent of new loans)
+
+6.4
+4.4
+20.5
+13.3
+6.2
+
+8.2
+8.3
+22.3
+14.2
+12.3
+
+6.6
+8.9
+27.6
+15.6
+25.9
+
+10.3
+14.6
+27.4
+15.5
+53.3
+
+18.1
+9.4
+26.2
+14.5
+36.3
+
+11.2
+10.1
+34.0
+17.5
+7.4
+
+7.1
+6.3
+30.5
+16.7
+1.2
+
+Sources: CBFA, NBB, Stadim, UPC.
+1/ Unconsolidated data.
+2/ Provisional figure for end-September 2007.
+3/ Provisional 2007 figure for first 9 months annualised.
+4/ Provisional figure for full year 2007, based on projection by Assuralia.
+5/ Data for 2006 based on a sample of available annual accounts in the Central Balance Sheet Register.
+6/ 2007 figure for end-June 2007.
+7/ Projection for full year 2007.
+8/ 2007 data for first half of 2007.
+
+29
+Table 5. Belgium: Financial Soundness Indicators of the Banking Sector, 2002-07 1/
+(In percent)
+2002
+Earnings and profitability
+Return on assets
+Return on equity
+Net interest income to total income
+Interest margin
+Average yield on assets
+Average cost of funding
+Noninterest expenses to gross income
+o/w Net fee and commission income
+(Un)realised capital gains booked in P&L
+Cost/income ratio
+Personnel expenses to noninterest expenses
+Structure assets
+Total assets (in percent of GDP)
+o/w (in percent of total assets)
+Loans to credit institutions 3/
+Debt securities 3/
+Equity instruments 3/
+Derivatives 3/
+Loans to customers 3/
+o/w Belgian residents (in percent of loans)
+Other EMU residents (in percent of loans)
+Rest of the World (in percent of loans)
+o/w Mortgage loans (in percent of loans)
+Consumer loans (in percent of loans)
+o/w Term loans (in percent of loans)
+o/w Reverse repo operations (in percent of loans)
+Funding and Liquidity 3/ (in percent of total assets)
+Debts to credit institutions
+Bank bonds and other debt securities
+Customer deposits
+o/w Sight deposits 3/
+Saving deposits 3/
+Term deposits 3/
+o/w Retail deposits
+o/w Repo's
+Liquid assets 4/
+Asset quality
+Sectoral distribution of loans
+Credit institutions
+Corporate
+Retail
+Central governments
+Non-credit institutions
+Non-performing loans (in percent of gross loans) 5/
+Provisions + writeoffs (in percent of NPL) 5/
+Capital adequacy
+Regulatory capital to risk-weighted assets
+Regulatory Tier I capital to risk-weighted assets
+Capital to assets
+NPL net of provisions as percent of Tier I capital 5/
+Large exposures as percent of Tier I capital 5/
+Net open position in foreign exchange to capital
+
+2003
+2004
+Belgian GAAP
+
+2005
+
+2006
+2007 2/
+IFRS
+
+0.4
+11.8
+55.1
+1.5
+4.9
+3.4
+44.9
+24.6
+9.9
+74.7
+44.3
+
+0.4
+13.6
+56.4
+1.4
+4.0
+2.6
+43.6
+24.4
+10.1
+73.9
+45.5
+
+0.5
+15.8
+56.3
+1.3
+3.9
+2.6
+43.7
+25.5
+8.9
+72.0
+44.7
+
+0.5
+18.5
+53.5
+1.2
+4.1
+2.9
+46.5
+25.9
+8.2
+72.6
+42.8
+
+0.7
+22.4
+47.9
+1.0
+4.6
+3.6
+52.1
+25.1
+14.6
+55.7
+54.7
+
+0.7
+23.4
+48.4
+1.0
+5.3
+4.3
+51.6
+27.9
+18.1
+58.8
+53.4
+
+383.1
+
+376.2
+
+395.4
+
+453.5
+
+448.5
+
+473.9
+
+21.0
+27.1
+1.3
+0.0
+41.1
+52.1
+21.7
+26.2
+93.6
+14.3
+57.5
+...
+
+20.0
+27.4
+1.7
+0.0
+41.5
+52.3
+22.5
+25.2
+117.4
+13.5
+53.7
+...
+
+18.6
+25.5
+2.7
+0.0
+42.2
+48.5
+22.7
+28.8
+132.0
+12.7
+53.5
+...
+
+20.3
+23.4
+3.5
+0.0
+43.2
+41.6
+25.5
+32.9
+154.7
+13.7
+54.8
+...
+
+20.1
+22.5
+3.6
+4.5
+41.6
+43.0
+29.0
+28.0
+189.7
+15.4
+46.1
+41.0
+
+19.6
+19.5
+4.0
+5.4
+42.5
+43.0
+30.0
+27.0
+193.0
+16.0
+37.7
+32.6
+
+24.9
+12.6
+39.7
+13.3
+11.1
+14.3
+...
+...
+33.3
+
+24.9
+11.2
+40.3
+13.7
+12.9
+12.5
+...
+...
+33.2
+
+24.6
+10.0
+39.9
+13.4
+13.2
+12.1
+...
+...
+32.7
+
+30.1
+8.7
+36.7
+13.5
+11.6
+10.6
+...
+...
+31.1
+
+29.2
+11.2
+39.1
+11.1
+10.2
+10.6
+20.4
+13.5
+18.6
+
+26.7
+11.5
+38.5
+12.1
+8.6
+11.3
+18.0
+11.2
+16.0
+
+...
+...
+...
+...
+...
+3.0
+51.8
+
+...
+...
+...
+...
+...
+2.6
+52.8
+
+...
+...
+...
+...
+...
+2.3
+54.2
+
+...
+...
+...
+...
+...
+2.0
+51.6
+
+20.1
+18.3
+18.3
+0.8
+4.1
+1.7
+50.8
+
+19.6
+19.7
+16.7
+1.0
+5.2
+1.6
+45.0
+
+13.1
+8.6
+3.0
+15.2
+61.0
+8.5
+
+12.8
+8.8
+3.1
+15.7
+46.0
+7.0
+
+13.0
+9.4
+3.1
+12.8
+40.0
+5.3
+
+11.5
+8.5
+2.7
+13.8
+42.5
+5.8
+
+11.9
+8.7
+3.3
+10.9
+36.2
+6.4
+
+11.9
+8.5
+3.2
+11.6
+16.8
+4.1
+
+Sources: CBFA and NBB.
+1/ Consolidated data. Since 2006, the data are based on the IAS/IFRS reporting Scheme.
+2/ Data for end-September 2007 or the first 9 months of 2007. The flow data are annualised.
+3/ Deposits booked at amortised cost only.
+4/ As of 2006, liquid assets include cash and debt instruments issued by central government and financial institutions.
+5/ Unconsolidated data.
+
+30
+
+Table 6. Belgium: Indicators of External and Financial Vulnerability, 2001-07
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+-0.4
+-0.6
+-1.0
+3.4
+63.5
+23.7
+11.3
+0.7
+1.117
+
+6.3
+4.2
+1.8
+4.6
+8.1
+6.5
+11.9
+0.7
+1.059
+
+20.6
+21.2
+-0.4
+4.1
+2.5
+10.8
+11.0
+0.6
+0.884
+
+19.4
+20.2
+-1.3
+3.5
+1.5
+12.1
+10.4
+0.4
+0.804
+
+7.2
+8.4
+-1.0
+2.6
+-0.5
+9.2
+8.2
+0.3
+0.803
+
+6.6
+7.2
+-1.2
+2.7
+4.4
+15.7
+8.8
+0.3
+0.796
+
+19.5
+19.0
+0.9
+3.3
+…
+…
+10.4
+0.3
+0.730
+
+103.5
+3.2
+1.5
+-0.1
+5.0
+3.4
+
+98.7
+2.2
+0.6
+-0.1
+4.2
+2.7
+
+94.4
+2.0
+-0.3
+-0.1
+4.3
+2.5
+
+92.2
+2.1
+-0.4
+-0.2
+3.4
+0.9
+
+88.1
+3.4
+1.0
+-0.1
+3.8
+1.5
+
+84.5
+3.8
+2.0
+0.0
+4.4
+2.6
+
+0.2
+2,410
+
+0.1
+1,975
+
+0.1
+2,557
+
+0.2
+3,192
+
+-0.1
+3,961
+
+0.0
+4,501
+
+Credit markets indicators (end-of-period; percentage increase) 5/
+Bank Credit to the private sector
+6.0
+1.2
+Belgian residents
+2.0
+-0.3
+Other EMU residents
+7.9
+-2.0
+Rest of the World
+13.8
+7.3
+Mortgage loans
+13.3
+11.4
+Consumer loans
+7.6
+4.1
+
+1.8
+2.2
+5.5
+-2.1
+27.7
+-3.9
+
+12.6
+4.4
+13.6
+28.7
+26.6
+5.9
+
+22.4
+5.0
+37.6
+39.9
+43.5
+32.1
+
+...
+...
+...
+...
+...
+...
+
+12.7
+12.7
+16.6
+8.7
+14.7
+17.1
+
+12.8
+8.8
+3.1
+15.7
+46
+7
+
+13
+9.4
+3.1
+12.8
+40
+5.3
+
+11.5
+8.5
+2.7
+13.8
+42.5
+5.8
+
+11.9
+8.7
+3.3
+10.9
+36.2
+6.4
+
+11.9
+8.5
+3.2
+11.6
+16.8
+4.1
+
+External Indicators
+Exports (annual percentage change, in U.S. dollars) 1/
+Imports (annual percentage change, in U.S. dollars) 1/
+Terms of trade (annual percentage change) 1/
+Current account balance (percent of GDP) 1/
+Inward portfolio investment (percent of GDP) 2/
+Inward foreign direct investment (percent of GDP) 2/
+Official reserves (in billions of U.S. dollars, end-of-period) 3
+Official reserves in months of imports
+Exchange rate per U.S. dollar (period average) 4/ 4/
+
+Market indicators
+Financial markets indicators 4/
+Public sector debt (Maastricht definition) 1/
+106.5
+3-month T-bill yield (percent)
+4.2
+3-month T-bill yield (real, percent)
+1.7
+Spread of 3-month T-bill over EURIBOR (percentage poin
+0.0
+10-year government bond yield (percent)
+5.1
+10-year government bond yield (real, percent)
+2.7
+Spread of 10-year government bond rate with Germany
+(percentage points)
+0.3
+Stock market index (period average)
+2,807
+
+Banking sector capital adequacy (in percent)
+Regulatory capital to risk-weighted assets
+Regulatory Tier I capital to risk-weighted assets
+Capital to assets
+NPL net of provisions as percent of Tier I capital 6/
+Large exposures as percent of Tier I capital 7/
+Net open position in foreign exchange to capital 7/
+
+12.9
+8.2
+2.7
+14.4
+67
+6.8
+
+13.1
+8.6
+3
+15.2
+61
+8.5
+
+Sources: Data provided by the Belgian authorities; IMF, IFS; and IMF Research Department.
+1/ IMF staff projection.
+2/ Data before 2002 cover the definition of the Belgium-Luxembourg Economic Union (BLEU).
+3/ October 2007; reserves and foreign liabilities refer to the Belgian central bank, both before and after EMU.
+4/ Latest data.
+5/ Beginning 2006 data under IFRS while before data was under Belgium GAAP, hence data break in 2006.
+6/ Unconsolidated data.
+7/ The 2007 figure refers to banks still applying Basel I.
+
+31
+APPENDIX I. BELGIUM: FUND RELATIONS
+(As of January 31, 2008)
+Mission: Brussels, December 6–17, 2007 and January 23-28, 2008
+Staff team: Messrs. Everaert (Head), Christou (first mission only), Luzio (second mission
+only), Ms. Yontcheva (all EUR), and Mr. De Broeck (FAD, first mission only).
+Country interlocutors: The prime minister, the vice-prime minister for the budget, the
+governor of the National Bank of Belgium, the director of the Treasury, the chairman of
+the Finance, Banking and Insurance Commission, the Head of the Federal Planning
+Bureau, the chairman of the public borrowing section of the High Finance Council, and
+their staffs; staff of the federal ministry of finance, the health care administration, the
+regional ministries of the budget for Flanders, Brussels and Wallonia, respectively;
+representatives of labor unions, employer organizations, and the financial sector.
+Mr. Kiekens (Executive Director) or Mr. Rottier (Advisor to the Executive Director)
+attended the meetings.
+Fund relations: The previous Article IV consultation took place on February 16, 2007.
+The associated Executive Board’s assessment is available at
+http://www.imf.org/external/np/sec/pn/2007/pn0726.htm and the staff report at
+http://www.imf.org/external/pubs/ft/scr/2007/cr0789.pdf. Belgium accepted the
+obligations under Article VIII and, apart from certain security restrictions, maintains an
+exchange system free of restrictions.
+Data: Belgium subscribes to the Fund’s Special Data Dissemination Standard, and
+comprehensive economic data are available on a timely basis (Appendix II).
+
+I.
+
+Membership Status: Joined 12/27/45; Article VIII
+
+II.
+
+General Resources Account:
+Quota
+Fund holdings of currency
+Reserve position in Fund
+
+SDR Million
+4,605.20
+4,303.11
+302.130
+
+Percent of Quota
+100.00
+93.44
+6.56
+
+III.
+
+SDR Department:
+Net cumulative allocation
+Holdings
+[Designation plan]
+
+SDR Million
+485.25
+387.00
+
+Percent of Allocation
+100.00
+79.75
+
+IV.
+
+Outstanding Purchases and Loans: None
+
+32
+V.
+
+Latest Financial Arrangements: None
+
+Projected Payments to Fund (SDR million; based on existing use of resources and
+VI.
+present holdings of SDRs):
+Forthcoming
+2008
+2009
+2010
+2011 2012
+Principal
+3.06
+3.06
+3.06
+3.06
+Charges/interest
+3.18
+Total
+3.18
+3.06
+3.06
+3.06
+3.06
+
+VII.
+
+Article IV Consultations:
+
+Belgium is on the 12-month cycle; the last consultation was completed on February 16, 2007
+(EBM/07/14).
+VIII.
+
+Exchange Rate Arrangements
+
+•
+
+Belgium’s currency is the euro, which floats freely and independently against other
+currencies.
+
+•
+
+Belgium maintains an exchange system free of restrictions on payments and transfers
+for current international transactions, except for restrictions maintained solely for
+security reasons. These measures are established by European Union regulations and
+have been notified to the Fund pursuant to Executive Board Decision No. 144-(52/51)
+(see EBD/90/251 (8/17/90), EBD/94/187 (11/29/94), EBD/92/139 (7/7/92) and
+EBD/06/133 (11/6/2006)).
+
+IX.
+
+FSAP Participation:
+
+FSAP Assessment
+
+IMF Country Report No. 06/75
+
+Summary: The report concluded that Belgium’s financial system is resilient and benefits from a
+number of Belgium-specific features that help stability. These include a traditionally cautious
+attitude toward risk by banks, large holdings of government securities, extremely low holdings
+of equity by banks, a stable source of funding benefiting from generous tax incentives, a high
+standard of banking supervision, and a stable macroeconomic policy framework. Overall,
+supervision showed a high degree of compliance with international standards. Near-term
+vulnerability appears low, reflecting the soundness of the dominant banking system, the
+generally benign financial environment, the strong financial condition of the corporate sector,
+and the relatively healthy financial position of the household sector. Financial institutions were
+found to withstand an adverse macroeconomic stress well, helped in part by the beneficial
+diversification in the bancassurance model.
+
+33
+
+Notwithstanding the strengths of the Belgian financial sector, a number of issues emerged from
+the FSAP. The heavy exposure abroad, the open nature of the economy, and the importance of
+the Euroclear Group globally, made the domestic financial system potentially vulnerable to
+global economic developments and financial contagion. Risks remained and may increase with a
+downturn in the business cycle, increased cross-border operations, and deeper links with the
+global money centers. In line with the 2005 FSAP recommendations, the supervisory framework
+has been strengthened. The Banking, Finance, and Insurance Commission’s (CBFA)
+management committee has been streamlined and synergies between the CBFA and the National
+Bank of Belgium (NBB) have been further developed. Regular stress tests have helped promote a
+systematic dialogue between supervisory authorities and market participants, while detailed
+procedures for financial crisis management have been tested. Prudential supervision of the
+insurance sector has been upgraded and regulation of the pension funds sector reinforced.
+
+34
+APPENDIX II. BELGIUM: STATISTICAL ISSUES
+
+Belgium’s economic and financial statistics are adequate for surveillance purposes. The
+National Bank of Belgium (NBB) regularly publishes a full range of economic and financial
+data and provides calendar dates of main statistical releases. On-line access to these
+comprehensive databases is facilitated by the NBB’s data search engine, Belgostat. Belgium
+is a SDDS subscriber. Statistics for International Financial Statistics on banking institutions
+and monetary aggregates are prepared on a monthly basis and are timely.
+Belgium adopted the European System of Integrated Economic Accounts 1995 (ESA95)
+in 1999. Revisions of national accounts started in November 2005 to comply with
+EUROSTAT requirements and prepare for the adoption of chain-linked national accounts
+statistics. Unlike in other countries, the NBB is responsible for compiling national accounts
+statistics. Quarterly accounts are published within a lag of three months. Both annual and
+quarterly accounts data are of good quality, with shortcomings mainly related to export and
+import deflators, which are based on unit values, rather than prices collected directly from
+exporters and importers.
+General government revenue, expenditure, and balance on an accrual basis (ESA95) are
+published annually. The NBB publishes monthly data on central government operations and
+quarterly data on general government operations since April 2007.
+The overall quality and availability of financial indicators are good. The authorities are
+providing quarterly updates of financial sector indicators (FSIs) in a timely manner.
+Key publicly accessible websites for macroeconomic data and analysis are:
+National Statistical Portal...................................................www.belgostat.be
+National Statistics Institute.................................................www.statbel.fgov.be
+Institute for National Accounts ..........................................www.inr-icn.fgov.be
+National Bank of Belgium..................................................www.nbb.be
+Federal Planning Bureau ....................................................www.plan.be
+Banking, Finance, and Insurance Commission ..................www.cbfa.be
+High Finance Council.........................................................www.docufin.be
+Central Economic Council .................................................www.ccecrb.fgov.be
+
+35
+BELGIUM: TABLE OF COMMON INDICATORS REQUIRED FOR SURVEILLANCE
+(As of February 14, 2008)
+Date of
+Latest
+Observation
+
+Date
+Received
+
+Frequency
+of
+Data6
+
+Frequency
+of
+Reporting6
+
+Frequency
+of
+Publication6
+
+2/14/08
+
+2/14/08
+
+D
+
+D
+
+D
+
+International Reserve Assets and Reserve
+Liabilities of the Monetary Authorities1
+
+11/07
+
+1/14/08
+
+M
+
+M
+
+M
+
+Reserve/Base Money
+
+12/07
+
+1/08
+
+M
+
+M
+
+M
+
+Broad Money
+
+12/07
+
+1/08
+
+M
+
+M
+
+M
+
+Central Bank Balance Sheet
+
+12/07
+
+1/08
+
+M
+
+M
+
+M
+
+Consolidated Balance Sheet of the Banking
+System
+
+12/07
+
+1/08
+
+M
+
+M
+
+M
+
+2/14/08
+
+2/14/08
+
+D
+
+D
+
+D
+
+Consumer Price Index
+
+12/07
+
+1/08
+
+M
+
+M
+
+M
+
+Revenue, Expenditure, Balance and
+Composition of Financing3––General
+Government4
+
+2006
+
+6/30/07
+
+A
+
+A
+
+A
+
+Revenue, Expenditure, Balance, and
+Composition of Financing3––Central
+Government
+
+2006
+
+6/30/07
+
+A
+
+A
+
+A
+
+Stocks of Central Government and Central
+Government-Guaranteed Debt5
+
+12/07
+
+1/08
+
+M
+
+M
+
+M
+
+External Current Account Balance
+
+Q3 2007
+
+12/07
+
+Q
+
+Q
+
+Q
+
+Exports and Imports of Goods and Services
+
+Q3 2007
+
+12/07
+
+Q
+
+Q
+
+Q
+
+GDP/GNP
+
+Q3 2007
+
+12/07
+
+Q
+
+Q
+
+Q
+
+Gross External Debt
+
+Q3 2007
+
+12/07
+
+Q
+
+Q
+
+Q
+
+Exchange Rates
+
+Interest Rates2
+
+1
+
+Includes reserve assets pledged or otherwise encumbered as well as net derivative positions.
+
+2
+
+Both market-based and officially-determined, including discount rates, money market rates, rates on treasury
+bills, notes and bonds.
+3
+
+Foreign, domestic bank, and domestic nonbank financing.
+
+4
+
+The general government consists of the central government (budgetary funds, extra budgetary funds, and social
+security funds) and state and local governments.
+5
+
+Including currency and maturity composition.
+
+6
+
+Daily (D), weekly (W), monthly (M), quarterly (Q), annually (A), irregular (I); and not available (NA).
+
+INTERNATIONAL MONETARY FUND
+BELGIUM
+Staff Report for the 2007 Article IV Consultation
+Supplementary Information
+Prepared by the European Department
+(In consultation with the Policy Development and Review Department)
+Approved by Alessandro Leipold and Michael Hadjimichael
+March 19, 2008
+
+This supplement to the staff report for the 2007 Article IV consultation with Belgium
+provides an update on the staff’s revised economic outlook, recent developments in financial
+markets, and the 2008 budget proposal. A fiscal ROSC is being issued separately in the
+context of this Article IV consultation. The information does not alter the thrust of the staff
+appraisal.
+Summary
+Growth is forecast to dip to 1.4 percent in 2008, somewhat lower than anticipated in the staff
+report due to a further weakening of the global environment. Headline inflation has risen
+more than expected in January, given higher oil and food prices. The financial system has
+absorbed further write-downs linked to the ongoing financial turmoil. The government has
+reached agreement on balancing the 2008 general government budget.
+Output and inflation
+1.
+Staff projects a deceleration of GDP growth to 1.4 percent in 2008, from
+1.6 percent growth in the Staff Report (Table 1). The revision is driven by slower growth
+in the U.S. and Europe and reflects broadly evenhanded reductions in growth among
+Belgium’s main economic partners. While consumer and business confidence remained
+strong in January, encouraged by continued credit supply, inflation is higher and the impact
+of the global financial market turmoil is expected to be larger than envisaged earlier. In
+addition, significant downside risks remain, related to the international environment and
+financial turmoil.
+
+2
+Financial sector
+2.
+The financial sector disclosed additional subprime-related losses. Recent
+volatility in equity prices as well as a widening of credit default spreads indicates continuing
+market concerns about asset valuations and their implications for banks’ earnings and capital.
+Credit default swap spreads have increased sharply for all Belgian banks, in line with those
+for banks in other euro area countries, and perhaps also related to exposure to emerging
+Europe whose vulnerabilities have risen. Fortis, Belgium’s largest bank, reported a
+45 percent decline in Q4 profits and has further shored up its capital. While Moody’s
+reaffirmed the AAA rating of Dexia’s U.S bond insurance unit, FSA, Dexia’s CDS spreads
+continued to increase. If they remain high or widen further, additional accounting impacts on
+Dexia’s first quarter results may be expected.
+2008 budget
+3.
+The authorities agreed on balancing the 2008 general government budget. The
+federal budget frees up €340 million (0.1 percentage point of GDP) for well-targeted
+initiatives to support purchasing power, notably through an increase in small pensions and a
+tax reduction for low-income workers. At the same time, a special tax for power companies,
+the sale of vacant government-owned buildings, and increased efforts to reduce tax fraud are
+expected to boost revenues. Regional authorities have agreed to aim for a surplus of
+0.2 percent of GDP in 2008. Discussions on the economic program for the follow up fullfledged federal government—which is to take office before end-March—continue and will
+be reflected in the new budget. Achieving a balanced budget would imply essentially no
+structural adjustment on the basis of the authorities’ macroeconomic assumptions. The
+budget agreement does not materially alter the staff’s appraisal, though the recourse to oneoff measures (albeit on an admittedly very limited scale, slightly less than 0.1 percent of
+GDP) reduces somewhat the quality of the underlying adjustment (Text Table 1 and Table 2).
+Text Table 1. Belgium: General Government Fiscal Indicators, 2003-2009
+(In percent of GDP, unless otherwise indicated)
+
+General government balance 2/
+Nonstructural measures
+Structural balance
+Interest charges
+Structural primary balance
+Change in structural balance
+Public debt 2/
+Memorandum items:
+Real primary spending growth (in percent) 2/
+Real GDP growth
+
+2003
+
+2004
+
+2005
+
+2006
+
+Est.
+2007
+
+0.0
+1.2
+-1.0
+5.3
+4.3
+-0.8
+98.7
+
+0.0
+0.8
+-0.6
+4.7
+4.2
+0.5
+94.4
+
+-2.3
+-2.0
+0.4
+4.2
+4.5
+0.9
+92.2
+
+0.4
+0.7
+-0.1
+4.0
+3.8
+-0.5
+88.1
+
+-0.1
+-0.1
+-0.1
+3.8
+3.7
+0.0
+85.1
+
+-0.3
+0.1
+0.0
+3.7
+3.6
+0.0
+82.0
+
+-0.7
+0.0
+0.0
+3.6
+3.6
+0.0
+80.3
+
+4.9
+1.0
+
+-0.2
+2.8
+
+8.9
+2.0
+
+-3.7
+2.9
+
+3.7
+2.7
+
+1.7
+1.4
+
+1.8
+1.2
+
+Sources: National Bank of Belgium; and IMF staff.
+1/ Based on unchanged policy assumption.
+2/ Assumes Eurostat's treatment of the national railway company debt transfer in 2005.
+
+Proj. 1/
+2008 2009
+
+3
+Fiscal ROSC
+4.
+Belgium broadly meets, and in several areas exceeds, the requirements of the fiscal
+transparency code. Budget formulation is supported by medium-term macroeconomic
+forecasts and clearly formulated medium-term fiscal policy goals. On the expenditure side,
+there is room to clarify objectives and targets to help gear decision-making toward the
+medium term. More information could be included in the budget on tax expenditures and
+fiscal risks, while institutional arrangements for fiscal policy coordination could be
+strengthened. A detailed assessment is presented in the accompanying Report on The
+Observance of Standards and Codes: Fiscal Transparency Module.
+
+4
+Table 1. Belgium: Main Economic Indicators, 2003-09
+(Percentage change from previous year; unless otherwise indicated)
+Est.
+
+Proj.
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+1.0
+0.7
+2.1
+-0.3
+-1.8
+0.0
+2.9
+2.8
+0.2
+-0.9
+
+2.8
+1.4
+1.8
+7.5
+7.4
+0.2
+6.3
+6.5
+0.1
+0.0
+
+2.0
+1.4
+-0.2
+6.7
+4.6
+0.2
+4.1
+4.9
+-0.5
+-0.2
+
+2.9
+2.1
+0.0
+4.2
+3.9
+0.8
+2.6
+2.5
+0.2
+0.2
+
+2.7
+2.5
+1.8
+4.9
+5.1
+0.1
+4.6
+5.0
+-0.1
+0.5
+
+1.4
+1.6
+2.3
+1.4
+1.9
+0.1
+4.3
+5.0
+-0.5
+-0.4
+
+1.2
+1.2
+2.0
+1.1
+1.5
+-0.1
+3.7
+3.7
+0.1
+-1.2
+
+1.1
+0.1
+8.2
+7.9
+
+1.5
+0.7
+8.4
+7.9
+
+1.5
+1.2
+8.4
+7.8
+
+1.0
+1.3
+8.2
+7.7
+
+0.5
+1.6
+7.5
+7.6
+
+0.6
+0.4
+7.6
+7.5
+
+0.7
+-0.2
+8.3
+7.5
+
+1.6
+-0.4
+1.5
+0.9
+
+2.4
+-0.2
+1.9
+2.1
+
+2.4
+-0.5
+2.5
+0.7
+
+2.0
+-0.7
+2.3
+1.6
+
+1.7
+0.8
+1.8
+1.1
+
+2.8
+0.3
+3.1
+1.0
+
+1.7
+-0.1
+1.9
+1.4
+
+2.3
+4.2
+
+2.1
+4.2
+
+2.2
+3.4
+
+3.1
+3.8
+
+4.3
+4.3
+
+...
+...
+
+...
+...
+
+23.3
+17.1
+6.1
+-1.7
+4.4
+
+23.7
+18.1
+5.6
+-1.7
+3.9
+
+23.8
+18.6
+5.2
+-1.8
+3.4
+
+24.9
+19.1
+5.8
+-1.7
+4.1
+
+25.6
+19.3
+6.3
+-2.1
+4.2
+
+25.3
+19.1
+6.1
+-2.2
+3.9
+
+25.3
+19.0
+6.3
+-2.5
+3.7
+
+Public finances, general government (in percent of GDP) 4/
+Revenue
+51.1
+49.2
+Expenditure
+51.1
+49.2
+Of which: interest on public debt
+5.3
+4.7
+Fiscal balance
+0.0
+0.0
+Primary balance
+5.3
+4.7
+Structural balance 5/
+-1.0
+-0.6
+Gross public debt
+98.7
+94.4
+
+49.4
+51.6
+4.2
+-2.3
+1.9
+0.4
+92.2
+
+48.7
+48.4
+4.0
+0.4
+4.3
+-0.1
+88.1
+
+48.5
+48.7
+3.8
+-0.1
+3.7
+-0.1
+85.1
+
+48.3
+48.7
+3.7
+-0.3
+3.4
+0.0
+82.0
+
+48.1
+48.9
+3.6
+-0.7
+2.9
+0.0
+80.3
+
+Demand and output (in real terms)
+GDP
+Private consumption
+Public consumption
+Gross fixed investment
+Of which: enterprise investment
+Stockbuilding 1/
+Exports of goods and nonfactor services
+Imports of goods and nonfactor services
+Foreign balance 1/
+Output gap (in percent of potential GDP)
+Labor market
+Labor force (national definition)
+Employment (national definition)
+EU harmonized unemployment rate 2/
+NAIRU 2/
+Prices, wages, and incomes
+GDP deflator
+Terms of trade (goods)
+Consumer price index (harmonized)
+Labor productivity 3/
+Interest rates (percent)
+Money market rate (3 month)
+Government bond yield
+Saving and investment (in percent of GDP)
+Private saving
+Private investment
+Private saving surplus
+Government saving surplus
+National saving surplus
+
+Balance of payments
+Current account balance (in billions of euros)
+(In percent of GDP)
+Trade balance (in billions of euros)
+(In percent of GDP)
+Exchange rates
+Nominal effective rate (2000=100)
+Real effective rate (2000=100) 6/
+
+11.4
+4.1
+9.7
+3.5
+
+10.2
+3.5
+7.8
+2.7
+
+7.9
+2.6
+4.7
+1.6
+
+8.4
+2.7
+2.6
+0.8
+
+10.7
+3.2
+3.8
+1.2
+
+10.0
+2.9
+4.3
+1.2
+
+10.0
+2.8
+5.0
+1.4
+
+105.7
+110.3
+
+106.8
+111.9
+
+106.9
+113.3
+
+107.3
+115.0
+
+109.1
+117.6
+
+...
+...
+
+...
+...
+
+Sources: Data provided by the authorities; and IMF staff estimates and projections.
+1/ Contribution to growth.
+2/ Percent of the labor force.
+3/ Based on national accounts data, for economy-wide.
+4/ Includes the effect of the restructuring of the national railway company in 2005 as presented by Eurostat.
+5/ Excludes effect of one-off measures, including the restructuring of the national railway company in 2005.
+6/ Based on relative unit labor costs in manufacturing.
+
+5
+Table 2. Belgium: Fiscal Scenarios, 2004-13
+(In percent of GDP, unadjusted for working days; unless otherwise indicated)
+
+2004
+
+2005
+
+2006
+
+Est.
+2007
+
+2008
+
+2009
+
+Projection
+2010 2011
+
+2012
+
+2013
+
+Current policies (A)
+Revenue
+Expenditure
+Primary expenditure
+Interest payments
+Balance 1/
+Structural balance 2/
+Change in structural balance
+
+49.2
+49.2
+44.5
+4.7
+0.0
+-0.6
+0.5
+
+49.4
+51.6
+47.5
+4.2
+-2.3
+0.4
+0.9
+
+48.7
+48.4
+44.4
+4.0
+0.4
+-0.1
+-0.5
+
+48.5
+48.7
+44.8
+3.8
+-0.1
+-0.1
+0.0
+
+48.3
+48.7
+45.0
+3.7
+-0.3
+0.0
+0.0
+
+48.1
+48.9
+45.3
+3.6
+-0.7
+0.0
+0.0
+
+48.1
+48.3
+44.9
+3.5
+-0.2
+0.1
+0.1
+
+48.0
+48.1
+44.8
+3.3
+-0.1
+0.1
+0.1
+
+48.0
+48.0
+44.7
+3.2
+0.0
+0.2
+0.1
+
+47.9
+47.8
+44.7
+3.1
+0.1
+0.2
+0.1
+
+Primary balance
+Structural primary balance 2/
+Debt 1/
+
+4.7
+4.2
+94.4
+
+1.9
+4.5
+92.2
+
+4.3
+3.8
+88.1
+
+3.7
+3.7
+85.1
+
+3.4
+3.6
+82.0
+
+2.9
+3.6
+80.3
+
+3.2
+3.5
+77.1
+
+3.3
+3.5
+74.3
+
+3.3
+3.4
+71.6
+
+3.2
+3.3
+68.9
+
+Memorandum items (in percent):
+Real primary expenditure growth 2/
+Output gap
+GDP growth
+
+-0.2
+0.0
+2.8
+
+8.9
+-0.2
+2.0
+
+-3.7
+0.2
+2.9
+
+3.7
+0.5
+2.7
+
+1.7
+-0.4
+1.4
+
+1.8
+-1.2
+1.2
+
+1.9
+-0.3
+2.8
+
+1.9
+-0.1
+2.2
+
+1.9
+0.0
+2.0
+
+1.9
+0.0
+2.0
+
+Staff-recommended scenario (B)
+Revenue
+Expenditure
+Primary expenditure
+Interest payments
+Balance 1/
+Structural balance 2/
+Change in structural balance
+
+49.2
+49.2
+44.5
+4.7
+0.0
+-0.6
+0.5
+
+49.4
+51.6
+47.5
+4.2
+-2.3
+0.4
+0.9
+
+48.7
+48.4
+44.4
+4.0
+0.4
+-0.1
+-0.5
+
+48.5
+48.7
+44.8
+3.8
+-0.1
+-0.1
+0.0
+
+48.3
+48.2
+44.5
+3.7
+0.2
+0.4
+0.5
+
+48.1
+48.0
+44.4
+3.6
+0.2
+0.9
+0.5
+
+48.1
+47.2
+43.8
+3.4
+0.9
+1.2
+0.3
+
+48.0
+46.7
+43.5
+3.2
+1.3
+1.5
+0.3
+
+48.0
+46.4
+43.3
+3.1
+1.6
+1.8
+0.3
+
+47.9
+46.0
+43.1
+2.9
+1.9
+2.0
+0.3
+
+Primary balance
+Structural primary balance 2/
+Debt 1/
+
+4.7
+4.2
+94.4
+
+1.9
+4.5
+92.2
+
+4.3
+3.8
+88.1
+
+3.7
+3.7
+85.1
+
+3.8
+4.1
+81.5
+
+3.8
+4.4
+79.0
+
+4.3
+4.6
+74.6
+
+4.5
+4.7
+70.5
+
+4.7
+4.8
+66.4
+
+4.8
+4.9
+62.1
+
+Memorandum items (in percent):
+Real primary expenditure growth 2/
+Output gap
+GDP growth
+
+-0.2
+0.0
+2.8
+
+8.9
+-0.2
+2.0
+
+-3.7
+0.2
+2.9
+
+3.7
+0.5
+2.7
+
+0.7
+-0.4
+1.4
+
+0.9
+-1.3
+1.1
+
+1.2
+-0.4
+2.7
+
+1.5
+-0.2
+2.2
+
+1.5
+-0.1
+2.0
+
+1.6
+-0.1
+2.0
+
+Sources: Data provided by the authorities; and IMF staff projections.
+1/ Includes the effect of the restructuring of the national railway company in 2005 as presented by Eurostat.
+According to the authorities, the government balance should be 0.1 percent of GDP in 2005 and
+the public debt 91.5 percent of GDP.
+2/ Excludes one-off measures including the restructuring of the national railway company in 2005.
+
+Public Information Notice (PIN) No. 08/40
+FOR IMMEDIATE RELEASE
+March 28, 2008
+
+International Monetary Fund
+700 19th Street, NW
+Washington, D. C. 20431 USA
+
+IMF Executive Board Concludes 2007 Article IV Consultation with
+Belgium
+On March 21, 2008, the Executive Board of the International Monetary Fund (IMF) concluded
+the Article IV consultation with Belgium.1
+Background
+With a supportive external environment and buoyant domestic demand, GDP is estimated to
+have grown by 2.7 percent in 2007 and unemployment declined to its lowest level since 2002.
+Rapid job creation contributed to rising households’ net disposable income and private
+consumption. Meanwhile, business investment firmed up, boosted by strong net revenue growth
+in the first half of 2007. However, headwinds from a worsening international environment,
+combined with domestic political tensions, contributed to a slowdown of activity toward the end
+of the year.
+Looking ahead, the spike in oil prices, euro appreciation, the spillovers from the global financial
+turmoil, and dimmer economic prospects in partner countries will exert a drag on activity.
+Hence, the staff projects output growth to weaken to 1.4 percent in 2008. Greater economic
+uncertainty and less favorable financing conditions will lower business investment and
+consumption will decelerate in response to more sluggish real disposable income growth and a
+slower pace of job creation. Moreover, concerns about the depth and persistence of the ongoing
+financial market turmoil and its effects on growth constitute downside risks.
+1
+
+Under Article IV of the IMF's Articles of Agreement, the IMF holds bilateral discussions with
+members, usually every year. A staff team visits the country, collects economic and financial
+information, and discusses with officials the country's economic developments and policies. On
+return to headquarters, the staff prepares a report, which forms the basis for discussion by the
+Executive Board. At the conclusion of the discussion, the Managing Director, as Chairman of the
+Board, summarizes the views of Executive Directors, and this summary is transmitted to the
+country's authorities.
+
+2
+Headline inflation has risen to 3.5 percent in January 2008 with the surge in food and energy
+prices. Partial wage indexation will boost wages and shield purchasing power,
+but it will drive up hourly labor costs in excess of what was envisaged in earlier wage
+agreements. These agreements contained moderate wage increases to help preserve
+competitiveness. The authorities have responded to the energy price spike by raising targeted
+income support for the energy needs of low-income households.
+The ongoing financial turbulence has so far had only a limited impact on the financial system
+and the economy. Banks’ exposure to the U.S. subprime market is small, bank capitalization is
+strong, and liquidity shocks have been absorbed. Nonetheless, recent volatility in equity prices
+as well as a widening of credit default spreads indicates continuing market concerns about
+asset valuations and their implications for banks’ earnings and capital. Meanwhile, the crossborder dimension of the financial system has gained further importance with a partial merger
+between a Belgian and Dutch bank.
+With political tensions following the June 2007 elections, federal policy making has been at a
+standstill, delaying fiscal consolidation and structural reforms. The 2007 general government
+outcome is estimated to show a small deficit, short of the planned surplus of 0.3 percent of
+GDP. The stance of fiscal policy was broadly neutral, with the structural balance remaining
+close to balance. The authorities agreed on resuming fiscal consolidation and balancing the
+2008 general government budget. Current fiscal federalism arrangements have led to
+unsustainable fiscal imbalances, both between the federal and regional entities and between
+the regions, but lack of consensus about a new allocation of competencies between federal and
+regional governments has delayed their reform.
+Demographic trends are projected to dampen long-term growth, as population aging curbs labor
+supply and sharply raises dependency ratios. Despite recent increases, employment rates
+remain among the lowest in the industrialized world. At the same time, skill mismatches and
+geographical differences in growth and income persist, amid limited labor mobility.
+Executive Board Assessment
+Executive Directors welcomed the upswing of recent years with robust growth continuing in
+2007 that brought unemployment down to a low level. Directors noted, however, that the
+economy now faces headwinds, largely due to external factors. They commended the
+authorities for their prudent 2008 budget and the well-targeted approach to addressing the
+consequences of the spike in inflation. Looking forward, Directors noted the need to address
+population aging, and encouraged the authorities to adopt a program of medium-term fiscal
+consolidation and implement reforms to raise employment rates and productivity.
+Directors noted that prudent domestic policies are called for to meet the challenge of the nearterm outlook. With protracted global financial turmoil and the slowdown in partner countries,
+GDP growth is expected to weaken in 2008 and remain subdued in 2009. This combined with a
+sharp rise in inflation presents significant policy challenges. They encouraged the authorities to
+allow fiscal stabilizers to operate fully around a medium-term consolidation path and avoid
+recourse to one-off measures to achieve nominal budget objectives. Given the widespread
+
+3
+practice of wage indexation and the increase in targeted support for low-income households,
+they felt that purchasing power is adequately protected and called for continued wage
+moderation to prevent a further erosion in competitiveness.
+Directors noted that the financial system had been only moderately affected by the recent
+financial market turbulence, but cautioned that its resilience was likely to be tested further. They
+supported the authorities’ encouragement of early and transparent disclosure and saw the need
+to ensure that financial institutions maintain adequate capital buffers to deal with further risks.
+Directors welcomed the authorities’ continuing efforts to further enhance already high-quality
+supervision, and noted that—with ongoing cross-border consolidation modifying the financial
+landscape considerably—deeper coordination with host country authorities will be needed.
+Recognizing that the political situation had caused delays in policymaking, Directors
+encouraged the new government to take decisive and medium-term oriented action. They
+welcomed the intention to achieve a balanced budget for the general government in 2008,
+underpinned by the regional authorities’ efforts to aim for a larger-than-planned surplus.
+Nonetheless, Directors felt that the credibility of the authorities’ strategy to deal with aging will
+depend on promptly adopting the structural expenditure restraint needed to return the fiscal
+consolidation path to that recommended by the High Finance Council, and on making up for
+recently lost ground over the medium term.
+Directors welcomed the authorities’ intention to revise fiscal federalism arrangements to
+address fiscal imbalances among different levels of government. They underscored that any
+new agreements should be neutral from a consolidated budget perspective, provide incentives
+for regions to narrow income differences, and be transparent about the intergovernmental
+solidarity mechanisms. Directors noted that further devolution of competencies would need to
+be accompanied by strengthened accountability and stronger coordination among federal and
+sub-federal entities of economic policies, for which existing fiscal institutions may need to be
+strengthened.
+Directors saw labor and product market reforms as vital to raise growth, reduce unemployment,
+increase employment rates, and boost productivity. They recommended comprehensive reforms
+that would involve a further streamlining and coordinating of labor market policies across
+regions, an improvement in training and education, a revision of the tax-benefit system, and
+phasing out early retirement schemes. Directors felt that the wage bargaining framework ought
+to be made more conducive to achieving higher employment rates.
+
+Public Information Notices (PINs) form part of the IMF's efforts to promote transparency of the IMF's
+views and analysis of economic developments and policies. With the consent of the country
+(or countries) concerned, PINs are issued after Executive Board discussions of Article IV consultations
+with member countries, of its surveillance of developments at the regional level, of post-program
+monitoring, and of ex post assessments of member countries with longer-term program engagements.
+PINs are also issued after Executive Board discussions of general policy matters, unless otherwise
+decided by the Executive Board in a particular case. The staff report (use the free Adobe Acrobat
+Reader to view this pdf file) for the 2007 Article IV Consultation with Belgium is also available.
+
+4
+
+Belgium: Selected Economic and Social Indicators
+(Annual percentage change; unless otherwise indicated)
+2003
+2004
+2005
+2006 2007 1/ 2008 1/
+Real economy
+Real GDP
+Domestic demand
+CPI Inflation
+Unemployment rate (in percent)
+Gross national saving (percent of GDP)
+Gross domestic investment (percent of GDP)
+
+1.0
+0.9
+1.5
+8.2
+23.2
+19.1
+
+2.8
+2.9
+1.9
+8.4
+23.6
+20.1
+
+2.0
+2.4
+2.5
+8.4
+23.8
+21.2
+
+2.9
+2.8
+2.3
+8.2
+24.9
+22.2
+
+2.7
+2.9
+1.8
+7.5
+25.2
+21.9
+
+1.4
+1.8
+3.1
+7.6
+24.6
+21.7
+
+Public finance (percent of GDP) 2/
+General government balance
+Structural balance
+Primary balance
+General government debt
+
+0.0
+-1.0
+5.3
+98.7
+
+0.0
+-0.6
+4.7
+94.4
+
+-2.3
+0.4
+1.9
+92.2
+
+0.4
+-0.1
+4.3
+88.1
+
+-0.1
+-0.1
+3.7
+85.1
+
+-0.3
+0.0
+3.4
+82.0
+
+2.3
+4.2
+
+2.1
+4.1
+
+2.2
+3.4
+
+3.1
+3.9
+
+4.2
+4.3
+
+…
+…
+
+66.0
+2.9
+-62.5
+2.8
+3.5
+-6.8
+4.1
+10.8
+11.0
+
+68.3
+6.3
+-65.6
+6.5
+2.7
+-10.0
+3.5
+12.1
+10.4
+
+70.0
+4.1
+-68.4
+4.9
+1.6
+-16.1
+2.6
+9.2
+8.2
+
+70.6
+2.6
+-69.8
+2.5
+0.8
+-16.4
+2.7
+16.1
+8.8
+
+74.6
+5.6
+-73.5
+6.0
+1.2
+-18.1
+3.2
+...
+8.7
+
+76.5
+5.7
+-75.2
+5.9
+1.2
+-20.1
+2.9
+...
+...
+
+...
+...
+...
+
+...
+...
+...
+
+...
+...
+...
+
+...
+...
+...
+
+...
+...
+...
+
+91.9
+74.3
+4605.2
+
+Interest rates (percent)
+Money market rate (3 months)
+Government bond yield
+Balance of payments 3/
+Exports of goods (percent of GDP)
+Volume growth
+Imports of goods (percent of GDP)
+Volume growth
+Trade balance (percent of GDP), of which:
+Oil (US$ billion)
+Current account (percent of GDP)
+FDI (percent of GDP)
+Official reserves (US$ billion) 4/
+Fund position (February 12, 2008)
+Holdings of currency (percent of quota)
+Holdings of SDRs (percent of allocation)
+Quota (SDR millions)
+
+Exchange rate
+Nominal effective rate (2000=100, ULC
+...
+based) 4/
+105.7
+106.8
+106.2
+108.2
+108.1
+Real effective rate (2000=100, ULC based) 4/
+110.3
+111.9
+113.2
+115.4
+116.2
+...
+Social Indicators (reference year):
+Per capita GDP (2006): $37,301; Income distribution (ratio of income received by top and bottom
+quintiles, 2005): 4.1; Life expectancy at birth (2005): male: 76.7, female: 82.4; Gender pay gap (as
+percent of male pay, 2005): 7; Passenger car ownership (2000): 467 per thousand inhabitants;
+Greenhouse gas emissions (2003): kg CO2 per capita: 11.2; Population density (2006):
+343.6 inhabitants per sq. km.; At-risk-of-poverty rate (2005): 15 percent.
+1/ Staff estimates and projections.
+2/ Staff projections for 2008, assuming no policy adjustment. According to Eurostat, the debt transfer of
+the national railway company to the Railway Infrastructure Fund should be accounted as expenditure in
+2005.
+3/ Staff projections for 2007-08.
+4/ Data for 2007 refer to end-December 2007.
+
+

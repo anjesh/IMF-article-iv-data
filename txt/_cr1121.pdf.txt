@@ -1,0 +1,6425 @@
+January 2011
+IMF Country Report No. 11/21
+
+© 2011 International Monetary Fund
+
+December 21, 2010
+November 29, 2011
+
+LOT
+2010
+
+January 29, 2001
+January 29, 2001
+
+Israel: 2010 Article IV Consultation—Staff Report; Public Information Notice on the
+Executive Board Discussion
+Under Article IV of the IMF’s Articles of Agreement, the IMF holds bilateral discussions with
+members, usually every year. In the context of the 2010 Article IV consultation with Israel, the
+following documents have been released and are included in this package:
+
+
+The staff report for the 2010 Article IV consultation, prepared by a staff team of the IMF,
+following discussions that ended on November 29, 2010, with the officials of Israel on
+economic developments and policies. Based on information available at the time of these
+discussions, the staff report was completed on December 21, 2010. The views expressed in
+the staff report are those of the staff team and do not necessarily reflect the views of the
+Executive Board of the IMF.
+
+
+
+A Public Information Notice (PIN).
+
+The document listed below has been or will be separately released.
+Selected Issues Paper
+The policy of publication of staff reports and other documents allows for the deletion of market-sensitive
+information.
+Copies of this report are available to the public from
+International Monetary Fund  Publication Services
+700 19th Street, N.W.  Washington, D.C. 20431
+Telephone: (202) 623-7430  Telefax: (202) 623-7201
+E-mail: publications@imf.org Internet: http://www.imf.org
+
+International Monetary Fund
+Washington, D.C.
+
+INTERNATIONAL MONETARY FUND
+ISRAEL1
+Staff Report for the 2010 Article IV Consultation
+Prepared by the European Department
+Approved by Adam Bennett and Aasim Husain
+December 21, 2010
+Israel passed through the global recession swiftly. The challenge now is to sustain growth
+and low inflation while boosting medium-term prospects—in the context of continued global
+uncertainty, shekel appreciation, and a housing market that is overheating.
+Buoyant activity and employment alongside incipient inflation pressures calls for the
+overall stance of policies to be tightened more quickly than planned. But the onus for the
+accelerated effort should fall mainly on fiscal rather than monetary policy. This shift in the
+policy center of gravity will help to contain inflation, reduce upward pressure on the shekel,
+and support the new fiscal rule. Alongside, monetary policy should focus on inflation and
+move further towards a neutral stance. In so doing, it should continue to respond to shocks to
+global demand, and foreign exchange intervention should become more symmetric. Steps to
+rebalance housing supply and demand can support these efforts. To secure Israel’s mediumterm prospects, greater coordination between the authorities responsible for the stability of the
+financial system, and enhanced procedures governing medium-term public spending will be
+essential.
+The 2010 Article IV discussions were held in Jerusalem and Tel Aviv during November
+17–29. The team comprised Mr. Doyle (Head, EUR), Ms. Budina (FAD), Mr. Cipriani (INS),
+and Mr. Roger (MCM). Mr. Friedmann (Advisor, OED) attended most meetings. The mission
+met with Minister of Finance Steinitz, Governor of the Central Bank Fischer, representatives of
+the Prime Minister’s office, and other senior officials, academics, and private sector
+representatives. A joint press conference was held with the authorities at the conclusion of the
+mission.
+The mission’s concluding statement was published on November 29, 2010 and can be
+found at: http://www.imf.org/external/np/ms/2010/112910.htm.
+
+1
+
+For purposes of Fund relations, the West Bank, Gaza and the Golan Heights are considered to be under the
+authority of Israel within the terms of Article XXXI, Section 2(g) of the Articles of Agreement. Information
+regarding economic developments in West Bank and Gaza may be found in Macroeconomic and Fiscal
+Framework for West Bank and Gaza—Sixth Review of Progress, 9/21/2010. The discussions with the Israeli
+authorities and the analysis in this staff report took into account the economic developments in these territories
+to the extent they are relevant for purposes of completing the Article IV consultation with Israel.
+
+2
+Content
+
+Page
+
+Summary ....................................................................................................................................1
+I. Background ..........................................................................................................................3
+II. Core Diagnostic Issues.......................................................................................................12
+A. How Large is the Output Gap, and Will it Restrain Inflation? ..............................12
+B. Do House Prices Presage General Inflationary or Financial Stability Strains? ....13
+C. Is the Shekel Competitive? ..................................................................................15
+D. Are Capital Inflows Set to Continue or Even Intensify? .......................................17
+E. Are Sovereign Risks Significant? .........................................................................17
+III. Macrofinancial Policy Settings, 2011–12 ..........................................................................19
+A. Central Case Macroeconomic Projections. ...........................................................19
+B. Fiscal Policy ...........................................................................................................20
+C. Monetary and Exchange Rate Policies ..................................................................22
+D. Financial Stability ..................................................................................................24
+IV. Views of the Authorities ....................................................................................................26
+V. Summary and Staff Appraisal .............................................................................................28
+Boxes
+1. Financial Sector Structure and Vulnerabilities ..............................................................6
+2. The Output Gap............................................................................................................12
+3. Inflation ........................................................................................................................12
+Figures
+1. The Great Recession––Short and Sweet in Israel ..........................................................4
+2. External Indicators, 2001–10 .........................................................................................7
+3. Selected Monetary and Financial Indicators, 2006–10 ..................................................8
+4. Financial Market Indicators ...........................................................................................9
+5. House Prices.................................................................................................................14
+6. Indicators of Competitiveness......................................................................................16
+7. Outlook for Capital Flows ...........................................................................................18
+Tables
+1. Selected Economic and Social Indicators, 2007–11 ....................................................31
+2. Balance of Payments, 2006–15 ....................................................................................32
+3. Financial Soundness Indicators, 2003–mid-10 ............................................................33
+4. Summary of Central Government Operations, 2007–12 .............................................34
+5. Indicators of External and Financial Sector Vulnerability, 2001–10 ..........................35
+6. Medium-Term Scenarios, 2009–15 .............................................................................36
+Annex
+I. Debt Sustainability and Risks ...............................................................................................37
+
+3
+I. BACKGROUND
+Following a moderate slowdown in 2009, Israel’s economy has rebounded decisively1
+1.
+Output fell mildly and for only 2 quarters from Q4 2008, and for 2009 as a whole
+growth was 0.8 percent, and is projected to rise to some 4 percent in 2010 (See Selected
+Economic Issues (SEI) I). Despite public debt around 80 percent of GDP, initial market
+jitters over Israel in the wake of Lehman Bros soon subsided. There have been no signs of
+sovereign debt stress—with CDS spreads in the neighborhood of 80 bps in 2010, and the
+strength of long-term prospects has been underscored by recent entry into the OECD.
+2.
+The recovery was led by consumption and exports (Text Table, Figure 1). After
+falling with the onset of the 2008 global economic shock, consumer spending led the
+recovery from Q2 2009. The strength of consumption was mainly in non-durables—spending
+on durables fell sharply (by 6 percent in 2009) and recovered relatively slowly, but this
+primarily affected imports. Exports recovered alongside from H2 2009, in part as world trade
+rebounded, and they are already back at pre-crisis levels. Demand for housing construction
+also picked up strongly from Q2 2009, a delayed supply response to the take-off in the
+housing market which began a year earlier. But in Q3 2010, outright falls in export volumes
+and sharp deceleration in private consumption may signal emerging limits on the durability
+of output strength.
+Israel- National Account (chained data at 2005 prices, seasonally adjusted)
+(quarter-on-quarter percentage changes, unless otherwise stated)
+2009
+
+GDP
+Private Consumption
+Government Consumption
+Gross Fixed Capital
+Formation
+Of which: Housing
+Non-Housing
+Exports of Goods and
+Services
+Imports of Goods and
+Services
+Changes in Inventories 1/
+
+2010
+
+Q1
+
+Q2
+
+Q3
+
+Q4
+
+Q1
+
+Q2
+
+Q3
+
+-0.7
+-0.7
+0.5
+
+0.3
+2.2
+1.3
+
+0.9
+1.5
+-0.6
+
+1.1
+2.2
+0.7
+
+1.0
+0.3
+0.1
+
+1.1
+1.6
+0.3
+
+0.9
+0.3
+2.5
+
+-5.0
+1.0
+-5.4
+
+-4.9
+0.4
+-0.2
+
+-1.2
+1.5
+0.8
+
+-10.3
+1.7
+-3.4
+
+16.0
+2.1
+5.6
+
+-6.1
+4.3
+3.7
+
+2.7
+3.2
+2.1
+
+-8.7
+
+-1.0
+
+4.3
+
+9.0
+
+1.9
+
+3.3
+
+-2.5
+
+-11.2
+
+1.3
+
+4.1
+
+4.0
+
+4.6
+
+1.4
+
+-1.2
+
+‐0.3
+
+-0.9
+
+-0.4
+
+-1.4
+
+1.7
+
+-1.8
+
+0.0
+
+/1 Contribution to growth
+
+1
+
+Macrofinancial data are adequate for surveillance (See Informational Annex).
+
+4
+
+Figure 1. The Great Recession—Short and Sweet in Israel
+Output fell moderately and recovered early,
+10
+
+10
+8
+
+Real GDP, SA
+(QoQ growth; annualized, in percent)
+
+6
+
+4
+
+4
+
+2
+
+2
+
+0
+
+0
+
+-2
+
+-2
+
+-4
+
+-4
+
+-6
+
+-6
+
+-8
+
+-8
+Israel
+US
+
+3
+
+3
+
+2
+
+2
+
+1
+
+1
+
+0
+
+0
+
+-1
+
+-1
+Net exports
+Gross investment
+Government consumption
+Private consumption
+Real GDP growth
+
+-2
+EU
+
+-10
+-12
+
+-12
+07Q1 07Q3 08Q1 08Q3 09Q1 09Q3 10Q1 10Q3
+
+8.0
+
+4
+Contributions to Real GDP Growth
+(QoQ percent change)
+
+8
+
+6
+
+-10
+
+as did private consumption and net exports,
+4
+
+and a flexible response of real wages capped
+unemployment
+Labor Market Indicators
+(Percent)
+
+-3
+
+-2
+
+-3
+
+07Q1 07Q3 08Q1 08Q3 09Q1 09Q3 10Q1 10Q3
+
+and supported competitiveness.
+3
+
+120
+
+120
+REER and Relative ULC
+(Index, 2007Q1 = 100)
+
+7.5
+2
+
+115
+
+115
+
+1
+
+110
+
+110
+
+0
+
+105
+
+105
+
+-1
+
+100
+
+100
+
+-2
+
+95
+
+7.0
+
+6.5
+
+6.0
+
+5.5
+
+5.0
+
+4.5
+
+Unemployment rate, sa
+Total real wage (YoY, 12
+mma) (RHS)
+07Q1 07Q3 08Q1 08Q3 09Q1 09Q3 10Q1 10Q3
+
+95
+
+Relative Unit Labor Cost
+-3
+
+4.0
+
+REER CPI based
+
+90
+
+90
+07Q1 07Q3 08Q1 08Q3 09Q1 09Q3 10Q1 10Q3
+
+Sources: Haver Analytics; OECD Analytical Database; INS; and IMF staf f calculations.
+
+5
+Credit to households, and employment buoyed consumption
+3.
+Credit from domestic and foreign sources to households has been buoyant—at annual
+rates of some 8 percent in 2009 and 2010, but credit to non-financial firms has all but
+stagnated. In part, this reflects the resilience of the banking sector, while non-banks—and
+notably the corporate bond market—encountered difficulties (Box 1). Credit to firms remains
+weak.
+4.
+Employment held up well alongside domestic demand. After a modest decline in the
+first half of 2009, jobs rose 4½ percent through Q2 2010 (2.8 percent for permanent jobs),
+partly cushioned from the global shock by economy-wide real wage declines of 2½ percent
+in 2009—the result of cautious settlements and upside inflation surprises. As recovery has
+taken hold, unemployment fell from its peak of 8 percent in early 2009 to 6 percent in
+Q2 2010, with participation rates leveling off at 56 percent in 2009–10 after rising prior to
+that.
+And the shekel appreciated, capping inflation
+5.
+External developments put the shekel under considerable appreciation pressure
+recently (Figure 2). Despite weakness in exports and net income receipts overall in 2009, the
+current account balance strengthened by 3 percentage points of GDP—reflecting sharp falls
+in durables and investment imports and falling international energy prices. With exports and
+imports both recovering through Q2 2010, the current account surplus is expected to be a
+little weaker in 2010 overall. On the financial account, short-term net inflows by residents
+surged from end-2007 while short-term net flows by non-residents remained broadly stable.
+The resulting upward pressure on the shekel paused in mid-2008, but resumed again after the
+Spring of 2010 as global financial markets thawed. Since then, the cautious tightening of
+domestic policies, increasing investor confidence in the relative strength of Israeli economic
+prospects, and the termination of programmed intervention by BoI has seen the real value of
+the shekel soar back to its mid-crisis peaks—some 15 percent above pre-crisis levels. As a
+result, competitiveness has been eroded.
+6.
+But the strong shekel has helped to contain inflation (Figure 3). With import prices
+accordingly held in check, wholesale prices are still below their mid-2008 peaks, and, until
+recently, food prices have been flat since then too. Nevertheless, since end-2007, the
+headline CPI has been continuously slightly above the 1–3 percent target range, partly
+boosted by indirect tax hikes. It has only recently fallen back into target range, with import
+prices leading the decline.
+And house prices soared
+7.
+After many years of stagnation in nominal terms, prices of owner-occupied dwellings
+rose steadily since the onset of global financial market tensions in the fall of 2007. House
+prices are now 40 percent above pre-crisis levels, albeit with mixed evidence on whether or
+not they are still rising. These developments partly reflect the supportive stance of
+
+6
+macrofinancial policies in the face of downturn in 2009. And by at least in part offsetting the
+wealth effects on Israeli households of falling securities prices, they may have provided some
+support to household consumption.
+Box 1. Financial Sector Structure and Vulnerabilities
+The Israeli banking system is dominated by five banks. Although profits declined
+in 2008 (reflecting losses on modest holdings of domestic equity and bonds, and
+limited foreign ABS exposures abroad), only one bank recorded outright losses. Banks
+continued to raise capital ratios during the crisis, through retained profits, bond and
+equity issues. And average risk-weighted capital ratios have risen to 13.6 percent,
+while the Tier 1 capital ratio has risen to 8.5 percent. As NPLs have declined lower
+provisioning needs have led to increased returns on equity and assets for most banks,
+although returns remain below pre-recession levels.
+Balance Sheet Indicators for Israel's Five Biggest Banks
+Bank Leumi
+Jun-10 Jun-09
+
+Bank Hapoalim
+Jun-10 Jun-09
+
+Discount Bank
+Jun-10 Jun-09
+
+Mizrahi Bank
+Jun-10 Jun-09
+
+First Int'l Bank
+Jun-10 Jun-09
+
+(Percent)
+Share of system assets
+
+29.8
+
+29.7
+
+27.9
+
+28.2
+
+17.2
+
+17.7
+
+11.4
+
+10.7
+
+9.2
+
+9.4
+
+Credits/assets
+Deposits/liabilities
+
+64.7
+82.7
+
+64.9
+84.7
+
+70.9
+78.9
+
+71.3
+80.7
+
+61.7
+78.7
+
+61.7
+79.4
+
+80.6
+86.0
+
+79.5
+86.2
+
+59.8
+85.1
+
+58.5
+84.9
+
+Credits/deposits
+Bonds & sub. notes/liabilities
+
+84.4
+8.8
+
+81.8
+7.7
+
+96.7
+7.9
+
+94.7
+7.8
+
+83.1
+6.8
+
+81.8
+5.5
+
+99.4
+6.8
+
+97.9
+7.1
+
+75.4
+5.0
+
+73.7
+5.3
+
+Equity/assets
+Equity/risk-weighted assets
+
+7.2
+14.8
+
+6.3
+12.9
+
+7.1
+13.6
+
+6.5
+12.8
+
+5.5
+12.5
+
+5.0
+11.5
+
+5.5
+13.9
+
+5.5
+12.2
+
+6.3
+12.9
+
+5.9
+14.0
+
+Return on equity
+
+11.5
+
+10.2
+
+9.5
+
+4.5
+
+6.0
+
+11.0
+
+12.3
+
+8.7
+
+7.0
+
+8.8
+
+Source: Bank of Israel.
+
+The non-bank financial sector, including insurance, pensions, and mutual funds, grew
+rapidly prior to the crisis, with its share of lending, through equity and bond markets,
+rising to nearly half of total financing of the corporate sector. As globally, the Israeli
+capital markets suffered major losses in 2008-09, and the corporate bond market
+temporarily seized up at the end of 2008 (Figure 4). Insurers and pensions experienced
+large losses. Since early 2009, bond and equity market prices have risen above precrisis levels, strongly boosting the performance of insurance and pension portfolios and
+solvency ratios. The volume of bond and equity market issuance, however, is well off
+pre-crisis levels, especially in the non-financial corporate sector.
+
+7
+Figure 2. Israel: External Indicators, 2001–10
+While trade has recovered in 2010,
+20
+
+market share has dropped
+
+Trade Volume Indices 1/
+(QoQ percent change)
+
+20
+
+0.80
+
+0.80
+
+Market Share in Goods Exports 2/
+(percent)
+
+15
+
+0.75
+
+10
+
+10
+
+0.70
+
+0.70
+
+5
+
+5
+
+0.65
+
+0.65
+
+0
+
+0
+
+0.60
+
+-5
+
+-5
+
+0.55
+
+15
+
+0.75
+
+0.60
+World
+Advanced economies
+
+0.55
+
+-10
+
+0.50
+
+-15
+
+Export volume
+
+-15
+
+0.45
+
+0.45
+
+-20
+
+Import Volume
+
+-10
+
+0.50
+
+-20
+
+0.40
+
+0.40
+
+-25
+
+-25
+
+0.35
+
+0.35
+
+-30
+2001
+
+-30
+
+0.30
+
+2002
+
+2004
+
+2005
+
+2007
+
+2008
+
+2010
+
+0.30
+2001
+
+as have the terms of trade
+4.75
+
+2005
+
+2007
+
+2009
+
+and the external surplus.
+
+Terms of Trade 3/
+(index in log)
+
+4.70
+
+2003
+
+4.75
+
+7
+
+4.70
+
+6
+
+4.65
+
+4.65
+
+4.60
+
+4.60
+
+4.55
+
+4.55
+
+4.50
+
+4.50
+
+Total
+Excl. ships, aircrafts & diamonds
+Excl. ships, aircrafts, diamonds & fuel
+
+7
+
+Current Account Balance 4/
+(percent of GDP)
+
+6
+
+5
+
+5
+
+4
+
+4
+
+3
+
+3
+
+2
+
+2
+
+1
+
+1
+
+4.45
+
+0
+
+0
+
+4.40
+
+4.40
+
+-1
+
+-1
+
+4.35
+
+4.35
+
+-2
+
+4.45
+
+2001
+
+2003
+
+2005
+
+2007
+
+2009
+
+-2
+2001
+
+Capital inflows continue
+14
+
+10
+
+14
+
+135
+
+12
+
+130
+
+10
+
+FDI
+Portfolio investment
+
+8
+
+2005
+
+2007
+
+2009
+
+to put upward pressures on the shekel.
+
+Financial Account 4/
+(percent of GDP)
+
+12
+
+2003
+
+8
+
+6
+
+6
+
+4
+
+4
+
+2
+
+Real Effective Exchange Rate 5/
+(2000=100, CPI-based)
+
+135
+130
+
+125
+
+125
+
+120
+
+120
+
+115
+
+115
+
+110
+
+110
+
+105
+
+105
+
+0
+
+2
+
+100
+
+100
+
+-2
+
+0
+
+95
+
+95
+
+-4
+
+-2
+
+90
+2001
+
+2001
+
+2003
+
+2005
+
+2007
+
+2009
+
+90
+2003
+
+Sources: Haver Analytics; INS; and IMF's Direction of Trade Statistics.
+1/ Includes goods and services; data as of 2010Q2.
+2/ Average f or January to July 2010.
+3/ Average f or 2010 Q1 and Q2.
+4/ Staf f projection f or 2010.
+5/ A decrease represents depreciation; data as of September 2010.
+
+2005
+
+2007
+
+2009
+
+8
+Figure 3. Israel: Selected Monetary and Financial Indicators
+Nominal policy rates have risen
+6
+
+with interbank conditions calm
+12
+
+Interest Rates 1/
+(Percent)
+
+5
+
+10
+
+4
+
+8
+
+3
+
+2.5
+Overnight
+3M
+6M
+Euro 3m OIS spread
+
+2.0
+1.5
+
+6
+
+2
+
+2.5
+
+2.0
+1.5
+
+1.0
+
+1.0
+
+0.5
+
+0.5
+
+4
+
+1
+
+2
+
+0
+
+0.0
+
+0
+
+-1
+
+Implicit interest rate 2/
+
+-2
+
+Policy rate
+
+-3
+2006
+
+2007
+
+2008
+
+2009
+
+-2
+
+-0.5
+
+-4
+
+-1.0
+Jan-08
+
+2010
+
+and stocks rebounding
+140
+130
+
+140
+
+Stock Market Indices
+(January 2007=100)
+
+130
+
+120
+
+120
+
+110
+
+110
+
+100
+
+100
+
+90
+
+90
+
+80
+
+80
+
+70
+
+70
+
+60
+50
+40
+2006
+
+Tel Aviv 100
+Tel Aviv Banks
+Tel Aviv Finance 15
+
+60
+
+2008
+
+8
+
+2009
+
+2010
+
+Jan-10
+
+Sep-10
+
+and credit to households remaining strong.
+12-month growth of credit from all creditors
+Households
+Firms
+
+20
+
+15
+
+10
+
+5
+
+5
+
+0
+
+0
+
+-5
+-5
+Jan-07 Jul-07 Jan-08 Jul-08 Jan-09 Jul-09 Jan-10 Jul-10
+
+Inflation
+(YoY growth)
+
+but is expected to remain elevated.
+7
+
+8
+
+6
+
+6
+
+4
+
+4
+
+2
+
+2
+
+0
+
+0
+
+-4
+
+May-09
+
+10
+
+10
+
+6
+
+-2
+
+-1.0
+Sep-08
+
+15
+
+Inflation is back in its target range
+10
+
+-0.5
+
+50
+40
+
+2007
+
+20
+
+0.0
+Difference between
+Interbank rate and
+Treasury bill 1/
+
+CPI
+CPI excl. housing
+Upper bound inflation target
+Lower bound inflation target
+
+-6
+2001 2002 2003 2004 2005 2006 2007 2008 2009 2010
+
+Inflation Expectations 1/
+
+5
+4
+
+1 year ahead
+3 years ahead
+Lower bound
+Upper bound
+
+7
+6
+5
+4
+
+3
+
+3
+
+2
+
+2
+
+1
+
+1
+
+-2
+
+0
+
+0
+
+-4
+
+-1
+
+-1
+
+-6
+
+-2
+2001 2002 2003 2004 2005 2006 2007 2008 2009 2010
+
+-2
+
+Sources: Bank of Israel; Bloomberg; DataInsight; and Haver Analytics.
+1/ Data as of November 2010.
+2/ Def ined by the Bank of Israel as policy rate minus inf lation expectations.
+
+9
+Figure 4. Financial Market Indicators
+Capital raised on Tel Aviv Stock Exchange by Private Sector
+10
+(billions of U$)
+
+9
+8
+7
+Corporate bonds
+
+6
+
+Equity
+
+5
+4
+3
+2
+1
+0
+
+07Q1 07Q2 07Q3 07Q4 08Q1 08Q2 08Q3 08Q4 09Q1 09Q2 09Q3 09Q4 10Q1 10Q2 10Q3
+
+140
+
+Financial indices
+1/1/2007 = 100
+
+120
+
+110
+100
+
+Financial indices as a share of main
+indices 1/
+
+90
+
+100
+
+80
+
+80
+
+70
+60
+
+60
+
+40
+
+Tel Aviv 100
+
+50
+
+20
+
+S&P 500
+
+40
+
+0
+1/1/07 9/1/07 5/1/08 1/1/09 9/1/09 5/1/10
+230
+210
+
+Exchange rates of Israel and other emerging
+market countries vs the U.S. dollar.
+
+190
+
+Hungary
+
+170
+
+Iceland
+Israel
+
+150
+
+Poland
+
+130
+
+Romania
+
+110
+
+Ukraine
+
+90
+70
+
+1/1/2007 = 100
+50
+1/1/07 9/1/07 5/1/08 1/1/09 9/1/09 5/1/10
+
+U.S.
+Israel
+U.K.
+Sweden
+
+France
+30
+1/1/07 9/1/07 5/1/08 1/1/09 9/1/09 5/1/10
+5
+4
+3
+
+(Percent)
+Spread of 3m Libor
+to 3m T-bill rates
+
+Israel
+US
+UK
+
+2
+1
+0
+-1
+1/1/07 9/1/07 5/1/08 1/1/09 9/1/09 5/1/10
+
+Sources: Bank of Israel; Bloomberg; and TASE.
+1/ Israel: Tel Aviv Banks / Tel Aviv 100. US: S&P Financials / S&P 500. UK: FTSE 300 Financials / FTSE 100.
+Sweden: OMX Nordic Banks / OMX Stockholm 30. France: ENEXT CAC Financials / CAC 40.
+
+10
+Policies were tightened promptly, once growth was again entrenched
+8.
+On the fiscal side, policy tightening largely reflects automatic stabilizers—a mirror
+image of the earlier loosening in 2008–09. With the budget set for two years (2009–10) and
+growth higher than budgeted in both, central government nominal revenue overperformed,
+especially in 2010. This occurred despite the earlier-than-anticipated reduction in the VAT
+to 16 percent from January 2010. Meanwhile, nominal spending was held well below budget
+in 2009 as may recur to some degree in 2010. This yielded a 0.8 and 1½ percentage point of
+GDP budget overperformance in 2009 and 2010 respectively (Text Table).
+Budget and Macroeconomic Outlook
+2008
+Outturn
+
+2009
+
+2010
+
+Budget Outturn
+
+Budget Jan-Sep 2/
+
+(Billions of NIS)
+Central Government 1/
+Revenue
+
+227
+
+215
+
+216
+
+227
+
+o/w Taxes
+
+183
+
+173
+
+178
+
+183
+
+167
+165
+
+Expenditure
+
+245
+
+259
+
+255
+
+270
+
+181
+
+o/w Defense
+
+52
+
+49
+
+52
+
+54
+
+45
+
+Budget balance
+
+-17
+
+-44
+
+-40
+
+-43
+
+-14
+
+(Percent of GDP)
+Central Government 1/
+Revenue
+
+31.3
+
+28.8
+
+28.1
+
+29.1
+
+20.3
+
+o/w Taxes
+
+25.2
+
+23.2
+
+23.2
+
+23.5
+
+20.0
+
+Expenditure
+
+33.7
+
+34.7
+
+33.2
+
+34.6
+
+21.9
+
+7.2
+
+6.6
+
+6.7
+
+6.9
+
+5.5
+
+-2.4
+
+-5.9
+
+-5.1
+
+-5.5
+
+-1.6
+
+o/w Defense
+Budget balance 2/
+General Government
+Overall balance
+
+-2.6
+
+…
+
+-5.5
+
+…
+
+…
+
+0.1
+
+…
+
+-0.8
+
+…
+
+…
+
+76.7
+
+…
+
+77.6
+
+…
+
+72.5
+
+Real GDP grow th (percent)
+
+4.3
+
+-1.0
+
+0.8
+
+1.5
+
+…
+
+Nominal GDP, NIS billion
+
+726
+
+746
+
+768
+
+780
+
+826
+
+Cyclically adjusted primary balance
+Gross public debt
+Memorandum items:
+
+Sources: Israeli authorities; and IMF staff estimates.
+1/ Data as per the national defintion, covers the budgetary sector and NII, excluding net credit.
+2/ The deficit ceiling rule is applied to Central government balances.
+
+9.
+The 2009–10 budget and its outturn also represented the first steps to establish the
+credibility of the framework of fiscal rules recently adopted targeting phased near-term
+deficit reduction and capping spending growth to support progress to medium-term public
+debt reduction. (See SEI II.)
+10.
+On the monetary policy side, Israel was the first central bank globally to commence
+its tightening cycle from September 2009, raising policy rates in 25 basis point steps from
+their floor of ½ percent to 2 percent by October 2010 (Figure 3). This stance was reinforced
+by adoption of a new Bank of Israel Law in 2010 formalizing its established inflation
+targeting practices (See SEI II). Nevertheless, the real interest rate continues to be negative,
+and the overall monetary stance remains expansionary, notwithstanding the appreciation of
+the shekel since mid-2008.
+
+11
+11.
+With an eye on house price developments, the BoI has tightened restrictions on
+housing sector financing. Penalties have been increased on lending in excess of
+the 20 percent indicative limit on the share of banks’ lending. Banks have also been required
+to review risks in their mortgage lending portfolios, and to raise loan-loss provisioning (by at
+least 75 basis points) for loans granted since April with loan-to-value (LTV) ratios above
+60 percent. This measure was reinforced from late October when the reserve requirement on
+such loans was raised further. While this only raises borrowing costs by some 50 basis
+points, 1/3 of new mortgages extended during 2010 exceed this LTV threshold. These
+measures are seen as “warning shots”—the Bank of Israel has stated publicly that if the
+housing market does not cool in response, further actions will be taken.
+12.
+But as growth resumed, so did calls for wage rises. While negotiations in the public
+sector were consensual and recently completed—envisaging rises of 6½ percent over three
+years, in line with targeted inflation—private sector wage growth has picked up.
+And global prospects weaken in 2011
+13.
+The WEO projects a temporary slowdown of growth in advanced economies in 2011
+towards 2 percent. But unlike output, growth in global trade is not projected to recover
+in 2012, falling to 6½ percent in 2011 and 2012. And with the real price of oil projected
+broadly unchanged from current levels, further steady declines in Israel’s terms of trade are
+projected after the significant gains in 2009.
+The WEO Outlook (annual growth rates)
+2010
+
+2011
+
+2012
+
+World GDP
+
+4.6
+
+4.3
+
+4.6
+
+Advanced Economies
+GDP
+
+2.6
+
+2.2
+
+2.6
+
+World
+
+10.2
+
+6.5
+
+6.7
+
+Advanced Economies
+
+8.4
+
+5.0
+
+5.2
+
+Good only excl. oil:
+Israel’s Partners
+
+12.2
+
+6.8
+
+6.6
+
+Oil price
+
+23.3
+
+3.3
+
+4.4
+
+Israel Export Prices
+
+13.2
+
+-2.1
+
+-1.5
+
+Israel Import Prices
+
+12.2
+
+0.0
+
+0.0
+
+Import Growth: Volume
+
+12
+14.
+Alongside, global uncertainties remain heightened. The WEO 90 percent confidence
+interval for global growth for 2011 ranges from 2–6 percent (with the 70 percent confidence
+interval ranging from 3–5 percent). As a small open economy, Israel is highly exposed.
+Using estimated elasticities of Israeli exports and output with respect to world growth, this
+implies a 90 percent confidence interval for Israeli output ranging from 2–5 percent.
+II. CORE DIAGNOSTIC ISSUES
+15.
+turn.
+
+With this background, five issues are core to policy design. These are considered in
+A. How Large is the Output Gap, and Will it Restrain Inflation?
+
+16.
+The output gap is likely close to zero, given that Israel was close to capacity in 2008,
+experienced a relatively mild and short passage through the great recession, but nevertheless
+also saw sharp falls in fixed investment. Numerical estimates based on the standard technical
+measures support this view (Box 2), with—until most recently—fast falling unemployment
+rates corroborating. And although headline inflation has fallen back into range, private
+nominal wage growth has picked up, “break-even” inflation forecasts have risen to the upper
+limit of the inflation target over the medium term. While the strong shekel has contained
+inflationary pressures so far, further tightening of policies is warranted.
+Box 2. The Output Gap
+
+Box 3. Inflation
+
+A Hodrick-Prescott filter with λ equal
+to 1600, on data for 1993Q1 to 2010
+Q3 suggests output above capacity in
+2007, and falling below capacity in
+2008-09. However, the gap appears
+to be falling rapidly, to below ½ of a
+percentage point of GDP at present.
+(Note, output was projected forward
+for 10 quarters prior to estimation to
+address end-point problems.)
+19
+
+Inflation in 2010 has fallen back into target
+range, despite the swiftly falling output gap
+and rising wage pressures. Shekel
+appreciation has been key to this. Standard
+modeling of quarterly CPI by staff—
+with the output gap, the NEER, and import
+prices as dependent variables—suggests that,
+absent the strong shekel since mid-year, the
+CPI would be 1 percentage point higher in
+Fall 2010 than the outturn—and therefore
+still above the target range.
+
+4
+
+19
+
+3
+
+6
+
+18
+2
+
+18
+
+1
+
+17
+17
+16
+16
+
+6
+(YoY percent change)
+
+0
+Real
+Potential
+Gap (RHS)
+
+15
+07Q1 07Q3 08Q1 08Q3 09Q1 09Q3 10Q1 10Q3
+
+5
+
+5
+
+4
+
+4
+
+3
+
+3
+
+2
+
+-1
+
+1
+
+-2
+
+0
+
+CPI
+CPI-Predicted
+CPI-Predicted minus Exchange Rate Effect
+
+2
+1
+0
+
+13
+B. Do House Prices Presage General Inflationary of Financial Stability Strains?
+17.
+House prices are up over 40 percent since the great recession began (Figure 5). The
+absence of a prior housing bubble, alongside long-standing supply constraints, restrictive
+planning regulations, global recession safe-haven inflows, low policy interest rates, and
+uninterrupted bank lending to households have conjoined to produce an uncomfortable echo
+of advanced countries in the early-to-mid 2000s. But, with the possible exception of
+Q2 2010, private consumption behavior seems largely unaffected by the boom—perhaps as it
+offsets other losses in asset portfolios. Moreover, in contrast to recent experience elsewhere,
+there is no evidence that the boom is related to a weakening of credit standards: mortgages
+are “full recourse;” almost all stay on the original creditors’ books (with none packaged into
+structured products), and headline delinquency rates remain low and have declined over the
+past year. Additionally, loan to values remain low, although this may be a reflection of the
+increase in house prices.
+18.
+Nonetheless, with affordability now stretched relative to historical norms, caution is
+appropriate; indeed, these developments in the housing market corroborate other signs that
+policies are accommodative.
+
+14
+Figure 5. Israel: House Prices
+Real prices have returned to previous peaks
+
+160
+
+160
+
+House Price Indices
+140
+
+140
+
+120
+
+120
+
+with affordability also streched
+
+14
+
+50
+45
+
+12
+40
+10
+
+100
+
+35
+
+100
+
+30
+
+8
+80
+
+80
+
+60
+
+60
+
+40
+
+40
+
+25
+6
+
+Real
+
+20
+
+Nominal
+
+0
+1973 1978 1983 1988 1993 1998 2003 2008
+but prices relative to rent show litte stress
+
+2.5
+
+20
+
+4
+
+Avg house price to Avg wage (in years,
+left scale)
+
+20
+
+2
+
+Avg house price to per capita GDP (in
+NIS, right scale)
+
+0
+
+0
+1973
+
+2.5
+
+3500
+
+15
+10
+5
+
+1978
+
+1983
+
+1988
+
+1993
+
+1998
+
+2003
+
+2008
+
+and a belated supply response is easing pressures.
+
+Price-Rent Ratio: Israel vs. Selected Regions in the
+US (January 1994 to July 2010, January 2000 = 1)
+
+0
+
+3500
+
+Residential Building Starts
+(Number of dwellings)
+
+2.0
+
+2.0
+
+3000
+
+3000
+
+1.5
+
+1.5
+
+2500
+
+2500
+
+1.0
+
+1.0
+
+2000
+
+2000
+
+0.5
+
+1500
+
+1500
+
+0.0
+
+1000
+2000
+
+ISRAEL
+Los-Angeles, CA
+Washington, DC
+New-York, NY
+San-Francisco, CA
+Miami, FL
+
+0.5
+
+0.0
+1994
+
+1997
+
+2000
+
+2003
+
+2006
+
+2009
+
+2002
+
+2004
+
+Sources: Bureau of Labor Statistics; Haver Analytics; and IMF staf f estimates.
+
+2006
+
+2008
+
+2010
+
+1000
+
+15
+C. Is the Shekel Competitive?
+19.
+While shekel appreciation has stemmed inflation thus far, the CPI-based real effective
+exchange rate is well above its trading range in the four years to end-2007 and the ratio of
+export prices to the GDP deflator is now well below ratios typical in those years (Figure 6).
+20.
+There is some—albeit not unqualified—evidence that the 2003–07 trading range is in
+the neighborhood of the equilibrium rate, or a little below it. Not only was this range
+established for a prolonged period, but at that time, there was no foreign exchange
+intervention by the BoI and the economy broadly in balance—securing steady growth and
+unemployment falling towards 5 percent, along with sustained low inflation. The current
+account was in surplus, but this reflects structural factors: a relatively low fixed investment
+ratio (20 percent of GDP in 2007, a boom year) in part due to enduring geopolitical risk; and
+high and rising private savings ratios, boosted by the commencement of a 30-year long
+phased switch from defined benefit to defined contribution pension schemes for new cohorts
+of labor market entrants, which began at the end of the millennium.
+21.
+Since then, the strong economic performance of Israel relative to core advanced
+counties may have raised the equilibrium rate somewhat—at least until the core recovers—
+with a further boost possible by recent discovery of significant offshore natural gas reserves.
+But quantifying the size and duration of the former remains uncertain, and the latter is
+attenuated the relatively modest size—perhaps 30 percent of GDP in NPV terms—of the
+discoveries relative to other natural resource exporters, and because the authorities intend to
+apply the proceeds to public debt reduction.
+22.
+Furthermore, formal CGER estimates of competitiveness remain dispersed, as they
+were a year ago. The Equilibrium Real Exchange Rate (ERER) measure, like the CPI-REER,
+suggests that the shekel is significantly on the strong side. But the macro balance and
+external stability estimates suggest that it is undervalued. Both latter measures may
+exaggerate competitiveness in Israel, notably as both reflect an assumption that the impact on
+savings rates of the continued phased pension reforms has ended, even though the phasing
+itself has many years to run.
+
+16
+Figure 6. Israel: Indicators of Competitiveness
+but CGER qualifies concerns
+
+The shekel is well above mid 2000's levels
+110
+
+110
+
+REER (2000=100)
+
+105
+
+Real Exchange Rate
+Fall 2010 CGER Assessment
+
+105
+CPI-based
+
+100
+
+100
+
+ULC-based
+95
+
+95
+
+90
+
+90
+
+85
+
+85
+
+80
+
+80
+
+75
+
+75
+
+70
+2001
+
+2005
+
+2007
+
+RER Valuation
+Conclusion
+
+MB
+ES
+ERER
+
+-10%
+-15%
+10%
+
+MB: Macro Balance
+ES: External Sustainability
+ERER: Reduced from Equilibrium RER
+
+70
+2003
+
+Approach
+
+2009
+
+despite recent falls in market share
+
+and some indacations of a fall in export prices.
+0.90
+
+140
+
+0.80
+
+130
+
+0.70
+
+120
+
+120
+
+0.60
+
+0.60
+
+110
+
+110
+
+0.50
+
+0.50
+
+100
+
+100
+
+0.40
+
+0.40
+
+90
+
+90
+
+0.30
+
+80
+2000
+
+0.90
+
+Market Share of Israel's Goods Exports 1/
+(Percent)
+
+0.80
+
+World
+Advanced economies
+
+0.70
+
+0.30
+1990
+
+1993 1996
+
+1999
+
+2002 2005
+
+2008
+
+Total Export Price Index over GDP Deflator
+(SA, 2000=100)
+
+140
+130
+
+80
+2002
+
+2004
+
+2006
+
+2008
+
+Sources: Global Data Source; Haver Analytics; IMF's Direction of Trade Statistics; and IMF staf f
+estimates.
+1/ 2010 is the average f rom January to July 2010.
+
+2010
+
+17
+23.
+In resolving the assessment of competitiveness in the face of these conflicting
+indicators, it is notable that broader macroeconomic signs of overvaluation in Israel are
+becoming evident. Israel’s export market share globally and in advanced countries fell in
+H1 2010, with outright export declines in Q3, falling FDI inflows, continued weakness in
+non-housing fixed investment all constituting cautionary signs, and even a small pickup in
+the unemployment rate in Q3 2010. Nevertheless, “noise” in the global economy may cloud
+interpretation of these indicators.
+24.
+Accordingly, in assessing overall competitiveness of the shekel, the ERER and direct
+price measures are emphasized relative to the MB and ES measures. On this basis, the shekel
+could be somewhat on the strong side (i.e., overvalued). While there are significant margins
+of uncertainty around that assessment, further significant and sustained appreciation beyond
+current rates would tilt the balance of this judgment decisively.
+D. Are Capital Inflows Set to Continue or Even Intensify?
+25.
+There is risk of significant and sustained exchange rate appreciation beyond current
+rates appears high, however. As discussed above, relatively strong Israeli economic
+performance has been reflected in the policy interest rate differential and strong portfolio
+inflows in 2010 (Figure 7). On WEO projections showing advanced country deceleration
+in 2011, the divergences in policy interest rates appear set to persist. So early relief from—let
+alone reversal of—these appreciation pressures is unlikely.
+26.
+Policy would thus best be predicated—in the central case—on addressing these
+inflows pressures as “enduring” rather than as “short-lived” phenomena. And they require a
+purposeful policy response to the extent that they have already eroded competitiveness and to
+the extent that they may yet do so.
+E. Are Sovereign Risks Significant?
+27.
+Israeli sovereign financing and CDS spreads remained firm during the global
+recession. Increases in headline debt ratios and contingent liabilities from the financial sector
+were limited, the maturity structure of debt is long, and economic growth and its outlook are
+strong. Fiscal risks are not imminent. But spreads spiked in the wake of Lehman and global
+post-crisis strains compound perennial Israeli geopolitical risks—so strengthened
+macroeconomic buffers would be helpful. These include further reductions in public debt
+(See SEI IV).
+28.
+In summary, inflation and housing pressures signal a need for policy tightening, while
+the nexus of competitiveness and capital flows issues underscore the premium on doing so
+without compounding upward pressures on the shekel. This, and the need to continue longrun public debt reduction, places fiscal adjustment at the heart of policy recommendations.
+
+18
+
+Figure 7. Israel: Outlook for Capital Flows
+Differential output gaps
+6
+
+and revisions to the medium -term outlook
+6
+
+Output gaps
+(percent of potential GDP)
+
+4
+
+8
+6
+
+4
+
+2
+
+2
+
+0
+
+0
+
+Israel
+
+-4
+
+-6
+
+United States
+
+-8
+
+-8
+2007
+
+2008
+
+2009
+
+4
+
+4
+
+2
+
+2
+0
+-2
+
+-4
+
+-4
+
+-6
+
+-6
+
+-8
+
+-8
+
+-10
+
+-10
+-12
+
+-12
+
+2010
+
+Euro area
+
+are reflected in policy rates
+6
+
+5
+
+4
+
+4
+
+3
+
+3
+Israel
+United States
+Euro Area
+
+2
+1
+0
+Jan-07
+
+2
+
+Jul-08
+
+8
+
+Apr-09
+
+Jan-10
+
+7
+
+Oct-10
+
+8
+7
+
+6
+
+6
+
+5
+
+5
+
+4
+
+4
+United States
+Euro Area
+Israel
+
+3
+
+3
+2
+
+1
+
+1
+
+0
+Jan-07
+
+alongside heavy intervention
+80
+
+Israel
+
+10 -year government bond yields
+(percent)
+
+2
+1
+0
+
+Oct-07
+
+United States
+long yield spreads
+
+6
+
+Policy rates
+(percent)
+
+5
+
+6
+
+0
+
+-4
+
+Euro Area
+
+-6
+
+8
+
+-2
+-2
+
+-2
+
+2015 GDP: Fall 2010 WEO/Spring 2007 WEO
+(percent change)
+
+0
+Oct-07
+
+Jul-08
+
+Apr-09
+
+Jan-10
+
+Oct-10
+
+and sustained capital inflows.
+16
+
+8
+
+14
+
+6
+
+12
+
+4
+
+4
+
+10
+
+2
+
+2
+
+40
+
+8
+
+0
+
+0
+
+30
+
+6
+
+-2
+
+International reserves
+
+70
+In bil. US$ (left scale)
+
+60
+
+In 2007 months of
+imports (right scale)
+
+50
+
+20
+
+4
+
+-4
+
+10
+
+2
+
+-6
+
+0
+Oct-10
+
+-8
+
+0
+Jan-07
+
+Oct-07
+
+Jul-08
+
+Apr-09
+
+Jan-10
+
+Financial account net flows
+(billions of USD)
+
+Resident
+Non-resident
+
+8
+6
+
+-2
+-4
+-6
+-8
+
+07Q1 07Q3 08Q1 08Q3 09Q1 09Q3 10Q1
+
+Sources: CEIC database; Data Insight; DataStream; WEO; and IMF staf f estimates.
+
+19
+III. MACROFINANCIAL POLICY SETTINGS—2011–12
+A. Central Case Macroeconomic Projections
+29.
+Staff central case projections, predicated on the WEO and the Israeli authorities’
+announced policy frameworks, reflect the assessments outlined above.
+30.
+In particular, in accord with the ceilings on the headline deficit under the new fiscal
+rule, the 2011–12 two-year budget anticipates a decline in the deficit from 4 percent of GDP
+in 2010 to 3 and 2 percent of GDP in 2011 and 2012 respectively. It assumes growth of 4
+percent in 2011 and 2012, with inflation on target. Alongside, further moderate monetary
+policy tightening is anticipated.
+31.
+In this light, with Israel’s growth momentum checked by international deceleration
+and domestic fiscal consolidation, staff projections show GDP growth of some 4 percent
+in 2010, falling back to 3½ percent in 2011 before recovering again in 2012 (see Text Table
+and Table 5). Inflationary pressures are expected to show up in 2011–12, although partially
+checked by continued shekel strength. Inflation is projected to decline back to the mid-point
+of the target range and capital inflows pressures are expected to ease thereafter. But until
+then, competitiveness and external performance are projected to suffer.
+Annual Projections
+
+Real GDP
+Domestic demand
+Private consumption
+Public consumption
+Gross capital formation
+Fixed capital formation
+Exports of goods and
+services
+Imports of goods and
+services
+Current account
+(percent of GDP)
+CPI
+Unemployment rate
+(percent)
+
+2010
+
+2011
+
+2012
+
+3.9
+3.7
+4.9
+2.2
+2.2
+8.2
+
+3.5
+3.7
+4.0
+2.1
+5.0
+6.5
+
+3.8
+3.6
+4.3
+0.9
+4.7
+6.0
+
+11.8
+
+2.4
+
+7.5
+
+10.6
+
+2.8
+
+7.1
+
+2.2
+2.6
+
+1.2
+3.0
+
+1.5
+2.5
+
+6.6
+
+5.5
+
+5.0
+
+20
+B. Fiscal Policy
+Fiscal consolidation is needed
+32.
+Given need for consolidation and to establish the credibility of the framework of
+fiscal rules, the authorities’ plans therefore mark an essential step in the right direction.
+33.
+The 2011–12 budget anticipates a 0.8 percentage point of GDP strengthening in the
+structural primary balance in 2011 and a further 0.6 percentage point strengthening in 2012.
+Furthermore, nominal revenues net of tax policy changes grow some 4 percentage points
+higher than nominal GDP. This allows expenditure to rise in accord with the new rule
+consistent with the corresponding path for deficit ceilings.
+34.
+On the tax side, income tax rates fall as anticipated.2 However, additional revenue
+efforts, such as postponing the earlier anticipated ½ a percentage point reduction in the VAT
+rate to 15½ percent from 2011 to 2013, and increasing energy and other excise taxes in 2011,
+will increase revenue. In 2012, additional energy tax increases will offset the impact of
+planned tax cuts. On the spending side, outlays grow at 2.66 percent for 2011–12, adjusted
+with the forecast average inflation rate, in line with the ceilings under the new expenditure
+rule (SEI IV). Within this, the budget secures a switch in outlays from defense to higher
+education.
+
+2
+
+This reform included tax policy changes in PIT and CIT as follows: In 2011, some PIT tax brackets will be
+widened but the tax rates are unchanged, while over 2012-2016 the reform includes a schedule of cuts in all PIT
+rates besides the two lowest - by 1 percent a year through 2012-2015 and by 2 percent to 39 percent in 2016.
+The reform also envisages a schedule of corporate income tax cuts – by 1 percent a year through 2011 – 2015
+and by 2 percent to 18 percent in 2016.
+
+21
+Budget and Macroeconomic Outlook
+2010
+Est.
+
+2011
+Budget
+
+Est.
+
+2012
+Budget
+
+Est.
+
+2015
+Est.
+
+(Billions of NIS)
+Central Government 1/
+Revenue
+o/w Taxes
+Expenditure
+o/w Defense
+Budget balance
+
+238
+197
+270
+54
+
+262
+215
+287
+54
+
+258
+213
+284
+54
+
+283
+234
+301
+56
+
+277
+229
+295
+56
+
+333
+277
+344
+66
+
+-32
+
+-25
+
+-26
+
+-18
+
+-19
+
+-11
+
+(Percent of GDP)
+Central Government 1/
+Revenue
+o/w Taxes
+Expenditure
+o/w Defense
+Budget balance 2/
+General Government
+Overall balance
+Cyclically adjusted primary balance
+Gross public debt
+Memorandum items:
+Nominal tax revenue grow th,net of tax changes
+Nominal GDP grow th (percent)
+Inflation (annual average)
+Real GDP grow th (percent)
+New real expenditure grow th rule (percent)
+Nominal GDP, NIS billion
+
+28.9
+23.8
+32.8
+6.5
+
+30.3
+24.9
+33.3
+6.3
+
+29.3
+24.2
+32.3
+6.1
+
+30.8
+25.5
+32.8
+6.1
+
+29.5
+24.5
+31.5
+5.9
+
+30.1
+25.0
+31.1
+5.9
+
+-3.9
+
+-2.9
+
+-3.0
+
+-2.0
+
+-2.0
+
+-1.0
+
+-4.1
+-0.6
+75.5
+
+…
+…
+…
+
+-3.2
+0.1
+72.8
+
+…
+…
+…
+
+-2.2
+0.7
+69.8
+
+-1.1
+…
+62.3
+
+8.1
+7.4
+2.6
+3.9
+
+8.7
+6.7
+…
+4
+2.7
+864
+
+8.0
+6.7
+3.0
+3.5
+2.7
+880
+
+9.0
+6.3
+2.0
+4
+2.7
+919
+
+7.8
+6.4
+2.5
+3.8
+2.7
+936
+
+6.8
+5.2
+1.7
+3.4
+2.8
+1109
+
+826
+
+Sources: Israeli authorities; and IMF staff estimates.
+1/ Data as per the national defintion, covers the budgetary sector and NII, excluding net credit.
+2/ The deficit ceiling rule is applied to Central government balances.
+
+But planned consolidation may be insufficient
+35.
+Even with the structural budget deficit set on a downward track, capital inflows and
+associated competitiveness concerns persist. The tools available to address those issues
+directly—including intervention, macroprudential instruments, and capital controls—have
+proven to have limited effectiveness and notable costs (see section B below). There is
+therefore a case for accelerating the planned consolidation to address these concerns. Counter
+concerns—that growth might falter and require continued fiscal support—are attenuated by
+scope for monetary relaxation in such a context—given Bank of Israel policy rates at 2
+percent (See SEI III). Accordingly, the planned structural consolidation would best be
+regarded as the minimum—with significant broader macroeconomic benefits to be accrued
+from going further and faster.
+
+22
+Additional consolidation can be accomplished without amending the budget
+36.
+As budget operation mechanisms and expenditure reserves allow considerable scope
+to hold spending below the allocations (as evident from the 2009–10 budget outturns), one
+option would be to operate the 2011–12 budget in this way. As this additional consolidation
+can be done via freezing reserves, it does not require amendment of the budget.
+Uncertainties in the revenue outlook may also require action
+37.
+The difficulties in fully accounting for outturns in 2009–10, notably in respect of
+corporation tax, give rise to associated uncertainties in the revenue projections for 2011–12.
+Accordingly, if during 2011 receipts appear to be falling below target, even with macro
+projections broadly on track or better than expected, corrective steps will be required at an
+early stage. With discretionary spending restraint already devoted to securing structural overperformance as discussed above, such revenue shortfalls would likely have to be addressed
+on the revenue side, with action on indirect taxes—in line with OECD recommendations-one of the options.
+And a full review of the taxation of non-renewable resources is warranted
+38.
+Given significant natural gas discoveries, a review of the current tax structure is
+appropriate at an early stage. The establishment by the Ministry of Finance of a commission
+to review the current tax arrangement is thus welcome. The commission’s general intention
+to raise the “tax take” from these activities to advanced country norms is fully appropriate.
+Reforms to adopt international best practice in this area, including appropriate pricing
+arrangements in the tax and securing appropriate intergenerational distribution of the
+proceeds are also encouraged. Accordingly, the first use of such tax receipts should be to
+reduce public debt, given that overall revenues will be modest on current estimates of the
+volume of gas. But if large additional finds are made, revenues should be placed in a
+sovereign wealth fund for intergenerational equity and to avert Dutch disease.
+C. Monetary and Exchange Rate Policies
+Monetary policy faces a dilemma
+39.
+With output recovering and the crisis passing more swiftly than anticipated, the BoI
+correctly acted early, beginning the withdrawal of stimulus.
+40.
+And the cessation of preprogrammed forex intervention began the process back
+towards the BoI’s eventual aim to return to a freely floating exchange rate regime—in which
+intervention occurs only in the most exceptional circumstances to address market disorder, as
+in the decade up to 2008. In the meantime, intervention continues and Israel’s exchange rate
+regime remains classified as “floating.” These steps were reinforced by the adoption of a new
+Bank of Israel Law. (See SEI II.)
+
+23
+41.
+But unemployment is close to historical lows, core inflation is at the upper end of the
+target range, and inflation expectations—even out as long as 5 years—have risen from the
+center of the target range to the top. Markets are currently factoring an increase in the policy
+rate by 75–100 basis points over the coming year, which would bring real interest rates just
+into a positive range. But even in that context, inflation expectations remain well above the
+middle of the target range through the medium-term.
+42.
+Further tightening is needed. Delays would risk a further acceleration of inflation to
+the top, or even above the target range, and associated need for subsequent disinflation.
+Various policy instruments could help resolve the dilemma
+43.
+The first best option would be through additional fiscal consolidation—as noted
+above. But recognizing that additional fiscal effort—even within the existing two-year
+budget parameters—is challenging, consideration could also be given, in principle, to use of
+other instruments to address these dilemmas—intervention; macroprudential instruments, and
+various forms of capital controls. In Israel’s context, however, each has some drawbacks:
+Intervention—but it would be one-sided, and might need to be large.
+44.
+Given the small size of the market, there is some evidence of effectiveness and
+market commentary routinely points to the scale of action the authorities’ have undertaken.3
+But scope for further intervention is qualified by the high level of reserves (US$ 65 billion,
+15 months of 2007 imports) and by the associated BoI losses.
+45.
+And sustained one-sided intervention carries risks. In particular, it may come to be
+seen by markets as qualifying the authorities’ commitment to allow the exchange rate to
+broadly track its fundamentals. This risk arises even if intervention is aimed to respond to
+sustained capital inflows arising from the “temporary” growth differential between Israel and
+core advanced countries.
+46.
+This conundrum is further grounds for addressing the issue with fiscal policy. But
+absent that additional support, intervention should more clearly remain focused on addressing
+disorderly conditions, rather than becoming central to resolving dilemmas in responding to
+capital inflows, competitiveness and inflation concerns, even if this means allowing the
+exchange rate to appreciate.
+Macro prudential instruments—but not as the centerpiece of policy restraint
+47.
+Banks are already subject to reserve requirements and to the high LTV additional
+requirements for mortgage lending, both of which could be raised further if needed.
+3
+
+BoI research finds a consistent “unexplained residual” in exchange rate equations during the period of
+preprogrammed intervention
+
+24
+Furthermore, the BoI is also responsible for consumer protection arrangements in the
+banking system. But given the advanced stage of the cycle, there may be a role for
+accelerated and anti-cyclical progress to raise bank capital standards towards goals under
+Basle III (See below). However, such instruments cannot bear the full burden of policy
+restraint, but they could support conventional fiscal and monetary instruments to that end.
+Capital controls—but effectiveness is uncertain
+48. Controls on particular kinds of inflows could in principle play a role if the affected
+flows are large and have low substitutability with other kinds of flows. But efforts to satisfy
+this requirement internationally have typically run aground when the inflows were large and
+enduring and Israel has little recent experience with controls, which on earlier occasions
+focused on curbing outflows rather than inflows. The signaling effects of such a step could
+also be problematic.
+49. Given downsides to each of these alternative means of reconciling inflationary and
+competitiveness concerns, additional fiscal effort remains the option of choice.
+D.
+
+Financial Stability
+
+Banks proved resilient to global downturn, and have strengthened further
+50.
+Financial stability indicators suggest that the resilience of the banking system has
+increased over the past year. Capital adequacy ratios, notably including Tier 1 capital relative
+to risk-weighted assets, have risen for most banks, while impaired and non-performing loan
+ratios have declined. Indicators of credit risk also appear strong; although household
+leveraging has increased somewhat in recent years, the overall level is low, and mortgage
+loan-to-value ratios are also low by international standards. Banks maintain highly liquidity,
+and interbank and direct exchange rate risk exposures are small.
+Non-banks have also strengthened, but concerns remain
+51.
+In the non-bank financial sector, solvency ratios are now comfortably above pre-crisis
+levels, and the evidence points to conservative portfolio allocations.
+52.
+The performance of non-bank financial institutions is closely tied to that of the
+domestic capital markets which are, in turn, highly sensitive to external capital market
+developments. This represents an important source of vulnerability. In addition, there are
+lingering concerns with the quality of some corporate credit. The corporate sector is heavily
+dependent on bond financing, reflected in the high ratio of domestic bond issues to GDP
+(currently over 25 percent of GDP), so that if a problem did emerge with one of the country’s
+large conglomerates, the impact on institutional investor portfolios could be substantial.
+
+25
+Banks are well-positioned ahead of regulatory reform--Basle III
+53.
+The Israeli banking system should be well-positioned to cope with the introduction of
+higher capital requirements under Basel III. Regulatory and Tier 1 capital levels are already
+high (Box 1) and in June 2010 the BoI issued draft guidelines to banks to achieve targets for
+core capital of at least 7.5 percent by the end of the year.
+54.
+The adoption of higher capital requirements will tend to have a countercyclical
+macroeconomic impact. In the current macroeconomic context, this could usefully
+complement initiatives to restrain demand, especially as it would tend to dampen upward
+pressure on the shekel exchange rate. However, it is not clear how large an effect the
+adoption of higher capital requirements will have, partly because it is difficult to judge how
+large banks’ desired capital buffers are, or how they will be affected by adoption of higher
+capital requirements.
+But financial sector supervision needs to be strengthened and better coordinated
+55.
+Effective use of macroprudential tools will require the BoI to strengthen its
+monitoring and analysis of financial vulnerabilities and transmission mechanisms. On the
+monetary policy side, this will involve deeper analysis of financial aggregates, and closer
+monitoring of financial market developments. On the financial stability side, stress testing
+methods are being developed, but there is far to go.
+56.
+In particular, stress tests need to draw on more detailed, bank by bank data, as well as
+making full use of information on corporate and household balance sheet data. Testing
+should also be undertaken in collaboration with CMISD in order to capture cross-sectoral
+linkages and vulnerabilities, and in collaboration with the main banks. They also need to be
+closely linked to the macroeconomic forecasting framework in order to assess the dynamic
+impact on financial stability of prospective macroeconomic developments or risks. Such
+analysis needs to be fed into decision making on the use of macroprudential tools as well as
+micro-prudential supervision, and BoI should begin publication of a Financial Stability
+Report on a regular basis to complement the Monetary Policy Report.
+57.
+The BoI needs to be able to maintain adequate numbers of well-qualified staff in
+order to develop the above capabilities. There is also a need to set up or modify decisionmaking arrangements in the BoI to ensure that decisions on macro-prudential policy are as
+well-informed, systematic and accountable as in the monetary policy arena.
+58.
+The adequacy of resources, capabilities, autonomy and accountability of the non-bank
+financial supervisors—the Israeli Securities Authority (ISA) and the Capital Markets,
+Insurance and Savings Division (CMISD) of the Ministry of Finance—should also be
+comprehensively reviewed. A series of recent Article IV consultations have recommended
+that the CMISD be shifted out of the MoF in order to better address the resource and
+accountability issues, as well as to minimize potential conflicts of interest arising from
+having the regulator within the MoF. In particular, there appears to be need to separate the
+
+26
+roles of “supervisor” from that of “promoter of the sector.” This does not mean that the
+CMISD should necessarily gravitate toward the BoI; that is only one option, and in most
+OECD countries, the pension and insurance regulators are housed outside the central bank,
+either in a fully independent position, or as part of a unified, but independent financial
+services authority.
+59.
+Finally, institutional arrangements need to be put in place to coordinate a
+comprehensive approach by the three supervisory agencies on financial stability issues and
+the use of macro-prudential instruments. The financial stability councils being put in place in
+Europe and the United States offer possible templates for Israel, but it will be essential to
+tailor any model to the specifics of Israel’s institutional arrangements, as well as the
+characteristics of its financial system.
+IV. VIEWS OF THE AUTHORITIES
+60.
+The authorities agreed with the overall assessment of economic developments and
+the nature of the policy dilemmas, including concern with the housing market. They also
+agreed that further withdrawal of stimulus is needed, noting that this is planned by fiscal
+consolidation according to the deficit reduction law on the fiscal side and anticipated on the
+monetary side. And they agreed that this process should pose as little risk to competitiveness
+as possible. They welcomed staff endorsement of the intention to move the taxation of
+natural gas towards international norms, and of the role of macroprudential instruments in
+policy on the housing market. Within that overall agreement, however, some significant
+differences of emphasis were noted.
+Macroeconomic developments 2010–11
+61.
+The authorities’ central view is that the shekel is a little overvalued. But the policy
+dilemmas arising are similar to those of staff because the authorities emphasize overvaluation
+risk “at the margin.” In particular, with policy interest rate differentials with the United States
+already at some 2 percentage points, further tightening of monetary policy is thought likely to
+induce further short-term capital inflows which will, in turn, contribute to overvaluation
+unless offsetting actions are taken.
+62.
+Similarly, in regard to housing, the monetary authorities were a little more confident
+than staff that house prices are not excessively detached from fundamentals, with their
+concerns focused on the strength of the upward momentum. In some contrast, the fiscal
+authorities considered that house prices had already peaked, and may even have begun to fall
+a little. But both agreed with staff that further measures to ensure that a bubble did not
+emerge in this market were needed, with both supply and demand side measures appropriate.
+Fiscal Policy
+63.
+The fiscal authorities acknowledge the dilemmas posed by continued capital inflows
+and the role that fiscal policy can play in response. But they remain committed to the path of
+
+27
+budget consolidation that they have set out. They emphasize the priority they attach to
+adherence to their framework of rules, with even adjustments which would secure a strong
+performance relative to those rules possibly raising doubts about the framework. And they
+noted that a further tightening might be inappropriate given risk of global weakness.
+64.
+These considerations are compounded by constraints on the expenditure and taxation
+sides. They emphasize the relatively low level of public expenditure of GDP—especially
+excluding security-related outlays—compared with the OECD, even allowing for the shift
+from security to higher education outlays that was achieved in the 2011–12 budget. Even
+committing to withhold the expenditure reserves could be difficult if the contingencies that
+they are intended to anticipate are realized. And as tax revenue reductions are a cornerstone
+policy objective of the administration—already compromised in the delay to VAT reduction
+and in excise rate rises—room for maneuver on this side is also limited.
+65.
+They acknowledge, however, that revenue projections are in some doubt due to the
+imperfectly understood path of receipts during the recession and will keep this under close
+review and stand ready to act if shortfalls emerge.
+Monetary Policy and Intervention Policy
+66.
+The authorities acknowledge the concerns about inflation prospects that are reflected
+in medium-term inflation expectations rising to the top of the target band. But they note that
+this indicator does not correct for the risk premium, and they are leery of tightening on the
+basis of an unduly uncertain estimate of the NAIRU. While unemployment is low, structural
+changes in the labor market may mean that the NAIRU is lower still, and longstanding low
+participation and employment rates point to a reservoir of unused resources in the economy.
+67.
+Discretionary foreign exchange rate intervention also retains a significant role. With
+capital flows exhibiting irrational behavior even in “normal” times, the inflows since 2008
+include a significant element that is unrelated to “fundamentals.” As the foreign exchange
+market is relatively small, intervention—both preprogrammed and discretionary—has proven
+effective not only at curtailing daily noise, but also at attenuating trends. In this context,
+intervention should be symmetric but only over a fairly long time horizon. This is reflected in
+the decision to operate a managed float under which the shekel has moved considerably in
+both nominal and real effective terms—which underscores the commitment to the float.
+68.
+Furthermore, even with monetary policy ready and able to adjust rapidly to
+realization of global risks, there is concern not to tighten more aggressively now given
+competitiveness concerns “at the margin” and given the risk of adverse global outcomes—
+even though these risks have receded in recent months.
+69.
+Capital controls are a “never-say-never” option. But reservations about their
+effectiveness and signaling mean they are not regarded as an immediate alternative at this
+stage.
+
+28
+Supervision of non-banks
+70.
+The optimal location and structure of non-bank supervisors—and of all supervisors—
+remains under review by the authorities. The fiscal authorities emphasize the benefits to the
+dynamism and reform of the non-bank sector of the housing of the regulators in the Ministry,
+the strong information flows to the fiscal authority that is possible thereby, and the
+strengthening of resources that has been achieved in the past year. The monetary authorities
+see a general case to unify all risk supervision within the central bank, with all supervisors
+maintaining close coordination with the fiscal authorities from there. But neither see a case
+for early action, noting that debate on this matter should not distract attention from the broad
+range of supervisory initiatives that are under way. These issues might usefully constitute
+one element for discussion in the requested FSAP.
+V. SUMMARY AND STAFF APPRAISAL
+71.
+Israel was well prepared for the global recession, and responded decisively to it.
+Low leverage and strong policy frameworks underpinned good preparations; while sharp cuts
+in policy interest rates to ½ a percent led the policy response, supported by pre-programmed
+foreign exchange intervention, accommodation of large automatic stabilizers, and steps to
+contain financial sector stress. Alongside, policy frameworks were strengthened—a new
+Bank of Israel Law, increased bank capital requirements, entry into the OECD, and
+underpinning all these, a new fiscal rule targeting debt reduction. In addition, an innovative
+“two-year” budget framework was initiated, which helped stabilize expectations further.
+72.
+As a result, growth remained positive throughout. It was just under 1 percent
+in 2009, and is set to grow around 4 percent in 2010. And unemployment is already back
+down to around 6 percent, close to its historic low.
+73.
+With growth, withdrawal of policy stimulus has begun. The BoI policy rate has
+been raised, forex intervention has been reduced and is now discretionary, and stabilizers
+have put the headline fiscal deficit back on a downward track. Nevertheless, with real
+interest rates negative and the budget in structural deficit, the overall policy stance remains
+expansionary.
+74.
+But strains have emerged. Buoyed by global capital movements, the shekel
+appreciated by some 15 percent in real terms relative to pre-crisis levels, and is still rising.
+While this has helped to contain inflation, inflation expectations across the medium term
+have risen to the top of the target band, in the context of an output gap that has all but closed.
+And nominal house prices have risen over 40 percent in two years.
+75.
+Monetary policy faces a difficult choice between addressing these strains and
+sustaining competitiveness. Rising inflation would suggest a need to raise rates. Capital
+inflows and strengthening shekel, eroding competitiveness, would argue otherwise. This
+dilemma can only be resolved by harnessing another policy instrument.
+
+29
+76.
+Accordingly, the authorities rightly plan fiscal consolidation. Headline deficit
+reductions to 3 and 2 percent of GDP in 2011 and 2012 respectively imply structural
+consolidation of some 1½ percentage points of GDP over those two years. Alongside, further
+increases in the BoI policy rate of 75–100 basis points are anticipated during 2011. In this
+context, growth is projected to slow to 3½ percent in 2011 before rising again in 2012.
+77.
+But given sustained capital inflows, the announced fiscal trajectory still leaves
+monetary policy with too stark a choice between addressing inflation concerns and
+sustaining competitiveness.
+78.
+Accordingly, fiscal deficit reduction may need to be more rapid than planned. A
+strengthening of the planned fiscal stance for 2011 and beyond—by some 1 percentage point
+of GDP in structural terms—is recommended. This action would dampen demand growth,
+lowering inflation pressures, thereby allowing a slower rise in BoI rates than would otherwise
+be needed. In turn, this would ease upward pressure on the shekel.
+79.
+A mix of expenditure and tax actions could be used to achieve this objective.
+The latitude under the budget operation mechanisms to hold spending below budgeted
+authorizations—including by retention of all the various reserves in the budget—should be
+applied. This action avoids need to change the approved budget. But if this greater-thanplanned structural consolidation is to be secured, risks on the revenue side—arising from
+generous official estimates—may also need to be addressed. With discretionary spending
+restraint already assigned to strengthen the deficit, indirect taxes may need to be raised in line
+with OECD recommendations.
+80.
+On the monetary side, with output and employment buoyant and inflation
+expectations high, further progress towards a neutral stance is needed. If fiscal policy is
+tightened as recommended, policy rates could rise broadly as is now anticipated. But if not, a
+faster than anticipated rise in policy rates will be needed—albeit at the expense of
+competitiveness—to head off risk of higher inflation and the need to correct that later. But
+given nominal policy rates already well above the lower bound, monetary policy can also
+play a key role in responding to global uncertainty. Policymakers should remain ready to act
+decisively—swiftly raising policy rates if upside global risks materialize, and vice versa.
+81.
+With the balance of core policies adjusted in this way to address immediate
+strains, other policy instruments could also play a supportive role. Further foreign
+exchange intervention on both sides could help to sustain orderly market conditions. But
+given that reserves and central bank sterilization losses are already considerable, and that
+persistent one-sided use of this instrument undermines the credibility of the floating
+exchange rate regime, it is ill-suited as the main means of reconciling inflation and
+competitiveness objectives. Likewise, capital controls could be considered after other policy
+options have been fully deployed. But any use of them would have to be focused in ensuring
+effectiveness in the face of sustained pressures. And accelerated progress towards the
+
+30
+eventual Basle III capital requirements for banks, especially if coupled with countercyclical
+buffers, could support restraint.
+82.
+With supervision and regulation being strengthened in various ways, the
+available indicators of financial stability are reassuring—but limited in scope. Capital
+adequacy and impaired loans have improved and non-bank financial institutions have
+advanced similarly. But with stress testing still focused at sub-sector level and in its early
+stages, and a number of indicators of risk not available, caution is warranted. Though perhaps
+masked by the cycle, credit quality in the corporate bond market remains a lingering concern
+following its rapid expansion since 2004, as does the latent threat to banking stability if rapid
+house price inflation continues.
+83.
+Accordingly, further progress is needed to strengthen diagnosis and
+management of risks. Stress testing procedures should give added focus to systemic risk
+assessed over longer horizons. Diagnosis and formulation of the appropriate policy
+responses requires full collaboration between and within supervisory institutions, as well as
+routine guidance from and feedback to all the authorities responsible for stability, including
+the BoI and the MoF. Such steps should proceed promptly, to be reviewed in the requested
+FSAP. And in line with typical OECD practice, non-bank supervision would best be moved
+out of the MoF. This would establish its independence and address resource constraints.
+There are a number of good options for where it should go—including the option chosen by
+about half of OECD countries of full independence.
+84.
+Continued structural reform remains essential. This includes progress in
+education, research, the business environment, and infrastructure.
+85.
+Staff recommends that Israel should remain on the standard 12–month consultation
+cycle.
+
+31
+Table 1. Israel: Selected Economic and Social Indicators, 2007–11
+(Percent change, unless otherwise indicated)
+2007
+
+2008
+
+Real economy
+Domestic demand
+Real GDP
+Private consumption
+Public consumption
+Gross capital formation
+Unemployment rate (percent)
+Overall CPI (end-of-period)
+
+6.4
+5.3
+6.3
+3.1
+11.3
+7.3
+3.4
+
+2.8
+4.2
+3.0
+2.6
+2.4
+6.1
+3.8
+
+-0.2
+0.8
+1.7
+2.5
+-8.9
+7.7
+4.0
+
+3.7
+3.9
+4.9
+2.2
+2.2
+6.6
+2.2
+
+3.7
+3.5
+4.0
+2.1
+5.0
+5.5
+2.7
+
+Money and credit (period average)
+Narrow money (M1)
+Broad money (M3)
+
+15.3
+12.9
+
+14.1
+8.0
+
+50.9
+14.1
+
+…
+…
+
+…
+…
+
+3.9
+
+3.7
+
+0.8
+
+2.0
+
+…
+
+Public finance (percent of GDP)
+Central government revenue
+Central government expenditure
+Central government balance
+General government balance
+General government debt
+Of which: foreign currency external debt
+
+33.8
+34.1
+-0.3
+-0.4
+77.7
+19.0
+
+31.3
+33.7
+-2.4
+-2.6
+76.7
+13.9
+
+28.1
+33.2
+-5.1
+-5.5
+77.6
+14.4
+
+28.9
+32.8
+-3.9
+-4.1
+75.5
+14.7
+
+29.3
+32.3
+-3.0
+-3.2
+72.8
+14.1
+
+Balance of payments (percent of GDP, unless otherwise noted)
+Exports of goods and services
+Real growth rate (percent)
+Imports of goods and services
+Real growth rate (percent)
+Trade balance
+Oil Imports (billions of U.S. dollars)
+Current account
+Foreign reserves (end period, billions of U.S. dollars)
+
+42.5
+9.3
+43.8
+11.9
+-1.3
+8.9
+2.9
+28.6
+
+40.3
+5.9
+41.7
+2.4
+-1.4
+12.8
+0.8
+42.5
+
+34.7
+-12.5
+32.3
+-14.1
+2.4
+8.1
+3.9
+60.6
+
+35.0
+11.8
+33.9
+10.6
+1.1
+10.7
+2.2
+67.3
+
+33.6
+2.4
+34.3
+2.8
+-0.6
+12.6
+1.2
+74.0
+
+Interest rates (average, percent)
+Bank of Israel policy rate 2/
+
+Exchange rate
+Exchange rate regime
+Present rate per U.S. dollar (December 7, 2010)
+NEER annual percent change (period average) 3/
+REER annual percent change (period average) 3/
+
+3.4
+1.0
+
+11.1
+11.4
+
+2009 2010 1/ 2011 1/
+
+Floating
+3.62
+-4.6
+3.6
+-1.8
+3.6
+
+...
+...
+
+Social Indicators
+GDP per capita (current U.S. dollars, 2008): 27,904; Life expectancy at birth (2008): 79.1 (male) and 83.0
+(female); Infant mortality rate (2008): 3.6 per 1,000 births; Physicians (2008): 3.6 per 1,000 people;
+Automobile ownership (2003): 284 per thousand; CO2 emissions (tons per capita, 2006): 10.0; Population
+density (2008): 337.7 inhabitants per square kilometer; Poverty rate (2008): 19.9 percent 4/.
+Sources: Bank of Israel, Annual Report ; Central Bureau of Statistics; IMF, World Economic Outlook ;
+World Bank, World Development Indicators; and IMF staff estimates and projections.
+1/
+2/
+3/
+4/
+
+IMF staff estimates and projections.
+As of November 2010.
+Year-on-year percentage change, as of October 2010.
+Poverty rate from National Insurance Institute of Israel.
+
+32
+Table 2. Israel: Balance of Payments, 2006–15
+(Billions of U.S. dollars)
+2006
+
+2007
+
+2008
+
+7.4
+
+4.9
+
+1.6
+
+7.6
+
+4.9
+
+2.8
+
+3.8
+
+4.6
+
+5.4
+
+6.5
+
+Merchandise
+Exports, f.o.b.
+Imports, f.o.b.
+Civilian imports
+Military imports
+
+-3.8
+43.3
+47.2
+44.7
+2.5
+
+-5.7
+50.3
+56.0
+53.6
+2.4
+
+-7.2
+57.2
+64.4
+61.9
+2.5
+
+-0.1
+45.9
+46.0
+44.1
+1.9
+
+-3.9
+51.4
+55.3
+53.4
+1.9
+
+-7.9
+52.4
+60.3
+58.4
+1.9
+
+-8.7
+55.5
+64.2
+62.3
+1.9
+
+-9.4
+59.4
+68.8
+66.9
+1.9
+
+-10.5
+63.4
+73.9
+72.0
+1.9
+
+-11.6
+67.4
+79.0
+77.1
+1.9
+
+Services
+Exports
+Imports
+
+4.6
+19.2
+14.7
+
+3.6
+21.1
+17.6
+
+4.4
+24.3
+19.9
+
+4.8
+22.0
+17.1
+
+6.3
+24.9
+18.6
+
+6.5
+25.7
+19.2
+
+7.5
+28.0
+20.5
+
+8.6
+30.5
+21.9
+
+9.8
+33.2
+23.4
+
+11.1
+36.2
+25.1
+
+Factor Income
+Receipts
+Payments
+
+-0.7
+8.4
+9.2
+
+-0.2
+10.9
+11.1
+
+-4.1
+7.3
+11.3
+
+-4.6
+5.7
+10.3
+
+-6.0
+6.0
+12.0
+
+-3.8
+7.0
+10.8
+
+-3.0
+8.0
+11.0
+
+-2.5
+9.0
+11.5
+
+-1.9
+10.0
+11.9
+
+-0.9
+11.0
+11.9
+
+7.4
+4.4
+3.0
+
+7.3
+3.9
+3.4
+
+8.5
+4.4
+4.1
+
+7.4
+3.7
+3.7
+
+8.5
+4.0
+4.5
+
+8.0
+4.0
+4.0
+
+8.0
+4.0
+4.0
+
+8.0
+4.0
+4.0
+
+8.0
+4.0
+4.0
+
+8.0
+4.0
+4.0
+
+Capital and financial account balance 2/
+Capital account
+Financial account 2/
+Direct investment, net
+Foreign direct investment (in Israel)
+Portfolio investment, net
+Other investment
+Change in reserves 3/
+
+-6.0
+0.8
+-6.8
+-0.2
+15.3
+1.1
+-7.7
+-0.2
+
+-6.1
+0.8
+-6.9
+0.2
+8.8
+-2.2
+-4.9
+1.7
+
+12.9
+1.1
+11.8
+3.7
+10.9
+-1.0
+9.1
+-14.2
+
+6.6
+0.9
+5.7
+2.7
+3.9
+-5.2
+8.2
+-16.6
+
+1.8
+0.9
+0.9
+-3.2
+0.8
+0.1
+4.0
+-6.7
+
+3.9
+0.9
+3.0
+-3.1
+0.9
+2.1
+4.0
+-6.7
+
+2.9
+0.9
+2.0
+-1.5
+1.5
+-0.5
+4.0
+-6.7
+
+-4.6
+0.9
+-5.5
+-1.5
+1.5
+-4.8
+0.8
+0.0
+
+-5.4
+0.9
+-6.3
+-1.5
+1.5
+-4.9
+0.1
+0.0
+
+-6.5
+0.9
+-7.4
+-1.5
+1.5
+-6.0
+0.1
+0.0
+
+Errors and omissions
+
+-1.2
+
+-0.5
+
+-0.3
+
+2.5
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+Memorandum items (percent of GDP, unless otherwise indicated):
+Current account balance
+5.1
+2.9
+0.8
+Gross external debt
+59.7
+53.9
+43.2
+GDP (billions of U.S. dollars)
+146.2 168.0 202.3
+
+3.9
+47.1
+195.4
+
+2.2
+45.1
+218.0
+
+1.2
+45.8
+232.0
+
+1.5
+45.3
+245.5
+
+1.8
+42.9
+258.8
+
+2.0
+40.6
+273.1
+
+2.3
+38.5
+287.9
+
+Current account balance
+
+Net transfers
+Public
+Private
+
+Sources: Central Bureau of Statistics, Monthly Bulletin of Statistics.
+1/ IMF staff estimates and projections.
+2/ Excludes reserve assets.
+3/ Negative (positive) sign denotes increase (decrease) in reserves.
+
+2009 2010 1/ 2011 1/ 2012 1/ 2013 1/ 2014 1/ 2015 1/
+
+33
+Table 3. Israel: Financial Soundness Indicators, 2003–mid-10 1/
+(Percent)
+
+Core Set
+Deposit Takers
+Regulatory capital to risk-weighted assets
+Regulatory Tier 1 capital to risk-weighted assets
+Nonperforming loans net of provisions to capital
+Nonperforming loans to total gross loans
+Sectoral distribution of loans to total loans
+Other financial corporations (OFCs)
+General government
+Nonfinancial corporations (NFCs)
+Other domestic sectors
+Nonresidents
+Return on assets
+Return on equity
+Interest margin to gross income
+Noninterest expenses to gross income
+Net open position in foreign exchange to capital
+Encouraged Set
+Deposit Takers
+Capital to assets
+Gross asset position in financial derivatives to capital
+Gross liability position in financial derivatives to capital
+Trading income to total income
+Personnel expenses to noninterest expenses
+Spread between reference lending and deposit rates (basis points)
+Customer deposits to total (non interbank) loans
+Foreign-currency-denominated loans to total loans
+Foreign-currency-denominated liabilities to total liabilities
+Net open position in equities to capital
+Other Financial Corporations (OFCs)
+OFCs' assets to total financial system assets
+OFCs' assets to Gross Domestic Product (GDP)
+Nonfinancial Corporations
+Total debt to equity
+Return on equity
+Earnings to interest and principal expenses
+Households
+Household debt to GDP
+Market Liquidity
+Average bid-ask spread in the
+securities markets (percentage of mid-point price)
+Average daily turnover ratio in the securities markets
+Real Estate Markets
+Residential real estate prices (annual percentage increase)
+Residential real estate loans to total loans
+Commercial real estate loans to total loans
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+Jun.
+
+10.3
+6.9
+33.3
+2.6
+
+10.8
+7.3
+31.0
+2.5
+
+10.7
+7.1
+27.2
+2.3
+
+10.8
+7.4
+21.2
+1.9
+
+11.0
+7.6
+15.8
+1.4
+
+11.1
+7.5
+17.7
+1.4
+
+13.7
+8.5
+14.7
+1.4
+
+13.6
+8.5
+13.2
+1.3
+
+7.2
+3.3
+48.1
+26.0
+15.4
+0.4
+7.9
+64.1
+60.2
+2.1
+
+7.9
+2.7
+44.7
+28.4
+16.2
+0.6
+12.0
+63.1
+59.7
+4.1
+
+8.7
+2.5
+43.4
+28.5
+16.9
+0.8
+14.0
+62.6
+61.7
+-0.5
+
+8.8
+2.2
+41.9
+29.3
+17.8
+1.0
+17.5
+61.9
+66.2
+1.8
+
+10.2
+2.0
+41.5
+28.3
+17.9
+1.0
+16.0
+60.9
+64.5
+-8.9
+
+9.7
+2.1
+41.8
+32.1
+14.3
+0.0
+0.4
+58.8
+82.8
+-15.5
+
+9.4
+2.2
+41.6
+33.4
+13.4
+0.5
+8.7
+58.8
+65.0
+-9.6
+
+9.5
+2.0
+41.3
+33.8
+13.5
+0.6
+9.3
+61.5
+69.3
+-9.5
+
+5.3
+5.5
+5.6
+5.9
+6.1
+5.7
+6.3
+6.6
+32.9 30.2 27.2 24.7 28.9 57.0 26.7 34.8
+31.1 31.4 28.9 22.9 29.1 64.3 34.4 41.9
+12.3 17.9 23.7
+8.8
+6.9 -16.5 19.3
+…
+61.0 60.3 59.7 62.4 59.9 58.4 56.5 58.3
+2.0
+2.7
+3.0
+3.5
+4.1
+4.3
+3.4
+…
+115.6 117.7 119.5 118.2 113.0 106.7 110.7 107.6
+35.4 34.5 31.4 28.1 27.0 25.3 22.0 21.5
+40.1 41.5 42.5 40.7 39.8 36.2 33.5 33.3
+11.4 12.8 11.5 16.2 17.6 13.0
+7.8
+38.3
+91.7
+
+40.2 42.4 42.7 43.3
+93.7 101.7 104.2 111.7
+
+207.7 196.2 183.7 184.7
+5.1 11.6 17.0 13.7
+96.7 129.9 142.3 145.1
+41.3
+
+...
+
+39.8
+
+40.1
+
+38.1
+
+…
+…
+
+…
+…
+
+…
+…
+
+...
+...
+...
+
+…
+…
+…
+
+…
+…
+…
+
+…
+…
+…
+
+38.8
+
+39.9
+
+40.6
+
+41.6
+
+... 0.014 0.012 0.013 0.014 0.012 0.012
+
+2.2
+
+2.2
+
+2.0
+
+2.1
+
+2.3
+
+2.4
+
+1.9
+
+2.2
+
+-6.1
+11.9
+17.9
+
+-1.3
+12.4
+16.6
+
+4.4
+13.1
+16.1
+
+-4.3
+13.9
+15.8
+
+3.2
+12.5
+16.4
+
+10.6
+13.2
+16.6
+
+19.9
+15.6
+17.7
+
+19.9
+16.3
+17.9
+
+Source: Bank of Israel.
+1/ Problem loans include non-performing loans, rescheduled loans, loans designated for rescheduling, loans in temporary arrears
+and loans under special supervision.
+
+34
+Table 4. Israel: Summary of Central Government Operations, 2007–12 1/
+2010
+2007
+Act.
+
+2008
+Act.
+
+2009
+Budget Act.
+
+Budget
+
+Staff
+proj.
+
+2011
+2012
+Draft
+Staff
+Draft
+Staff
+Budget
+proj. Budget
+proj.
+
+(In percent of GDP)
+Revenues and grants
+Tax revenues
+
+33.8
+27.6
+
+31.3
+25.2
+
+13.5
+11.8
+7.8
+1.9
+2.2
+2.1
+
+11.4
+11.7
+7.8
+1.8
+2.2
+2.1
+
+Total Expenditure
+Expense
+Compensation of employees
+Use of goods & services
+Consumption of fixed capital (CFC)
+Interest
+Subsidies
+Grants
+Social benefits
+of which : Social security benefits
+Other
+Net acquisition of nonfinancial assets
+Required cumulative adjustment
+Overall balance
+
+34.1
+34.2
+5.8
+6.3
+0.3
+5.2
+0.8
+9.4
+3.0
+0.0
+3.4
+-0.1
+
+33.7
+33.9
+5.6
+6.2
+0.3
+4.7
+0.8
+9.4
+3.0
+0.0
+3.8
+-0.1
+
+34.7
+
+-0.3
+
+Financing
+Net acquisition of financial assets
+Net incurrence of liabilities
+Domestic
+External
+
+Income Tax revenues
+Taxes on Goods and services
+Value Added Tax
+Grants
+Other revenue
+Loans from NII
+
+Memorandum items:
+General government balance
+Cyclically adjusted primary balance
+Deficit limit
+Ceiling on the real expenditure growth
+Public debt to GDP
+
+28.8
+23.2
+
+28.1
+23.2
+
+29.1
+23.5
+
+9.6
+11.7
+7.7
+1.5
+1.7
+1.6
+
+28.9
+23.8
+
+30.3
+24.9
+
+9.6
+12.2
+7.7
+1.7
+1.8
+1.6
+34.6
+
+4.8
+
+33.2
+33.3
+5.5
+5.9
+0.3
+4.6
+0.8
+9.2
+3.1
+0.0
+3.9
+0.0
+
+-2.4
+
+-5.9
+
+0.3
+1.8
+-1.6
+-0.7
+-0.8
+
+2.4
+1.3
+1.1
+2.4
+-1.3
+
+-0.4
+3.0
+
+-2.6
+0.1
+
+29.3
+24.2
+
+30.8
+25.5
+
+9.5
+12.7
+7.7
+1.7
+1.8
+1.6
+33.3
+
+4.9
+
+32.8
+32.8
+5.5
+5.9
+0.3
+4.5
+0.8
+8.8
+3.1
+0.0
+3.9
+0.0
+
+-5.1
+
+-5.5
+
+-3.9
+
+5.9
+0.3
+5.6
+5.0
+4.4
+
+5.1
+-0.4
+5.5
+4.9
+0.6
+
+5.5
+0.6
+4.9
+4.4
+0.5
+
+...
+
+-5.5
+-0.8
+6.0
+
+29.5
+24.5
+9.2
+13.2
+7.8
+1.7
+1.8
+1.6
+
+32.8
+
+-2.9
+
+32.3
+32.8
+5.5
+5.9
+0.3
+4.4
+0.8
+8.8
+3.1
+0.0
+3.9
+0.0
+0.4
+-3.0
+
+-2.0
+
+31.5
+32.7
+5.5
+5.9
+0.3
+4.2
+0.8
+8.8
+3.1
+0.0
+3.9
+0.0
+1.1
+-2.0
+
+3.9
+1.6
+2.3
+1.9
+0.4
+
+2.9
+1.1
+1.9
+1.6
+0.3
+
+3.0
+1.0
+2.0
+1.7
+0.3
+
+2.0
+0.7
+1.3
+1.2
+0.0
+
+2.0
+0.7
+1.3
+1.3
+0.0
+
+...
+
+-4.1
+-0.6
+5.5
+
+...
+
+...
+
+-2.2
+0.7
+2.0
+2.7
+69.8
+
+4.3
+
+4.2
+
+77.7
+
+76.7
+
+...
+
+77.6
+
+...
+
+75.5
+
+...
+
+-3.2
+0.1
+3.0
+2.7
+72.8
+
+GDP growth rate (in percent)
+
+5.3
+
+4.2
+
+-1.0
+
+0.8
+
+1.5
+
+3.9
+
+3.8
+
+3.5
+
+4.0
+
+3.8
+
+Inflation (in percent)
+
+0.5
+
+4.6
+
+3.8
+
+3.3
+
+3.0
+
+2.6
+
+2.2
+
+3.0
+
+2.2
+
+2.5
+
+...
+
+Exchange rate (NIS per US$)
+
+4.1
+
+3.6
+
+...
+
+3.9
+
+...
+
+...
+
+3.8
+
+...
+
+3.8
+
+...
+
+GDP (in billions of NIS)
+
+690
+
+726
+
+746
+
+768
+
+780
+
+826
+
+864
+
+880
+
+919
+
+936
+
+Sources: Data provided by the Israeli authorities; and Fund staff estimates.
+1/ Data as per the national defintion, covers the budgetary sector and NII, excluding net credit.
+
+Table 5. Israel: Indicators of External and Financial Sector Vulnerability, 2001–10
+(Percent of GDP, unless otherwise indicated)
+Projected
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+Date
+
+Financial indicators
+Broad money (percent change, 12-month basis)
+Private sector credit (percent change, 12 month basis)
+
+15.5
+14.3
+
+6.1
+11.7
+
+2.2
+-3.1
+
+4.6
+3.9
+
+7.9
+7.1
+
+7.4
+4.3
+
+12.9
+6.7
+
+8.0
+9.2
+
+14.1
+4.5
+
+4.6
+0.5
+
+Oct-10
+Sep-10
+
+External Indicators
+Terms of trade (average, percent change) 1/
+Current account balance
+
+-1.2
+-1.6
+
+0.4
+-1.1
+
+-1.4
+0.6
+
+-1.9
+1.8
+
+0.6
+3.2
+
+-1.4
+5.1
+
+-2.2
+2.9
+
+1.6
+0.8
+
+9.1
+3.9
+
+...
+2.2
+
+Proj.
+
+23.4
+6.5
+
+24.2
+6.8
+
+26.4
+7.1
+
+27.4
+6.3
+
+28.4
+5.9
+
+29.3
+5.7
+
+28.6
+4.7
+
+42.5
+6.1
+
+60.6
+11.5
+
+67.3
+10.9
+
+Proj.
+Proj.
+
+52.9
+0.1
+A- / A2
+4.21
+-20.9
+
+62.6
+-0.6
+A- / A2
+4.74
+-6.0
+
+62.0
+-4.4
+A- / A2
+4.55
+15.7
+
+61.6
+-8.7
+A- / A2
+4.48
+35.3
+
+58.1
+-15.4
+A- / A2
+4.49
+21.0
+
+59.7
+-22.5
+A- / A2
+4.46
+20.0
+
+53.9
+-25.5
+A / A2
+4.11
+23.2
+
+43.2
+-21.3
+A / A1
+3.59
+-18.3
+
+47.1
+-28.1
+A / A1
+3.93
+-3.3
+
+45.1
+-20.3
+A / A1
+3.62
+14.9
+
+Proj.
+Proj.
+Oct-10
+Dec-10
+Nov-10
+
+Gross official reserves (end period, billions of U.S. dollars)
+Official reserves in months of imports of goods and nonfactor services
+Total gross external debt/GDP (percent)
+Total net external debt/GDP (percent)
+Country risk ratings (S. & P. / Moody's) 2/
+Exchange rate (per U.S. dollar, period average)
+Change in Stock Market Index (percent)
+
+Sources: Bank of Israel; Central Bureau of Statistics; and IMF staff estimates and projections.
+1/ According to WEO GEE trade deflators.
+2/ On foreign currency long-term debt.
+
+35
+
+2001
+
+36
+
+Table 6. Israel: Medium-Term Scenarios, 2009–15
+(Percent, unless indicated otherwise)
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+GDP growth rate
+Inflation (average)
+
+0.8
+3.3
+
+3.9
+2.6
+
+3.5
+3.0
+
+3.8
+2.5
+
+3.8
+2.4
+
+3.7
+2.1
+
+3.4
+1.7
+
+Fiscal balance/GDP 1/
+Central government balance
+General government structural primary balance
+Central government expenditure/GDP
+Public debt/GDP (end of period)
+
+-5.1
+-0.8
+33.2
+77.6
+
+-3.9
+-0.6
+32.8
+75.5
+
+-3.0
+0.1
+32.3
+72.8
+
+-2.0
+0.7
+31.5
+69.8
+
+-1.5
+1.0
+31.2
+67.3
+
+-1.0
+1.3
+30.9
+64.6
+
+-1.0
+1.5
+31.1
+62.3
+
+Current account/GDP
+
+3.9
+
+2.2
+
+1.2
+
+1.5
+
+1.8
+
+2.0
+
+2.3
+
+Foreign reserves (billions of U.S. dollars)
+
+60.6
+
+67.3
+
+74.0
+
+80.7
+
+80.7
+
+80.7
+
+80.7
+
+3.4
+4.2
+0.7
+4.0
+6.6
+6.0
+
+3.3
+4.2
+0.6
+4.0
+6.5
+6.6
+
+(Percent changes)
+Memorandum Items:
+Aggregate domestic demand
+Private consumption
+Public consumption
+Gross capital formation
+Exports of goods and services
+Imports of goods and services
+
+-0.2
+1.7
+2.5
+-8.9
+-12.5
+-14.1
+
+3.7
+4.9
+2.2
+2.2
+11.8
+10.6
+
+3.7
+4.0
+2.1
+5.0
+2.4
+2.8
+
+3.6
+4.3
+0.9
+4.7
+7.5
+7.1
+
+Source: IMF staff estimates and projections.
+1/ For the purpose of its budget deficit targets, the central government excludes net credit.
+
+3.3
+4.2
+0.7
+4.0
+6.8
+5.9
+
+37
+
+ANNEX I: ISRAEL—PUBLIC DEBT SUSTAINABILITY AND RISKS
+1.
+Fiscal institutions in Israel – such as the fiscal rules, which limit deficit and
+real spending growth - have helped to reduce public debt form very high levels.
+Strong growth, sizeable primary surpluses, and real exchange appreciation helped reduce
+public debt by some 20 percentage points of GDP since 2003, reaching 77 percent of
+GDP in 2008. Foreign-currency debt has fallen markedly as well, as the improved fiscal
+position facilitated government access to the domestic capital market. Despite the fiscal
+deterioration in response to the global shock in 2009, public debt ratio remained broadly
+stable, owing to Israel’s resilience to global economic shock, but also to anchoring longterm fiscal expectations on sustainability through the introduction of a new mediumterm fiscal rule (See SEI IV).
+2.
+Israel’s projected path of fiscal policy – based on the new fiscal rules – does
+imply a gradual decline in public debt to about 60 percent of GDP. Despite a larger
+fiscal deficit, public debt is likely to fall to about 75.5 percent of GDP in 2010,
+reflecting NIS appreciation, robust economic growth, and low interest rates. The
+medium-term fiscal strategy, anchored by the new fiscal rules, assumes a gradual decline
+in the central government deficit from 4 percent in 10 to 3 percent in 11, 2 percent in 12,
+1.5 percent in 13, and 1 percent from 2014 onwards (See SEI IV). Gradual fiscal
+consolidation and continued strong economic growth is likely to bring public debt down
+to 62 percent of GDP by 2015.
+
+Korea
+Czech Republic
+Slovak Republic
+Switzerland
+Denmark
+Sweden
+Finland
+Spain
+Norway
+Netherlands
+Ireland
+Austria
+United Kingdom
+Germany
+Portugal
+Israel
+France
+Canada
+United States
+Belgium
+Iceland
+Singapore
+Greece
+Italy
+
+3.
+Israel’s public debt outlook is stronger than in many advanced economies,
+but, this outlook is still exposed to shocks. Israel’s public debt ratio is well below the
+average for advanced countries (Text
+2009 Gross public debt-to-GDP ratio
+chart).1 However, there is a potential
+140
+for high volatility in macroeconomic 120
+100
+variables, stemming from high
+80
+sensitivity of Israeli economy to
+60
+external shocks (See SEI III). The
+40
+increase in global macro-financial
+20
+0
+risk, combined with high sensitivity
+of Israeli economy to external shocks
+could magnify macro-economic
+volatility and increase uncertainty
+around projected public debt paths.
+
+1
+
+See Fiscal Monitor database, Nov 2010.
+
+38
+For example, a sudden reversal of capital flows could possibly dampen growth, lead to
+spikes in borrowing costs, and result in high exchange rate volatility.2 Furthermore,
+recent econometric evidence suggest that high debt refinancing needs and high debt
+levels are likely to be accompanied by higher long-term real interest rates, therefore
+adversely affect global financing conditions and debt dynamics.3
+4.
+Risk assessments are therefore a critical input to a medium term fiscal
+strategy amining at maintaining sustainability and managing risks. High
+macroeconomic volatility and increased uncertainty to public debt path makes it critical
+to incorporate uncertainty in the analysis of fiscal sustainability. Two different
+approaches have been used to incorporate uncertainty in the fiscal sustainability
+analysis. To deal with vulnerability to specific shocks and to assess robustness under
+extreme events, this annex reports results from a variety of stress tests. While under a
+full Monte Carlo simulation, extreme events are just one out of many realizations and
+will largely be averaged out, demonstrating robustness under extreme events
+demonstrating robustness under extreme events may contribute importantly to
+credibility, so stress tests focusing on extreme events are a useful tool.4
+5.
+Stress tests reveal risks to debt consolidation strategy. The most severe
+impact on public debt is produced by an adverse growth scenario – a negative permanent
+shock to growth of half a standard deviation is likely to completely stall the debt
+consolidation process, with public debt ratio at 76 percent in 2015. Furthermore, an
+extreme tail risk of a negative permanent shock to growth of one standard deviation,
+similar to the impact of the 2009 global economic shock on Israel, is likely to reverse
+debt decline and to bring back public debt ratio to nearly 90 percent of GDP in 2015.
+Debt consolidation process is also likely to slow down significantly under shocks from
+contingent liabilities, sharp exchange rate movements, and higher interest rates
+(Figure II.1). For example, fiscal contingent liabilities amounting to 10 percent of GDP
+could raise public sector debt to 72 percent of GDP by 2015, while currency
+depreciation of 30 percent would raise the debt ratio to about 69 percent of GDP. An
+
+2
+
+Rogoff (2008) used new data set to illustrate vulnerabilities of emerging markets, in particular, the fact that
+sovereign debt defaults are quite sensitive to global capital flow cycle.
+
+See IMF (2010), Fiscal Monitor. High debt ratios could increase long-term real interest rates by almost
+2 percentage points, affecting negatively global financing conditions. In addition, high debt ratios are also likely
+to affect negatively potential growth in advanced economies, with possible consequences for emerging markets.
+
+3
+
+4
+
+It is important to note that this risk assessment assumes that fiscal rules will be adhered to only ex-ante as expost adherence to a deficit rule would imply a very large fiscal adjustment in the presence of large economic
+shocks.
+
+39
+increase in real interest rates would have a smaller, but still sizeable, effect with public
+debt ratio reaching 66 percent
+by 2015.
+Public Sector Debt-to-GDP Ratio
+85
+80
+
+6.
+Given the uncertainty
+75
+surrounding key macro variables,
+70
+65
+how much confidence can we have
+60
+in the outcome of the baseline
+55
+scenario? To get a broader view on
+95-97.5%
+90-95%
+10-90%
+50
+the riskiness of the baseline
+45
+5-10%
+2.5-5%
+Baseline
+40
+projections, Monte Carlo simulations
+2009 2010 2011 2012 2013 2014 2015
+have been used to derive the
+probability distribution of future debt stocks (“fan charts”), based on stochastic
+properties of key risk variables in the debt dynamics process.5 While under the central
+scenario the new fiscal rules result in further public debt reduction to slightly above 60
+percent by 2015, risks surrounding public debt dynamics are still relatively high - there
+is 97.5 percent chance that the maximum likely debt ratio will remain close to its 2009
+level (text chart). In general, variance reducing policies, such as fiscal reaction function
+could be used to lower the uncertainty around public debt past.
+7.
+In the medium-term, recent natural gas discoveries could have a positive
+impact on fiscal sustainability. While the likely impact of the natural gas is highly
+uncertain, reforms to adopt international best practice in taxation of natural resources,
+including appropriate pricing arrangements in the tax and in securing appropriate
+intergenerational distribution of the proceeds can help in ensuring a positive impact on
+fiscal sustainability. Accordingly, the first use of such tax receipts should be to reduce
+public debt, given that overall revenues will be modest on current estimates of the
+volume of gas. However, if the gas wealth proves to be much larger than anticipated,
+additional revenues could be placed in a sovereign wealth fund to ensure
+intergenerational equity and to safeguard against possible Dutch disease effects.
+
+5
+
+See Budina, Nina, and Sweder van Wijnbergen, 2008, “Quantitative Approaches to Fiscal Sustainability
+Analysis: A Case study of Turkey since the Crisis of 2001,” World Bank Economic Review, Vol. 23, Issue 1,
+pp. 119−140 and Budina, SIP on Maintaining Fiscal Sustainability under Uncertainty in Indonesia, Indonesia
+Art. IV 2010.
+
+40
+
+Figure I.1. Israel: Public Debt Sustainability: Bound Tests 1/
+(Public debt in percent of GDP)
+Interest rate shock (in percent)
+
+Baseline and historical scenarios
+00
+
+45
+Gross financing need
+under baseline
+(right scale)
+
+90
+
+40
+35
+
+80
+Historical
+70
+Baseline
+
+60
+
+30
+66
+
+62
+
+20
+
+60
+
+5
+
+30
+2005
+
+2007
+
+2009
+
+2011
+
+0
+2015
+
+2013
+
+80
+70
+
+10
+40
+
+90
+
+25
+
+15
+
+50
+
+100
+Baseline:
+
+2.8
+
+Scenario:
+
+3.8
+
+Historical:
+
+3.7
+66
+
+Baseline
+62
+
+50
+40
+30
+2005
+
+2007
+
+2009
+
+2011
+
+2013
+
+2015
+
+Primary balance shock (in percent of GDP) and
+no policy change scenario (constant primary balance)
+
+Growth shock (in percent per year)
+00
+
+100
+Growth shock
+Baseline:
+
+90
+
+Tail risk
+
+3.7
+
+Scenario:
+
+2.4
+
+Historical:
+
+3.6
+
+80
+
+90
+
+89
+
+Growth shock
+
+80
+
+Baseline:
+
+1.3
+
+Historical:
+
+1.5
+
+Scenario
+
+0.5
+
+No policy change
+
+76
+
+72
+
+Growth shock
+
+70
+
+PB
+shock
+
+70
+
+Baseline
+62
+60
+2005
+
+2007
+
+2009
+
+2011
+
+2013
+
+67
+Baseline
+
+2015
+
+60
+2005
+
+2007
+
+2009
+
+2011
+
+62
+
+2013
+
+2015
+
+Real depreciation and contingent liabilities shocks 3/
+
+Combined shock 2/
+
+100
+
+00
+
+90
+
+contingent
+liabilities
+shock
+
+90
+
+combined
+shock
+
+80
+
+80
+
+70
+
+70
+
+Baseline
+
+60
+2005
+
+2009
+
+2011
+
+69
+
+Baseline
+62
+
+2007
+
+72
+
+30 %
+deprecia-tion
+
+69
+
+2013
+
+2015
+
+60
+2005
+
+62
+2007
+
+2009
+
+2011
+
+2013
+
+Sources: International Monetary Fund, country desk data, and staff estimates.
+1/ Shaded areas represent actual data. Individual shocks are permanent one-half standard deviation shocks. Figures in the
+boxes represent average projections for the respective variables in the baseline and scenario being presented. Ten-year
+historical average for the variable is also shown.
+2/ Permanent 1/4 standard deviation shocks applied to real interest rate, growth rate, and primary balance.
+3/ One-time real depreciation of 30 percent and 10 percent of GDP shock to contingent liabilities occur in 2009, with real
+depreciation defined as nominal depreciation (measured by percentage fall in dollar value of local currency) minus domestic
+inflation (based on GDP deflator).
+
+2015
+
+INTERNATIONAL MONETARY FUND
+ISRAEL
+Staff Report for the 2010 Article IV Consultation—Informational Annex
+Prepared by the European Department
+December 21, 2010
+
+Contents
+
+Page
+
+Annexes
+I. Fund Relations .....................................................................................................................2
+II. Statistical Issues ...................................................................................................................4
+
+2
+ANNEX II. ISRAEL: FUND RELATIONS
+(AS OF NOVEMBER 30, 2010)
+I.
+
+Membership Status: Israel became a member of the Fund on July 12, 1954, and
+accepted the obligations of Article VIII, Sections 2, 3, and 4 on September 21, 1993.
+Israel maintains an exchange system free of restrictions on the making of payments
+and transfers for current international transactions, with the exception of measures
+introduced for security reasons pursuant to Decision No. 144-(52/51). Israel
+subscribes to the SDDS and is in full observance of the SDDS’s prescriptions for data
+coverage, periodicity and timeliness, and for the dissemination of advance release
+calendars.1
+
+II.
+
+General Resources Account:
+
+SDR Million
+
+Quota
+Fund holdings of currency
+Reserve position in Fund
+III.
+
+928.20
+743.91
+184.30
+
+SDR Department:
+
+883.39
+859.30
+
+IV.
+
+Outstanding Purchases and Loans: None
+
+V.
+
+Financial Arrangements: None
+
+VI.
+
+Projected Payments to Fund (SDR Million):
+
+2010
+Principal
+Charges/Interest
+Total
+
+Forthcoming
+2011
+2012
+0.10
+0.10
+
+0.10
+0.10
+
+VII.
+
+Implementation of HIPC Initiative: Not applicable
+
+VIII.
+
+Safeguards Assessments: Not applicable
+
+1
+
+100.00
+80.15
+19.86
+
+SDR Million
+
+Net cumulative allocation
+Holdings
+
+% Quota
+
+% Allocation
+100.00
+97.27
+
+2013
+
+2014
+
+0.10
+0.10
+
+0.10
+0.10
+
+For purposes of Fund relations, the West Bank and Gaza (WBG) fall under Israeli
+jurisdiction in accordance with Article XXXI, Section 2(g) of the Articles of Agreement.
+
+3
+IX.
+
+Exchange Rate Arrangement:
+The de facto exchange rate arrangement is classified as “floating,” as the authorities
+have made discretionary interventions on more than three occasions since July 2009.
+The discretionary interventions serve as a transitional step facilitating the exit from
+the preprogrammed USD purchases that began in March 2008. The authorities clarify
+that they do not target any specific exchange rate.
+
+X.
+
+Article IV consultation:
+The last Article IV consultation was concluded on February 13, 2009. Israel is on the
+standard 12-month consultation cycle.
+
+XI.
+
+ROSCs:
+
+
+
+
+
+
+XII.
+
+Financial System Stability Assessment was conducted in 2000, issued in
+August 2001.
+Fiscal Transparency ROSC was conducted in 2003, issued in April 2004.
+Monetary and Financial Policy Transparency was conducted in 2003, issued as IMF
+Country Report No. 03/76 in March 2003.
+AML/CFT ROSC was conducted in 2003, issued in June 2005.
+Data Module ROSC was conducted in 2005, and issued as IMF Country Report
+No. 06/125 in March 2006.
+Technical Assistance:
+
+The Fund has been providing policy advice and technical assistance to the Palestinian
+Authority (PA) since the 1993 Oslo Accords, and presently has a senior resident
+representative based in Jerusalem. The Fund’s work in the West Bank and Gaza (WBG) has
+intensified since 2007, with a focus on the macroeconomic, fiscal, and financial areas. Staff
+missions to the WBG have been assisting the PA in the design and implementation of its
+macroeconomic and fiscal framework in line with the objectives set out in the Palestinian
+Reform and Development Plan (PRDP) presented at the Paris international donors'
+conference in December 2007. The most recent progress report on that framework was
+presented at the Ad-Hoc Liaison Committee (AHLC) meeting of donors held in New York
+on September 22, 2009. Technical assistance has also been stepped up since 2007, in
+particular in the areas of public expenditure management, banking supervision and
+regulation, and macroeconomic statistics.
+XIII.
+
+Resident Representative:
+A resident representative has been in the WBG since early 1996.
+
+4
+
+Israel—STATISTICAL ISSUES APPENDIX
+As of 11/10/2010
+I. Assessment of Data Adequacy for Surveillance
+General: Macroeconomic statistics are of generally high quality and broadly adequate for
+surveillance, although there are few shortcomings particularly in monetary and government finance
+statistics. A Report on the Observance of Standards and Codes—Data Module, a Detailed
+Assessments Using the Data Quality Assessment Framework (DQAF), and a Response by the
+Authorities were published on the IMF website on March 24, 2006 (IMF Country Report No. 06/125).
+National Accounts: No issues to report.
+Price statistics: No issues to report.
+Government finance statistics: The methodology underlying the reported overall annual fiscal
+balance is not in conformity with internationally accepted best practice, as interest expenditure
+excludes the inflation component. The authorities are gradually moving toward implementation of the
+methodology that is standard in other countries, so that the discrepancy will decline over time. Data
+submitted by the Central Bureau for Statistics for the Fund’s Government Finance Statistics broadly
+follows the GFSM 2001 format. However, for financial assets and liabilities, only transaction data are
+submitted, but not stock data. Within-year monthly reports on central government operations—
+compiled by the MoF—cover only the main aggregates of budgetary accounts, not broken down by
+components.
+Monetary statistics: Banking statistics are not based on balance sheet reporting, but instead on a
+selection of data reported by banks to the regulatory authorities. Current information does not permit
+full sectorization of the economy in the monetary statistics, and more detailed information on
+instruments also would be useful.
+Balance of payments: Balance of payments and international investment position data are compiled
+on a quarterly basis and follow the fifth edition of the Balance of Payments Manual. External sector
+data were not examined in the Report on the Observance of Standards and Codes
+
+II. Data Standards and Quality
+Participant in the Special Data Dissemination Data ROSC published on March 24, 2006.
+System (SDDS) since April 1996, and in full
+observance of the SDDS’s prescriptions for
+data coverage, periodicity and timeliness, and
+for the dissemination of advance release
+calendars.
+III. Reporting to STA (Optional)
+Data are regularly reported for publication in the Government Finance Statistics Yearbook
+and in the IFS.
+
+5
+
+TABLE OF COMMON INDICATORS REQUIRED FOR SURVEILLANCE
+
+Exchange Rates
+International Reserve Assets and Reserve
+Liabilities of the Monetary Authorities
+
+1
+
+8
+
+Date of latest
+observation
+(For all dates
+in table, please
+use format
+dd/mm/yy)
+
+Date
+received
+
+Nov-10
+Oct-10
+
+Memo Items:
+Freque
+ncy of
+7
+
+Frequency
+of
+
+Frequency
+of
+
+7
+
+Publication
+
+Data
+
+Reporting
+
+6-Dec-10
+
+D and
+M
+
+D and M
+
+D and M
+
+15-Nov-10
+
+M
+
+M
+
+M
+
+Reserve/Base Money
+
+May-10
+
+19-Jul-10
+
+M
+
+M
+
+M
+
+Broad Money
+
+Sep-10
+
+10-Nov-10
+
+M
+
+M
+
+M
+
+Central Bank Balance Sheet
+
+May-10
+
+10-Nov-10
+
+M
+
+M
+
+M
+
+Consolidated Balance Sheet of the Banking System
+
+May-10
+
+10-Nov-10
+
+Q
+
+Q
+
+Q
+
+Sep-10
+
+10-Nov-10
+
+D and
+M
+
+D and M
+
+D and M
+
+Oct-10
+
+16-Nov-10
+
+M
+
+M
+
+2008
+
+Aug 09
+
+A
+
+Q2-2010
+
+5-Oct-10
+
+Q3-2009
+Q2-2010
+
+Interest Rates
+
+2
+
+Consumer Price Index
+Revenue, Expenditure, Balance and Composition
+3
+
+4
+
+of Financing – General Government
+Revenue, Expenditure, Balance and Composition
+3
+
+of Financing – Central Government
+Stocks of Central Government and Central
+5
+
+Government-Guaranteed Debt
+
+External Current Account Balance
+
+reliability
+
+10
+
+O, O, O, O
+
+O, O, LO, O, O
+
+A
+
+A
+
+O, LO, O, LO
+
+LO, O, O, O, O
+
+M
+
+M
+
+M
+
+30-Dec-09
+
+Q
+
+Q
+
+Q
+
+15-Sep-10
+
+Q
+
+Q
+
+Q
+
+NA
+
+NA
+
+O, O, O, LO
+
+LO, O, LO, O, LO
+
+Q2-2010
+
+15-Sep-10
+
+M
+
+M
+
+M
+
+16-Nov-10
+
+Q
+
+Q
+
+Q
+
+Q3-2009
+
+15-Dec-09
+
+Q
+
+Q
+
+Q
+
+Q2-2010
+
+Sep-10
+
+Q
+
+Q
+
+Q
+
+1
+
+9
+
+M
+
+Q3-2010
+
+International Investment Position
+
+soundness
+
+Data Quality –
+Accuracy and
+
+O, O, O, NA, NA
+
+GDP/GNP
+6
+
+Data Quality –
+Methodological
+
+LNO, LO, NO, LO
+
+Exports and Imports of Goods and Services
+
+Gross External Debt
+
+7
+
+Any reserve assets that are pledged of otherwise encumbered should be specified separately. Also, data should comprise short-term liabilities
+linked to a foreign currency but settled by other means as well as the notional values of financial derivatives to pay and to receive foreign
+currency, including those linked to a foreign currency but settled by other means.
+2
+Both market-based and officially-determined, including discount rates, money market rates, rates on treasury bills, notes and bonds.
+3
+Foreign, domestic bank, and domestic nonbank financing.
+4
+The general government consists of the central government (budgetary funds, extra budgetary funds, and social security funds) and state and local
+governments.
+5
+Including currency and maturity composition.
+6
+Includes external gross financial asset and liability positions vis-à-vis nonresidents.
+7
+Daily (D); weekly (W); monthly (M); quarterly (Q); annually (A); irregular (I); and not available (NA).
+8
+These columns should only be included for countries for which Data ROSC (or a Substantive Update) has been published.
+9
+Reflects the assessment provided in the data ROSC for the dataset corresponding to the variable in each row. The assessment indicates whether
+international standards concerning concepts and definitions, scope, classification/sectorization, and basis for recording are fully observed (O); largely
+observed (LO); largely not observed (LNO); not observed (NO); and not available (NA).
+10
+Same as footnote 7, except referring to international standards concerning (respectively) source data, assessment of source data, statistical techniques,
+assessment and validation of intermediate data and statistical outputs, and revision studies.
+
+Public Information Notice (PIN) No. 11/8
+FOR IMMEDIATE RELEASE
+January 24, 2011
+
+International Monetary Fund
+700 19th Street, NW
+Washington, D. C. 20431 USA
+
+IMF Executive Board Concludes 2010 Article IV Consultation with Israel
+On January 7, 2011, the Executive Board of the International Monetary Fund (IMF) concluded
+the 2010 Article IV consultation with Israel, and considered and endorsed the staff appraisal
+without a meeting.1
+Background
+Israel was mildly affected by the global recession: following a slowdown in 2009, output is
+projected to grow by some 4 percent in 2010, led by consumption and exports. Credit from
+domestic and foreign sources to households has been buoyant—at annual rates of some
+8 percent in 2009 and 2010, reflecting the resilience of the banking sector. Credit to nonfinancial firms however has been largely flat. As recovery has taken hold, unemployment has
+fallen from its peak of 8 percent in early 2009 to 6 percent in 2010. With public debt a little
+below 80 percent of Gross Domestic Product (GDP), there were no signs of budget funding
+stresses. The strength of long-term prospects has also been underscored by the recent entry
+into the Organization for Economic Co-operation and Development (OECD) and by the
+discovery of significant offshore natural gas reserves.
+As the growth outlook improved in the second half of 2009, the stance of policies was tightened.
+On the fiscal side, this largely reflected automatic stabilizers. The budget deficit is estimated to
+
+1
+
+Under Article IV of the IMF's Articles of Agreement, the IMF holds bilateral discussions with
+members, usually every year. A staff team visits the country, collects economic and financial
+information, and discusses with officials the country's economic developments and policies. On
+return to headquarters, the staff prepares a report, which forms the basis for discussion by the
+Executive Board. At the conclusion of the discussion, the Managing Director, as Chairman of the
+Board, summarizes the views of Executive Directors, and this summary is transmitted to the
+country's authorities. An explanation of any qualifiers used in summings up can be found here:
+http://www.imf.org/external/np/sec/misc/qualifiers.htm.
+
+2
+have declined to 3.9 percent of GDP in 2010 and is planned to strengthen to 3 percent in 2011.
+Moreover, new fiscal rules were adopted in 2010 comprising deficit and spending ceilings.
+On the monetary policy side, the Bank of Israel raised policy rates from their floor of half
+a percent to 2 percent by October 2010. In August 2009, the central bank also discontinued its
+daily purchase of US Dollars in the Foreign Exchange market, although it continues to intervene
+to stem the appreciation of the shekel, with reserves reaching US$70 billion in 2010. Alongside,
+a new Bank of Israel Law was adopted in 2010 formalizing established inflation targeting
+practices.
+In this context, the shekel came under considerable appreciation pressures, rising in real terms
+to some 15 percent above pre-crisis levels. This was reflected in export market share falling in
+the first half of 2010 and, in conjunction with global developments, outright export declines in
+the third quarter of 2010. Nevertheless, the strong shekel has helped to contain inflation, which
+has recently fallen back into its 1-3 percent target range after an extended period above it.
+Israeli banks appear well-capitalized and liquid. In 2010, capital adequacy ratios rose for most
+banks, and impaired and non-performing loan ratios declined. However, nominal house prices
+have risen 40 percent over the past two years. Macroprudential measures were adopted by the
+Bank of Israel alongside supply side measures to stabilize the sector.
+Executive Board Assessment
+In concluding the 2010 Article IV consultation with Israel, Executive Directors endorsed the
+staff’s appraisal, as follows:
+Robust fundamentals—including sustained pre-crisis fiscal consolidation—and a swift monetary
+and fiscal policy response to the external downturn allowed Israel to pass through the global
+recession relatively unscathed. In part, this reflects the innovation of the “two-year” budget
+cycle, which helped to stabilize expectations in mid-crisis and established an important
+precedent for the future.
+In that light, steps taken to withdraw policy stimulus have been appropriate. As economic
+growth rose through 2009-10, the budget deficit strengthened faster than planned. Alongside,
+the increase in the policy rate of the Bank of Israel in several steps helped to secure a decline of
+inflation back into its target range, with medium-term inflation expectations also remaining in
+range.
+The resilience of the economy has been strengthened by the adoption of new fiscal rules
+capping spending and deficits, a new Bank of Israel Law, and by the entry into the OECD.
+At the same time, strains have emerged. In particular, inflation expectations have risen towards
+the upper end of the target band, nominal house prices have boomed, and the shekel has
+appreciated significantly. Though all these developments reflect Israel’s relatively strong
+economic performance, the authorities will need to keep them under control.
+
+3
+Accordingly, the additional policy tightening that is planned, including further fiscal deficit
+reduction in 2011-12, and the anticipated further increases in the policy rates of the Bank of
+Israel are welcome.
+But in light of the emerging strains, additional action may be required. This would reinforce the
+credibility of the overall policy framework, but it should be designed to avoid compounding
+upward pressure on the shekel. Accordingly, fiscal policy should carry the burden of the
+additional effort, and so a stronger than planned structural fiscal consolidation is recommended
+for 2011 and 2012. In this context, monetary policy rates should rise broadly as is now
+anticipated. But if fiscal policy remains as planned, policy rates may need to rise further and
+more rapidly than planned—even if this puts further upward pressure on the shekel—in order to
+stem inflation.
+With the balance of monetary and fiscal policy tightening adjusted as recommended, other
+policy instruments—notably foreign exchange intervention—can play a supportive role. Without
+this rebalancing, however, there is risk that intervention could become unduly one-sided, and
+the “managed” float regime could become misperceived as flexible in one direction only.
+The strengthening in supervision and regulation of the financial sector and the robust indicators
+of financial stability are welcome. However, further progress is needed to strengthen the
+diagnosis and management of risk. To this end, the development of stress testing procedures
+focusing on systemic risk, and the enhancement of the collaboration between and within
+supervisory institutions is strongly encouraged. Furthermore, in line with typical OECD practice,
+supervision of non-banks might be further strengthened by locating it outside the Ministry of
+Finance.
+Finally, in parallel with further strengthening of structural reforms, including in education,
+research, the business environment, and infrastructure, effective management of resources
+anticipated from discovery of significant natural gas reserves will also be necessary. In
+particular, the first use of tax proceeds from gas should be to reduce public debt, and additional
+funds from this source should be placed in a Sovereign Wealth Fund.
+Public Information Notices (PINs) form part of the IMF's efforts to promote transparency of the IMF's
+views and analysis of economic developments and policies. With the consent of the country
+(or countries) concerned, PINs are issued after Executive Board discussions of Article IV consultations
+with member countries, of its surveillance of developments at the regional level, of post-program
+monitoring, and of ex post assessments of member countries with longer-term program engagements.
+PINs are also issued after Executive Board discussions of general policy matters, unless otherwise
+decided by the Executive Board in a particular case. The staff report (use the free Adobe Acrobat
+Reader to view this pdf file) for the 2010 Article IV Consultation with Israel is also available.
+
+4
+
+Israel: Selected Economic and Social Indicators, 2007–11
+(Percent change, unless otherwise indicated)
+
+2007
+
+2008
+
+2009
+
+2010 1/
+
+2011 1/
+
+Real economy
+Domestic demand
+Real GDP
+Private consumption
+Public consumption
+Gross capital formation
+Unemployment rate (percent)
+Overall CPI (end-of-period)
+
+6.4
+5.3
+6.3
+3.1
+11.3
+7.3
+3.4
+
+2.8
+4.2
+3.0
+2.6
+2.4
+6.1
+3.8
+
+-0.2
+0.8
+1.7
+2.5
+-8.9
+7.7
+4.0
+
+3.7
+3.9
+4.9
+2.2
+2.2
+6.6
+2.2
+
+3.7
+3.5
+4.0
+2.1
+5.0
+5.5
+2.7
+
+Money and credit (period average)
+Narrow money (M1)
+Broad money (M3)
+
+15.3
+12.9
+
+14.1
+8.0
+
+50.9
+14.1
+
+…
+…
+
+…
+…
+
+3.9
+
+3.7
+
+0.8
+
+2.0
+
+…
+
+Public finance (percent of GDP)
+Central government revenue
+Central government expenditure
+Central government balance
+General government balance
+General government debt
+Of which: foreign currency external debt
+
+33.8
+34.1
+-0.3
+-0.4
+77.7
+19.0
+
+31.3
+33.7
+-2.4
+-2.6
+76.7
+13.9
+
+28.1
+33.2
+-5.1
+-5.5
+77.6
+14.4
+
+28.9
+32.8
+-3.9
+-4.1
+75.5
+14.7
+
+29.3
+32.3
+-3.0
+-3.2
+72.8
+14.1
+
+Balance of payments (percent of GDP, unless otherwise noted)
+Exports of goods and services
+Real growth rate (percent)
+Imports of goods and services
+Real growth rate (percent)
+Trade balance
+Oil Imports (billions of U.S. dollars)
+Current account
+Foreign reserves (end period, billions of U.S. dollars)
+
+42.5
+9.3
+43.8
+11.9
+-1.3
+8.9
+2.9
+28.6
+
+40.3
+5.9
+41.7
+2.4
+-1.4
+12.8
+0.8
+42.5
+
+34.7
+-12.5
+32.3
+-14.1
+2.4
+8.1
+3.9
+60.6
+
+35.0
+11.8
+33.9
+10.6
+1.1
+10.7
+2.2
+70.9
+
+33.6
+2.4
+34.3
+2.8
+-0.6
+12.6
+1.2
+74.0
+
+-4.6
+-1.8
+
+Floating
+3.62
+3.6
+3.6
+
+...
+...
+
+Interest rates (average, percent)
+Bank of Israel policy rate 2/
+
+Exchange rate
+Exchange rate regime
+Present rate per U.S. dollar (December 7, 2010)
+NEER annual percent change (period average) 3/
+REER annual percent change (period average) 3/
+
+3.4
+1.0
+
+11.1
+11.4
+
+Social Indicators
+GDP per capita (current U.S. dollars, 2008): 27,904; Life expectancy at birth (2008): 79.1 (male) and 83.0 (female); Infant
+mortality rate (2008): 3.6 per 1,000 births; Physicians (2008): 3.6 per 1,000 people; Automobile ownership (2003): 284
+per thousand; CO2 emissions (tons per capita, 2006): 10.0; Population density (2008): 337.7 inhabitants per square kilometer;
+Poverty rate (2008): 19.9 percent 4/.
+Sources: Bank of Israel, Annual Report; Central Bureau of Statistics; IMF, World Economic Outlook; World Bank, World
+Development Indicators; and IMF staff estimates and projections.
+1/ IMF staff estimates and projections.
+2/ As of November 2010.
+3/ Year-on-year percentage changes, as of October 2010.
+4/ Poverty rate from National Insurance Institute of Israel.
+
+

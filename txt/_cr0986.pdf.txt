@@ -1,0 +1,8109 @@
+© 2009 International Monetary Fund
+
+[Month, Day], 201
+
+March 2009
+IMF Country Report No. 09/86
+August 2, 2001
+
+Republic of Estonia: 2008 Article IV Consultation—Staff Report; Staff Statement;
+Public Information Notice on the Executive Board Discussion; and Statement by the
+Executive Director for the Republic of Estonia
+Under Article IV of the IMF’s Articles of Agreement, the IMF holds bilateral discussions with
+members, usually every year. In the context of the 2008 Article IV consultation with the Republic of
+Estonia, the following documents have been released and are included in this package:
+•
+
+The staff report for the 2008 Article IV consultation, prepared by a staff team of the IMF,
+following discussions that ended on December 15, 2008, with the officials of the Republic of
+Estonia on economic developments and policies. Based on information available at the time
+of these discussions, the staff report was completed on February 17, 2009. The views
+expressed in the staff report are those of the staff team and do not necessarily reflect the
+views of the Executive Board of the IMF.
+
+•
+
+A staff statement of March 2, 2009, updating information on recent developments.
+
+•
+
+A Public Information Notice (PIN) summarizing the views of the Executive Board as
+expressed during its March 2, 2009 discussion of the staff report that concluded the
+Article IV consultation.
+
+•
+
+A statement by the Executive Director for the Republic of Estonia.
+
+The documents listed below will be separately released.
+Selected Issues Paper
+Financial System Stability Assessment
+The policy of publication of staff reports and other documents allows for the deletion of market-sensitive
+information.
+Copies of this report are available to the public from
+International Monetary Fund • Publication Services
+700 19th Street, N.W. • Washington, D.C. 20431
+Telephone: (202) 623-7430 • Telefax: (202) 623-7201
+E-mail: publications@imf.org • Internet: http://www.imf.org
+
+International Monetary Fund
+Washington, D.C.
+
+INTERNATIONAL MONETARY FUND
+REPUBLIC OF ESTONIA
+Staff Report for the 2008 Article IV Consultation
+Prepared by the Staff Representatives for the 2008 Consultation with the Republic of Estonia
+Approved by Anne-Marie Gulde and Philip Gerson
+February 17, 2009
+Contents
+
+Page
+
+Executive Summary .......................................................................................................3
+I.
+II.
+III.
+
+Introduction...........................................................................................................4
+Background ...........................................................................................................4
+Discussions .........................................................................................................15
+A.
+Macroeconomic Outlook and Risks .........................................................15
+B.
+External Stability......................................................................................18
+C.
+Financial Sector Assessment ....................................................................21
+D.
+Fiscal Policy .............................................................................................22
+E.
+Structural Policies.....................................................................................24
+IV. Staff Appraisal ....................................................................................................24
+Boxes
+1. Implementation of Fund Policy Advice ................................................................4
+2. Inflation in Estonia and the EU...........................................................................11
+3.
+Labor Market Flexibility.....................................................................................17
+4. Findings and Recommendations of the FSAP-Update ......................................22
+Figures
+1. Income Convergence in New Member States, 1995 and 2007 .............................4
+2. The Baltics: Recent Developments, 2000–08 .......................................................5
+3. Growth and Output Gap, 2002–08........................................................................6
+4. The Turnaround in 2007–08 .................................................................................7
+5. The Impact of the Recent Global Financial Turmoil, 2007–09 ............................8
+6. Asset Markets Developments ...............................................................................8
+7. External Sector Developments............................................................................10
+8. Developments in the Labor Market and Enterprises’ Finances ..........................12
+9. Survey Data on Labor Market Pressures, 2001–08.............................................13
+10. Salient Features of the Staff’s Medium-Term Scenarios, 2001–14 ....................16
+11. External Debt Sustainability: Bound Tests, 2003–14 .........................................20
+
+2
+Tables
+1. Selected Macroeconomic Indicators, 2001–09 ...................................................27
+2. Summary of General Government Operations, 2001–09....................................28
+3. Summary Balance of Payments, 2002–14...........................................................29
+4. Macroeconomic Framework Under the Baseline Scenario, 2001–14.................30
+5. Indicators of External Vulnerability, 2001–08....................................................31
+6. Monetary Survey, 2003–09.................................................................................32
+7. Baseline and Alternative Scenarios, 2001–14.....................................................33
+8. External Debt Sustainability Framework, 2003–14............................................34
+Informational Annex ....................................................................................................35
+
+3
+EXECUTIVE SUMMARY
+Background: The financial sector and the currency board arrangement weathered the 2008
+global turmoil well but an already severe recession will be deepened by the global crisis. The
+demand decline has shrunk the external current account deficit, ended the credit boom and
+cooled the property market. But the recession is presenting a stiff challenge to labor market
+flexibility, fiscal management and banks’ profitability. Moreover wage growth has been
+outpacing productivity,undermining profits and competitiveness.
+Outlook: Weak domestic and global demand will lead to a severe contraction in 2009 and–
+assuming a global recovery—a slow recovery in 2010. The severity of the contraction and the
+timing of the recovery are uncertain because of the unsettled external environment and lags in
+the wage response.
+External stability: The real exchange rate is somewhat overvalued but external imbalances
+have shrunk. External risks are being mitigated by the slower growth of foreign-funded credit
+and a strengthened framework to contain liquidity risk.
+Policy advice: Policy discussions focused on the fiscal stance, financial sector resilience and
+labor market flexibility. On fiscal policy, large expenditure increases over the past two years
+are unsustainable and leave little room for countercyclical measures which would anyway be
+of only modest impact. More important is to limit the run-down of the government’s liquidity
+buffers in order to maintain support for the currency board, adhere to the Maastricht deficit
+ceiling and move gradually to a structural surplus that would support the overarching target
+of “balance or better” through the business cycle. The mission supported plans to freeze the
+government wage bill for 2009-10, nudging the economy towards wage restraint. On the
+financial sector, staff agreed that a key objective should be euro adoption, to reduce
+vulnerability to financial turbulence. The mission welcomed the authorities’ decision to
+implement the main recommendations of the FSAP-update mission, notably to strengthen
+crisis management frameworks. Staff supported government’s efforts to increase labor
+market flexibility while improving social safety nets.
+Authorities’ position: The authorities were confident that the economy’s flexibility would
+facilitate a recovery. They reaffirmed their commitment to euro adoption and to fiscal balance
+or surpluses over the medium term.
+Mission: Discussions were held in May and December 2008. The team comprised
+Franek Rozwadowski (Head), Nada Choueiri, Anastassios Gagales, Mark Lutz (all EUR),
+Pedro Rodriguez (SPR), and Steven Seelig (MCM).
+
+4
+I. INTRODUCTION
+1.
+Estonia is facing its most severe recession since the early 1990’s. The downturn
+started as the reversal, in early 2007, of a credit-driven domestic boom and gained
+momentum from the global financial crisis and a collapse in domestic confidence. The
+recession is reducing domestic and external imbalances but its pace and depth have created
+large budget deficits and are putting pressure on private sector balance sheets. The
+consultation focused on the macroeconomic outlook, domestic and external financial sector
+vulnerabilities, and policy options for the difficult times ahead.
+Box 1. Implementation of Fund Policy Advice
+Relations between Estonia and the Fund have been excellent. While policy implementation has
+been characterized by a high degree of ownership, which has been key to Estonia’s economic
+success, the authorities report that their decisions have benefited considerably from Fund
+advice. Indeed, their policies have generally been consistent with such advice. A case in point is
+the adoption of the key recommendations of the 2008 FSAP update. However, in 2007-2008,
+large increases in expenditure, counter to Fund advice, resulted in structural fiscal policy
+loosening.
+
+II. BACKGROUND
+
+Bulgaria
+
+Czech
+Republic
+
+Poland
+
+Hungary
+
+Romania
+
+Slovenia
+
+Slovakia
+
+Lithuania
+
+Latvia
+
+Estonia
+
+2.
+An outstanding economic performance gave way in 2005-07 to a credit-led boom
+and widening external imbalances. Far-reaching structural reforms and macroeconomic
+stability supported an
+Figure 1. Income Convergence in New Member States, 1995 and 2007 1/
+(PPS per capita GDP at current prices, percent of EU15 average)
+impressive convergence in
+90
+per capita GDP (Figure 1).
+80
+Macroeconomic
+70
+imbalances were
+60
+manageable at first, but
+50
+burgeoning confidence,
+40
+related to EU accession,
+30
+and access to abundant
+20
+liquidity from abroad
+10
+0
+fueled demand in 200506, particularly in the real
+estate sector. As in other
+Baltic countries, GDP
+Change from 1995 to 2007
+growth rose well above
+2007
+potential, inflation
+Source: Eurostat.
+1/ Except for Romania where data is for 1999.
+accelerated, and the
+current account deficit
+widened alarmingly (Figures 2–3, Tables 1–6). Asset prices rose sharply, driven in part by
+self-fulfilling expectations, and adding fuel to demand.
+
+5
+
+Figure 2. The Baltics: Recent Developments, 2000-08 1/
+All three countries experienced demand-led booms with accelerating inflation,
+16
+
+20
+Domestic Demand Growth
+(In percent)
+
+15
+
+14
+12
+
+14
+12
+
+Estonia
+Latvia
+Lithuania
+
+10
+
+10
+
+16
+
+Inflation rate
+(12-month growth rate, end of period,
+in percent)
+
+8
+
+10
+8
+
+5
+6
+
+6
+
+4
+
+4
+
+Latvia
+
+2
+
+2
+
+Lithuania
+
+0
+
+0
+
+0
+Estonia
+-5
+-10
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+-2
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+-2
+2008
+
+large external current account deficits, and rapid credit growth.
+0
+
+0
+
+Current account balance
+(in percent of GDP)
+
+-5
+
+40
+
+-5
+
+-10
+
+-10
+
+-15
+
+-15
+
+-20
+
+-20
+
+Estonia
+Latvia
+
+-25
+
+-25
+
+Lithuania
+
+-30
+2001
+
+2002
+
+2003
+
+2004
+
+35
+
+Bank Lending to Private Sector Residents
+(Flow in percent of GDP)
+
+2006
+
+2007
+
+-30
+2008
+
+35
+
+30
+
+30
+
+25
+
+25
+
+20
+
+20
+
+15
+
+15
+
+10
+
+10
+5
+
+5
+Estonia
+
+0
+
+Latvia
+
+-5
+2005
+
+40
+
+-10
+2001Q1
+
+Lithuania
+2002Q3
+
+2004Q1
+
+2005Q3
+
+2007Q1
+
+0
+-5
+-10
+2008Q3
+
+But Estonia demonstrated a significantly larger degree of fiscal prudence and higher labor gains.
+4
+
+4
+
+General government balance
+(in percent of GDP)
+
+3
+
+3
+
+2
+
+2
+
+1
+
+1
+
+0
+
+71
+69
+
+Employment rate
+(In percent of working age population)
+
+71
+69
+
+67
+
+67
+
+0
+
+65
+
+65
+
+-1
+
+-1
+
+63
+
+63
+
+-2
+
+-2
+
+61
+
+61
+
+Estonia
+
+-3
+
+Latvia
+
+-3
+
+-4
+
+Lithuania
+
+-4
+
+-5
+
+-5
+
+-6
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+-6
+2008
+
+59
+57
+
+Estonia
+Latvia
+Lithuania
+
+59
+57
+
+55
+55
+2000 2001 2002 2003 2004 2005 2006 2007 2008
+
+Source: Eurostat; UN Comtrade; and IMF staff calculations.
+1/ Annual data for 2008 reflect IMF staff estimates as of January 15, 2009.
+
+6
+Figure 3. Estonia: Growth and Output Gap, 2002-08 1/
+(In percent; and percent of potential output)
+12
+
+12
+
+10
+
+10
+
+8
+
+8
+
+6
+
+6
+
+4
+
+4
+
+2
+
+2
+
+0
+
+0
+Actual growth
+Output gap
+
+-2
+-4
+2002
+
+2003
+
+2004
+
+-2
+
+2005
+
+2006
+
+2007
+
+-4
+2008 Est.
+
+Sources: Estonian Statistical Office; and Fund staff calculations.
+1/ The output gap is measured as the average of gaps obtained from the HP filter and from the
+production function approach.
+
+3.
+Like the upswing, the downturn was driven by domestic demand (Figure 4).
+Investment sagged in 2007 when Estonia’s two largest banks—both subsidiaries of Swedish
+banking groups—curtailed lending in response to a heightened awareness of risks in their
+large Baltic exposures. Subsequently the global liquidity crunch in 2007-08 led to a repricing
+of risk—CDS spreads, interest rate premia and forward premia all rose and Swedish banks’
+share prices declined
+Estonia: Sources of the Demand Slowdown, 2007-08
+(Year-on-year, in percent)
+(Figure 5). By 2008, the flow
+Contributions to
+of bank credit relative to GDP
+GDP growth
+had fallen sharply and
+2007Q1
+2008Q3
+Change 1/
+confidence indicators had
+Domestic demand
+12.4
+-10.5
+-22.9
+wilted. The stock market
+Consumption
+8.4
+-0.9
+-9.3
+dropped below its pre-boom
+Other
+4.0
+-9.6
+-13.6
+level, while housing prices fell Net exports
+-6.5
+8.8
++15.3
+20-30 percent below their
+Exports
+3.5
+4.5
+1.0
+Imports (-)
+10.0
+-4.3
+-14.3
+peak (Figure 6). In 2008
+GDP
+9.0
+-3.5
+-12.6
+domestic demand collapsed,
+producing three quarters of
+Sources: Estonian Statistical Office; and Fund staff calculations.
+increasingly negative GDP
+1/ Percentage point difference.
+growth.
+
+7
+Figure 4. Estonia: The Turnaround in 2007-08
+As confidence slipped...
+
+...and credit slowed...
+40
+
+40
+Confidence Indicators, 2003-08
+(Seasonally adjusted)
+30
+
+35
+
+20
+
+30
+
+10
+
+25
+
+0
+
+20
+
+-10
+
+15
+
+-20
+
+10
+
+Flows of Private Sector Credit, 2000-2008
+(In percent of GDP, seasonally adjusted)
+Total private credit
+
+Consumer
+confidence indicator
+
+-30
+
+Jan-04
+
+Jan-05
+
+Jan-06
+
+Jan-07
+
+Mortgage
+credit
+
+Nonfinancial
+corporations credit
+
+5
+
+Economic sentiment
+indicator
+
+-40
+Jan-03
+
+Other household
+credit
+
+Jan-08
+
+0
+2000Q4
+
+2002Q2
+
+2003Q4
+
+2005Q2
+
+2006Q4
+
+2008Q2
+
+Inflation responded with a lag.
+
+...domestic demand decelerated.
+
+14
+
+14
+
+30
+
+Contributions to Inflation, 2001- 2008
+(Year-on-year, in percent)
+
+Contribution Growth, 2005-2008
+(Year-on-year percent change)
+
+25
+
+12
+
+12
+20
+
+10
+
+10
+
+15
+10
+
+8
+
+Contribution of
+noncore
+
+Headline
+HICP
+
+8
+
+5
+0
+-5
+
+6
+
+6
+
+4
+
+4
+
+-10
+Net exports
+-15
+
+2
+
+2
+Contribution of
+core
+
+Domestic demand
+GDP growth
+
+-20
+2005Q1
+
+2006Q1
+
+2007Q1
+
+2008Q1
+
+0
+Jan-01
+
+Source: Estonian authorities and IMF staff calculations.
+
+0
+Jul-02
+
+Jan-04
+
+Jul-05
+
+Jan-07
+
+Jul-08
+
+8
+Figure 5. Estonia: The impact of the Recent Global Financial Turmoil, 2007-09
+105
+
+105
+Estonia Spot and Forward Rates 1/
+(Peg of 15.6466 = 100)
+
+104
+
+5.0
+
+TALIBOR Rate and Spread
+(3-month, spread versus EURIBOR)
+
+7.0
+
+4.5
+
+104
+
+4.0
+
+6.5
+
+Spot
+3-month
+6-month
+
+103
+
+7.5
+
+103
+
+102
+
+TALIBOR rate
+
+3.5
+
+6.0
+
+3.0
+
+5.5
+
+2.5
+
+5.0
+
+2.0
+
+102
+
+101
+
+101
+
+1.5
+
+4.5
+
+1.0
+
+4.0
+100
+
+TALIBOR spread
+(right scale)
+
+100
+3.5
+
+99
+Jan-07 Apr-07 Jul-07
+700
+
+Oct-07 Jan-08 Apr-08 Jul-08
+
+99
+Oct-08 Jan-09
+
+Oct-07 Jan-08 Apr-08 Jul-08
+
+0.0
+
+-0.5
+Oct-08 Jan-09
+
+120
+
+Credit Default Spreads 1/
+(5-year maturity, in basis points)
+
+600
+
+3.0
+Jan-07 Apr-07 Jul-07
+
+0.5
+
+Swedish Banking Sector Equities
+(January 1, 2007=100)
+
+100
+
+500
+
+80
+
+400
+60
+300
+40
+
+200
+
+SEB
+Swedbank
+FTSEEurofirst 300 Banks
+
+20
+
+100
+0
+Jan-07 Apr-07
+
+Jul-07
+
+Oct-07 Jan-08 Apr-08
+
+Jul-08
+
+Oct-08 Jan-09
+
+0
+Jan-07 Apr-07
+
+Jul-07
+
+Oct-07 Jan-08 Apr-08
+
+Jul-08
+
+Oct-08 Jan-09
+
+Source: Bloomberg and Staff calculations.
+1/ Breaks in the series reflect periods when there were no quotes.
+
+Figure 6. Estonia: Asset Markets Developments
+350
+
+240
+
+Average Apartment Price as a Share of Monthly Wages,
+2000Q1-2008Q3 (2000Q3=100)
+
+220
+
+300
+
+250
+
+Stock Market Index
+(January 3, 2005=100)
+
+200
+Tallinn
+
+180
+
+Tartu
+
+160
+140
+
+200
+
+120
+150
+
+100
+80
+
+100
+
+60
+50
+2000Q1
+
+2002Q1
+
+2004Q1
+
+2006Q1
+
+Source: ESO, Bloomberg, and Staff calculations.
+
+2008Q1
+
+40
+Jan-05
+
+Jan-06
+
+Jan-07
+
+Jan-08
+
+Jan-09
+
+9
+
+4.
+The recession has sharply reduced the external current account deficit (Figure 7).
+After swelling to 18 percent in 2007, the deficit receded to an estimated 10 percent in 2008,
+the lowest in six years. The main factor was the trade balance: imports were pulled down by
+domestic demand while exports increased modestly, owing to an improvement in prices and a
+recovery of oil transit trade. A second factor was the decline in profits paid to foreign-owned
+companies and banks. Competitiveness is being eroded—the nominal ULC-based real
+exchange rate is appreciating rapidly but the real ULC-based measure shows a much more
+moderate appreciation.1 Indeed, Estonia’s market share of world exports has increased only
+modestly in recent years, unlike the impressive gains registered in 2002–04.
+5.
+Inflation, which hit an eleven-year high in early-2008, is coming down rapidly
+(Figure 4). As in the other Baltic countries, inflation has exceeded the euro area average,
+reflecting temporary factors and convergence dynamics (Box 2). Inflation rose in 2007
+mainly because of external shocks (from food and fuel) and one-off domestic shocks (from
+administered prices and indirect taxes); it subsequently declined as the external shocks were
+reversed.2 At the same time, core inflation, which accelerated during the boom, is
+decelerating as the economy weakens.
+6.
+Labor market conditions were tight until late 2008 but there are signs of rapid
+easing. Real wage growth still exceeds productivity growth, compressing profits relative to
+their strong 2006–07 level, but nominal wage growth has slowed from more than 20 percent a
+year in 2007 to about 15 percent in mid-2008. Wage growth in construction has collapsed and
+there are reports of cancelled or reduced wage bonuses in other sectors. And, after eight years
+of declines, the unemployment rate jumped by more than 2 percentage points in the third
+quarter of 2008 (Figure 8). Other signs of easing include declining vacancies, increased
+layoffs, and enterprise surveys (Figure 9) that put labor shortages at the bottom of the list of
+factors hindering business activity.
+
+1
+
+The real ULC is the ULC deflated by the producer price index. A constant real ULC in the face of an
+appreciating nominal ULC suggests that profitability is sustained by the capacity to charge higher prices,
+perhaps because of a shift to higher value-added goods.
+
+2
+
+The authorities frontloaded the adjustment of excises and administrative prices in order to ease the way to
+meeting the Maastricht criterion when other inflationary impulses fade.
+
+10
+
+Figure 7. Estonia: External Sector Developments
+Current Account Balance and Components,
+2002Q4-2008Q3
+In percent of GDP
+
+0
+
+8
+
+Real Exports Growth, 2001Q1-2008Q3
+4-Quarters Moving Average of Q/Q Growth of SA
+National Accounts Data
+
+6
+
+-5
+
+4
+
+-10
+
+2
+
+-15
+
+0
+-20
+-2
+-25
+
+Income and transfers
+Goods and nonfactor services
+
+Goods
+Services
+
+-4
+2007Q4
+
+2006Q4
+
+2005Q4
+
+2004Q4
+
+2003Q4
+
+2002Q4
+
+-30
+-6
+2001Q1
+
+2005Q1
+
+120
+
+170
+
+Manufacturing Nominal ULC-based
+140
+
+Estonia
+
+Manufacturing Real ULC-based
+Terms of trade (right scale)
+
+160
+115
+150
+
+130
+110
+
+Lithuania
+
+140
+
+120
+
+110
+
+2007Q1
+
+World Trade Shares, 2000-08 1/
+(2000=100)
+
+Real Effective Exchange Rate
+1995Q1-2008Q2 (1999=100)
+150
+
+2003Q1
+
+105
+
+Bulgaria
+
+130
+
+120
+
+100
+100
+
+Romania
+110
+
+90
+
+Latvia
+
+95
+100
+
+80
+
+70
+90
+1995Q1 1997Q3 2000Q1 2002Q3 2005Q1 2007Q3
+
+90
+2000 2001 2002 2003 2004 2005 2006 2007 2008
+
+Source: Eesti Pank, Eurostat, ESO, and Staff calculations.
+1/ Data for 2008 reflect IMF staff estimates as of January 15, 2009.
+
+11
+Box 2. Inflation in Estonia and the EU
+Estonia’s inflation has diverged from the EU
+average despite the currency peg because of
+convergence, differences in cyclical positions and
+energy and food prices.
+As in the other Baltic countries, energy prices
+accelerated following the renegotiation of long-term
+contracts, the linking of gas prices to oil prices and
+the increase in excises towards EU-mandated levels.
+Food prices, which are still well below EU average,
+have been catching up. Finally, the weights of
+energy and food in HICPs are substantially higher in
+Estonia than EU-wide. This alone accounts for
+2 percentage points of the Estonia-EU inflation
+differential.
+
+Bulgaria
+Lithuania
+Latvia
+Estonia
+Slovenia
+Portugal
+Spain
+Greece
+Germany
+Austria
+France
+Italy
+Finland
+Denmark
+Ireland
+
+Food prices, 2006
+(EU27=100)
+
+0
+
+50
+
+100
+
+150
+
+Source: Eurostat and IMF staff calculations.
+
+Inflation differentials vis-a-vis the Euro Area average, 2007-08
+Latvia
+Bulgaria
+Estonia
+Lithuania
+Slovenia
+Spain
+Greece
+Luxembourg
+Ireland
+Portugal
+Italy
+Belgium
+Germany
+Austria
+France
+Netherlands
+Finland
+
+Latvia
+Bulgaria
+Estonia
+Lithuania
+Greece
+Spain
+Ireland
+Portugal
+Slovenia
+Luxembourg
+Italy
+France
+Belgium
+Austria
+Germany
+Finland
+Netherlands
+
+HICP
+
+-2
+
+0
+
+2
+
+4
+
+6
+
+Latvia
+Estonia
+Lithuania
+Greece
+Ireland
+Slovenia
+Germany
+Luxembourg
+Portugal
+Bulgaria
+Austria
+Spain
+Netherlands
+Italy
+Finland
+France
+Belgium
+
+8
+
+10
+
+0
+
+2
+
+4
+
+6
+
+8
+
+-2
+
+0
+
+2
+
+4
+
+6
+
+Bulgaria
+Latvia
+Lithuania
+Estonia
+Slovenia
+Spain
+Greece
+Luxembourg
+Belgium
+Portugal
+Austria
+Germany
+Ireland
+Italy
+Finland
+Netherlands
+France
+
+Energy
+
+-2
+
+Core inflation
+(Excludes energy,
+food and achohol)
+
+10
+
+8
+
+10
+
+Food
+
+-2
+
+0
+
+Source: Eurostat, HICP data bank and Fund staff calculations.
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+Figure 8. Estonia: Developments in the Labor Market and Enterprises' Finances
+76
+74
+
+16
+
+5
+
+Labor Market Developments,
+1997Q1-2008Q3
+14
+Unemployment rate
+(right scale)
+
+72
+
+4
+
+Productivity and Real Wage Growth,
+2003Q1-2008Q3
+3MMA of Q/Q growth, SA data, in percent
+
+12
+3
+
+70
+10
+2
+
+68
+8
+66
+
+1
+6
+
+64
+0
+62
+
+Participation rate
+(left scale)
+
+4
+
+60
+
+2
+
+58
+1997Q1 1999Q1 2001Q1 2003Q1 2005Q1 2007Q1
+
+0
+
+225
+
+-1
+
+-2
+2003Q1
+
+2004Q1
+
+2005Q1
+
+2006Q1
+
+2007Q1
+
+2008Q1
+
+200
+Enterprises' real profit index,
+2003Q1-2008Q3
+(2002Q1=100)
+
+200
+
+Real wage
+Value added per worker
+
+Economy-wide
+
+Enterprises' real labor productivity index, 2003Q12008Q3 (2002Q1=100)
+(Value added per employee)
+180
+Economy-wide
+
+Manufacturing
+
+Manufacturing
+175
+160
+150
+140
+125
+
+120
+
+100
+
+75
+2003Q1 2004Q1 2005Q1 2006Q1 2007Q1 2008Q1
+
+Source: ESO; Staff calculations
+
+100
+2003Q1 2004Q1 2005Q1 2006Q1 2007Q1 2008Q1
+
+13
+
+100
+80
+
+Figure 9. Estonia: Survey Data on Labor Market Pressures, 2001-08 1/
+
+Construction
+
+60
+40
+20
+
+Industry
+Services
+Retail
+
+0
+-20
+-40
+2001Q3 2002Q2 2003Q1 2003Q4 2004Q3 2005Q2 2006Q1 2006Q4 2007Q3 2008Q2
+Source: Estonia Institute of Economic Research; and Staff calculations.
+1/ The index, which measures the role of labor market shortages in limiting production (industry, construction,
+services) or changes in employment plans over the next three months (retail), is constructed from the responses of
+market participants to the business tendency survey.
+
+7.
+The financial sector withstood last year’s global financial turbulence well, but
+risks remain elevated. Since 95 percent of the banking sector (by assets) is owned by large
+Nordic groups with centralized liquidity management, there is virtually no domestic money
+market. Estonian subsidiaries and branches were kept liquid—if at high prices—by their
+parents who in turn benefited from liquidity support and guarantees by the home country
+authorities. The resilience of the sector was tested twice in 2008. In October, a system-wide
+run on a large regional bank affected its deposits in Estonia, which declined by 15 percent.
+The episode caused little systemic damage because liquidity was provided by the parent
+institution and the deposits moved to the local branch of another Nordic bank. Later in the
+year, the banking sector was little affected by the crisis in Latvia. As regards capitalization,
+banks’ buffers have been strengthened by high retained earnings (text table) and supported by
+conservative regulatory limits.3 But banks face increasing risks: the mortgage boom has
+reduced liquidity and asset quality is being eroded by the recession.
+
+3
+
+The regulatory CAR is 10 percent, higher than the 8 percent Basel requirement. The risk weight on mortgages
+was 100 percent in 2006. It was reduced to 60 percent with Basel II implementation in 2008 but remains higher
+than the 35 percent minimum risk weight required by the European Capital Requirements Directive.
+
+14
+Estonia: Financial Soundness Indicators of the Banking Sector
+
+Capital adequacy
+Regulatory capital as percent of risk-weighted assets
+Capital as percent of assets
+Capital adequacy (on consolidated basis)
+Regulatory capital as percent of risk-weighted assets
+Capital as percent of assets
+Asset quality
+Non-performing loans (NPL) as percent of gross loans
+NPL net of provisions as percent of tier I capital
+Earnings and profitability
+Gross profits as percent of average assets (ROAA)
+Gross profits as percent of average equity capital (ROAE
+Liquidity
+Liquid assets as percent of total assets
+Liquid assets as percent of short-term liabilities
+Foreign currency loans as percent of total loans
+Deposits as percent of assets
+Loans as percent of deposits
+
+2004
+
+2005
+
+2006
+
+2007
+
+Mar-08
+
+Jun-08
+
+Sep-08
+
+13.37
+9.81
+
+11.72
+8.64
+
+13.16
+8.41
+
+14.78
+8.61
+
+16.97
+8.73
+
+18.22
+8.63
+
+18.34
+8.95
+
+11.47
+9.94
+
+10.72
+8.72
+
+10.79
+7.61
+
+10.84
+7.70
+
+12.11
+8.04
+
+12.72
+8.66
+
+12.88
+9.11
+
+0.26
+2.03
+
+0.20
+1.22
+
+0.18
+1.56
+
+0.44
+3.82
+
+0.62
+5.01
+
+1.05
+9.40
+
+1.55
+13.91
+
+2.13
+20.04
+
+1.96
+21.04
+
+1.70
+19.77
+
+2.59
+30.00
+
+2.77
+31.57
+
+2.76
+30.96
+
+1.97
+21.37
+
+22.30
+39.17
+80.4
+48.5
+142.9
+
+24.93
+39.46
+79.9
+51.3
+132.1
+
+19.19
+31.98
+78.1
+51.2
+144.8
+
+18.12
+34.89
+80.50
+58.50
+137.52
+
+18.05
+34.72
+82.71
+52.34
+156.35
+
+17.39
+30.27
+84.64
+53.79
+153.61
+
+17.64
+31.43
+85.68
+54.88
+151.60
+
+Source: Eesti Pank.
+
+8.
+Estonia’s track record of fiscal conservatism has been interrupted by large
+expenditure increases. During 2001-06, expenditure ratios were the lowest in the EU. This
+supported fiscal surpluses that distinguished Estonia from its Baltic neighbors (Figure 2) and,
+built up a net asset position. But large structural expenditure increases (both the wage bill and
+pensions rose a cumulative 24 percent in real terms in 2007-08) have pushed the fiscal
+balance into deficit. For 2008 the impact was compounded by the recession, which helped
+drive the deficit to an estimated 2.3 percent of GDP despite a supplementary budget featuring
+expenditure cuts and asset sales. The cyclically-adjusted deficit was larger, nearly 3¼ percent
+of GDP.
+Estonia: Selected Fiscal Indicators
+In percent of GDP
+
+Total revenues and grants
+Total expenditure
+General government balance
+Cyclically-adjusted balance
+Net transfers from the EU 1/
+Cyclically-adjusted balance corrected for net EU transfers
+Fiscal impulse 2/
+Memorandum item:
+Output gap
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+Prel.
+
+2008
+Est.
+
+35.6
+33.1
+
+36.3
+34.7
+
+37.1
+35.5
+
+38.6
+35.3
+
+39.6
+36.7
+
+38.7
+41.0
+
+2.5
+2.3
+0.7
+
+1.6
+1.0
+1.4
+
+1.6
+-0.1
+0.4
+
+3.3
+0.7
+1.1
+
+3.0
+-0.3
+1.8
+
+-2.3
+-3.2
+1.9
+
+1.7
+-0.8
+
+-0.4
+2.1
+
+-0.6
+0.2
+
+-0.4
+-0.1
+
+-2.2
+1.7
+
+-5.1
+3.0
+
+0.4
+
+1.9
+
+5.8
+
+8.6
+
+10.1
+
+3.0
+
+Source: Ministry of Finance, Statistical Office, and Staff Estimates and Projections.
+1/ Transfers from the EU minus Estonia's transfers to the EU budget.
+2/ First difference in the cyclically- and EU funds-adjusted balance, with sign reversed.
+
+15
+III. DISCUSSIONS
+9.
+The economic contraction is reducing Estonia’s imbalances, but new risks have
+emerged. The deepening global recession will weaken Estonia’s export markets at a time
+when wage growth has eroded competitiveness. The global credit crunch is restricting capital
+inflows. The performance of banks’ assets will be stressed further by the domestic recession.
+And the budget is heading towards large deficits unless there is a substantial adjustment.
+Discussions focused on: the macroeconomic outlook and risks; fiscal and financial sector
+challenges, with emphasis on policies to increase resilience to adverse macroeconomic
+developments; and the contingency framework for the financial sector.
+A. Macroeconomic Outlook and Risks
+10.
+The near-term outlook is uncertain. Growth is likely to recover only after further
+wage deceleration has allowed a recovery of investment and exports, and higher saving has
+restored households’ financial health. Also a recovery of the regional economies would be
+needed to support exports and help restore consumer confidence. However, the global
+outlook is uncertain and the wage response is difficult to predict although, as noted above,
+there are signs that a labor market adjustment has began. Since flexible labor market
+institutions (see Box 3) allow for a swift wage response, a rapid rebound is possible once the
+global environment improves.
+11.
+In staff’s baseline scenario,4 the recession deepens in 2009, with recovery delayed
+to 2010 (Table 4).
+•
+
+The global recession, weak domestic confidence, and a lagged wage adjustment
+should push growth to -4 percent in 2009 (close to the Ministry of Finance’s 3½ percent). Consumption will fall as unemployment rises and households rebuild
+financial buffers; investment and exports are constrained by reduced profits and
+weaker domestic and external demand. The current account deficit should improve
+sharply as low demand slows imports and weak profits reduce income payments.
+
+•
+
+The turnaround is projected to start in mid-2010, assuming the global economy
+recovers. By then, all annual wage contracts will have been renegotiated and
+accumulated household saving will have created a basis for increased consumption.
+
+•
+
+In the medium term, growth will be lower than in recent years because, with full
+employment, the main drivers are investment and total factor productivity. Indeed,
+productivity increases will be imperative: with real wages still converging to EU
+levels, firms relying on low-wage labor will have to restructure or go bankrupt—a
+process already underway. Staff projects that investment will eventually return to the
+
+4
+
+The baseline scenario incorporates the authorities’ announced policy to contain the deficit to at most the
+Maastricht limit, assumed to take place through cuts in current expenditure.
+
+16
+2002 level while higher interest rates and the prospect of slowing growth will keep
+the saving rate higher than before the boom. The current account deficit should settle
+at about 9½ percent of GDP (Figure 10) and the debt ratio would stabilize, albeit at a
+higher level.
+12.
+Assuming no further shocks, prices will decelerate sharply in 2009. The direct
+impact of the one-off 2008 increases in excises and administrative prices will recede through
+2009—vindicating the authorities’ decision to front-load the increases—while second-round
+effects should be limited by the recession and by the currency board, which should also
+contribute to rapid deceleration of underlying inflation. The authorities noted that a window
+of opportunity to meet the Maastricht inflation criterion for euro adoption could therefore
+open in 2010.
+13.
+Since the wage response has just begun, staff has prepared an alternative
+scenario in which wages do not decelerate significantly until 2010 (Figure 10, Table 7).
+Continued strong wage growth in 2009 would support higher consumption than in the
+baseline but would undermine competitiveness, hurting exports and investment. GDP growth
+would remain below potential through the projection period and a wider external current
+account deficit would cause faster debt accumulation than in the baseline scenario. The
+authorities view this scenario as unlikely to materialize given the incipient labor market
+adjustment.
+
+Figure 10. Salient Features of the Staff's Medium-Term Scenarios, 2001-14
+45
+40
+
+-40
+
+Saving and Investment
+In percent of GDP
+
+Saving
+Investment
+
+Net External Asset Position
+In percent of GDP
+
+-50
+-60
+
+35
+
+-70
+
+30
+
+-80
+High-wage
+scenario
+
+25
+
+-90
+-100
+
+20
+High-wage scenario
+15
+
+-110
+
+High-wage scenario
+
+-120
+2001
+
+2004
+
+2007
+
+2010
+
+2013
+
+2001
+
+2004
+
+Source: Estonian authorities and IMF staff calculations and projections.
+
+2007
+
+2010
+
+2013
+
+17
+Box 3. Labor Market Flexibility
+Estonia’s labor market institutions facilitated downward wage flexibility during the recession that followed the
+1998-99 Russian crisis, and delivered low unemployment during the upswing (Figure 8). Their strength derives from:
+•
+•
+•
+•
+
+A liberal legislative framework (though international benchmarking suggests scope for reducing dismissal costs)
+Decentralized wage setting and relatively low minimum wages
+Widespread use of performance-related bonuses (65 percent of enterprises; 15 percent of the wage bill)
+A low trade union density (less than 10 percent of employment, compared to the 25 percent EU27 average)
+
+Labor market institutions are at least as flexible now as in 1998-99 and should once again ease adjustment. However,
+emigration could hamper downward wage flexibility and amplify employment volatility.
+Above average firing costs are a drag...
+Germany
+Spain
+Austria
+Ireland
+Italy
+Slovenia
+Denmark
+Croatia
+Lithuania
+Estonia
+France
+Bulgaria
+Poland
+Sweden
+Finland
+Czech Rep.
+Latvia
+Netherlands
+Belgium
+Iceland
+Slovak Rep
+Norway
+
+...on an otherwise flexible labor market
+Germany
+Italy
+Romania
+Portugal
+Sweden
+Austria
+Belgium
+Spain
+France
+Slovenia
+Finland
+Ireland
+Bulgaria
+Czech
+Poland
+Netherland
+Lithuania
+Norway
+Estonia
+Croatia
+Slovak Rep
+Latvia
+Denmark
+
+Mandated
+dismissal
+costs
+
+0
+
+2
+
+4
+
+6
+
+8
+
+Overall
+labor market
+flexibility
+
+0
+
+10
+
+2
+
+4
+
+6
+
+8
+
+Source: Fraser Institute. Indices on the 0-10 scale, with a higher score indicating more liberal institutions.
+
+The minimum wage is relatively low. 1/
+
+Wages are low by EU standards.
+Bulgaria
+Romania
+Latvia
+Lithuania
+Slovakia
+Estonia
+Poland
+Hungary
+Czechia
+Portugal
+Slovenia
+Greece
+Spain
+Italy
+Austria
+Germany
+France
+Belgium
+Denmark
+Iceland
+0
+
+10
+
+Source: Eurostat .
+1/
+
+Romania
+Estonia
+Latvia
+Poland
+Slovakia
+UK
+Hungary
+Lithuania
+Czechia
+Spain
+Portugal
+Netherlands
+Slovenia
+Belgium
+Luxemburg
+Ireland
+
+Ave rage ho urly
+labor cost, 2 006.
+
+20
+
+30
+
+40
+
+0
+
+20
+
+40
+
+Minimum wage in percent of average monthly gross earnings in industry and services, 2005
+
+60
+
+18
+
+14.
+Other risks to the outlook stem from the still-unsettled global environment. Chief
+among them are a sharper-than-expected contraction in export markets and a financial market
+shock stemming from adverse developments in Nordic parent banks or in other countries in
+the region. Given the strong trade and investment ties across the Baltics, a severe recession in
+Latvia or Lithuania would further depress demand in Estonia, aggravating the recession and
+worsening the performance of the financial sector. Moreover, since Swedish banking groups
+are dominant in all the Baltics, a financial crisis in either neighboring country or Sweden
+could spill into Estonia by provoking bank runs or capital flight.These risks underscore the
+urgency of strengthening the financial sector contingency framework, as discussed below. On
+the upside, the authorities noted that Estonia’s flexible markets and still-low production costs
+compared to neighboring countries could attract investment by Nordic firms seeking to cut
+costs in an adverse global environment.
+B. External Stability
+15.
+Estonia’s imbalances suggest that the real exchange rate is overvalued, but
+overvaluation estimates are inconclusive. The large current account deficit and high wage
+and price inflation indicate that the real exchange rate has appreciated too rapidly, leading to
+an overvalued real exchange rate. However, staff calculations, using a variety of standard
+approaches, show overvaluation falling in a wide range, from 3 to 19 percent. At the low end
+of the range, the projection-based estimates are consistent with staff’s medium term current
+account projection; the other estimates (with the exception of the REER deviation from
+historical average) rely on calculations of the underlying current account and of the
+equilibrium real exchange rate (Selected Issues, Chapter II).
+Estonia: Estimates of Real Exchange Rate Overvaluation
+(In percent)
+REER Overvaluation 1/
+Macrobalance Approach
+Projections-based method 2/
+Elasticities-based method 3/
+External Sustainability Approach 4/
+Projections-based method 2/
+Elasticities-based method 3/
+Equilibrium Real Exchange Rate Approach
+REER Deviation from Historical Average 5/
+
+5.3
+9.4
+18.6
+15.5
+
+Mid-point of overvaluation range
+
+10.8
+
+3.1
+7.2
+
+Source: IMF staff calculations.
+1/ Based on end-October 2008 data
+2/ Uses the end-point WEO projection (for year 2014) as the underlying current account.
+3/ Uses the coefficients of Isard and Faruquee (1998) to estimate the underlying current account.
+4/ NFA stabilized at the end-September 2008 level (-77 percent of GDP).
+5/ Average deviation (of CPI-based REER and ULC-based REER) from their
+past five-year historical averages.
+
+19
+16.
+The authorities argued that the real appreciation remained manageable. They
+noted that some of the approaches likely overstate the disequilibrium. First, elasticities-based
+calculations of the underlying current account use parameters estimated for advanced
+economies, which may overstate the impact of past changes of the real exchange rate in a
+converging economy. Second, direct real exchange rate estimates are problematic in an
+economy undergoing rapid structural change. Staff agreed with the authorities’ arguments,
+which are supported by sensitivity tests (Selected Issues, Chapter II). Overall, while
+remaining concerned about the recent rapid appreciation and erosion in competitiveness, staff
+acknowledged that their impact on export performance had been modest to date (Figure 7)
+and agreed that the overvaluation would remain manageable as long as the labor market
+adjustment proceeded as expected under the baseline scenario.
+17.
+The net external debt ratio and the net international investment position (NIIP)
+are projected to worsen before stabilizing in the medium term. The worsening of the net
+asset position increases vulnerability, and the bound tests suggest that a weakening of the
+current account, slow growth, or a devaluation could significantly increase the debt ratio
+(Figure 11). However, the gross debt ratio will begin to fall as the economy recovers,while
+the NIIP (half of which is driven by equity investments) is expected to stabilize near the end
+of the projection period.
+
+20
+Figure 11. Estonia: External Debt Sustainability: Bound Tests, 2003-14 1/
+(External debt in percent of GDP)
+Interest rate shock (in percent)
+
+Baseline and historical scenarios
+140
+
+60
+
+130
+
+50
+
+Baseline
+
+120
+
+Historical
+
+100
+
+30
+
+90
+
+20
+
+80
+70
+60
+2003
+
+110
+Baseline
+
+100
+90
+80
+
+Gross financing need under baseline
+(right scale)
+
+10
+0
+
+2005
+
+2007
+
+2009
+
+2011
+
+2013
+
+Growth shock (in percent per year)
+140
+Growth
+shock
+
+130
+
+70
+60
+2003
+
+140
+
+2005
+
+2007
+
+Baseline:
+
+3.3
+
+Scenario:
+
+3.6
+
+Historical:
+
+3.8
+
+2009
+
+2011
+
+2013
+
+Non-interest current account shock
+(in percent of GDP)
+CA shock
+
+130
+120
+
+120
+110
+
+Baseline
+
+110
+
+100
+
+100
+
+90
+
+90
+Baseline:
+
+80
+
+2.9
+
+2005
+
+2007
+
+2009
+
+70
+
+7.2
+
+Historical:
+2011
+
+2013
+
+60
+2003
+
+Combined shock 2/
+180
+
+140
+Combined
+shock
+
+130
+
+Baseline
+
+80
+
+1.4
+
+Scenario:
+
+70
+60
+2003
+
+i-rate shock
+
+130
+120
+
+40
+
+110
+
+140
+
+-4.9
+-7.1
+-8.2
+
+Historical:
+2005
+
+2007
+
+2009
+
+2011
+
+2013
+
+Real depreciation shock 3/
+
+160
+
+30 %
+depreciatio
+n
+
+120
+140
+
+110
+
+Baseline:
+Scenario:
+
+Baseline
+120
+
+100
+
+Baseline
+
+90
+
+100
+
+80
+80
+
+70
+60
+2003
+
+2005
+
+2007
+
+2009
+
+2011
+
+2013
+
+60
+2003
+
+2005
+
+2007
+
+2009
+
+2011
+
+2013
+
+Sources: International Monetary Fund, Country desk data, and staff estimates.
+1/ Shaded areas represent actual data. Individual shocks are permanent one-half standard deviation shocks.
+Figures in the boxes represent average projections for the respective variables in the baseline and scenario
+being presented. Ten-year historical average for the variable is also shown.
+2/ Permanent 1/4 standard deviation shocks applied to real interest rate, growth rate, and current account
+balance.
+3/ One-time real depreciation of 30 percent occurs in 2009.
+
+21
+18.
+Balance sheet exposures are also a source of vulnerability (Selected Issues,
+Chapter III). Euro-denominated bank loans to (largely unhedged) households and firms
+contribute to foreign exchange
+Net asset position by counterpart and currency, September 2008
+In percent of GDP
+exposures amounting to, respectively,
+36 and 42 percent of GDP. These
+Kroon
+FX
+Equity
+Total
+Banks' position
+exposures entail exchange rate risk for
+-4
+1
+0
+-4
+the borrower and induced credit risk for Government
+Eesti Pank
+10
+0
+0
+10
+the lending bank. A second source of
+Households
+-8
+36
+0
+28
+vulnerability is banks’ reliance on short- Other private sector
+-3
+42
+-9
+30
+Nonresidents
+0
+-47
+-14
+-61
+term borrowing from their parents to
+fund long-term domestic lending. This
+Corporates' position
+Government
+0
+-3
+-15
+-18
+mismatch makes them vulnerable to a
+Eesti
+Pank
+0
+0
+0
+0
+liquidity shock if parent banks suddenly
+Households
+0
+0
+-8
+-8
+withdrew liquidity or stopped lending. If Banks
+3
+-42
+9
+-30
+unaddressed, the liquidity squeeze could Nonresidents
+0
+-18
+-38
+-56
+disrupt the banking sector and create
+Households' position
+pressure to abandon the CBA.
+Government
+0
+0
+0
+0
+Eesti Pank
+
+3
+
+0
+
+0
+
+3
+
+Other private sector
+0
+0
+8
+8
+19.
+These vulnerabilities are
+Banks
+8
+-36
+0
+-28
+mitigated by strong institutions and
+Nonresidents
+0
+9
+8
+18
+large buffers. On exchange rate risk,
+Source: Estonian authorities and IMF staff estimates.
+the authorities emphasized that the CBA
+is robust. The central bank’s monetary liabilities are more than fully covered by reserves and
+euro adoption is a clear exit strategy. Moreover, the CBA is supported by the government’s
+large net creditor position and a political commitment anchored by deep-rooted public
+support. In addition, commercial banks and the central bank are well equipped to deal with
+liquidity problems. First, banks’ high required reserves, Eesti Pank’s excess reserve cover,
+and the government’s liquid external assets are significant buffers. Second, the parent
+institutions have little interest in withholding liquidity from their Estonian subsidiaries,
+which they view as strategic investments, and the home authorities have signaled their
+willingness to support the Baltic operations of their banking groups. These mechanisms
+worked well in September–October 2008 when a major bank faced a region-wide deposit run.
+And, third, Eesti Pank has developed a plan for providing ELA to the large foreign-owned
+banks, with the support of a neighboring central bank, in a manner consistent with CBA
+rules.
+
+C. Financial Sector Assessment
+20.
+Banks performed well through the 2008 global liquidity crisis, but their
+profitability and capital buffers will be eroded during the recession.5 Continued
+profitability in 2008 and the still exceptionally low NPL ratios signal resilience but the full
+impact of the downturn lies ahead: NPL ratios could rise significantly, eating up capital,
+while the decline in liquidity ratios has increased vulnerability to sudden stops. Going
+5
+
+See SM/xx/xx for a detailed discussion of banking sector vulnerabilities.
+
+22
+forward, banks’ main challenge in the adverse global environment may be to secure enough
+funding to maintain profitability through loan expansion.
+21.
+The authorities considered banks’ buffers adequate. Capital buffers are sizable
+and credit quality sound, helped by a recent strengthening of lending standards. Both should
+position banks to withstand the anticipated stresses. The authorities do expect NPLs to rise to
+as much as 5 percent in 2009, but noted that this would be manageable given the currently
+large capital ratios. Staff agreed, but noted that much of the cushion resulted from reducing
+the risk weight on mortgages from 100 to 60 percent in the context of the move to Basel 2, a
+step which seemed inappropriate given the still unsettled real estate market.
+22.
+The authorities have implemented some key recommendations of the February
+2008 FSAP-Update mission (Box 4). After initially expressing skepticism—owing to moral
+hazard considerations—about eliminating coinsurance from the deposit guarantee fund
+(DGF), they took this step during the global turmoil in early October. In line with the EU,
+they also raised the insurance ceiling. More recently, as mentioned above, the authorities
+have developed a plan for ELA in case of need. In other areas, the government has prepared
+draft legislation to accelerate access to budgetary resources in the event of a financial crisis
+and the Ministry of Finance is drafting legislation for a more flexible bank resolution
+framework.
+Box 4. Findings and Recommendations of the FSAP-Update
+The FSAP-update found that Estonia has a sound, well supervised, banking sector but is
+subject to vulnerabilities from euro-denominated real estate lending and the dependence on
+short term external funding (see SM/xx/xx). Given these exposures and the risky global
+environment, the FSSA recommended strengthening the financial safety net. The key
+recommendations, and the authorities’ responses were:
+•
+•
+•
+
+•
+•
+•
+
+Create an emergency liquidity assistance capacity. Agreed. Work is near completion.
+Strengthen the deposit guarantee scheme by doubling the target size of the DGF,
+shortening the payout period and eliminating coinsurance. The authorities consider the
+target size adequate, but they have eliminated coinsurance and increased coverage.
+Strengthen the bank resolution framework. Agreed. Legislation under preparation.
+Increase staffing at the FSA. Implemented in Fall 2008.
+Conduct a joint Baltics-Swedish crisis simulation exercise involving a major regional
+banking group. Agreed in principle. Collaboration already close.
+Implement joint Eesti Pank-FSA macrofinancial stress tests. Agreed in principle.
+
+D. Fiscal Policy
+23.
+The key fiscal challenges are to rein in the budget deficit despite the recession
+and restore a sustainable fiscal stance over the medium term. Expenditure increases in
+the last few years have produced a significant structural deficit, leaving little room for
+countercyclical policy. Against this background, the authorities’ key near-term goals are twofold: maintaining their fiscal buffer so long as global illiquidity makes borrowing difficult;
+and ensuring that the deficit does not jeopardize euro adoption by exceeding the 3 percent of
+
+23
+GDP Maastricht ceiling. In the medium term they intend to adjust by enough to meet their
+traditional goal of budgets that are “in balance-or-better.”
+24.
+The 2009 budget incorporates difficult measures but is only a first step towards
+controlling the deficit. Operational expenditure was cut by an average of 8 percent across
+ministries. The wage bill was frozen at the 2008 level, with the help of large reduction in
+civil service employees. And previously-approved income tax cuts were postponed while
+some indirect taxes and charges were increased. The authorities expected the deficit to be
+1.9 percent of GDP but they recognized that lower-than-budgeted receipts from assets sales,
+worse-than-expected macroeconomic conditions, and poor expenditure control by local
+governments could make it larger. Staff’s view was that, given its baseline scenario (which
+projects a deeper recession and lower inflation than the Ministry of Finance’s scenario, thus
+implying a deficit of 3.3 percent of GDP), these downside risks would drive the deficit well
+above 3 percent of GDP. This would not present an immediate financing problem given
+government’s liquid assets of 8½ percent of GDP at end 2008. But it would delay euro
+adoption and the needed medium fiscal consolidation. The authorities expressed readiness to
+make further cuts—defense and investments were candidates—if needed to keep the deficit
+within the Maastricht limit.
+25.
+The authorities noted that fiscal adjustment over the medium term would
+require a major effort. Consolidation was complicated by the budget’s inflexibility: more
+than 70 percent of expenditure is driven by entitlements and tax earmarks. Thus it would be
+necessary to reform large components of the budget (such as family support programs and
+health insurance), and reduce the number of public employees subject to the civil service law.
+Within this broad framework, some elements of the 2010 budget were already formulated,
+such as an extension of the wage bill freeze (already agreed) and the further postponement of
+planned income tax cuts (not yet agreed). Staff welcomed both proposals but noted that,
+alone, they would not bring the deficit below 3 percent of GDP in 2010 (text table).
+Estonia: Fiscal Adjustment in the Baseline Scenario
+In percent of GDP
+2007
+3.0
+-2.2
+1.7
+
+2008
+-2.3
+-5.1
+3.0
+
+2009
+-3.3
+-4.6
+-0.6
+
+2010
+-3.0
+-3.6
+-0.9
+
+2011
+-3.0
+-4.6
+0.9
+
+2012
+-3.0
+-5.1
+0.5
+
+2013
+-2.4
+-5.0
+-0.1
+
+2014
+-2.5
+-4.7
+-0.3
+
+GG balance with delayed fiscal adjustment 3/
+Budgetary adjustment needed under the baseline 4/
+Savings from eliminating income tax cut plans 5/
+Additional adjustment needed (cumulative) 6/
+
+...
+...
+...
+...
+
+...
+...
+...
+...
+
+...
+...
+...
+...
+
+-5.1
+2.1
+0.4
+1.6
+
+-5.5
+2.5
+0.8
+1.7
+
+-6.1
+3.2
+1.2
+2.0
+
+-6.2
+3.8
+1.2
+2.7
+
+-7.2
+4.7
+1.1
+3.6
+
+Memo item: Output gap under the baseline scenario
+
+10.1
+
+3.0
+
+-4.7
+
+-7.3
+
+-4.1
+
+-2.5
+
+-0.9
+
+0.7
+
+GG balance under the baseline 1/
+Cyclically-adjusted balance corrected for net EU transf
+Fiscal impulse 2/
+
+Source: Estonian authorities and IMF staff estimates and projections.
+1/ The baseline scenario incorporates from 2010 onwrds the authorities' announced policy to restrict the deficit below the Maastricht limit .
+2/ First difference in the adjusted structural balance, with sign reversed.
+3/ Assuming no change in policies except for the implementation of previously planned tax cuts from 2010 onwards.
+4/ Budgetary savings needed to reduce the deficit to the baseline scenario path.
+5/ Budgetary savings from eliminating the planned cuts in the income tax rate and exemptions from 2010 onwards.
+6/ Savings from still unidentified measures.
+
+24
+26.
+The authorities plan to address recommendations of the recent FAD mission on
+fiscal transparency. The Reassessment Report on Observance of Standards and Codes
+concludes that Estonia now meets nearly all of the requirements of the Code of Good
+Practices on Fiscal Transparency—and approaches international best practice in some
+areas—but highlights potential improvements in budgetary planning, control over subnational
+borrowing, and documentation of fiscal prospects and risks. The authorities agreed, but
+implementation is delayed in light of the current focus on containing the deficit.
+E. Structural Policies
+27.
+Market flexibility is critical for the restructuring needed to support mediumterm convergence. Resources should be reallocated from nontraded to traded sectors and
+from low wage-based to high value-added activities. The authorities emphasized that the
+reallocation was already underway, and agreed that continued product and labor market
+flexibility was necessary for it to continue.
+Spending on ALMPs has been low
+
+28.
+In this context, the authorities
+Spending on ALMPs, 2003
+(In percent of GDP)
+reconfirmed their commitment to
+increase labor market flexibility. They
+reported that new labor market legislation,
+approved by parliament last year and
+effective in mid-2009, would reduce lay-off
+costs, align labor law with private contract
+law, streamline procedures, and simplify
+conflict resolution. At the same time the
+social safety net would be strengthened by
+increasing unemployment compensation
+0
+1
+2
+3
+4
+5
+benefits. Staff supported the move to
+Source: ILO.
+greater flexibility but advised that the fiscal
+costs of social protection be clearly assessed
+and accounted for, and expressed concern about possible adverse labor supply effects. The
+authorities considered that there was no need to raise immigration quotas, as the current
+ceilings were not binding, but acknowledged that procedures could be simplified.
+Lithuania
+Estonia
+Czech Rep.
+Croatia
+Latvia
+Romania
+Slovak Rep
+Bulgaria
+Slovenia
+Poland
+Italy
+Ireland
+Norway
+Portugal
+Austria
+Spain
+Sweden
+France
+Netherlands
+Finland
+Germany
+Belgium
+Denmark
+
+IV. STAFF APPRAISAL
+29.
+The severe recession projected for 2009 will test the flexibility and resilience of
+the economy. Since Estonia is very small and very open, there is limited scope for
+countercyclical policy, so a strong market response is needed to cushion the downturn and
+underpin the eventual recovery. While consumption should recover after households have
+strengthened their finances through higher savings, further wage adjustment is needed to
+revive investment and sustain exports in a more unfavorable environment. Owing to farreaching reforms in the early 1990s, labor and product markets should have the needed
+flexibility. The state should support the private sector by securing financial stability. The
+policies needed are: supporting the CBA, clearing the path for euro adoption, initiating a
+large medium-term fiscal adjustment, and promoting the stability of financial institutions.
+
+25
+30.
+The financial sector weathered severe financial shocks in 2008 owing to large
+buffers and supportive policies, which have since been strengthened further. The
+authorities’ decisive response to the global crisis was well-targeted, strengthening financial
+safety nets and improving the bank resolution framework. The elimination of the coinsurance
+feature in the DGF removes an important incentive for bank runs while the increase in
+coverage, in line with EU guidelines, levels the playing field. The development of a
+framework for providing ELA to large banks is welcome and other planned measures—
+streamlined access to fiscal resources in a crisis and a more flexible resolution framework—
+will also be important additions to the crisis management toolkit.
+31.
+Regional collaboration in financial stability work, which is required given the
+degree of integration, has been satisfactory and should be sustained. More important
+than formal arrangements has been supervisors’ routine cooperation and exchange of
+information. The Swedish authorities’ explicit statement that their support to banks should be
+expected to strengthen all parts of the associated banking groups has also helped; so should
+the new draft legislation in Estonia creating a framework that facilitates the use of budgetary
+resources in financial crises. Regularly updated regional crisis simulation exercises would be
+welcome.
+32.
+The CBA served Estonia well during the financial crisis but the euro would
+provide a safer haven. The global turbulence has underlined the risks of maintaining a
+separate currency in small open economies and the corresponding benefits of currency union.
+Robust in design, and buttressed by the fiscal reserve and sound banking sector, the CBA did
+not come under significant pressure. It therefore was able to anchor expectations and protect
+the economy from parity swings that would have destabilized the financial system.
+Nonetheless, the authorities’ intention to adopt the Euro as soon as possible remains
+appropriate, to eliminate the risks associated with a separate currency.
+33.
+Cyclical developments and policies are bringing the Maastricht inflation
+criterion within reach but the fiscal criterion is at risk. While the deceleration of prices is
+partly the result of exogenous shocks and cyclical factors it also reflects the anchoring effect
+of the CBA, the well-judged frontloading of administrative price increases, and the
+preannounced wage bill freeze. Not much more can be done on the inflation front. The focus
+now needs to be on ensuring that the fiscal deficit remains within the Maastricht limit.
+34.
+External vulnerabilities are high but the adjustment underway is helping
+mitigate them. Given the fixed exchange rate—and eventual euro adoption—Estonia’s
+external imbalances must be addressed in the near term by a contraction of demand and in the
+medium term by a slowing of real wage growth. The demand shift is already well underway,
+driven by a more cautious response to risk. The slowing of wage growth is more recent and
+must be sustained and deepened. While past real exchange rate appreciation has eroded
+Estonia’s exceptionally high competitiveness, profitability should remain adequate if future
+real wage increases are aligned with productivity growth. The new labor contract law should
+help insofar as it addresses residual labor market rigidities while improving the social safety
+net. The incentive structures in the new framework should be monitored carefully in the
+testing environment of the current recession.
+
+26
+35.
+The unsustainable expenditure increases in the last few years leave little room
+for countercyclical fiscal policy. Since the effect of fiscal stimulus on demand is modest
+anyway, fiscal policy in 2009 should focus on slowing the draw-down of the government’s
+liquidity buffers, adhering to the Maastricht deficit and taking the first steps to restore fiscal
+sustainability. This will require a significant effort in the context of a supplementary budget.
+36.
+The fiscal position should be strengthened over the medium term. A modest
+structural surplus would allow automatic stabilizers to operate without producing deficits
+during most recessions and position the budget for costs associated with population aging.
+The adjustment needed to reach this goal is large, and should be phased in gradually. The
+government's plan to freeze the state budget wage bill for 2009–10 is a welcome first step and
+should be extended to other levels of government: it creates incentives to reduce inefficiency
+and sends a signal for wage moderation in the private sector. More broadly, staff welcomes
+the authorities' intention to review medium term expenditure and revenue policies. Priority
+should be given to savings that lead to a more efficient allocation of resources.
+37.
+It is recommended that the Article IV consultation with Estonia remain on the
+standard 12-month cycle.
+
+27
+Table 1. Estonia: Selected Macroeconomic Indicators, 2001–09
+(In units as indicated)
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+Prel.
+
+2008
+Est.
+
+2009
+Proj.
+
+108.2
+6.9
+7.7
+5.8
+5.6
+5.2
+13.0
+12.6
+5.9
+
+121.4
+7.8
+7.8
+3.6
+3.6
+4.0
+10.9
+10.3
+4.2
+
+136.0
+8.7
+7.1
+1.3
+1.4
+4.6
+9.7
+10.0
+3.9
+
+151.0
+9.7
+7.5
+3.0
+3.0
+3.3
+7.8
+9.7
+0.4
+
+173.5
+11.1
+9.2
+4.1
+4.1
+5.3
+11.4
+7.9
+4.1
+
+205.0
+13.1
+10.4
+4.4
+4.4
+7.0
+16.2
+5.9
+12.0
+
+238.9
+15.3
+6.3
+6.6
+6.7
+9.6
+20.4
+4.7
+14.8
+
+256.5
+16.4
+-2.4
+10.4
+10.6
+10.0
+15.0
+5.3
+17.7
+
+253.0
+16.2
+-4.0
+2.7
+3.1
+2.8
+3.0
+10.5
+2.0
+
+Saving-investment balances (in percent of GDP)
+Domestic saving
+Private
+Public
+Domestic investment
+Private
+Public
+Foreign saving
+
+22.9
+19.9
+3.1
+28.1
+25.2
+2.9
+5.2
+
+21.7
+17.7
+4.0
+32.4
+28.9
+3.5
+10.6
+
+21.9
+17.5
+4.4
+33.2
+30.6
+2.6
+11.3
+
+22.6
+19.0
+3.6
+34.3
+31.6
+2.7
+11.7
+
+24.2
+19.9
+4.3
+34.2
+30.7
+3.5
+10.0
+
+21.9
+16.8
+5.0
+38.6
+34.7
+3.9
+16.7
+
+19.8
+14.1
+5.7
+37.9
+34.0
+3.9
+18.1
+
+20.8
+20.8
+0.0
+30.8
+27.5
+3.3
+10.0
+
+21.4
+22.6
+-1.2
+27.3
+23.5
+3.8
+5.9
+
+General government (in percent of GDP)
+Revenue and grants
+Expenditure and net lending
+Fiscal balance
+
+34.1
+33.7
+0.4
+
+35.3
+34.2
+1.1
+
+35.6
+33.1
+2.5
+
+36.3
+34.7
+1.6
+
+37.1
+35.5
+1.6
+
+38.6
+35.3
+3.3
+
+39.6
+36.7
+3.0
+
+38.7
+41.0
+-2.3
+
+40.8
+44.1
+-3.3
+
+-12.5
+10.4
+-4.5
+-5.2
+
+-15.2
+8.1
+-4.4
+-10.6
+
+-15.8
+8.4
+-5.3
+-11.3
+
+-16.6
+9.2
+-5.3
+-11.7
+
+-13.9
+7.6
+-4.1
+-10.0
+
+-18.3
+6.5
+-5.3
+-16.7
+
+-17.6
+6.3
+-7.5
+-18.1
+
+-12.4
+6.9
+-5.7
+-10.0
+
+-10.0
+7.2
+-3.8
+-5.9
+
+Gross international reserves (euro, millions)
+in months of imports
+Relative to gross short-term debt (including trade credits)
+
+930
+2.4
+0.7
+
+958
+2.4
+0.6
+
+1098
+2.4
+0.6
+
+1317
+2.5
+0.5
+
+1647
+2.5
+0.5
+
+2128
+2.5
+0.4
+
+2217
+2.5
+0.3
+
+2732
+3.0
+0.2
+
+2891
+3.4
+0.2
+
+Gross external debt/GDP (in percent) 1/
+Net external debt/GDP (in percent) 2/
+General government external debt/GDP (in percent)
+Excluding government assets held abroad
+Including government assets held abroad 3/
+
+53.7
+4.4
+
+58.0
+10.5
+
+64.6
+12.9
+
+76.2
+16.7
+
+86.2
+18.1
+
+97.9
+27.4
+
+112.6
+35.4
+
+115.9
+36.7
+
+122.1
+38.8
+
+2.8
+-0.6
+
+2.8
+-2.5
+
+2.9
+-5.1
+
+2.7
+-5.1
+
+2.7
+-4.9
+
+2.6
+-6.4
+
+1.4
+-7.8
+
+1.3
+-5.0
+
+1.4
+-1.8
+
+Exchange rate (EEK/US$ - period average) 4/
+
+17.5
+
+16.6
+
+13.9
+
+12.6
+
+12.6
+
+12.5
+
+11.4
+
+…
+
+…
+
+Money and credit (year-on-year growth in percent)
+Domestic credit to nongovernment
+Base money
+Broad money
+
+22.2
+-9.8
+23.0
+
+27.8
+-1.5
+11.2
+
+27.0
+14.6
+10.9
+
+31.2
+24.0
+15.8
+
+33.4
+33.0
+41.9
+
+41.6
+30.7
+28.2
+
+33.0
+1.6
+13.5
+
+7.2
+28.5
+5.5
+
+-3.3
+-10.6
+-1.4
+
+National income, prices and wages
+Nominal GDP (kroons, billions)
+GDP (euro, billions)
+Real GDP growth (year-on-year in percent)
+Average CPI (year-on-year change in percent)
+Average HICP (year-on-year change in percent)
+GDP deflator (year-on-year change in percent)
+Average monthly wage (year-on-year growth in percent)
+Unemployment rate (ILO definition, percent)
+Average nominal ULC (year-on-year growth in percent)
+
+External sector (in percent of GDP)
+Trade balance
+Service balance
+Income balance
+Current account
+
+Social Indicators (reference year):
+Population (2007): 1.342 million; Per capita GDP (2007): €11,581; Life expectancy at birth (2006): 78.5 (female) and
+67.4 (male); Poverty rate (share of the population below the established risk-of-poverty line, 2005): 18.0 percent;
+Main exports: electrical equipment and parts.
+Sources: Estonian authorities and IMF staff estimates and projections.
+1/ Includes trade credits.
+2/ Net of portfolio assets (including money market instruments), financial derivative assets, other investment assets, and
+reserve assets held by Estonian residents.
+3/ Includes the Stabilization Reserve Fund (SRF).
+4/ The Estonian kroon is pegged at 15.6466 kroons to the euro.
+
+28
+Table 2. Estonia: Summary of General Government Operations, 2001–09 1/
+(In percent of GDP)
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+Prel.
+
+2008
+Est.
+
+2009
+Proj.
+
+Revenue and grants
+Revenue
+Tax revenue
+Direct taxes
+Personal income tax
+Corporate profits tax
+Social security tax
+Medical insurance tax
+Unemployment insurance tax
+Land and property taxes
+VAT
+Excises
+Other taxes (incl. on intern. trade)
+Nontax revenue
+Grants
+
+33.9
+33.3
+29.4
+18.1
+6.6
+0.7
+6.3
+4.1
+...
+0.4
+8.0
+3.3
+0.0
+3.9
+0.6
+
+35.3
+34.7
+30.6
+18.8
+6.4
+1.1
+6.4
+4.2
+0.4
+0.3
+8.4
+3.2
+0.2
+4.0
+0.6
+
+35.6
+34.5
+30.4
+18.9
+6.5
+1.6
+6.0
+4.1
+0.4
+0.3
+8.2
+3.1
+0.2
+4.1
+1.1
+
+36.3
+34.2
+29.9
+18.6
+6.3
+1.7
+5.7
+4.1
+0.4
+0.4
+7.5
+3.5
+0.3
+4.3
+2.1
+
+37.1
+34.4
+30.2
+17.6
+5.6
+1.4
+5.7
+4.1
+0.4
+0.3
+8.5
+3.8
+0.4
+4.2
+2.7
+
+38.6
+35.7
+30.6
+17.6
+5.7
+1.5
+5.7
+4.2
+0.3
+0.3
+9.1
+3.5
+0.4
+5.2
+2.9
+
+39.6
+36.6
+32.3
+19.1
+6.1
+1.7
+6.1
+4.6
+0.3
+0.3
+9.3
+3.5
+0.4
+4.3
+3.1
+
+38.7
+35.6
+31.5
+19.5
+6.2
+1.6
+6.3
+4.8
+0.3
+0.3
+8.0
+3.5
+0.5
+4.1
+3.1
+
+40.8
+35.3
+31.4
+19.4
+6.2
+1.5
+6.3
+4.8
+0.3
+0.3
+8.1
+3.5
+0.5
+3.9
+5.4
+
+Expenditure
+Current expenditure
+Expenditure on goods and services
+Wages and salaries
+Other goods and services
+Current transfers and subsidies
+Subsidies
+Transfers to households
+of which: Pensions
+Family benefits
+Sickness benefits
+Unemployment benefits
+Income maintenance
+Disability benefits
+Prescription drug benefits
+Other
+Transfers to the EU budget
+Interest payments
+Capital expenditure
+
+33.6
+30.7
+20.0
+6.8
+13.2
+10.4
+0.7
+9.7
+6.1
+1.2
+0.7
+0.1
+0.3
+0.4
+0.6
+0.2
+...
+0.2
+2.9
+
+34.3
+30.8
+20.0
+6.9
+13.1
+10.7
+0.9
+9.7
+6.0
+1.1
+0.7
+0.1
+0.3
+0.5
+0.6
+0.4
+...
+0.2
+3.5
+
+33.1
+30.5
+19.5
+7.4
+12.0
+10.8
+1.0
+9.7
+6.1
+1.0
+0.6
+0.2
+0.2
+0.4
+0.5
+0.5
+...
+0.2
+2.6
+
+34.7
+32.0
+19.8
+7.1
+12.6
+12.0
+1.3
+10.2
+6.1
+1.4
+0.8
+0.2
+0.2
+0.4
+0.6
+0.5
+0.6
+0.2
+2.7
+
+35.5
+32.0
+20.3
+6.9
+13.5
+11.5
+0.7
+9.8
+6.0
+1.3
+0.8
+0.1
+0.1
+0.4
+0.5
+0.6
+1.0
+0.2
+3.5
+
+35.3
+31.4
+20.0
+6.4
+13.6
+11.3
+0.6
+9.6
+5.9
+1.3
+0.8
+0.1
+0.1
+0.3
+0.5
+0.6
+1.1
+0.1
+3.9
+
+36.7
+32.8
+21.5
+6.7
+14.7
+11.2
+0.3
+9.6
+6.0
+1.2
+0.8
+0.1
+0.1
+0.3
+0.5
+0.6
+1.2
+0.2
+3.9
+
+41.0
+37.7
+24.5
+7.5
+17.1
+13.0
+0.3
+11.5
+6.9
+1.4
+1.0
+0.3
+0.0
+0.3
+0.5
+1.0
+1.2
+0.1
+3.3
+
+44.1
+40.3
+26.1
+7.4
+18.7
+14.0
+0.3
+12.5
+8.0
+1.4
+0.9
+0.3
+0.0
+0.3
+0.5
+1.0
+1.2
+0.1
+3.8
+
+Financial surplus (+) / deficit (-)
+Net lending
+
+0.3
+-0.1
+
+0.9
+-0.1
+
+2.5
+0.0
+
+1.6
+0.0
+
+1.6
+0.0
+
+3.3
+0.0
+
+3.0
+0.0
+
+-2.3
+0.0
+
+-3.3
+0.0
+
+0.4
+
+1.1
+
+2.5
+
+1.6
+
+1.6
+
+3.3
+
+3.0
+
+-2.3
+
+-3.3
+
+0.6
+-0.1
+
+1.3
+0.3
+
+2.7
+1.7
+
+1.8
+1.7
+
+1.8
+1.5
+
+3.4
+2.9
+
+3.1
+2.7
+
+-2.1
+...
+
+-3.2
+...
+
+4.8
+1.5
+108.2
+
+5.6
+0.3
+121.4
+
+5.6
+-2.4
+136.0
+
+5.0
+-2.7
+151.0
+
+4.4
+-3.1
+173.5
+
+4.3
+-4.7
+205.0
+
+3.5
+...
+238.9
+
+3.2
+...
+256.5
+
+3.3
+...
+253.0
+
+Overall surplus (+) / deficit (-)
+
+Memorandum items:
+Primary fiscal balance (+, surplus)
+Overall balance, ESA95 basis 2/
+Total general government debt
+Excluding government assets held abroad
+Including government assets held abroad
+Nominal GDP (kroons, billion)
+
+Sources: Estonian authorities and IMF staff estimates and projections.
+1/ Cash basis.
+2/ Source: Estonia's Statistical Office.
+
+29
+Table 3. Estonia: Summary Balance of Payments 2002-2014
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+Est.
+2008
+
+2009
+
+Projections
+2011
+2012
+
+2010
+
+2013
+
+2014
+
+(In millions of EURO)
+Current Account
+Primary Current Account 1/
+Trade Balance
+Exports
+Of which : goods for processing
+Imports
+Of which : goods for processing
+Services Balance
+Receipts
+of which: travel and tourism
+Payments
+Income
+Current Transfers
+Capital and Financial Account
+
+-825
+-985 -1,130 -1,110
+-480
+-523
+-621
+-655
+-1,180 -1,376 -1,603 -1,542
+3,704 4,055 4,730 6,280
+1,146 1,204
+804
+647
+-4,883 -5,430 -6,333 -7,823
+-964
+-962
+-672
+-587
+632
+733
+890
+837
+1,800 1,960 2,294 2,571
+585
+592
+717
+783
+-1,168 -1,227 -1,404 -1,734
+-345
+-463
+-509
+-455
+67
+119
+92
+50
+
+-2,759
+-1,609
+-2,686
+8,076
+990
+-10,762
+-970
+963
+3,199
+754
+-2,237
+-1,150
+114
+
+-1,643
+-950
+-1,372
+-1,731
+-1,871
+-1,923
+-2,054
+-708
+-341
+-634
+-826
+-883
+-847
+-887
+-2,031 -1,618
+-1,909
+-2,237
+-2,389
+-2,551
+-2,724
+8,722 8,491
+8,690
+9,256 10,056 10,928 11,876
+1,069 1,041
+1,065
+1,134
+1,232
+1,339
+1,456
+-10,754 -10,109 -10,599 -11,494 -12,445 -13,479 -14,601
+-969
+-911
+-955
+-1,036
+-1,121
+-1,214
+-1,315
+1,136 1,168
+1,159
+1,295
+1,385
+1,581
+1,762
+3,462 3,422
+3,527
+3,784
+4,100
+4,440
+4,809
+815
+806
+831
+891
+966
+1,046
+1,133
+-2,326 -2,254
+-2,369
+-2,489
+-2,714
+-2,860
+-3,047
+-936
+-609
+-738
+-905
+-987
+-1,076
+-1,166
+188
+109
+116
+117
+120
+123
+75
+
+2,633
+
+2,737
+
+2,159
+
+1,110
+
+1,508
+
+1,642
+
+1,845
+
+2,167
+
+2,210
+
+280
+173
+2,353 2,564
+548
+810
+1,432 1,962
+-884 -1,153
+-54
+-280
+1,858 2,035
+
+166
+1,993
+542
+1,181
+-640
+26
+1,425
+
+272
+838
+326
+709
+-384
+-32
+544
+
+289
+1,219
+519
+903
+-384
+-32
+732
+
+325
+1,318
+715
+1,118
+-403
+-32
+634
+
+366
+1,480
+778
+1,209
+-431
+-32
+734
+
+407
+1,760
+837
+1,299
+-462
+-32
+955
+
+332
+1,879
+906
+1,399
+-494
+-32
+1,005
+
+834
+
+1,186
+
+1,367
+
+41
+794
+167
+307
+-140
+59
+568
+
+62
+1,123
+685
+822
+-137
+32
+407
+
+69
+85
+1,298 1,271
+554 1,746
+771 2,302
+-217
+-556
+-44 -1,355
+788
+880
+
+340
+-194
+38
+
+697
+-211
+37
+
+897
+-45
+11
+
+531
+-45
+-44
+
+1,583
+-289
+24
+
+2,226
+-311
+61
+
+993
+375
+-49
+
+32
+534
+0
+
+256
+498
+0
+
+128
+528
+0
+
+128
+564
+0
+
+383
+497
+0
+
+383
+547
+0
+
+Errors and Omissions
+
+50
+
+-53
+
+-18
+
+67
+
+40
+
+110
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+Overall balance
+
+59
+
+148
+
+219
+
+312
+
+481
+
+89
+
+515
+
+159
+
+136
+
+-88
+
+-25
+
+244
+
+157
+
+-10.6
+-15.2
+8.1
+-4.4
+0.2
+-4.7
+0.1
+0.9
+-1.4
+5.6
+2.2
+958
+2.4
+0.6
+
+-11.3
+-15.8
+8.4
+-5.3
+0.3
+-5.2
+-0.4
+1.4
+9.5
+11.2
+7.9
+1,098
+2.4
+0.6
+
+-11.7
+-16.6
+9.2
+-5.3
+1.1
+-4.1
+-2.3
+1.0
+16.7
+16.6
+5.7
+1,317
+2.5
+0.5
+
+-10.0
+-13.9
+7.6
+-4.1
+1.5
+-6.2
+0.6
+0.5
+32.8
+23.5
+15.7
+1,647
+2.5
+0.5
+
+-16.7
+-18.3
+6.5
+-5.3
+1.9
+-8.7
+1.5
+0.3
+23.6
+29.9
+4.2
+2,128
+2.5
+0.4
+
+-18.1
+-17.6
+6.3
+-7.5
+1.4
+-5.4
+-3.5
+0.7
+4.1
+5.9
+5.3
+2,217
+2.5
+0.3
+
+-10.0
+-12.4
+6.9
+-5.7
+0.9
+-5.1
+-1.6
+1.1
+8.0
+-0.1
+3.3
+2,732
+3.0
+0.2
+
+-5.9
+-10.0
+7.2
+-3.8
+1.0
+-2.9
+-1.8
+0.7
+-2.7
+-6.0
+2.0
+2,891
+3.4
+0.2
+
+-8.3
+-11.6
+7.0
+-4.5
+1.1
+-3.7
+-1.9
+0.7
+2.4
+4.9
+3.1
+3,027
+3.4
+0.2
+
+-9.6
+-12.4
+7.2
+-5.0
+1.1
+-4.5
+-1.6
+0.6
+6.5
+8.4
+4.0
+2,939
+3.1
+0.2
+
+-9.6
+-12.3
+7.1
+-5.1
+1.1
+-4.4
+-1.8
+0.6
+8.6
+8.3
+4.0
+2,914
+2.8
+0.2
+
+-9.2
+-12.2
+7.6
+-5.1
+1.1
+-4.3
+-2.0
+0.6
+8.7
+8.3
+4.0
+3,158
+2.8
+0.2
+
+-9.1
+-12.1
+7.8
+-5.2
+1.1
+-4.2
+-2.1
+0.3
+8.7
+8.3
+4.0
+3,315
+2.7
+0.2
+
+58.0
+10.5
+-54.3
+
+64.6
+12.9
+-66.1
+
+76.2
+16.7
+-85.9
+
+86.2
+18.1
+-85.4
+
+97.9
+27.4
+-74.8
+
+112.6
+35.4
+-75.2
+
+115.9
+36.7
+-79.0
+
+122.1
+38.8
+-84.3
+
+125.3
+40.8
+-89.1
+
+119.4
+40.6
+-89.3
+
+115.9
+40.9
+-90.8
+
+113.3
+40.5
+-91.6
+
+110.7
+40.6
+-92.7
+
+2.8
+-2.5
+
+2.9
+-5.1
+
+2.7
+-5.1
+
+2.7
+-4.9
+
+2.6
+-6.4
+
+1.4
+-7.8
+
+1.3
+-5.0
+
+1.4
+-1.8
+
+1.3
+1.3
+
+4.2
+4.1
+
+6.8
+6.7
+
+8.7
+8.6
+
+10.5
+10.4
+
+16.3
+
+20.5
+
+26.2
+
+27.0
+
+30.4
+
+38.1
+
+39.0
+
+41.4
+
+42.4
+
+41.3
+
+39.7
+
+40.1
+
+40.3
+
+Capital Transfers
+Financial Account
+Direct Investment 2/
+From abroad
+Outward (by Estonians)
+Net equity investment 2/
+Loans and other investments 3/
+of which:
+Banks
+Government
+Monetary Authorities
+
+Memorandum Items:
+Current Account
+Trade balance
+Non-factor services balance
+Income balance
+Compensation of employees, net
+Reinvested earnings, net
+Other income, net
+Current transfers
+Export growth (in percent)
+Import growth (in percent)
+Net FDI
+Gross International Reserves (EURO millions) 4/ 5
+In months of imports
+Relative to gross short-term debt (ratio) 6/ 7/
+Total external debt 8/
+Gross
+Net 9/
+NIIP
+General government external debt 10/
+Excluding Govt. assets held abroad
+Including Govt. assets held abroad
+Debt Service/Exports of GNFS (in percent)
+
+1,355
+
+-2,192
+-1,504
+-2,398
+7,761
+1,281
+-10,158
+-1,174
+849
+2,786
+811
+-1,937
+-688
+45
+
+(In percent of GDP, unless otherwise stated)
+
+Sources: Bank of Estonia and IMF staff estimates and projections.
+1/ Excluding interest payments and reinvested earnings.
+2/ The large FDI and equity investment flows in 2005 reflect the aquisition of remaining shares of Hansabank, most of which were held by foreigners, by its swedish parent
+3/ Includes operations in debt securities.
+4/ Excludes Government deposits held abroad (including in the SRF).
+5/ Changes in gross international reserves may differ from flows implied by overall balance of payments due to valuation changes.
+6/ Includes trade credits.
+7/ Short term debt is defined on the basis of original maturity.
+8/ Starting in 2000, the definition of external debt was widened to include money market instruments and financial derivatives.
+9/ Net of portfolio assets (including money market instruments), financial derivative assets, other investment assets, and reserve assets held by Estonian residents.
+10/ Includes government guaranteed debt.
+
+Table 4. Estonia: Macroeconomic Framework Under the Baseline Scenario, 2001–14
+(in percent of GDP, unless otherwise indicated)
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+Prel.
+
+2008
+Est.
+
+2009
+
+2010
+
+2011
+2012
+Projection
+
+2013
+
+2014
+
+7.7
+
+7.8
+
+7.1
+
+7.5
+
+9.2
+
+10.4
+
+6.3
+
+-2.4
+
+-4.0
+
+0.1
+
+6.3
+
+5.0
+
+5.0
+
+5.0
+
+n.a.
+n.a.
+n.a.
+n.a.
+
+6.1
+6.2
+-0.8
+-5.1
+
+5.7
+5.3
+5.3
+-7.9
+
+5.3
+2.7
+9.9
+-11.9
+
+5.5
+3.6
+15.2
+-14.2
+
+7.0
+7.6
+9.3
+-17.6
+
+4.3
+3.3
+0.0
+-3.9
+
+-1.6
+-7.9
+0.8
+5.5
+
+-2.3
+-5.1
+-3.4
+7.1
+
+0.7
+1.4
+0.0
+-2.1
+
+3.1
+5.3
+3.4
+-5.8
+
+3.4
+2.1
+4.8
+-5.5
+
+3.4
+2.1
+4.8
+-5.5
+
+3.4
+2.1
+4.8
+-5.6
+
+Domestic saving
+Private
+Public
+
+22.9
+19.9
+3.1
+
+21.7
+17.7
+4.0
+
+21.9
+17.5
+4.4
+
+22.6
+19.0
+3.6
+
+24.2
+19.9
+4.3
+
+21.9
+16.8
+5.0
+
+19.8
+14.1
+5.7
+
+20.8
+20.8
+0.0
+
+21.4
+22.6
+-1.2
+
+20.3
+22.1
+-1.8
+
+21.9
+23.7
+-1.9
+
+22.1
+24.0
+-1.9
+
+22.8
+24.3
+-1.4
+
+23.5
+24.7
+-1.1
+
+Investment
+Private
+Public
+
+28.1
+25.2
+2.9
+
+32.4
+28.9
+3.5
+
+33.2
+30.6
+2.6
+
+34.3
+31.6
+2.7
+
+34.2
+30.7
+3.5
+
+38.6
+34.7
+3.9
+
+37.9
+34.0
+3.9
+
+30.8
+27.5
+3.3
+
+27.3
+23.5
+3.8
+
+28.6
+25.6
+3.0
+
+31.4
+28.5
+2.9
+
+31.7
+28.8
+2.9
+
+32.0
+29.1
+2.9
+
+32.6
+29.8
+2.8
+
+5.2
+
+10.6
+
+11.3
+
+11.7
+
+10.0
+
+16.7
+
+18.1
+
+10.0
+
+5.9
+
+8.3
+
+9.6
+
+9.6
+
+9.2
+
+9.1
+
+0.4
+34.1
+33.7
+1.0
+
+1.1
+35.3
+34.2
+1.3
+
+2.5
+35.6
+33.1
+2.3
+
+1.6
+36.3
+34.7
+1.0
+
+1.6
+37.1
+35.5
+-0.1
+
+3.3
+38.6
+35.3
+0.7
+
+3.0
+39.6
+36.7
+-0.3
+
+-2.3
+38.7
+41.0
+-3.2
+
+-3.3
+40.8
+44.1
+-1.8
+
+-3.0
+38.3
+41.4
+-0.8
+
+-3.0
+37.5
+40.5
+-1.8
+
+-3.0
+36.8
+39.8
+-2.2
+
+-2.4
+36.9
+39.3
+-2.2
+
+-2.5
+35.9
+38.4
+-2.7
+
+7.1
+0.2
+0.8
+6.0
+
+4.4
+0.5
+0.9
+2.9
+
+9.0
+0.7
+0.4
+7.9
+
+6.0
+0.7
+-0.5
+5.7
+
+4.3
+0.8
+-12.2
+15.7
+
+5.9
+2.1
+-0.4
+4.2
+
+4.6
+1.1
+-1.8
+5.3
+
+4.5
+1.0
+0.2
+3.3
+
+3.5
+1.7
+-0.2
+2.0
+
+4.7
+1.7
+-0.2
+3.1
+
+5.6
+1.8
+-0.2
+4.0
+
+5.7
+1.9
+-0.2
+4.0
+
+5.8
+1.9
+-0.2
+4.0
+
+5.4
+1.5
+-0.1
+4.0
+
+5.6
+5.8
+0.9
+12.6
+13.0
+0.6
+-1.6
+6.4
+
+3.6
+3.6
+1.4
+10.3
+10.9
+0.2
+0.2
+6.0
+
+1.4
+1.3
+1.5
+10.0
+9.7
+-0.7
+0.4
+6.9
+
+3.0
+3.0
+0.2
+9.7
+7.8
+-2.7
+1.9
+6.5
+
+4.1
+4.1
+2.0
+7.9
+11.4
+-1.1
+5.8
+6.4
+
+4.4
+4.4
+6.4
+5.9
+16.2
+4.6
+8.6
+5.6
+
+6.7
+6.6
+1.4
+4.7
+20.4
+4.8
+10.1
+4.9
+
+10.6
+10.4
+-0.1
+5.3
+15.0
+7.0
+3.0
+4.4
+
+3.1
+2.7
+-5.0
+10.5
+3.0
+-0.8
+-4.7
+3.7
+
+2.5
+2.3
+0.0
+10.5
+3.0
+0.8
+-7.3
+2.9
+
+3.0
+2.8
+0.5
+9.7
+5.0
+-3.4
+-4.1
+2.8
+
+2.7
+2.5
+0.5
+9.3
+5.0
+-1.9
+-2.5
+3.2
+
+2.7
+2.5
+0.5
+8.9
+5.0
+-2.0
+-0.9
+3.3
+
+2.7
+2.5
+0.5
+8.4
+5.0
+-2.0
+0.7
+3.4
+
+Foreign saving
+Memorandum items:
+Fiscal balance 3/
+Revenues and grants
+Expenditure and net lending
+Cyclically-adjusted balance
+Net non-debt creating capital inflows ("+" inflow)
+Capital transfers 4/
+Net equity investment
+Net foreign direct investment
+HICP inflation (average, in percent)
+CPI inflation (average, in percent)
+Employment growth (average, year-on-year in percent)
+Unemployment rate (percent)
+Average wage growth (percent)
+Labor share in total GDP (year on year growth, in perce
+Output gap (in percent of potential output)
+Growth rate of potential output (in percent)
+
+Sources: Estonian authorities, and IMF staff estimates and projections.
+1/ Includes government, private and nonpublic institutions serving households.
+2/ Includes private and public capital formation and changes in inventories.
+3/ Public savings minus public investment differs from the fiscal balance by the amount of capital transfers received from abroad.
+4/ Mainly EU capital grants, all of which are channelled through the budget.
+
+30
+
+GDP real growth (percent)
+Contribution to real GDP growth (percent)
+Consumption 1/
+Investment 2/
+Exports (goods and nonfactor services)
+Imports (goods and nonfactor services)
+
+31
+Table 5 Estonia: Indicators of External Vulnerability, 2001–08
+(In percent of GDP, unless otherwise indicated)
+2001
+Financial indicators
+Public sector external debt 1/
+Broad money (year-on-year, in percent)
+Base Money (year-on-year, in percent)
+Private sector credit (year-on-year, in percent) 2/
+External Indicators
+Exports (percent change, annual average)
+Imports (percent change, annual average)
+Current account balance
+Capital and financial account balance
+Gross official reserves (in euro millions)
+NFA of the consolidated banking system (in euro millions)
+Central Bank short-term foreign liabilities (in euro millions)
+Short term foreign assets of the financial sector (in euro millions) 3/
+Short term foreign liabilities of the financial sector (in euro millions)
+Open net foreign currency position of the financial sector (in euro millions)
+Official reserves in months of imports (excl. imports of goods for processing)
+Broad money to reserves (ratio)
+Total short term external debt to reserves 4/
+Total external debt 5/
+of which: Public sector debt 1/
+Net external debt 6/
+Debt service to exports of GNFS
+External interest payments to exports of GNFS, in percent
+External Amortization payments to exports of GNFS, in percent
+Exchange rate (per US$, period average)
+REER (percent change, period average; appreciation (+))
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+Latest Observation
+Date
+
+2.8
+23.0
+-9.8
+18.5
+
+2.8
+11.2
+-1.5
+19.7
+
+2.9
+10.9
+14.6
+32.5
+
+2.7
+15.8
+24.0
+43.6
+
+2.7
+41.9
+33.0
+64.9
+
+2.6
+28.2
+30.7
+62.1
+
+1.4
+13.5
+1.6
+33.0
+
+...
+7.4
+16.2
+10.7
+
+4.8
+4.1
+-5.2
+4.6
+930
+785
+1.0
+630
+979
+1,064
+3.2
+2.8
+1.4
+53.7
+2.8
+4.4
+13.4
+2.8
+10.5
+17.5
+3.4
+
+-1.4
+5.6
+-10.6
+10.8
+958
+496
+6.4
+935
+1,399
+1,576
+3.0
+3.0
+1.6
+58.0
+2.8
+10.5
+16.3
+2.7
+13.6
+16.6
+2.5
+
+9.5
+11.2
+-11.3
+13.6
+1,098
+-68
+30.7
+1,605
+1,733
+2,007
+3.0
+2.9
+1.6
+64.6
+2.9
+12.9
+20.5
+2.3
+18.3
+13.9
+3.3
+
+16.7
+16.6
+-11.7
+14.2
+1,317
+-730
+32.4
+2,073
+2,806
+2,174
+2.8
+2.8
+1.9
+76.2
+2.7
+16.7
+26.2
+2.3
+23.9
+12.6
+2.4
+
+32.8
+23.5
+-10.0
+12.2
+1,647
+-667
+3.1
+3,146
+2,613
+633
+2.7
+3.2
+2.1
+86.2
+2.7
+18.1
+27.0
+2.4
+24.6
+12.6
+1.4
+
+23.6
+29.9
+-16.7
+20.1
+2,128
+-1,597
+29.3
+4,019
+3,715
+506
+2.8
+3.2
+2.5
+97.9
+2.6
+27.4
+30.4
+2.9
+33.3
+12.5
+1.8
+
+4.1
+5.9
+-18.1
+17.9
+2,217
+-3,404
+84.2
+5,436
+5,166
+2,213
+2.7
+3.5
+3.0
+112.6
+1.4
+35.4
+38.1
+4.7
+42.9
+11.4
+4.6
+
+9.8
+-0.6
+-10.5
+10.8
+2,780
+-4,039
+103.5
+3,775
+9,562
+3,248
+...
+2.8
+...
+...
+...
+...
+...
+...
+...
+...
+...
+
+Jan-Nov 08
+Jan-Nov 08
+2008Q1-Q3
+2008Q1-Q3
+Dec-08
+Nov-08
+Sep-08
+Sep-08
+Sep-08
+Nov-08
+
+145
+A0.72
+
+212
+A0.04
+
+286
+A0.23
+
+449
+A
+0.16
+
+664
+A
+0.02
+
+856
+A
+-0.05
+
+742
+A
+2.01
+
+275
+A
+4.10
+
+Dec-08
+Dec-08
+Dec-08
+
+Financial Market Indicators
+Stock market index 7/
+Foreign currency debt rating 8/
+Money market spread 9/
+Sources: Estonian authorities, Bloomberg, Standard & Poor's, and IMF staff estimates.
+
+1/ Total general government and government-guaranteed debt excluding government assets held abroad.
+2/ Credit to households and nonfinancial institutions.
+3/ Excluding reserve assets of the Bank of Estonia.
+4/ By original maturity.
+5/ External debt includes money market instruments and financial derivatives.
+6/ Net of portfolio assets (including money market instruments), financial derivative assets, other investment assets, and reserve assets held by residents.
+7/ Tallinn stock exchange index (TALSE), end of period.
+8/ Standard & Poor's long-term foreign exchange sovereign rating.
+9/ One-month spread between Tallinn interbank borrowing rate (TALIBOR) and the corresponding EURIBOR rate.
+
+Nov-08
+Nov-08
+Nov-08
+
+Nov-08
+
+32
+Table 6. Estonia: Monetary Survey, 2003–09
+(In millions of EEK, unless otherwise indicated)
+
+2008
+
+Proj.
+2009
+
+-53,265
+33,770
+-87,035
+
+-61,007
+43,390
+-104,397
+
+-59,012
+45,885
+-104,897
+
+130,963
+166,916
+-4,289
+-4,284
+-5
+171,204
+617
+160,360
+10,227
+-35,952
+
+173,597
+224,066
+-3,639
+-3,634
+-5
+227,705
+1,142
+213,252
+13,311
+-50,469
+
+187,930
+242,108
+-1,966
+-1,964
+-2
+244,074
+1,783
+231,124
+11,167
+-49,786
+
+184,214
+234,000
+-1,966
+-1,964
+-2
+235,966
+2,050
+221,632
+12,284
+-49,786
+
+82,674
+48,673
+8,747
+39,926
+34,001
+
+105,986
+61,861
+10,068
+51,794
+44,125
+
+120,337
+59,964
+9,874
+50,090
+60,374
+
+126,923
+58,478
+10,092
+48,386
+68,445
+
+125,202
+64,071
+9,956
+54,116
+61,131
+
+25,750
+25,799
+22,171
+-48
+
+32,760
+33,181
+28,975
+-420
+
+33,770
+35,001
+29,439
+-1,231
+
+43,390
+43,442
+37,838
+-52
+
+45,885
+45,937
+33,839
+-52
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+Net foreign assets
+BOE
+Banks
+
+-1,072
+16,709
+-17,781
+
+-11,427
+20,118
+-31,545
+
+-10,429
+25,750
+-36,179
+
+-24,984
+32,760
+-57,745
+
+Net domestic assets
+Domestic credit
+Net credit to general government
+Banks
+BOE
+Credit to nongovernment
+Credit to nonfinancial public enterprises
+Credit to private sector
+Credit to nonbank financial institutions
+Other items (net)
+
+51,376
+68,933
+-162
+-157
+-5
+69,095
+221
+41,769
+27,105
+-17,558
+
+69,677
+89,048
+-1,606
+-1,601
+-5
+90,654
+651
+59,997
+30,005
+-19,371
+
+93,102
+117,593
+-3,314
+-3,308
+-5
+120,906
+719
+98,952
+21,236
+-24,490
+
+50,304
+30,807
+7,140
+23,667
+19,497
+
+58,251
+36,178
+7,714
+28,463
+22,073
+
+16,709
+17,195
+13,450
+-485
+
+20,118
+20,626
+16,672
+-508
+
+Banking Survey
+
+Broad money
+M1
+Currency outside banks
+Demand deposits
+Time and savings deposits
+Monetary Authorities
+Net foreign assets
+Foreign assets
+of which: currency board cover 1/
+Foreign liabilities
+Net domestic assets
+
+-3,259
+
+-3,446
+
+-3,579
+
+-3,785
+
+-4,331
+
+-5,552
+
+-12,046
+
+Base money
+Currency issued
+Deposits of commercial banks with the BOE
+Other deposits at BOE
+
+13,450
+8,324
+5,063
+64
+
+16,672
+8,895
+7,702
+75
+
+22,171
+10,102
+11,985
+85
+
+28,975
+11,763
+17,121
+91
+
+29,439
+11,762
+17,523
+155
+
+37,838
+11,996
+25,842
+0
+
+33,839
+8,347
+25,491
+0
+
+3.7
+0.2
+2.7
+14.6
+10.9
+32.5
+
+3.5
+0.2
+2.6
+24.0
+15.8
+43.6
+
+3.7
+0.1
+2.1
+33.0
+41.9
+64.9
+
+3.7
+0.1
+1.9
+30.7
+28.2
+62.1
+
+4.1
+0.1
+2.0
+1.6
+13.5
+33.0
+
+3.4
+0.1
+2.0
+28.5
+5.5
+8.4
+
+3.7
+0.1
+2.0
+-10.6
+-1.4
+-4.1
+
+Memorandum items:
+Base money multiplier
+Currency-to-deposit ratio
+Velocity (end period)
+Base money (year on year, in percent)
+Broad money (year on year, in percent)
+Credit to the private sector (year on year, in perc
+
+Source: Bank of Estonia and IMF staff estimates and projections.
+1/ Currency board cover is equivalent to base money (e.g., the sum of currency issued plus the kroon liabilities of the BOE in its
+correspondent accounts).
+
+Table 7. Estonia: Baseline and Alternative Scenarios, 2001–14
+(in percent of GDP, unless otherwise indicated)
+2001
+Baseline Scenario:
+GDP real growth (year-on-year, percent)
+Domestic demand, real growth (year-on-year, percent)
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+Prel.
+
+2008
+
+2009
+
+2010
+2011
+Projection
+
+2012
+
+2013
+
+2014
+
+7.8
+12.4
+
+7.1
+10.2
+
+7.5
+7.9
+
+9.2
+8.8
+
+10.4
+14.0
+
+6.3
+7.5
+
+-2.4
+-7.5
+
+-4.0
+-7.0
+
+0.1
+2.1
+
+6.3
+8.0
+
+5.0
+5.2
+
+5.0
+5.2
+
+5.0
+5.2
+
+22.9
+28.1
+5.2
+
+21.7
+32.4
+10.6
+
+21.9
+33.2
+11.3
+
+22.6
+34.3
+11.7
+
+24.2
+34.2
+10.0
+
+21.9
+38.6
+16.7
+
+19.8
+37.9
+18.1
+
+20.8
+30.8
+10.0
+
+21.4
+27.3
+5.9
+
+20.3
+28.6
+8.3
+
+21.9
+31.4
+9.6
+
+22.1
+31.7
+9.6
+
+22.8
+32.0
+9.2
+
+23.5
+32.6
+9.1
+
+HICP inflation (annual average, in percent)
+Employment growth (average, year-on-year in percent)
+Unemployment rate (percent)
+Average wage growth (percent)
+Gross external debt
+Net external debt
+NIIP
+
+5.6
+0.9
+12.6
+13.0
+53.7
+4.4
+-48.7
+
+3.6
+1.4
+10.3
+10.9
+58.0
+10.5
+-54.3
+
+1.4
+1.5
+10.0
+9.7
+64.6
+12.9
+-66.1
+
+3.0
+0.2
+9.7
+7.8
+76.2
+16.7
+-85.9
+
+4.1
+2.0
+7.9
+11.4
+86.2
+18.1
+-85.4
+
+4.4
+6.4
+5.9
+16.2
+97.9
+27.4
+-74.8
+
+6.7
+1.4
+4.7
+20.4
+112.6
+35.4
+-75.2
+
+10.6
+-0.1
+5.3
+15.0
+115.9
+36.7
+-79.0
+
+3.1
+-5.0
+10.5
+3.0
+122.1
+38.8
+-84.3
+
+2.5
+0.0
+10.5
+3.0
+125.3
+40.8
+-89.1
+
+3.0
+0.5
+9.7
+5.0
+119.4
+40.6
+-89.3
+
+2.7
+0.5
+9.3
+5.0
+115.9
+40.9
+-90.8
+
+2.7
+0.5
+8.9
+5.0
+113.3
+40.5
+-91.6
+
+2.7
+0.5
+8.4
+5.0
+110.7
+40.6
+-92.7
+
+Alternative Scenario
+GDP real growth (year-on-year, percent)
+Domestic demand, real growth (year-on-year, percent)
+
+7.7
+7.3
+
+7.8
+12.4
+
+7.1
+10.2
+
+7.5
+7.9
+
+9.2
+8.8
+
+10.4
+14.0
+
+6.3
+7.5
+
+-2.4
+-7.5
+
+-4.2
+-6.8
+
+-0.4
+2.2
+
+2.9
+4.3
+
+3.2
+3.8
+
+3.2
+3.8
+
+3.2
+3.8
+
+22.9
+28.1
+5.2
+
+21.7
+32.4
+10.6
+
+21.9
+33.2
+11.3
+
+22.6
+34.3
+11.7
+
+24.2
+34.2
+10.0
+
+21.9
+38.6
+16.7
+
+19.8
+37.9
+18.1
+
+20.8
+30.8
+10.0
+
+20.8
+27.4
+6.5
+
+18.8
+28.7
+9.9
+
+18.5
+30.1
+11.6
+
+18.5
+30.9
+12.4
+
+19.0
+31.7
+12.7
+
+19.1
+32.5
+13.4
+
+5.6
+0.9
+12.6
+13.0
+53.7
+4.4
+-48.7
+
+3.6
+1.4
+10.3
+10.9
+58.0
+10.5
+-54.3
+
+1.4
+1.5
+10.0
+9.7
+64.6
+12.9
+-66.1
+
+3.0
+0.2
+9.7
+7.8
+76.2
+16.7
+-85.9
+
+4.1
+2.0
+7.9
+11.4
+86.2
+18.1
+-85.4
+
+4.4
+6.4
+5.9
+16.2
+97.9
+27.4
+-74.8
+
+6.7
+1.4
+4.7
+20.4
+112.6
+35.4
+-75.2
+
+10.6
+-0.1
+5.3
+15.0
+115.9
+36.7
+-79.0
+
+3.4
+-6.0
+11.4
+8.0
+121.5
+39.6
+-85.1
+
+2.7
+-2.0
+13.2
+3.0
+124.7
+43.3
+-91.9
+
+3.0
+-1.0
+13.7
+3.0
+124.5
+46.0
+-96.6
+
+2.7
+0.0
+13.8
+4.0
+126.0
+49.0
+-101.8
+
+2.7
+0.5
+13.4
+5.0
+127.7
+51.9
+-106.8
+
+2.7
+0.5
+13.0
+5.0
+130.3
+55.7
+-112.7
+
+Domestic saving
+Investment
+Foreign saving
+
+Domestic saving
+Investment
+Foreign saving
+HICP inflation (annual average, in percent)
+Employment growth (average, year-on-year in percent)
+Unemployment rate (percent)
+Average wage growth (percent)
+Gross external debt
+Net External Debt
+NIIP
+
+Sources: Estonian authorities, and IMF staff estimates and projections.
+
+33
+
+7.7
+7.3
+
+Table 8. Estonia: External Debt Sustainability Framework, 2003–14
+(In percent of GDP, unless otherwise indicated)
+
+2003
+
+Baseline: External debt
+
+2004
+
+Actual
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+Projections
+2012
+2013
+
+2014
+
+76.8
+
+85.4
+
+97.9
+
+112.6
+
+115.9
+
+122.1
+
+125.3
+
+119.4
+
+115.9
+
+113.3
+
+110.7
+
+6.7
+-12.3
+9.8
+7.4
+69.2
+76.6
+-8.8
+-13.2
+1.6
+-3.1
+-11.7
+18.9
+
+12.2
+-8.0
+10.6
+8.0
+74.0
+81.9
+-8.9
+-9.7
+1.7
+-4.4
+-6.9
+20.2
+
+8.6
+-11.4
+8.1
+6.3
+78.8
+85.1
+-10.2
+-9.3
+1.9
+-6.7
+-4.6
+20.0
+
+12.6
+-2.4
+14.4
+11.8
+80.5
+92.4
+-6.1
+-10.7
+2.4
+-6.0
+-7.0
+15.0
+
+14.7
+-8.9
+14.6
+11.3
+73.8
+85.1
+-6.1
+-17.4
+3.5
+-4.9
+-16.0
+23.6
+
+3.2
+5.7
+5.5
+5.5
+74.3
+79.8
+-6.6
+6.9
+4.5
+2.4
+...
+-2.5
+
+6.3
+7.5
+0.4
+2.8
+73.7
+76.5
+-3.5
+10.5
+5.4
+5.1
+...
+-1.2
+
+3.2
+3.6
+5.7
+4.5
+74.0
+78.5
+-4.6
+2.5
+2.6
+-0.2
+...
+-0.4
+
+-5.9
+-2.9
+6.5
+5.2
+72.3
+77.5
+-5.3
+-4.0
+3.1
+-7.2
+...
+-3.0
+
+-3.5
+-1.3
+5.9
+5.2
+72.9
+78.1
+-5.4
+-1.8
+3.7
+-5.5
+...
+-2.2
+
+-2.6
+-1.6
+5.4
+4.6
+73.5
+78.2
+-5.5
+-1.6
+3.8
+-5.4
+...
+-1.0
+
+-2.6
+-1.7
+5.4
+4.3
+74.1
+78.4
+-5.5
+-1.6
+3.7
+-5.3
+...
+-0.9
+
+External debt-to-exports ratio (in percent)
+
+93.4
+
+103.8
+
+108.4
+
+121.6
+
+152.5
+
+155.9
+
+165.8
+
+169.4
+
+165.2
+
+159.0
+
+154.1
+
+149.3
+
+Gross external financing need (in billions of US dollars) 4/
+in percent of GDP
+
+3.5
+36.1
+
+4.6
+38.5
+
+5.2
+37.5
+
+8.4
+51.4
+
+11.4
+54.6
+
+11.2
+46.8
+
+10.3
+46.4
+
+12.3
+54.0
+
+13.4
+53.7
+
+14.3
+52.6
+
+15.5
+52.8
+
+16.9
+53.4
+
+115.9
+
+100.1
+
+92.6
+
+84.7
+
+77.7
+
+72.0
+
+66.7
+
+-2.4
+17.7
+4.6
+15.7
+7.7
+-5.5
+6.6
+
+-4.0
+-3.8
+4.3
+-8.5
+-11.6
+-0.4
+3.5
+
+0.1
+2.7
+2.2
+3.2
+5.6
+-5.7
+4.6
+
+6.3
+3.4
+2.7
+7.4
+8.5
+-6.5
+5.3
+
+5.0
+3.0
+3.3
+9.1
+9.0
+-5.9
+5.4
+
+5.0
+3.0
+3.5
+9.1
+8.3
+-5.4
+5.5
+
+5.0
+3.0
+3.5
+9.1
+8.5
+-5.4
+5.5
+
+Change in external debt
+Identified external debt-creating flows (4+8+9)
+Current account deficit, excluding interest payments
+Deficit in balance of goods and services
+Exports
+Imports
+Net non-debt creating capital inflows (negative)
+Automatic debt dynamics 1/
+Contribution from nominal interest rate
+Contribution from real GDP growth
+Contribution from price and exchange rate changes 2/
+Residual, incl. change in gross foreign assets (2-3) 3/
+
+Scenario with key variables at their historical averages 5/
+Key Macroeconomic Assumptions Underlying Baseline
+Real GDP growth (in percent)
+GDP deflator in US dollars (change in percent)
+Nominal external interest rate (in percent)
+Growth of exports (US dollar terms, in percent)
+Growth of imports (US dollar terms, in percent)
+Current account balance, excluding interest payments
+Net non-debt creating capital inflows
+
+7.2
+25.3
+3.6
+31.0
+31.9
+-9.8
+8.8
+
+8.3
+12.0
+3.2
+29.6
+29.7
+-10.6
+8.9
+
+10.2
+6.3
+2.9
+24.7
+21.6
+-8.1
+10.2
+
+8.3
+8.9
+3.3
+20.6
+28.0
+-14.4
+6.1
+
+6.3
+19.5
+4.5
+16.6
+17.2
+-14.6
+6.1
+
+Source: Estonian authorities and IMF staff estimates and projections.
+1/ Derived as [r - g - r(1+g) + ea(1+r)]/(1+g+r+gr) times previous period debt stock, with r = nominal effective interest rate on external debt; r = change in domestic GDP deflator in US dollar terms, g = real GDP growth
+rate, e = nominal appreciation (increase in dollar value of domestic currency), and a = share of domestic-currency denominated debt in total external debt.
+2/ The contribution from price and exchange rate changes is defined as [-r(1+g) + ea(1+r)]/(1+g+r+gr) times previous period debt stock. r increases with an appreciating domestic currency (e > 0)
+and rising inflation (based on GDP deflator).
+3/ For projection, line includes the impact of price and exchange rate changes.
+4/ Defined as current account deficit, plus amortization on medium- and long-term debt, plus short-term debt at end of previous period.
+5/ The key variables include real GDP growth; nominal interest rate; dollar deflator growth; and both non-interest current account and non-debt inflows in percent of GDP.
+6/ Long-run, constant balance that stabilizes the debt ratio assuming that key variables (real GDP growth, nominal interest rate, dollar deflator growth, and non-debt inflows in percent of GDP) remain at their levels
+of the last projection year.
+
+34
+
+64.6
+
+Debt-stabilizing
+non-interest
+current account 6/
+-10.3
+
+-14.1
+
+35
+INTERNATIONAL MONETARY FUND
+REPUBLIC OF ESTONIA
+Staff Report for the 2008 Article IV Consultation—Informational Annex
+Prepared by the European Department
+February 17, 2009
+Contents
+
+Page
+
+Appendices
+Fund Relations .......................................................................................................36
+I.
+
+II.
+
+Statistical Issues .....................................................................................................38
+
+36
+APPENDIX I. ESTONIA: FUND RELATIONS16
+(As of January 31, 2009)
+Membership Status: Joined May 26, 1992; Article VIII.
+General Resources Account:
+Quota
+Fund holdings of currency
+Reserve position in Fund
+
+SDR Million
+65.20
+65.19
+0.01
+
+Percent of Quota
+100.00
+99.99
+0.01
+
+SDR Department:
+Holdings
+
+SDR Million
+0.06
+
+Percent of Allocation
+N.A.
+
+Outstanding Purchases and Loans:
+
+None
+
+Financial Arrangements:
+
+None
+
+Projected Obligations to Fund:
+
+None
+
+Exchange Rate Arrangements:
+The currency of Estonia is the kroon. The kroon replaced the ruble on June 20, 1992. Since
+that date, the Bank of Estonia has guaranteed the conversion of kroon bank notes, coins, and
+reserve deposits of commercial banks at a fixed rate of exchange of EEK 15.6466 per euro
+(and EEK 8 per deutsche mark until 31 December, 2001). The de facto exchange rate regime
+is a “currency board arrangement,” which corresponds to the de jure classification. Estonia
+has accepted the obligations under Article VIII, Sections 2(a), 3, and 4 of the Fund’s Articles
+of Agreement, and maintains an exchange system free of restrictions on the making of
+payments and transfers for current international transactions, except for those imposed for
+security reasons in accordance with the European Council Regulations set forth in the letter
+from the Bank of Estonia dated July 9, 2008, and notified to the Executive Board in
+accordance with Decision No. 144-(52/51) (EBD/08/73, July 9, 2008).
+Article IV Consultation:
+The 2007 Article IV consultation was concluded by the Executive Board on July 23, 2007.
+FSAP and ROSCs:
+16
+
+Updated information relating to members’ positions in the Fund can be found on the IMF web site
+(http://www.imf.org/external/np/fin/tad/exfin1.aspx).
+
+37
+
+A review under the Financial Sector Assessment Program (FSAP) was completed at the time
+of the 2000 Article IV Consultation. Further Reports on Observance of Standards and Codes
+(ROSC) modules were discussed in the 2001 Article IV Consultations and updated during the
+2002 Consultation. An FSAP update mission was fielded in February 2008. An FAD mission
+to reassess the fiscal transparency ROSC was fielded in November 2007. MONEYVAL has
+prepared an AML/CFT ROSC which will be circulated to the Board in the near future.
+Technical Assistance:
+TECHNICAL ASSISTANCE FROM THE FUND, 2000–07
+DEPT
+
+Project
+
+Action
+
+Timing
+
+Counterpart
+
+FAD
+
+Pension Reform
+
+Mission
+
+April 2000
+
+Ministries of Finance
+and Social Affairs
+
+MAE
+
+Banking Supervision
+
+Staff Visit
+
+December 2000
+
+Bank of Estonia
+
+FAD
+
+Tax Policy
+
+Mission
+
+March 2001
+
+Ministry of Finance
+
+INS
+
+Financial Markets
+
+Training
+
+September 2002
+
+Bank of Estonia
+
+FAD
+
+Medium-term Budget
+
+December 2003
+
+Ministry of Finance
+
+FAD
+
+Tax Reform
+
+February 2005
+
+Ministry of Finance
+
+Technical
+Assistance
+Technical
+Assistance
+
+38
+
+APPENDIX II. ESTONIA: STATISTICAL ISSUES
+1.
+Data provision to the Fund is generally adequate for surveillance purposes, although
+fiscal data on general government operations are not always timely. A May 2001 data ROSC
+mission found that the quality of macroeconomic statistics was generally good; international
+standards and guidelines were generally followed, although coverage of fiscal and monetary
+data was not complete.
+2.
+Estonia is a subscriber to the Special Data Dissemination Standard (SDDS). Also, the
+Bank of Estonia (BoE) and the Statistical Office of Estonia (SE) periodically update on their
+websites a wide variety of data on the key variables for the monetary, fiscal, real, and external
+sectors.
+3.
+As a member of the European Union and a candidate to join the European Monetary
+Union, Estonia has markedly upgraded its statistics to comply with European Central Bank
+(ECB) standards and regulations.
+A. Monetary and Financial Statistics
+4.
+The BoE regularly reports monetary data with minimal delay. The data are also
+published by the BoE on its website. The BoE balance-sheet data (base money and net
+international reserves) are reported monthly, and are available on the eighth day of the
+following month. Broad money and its components are available monthly from the BoE on
+the thirteenth banking day from the beginning of the month. Interest rate updates on domestic
+and foreign currency transactions are provided monthly on the seventeenth banking day of the
+month.
+5.
+BoE has adopted the framework of the ECB for the compilation of monetary and
+financial statistics, which is consistent with the IMF’s Monetary and Financial Statistics
+Manual. STA and BoE have completed the data work on mapping Estonia’s monetary data
+into the Standardized Report Forms which have been published in the June issue of the IFS
+Supplement.
+6.
+Aggregate financial data are compiled by the BoE and reported on a monthly basis.
+Data for individual banks are also available on a quarterly basis, and consolidated data on
+commercial bank reserves, NFAs, and net open foreign exchange positions are available on
+the eleventh banking day of the month. Commercial bank off-balance sheet data, leverage and
+liquidity ratios, and short term external debt are available on the eighteenth banking day of
+the month. Average capital adequacy ratios are available on the thirteenth banking day of the
+month. Data on non-performing loans are available on the seventeenth banking day of the
+month.
+7.
+Estonia participated in the Fund’s Coordinated Compilation Exercise for Financial
+Soundness Indicators. Data and metadata on a benchmark set of indicators for 2005 have
+been posted on the IMF website.
+
+39
+
+B. Balance of Payments Statistics
+8.
+Quarterly balance of payments and IIP data are compiled by the BoE. Daily exchange
+rate data are available with a one working day lag. Monthly import/export data are available
+with a two month lag. Quarterly balance of payments and public and private external debt
+data are available with a quarterly lag.
+C. Government Finance Statistics
+9.
+All fiscal data are published by the Ministry of Finance (MoF). Historical data are
+also available on SE’s website.
+•
+
+Monthly central government operations data are available with a lag of up to 25 days
+after the end of the month. The government began reporting monthly data on a
+consolidated government basis in January 1999 on its Estonian-language web site.
+Quarterly data on foreign loans and guarantees by the central government are
+published in Estonian with a monthly lag. The MoF is using one of its two allowed
+SDDS flexibility options on the timeliness of monthly central government operations
+data, and have recently started to disseminate these data on the National Summary
+Data Page.
+
+•
+
+Comprehensive annual data on central and local government operations (cash basis)
+are reported in the GFS Yearbook. These data include a statement of operations and
+the government balance sheet, including data on financial assets and liabilities, both
+domestic and foreign. Quarterly data for general government, based on the GFSM
+2001 framework, are now regularly reported for inclusion in the International
+Finance Statistics.
+D. National Accounts
+
+10.
+Data on GDP (quarterly, by semester, and annually) are published by SE with a lag of
+three months after the end of the quarter. Flash estimates of aggregate GDP are available two
+months after the end of the reference period. The monthly CPI is available seven days after
+the end of the reference period. Monthly PPI and export price indices are available four
+weeks after the end of the reference period. Monthly indicators of retail trade, industrial
+output, industrial sales, are reported approximately six weeks to two months after the end of
+the reference period. Nominal monthly wage data and quarterly nominal and real wage data
+are published with a two-month lag.
+
+40
+ESTONIA: TABLE OF COMMON INDICATORS REQUIRED FOR SURVEILLANCE
+(As of January 12, 2009)
+Frequenc
+y of
+Reporting
+
+Frequency
+of
+publication
+
+6
+
+6
+
+D
+
+D
+
+D
+
+1/08/09
+
+M
+
+M
+
+M
+
+December
+2008
+
+1/08/09
+
+M
+
+M
+
+M
+
+Broad Money
+
+Nov. 2008
+
+12/15/08
+
+M
+
+M
+
+M
+
+Central Bank Balance Sheet
+
+Nov. 2008
+
+12/15/08
+
+M
+
+M
+
+M
+
+Consolidated Balance Sheet of the Banking
+System
+
+Nov. 2008
+
+12/15/08
+
+M
+
+M
+
+M
+
+Interest Rates
+
+January 9,
+2009
+
+1/12/09
+
+D
+
+W
+
+W
+
+Consumer Price Index
+
+December
+2008
+
+1/08/09
+
+M
+
+M
+
+M
+
+Q4 2007
+
+3/31/08
+
+Q3 2008
+
+12/22/08
+
+Q
+
+Q
+
+Q
+
+Nov. 2008
+
+1/09/09
+
+M
+
+M
+
+M
+
+GDP/GNP
+
+Q3 2008
+
+12/09/08
+
+Q
+
+Q
+
+Q
+
+Gross External Debt
+
+Q3 2008
+
+12/22/08
+
+Q
+
+Q
+
+Q
+
+Q3 2008
+
+12/22/08
+
+Q
+
+Q
+
+Q
+
+Date of
+latest
+observation
+
+Date
+received
+
+Exchange Rates
+
+January 12,
+2009
+
+1/12/09
+
+International Reserve Assets and Reserve
+1
+Liabilities of the Monetary Authorities
+
+December
+2008
+
+Reserve/Base Money
+
+2
+
+Revenue, Expenditure, Balance and
+3
+Composition of Financing – General
+4
+Government
+
+Frequenc
+6
+y of Data
+
+Memo Items:
+Data Quality –
+Methodological
+7
+soundness
+
+Data Quality –
+Accuracy and
+8
+reliability
+
+O, LO, LO, LO
+
+O, O, O, NA
+
+O, O, O, O
+
+LO, LO, O, LO
+
+LO, LO, O, O
+
+LO, LO, O, NO
+
+O, O, LO, O
+
+O, O, O, O
+
+O, O, O, LO
+
+LO, LO, LO,
+LNO
+
+Revenue, Expenditure, Balance and
+3
+Composition of Financing – Central
+Government
+Stocks of Central Government and Central
+5
+Government-Guaranteed Debt
+External Current Account Balance
+Exports and Imports of Goods and Services
+
+International Investment Position
+1
+
+9
+
+Any reserve assets that are pledged or otherwise encumbered should be specified separately.
+Both market-based and officially-determined, including discount rates, money market rates, rates on treasury bills, notes and bonds.
+3
+Foreign, domestic bank, and domestic nonbank financing.
+4
+The general government consists of the central government (budgetary funds, extra budgetary funds, and social security funds) and state
+and local governments.
+5
+Including currency and maturity composition.
+6
+Daily (D), Weekly (W), Monthly (M), Quarterly (Q), Annually (A), Irregular (I); Not Available (NA).
+7
+Reflects the assessment provided in the data ROSC published on November 6, 2001 and based on the findings of the mission that took place
+during May 10-18, 2001 for the dataset corresponding to the variable in each row. The assessment indicates whether international standards
+concerning concepts and definitions, scope, classification/sectorization, and basis for recording are fully observed (O), largely observed (LO),
+largely not observed (LNO), or not observed (NO).
+8
+Same as footnote 7, except referring to international standards concerning (respectively) source data, statistical techniques, assessment and
+validation, and revision studies.
+9
+Includes external gross financial asset and liability positions vis-à-vis nonresidents.
+2
+
+Statement by the IMF Staff Representative
+March 2, 2009
+1.
+This statement reports on data releases and policy measures since the staff
+report was issued. The additional information does not change the thrust of the staff
+appraisal.
+2.
+Preliminary data suggest that GDP fell sharply in the last quarter of 2008.
+Industrial production plummeted, and the decline in retail sales accelerated. A flash estimate
+puts real GDP growth at -9.4 percent year-on-year for the 4th quarter (-4.2 percent quarter-onquarter, seasonally adjusted). These figures would imply that the economy contracted by
+3.6 percent in 2008 instead of the 2.4 percent reported in the staff report). Carry-over effects
+would bring GDP growth to -6.2 percent in 2009 instead of the -4 percent in the staff report.
+This would produce a larger reduction in inflation and external current account deficit than in
+the staff report’s baseline scenario, but it would also bring a greater deterioration in the
+performance of bank loans.
+3.
+The parliament has approved a supplementary budget for 2009 which further
+tightens the fiscal stance. The main measures are cuts in operational expenses (including
+the wage bill) in all ministries and a slowing of the pace of pension increases. The authorities
+estimate that these and other measures will reduce expenditure by about 3¼ percent of GDP
+which, under a 6.2 percent economic contraction, would reduce the general government
+deficit to about 1 percent of GDP. Their objective is to ensure the deficit would not exceed
+the Maastricht limit even if GDP falls as much as 8 percent in 2009.
+
+5
+
+Republic of Estonia: Selected Economic Indicators
+2003
+Real Economy
+
+2004
+
+2005
+
+2006
+
+2007
+
+In units as indicated
+
+Real GDP growth (in percent)
+
+7.1
+
+7.5
+
+9.2
+
+10.4
+
+6.3
+
+Average HICP inflation (in percent)
+
+1.4
+
+3.0
+
+4.1
+
+4.4
+
+6.7
+
+Unemployment rate (ILO definition, percent)
+
+10.0
+
+9.7
+
+7.9
+
+5.9
+
+4.7
+
+Domestic saving (in percent of GDP)
+
+21.9
+
+22.6
+
+24.2
+
+21.9
+
+19.8
+
+Domestic investment (in percent of GDP)
+
+33.2
+
+34.3
+
+34.2
+
+38.6
+
+37.9
+
+Public Finance
+General government balance
+
+In percent of GDP
+2.5
+
+1.6
+
+1.6
+
+3.3
+
+3.0
+
+Excluding government assets held abroad
+
+5.6
+
+5.6
+
+5.0
+
+4.4
+
+4.3
+
+Including government assets held abroad 3/
+
+0.3
+
+-2.4
+
+-2.7
+
+-3.1
+
+-4.7
+
+General government debt
+
+Money and credit
+
+Changes in percent
+
+Base money
+
+14.6
+
+24.0
+
+33.0
+
+30.7
+
+1.6
+
+Broad money
+
+10.9
+
+15.8
+
+41.9
+
+28.2
+
+13.5
+
+Domestic credit to nongovernment
+
+27.0
+
+31.2
+
+33.4
+
+41.6
+
+33.0
+
+Balance of Payments
+
+In percent of GDP
+
+Current account
+
+-7.4
+11.3
+
+-7.4
+11.7
+
+-6.4
+10.0
+
+11.8
+16.7
+
+11.3
+18.1
+
+Gross international reserves (euro, millions)
+
+1098
+
+1317
+
+1647
+
+2128
+
+2217
+
+Goods and nonfactor services
+
+Exchange Rate
+Exchange rate regime
+
+currency board arrangement
+
+Exchange rate parity
+Real effective exchange rate (percent change, period average;
+appreciation (+))
+Sources: Estonian authorities, and Fund staff estimates.
+
+EEK 15.6466=Є1
+3.3
+
+2.4
+
+1.4
+
+1.8
+
+4.6
+
+Public Information Notice (PIN) No. 09/33
+FOR IMMEDIATE RELEASE
+March 10, 2009
+
+International Monetary Fund
+700 19th Street, NW
+Washington, D. C. 20431 USA
+
+IMF Executive Board Concludes 2008 Article IV Consultation with
+the Republic of Estonia
+On March 2, 2009, the Executive Board of the International Monetary Fund (IMF)
+concluded the Article IV Consultation with the Republic of Estonia.1
+Background
+Estonia’s economy was already decelerating when the global financial crisis erupted. An
+outstanding economic performance since the early 1990s had ended in a strong credit
+boom and overheating in 2005-07. The real estate market had surged, output growth
+had risen well above potential, inflation had accelerated, and the current account deficit
+had widened significantly. These widening imbalances eventually raised awareness of
+increased risks, driving banks to tighten credit in early 2007. This, together with a
+decline in consumer confidence, triggered an economic slowdown. The global financial
+crisis brought further credit tightening and decline in confidence, leading to an
+acceleration of the slowdown in late 2007 and 2008.
+The economy is now experiencing its most severe recession since the early 1990’s. The
+downturn is mostly driven by domestic demand, as the credit crunch is squeezing
+investment and the decline in confidence is reducing consumption. The stock market
+index, which had soared in 2006, dropped below its pre-boom level, and real estate
+prices are now more than 20 percent below peak levels. As a result, GDP growth, which
+had started to decline in late 2007, turned strongly negative last year.
+
+1
+
+Under Article IV of the IMF's Articles of Agreement, the IMF holds bilateral discussions with
+members, usually every year. A staff team visits the country, collects economic and financial
+information, and discusses with officials the country's economic developments and policies. On return
+to headquarters, the staff prepares a report, which forms the basis for discussion by the Executive
+Board. At the conclusion of the discussion, the Managing Director, as Chairman of the Board,
+summarizes the views of Executive Directors, and this summary is transmitted to the country's
+authorities.
+
+2
+The recession is sharply reducing Estonia’s imbalances. The external current account
+deficit nearly halved between 2007 and 2008, largely due to a demand-driven
+compression of imports but also helped by a drop in income outflows, reflecting the fall
+in profits to foreign-owned companies and banks. Exports continued to grow modestly
+despite an appreciation of the real exchange rate, owing to an improvement in terms of
+trade and a recovery of oil transit trade with Russia. Inflation, which reached doubledigits in mid-2008 because of demand pressures as well as external and internal
+shocks, is now decelerating sharply as these pressures and the impact of the fuel and
+food price shocks have reversed.
+Labor market conditions have begun to ease. Real wages continued to run ahead of
+productivity growth in 2008, compressing profits from their (exceptionally strong) 200607 level. But nominal wage growth has slowed from over 20 percent in 2007 to about
+15 percent last year, and there are reports of cancelled or reduced bonuses. Also, the
+unemployment rate jumped by more than 2 percentage points in the third quarter of
+2008 to above 6 percent, and there is growing evidence of large forthcoming slack in the
+labor market given the shrinking number of vacancies and widespread news of layoffs.
+The financial sector has withstood the global financial turbulence well so far, but risks
+remain significant. Estonia’s banks (almost entirely owned by large Nordic groups with
+centralized liquidity management) have so far had access to liquidity when needed
+(although at higher prices) through their parents which in turn benefited from liquidity
+support and guarantees by the home country authorities. Recently Eesti Pank and the
+Sveriges Riksbank have concluded an arrangement which will allow for expanded
+provision of liquidity to subsidiaries of Swedish banks in the event of need. As regards
+capitalization, strong profits in recent years have strengthened banks’ buffers which
+have traditionally been robust given conservative regulatory limits. But the recession has
+started to erode asset quality (NPLs more than tripled in 2008, though from a very low
+level), undermining expected profit.
+Estonia’s track record of fiscal surpluses has allowed the accumulation of fiscal reserves
+that are proving crucial for the country’s financial stability in this global crisis. However,
+large structural expenditure increases (particularly in the wage bill and pensions) over
+2007-08 have tarnished this record. Together with the recession, they contributed to
+driving the general government balance into deficit in 2008, for the first time since the
+beginning of this decade. They have also set the stage for continued deficits over the
+medium term in the absence of corrective measures.
+Executive Board Assessment
+Directors commended the Estonian authorities for the progress made in recent years in
+achieving economic convergence and deepening real and financial ties with the
+European Union. Economic policies have built up considerable financial buffers,
+although sizable vulnerabilities have accumulated following a domestic consumption
+and housing boom that was fueled by high credit growth. With the global deleveraging,
+Estonia has entered a severe recession that will test the flexibility and resilience of its
+economy. The domestic demand contraction has already reduced the external current
+account deficit and lowered inflation. Recovery however will require a revival of foreign
+
+3
+and domestic demand, continued financial stability, and prudent macroeconomic
+management.
+Directors agreed that the currency board arrangement has served Estonia well by
+anchoring expectations and policies. Nonetheless, contagion risks have heightened.
+Directors considered, therefore, that euro accession would provide a safer haven. They
+noted staff’s assessment that the real effective exchange rate is somewhat overvalued,
+but that competitiveness is projected to remain adequate as real wage increases are
+aligned with productivity.
+Directors commended the authorities for their planned substantial fiscal restraint in 2009
+that was intended to keep the fiscal deficit within the Maastricht ceiling of 3 percent of
+GDP. They considered that this fiscal stance would have had only a modest impact on
+activity, given the open economy and was necessary to support the currency board.
+Important steps to rein in the fiscal deficit included a freeze on the wage bill for 2009-10,
+which would also send a strong signal for wage moderation in the private sector, cuts in
+operational expenditures, and postponement of previously agreed tax reductions and
+pension increases. Directors encouraged the authorities to achieve a modest structural
+fiscal surplus over the medium term and supported their intention to review mediumterm expenditures and revenue policies.
+Directors noted that the financial sector has been thus far resilient to the global crisis.
+Nevertheless, loan quality will likely suffer as the recession progresses and liquidity
+buffers may erode further with global deleveraging. Against this background, Directors
+commended the authorities for their decisive steps to strengthen the bank resolution
+framework and financial safety nets, including regional safety net cooperation
+agreements. They welcomed the changes to the deposit guarantee scheme that reduce
+incentives for bank runs. They endorsed the recent swap agreement between the
+Estonian and Swedish central banks that underpin a new framework for extending
+emergency liquidity assistance to large banks, providing an additional liquidity cushion.
+They supported efforts aimed at improving regional collaboration through continued
+coordination of supervisory activities and exchange of information.
+Structural policies to ensure market flexibility were considered by Executive Directors to
+be crucial for facilitating real adjustment including a reallocation of resources from the
+non-traded to the tradable sector and from low wage to high-value added activities.
+They supported the new labor contract law, which aims to reduce the, albeit limited,
+labor market rigidities, while improving the social safety net.
+Public Information Notices (PINs) form part of the IMF's efforts to promote transparency of the IMF's
+views and analysis of economic developments and policies. With the consent of the country
+(or countries) concerned, PINs are issued after Executive Board discussions of Article IV consultations
+with member countries, of its surveillance of developments at the regional level, of post-program
+monitoring, and of ex post assessments of member countries with longer-term program engagements.
+PINs are also issued after Executive Board discussions of general policy matters, unless otherwise
+decided by the Executive Board in a particular case. The staff report (use the free Adobe Acrobat
+Reader to view this pdf file) for the 2008 Article IV Consultation with the Republic of Estonia is also
+available.
+
+4
+
+Republic of Estonia: Selected Economic Indicators
+2003
+Real Economy
+
+2004
+
+2005
+
+2006
+
+2007
+
+In units as indicated
+
+Real GDP growth (in percent)
+
+7.1
+
+7.5
+
+9.2
+
+10.4
+
+6.3
+
+Average HICP inflation (in percent)
+
+1.4
+
+3.0
+
+4.1
+
+4.4
+
+6.7
+
+Unemployment rate (ILO definition, percent)
+
+10.0
+
+9.7
+
+7.9
+
+5.9
+
+4.7
+
+Domestic saving (in percent of GDP)
+
+21.9
+
+22.6
+
+24.2
+
+21.9
+
+19.8
+
+Domestic investment (in percent of GDP)
+
+33.2
+
+34.3
+
+34.2
+
+38.6
+
+37.9
+
+Public Finance
+General government balance
+
+In percent of GDP
+2.5
+
+1.6
+
+1.6
+
+3.3
+
+3.0
+
+Excluding government assets held abroad
+
+5.6
+
+5.6
+
+5.0
+
+4.4
+
+4.3
+
+Including government assets held abroad 3/
+
+0.3
+
+-2.4
+
+-2.7
+
+-3.1
+
+-4.7
+
+General government debt
+
+Money and credit
+
+Changes in percent
+
+Base money
+
+14.6
+
+24.0
+
+33.0
+
+30.7
+
+1.6
+
+Broad money
+
+10.9
+
+15.8
+
+41.9
+
+28.2
+
+13.5
+
+Domestic credit to nongovernment
+
+27.0
+
+31.2
+
+33.4
+
+41.6
+
+33.0
+
+Balance of Payments
+
+In percent of GDP
+
+Current account
+
+-7.4
+11.3
+
+-7.4
+11.7
+
+-6.4
+10.0
+
+11.8
+16.7
+
+11.3
+18.1
+
+Gross international reserves (euro, millions)
+
+1098
+
+1317
+
+1647
+
+2128
+
+2217
+
+Goods and nonfactor services
+
+Exchange Rate
+Exchange rate regime
+
+currency board arrangement
+
+Exchange rate parity
+Real effective exchange rate (percent change, period average;
+appreciation (+))
+Sources: Estonian authorities, and Fund staff estimates.
+
+EEK 15.6466=Є1
+3.3
+
+2.4
+
+1.4
+
+1.8
+
+4.6
+
+Statement by Jens Henriksson, Executive Director for the Republic of Estonia
+March 2, 2009
+The authorities would like to express their appreciation to Mr. Rozwadowski and his team
+for the thorough and candid policy consultations, and to Mr. Seelig for valuable discussions
+on the financial sector. The authorities broadly agree with staff’s assessment and, as always,
+consider thoroughly the recommendations put forward.
+The Estonian economy has undergone a major transformation over the past decade. The
+consistent macroeconomic policy framework based on market-oriented policies, openness and a
+currency board arrangement since 1992, has contributed to building of a broad-based economy
+and a strong government balance sheet, characterised by minimal public debt and substantial
+assets.
+The currency board arrangement remains the main pillar for economic policies,
+complemented by the EU membership and the prospective EMU accession as cornerstones
+for the fast real convergence towards average EU income levels. GDP per capita (measured in
+PPP terms) has increased by approximately 250 percent since 1997. The fixed exchange rate
+regime implies that the economy exhibits flexibility in product and labour markets. These
+assumptions will be thoroughly tested in the current downturn, as the recent sharp deterioration in
+the external environment has lead to a rapid turnaround in domestic economic activity. Like staff,
+the authorities view the current situation a chance for speeding up the restructuring process of the
+economy in order to ensure sustained growth in productivity and output over the medium- to
+long-term.
+The authorities have responded vigilantly to an ongoing economic slowdown. The
+vulnerabilities, especially those related to the current account deficit, credit growth and inflation,
+have decreased fast, indicating the capability of the economy to adequately react when the cycle
+turns. The uncertain external environment may pose more challenges for the future, especially for
+the short-term. However, the defences against a disorderly adjustment are strengthened by the
+fiscal and liquidity buffers, a strong and well-supervised banking system, ERM2 membership and
+the policy anchor of the EMU entry. Therefore, Estonia has entered the recession from a relative
+position of strength.
+The outlook for 2009-2010
+The Estonian economy is undergoing a sharp, but still an orderly economic adjustment. The
+authorities remain committed to prudent policies in order to ensure credibility of the economy
+and to restore the confidence of international investors.
+The authorities’ macro-economic projections for the Estonian economy have been revised
+downwards taking into account lower-than-expected growth of the main trading partners. More
+specifically, the risk scenario of the authorities’ fall of 2008 forecasts is now considered to be a
+baseline, foreseeing a decline in the real GDP by 5–6 percent in 2009 and a slight growth (by
+about 1 percent) in 2010.
+Inflation is declining sharply and is expected to turn negative in the second half of 2009. In
+January 2009, inflation dropped to 4 percent (y-o-y), down from 7 percent in December 2008,
+
+2
+mainly due to lower motor fuel prices, extensive clothes and footwear sales and a favorable base
+effect. The authorities do not expect the inflation to exceed 2 percent in 2009.
+Labor market flexibility will contribute strongly to a general economic adjustment. Indeed,
+the evidence over the last six months provides ample evidence that the labor market has been
+adjusting very rapidly, owing to the decentralized wage setting mechanisms, flexible salary
+structures and regional integration.
+Labor market data for January is expected to confirm preliminary evidence of substantial
+wage moderation and an increase of part-time work. Tax data suggest that in December, wage
+growth slowed to 4 percent (y-o-y, down from the range of 15–20 percent) mainly due to a
+general cancelling of end-year performance bonuses. This is confirmed by recent data on wages
+with growth in the fourth quarter of 2008 at 6.9 percent. The annual nominal wage growth is
+expected to be negative in 2009. The registered level of unemployment (generally somewhat
+lower than the actual unemployment rate in Estonia) reached 6 percent in January 2009. To
+further streamline the reallocation of labor between economic activities, the new Employment
+Contract Law was adopted in January 2009 and will enter into force in July 2009. The new law,
+while raising the flexibility in the labor market, also increases unemployment benefit rates and
+broadens the range of beneficiaries to enhance security.
+External stability
+The current account deficit has contracted significantly due to a declining domestic
+demand, better than expected exports performance of services and the decrease in the
+outflow of profits via income account. Therefore, the dependence on current foreign financing
+is receding fast. The deficit in the combined current and capital account decreased from
+16.9 percent of GDP in 2007 to 7.5 percent of GDP in the third quarter of 2008. The main
+contribution came from a narrowing trade deficit, on account of contracting domestic demand.
+The trade balance is likely to turn into balance or surplus in the coming years, and while the
+export volumes decrease as a result of a fall in transit trade, the share of higher value added
+goods in exports will grow.
+The authorities note that some indicators in staff’s calculations point to real exchange rate
+overvaluation of the Estonian kroon. Although the calculations are always based on certain
+assumptions, the authorities accept that the real exchange rate may have been somewhat
+overvalued in the recent past, but the ongoing adjustment challenges the persistence of the
+problem. As explained by staff, the authorities have addressed the potential capital account
+vulnerabilities by improving the financial safety net in coordination with the authorities of home
+countries of its banks.
+Monetary policy
+A currency board arrangement remains the over-arching pillar for monetary and financial
+stability by providing the credible anchor for price expectations over the medium and long
+term. Having CBA, Estonia has been mimicking life under the Euro area framework already for
+17 years, reflecting the flexibility of its markets to adjust. The authorities strongly believe that an
+orderly entrance to the EMU is the only credible exit strategy from the current monetary
+arrangement.
+
+3
+
+As a member of the ERM-2 mechanism since 2004, Euro adoption remains a key policy
+priority of the Estonian authorities. The currency board has served the economy very well,
+confirmed by staff during all previous consultations, in keeping the inflation expectations low
+and serving as an anchor to economic agents’ decisions.
+Fiscal policy
+Fiscal policy has an important role in economic policy making, inter alia, to ensure smooth
+functioning of the currency board arrangement. The Estonian authorities have followed a rule
+in their State Budget Law that implies an objective of a balanced budget. During the recent years
+of fast growth, and in concurrence with the Fund’s advice, the authorities have run surplus
+budgets for six years to achieve the objective of a balanced or better budget over the cycle.
+However, against the backdrop of the collapse in global demand towards the end of 2008
+and the revised projections for 2009, the authorities prepared a negative supplementary
+budget that was passed by Parliament on February 20. The budgetary consolidation amounts
+to 3 percent of GDP and was achieved, among other measures, by effectively reducing the
+government’s wage bill. The 2009 deficit will be financed by fiscal reserves and to a limited
+extent by low-cost project-based borrowing from international financial institutions. The
+authorities are aware that additional restrictive measures need to be developed for the 2010
+budget, and take seriously staff’s recommendations on medium-term budgetary planning.
+At the same time, the long-term fiscal sustainability is not threatened. The budgetary impact
+of ageing is among the lowest in the EU. The general government of Estonia has a considerable
+net asset position, built during the recent years of fiscal surpluses. Financing of the deficit in
+2008 has resulted in a decline in central government assets, to around 8½ percent of GDP at the
+end of 2008, but the fiscal reserves provide a necessary liquidity buffer for the government in
+these turbulent times. The latest fiscal measures aim at limiting the pace of the exhaustion of
+these assets.
+Financial sector stability
+Estonia’s banking system is fully integrated with international groups, being the main
+intermediary of foreign funds to Estonia. 95 percent of Estonia’s banking system comprises of
+the four large Nordic groups having established themselves either as branches or as subsidiaries.
+Notwithstanding the legal status of local banks, the capital and liquidity management of banks is
+de facto centralized at the group level. The recent experience in the context of global turmoil is
+providing evidence that intra-group financial flows have been a stable and reliable source of
+liquidity for the Estonian banking market. In light of regional financial integration, the banking
+sector measures taken recently by the Nordic authorities have played an additional stabilizing
+role.
+Naturally, this market structure should rely on sufficient liquidity and capital buffers in
+host countries, on effective supervision, and, most notably, on smooth and efficient
+cooperation between the home and host authorities. We believe that Estonia’s authorities have
+achieved satisfactory results in this regards, as is also confirmed by the FSSA report.
+
+4
+The capital and liquidity buffers are adequate to sustain the projected slowdown in the
+economy. In addition, the small size of the corporate debt and equity markets, limited number of
+market participants combined with virtually no government debt protect Estonia from being
+attractive to speculators. The high reserve requirement (currently 15 percent) and capital
+adequacy requirement above the international standard may not be the optimal policies for the
+long-term, but in the cyclical context and since the introduction of Basel II from January 2008,
+these are considered necessary safeguards. It is clear that the recent profitability levels will not be
+achieved for some time to come, but in the fourth quarter of 2008 the banks’ profits were still at
+17 million EUR level (in 2008, 0.25 billion EUR). An even more important indicator is the costto-income ratio of banks, which shows the flexibility of banks in reacting to external
+developments and has been maintained over the course of a turbulent 2008.
+Notwithstanding the rapid deceleration of economic activity and the increase in nonperforming loans, the capital adequacy remains high at 19.6 percent level as of endJanuary 2009, mainly because of retained profits from previous periods. The share of nonperforming loans (60 days overdue) in the banks’ loan portfolio is increasing from the very low
+levels, and reached 3.6 percent in end-January 2009. The authorities project it to increase to
+around 5 percent in 2009. As a reaction, banks have strengthened provisions further. At the same
+time, the banks consider themselves capable (without any state support) to liquidate collaterals
+(especially real estate), if necessary.
+Credit growth to the private sector decreased significantly in 2008. While reflecting the
+impact of policy measures of the previous year, this slowdown was further supported by the rapid
+deterioration of the global conditions, but also of domestic credit demand. In 2009, credit growth
+might remain flat due to contracting economic activity. Although in the recent years the credit
+growth related to real estate has been strong, the share of indebted households remains low
+(22 percent of households according to the latest surveys). In the current environment where euro
+interest rates are declining, the Estonian borrowers benefit directly from lower debt-service costs
+on their variable interest rate euro-denominated loans.
+The commercial banks in Estonia have sufficient funds. The banks do not see a need for
+additional state guarantees for the credit to the corporate sector (e.g. to exporting firms).
+Similarly, the authorities believe there is no need for extensive state intervention in the
+functioning of the financial system.
+
+

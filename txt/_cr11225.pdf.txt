@@ -1,0 +1,4673 @@
+July 20 11
+IMF Country Report No. 11/225
+
+UNITED KINGDOM
+SPILLOVER REPORT FOR THE 2011 ARTICLE IV CONSULTATION AND
+SUPPLEMENTARY INFORMATION
+The Spillover Report and Supplementary Information on the United Kingdom were prepared by a
+staff team of the International Monetary Fund as background documentation for the periodic
+consultation with the member country. They are based on the information available at the time they
+were completed on July 11, 2011 and July 14, 2011, respectively. The views expressed in these
+documents are those of the staff team and do not necessarily reflect the views of the government of
+the United Kingdom or the Executive Board of the IMF.
+The policy of publication of staff reports and other documents by the IMF allows for the deletion of
+market-sensitive information.
+Copies of this report are available to the public from
+International Monetary Fund  Publication Services
+700 19th Street, N.W.  Washington, D.C. 20431
+Telephone: (202) 623-7430  Telefax: (202) 623-7201
+E-mail: publications@imf.org Internet: http://www.imf.org
+
+International Monetary Fund
+Washington, D.C.
+
+UNITED KINGDOM
+SPILLOVER REPORT FOR THE 2011 ARTICLE IV CONSULTATION
+July 11, 2011
+
+KEY POINTS
+Issues. Spillover reports explore the external effects of policies in systemic economies,
+focusing on concerns raised by key partners. In the case of the U.K., these mainly relate to
+(i) the extent to which the financial sector might be a source or conduit of shocks to the rest
+of the world, (ii) the impact of U.K. supervision and regulatory policies on efforts to
+strengthen global financial stability.
+Findings. The main messages flowing from staff analysis are:
+
+
+The size and interconnectedness of the U.K. financial sector make it a powerful
+originator, transmitter, and potential dampener of global shocks. The U.K.
+agglomerates core international financial functions making it a key node in “funding”
+liquidity and balance sheet hedging, providing buoyancy to global markets and
+acting as a key channel transmitting shocks or stabilizing measures.
+
+
+
+The stability and efficiency of the U.K. financial sector is therefore a global
+public good, requiring the highest quality supervision and regulation. Significant
+efforts to strengthen supervision will help contain the risks to global stability posed
+by the sector’s size and complexity. Stronger liquidity, capital and leverage rules
+should dampen credit cycles and lower systemic risk, as can the U.K.’s
+macroprudential policies.
+
+
+
+International co-operation is critical if the U.K. is to fulfill its potential to
+support global stability. U.K. financial stability will be weakened (with adverse
+spillovers) if EU rules constrain U.K. financial regulations at insufficiently ambitious
+levels or if they limit the ability to use macro-prudential instruments to address
+emerging risks. Cooperation (both within and outside the EU) would help limit
+regulatory arbitrage, while development of cross-border resolution frameworks can
+limit shock propagation through the U.K. if tail risks materialize. Effective home-host
+co-ordination would also reduce the risk of fragmented pools of liquidity hampering
+parent banks’ ability to support branches/subsidiaries in periods of stress.
+
+
+
+The U.K. authorities can make a significant contribution to the surveillance of
+global systemic risks. The size and role of the U.K. financial sector puts them at an
+informational advantage, although data gaps and resources pose challenges.
+
+UNITED KINGDOM - 2011 SPILLOVER Report
+
+Approved By
+Reza Moghadam and
+Antonio Borges
+
+The report was prepared under the guidance of David Marston by a staff
+team led by Isabelle Mateos y Lago and comprising Gavin Gray and
+Alvaro Piris, as well as Irena Asmundson, Manuela Goretti, and Karim
+Youssef (all SPR), Marta Ruiz Arranz (EUR), Vanessa Le Leslé, Katharine
+Seal, and Manmohan Singh (all MCM). Additional inputs were provided by
+Trung Bui, Malika Pant, Silvia Sgherri, and Francis Vitek (all SPR),
+Siret Dinc, Mohamed Norat, and Christine Sampic (all MCM), Eugenio
+Cerrutti (RES), and Sean Kerr (LEG).
+
+SPILLOVER REPORTS?
+Spillover reports examine the external effects of domestic policies in five systemic economies,
+i.e., the S5, comprising China, Euro Area, Japan, United Kingdom, and the United States.
+The mere existence of external effects does not imply that policy modifications or collective
+action is needed------that depends on many considerations, including the presence of
+economic externalities. The aim rather is to stimulate discussion, providing a global
+perspective for policy advice in Article IV discussions and input for the Fund’s broader
+multilateral surveillance. In each case, key partners are asked about outward spillovers from
+the economy in question, on the basis of which staff choose issues for analysis. To facilitate
+candor, spillover reports do not cite who raises a specific issue. For this report, the consulted
+were officials and analysts from the other S5 and from selected financial centers------Brazil,
+Hong Kong SAR, India, Indonesia, Korea, Mexico, Poland, Russia, Singapore, Thailand and
+U.A.E.
+This report does not try to capture the full extent of the influence of the United Kingdom on
+the world economy. Rather, it focuses on a few forward-looking issues raised by partners,
+brings to bear relevant analysis, and describes the reactions of the U.K. authorities. Technical
+papers underlying the analysis can be found in the Supplement to this paper. A separate
+forthcoming report summarizes the themes emerging from discussions with the S5.
+
+CONTENTS
+Contents
+
+Page
+
+I. Context ............................................................................................................................................... 4
+II. The U.K. Financial Sector’s Systemic Role ..................................................................................... 5
+Size and Role ........................................................................................................................... 5
+High Capacity to Transmit Shocks ........................................................................................ 5
+Impact of Shocks from the U.K. ............................................................................................. 9
+III. Partner Concerns........................................................................................................................... 10
+IV. Policy Spillovers ............................................................................................................................ 11
+Prudential Oversight ............................................................................................................. 12
+Liquidity and Leverage ......................................................................................................... 13
+
+2
+
+INTERNATIONAL MONETARY FUND
+
+UNITED KINGDOM - 2011 SPILLOVER REPORT
+
+Figure 10. Upstream Exposure to U.K. Banks (in percent of GDP) .................................. 13
+Capital ..................................................................................................................................... 14
+Macroprudential Policies...................................................................................................... 15
+V. Factors Dampening or Modifying Financial-Sector Spillovers................................................. 17
+VI. The U.K. in Global Surveillance—A Unique Lens ...................................................................... 18
+VII. Authorities’ Reactions ................................................................................................................. 18
+VIII. Conclusions ................................................................................................................................. 19
+Figures
+1. Average Peak Impulse Response (Relative to United Kingdom) ............................................... 4
+2. The Sources and Uses of Global Liquidity .................................................................................... 5
+3. Leverage, 2005–2009 ....................................................................................................................... 6
+4. Contributions to Global Deleveraging .......................................................................................... 6
+5. Propagation of Shocks .................................................................................................................... 7
+6. U.K. Financial Sector: Size and Role ............................................................................................... 8
+7. Bond Market Spillovers (10-year bond yield, 2000–2009, weekly eop) .................................... 9
+8. Conditional Probability of Distress of Banks Given U.K. Banks (average) Falls in Distress ... 10
+9. Selected Countries and Regions: Contributions to Global Risk Commonalities (In basis
+points) ......................................................................................................................................... 10
+10. Upstream Exposure to U.K. Banks (in percent of GDP) ........................................................... 13
+11. Output Losses from 1% Capital Increase .................................................................................. 15
+Annex
+1. Spillovers to Low Income Countries ............................................................................................ 21
+Annex Figures
+1. Exports to the U.K. (in percent of total) ...................................................................................... 21
+2. Aid and Remittances to LICs, 2007 .............................................................................................. 21
+
+INTERNATIONAL MONETARY FUND 3
+
+UNITED KINGDOM - 2011 SPILLOVER Report
+
+I. CONTEXT
+1.
+This report examines the systemic impact of the U.K.’s economic and financial
+sector policies on the global economy. The U.K.’s potential for spillovers is concentrated in
+the financial sector. Though the U.K. is the fifth largest economy in the world at about 4
+percent of global GDP the potential for systemic spillovers from the real economy is limited
+despite the economy’s comparative openness to trade. This is not to deny that real spillovers
+to a number of close partner economies could be significant.
+2.
+Growth spillovers to the other S5 economies are moderate and concentrated on
+the euro-area in normal times. Spillovers to other G20 economies also appear moderate
+Figure 1. Average
+Peak Impulse
+Response
+(Relative
+UnitedKingdom)
+Kingdom)
+Average
+Peak Impulse
+Response
+(Relative
+to to
+United
+(see Supplement, notes VI and VII). A
+structural model suggests that the
+peak impulse responses of output to a
+range of shocks in the U.K. tend to
+increase with geographical proximity
+to the U.K., and is larger for financial
+shocks than for real shocks. The
+highest dependence is exhibited by
+0.05 to 0.10
+Less than 0.05
+0.10 to 0.15
+Germany and France, reflecting their
+0.15 to 0.20
+Greater than 0.20
+strong trade linkages, and there is also
+some impact on South Africa (see Figure 1). A sharp but contained increase in U.K. sovereign
+bond yields –a scenario simulated across the spillover reports for advanced economies—
+would likely have only a limited impact on bond yields and growth elsewhere (see
+Supplement, Note VIII). The Article IV staff report suggests that the government’s fiscal
+consolidation plan has significantly reduced the risk of such an event.
+3.
+Spillovers could be much greater for a range of non-systemic economies that
+are heavily dependent on trade with the U.K. Model results are unavailable for these
+countries, but their high share of exports destined for the U.K. suggests they could face
+sizable spillovers. Examples include Ireland, Iceland, Norway, and much of the
+Commonwealth. Spillovers through transfers are also likely to be significant to low income
+countries (LICs), particularly in sub-Saharan Africa (SSA), which derive around 10 percent of
+their aid and remittances from the U.K. (See annex 1).
+
+4
+
+INTERNATIONAL MONETARY FUND
+
+UNITED KINGDOM - 2011 SPILLOVER REPORT
+
+4.
+The more substantial systemic spillovers are expected to arise from U.K.
+financial sector developments and policies.1 The remainder of the report lays out the
+channels through which U.K. markets, institutions, and policies influence the rest of the
+world, seen both from staff’s analysis, U.K. partners’ concerns, and the authorities’ reactions.
+II. THE U.K. FINANCIAL SECTOR’S SYSTEMIC ROLE
+Size and role
+5.
+The U.K. lies at the center of global finance, with U.K.-based banks playing a
+leading role in global financial intermediation. It ranks third world-wide in terms of
+external assets, which are mostly loans, debt securities and derivatives. This reflects U.K.based banks’ domination of cross-border lending, particularly to other financial institutions
+(See Supplement, Note I). The U.K. also hosts critical markets and financial infrastructure. It is
+the center of global foreign exchange (37 percent of global turnover) and money markets
+(Libor market) and the dominant location for trading international bonds2 and derivatives.
+(see Figure 3 and Supplement, Note II) This agglomeration of financial services has
+encouraged the development of trading platforms and supporting infrastructure including
+FX clearing and settlement systems, and the world’s largest central counterparties (CCPs).
+High capacity to transmit shocks
+6.
+The size and role of the U.K. financial system in global intermediation make it a
+Figure 2. The Sources and Uses of Global Liquidity 1/
+potent originator and transmitter of
+(In trillions of U.S. dollars)
+shocks to the global system. The U.K. is
+a significant generator of “funding”
+globally (See Supplement, notes III to V)
+and contributor to the buoyancy of global
+markets. Figure 2, which shows net
+liquidity creation/import by banks based
+in a country as opposed to groupwide
+(such that a positive balance implies that
+global banks based in a country export
+funding to the rest of the world), indicates
+that U.K.-based institutions accounted for
+Like the companion FSSA, this report takes a broad definition of the U.K. financial sector, financial
+institutions based in the U.K.—whether U.K. owned or not—as well as the operations of subsidiaries
+and branches of U.K. banks abroad.
+1
+
+2
+
+This includes non-dollar government bonds as well as Eurobonds of all currencies.
+
+INTERNATIONAL MONETARY FUND 5
+
+UNITED KINGDOM - 2011 SPILLOVER Report
+
+more than half of global funding generation during the boom, implying that a shock to their
+activity would have large global repercussions.3 This owes in part to the broad capacity to
+rehypothecate collateral in the U.K., which helps generate leverage and transmit liquidity
+through the financial system (see U.K. FSSA update).
+7.
+In supporting this generation of liquidity, foreign-owned banks in the U.K.
+leverage their balance sheets, but in their deleveraging transmit shocks. The tendency
+for foreign-owned banks
+Figure 3. Leverage, 2005–2009 1/
+Leverage, 2005-2009 1/
+to be more leveraged 60
+100
+90
+than domestic institutions 50
+80
+70
+is true in most countries. 40
+60
+The difference in the U.K. 30
+50
+40
+is the size of their balance 20
+30
+sheets and degree of
+20
+10
+10
+leverage: during 2005–07
+0
+0
+2005
+2006
+2007
+2008
+2009
+2005
+2006
+2007
+2008
+2009
+foreign subsidiaries in the
+U.K. operated at leverage
+Canadian banks(RBC, TD Bank), German Banks (Deutsche Bank), Japanese banks
+(Daiwa, Mitsubishi UFJ, Nomura), Spanish banks (Santander), Swiss banks (Credit Suisse), and
+Goldman Sachs, JP Morgan/Citigroup, Merrill Lynch/Bank of
+levels roughly double that
+America, Morgan Stanley).
+of
+the
+consolidated
+UK-based Subsidiaries o f Fo reign Ban ks 3/
+US (co n s. basis)
+German y (cons. basis)
+Jap an (cons. basis)
+Swiss (co ns. basis)
+Can ad a (cons. basis)
+Sp ain (cons. basis)
+
+UK-owned 2/
+
+UK-based Subsidiaries of Foreign Banks 3/
+Foreign Banks (consolidated basis) 3/
+
+1/ Leverage def ined as (Total assets)/(Total Capital).
+2/ Sample includes Alliance & Leicester, Barclays, Bradf ord & Bingley, HBOS, HSBC, Lloyds, Northern
+Rock, RBS , Standard Chartered (excludes f oreign subsidiaries).
+3/ Sample includes
+US
+banks (American Express, Capital One,
+
+Sources: Bankscope and staf f own estimates.
+
+group, on account of their tilt
+toward investment banking
+and
+derivatives
+activity
+(Figure
+4).
+Conversely,
+in 2008–09,
+foreign-owned
+banks reduced their leverage
+ratios more quickly, showing
+higher procyclicality in the
+downturn than domestic
+institutions
+(Supplement,
+Note V).
+
+Figure 4. Contributions to Global Deleveraging
+Contributions to Global Deleveraging
+billions of U.S.
+dollars)
+(In(Inbillions
+of U.S.
+dollars)
+
+1.5
+
+1
+
+0.5
+
+0
+
+-0.5
+
+-1
+
+-1.5
+
+-2
+
+-2.5
+
+-3
+
+UK
+
+RoW
+
+All countries
+
+-3.5
+2008Q1
+
+2008Q2
+
+2008Q3
+
+2008Q4
+
+2009Q1
+
+2009Q2
+
+2009Q3
+
+2009Q4
+
+2010Q1
+
+2010Q2
+
+2010Q3
+
+2010Q4
+
+Owing to data limitations, this approach does not take into account the impact of the overseas
+activities of U.K. banks on global liquidity (see Supplement, Note IV for details).
+3
+
+6
+
+INTERNATIONAL MONETARY FUND
+
+UNITED KINGDOM - 2011 SPILLOVER REPORT
+
+8.
+The global transmission consequent on this deleveraging derives from the high
+degree of interconnectedness of the U.K. with the rest of the world—particularly
+Europe. A standard approach to network analysis based on BIS data on international claims
+Figure 5. Propagation of Shocks
+shows the U.K.’s links are strongest with
+the Eurozone, but still significant with
+the U.S., Cayman Islands (a key offshore
+center for U.S. banks) and Japan, and
+smaller financial centers (Figure 5).4 The
+results are driven by business models of
+the large international banks many of
+which rely on U.K.-based entities to
+intermediate global flows, in particular
+those between the U.S. and the EU
+(Supplement, Note V).
+9.
+U.K.-based banks deleveraged early, and accounted for 27 percent of the
+decline in cross-border lending through the first half of 2009 (Figure 6).5 Simulation
+analysis (see Supplement, Note IX) suggests that such shocks are likely to have a severe
+effect on countries that depend on the U.K. for short-term funding, particularly financial
+centers (Hong Kong, Luxemburg and Cyprus). There is also likely to be a large impact on
+other EU states. Ireland is the most extreme case, with “upstream exposure” (a measure of
+countries’ vulnerabilities to rollover risks from direct cross-border bank lending, and lending
+by foreign affiliates) to the U.K. exceeding 50 percent of its GDP. But exposure is also
+significant (5-10 percent of GDP) for large Euro-Area countries such as France and Spain.
+
+See Understanding Financial Interconnectedness (2010) for further elaboration on the methodology.
+Espinosa-Vega and Sole (2010) illustrates how financial interconnections can amplify shocks through
+successive reductions in funding.
+4
+
+5
+
+See Hoggarth, Mahadeva and Martin (2010).
+
+INTERNATIONAL MONETARY FUND 7
+
+UNITED KINGDOM - 2011 SPILLOVER Report
+
+8
+
+INTERNATIONAL MONETARY FUND
+
+UNITED KINGDOM - 2011 SPILLOVER REPORT
+
+10.
+The bond market represents an additional important channel of transmission of
+financial shocks. Structural Vector Autoregression (SVAR) results for 10-year government
+bond yields point to a significant role of the U.K. bond market: more than 50 percent of the
+initial yield shock in the U.K. spills over to euro area yields, and to a smaller extent to the
+U.S. and Japan (Figure 7). Given the finding
+reported above regarding spillovers from a
+U.K. sovereign shock (paragraph 2), this
+result is driven by the large volumes of nonUK sovereign bonds traded in London.
+Equity market spillovers, while significant,
+are found to be smaller and less persistent.
+(Supplement, Note VI)
+Impact of shocks from the U.K.
+11.
+A shock originating in the U.K. would similarly have sizeable cross-border
+effects, particularly on global financial centers.6 Changes to the perceived
+creditworthiness of U.K.-owned banks, proxied by CDS spreads, might lead to spillovers on
+financial institutions that either trade with them or are seen as having similar business
+models. The relationship can be quantified through a conditional probability of distress
+(CoPoD) approach, which examines how shocks to the CDS spreads of one bank in the U.K.
+impact those of financial institutions elsewhere (Figure 8 and Supplement, Note X).
+
+6
+
+Hoggarth et al (ibid).
+
+INTERNATIONAL MONETARY FUND 9
+
+UNITED KINGDOM - 2011 SPILLOVER Report
+
+Figure 8. Conditional Probability of Distress of Banks Given U.K. Banks (average) Falls in Distress
+Conditional Probability of Distress of banks given U.K. banks (average) falls in distress
+
+Average Conditional Probability of Distress
+
+Above 0.4
+0.2 to 0.4
+Below 0.2
+Not covered
+
+The CoPoD analysis confirms that the larger global U.K.-owned banks have a substantial
+impact on the rest of the world, exceeding that of more domestically focused institutions.
+They have greatest spillovers on financial institutions in the Euro-Area and emerging Europe,
+with less of an effect on Latin America or Asia.
+12.
+Shocks from the U.K. have also had a large impact on measures of global
+financial market risk, explaining
+Figure 9. Selected Countries and Regions: Contributions to
+Selected Countries and Regions: Contribution to Global Risk Commonalities
+Global Risk Commonalities
+(In1/basis points) 1/
+(In basis points)
+around a quarter of its movements 240
+United States
+Euro Area
+(Figure 9). The weight of the U.K. is as
+United Kingdom
+210
+Japan
+large as that of the Euro-Area, and
+Emerging Markets
+180
+only slightly smaller than the U.S.
+The U.K. interbank and stock market 150
+seem to exhibit significant volatility 120
+90
+spillovers vis-à-vis corresponding
+asset markets in the U.S. and to a
+60
+lesser extent the Euro Area (despite,
+30
+as noted above, smaller level effects
+0
+Aug-07
+Feb-08
+Aug-08
+Feb-09
+Aug-09
+Feb-10
+Aug-10
+Feb-11
+in equity markets). It may be noted
+1/ Global Risk Commonalities, as well as the contribution of U.K. markets, are derived through principal
+component analysis to estimate the extent to which unobservable shifts in common risk factors contribute to
+that this analysis reflects the U.K.’s
+role both as a transmitter of shocks and an originator (see Supplement, Note XI).
+III. PARTNER CONCERNS
+13.
+The U.K.’s potential to transmit shocks and to contribute to global financial
+stability is recognized in other financial centers. Many of them suffered liquidity drains
+
+10
+
+INTERNATIONAL MONETARY FUND
+
+UNITED KINGDOM - 2011 SPILLOVER REPORT
+
+from U.K.-based banks during the recent global crisis. Some financial institutions that had
+ready access to the U.K. interbank market when liquidity was buoyant were forced to
+deleverage when their credit lines were cut. Strengthened supervision and tighter regulation
+in the U.K. were thought likely to contribute to efforts to strengthen global financial stability.
+Over and above the U.K.’s own policies, interlocutors also recognized the role played by the
+U.K. in forging the intellectual case for ambitious global financial reforms. Outside financial
+centers, however, some did not see any exceptionality in the U.K. financial sector and
+downplayed its impact on Europe and the rest of the world.
+14.
+Foreign regulators did not feel that the U.K. should draw back from reform for
+fear of losing business to other jurisdictions. Most thought that the pull factor of strong
+emerging market growth was the major explanation for the rising share of financial activity
+in Asia, with push factors such as regulatory changes of secondary importance. The
+agglomeration effects binding financial institutions to the U.K. were seen as powerful, and so
+the U.K. could contribute to global stability without unduly undermining its competitive
+position. However, market participants warned that should the U.K. exceed materially Basel
+III and other international regulatory agreements, some might consider the possibility of
+moving activities outside of the U.K. A number of interlocutors were concerned that
+measures to address too important to fail (TITF) institutions—such as ring-fencing of capital,
+liquidity or retail operations—could strengthen stability in the U.K. at the expense of other
+jurisdictions as improving resolvability of the U.K. entity does not necessarily improve
+resolvability of the whole entity, could limit resources available to solve problems elsewhere
+in the group, and create trapped pools of liquidity.
+IV. POLICY SPILLOVERS
+15.
+The U.K. has embarked on a major financial sector reform program—that could
+have important spillovers, at least transitionally. The effort is domestically focused, but
+aligned with the imperatives of global stability. Reforms range across supervision, regulation
+(including liquidity and capital buffers), and TITF policies. As these reforms impact all “U.K.based intermediaries”, they affect the business models that use the U.K. for global asset and
+liability management. The scale and nature of policy spillovers from the U.K. however will be
+influenced by the policies of other jurisdictions. Uncertainty about the latter—in particular
+how the EU will go about implementing Basel III (under a new directive “CRD4”)—creates
+uncertainties about the extent of spillovers from U.K. policies.
+16.
+Event studies suggest that markets have been keenly aware of the potential
+cross-border impact of regulatory changes in the U.K. A systemic risk survey compiled by
+the Bank of England in the immediate wake of the crisis indicated that financial institutions
+
+INTERNATIONAL MONETARY FUND 11
+
+UNITED KINGDOM - 2011 SPILLOVER Report
+
+saw regulatory and accounting changes as among the top five risks to the U.K. financial
+system, and one of the two hardest risks for them to manage.7 While LIBOR-OIS, a common
+indicator of liquidity risk, did not immediately react to announcements on changes in U.K.
+regulation on liquidity standards, other risk measures moved sharply.8 The average price to
+book value of systemically important financial institutions (SIFIs) with a universal banking
+and investment banking business model relative to their home country index fell sharply on
+key dates coinciding with announcements or changes in the U.K.’s liquidity regulations (See
+Supplement, Note XII) . A similar effect is seen in the price of hedging against tail risk in key
+currencies used by global SIFIs in intermediation of most markets via the U.K.
+Prudential Oversight
+17.
+Reforms to strengthen supervision will critically help contain the risks to global
+stability arising from the size and complexity of the U.K. financial sector. The build-up
+of systemic risks in the mid-2000s, including the rise of the shadow banking sector, was
+possible in part due to the U.K.’s “light touch” supervisory approach. In response, the
+authorities have begun to increase the resources devoted to supervision and strengthen
+stress testing, with further efforts required. Maintaining and building upon these
+improvements should help contain the risk of distress in U.K.-based banks and potential
+collateral damage abroad.
+18.
+Strong supervision of CCPs is particularly important if tail risks are to be
+contained.9 If soundly run and regulated, CCPs could both lower and make more
+transparent the level of risk in derivatives (See Supplement, Note II). But CCPs also represent
+large risk nodes, that could face severe liquidity needs and potential losses if a large market
+participant were to default. Such a situation, if mishandled, could have systemic implications.
+Establishing an appropriate resolution framework, while ensuring that CCPs have adequate
+risk management and access to sufficient liquidity during crises will support these efforts.
+
+7
+
+Bank of England Quarterly Bulletin, 2009 Q3.
+
+As suggested in the Bank of England Quarterly Bulletin (2009, Q4), this may be the result of Libor
+fixings being less indicative of actual transacted rates between banks and as such underestimating
+true cost of funding.
+
+8
+
+Adequate regulation and supervision of other critical pieces of market infrastructure is also essential
+to prevent adverse spillovers. This includes, for instance, CHAPS, the U.K.’s real-time gross settlement
+system, which provides settlement services for CLS (one of the key global clearers of forex payments).
+
+9
+
+12
+
+INTERNATIONAL MONETARY FUND
+
+UNITED KINGDOM - 2011 SPILLOVER REPORT
+
+Liquidity and leverage
+19.
+The tightening of U.K. liquidity rules will constrain SIFIs, dampen the credit
+cycle, and should help lower systemic risks. The new, tougher approach in the U.K.
+approximates the liquidity coverage ratio (LCR) in Basel III, but the range of assets classified
+as liquid is narrower, and the required “stress survival period” at three months is longer.10
+Maintaining liquid buffers in several jurisdictions, including the U.K, may raise the aggregate
+costs of liquidity for SIFIs. The rules regarding intra-group relationships have also been
+tightened, with supervisors factoring them into assessments of liquidity only if the entity can
+demonstrate reliable access to group resources. In principle, the new rules should help lower
+the probability and severity of possible future global crises, although the magnitude of this
+effect is hard to quantify, and seems subject to diminishing returns.11
+20.
+Such rules, while key to domestic and global stability, may also accelerate
+deleveraging, increase intermediation spreads, and lead to tighter credit standards. An
+assessment of upstream exposure, highlights very significant levels of funding dependence
+for a number of key jurisdictions (Figure 10). As it excludes (due to data constraints)
+dependence that arises from branches and subsidiaries, it provides a lower bound on the
+impact of a funding shock.
+Figure 10. Upstream Exposure to U.K. Banks (in percent of GDP), September 2010
+
+Supervisors are also applying stress tests (using firm-specific and market-wide shocks) to review
+firms’ own assessments of liquidity needs.
+
+10
+
+11
+
+See BCBS (2010).
+
+INTERNATIONAL MONETARY FUND 13
+
+UNITED KINGDOM - 2011 SPILLOVER Report
+
+21.
+An unintended consequence of the U.K.’s pursuit of self-sufficiency in liquidity
+could be the emergence of trapped pools of liquidity, potentially detrimental to global
+financial stability. If the U.K. tightens liquidity standards and other regulators follow suit, it
+could become more complicated for global SIFIs to protect subsidiaries in the event of
+shocks. This risk may be mitigated, however, if in co-ordination with home supervisors, U.K.
+supervisors exercise discretion and modify liquidity requirements in recognition of reliable
+access to group resources.
+22.
+If imposed, a cap on leverage interacting with the policy intention of increased
+“self-sufficiency” of U.K. based institutions, could also lower risks. The Basel III
+agreement assumes that limits on the leverage ratio would enter into force in 2019, although
+it is unclear if the EU will include this measure in CRD4. If introduced in the U.K., it could limit
+procyclical expansions in leverage and impose efficiency costs on SIFIs funding themselves
+through intra-group transactions. However, the impact would depend upon how it is defined
+and calibrated, in particular whether it is applied at the solo level, as well as to consolidated
+balance sheets. The former approach could have a more powerful effect by capturing intragroup transactions. A cap on on-balance sheet leverage might also provide an incentive to
+financial institutions to increase their reliance on off-balance sheet funding sources
+(Supplement, Note V).
+Capital
+23.
+Given the size of balance sheets in the U.K., increased capital requirements
+could also contribute to global financial stability. As is the case for liquidity, increasing
+capital buffers should lower the risk of and size of crises, although the impact will depend
+upon whether they are applied at the solo or consolidated level.12 Increased capital
+requirements could also carry benefits in normal times by dampening shocks transmitted by
+the U.K. financial sector and lowering the volatility of output.13 New capital requirements for
+globally important SIFIs will apply to the nodes in the financial network that can most rapidly
+propagate—or potentially ameliorate—the impact of shocks.
+24.
+The output costs arising from higher capital requirements in the U.K. are likely
+to be modest and possibly transitory as banks adjust to the new standards. They arise
+from deleveraging, increased intermediation spreads and a tightening in credit standards,
+mitigated by changes in bank behavior (Figure 11, see Supplement, Note XIII). Simulations
+
+12
+
+BCBS (Ibid)
+
+BCBS (Ibid) estimates that a 2 percentage point increase in capital ratios in the U.S. or Euro-Area
+would lead to 2 percent reduction in the standard deviation of output.
+
+13
+
+14
+
+INTERNATIONAL MONETARY FUND
+
+UNITED KINGDOM - 2011 SPILLOVER REPORT
+
+Percent
+
+using a macroeconometric model indicate that a 1 percent increase in required capital (if
+implemented over two years) leads to output losses in the rest of the world that peak at
+0.06 percent (this impact does not
+0.25
+include the effects of possible offsetting
+0.20
+monetary policy reactions). This impact is
+0.15
+modest, though large relative to the
+U.K.’s share of global output. Non0.10
+investment grade borrowers, such as
+0.05
+some emerging market or mid-sized
+0.00
+corporates, could see their funding costs
+United Kingdom
+Other Advanced Emerging Economies
+Economies
+rise due to higher capital requirements
+Two Years
+Four Years
+Six Years
+Eight Years
+on trading books, which are heavily
+Figure 11. Output Losses from 1% Capital Increase
+concentrated in the U.K.
+Macroprudential policies
+25.
+The U.K. also seems well placed to contribute to the implementation of global
+macroprudential policies. The Financial Policy Committee (FPC), the body set up to
+implement macroprudential policies in the U.K., while having a mandate focused on
+domestic financial stability, is expected to consider the outward spillovers of its decisions, in
+particular possible feedback effects on the U.K. financial system.14 The FPC will be
+responsible for the U.K. implementation of the Basel III agreement on a countercyclical
+capital buffer (the only instrument on which there is international agreement so far), which
+will provide banks with more capital to withstand potential losses after a credit bubble.
+26.
+The FPC can deliver this role through “jurisdictional reciprocity”, a process for
+ensuring that macroprudential policies are not arbitraged. As credit cycles vary sharply
+across economies, so will appropriate macroprudential standards in each jurisdiction. Any
+authority opting to apply measures to credit exposures will inform foreign counterparts so
+they ensure that their banks apply them to relevant exposures. The U.K.’s involvement in this
+process, whether for credit cycle risks or other systemic issues, would help ensure that
+internationally active banks do not, for instance, circumvent rules in one country by booking
+transactions through the U.K.
+
+14
+
+The FPC will also analyze financial sector vulnerabilities more generally, and make proposals on
+information gathering or microprudential measures complementing macroprudential policies.
+
+INTERNATIONAL MONETARY FUND 15
+
+UNITED KINGDOM - 2011 SPILLOVER Report
+
+Managing Tail Risks: TITF institutions and Cross-border resolution
+27.
+A number of U.K. initiatives to address tail risks could have spillover effects. A
+requirement that banks develop recovery and resolution plans (RRPs, also known as living
+wills) could help reduce the risks in the event that a complex institution fails and needs to be
+broken up. If adopted, the recommendations of the interim report of the Independent
+Commission on Banking could also have a significant impact on the capital requirements
+and organization of some internationally active U.K. banks.
+28.
+However, the absence of an effective cross-border resolution framework raises
+particular concerns that U.K.-based institutions could propagate shocks in situations of
+stress. At present, EU regulations governing the “single market” and “passporting”
+arrangements limit the options for the U.K. (and other member states) to regulate and
+supervise U.K. banks that are branches of banks headquartered elsewhere in the EU. Thus, if
+a parent experiences distress, there is a risk of its U.K.-based branches causing disruption,
+and vice versa. The present system of “home country” control and resolution does not
+provide effective incentives for cross-border supervision and resolution, because the
+absence of ex ante burden sharing arrangements could induce home authorities to neglect
+prudential developments in other member states. This is a particular issue for the U.K.
+because it is host to so many branches15, over which the authorities have limited powers.
+Nevertheless, it would be hard for the authorities to exercise restraint in the case of an
+inadequate response by home states. The absence of harmonized resolution frameworks,
+within or beyond the EU, may induce the U.K. to ring-fence in times of crisis resulting in a
+suboptimal resolution for groups, exacerbating spillovers.16
+29.
+New spillover effects could emerge if the U.K. becomes a base for financial
+innovation to arbitrage new global regulations. Its track record at creating new financial
+products, facilitated by the clustering of services and the depth of markets, makes it a
+natural location for such activity. New risks might arise if, for example, provisions in the U.S.
+Dodd-Frank act encouraging the spin-off of proprietary trading and derivatives activity;
+cross-border differences in margin requirements for derivative trades not cleared through
+
+15
+
+The U.K. authorities have, by contrast, full powers to resolve foreign subsidiaries.
+
+A recent proposal from the European Commission could alleviate some of these concerns. It would
+harmonize EU Member States’ legal and institutional arrangements for managing banking crises,
+bringing closer an integrated framework for crisis prevention, management and resolution.
+
+16
+
+16
+
+INTERNATIONAL MONETARY FUND
+
+UNITED KINGDOM - 2011 SPILLOVER REPORT
+
+CCPs; or, differences in the cross-border application of leverage limits, leads to the riskiest
+activity re-emerging in London17 (see U.S. spillover report for evidence of such risk).
+V. FACTORS DAMPENING OR MODIFYING FINANCIAL-SECTOR SPILLOVERS
+30.
+Spillovers could be dampened if financial activity progressively moved to other
+jurisdictions. Strong economic growth in emerging markets is spurring a shift in global
+financial activity, particularly to Asia. This trend could be amplified by a prolonged period of
+uncertainty about U.K. financial sector policies, or if eventual taxation and regulatory
+decisions drive a large wedge between operating costs in the U.K. and those of other
+jurisdictions. A fragmentation of SIFIs’ activities would diminish the share of global
+intermediation falling in the U.K. regulatory net, lead to risks falling between the regulatory
+cracks if other regulators do not widen the regulatory perimeter or developing a
+comprehensive view of complex institutions becomes more difficult, and complicate the U.K.
+authorities’ efforts to assess global systemic risks.
+31.
+However, powerful agglomeration effects underpin the U.K.’s competitive
+position, reducing the incentives to relocate. The academic literature finds that financial
+centers are created by clustering effects because of the positive externalities from
+information sharing and proximity to customers18; in the U.K.’s case, further externalities
+arise from market infrastructure and the availability of skilled labor. The few examples of
+precipitous declines in financial centers have resulted either from severe political instability
+or a shift in activities from regions to national capitals, rather than regulatory change. So far,
+no SIFIs have moved out of the U.K., with relocation to date limited largely to hedge funds
+going to Switzerland. While the U.K. will probably lose market share to fast-growing
+emerging markets, the pace could be slow, and will depend upon the extent to which any
+tightening in regulation is matched by other jurisdictions.
+32.
+Insufficiently strong or insufficiently flexible EU rules would also hinder U.K.
+efforts to strengthen financial sector regulations, leading to potentially larger
+spillovers.19 If CRD4 requires common regulatory standards across the EU that are not
+sufficiently strong (above Basel III minima) or does not allow sufficient flexibility for national
+authorities to use a range of macroprudential tools to mitigate systemic risks (which, to be
+effective, requires the European Systemic Risk Board to play a prominent role in ensuring
+The U.K. authorities are aware of such risks, and are monitoring the possible consequences of, for
+instance, new funding products that comply with revised liquidity regulations, but could create sizable
+rollover risks just beyond regulatory horizons (See Bank of England Financial Stability Report (2010)).
+17
+
+18
+
+See the location of financial activity and the euro (an EMU Study) “HM Treasury” (2003).
+
+This paragraph should be read in conjunction with paragraph 50 of the Staff Report on the 2011
+Article IV consultation with the U.K.
+19
+
+INTERNATIONAL MONETARY FUND 17
+
+UNITED KINGDOM - 2011 SPILLOVER Report
+
+home-host coordination and reciprocity), the U.K.’s ability to implement strong regulations
+to avoid financial instability will be reduced, increasing the spillovers from such instability.
+VI. THE U.K. IN GLOBAL SURVEILLANCE—A UNIQUE LENS
+33.
+The U.K. has unique informational advantages that in principle could
+strengthen the work of fora charged with the surveillance of emerging systemic risks.
+The intersection of U.K. oversight of global intermediaries—though lack of information on
+the activities of branches is a blind spot— with the hosting of markets and infrastructure
+provides the U.K. with unique perspectives on global intermediation. There is considerable
+scope to draw further information from existing data sources. As a treasury hub, trends in
+cross-border source and use of funds; U.S. dollar and dollar-linked trading; the quality of
+collateral being pooled and posted in transactions; the cross-border direction of risk
+mitigation strategies; and, developments in the Libor/OIS markets can be gleaned from
+operations and markets in the U.K. In addition, the U.K. authorities could potentially observe
+some risks in less-regulated areas, such as hedge fund activity, which the FSA periodically
+surveys. While in principle, the U.K. could try to dampen global cycles, its impact would be
+enhanced though international coordination. As a host supervisor of a subsidiary in a
+consolidated group, it has the right to demand even higher buffers if it considers that those
+proposed by the national supervisor are inadequate or have not been applied quickly
+enough. However, coordination with partner macro-prudential authorities in managing
+global risk will likely yield more effective results and help reconcile situations where global
+financial stability and domestic stability considerations do not coincide. In addition, the U.K.
+could be a major contributor to international work streams monitoring the evolution of use
+of Intra-Group Guarantees and the Booking Practices of SIFIs to trace how cross-border risks
+relocate. Finally, the U.K. authorities’ capacity to address such risks might be hampered if
+CRD4 overly constrains the use of a range of macroprudential instruments in response to
+emerging risks.
+VII. AUTHORITIES’ REACTIONS
+34.
+The U.K. authorities welcomed the pilot spillover exercise for the major
+systemic economies, which bridges an important gap between the Fund’s bilateral and
+multilateral surveillance. The authorities noted the timeliness of the U.K. spillovers analysis
+given the changing domestic and global financial landscape. They also recognized that the
+report has been a particular challenge because of data limitations, the inherent complexity of
+the subject, and the lack of existing empirical work on the spillovers from the U.K. financial
+sector to other countries.
+35.
+U.K.
+
+18
+
+The authorities concurred with the staff analysis that the size and role of the
+financial system in global intermediation, underpinned by powerful
+
+INTERNATIONAL MONETARY FUND
+
+UNITED KINGDOM - 2011 SPILLOVER REPORT
+
+agglomeration effects, has important implications for the origination, transmission
+and dampening of shocks to the global financial system. They noted, however, that care
+was needed in the interpretation of spillovers emanating from U.K. headquartered
+institutions or domestic policy as distinct from the U.K. “host” functions as a recipient or a
+global conduit of shocks that originate from elsewhere. The authorities stressed that this
+work should serve as a good foundation for more in-depth analysis, for example on the
+impact of country-specific policies on the functioning of global liquidity.
+36.
+The authorities agreed with the staff analysis that the overhaul of U.K.
+regulation and oversight, while domestically focused, is appropriately aligned with the
+imperatives of global stability, a view that is also consistent with the U.K. FSAP report.
+They recognized that the action taken domestically on capital and liquidity policy has an
+impact on global asset and liability management, and welcomed the staff judgment that the
+resulting benefits to global as well as U.K. financial stability exceed any potential liquidity
+efficiency costs.
+37.
+However, the authorities underlined that the U.K. can only do so much on its
+own and that strong cooperation with and reform by global partners are needed to
+secure stability. Indeed, they echoed the direct EU-level financial stability risks set out in the
+report, which have the potential to cause and magnify spillovers from the U.K. In particular
+those risks arising from EU passporting arrangements in the event of less ambitious EU/EEA
+standards and from CRD4 limiting the scope for appropriate national discretion in policy
+making.
+38.
+The U.K. authorities agreed that the concentration of activities in the U.K.
+presents some coordination and informational benefits compared to a more globally
+fragmented financial landscape. However, they emphasized that effective global
+surveillance and regulation ultimately requires sustained international cooperation and
+action, including by all key global financial centers and through ongoing workstreams and
+processes in international bodies like the IMF, FSB and ESRB. The U.K. authorities could also
+feed into this through the market intelligence it collects from its regular contact with the
+private sector in London. More broadly, the authorities confirmed their intention to continue
+taking a strong leadership role in policy discussions in these fora.
+VIII. CONCLUSIONS
+39.
+The size and role of the U.K. financial system allows it to originate, transmit,
+and potentially dampen risks and shocks to the global financial system. The
+agglomeration of core functions found in the U.K. makes it a central node in “funding”
+liquidity and balance sheet hedging, providing buoyancy to global markets (and as such
+contributing to the buildup of global risk)—but equally able to withdraw it abruptly, as
+
+INTERNATIONAL MONETARY FUND 19
+
+UNITED KINGDOM - 2011 SPILLOVER Report
+
+became evident in the crisis. By the same token, any shock originating from the U.K. financial
+sector would have material implications throughout the global financial system.
+40.
+The stability and efficiency of the U.K. financial sector is therefore a global
+public good, requiring the highest quality supervision and regulation. Significant efforts
+are underway to strengthen U.K. supervision, particularly of on-site inspections. Stronger
+liquidity and capital buffers as envisaged will dampen risks and shocks originated or
+transmitted through the U.K. financial sector, as will improved resolution regimes. That said,
+given the U.K.'s role, policies that limit leverage and require financial institutions to be more
+“self-sufficient” in liquidity will affect business models that use the U.K. for global asset and
+liability management, although the stability benefits will likely exceed potential global
+efficiency costs.
+41.
+For optimal results, implementation of this agenda requires cooperation and
+coordination with global partners. Cooperation is key with all major financial centers,
+particularly so with the EU. U.K. financial stability will be weakened (with adverse spillovers) if
+EU rules constrain U.K. financial regulations at insufficiently ambitious levels or if they limit
+the ability to use a range of macroprudential instruments to address emerging risks.
+Similarly, very close home-host supervisor cooperation is essential to ensure that EU
+passporting arrangements do not undermine financial stability in the U.K. Additionally, the
+pursuit of “self-sufficiency” in liquidity, if pursued on a strictly national (rather than groupwide) basis, is useful primarily from the standpoint of domestic stability. However, globally
+coordinated approaches would be preferable in order to avoid the risk of fragmented,
+trapped, pools of liquidity that could hamper parent banks’ ability to support
+branches/subsidiaries in periods of stress. These would be inefficient and could even
+increase systemic risk. Thus, it will be important for the U.K. to continue the dialogue with
+global partners to develop protocols on access to liquidity in periods of stress. Co-operation
+is also required to develop cross-border resolution frameworks that would reduce the risk of
+U.K.-based institutions propagating shocks in tail-risk situations.
+42.
+The U.K. authorities, while in principle uniquely placed to contribute to efforts
+at enhanced surveillance of global systemic risks, face important challenges in doing
+so in terms of data, resources and authority. The FPC can observe emerging stress and
+risks that might arise from the nexus of SIFIs, hedge funds and financial market
+infrastructure, but remaining gaps in data on systemic risks, including through the activity of
+branches, would need to be addressed. In this regard, vigilance will be needed on risks being
+pushed out—in response to regulatory reforms in other jurisdictions—or passported into
+deep and innovative U.K. markets. Although naturally focusing on domestic stability issues,
+the newly established FPC should take international spillovers into account.
+
+20
+
+INTERNATIONAL MONETARY FUND
+
+UNITED KINGDOM - 2011 SPILLOVER REPORT
+
+ANNEX 1. SPILLOVERS TO LOW INCOME COUNTRIES
+1.
+Spillovers could be significant to a disparate group of mainly small economies that are
+heavily dependent on trade with the U.K, but for which model results are unavailable. Examples
+(with the share of their exports targeted at the U.K.) include
+
+
+Former U.K. colonies (middle-income): Mauritius (32 percent), Seychelles (24 percent), and
+St Lucia (16 percent).
+
+
+
+Former U.K. colonies (low-income): Gambia and Kenya (11 percent both).
+Annex Figure 1. Exports to the U.K. (in percent of total
+
+2.
+Spillovers to low income countries (LICs) through remittance flows and aid from the
+U.K. are significant, particularly for Sub-Saharan Africa (SSA). This includes substantial
+remittances to Nigeria ($460 million, or 26 percent of the total), Uganda ($373 million, or 62 percent
+of the total), and Kenya ($254 million, or 59 percent). The U.K. also accounts for around 10 percent of
+aid flows to LICs, focused on the poorest countries. In contrast to many other donors, it has not cut
+aid flows in recessions, and plans to increase aid by 30 percent in real terms in next four years in spite
+of a major fiscal adjustment effort.
+
+Annex Figure 2. Aid and Remittances to LICs, 2007
+Aid to LICs (2007)
+US
+21%
+
+Others
+33%
+
+Remittances to LICs
+(2007)
+
+EA
+14%
+
+EA
+36%
+
+US
+40%
+Others
+36%
+
+UK
+10%
+
+UK
+10%
+
+INTERNATIONAL MONETARY FUND 21
+
+UNITED KINGDOM
+2011 SPILLOVER REPORT—SUPPLEMENTARY
+July 14, 2011
+
+INFORMATION
+Approved By
+
+Reza Moghadam and Antonio Borges
+
+CONTENTS
+
+I. The Structure of the U.K. Banking Sector ............................................................................................................. 3
+Key Characteristics of U.K. Banks’ Business Models ............................................................. 7
+II. U.K. Financial Markets and Infrastructure............................................................................................................ 8
+U.K.-based Central Counterparties.............................................................................................. 8
+III. The Role of the U.K. in SIFI Business Models ................................................................................................. 11
+IV. The U.K.’s Role as a Global Liquidity Generator ........................................................................................... 12
+V. Cross Border Explanation of Leverage in the U.K. ........................................................................................ 14
+VI. A VAR Analysis of Real and Financial Spillovers from the U.K................................................................ 19
+VII. Non-Financial Sector Spillovers ........................................................................................................................ 21
+VIII. Spillovers from a Sovereign Debt Shock ...................................................................................................... 23
+IX. Upstream Vulnerability Exposure To U.K. Banks .......................................................................................... 28
+X. Assessment of Spillovers from the U.K. based on Conditional Distress Probabilities .................... 30
+
+UNITED KINGDOM 2011 SPILLOVER REPORT—SUPPLEMENTARY INFORMATION
+
+XI. Contribution of the U.K. to “Common Risk” in Global Financial Markets .......................................... 31
+XII. Cross-Border Market Impact of Liquidity Policy Announcements: Event Studies ......................... 36
+XIII. An Estimate of the Output Cost of Regulatory Reform .......................................................................... 40
+Tables
+1. Possible Definitions of the U.K. Banking Sector................................................................................................ 3
+2: Global Financial Markets: U.K. Market Share .................................................................................................. 10
+Figures
+1. Overview of the U.K. Banking Sector .................................................................................................................... 5
+2. U.K. Banks: Differentiated Geographic and Business Models...................................................................... 6
+3. Major U.K. Banks: Breakdown of Assets and Aggregate Balance Sheet.................................................. 7
+4. Leverage Ratios of U.K.-Based Subsidiaries of Foreign Banks, 2005–2009 ......................................... 18
+5. (Accumulated) Impulse Responses of Real GDP to 1-s.d. Structural Shock ....................................... 20
+6. Exports to the U.K. (in percent of total) ............................................................................................................ 23
+7: Peak Output Losses .................................................................................................................................................. 25
+8. Impulse Responses for a Representative Advanced Economy ................................................................ 26
+9. Impulse Responses for a Representative Emerging Economy ................................................................. 27
+10. Upstream Exposure to U.K. Banks (in percent of GDP), September 2010 ......................................... 29
+11. Upstream Exposure to U.K. Banks (in percent of bank assets), September 2010 .......................... 29
+12. Conditional Probability of Distress of Banks Given U.K. Banks (Average) Fall in Distress........... 31
+13. Measuring Risk Commonalities: Alternative Proxies ................................................................................. 33
+14. Conditional Correlations vs U.K. Interbank Market Spreads .................................................................. 35
+15. Conditional Correlations vs U.K. Equity Risk Premiums ........................................................................... 35
+16. Conditional Correlations vs U.K. Financial Corporate Bond Spreads .................................................. 36
+17. Price to Book Value Relative to Domestic Stocks Index .......................................................................... 38
+18. Euro and Sterling /USD Hedging Indicate Excess Risks ........................................................................... 38
+19. Peak Output Losses ................................................................................................................................................ 40
+20. Impulse Responses of Output to a Capital Adequacy Requirement Increase ................................. 41
+Box
+1. Alternative Measures of Cross-Currency Funding Risk ............................................................................... 39
+
+2
+
+INTERNATIONAL MONETARY FUND
+
+UNITED KINGDOM 2011 SPILLOVER REPORT—SUPPLEMENTARY INFORMATION
+
+I. THE STRUCTURE OF THE U.K. BANKING SECTOR
+
+1
+
+1.
+
+The United Kingdom is both home and host to systemically important financial
+
+institutions (SIFIs). The “U.K. banking sector” could be defined in several ways (Table 1):
+one focused purely on the U.K. based assets, either from U.K. banks or foreign banks’
+
+
+
+operations in the U.K. (I+II+III);
+
+
+one focused on all assets of U.K.-owned banks, in the U.K. and abroad (I+IV+V); or
+
+
+
+a combination of both. There is no consensus definition, and various analyses of the U.K.
+banking sector may include or exclude any of the items above, depending on the focus.
+Table 1. Possible Definitions of the U.K. Banking Sector
+
+2.
+
+United Kingdom
+
+Abroad
+
+U.K. owned banks (I)
+Branches of foreign-owned banks (II)
+Subsdiaries of foreign-owned banks (III)
+
+Foreign branches of U.K.-owned banks (IV)
+Foreign subsdiaries of U.K.-owned banks (V)
+
+U.K.-owned and incorporated banks hold significant assets abroad, while foreign bank
+
+subsidiaries and branches hold more than half of U.K.-based banking sector assets (Figure 1):
+
+
+U.K.-based banking assets are dominated by foreign banks, which hold more than half the
+total. Of this amount, European banks hold more than half (54 percent), while U.S. banks
+account for 15 percent.
+
+
+
+U.K.-owned and incorporated banks represent a small share of U.K.-based banking sector
+assets. The top five U.K. banks (HSBC, RBS, Barclays, LBG, and SCB) hold 22 percent of U.K.based banking sector assets, while foreign-owned and U.K. incorporated banks (e.g.,
+Santander U.K.) own an additional 27 percent.
+
+1
+
+Prepared by Vanessa Le Leslé (MCM) for the 2011 U.K. Financial Sector Assessment Program Update.
+
+INTERNATIONAL MONETARY FUND 3
+
+UNITED KINGDOM 2011 SPILLOVER REPORT—SUPPLEMENTARY INFORMATION
+
+Only two of the six major U.K.-owned and incorporated banks have a strong domestic focus.
+
+
+
+Specifically, LBG and Nationwide operate almost exclusively within U.K. borders. Conversely,
+the remaining four major U.K.-owned and incorporated banks have more diversified
+geographic profiles.
+U.K.-owned and incorporated banks hold significant assets abroad. For example, SCB has less
+
+
+
+than 5 percent of its business in the U.K., while HSBC Holdings Plc has significant operations
+in the Asian region and other emerging market countries (Figure 2). Separately, Barclays has
+increased its exposure to the US, following its acquisition of the Lehman Brothers franchise.
+The U.K.-based portion of U.K.-owned and incorporated banks’ assets is less than half of those
+
+
+
+banks’ total assets. The five major U.K. banks hold 40–45 percent of U.K.-based banking
+sector assets. According to the British Bankers’ Association, the Herfindahl index for the
+share of total assets of the five largest credit institutions shows that the U.K. is only the
+twenty-third most concentrated EU market.
+3.
+
+Foreign banks primarily use London as their international funding and trading
+
+platform. London is a major financial hub, offering a broad range of financial and support services,
+a deep talent pool, comprehensive market infrastructure, all located in a convenient time zone. For
+these reasons, it is an attractive place for foreign banks to conduct their international investment
+banking operations.
+4.
+
+There are fewer foreign banks providing traditional loans to the U.K. economy.
+
+Santander U.K (a foreign-owned, U.K. incorporated bank) is a prime example of a foreign bank that
+grew through the acquisition of local banks to expand its presence in the U.K. retail market.2 Irish
+banks are also active in the U.K. retail market, as are Australian and German banks, lending either to
+U.K. households or corporates.
+
+2
+
+For example, Santander U.K. is a U.K.-owned and incorporated bank, established via the acquisitions of
+
+U.K. banks Abbey National, Bradford and Bingley, and Alliance and Leicester. See also Box 1 in the Bank
+of England Financial Stability Report (London, June 2010).
+
+4
+
+INTERNATIONAL MONETARY FUND
+
+UNITED KINGDOM 2011 SPILLOVER REPORT—SUPPLEMENTARY INFORMATION
+
+Figure 1. Overview of the U.K. Banking Sector
+25%
+Breakdown of Banking Assets by Country within the EEA
+20%
+15%
+10%
+5%
+0%
+
+Breakdown of the UK Banking Sector
+
+Breakdown of UK banking sector assets
+
+UK
+branches
+of nonEEA banks
+Foreign
+banks
+51%
+
+24%
+
+UK banks
+49%
+27%
+
+UK
+branches
+of EEA
+banks
+
+Breakdown of Foreign banks holdings of UK
+banking assets
+
+UK owned
+and
+incorporated
+banks
+22%
+Foreign
+owned & UK
+incorporated
+banks
+27%
+
+UK Banking System Assets Breakdown by Bank
+6%
+4%
+
+3%
+21%
+
+Others
+26%
+
+Japanese
+banks 5%
+US banks
+15%
+
+EU banks
+54%
+
+21%
+
+13%
+
+Barclays
+HSBC
+LBG
+RBS
+Santander UK
+StanChart
+Other
+
+32%
+
+Sources: TheCityUK; Bloomberg; Bankscope; European Banking Federation; and Fund staff estimates.
+
+INTERNATIONAL MONETARY FUND 5
+
+UNITED KINGDOM 2011 SPILLOVER REPORT—SUPPLEMENTARY INFORMATION
+
+Figure 2. U.K. Banks: Differentiated Geographic and Business Models
+(As at end-2010, in percent of individual banks’ revenues)
+Business Models
+U.K. retail
+
+International retail
+
+Insurance Wholesale Wealth
+
+Investment banking Credit card
+
+Other
+
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+Barclays
+
+HSBC
+
+LBG
+
+Nationwide
+
+RBS
+
+Santander U.K.
+
+SCB
+
+Geographic Footprints
+United
+Kingdom
+
+Europe
+
+United
+States
+
+Asia &
+Australia
+
+Africa &
+Middle East
+
+Latin
+America
+
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+Barclays
+
+HSBC
+
+LBG
+
+Nationwide
+
+RBS
+
+Sources: Bloomberg; individual banks’ Annual Reports; Fund staff estimates.
+
+6
+
+INTERNATIONAL MONETARY FUND
+
+Santander U.K.
+
+SCB
+
+UNITED KINGDOM 2011 SPILLOVER REPORT—SUPPLEMENTARY INFORMATION
+
+5.
+
+The structure of the U.K. banking system has important policy implications, from both
+
+regulatory and supervisory perspectives. For instance, EEA banks hold 27 percent of U.K. based
+banking assets. Set up as branches in the United Kingdom, (through “passporting” rules), they
+remain under the supervision of their home authority, and the U.K. authorities have very limited
+oversight powers over them. Conversely, many U.K.-owned banks have significant activities outside
+the U.K. While the U.K. authorities retain consolidated supervision powers over these groups,
+individual subsidiaries are also subject to host country supervision and local regulations.
+
+Key Characteristics of U.K. Banks’ Business Models
+6.
+
+On an aggregate basis, the major U.K. banks are more exposed to international assets
+
+(45 percent of their balance sheet) than to pure U.K. assets (only 19 percent). The sizeable
+international portfolio of the U.K. banks makes them sensitive to economic conditions in Europe, the
+U.S. and the rest of the world, and highlights their interconnectedness.
+7.
+
+Loans, to households, corporate, and financial institutions represent the bulk of U.K.
+
+banks’ assets, and their share is relatively stable over the last 3 years (Figure 3). The share of
+derivatives and securities reached a peak in 2008 and has declined since. Overall, RWA increased
+until 2008 and has declined since as banks continue to de-risk their balance sheets.
+Figure 3. Major U.K. Banks: Breakdown of Assets and Aggregate Balance Sheet
+
+£ trillions
+10
+9
+
+Government debt securities
+Other debt securities
+Derivatives
+
+8
+7
+6
+
+Loans to banks and OFCs
+Loans to households
+Loans to PNFCs
+Other assets
+Risk-weighted assets
+
+5
+4
+3
+2
+1
+0
+2005
+
+8.
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+The U.K. banking sector is polarized in terms of geographic exposures. Three banks
+
+have a strong domestic bias, and four are heavily turned toward international activities. Their
+geographic footprints would be relevant for determining where vulnerabilities lie.
+
+INTERNATIONAL MONETARY FUND 7
+
+UNITED KINGDOM 2011 SPILLOVER REPORT—SUPPLEMENTARY INFORMATION
+
+9.
+
+The major U.K. banks also have very different business models. The seven banks under
+
+review are broadly grouped in two categories: domestic retail banks, with a strong focus on
+mortgages, and diversified international banks, combining a wider variety of activities, spanning
+from retail to investment banking, wealth management, and insurance.
+
+II. U.K. FINANCIAL MARKETS AND INFRASTRUCTURE
+
+3
+
+10.
+
+London is a dominant actor worldwide in most segments of financial markets (see
+
+Table 2). In particular, U.K. markets, infrastructure, and UK-based institutions have a large or
+dominant role across a broad range of global cross-border financial operations. Thus while U.S.
+equity and bond markets are larger, they are more domestically focused, while London markets are
+dominant in secondary market trading of international bonds or foreign equity listings. London
+markets closely related with international banking activities—foreign exchange and derivative
+markets in particular—are also the most important globally, and some specialist insurance functions
+serving internationally active firms are located there (notably in transportation). Finally and directly
+related with the presence of these markets and functions, much of the critical infrastructure of
+global finance—in the form of central counterparties (CCPs)—is in London.
+
+U.K.-B ased Central Counterparties
+11.
+
+Among the financial market infrastructure located in the U.K., CCPs exhibit the highest
+
+concentration of liquidity and credit risks. They provide an integrated range of clearing functions
+to market participants, including the netting of positions. Their core service is to become principal to
+every transaction that they clear, which implies that market participants no longer have credit
+exposures to their trading counterparties, but only to the CCP. Therefore, CCPs concentrate credit
+risk and would face large liquidity needs if a participant defaulted—due to the need to fulfill the
+settlement obligations of the defaulting participant, potential losses when the cleared position or
+related collateral are liquidated, and the cash flows relating to possible hedge transactions.
+12.
+
+The number of CCPs operating in the U.K. is increasing. There are four at present, with
+
+one more expected to begin operations in 2011–12:
+
+
+LCH.Clearnet Limited, a subsidiary of the European LCH.Clearnet group, is the traditional U.K.
+central counterparty. It is also one of the largest CCPs in Europe, serving major international
+
+3
+
+Prepared by Manmohan Singh, Vanessa Le Leslé, and Christine Sampic (all MCM), and Alvaro Piris (SPR),
+
+with inputs from Sean Kerr (LEG).
+
+8
+
+INTERNATIONAL MONETARY FUND
+
+UNITED KINGDOM 2011 SPILLOVER REPORT—SUPPLEMENTARY INFORMATION
+
+exchanges and platforms, as well as a range of over-the-counter (OTC) markets, including
+derivatives through SwapClear (for interest rate swaps) and RepoClear (for cash bond and
+repo trades).
+
+
+EuroCCP, a subsidiary of the U.S. DTCC, was set up in August 2008 to clear equities from
+issuers in 19 markets traded on multilateral trading facilities and stock exchanges in Europe.
+
+
+
+ICE Clear Europe, a subsidiary of the U.S. Intercontinental Exchange (ICE), began providing
+clearing services for the futures markets of ICE Futures Europe and ICE’s OTC energy markets
+in 2008. In July 2009 it launched separate clearing services for credit default swaps (CDS).
+
+
+
+In addition, U.K. regulators gave approval in December 2010 to Chicago Mercantile
+Exchange (CME) Group to launch clearing for the OTC derivative trades, for which operations
+began in London in May 2011, through CME Clearing Europe, a subsidiary of CME.
+
+
+
+Finally, NYSE/EURONEXT has announced a plan to provide a dedicated CCP to clear LIFFE’s
+transactions by 2012.4
+
+13.
+
+Cross-border and cross-currency clearing is substantial, in particular for OTC
+
+derivatives. LCH.Clearnet Limited operates in U.S. dollars, euros, and sterling and a number of other
+currencies5. SwapClear currently clears more than 40 percent of global interest rate swap
+transactions, with a total notional principal of US$248 trillion. RepoClear clears 250,000 traded sides
+per month in the Austrian, Belgian, Dutch, German, Irish, Finnish, Portuguese, Slovakian, Slovenian,
+Spanish, and U.K. markets, representing a nominal value of €11 trillion. Until now, most eurodenominated OTC credit derivatives contracts submitted to a CCP have been cleared by ICE Clear
+Europe: from July 2009 through March 2011, it cleared US$4.7 trillion in iTraxx indices and
+US$917 billion in single name instruments, resulting in US$633 billion of open interest.
+14.
+
+The size, growth, and cross-border nature of U.K. clearing activities means a default
+
+would have a very large global impact. In particular, moving OTC derivatives contracts to CCPs
+following the G20 commitment will substantially raise the concentration of liquidity and credit risk,
+
+4
+
+Today LIFFE’s transactions are technically cleared by LCH Clearnet Limited.
+
+5
+
+Australian dollar, Canadian dollar, Swiss franc, Czech koruna, Danish kroner, Euro, Sterling, Hong Kong dollar,
+
+Hungarian forint, Icelandic króna, Japanese yen, Norwegian krone, New Zealand dollar, Polish zloty, Swedish krona,
+South African rand, and the U.S. dollar.
+
+INTERNATIONAL MONETARY FUND 9
+
+UNITED KINGDOM 2011 SPILLOVER REPORT—SUPPLEMENTARY INFORMATION
+
+moving derivatives risks from systemically important financial institutions (SIFIs) to CCPs, which are
+becoming ‘risk nodes’ in financial markets. As CCPs are clearing more complex, less liquid, and
+longer-term instruments, their potential need for funding support in a tail risk situation is rising. The
+failure of a major CCP would affect not only the U.K. domestic financial market, but would also have
+a cross-border dimension.
+Table 2: Global Financial Markets: U.K. Market Share
+Products
+International banking
+Cross-border bank lending
+Borrowing
+European investment banking activities
+Insurance market
+Global insurance premiums
+Pension fund assets
+Equities
+Global foreign equity listing
+Number of international IPOs
+Turnover on LSE
+Bonds
+Eurobonds secondary market
+Securitization issuance
+Fund Management
+Total fund management (source of
+funds)
+Hedge Funds assets
+Private equity investment value
+Derivatives
+OTC interest rate derivatives
+Exchange-traded derivatives
+
+Foreign exchange
+Turnover
+Commodities
+Commodity derivatives trading
+Bullion markets (gold/silver)
+Maritime services
+Marine insurance premium
+
+U.K. market share (in
+percent)
+
+Rank
+
+18
+21
+50
+
+1
+1
+1
+
+$309 billion
+9
+
+3 (global) and 1 (Europe)
+3 (global) and 1 (Europe)
+
+19
+6 (12 percent market share)
+
+1
+(17 IPO in Hong Kong/12
+in U.S.)
+4 of global turnover / 7 of global equity market capitalization
+70 (trading by Bookrunners in London)
+6
+2 (US is 1, with 75 percent)
+9
+
+2 (US is 1, with 50 percent)
+
+19
+13
+
+2 (US is 1, with 68 percent)
+2 (US is 1, with 36 percent)
+
+46 (of turnover)
+1 (US is 2 with 24 percent)
+4 derivative exchanges in the UK: NYSE Liffe is #2
+worldwide; LME is #1 for non-ferrous metals; ICE Futures
+Europe is #1 in Europe and #2 worldwide for energy
+products.
+37
+
+1
+
+London and New York main international players
+London’s LBMA largest OTC market ahead of New York
+and Zurich, and clears most of the wholesale OTC trades
+
+London is the leading
+center for marine and
+aviation finance.
+Leader in shipping finance (13), shipbroking (30-50) and legal services. The International Maritime
+Organization is headquartered in London.
+Islamic finance
+London has the largest number of “sharia compliant” banks (22), exchange-traded funds (7), and law
+firms (20) in the West. Issued 31 sukuks on LSE.
+Source: www.TheCityUK.com, “Trends in U.K. Financial and Professional Services”, June 2011, latest
+available data (2009 or 2010)
+
+10
+
+INTERNATIONAL MONETARY FUND
+
+21
+
+UNITED KINGDOM 2011 SPILLOVER REPORT—SUPPLEMENTARY INFORMATION
+
+III. THE ROLE OF THE U.K. IN SIFI BUSINESS MODELS
+
+6
+
+15.
+
+Many global systemically important financial institutions (SIFIs) have developed
+
+business models and corporate structures that are heavily dependent on U.K.-based entities.
+Through services that these entities provide to the group, they achieve a high degree of global
+balance sheet integration, particularly regarding liquidity and risk management. As a result, any
+rebalancing of the global balance sheet of the SIFI along with the services it provides to clients, is
+linked to the flexibility derived from a seamless interconnection between each SIFI’s operations in
+the U.K. and the rest of the world.
+16.
+
+A number of factors are behind the U.K.’s integral role in global SIFI’s operations. SIFIs
+
+will normally channel excess liquidity from Europe, and to a lesser extent other financial centers
+(such as Hong Kong, Singapore, and the Middle East) to the U.K. Similarly, the centralization of risk
+management of global exposures via the clustering of deep foreign exchange and flexible OTC
+derivatives markets in the U.K. implies that SIFIs can justify the U.K.’s gravitational pull.
+17.
+
+Centralizing liquidity and risk management enables an integrated SIFIs to allocate
+
+liquidity efficiently and to use effectively the risk mitigation markets across multiple
+dimensions:
+Access to deep and broad-risk-spectrum markets such as foreign exchange, derivatives, and
+
+
+
+cash instruments facilitates the use of centralized liquidity to generate cost efficiencies,
+which in turn generates additional liquidity. Some firms achieve this by simultaneously using
+subsidiaries (to respond to client and market needs), and branch structures (mainly handling
+intra-firm needs).
+Moreover, the nature of the links through which a SIFI’s global integration occurs via the U.K.
+
+
+
+along with the diversity among SIFIs (in terms of asset and regional focus) leads market and
+intra-firm interactions, concentrated in the U.K.
+18.
+
+The efficiency gains arising from SIFI’s U.K. operations are substantial but difficult to
+
+quantify. For some global SIFIs, around a third of secured funding stems from the U.K., exceeding
+the U.K.’s share of global cross-border lending. This means that for SIFIs 30 percent of the market
+6
+
+Prepared by Karim Youssef (SPR).
+
+INTERNATIONAL MONETARY FUND 11
+
+UNITED KINGDOM 2011 SPILLOVER REPORT—SUPPLEMENTARY INFORMATION
+
+clearing cost of funding their global intermediation activities (including risk exposures, the taking
+and offering of leverage) is set in the U.K. market.
+19.
+
+An example of how such efficiency gains arise is through the large and diverse pool of
+
+collateral (initially posted by clients) that global SIFIs manage through their U.K. entities.
+Access to the cash-flows from such portfolios gives SIFIs flexibility in structuring synthetic
+instruments or cash flows in response to client and market needs. Moreover, the iterative and shared
+use of secured funding collateral (if housed in an omnibus account7) among SIFI’s broker and dealer
+entities in the U.K. helps create additional market and balance-sheet liquidity.
+20.
+
+Global SIFIs’ reliance on the U.K. makes these operations important for the efficiency
+
+and stability of global markets. This is especially true of derivatives, structured notes, international
+debt, foreign exchange, and non-U.S. repo markets. The stability and efficiency of these markets are
+interlinked with the stability of the SIFIs themselves, and the efficiency they derive from their U.K.
+operations. Consequently, investors and borrowers that depend on SIFIs want them to remain stable
+but also continue to meet customer demands in a flexible and cost-efficient manner.
+
+IV. THE U.K.’S ROLE AS A GLOBAL LIQUIDITY
+GENERATOR
+21.
+
+8
+
+Consistent with its role as a global treasury hub, subsidiaries, and branches of
+
+international banks operating in the U.K., play an important role in cross-border finance. From
+a universe of wholesale financial instruments, this note looks at the relative importance of BIS
+reporting countries in originating cross-border bank claims—as a proxy for where banks pool
+liquidity and acquire cross-border assets.
+
+7
+
+An omnibus account groups together individual client accounts (including those of other brokers, banks,
+
+institutional investors, and Funds). It is a unified account, which does not allow for the retention of information about
+the individual accounts. Omnibus accounts are seen as an efficient way to augment inter and intra-firm operations in
+different markets and countries. They also allow firms to offer clients the ability to transact via a single firm across
+markets and countries.
+8
+
+Prepared by Irena Asmundson, Chris Marsh, and Karim Youssef (all SPR).
+
+12
+
+INTERNATIONAL MONETARY FUND
+
+UNITED KINGDOM 2011 SPILLOVER REPORT—SUPPLEMENTARY INFORMATION
+
+22.
+
+The chart shows the evolution of cross-border lending provided by only the
+
+subsidiaries and branches of banks operating in BIS reporting countries. The measure is derived
+from the difference between banks’
+residency basis (which thus includes the
+
+Global Net Value supplied by Foreign Banking networks across borders
+US Dollar Trillions
+
+international claims on a “locational” or
+
+3.0
+
+2.5
+
+activities of foreign subsidiaries in the
+2.0
+
+country in question), and consolidated
+bank claims. It thus strips out the global
+
+1.5
+
+activities of banks reporting on a
+1.0
+
+consolidated basis to a given jurisdiction,
+leaving the activities of banks that report
+
+0.5
+
+elsewhere but operate a subsidiary or
+
+0.0
+2003 Q1
+
+2004 Q1
+
+2005 Q1
+
+2006 Q1
+
+2007 Q1
+
+2008 Q1
+
+2009 Q1
+
+9
+
+branch in the host jurisdiction.
+
+6
+
+23.
+
+Allocating these claims by BIS
+4
+
+country location, the U.K. emerges as
+the most important liquidity hub.
+2009, U.K.-based activity contributed in
+excess of 60 percent of claims on the rest
+of BIS reporting countries, with the U.S.
+
+2
+United Kingdom
+
+USD trillions
+
+Between 2003 and the third quarter of
+
+United States
+
+Japan
+
+0
+
+Ireland
+
+-2
+
+-4
+
+ranking second with 27 percent of the
+
+close to $4 trillion at the peak in 2007 subsidiaries and branches of foreign banks operating in other
+BIS countries are less important in cross-border finance.
+
+9
+
+This measure is a simple proxy, given data limitations. A more accurate measure would require a more complete
+
+dataset including both claims and liabilities of the consolidated and locational balance sheets of domestically
+chartered banks, as well as subsidiaries and branches of foreign banks for every jurisdiction. The proxy measure does
+not take into account the claims of the consolidated balance sheet of a given country’s banks on their own foreign
+subsidiaries, but captures any claims by the subsidiaries on the consolidated balance sheet.
+
+INTERNATIONAL MONETARY FUND 13
+
+2009 Q3
+
+2009 Q2
+
+2009 Q1
+
+2008 Q4
+
+2008 Q3
+
+2008 Q2
+
+2008 Q1
+
+2007 Q4
+
+2007 Q3
+
+2007 Q2
+
+2007 Q1
+
+2006 Q4
+
+2006 Q3
+
+2006 Q2
+
+2006 Q1
+
+2005 Q4
+
+2005 Q3
+
+2005 Q2
+
+2005 Q1
+
+2004 Q4
+
+2004 Q3
+
+2004 Q2
+
+2004 Q1
+
+2003 Q4
+
+2003 Q3
+
+U.S. in originating cross-border claims of
+
+-8
+2003 Q2
+
+subsidiaries and branches in the U.K. and
+
+-6
+
+2003 Q1
+
+total. In contrast to the dominance of
+
+UNITED KINGDOM 2011 SPILLOVER REPORT—SUPPLEMENTARY INFORMATION
+
+24.
+
+An alternative approach to measuring the U.K.’s contribution to global liquidity
+
+captures total liquid liabilities of the global financial sector (analogous to traditional broad
+money measures of liquidity). For example, the chart below (left panel) shows each country’s
+contribution to the growth
+of total G4 (Euro area,
+
+U.K. Contribution to G4 liquidity growth and share in G4 liquidity
+20
+
+11
+
+UK share in G4 GDP against UK share in
+G4 liquidity (percent)
+
+Contribution to G4 liquidity growth (percent)
+
+Japan, U.K., and U.S.)
+after the millennium—
+
+UK share in G4 GDP
+
+liquidity, which grew rapidly
+
+15
+
+10
+
+though turned negative
+with the onset of the crisis.
+
+larger economies in the
+group.
+
+Constant ER
+
+2007Q2
+9
+
+8
+
+2000Q1
+
+0
+
+of the period—though
+small compared with the
+
+45 degree
+line
+
+Market ER
+
+5
+
+The U.K. made a positive
+contribution through most
+
+10
+
+7
+-5
+
+US
+
+-10
+2000Q1
+
+UK
+
+Japan
+
+Euro Area
+UK share in G4 liquidity
+
+6
+2002Q1
+
+2004Q1
+
+2006Q1
+
+2008Q1
+
+2010Q1
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+Sources: Haver; and Fund staff calculations.
+
+25.
+
+But how did the U.K.’s relative share in G4 liquidity evolve? The chart also shows the
+
+U.K.’s share in G4 GDP and in G4 liquidity (right panel). The 45 degree line gives points where GDP
+and liquidity move in tandem. From 2000 to 2004, liquidity and GDP shares grew broadly in line, but
+liquidity share picked up from 2004 before falling back during the crisis (blue line). However,
+correcting for nominal exchange movements, the U.K.’s share in liabilities in fact grew broadly in line
+with the share in GDP until the crisis. Since then the U.K. share’s in GDP has fallen more rapidly than
+its share of G4 liquidity with the severity of the recession.
+
+V. CROSS-BORDER EXPLANATION OF LEVERAGE IN
+THE U.K.
+
+10
+
+26.
+
+This note analyzes stylized facts relating to the leverage ratios of the U.K. banking
+
+system, distinguishing between domestic and foreign-owned banks. In recent years, foreignowned banks in the U.K. have exhibited higher leverage ratios than domestic banks, especially once
+off-balance sheet assets are accounted for. The financial center role of the U.K. seems to underpin
+10
+
+14
+
+Prepared by Manuela Goretti, Alvaro Piris, and Karim Youssef (all SPR), and Manmohan Singh (MCM).
+
+INTERNATIONAL MONETARY FUND
+
+UNITED KINGDOM 2011 SPILLOVER REPORT—SUPPLEMENTARY INFORMATION
+
+these differences in leverage ratios and balance-sheet management, calling for greater cross-border
+supervisory oversight and coordination to avoid procyclical amplification of boom and bust
+episodes.
+27.
+
+Recent empirical literature finds evidence of procyclicality in the leverage of U.K.
+
+positive relationship between changes
+in leverage and changes in the balance
+sheet size of U.K. banks over the past
+two decades, suggesting active
+management of balance sheets to
+increase leverage when asset prices go
+up and reduce it during downturns (see
+figure). These results are in sharp
+contrast with other EU countries where
+leverage tends to be countercyclical,
+and with earlier results for the U.S. by
+11
+
+Adrian and Shin (2008) where
+
+Financial Assets Growth (Percent Quarterly)
+
+banks. Panetta et al. (2009) show a
+12
+
+United Kingdom: Financial Assets and Leverage of Monetary
+Financial Institutions, 1987Q2-2008Q2 1/
+
+8
+4
+0
+-4
+-8
+-30
+
+-15
+
+0
+
+15
+
+30
+
+Leverage Growth (Percent Quarterly)
+1/ Calculations based on national financial accounts. Leverage is defined as
+the ratio between financial assets and the difference between financial assets
+and liabilities. Data refer to monetary financial institutions (banks, central
+banks and money market mutual funds).
+Source: Panetta et al. (2009), Financial sector pro-cyclicality, Questioni di
+Economia e Finanza, Banca d'Italia.
+
+commercial banks are found to target fixed leverage levels.
+28.
+
+The relatively low leverage ratios of U.K. banks in the post-Lehman period on a
+
+consolidated basis could suggest a limited financial accelerator role by the U.K. in the future.
+Specifically, recent data released by the Bank of England (see Chart 4.10 of the December 2010 FSR
+reported below) indicate that major U.K. banks have comparable, if not lower, leverage ratios to
+those of LCFIs in the U.S. and other European countries. Moreover, domestic ranges appear
+narrower in the pre-crisis period and the deleveraging process less abrupt than in other countries,
+notably the U.S., given the lower starting base (Northern Rock is not included in the sample).
+
+11
+
+Tobias Adrian & Hyun Song Shin: "Financial intermediary leverage and value at risk," Federal Reserve Bank of New
+
+York, Staff Reports 338 (2008).
+
+INTERNATIONAL MONETARY FUND 15
+
+UNITED KINGDOM 2011 SPILLOVER REPORT—SUPPLEMENTARY INFORMATION
+
+29.
+
+Leverage Ratios of UK-based Banks, 2005-2009 1/
+
+However, consolidated banking
+
+data cannot capture the U.K.’s role as a
+global financial center. In 2009, according
+to bank-by-bank data for 16 major foreign
+
+60
+
+UK-owned 2/
+
+UK-based Subsidiaries of Foreign Banks 3/
+
+50
+
+40
+
+banks with subsidiaries operating in the
+U.K., foreign-owned banks’ assets
+accounted for more than 20 percent of
+
+30
+
+20
+
+total assets in the U.K. banking system.
+Only Ireland and a few newly-acceded EU
+countries presented higher shares but for
+significantly smaller asset bases. Foreignowned banks in the U.K. exhibit much
+higher leverage ratios than U.K.-owned
+banks across time and despite global
+
+16
+
+INTERNATIONAL MONETARY FUND
+
+10
+
+0
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+1/ Leverage defined as (Total assets)/(Total Capital).
+2/ Sample includes Alliance & Leicester, Barclays, Bradford & Bingley, HBOS,
+HSBC, Lloyds, Northern Rock, RBS , Standard Chartered (excludes foreign
+subsidiaries).
+3/ Sample includes Canadian banks(RBC, TD Bank), Germ an Banks
+(Deutsche Bank), Japanese banks (Daiwa, Mitsubishi UFJ, Nom ura),
+Spanish banks (Santander), Swiss banks (Credit Suisse), and US banks
+(Am erican Express, Capital One, Goldm an Sachs, JP Morgan/Citigroup,
+Merrill Lynch/Bank of Am erica, Morgan Stanley).
+Sources: Bankscope and staff own estim ates.
+
+UNITED KINGDOM 2011 SPILLOVER REPORT—SUPPLEMENTARY INFORMATION
+
+deleveraging in the past years (see Figure).12 Leverage averaged 50 for subsidiaries of foreign banks
+before the collapse of Lehman, against about 27 for U.K.-owned banks. Moreover, in 2008–09,
+foreign-owned banks adjusted their leverage ratios more quickly, showing higher procyclicality in
+the downturn than domestic banks. Yet, this was not enough to close the difference in leverage
+(which still amount to about 10 times equity).13 Among the foreign groups in the sample, Japanese,
+Swiss, and Spanish subsidiaries exhibit on average the highest degrees of leverage compared with
+domestic banks.
+30.
+
+U.K.-based subsidiaries also exhibit higher leverage than their parents, as the result of
+
+balance sheet management strategies at group level and the U.K.’s role as provider of
+financial services. The U.K. is a global center for secured and unsecured funding, making available
+to its customers a wide range of financial products, particularly for the European market, including
+derivatives and other innovative instruments. Banking groups tend to rely on their U.K.-based
+activities to lower costs and maximize efficiency gains in their balance sheets.14 As a result, U.K.
+subsidiaries of most foreign banks tend to have higher leverage ratios than their group on a
+consolidated basis, with the only exception of Germany (i.e., Deutsche Bank) in our sample (see chart
+below). These results support a global role for the U.K. system to act as a liquidity provider and
+conduit for financial acceleration.
+
+12
+
+Throughout the analysis, leverage is defined as (Total assets) over (Total shareholders’ equity). Total capital rather
+
+than Tier I capital is used given lack of uniform and complete data on the latter. Banks’ coverage varies across charts
+due to different data availability for on- and off-balance sheet definitions, as specified in the relevant footnotes to
+the figures.
+13
+
+Recently released figures for 2010 for some of the banks in sample confirm these results.
+
+14
+
+See note III, “The Role of the U.K. in SIFI business models”.
+
+INTERNATIONAL MONETARY FUND 17
+
+UNITED KINGDOM 2011 SPILLOVER REPORT—SUPPLEMENTARY INFORMATION
+
+120
+
+Figure 4. Leverage Ratios of U.K.-based Subsidiaries of Foreign
+Banks, 2005-2009 1/
+120
+
+Germany
+
+United States
+100
+
+100
+
+Consolidated
+UK-based Subsidiaries
+
+80
+
+80
+
+60
+
+60
+
+40
+
+40
+
+20
+
+20
+
+0
+
+0
+2005
+
+2006
+
+120
+
+2007
+
+2008
+
+2009
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2008
+
+2009
+
+2008
+
+2009
+
+120
+
+Japan
+
+Switzerland
+
+100
+
+100
+
+80
+
+80
+
+60
+
+60
+
+40
+
+40
+
+20
+
+20
+
+0
+
+0
+2005
+
+2006
+
+120
+
+2007
+
+2008
+
+2009
+
+2005
+
+2006
+
+120
+
+Canada
+
+100
+
+100
+
+80
+
+80
+
+60
+
+60
+
+40
+
+40
+
+20
+
+20
+
+0
+
+2007
+
+Spain
+
+0
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2005
+
+2006
+
+2007
+
+1/ Leverage defined as (Total assets)/(Total Capital). Sample includes Canadian banks (RBC, TD
+Bank), German Banks (Deutsche Bank), Japanese banks (Daiwa, Mitsubishi UFJ, Nomura), Spanish
+banks (Santander), Swiss banks (Credit Suisse), and US banks (American Express, Capital One,
+Goldman Sachs, JP Morgan/Citigroup, Merrill Lynch/Bank of America, Morgan Stanley).
+Sources: Bankscope; and Fund staff own estimates.
+
+18
+
+INTERNATIONAL MONETARY FUND
+
+UNITED KINGDOM 2011 SPILLOVER REPORT—SUPPLEMENTARY INFORMATION
+
+VI. A VAR ANALYSIS OF REAL AND FINANCIAL
+SPILLOVERS FROM THE U.K
+
+15
+
+31.
+
+An analysis of the impulse response functions from a Structural Vector Autoregression
+
+(SVAR) is used to gauge the relative importance of real and financial spillovers from the U.K.
+The Bui-Bayoumi (2010) methodology exploits the reduced uncertainty during the “great
+moderation period” (1980–2007) to estimate the contemporaneous correlations for the SVAR.16 The
+sample of countries includes the U.K., U.S., Euro Area, and Japan, as well as a “rest-of-the-world”
+group including small industrial countries and representative emerging markets to control for
+contemporaneous global developments. Results vary depending on the selected estimation period:
+
+
+During the great moderation period, growth shocks from the U.K. appear to be
+concentrated on the euro area, with a contained impact on other countries. The
+accumulated impulse response functions (IRFs Figure 5) show a long-lasting impact on the
+euro area—with a one standard deviation increase in U.K. real GDP (of about 0.5 percent of
+GDP) raising output in the euro area by almost 0.2 percent at the end of a two-year horizon.
+However, shocks to other major countries tend to be small and short-lived.
+
+15
+
+Prepared by T. Bui and M. Goretti (SPR), based on Bayoumi, T. and Bui, T. (2010), Deconstructing the International
+
+Business Cycle: Why Does a U.S. Sneeze Give the Rest of the World a Cold? IMF WP/10/239, October.
+16
+
+The analysis builds on the identification method in Rigobon, R. (2003), Identification through Heteroskedasticity,
+
+The Review of Economics and Statistics, Vol. 85 (4), pp. 777–792.
+
+INTERNATIONAL MONETARY FUND 19
+
+UNITED KINGDOM 2011 SPILLOVER REPORT—SUPPLEMENTARY INFORMATION
+
+Figure 5. (Accumulated) Impulse Responses of Real GDP to 1-s.d. Structural Shock
+(Red-dashed lines are 95-pct confidence interval including both A-matrix and VAR estimates uncertainty;
+Blue dotted lines are 95-pct confidence interval including VAR estimates uncertainty only)
+(1970Q1 – 2007Q4)
+1.5
+1
+0.5
+0
+-0.5
+-1
+
+(1970Q1 2010Q4)
+1.5
+1
+0.5
+0
+-0.5
+-1
+
+U.S.
+
+1
+
+2
+
+3
+
+1.5
+
+4
+
+5
+
+6
+
+7
+
+8
+
+1
+
+1
+
+0.5
+
+0.5
+
+0
+
+0
+
+-0.5
+
+-0.5
+2
+
+3
+
+1.5
+1
+0.5
+0
+-0.5
+-1
+
+4
+
+5
+
+6
+
+7
+
+2
+
+3
+
+1.5
+
+4
+
+1
+
+5
+
+6
+
+7
+
+3
+
+1
+
+2
+
+3
+
+1.5
+
+U.K.
+
+0.5
+
+0.5
+
+0
+
+4
+
+5
+
+6
+
+7
+
+8
+
+4
+
+5
+
+6
+
+7
+
+8
+
+5
+
+6
+
+7
+
+8
+
+5
+
+6
+
+7
+
+8
+
+5
+
+6
+
+7
+
+8
+
+Japan
+
+8
+
+1
+
+4
+
+U.K.
+
+0
+1
+
+2
+
+3
+
+1
+
+4
+
+5
+
+6
+
+7
+
+8
+
+1
+
+2
+
+3
+
+1
+
+ROW
+
+0.5
+
+4
+
+ROW
+
+0.5
+
+0
+
+0
+
+-0.5
+
+-0.5
+
+-1
+
+-1
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+Growth spillovers by Channels
+(average over 2-year after shock)
+
+8
+
+1
+
+0.8
+0.6
+0.4
+0.2
+
+10
+8
+6
+4
+2
+
+0
+Trade
+
+Financial
+
+Commodity
+
+INTERNATIONAL MONETARY FUND
+
+2
+
+3
+
+4
+
+Bond Market Spillovers
+(10-year bond yield, 2000-2009, weekly, eop)
+
+Basis points
+
+1
+
+Percent of Output
+
+2
+
+1.5
+1
+0.5
+0
+-0.5
+-1
+
+1
+
+20
+
+3
+
+Euro Area
+
+8
+
+Japan
+
+1
+
+2
+
+1.5
+
+Euro Area
+
+1
+
+1
+
+U.S.
+
+0
+
+UNITED KINGDOM 2011 SPILLOVER REPORT—SUPPLEMENTARY INFORMATION
+
+During period of financial stress growth shocks from the U.K. tend to generate more
+
+
+
+wide-spread and longer-lasting spillovers through financial channels. The inclusion of
+the 2008–10 crisis in the estimation period amplifies the role of the U.K., with a 0.6 percent
+shock to U.K. real GDP leading to long-lasting growth spillovers to all major countries (of
+about 0.4 percent of GDP).17 A decomposition of the shocks between trade, commodities,
+and financial channels shows that the bulk of the growth spillovers from the U.K. during this
+period stem from the financial sector. Nevertheless, the size of the shocks is also subject to
+higher uncertainty during stress periods, as exemplified by wider confidence bands for the
+contemporaneous correlation matrix, especially for Europe and Japan.
+The bond market is identified as an important channel of financial spillovers,
+
+
+
+consistently with the large share of international bond trading that takes place in the
+U.K. SVAR results for 10-year government bond yields—applying the traditional Rigobon
+identification method over 2000–2009 at weekly frequency—point to a significant role of the
+U.K., with sizable and long-lasting shocks: more than 50 percent of the initial yield shock in
+the U.K. spills over to euro area yields, and to a smaller extent to the U.S. and Japan. These
+results are consistent with the U.K.’s importance as a global bond trading center, accounting
+for an estimated 70 percent of global secondary trading in international bonds (especially
+for euro-denominated securities). Similar results for the equity market, while significant,
+point to smaller and shorter-lived shocks.
+
+VII. NON-FINANCIAL SECTOR SPILLOVERS
+
+18
+
+32.
+
+Spillovers from the U.K. economy stemming from outside the financial sector are
+
+heavily weighted toward smaller non-systemic economies. Spillovers through trade and
+remittances are likely to be small given that the U.K. (even if the world’s fifth largest economy)
+accounts for only 4 percent of global output, 3½ percent of global trade, and 2½ percent of global
+
+17
+
+Outward spillovers from the U.S. dominate the “great moderation” period, while they are comparable in size to
+
+spillovers from the U.K. once the global crisis time window is included, despite the different relative size of the two
+economies due to the amplified financial channel in the latter.
+18
+
+Prepared by Francis Vitek and Gavin Gray.
+
+INTERNATIONAL MONETARY FUND 21
+
+UNITED KINGDOM 2011 SPILLOVER REPORT—SUPPLEMENTARY INFORMATION
+
+remittances flows. However, the U.K. economy can have a more sizable bilateral effect on a handful
+of countries—mainly former British colonies—that remain reliant on U.K. export markets, or
+countries in Sub-Saharan Africa for whom it is the largest source of remittances.
+33.
+
+Growth spillovers to the other S5 economies are moderate and concentrated on the
+
+euro-area in normal times, with longer-lasting effects only during periods of stress. A onestandard deviation shock to U.K. output affects Euro-Area output by 0.2 percent over a two-year
+horizon; shocks to the U.S. and Japan are even smaller. However, the shocks intensified during the
+global crisis, operating through financial channels to all major countries. Financial shocks from the
+U.K. stem from both equity and bond markets, although the latter dominates, reflecting the large
+share of international bond trading in the U.K. (See Note VI).
+34.
+
+The spillovers from the U.K. to other G20 economies also appear moderate. A structural
+
+macroeconometric model19 involving international trade and financial linkages is used to derive the
+impulse responses to a range of shocks in the U.K (supply, demand, monetary policy, term premium,
+and equity risk premium). The peak
+impulse responses of output, based
+
+Average Peak Impulse Response (Relative to United Kingdom)
+
+on an average of these shocks, tend
+to increase with geographical
+proximity to the U.K., and are larger
+for financial shocks than for real
+shocks. The highest dependence is
+exhibited by Germany and France,
+reflecting their strong trade and
+financial linkages, although there is
+also some impact on South Africa (see
+
+Less than 0.05
+
+0.05 to 0.10
+
+0.15 to 0.20
+
+Greater than 0.20
+
+0.10 to 0.15
+
+figure).
+35.
+
+Spillovers could be much greater to a disparate group of mainly small economies that
+
+are heavily dependent on trade with the U.K, but for which model results are unavailable
+(Figure 6). Examples (with the share of their exports targeted at the U.K.) include the following:
+
+19
+
+Vitek, F. (2010), Monetary policy analysis and forecasting in the Group of Twenty: A panel unobserved components
+
+approach, International Monetary Fund Working Paper, 152.
+
+22
+
+INTERNATIONAL MONETARY FUND
+
+UNITED KINGDOM 2011 SPILLOVER REPORT—SUPPLEMENTARY INFORMATION
+
+Small European economies: Ireland (18 percent) and Iceland (14 percent). While 26 percent
+
+
+
+of Norway’s exports are also directed to the U.K., this may include oil and gas products that
+are relatively invariant to demand conditions in the U.K.
+Former U.K. colonies (middle income): Mauritius (32 percent), Seychelles (24 percent), and
+
+
+
+St Lucia (16 percent).
+Former U.K. colonies (low income countries): Gambia (11 percent) and Kenya
+
+
+
+(11 percent).
+
+Figure 6. Exports to the U.K. (in percent of total)
+
+VIII. SPILLOVERS FROM A SOVEREIGN DEBT SHOCK
+
+20
+
+36.
+
+This note presents simulation results for sovereign debt stress scenarios originating in
+
+the U.K. and featuring alternative degrees of financial market contagion. These simulation
+results are generated with a refined version of the structural macroeconometric model of the G20
+
+20
+
+Prepared by Francis Vitek (SPR)
+
+INTERNATIONAL MONETARY FUND 23
+
+UNITED KINGDOM 2011 SPILLOVER REPORT—SUPPLEMENTARY INFORMATION
+
+documented in Vitek (2010) (see Figures 7, 8, and 9).21 A similar exercise was performed in the other
+spillover reports on advanced economies. It does not reflect a judgment of likelihood of any of the
+scenarios examined.
+37.
+
+The first scenario assumes an episode of sovereign debt stress contained within the
+
+U.K. A sudden loss of confidence in fiscal sustainability in the U.K. is represented by a positive term
+premium shock, which in isolation would raise long-term nominal interest rates in the U.K. by
+450 basis points on impact. Heightened risk aversion also afflicts its stock market, represented by a
+positive equity risk premium shock, which in isolation would reduce U.K. equity prices by 60 percent
+on impact. Finally, loss of confidence by households and firms causes them to postpone
+consumption and investment expenditures, decreasing domestic demand by 1 percent, while a fiscal
+consolidation by the government reduces it by a further 2 percent. This contained episode is
+estimated to generate weighted average peak output losses of 3.6 percent in the U.K., of 0.1 percent
+in other advanced economies, and of 0.1 percent in emerging economies.
+38.
+
+Under the second scenario, heightened risk aversion in the U.K. spreads to bond and
+
+stock markets worldwide. This scenario augments our first scenario with term premium shocks,
+which raise long-term nominal interest rates in all other advanced economies by 30 basis points,
+and all emerging economies by 45 basis points. In addition, equity risk premium shocks reduce
+equity prices in all other advanced economies by 5 percent, and all emerging economies by
+7½ percent. Finally, loss of confidence decreases domestic demand in all other economies by
+0.2 percent, while fiscal consolidation reactions reduce it by a further 0.2 percent in other
+advanced economies. This contagious sovereign debt shock is estimated to generate weighted
+average peak output losses of 3.8 percent in the U.K., of 0.7 percent in other advanced economies,
+and of 0.6 percent in emerging economies.
+39.
+
+The third scenario combines bond and stock market collapses worldwide with a run on
+
+sterling. It augments the second scenario with an exchange rate risk premium shock, which in
+isolation would depreciate the pound by 30 percent in nominal effective terms on impact. The
+implied real effective appreciation pressure on other currencies is disinflationary, raising the scope
+for monetary policy loosening to mitigate output losses in affected economies. This contagious
+21
+
+Vitek, F. (2010), Monetary policy analysis and forecasting in the Group of Twenty: A panel unobserved components
+
+approach, International Monetary Fund Working Paper, 152. The calibration of the impact of the sovereign debt
+shock on U.K. and other markets is based on empirical studies for the United States, scaled by the relative size of the
+relevant financial markets.
+
+24
+
+INTERNATIONAL MONETARY FUND
+
+UNITED KINGDOM 2011 SPILLOVER REPORT—SUPPLEMENTARY INFORMATION
+
+sovereign debt shock is estimated to generate weighted average peak output losses of 3.3 percent
+in the U.K., of 0.7 percent in other advanced economies, and of 0.6 percent in emerging economies.
+40.
+
+In all the scenarios, the model probably underestimates the overall fallout from
+
+sovereign debt stress, as it does not take into account the impact on bank balance sheets.
+
+Figure 7. Peak Output Losses
+4.0
+3.5
+3.0
+
+Percent
+
+2.5
+2.0
+1.5
+1.0
+0.5
+0.0
+United Kingdom
+
+Other Advanced Economies
+Scenario 1
+
+Scenario 2
+
+Emerging Economies
+
+Scenario 3
+
+INTERNATIONAL MONETARY FUND 25
+
+UNITED KINGDOM 2011 SPILLOVER REPORT—SUPPLEMENTARY INFORMATION
+
+Figure 8. Impulse Responses for a Representative Advanced Economy
+
+Output
+
+0.3
+0.2
+0.1
+0.0
+-0.1
+-0.2
+-0.3
+-0.4
+-0.5
+-0.6
+
+0.4
+0.2
+0.0
+Percent
+
+Percent
+
+Consumption Price Inflation
+
+-0.2
+-0.4
+-0.6
+-0.8
+-1.0
+
+0
+
+4
+
+8
+
+Scenario 1
+
+12
+
+Scenario 2
+
+16
+
+20
+
+0
+
+Scenario 3
+
+Scenario 1
+
+8
+
+12
+
+Scenario 2
+
+16
+
+20
+
+Scenario 3
+
+Long Term Nominal Interest Rate
+
+0.3
+0.2
+0.1
+0.0
+-0.1
+-0.2
+-0.3
+-0.4
+-0.5
+-0.6
+-0.7
+
+0.8
+0.6
+0.4
+Percent
+
+Percent
+
+Short Term Nominal Interest Rate
+
+0.2
+0.0
+-0.2
+-0.4
+-0.6
+
+0
+
+4
+
+Scenario 1
+
+8
+
+12
+
+Scenario 2
+
+16
+
+0
+
+20
+
+Scenario 3
+
+Percent
+
+Scenario 1
+
+4
+
+8
+
+12
+
+Scenario 2
+
+8
+
+12
+
+Scenario 2
+
+16
+
+20
+
+Scenario 3
+
+Nominal Effective Exchange Rate
+
+4.0
+2.0
+0.0
+-2.0
+-4.0
+-6.0
+-8.0
+-10.0
+-12.0
+-14.0
+0
+
+4
+
+Scenario 1
+
+Equity Price Index
+
+Percent
+
+4
+
+16
+
+20
+
+Scenario 3
+
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0.0
+-0.1
+-0.2
+0
+
+4
+
+Scenario 1
+
+8
+
+12
+
+Scenario 2
+
+16
+
+20
+
+Scenario 3
+
+Note: These impulse responses are output weighted averages across the nine advanced economies under
+consideration.
+
+26
+
+INTERNATIONAL MONETARY FUND
+
+UNITED KINGDOM 2011 SPILLOVER REPORT—SUPPLEMENTARY INFORMATION
+
+Figure 9: Impulse Responses for a Representative Emerging Economy
+Output
+
+0.4
+0.3
+0.2
+0.1
+0.0
+-0.1
+-0.2
+-0.3
+-0.4
+-0.5
+
+0.4
+0.2
+Percent
+
+Percent
+
+Consumption Price Inflation
+
+0.0
+-0.2
+-0.4
+-0.6
+-0.8
+
+0
+
+4
+
+Scenario 1
+
+8
+
+12
+
+Scenario 2
+
+16
+
+20
+
+0
+
+Scenario 3
+
+Scenario 1
+
+12
+
+Scenario 2
+
+16
+
+20
+
+Scenario 3
+
+0.6
+
+0.4
+0.3
+0.2
+0.1
+0.0
+-0.1
+-0.2
+-0.3
+-0.4
+-0.5
+-0.6
+
+0.4
+Percent
+
+Percent
+
+8
+
+Long Term Nominal Interest Rate
+
+Short Term Nominal Interest Rate
+
+0.2
+0.0
+-0.2
+-0.4
+-0.6
+
+0
+
+4
+
+Scenario 1
+
+8
+
+12
+
+Scenario 2
+
+16
+
+20
+
+0
+
+Scenario 3
+
+Percent
+
+Scenario 1
+
+4
+
+8
+
+12
+
+Scenario 2
+
+8
+
+12
+
+Scenario 2
+
+16
+
+20
+
+Scenario 3
+
+Nominal Effective Exchange Rate
+
+6.0
+4.0
+2.0
+0.0
+-2.0
+-4.0
+-6.0
+-8.0
+-10.0
+-12.0
+0
+
+4
+
+Scenario 1
+
+Equity Price Index
+
+Percent
+
+4
+
+16
+
+20
+
+Scenario 3
+
+0.4
+0.2
+0.0
+-0.2
+-0.4
+-0.6
+-0.8
+-1.0
+-1.2
+-1.4
+0
+
+4
+
+Scenario 1
+
+8
+
+12
+
+Scenario 2
+
+16
+
+20
+
+Scenario 3
+
+Note: These impulse responses are output weighted averages across the 11 emerging economies under
+consideration.
+
+INTERNATIONAL MONETARY FUND 27
+
+UNITED KINGDOM 2011 SPILLOVER REPORT—SUPPLEMENTARY INFORMATION
+
+IX. UPSTREAM VULNERABILITY EXPOSURE TO U.K.
+BANKS
+
+22
+
+41.
+
+Upstream exposure is a summary measure of a borrowing country’s exposure to
+
+rollover risk in the event of a crisis in its creditor countries. It captures the risks from both direct
+cross-border lending from banks in upstream creditor countries, as well as lending by foreign
+affiliates funded by creditor countries’ parent banks. It does so by combining consolidated banking
+statistics (compiled by the BIS) with bank-level data.
+42.
+
+A borrowing country j’s upstream exposure is defined as:
+
+Upstream Exposure j  Cross border claims ij  Local claims ij * (1  Min (deposit loan _ ratio ij ,1)
+where: Crossborde r claims ij captures the BIS level of direct cross-border claims from country i on
+country j; Local claims ij the BIS level of affiliates’ claims of parent banks from country i on country
+j; and 1  Min ( deposit loan _ ratio ij ,1) proxies the proportion of loans that are not financed by
+local consumer deposits.
+43.
+
+The higher the deposit to loan ratio, the lower is the share of local claims financed by
+
+parent bank resources (or wholesale financing, which is implicitly assumed to be correlated
+with the parent bank problems). If affiliates’ bank level data are unavailable, the borrowing
+country’s national deposit-to-loan ratio is used to widen the sample. Using affiliates’ total assets
+minus local deposits as a proxy for how much lending by affiliates is funded by their parent banks
+produces similar results—especially among developing countries—but would severely limit country
+coverage (e.g. individual bank-level data on branches is not reported in many countries).
+44.
+
+Financial centers (e.g. Hong Kong, Luxemburg, and Cyprus) and some other EU
+
+countries (e.g. Ireland, Netherlands, and Belgium) were the most exposed countries (relative
+to GDP) to a shock in the U.K. domestic banking system as of September 2010 (see Figure 10).
+22
+
+28
+
+Prepared by Eugenio Cerutti (RES)
+
+INTERNATIONAL MONETARY FUND
+
+UNITED KINGDOM 2011 SPILLOVER REPORT—SUPPLEMENTARY INFORMATION
+
+A similar picture emerges (see Figure 11) if exposure is expressed instead relative to host country
+banking assets, although this approach also highlights higher exposures in some developing
+economies.
+Figure 10. Upstream Exposure to U.K. Banks (in percent of GDP), September 2010
+
+Figure 11. Upstream Exposure to U.K. Banks (in percent of bank assets), September 2010
+
+INTERNATIONAL MONETARY FUND 29
+
+UNITED KINGDOM 2011 SPILLOVER REPORT—SUPPLEMENTARY INFORMATION
+
+X. ASSESSMENT OF SPILLOVERS FROM THE U.K.
+BASED ON CONDITIONAL DISTRESS PROBABILITIES
+
+23
+
+45.
+
+This note uses market spreads to analyze the spillovers from financial distress in U.K.
+
+banks. The results are presented in a heat-map showing the sensitivity of banks in other countries
+(both developed and emerging markets) to developments in the U.K. The sample consists of banks
+from the following countries: France, Germany, Italy, Netherlands, Spain, Brazil, China, Hungary,
+India, Japan, Korea, Russia, Turkey, and the U.S. One major bank from each country (apart from the
+U.K.) is used.
+46.
+
+Spillovers are measured by averages of estimated Conditional Probabilities of Distress
+
+(CoPoD) in banks given distress in five U.K. banks24. The CoPoDs are estimated using linear and
+non-linear dependence between CDS spreads25. Averages of CoPoDs from January 2010 to early
+2011 are used, which covers a period of market turmoil for many European sovereigns and banks
+(particularly in the Euro-Area). Distress is defined as a (hypothetical) credit event that triggers CDS
+contracts26. For example, if the CoPoD in Bank A given distress in Bank B is 0.5, CDS market prices
+indicate that there is a 50 percent probability of a (hypothetical) credit event in Bank B being
+followed by a credit event in Bank A. CoPoDs therefore represent the market’s assessment of
+potential spillovers through channels such as direct exposure to governments and banks,
+deleveraging or market confidence. CoPods do not convey any information on the direction of
+contagion or causation of distress.
+
+23
+
+Prepared by Gavin Gray, Siret Dinc, Mohamed Norat, and Malika Pant.
+
+24
+
+The U.K. banks included in the model comprise Barclays, HSBC, Lloyds, RBS, and Standard Chartered.
+
+25
+
+The CoPoDs are estimated as in Segoviano (2006), “Consistent Information Multivariate Density Optimizing
+
+Methodology,” Financial Markets Group, London School of Economics, Discussion Paper 557, Segoviano (2006), “The
+Conditional Probability of Default Methodology,” Financial Markets Group, London School of Economics, Discussion
+Paper 557, and Segoviano and Goodhart (2009), “Banking Stability Measures,” IMF Working Paper, WP/09/04.
+26
+
+A credit event could be a default or a restructuring in which bondholders are forced to bear losses. The mapping
+
+from CDS spreads to probabilities of distress assumes a fixed recovery rate of 40 percent given distress.
+
+30
+
+INTERNATIONAL MONETARY FUND
+
+UNITED KINGDOM 2011 SPILLOVER REPORT—SUPPLEMENTARY INFORMATION
+
+Bank-to-Bank Spillovers
+47.
+
+The estimated spillovers from U.K. banks are large, but concentrated on Europe (see
+
+Figure 12). The largest distress spillovers would fall on banks in the Euro-Area, Hungary, and
+Turkey. Spillovers to Latin American, Asian, and the U.S. banking systems are smaller but still sizable.
+The most internationally oriented U.K. banks (HSBC, Standard Chartered, and Barclays) have the
+strongest impact on other banks, while the impact from more domestically oriented institutions (RBS
+and Lloyds) is understandably more muted.
+Figure 12. Conditional Probability of Distress of Banks Given U.K. Banks
+(Average) Falls in Distress
+
+Average Conditional Probability of Distress
+
+Above 0.4
+0.2 to 0.4
+Below 0.2
+Not covered
+
+XI. CONTRIBUTION OF THE U.K. TO “COMMON RISK”
+IN GLOBAL FINANCIAL MARKETS
+
+27
+
+48.
+
+This note develops a methodology for assessing the impact of U.K. financial markets
+
+on global risk perceptions, and concludes that its impact is significant. As the world has
+become globalized, financial assets have become increasingly correlated and influenced by
+27
+
+Prepared by Silvia Sgherri (SPR).
+
+INTERNATIONAL MONETARY FUND 31
+
+UNITED KINGDOM 2011 SPILLOVER REPORT—SUPPLEMENTARY INFORMATION
+
+unobservable global “common factors”, also known as “risk commonalities”. Overall, the U.K. is
+estimated to contribute up to 20 percent of changes in risk commonalities, a similar effect to that of
+the Euro Area albeit smaller than that of the U.S. While the U.K. interbank and stock market have
+significant effects, corporate bond spreads appear less significant.
+49.
+
+The methodology relies on principal component analysis, which is used to estimate the
+
+extent to which unobservable shifts in common risk factors contribute to observed changes in
+asset-specific expected returns. As international investors react to shocks by rebalancing their
+portfolios in asset markets that would otherwise be unrelated, any change in investors’ willingness
+to bear risk—or any common shock—is deemed to raise the co-movement across asset returns. By
+assuming that risk premiums embedded in selected asset yield differentials are determined jointly in
+the market and influenced by both asset-specific factors and a common factor, the latter component
+can be identified and stripped out. In other words, if there is an increase in the (risk-neutral)
+probability of default for all assets considered—which is likely to have happened during the global
+financial crisis—this would likely be picked up in the principal component, along with shifts in
+investors’ attitude toward risk.
+50.
+
+The contribution of U.K. asset markets to the estimated common risk component is
+
+gauged by adding up the contribution to the common risk component of all asset markets in the
+region. The analysis also permits an assessment of the extent of volatility spillovers from individual
+U.K. asset markets across borders and across markets, once we abstract from “risk commonalities”.
+51.
+
+The analysis relies on the set of risk premiums embedded in the following yield
+
+differentials:
+
+
+U.S. asset-backed commercial paper (versus the 3-month U.S. Treasury bond yield);
+
+
+
+3-month U.S. dollar, euro, sterling, and yen London interbank offered rates (versus their
+corresponding overnight index swap rates);
+
+
+
+U.S., euro-area, U.K., and Japanese high-yield financial and industrial corporate bonds
+(versus their respective benchmark 10-year government bond yields);
+
+
+
+U.S., euro-area, U.K., and Japanese equities (whose implied risk is computed as the earnings
+price ratio versus their respective benchmark 10-year government bond yields);
+
+
+
+10-year sovereign bonds (over Bunds) for peripheral euro-area countries (including Greece,
+Ireland, Portugal, and Spain);
+
+
+
+Asia, Europe, and Latam emerging markets bonds (whose implied risk is given by their
+global EMBI+ spread versus the 10-year U.S. Treasury bond yield).
+
+32
+
+INTERNATIONAL MONETARY FUND
+
+UNITED KINGDOM 2011 SPILLOVER REPORT—SUPPLEMENTARY INFORMATION
+
+52.
+
+The estimated unobserved factor indicates that the common risk component ratcheted
+
+up sharply during Spring 2010 (see Figure 13) as sovereign pressures in peripheral European
+countries intensified. But the rise in risk commonalities was not as severe as it had been during the
+Lehman bankruptcy. 28
+Figure 13. Measuring Risk Commonalities: Alternative Proxies
+(basis points, LHS; index, RHS)
+250
+
+90
+
+200
+
+72
+
+150
+
+54
+
+100
+
+36
+
+50
+
+18
+
+0
+Aug-07
+
+Feb-08
+
+Aug-08
+
+Feb-09
+
+Aug-09
+
+Estimated common component (PCA), LHS
+
+53.
+
+Feb-10
+
+Aug-10
+
+0
+Feb-11
+
+VIX index, RHS
+
+The analysis suggests that U.K. financial markets have played a non-negligible role in
+
+transmitting financial shocks to the rest of the world. In particular, the U.K. is estimated to
+contribute to one-fifth of the changes in risk commonalities—which is smaller than the contribution
+from the U.S., but broadly in line with the one of the Euro Area and the emerging markets.
+
+28
+
+The importance of risk commonalities varies over time, being greater at time of generalized stress in financial
+
+markets. On average, over the sample August 2007–February 2011, risk commonalities are found to explain about
+one-third of the total volatility for the portfolio considered.
+
+INTERNATIONAL MONETARY FUND 33
+
+UNITED KINGDOM 2011 SPILLOVER REPORT—SUPPLEMENTARY INFORMATION
+
+54.
+
+The U.K. interbank and stock market seem to be characterized by significant volatility
+
+spillovers vis-à-vis corresponding asset markets in the U.S. and—to a lesser extent—the Euro
+Area. Specifically, while “raw” cross-market correlations (blue bars in the charts below) indicate that
+“observed” volatility co-movements across assets and borders tend to be widespread, an
+examination of cross-correlations of spreads where the common risk component has been stripped
+out (red bars) reveals that specific volatility to the U.K. interbank and equity markets is more likely to
+spread across corresponding markets in the U.S. and the Euro Area than across different markets
+(with the exception, perhaps, of spillovers between the interbank markets and the U.S. asset-backed
+commercial paper, see Figures 14 and 15). This seems also to confirm the existence of effective
+hedging positions in EMBI+ bond markets vis-à-vis stock market risk in the U.K., the U.S., and the
+Euro Area.
+
+34
+
+INTERNATIONAL MONETARY FUND
+
+UNITED KINGDOM 2011 SPILLOVER REPORT—SUPPLEMENTARY INFORMATION
+
+Figure 14. Conditional Correlations vs U.K. Interbank Market Spreads
+-0.3
+
+-0.2
+
+-0.1
+
+0
+
+0.1
+
+0.2
+
+0.3
+
+-0.3
+
+-0.2
+
+-0.1
+
+0
+
+0.1
+
+0.2
+
+0.3
+
+US Interbank Mkt
+EA Interbank Mkt
+US ABCP Mkt
+JP Interbank Mkt
+JP Equity Mkt
+JP Ind Corporate
+JP Fin Corporate
+UK Fin Corporate
+EA Ind Corporate
+UK Equity Mkt
+EA Equity Mkt
+EA Fin Corporate
+US Fin Corporate
+EMBI+ Asia
+US Ind Corporate
+EA Periph. Sover.
+UK Ind Corporate
+EMBI+ Europe
+US Equity Mkt
+EMBI+ Latam
+
+Conditional Correlations of Spreads with Common Risk Stripped out
+
+Conditional Correlations of Raw Spreads
+
+Figure 15. Conditional Correlations vs U.K. Equity Risk Premiums
+US Equity Mkt
+
+'
+
+EA Equity Mkt
+
+'
+
+-0.4
+
+-0.3
+
+-0.2
+
+-0.1
+
+0
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+0.5
+
+0.6
+
+-0.4
+
+-0.3
+
+-0.2
+
+-0.1
+
+0
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+0.5
+
+0.6
+
+JP Fin Corporate '
+JP Ind Corporate '
+EA Fin Corporate '
+EA Periph. Sover.'
+JP Interbank Mkt '
+UK Interbank Mkt '
+UK Ind Corporate '
+EA Ind Corporate '
+US Interbank Mkt '
+EA Interbank Mkt '
+US ABCP Mkt
+
+'
+
+US Fin Corporate '
+UK Fin Corporate '
+JP Equity Mkt
+
+'
+
+US Ind Corporate '
+EMBI+ Latam
+
+'
+
+EMBI+ Asia
+EMBI+ Europe
+
+'
+'
+
+Conditional Correlations of Spreads with Common Risk Stripped Out
+
+Conditional Correlations of Raw Spreads
+
+INTERNATIONAL MONETARY FUND 35
+
+UNITED KINGDOM 2011 SPILLOVER REPORT—SUPPLEMENTARY INFORMATION
+
+55.
+
+By contrast, volatility spillovers from the U.K. financial corporate bond market to the
+
+rest of the world appear limited (see Figure 16). Once the common risk component is stripped
+out, specific volatility spillovers from the U.K. financial corporate bond market are likely to be felt
+only in the bond market of U.K. non-financial corporations, signaling only an interrelation in the
+perceived riskiness of the two domestic bond markets.
+Figure 16. Conditional Correlations vs U.K. Financial Corporate Bond Spreads
+-0.3
+
+-0.2
+
+-0.1
+
+0
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+0.5
+
+0.6
+
+0.7
+
+0.8
+
+-0.3
+
+-0.2
+
+-0.1
+
+0
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+0.5
+
+0.6
+
+0.7
+
+0.8
+
+UK Ind Corporate '
+JP Fin Corporate '
+EA Ind Corporate '
+UK Interbank Mkt '
+JP Interbank Mkt '
+EA Fin Corporate '
+US ABCP Mkt
+
+'
+
+JP Ind Corporate '
+EA Periph. Sover.'
+EA Interbank Mkt '
+UK Equity Mkt
+
+'
+
+JP Equity Mkt
+
+'
+
+EA Equity Mkt
+
+'
+
+EMBI+ Asia
+
+'
+
+US Interbank Mkt '
+US Equity Mkt
+
+'
+
+EMBI+ Latam
+EMBI+ Europe
+
+'
+'
+
+US Fin Corporate '
+US Ind Corporate '
+
+Conditional Correlations of Spreads with Common Risk Stripped Out
+
+Conditional Correlations of Raw Spreads
+
+XII. CROSS BORDER MARKET IMPACT OF LIQUIDITY
+POLICY ANNOUNCEMENTS: EVENT STUDIES
+
+29
+
+56.
+
+The potential for regulatory changes on liquidity in the U.K. materially impacted
+
+market prices of SIFIs and instruments they use to facilitate global intermediation. Event
+studies suggest that announcements on changes in U.K. regulation on liquidity standards coincided
+29
+
+36
+
+Prepared by Karim Youssef (SPR).
+
+INTERNATIONAL MONETARY FUND
+
+UNITED KINGDOM 2011 SPILLOVER REPORT—SUPPLEMENTARY INFORMATION
+
+with sharp reactions in the value of traded equity instruments of global systemically important
+banks. Moreover, while commonly used proxies for funding pressures did not immediately react, the
+price of hedging cross currency exposures—another indication of market funding pressures—rose
+sharply.
+57.
+
+Markets reacted to U.K. announcements on liquidity regulation by punishing SIFIs with
+
+universal and investment banking business models. The average price to book value of SIFIs
+with a universal and investment banking business model relative to their home country index fell
+sharply on key dates coinciding with U.K. announcements on liquidity. On the other hand, the
+reaction of equity prices of commercial banks was not as pronounced. An interpretation of this is
+that markets viewed changes in U.K. policy on liquidity as having a materially negative impact on the
+business models of those banks with business models that rely significantly on the U.K. to efficiently
+pool and allocate liquidity on a global scale (see Figure 17.).
+58.
+
+Some indicators of U.S. dollar funding pressures exhibited sharp reactions to U.K.
+
+announcements. While LIBOR-OIS, a common proxy indicator of liquidity risk, did not immediately
+react to announcements on changes in U.K. regulation on liquidity standards, the cost of employing
+the so-called butterfly strategy to hedge against sharp movements in the exchange rate moved
+sharply (see Figure 18.). This is indicative of a rise in market’s fear that sharp movements in
+exchange rates will directly impact their ability to continue accessing cross currency based funding
+sources (see text Box).
+
+INTERNATIONAL MONETARY FUND 37
+
+UNITED KINGDOM 2011 SPILLOVER REPORT—SUPPLEMENTARY INFORMATION
+
+Figure 17. Price to Book Value Relative to Domestic Stocks
+Index
+
+110%
+105%
+100%
+95%
+90%
+85%
+80%
+75%
+August-09
+
+September-09
+
+October-09
+
+Universal Banks
+
+Investment Banks
+
+January-10
+Retail Banks
+
+Figure 18. Euro and Sterling /USD Hedging Indicate Excess
+Risks
+
+60%
+
+30
+
+55%
+
+25
+
+50%
+
+20
+
+45%
+
+15
+
+40%
+
+10
+
+35%
+
+5
+
+30%
+August-09
+
+/1
+September-09
+
+Euro-USD Butterfly
+/1
+/2
+/3
+/4
+
+38
+
+November-09 December-09
+
+October-09
+
+/2
+
+/3
+
+November-09 December-09
+
+GBP-USD Butterfly
+
+/4
+January-10
+
+USD Libor-OIS (rhs in basis points)
+
+Oct. 5 & 9, 2009 Initial FSA Policy Statement on Liquidity and Conf erence on Liquidity
+Oct. 22, 2009 FSA publishes study on cumulative impact of Liquidity ref orm
+Dec. 1, 2009 New Liquidity regime comes into ef f ect
+Jan. 13, 2010 FSA Letter to CEO's detailing Firm Liquidity Risk Management requirements
+
+INTERNATIONAL MONETARY FUND
+
+0
+
+UNITED KINGDOM 2011 SPILLOVER REPORT—SUPPLEMENTARY INFORMATION
+
+Box 1: Alternative Measures of Cross-Currency Funding Risk
+In the absence of market distress or excess uncertainty, the price of borrowing U.S. dollars in
+the short-term funding markets can be gauged by observing USD Libor fixings. However,
+anecdotal evidence suggests that in the wake of the crisis, Libor fixings have become less indicative
+of the actual price of borrowing. As a result, commonly used indicators of liquidity risk such as the
+spread between Libor and OIS may not be as informative as they once were. By implication, it
+becomes a necessity to uncover alternative ways of gauging liquidity risk.
+A simple deconstruction of the Libor-OIS relationship (why the spread indicates funding
+pressure) implies that the relationship between domestic rates and Libor should remain close
+to parity (~ 10 basis points). By extension this parity can be translated into a relationship
+between the pricing of short-term funding and interest-rate parity between currency pairs. As such,
+an alternative to an outright short term borrowing contract underpinned by a Libor fixing, can be a
+currency swap agreement with an implicitly priced “borrowing rate” premium to account for
+valuation changes along with other embedded risks. For example a U.S. dollar—Euro currency swap
+will normally mean that the swap payer (i.e. the party receiving liquidity upfront in exchange for
+periodic payments of rate changes over time) is long U.S. dollar cash and short EUR/USD exchange
+rate risk.
+Normally, this type of transaction is a hedging vehicle; however, when a currency swap is
+used as a funding vehicle it requires a hedging instrument of its own. FX options can easily fill
+this role. One particular option based strategy allows a discounted if not costless hedging of FX risk
+embedded in the currency swap, namely an FX butterfly. The butterfly allows the party exposed to
+exchange rate risk to mitigate large movements in a given currency pair.
+
+INTERNATIONAL MONETARY FUND 39
+
+UNITED KINGDOM 2011 SPILLOVER REPORT—SUPPLEMENTARY INFORMATION
+
+XIII. AN ESTIMATE OF THE OUTPUT COST OF
+REGULATORY REFORM
+
+30
+
+59.
+
+Figure 19. Peak output losses
+
+One approach to estimating the
+0.25
+
+negative impact on short-run activity of
+increased capital requirements or
+
+0.20
+
+econometric model. Using such an
+approach, based on an extended and
+
+Percent
+
+lending spreads is to use a macro0.15
+
+0.10
+
+refined version of the model in Vitek (2009),
+suggests peak output losses from a 1
+percent increase in capital requirements, or
+an increase in lending spreads of 12 basis
+points, range between 0.04 and 0.06
+
+0.05
+
+0.00
+United Kingdom
+Two Years
+
+Other Advanced
+Economies
+
+Four Years
+
+Six Years
+
+Emerging Economies
+Eight Years
+
+percent for advanced economies (reflecting their dependence on credit provided by U.K.-based
+banks), and 0.04 to 0.05 percent for emerging markets (see Figure 19). While the U.K. has strong
+financial links to the U.S., Germany, and France, the impact on the latter two economies is larger,
+suggesting that their more bank-based financial systems will suffer a greater impact from regulatory
+reform.
+60.
+
+The simulations in this note are derived from an extended version of a macro-
+
+econometric model of the world economy, disaggregated into its 15 largest economies (Vitek,
+2009). These scenarios abstract from monetary policy and assume that effects of the increase in
+capital requirements are transmitted exclusively via a permanent increase in the spread between
+commercial bank lending and deposit rates (calibrated at a 0.12 percent increase in the interest rate
+spread per 1 percent increase in capital requirement31). The negative impact on the U.K. economy
+spills over to other economies via trade and exchange rate linkages. To capture cross-border bank
+
+30
+
+Prepared by Alvaro Piris and Francis Vitek (SPR).
+
+31
+
+This follows the work reported by the Macroeconomic Assessment Group “Final report: Assessing the
+
+Macroeconomic Impact of the Transition to Stronger Capital and Liquidity Requirements”, BIS, December 2010. FSA
+estimates for the U.K. are marginally lower (by less than one basis point).
+
+40
+
+INTERNATIONAL MONETARY FUND
+
+UNITED KINGDOM 2011 SPILLOVER REPORT—SUPPLEMENTARY INFORMATION
+
+lending channels, increases in lending spreads are imposed on the other economies proportionally
+to the share of credit provided by U.K.-incorporated banks.
+61.
+
+A binding one percent increase in capital adequacy requirements (or equivalent rise in
+
+lending spreads) in the U.K. is estimated to generate a peak output loss of 0.19 to
+0.24 percent in the U.K., depending on the speed of implementation. In other advanced
+economies, the estimated weighted average peak output loss ranges between 0.04 and
+0.06 percent, reflecting their dependence on credit provided by U.K. incorporated banks (see
+Figure 20). In emerging economies, this peak output loss ranges between 0.04 and 0.05 percent,
+reflecting their trade openness and managed exchange rate regimes.
+Figure 20. Impulse Responses of Output to a Capital Adequacy Requirement Increase
+United States
+
+0.2
+
+0.2
+
+0.2
+
+0.1
+
+0.1
+
+0.1
+
+0.0
+
+Percent
+
+0.3
+
+0.0
+
+0.0
+
+-0.1
+
+-0.1
+
+-0.1
+
+-0.2
+
+-0.2
+
+-0.2
+
+-0.3
+
+-0.3
+0
+
+4
+
+8
+
+12
+
+16
+
+20
+
+24
+
+28
+
+32
+
+36
+
+40
+
+-0.3
+0
+
+4
+
+8
+
+12
+
+Germany
+
+16
+
+20
+
+24
+
+28
+
+32
+
+36
+
+40
+
+0
+0.3
+
+0.2
+
+0.2
+
+0.2
+
+0.1
+
+0.1
+
+0.1
+
+0.0
+
+Percent
+
+0.3
+
+0.0
+-0.1
+
+-0.1
+
+-0.2
+
+-0.2
+
+-0.2
+
+-0.3
+
+-0.3
+8
+
+12
+
+16
+
+20
+
+12
+
+24
+
+28
+
+32
+
+36
+
+40
+
+16
+
+20
+
+24
+
+28
+
+32
+
+36
+
+40
+
+24
+
+28
+
+32
+
+36
+
+40
+
+0.0
+
+-0.1
+
+4
+
+8
+
+China
+
+0.3
+
+0
+
+4
+
+Japan
+
+Percent
+
+Percent
+
+France
+
+0.3
+
+Percent
+
+Percent
+
+United Kingdom
+0.3
+
+-0.3
+0
+
+4
+
+8
+
+12
+
+16
+
+20
+
+24
+
+28
+
+32
+
+36
+
+40
+
+0
+
+4
+
+8
+
+12
+
+16
+
+20
+
+Note: Depicts the impulse responses of output to a binding one percent capital adequacy requirement
+increase in the United Kingdom implemented over a two year ■, four year ■, six year ■, and eight year
+■ period.
+
+62.
+
+While the effects are modest, simulations for other economies in the model also yield
+
+small impacts. The U.K. impact is, in fact, disproportionately large considering its relative size in
+GDP or trade flows: while U.K. GDP is about a sixth of U.S. GDP, the impact of a capital increase on
+other economies in the sample is over 60 percent of the U.S. impact for other advanced economies
+and over 70 percent for emerging markets (see figure below). For comparison, and while somewhat
+understated by exclusion of the bank lending channel from the model for this simulation, the Euro
+area has a smaller effect (it lies to the right of the diagonal). Using trade flows rather than GDP as a
+benchmark yields a similar conclusion with respect to the U.K.
+
+INTERNATIONAL MONETARY FUND 41
+
+UNITED KINGDOM 2011 SPILLOVER REPORT—SUPPLEMENTARY INFORMATION
+
+150
+125
+100
+US
+75
+UK
+
+50
+25
+
+Euro
+area
+
+0
+0
+
+25
+
+50
+
+75
+
+100
+
+125
+
+Relative impact on emerging markets of a one
+percent increase in capital requirements
+Impact of capital increase as a percent of US
+
+Impact of capital increase as a percent of US
+
+Relative impact on other advanced economies of a
+one percent increase in capital requirements
+
+150
+125
+100
+
+US
+UK
+
+75
+
+Euro
+area
+
+50
+25
+0
+0
+
+GDP as a percent of US GDP
+
+63.
+
+25
+
+50
+75
+100
+125
+GDP as a percent of US GDP
+
+These results are subject to a number of caveats. Firstly, the model does not allow for
+
+changes in bank behavior, that may cause them to retrench further in activities or countries
+perceived as “noncore” to save capital. It also does not capture the effects of competition in
+moderating the impact of a capital increase on lending spreads (though this concern may be
+lessened by the fact that banks in many countries will be applying the new rules in parallel), or that
+market conditions for bank capital and funding will change over time and have a (possibly much
+larger) impact on lending spreads. If higher capital were to induce investors to accept lower returns
+on equity, lending spreads would not have to rise as much (see Admati et al, 2011, although market
+interlocutors were skeptical this mechanism would operate).32 The model operates through standard
+macroeconomic relationships, and thus does not model bank behavior or balance sheets, or capture
+other aspects of the transmission of financial shocks.
+64.
+
+As noted elsewhere, macroeconomic channels may be relatively unimportant in the
+
+case of the U.K. For example, while raising lending spreads is one channel through which banks
+may react to increased capital requirements, they may also more directly restrict the quantity of new
+lending, which could have an even larger effect on credit supply and economic activity. Using a
+bank-by-bank approach, Francis and Osborne (2009) find that a 1 percent increase in capital
+requirements in 2002 would have reduced lending (total risk-weighted assets) by 1.2 (2.4) percent
+32
+
+Admati, A.R., P.M. De Marzo, M.F. Hellwig and P. Pfleiderer, “Fallacies, Irrelevant Facts, and Myths in the Discussion
+
+of Capital Regulation: Why bank Equity is Not Expensive”, available at:
+http://www.gsb.stanford.edu/news/research/admati.etal.html
+
+42
+
+INTERNATIONAL MONETARY FUND
+
+UNITED KINGDOM 2011 SPILLOVER REPORT—SUPPLEMENTARY INFORMATION
+
+after four years, although they do not estimate the impact on economic activity.33 Finally, possible
+effects on long-run aggregate supply are not captured by the model. These may be small, implying
+that modest short-run impact could be counteracted by easier monetary policy, and that costs will
+be outweighed by benefits in terms of increased financial stability.34
+
+33
+
+Francis, W. and M. Osborne, “Bank Regulation, Capital and Credit Supply: Measuring the Impact of Prudential
+
+Standards”, FSA Occasional Paper no. 36, September 2009.
+34
+
+See for example Angelini, P., L. Clerc, V. Cúrdia, L. Gambacorta, A. Gerali, A. Locarno, R. Motto, W. Roeger, S. Van
+
+den Heuvel and J. Vlček, “BASEL III: Long-term impact on economic performance and fluctuations”, BIS Working
+Paper no. 338, February 2011.
+
+INTERNATIONAL MONETARY FUND 43
+
+

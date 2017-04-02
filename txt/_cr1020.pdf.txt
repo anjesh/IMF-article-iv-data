@@ -1,0 +1,2678 @@
+© 2010 International Monetary Fund
+
+January 2010
+IMF Country Report No. 10/20
+
+Former Yugoslav Republic of Macedonia: Selected Issues for the
+2009 Article IV Consultation
+This paper was prepared based on the information available at the time it was completed on
+November 30, 2009. The views expressed in this document are those of the staff team and do not
+necessarily reflect the views of the government of Former Yugoslav Republic of Macedonia or the
+Executive Board of the IMF.
+The policy of publication of staff reports and other documents by the IMF allows for the deletion of
+market-sensitive information.
+
+Copies of this report are available to the public from
+International Monetary Fund ● Publication Services
+700 19th Street, N.W. ● Washington, D.C. 20431
+Telephone: (202) 623-7430 ● Telefax: (202) 623-7201
+E-mail: publications@imf.org ● Internet: http://www.imf.org
+
+International Monetary Fund
+Washington, D.C.
+
+INTERNATIONAL MONETARY FUND
+FORMER YUGOSLAV REPUBLIC OF MACEDONIA
+Selected Issues
+Prepared by Geoffrey Gottlieb (EUR), Gabriela Dobrescu (FAD),
+and Ferhan Salman (SPR)
+Approved by Wes McGrew
+November 30, 2009
+
+Contents
+
+Page
+
+I. Assessment of Reserve Adequacy in Macedonia ...................................................................2
+A. Introduction ...............................................................................................................2
+B. Popular Measures and Cross-Country Approach to Reserve Adequacy ...................3
+C. Model-Based Approach to Reserve Adequacy .........................................................6
+D. Conclusion ................................................................................................................7
+II. Framework for Assessing Monetary Policy in Macedonia ...................................................9
+A. Introduction ...............................................................................................................9
+B. Monetary Policy as a Choice in a Fixed Exchange Rate Regime .............................9
+C. A Framework for Deciding the Monetary Stance Under a Fixed
+Exchange Rate .....................................................................................................11
+D. Conclusions and Policy Considerations ..................................................................15
+III. A Medium-Term Fiscal Framework for FYR Macedonia .................................................20
+A. Cyclical Behavior of Fiscal Balances .....................................................................20
+Methodology ....................................................................................................21
+Results for Macedonia .....................................................................................22
+B. Medium-Term Fiscal Sustainability ........................................................................23
+Cross-country comparisons..............................................................................24
+Empirical studies ..............................................................................................25
+Model-based approaches ..................................................................................25
+Financing Costs ................................................................................................26
+References ................................................................................................................................28
+
+2
+I. ASSESSMENT OF RESERVE ADEQUACY IN MACEDONIA1
+A. Introduction
+1.
+This chapter seeks to assess the desired level of foreign exchange reserves in
+Macedonia given its commitment to maintain the exchange rate peg. This is an important
+question as it is a key consideration in setting the stance of monetary policy. A variety of
+methods including popular rules of thumb, comparisons with other emerging countries
+(EMs), and model based estimates suggest a target range of €1.5–2 billion for reserves.
+2.
+Reserves coverage has been stable in the course of the last decade (except for a
+brief period during the civil unrest in
+10
+2000−01). On average, reserves were
+Reserves in Months of Imports
+9
+sufficient to meet 5 months of imports
+(2000-09)
+8
+including the period of large current
+7
+account deficits of 2007 and 2008.
+Entering the crisis in the fall of 2008,
+6
+international reserves were
+5
+€1.7 billion. By May 2009 they had
+4
+fallen to a low point of below
+3
+€1.2 billion as the central bank sold
+Reserves to Imports
+2
+€500 million to defend the peg.
+Benchmark
+1
+Reserves recouped much of their
+Average
+0
+losses over the summer and fall and
+1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009
+are expected to end the year at
+Source: NBRM and IMF staff estimates.
+somewhat over €1.4 billion.
+3.
+The remainder of the chapter is organized as follows. Section B looks at reserve
+levels that would be implied by popular rules of thumb and at benchmarks suggested by other
+emerging market countries (both pegged and floating rate regimes).2 The rules of thumb are
+based primarily on current and capital accounts and monetary aggregates. Section C focuses
+on a model-based approach to reserve adequacy based on Jeanne and Ranciere (2006), and
+section D concludes.
+
+1
+2
+
+By Ferhan Salman (SPR).
+
+The cross-country comparisons are based on a sample of 51 emerging markets, including 22 with de facto
+pegs.
+
+3
+B. Popular Measures and Cross-Country Approach to Reserve Adequacy
+4.
+The most popular current account based rule of thumb is that a country should
+maintain reserves at a minimum of three months of prospective imports. This provides a
+buffer in the event of a sudden drop in export revenues or loss of access to external financing.
+Macedonia meets this three-month rule, but falls short of the emerging market median for
+import coverage. It is expected to end 2009 with reserves at close to 4 months of imports of
+goods and services. However, this falls short of the emerging market median of 6 months. It
+fares somewhat better compared to the subset of emerging markets with pegged exchange
+rates, where the median level is 5.7 months coverage.
+Reserves to Imports (2009)
+All EM 1/
+
+12
+Median
+
+10
+
+Rule of Thumb (3 months of imports)
+
+8
+6
+4
+2
+
+ECU
+DO
+PAK
+LKA
+VNM
+JAM
+PAN
+CRI
+EST
+SLV
+CZE
+LTU
+MKD
+MEX
+POL
+BIH
+GTM
+ZAF
+TUR
+TUN
+HUN
+CHL
+HRV
+KAZ
+UKR
+EGY
+IDN
+MAR
+ARM
+VEN
+MYS
+RO
+JOR
+LVA
+PHL
+COL
+KOR
+BGR
+URY
+ISR
+SRB
+THA
+IND
+ARG
+
+0
+
+Source: IMF Staff Calculations
+1/ Except Peru, Lebanon, Iceland, Brazil, Russia, China, Algeria (ratio over 10).
+
+Reserves to Imports (2009)
+Fixed ER Regimes 1/
+
+8
+
+Median
+Rule of Thumb (3 months of imports)
+
+7
+6
+5
+4
+3
+2
+1
+
+BGR
+
+LVA
+
+JOR
+
+VEN
+
+MAR
+
+EGY
+
+UKR
+
+KAZ
+
+HRV
+
+BIH
+
+MKD
+
+LTU
+
+SLV
+
+EST
+
+CRI
+
+PAN
+
+VNM
+
+DOM
+
+ECU
+
+0
+
+Source: IMF staff calculations.
+1/ Except Lebanon, China, and Russia.
+
+5.
+Macedonia falls short of the “Greenspan-Guidotti rule,” which says that a
+country should maintain full coverage of short-term debt at remaining maturity.3 The
+100 percent cover ratio would require Macedonia to hold €1.6 billion in reserves, compared
+to the €1.4 billion expected at end-2009. The median reserve coverage of short-term debt
+3
+
+On separate occasions in 1999, Argentinean Deputy Finance Minister Pablo Guidotti and later in the year
+Alan Greenspan, the Fed chairman, indicated this ratio in their remarks on reserve adequacy. Bussière and
+Mulder (1999) provided empirical support for this rule.
+
+4
+among emerging markets is 190 percent. For Macedonia to match this median level would
+require reserves of €3 billion. However, Macedonia is closer to the median coverage ratio of
+150 percent among emerging market peggers.
+Reserves to Short-Term Debt (Remaining Maturity, 2009)
+All EM 1/
+
+5
+4
+
+Median
+Rule of Thumb (100 % coverage)
+
+3
+2
+1
+
+IND
+
+PER
+
+RUS
+
+PAK
+
+THA
+
+JAM
+
+MYS
+
+VNM
+
+BIH
+
+BRA
+
+PHL
+
+COL
+
+VEN
+
+MEX
+
+DOM
+
+IDN
+
+SRB
+
+KAZ
+
+LKA
+
+TUN
+
+CHL
+
+ZAF
+
+URY
+
+SLV
+
+CRI
+
+ARG
+
+GTM
+
+UKR
+
+HUN
+
+MKD
+
+TUR
+
+HRV
+
+POL
+
+ROM
+
+LTU
+
+BGR
+
+ECU
+
+LVA
+
+LBN
+
+EST
+
+0
+
+Source: IMF staff calculations
+1/ Except Egypt, Morocco, Panama, Jordan, Armenia, China, Algeria (ratio over 5).
+
+Reserves to Short-Term Debt (Remaining Maturity, 2009)
+Fixed ER Regimes \1
+
+5
+4
+
+Median
+Rule of Thumb (100 % coverage)
+
+3
+2
+
+RUS
+
+VNM
+
+BIH
+
+VEN
+
+DOM
+
+KAZ
+
+SLV
+
+CRI
+
+UKR
+
+MKD
+
+HRV
+
+BGR
+
+LTU
+
+LBN
+
+LVA
+
+EST
+
+0
+
+ECU
+
+1
+
+1\ Except Panama, Egypt, China, Morocco, Jordan
+Source: IMF Staff Calculations
+
+6.
+Macedonia compares favorably to other emerging markets in reserve coverage
+of broad money. Coverage of broad money is considered relevant because of the potential
+for deposit outflows by residents. There is no generally accepted view on the desired
+coverage ratio of broad money. Wjinholds and Kapteyn (2001) suggested a range from 5 to
+20 percent as a “minimum” threshold for this ratio. The lower end of the ratio is considered
+appropriate for flexible exchange rate regimes and the upper for fixed exchange rate regimes.
+On this measure, Macedonia’s 45 percent coverage is well above the median of 34 percent
+among the emerging market sample and 32 percent among emerging market pegged regimes.
+
+5
+
+Reserves to Broad Money (2009)
+
+0.9
+0.8
+0.7
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0.0
+
+Median
+
+PAK
+PAN
+ECU
+ZAF
+VNM
+MEX
+LKA
+DOM
+EGY
+BRA
+MAR
+CRI
+IND
+TUR
+VEN
+CHN
+COL
+SLV
+LBN
+IDN
+MYS
+POL
+GTM
+TUN
+HRV
+EST
+JOR
+CHL
+BIH
+JAM
+UKR
+LTU
+THA
+LVA
+KAZ
+MKD
+ARG
+URY
+ROM
+HUN
+BGR
+PHL
+RUS
+PER
+SRB
+ARM
+
+Rule of Thumb
+
+Source: IMF Staff Calculations
+1\ Except Algeria
+
+Reserves to Broad Money (2009)
+Fixed ER Regimes
+
+0.7
+Median
+Rule of Thumb
+
+0.6
+0.5
+0.4
+0.3
+0.2
+
+RUS
+
+BGR
+
+MKD
+
+KAZ
+
+LVA
+
+LTU
+
+UKR
+
+BIH
+
+JOR
+
+EST
+
+HRV
+
+LBN
+
+SLV
+
+CHN
+
+VEN
+
+CRI
+
+MAR
+
+EGY
+
+DOM
+
+VNM
+
+PAN
+
+0.0
+
+ECU
+
+0.1
+
+Source: IMF Staff Calculations
+
+7.
+Macedonia’s reserve coverage ratios relative to benchmarks and to other
+emerging markets are expected to remain fairly stable over the medium term. These
+comparisons are based on WEO projections (and updated staff projections for Macedonia).
+
+6
+
+Reserves to Imports
+
+7
+
+0.5
+
+6
+
+Reserves to Broad Money
+
+0.4
+
+5
+4
+
+0.3
+
+3
+
+0.2
+
+2
+
+Macedonia
+Emerging Market Median
+Rule of Thumb (3 months of imports)
+
+1
+
+Macedonia
+
+0.1
+
+Emerging Market Median
+Rule of Thumb
+
+0
+
+0.0
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2008
+
+Reserves to Short-Term Debt
+(Remaning Maturity)
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+Reserves to Short-Term Debt (Remaning
+Maturity) + Current Account Deficit
+
+2.0
+
+1.6
+
+1.6
+
+1.2
+
+1.2
+
+0.8
+0.8
+Macedonia
+Emerging Market Median
+Rule of Thumb (100 % coverage)
+
+0.4
+
+0.4
+
+Macedonia
+Emerging Market Median
+
+0.0
+
+0.0
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+Source: WEO and IMF Staff Calculations
+
+C. Model-Based Approach to Reserve Adequacy
+8.
+There are several models in the recent literature that seek to find the desired
+reserve level by solving an optimization problem. These models typically postulate both
+benefits of holding reserves (such as reducing probability of crisis and smoothing
+consumption in a crisis) and costs. Cabellero and Panageas’s (2004) model focuses on the
+real costs of a sudden stop of capital flows that significantly constrains current consumption.
+Garcia and Soto (2004) assumes that reserves affect the probability of a crisis as well as the
+cost of a crisis in a setting where the policy maker is risk neutral. Aizenman and Lee’s (2005)
+empirical results support the precautionary motives of holding reserves.
+9.
+This section uses the Jeanne and Ranciere (2006) framework, based on welfare
+maximization in a small open economy that is vulnerable to sudden stops in capital
+flows. In this model, risk averse policy makers choose the level of reserves to maximize the
+utility of consumers. When a sudden stop occurs, external debt cannot be rolled over and
+output falls below its long-run growth path. More reserves mitigate the fall in output and
+smooth consumption. However, there is a cost to holding reserves, since they yield a lower
+return than other assets in the economy. In this model, the optimal level of reserves is
+
+7
+determined by the size and probability of the sudden stop, the potential loss in output and
+consumption, the opportunity cost of holding reserves, and the degree of risk aversion.
+10.
+Based on this model, the optimal level of reserves for Macedonia is calibrated to
+be 27 percent of GDP, or €1.8 billion. This is around €400 million above the projected level
+of reserves at end-2009.
+D. Conclusion
+11.
+Although there is no unambiguous answer to what reserve level Macedonia
+should target, popular and model-based measures suggest a range of €1.5−2 billion. The
+different benchmarks looked at in this paper suggest a minimum of €1.1 billion and a
+maximum of €3 billion. Leaving out the extreme values of these benchmarks would suggest
+that a range of €1.5−2 billion would be appropriate for Macedonia.
+Table 1. Suggested Level of Reserves
+(In billions of euros)
+Import Coverage
+
+3-months of imports
+EM Median
+
+1.11
+2.0
+
+Reserves to Short-term debt
+
+100 percent
+EM Median
+
+1.6
+3.0
+
+Reserve to Broad Money
+
+EM Median
+
+1.1
+
+Model Based
+1/ Based on 2008 level of imports
+
+1.8
+
+8
+
+Box 1: Sensitivity Analysis
+Baseline parameters for calibration are taken from the recent data on Macedonia and emerging
+markets. The size of the sudden stop is assumed to be 31 percent of GDP, which is the sum of the
+projected 2009 current account deficit (9.5 percent of GDP) and short-term debt at remaining maturity
+(21 percent of GDP). The probability of a sudden stop (8 percent) and a cumulative loss in output
+(6.5 percent) are taken from Jeanne and Rancier (2006) based on their analysis for an average middle
+income economy. The risk aversion parameter is assumed to be 4 percent, based on estimates in the
+literature.1/ The potential growth rate of 4 percent is the average growth rate of Macedonia in the past
+10 years, and the opportunity cost of reserves is 6 percent, based on average cost of domestic and
+external debt.
+The optimal level of reserves is sensitive to the choice of parameters. The charts below look at
+alternative scenarios with varying parameter values for the size of the sudden stop, sudden stop
+probability, the opportunity cost of holding reserves and risk aversion. The reserve to GDP ratio is on
+the vertical axis and the varying parameter values on the horizontal axis. The solid line lines
+represents the relationship between the parameters and the reserve level. The dashed line is the
+optimal reserve level calibrated with benchmark parameters.
+
+1/ Based on Salman’s (2005) median estimate.
+
+9
+II. FRAMEWORK FOR ASSESSING MONETARY POLICY IN MACEDONIA4
+A. Introduction
+12.
+This paper aims to outline a framework for assessing monetary policy in
+Macedonia. The paper suggests four key questions in determining the appropriate stance:
+first, what is the optimal level of reserves; second, what are the current dynamics in the
+balance of payments; third, what is the strength of monetary transmission; and fourth; what is
+the desired speed of adjustment.
+
+Box 1. Monetary Policy Guidelines in Macedonia
+The de jure primary target of monetary policy in Macedonia is price stability. Financial
+stability and economic policy are secondary de jure targets. Since October 1995, the nominal
+anchor has been a fixed exchange rate, first against the Deutsche Mark and then the Euro as of
+January 2002. The peg serves as an intermediate target for achieving the de jure goals listed
+above. The primary monetary instrument is the 28-day Central Bank bill. Other monetary and
+prudential instruments include reserve requirements on domestic and foreign currency
+liabilities, credit growth ceilings, the Lombard rate, and liquidity ratios.
+
+B. Monetary Policy as a Choice in a Fixed Exchange Rate Regime
+13.
+In the textbook case of a fixed exchange rate, monetary policy is ineffective. That
+is, any effort to increase the money supply (and reduce interest rates) beyond equilibrium
+levels puts downward pressure on the exchange rate through capital and current account
+outflows that swiftly return the money supply and interest rates to their original equilibrium.
+Persistence of excessively loose policies would quickly deplete reserves and undermine the
+peg.
+14.
+Imperfect capital mobility weakens the link, albeit only in the short run, between
+the monetary policy stance and reserves. Under these circumstances, a variety of policy
+stances can be sustained in the short run and the Central Bank has a degree of near-term
+policy autonomy. It also means that the job of the central bank may be harder, because time
+lags between monetary policy changes and reserve flows create uncertainty and provide room
+for public debate on the appropriate stance. This limited independence is likely to hold for
+Macedonia as well as in many other emerging markets.
+
+4
+
+Prepared by Geoff Gottlieb (EUR).
+
+10
+15.
+In Macedonia, this near-term autonomy can be observed in two respects. First,
+domestic interest rates diverge from foreign interest rates, in a way that cannot be readily
+accounted for by risk premia. That is, the gap between policy rates in Macedonia and Europe
+has continued to steadily rise throughout the crisis. Meanwhile, indicators of Macedonia
+specific risk, namely the spread of Macedonian Eurobonds over German bonds (country risk)
+has fallen steadily in 2009; meanwhile, exchange rate risk (the spread between denar and
+euro deposits) has widened much less than the spread between the central bank policy rate
+and the euribor rate. Such divergence suggests the interest rate parity condition is not
+perfectly enforced.
+12
+10
+
+Divergence of Domestic vs Foreign
+Monetary Policy Rates
+(Percent)
+
+8
+6
+
+MKD Cb Bill Rate
+
+4
+2
+
+Euribor
+
+0
+
+Jan-06 Oct-06
+
+12
+
+12
+
+10
+
+10
+
+8
+
+8
+
+6
+
+6
+
+4
+
+4
+
+2
+
+2
+
+0
+
+Jul-07
+
+Apr-08 Jan-09 Oct-09
+
+Country and Currency Risk
+(Percent)
+Mkd Eurobond
+spread over
+German bonds
+FX Risk: Denar depost rat es
+minus FX deposit rates
+
+0
+
+Jan-06
+
+Oct-06
+
+Jul-07
+
+Apr-08
+
+Jan-09
+
+Oct-09
+
+Source: Bloomberg; NBRM
+
+16.
+Second, base money does not automatically adjust with foreign exchange
+interventions as one would expect in a pure peg. The Central Bank uses net domestic
+assets (in particular, its own debt instruments) to sterilize flows and smooth liquidity
+conditions, allowing base money to grow broadly smoothly, basically in line with nominal
+GDP.
+17.
+Nonetheless, the choices made
+by monetary authorities in Macedonia
+and other fixed regimes must
+ultimately be consistent with the
+nominal anchor. Consistency means
+that reserves are adequate to maintain
+the credibility of the peg itself. While the
+monetary authority has latitude in the
+short term to set domestic rates, if it sets
+them too low sustained balance of
+payments outflows could deplete
+reserves and undermine the peg.
+
+120
+
+-120
+Central Bank Survey
+
+100
+
+-100
+
+80
+
+-80
+
+60
+
+NDA (RHS, Inverted)
+
+NFA, LHS
+
+-60
+
+40
+
+-40
+Base Money, LHS
+
+20
+
+0
+Jan-04
+
+-20
+
+0
+Dec-04
+
+Source: NBRM
+
+Nov-05
+
+Oct-06
+
+Sep-07
+
+Aug-08
+
+Jul-09
+
+11
+C. A Framework for Deciding the Monetary Stance Under a Fixed Exchange Rate
+18.
+To identify the appropriate monetary stance in a fixed exchange rate regime, one
+must address four key issues. First, what is a suitable level of reserves given the
+vulnerabilities facing that particular country? Second, what are the underlying balance of
+payments trends that govern the movement of reserves? These first two questions are
+essential for assessing the appropriate direction of monetary policy. Two further questions,
+which are more difficult to answer with precision, relate to the size and speed of any desired
+policy changes. Third, how much (and how fast) do reserves respond to changes in the
+monetary policy stance? And fourth, how quickly does the system need to adjust? This
+section will treat each question in turn.
+Optimal Level of Reserves
+19.
+The optimal reserve level is one that can absorb reasonably likely shocks to the
+current and capital accounts. Chapter One of the Selected Issues Paper suggests
+a €1.5−2 billion optimal reserve range based on a variety of metrics. The projected end-2009
+reserve level is somewhat below this range.
+Dynamics of the Balance of Payments
+20.
+The underlying flow of reserves is also critical for assessing monetary policy.
+This requires an evaluation of both current and capital account trends. Such an assessment is
+particularly difficult in light of current uncertainties about the global economy and financial
+system. Staff projects that reserves will be roughly steady over the next year before gradually
+rising (but remaining near 90 percent of short-term debt). However, this projection is subject
+to risk. In particular, the large current account deficit leaves Macedonia dependent on
+external financing and exposed to terms of trade and other capital account shocks. Moreover,
+key proxies for risk (currency substitution and the denar-Euro deposit spread) remain
+elevated, suggesting confidence levels have not fully recovered.
+
+12
+
+65
+
+60
+
+Deposit Currency Substitution and 220
+Total Deposits
+200
+total deposits
+(denars)
+
+55
+
+50
+
+FX deposits
+(percent of total,
+left hand scale)
+
+45
+
+10
+9
+8
+
+180
+
+7
+
+160
+
+6
+
+140
+
+5
+
+120
+100
+80
+
+40
+60
+Jan-04 Feb-05 Mar-06 Apr-07 May-08 Jun-09
+
+Nominal Deposit Rates and Spreads
+(Percent)
+
+Denar rate
+
+Denar rate minus FX rate
+
+4
+3
+2
+1
+0
+Dec-05
+
+FX rate
+Oct-06
+
+Aug-07
+
+Jun-08
+
+Apr-09
+
+Faling
+Rising
+
+Change in Reserves
+
+21.
+In sum, reserves are a) at the low end of the
+Level of Reserves
+target range and b) expected to be stable or to rise,
+Low
+High
+but are subject to high risks. The interplay between
+the level and the direction of change in reserves can
+Low, Falling
+High, Falling
+be illustrated with a simple decision matrix diagram.
+When reserves are high and rising, there is latitude to
+"MKD"
+ease without fear of impending risk. When reserves
+are low and falling, it is clear that a desire to maintain
+Low, Rising
+High, Rising
+the peg would imply tightening. But when reserves
+are in “intermediate” categories, the appropriate
+direction of monetary policy is subject to greater uncertainty. In staff’s view Macedonia’s
+reserve level and balance of payment outlook place it in a “somewhat low, and stable” (but
+subject to risks) position.
+Effectiveness of Monetary Transmission
+22.
+The level and direction of reserves indicate whether the central bank should
+tighten or loosen, but the extent of the needed change in policy instruments is a function of
+the efficacy of monetary transmission. The core part of monetary transmission relevant to
+exchange rate pegs is the process by which Central Bank policy tools can affect foreign
+exchange reserve levels by changing financial conditions and the real economy. Because of
+limited capital immobility, reserves are largely affected via the current account through the
+interest rate channel and the credit channel. The former channel relates to the impact of
+changes in the price of credit while the latter refers to the quantity of credit. Ideally, the
+central bank would be able to calibrate precisely how monetary policy changes are
+transmitted to reserves. In reality, it is very difficult to quantify this—in Macedonia or any
+other country.
+
+13
+23.
+There are many challenges to modeling the monetary transmission process in
+Macedonia. First, as with many emerging markets, Macedonia has a small financial sector,
+limiting the liquidity and depth of credit markets. Second, with a fixed exchange rate, the
+monetary authorities lose the exchange rate channel which is typically strong for emerging
+markets. Third, Macedonia is roughly 50 percent euroized and dual currency money supplies
+tend to be harder to control. And fourth, data series are short which limits the monetary
+authorities’ ability to model relationships among relevant variables.
+24.
+Despite this difficulty, it is apparent that the central bank’s tightening phase in
+2008−09 played a key role in slowing aggregate demand. One way to see this is in stylized
+charts showing policy instruments, lending rates, and credit growth. The tightening of the
+policy rate and reserve requirements contributed to a rise the denar lending rate which
+contributed to a sharp slowdown in credit growth. The research department of the NBRM has
+16
+14
+
+16
+
+Nominal Tightening Cycle
+(Percent)
+
+14
+
+Denar Lending Rate
+
+12
+
+10
+
+8
+
+8
+Policy Rate
+
+4
+
+2
+
+2
+
+0
+Dec-05
+
+Mar-07
+
+Jun-08
+
+Real Denar Lending Rate (LHS)
+
+Sep-09
+
+15
+20
+25
+30
+
+6
+
+4
+
+5
+10
+
+12
+
+10
+
+6
+
+0
+
+Real Interest Rates vs Credit Growth
+(Percent)
+
+35
+40
+
+Credit grow th
+(inverted, yoy)
+
+0
+Dec-05
+
+Mar-07
+
+45
+Jun-08
+
+50
+Sep-09
+
+done research on the strength of monetary transmission mechanisms. The focus of their work
+is the impact of the policy rate on market determined rates in the economy, including both
+the interbank rate and the denar lending rate. A core result of their work is that changes in the
+policy rate show up fully in the denar lending rate over 14−16 months. However, the
+transmission is gradual with only 2−3 percent of the rate change showing up in the lending
+rates in the first month. They do not look at the impact of changes in other policy tools (such
+as reserve requirements) nor do they investigate whether changes in market rates affect credit
+or output.
+25.
+To look at some of these relationships more quantitatively, we develop a vector
+autoregression model that measures the impact of changes in policy instruments (the
+central bank bill rate and the monetary base) on output as a proxy for the central bank's
+ability to influence reserve accumulation (Appendix). Due to a short time series and breaks in
+the data, it is difficult to discern strong relationships. The results suggest that changes in
+policy rates (NBRMR) have a statistically significant but small impact on lending rates
+
+14
+(DLR) and that changes in lending rates have a statistically significant but modest impact on
+output (LIP). Shocks to the quantity of loanable funds (the credit channel) were not found to
+have a statistically significant impact on output. However, a longer time series is necessary to
+verify this more fully.
+
+Desired Speed of Adjustment
+26.
+The final question in the framework for assessing the appropriate monetary
+stance involves deciding how aggressively the monetary authorities should adjust policy
+instruments. For any given efficacy of monetary transmission, the speed of tightening or
+loosening will always involve a tradeoff: a sharper contraction means faster reserve
+accumulation per the figure below but at a cost of weaker output.
+
+Hypothetical Adjustment Paths
+Reserves
+Optimal Reserve
+Level
+i+500bps
+
+i+300bps
+
+i+200bps
+
+i+100bps
+
+Current Reserve
+Level
+i-500
+
+i-300bps
+
+i-200bps
+
+i-100bps
+
+Note: trajectories are
+hypothetical
+
+time
+27.
+In weighing this tradeoff, there are two core considerations. First, what is the
+extent of peg vulnerability? Using the matrix cited earlier in this paper, it is critical to
+determine how low reserves are versus an optimal level and what direction the balance of
+payments pressures are in. If reserves are low and falling, the authorities must seek a more
+
+15
+aggressive speed of adjustment. Second, what are the potential unforeseen consequences of
+sharp adjustment? In the case of aggressive tightening, one potential negative consequence
+could be a destabilization of the financial sector. This could result both from direct exposure
+of banks to interest rates and indirect exposure through loan quality in the face of weaker
+growth.
+D. Conclusions and Policy Considerations
+28.
+Looking backward, applying the above framework to assess the NBRM’s
+response to the crisis is helpful and suggests the authorities responded well. First, the
+Central Bank had lost 30 percent of its reserves, reaching levels well below optimal using
+standard metrics. Second, the dynamics in the balance of payments suggested further reserve
+loss was possible given that imports were not adjusting and currency substitution continued.
+Both the level and direction of reserves suggested tightening was necessary. Third, the
+authorities know that monetary transmission is imperfect and thus used several measures to
+slow aggregate demand and reduce capital flight including higher policy rates, tighter reserve
+requirements, new liquidity requirements, and credit growth speed bumps. And fourth, the
+rapidity of the fall in reserves and distance from comfortable levels suggested that an
+aggressive policy response was needed.
+29.
+Looking forward, the framework suggests the authorities are getting closer to
+the position where it would be appropriate to begin easing, but are not there yet. First,
+reserves are still at the bottom end of the desired band. Second, they have flattened out and
+are projected to rise gradually over the medium term, but this outlook is still subject to
+considerable uncertainties.
+
+16
+Appendix: Empirical Results
+We examine the impact of changes in monetary policy instruments on output and prices
+using a vector autoregression analysis (VAR). The VAR approach is well suited for
+capturing the indirect effects common in monetary policy transmission because the current
+level of each endogenous variable depends on past movements of that variable and all other
+variables in the system.
+Our unrestricted VAR is given by 5
+Yt  A( L)Yt 1  B( L) Z t   t
+where Yt is a vector of endogenous variables and Z t is a vector of exogenous variables. In the
+baseline model, the vector of endogenous variables consists of industrial production y t as
+proxy for GDP, pt is consumer price index, and it is the CB bill rate. The ordering of the
+variables reflects the view that prices in transition economies are likely to adjust to shocks to
+policy variables more quickly than output; however, the results are robust to other orderings
+of the variables.
+Yt   y t , pt , it 
+Meanwhile, the vector of exogenous variables is given by
+
+ 
+
+Z t  pt*
+
+where pt* is the IMF commodity price index.
+In extensions of the model, we introduce different quantity and price instruments to the
+monetary transmission analysis. In terms of quantity, we test the impact of shocks to bank
+reserves and private sector credit on output and inflation. On prices, we introduce lending
+interest rates both to see the pass through of Central Bank instruments to lending rates and
+from lending rates to output and inflation.
+
+5
+
+Kuijs (2002) notes that many studies of monetary transmission in emerging markets use a structural VAR
+rather than the unrestricted VARs that are more common in advanced economy studies. This reflects the fact
+that the data sets often have short time series and an abundance of structural changes reducing the likelihood of
+finding meaningful relationships based purely on the data. This will be an area of for future work.
+
+17
+Data availability limits the study to monthly observations between December 2005 and
+October 2009 (81 observations). All data except for the interest rates are seasonally
+adjusted and put in log form. Because of the short time series and focus on impulse response
+over near term, the data is used in levels rather than first differences despite properties of
+nonstationarity. Lag length is selected using Akaike and Schwartz information criteria.
+
+Scenario 1:
+
+ 
+
+Yt   y t , pt , it 
+
+Yt  A( L)Yt 1  B( L) Z t   t
+
+Z t  pt*
+
+Scenario one includes only one policy instrument, namely the interest rate on Central Bank
+bills. In general, the results are consistent with intuition but not statistically significant. A
+hike in the policy rate results in lower output and lower price level.
+Response to Cholesky One S.D. Innovations ± 2 S.E.
+Response of LIP to NBRMR
+
+Response of LMCPI to NBRMR
+
+.010
+
+.002
+
+.005
+
+.001
+.000
+
+.000
+
+-.001
+-.005
+-.002
+-.010
+
+-.003
+
+-.015
+
+-.004
+
+-.020
+
+-.005
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+Scenario 2:
+Yt  A( L)Yt 1  B( L) Z t   t
+
+Yt   y t , p t , mt , it 
+
+ 
+
+Z t  pt*
+
+Now we add a second policy instrument in the form of the monetary base. Note that this
+includes both denar and euro reserves as Macedonia has a dual money supply. Again, the
+results are not statistically significant but generally conform to intuition. A positive shock to
+base money (via perhaps less than expected sterilization) results in an initially positive
+impact on both output and cpi.
+
+18
+
+Response to Cholesky One S.D. Innovations ± 2 S.E.
+Response of LIP to LBM
+
+Response of LMCPI to LBM
+
+.03
+
+.003
+.002
+
+.02
+
+.001
+.01
+.000
+.00
+-.001
+-.01
+
+-.002
+
+-.02
+
+-.003
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+Scenario 3
+In this scenario, we go back to the model from Scenario 1 (without base money) but add the
+denar lending rate ( lt ) ordered after the policy rate. This allows us to focus on the interest
+rate channel by looking at two dynamics: first, the impact of policy rates on financial
+conditions proxied by the level of lending rates and second, the impact of lending rates on
+agents decisions by looking at output and prices.
+
+Yt  A( L)Yt 1  B( L) Z t   t
+
+Yt   y t , pt , l t , it 
+
+ 
+
+Z t  pt*
+
+We see that a shock to the policy rate results in an immediate, positive, and persistent impact
+on denar lending rates. Further, we see that a positive shock to the denar lending rates has a
+rapid negative impact on output. Though both results are statistically significant, the size of
+the impact is negligible.
+
+19
+
+Appendix: Average Historical Data
+120
+
+120
+
+Real Effective Exchange Rate
+
+16
+
+100
+
+100
+
+16
+
+Ex Post Real Policy Rate
+
+14
+
+14
+
+12
+
+12
+
+10
+80
+
+80
+
+60
+
+60
+REER-CPI
+
+40
+
+REER-PPI
+
+40
+
+REER-ULC
+20
+
+20
+
+0
+
+0
+Q4-2004
+
+Q 1-2006
+
+Q2-2007
+
+8
+
+6
+
+4
+
+4
+
+2
+
+2
+
+0
+
+0
+
+-2
+
+-2
+
+-4
+
+-4
+
+12
+
+-6
+Jan-2003
+
+Jan-2005
+
+Jan-2007
+
+Jan-2009
+
+4
+
+14
+CPI
+(Percent, y/y)
+
+8
+
+6
+
+-6
+Jan-2001
+
+Q3-2008
+
+14
+
+10
+average: 5.4%
+
+4
+Current Account
+(Percent of GDP)
+
+12
+
+2
+
+10
+
+0
+
+0
+
+8
+
+-2
+
+-2
+
+6
+
+-4
+
+-4
+
+4
+
+4
+
+-6
+
+-6
+
+2
+
+2
+
+-8
+
+-8
+
+0
+
+0
+
+-10
+
+-2
+
+-2
+
+-12
+
+-4
+
+-14
+
+10
+8
+6
+
+average: 3%
+
+-4
+Jan-2001
+
+Jan-2003
+
+7
+
+Jan-2005
+
+Jan-2007
+
+Gross Reserves
+(in number of next years
+imports , actual data)
+
+6
+
+Jan-2009
+7
+6
+5
+
+4
+
+4
+average: 4.28 month s
+
+-10
+
+Average: 6.9%
+
+-12
+-14
+2001 2002 2003 2004 2005 2006 2007 2008 2009
+
+5
+
+3
+
+2
+
+3
+
+2
+
+2
+
+1
+
+1
+
+8
+7
+
+8
+
+Real G DP Growth
+(Quarterly, y/y)
+
+7
+
+6
+
+6
+
+5
+
+5
+
+4
+
+4
+
+3
+
+3
+
+2
+
+2
+
+1
+
+1
+
+0
+
+0
+Dec-2003
+
+Feb-2005
+
+Source:
+
+Apr-2006
+
+Jun-2007
+
+0
+Aug-2008
+
+0
+average: 3.4%
+
+-1
+
+-1
+
+-2
+Q1-2002
+
+-2
+Q4-2003
+
+Q3-2005
+
+Q2-2007
+
+Q1-2009
+
+20
+III. A MEDIUM-TERM FISCAL FRAMEWORK FOR FYR MACEDONIA6
+30.
+Fiscal policy should seek to satisfy both medium-term sustainability and shortterm macroeconomic management goals. The coherence of these two goals has become a
+global policy issue this year, as economic recessions have led to increased deficits and debt
+accumulation worldwide, including in the South East Europe region. This chapter provides a
+framework for assessing and guiding fiscal policy in Macedonia, focusing on two
+benchmarks: appropriate cyclically-adjusted fiscal stances and a prudent medium-term
+government debt ratio. It concludes that (1) the targeted fiscal stances for 2009-10 are
+appropriate from a cyclical perspective; and (2) it would be prudent to set medium-term
+public debt limits at around 25 percent of GDP.
+31.
+Other considerations are also relevant in assessing the fiscal response to a
+recession, including availability of financing and external sustainability. If the
+government lacks adequate financing, for instance due to undeveloped domestic debt
+markets, crowding out, or poor access to international markets, it may need to follow a more
+restrictive stance. External sustainability is another important consideration, especially under
+a fixed exchange rate regime, where allowing automatic stabilizers to work could hamper
+needed external adjustment.
+A. Cyclical Behavior of Fiscal Balances
+32.
+Disentangling the cyclical and discretionary components of fiscal balances is
+essential for assessing the appropriateness of policy from the perspective of demand
+management over the business cycle and fiscal sustainability.
+
+
+
+Allowing automatic fiscal stabilizers to work fully avoids adding to negative demand
+pressures during a downturn (e.g., by not cutting expenditures when a recession
+reduces tax revenues).
+
+
+
+Cyclically-adjusted balances also provide a measure of the underlying fiscal stance
+relevant for assessing sustainability, since with no policy change, the actual fiscal
+balance will converge to the structural balance once the temporary impact of the cycle
+passes.
+
+6
+
+Prepared by G. Dobrescu (FAD).
+
+21
+
+Methodology7
+33.
+Cyclical revenues are assumed to fluctuate with output and domestic absorption
+(Box 1), while expenditures are assumed to be entirely discretionary.8 This methodology (in
+particular the inclusion of
+absorption gaps) is
+Change in the Revenue to GDP Ratio, 2009 vs. 2008
+motivated by the fact that 1.0
+there were significant
+0.0
+pre-crisis current account -1.0
+deficits in Macedonia.
+-2.0
+These temporarily
+-3.0
+boosted absorption and
+-4.0
+indirect tax revenues,
+-5.0
+independently of trends
+-6.0
+in output. This year, the
+-7.0
+narrowing of current
+ALB
+BIH
+BLG
+ROM
+HRV
+MKD
+SRB
+MLD
+MNT
+account deficits in
+Source: WEO data, Oct. 2009.
+Macedonia (and across
+the region) appears to be one of the reasons that revenues have fallen more than output.
+34.
+To estimate the cyclical component of revenues, both output and absorption
+gaps are estimated. The
+output gap is calculated using
+FYR Macedonia: Evolution of Output and Absorption
+two filtering methods (HP and
+Gaps, 2006-11
+Baxter-King). The absorption
+15.0
+gap is calculated based on the
+output gap and the current
+10.0
+account gap (the difference
+between the actual current
+5.0
+account and its equilibrium
+value or “norm,” which is
+0.0
+estimated based on CGER
+2006
+2007
+2008
+2009
+2010
+2011
+methodologies). Indirect
+revenues (such as the VAT) are -5.0
+assumed to vary
+proportionately with
+-10.0
+Output gap (change)
+absorption, while direct
+Absorption gap (change)
+Source: IMF Staff estimates.
+revenues vary with output.
+7
+8
+
+This methodology is drawn from IMF Technical Note 09/05, IMF Country Report 07/390, OECD (2005).
+
+Cyclical fiscal expenditures usually refer to social benefits that vary with unemployment. The assumption that
+there is no cyclical variation in expenditures is based on the fact that social insurance programs are limited for
+countries in the South-East Europe region.
+
+22
+Results for Macedonia
+35.
+Fiscal policy was highly procyclical in Macedonia in 2008, as the primary
+balance fell by some 2 percent of GDP simultaneously with an absorption boom. In
+2009, the fiscal balance worsened, due largely to revenue declines associated with the
+economic slowdown. The 2009 cyclically adjusted fiscal stance is moderately contractionary,
+allowing almost full accommodation of automatic stabilizers. In the near-term (2010 and
+2011), automatic stabilizers decline as the economy returns to potential, and the discretionary
+fiscal stance based on announced fiscal targets remains moderately contractionary. The chart
+below shows the overlap of automatic stabilizers and structural fiscal impulses with the
+economic cycle in Macedonia over the period 2006 to 2011.
+Cyclical Behavior of Fiscal Balances in FYR Macedonia, 2006-11
+5.0
+
+(percent of potential output)
+
+4.0
+3.0
+2.0
+1.0
+0.0
+-1.0
+-2.0
+-3.0
+-4.0
+-5.0
+
+2006
+
+2007
+
+2008
+
+Automatic Stabilizers
+
+2009
+
+2010
+
+Fiscal impulse
+
+2011
+
+Output gap
+
+Source: IMF Staff estimates.
+
+FYR Macedonia: Cyclically-adjusted Fiscal Balances
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2010
+
+Primary fiscal balance
+Overall fiscal balance
+
+0.5
+-0.5
+
+1.5
+0.7
+
+-0.4
+-1.1
+
+-2.2
+-2.8
+
+-1.6
+-2.5
+
+-0.8
+-2.0
+
+Output gap
+Absorption gap
+
+-1.2
+-3.2
+
+-0.2
+3.9
+
+4.6
+14.8
+
+-0.4
+5.9
+
+-1.8
+3.2
+
+-0.6
+3.7
+
+Cyclical balance
+Cyclically-adjusted primary balance
+Cyclically-adjusted overall balace
+
+-0.7
+1.2
+0.2
+
+0.5
+1.0
+0.2
+
+2.8
+-3.2
+-3.9
+
+0.7
+-2.9
+-3.5
+
+0.1
+-1.8
+-2.7
+
+0.4
+-1.2
+-2.4
+
+Automatic stabilizers
+Fiscal impulse (primary balance)
+Fiscal impulse (overall balance)
+
+-0.5
+-0.2
+-0.3
+
+1.2
+-0.2
+0.0
+
+2.3
+-4.2
+-4.1
+
+-2.1
+0.3
+0.4
+
+-0.6
+1.1
+0.9
+
+0.3
+0.5
+0.3
+
+Source: IMF staff estimates.
+Note: Automatic stabilizers are the difference in the cyclical balance between the current and the previous year. The fiscal
+impulse is the difference in the cyclically-adjusted balance between the current and the previous year (a positive fiscal impulse
+means a cyclically-adjusted contraction). Cyclical adjustment of fiscal balances is done with respect to both output and
+absorption gaps as described in the Selected Issues Paper, Ch. 3.
+
+23
+
+Box 1. Methodology for Calculating Cyclical and Cyclically-Adjusted Revenues
+We define ygap 
+
+Y Y*
+A  A*
+absgap
+
+and
+, where * denotes “potential,” A  Y  NX ,
+*
+*
+Y
+A
+
+Y denotes output, A denotes domestic absorption, and NX denotes net exports. Potential output is
+estimated based on several statistical filters. Potential absorption is estimated based on potential
+output and a current account norm based on CGER methodology.
+
+R
+R
+R
+, rind  ind and roth  oth , where R  Rind  Roth .
+*
+Y
+Y
+Y
+CA
+Ri
+TB*  i . R
+Cyclically-adjusted revenues are generally given by
+(
+) , where R CA represents
+R
+TB
+cyclically-adjusted revenues, i  ind , oth , TB represents the respective tax base – absorption A
+Revenue ratios are denoted by r 
+
+for indirect tax revenues and output Y for other revenues and  represents the elasticity of
+revenues with respect to their base.
+Cyclical revenues as a share of potential output are given by:
+
+R Cycl
+Y
+
+*
+
+ rind 
+
+1  ygap
+ absgap  roth  ygap
+1  absgap
+
+and cyclically-adjusted revenues as a share of potential output are given by:
+
+RiCA
+1  ygap
+ roth
+ rind 
+*
+Y
+1  absgap
+
+B. Medium-Term Fiscal Sustainability
+
+36.
+In the medium-term, fiscal policy
+should be anchored by sustainability. In
+particular, debt should be kept at prudent levels
+and fiscal deficits should be consistent with
+stabilizing debt at such levels. While there is no
+exact answer on what level of debt is
+sustainable, three approaches (cross-country
+comparisons, empirical studies and model-based
+methods) suggest public debt of around
+25 percent of GDP could be a prudent level for
+Macedonia. Medium-term primary fiscal deficits
+of 0.4 percent of GDP (overall deficits of 1.5
+percent of GDP) are consistent with such a debt
+level.
+
+70
+
+Government Debt in South-East
+European Countries
+
+60
+
+(Percent of GDP)
+
+50
+
+2008
+2009
+
+40
+30
+20
+10
+0
+BGR
+
+MKD
+
+ROM
+
+MDA
+
+SRB
+
+Source: WEO, Oct. 2009
+
+BIH
+
+MNE
+
+HRV
+
+ALB
+
+24
+37.
+There is no consensus in the academic literature on how to calculate the
+appropriate debt target for emerging markets. The one generally-accepted conclusion is
+that emerging markets can sustain lower levels of debt than advanced economies because
+economic and institutional features limit both the feasibility and the credibility of these
+countries’ debt-servicing abilities (Reinhart, Rogoff and Savastano (2003), IMF (2002)).
+Cross-country comparisons
+
+38.
+One yardstick for Macedonia’s debt target comes from cross-country
+comparisons. Although Macedonia’s public debt appears low relative to its neighbors, it is at
+the median of emerging economies with fixed exchange rates, which have lower public debt
+ratios than countries with floating exchange rate regimes.
+
+100
+
+100
+
+Public Debt, 2008 - EM Floaters
+(Percent of GDP)
+
+80
+
+60
+
+40
+
+80
+
+60
+
+MKD
+
+40
+
+20
+
+0
+
+0
+
+CH
+DZ L
+AR A
+M
+UK
+G R
+TM
+M
+D
+RO A
+PEM
+R
+ZA
+G F
+EO
+CZ
+M E
+Y
+M S
+NG
+SR
+B
+CO
+L
+ID
+HRN
+V
+CR
+TU I
+M R
+E
+UR X
+Y
+PO
+TU L
+N
+PH
+PA L
+A RK
+BRG
+A
+IS
+HU L
+N
+JA
+EGM
+Y
+IS
+R
+IN
+LK D
+SGA
+P
+
+20
+
+100
+
+80
+
+100
+
+Public Debt, 2008 - EM Peggers
+(Percent of GDP)
+
+80
+
+40
+
+40
+
+20
+
+20
+
+0
+
+0
+
+H
+
+G
+AB
+EC
+U
+M
+KD
+H
+ND
+SV
+K
+BI
+H
+M
+N
+E
+BO
+L
+PA
+N
+VN
+M
+M
+AR
+M
+D
+V
+JO
+R
+BL
+Z
+
+60
+
+G
+K
+ES
+T
+R
+US
+KA
+Z
+BL
+R
+LT
+U
+BG
+R
+LV
+A
+C
+HN
+
+60
+
+Source: WEO, Oct. 2009
+
+25
+Empirical studies
+
+39.
+A second benchmark for the prudent debt target in Macedonia comes from
+econometric models that establish an empirical link between debt ratios and crisis
+episodes. The IMF Vulnerability Study estimates a threshold of 25.6 percent of GDP for
+public debt in emerging markets, beyond which the probability of a debt crisis increases
+significantly (see IMF (2007)).9
+Model-based approaches
+
+40.
+A third approach for determining debt limits is through modeling the
+government’s budget constraint. Sustainability is defined in these models according to
+whether sufficient future primary surpluses can be feasibly generated to service the
+respective debt ratio, or whether the government’s budget constraint implies unrealistically
+large future adjustments in the primary fiscal balance (see IMF (2002), IMF (2003)).
+41.
+One such theoretical model considers an uncertain environment in which the
+government is committed to servicing debt in all contingencies (see Mendoza and Oviedo
+(2003) as applied in IMF WEO (2003); Alvarado, Izquierdo, Panizza (2004); and Mendoza
+and Oviedo (2007)). This model imposes a stringent requirement that a government does not
+borrow beyond what it can sustain in a prolonged low revenue outcome. This “natural debt
+limit” is given by:
+
+d
+
+(tmin  emin )  (1  g )
+,
+(r  g )
+
+where tmin represents revenues in a negative fiscal shock scenario and emin represents the
+credible expenditure adjustment in that case. The model predicts that countries with less
+volatile revenues and larger credible expenditure adjustments can sustain higher debt ratios.
+The “natural debt limit” is not necessarily the optimal debt level, but a debt ratio much above
+this limit could be raise issues of sustainability.
+42.
+Applying this model to Macedonia’s case suggests a natural debt limit on the
+order of 20 percent of GDP. This result is based on the historic volatility of revenues over
+the period 2001−09, and implies that the
+Revenue (share of GDP)
+30.3
+government would have to be able to credibly
+St. dev.
+2.2
+30.1
+commit to an expenditure adjustment of about Primary expenditure (share of GDP)
+Exp. adjustment
+4.7
+4.7 percent of GDP. This expenditure
+Real growth rate
+4.0
+adjustment is roughly equal to two standard
+Real interest rate
+5.0
+deviations of expenditure ratios over the same
+Natural Debt Limit (percent of GDP)
+20.4
+period (around 14 percent nominal decrease
+from this year’s levels) . Higher debt limits are Source: IMF Staff estimates.
+9
+
+This threshold is determined by a split in the distribution of each indicator for crisis and non-crisis
+observations, imposing that the probability of a missed crisis or a false crisis is minimized.
+
+26
+possible only if revenues become less volatile or an even larger expenditure adjustment is
+feasible and credible.
+Financing Costs
+
+43.
+Another reason to contain the level of public debt is the prospect that Macedonia
+will gradually turn away from official loans and towards more expensive borrowing
+from private markets. As this happens, it will be necessary to run larger primary balances
+in order to maintain the overall balance at the debt stabilizing level, which will place a
+burden on the budget. The average interest rate on public debt for Macedonia is projected to
+increase as the share of concessional debt decreases. In order to illustrate this, we project
+debt trajectories for different primary fiscal balances for the following three scenarios:
+
+
+Historical scenario: financing costs equal to 3.4 percent per annum, the historical
+average nominal rates for Macedonia.
+
+
+
+Average EM financing costs scenario: 30 percent of the total financing needs in a
+given year (budget financing plus debt amortization) is financed at historical costs
+and the remaining 70 percent is financed at a 4 percent real interest rate (slightly over
+7 percent nominal rate), based on the average financing costs for East European
+emerging markets in the past 10 years.
+
+
+
+High financing costs: 30 percent of the total financing needs in a given year (budget
+financing plus debt amortization) is financed at historical costs and the remaining
+70 percent is financed at a 9 percent nominal rate, based on the terms of this year’s
+Eurobond issuance.
+
+44.
+For a given primary fiscal balance, higher financing costs imply unsustainable
+upward-sloping debt trajectories. Alternatively, higher financing costs require higher (i.e.
+more positive) primary balances in order to stabilize debt.
+
+27
+Government Debt Trajectory
+Historical Financing Costs Scenario
+37.5
+35.0
+32.5
+30.0
+27.5
+25.0
+22.5
+20.0
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2017
+
+2018
+
+2019
+
+2020
+
+Average EM Financing Costs Scenario
+37.5
+35.0
+32.5
+30.0
+27.5
+25.0
+22.5
+20.0
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+High Financing Costs Scenario
+
+37.5
+35.0
+32.5
+30.0
+27.5
+25.0
+22.5
+20.0
+2008
+
+2009
+
+2010
+
+Source: IMF Staff estimates.
+
+2011
+
+2012
+
+2013
+
+2014
+
+PB=-0.8%
+
+2015
+
+2016
+
+2017
+
+PB=-0.4%
+
+2018
+
+2019
+
+PB=-0.1%
+
+2020
+
+28
+References
+
+Aizenman, J. and J. Lee (2005) “International Reserves: Precautionary Vs. Mercantilist
+Views, Theory, and Evidence,” IMF Working Paper 05/198. International Monetary
+Fund, Washington.
+Alvarado, Carlos Díaz, Alejandro Izquierdo and Ugo Panizza, 2004, “Fiscal Sustainability in
+Emerging Market Countries with an Application to Ecuador”, IADB.
+Bussière, M. and C. Mulder (1999) “External Vulnerability in Emerging Market Economies:
+How High Liquidity Can Offset Weak Fundamentals and the Effects of Contagion,”
+IMF Working Paper 99/88. International Monetary Fund, Washington.
+Cabellero, R. J and S. Panageas (2004) “Contingent Reserves Management: An Applied
+Framework,” NBER Working Paper, No: 10786, http://www.nber.org/papers/w10786.
+National Bureau of Economic Research, Inc., Cambridge.
+Carroll, C. D. and O. Jeanne (2009) "A Tractable Model of Precautionary Reserves, Net
+Foreign Assets, or Sovereign Wealth Funds," Petersen Institute for International
+Economics, Working Paper Series, WP 09/10. Washington.
+Durdu, C.B., E. G. Mendoza, and M. E. Terrones (2007) "Precautionary Demand for Foreign
+Assets in Sudden Stop Economies: An Assessment of the New Mercantilism," NBER
+Working Papers 13123, National Bureau of Economic Research, Inc., Cambridge.
+Garcia, P. S., and C. Soto. (2004). “Large Hoarding of International Reserves: Are they
+worth it?” Central Bank of Chile Working Paper No. 299.
+Girouard, Nathalie and Christophe André, 2005 “Measuring Cyclically-Adjusted Budget
+Balances for OECD Countries,” OECD.
+Greenspan, A. (1999) “Currency Reserves and Debt,” remarks before the World Bank
+Conference on Recent Trends in Reserve Management, Washington DC, April 29,
+1999. http://www.federalreserve.gov/BoardDocs/Speeches/1999/19990429.htm
+Guidotti, P. (1999), “Remarks at a G3 Seminar at Bonn,” unpublished transcript. April.
+International Monetary Fund, 2002, “Assessing Sustainability”, Policy Development and
+Review Department.
+International Monetary Fund, 2003, “Public Debt in Emerging Countries: Is it Too High?”
+Chapter II, World Economic Outlook.
+
+29
+International Monetary Fund, 2007, “Assessing Underlying Vulnerabilities and Crisis Risks
+in Emerging Market Countries—A New Approach”, Policy Development and Review
+and Research Departments.
+International Monetary Fund, 2007, “Measuring Bulgaria’s Fiscal Stance: A Modified
+Approach,” Country Report 07/390, Chapter III.
+International Monetary Fund, 2009, “Computing Cyclically-Adjusted Balances and
+Automatic Stabilizers,” Technical Notes and Manuals, 09/05, Fiscal Affairs
+Department
+Jeanne, O. and R. Rancière (2006) “The Optimal Level of Reserves For Emerging Markets:
+Formulas and Applications,” IMF Working Paper 06/229. International Monetary
+Fund, Washington.
+Reinhart, Carmen, Kenneth Rogoff and Miguel Sevastano, 2003, “Debt Intolerance,” in
+Brookings Papers on Economic Activity: 1, Brookings Institution, pp. 1-62.
+Mendoza, Enrique G., Pedro Marcelo Oviedo, 2003, “Public Debt Sustainability under
+Uncertainty,” Research Department, IADB (unpublished, Washington: InterAmerican Development Bank).
+Mendoza, Enrique G., Pedro Marcelo Oviedo, 2007, “Public Debt, Fiscal Solvency, and
+Macroeconomic Uncertainty in Latin America: The Cases of Brazil, Colombia, Costa
+Rica, and Mexico,” NBER.
+Salman, F. (2005) “Risk Aversion, Sovereign Bonds and Risk Premium,” Working Papers
+0514, Research and Monetary Policy Department, Central Bank of the Republic of
+Turkey.
+Wijnholds, J.O. and A. Kapteyn (2001) “Reserve Adequacy in Emerging Market
+Economies,” IMF Working Paper No. 01/143. International Monetary Fund,
+Washington.
+
+

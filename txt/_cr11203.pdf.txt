@@ -1,0 +1,5686 @@
+IMF Country Report No. 11/203
+
+THE UNITED STATES
+
+SPILLOVER REPORT - 2011 ARTICLE IV CONSULTATION
+July
+
+Under Article IV of the IMF’s Articles of Agreement, the IMF holds bilateral discussions with
+members, usually every year. In the context of the 2011 Article IV consultation with United States,
+the following documents have been released and are included in this package:
+
+
+
+Spillover Report for the 2011 Article IV consultation, prepared by a staff team of the
+IMF, following discussions that ended on June 27, 2011, with the officials of United States on
+economic developments and policies. Based on information available at the time of these
+discussions, the spillover report was completed on July 7, 2011. The views expressed in the
+spillover report are those of the staff team and do not necessarily reflect the views of the
+Executive Board of the IMF.
+
+
+
+Spillover Report - Selected Issues Paper
+
+The policy of publication of staff reports and other documents allows for the deletion of
+market-sensitive information.
+Copies of this report are available to the public from
+International Monetary Fund  Publication Services
+700 19th Street, N.W.  Washington, D.C. 20431
+Telephone: (202) 623-7430  Telefax: (202) 623-7201
+E-mail: publications@imf.org Internet: http://www.imf.org
+Price: $18.00 a copy
+
+© 2011 International Monetary Fund
+
+
+
+UNITED STATES
+SPILLOVER REPORT – 2011 ARTICLE IV CONSULTATION
+July 22, 2011
+
+KEY POINTS
+Issues. Spillover reports explore the external effects of policies in systemic economies,
+focusing on concerns raised by key partners. Foreign officials appreciated the boost to
+world growth from U.S. stimulus but were concerned over unintended consequences.
+Loose U.S. monetary policies could fuel unsustainable capital flows and commodity
+prices; high U.S. government deficits create tail risks of a generalized bond shock; and
+laws and rule changes passed ahead of Basel III could foster financial sector arbitrage
+Findings. The main messages flowing from staff analysis are:
+
+
+Short-term U.S. spillovers on growth abroad are uniquely large, mainly
+reflecting the pivotal role of U.S. markets in global asset price discovery. While
+U.S. trade is important, outside of close neighbors it is the global bellwether nature
+of U.S. bond and equity markets that generates the majority of spillovers.
+
+
+
+U.S. macroeconomic stimulus likely supported foreign activity more in 2009
+than in 2010. Facing global turmoil, 2009 initiatives calmed markets. In the less
+fraught 2010 environment similar policies produced a less favorable response.
+
+
+
+Looking forward:
+
+
+With QE2 having limited spillovers, its fully anticipated ending will have even
+less effects. The main monetary exit risk is that expectations of monetary
+tightening would reverse earlier capital flows to other countries.
+
+
+
+Spillovers from credible and gradual fiscal consolidation are limited and
+ambiguously signed, while those from the tail risk of a potential loss of
+confidence in U.S. debt sustainability are universally large and negative.
+
+
+
+Robust supervision of U.S.-based (not necessarily U.S.-owned) investment
+banks can reduce risks of negative global spillovers via dollar funding markets.
+
+
+
+Overall, U.S. and foreign goals may be better aligned for fiscal and financial
+policies, given a common interest in limiting globally important tail risks, than
+for monetary policies, where low interest rates facilitate financial risk-taking.
+
+2011 SPILLOVER REPORT
+
+Approved By
+
+UNITED STATES
+
+Tamim Bayoumi and
+Rodrigo Valdés
+
+This report was prepared by a staff team comprising Tamim Bayoumi
+(head), Ashok Bhatia, Edouard Vidon, and Francis Vitek (all SPR),
+Martin Sommer (WHD), Alasdair Scott and Hui Tong (RES), and Andy
+Jobst (MCM). Additional inputs were provided by Trung Bui, Sean
+Cogliardi, and Manju Ismael (all SPR).
+
+SPILLOVER REPORTS
+Spillover reports examine the external effects of policies in five systemic economies (the “S5”):
+China, the Euro Area, Japan, the United Kingdom, and the United States. The mere existence of
+external effects does not imply that policy modification or collective action is needed—that
+depends on many factors, including the presence of economic externalities. The aim is to
+stimulate discussion, providing a global perspective for policy advice in Article IV discussions and
+input to the Fund’s broader multilateral surveillance.
+In each case, key partners are asked about outward spillovers from the economy in question, on
+the basis of which staff choose issues for analysis. To facilitate candor, spillover reports do not cite
+who raises a specific issue. For this report, those consulted were officials and analysts from the
+other S5 and from selected emerging markets—Brazil, Hong Kong SAR, India, Indonesia, Korea,
+Mexico, Poland, Russia, Singapore, and Thailand.
+This report does not try to capture the totality of U.S. influence on the world economy. Rather, it
+focuses on a few forward-looking issues raised by partners, brings to bear relevant analysis, and
+describes the reactions of the U.S. authorities. Technical papers underlying the analysis can be
+found in a companion Selected Issues paper (www.imf.org). A separate report will summarize the
+cross-cutting themes emerging from discussions with the S5.
+
+CONTENTS
+SETTING THE SCENE: THE SIZE AND SOURCES OF U.S. SPILLOVERS __________________________ 4
+BACKGROUND: MAPPING THE LINKAGES ______________________________________________________ 7
+A. Direct Financial Ties _____________________________________________________________________________ 7
+B. Trade Relationships______________________________________________________________________________ 7
+C. Asset Price Links _________________________________________________________________________________ 8
+D. Global Liquidity _______________________________________________________________________________ 10
+MOTIVATION: VIEWS OF OTHER AUTHORITIES ON U.S. POLICY SPILLOVERS _____________ 11
+ANALYSIS: POLICY SPILLOVERS________________________________________________________________ 13
+A. Monetary Policy: Quantitative Easing and Future Rate Hikes__________________________________ 14
+
+2
+
+INTERNATIONAL MONETARY FUND
+
+UNITED STATES 2011 SPILLOVER REPORT
+
+B. Fiscal Policy: Stimulus and Consolidation______________________________________________________ 17
+C. Financial Policy: Investment Banking and the Dodd-Frank Act ________________________________ 20
+CONCLUSIONS __________________________________________________________________________________ 25
+FIGURES
+1. Estimated Bond Yield and Exchange Rates Spillovers ___________________________________________ 9
+2. Estimated U.S. Monetary Policy Spillovers _____________________________________________________ 15
+3. Estimated U.S. Fiscal Spillovers ________________________________________________________________ 19
+4. Estimated U.S. Financial Policy Spillovers ______________________________________________________ 22
+
+COUNTRY FLAGS USED IN FIGURES
+
+Argentina
+
+Australia
+
+Brazil
+
+Canada
+
+China
+
+France
+
+Germany
+
+India
+
+Indonesia
+
+Italy
+
+Japan
+
+Korea, South
+
+Mexico
+
+Russia
+
+Saudi Arabia
+
+South Africa
+
+Spain
+
+Switzerland
+
+Turkey
+
+United Kingdom
+
+United States
+
+Euro Area
+
+Rest of World
+
+Canada &
+Mexico
+
+Australia &
+Canada
+
+Euro Area, Korea,
+Switzerland,&
+United Kingdom
+
+Indonesia &
+Russia
+
+Brazil, Mexico,
+South Africa, &
+Turkey
+
+INTERNATIONAL MONETARY FUND 3
+
+2011 SPILLOVER REPORT
+
+UNITED STATES
+
+SETTING THE SCENE: THE SIZE AND SOURCES OF U.S.
+SPILLOVERS
+1.
+
+The massive global recession set off by U.S. shocks confirmed the reality of major U.S.
+
+spillovers to the rest of the world. Financial weaknesses from badly underwritten subprime
+mortgages
+
+in
+
+interconnected
+
+a
+
+highly
+
+U.S.
+
+financial
+
+system during a period of excess
+borrowing
+elsewhere
+
+in
+
+the
+
+rapidly
+
+U.S.
+
+and
+
+metastasized
+
+into a global crisis. Typical trade
+and financial market spillovers
+were
+
+accentuated
+
+disruption
+
+as
+
+rendered
+
+market
+liquidity
+
+scarce for major global banks and quasi-banks dependent on dollar wholesale funding. With credit
+to households, firms, and importers suddenly curtailed, confidence collapsed alongside private
+spending. This led to the deepest and most synchronized world recession since the 1930s, consistent
+with research finding that U.S. growth spillovers are large and transmitted mainly via financial
+channels.
+2.
+
+Simulations involving “standard” international links typically report small U.S. growth
+
+spillovers. Standard macroeconomic models focus mainly on links via exports and imports, which
+depend on activity and exchange
+rates (the latter driven by interest
+rate
+
+differentials),
+
+as
+
+well
+
+as
+
+wealth effects from international
+asset
+
+holdings.
+
+Estimated
+
+spillovers are generally limited as
+bilateral trade and portfolio links
+are fairly small, particularly across
+systemic countries whose size and
+diversity tends to make them
+relatively closed to external trade. U.S. trade is a major driver of activity only in Canada and Mexico,
+4
+
+INTERNATIONAL MONETARY FUND
+
+UNITED STATES 2011 SPILLOVER REPORT
+
+immediate neighbors and signatories to the North American Free Trade Agreement (NAFTA), as well
+as the Caribbean and Central America.
+3.
+
+U.S. markets are central to global asset pricing, an aspect not well captured in
+
+conventional policy simulations. The United States accounts for about one-third of both global
+stock and bond market capitalization. However, the true importance of U.S. markets is captured by
+turnover—they represent close to two-thirds of equity and government bond market turnover in the
+S5. Deep markets and the accompanying vast volume of market analysis mean that, despite the
+strong domestic orientation of U.S. markets, U.S. financial assets are bellwethers for global prices.
+Consistent with this central role in global price discovery, numerous studies have found that U.S.
+news is a major driver of foreign asset prices, while foreign events have only weak effects on U.S.
+asset prices.
+4.
+
+These financial market ties are a major conduit spreading the impact of U.S. policies
+
+abroad. Analysis using different techniques consistently finds that a change in U.S. bond yields has a
+significant impact on yields in
+other countries and the ratio
+for equity price changes is
+larger still (Selected Issues,
+Chapters
+
+1–3).
+
+While
+
+ultimate
+
+source
+
+of
+
+financial
+
+the
+these
+
+linkages—global
+
+market integration or moredifficult-to-analyze
+
+“animal
+
+spirits” associated with private
+sector confidence—remains uncertain, imposing observed correlations between U.S. and foreign
+asset prices on a standard macroeconomic model generates larger and more plausible international
+spillovers.
+5.
+
+Beyond close neighbors, spillovers via global asset prices are estimated to typically
+
+dominate trade channels. The relative importance of these two channels can be assessed by
+comparing outcomes from a standard macroeconomic model with those from the same model with
+typical international bond and equity price associations superimposed. Results across a mix of
+shocks indicate that spillovers via financial market channels typically dominate beyond close
+neighbors or countries with extensive capital controls (China and, in bond markets, India). For most
+
+INTERNATIONAL MONETARY FUND 5
+
+2011 SPILLOVER REPORT
+
+UNITED STATES
+
+G20 countries, a one percentage point increase in U.S. growth is estimated to raise growth by
+around half a percentage point, with some three-quarters of the impact coming via asset prices. By
+contrast, overall Canadian and Mexican growth spillovers are estimated at more like four-fifths of a
+percent, with trade channels accounting for two-thirds of the total. During the crisis, the impact of
+disruptions in U.S. wholesale funding on global banking added a further layer to spillovers via
+financial channels, explaining the virulence of cross-border effects at the time.
+6.
+
+The critical role of financial prices in spillovers underscores the importance of the
+
+macroeconomic and financial environment. Given the forward-looking nature of asset markets,
+spillovers will in part
+depend
+
+upon
+
+the
+
+factors prompting the
+policy change and the
+overall environment in
+which
+
+the
+
+policy
+
+change takes place. As
+elaborated
+estimated
+
+below,
+spillovers
+
+from
+
+similar
+
+can
+
+therefore
+
+policies
+vary
+
+significantly over time.
+In what follows, event studies—which have been applied by others to identify the domestic impacts
+of U.S. policies over the crisis—are used to assess international impacts (Selected Issues, Chapter 2).
+While such analysis by its nature measures only initial financial market responses, it provides a
+powerful tool for considering potential asset price linkages associated with specific policy decisions.
+7.
+
+Some senior U.S. officials were sympathetic to staff analysis, while others were less
+
+convinced on the size and sources of spillovers. Some senior officials agreed that spillovers
+appear to travel largely through financial market prices adding that uncertainty about the reasons
+for these asset price correlations implied equal uncertainty about the underlying channels of
+transmission. Other senior officials, pointing to factors such as global risk-aversion, were less
+convinced that financial market connections (which in any case could reflect real sector behavior)
+predominated in the transmission of shocks, and pointed to the lower estimates of U.S. spillovers in
+Chapter 4 of the Spring 2007 World Economic Outlook. Officials also noted that while U.S. policies
+inevitably created positive and negative spillovers, this did not imply that the U.S. should counteract
+such effects. Staff agreed, noting that one goal of spillover reports was to support analysis by other
+countries of changes to the global environment.
+
+6
+
+INTERNATIONAL MONETARY FUND
+
+UNITED STATES 2011 SPILLOVER REPORT
+
+BACKGROUND: MAPPING THE LINKAGES
+A. Direct Financial Ties
+8.
+
+The pivotal role of dollar markets in the global economy is reflected in the
+
+composition of U.S. net international liabilities, the largest in the world. Reflecting the dollar’s
+status as the main global reserve asset, the United States has massive net bond debt, worth almost
+10 percent of global GDP and implying relatively large wealth spillovers. The net debt ratio has
+almost doubled since 2000, with foreign official holdings of U.S. Treasuries ballooning from half to
+three-quarters of the total. U.S. gross bond liabilities of 13 percent of global GDP comprise about
+equal quantities of government and private debt, plus a large amount of quasi-government
+“agency” bonds dominated by the mortgage giants Fannie Mae and Freddie Mac. By contrast, the
+United States has a positive net asset position in equities and foreign direct investment.
+9.
+
+Bilateral portfolio links are strongest for major reserve holders and financial centers,
+
+focused on public and private bonds, respectively:
+
+
+Net holdings of U.S. bonds are particularly large (over 5 percent of GDP) in some major reserveholding emerging markets—most notably China. Demand for reserves has helped lower U.S.
+yields (see the China Spillover Report).
+
+
+
+Financial centers such as the United Kingdom hold large amounts of (mainly private) U.S. debt.
+However, this is offset by large reciprocal U.S. holdings of foreign assets.
+
+
+
+Foreign holdings of U.S. equities and U.S. holdings of foreign equities are both large. This is
+particularly true in advanced economies (given deep markets that allow more scope for portfolio
+allocation) and the Americas (given proximity).
+
+
+
+The stock of U.S. foreign direct investment is large in close neighbors (reflecting trade links) and
+other English-speaking advanced economies. Foreign direct investment flows, however, are
+increasingly focused on emerging markets and low income countries.
+
+B. Trade Relationships
+10.
+
+The United States plays an important, but not predominant, role in global trade. U.S.
+
+trade is second to Euro area trade in value, and is only slightly larger than that of China, whose
+smaller economic size is offset by higher trade openness. The limited role played by the United
+States in global trade partly reflects its relatively low level of export compared to other systemic
+countries, reflected in the huge U.S. trade deficit and large trade surpluses of China and Japan. U.S.
+INTERNATIONAL MONETARY FUND 7
+
+2011 SPILLOVER REPORT
+
+UNITED STATES
+
+imports, conversely, are around the same size as those of the Euro area and larger than those of the
+other systemic economies.
+11.
+
+Bilateral spillovers from U.S. real activity and competitiveness are largest for
+
+neighboring countries:
+
+
+U.S. activity and trade volumes. For trade volumes in goods and services, the strongest spillovers
+are on NAFTA countries, Central America, and Asia. These estimates adjust for international
+supply chains (see Selected Issues. Chapters 5–6, and the China and Japan Spillover Reports).
+
+
+
+U.S. activity and the terms of trade. Spillovers are largest for the Middle East, Africa, and some oil
+producers. Higher U.S. activity mainly boosts global demand and prices of cyclically sensitive
+commodities such as fuels and metals.
+
+
+
+Competitiveness. The bilateral effects of dollar fluctuations tend to diminish with distance. Dollar
+appreciation increases output in NAFTA members and parts of Central America, as well as in Asia
+and parts of South America (Selected Issues, Chapter 5 discusses the impact on trade
+composition).
+
+12.
+
+Low income countries’ linkages with the United States vary across regions. Workers’
+
+remittances are important inflows to Central America (they also matter for Mexico), while tourism
+and financial services are crucial for many countries in the Caribbean. By contrast, links with low
+income African countries come mainly via commodity prices, while in the case of Asia demand for
+basic manufactured goods (such as textiles) matters most.
+
+C. Asset Price Links
+13.
+
+A percentage point rise in the 10-year U.S. Treasury bond yield is associated with
+
+significant global market effects that have changed dramatically over the crisis (Figure 1).
+Before the crisis typical relationships were:
+
+
+Foreign bond yields. Advanced economy bond yields typically rose by 0.4 percentage points, the
+effect being larger for Australia and Canada and lower for Japan. Most emerging market dollar
+bond yields showed a larger rise—more like 0.8 percentage points—except in China and India
+where capital controls prevented any significant impact.
+
+8
+
+INTERNATIONAL MONETARY FUND
+
+UNITED STATES 2011 SPILLOVER REPORT
+
+Figure 1. Estimated Bond Yield and Exchange Rates Spillovers
+(Foreign responses to a percentage point increase in U.S. bond yields in percentage points)
+Exchange rate responses in other advanced countries changed after the crisis.
+
+Both bond yield and exchange rate responses in emerging markets changed after the crisis.
+
+Source: Bloomberg, Haver, and IMF Staff calculations.
+
+INTERNATIONAL MONETARY FUND 9
+
+2011 SPILLOVER REPORT
+
+
+
+UNITED STATES
+
+Exchange rates. A nominal depreciation against the dollar of 1–2 percent in financially open
+economies, but little impact on emerging markets with managed exchange rates. This resulted in
+nominal effective appreciation in countries with managed rates, and depreciations elsewhere.
+
+
+
+A fall in commodity prices and little effect on global risk appetite. The commodity effect was
+particularly important for growth prospects in emerging markets that are commodity producers.
+
+
+
+These associations were consistent with markets identifying increases in U.S. yields with higher U.S.
+growth prospects and expected monetary tightening. The dollar typically appreciated as capital
+flowed from other countries to the United States.
+
+14.
+
+Post-crisis, rising Treasury yields became associated with better global financial
+
+sentiment and capital outflows from the United States. With abundant liquidity providing
+incentives to invest spare cash and the zero federal funds rate allowing cheap dollar funding, safe
+haven considerations (or the converse) came to dominate market responses. In contrast to the precrisis norm, rising U.S. yields was associated with improvements in global risk appetite, increases in
+commodity prices, higher equity valuations, and depreciations of the dollar (except against other
+low-interest-rate currencies also used for cheap funding such as the yen). The pre-crisis positive link
+between Treasury and emerging market yields disappeared, possibly because capital inflows to
+emerging markets associated with better global prospects offset the usual upward pressure on local
+bond yields.
+15.
+
+The timing of the return to more typical asset price relationships, and the nature of
+
+the “new normal,” is a key uncertainty in assessing future policy spillovers. While there is no
+strong evidence of such a reversion at this point, rising U.S. Treasury yields should at some point
+again become more an indicator of future monetary policy tightening than of better global market
+sentiment. At that point, capital would likely flow back into the United States in response to higher
+Treasury yields, rather than away from it—although (as event studies suggest) correlations among
+bond yields may also be less tight post-crisis because of changing perceptions of relative fiscal risks
+between emerging and advanced economies.
+
+D. Global Liquidity
+16.
+
+Deep asset and money markets that channel liquidity globally largely explain the
+
+central U.S. role in financial intermediation and the virulence of crisis spillovers:
+
+10
+
+INTERNATIONAL MONETARY FUND
+
+UNITED STATES 2011 SPILLOVER REPORT
+
+
+
+U.S. assets dominate collateralized credit markets. The short-term nature of secured lending and
+repurchase agreements explains why many banks quickly found it difficult and increasingly
+costly to obtain term dollar funding as collateral and counterparty risks rose over the crisis.
+
+
+
+The United States also has the largest global pension, mutual fund, and insurance industries given
+its wealth and limited social safety net relative to other advanced economies. This “real money”
+investor base is central to the U.S. arm’s-length, bond-based financing model.
+
+
+
+Dollar wholesale funding is further boosted by the fact that large money market mutual funds are
+an intrinsically U.S. phenomenon. Their systemic role was confirmed by the Treasury’s guarantee
+program after a fund “broke the buck” during the crisis.
+
+
+
+Strains in dollar funding over the crisis were partly relieved by swap arrangements between the
+Fed and other central banks. The continuing importance of this channel is underlined by the
+latest extension of these swap arrangements through August 2012.
+
+17.
+
+The importance of dollar wholesale funding explains the heavy foreign presence in the
+
+U.S. banking system despite the domestic focus of U.S. markets. Foreign banks have some
+$5.4 trillion of assets in the United States versus U.S. banks’ $2.5 trillion of assets abroad, the largest
+difference in the world. Most other advanced-economy banks have major U.S. operations, while U.S.
+commercial banks tend to be more engaged in emerging markets (Selected Issues, Chapter 7).
+18.
+
+Pension and mutual fund outflows from the United States are larger and more
+
+diversified than inflows, again reflecting the role of New York in wholesale funding. Large
+gross inflows and outflows from and to offshore centers such as the Cayman Islands reflect the
+complex financial engineering and book-entry practices prevalent in modern financial markets.
+However, the United States is also a significant net supplier of funds to countries as diverse as Brazil,
+Egypt, and India, underscoring the global reach of its role as a financial intermediary (see the U.K.
+Spillover Report for a related discussion of the role of London as an international financial center).
+
+MOTIVATION: VIEWS OF OTHER AUTHORITIES ON U.S.
+POLICY SPILLOVERS
+19.
+
+The support to global demand provided by U.S. policies was generally welcomed by
+
+foreign officials. While acknowledging the benefits of macroeconomic policies supporting U.S.
+growth, concern was often voiced that U.S. policies and those of other systemic economies were
+designed only to solve their own domestic difficulties, and could cause problems elsewhere. In
+
+INTERNATIONAL MONETARY FUND 11
+
+2011 SPILLOVER REPORT
+
+UNITED STATES
+
+particular, U.S. policy slippages could lead to further capital inflows, spikes in inflation, and risked a
+hard landing for foreign growth.
+20.
+
+
+Monetary policy was generally seen as the main area that gave rise to spillovers:
+Several authorities were concerned that ample global liquidity had raised commodity prices and
+fed into inflation, which could become entrenched. Several interlocutors ascribed these
+developments to quantitative easing, sometimes arguing that the 2010 easing (“QE2”) was more
+important than Chinese demand in stoking commodity prices. By contrast, authorities in one
+country made a point of stating they did not believe U.S. monetary policy had an impact on
+commodity prices.
+
+
+
+Currency strength and strong capital inflows in some countries were often seen as partly the result
+of QE2. U.S. monetary policy was described as an important push factor for capital flows, while
+pull factors were also acknowledged to have had a role.
+
+
+
+Views on the appropriate countervailing policies were mixed. Some authorities saw exchange rate
+flexibility/appreciation as the best tool to address capital inflows, and resisting appreciation as
+only leading to higher flows. Authorities in several economies with restrictions on the capital
+account, however, mentioned that they did not receive massive capital inflows as a result of QE2.
+Others saw U.S. monetary policy as counteracting their own exchange rate strategy, and in some
+cases new capital restrictions were seen as having helped dampen flows.
+
+
+
+Some were concerned that the unwinding of QE2 and/or U.S. policy rate hikes could trigger
+damaging capital flow reversals. As returns on investment picked up in the United States and
+other advanced economies, funds would be diverted back to the source markets. Furthermore,
+monetary policy in some countries might have become more synchronized with that of the
+United States, exacerbating spillovers: when the U.S. tightens, others would also see the need to
+tighten further.
+
+21.
+
+Fiscal policies in advanced countries with unsustainable current deficits, including the
+
+United States, were often described as having raised global tail risks. Concern was expressed
+over the possibility of a market reassessment of U.S. fiscal sustainability which could lead to a rapid
+deterioration in global financing conditions, capital flows, and possibly the value of the dollar:
+
+
+Global bond yields could rise rapidly if markets demanded higher premiums against fiscal risks (as
+well as possible inflation concerns). Other countries could face a sudden stop in capital inflows
+given increased U.S. financing needs.
+
+12
+
+INTERNATIONAL MONETARY FUND
+
+UNITED STATES 2011 SPILLOVER REPORT
+
+
+
+Fiscal risks were also described as complicating the task of rebalancing the growth model of some
+countries. Such rebalancing might have to be undertaken against the background of weak
+foreign demand and financial conditions, volatile currency and capital flows, and questions
+about the safety of dollar denominated foreign assets.
+
+22.
+
+
+U.S. financial sector policies were also cited as a potential source of spillovers:
+Authorities in some countries noted the importance of better supervisory cooperation. They
+observed that if financial channels dominate in transmitting spillovers, then better regulatory
+and supervisory cooperation may be at least as important as macroeconomic policy
+coordination, the current focus of international efforts.
+
+
+
+The Dodd–Frank Act in particular was seen as potentially having spillover effects via regulatory
+arbitrage, although the channels were uncertain. Authorities in one country also expressed
+concern that a commitment to not bail out systemic financial institutions could be disruptive if
+carried out bluntly or time-inconsistently.
+
+
+
+Limited supervision of money market funds, upon which many non-U.S. banks depend for
+wholesale funding, was seen as adding fragility to the global financial system. Potential spillovers
+from deleveraging of U.S. financial institutions affected by, say, new losses on commercial
+property were also mentioned as a risk.
+
+ANALYSIS: POLICY SPILLOVERS
+23.
+
+Further fiscal stimulus and QE in 2010 have increased the likelihood of negative
+
+spillovers when macroeconomic policy support is reversed. With policy options diminishing and
+further delay of fiscal consolidation increasingly problematic, deficit reduction could occur more
+abruptly than earlier envisaged. This would improve U.S. saving, reduce global imbalances and real
+interest rates, and lower the risk that concerns about the long-term fiscal path will lead to a rapid
+increase in bond yields. However, it will also dampen U.S. growth and could delay monetary
+tightening. When it comes, such tightening is likely to reverse some capital flows to emerging
+markets with open capital accounts by reducing interest rate differentials, particularly if it occurs at a
+faster-than-anticipated pace. Meanwhile, implementation of the Dodd–Frank Act could put further
+pressure on bank credit, including cross-border lending.
+
+INTERNATIONAL MONETARY FUND 13
+
+2011 SPILLOVER REPORT
+
+UNITED STATES
+
+A. Monetary Policy: Quantitative Easing and Future Rate Hikes
+24.
+
+Concerns over monetary policy spillovers currently focus on the global impact of the
+
+end of quantitative easing and eventual Fed rate hikes at some point in the future. While fiscal
+policy operates on U.S. aggregate demand directly, with financial market effects as a by-product
+partly offsetting the impact on growth, monetary policy acts primarily through financial markets and
+hence international asset price linkages will normally amplify spillovers. This may be even more true
+currently, as very low interest rates may increase incentives to take financial risks. Spillovers from
+unexpected potential global asset price shifts reinforce the case for clear communication of future
+monetary policy intentions.
+25.
+
+Estimated asset price spillovers of QE1 announcements are larger than pre-crisis
+
+monetary policy messages, while QE2 announcement spillovers appear generally smaller
+(Figure 2, top panel). Event studies were used to estimate the response of foreign asset prices per
+unit impact on U.S. 10-year bond yields and equity prices:
+
+
+Both sets of easing announcements were associated with declines in foreign bond yields, but the
+response seems to have been notably larger for QE1. A similar pattern emerges for appreciation in
+dollar exchange rates and higher U.S. inflation expectations.
+
+
+
+Unlike QE1 or pre-crisis policy announcements, QE2 announcements do not appear to be
+associated with a short-term improvement in global financial conditions. This is true for the VIX
+(i.e., global risk appetite), oil and nonoil commodity prices, and global equity prices. This
+divergence appears to largely explain the more muted effects of QE2 on foreign bond
+yields/dollar exchange rates.
+
+
+
+These asset price responses were generally similar to pre-crisis monetary policy announcements
+and significantly different from “typical” post-crisis ones. Event studies of policy announcements
+involve a range of identifying assumptions. Yet the abnormal foreign asset price knock-ons
+uncovered suggests that this approach may provide a reasonable, albeit imprecise, estimate of
+global financial market effects.
+
+
+
+Vector autoregressions fitted to weekly data find that quantitative easing announcements were
+associated with higher capital inflows to emerging market bond and equity funds (Selected Issues,
+Chapter 8). Actual Fed purchases of securities (i.e., implementation of the announcements) did
+not appear to affect such inflows.
+
+14
+
+INTERNATIONAL MONETARY FUND
+
+UNITED STATES 2011 SPILLOVER REPORT
+
+Figure 2. Estimated U.S. Monetary Policy Spillovers
+(percentage points unless otherwise indicated)
+Global markets were more buoyed by QE1 than QE2.
+
+Monetary spillovers appear to mainly come through bond price linkages.
+
+Growth spillovers appear largest for QE1 because foreign bond yields fell more.
+
+Source: Selected Issues, Chapters 2 and 9.
+
+INTERNATIONAL MONETARY FUND 15
+
+2011 SPILLOVER REPORT
+
+26.
+
+UNITED STATES
+
+Growth spillovers from U.S. monetary policy were assessed by incorporating estimated
+
+asset price linkages from event studies into macro model simulations. Policy simulations were
+used to illustrate how estimated short-term impacts of policy announcements on asset prices (based
+on event studies) could percolate into activity. Pre-crisis spillovers were calculated by incorporating
+into a macroeconomic model estimated knock-ons between U.S. monetary policy (via U.S. asset
+prices) and foreign bond yields, equity prices, and exchange rates. The results suggest somewhat
+larger growth spillovers (per percentage point change in U.S bond yields) than those from the
+generic shock reported in Section I, with the main channel being via bond yields (Figure 2, middle
+panel and Selected Issues, Chapter 9).
+27.
+
+Growth spillovers from QE1 announcements are also estimated to have been larger
+
+than pre-crisis monetary policy spillovers would suggest, and those from QE2 smaller (Figure
+2, bottom panel). This ordering of the size of spillovers holds across a wide range of economies,
+reflecting the more positive international financial market knock-ons estimated for QE1 than for
+QE2. Analysis of the latter is complicated by the marked improvement in global financial conditions
+not long after Chairman Bernanke’s August 2010 speech at Jackson Hole announcing QE2. Extensive
+analysis fails to establish a link between QE2 announcements and this development. However, if
+larger spillovers of the type estimated for QE1 are assumed, it is important that the full array of
+effects—on risk aversion, exchange rates, and commodity prices—be jointly considered, rather than
+focusing on some and not others.
+28.
+
+Looking forward, some reversal of inflows to emerging markets is likely when markets
+
+start expecting monetary tightening over the near future. With the end of QE2 having been fully
+anticipated, its impact has likely already been absorbed by markets. By contrast, when the Fed
+eventually starts to prepare to tighten policies, including by draining liquidity, it could cause a jump
+in Treasury yields and sharper capital outflows from emerging markets, particularly if the move was
+unexpected. This is because such a shift would be the precursor to future rate hikes (or swift balance
+sheet unwinding) thereby signaling smaller interest rate differentials and either greater confidence
+in the U.S. expansion or rising inflationary pressures (see also Chapter 3 of the Spring 2011 World
+Economic Outlook).
+29.
+
+The monetary policy dilemmas facing emerging markets are generally more acute than
+
+for advanced economies. Limited market depth makes emerging market financial conditions
+particularly susceptible to changing capital flows. Against a background of diverse monetary
+regimes, spillovers from U.S. monetary policy in any one country depend partly on exchange rate
+policies elsewhere, as the benefits (costs) to foreign activity of a dollar appreciation (depreciation)
+will be amplified if a close trading partner fixes to the dollar. This helps explain why exchange rate
+volatility versus the dollar tends to be regional, with much lower volatility in Asia and the Middle
+
+16
+
+INTERNATIONAL MONETARY FUND
+
+UNITED STATES 2011 SPILLOVER REPORT
+
+East than in other regions, supported by active currency management and (in some cases) capital
+controls.
+Pre-crisis historical volatility of dollar exchanges rates
+(Standard deviation of log monthly returns, 2000 to 2007, annualized)
+
+Source: IFS and IMF Staff calculations
+
+30.
+
+Senior Fed officials were qualitatively comfortable with staff views on spillover
+
+channels from QE2 but less concerned about capital flow reversals. Regarding the impact of
+eventual monetary exit, emerging market capital flows were seen as mainly involving a structural
+component rather than a cyclical component that could be reversed, so that U.S. monetary
+tightening shouldn’t constitute an untoward shock. In a market environment where the “winds had
+shifted”, they felt that reactions of some authorities to QE2 may well have reflected strong cyclical
+positions that made the boost to global activity less attractive than was true at the time of QE1.
+Officials stressed that the FOMC was fully committed to be as transparent as possible, and agreed
+that good communication would make for a smoother exit from the zero bound.
+
+B. Fiscal Policy: Stimulus and Consolidation
+31.
+
+Concerns over fiscal spillovers are largely focused on the risks from a loss of market
+
+confidence in the U.S. fiscal policy trajectory. In principle, fiscal consolidation creates permanent
+positive growth spillovers via lower global real interest rates as well as short-term negative spillovers
+via losses in U.S. activity. In order to assess the net spillover effects from U.S. fiscal policy, a multi-
+
+INTERNATIONAL MONETARY FUND 17
+
+2011 SPILLOVER REPORT
+
+UNITED STATES
+
+pronged approach was used, combining standard regression analysis; macroeconomic model
+simulations allowing for various degrees of credibility and financial linkages; and event studies
+focusing on the possible impact of key fiscal policy announcements on the relationship between U.S.
+Treasury yields and foreign asset prices.
+32.
+
+The long-term impact of U.S. fiscal consolidation on foreign output is positive as lower
+
+U.S. government debt and higher saving reduce global real interest rates. Staff regression
+analysis finds that each percentage point reduction in the U.S. general government debt-to-GDP
+ratio lowers global real interest rates by 3–4 basis points over the long run, consistent with the
+prevailing literature (Selected Issues, Chapter 10). Macroeconomic model simulations then suggest
+that the long-term boost to foreign potential output from a 10 basis point permanent reduction in
+global real interest rates is a fairly uniform 0.1 percent (Figure 3, top panel). Importantly, this would
+also help rebalance global demand by reducing the U.S. current account deficit.
+33.
+
+The short-term impact on foreign activity from a typical pre-crisis fiscal consolidation
+
+is estimated to be generally small and its sign uncertain (Figure 3 middle panel, and Selected
+Issues, Chapter 11). While results vary somewhat with assumptions about the size, speed, credibility,
+and composition of the package as well as the monetary policy response to it, for a generic fiscal
+stimulus the following general observations can be made:
+
+
+For close trading partners such as Canada and Mexico short-term losses through trade generally
+dominate. This also holds for countries with extensive capital controls, most notably China and
+(for bond markets) India.
+
+
+
+Elsewhere, the net impact is generally small and ambiguous. Using the foreign bond yield and
+exchange rate co-movements implied by a generic pre-crisis budget announcement, the net
+impact on output is found to be relatively limited.
+
+
+
+Nonetheless, there are significant implications for trade and the composition of demand. Although
+the net effects on foreign output are small relative to the impact on U.S. output, this conceals a
+significant shift between external and domestic demand, at least for countries with flexible
+exchange rates.
+
+34.
+
+The 2009 fiscal stimulus is estimated to have led to larger-than-expected support to
+
+foreign activity while, if anything, the 2010 package likely had the opposite effect. Event
+studies find that the estimated spillover from U.S. to foreign bond yields in response to stimulus
+announcements in 2009 was generally more limited than would have been expected given pre-crisis
+experiences. Illustrative policy simulations of a generic fiscal package generate correspondingly
+
+18
+
+INTERNATIONAL MONETARY FUND
+
+UNITED STATES 2011 SPILLOVER REPORT
+
+Figure 3. Estimated U.S. Fiscal Spillovers
+(Percent of home GDP)
+Consolidation has significant global long-term benefits.
+
+Short-term spillovers are ambiguous, especially given high current levels of debt.
+
+Spillovers from a U.S. bond market shock could be severe.
+
+Source: Selected Issues, Chapter 11.
+
+INTERNATIONAL MONETARY FUND 19
+
+2011 SPILLOVER REPORT
+
+UNITED STATES
+
+more-positive growth spillovers. Conversely, the relatively strong estimated bond market links after
+the 2010 stimulus announcement imply less benign spillovers. This underlines the importance of
+market sentiment in understanding global effects: in 2009, facing the risk of a Depression, U.S. fiscal
+expansion may well have led to a lowering of foreign bond risk premiums that largely offset the
+crowding out from higher U.S. government debt; by 2010, this effect appears to have reversed. It
+also emphasizes the importance of adopting a clear medium-term fiscal framework.
+35.
+
+Looking ahead, a gradual, credible U.S. deficit reduction is unlikely to have major
+
+growth spillovers, particularly compared to those from a loss of fiscal credibility (Figure 3,
+bottom panel). Measured, well articulated, and credible fiscal consolidation that culminates in a
+major reduction in U.S. government debt as a ratio to GDP would likely provide positive net
+spillovers to the rest of the world in the short-run via lower bond yields than otherwise—
+notwithstanding their current low levels in the United States and some foreign economies—
+although a less credible adjustment could generate more generalized short-term output losses
+abroad. Gradual consolidation also reduces the tail risk of a global bond market event where
+investors would lose confidence in the ability of the United States to respond decisively to its
+looming fiscal challenges. Such a loss in confidence would generate major negative spillovers to the
+rest of the world given the role of U.S. government bond yields as global benchmarks.
+36.
+
+Senior officials generally agreed on the importance of having a credible fiscal path to
+
+avoid crowding out and head-off tensions on U.S. and possibly global interest rates. They were
+less optimistic, however, on the short-run benefits of consolidation, as crowding out was not
+thought to be currently operative given low credit demand and bond yields. They cautioned that the
+negative short-run impact (including on foreign economies) from severe and frontloaded U.S. fiscal
+tightening could plausibly be large.
+
+C. Financial Policy: Investment Banking and the Dodd-Frank Act
+37.
+
+Disruptions in U.S. financial markets after the Lehman bust created major negative
+
+growth spillovers and exposed flaws in U.S. financial oversight. Regulators had made a sharp
+distinction between banks, subject to prudential supervision and special resolution procedures and
+with access to Fed liquidity, and nonbanks (notably investment banks, also known as broker-dealers)
+where supervision was focused on market conduct and official liquidity/resolution were not
+available. In response to the chaos in wholesale funding markets after the collapse of Lehman,
+access to Fed liquidity support was rapidly widened to include major investment banks, money
+market funds, and selected foreign central banks.
+38.
+
+U.S. wholesale funds are generally channeled to the global banking system via major
+
+investment banks as well as money market mutual funds. In addition to U.S.-owned broker-
+
+20
+
+INTERNATIONAL MONETARY FUND
+
+UNITED STATES 2011 SPILLOVER REPORT
+
+dealers (such as Goldman, Sachs & Co. and Citigroup Global Markets that have become or already
+were part of bank holding companies) several large northern European banks have U.S. operations
+deeply involved in investment banking. These include Barclays, Credit Suisse, Deutsche Bank, and
+UBS. In addition to the much simpler U.S. money market funds—which just on-lend short-term
+funds—investment banks are the arteries that connect the global banking system to U.S. securities
+and wholesale funding, often through the more internationalized U.K. markets (see the U.K. Spillover
+Report). Their systemic role was confirmed by the Fed’s emergency lending actions during the crisis.
+39.
+
+Wholesale funding uncertainties likely explain why co-movements of major U.S. and
+
+European bank equity returns have become much tighter since the crisis (Figure 4, top panel).
+Banking spillovers are measured using “beta” coefficients that estimate how excess equity returns of
+major foreign commercial and investment banks (i.e., bank stock returns relative to the overall
+market) react to U.S. bank excess returns. Before the crisis, only the major Swiss banks had a beta of
+over one-quarter. After the crisis, this was also true of major U.K., German, French, and Italian
+banks—especially investment banks. The dependence of European banks on U.S. wholesale funding
+provides a potential conduit for a European financial shock to affect the rest of the world (see the
+Euro area Spillover Report).
+40.
+
+Dollar markets stretch well beyond U.S. borders, reinforcing spillovers while limiting
+
+the impact of U.S. regulatory choices. This reflects the global role of the dollar as a reserve
+currency and liquid store of value. Pre-crisis, U.S. regulations were often circumvented by investment
+banks moving trades to less-regulated markets; for example, looser U.K. rules on collateral
+“rehypothecation” drove some prime-brokerage business to London (see the U.K. Spillover Report).
+More generally, financial centers tend to have complementary strengths, e.g., New York’s deep
+securities markets and London’s derivatives focus and internationalism. Indeed, the nexus between
+the U.S. and U.K. dollar markets is symbolized by the fact that the world’s most important private
+short-term dollar interest rate—the London inter-bank offered rate or LIBOR—is determined in
+London and only three of the 16 banks on the panel are U.S.-based.
+Consistent with the crisis experience, significant spillovers are estimated to come from
+widespread U.S. wholesale funding disruption. Such disruption crystallized after Lehman’s failure
+caused counterparty risks on other banks to jump on fears of a systemic crisis. This is illustrated by
+simulations using data on cross-border loans between U.S. and foreign-based banks to calibrate the
+knock-ons from disruptions in U.S. wholesale funding costs on foreign funding costs. The same
+model also provides estimates of the (potentially significant) growth spillovers of U.S. regulatory
+capital top-ups for systemic players mandated by the Dodd–Frank Act (Selected Issues, Chapter 12).
+In that case, however, costs must be viewed against the gains from greater financial stability.
+
+INTERNATIONAL MONETARY FUND 21
+
+2011 SPILLOVER REPORT
+
+UNITED STATES
+
+Figure 4. Estimated U.S. Financial Policy Spillovers
+(Percent change in foreign bank equity excess returns per percent rise in U.S. bank equity excess returns)
+
+Disrupted wholesale funding increased U.S.-European bank links after the crisis.
+
+The January 2010 Obama regulation speech signaled a new approach to global financial regulation.
+
+Subsequent Dodd-Frank announcements may have been more prone to regulatory arbitrage.
+
+Source: Bayoumi and Bui (2011).
+22
+
+INTERNATIONAL MONETARY FUND
+
+UNITED STATES 2011 SPILLOVER REPORT
+
+41.
+
+The U.S. structural response to these pressures was embodied in the July 2010 Dodd–
+
+Frank Act, the biggest reform of U.S. financial regulations since the 1930s. As elaborated in last
+year’s U.S. Financial Assessment Program (FSAP), the Act strengthens the Fed’s consolidated
+supervisory powers over bank holding companies (which now include all major U.S.-owned brokerdealers) but retains an element of “deference” to the securities and futures regulators. It establishes
+a Financial Stability Oversight Council (FSOC) that makes the regulatory perimeter dynamic by
+permitting any financial firm to be designated as systemic and brought under Fed oversight. The
+Fed may only lend to systemic nonbanks in extremis, however, with “Volcker rules” separating retail
+banking from more risky proprietary trading. The Act also creates a resolution mechanism for
+systemic holding companies.
+42.
+
+The Dodd–Frank Act seems to have succeeded in its aim of reducing potential knock-
+
+on effects from major individual U.S. banks to the global financial system. As measures of the
+probability
+
+of
+
+default
+
+Individual Versus Systemic U.S. Bank Risks
+
+based on credit default
+swap
+
+spreads
+
+are
+
+will be bailed out—the
+very
+
+behavior
+
+Systemic Risk
+(joint CDS spread)
+
+given bank’s debt holders
+
+Jul 09 to Sept 09
+
+300
+
+contaminated by market
+assessments of whether a
+
+(CDS spread basis points)
+
+350
+
+250
+200
+
+after Volcker rule
+
+150
+100
+
+the
+
+50
+
+legislation aims to curb—
+
+0
+
+after Lehman to Mar 09
+
+0
+
+100
+
+200
+
+300
+
+staff analysis gauges the
+risk of insolvency from
+prices
+
+of
+
+bank
+
+equity
+
+after Lehman until end-June 09
+
+400
+
+500
+
+600
+
+Individual Risk
+(average CDS spread)
+July 09 until Volcker Rule
+
+700
+
+800
+
+900
+
+after Volcker Rule
+
+Source: Selected Issues chapter 13
+
+options (Selected Issues, Chapter 13). The positive relationship over the crisis between risks to
+individual banks and systemic risk seems to have flattened after the Act was passed, consistent with
+its core objective—thereby containing spillovers.
+43.
+
+A signal moment in the regulatory reform process appears to have been President
+
+Obama’s speech on financial regulation in January 2010. The speech provoked a major market
+response, with negative excess returns on bank equity simultaneously in the United States and much
+of Europe (Figure 4, middle panel). More than the specifics, it would appear that the speech
+telegraphed U.S. seriousness on tightening financial regulations, with the market reaction confirming
+perceptions of U.S. leadership and expectations that similar regulatory stringency would follow in
+other jurisdictions. This interpretation is supported by the fact that the impact on banking systems
+
+INTERNATIONAL MONETARY FUND 23
+
+2011 SPILLOVER REPORT
+
+UNITED STATES
+
+outside of Europe, that were more highly capitalized and less dependent on wholesale funding, was
+considerably more muted.
+44.
+
+Market responses to subsequent Dodd–Frank announcements, however, may raise
+
+concerns about regulatory arbitrage between the United States and Europe. Announcements
+that led to increases (decreases) in excess returns on major U.S. banks are estimated to have led to
+oppositely signed excess returns on major U.K. and Swiss banks (Figure 4, bottom panel). Such
+opposing movements could indicate that markets may have seen these regulations as changing the
+relative competitive position of U.S. and European banks, rather than promulgating internationally
+consistent policy initiatives.
+45.
+
+Going forward, decisions by the Oversight Council and proactive supervision by the
+
+Fed will matter deeply for international financial stability. Given the importance of U.S.
+wholesale funding for foreign banks and the role of U.S.-based investment banks as conduits,
+Council decisions on which institutions to designate as systemic will be key. Strong international
+links—which could rebound back onto U.S. financial stability—strengthen the case for designating
+all U.S.- and foreign-owned major investment banks as systemic and putting them under Fed
+umbrella supervision. Inside the perimeter, the equally difficult challenge will be to successfully
+prudentially supervise investment banks with highly malleable balance sheets. This may test the
+effectiveness of the FSOC, as the systemic overseer, to coordinate across specialized regulators.
+46.
+
+Ideally, U.S. rules governing trading and funding activities will be closely synchronized
+
+with other major international financial centers—especially the United Kingdom. In practice,
+however, regulatory coordination seems strongest in the commercial banking context. New U.S.
+regulations risk pushing trading activities to less regulated sectors or jurisdictions. Already, major
+European investment banks have dissolved their U.S. bank holding companies to avoid higher
+capital requirements, while Volcker rules have led to the spin-off of trading activities to unregulated
+entities with strong but implicit links to regulated affiliates.
+47.
+
+The authorities underlined that U.S. financial regulatory reform was geared toward
+
+achieving international consistency on big-picture issues. With capital standards being left to
+Basel, U.S. law is meant to augment the framework through systemic surcharges and responsibility
+fees, which were seen as examples of U.S. leadership. Some U.S.-specific measures, such as the
+Volcker rules, were not necessarily meant to be adopted by others. Large investment banks would
+be designated as systemic nonbanks and subjected to the same scrutiny as large bank holding
+companies. Nevertheless, regulatory arbitrage is recognized as a reality necessitating coordination
+through the Financial Stability Board.
+
+24
+
+INTERNATIONAL MONETARY FUND
+
+UNITED STATES 2011 SPILLOVER REPORT
+
+CONCLUSIONS
+48.
+
+The size of the U.S. economy and, in particular, the global dominance of its financial
+
+markets create uniquely large policy spillovers. Beyond close neighbors, these come largely
+through links associated with global financial asset prices, which directly affect financial conditions
+abroad and seep into domestic activity everywhere. These spillovers strengthen the case for clear
+communication of U.S. policies and for better-defined medium-term fiscal policy framework.
+49.
+
+Concerns that the end of QE2 could lead to a rapid reversal of emerging market capital
+
+flows appear overblown. Markets reacted to quantitative easing announcements, with little or no
+additional impact from actual purchases of assets. The fully anticipated end to QE2 seems unlikely to
+provoke much market reaction. Emerging market capital flows are more likely to reverse as it
+becomes apparent that the Fed will hike rates in the foreseeable future, signaling smaller interest
+rate differentials and confidence in the U.S. expansion and/or fears about inflation.
+50.
+
+A credible plan for a gradual U.S. fiscal consolidation would likely have limited short-
+
+term spillovers and substantial longer-term benefits. A gradual and credible consolidation would
+raise U.S. national saving, lowering global real interest rates and imbalances over the medium-term.
+Beyond close neighbors, negative spillovers from lower U.S. activity would likely be largely if not
+completely offset by improved global financial market sentiment given the high level of U.S.
+government deficits and debt.
+51.
+
+The risk of major spillovers from a freeze in dollar wholesale funding reinforces the
+
+case for strong implementation of Dodd–Frank rules. Given the central role of U.S.-based (but
+not necessarily U.S.-owned) investment banks in funneling dollar liquidity to the rest of the world,
+stronger U.S. prudential supervision of these entities—preferably in concert with supervisors in other
+major financial centers given the geographic mobility of trading activity—would help contain
+renewed spillovers through this channel.
+52.
+
+Overall, U.S. and foreign goals appear better aligned for U.S. fiscal and financial
+
+policies than for monetary policies. Fiscal consolidation and sounder financial regulation help
+avoid global tail risks. While there may be disagreements about the pace and details of
+implementation, all countries have a stake in a successful outcome. Monetary policy is more
+complex. While spillovers from QE2 appear limited, low short-term interest rates and abundant
+liquidity partly work by increasing incentives to take financial risks. This may be helpful for other
+countries in a similar cyclical position, but can be more problematic for those with open capital
+markets that have already shaken off the crisis and where investment opportunities are more
+plentiful. These other countries, however, also have macroeconomic tools to steer their economies.
+
+INTERNATIONAL MONETARY FUND 25
+
+INTERNATIONAL MONETARY FUND
+UNITED STATES
+2011 Spillover Report – Selected Issues
+Approved by Tamim Bayoumi
+July 22, 2011
+Contents
+
+Page
+
+I. U.S. Financial Spillovers: Typical Advanced Country Responses ........................................3
+II. U.S. Financial Spillovers: Policy Announcements ...............................................................5
+III. U.S. Financial Spillovers: Emerging Market Bond Spreads.............................................11
+IV. U.S. Growth Spillovers: Typical Responses.....................................................................14
+V. U.S. Trade Spillovers: Supply Chain Effects.....................................................................17
+VI. U.S. Trade Spillovers: Typical Response to U.S. Activity ...............................................20
+VII. U.S. Financial Spillovers: Crossborder Linkages ...........................................................22
+VIII. U.S. Monetary Policy Spillovers: Quantitative Easing and Capital Flows into
+Emerging Markets ....................................................................................................................27
+IX. U.S. Growth Spillovers: Monetary Policy ........................................................................31
+X. U.S. Fiscal Spillovers: Global Financing Conditions ........................................................34
+XI. U.S. Growth Spillovers: Fiscal Policy ..............................................................................37
+XII. U.S. Financial Spillovers: Raising U.S. Capital Adequacy Requirements .....................43
+XIII. U.S. Financial Spillovers: Banking System Risks .........................................................45
+Tables
+2.1: Bank Excess Return Regressions........................................................................................9
+2.2: Foreign Bond Yield Regressions ......................................................................................10
+2.3: Dollar Exchange Rate Regressions ...................................................................................10
+3.1: Panel Regression Results for EM Spreads Model ............................................................13
+5.1: Measures of Vertical specialization across borders: 2004 ................................................18
+
+2
+10.1: Baseline Regressions, Dependent Variable: Spread over 10-year Treasuries ................36
+10.2: Regressions with Interaction Terms ...............................................................................36
+Figures
+1.1: Spillovers from Shocks to Bond Yields ..............................................................................4
+1.2: Spillovers from Shocks to Stock Indices ............................................................................4
+4.1: Average Peak Impulse Responses of Output to Shocks in the U.S. .................................14
+4.2: International Business Cycle Transmission from Systemic Economies ...........................15
+4.3: Average Impulse Responses of Output to Shocks in the United States............................15
+4.4: Average Peak Impulse Responses of Output to Shocks in the United States ...................16
+5.1: Nafta: source of Foreign Value Added .............................................................................19
+5.2: Foreign Content in U.S. Manufacturing Exports ..............................................................19
+6.1: Impact of a Shock in U.S. Import Demand on Partners’ Net Exports ..............................21
+7.1: S4 financial Intermediaries, 2009 .....................................................................................23
+7.2: Foreign Bank claims on and in the United States, March 2010 .......................................24
+7.3: Consolidated U.s. Claims of BIS Reporting Banks on Ultimate Risk Basis, by foreignOwned Large BHC or Primary Dealer, March 2010 .......................................................25
+7.4: Foreign Owners of Larch BHCs in the United States.......................................................26
+8.1: Accumulated Responses of EM Inflows – Baseline VAR ...............................................29
+8.2: Accumulated Responses of Selected Variables – Extended VAR ...................................30
+8.3: Accumulated Responses of VIX and Oil Prices to QE Actions .......................................30
+9.1: Peak Output Gains, Typical Monetary Stimulus ..............................................................31
+9.2: Peak Output Gains, QE1 ...................................................................................................32
+9.3: Peak Output Gains, QE2 ...................................................................................................32
+9.4: Peak Output Gains ............................................................................................................33
+11.1: Cumulative Output Effects, 2011–2016 .........................................................................40
+11.2: Peak Output Losses.........................................................................................................42
+12.1: Peak Output Losses Under Baseline Scenario ...............................................................43
+12.2: Peak Output Losses Under Alternative Scenario ...........................................................44
+13.1: United States: Comparison of Individual and Systemic Risk in the Banking Sector based on synthetic CDS spreads (CCA Equity Put).........................................................47
+13.2: United States: Comparison of Individual and Systemic Risk in the Banking Sector based on actual CDS spreads ..........................................................................................47
+13.3: Europe: Comparison of Individual and Systemic Risk in the Banking Sector - based on
+synthetic CDS spreads .....................................................................................................48
+13.4: Europe: Comparison of Individual and Systemic Risk in the Banking Sector - based on
+actual CDS spreads..........................................................................................................48
+13.5: Dynamic Dependence Structure – Spillover between the U.S. and European Banking
+Sector (2007–2011)..........................................................................................................49
+13.6: Dynamic Dependence Structure – Spillover between the U.S. and European Banking
+Sector (2007–2011)..........................................................................................................50
+
+3
+I. U.S. FINANCIAL SPILLOVERS: TYPICAL ADVANCED COUNTRY RESPONSES1
+Endogenous estimates of spillovers from bond and equity price shocks across the United
+States onto other systemically important economies are reported. Changes in U.S. market
+prices are found to be the dominant source of global financial market spillovers, although
+UK bond markets and Euro area equity markets also generate mild non-U.S. spillovers.
+The analysis relies on end-of-week data for nominal long-term sovereign bond yields
+and equity prices from 2000 through 2009 for the United States, the Euro area, Japan,
+and the United Kingdom. These economies were chosen because of their importance in the
+global economy and in financial markets. China—the remaining systemic country—was not
+included in the analysis as its markets are still forming and its extensive capital controls limit
+market spillovers. Euro area bond yields were proxied by German yields, while Euro area
+equity prices were measured by the FTSEurofirst 300 index. A weekly frequency was chosen
+as more relevant for macroeconomic analysis and avoiding the complications due to missing
+data and overlapping trading hours at the daily frequency.
+The estimation procedure endogenously estimates asset price spillovers. Linkages across
+the four systemic bond yields and (separately) equity prices were identified using an
+adaptation of the methodology due to Rigobon (2003).2 A structural vector auto regression
+(VAR) was estimated in which contemporaneous correlations of shocks across asset prices
+are identified by comparing the variance-covariance matrices in periods of high and low
+volatility. In essence, a period t is assigned to be highly volatile if the observed normalized
+error is x times of the overall sample standard deviation. To improve robustness, x is
+incrementally increasing from 0.65 to 2. The analysis focuses on the international linkages
+within each asset classes, thus bond yields and equity returns are considered separately.3
+Outward spillovers from shocks to U.S. bond and stock markets are positive and large,
+pointing to the role of the U.S. as the driver of global financial asset pricing. Financial
+market spillovers are measured by cumulative changes in government long-term yields and
+stock market indices over the 4-week period after a shock. Spillovers from U.S. market
+shocks are larger than those of others systemic markets in both absolute and relative terms
+(Figure 1.1). In the bond markets, estimation results show that a typical one-standarddeviation shock to U.S. 10-year yields (about 12 bps) leads to an increase of between 4 and
+1
+
+Prepared by Trung Bui (SPR). Further details on the identification scheme and results can be obtained from
+the author.
+2
+
+Rigobon, Roberto (2003), “Identification through Heteroskedasticity,” The Reviews of Economics and
+Statistics, vol. 85 (4), pp 777–792.
+
+3
+
+Ehrmann, Fratzscher, and Rigobon (2005) find that the strongest financial spillovers between the U.S. and the
+Euro area take places within asset classes and indirect spillovers across domestic markets can magnify these
+spillovers. However, due to the number of countries considered in this analysis, a VAR that encompasses both
+within- and cross-markets linkages is less practical and its inference power is reduced substantially.
+
+4
+8 bps in foreign yields, implying spillover multipliers of 0.33 to 0.66: the smallest of these
+are in Japan, and the largest in the Euro area. By contrast, inward spillovers to U.S. bond
+yields are tiny (Figure 1.2). Similarly, outward spillovers from U.S. stock market shocks
+have multipliers ranging from 0.5 (in Japan) to 0.8 (in Euro Area and the U.K.); whereas
+shocks from other systemic equity markets have almost no impact on the S&P 500.
+
+12
+
+10
+
+10
+
+Basis points
+
+12
+
+8
+6
+4
+
+8
+6
+4
+
+2
+
+2
+
+0
+
+0
+
+12
+
+12
+
+10
+
+10
+
+Basis points
+
+Basis points
+
+Basis points
+
+Figure 1.1: Spillovers from Shocks to Bond Yields
+
+8
+6
+4
+
+8
+6
+4
+
+2
+
+2
+
+0
+
+0
+
+Figure 1.2: Spillovers from Shocks to Stock Indices
+3
+
+3
+
+2.5
+
+2.5
+
+1
+
+2
+
+Percent
+
+Percent
+
+2
+1.5
+
+1
+0.5
+
+0.5
+0
+
+0
+
+-0.5
+
+-0.5
+
+3
+
+3
+
+2.5
+
+2.5
+
+1.5
+1
+0.5
+
+2
+
+Percent
+
+2
+
+Percent
+
+1.5
+
+1.5
+1
+0.5
+
+0
+
+0
+
+-0.5
+
+-0.5
+
+Note: The country origin of shock is identified by the background flag in each chart.
+
+5
+II. U.S. FINANCIAL SPILLOVERS: POLICY ANNOUNCEMENTS4
+Event studies are used to estimate financial spillovers from U.S. policy announcements. The
+impact on foreign asset prices has varied. The announcement that the Administration
+supported tighter regulation of banks led to a generalized fall in European bank shares
+relative to local equity markets. For other aspects of the Dodd-Frank legislation, however,
+falls in U.S. bank equity prices were accompanied by increases in U.K. and Swiss major
+bank valuations. Turning to macro policies, 2008/9 fiscal and monetary stimulus packages
+generally supported foreign activity, while the impact of 2010 stimulus is less clear.
+This chapter reports event studies that analyze the impact of U.S. financial, fiscal, and
+monetary policies on foreign asset prices across a range of G20 countries. The analysis
+looks first at “typical” responses of key foreign financial market prices to changes in U.S.
+asset prices. Given this baseline, the analysis then examines whether the responses to various
+types of U.S. policy announcements vary from this norm. A major complicating factor in this
+analysis is that financial market linkages appear to have shifted dramatically at the onset of
+the crisis. Hence, there are two “typical” relationships (pre- and post-crisis) to which policy
+responses since the crisis can be compared.
+For U.S. financial policies the analysis involves comparing the response of foreign bank
+excess returns to its U.S. equivalent. Bank excess returns are defined as the difference
+between changes in major bank equity prices to the local equity market, and measure the
+market assessment of the change in the relative valuation of major banks compared to the
+market as a whole.
+For fiscal and monetary policies the main analysis examines the response of foreign
+bond yields and exchange rates to changes in yields on the U.S. 10-year note. The
+response of the 10-year yield is known to be a useful measure of the impact of fiscal
+policies—which change the level of U.S. government borrowing and debt—and for U.S.
+monetary policies (pre-crisis, changes in the yield on the 10-year note were found to be a
+good measure of the unexpected element in U.S. monetary policy). Knock-on from these
+yields to foreign yields and dollar/nominal effective exchange rates are a major potential
+spillover to the rest of the world.
+The specification for the event study regressions is based on a CAPM model with the
+United States assumed to be the “market”. Hence, for example, foreign bond yields are
+regressed on Treasury yields (plus other variables), with the coefficient on Treasury yields
+being interpreted as the dependence of foreign yields on U.S. ones (the market “beta”). A
+post-crisis dummy is included in the regression as many of these underlying relationships
+appear to have shifted after early 2007 (results are robust to other plausible dates). Dummy
+4
+
+Prepared by Tamim Bayoumi and Trung Bui. A more detailed description can be found in “Unforeseen Events
+Wait Lurking,” forthcoming IMF working paper by the authors.
+
+6
+variables are also included on dates of policy announcements, with policies being regarded as
+having a significant impact on foreign asset prices if the market response on days of
+announcements is significantly different from the typical response indicated by the beta.
+More specifically, the estimated equation was:
+Δyit = αi + (βi+νi postcrisisit + γ’EVENTSit) ΔUS asset priceit + εit,
+where yit is the foreign or global variable of interest (as discussed earlier, foreign excess bank
+returns, foreign bond yields, or dollar exchange rates), postcrisisit is a dummy variable for the
+period from the start of 2007 until the end of the sample, EVENTSit is a matrix of dummy
+variables singling out policy announcements, and US asset priceit is the U.S. variable of
+interest (U.S. bank excess returns or 10-year Treasury yields).
+Responses to events were measured using the (time-zone adjusted) market response on
+the day of the announcement. The short one-day window used in the baseline results
+(which has also become typical in event studies of U.S. monetary policy over the crisis) was
+used given the sheer number of shocks that were occurring over the crisis and post-crisis
+period: a longer window increases the risk of conflating identified events with other
+developments. Estimates using 2-, 5-, and 10-day windows produce similar results.
+Results for announcements of the Dodd-Frank Act are summarized in Table 2.1. Links
+between U.S. and European bank excess returns were transformed by the crisis. Pre-crisis,
+only the Swiss beta exceeded 25 percent, implying that in all other cases a one percent U.S.
+bank excess return was associated with less than ¼ percent in excess returns abroad. By
+contrast, the post-crisis beta coefficient reported in the third column suggest that on a typical
+post-crisis day some 60 percent of excess returns across major U.S. banks spillover to Swiss
+banks, 50 percent to U.K. and German banks, and 40 30, and 20 percent to French, Italian,
+and Spanish banks, respectively. This involves a major increase from the pre-crisis betas,
+which is statistically significant except for Switzerland and Spain. By contrast, for nonEuropean banking systems post-crisis changes in already small betas are insignificant.
+Spillovers from U.S. financial regulation depends on the issue being addressed:
+
+
+The January 21, 2010 Obama speech backing a tough banking regulation lowered
+U.S. and most European bank equity prices. The negative excess returns of the Swiss,
+U.K., and German and French bank stocks were actually larger than those for U.S.
+banks. The abnormal response largely reflects anticipation of tougher future domestic
+bank regulation after the lead set by the United States.
+
+
+
+Other Dodd-Frank announcements of tighter- (softer-) than-expected U.S. bank
+regulation (hurt) bank excess returns in core European financial systems. The
+impact is most concentrated in the Swiss and U.K. banks, suggesting that the
+announced regulations were seen as putting U.S. banks at a competitive disadvantage
+
+7
+compared to counterparts in major European financial markets. This suggests that
+markets may have perceived the potential for regulatory arbitrage.
+Results for the impact of monetary and fiscal policies are summarized in Tables 2.2 and
+2.3. Table 2.2 reports results of regressions linking changes in foreign bond yields to changes
+in U.S. 10-year note yields. Table 2.3 reports changes in dollar exchange rates associated
+with changes in U.S. 10-year Treasury yields. Results are reported for 6 country groupings:
+Japan (singled out for its different post-crisis exchange rate responses); advanced country
+commodity exporters (Australia and Canada); Korea and European advanced countries (Euro
+area, Switzerland, and the U.K.); China (whose dollar peg and extensive capital controls set it
+apart); financially open emerging markets (Brazil, Mexico, South Africa, and Turkey); and
+emerging markets which have less open financial systems (Indonesia and Russia). India is
+included with China for bond analysis (given its capital controls on these instruments) but
+with Russia and Indonesia for exchange rate and equity analysis.
+Bilateral links between U.S. yields and those in emerging markets dissipated after the
+crisis to these countries. Before 2007, a rise in U.S. bond yields had a pass-through of some
+70 percent for financially open emerging market economies, slightly less for India and
+Russia, and no link for China, the latter presumably reflecting capital controls. The results in
+Table 2.2 suggest that these emerging market links basically disappeared after the crisis. By
+contrast, links between U.S. yields and those of advanced economies with deeper financial
+markets remained relatively constant over the crisis. The pre-crisis relationship whereby a
+one-percentage point rise in U.S. yields led to a 40 basis point rise in European/Korean yields
+and a 15 basis point rise in Japanese yields appears unaffected by the crisis. The link between
+advanced commodity exporters yields and U.S. yields did fall modestly, from two-thirds to
+one-half.
+Results for “normal” policy announcements suggest that pre-crisis spillovers from U.S.
+yields were largely driven by expectations about U.S. monetary policy. Budget
+announcements appear to have no significant differential impact on foreign bond yields,
+likely reflecting the fact that they were largely anticipated. Of considerably more interest is
+the fact that pre-crisis FOMC announcements also did not show significant differential
+impacts. This suggests that pre-crisis spillovers from U.S. bond yields largely reflected
+shifting expectations about U.S. monetary policy. When the Fed Funds rate hit the lower
+bound and the Fed vowed to keep it there for a considerable time, however, rises in bond
+yields seem to have become proxies for U.S. and global risk aversion/growth prospects,
+hence the lowering of the link with emerging market.
+Shifts in the relationship with foreign exchange rates also suggest changes in the
+information contained in U.S. yields and resulting capital flows (Table 2.3). Before the
+crisis, rising U.S. 10-year yields were associated with significant depreciations against the
+dollar in advanced economies and financially open emerging markets, consistent with a
+generalized dollar appreciation from an expected tightening of U.S. monetary policies. By
+
+8
+contrast, there was no significant change for China, with its dollar peg, or Indonesia and
+Russia, with their more managed exchange rates. Post-crisis, however, increases in U.S.
+yields led to large appreciations in emerging markets, especially financially open ones, as
+well as advanced economy commodity exporters. By contrast, the yen depreciated by even
+more against the dollar when US yields rose, likely reflecting its status as a safe haven and a
+vehicle currency for “carry trades”. U.S. yields had little impact on dollar exchange rates in
+advanced Europe and Korea. These shifts are consistent with the view that post-crisis higher
+U.S. yields led to capital flows into emerging markets and commodity producers and out of
+advanced economies with low interest rates—especially Japan.
+Results for announcements of the fiscal stimulus packages (in Tables 2.2-2.3) suggest
+that the impact varies depending on the degree of financial turmoil. Fiscal stimulus
+typically increases Treasury yields, so that positive relationships imply higher foreign yields
+and negative foreign spillovers:
+
+
+The 2009 package seems to have led to a delinking of European and Korean bond
+yields, suggesting negative financial market spillovers were tempered.
+
+
+
+The 2010 package seems to have been accompanied by larger-than-normal increases
+in foreign yields and appreciation across a range of foreign currencies, suggesting
+larger-than-typical negative asset market spillovers.
+
+These shifting relationships can plausibly be linked to changing perceptions of financial
+conditions. In 2009, when the world was engulfed in financial turmoil, fiscal stimulus led to
+little change in yields as the reduction in global lower risk premiums offset the rise in yields
+from anticipated higher U.S. debt. In 2010, when financial markets were in a more orderly
+state, concerns about rising U.S. debt may have led to tighter links across global yields.
+QE1 seems to have had much more positive impacts on foreign financial conditions
+than QE2. In contrast to fiscal stimulus, QE works through lowering Treasury yields, and
+hence tight positive links to Treasury yields imply positive spillovers to the rest of the world:
+
+
+Post-crisis FOMC meetings without QE announcements have negative coefficient on
+emerging market bond yields and larger-than-usual currency appreciations. This is
+consistent with the view that greater optimism on U.S. growth, which drives up U.S.
+bond yields, led to capital outflows to emerging markets
+
+
+
+QE1 announcements and related declines in US bond yields were also associated
+with large reductions in emerging market yields and currency appreciations (Tables
+2.2 and 2.3). These emerging market responses seem to have boosted foreign demand
+and capital outflows.
+
+
+
+QE2 announcements had more muted effects on foreign markets than QE1 ones.
+
+9
+Table 2.1: Bank Excess Return Regressions
+Baseline
+Change
+Post-Crisis
+
+Sum
+
+.42 (.09)**
+
+.16 (.11)
+
+0.58
+
+.94 (.07)**
+
+-.76 (.16)**
+
+.13 (.05)*
+
+.37 (.08)**
+
+0.50
+
+.78 (.08)**
+
+-.97 (.27)**
+
+.23 (.09)*
+
+.27 (.11)**
+
+0.50
+
+.20 (.06)**
+
+.20 (.07)**
+
+0.40
+
+.71 (.05)**
+
+-.30 (.22)
+
+-.07 (.03)*
+
+.01 (.10)
+
+-.25 (.01)**
+
+-.09 (.03)**
+
+Full Period
+Country
+
+Switzerland
+UK
+Germany
+France
+Italy
+Spain
+Japan
+Korea
+Canada
+Australia
+Brazil
+Turkey
+Indonesia
+India
+China
+Russia
+
+2
+
+R
+DW
+
+.02 (.08)
+
+.30 (.10)**
+
+0.32
+
+.18 (.07)**
+
+.02 (.08)
+
+0.21
+
+.18 (.09)*
+
+-.05 (.09)
+
+0.13
+0.15
+
+.18 (.08)*
+
+-.03 (.09)
+
+.15 (.04)**
+
+-.02 (.04)
+
+0.13
+
+.05 (.03)
+
+.05 (.04)
+
+0.10
+
+.04 (.08)
+
+.08 (.08)
+
+0.12
+
+.09 (.05)
+
+0.09
+
+.02 (.08)
+
+.09 (.08)
+
+0.10
+
+.08 (.08)
+
+-.03 (.09)
+
+0.05
+
+.52 (.27)
+
+-.49 (.27)
+
+0.04
+
+-.16 (.17)
+
+.16 (.18)
+
+-0.01
+
+Impact of Regulation
+Other
+Volcker
+Dodd-Frank
+Rule
+Speech
+
+.06
+1.46
+
+Note: Standard errors are in parenthesis. ** and * represent significant at the 1 and 5
+percent significance level. Coefficients on some other macroeconomic events and
+bilateral dollar exchange rates are not reported
+
+10
+Table 2.2: Foreign Bond Yield Regressions
+Advanced Countries
+
+Emerging Markets
+
+Japan
+
+Australia and
+Canada
+
+Europe and
+Korea
+
+China and India
+
+Brazil, Mexico,
+South Africa, and
+Turkey
+
+Indonesia and
+Russia
+
+US 10 Year Yield
+Change Post-Crisis
+
+.16 (.02)**
+-.01 (.02)
+
+.66 (.02)**
+-.14 (.02)**
+
+.39 (.02)**
+.03 (.03)
+
+.01 (.02)
+-.04 (.04)
+
+.69 (.07)**
+-.68 (.10)**
+
+.53 (.05)**
+-.80 (.12)**
+
+Fiscal Event
+Budget
+2008 Stimulus
+2009 Stimulus
+2010 Stimulus
+
+-.01 (.07)
+.22 (.08)**
+.29 (.25)
+.17 (.05)**
+
+.00 (.20)
+-.15 (.12)
+.61 (.55)
+.17 (.06)**
+
+.08 (.15)
+-.24 (.05)**
+-.46 (.20)*
+.17 (.02)**
+
+.10 (.16)
+.02 (.07)
+.31 (.24)
+.52 (.06)**
+
+-.18 (.34)
+.88 (.08)**
+-.02 (.73)
+.59 (.08)**
+
+.33 (.69)
+.06 (.13)
+-2.39 (3.47)
+.89 (.12)**
+
+-.18 (.09)
+.01 (.06)
+.01 (.02)
+-.03 (.06)
+.02 (.04)
+
+.17 (.08)*
+.11 (.06)
+-.05 (.03)
+-.11 (.06)*
+-.23 (.05)**
+
+.02 (.08)
+-.02 (.09)
+-.01 (.02)
+-.07 (.11)
+.02 (.25)
+
+.19 (.11)
+-.38 (.11)**
+-.02 (.05)
+.48 (.16)**
+.59 (.27)*
+
+.39 (.21)
+-.45 (.21)*
+.05 (.10)
+1.48 (.31)**
+.43 (.15)**
+
+.35 (.28)
+-.51 (.41)
+.08 (.19)
+1.54 (.40)**
+.70 (.23)**
+
+Monetary Events
+FOMC - Pre
+FOMC - Post
+Chg Fed Funds
+QE 2008/09
+QE 2010
+
+2
+
+R
+DW
+
+.08
+1.27
+
+Note: Standard error are reported in parenthesis. ** and * represents significance at the 1 and 5 percent levels, respectively. Some other
+financial policy event coefficients are not reported
+
+Table 2.3: Dollar Exchange Rate Regressions
+Advanced Countries
+
+US 10 Year Yield
+Change Post-Crisis
+Fiscal Event
+Budget
+2008 Stimulus
+2009 Stimulus
+2010 Stimulus
+Monetary Events
+FOMC - Pre
+FOMC - Post
+Chg Fed Funds
+QE 2008/09
+QE 2010
+
+2
+
+R
+DW
+
+Emerging Markets
+
+Japan
+
+Australia and
+Canada
+
+Europe and
+Korea
+
+China
+
+Brazil, Mexico,
+South Africa, and
+T urkey
+
+-1.45 (.37)**
+
+-1.88 (.33)**
+
+-2.21 (.55)**
+
+5.55 (.63)**
+
+India, Indonesia,
+and Russia
+
+-1.66 (.29)**
+
+.08 (.08)
+
+-1.03 (.34)**
+
+-.05 (.13)
+
+1.96 (.44)**
+
+-.08 (.10)
+
+3.82 (.63)**
+
+.88 (.26)**
+
+1.01 (1.48)
+
+-.43 (2.41)
+
+4.33 (3.41)
+
+2.28 (2.71)
+
+.35 (.32)
+
+4.58 (2.41)
+
+10.22 (.61)**
+
+-2.54 (.96)**
+
+-.33 (.59)
+
+.78 (.25)**
+
+-4.31 (.59)**
+
+-.14 (.23)
+
+.06 (3.11)
+
+6.22 (11.64)
+
+-2.44 (11.44)
+
+-.45 (.29)
+
+2.94 (11.68)
+
+-6.19 (2.66)*
+
+1.07 (.42)**
+
+-4.22 (1.67)**
+
+2.10 (.66)**
+
+.19 (.12)
+
+-.92 (.63)
+
+1.48 (.25)**
+
+.04 (.33)
+
+.91 (1.52)
+
+-.38 (2.21)
+
+1.58 (1.22)
+
+-.13 (.09)
+
+3.56 (1.60)*
+
+-1.37 (1.27)
+
+1.51 (1.66)
+
+3.32 (1.12)**
+
+-.13 (.17)
+
+5.22 (1.80)**
+
+.82 (.69)
+
+.29 (.56)
+
+-.78 (.78)
+
+-.28 (.39)
+
+-.01 (.02)
+
+-.04 (.97)
+
+-.18 (.09)*
+
+2.46 (1.45)
+
+-6.55 (1.96)**
+
+-4.15 (1.07)**
+
+.00 (.15)
+
+-7.26 (1.84)**
+
+-2.12 (.69)**
+
+1.84 (.74)**
+
+-2.74 (1.86)
+
+-1.47 (2.12)
+
+-.09 (.29)
+
+-3.89 (1.44)**
+
+-1.03 (.93)
+
+.04
+2.02
+
+Note: See Table 2a. A positive value indicate an appreciation against dollar.
+
+11
+III. U.S. FINANCIAL SPILLOVERS: EMERGING MARKET BOND SPREADS5
+To establish the potential effects of U.S. policy on foreign bond spreads, the relationship is
+examined between emerging market spreads and global “push” factors (i.e. U.S. interest
+rates and proxies for market pricing of risk) and country-specific “pull” factors (indicators
+of domestic creditworthiness). The results indicate a clear and significant relationship
+between spreads and the market price of risk. The link between U.S. policy interest rates and
+emerging market spreads is less clear. From both a statistical and an economic point of
+view, the better link is between spreads and long-term U.S. Treasury yields. In short, U.S.
+policies seem to affect emerging market spreads through their impact on financial risk and
+on U.S. long-term interest rates.
+Panel regressions are run from 2000q1 to 2010q2 of emerging market spreads on
+nominal U.S. interest rates, indicators of market risk, S&P long-term country credit
+ratings and macroeconomic indicators of demand, solvency, and liquidity, such as GDP
+growth, inflation, money multipliers, credit to GDP, and trade balances. More
+specifically, fixed-effect panel regressions are run of (the logs or log differences of) JP
+Morgan EMBI stripped spreads on:6
+
+
+Foreign rates: U.S. Treasury yields (constant maturity), LIBOR, the Fed funds rate,
+and Fed funds futures (1 month and 3 month);
+
+
+
+Market risk: VIX or High Yield Spreads (difference between yields to maturity of
+AAA and Baa corporate bonds);
+
+
+
+Credit risk: Standard and Poors long-term credit outlook ratings (converted to linear
+and quadratic scales, with a binary dummy for junk vs non-junk ratings);
+
+
+
+Determinants of domestic risk: Macroeconomic indicators of the business cycle,
+liquidity and solvency.7
+
+The results indicate that push factors play a significant role in emerging market bond
+spreads. U.S. interest rates and global risk measures explain over half of the variation
+in spreads.8,9 EM spreads move one-for-one with the U.S. high yield spread (a proxy for
+5
+
+Section prepared by Alasdair Scott (RES).
+
+6
+
+The sample of countries includes Argentina, Brazil, Bulgaria, Chile, China, Columbia, Ecuador, Hungary,
+Lebanon, Malaysia, Mexico, Peru, Philippines, Poland, Russia, South Africa, Turkey and Venezuela.
+7
+
+Real GDP growth, annual and quarterly; CPI inflation rate, annual and quarterly; difference in M2/GDP;
+difference in credit:GDP ratio; difference in private investment/GDP ratio; difference in current account/GDP;
+difference in gross trade/GDP; difference in official reserves/GDP; and (where data available) difference in
+public deficits/GDP.
+
+8
+
+This result is similar to those of studies of capital flows.
+
+12
+risk).10 Depending on the specification used, a 100 basis point decrease in yields on 10-year
+Treasuries would be associated with a 60–115 basis point reduction in EM spreads.
+The relationship between EM spreads and U.S. short rates (including Fed funds rate
+and futures) is only sometimes significant and most often negative (depending on other
+conditioning variables used). This negative coefficient on U.S. short-term interest rates and
+the consistently positive coefficients on U.S. long-term yields could indicate “carry-trade”
+type effects, but the restriction of including only the term premium is rejected. Results from
+rolling regressions of rates and spreads at daily frequency show that the coefficients on U.S.
+short-term interest rates are unstable (they fluctuate between negative and positive values).
+Our preferred model is therefore to think of U.S. monetary policy having effects on longterm U.S. Treasury yields, which are then associated with changes in spreads.
+Such a result has an interesting implication. Whereas many other studies focus on the
+effect of U.S. monetary policy, the strong association with longer-term results suggests that
+other policies could have an effect on spreads and net funding rates. Most obviously,
+unconventional monetary policy measures designed to reduce longer-term rates will have
+implications for spreads. Fiscal policy decisions could affect term premiums, with
+consequent implications for spreads.11
+
+9
+
+Of the macroeconomic indicators, only growth and inflation are consistently significant, but ratings are
+consistently significant.
+10
+
+The high-yield spread fits the data slightly better, but is highly correlated with the VIX at daily and quarterly
+frequencies.
+11
+
+There is also the possibility that U.S. policy actions, to the extent that they increase or reduce market
+uncertainty, could also have an effect on spreads via the market price of risk.
+
+13
+Table 3.1. Panel Regression Results for EM Spreads Model
+(after testing down)
+Dependent variable: EMBI stripped spreads
+log levels
+log differences
+Constant
+-2.483
+-2.56
+-0.036
+-0.039
+(0.298)
+(0.20)
+(0.018)
+(0.023)
+10-year Treasury yields *
+
+1.152
+(0.235)
+
+3-month Treasury yields *
+
+-0.115
+(0.057)
+
+High-yield spread *
+
+1.005
+(0.066)
+
+Real GDP growth,
+quarterly
+
+0.006
+(0.004)
+
+Inflation rate,
+quarterly
+
+0.048
+(0.012)
+
+Official reserves to GDP
+ratio, difference
+
+0.007
+(0.003)
+
+M2 to GDP ratio,
+difference
+
+0.850
+(0.128)
+
+1.021
+(0.043)
+
+2
+
+0.277
+(0.114)
+
+-0.096
+(0.033)
+
+-0.086
+(0.031)
+
+0.935
+(0.049)
+
+0.934
+(0.049)
+
+0.003
+(0.002)
+
+0.003
+(0.002)
+
+0.007
+(0.003)
+-0.003
+(0.002)
+
+Gross trade to GDP
+ratio, difference
+S&P long-term credit
+rating, quadratic scale *
+
+0.290
+(0.115)
+
+0.004
+(0.001)
+
+0.810
+0.868
+R
+* Columns 1 and 2: logs. Columns 3 and 4: log differences
+
+0.226
+(0.126)
+0.505
+
+0.526
+
+14
+IV. U.S. GROWTH SPILLOVERS: TYPICAL RESPONSES12
+Business cycle spillovers from U.S. growth shocks via international trade and financial
+linkages are analyzed using a refined version of the structural G-20 macroeconometric
+model reported in Vitek (2010).13Financial links are found to be important for spillovers.
+A. Spillovers from U.S. Shocks Abstracting from Asset Price Links
+On average, the peak impulse responses of output in the rest of the world to real and
+financial shocks in the U.S. are increasing with geographical proximity (Figure 4.1). The
+highest dependence is exhibited by Canada and Mexico, reflecting their strong trade and
+financial linkages, followed by Saudi Arabia, reflecting its strong exchange rate and
+commodity price linkages.
+Figure 4.1: Average Peak Impulse
+Responses of Output to Shocks in the U.S.
+
+Spillovers from U.S. real and financial shocks in the U.S. to other systemic economies
+are somewhat stronger than the reverse impact (Figure 4.2). This reflects the relatively
+large economic size of the United States, together with its extensive international trade and
+widely-held financial assets.
+12
+13
+
+Prepared by Francis Vitek (SPR).
+
+Vitek, F. (2010), Monetary policy analysis and forecasting in the Group of Twenty: A panel unobserved
+components approach, International Monetary Fund Working Paper, 152.
+
+15
+
+Figure 4.2: International Business Cycle Transmission from Systemic Economies
+0.25
+
+Percent
+
+0.20
+
+0.15
+
+0.10
+
+0.05
+
+From United States
+From United Kingdom
+From Japan
+
+0.00
+China
+
+From Euro Area
+Euro Area
+
+Japan
+
+From China
+United
+Kingdom
+
+United
+States
+
+Note: Depicts the average peak impulse responses of output to supply, demand, monetary policy, term
+premium, and equity risk premium shocks in China ■, the Euro Area ■, Japan ■, the U.K. ■, and the U.S. ■
+which raise output there by one percent.
+
+B. Spillovers from U.S. Shocks Accounting for Asset Price Links
+Asset price links in international bond and equity markets are accounted for by adding
+correlated term and equity risk premium shocks (Figure 4.3). Across bond markets,
+correlation coefficients with respect to the United States are assumed in the range from 0.16
+to 0.66 for other advanced economies, and from 0.00 to 0.69 for emerging economies. Across
+stock markets, assumed correlation coefficients are 0.48 to 0.76 for other advanced
+economies, and 0.00 to 0.87 for emerging economies. These assumptions are based on an
+event study analysis of international financial market co-movements (reported in Chapter II).
+Figure 4.3: Average Impulse Responses of Output to Shocks in the United States
+Without Contagion
+
+United States
+
+Euro Area
+
+Japan
+
+United Kingdom
+
+With Contagion
+1.0
+
+1.0
+
+0.8
+
+0.8
+
+0.6
+
+0.6
+
+0.4
+
+0.4
+
+0.2
+
+0.2
+
+0.0
+
+0.0
+
+Rest of World
+
+United States
+
+Euro Area
+
+Japan
+
+United Kingdom
+
+Rest of World
+
+Note: Depicts the average impulse responses of output to supply, demand, term premium, and equity risk
+premium shocks in the U.S. which raise output there by one percent.
+
+16
+
+Accounting for asset price links amplifies spillovers substantially, while reducing their
+international variability (Figure 4.4). For economies with strong trade linkages with the
+United States, in particular Canada and Mexico, the contribution of international bond and
+stock market contagion is modest. In contrast, for economies with weak trade linkages the
+contribution of international bond and stock market contagion is dominant.
+Figure 4.4: Average Peak Impulse Responses of Output to Shocks in the United States
+1.0
+
+0.8
+
+Index
+
+0.6
+
+0.4
+
+0.2
+
+0.0
+
+Without Contagion
+
+With Contagion
+
+17
+V. U.S. TRADE SPILLOVERS: SUPPLY CHAIN EFFECTS14
+Notwithstanding its important role in global trade, the United States is particularly highly
+integrated as a hub of the NAFTA supply chain, suggesting a significant role for outward
+spillovers through trade to NAFTA partners. China is also gaining importance as a major
+trading partner and contributor of foreign value added in U.S. gross exports, suggesting
+additional potential for outward spillovers through U.S. import demand.
+The United States remains a major player in global and regional trade. Notwithstanding
+a shrinking share in global trade due to rising integration of rapidly growing emerging market
+economies such as China, the United States remains a major trade partner at the global level,
+accounting for about 11 percent of global trade (exports plus imports). The United States is
+also an important regional trading partner. Exports to NAFTA members (Canada and
+Mexico) account for the highest share of total U.S. exports (about 37 percent at their peak
+before the crisis). The United States is also the largest trading partner for Canada and
+Mexico, accounting for about two-thirds of overall trade in each country in 2010. Trade with
+China is also rising in importance, especially on the import side.
+The United States is an upstream hub in the NAFTA supply chain. This is seen in the
+limited share of imported content in its exports and the higher share of indirect exports that
+are sent to third countries. Mexico, on the other hand, is downstream, reflecting specialized
+duty free assembly plants that use imported intermediates and re-export final goods back to
+the United States. Indeed, the NAFTA supply chain is distinct from the Asian supply chain
+along two key features: (i) NAFTA is highly concentrated on one regional powerhouse;
+unlike the Asian supply chain where inputs for the downstream country cross the borders of
+several countries (including the hub, Japan), almost all of the foreign value added in
+Mexico’s exports is directly imported from the hub (the United States); and (ii) a significant
+amount of U.S. value added is shipped back home after further processing abroad, which is
+not the case for Japan; Mexico is therefore significantly more reliant on U.S. demand than a
+similarly downstream Asian country such as China would be on Japan’s.
+
+14
+
+Prepared by Nagwa Riad and Christian Saborowski with inputs from Mika Saito, based on the forthcoming
+Board paper on Changing Patterns of Global Trade.
+
+18
+
+5.1: Measures of Vertical Specialization across Borders: 2004
+Country
+
+(1) Im ported contents em bodied
+in gros s exports
+
+(2) Indirect exports s ent to third
+countries /1
+
+(3) Ups tream or downs tream
+pos ition, (2)/(1)
+
+United States
+
+12.9
+
+26.9
+
+2.1
+
+Japan
+
+12.2
+
+30.8
+
+2.5
+
+EU-15
+
+11.4
+
+20.9
+
+1.8
+
+Advanced economies
+
+Emerging market economies
+Mexico
+
+48.0
+
+10.0
+
+0.2
+
+China
+
+35.7
+
+12.5
+
+0.4
+
+EU acces s ion countries
+
+30.8
+
+11.3
+
+0.4
+
+Total
+
+In im ports from the hub /2
+
+In im ports from the neighbors /3
+
+Mexico
+
+31.3
+
+31.0
+
+0.3
+
+China
+
+8.0
+
+6.8
+
+1.2
+
+17.5
+
+17.3
+
+0.2
+
+Source: Koopman and others (2010).
+
+Hub's VA Contained in Gross Exports
+
+EU acces s ion
+
+Source: Fund staf f estimates using Koopman and others (2010).
+1/ Includes indirect exports that return to home country.
+2/ For China, Mexico, and EU accession countries, hubs are Japan, the United States, and the EU respectively.
+3/ For China, Australia, Hong Kong, India, Indonesia, Korea, Malaysia, the Philippines, Singapore, Taiw an, Thailand, Vietnam, and the rest of E.
+Asia are included; f or Mexico, Canada, Brazil, and Latin America are included; and f or EU accession countries, EFTA, and Russia are included.
+
+The United States is an important source of imported inputs in NAFTA countries’
+exports. Staff estimates based on OECD input-output tables for 1995 and 2005 suggest that
+the share of foreign content in U.S. gross exports has increased slightly—from 9.5 percent in
+1995 to 12.3 percent in 2005 (Figure 5.1).15 The United States is an important source of
+foreign value added (FVA) in the gross exports of Canada and Mexico (accounting for about
+a 20 percent and 30 percent of overall FVA, respectively), while the latter account for about a
+fifth of overall FVA in U.S. gross exports in 2005.
+Notwithstanding strong regional integration through NAFTA, China’s contribution to
+U.S. manufacturing exports exceeds Mexico’s. U.S. exports are dominated by high and
+medium-high technology products, destined mostly to the region. Foreign content is highest
+in medium-low technology manufacturing exports, followed by medium-high and high
+technology manufacturing products (Figure 5.2). Importantly, whereas both Canada and
+Mexico broadly maintained their shares in total FVA in U.S. manufacturing exports (at about
+17 percent and 10 percent, respectively), between 1995 and 2005, China more than doubled
+its share in FVA in U.S. manufacturing exports (to more than 11 percent in 2005). The
+increase in China’s share in overall FVA of U.S. exports was mostly accounted for by growth
+in the high technology sector, where its share rose from 7 percent in 1995 to about 24 percent
+15
+
+Staff’s results using OECD input-output tables differ from those of Koopman and others (2010) reported in
+Table 1. Koopman relies on GTAP data which separately identifies exports from processing zones and are
+therefore accounted for differently.
+
+19
+in 2005. This suggests that China may be rapidly catching up with NAFTA partners in terms
+of contribution to U.S. exports of high-technology goods, with broader spillover implications
+through U.S. demand.
+Figure 5.1: NAFTA: Source of Foreign Value Added
+(percent gross exports)
+40
+35
+
+services
+
+30
+
+ROW
+
+25
+
+EU27
+OEA
+
+20
+
+JPN
+
+15
+
+CHN
+10
+
+MEX
+
+5
+
+CAN
+
+0
+
+USA
+1995
+
+2005
+
+1995
+
+USA
+
+2005
+
+1995
+
+CAN
+
+2005
+MEX
+
+Source: IMF Staff estimates using OECD Input-Output Tables, COMTRADE and OECD STAN data.
+
+Figure 5.2: Foreign Content in U.S. Manufacturing Exports
+(billion U.S. dollars)
+
+400
+350
+
+Percentages indicate the share of
+foreign value added in gross exports.
+
+17.9 %
+
+service
+ROW
+
+300
+12.5 %
+
+CAN
+
+250
+
+MEX
+200
+
+EU27
+17.4 %
+
+10.3 %
+
+150
+
+OEA
+
+23.7 %
+
+8.7 %
+
+16.6 %
+
+100
+
+JPN
+
+13.5 %
+
+CHN
+
+50
+
+DVA
+0
+1995
+
+LT
+
+2005
+
+1995
+
+2005
+
+1995
+
+MLT
+
+Source: IMF Staff estimates using OECD Input-Output Tables, COMTRADE and OECD Stan.
+
+2005
+
+MHT
+
+1995
+
+2005
+
+HT
+
+20
+VI. U.S. TRADE SPILLOVERS: TYPICAL RESPONSE TO U.S. ACTIVITY16
+The impact of a change in US imports on global activity is estimated taking account of supply
+chain effects. More specifically, in addition to the direct impact on bilateral trading partners,
+the knock-on effects through the global trade system are included by taking into account
+trade interconnectedness. Results show that the impact is largest for NAFTA and East Asia.
+Methodology
+Focusing on non-oil and non-commodity trade channels, a matrix of bilateral
+manufacturing and services exports as a share of each country GDP is constructed.
+Elements a(i,j) of this A matrix each measure the importance of bilateral manufacturing and
+services exports to j in terms of country i’s GDP, and are obtained as:
+a(i,j) = αM(i)*λX (i)*τ(i)*BXW(i,j) with a(i,i) = - αM(i)*λM (i)*τ(i)
+where BXW is the matrix of bilateral export weights, αM the vector of country specific shares
+of manufactures and services in total non-oil trade, λX (λM) the vector of country specific
+shares of exports (imports) in manufacturing and services trade and τ the vector of country
+specific ratio of total non-oil trade (import plus exports) to GDP.
+If other countries’ imports remain unchanged, the non-diagonal elements of this A
+matrix measure the impact of a single country’s increased imports on each partners’
+GDP. This only measures the direct (first round) impact of a trade shock: if only country j
+expands its imports by 1 percent, the impact on any country i (through manufacturing exports
+to j) will be a(i,j) percent of GDP. However, each country’s position in the global supply
+chain requires it to increase its own imports in order to meet increasing demand for its own
+exports. Assuming that the elasticity of total imports to manufacturing exports is the same in
+all cases and equal to 1 for simplicity (keeping constant import to GDP ratios). As country i
+exports more, it will in turn increase its total imports from the rest of the world by a(i,i).
+Assessing the total impact thus requires adding to the direct impact the infinite sum of second
+I A
+I
+A I A .
+round effects, etc. This geometric sum is given by ∑∞ A
+As an illustrative example suppose a 3 country world economy where the U.S. imports
+from each of the 2 other countries (EA and CN). Both EA and CN export more to the US
+than to each other. But EA and CN have different shares of manufacturing exports in total
+trade, and different degrees of trade openness. Denoting w(i) = αM(i)*λX or M (i) the share of
+manufacturing/services exports or imports in non-oil trade, let’s assume:
+
+16
+
+Section prepared by Edouard Vidon (SPR).
+
+21
+
+BXW
+
+0
+2/3
+2/3
+0
+2/3 1/3
+
+1/3
+1/3 ; w
+0
+
+0.4
+0.5 ; τ
+0.6
+
+0.25
+0.60
+0.67
+
+Suppose that the U.S. expands by 1 percent and its total imports increase by 1 percent. In the
+first round, EA and CN accrued manufacturing exports to the U.S. raise their own GDP
+according to the relative weight of these bilateral exports:
+0.5*0.60*2/3 = 0.20 percent of EA’s GDP and 0.6*0.67*2/3 ~ 0.27 percent of CN’s GDP.
+Recall that the change in EA and CN GDP translates with unit elasticity into a change in EA
+and CN total imports from their respective partners. As a consequence, in the second round:
+EA and CN increase imports from partners by 0.20*0.50*0.60 and 0.27*0.60*0.67
+respectively; all countries exports to the EA and CN increase in line with the first round
+expansion of the EA and CN, multiplied by bilateral export weights, etc.
+The following heat map, based on the latest REER weights dataset and average trade
+openness over the last 10 years, shows the total impact of a U.S. import shock on
+partners’ non-commodity net exports, as a percentage of GDP (Figure 6.1). Results being
+sensitive to elasticity assumptions, the map should be read as showing growth impacts in
+relative terms. The impact is highest for NAFTA partners (Canada and Mexico) and for
+South-East Asia, especially (notably) China.
+Figure 6.1: Impact of a Shock in U.S. Import Demand on Partners’ Net Exports
+(as a percentage of GDP)
+
+22
+VII. U.S. FINANCIAL SPILLOVERS: CROSSBORDER LINKAGES17
+Splicing macro and micro data from various sources, the key, globally systemic financial
+sectors are surveyed, focusing on: asset size; banking vs. fund management; commercial vs.
+investment banking; and foreign operations in the United States.
+
+
+Asset size of Euro area, U.S., U.K., and Japanese financial sectors (Figure 7.1). The
+Euro area financial system is the largest, and the U.S. financial system the most
+complex/diverse, the latter with large and distinct investment banking and money fund
+segments. Data on universal banks (for non-U.S. jurisdictions) are from the GFSR’s
+Statistical Appendix; on (U.S.) insured depositories and investment banks (including
+holding companies) from the Fed’s Flow of Funds; and on (all) funds from Lipper.
+
+
+
+Overall foreign bank claims on the United States (Figure 7.2). Bank claims on the
+United States are dominated by Northern European, Japanese, and Canadian banks, with
+the majority originated by foreign branches and subsidiaries in the United States.
+Country-level data on bank claims and overall data on dollar claims by foreign banking
+offices in the United States are from the BIS; firm-level data on U.S. claims (proxied by
+total assets) of foreign-owned U.S. large bank holding companies (BHCs in the top-50)
+and foreign-owned U.S. primary dealers are from the Fed’s Bank Holding Company
+Performance Reports and SEC filings, respectively.
+
+
+
+Bank claims on the United States by country (Figure 7.3). U.K., German, and Irish
+bank claims on the United States are dominated by large BHCs focused on investment
+banking (defined as large foreign BHCs with above-median ratios of noninterest income
+to total income), and Swiss claims are dominated by two large U.S. primary dealers
+(engaged predominantly in investment banking activities). Canadian claims are held
+mostly by large BHCs focused on commercial banking, and the firm-level composition of
+Japanese, French, Dutch and Spanish claims remaining mostly unidentified (suggesting a
+higher share of direct crossborder lending perhaps). Data sources as in previous figure.
+
+
+
+Role of U.S. large BHC subsidiaries of foreign banks (Figures 7.4 to 7.5). In all but
+two cases (BNP Paribas and Bank of Nova Scotia) activities of U.S. large BHC
+subsidiaries are more focused on investment banking (proxied by the ratio of noninterest
+income to total income) than the rest of the group; U.S. BHC assets vary from over onethird of group assets (Allied Irish) to under 3 percent (BNP Paribas), with a weighted
+average share of 11 percent. Data on BHCs are from the BHC Performance Reports and
+on global parent groups from MCMFA.
+
+17
+
+Prepared by Ashok Bhatia (SPR).
+
+23
+
+Figure 7.1: S4 Financial Intermediaries, 2009
+$34.8 trn.
+
+$31.1 trn.
+
+Funds (incl
+MMFs, excl PFs)
+$5.7
+
+Other funds
+(excl PFs)
+$8.1
+Insured
+depositories
+$13.5
+
+MMFs
+$2.2
+
+Investment
+banks &
+holding cos.
+$7.3
+
+Universal banks
+$29.1
+
+$9.4 trn.
+Funds (incl
+MMFs, excl
+PFs)
+$0.6
+
+Universal
+banks
+$8.8
+
+Sources: Federal Reserve, Flow of Funds Accounts of the United States
+
+$12.7 trn.
+MMFs
+$0.04
+
+Other funds
+(excl PFs)
+$1.9
+
+Universal banks
+$10.7
+
+; Lipper; and Fund staff estimates.
+
+24
+Figure 7.2: Foreign Bank Claims on and in the United States, March 2010
+(In billions of dollars)
+
+Consolidated U.S. Claims of BIS Reporting Banks on Ultimate Risk Basis,
+by Nationality of Reporting Banks
+Total = $5.175 trn.
+Ireland, $93
+Spain, $192
+
+Other, $318
+
+Netherlands, $274
+UK, $1,143
+
+Canada, $444
+
+Germany, $516
+Japan, $960
+
+France, $573
+Switzerland, $661
+
+Dollar Claims of U.S. Offices of BIS Reporting Banks on U.S. Residents,
+by Nationality of Foreign
+- Owned Large BHCs and Primary Dealers
+Total = $2.914 trn.
+
+Other, $609
+UK, $830
+Netherlands, $40
+Spain, $65
+Ireland, $68
+France, $75
+Japan, $158
+
+Switzerland, $349
+
+Canada, $269
+
+Germany, $349
+
+Sources: Bank for International Settlements, BIS Quarterly Review
+; , and Federal Reserve,Bank
+Holding Company Performance Reports
+
+25
+
+26
+Figure 7.4: Foreign Owners of Large BHCs in the United States,
+35
+
+75
+
+75
+
+Global & U.S. noninterest income dependence
+
+Global & U.S. assets
+
+Global noninterest income to global total income (%)
+
+Global assets ($ bn., right scale)
+2,500
+
+US BHC share of global assets (%)
+
+30
+
+25
+
+US noninterest income to US total income (%)
+
+60
+
+60
+
+45
+
+45
+
+30
+
+30
+
+15
+
+15
+
+2,000
+
+20
+1,500
+
+15
+1,000
+10
+
+500
+5
+
+0
+
+0
+
+0
+
+0
+N.a.
+
+Sources: Federal Reserve, Bank Holding Company Performance Reports; and Fund staff estimates.
+
+Figure 7.5: Business Models of Foreign Banks with U.S. BHC Subsidiaries, June 2010
+Axes indicate nonint. income % of total income; bubbles indicate assets
+70
+
+70
+
+Barclays
+
+Deutsche
+
+$2,375bn
+
+$2,360bn
+
+60
+
+60
+US BHC FOCUSES ON
+INVESTMENT BANKING
+
+Bank of Montreal
+$386bn
+
+50
+
+50
+HSBC
+$2,419bn
+
+RBS
+
+40
+Allied Irish
+$207bn
+
+30
+
+40
+
+FOREIGN PARENT
+FOCUSES ON
+INVESTMENT BANKING
+
+$2,367bn
+
+TD
+$587bn
+
+30
+Mitsubishi UFJ
+$2,311bn
+
+BBVA
+$697bn
+
+20
+
+Paribas
+$2,742bn
+
+RBC
+$685bn
+
+20
+
+10
+
+10
+Nova Scotia
+$509bn
+
+0
+
+0
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+Sources: Federal Reserve, Bank Holding Company Performance Reports; and Fund staff estimates.
+
+60
+
+70
+
+27
+VIII. U.S. MONETARY POLICY SPILLOVERS:
+QUANTITATIVE EASING AND CAPITAL FLOWS INTO EMERGING MARKETS18
+The effects of the Fed’s quantitative easing (QE) announcements and actual purchase
+operations on capital flows into emerging markets (EMs) are investigated using a VAR on
+weekly data. QE1 and QE2 announcements seem to have affected such capital flows, while
+actual Fed net asset purchases did not.
+A vector autoregression (VAR) analysis is conducted looking at the impact of
+quantitative easing on capital inflows into emerging markets. Weekly data from 2003
+were collected on Fed purchases of assets (broken down into Treasury, Agency, and
+mortgage backed securities—the latter a
+good proxy for QE1 operations), flows
+into EM bond and equity mutual funds
+(divided between equity and bond
+flows), as well as oil and nonoil
+commodity prices and global risk
+aversion (proxied by the VIX). The Fed
+and mutual fund series (shown in the text
+chart) all end on Wednesdays, so other
+financial variables (commodity prices,
+the VIX) were also defined as of
+Wednesday close. In addition, the VAR
+included QE 1 and 2 announcements using the same dates as Chapter II. Most of these are
+FOMC announcements, which by chance normally also occur on Wednesday afternoons.
+These dates are moved to the following week as they occur right at the end of the weekly
+period (results using the announcement week are similar).
+The baseline specification is a VAR with the following ordering: Fed net asset
+purchases, dummies for QE1 and (separately) QE2 announcements dates, and net flows
+into EM funds. This was considered to be the most plausible line of causation. The analysis
+is also extended to look at the role of global risk aversion and commodity prices both as a
+conduit for Fed actions as well as an independent driver of EM capital flows.
+Reflecting limited degrees of freedom, formal tests for the appropriate number of lags
+in the VAR varied from very short (when degrees of freedom were included in the test)
+to quite long when they were not. A relatively long lag was chosen—6 weeks to be precise.
+The lag length has limited effects on the results, although it does tend to increase the
+significance of QE2 announcements over the longer term.
+
+18
+
+Prepared by Trung Bui (SPR)
+
+28
+Findings
+Fed announcements of QE seem to have a positive impact in driving net flows to EM
+but actual Fed asset purchases do not (Figure 8.1). The top left panel of the Figure
+indicates that Fed purchases of assets did not have a significant impact on EM capital flows
+over time. By contrast, QE1 and QE2 announcements are found to be significant on impact.
+The long-term impact diverges, with QE1 announcement effects becoming smaller and
+insignificant while cumulative capital flows in response to QE2 announcements grow over
+time and remain (marginally) significant. The extended VAR shows similar responses.
+EM flows respond to the decline in global risk aversion and higher commodity prices
+when global market conditions are added to the VAR (Figure 8.2). Global market
+conditions were included by adding (changes in) the VIX and in oil prices in the VAR,
+(ordered after Fed purchases and announcements and before flows to EM funds). Impulse
+responses show a self-reinforcing relationship between declines in the VIX and increases in
+oil prices, both of which significantly contribute to flows to EMs. Results using (nonoil)
+commodity prices show a different linkage between global risk aversion and commodity
+prices but generate similar positive impacts on EM inflows.
+Flows into equity market funds explain the positive response of EM flows to increases in
+oil prices. By separately analyzing inflows into EM bond and equity funds, the results
+indicate higher oil (and nonoil commodity) prices have driven larger flows into equity funds,
+but have little impact on bond flows.
+The effects of Fed QE announcements and asset purchases on oil prices and global risk
+aversion have the expected sign but are not statistically significant (Figure 8.3). Fed
+purchases have a (marginally) significant positive impact on oil price when MBS purchases
+are included, suggesting that the response of oil prices is a feature of QE1 operations, while
+the (small) decline in the VIX seems to be associated to non-MBS purchases, i.e. to both QE
+programs. Responses of the VIX and oil prices to QE announcements generally have the
+expected sign but are not significant except for the immediate impact of QE1 announcements
+on the VIX. This impact could be related to the unanticipated nature of the first QE program,
+which was intended to alleviate the financial markets stresses at the height of the global
+crisis. Further analysis is required in order to ascertain whether Fed operations have been
+successful at decreasing perceived market risks.
+
+29
+
+Figure 8.1: Accumulated Responses of EM Inflows – Baseline VAR
+Accumulated Response to Cholesky One S.D. Innovations ± 2 S.E.
+EM inflows to Fed net purchases
+
+US$ mil.
+
+EM inflows to QE1 announcements
+
+US$ mil.
+
+4,000
+
+4,000
+
+2,000
+
+2,000
+
+0
+
+0
+
+-2,000
+
+-2,000
+
+-4,000
+
+-4,000
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+1
+
+2
+
+3
+
+EM inflows to QE2 announcements
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+8
+
+9
+
+10
+
+EM inflows to EM inflows
+
+8,000
+
+8,000
+
+6,000
+
+6,000
+
+4,000
+
+4,000
+
+2,000
+
+2,000
+
+0
+
+0
+
+-2,000
+
+-2,000
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+Note: Impulse responses are extracted from the corresponding multivariate VAR
+
+30
+Figure 8.2: Accumulated Responses of Selected Variables – Extended VAR
+Accumulated Response to Cholesky One S.D. Innovations ± 2 S.E.
+VIX to VIX
+
+VIX to Oil Prices
+
+VIX to EM inflows
+
+4
+
+4
+
+4
+
+2
+
+2
+
+2
+
+0
+
+0
+
+0
+
+-2
+
+-2
+
+-2
+
+-4
+
+-4
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+-4
+1
+
+10
+
+2
+
+3
+
+Oil Prices to DVIX
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+1
+
+10
+
+8
+
+4
+
+4
+
+4
+
+0
+
+0
+
+0
+
+-4
+
+-4
+
+-4
+
+-8
+
+-8
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+2
+
+3
+
+EM inflows to VIX
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+1
+
+10
+
+8,000
+
+4,000
+
+4,000
+
+4,000
+
+0
+
+0
+
+0
+
+-4,000
+
+-4,000
+
+-4,000
+
+-8,000
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+6
+
+7
+
+8
+
+9
+
+10
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+9
+
+10
+
+EM inflows to EM inflows
+
+8,000
+
+2
+
+2
+
+EM inflows to Oil Pr ices
+
+8,000
+
+1
+
+5
+
+-8
+1
+
+10
+
+-8,000
+
+4
+
+Oil Pr ices to EM inflows
+
+8
+
+2
+
+3
+
+Oil Prices to Oil Prices
+
+8
+
+1
+
+2
+
+-8,000
+1
+
+10
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+1
+
+10
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+Figure 8.3: Accumulated Responses of VIX and Oil Prices to QE Actions
+Accumulated Response to Cholesky One S.D. Innovations ± 2 S.E.
+VIX to Fed net purchases
+
+VIX to QE1 announcements
+
+VIX to QE2 announcements
+
+4
+
+4
+
+4
+
+2
+
+2
+
+2
+
+0
+
+0
+
+0
+
+-2
+
+-2
+
+-2
+
+-4
+
+-4
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+-4
+1
+
+10
+
+2
+
+Oil Prices to Fed net purchases
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+1
+
+10
+
+Oil Pr ices to QE1 announcements
+8
+
+8
+
+4
+
+4
+
+4
+
+0
+
+0
+
+0
+
+-4
+
+-4
+
+-4
+
+-8
+
+-8
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+9
+
+10
+
+Oil Pr ices to QE2 announcements
+
+8
+
+1
+
+2
+
+-8
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+31
+IX. U.S. GROWTH SPILLOVERS: MONETARY POLICY19
+Spillovers from a variety of U.S. monetary policy measures are analyzed using a refined
+version of the structural macroeconometric model of the G-20 documented in Vitek (2010).20
+Spillovers are found to be large and mainly conveyed through asset price links.
+A. Spillovers from U.S. Monetary Stimulus
+This section analyzes spillovers from conventional and unconventional monetary
+stimulus measures in the United States. The conventional monetary stimulus measure
+under consideration is an unanticipated reduction in the nominal policy interest rate, while
+the unconventional monetary stimulus measures are quantitative easing programs, namely
+QE1 and QE2. The calibration of our scenarios is based on an event study analysis of the
+international bond, stock, and foreign exchange market impacts of these monetary stimulus
+measures.
+
+Percent
+
+Figure 9.1: Peak Output Gains, Typical Monetary
+Conventional U.S. monetary
+Stimulus
+stimulus measures generate
+0.30
+substantial output gains in the rest
+0.25
+of the world (Figure 9.1). Our
+0.20
+scenario features an unexpected
+0.15
+percentage point decrease in U.S.
+0.10
+policy rates which reduces long term
+nominal yields by 65 basis points in
+0.05
+the United States, by 10 to 54 basis
+0.00
+points in other advanced economies,
+-0.05
+and by zero to 45 basis points in
+emerging economies (see II).
+Furthermore, negative equity risk
+Bond Market
+Stock Market
+Foreign Exchange Market
+Total
+premium shocks raise equity prices by
+3.9 percent in the U.S., by 1.9 to 3.0 percent in other advanced economies, and by zero to
+3.4 percent in emerging economies. Finally, exchange rate risk premium shocks appreciate
+the currencies of other advanced economies by 0.9 to 1.2 percent with respect to the dollar,
+and of emerging economies by zero to 1.1 percent. Under this scenario, we estimate peak
+output gains of 0.3 percent in the U.S., of 0.1 to 0.3 percent in other advanced economies,
+and of around zero to 0.2 percent in emerging economies. The transmission of these output
+gains is estimated to occur primarily via the bond markets.
+
+19
+20
+
+Prepared by Francis Vitek (SPR).
+
+Vitek, F. (2010), Monetary policy analysis and forecasting in the Group of Twenty: A panel unobserved
+components approach, International Monetary Fund Working Paper, 152.
+
+32
+
+Percent
+
+QE1 is estimated to have generated Figure 9.2: Peak Output Gains, QE1
+0.40
+even larger output gains in the U.S.
+0.30
+and the rest of the world (Figure
+9.2). Our scenario features negative
+0.20
+term premium shocks which reduce
+0.10
+long term nominal interest rates by
+0.00
+65 basis points in the U.S., by 10 to
+27 basis points in other advanced
+-0.10
+economies, and by 0 to 100 basis
+-0.20
+points in emerging economies.
+Furthermore, negative equity risk
+premium shocks raise equity prices by
+Bond Market
+Stock Market
+Foreign Exchange Market
+Total
+11.7 percent in the U.S., by 5.6 to
+8.9 percent in other advanced economies, and by zero to 10.2 percent in emerging
+economies. Finally, exchange rate risk premium shocks appreciate the currencies of other
+advanced economies by zero to 5.5 percent with respect to the dollar, and of emerging
+economies by zero to 5.4 percent. Under this scenario, we estimate peak output gains of
+0.4 percent in the U.S., of 0.1 to 0.3 percent in other advanced economies, and of around zero
+to 0.4 percent in emerging economies. The transmission of these output gains is estimated to
+occur primarily via the bond and stock markets.
+
+Percent
+
+QE2 is estimated to have generated Figure 9.3: Peak Output Gains, QE2
+0.08
+modest output gains in the U.S. and
+0.07
+the rest of the world (Figure 9.3).
+0.06
+0.05
+Our scenario features negative term
+0.04
+premium shocks which reduce long
+0.03
+term nominal interest rates by 20 basis
+0.02
+points in the U.S., by 3 to 8 basis
+0.01
+0.00
+points in other advanced economies,
+-0.01
+and by zero to 14 basis points in
+-0.02
+emerging economies. Furthermore,
+negative equity risk premium shocks
+raise equity prices by 0.8 percent in
+Bond Market
+Stock Market
+Foreign Exchange Market
+Total
+the U.S., by 0.4 to 0.6 percent in other
+advanced economies, and by zero to 0.7 percent in emerging economies. Finally, exchange
+rate risk premium shocks appreciate the currencies of other advanced economies by zero to
+0.9 percent with respect to the dollar, and of emerging economies by zero to 1.0 percent.
+These foreign financial spillover effects are small compared to typical monetary policy event
+even given the smaller change in U.S. bond yields compared to the scenario discussed earlier.
+Under this scenario, we estimate peak output gains of 0.1 percent in the U.S., of close to
+zero percent in other advanced economies, and of close to zero to 0.1 percent in emerging
+economies. The transmission is estimated to occur primarily via the bond markets.
+
+33
+B. Spillovers from Delayed Withdrawal of U.S. Monetary Stimulus
+This section analyzes spillovers from delayed withdrawal of monetary stimulus in the
+United States. These scenarios formalize the monetary policy strategy for escaping from a
+liquidity trap recommended by Eggertson and Woodford (2003).21 They argue that by
+credibly committing to extend a zero interest rate policy beyond the time at which its
+monetary policy rule prescribes a positive setting, the central bank can stimulate the economy
+out of a liquidity trap. Essentially, by committing to reduce future short term real interest
+rates, the central bank is committing to generating an economic boom once the economy is
+out of the liquidity trap, raising expected future inflation and lowering the current long term
+real interest rate.
+
+Percent
+
+Figure 9.4: Peak Output Gains
+A delayed withdrawal of monetary
+1.40
+stimulus in the U.S. is estimated to
+1.20
+generate modest spillovers (Figure
+9.4). At the current juncture, we
+1.00
+estimate a peak output gain in the
+0.80
+United States of 0.12 to 1.15 percent,
+depending on the duration of the
+0.60
+delay. In other advanced economies,
+0.40
+our estimated weighted average peak
+0.20
+output gain ranges between 0.01 and
+0.09 percent, while in emerging
+0.00
+United States
+Other Advanced
+Emerging Economies
+economies it ranges between 0.01 and
+Economies
+One quarter
+Two quarters
+Three quarters
+Four quarters
+0.10 percent, reflecting their greater
+trade openness and less flexible exchange rate regimes. Note that these simulation results are
+generated from sequences of negative monetary policy shocks in the United States, implying
+smaller spillovers than would result from sequences of internationally correlated risk
+premium shocks calibrated to match the international financial market impacts of U.S.
+monetary policy announcements.
+
+21
+
+Eggertsson, G. and M. Woodford (2003), The zero bound on interest rates and optimal monetary policy,
+Brookings Papers on Economic Activity, 1, 139–211.
+
+34
+X. U.S. FISCAL SPILLOVERS: GLOBAL FINANCING CONDITIONS22
+Spillovers from U.S. fiscal policy outcomes to financial conditions in the rest of the world are
+analyzed. Holding other factors constant, the direct estimated effect of a one percentage
+point increase in the U.S. federal debt ratio (excluding Fed holdings) on sovereign spreads is
+about 2 basis points, with a stronger effect in emerging markets.
+Global Sovereign Spread
+12.00
+Median
+25th percentile
+
+10.00
+
+75th percentile
+
+8.00
+6.00
+
+Emerging Economies
+
+4.00
+Advanced Economies
+
+2.00
+
+2010
+
+2009
+
+2008
+
+2007
+
+2006
+
+2005
+
+2004
+
+2003
+
+2002
+
+2001
+
+2000
+
+1999
+
+1998
+
+1997
+
+1996
+
+1995
+
+1994
+
+1993
+
+1992
+
+-2.00
+
+1991
+
+0.00
+1990
+
+The analysis is based on annual
+panel regressions using localcurrency sovereign bond yields
+from 41 countries over 1990–
+2010. The regression results
+suggest that an increase in the
+U.S. federal debt tends to be in the
+long term associated with an
+increase in the sovereign
+borrowing costs in both emerging
+markets and advanced economies,
+pointing to a global negative
+portfolio balance effect from
+expansionary U.S. fiscal policy.
+
+The panel regressions include a comprehensive set of global and local determinants of
+borrowing spreads. The regressors can be divided into three groups: (1) U.S. policies and
+outcomes, including the publicly-held federal debt (excluding the Federal Reserve holdings
+of Treasuries), as a share of either U.S. or global GDP, growth, and yield on the 10-year
+Treasury bond; (2) local policies and outcomes such as public debt, growth, and inflation
+differential vis-à-vis the United States; and (3) other controls including foreign exchange
+reserves, current account balance, quality of political institutions, volatility, global cycle,
+financial openness, and the depth of financial markets.
+The regression results suggest that higher U.S. federal debt is in the long run associated
+with higher borrowing costs in both emerging markets and advanced economies.23 The
+estimated effect of U.S. federal debt on global sovereign spreads is statistically and
+economically significant (Table 10.1). Holding other factors constant, the direct estimated
+effect of a one percentage point increase in the U.S. federal debt ratio (excluding the Fed
+holdings) on sovereign spreads is about 2 basis points, with a stronger effect in emerging
+22
+23
+
+This section was prepared by Martin Sommer and Grace Bin Li (WHD).
+
+This finding is consistent with earlier analyses of dollar-denominated emerging market spreads in Celasun
+(2009) and Alper, Forni, Qian (2010).
+
+35
+markets. The findings remain broadly unchanged in alternative regression specifications
+including direct measures of expectations about debt, growth, and inflation, or time dummies
+and regional and other factors. Of course, the U.S. fiscal policy can affect global borrowing
+costs through other channels—in particular, by raising the Treasury yields, and possibly also
+by elevating market volatility (as captured by the VIX). Laubach (2009) estimates the
+elasticity of the long-term Treasury yields to a prospective one percentage point increase in
+the federal debt at about 3 basis points. While the upward pressure on U.S. yields is not
+apparent at the moment due to weak private demand and safe haven flows, such pressures are
+expected to resume in the future as the economy recovers (Celasun and Sommer, 2010).
+Adding the estimate of pass-through from long-term Treasury yields into spreads to the direct
+effect estimated by Laubach, the overall increase in local borrowing costs could eventually
+be some 5 basis points per an additional percentage point of U.S. federal debt. This is
+significant given the projected increase in the U.S. public federal debt from 36 percent of
+GDP before the crisis to 70 percent of GDP this year. However, the numerical estimate of
+spillovers should be interpreted with much caution and a case could be made that the
+estimate presents an upper bound—with the U.S. debt levels significantly higher than in the
+past, investors may attach lower “convenience value” to their Treasury holdings and the
+foreign lending rates could therefore increase by less than suggested by the regression
+results.24
+Strong domestic policies and institutions can reduce borrowing costs and (eventual)
+negative spillovers from the rapidly-increasing U.S. public debt. Indeed, emerging market
+funding costs have fallen significantly over the past couple of decades reflecting improved
+policies and institutions. Going forward, extending such gains would help offset funding
+pressures due to higher U.S. debt ratios. For example, the regression results suggest that
+reducing the local public debt ratio by 10 percent of GDP lowers the borrowing spread by
+10–100 basis points depending on the context. Meanwhile, improving institutional quality (as
+measured by the ICRG Composite Index) by 1 standard deviation of cross-country
+experiences could reduce the borrowing spread by 60–100 basis points. The panel
+regressions also provide some tentative evidence that countries with good policies and
+institutions are somewhat less sensitive to the negative spillovers from higher U.S. debt
+(Table 10.2). This would be consistent with the well-established fact that lower quality
+borrowers tend to be affected more by funding pressures in global financial markets. In sum,
+the analysis reinforces the call for early agreement on a comprehensive U.S. medium-term
+fiscal consolidation plan in light of the potentially negative domestic and global effects of
+rising U.S. debt.
+
+24
+
+A similar argument was made by Krishnamurthy and Vissing-Jorgensen (2008) who found a negative
+correlation between the size of U.S. federal debt and the spread between U.S. corporate and Treasury yields.
+
+36
+Table 10.1: Baseline Regressions. Dependent variable: Spread over 10-year Treasuries 1/
+(1)
+
+(2)
+Emerging
+
+Full Sample markets
+
+(3)
+Advanced
+
+(4)
+
+(5)
+Emerging
+
+economies Full Sample markets
+
+(6)
+Advanced
+economies
+
+VARIABLES
+U.S. policies and outcomes
+Federal Debt minus Fed Holdings of Treasuries
+(% of US GDP)
+Federal Debt minus Fed Holdings of Treasuries
+(% of World GDP) 2/
+U.S. interest rates (long-term bond)
+U.S. growth
+Domestic policies and outcomes
+Public debt (% of GDP)
+Growth
+Inflation differential
+Other controls
+FX reserves (% GDP)
+Current account (% GDP)
+Political institutions (ICRG)
+VIX
+VIX* Moody's Rating
+Constant
+
+Observations
+R-squared
+Number of ifscode
+Robust t-statistics in brackets
+*** p<0.01, ** p<0.05, * p<0.1
+
+0.023***
+[2.713]
+
+0.057**
+[2.837]
+
+0.025***
+[4.147]
+
+0.298***
+[5.073]
+-0.04
+[-0.737]
+
+0.738***
+[2.970]
+0.007
+[0.0678]
+
+0.300***
+[5.504]
+-0.117**
+[-2.739]
+
+0.126***
+[3.232]
+0.279***
+[4.805]
+-0.064
+[-1.143]
+
+0.280***
+[4.058]
+0.639**
+[2.935]
+-0.011
+[-0.109]
+
+0.123***
+[3.779]
+0.285***
+[5.324]
+-0.142***
+[-3.339]
+
+0.012**
+[2.687]
+-0.126***
+[-3.625]
+0.167***
+[3.403]
+
+0.119**
+[2.928]
+-0.123
+[-1.657]
+0.203***
+[6.947]
+
+0.006**
+[2.308]
+-0.098***
+[-3.444]
+0.090*
+[1.733]
+
+0.012***
+[2.736]
+-0.119***
+[-3.429]
+0.168***
+[3.495]
+
+0.114**
+[2.681]
+-0.112
+[-1.512]
+0.209***
+[7.178]
+
+0.006**
+[2.426]
+-0.094***
+[-3.256]
+0.092*
+[1.787]
+
+-0.036***
+[-3.180]
+-0.022
+[-0.640]
+-0.080***
+[-2.721]
+0.069**
+[2.446]
+-0.027***
+[-2.754]
+5.289**
+[2.243]
+
+-0.120***
+[-2.955]
+-0.219**
+[-2.665]
+-0.111
+[-0.970]
+0.016
+[0.378]
+0.01
+[0.441]
+2.296
+[0.258]
+
+-0.016
+[-1.411]
+0.017
+[0.755]
+-0.065**
+[-2.283]
+0.156***
+[4.606]
+-0.059***
+[-4.788]
+3.755
+[1.556]
+
+-0.037***
+[-3.232]
+-0.024
+[-0.705]
+-0.080***
+[-2.707]
+0.062**
+[2.191]
+-0.027**
+[-2.684]
+5.168**
+[2.159]
+
+-0.110**
+[-2.752]
+-0.223**
+[-2.830]
+-0.1
+[-0.834]
+0.011
+[0.238]
+0.01
+[0.431]
+1.466
+[0.153]
+
+-0.017
+[-1.521]
+0.016
+[0.724]
+-0.070**
+[-2.494]
+0.146***
+[4.574]
+-0.058***
+[-4.961]
+4.115*
+[1.723]
+
+539
+0.415
+41
+
+110
+0.712
+16
+
+429
+0.439
+25
+
+539
+0.415
+41
+
+110
+0.715
+16
+
+429
+0.433
+25
+
+1/ Regressions use the OLS estimator. The GMM estimates using lagged values of variables as instruments are similar.
+Sample: 41 countries, annual data, 1990-2010
+Moody's rating = 3 (Aaa, Aa), 2 (A, Baa), 1 (Ba, C), 0 = Caa or lower
+2/ Results are qualitatively similar when either world total saving or world private saving are used as the denominator.
+
+Table 10.2: Regressions with Interaction Terms 1/
+(1)
+
+Interaction Variable
+U.S.
+U.S.
+U.S.
+U.S.
+U.S.
+U.S.
+
+Federal
+Federal
+Federal
+Federal
+Federal
+Federal
+
+debt
+debt
+debt
+debt
+debt
+debt
+
+(2)
+Emerging
+Full Sample markets
+
+* Domestic public debt
+* Domestic growth
+* FX reserves
+* Political institutions
+* Current account balance
+* VIX
+
+1/ Red denotes a statistically significant interaction term.
+
++
++
+-
+
++
++
+
+(3)
+Advanced
+economies
++
++
+-
+
+37
+XI. U.S. GROWTH SPILLOVERS: FISCAL POLICY
+Spillovers from projected fiscal consolidation in the United States are estimated using two
+alternative models: the Global Integrated Monetary and Fiscal (GIMF) model, and a
+structural macroeconometric model of the G-20. It also presents simulation results for U.S.
+sovereign debt crisis scenarios generated with the G-20 model. There are significant longterm gains in output from consolidation while the short-term losses are generally small.
+A. Spillovers from U.S. Fiscal Consolidation: Analysis Using GIMF25
+U.S. fiscal policy can affect output in other countries both by its effects on trade and by
+its effect on world interest rates. Analysis using the GIMF model suggests that the stimulus
+measures in 2009 and 2010 raised demand in
+Assumed U.S. Fiscal Balance
+the United States and, to a lesser extent, the
+26
+2.5
+0.0
+rest of the world. Correspondingly, a fiscal
+2011 2012 2013 2014 2015 2016
+2.0
+tightening from 2011 onward can be expected -1.0
+to have negative spillovers for external
+1.5
+-2.0
+demand.27 In the case of new fiscal
+1.0
+-3.0
+consolidation that achieves permanent debt
+0.5
+reduction, these negative effects are mitigated -4.0
+by the positive effects of a long-run reduction -5.0
+0.0
+in world interest rates. The assumed fiscal
+-0.5
+-6.0
+balance profile is shown in the text figure.
+-1.0
+-7.0
+Roughly half of the fiscal tightening is
+Primary structural balance
+assumed to come from increases in labor
+Change in the primary structural balance (rhs)
+income taxes from their 2010 levels, with
+reductions in government consumption and transfers accounting for most of the rest.28
+Short-run output spillovers from fiscal tightening in the United States to other countries
+are uniformly negative, but relatively small in size. GDP in other regions falls by a
+fraction of the fall in U.S. GDP, and recovers more quickly. There are two main reasons for
+25
+
+Section prepared by Alasdair Scott, with inputs from Ben Hunt and Stephen Snudden (RES) and Martin
+Sommer (WHD).
+
+26
+
+GIMF is a multi-country structural model covering the global economy. In each region, households, firms and
+fiscal and monetary policy authorities interact in goods and labor markets, with implications for prices, interest
+rates, exchange rates, and external balances. For the purpose of these exercises, the model is noticeable for its
+detailed fiscal structure, having several different types of government expenditures and taxes, and its nonRicardian behavior.
+
+27
+28
+
+See, for example, the October 2010 World Economic Outlook and the references contained therein.
+
+In addition to these fiscal shocks, nominal interest rates are fixed in the US and euro area for the first year,
+mimicking the current scenario of rates at the lower nominal bound.
+
+38
+such a result. First, without any other shocks, the scenario focuses on trade linkages and not
+financial linkages; outside of Canada and Mexico, the direct trade impact is relatively small.
+Second, domestic demand in other regions responds rapidly to higher anticipated income as a
+consequence of lower interest rates.
+Long-run spillovers from fiscal consolidation are uniformly positive. A fiscal
+consolidation that permanently reduces public debt causes real interest rates to fall and output
+to rise. Because the U.S. economy is large in capital markets, world interest rates also fall,
+with a positive impact on output in other regions.
+Total Contribution to Growth from Changes in U.S. Fiscal Balance
+United
+Emerging Remaining
+States Euro Area Japan
+Asia
+Countries
+2009
+1.4
+0.1
+0.1
+0.2
+0.1
+2010
+1.1
+0.2
+0.2
+0.4
+0.2
+2011
+-0.3
+0.0
+0.0
+-0.1
+0.0
+2012
+-1.3
+-0.2
+-0.2
+-0.3
+-0.1
+2013
+-1.0
+-0.1
+-0.1
+-0.2
+-0.1
+2014
+-0.8
+-0.1
+-0.1
+-0.2
+-0.1
+2015
+0.1
+-0.1
+-0.1
+0.0
+0.0
+2016
+0.4
+0.0
+0.0
+0.1
+0.0
+
+Rebalancing from U.S. Fiscal Tightening
+0.8
+
+(deviations from baseline in 2016)
+Current account balance (ppt)
+
+Domestic private demand (pct)
+
+0.6
+
+0.4
+
+0.2
+
+0.0
+
+-0.2
+
+-0.4
+
+U.S.
+
+euro area
+
+Japan
+
+emerging Asia
+
+r.o.w
+
+There are significant implications for trade and the composition of demand. Although
+the net effects on output for other countries are small relative to the impact on U.S. output,
+there are nonetheless important effects on trade and domestic demand in other countries. The
+composition of output in the United States shifts away from domestic toward external
+demand. The converse holds for other countries. Hence, although other countries benefit
+from lower interest rates, trade balances deteriorate to accommodate U.S. fiscal
+consolidation.29
+
+29
+
+The shocks are run under the assumption that nominal exchange rates in all other countries are free floating.
+Hence the burden of the necessary real exchange rate adjustments is taken up by nominal rates instead of goods
+prices and wages.
+
+39
+Variations on these scenarios illustrate a number of points:
+
+
+Spillovers are less severe when fiscal policies are anticipated and credible. Private
+agents anticipate the long-run benefits; consumption and investment start to improve
+much earlier. Consequently, spillovers to other regions are smaller, with less pressure
+on external rebalancing and capital flows.
+
+
+
+The balance between short-run costs and long-run benefits depends on how efficiently
+the deficit reduction is directed. The long-run effect depends on incentives to increase
+supply; in the model, lower labor or capital income taxes are more effective than, say,
+reducing (lump-sum) transfers exclusively, or reducing public consumption. In the
+short run, output falls by less in a scenario in which the same overall improvement in
+primary balances is financed by lump-sum taxes, for example.
+
+
+
+Spillovers to other countries are less severe when monetary policy is able to
+accommodate domestic fiscal consolidation. If U.S. nominal policy rates were able to
+fall, the effects are less severe, because there is less excess supply in the domestic
+economy that has to be exported and because U.S. private demand for other regions’
+goods is supported.
+
+
+
+A “front-loaded” fiscal adjustment that achieves the same debt reduction but is more
+aggressive from the start has a larger short-run cost to U.S. aggregate demand.
+Consequently, the negative spillovers onto demand in other regions are more severe,
+and the dollar depreciation and swings in the trade balance are larger.
+
+
+
+Spillovers could be affected by changes in risk premia, in addition to trade channels.
+Simulations suggest that if market concern over U.S. public debt were elevated, a
+front-loaded fiscal consolidation might have less of a negative effect on U.S. and
+world demand to the extent that it reduced risk premia. The reverse also applies: a
+consolidation that is not viewed as credible or effective at securing sustainable public
+balances could have a negative effect on risk premia. It is difficult to say how large
+the increases in interest rates could be, but simulations suggest that plausible changes
+in risk premia can have larger effects than those seen when focusing on trade linkages
+alone.
+
+40
+B. Fiscal Consolidation Scenarios: G-20 Model Simulation Results30
+This section analyzes spillovers from projected fiscal consolidation in the United States.
+This analysis is based on scenarios simulated with a refined version of the structural
+macroeconometric model of the G-20 documented in Vitek (2010).31 Our baseline scenario
+abstracts from any decline in long term nominal interest rates as a result from U.S. fiscal
+consolidation, while our alternative scenario accounts for the possibility of such declines, to
+varying degrees worldwide. Both scenarios abstract from monetary policy stabilization
+worldwide in order to isolate the effect of fiscal policy.
+
+Percent
+
+Figure 11.1: Cumulative Output Effects, 2011–2016
+We estimate that projected U.S.
+0.50
+fiscal consolidation would generate
+substantial domestic output losses.
+0.00
+Under our baseline scenario, we
+-0.50
+estimate a cumulative output loss of
+2.2 percent over the period 2011–
+-1.00
+2016. This scenario is based on the
+projected path of the fiscal impulse in
+-1.50
+the April 2011 WEO, which implies a
+-2.00
+cumulative fiscal consolidation of
+2.5 percent of output. Under our
+-2.50
+United
+China
+Euro Area
+Japan
+United
+Other
+Other
+alternative scenario, which assumes
+States
+Kingdom Advanced Emerging
+Baseline
+Alternative
+that the long term nominal interest
+rate in the U.S. declines by 39 basis points by 2014, we estimate a cumulative output loss of
+1.3 percent. The calibration of this scenario is based on Laubach (2009), who estimates that a
+one percent reduction in the ratio of government debt to output is associated with a 3 to
+4 basis point decline in the long term nominal interest rate.32
+
+Projected U.S. fiscal consolidation is estimated to generate variable spillovers to the rest
+of the world. Under our baseline scenario, estimated cumulative output losses for other
+advanced economies range from 0.1 to 1.4 percent over the period 2011–2016, while for
+emerging economies they range from 0.1 to 1.0 percent. Our alternative scenario assumes
+that 16 to 66 percent of the declines in the long term nominal interest rate in the U.S. pass
+through to other advanced economies while zero to 69 percent pass through to emerging
+economies, based on an event study analysis of the international bond market impacts of
+30
+
+Section prepared by Francis Vitek (SPR).
+
+31
+
+Vitek, F. (2010), Monetary policy analysis and forecasting in the Group of Twenty: A panel unobserved
+components approach, International Monetary Fund Working Paper, 152.
+
+32
+
+Laubach, T. (2009), New evidence on the interest rate effects of budget deficits and debt, Journal of the
+European Economic Association, 7, 858–885.
+
+41
+fiscal policy announcements (see Chapter II). Under this scenario, estimated cumulative
+output effects for other advanced economies range from a loss of 0.5 percent to a gain of
+0.4 percent, while for emerging economies they range from a loss of 0.2 percent to a gain of
+0.6 percent. Under both scenarios, estimated cumulative output losses in the rest of the world
+are generally increasing with the degree of trade integration with the United States.
+C. Sovereign Debt Crisis Scenarios: G-20 Model Simulation Results33
+This section presents simulation results for sovereign debt crisis scenarios originating in
+the United States featuring alternative degrees of financial market contagion. These
+simulation results are generated with a refined version of the structural macroeconometric
+model of the G-20 documented in Vitek (2010).34
+Our first scenario features a sovereign debt crisis contained within the United States. A
+sudden loss of confidence in fiscal sustainability there is represented by a positive term
+premium shock which in isolation would raise its long term nominal interest rate by
+450 basis points on impact. Heightened risk aversion also afflicts the U.S. stock market, an
+effect represented by a positive equity risk premium shock which in isolation would reduce
+equity prices by 60 percent on impact. Finally, loss of confidence by households and firms
+causes them to postpone their consumption and investment expenditures, decreasing
+domestic demand by 1 percent, while a fiscal consolidation reaction by the government
+reduces it by a further 2 percent. This contained sovereign debt crisis is estimated to generate
+weighted average peak output losses of 4.4 percent in the United States, of 0.5 percent in
+other advanced economies, and of 0.7 percent in emerging economies.
+Under our second scenario, heightened U.S. risk aversion spreads to bond and stock
+markets worldwide. This scenario augments our first scenario with term premium shocks
+which raise long term nominal interest rates in all other advanced economies by 180 basis
+points, and all emerging economies by 270 basis points. In addition, equity risk premium
+shocks reduce equity prices in all other advanced economies by 30 percent, and all emerging
+economies by 45 percent. Finally, loss of confidence decreases domestic demand in all other
+economies by 1 percent, while fiscal consolidation reactions reduce it by a further 1 percent
+in other advanced economies. This contagious sovereign debt crisis is estimated to generate
+weighted average peak output losses of 4.9 percent in the United States, of 3.6 percent in
+other advanced economies, and of 3.5 percent in emerging economies.
+
+33
+34
+
+Section prepared by Francis Vitek (SPR).
+
+Vitek, F. (2010), Monetary policy analysis and forecasting in the Group of Twenty: A panel unobserved
+components approach, International Monetary Fund Working Paper, 152.
+
+42
+Our third scenario combines bond and stock market collapses worldwide with a run on
+the dollar. This scenario augments our second scenario with exchange rate risk premium
+shocks which in isolation would depreciate the dollar by 30 percent in nominal effective
+terms on impact. The implied real effective appreciation pressure on other currencies is
+disinflationary, raising the scope for monetary policy loosening to mitigate output losses in
+affected economies. This contagious sovereign debt crisis is estimated to generate weighted
+average peak output losses of 4.6 percent in the United States, of 3.5 percent in other
+advanced economies, and of 3.2 percent in emerging economies.
+Under our fourth scenario, heightened risk aversion afflicts bond and stock markets
+worldwide and there is a flight to quality. This scenario augments our second scenario
+with exchange rate risk premium shocks which in isolation would appreciate the dollar by
+15 percent in nominal effective terms on impact. The implied real effective depreciation
+pressure on other currencies is inflationary, reducing the scope for monetary policy loosening
+to mitigate output losses in affected economies. This contagious sovereign debt crisis is
+estimated to generate weighted average peak output losses of 5.1 percent in the United States,
+of 3.7 percent in other advanced economies, and of 3.7 percent in emerging economies.
+Figure 11.2: Peak Output Losses
+6.0
+
+5.0
+
+Percent
+
+4.0
+
+3.0
+
+2.0
+
+1.0
+
+0.0
+United States
+Scenario 1
+
+Other Advanced Economies
+Scenario 2
+
+Scenario 3
+
+Emerging Economies
+Scenario 4
+
+43
+XII. U.S. FINANCIAL SPILLOVERS: RAISING U.S. CAPITAL ADEQUACY REQUIREMENTS35
+Spillovers from a regulatory increase in capital adequacy requirements in the United States
+are analyzed. Under our baseline scenario, it is estimated that a binding one percentage
+point increase in U.S. capital adequacy requirements would generate substantial spillovers.
+The focus of this chapter is on the transitional costs of higher capital requirements, as
+opposed to the permanent net benefits accruing from less frequent and severe banking crises.
+This analysis is based on scenarios simulated with an extended and refined version of the
+structural macroeconometric model of the world economy, disaggregated into its fifteen
+largest national economies, documented in Vitek (2009).36 These scenarios abstract from
+monetary policy stabilization and assume that the macroeconomic effects of this regulatory
+measure are transmitted exclusively via a permanent increase in the spread between
+commercial bank lending and deposit rates. Under our baseline scenario, the extent to which
+this interest rate spread increases varies across economies in proportion to the ratio of credit
+provided by commercial banks incorporated in the United States to total credit. Our
+alternative scenario abstracts from this cross-border bank lending channel.
+
+Percent
+
+Figure 12.1: Peak Output Losses Under Baseline
+Under our baseline scenario, it is
+Scenario
+estimated that a binding one
+0.30
+percentage point increase in U.S.
+capital adequacy requirements
+0.25
+would generate substantial
+0.20
+spillovers (Figure 12.1). A capital
+requirement shock is analogous to a
+0.15
+permanent monetary policy shock, and
+0.10
+is transmitted via the interest rate,
+exchange rate, and cross-border bank
+0.05
+lending channels of monetary policy.
+0.00
+In the United States, we estimate a
+United States
+Other Advanced Emerging Economies
+Economies
+peak output loss of 0.26 to
+Two Years
+Four Years
+Six Years
+Eight Years
+0.28 percent, depending on the speed
+of implementation. In other advanced economies, our estimated peak output losses range
+from 0.05 to 0.19 percent, while in emerging economies they range from 0.05 to
+
+35
+36
+
+Prepared by Francis Vitek (SPR).
+
+Vitek, F. (2009), Monetary policy analysis and forecasting in the world economy: A panel unobserved
+components approach, International Monetary Fund Working Paper, 238.
+
+44
+0.16 percent. These estimates are based on a 0.12 percent increase in the interest rate spread,
+following MAG (2010).37
+
+Percent
+
+Figure 12.2: Peak Output Losses Under Alternative
+Abstracting from cross-border
+Scenario
+lending links, we estimate that the
+0.30
+same increase in U.S. capital
+adequacy requirements as before
+0.25
+would generate only modest
+0.20
+spillovers (Figure 12.2). The
+substantial reduction in peak output
+0.15
+losses in the rest of the world relative
+0.10
+to our baseline scenario reflects the
+importance of the cross-border bank
+0.05
+lending channel of monetary policy,
+0.00
+due to the high dependence of other
+United States
+Other Advanced Emerging Economies
+Economies
+advanced and emerging economies on
+Two Years
+Four Years
+Six Years
+Eight Years
+credit provided by commercial banks
+incorporated in the United States. In other advanced economies, our estimated peak output
+losses range from 0.03 to 0.16 percent, while in emerging economies they range from 0.03 to
+0.12 percent, in spite of their greater trade openness and less flexible exchange rate regimes.
+These output losses primarily reflect reduced export demand from the United States,
+mitigated by real effective currency depreciations in the rest of the world.
+
+37
+
+Macroeconomic Assessment Group (2010), Assessing the macroeconomic impact of the transition to stronger
+capital and liquidity requirements, Financial Stability Board and Basel Committee on Banking Supervision
+Final Report.
+
+45
+XIII. U.S. FINANCIAL SPILLOVERS: BANKING SYSTEM RISKS38
+The potential for spillover effects arising from U.S. banking sector vulnerabilities to large
+shocks remains a key concern for maintaining financial stability amid the impact of more
+stringent regulatory standards. U.S. policy measures have helped reduce the link between
+individual and system-wide risks in the banking sector, with positive spillovers abroad.
+A. Examining the Potential Spillover of Systemic Risk
+The analysis compares the relationship between individual and systemic (solvency) risk
+of major banks in Europe and the United States during the credit crisis.39 The systemic
+risk is defined as the joint default risk among all sample banks in each jurisdiction based on
+the multivariate distribution (MGEV) of joint CDS spread movements defined by a nonparametric dependence function.40 This dependence measure is combined with the marginal
+distributions of these individual CDS spread movements, which are assumed to be
+generalized extreme value (GEV). In contrast, individual risk is defined as the average
+default risk weighted by the total assets of sample banks in each jurisdiction.
+Two types of credit default swap (CDS) prices are used in this analysis as a measure of
+solvency risk: (i) the actual one-year CDS spread (obtained from proprietary data providers
+(Bloomberg and MarkIt)) as well as (ii) the fair value (or “synthetic”) CDS spreads over a
+one-year risk horizon (extracted from equity prices via an advanced version of contingent
+claims analysis, or CCA).41. The latter CDS spreads are generally higher than the actual CDS
+spreads, which reflect only the residual solvency risk of banks due to implicit or explicit
+government guarantees as a result of being systemically important.
+The analysis finds that both systemic and individual risk culminated in the first quarter
+of 2009. This was followed by a persistent decline in individual risk until end-2009, and an
+38
+
+Prepared by Andreas (Andy) Jobst (MCM).
+
+39
+
+The sample includes the following banks: Barclays, BNP, Deutsche Bank, Santander, UBS and Unicredit (for
+Europe) as well as Bank of America, Citigroup, Goldman Sachs, and J.P. Morgan (for the United States).
+40
+
+Gray, D. F. and A. A. Jobst, 2009, “Higher Moments and Multivariate Dependence of Implied Volatilities
+from Equity Options as Measures of Systemic Risk,” Global Financial Stability Report, Chapter 3, April
+(Washington: International Monetary Fund), pp. 128–131. Gray, D. F. and A. A. Jobst, 2010, “New Directions
+in Financial Sector and Sovereign Risk Management, Journal of Investment Management, Vol. 8, No.1, pp.23–
+38. Jobst, A. A. and H. Kamil, 2008, “Stock Market Linkages Between Latin America and the United States
+During ‘Tail Events’,” in Latin American Linkages to Global Financial Market Turbulence, Regional Economic
+Outlook (Washington: Western Hemisphere Department, International Monetary Fund), pp. 35–36.
+
+41
+
+Gray, D. F, and A. A. Jobst, 2011, “Modeling Systemic and Sovereign Risk” in: Berd, Arthur (ed.) Lessons
+from the Financial Crisis (London: RISK Books), pp. 143–85.
+
+46
+eventual stabilization of system-wide risk at an elevated level in the wake of U.S. policy
+announcements (Figures 13.1–13.4). Systemic risk subsequently declined in anticipation of a
+series of U.S. policy measures in early 2010, such as the announcement of the “Volcker
+Rule” on restricted proprietary trading and the proposed imposition of a financial crisis
+responsibility tax. These policy measures consolidated a trend towards lower systemic risk in
+the U.S. banking sector. The interaction between individual and systemic risk was similar in
+both the United States and Europe, with the exception of a slower decline of systemic risk (if
+measured by synthetic CDS) in Europe during the first half of 2010.
+More importantly, the slope of the relationship between individual and systemic risk
+appears to have flattened over time. Analysis of this relationship is complicated by periods
+in which the expected positive relationship between individual and system risk does not hold.
+However, there appear to be three periods of relative stability: (i) from the Lehman collapse
+to June 2009; (ii) from July 2009 through the announcement of Volcker rule (January 2010);
+and (iii) after the announcement of the Volker rule. As can be seen in Figures 13.1 and 13.2,
+the usually positive relationship between U.S. banks’ individual risk and systemic risk
+flattened after the announcement of the Volcker rule. A similar pattern seems to be true for
+European banks, suggesting positive spillovers.
+B. Examining the Tail Dependence between U.S. and European Banking Sector
+Risks – Dynamic Dependence Structure Model (DDS)
+This section assesses the potential for such vulnerabilities to spillover to European banks
+(based on the DDS model to quantify the dependence structure).42 The analysis finds that
+cross-border linkages of banking sector risk have increased dramatically during the credit
+crisis, especially for very large increases of default risk until mid-2009. After a noticeable
+decline during the first half of 2010 amid lower systemic risk in the U.S. banking sector,
+spillover effects have reemerged in the wake of persistent turmoil in the European periphery.
+In this analysis, the DDS model – based on the concept of multivariate extreme value
+theory (EVT) – is used to assess the potential for spillovers effects from joint banking
+sector distress (“tail risk”) in Europe and the United States. It shows whether extreme
+cross-border linkages exist and how these might change over time, acknowledging that large
+shocks are transmitted differently than small shocks. These linkages are measured as
+dependence values,43 which are calculated iteratively as central estimates on daily
+
+42
+43
+
+The sample of banks is the same as in Section A.
+
+Conventional correlation coefficients are seriously misleading in the presence of skewed distributions and
+high volatility, mainly because they detect only linear dependence between two variables whose marginal
+distributions are assumed to be distributed normally – an ideal assumption rarely encountered in practice.
+
+47
+Figure 13.1: United States: Comparison of Individual and Systemic Risk in the Banking
+Sector - based on synthetic CDS spreads (CCA Equity Put)
+United States: Comparing Individual and Systemic Risk
+(fair value CDS spreads based on equity prices)
+350
+
+declining
+individual risk
+
+Systemic Risk
+(joint CDS spread)
+
+300
+
+250
+
+declining
+systemic risk
+
+200
+
+150
+
+100
+
+rising systemic risk
+
+50
+
+0
+0
+
+100
+
+200
+
+300
+
+400
+
+500
+
+600
+
+700
+
+800
+
+900
+
+Individual Risk
+(average CDS spread)
+before Lehman
+
+after Lehman until end-June 09
+
+July 09 until Volcker Rule
+
+after Volcker Rule
+
+Sample period: 06/26/07-09/10/10 (1,135 obs.) of daily observations. The fair value CDS spreads are defined as equity-implied "synthetic" one-year CDS spreads and
+are aggregated via a multivariate distribution to derive a measure of systemic risk [based on an advanced CCA framework, Gray and Jobst (2010)].
+
+Figure 13.2: United States: Comparison of Individual and Systemic Risk in the Banking
+Sector - based on actual CDS spreads
+United States: Comparing Individual and Systemic Risk
+(actual CDS spreads)
+declining
+individual risk
+
+500
+
+Systemic Risk
+(joint CDS spread)
+
+400
+
+declining
+systemic risk
+
+300
+
+200
+
+rising systemic risk
+100
+
+0
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+350
+
+400
+
+450
+
+Individual Risk
+(average CDS spreads)
+before Lehman
+
+after Lehman until end-June 09
+
+July 09 until Volcker Rule
+
+after Volcker Rule
+
+Sample period: 06/26/07-09/10/10 (1,135 obs.) of daily observations. The one-year CDS spreads and are aggregated via a multivariate distribution to derive a measure
+of systemic risk [based on an advanced CCA framework, Gray and Jobst (2010)].
+
+48
+Figure 13.3: Europe: Comparison of Individual and Systemic Risk in the Banking
+Sector - based on synthetic CDS spreads (CCA Equity Put)
+Europe: Comparing Individual and Systemic Risk
+(fair value CDS spreads based on equity prices)
+300
+
+declining
+individual risk
+
+Systemic Risk
+(joint CDS spreads)
+
+250
+
+declining
+systemic risk
+
+200
+
+150
+
+100
+
+rising systemic risk
+
+50
+
+0
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+350
+
+400
+
+Individual Risk
+(average CDS spread)
+before Lehman
+
+after Lehman until end-June 09
+
+July 09 until Volcker Rule
+
+after Volcker Rule
+
+Sample period: 06/26/07-09/10/10 (1,135 obs.) of daily observations. The fair value CDS spreads are defined as equity-implied "synthetic" one-year CDS spreads and are
+aggregated via a multivariate distribution to derive a measure of systemic risk [based on an advanced CCA framework, Gray and Jobst (2010)].
+
+Figure 13.4: Europe: Comparison of Individual and Systemic Risk in the Banking
+Sector - based on actual CDS spreads
+Europe: Comparing Individual and Systemic Risk
+(actual CDS spreads)
+175
+
+declining
+individual risk
+150
+
+Systemic Risk
+(joint CDS spread)
+
+125
+
+declining
+systemic risk
+
+100
+
+75
+
+rising systemic risk
+
+50
+
+25
+
+0
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+Individual Risk
+(average CDS spread)
+before Lehman
+
+after Lehman until end-June 09
+
+July 09 until Volcker Rule
+
+after Volcker Rule
+
+Sample period: 06/26/07-09/10/10 (1,135 obs.) of daily observations. The one-year CDS spreads and are aggregated via a multivariate distribution to derive a measure of
+systemic risk [based on an advanced CCA framework, Gray and Jobst (2010)].
+
+49
+Figure 13.5: Dynamic Dependence Structure – Spillover between the U.S. and
+European Banking Sector (2007–2011).
+U.S. and European Banks: Dependence Structure between Joint "Synthetic" CDS Spreads
+(Sept. 2007- June 2009) 1/
+
+High
+
+100
+75
+
+Dependence
+Measure
+
+50
+
+Degree of
+Dependence
+
+(In percent)
+25
+
+75-100
+50-75
+
+0
+
+25-50
+
+0.05
+
+-25
+
+0.2
+
+Low
+
+0-25
+
+0.35
+
+-50
+
+-25-0
+
+0.5
+-75
+
+-50--25
+
+0.65
+
+Large
+Decline
+
+-75--50
+
+0.8
+0.95
+
+Size
+of Joint Changes
+
+Large
+Increase
+
+1/ The non-linear, non-parametric Chi-statistic based dependence measure is
+calculated iteratively on daily observations of fair value (equity price-based) CDS
+spreads (using CCA) over a 5-month rolling window and monthly updating. The joint
+CDS spreads for European and U.S. banks arecalculated via a multivariate generalized
+extreme value distribution (MGEV) used in the Systemic CCA (Gray and Jobst, 2010)
+approach.
+
+U.S. and European Banks: Dependence Structure between Joint "Synthetic" CDS Spreads
+(June 2009 - Jan. 2011) 1/
+
+High
+
+100
+75
+
+Degree of
+Dependence
+
+Dependence
+Measure
+
+50
+
+(In percent)
+
+25
+
+75-100
+50-75
+
+0
+
+Low
+
+25-50
+
+0.05
+-25
+
+0-25
+
+0.2
+
+-25-0
+
+0.35
+
+-50
+
+-50--25
+
+0.5
+
+Large
+Decline
+
+0.65
+0.8
+
+Size
+
+0.95
+
+of Joint Changes
+
+Large
+Increase
+
+1/ The non-linear, non-parametric Chi-statistic based dependence measure is
+calculated iteratively on daily observations of fair value (equity price-based) CDS
+spreads (using CCA) over a 5-month rolling window and monthly updating. The joint
+CDS spreads for European and U.S. banks arecalculated via a multivariate generalized
+extreme value distribution (MGEV) used in the Systemic CCA (Gray and Jobst, 2010)
+approach.
+
+Note: The non-linear, non-parametric Chi-statistic based dependence measure is calculated iteratively on daily
+observations over a 5-month rolling window and monthly updating. The inputs are the joint fair value CDS
+spreads of sample banks in each Europe and the United States, calculated via a multivariate generalized extreme
+value distribution (MGEV) used in the Systemic CCA (Gray and Jobst, 2010) approach.
+
+50
+observations within a sliding one-year rolling window that is updated monthly.44 The threedimensional charts below (see Figure 13.5) show the dependence between joint changes in
+fair value one-year credit default swap (CDS) spreads (extracted from equity prices via an
+advanced version of CCA) since the onset of the credit crisis and during the European
+sovereign crisis.
+The dependence value between banks in Europe and the United States is derived after
+calculating the joint default risk among all sample banks within each jurisdiction. The
+multivariate distribution (MGEV) of joint CDS spread movements of all sample banks in
+Europe and the United States is estimated separately before the magnitude of bilateral
+linkages between the banking sectors in Europe and the United States are determined. The
+dependence structure is derived using the same methodology as in Section A. Based on the
+joint changes in CDS spreads of European and U.S. banks, the bilateral dependence measure
+is derived.45
+Figure 13.6: Dynamic Dependence Structure – Spillover between the U.S. and
+European Banking Sector (2007–2011).
+U.S. and European Banks: Dependence Structure between Joint
+"Synthetic" CDS Spreads, Large Negative Shocks
+(Top Quartile, 75th percentile and higher) (2007-2011)
+80
+
+40
+
+20
+
+Jan-11
+
+Nov-10
+
+Jul-10
+
+Sep-10
+
+May-10
+
+Jan-10
+
+Mar-10
+
+Nov-09
+
+Jul-09
+
+Sep-09
+
+May-09
+
+Jan-09
+
+Mar-09
+
+Nov-08
+
+Jul-08
+
+Sep-08
+
+May-08
+
+Jan-08
+
+Mar-08
+
+-20
+
+Sep-07
+
+0
+Nov-07
+
+Dependence Value (In percent)
+
+60
+
+-40
+
+-60
+
+This framework was also used to assess spillover effects of U.S. policy announcements
+during the credit crisis on banking sector risks in both the United States and Europe.
+44
+
+This measure is better suited to analyzing joint tail risks, because it links the univariate marginal distributions
+of multiple asset prices in a way that formally captures both their linear and non-linear dependence over time.
+
+45
+
+Coles, S. G., Heffernan, J. and J. A. Tawn, 1999, “Dependence Measures for Extreme Value Analyses,”
+Extremes, Vol. 2, pp. 339–65. Poon, S.-H., Rockinger, M. and J. Tawn, 2003, “Extreme Value Dependence in
+Financial Markets: Diagnostics, Models, and Financial Implications,” The Review of Financial Studies, Vol. 17,
+No. 2, pp. 581–610. Jobst, A. A., 2007, “Operational Risk – The Sting is Still in the Tail But the Poison
+Depends on the Dose,” Journal of Operational Risk, Vol. 2, No. 2 (Summer), 1–56.
+
+51
+To this effect, the DDS model is adapted to an event study framework using a sliding
+window of three months and daily updating to examine changes in the dependence measure
+in both banking sectors in response to significant U.S. policy announcements.
+Examining the dependence at varying magnitudes of shocks over time illustrates the
+dynamic characteristics of potential tail risk between the United States and Europe. The
+analysis finds that cross-border linkages of banking sector risk have increased dramatically
+during the credit crisis, especially for very large increases of default risk until mid-2009.
+Until the end of 2009, the potential for spillovers was also more pronounced for declines in
+market-perceived solvency risk (i.e., lower CDS spreads) – but such declines were much
+smaller than increases during 2009.
+After having waned over the first half of 2010 (see Section A above), spillover risks
+reemerged in the wake of persistent turmoil in the European periphery. Spillover effects
+from solvency shocks in the banking sector stabilized briefly during mid-2010 amid lower
+levels of systemic risk. While system-wide default risk in the U.S. banking sector appears to
+have leveled off over time, during the last months of 2010, however, cross-border linkages to
+European peers exhibit growing susceptibility to common shocks and almost reached credit
+crisis levels in January 2011.
+
+

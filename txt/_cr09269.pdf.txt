@@ -1,0 +1,5111 @@
+© 2009 International Monetary Fund
+
+[Month, Day], 201
+
+August 2009
+IMF Country Report No. 09/269
+August 2, 2001
+
+Singapore: 2009 Article IV Consultation—Staff Report; Staff Statement; Public
+Information Notice on the Executive Board Discussion; and Statement by the Executive
+Director for Singapore
+Under Article IV of the IMF’s Articles of Agreement, the IMF holds bilateral discussions with
+members, usually every year. In the context of the 2009 Article IV consultation with Singapore, the
+following documents have been released and are included in this package:
+
+
+The staff report for the 2009 Article IV consultation, prepared by a staff team of the IMF,
+following discussions that ended on May 18, 2009, with the officials of Singapore on
+economic developments and policies. Based on information available at the time of these
+discussions, the staff report was completed on July 16, 2009. The views expressed in the staff
+report are those of the staff team and do not necessarily reflect the views of the Executive
+Board of the IMF.
+
+
+
+A staff statement of July 29, 2009, updating information on recent developments.
+
+
+
+A Public Information Notice (PIN) summarizing the views of the Executive Board as
+expressed during its July 29, 2009 discussion of the staff report that concluded the Article IV
+consultation.
+
+
+
+A statement by the Executive Director for Singapore.
+
+The policy of publication of staff reports and other documents allows for the deletion of market-sensitive
+information.
+Copies of this report are available to the public from
+International Monetary Fund  Publication Services
+700 19th Street, N.W.  Washington, D.C. 20431
+Telephone: (202) 623-7430  Telefax: (202) 623-7201
+E-mail: publications@imf.org  Internet: http://www.imf.org
+
+International Monetary Fund
+Washington, D.C.
+
+INTERNATIONAL MONETARY FUND
+SINGAPORE
+Staff Report for the 2009 Article IV Consultation
+Prepared by the Staff Representatives for the 2009 Consultation with Singapore
+Approved by Mahmood Pradhan and Tessa van der Willigen
+July 16, 2009
+
+
+Discussions: May 11–18, 2009, with Minister of Finance Tharman Shanmugaratnam,
+Managing Director of the Monetary Authority of Singapore Heng Swee Keat, other senior
+officials, and representatives of the private sector.
+
+
+
+Team: Messrs. Zanello (head), Guimarães-Filho, Rozhkov, and Zebregs (Resident
+Representative) (all APD). Mr. Chua (OED) also participated in the meetings.
+
+
+
+Mission focus: Policies to lessen the blow of the global recession, maintain financial
+stability, and ensure that Singapore is well positioned when the world economy recovers.
+
+
+
+Policy dialog: Financial sector policies have been especially in line with past Fund advice.
+There has been less consensus on monetary and exchange rate policies, particularly as
+regards calls for a faster appreciation of the Singapore dollar during the cyclical upswing.
+For a description of policy issues discussed in the 2008 Article IV consultation, see
+http://www.imf.org/external/pubs/cat/longres.cfm?sk=22274.0.
+
+
+
+Exchange rate system: Singapore has accepted the obligations of Article VIII,
+Sections 2, 3, and 4. The exchange system is free of restrictions on the making of payments
+and transfers for current international transactions. The exchange rate arrangement is
+floating and it remains appropriate.
+
+
+
+ROSCs: A fiscal ROSC remains a priority for the authorities, and the exact timing is likely
+to be considered next year. In addition, a data ROSC would also be useful and could be
+considered at that time.
+
+
+
+Data: Adequate for surveillance. Authorities have committed to improve over time the
+reporting of the international investment position to the Fund, which is currently incomplete.
+
+2
+Contents
+
+Page
+
+Executive Summary ...................................................................................................................3
+I.
+
+Introduction ........................................................................................................................4
+
+II. Macroeconomic Developments ..........................................................................................4
+III. Financial Developments .....................................................................................................5
+IV. Policy Developments ..........................................................................................................8
+V. Outlook and Risks.............................................................................................................10
+VI. Policy Discussions ............................................................................................................11
+A. The Role of Macroeconomic Policies .......................................................................11
+B. The Outlook for the Financial Sector ........................................................................12
+C. Exchange Rate ...........................................................................................................15
+VII. Staff Appraisal ..................................................................................................................15
+Boxes
+1. Global Crisis and Financial Contagion...............................................................................6
+2. Resilience Package .............................................................................................................9
+3. Asian Currency Units and Domestic Banking Units ........................................................14
+4. Exchange Rate Assessment ..............................................................................................16
+Figures
+1. Real Sector Developments................................................................................................19
+2. Asset Market Developments.............................................................................................20
+3. External Developments.....................................................................................................21
+4. Financial Sector Developments ........................................................................................22
+Tables
+1. Selected Economic and Financial Indicators, 2003–10....................................................23
+2. Balance of Payments, 2003–10.........................................................................................24
+3. Monetary Survey, 2006–09 ..............................................................................................25
+4. Indicators of Vulnerability, 2003–08................................................................................26
+5. Summary of Government Operations, 2005/06–2009/10.................................................27
+6. Medium-Term Scenario, 2006–14....................................................................................28
+7. Financial Soundness Indicators: Local Banking Sector, 2004–08 ...................................29
+
+3
+EXECUTIVE SUMMARY
+Background. Singapore was among the first countries in Asia to enter a recession and is now
+set for its worst economic contraction since independence in 1965. The economy is projected
+to shrink by about 8 percent in 2009, primarily as a result of a slump in external demand and
+private investment. Nonetheless, Singapore’s economic fundamentals remain strong and
+provide an important buffer against the external shocks. As elsewhere in the region,
+Singapore’s financial markets have experienced substantial turbulence, but the impact of the
+downturn is being felt primarily through the trade channel. On the whole, financial markets
+have continued to operate in an orderly fashion.
+Policy issues. The government tackled the unfolding crisis by deploying a broad range of
+instruments. The overarching strategy has been to lessen the impact of the external shocks,
+while ensuring that Singapore is well positioned to rebound once the global economy
+recovers.
+Monetary policy. With inflation concerns out of the picture, the monetary settings are
+appropriate. Staff and authorities agreed that, barring a significant deterioration of the
+outlook for growth or inflation, monetary policy should stay the course until a recovery is
+well established. Fiscal policy should provide any additional countercyclical fine-tuning, if
+needed. There was agreement that a return to a trend appreciation for the NEER would
+safeguard price stability further along the recovery path.
+Fiscal policy. The fiscal package in the FY 2009 budget has been timely, appropriately large,
+and diversified. It would also support growth over horizons beyond the near term through
+accelerated infrastructure spending. The authorities intend to undertake additional measures
+if the economy’s trajectory proves more fragile than currently expected. Staff and the
+authorities shared the view that a premature fiscal withdrawal could undermine positive
+confidence effects of actions taken.
+Financial sector. The global turmoil will have a negative impact on short-term earnings of
+most financial institutions. Nevertheless, Singapore’s financial system is sound and should
+be able to withstand a deeper and more prolonged downturn. This resilience is in large part
+the result of robust supervision and regulation as well as local financial institutions’ own
+internal risk management and business models. The authorities have been proactive in taking
+steps to support confidence and market functionality. There was a broad consensus that credit
+quality will deteriorate in the near term, as the recession drags on. However, at present, these
+pressures look manageable. Rigorous stress tests encompassing multi-year scenarios, tail
+events, and correlated shocks remain a high priority for the period ahead.
+Exchange rate. Staff estimates the real effective value of the Singapore dollar to be
+somewhat weaker than its equilibrium. As such, it provides countercyclical support. The
+authorities noted that according to their valuation models the real effective Singapore dollar
+is broadly in line with its fair value. Staff and authorities agreed that unusual uncertainty
+clouds these assessments.
+
+4
+I. INTRODUCTION
+1.
+Context. While integration into the world economy continues to underpin
+Singapore’s economic success, its exposure to the global business cycle is posing
+considerable challenges at present. Indeed, Singapore was among the first countries in Asia
+to enter a recession and is now set for its worst economic contraction ever. Nonetheless,
+economic fundamentals remain strong and provide an important buffer against the external
+shocks. As a result, policymakers have ample room to maneuver.
+2.
+Focus of the mission. The 2009 Article IV discussions focused on the appropriate
+policies to lessen the blow of the global recession, maintain financial stability, and ensure
+that Singapore is well positioned when the world economy begins to recover. Given
+Singapore’s importance as an international financial center, special emphasis was given to
+adverse macro-financial interactions and the possibility of outward spillovers.
+II. MACROECONOMIC DEVELOPMENTS
+3.
+Context. As elsewhere in the region, Singapore’s financial markets have experienced
+substantial turbulence, but the main impact of the downturn is being felt through the trade
+channel.
+4.
+Growth. The decline in GDP started in
+the second quarter of 2008 and accelerated in
+the second half of the year (Figure 1 and
+Table 1). Activity dropped by nearly
+13 percent (q/q, saar) in the first quarter of
+2009 as external demand collapsed. Exportoriented sectors (electronics, engineering,
+transport and storage) have been hit the
+hardest, but services, including in the financial
+sector, have also suffered. By contrast, with
+large projects underway, construction has held
+up well so far.
+
+Real GDP Growth and Contributions
+(In percent)
+20
+
+20
+
+15
+
+15
+
+10
+
+10
+
+5
+
+5
+
+0
+
+0
+
+-5
+
+-5
+Contribution from net exports
+Contribution from domestic demand
+Gross domestic product
+
+-10
+-15
+2000
+
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+-10
+-15
+2007
+
+2008 2009/p
+
+5.
+Inflation. Headline inflation has continued to recede from a peak of 7½ percent
+(y/y) in mid-2008 to 1½ percent in March 2009. The drop in inflation was initially driven by
+lower food and commodity prices, but recently has become more broad-based, reflecting
+falling import prices and slack in demand.
+6.
+Labor market. The unemployment rate of the resident workforce (seasonally
+adjusted) has risen from 2.8 percent in Q1 2008 to 4.8 percent in Q1 2009, and monthly
+
+5
+earnings growth has decelerated sharply.1 However, employment of residents has fallen less
+than in previous downturns as the corporate sector entered the recession in a stronger
+position. In particular, employment in the construction and services is still expanding and is
+absorbing laid-off workers from the manufacturing sector. There is anecdotal evidence that
+foreign workers are bearing the brunt of adjustment. Government programs (discussed
+below) are also helping firms to reduce labor costs and retain employees.
+7.
+Balance of payments. The current account surplus has shrunk markedly as a result of
+the slump in exports (Figure 3 and Table 2). It dropped from an average of 16.3 percent of
+GDP in the first three quarters of 2008 to 10.4 percent of GDP in Q4 2008. FDI and portfolio
+inflows have also fallen because of the deteriorating growth outlook and rising risk aversion.
+However, the decline has been more than offset by lower capital outflows owing to weaker
+corporate profits and concerns about asset quality in advanced economies. Outflows have
+also been mitigated by Singapore’s status as a safe haven. Official reserves have declined
+from the peak of US$177 billion at end-March 2008, but have begun to recover in recent
+months, reaching about US$172 billion as of end-May 2009.
+III. FINANCIAL DEVELOPMENTS
+8.
+Context. Singapore is a major funding center for South-East Asia. Accordingly,
+financial market conditions are highly influenced by developments abroad. In particular, the
+global financial volatility that erupted in late September 2008 spilled into domestic asset
+prices (Box 1). Markets have been severely tested but, on the whole, have continued to
+operate in an orderly fashion. Financial institutions have nonetheless suffered from a drop in
+fees and commissions as well as from an increase in intermediation cost. The attendant
+contraction in financial activity has contributed 1 percentage point to the y/y fall of quarterly
+real GDP in Q4 2008 and Q1 2009 (of 4.2 percent and 10.1 percent, respectively).
+9.
+Outward spillovers. Overall, financial developments in Singapore had only minor
+impact on the Asian Dollar Market. Domestic banks, which in late 2008 were net lenders in
+U.S. dollars in the interbank market, became more cautious in their lending. Some foreign
+banks seeking U.S. dollar liquidity faced much higher costs of borrowing. While banks that
+needed Singapore-dollar liquidity had ready access to the MAS standing facility, financial
+institutions that sought to borrow Singapore dollars to swap into U.S. dollars to meet funding
+needs elsewhere were unable to pledge foreign currency collateral at the MAS window.
+Rates for some transactions in the Asian dollar market exceeded the U.S. dollar SIBOR rate
+at times when borrowers were charged a spread depending on their perceived
+creditworthiness. Strains were largely over by end-2008.
+1
+
+The overall unemployment rate has risen from 2 percent to 3¼ percent during that period.
+
+6
+Box 1. Global Crisis and Financial Contagion
+The global financial crisis has propagated rapidly around the world. In most markets
+(including Asia) financial contagion was the direct result of the global sell-off caused by
+deleveraging.
+What has been the impact of global financial turbulence on Singapore’s asset prices?
+Preliminary insights can be drawn from vector autoregressions (VAR) comprising of a
+measure of risk appetite and an asset price, as well as the associated impulse response
+functions.1/
+Econometric analysis shows that shocks to global risk appetite have a large impact on
+the equity returns and exchange rates in Singapore. A one standard deviation increase in
+the VIX (a proxy for global risk aversion) leads to a 100 basis points decline in equity prices
+and an eight basis point depreciation of the exchange rate vis-à-vis the U.S. dollar. The
+impact on the stock market is comparable with that in the other countries included in the
+estimations (the average impact on the
+stock market is a decline of about 105 basis
+Cumulative Impact to One Standard Deviation Shock to VIX
+(In basis points, over 5-day period) 1/
+points). Although Singapore is highly
+Exchange Rate
+Stock Market
+integrated with the global economy, the
+effect of the risk appetite shock on the
+Indonesia
+42
+-126
+exchange rate (vis-à-vis the U.S. dollar) is
+Japan
+-19
+-119
+Korea
+43
+-101
+one-and-half to five times smaller than in
+Malaysia
+12
+-70
+Philippines
+17
+-110
+the other countries considered (table).2/ This
+Singapore
+8
+-100
+likely reflects Singapore’s exchangeBrazil
+52
+-122
+Mexico
+50
+-94
+centered monetary policy framework, which
+Source: IMF staff estimates.
+limits the extent to which global volatility is
+1/ Increase in exchange rate corresponds to a depreciation.
+transmitted to the exchange rate.
+The impact of risk appetite shocks is instantaneous and long lasting. The shape of the
+impulse response functions show that in almost all cases considered, the five-day cumulative
+effect of the risk appetite shock is similar to the immediate (one-day) impact—which can
+also be inferred from the VAR. Moreover, after 10 trading days the effects of financial
+contagion are statistically significant, consistent with the notion that repricing of risk can
+have long lasting global effects on prices and volatility.
+____________________
+1/ The VAR is estimated in first differences with daily data over the January 2004-May 2009 period. The VIX
+precedes the “domestic” asset price in each VAR, i.e., shocks to the latter do not affect the former
+contemporaneously.
+2/ In the case of the Japanese yen, the finding is consistent with the unwinding of carry trades, i.e. as risk
+appetite decreases financial home bias reasserts itself (causing the Japanese yen to appreciate).
+
+7
+10.
+Equity market. Following the collapse of Lehman Brothers, the equity market fell by
+almost 24 percent in October 2008, the biggest month-on-month decline in more than twenty
+years (Figure 2). The equity sell-off reflected global deleveraging, as well as investor
+concerns about Asia’s growth prospects. In recent months, concerns about the severity of the
+global downturn have eased and risk appetite has improved, lifting equity prices by
+54 percent from the trough in March 2009.
+11.
+Money markets. Money markets experienced considerable liquidity pressures in the
+fall of 2008. Interbank rates spiked with rising counterparty risk, but markets never seized
+up. Liquidity pressures eased by January 2009, following coordinated actions by central
+banks around the globe. The improved liquidity situation has been reflected in reduced
+volatility in interbank rates and lower TED and OIS spreads.2
+12.
+Foreign exchange market. Turnover in the foreign exchange market—the fifth
+largest in the world—fell by about 40 percent between September and December of 2008 as
+financial institutions hoarded cash and U.S. dollar liquidity dried up. The Singapore dollar
+weakened by 3¼ percent against the U.S. dollar during this period, broadly in line with
+exchange rate movements elsewhere in the region. Turnover has improved with the global
+increase in U.S. dollar liquidity, but it remains below the levels recorded in the first half of
+2008. The Singapore dollar has strengthened against the U.S. dollar since March 2009 along
+with other currencies in Asia as risk capital has begun to return to the region.
+13.
+Credit and corporate debt financing. Credit conditions tightened significantly in
+October-November 2008. As banks became more conservative in their lending to protect
+their capital base, credit growth has declined from about 20 percent (y/y) in mid 2008 to
+8¾ percent in March 2009 (Table 3). Singapore dollar loans to nonbank customers fell by
+2 percent between October 2008 and March 2009, while foreign currency loans to nonbank
+customers outside Singapore dropped by 12 percent during that period. The relatively mild
+contraction in Singapore-dollar credit reflects in part the stronger balance sheets of the
+corporate sector than in previous downturns. Nevertheless, there appears to be considerable
+tiering as banks have maintained credit lines with their prime customers, while many SMEs
+have experienced difficulties accessing bank credit. As a result of rising counterparty risk,
+stress has been felt in the trade financing where banks need to settle letters of credit with
+overseas counterparties. Issuance of corporate debt securities, especially U.S. dollardenominated, has also fallen sharply in tandem with global markets.
+
+2
+
+A TED spread is the difference between the interest rate on interbank loans and that on a short-term
+government security. It captures perceived counterparty risks. An OIS spread is the difference between an
+interbank rate and that on an overnight indexed swap. It reflects the availability of credit in interbank lending.
+
+8
+14.
+Property market. Financial turmoil has also spilled over to the property market,
+which, after two years of brisk growth, has cooled off. Private home prices slipped by almost
+14 percent (q/q) in the first quarter of 2009 and are down 21 percent from their peak in 2008
+(Table 4). Nevertheless, they are still some 20 percent higher than in 2005. The slowdown in
+the private market segment has begun to trickle down to the larger and more stable public
+housing (or HDB) market where resale prices were marginally lower in the first quarter.
+Lower prices have led to a pick up in transaction volumes for private properties in the first
+quarter of 2009.
+IV. POLICY DEVELOPMENTS
+15.
+A swift response. The government tackled the unfolding crisis by deploying a broad
+range of instruments. The overarching strategy has been to lessen the impact of the external
+shocks, while ensuring that Singapore is well positioned to rebound once the global economy
+recovers.
+16.
+Monetary policy. The Monetary Authority of Singapore (MAS) has loosened
+monetary conditions in two steps. The MAS
+Nominal Effective Exchange Rate 1/
+(which targets the nominal effective
+(2005=100)
+114
+exchange rate to safeguard price
+112
+Mid-point
+NEER
+110
+stability) started the easing cycle in October
+108
+2008. It first removed the appreciating trend
+106
+104
+from the (undisclosed) NEER policy band.
+102
+Then, in April 2009, it re-centered the band
+100
+98
+around the prevailing level of the exchange
+96
+Dec-03
+Dec-04
+Dec-05
+Dec-06
+Dec-07
+Dec-08
+rate, which had drifted down. The width of
+Sources: IMF, Information Notice System ; and staff estimates.
+1/ Mid-point, lower and upper bounds are staff estimates.
+the band and the zero appreciation trend
+have been kept unchanged. The move
+validated a weaker currency and implied a slight “devaluation” of the trend NEER.
+17.
+Fiscal policy. The fiscal response to
+the global crisis has involved a large
+stimulus package introduced in January
+2009 (Box 2). The stimulus measures are
+estimated to provide a fiscal impulse of
+about 3 percent of GDP in 2009−10. The
+implementation began in FY 2008 (ending
+in March) and pushed the budget deficit (as
+defined by the authorities) to ¾ percent of
+
+114
+112
+110
+108
+106
+104
+102
+100
+98
+96
+
+Overall Fiscal Balance
+(In percent of GDP)
+
+16
+
+16
+
+14
+
+14
+
+12
+
+12
+
+10
+
+10
+
+8
+
+8
+
+6
+
+6
+
+4
+
+4
+
+2
+
+2
+
+0
+
+0
+-2
+
+-2
+1980
+
+1984
+
+1988
+
+1992
+
+1996
+
+2000
+
+2004
+
+2008
+
+9
+Box 2. Resilience Package
+The FY 2009 budget introduced the Resilience Package, aimed at blunting the effects of
+the downturn and strengthening the longer-term prospects for Singapore. The package
+amounts to S$20.5 billion (about 8 percent of GDP)—one of the largest stimulus packages
+among advanced economies.
+Measures cover five broad areas, and are focused at saving jobs and helping viable
+companies to stay afloat as well as enhance their competitiveness (see table). Some measures
+took effect in the last quarter of FY 2008, but the bulk of the package will be implemented
+during FY 2009. A key element of the package is the Jobs Credit Scheme. It provides an
+incentive for companies to maintain or increase their workforce, by giving them grants of
+12 percent of the wages of employees who contribute to the mandatory pension scheme, up
+to a specified maximum. This scheme is estimated to lower labor costs by 7−9 percent.
+Another element of the package is the Special Risk-Sharing Initiative in which, inter alia, the
+government assumes 80 percent of loan loss risk to encourage bank lending.
+Resilience Package: The Key Components
+(In billions of Singapore dollars)
+Preserve jobs
+- Jobs Credit Scheme
+
+5.1
+4.5
+
+Stimulate bank lending
+- Special Risk-Sharing Initiative
+
+5.8
+5.8
+
+Enhance business cashflow and competitiveness
+- Property tax rebate for commercial and industrial property
+- Rental rebate for selected industrial and commercial tenants
+
+2.6
+0.8
+0.3
+
+Support families
+- Personal income tax rebates
+- Doubling GST credits and Senior Citizen Bonuses
+
+2.6
+0.5
+0.5
+
+Build for the future
+- Expanded and accelerated infrastructure spending
+- Spending on security, health, education, transport
+
+4.4
+1.1
+1.7
+
+Total package
+Source: Budget 2009; MAS, Macroeconomic Review (April 2009).
+
+20.5
+
+10
+GDP. Recent constitutional amendments enable the government to use more of the returns
+from the investment of its reserves to fund the budget. In FY 2009 the deficit is projected to
+increase to 3½ percent of GDP, the largest on record (Table 5). However, given ample fiscal
+reserves, no public borrowing will be required.
+18.
+Financial policies. To support the stability of Singapore’s financial system, the
+authorities implemented a range of measures. In October, the MAS: (i) adopted a blanket
+guarantee on Singapore dollar and foreign currency nonbank deposits in domestic and
+foreign banks through 2010; (ii) entered into a precautionary US$30 billion currency swap
+agreement with the Fed; and (iii) intensified its surveillance of the financial sector.
+Furthermore, the MAS announced that it would inject additional liquidity through its
+standing facilities, if needed.3 In November, the government introduced measures to help
+SMEs maintain access to bank credit. The measures were adjusted and expanded in the
+following months to maximize their effectiveness.
+V. OUTLOOK AND RISKS
+19.
+Near-term outlook. The economy is projected to contract by about 8 percent in 2009,
+with the trough in GDP occurring probably in 2009Q4 (Table 6). The slowdown would result
+primarily from a slump in external demand and private investment. The 2009 budget should
+mitigate the decline in aggregate demand and shore up private consumption by limiting the
+rise in unemployment and softening the impact of the crisis on firms’ cash flow and
+households’ disposable income. As the global economy recovers, activity is expected to pick
+up modestly in 2010, with GDP growth reaching 2½ percent. Inflation would fall to about
+zero in 2009, on the back of lower food and energy prices and a widening output gap. The
+authorities agreed with the broad contours of these projections, but noted that the upturn in
+2010 could be stronger given signs of resilience in intra-regional trade and in advanced
+economies.
+20.
+Risks. There was broad agreement that, given Singapore’s status as a financial center
+and dependence on exports, the main growth risks relate to a further worsening of the
+external environment. First, global volatility may directly spill into local financial markets,
+undercutting bank credit. Second, international financial developments may precipitate a
+sharper contraction of the global economy, with renewed adverse effects on trade and related
+services. Macro-financial interactions could amplify either channel of contagion. On the
+upside, countercyclical policies at home and abroad could prove more effective than
+anticipated, and intraregional trade may pick up faster than expected.
+
+3
+
+Access to standing facilities had been broadened beyond primary dealers in June 2008.
+
+11
+21.
+Medium-term outlook. As global activity recovers, Singapore’s economy is expected
+to regain forward momentum. Domestic demand and exports would pick up. Growth would
+also be supported by increased public spending in infrastructure. Nonetheless, trend growth
+is likely to be weaker than before the crisis, as credit conditions remain tight and production
+adjusts to new patterns of external demand. In the outer years, assuming an unchanged real
+effective exchange rate, the current account balance would hover around 15 percent of GDP,
+substantially lower than before the crisis. This reflects: (i) declining savings owing to a
+return of corporate profitability to more normal levels and the early impact of population
+ageing; and (ii) rising public investment (about 2 percent of GDP per year on average over
+the next five years in the authorities’ plans), which partially offsets the unwinding of the
+recent boom in the property sector. The authorities shared staff’s views on the medium-term
+evolution of the current account, and noted that Singapore’s flexible economic structures
+should enable it to capitalize on new sources of growth. An Economic Strategies
+Committee—chaired by the Finance Minister and comprising representative from the public
+and private sectors—will be set up later this year. It will develop recommendations to
+identify new growth opportunities, strengthen corporate capabilities, foster a knowledgebased economy, and secure high-value jobs for Singaporeans.
+VI. POLICY DISCUSSIONS
+A. The Role of Macroeconomic Policies
+22.
+Context. Recognizing the limits of countercyclical action in a small and highly open
+economy, policymakers have calibrated their response so as to strike a balance between
+supporting demand and facilitating structural adjustments.
+23.
+Monetary policy. For monetary policy, this balancing act has involved loosening
+monetary conditions without undermining exchange rate stability or increasing the cost of
+credit to businesses and households.4 The MAS’ actions have achieved these goals by
+limiting volatility in both exchange and interest rates. Staff agreed that, with inflation
+concerns out of the picture, the monetary settings are appropriate. Barring a significant
+deterioration in the outlook for growth or inflation, monetary policy should stay the course
+for some time to come. There was agreement that, once a recovery is well established, a
+return to a trend appreciation for the NEER would safeguard price stability as slack in the
+economy is taken up.
+
+4
+
+With the NEER as the intermediate target of monetary policy, a monetary loosening involving an increase in
+the expected depreciation of the NEER (rather than a re-centering of the band) implies an increase in nominal
+interest rates, consistent with uncovered interest parity.
+
+12
+24.
+Fiscal policy. Fiscal policymaking has also involved balancing different objectives.
+The authorities noted that the stimulus package for the current fiscal year supports growth
+without blunting incentives for structural adjustments.5
+
+
+Staff agreed that the fiscal package had been timely, appropriately large, and
+diversified. It would support growth also over longer horizons through accelerated
+infrastructure spending. Furthermore, the authorities’ intention to undertake
+additional measures outside the normal budget cycle if the economy’s trajectory
+proves more fragile than currently expected added a desirable element of contingency
+to the fiscal plans. Staff and the authorities shared the view that a premature fiscal
+withdrawal in the next budget could undermine positive confidence effects of actions
+taken. The authorities noted that lack of sustainability concerns and a strong track
+record of responsiveness as well as short inside and outside lags lessen the need for
+pre-announcing the direction of fiscal policy.
+
+
+
+Further along the recovery path, fiscal policy would need to play a part in fostering
+likely transformations in a post-crisis world. Public investment in physical and social
+infrastructure would continue to foster an enabling business environment. In the
+staff’s view, consideration could also be given to strengthening automatic stabilizers
+by assessing taxes on the basis of current rather than previous year’s income, with
+due regard to the administrative and compliance costs that such change might impose
+on taxpayers.
+B. The Outlook for the Financial Sector
+
+25.
+Context. Although the global turmoil will have a negative impact on short-term
+earnings of most financial institutions, Singapore’s financial system (which is
+bank-dominated) should be able to withstand a deeper and more prolonged global downturn.
+Post-crisis transformations would, if anything, boost demand for financial services, as
+regional trade and financial integration deepens.
+26.
+Banks. Despite the turmoil, domestic banks remain profitable, liquid, and well
+capitalized (Figure 4 and Table 7).6 Their exposure to toxic assets was low to start with, with
+5
+
+For instance, the temporary nature of the adopted measures was underscored by the unprecedented decision of
+funding key components of the Resilience Package from past fiscal reserves. The remaining financing of the
+FY 2009 deficit would come from the budgetary surpluses accumulated during the current election cycle and
+will not require debt issuance.
+
+6
+
+For the banking system as a whole, the loan-to-deposit ratio is about 80 percent, regulatory capital is
+16.7 percent of risk-weighted assets (Tier 1 ratio is 13.1 percent), and the liquid asset ratio is 19 percent. Banks
+are funded primarily through retail deposits.
+
+13
+total CDO investments amounting to only 0.3 percent of total assets (2.6 percent of
+regulatory capital). Foreign banks (which account for over 50 percent of total banking system
+assets) are subject to stringent licensing procedures, and the MAS has assurances of liquidity
+support from their head offices.7 Looking forward, there was broad agreement that, although
+credit spreads have widened, banks will face pressure on profits from lower fee income and
+higher provisioning. Credit quality is expected to deteriorate in the near term, as a result of
+the slowing domestic economy. However, at present, these pressures look manageable. The
+MAS has undertaken extensive stress tests and, even under a severe scenario, domestic
+banks’ Tier 1 capital will remain substantially above the regulatory minimum.
+27.
+Insurance. Although investment income and premium revenues fell in late 2008,
+insurance companies continue to have strong capital and liquidity buffers. Insurers had no
+significant exposure to subprime loans or structured credit products, and regulations stipulate
+that they can only engage in derivatives trading for hedging purposes or efficient portfolio
+management. As a result, insurers tend to invest predominantly in cash, deposits, and
+government securities. Their liabilities also tend to be conservative (e.g., investment linked
+products account for a small fraction of their offerings). The MAS has stepped up its
+oversight of the industry, and the policyholders’ protection scheme is under review. There
+was agreement that the insurance sector is unlikely to pose systemic risks, given its small
+size and limited financial linkages.8
+28.
+Property. The slowdown in the real estate market has weakened the financial position
+of property firms. Given the prospective excess supply, some segments of the private
+property market may come under further downward pressure, leading to some consolidation
+in the sector. However, the authorities noted that most property developers entered the
+downturn with strong balance sheets, and are benefiting from government schemes to support
+their cash flows (e.g., through property tax rebates or deferrals). Furthermore, bank lending
+to the property sector remains well within regulatory limits and there are no large exposures
+to individual developers.
+
+7
+
+Domestic Banking Unit assets (primarily in Singapore dollars) are split about equally between domestic and
+foreign banks. However, foreign banks account for 86 percent of Asian Currency Unit assets, all in foreign
+currency (Box 3). Most foreign banks operate in Singapore as branches. Their liquidity needs are included as
+part of the head office's overall liquidity management and commitment to global operations. The MAS has
+regular contacts with both the head offices and home-country supervisors of the larger foreign banks in
+Singapore. The money market and funding operations of these entities in Singapore are important for these
+banks in the Asia and Pacific region and hence liquidity support by the head office is an issue often discussed
+and agreed upon.
+
+8
+
+Insurance sector accounts for less than 6 percent of total financial sector assets. Local banks’ loans to
+insurance companies account for less than 0.2 percent of total loans.
+
+14
+Box 3. Asian Currency Units and Domestic Banking Units
+Banks operating in Singapore book their activities in two distinct accounting units—the
+Domestic Banking Unit (DBU) and Asian Currency Unit (ACU). Singapore dollar
+transactions are recorded in the DBU, while foreign currency transactions are recorded
+primarily in the ACU.1/ The distinction between the DBU and ACU is purely an accounting
+convention, which in itself does not have implications for assessment of banks’ financial
+soundness. ACU and DBU are not separate legal entities. However, banks seeking to operate
+an ACU will need approval by the MAS. This arrangement was designed in 1970s to
+encourage foreign currency business in the so-called Asian Dollar Market (ADM), and thus
+develop Singapore as a regional financial hub. While ACUs are primarily funded from the
+interbank market, the main source of funding for DBUs is retail deposits.
+As in other financial centers, foreign currency activities in Singapore are subject to a
+different regulatory treatment. ACUs are exempt from certain provisions of the Banking
+Act, notably the minimum cash balance and the minimum liquid asset ratio requirements.
+Historically, many foreign banks have set up operations in Singapore with the purpose of
+establishing an ACU.
+While ACUs are exempt from some prudential rules, they are closely supervised by the
+MAS. Individual ACUs are subject to size limits set by the MAS. Banks are required to
+provide monthly detailed financial statements on their ACUs, and are subject to regular onsite inspections. Foreign banks with ACUs are required to provide assurances of liquidity
+support from their head offices.
+Singapore Banking System: Distribution of Assets Between ACU and DBU Accounts
+DBU (Assets: S$678 billion)
+
+ACU (Assets: S$1,215 billion)
+Domestic banks
+(14%)
+
+Foreign banks
+(54%)
+
+Domestic banks
+(46%)
+
+Foreign banks
+(86%)
+
+Sources: Monetary Authority of Singapore; and Fitch Ratings, Singapore Banking System (April 2008).
+
+_________________________
+1/ Banks in other financial centers also have separate books for transactions in different currencies. In
+Singapore, all foreign currency transactions are aggregated in the ACU. For more details, see Financial System
+Stability Assessment (IMF Country Report No. 04/104) and Fitch Ratings, Singapore Banking System
+(April 2008).
+
+15
+29.
+Asset management. Hedge funds, wealth managers, private banking, corporate fund
+advisory, and REITs are an important segment of Singapore’s financial system. Assets under
+management in Singapore stood at US$814 billion at end-2007, but have dropped by
+end-2008 as a result of the global financial turmoil. Like elsewhere in the region, hedge
+funds managed in Singapore (which are reportedly less leveraged than their foreign
+peers) have faced large redemption pressures. Lack of comprehensive data on these funds
+makes it difficult to assess their links with the rest of the financial system. Nonetheless, in
+the view of many market participants, Singapore will continue to attract asset management
+business.
+C. Exchange Rate
+30.
+Developments. Since mid-2008, the Singapore dollar has depreciated by 2 percent in
+real effective terms. This reflected mostly a comparable depreciation of the nominal effective
+exchange rate, as the monetary stance has been loosened.
+31.
+Assessment. Staff estimates the real effective value of the Singapore dollar to be
+somewhat weaker than its equilibrium (Box 4). As such, it provides countercyclical support.
+This assessment is subject to considerable uncertainty, as reflected in unusually high
+volatility implied by foreign exchange options as well as poor visibility about the direction of
+the global economy and fundamentals. In fact, since mid-2008, reserves have declined by
+nearly US$7 billion, but intervention has been two-sided. The authorities noted that
+according to their valuation models the real effective Singapore dollar is broadly in line with
+its fair value. They recognized nonetheless that unusual uncertainty clouds these
+assessments. They also stressed that monetary policy has delivered a trend appreciation of
+the exchange rate and has not hindered structural adjustments. There was agreement that
+Singapore’s exchange rate regime, which has helped achieve a track record of low inflation
+with prolonged economic growth, continues to serve the country well.
+32.
+Policy mix. In the staff’s view, once a recovery is in train, the policy settings should
+allow for a resumption of the trend appreciation of the NEER. A longer-term appreciation of
+the Singapore dollar would be facilitated by a recalibration of the policy mix toward reduced
+public savings and tighter monetary conditions. The authorities noted that higher public
+spending is planned for the medium term. They also agreed that the real effective exchange
+rate would likely experience a trend appreciation over the medium term, and that such
+appreciation should not be resisted, if driven by fundamentals.
+VII. STAFF APPRAISAL
+33.
+Macroeconomic setting. Singapore has been hard hit by the global recession and is
+set for the worst economic contraction in its history. The effects of the slowdown are being
+felt mostly through the trade channel as reflected in the slump in exports. Local financial
+
+16
+Box 4. Exchange Rate Assessment
+The real effective Singapore dollar is somewhat weaker than its estimated medium-term
+equilibrium level.
+The exchange rate has been on an appreciation
+trend since early 2005. This trend reflects relatively
+stable inflation differentials vis-à-vis trading
+partners and the appreciation of the NEER. The
+Singapore dollar weakened in real effective terms at
+the onset of the global crisis, but it has moved
+sideways in recent months, reflecting in part policy
+changes.
+
+Exchange Rates
+(REER, 2000=100)
+105
+
+100
+
+95
+
+90
+Jan-04
+
+Jan-05
+
+Jan-06
+
+Jan-07
+
+Jan-08
+
+Jan-09
+
+Source: IMF, Information Notice System.
+
+To assess the level of the exchange rate in relation
+to its medium term equilibrium, three CGER-type methodologies have been applied:
+
+
+The macroeconomic balance approach estimates current account norm of about 10 percent of
+GDP. The relatively large norm reflects Singapore’s significant fiscal surpluses and the rising
+share of the working-age population. Estimates of the norm are derived from a panel of
+55 advanced and emerging economies over 1973−2007. According to the macroeconomic balance
+approach, the Singapore dollar is undervalued by about 5 percent (after multilateral consistency
+adjustments).
+
+
+
+The external sustainability approach points to a broadly similar undervaluation. Under the
+assumption that the net foreign asset position (NFA) is stabilized at its 2007 level (estimated at
+about 175 percent of GDP), the implied undervaluation is 10 percent. Computing Singapore’s
+NFA with cumulative current account balances gives an NFA of around 200 percent of GDP—
+and an undervaluation of the Singapore dollar of around 2 percent.1/
+
+
+
+The estimate from the equilibrium exchange rate approach is broadly in line with those
+above. According to this approach, the exchange rate is some 3 percent below its estimated
+medium term equilibrium. Productivity gains in tradables and rising NFA support a more
+appreciated equilibrium exchange rate, partly offsetting the effect of the steady deterioration in
+the terms of trade.
+
+During the 2008 Article IV consultation, staff’s assessment was that the real effective Singapore
+dollar was 5−15 percent undervalued relative to its equilibrium level. The lower undervaluation in the
+current assessment reflects inter alia a smaller underlying current account balance (consistent with
+weaker projected demand in Singapore’s main export markets), negative terms of trade shock (from
+lower prices for financial services and refined oil products) and losses on Singapore’s external assets.
+____________________
+1/ As discussed in IMF Country Report No. 08/280, estimates based on the external sustainability approach are
+sensitive to the level of NFA used. For instance, adding market estimates of the GIC’s assets to the reported IIP
+would put Singapore’s NFA at about 250–300 percent of GDP. Using the MSCI-World index as a proxy for
+GIC’s equity portfolio, estimated annual capital gains would average about 4 percent of GDP during 2001–07
+(similar to the CGER’s adjustment for capital gains). In this case, the estimated undervaluation is about zero.
+
+17
+markets have come under stress, but have continued to operate in an orderly fashion.
+Nevertheless, a further worsening of international market turbulence remains an important
+macroeconomic risk. Against this background, and given the openness of the economy, the
+authorities have rightly focused on lessening the blow of the external shocks, while ensuring
+Singapore is well positioned once the global economy starts to recover.
+34.
+Response to the global crisis. The authorities have responded forcefully with a large
+fiscal stimulus package, monetary policy easing, and measures aimed at ensuring financial
+stability. The extraordinary circumstances have warranted some departure from the
+medium-term compass at the core of Singapore’s policy frameworks, but the response has
+managed to strike a balance between supporting demand and avoiding delays in necessary
+structural adjustments.
+35.
+Monetary policy. For monetary policy, this balancing act has involved loosening
+monetary conditions—inter alia to fend off deflation risks—without undermining exchange
+rate stability or increasing the cost of credit to businesses and households. The MAS’
+two-step decision to first eliminate the appreciation bias and then re-center the NEER target
+band has achieved these goals. With inflation concerns out of the picture, the monetary
+settings are appropriate. Barring a significant deterioration of the outlook for growth or
+inflation, monetary policy should stay the course until a recovery is well established. Further
+along the recovery path, monetary policy will need to shift to a tightening stance, including
+with a return to a targeted trend appreciation for the NEER, to safeguard price stability as
+slack in the economy is taken up.
+36.
+Exchange rate. The REER is somewhat weaker than its medium-term equilibrium.
+This assessment—which is subject to considerable uncertainty—does not imply the need of
+policy adjustments at present but points to the likely evolution of the real exchange rate once
+a global recovery takes root. The floating exchange rate continues to serve Singapore well
+and the exchange-rate-centered monetary framework has been an important source of
+stability in times of economic turbulence.
+37.
+Fiscal policy. The large stimulus for the current fiscal year will go a long way toward
+mitigating the impact of the output contraction on households and businesses. The package is
+designed to minimize tensions between limiting the downturn and fostering microeconomic
+incentives that will support rapid adjustment to the changes in the global economy. Further
+measures should be considered if the economy’s trajectory proves more fragile than currently
+expected. As the authorities recognize, the next budget will need to be crafted in line with the
+evolving economic situation and avoid a premature fiscal withdrawal that could undermine
+positive confidence effects of actions taken. Over the medium term, fiscal policy will need to
+play a part in readying the economy for shifts in the pattern of global demand (as balance
+sheets are rebuilt in advanced economies and internal sources of growth gain prominence in
+emerging markets). Along with the flexible labor and product markets, stepped-up public
+
+18
+investment in physical and social infrastructure would create an enabling environment in
+which Singapore could seize new opportunities.
+38.
+Financial sector policies. Singapore’s financial system has entered the global crisis
+from a position of strength, and has coped well with the turbulence in international financial
+markets so far. Yet, asset quality will deteriorate as the recession drags on. Rigorous stress
+tests encompassing multi-year scenarios, tail events, and correlated shocks should remain a
+high priority for the MAS in the period ahead. Continued efforts to upgrade contingency
+planning and coordinate with supervisors in other jurisdictions, particularly as regards the
+unwinding of deposit guarantees, should also be a priority. Looking beyond the near term,
+the MAS should continue to adapt its supervisory and regulatory framework as lessons from
+the crisis are learned.
+39.
+It is recommended that the next Article IV consultation discussions take place on the
+standard 12-month cycle.
+
+19
+Figure 1. Singapore: Real Sector Developments
+....as net exports collapsed and domestic
+demand decelerated.
+
+GDP growth plunged in 2008 and early 2009....
+25
+
+25
+
+20
+
+20
+
+15
+
+15
+
+15
+
+10
+
+10
+
+10
+
+10
+
+5
+
+5
+
+5
+
+5
+
+0
+
+0
+
+0
+
+0
+
+-5
+
+-5
+
+-5
+
+-5
+
+20
+
+GDP Growth
+
+Q/Q s.a. annualized
+Annual
+
+-10
+
+-10
+
+-15
+
+-15
+
+-20
+
+-20
+
+2001Q1
+
+2003Q1
+
+2005Q1
+
+2007Q1
+
+2009Q1
+
+20
+
+GDP by Expenditure
+(Contribution to y/y growth)
+
+-10
+
+15
+
+-10
+
+GDP
+Domestic demand
+Net exports
+
+-15
+
+-15
+
+-20
+
+-20
+
+2001Q1
+
+2003Q1
+
+2005Q1
+
+2007Q1
+
+2009Q1
+
+....and all major industrial clusters have been
+affected.
+
+The contraction has been experienced in both
+services and manufacturing....
+70
+
+250
+
+50
+
+200
+
+30
+
+30
+
+150
+
+150
+
+10
+
+10
+
+100
+
+100
+
+-10
+
+-10
+
+50
+
+50
+
+-30
+
+-30
+
+0
+
+0
+
+-50
+
+-50
+
+-70
+
+-100
+
+70
+50
+
+GDP by Sector
+(Seasonally-adjusted annualized rate)
+
+Manufacturing
+
+-50
+
+Services
+
+-70
+2001Q1
+
+2003Q1
+
+2005Q1
+
+2007Q1
+
+2009Q1
+
+Labor market conditions have weakened with the
+slump in economic activity.
+80
+
+6
+
+40
+
+-50
+
+2001M1
+
+2003M2
+
+2005M3
+
+2007M4
+
+-100
+2009M5
+
+Inflation has fallen rapidly across the board.
+12
+
+12
+Headline Inflation
+Core Inflation
+
+5
+
+10
+
+4
+
+8
+
+8
+
+6
+
+6
+
+4
+
+4
+
+2
+
+2
+
+0
+
+0
+
+3
+
+20
+
+200
+
+Electronics
+Marine and off-shore engineering
+Pharmaceuticals
+
+Inflation
+60
+
+250
+
+Manufacturing by Cluster
+(Year-on-year growth, 3 mma)
+
+2
+
+10
+
+1
+
+0
+
+0
+-20
+-40
+2001Q1
+
+Employment changes (in thousands)
+Unemployment rate (right scale)
+2003Q1
+
+2005Q1
+
+2007Q1
+
+-1
+-2
+2009Q1
+
+Source: CEIC Data Co. Ltd; and IMF staff estimates.
+
+-2
+
+-2
+2001M1
+
+2003M2
+
+2005M3
+
+2007M4
+
+2009M5
+
+20
+Figure 2. Singapore: Asset Market Developments
+...and volatility in the foreign exchange market is
+off its peak.
+
+Interbank interest rates have dropped...
+7
+6
+
+7
+
+Interbank Interest Rates
+(Annual, in percent)
+
+5
+
+6
+5
+
+3-month
+3-month US$
+overnight
+
+4
+
+4
+
+3
+
+3
+
+2
+
+2
+
+1
+
+1
+
+0
+
+0
+
+Jan-04
+
+May-05
+
+Sep-06
+
+Jan-08
+
+May-09
+
+The equity market plunged before recovering
+some of the ground lost,...
+200
+
+40
+USD/SGP
+USD/JPY
+
+35
+
+100
+
+100
+
+50
+
+50
+
+30
+
+25
+
+25
+
+20
+
+20
+
+15
+
+15
+
+10
+
+10
+
+5
+
+5
+
+0
+
+0
+
+Jan-04
+
+450
+
+0
+
+-50
+
+-50
+Jan-04
+
+May-05
+
+Sep-06
+
+Jan-08
+
+May-09
+
+Property markets are turning after the recent
+boom...
+160
+
+May-05
+
+Sep-06
+
+Jan-08
+
+May-09
+
+450
+
+Stock Market Indices
+(2000M1=100)
+
+350
+
+400
+350
+
+Singapore
+Hong Kong SAR
+China (Shanghai)
+Korea
+Malaysia
+Thailand
+
+250
+200
+
+SGX
+Technology
+Finance
+
+35
+
+30
+
+300
+
+0
+
+45
+
+40
+
+400
+150
+
+150
+
+50
+
+FX Market Volatility
+
+45
+
+...as elsewhere in the region.
+200
+
+Stock Market Indices
+(2000M1=100)
+
+50
+
+300
+250
+200
+
+150
+
+150
+
+100
+
+100
+
+50
+
+50
+
+0
+
+0
+-50
+
+-50
+2000M1
+
+2002M5
+
+2004M9
+
+2007M1
+
+2009M5
+
+...but the moderation has been broadly in line
+with that in neighboring countries.
+160
+
+180
+
+140
+
+160
+
+120
+
+120
+
+140
+
+140
+
+100
+
+100
+
+120
+
+120
+
+80
+
+80
+
+100
+
+100
+
+80
+
+80
+
+140
+
+Property Market Indices
+(2000Q1=100)
+
+60
+
+60
+Residential (apartments)
+Office space (central)
+Shop space (central)
+Industrial space (factory)
+
+40
+20
+0
+2000Q1
+
+40
+20
+0
+
+2003Q1
+
+2006Q1
+
+2009Q1
+
+180
+
+Housing Market Indices
+(2000Q1=100)
+
+160
+
+60
+
+60
+Singapore
+Hong Kong SAR
+Korea
+Thailand
+
+40
+20
+0
+2000Q1
+
+40
+20
+0
+
+2003Q1
+
+Sources: CEIC Data Co. Ltd.; Bloomberg L.P.; and IMF staff estimates.
+
+2006Q1
+
+2009Q1
+
+21
+Figure 3. Singapore: External Developments
+Exports plunged as the global crisis intensified...
+
+...as have imports, given the high import content
+of exports and lower oil prices.
+
+60
+
+60
+
+40
+
+40
+
+20
+
+20
+
+20
+
+20
+
+0
+
+0
+
+0
+
+0
+
+60
+40
+
+Exports
+(Percentage change y/y)
+
+-20
+Total
+Domestic
+Non-oil domestic
+
+-40
+-60
+2000M1
+
+2001M11
+
+2003M9
+
+2005M7
+
+2007M5
+
+-20
+
+-20
+
+-40
+
+-40
+
+-60
+
+-60
+
+2009M3
+
+50
+
+50
+40
+
+Current Account Balance
+(In percent of GDP)
+
+40
+
+30
+
+30
+
+20
+
+20
+
+10
+
+10
+
+0
+
+0
+
+-10
+
+Income balance
+Service balance
+Goods balance
+CA balance
+
+-20
+-30
+
+30
+
+Financial Account Balance
+(In percent of GDP)
+
+104
+
+-40
+-60
+
+2001M11
+
+2003M9
+
+2005M7
+
+2007M5
+
+2009M3
+
+0.8
+
+Exchange Rates
+(For REER, 2000=100)
+
+102
+0.7
+
+100
+98
+96
+
+0.6
+94
+
+-20
+
+92
+
+-30
+
+90
+
+REER
+US$ per S$ (right scale)
+0.5
+
+2004M1
+
+2005M5
+
+2006M9
+
+2008M1
+
+2009M5
+
+...the forward position has been unwound, but
+gross reserves have stabilized.
+
+With sizable portfolio outflows,...
+40
+
+Total
+Non-oil
+
+The real effective exchange rate depreciated
+since mid-2008, as the monetary stance has
+been loosened.
+
+-10
+
+2000 2001 2002 2003 2004 2005 2006 2007 2008
+
+50
+
+40
+
+-20
+
+2000M1
+
+The current account surplus has fallen sharply
+as the trade surplus shrunk.
+
+60
+
+Imports
+(Percentage change y/y)
+
+50
+
+240
+
+40
+
+220
+
+30
+
+200
+
+20
+
+20
+
+10
+
+10
+
+0
+
+0
+
+Gross Official Reserves and Forward Position
+(In billions of U.S. dollars)
+
+180
+160
+
+240
+220
+200
+180
+
+Gross official reserves
+Forward position
+
+160
+
+140
+
+140
+
+120
+
+120
+
+100
+
+100
+
+80
+
+80
+
+-10
+
+-10
+
+-20
+
+-20
+
+-30
+
+-30
+
+60
+
+60
+
+-40
+
+40
+
+40
+
+-50
+
+20
+
+20
+
+-60
+
+0
+
+Others net
+Portfolio net
+FDI net
+FA balance net
+
+-40
+-50
+-60
+2001Q1
+
+2003Q1
+
+2005Q1
+
+2007Q1
+
+2009Q1
+
+2004M1
+
+0
+2005M5
+
+2006M9
+
+2008M1
+
+Source: CEIC Data Co. Ltd.; Singapore, Department of Statistics; and IMF staff estimates.
+
+2009M5
+
+22
+Figure 4. Singapore: Financial Sector Developments
+...but NPLs have started to rise in late 2008,
+after reaching record lows.
+
+Capital positions remain sound...
+
+7
+
+Capital Adequacy
+(In percent)
+
+20
+
+20
+
+15
+
+15
+
+10
+
+10
+
+5
+
+0
+2006Q1
+
+2007Q1
+
+2008Q1
+
+2009Q1
+
+Banks' profitability has remained relatively
+strong....
+18
+16
+
+6
+
+5
+
+5
+
+4
+
+4
+
+3
+
+3
+
+2
+
+2
+
+1
+
+0
+2005Q1
+
+6
+
+5
+
+Reg. cap. to risk-weighted assets
+Reg. T-1 cap. to risk-weighted assets
+
+2004Q1
+
+0
+
+3
+
+25
+
+10
+
+21
+2
+
+6
+1
+ROE
+ROA (right scale)
+0
+
+0
+2004Q1
+
+2005Q1
+
+2006Q1
+
+2007Q1
+
+2008Q1
+
+2009Q1
+
+Financial indicators for corporates are in good
+shape ...
+12
+
+35
+
+Return on assets
+
+25
+20
+
+6
+
+2008Q1
+
+15
+
+37
+33
+29
+
+Total
+Business
+Consumer
+
+25
+21
+
+17
+
+17
+
+13
+
+13
+
+9
+
+9
+
+5
+
+5
+
+1
+
+1
+
+-3
+
+-3
+-7
+
+-7
+2002M1
+
+2003M11
+
+2005M9
+
+2007M7
+
+36
+
+Financial Indicators: Households
+
+30
+
+5
+0
+
+0
+1995
+
+1997
+
+1999
+
+2001
+
+2003
+
+2005
+
+2007
+
+2009M5
+
+140
+120
+
+Liability-to-asset ratio
+Liability-to-GDP ratio (right scale)
+
+24
+
+100
+80
+
+18
+60
+12
+
+40
+
+10
+
+3
+
+2009Q1
+
+41
+
+30
+
+Interest coverage ratio
+
+9
+
+2007Q1
+
+...as are household balance sheets.
+40
+
+Financial Indicators: Corporates
+
+2006Q1
+
+Nonbank Lending
+(Percent change y/y)
+
+29
+
+12
+
+2
+
+2005Q1
+
+41
+33
+
+8
+
+0
+
+2004Q1
+
+37
+
+14
+
+1
+
+NPLs to nonbank loans
+
+....but lending activity has moderated.
+4
+
+Profitability
+(In percent)
+
+4
+
+7
+
+Asset Quality
+
+6
+
+20
+
+0
+2003Q4
+
+0
+2005Q3
+
+2007Q2
+
+Sources: CEIC Data Co. Ltd.; the Monetary Authority of Singapore; and IMF staff estimates.
+
+2009Q1
+
+23
+Table 1. Singapore: Selected Economic and Financial Indicators, 2003–10
+Nominal GDP (2008): US$181.9 billion
+Main exports (percent of total domestic exports): Electronic products (35 percent) and chemical products (17 percent)
+GDP per capita (2008): US$37,597
+Population (2008): 4.8 million
+Unemployment rate (2008): 3.1 percent (resident)
+Net FDI (2008): US$13.8 billion
+Public debt (2008): 99 percent of GDP
+Foreign government debt (2008): none
+Quota: SDR 862.5 million
+
+Growth (percentage change)
+Real GDP
+Total domestic demand
+Consumption
+Private consumption
+Gross capital formation
+Net exports
+Contribution to GDP growth
+Saving and investment (percent of GDP)
+Gross national savings
+Gross capital formation
+Inflation and unemployment (period average, percent)
+CPI inflation
+Unemployment rate
+Central government budget (percent of GDP) 1/
+Revenue
+Expenditure
+Overall balance
+Primary operating balance
+Money and credit (end of period, percentage change)
+Broad money (M3)
+Lending to nonbanking sector
+Interest rate (three-month interbank, in percent)
+Balance of payments (US$ billion)
+Current account balance
+(In percent of GDP)
+Trade balance
+Exports, f.o.b.
+Imports, f.o.b.
+Net capital flows
+Overall balance
+Gross official reserves (US$ billion)
+(months of imports) 2/
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+Proj.
+2009 2010
+
+3.8
+-8.3
+0.9
+0.8
+-30.6
+56.2
+10.8
+
+9.3
+14.3
+4.2
+5.1
+49.8
+-1.9
+-0.5
+
+7.3
+3.3
+4.4
+3.8
+0.6
+21.3
+5.6
+
+8.4
+6.8
+4.5
+4.0
+12.4
+10.5
+3.1
+
+7.8
+6.9
+4.6
+5.2
+12.3
+11.9
+3.6
+
+1.1
+15.9
+3.6
+2.4
+42.8
+-33.8
+-10.6
+
+-7.7
+-4.5
+-0.4
+-1.3
+-11.1
+-23.8
+-4.9
+
+2.5
+2.4
+4.7
+4.5
+-1.8
+2.9
+0.5
+
+39.7
+16.0
+
+39.9
+21.8
+
+43.0
+20.2
+
+45.5
+20.1
+
+44.2
+20.7
+
+45.7
+30.9
+
+40.4
+27.1
+
+37.9
+24.7
+
+0.5
+4.0
+
+1.7
+3.4
+
+0.5
+3.1
+
+1.0
+2.7
+
+2.1
+2.1
+
+6.5
+2.2
+
+0.3
+3.9
+
+1.3
+3.6
+
+20.3
+14.1
+6.2
+-2.9
+
+20.1
+14.2
+5.9
+-1.9
+
+21.0
+12.9
+8.1
+-1.2
+
+21.1
+13.9
+7.3
+-1.5
+
+25.4
+13.0
+12.4
+0.9
+
+24.5
+20.3
+4.2
+-3.6
+
+23.5
+22.0
+1.5
+-6.4
+
+23.7
+21.9
+1.8
+-6.2
+
+5.9
+6.3
+0.8
+
+6.1
+4.5
+1.4
+
+6.4
+2.2
+3.3
+
+19.1
+6.3
+3.4
+
+14.1
+19.9
+2.4
+
+11.6
+16.6
+1.0
+
+...
+...
+…
+
+...
+...
+…
+
+22.1
+19.9
+27.5
+35.4
+39.2
+27.0
+20.8
+22.1
+(23.7) (18.1) (22.7) (25.4) (23.5) (14.8) (13.3) (13.2)
+29.3
+30.7
+36.4
+42.8
+47.2
+30.7
+24.9
+27.5
+161.7 199.3 232.7 274.7 303.7 343.3 258.6 287.9
+-132.3 -168.6 -196.3 -232.0 -256.5 -312.6 -233.7 -260.4
+-15.3
+-7.8 -15.2 -18.4 -19.8 -13.9 -11.0 -12.0
+6.8
+12.1
+12.3
+17.0
+19.4
+13.1
+9.8
+10.1
+96.2
+(5.3)
+
+112.6
+(5.4)
+
+116.2
+(4.7)
+
+136.3
+(4.9)
+
+163.0
+(5.0)
+
+Sources: Data provided by the Singapore authorities; and Fund staff estimates and projections.
+1/ Fiscal year beginning April 1.
+2/ In months of following year's imports of goods and services.
+
+174.2
+(6.9)
+
+184.0
+(6.8)
+
+194.1
+(7.0)
+
+24
+
+Table 2. Singapore: Balance of Payments, 2003–10 1/
+(In billions of U.S. dollars)
+
+Current account balance
+Trade balance
+Exports, f.o.b.
+Imports, f.o.b.
+Services balance
+Exports
+Imports
+Income balance
+Receipts
+Payments
+Transfer payments (net)
+Net capital flows
+Capital and financial account balance
+Capital account (net)
+Financial account (net)
+Direct investment
+Assets
+Liabilities
+Portfolio investment
+Assets
+Liabilities
+Other investment
+Assets
+Liabilities
+Net errors and omissions
+Overall balance
+Memorandum items:
+Current account as percent of GDP
+Trade balance as percent of GDP
+Net international investment position
+(In billions of U.S. dollars)
+GDP in billions of U.S. dollar
+(In percent of GDP)
+
+Proj.
+2009
+2010
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+22.1
+29.3
+161.7
+-132.3
+-3.7
+36.3
+-40.0
+-2.3
+17.4
+-19.7
+-1.4
+
+19.9
+30.7
+199.3
+-168.6
+-2.9
+46.8
+-49.7
+-6.5
+21.5
+-28.0
+-1.4
+
+27.5
+36.4
+232.7
+-196.3
+-1.8
+53.3
+-55.1
+-5.6
+30.0
+-35.6
+-1.4
+
+35.4
+42.8
+274.7
+-232.0
+-0.7
+64.1
+-64.8
+-5.0
+39.0
+-44.0
+-1.7
+
+39.2
+47.2
+303.7
+-256.5
+5.7
+80.6
+-74.9
+-11.5
+53.9
+-65.4
+-2.1
+
+27.0
+30.7
+343.3
+-312.6
+4.0
+83.1
+-79.1
+-5.0
+57.1
+-62.1
+-2.7
+
+20.8
+24.9
+258.6
+-233.7
+1.7
+69.0
+-67.4
+-2.9
+52.6
+-55.5
+-3.0
+
+22.1
+27.5
+287.9
+-260.4
+0.0
+64.2
+-64.2
+-2.1
+57.9
+-60.0
+-3.2
+
+-15.3
+-18.5
+-0.2
+-18.4
+9.1
+-2.7
+11.8
+-7.6
+-11.3
+3.7
+-19.9
+-25.5
+5.7
+3.2
+
+-7.8
+-10.9
+-0.2
+-10.7
+9.3
+-10.8
+20.1
+-8.7
+-10.2
+1.5
+-11.3
+-27.9
+16.6
+3.1
+
+-15.2
+-17.9
+-0.2
+-17.7
+3.2
+-11.2
+14.4
+0.9
+-5.3
+6.3
+-21.7
+-33.3
+11.6
+2.6
+
+-18.4
+-22.1
+-0.2
+-21.9
+14.4
+-13.3
+27.7
+-5.2
+-17.3
+12.0
+-31.0
+-62.5
+31.5
+3.7
+
+-19.8
+-22.5
+-0.3
+-22.2
+7.1
+-24.5
+31.6
+-9.5
+-28.1
+18.6
+-19.8
+-73.1
+53.2
+2.7
+
+-13.9
+-11.5
+-0.3
+-11.2
+13.8
+-8.9
+22.7
+-23.2
+-18.6
+-4.6
+-1.8
+-55.8
+54.0
+-2.4
+
+-11.0
+-11.0
+-0.3
+-10.7
+7.7
+-7.8
+15.5
+-22.1
+-17.8
+-4.4
+3.8
+-51.6
+55.4
+0.0
+
+-12.0
+-12.0
+-0.3
+-11.7
+8.3
+-8.9
+17.1
+-24.4
+-19.5
+-4.8
+4.4
+-64.9
+69.3
+0.0
+
+6.8
+
+12.1
+
+12.3
+
+17.0
+
+19.4
+
+13.1
+
+9.8
+
+10.1
+
+23.7
+31.5
+
+18.1
+28.0
+
+22.7
+30.1
+
+25.4
+30.7
+
+23.5
+28.2
+
+14.8
+16.9
+
+13.3
+15.9
+
+13.2
+16.4
+
+98.3
+93.2
+105.5
+
+108.2
+109.7
+98.7
+
+148.2
+120.9
+122.5
+
+201.5
+139.2
+144.8
+
+167.7
+166.9
+100.5
+
+191.4
+181.9
+105.2
+
+...
+156.3
+...
+
+...
+168.1
+...
+
+Sources: Monetary Authority of Singapore, Economic Survey of Singapore ; and staff estimates and projections.
+1/ Data for the current account balance, the capital and financial account balance, and net errors and omissions
+are converted to U.S. dollars from the official presentation in Singapore dollars using period-average exchange
+rate.
+
+25
+Table 3. Singapore: Monetary Survey, 2006–09
+
+Mar.
+
+2006
+Jun. Sep.
+
+Dec.
+
+Mar.
+
+2007
+Jun. Sep.
+
+Dec.
+
+Mar.
+
+2008
+Jun. Sep.
+
+Dec.
+
+2009
+Mar.
+
+(In billions of Singapore dollars, end of period)
+Net foreign assets
+Monetary authorities 1/
+Deposit money banks 2/
+
+204.1 210.5 219.7 224.8
+194.8 200.6 203.3 207.2
+9.3
+9.9
+16.4
+17.6
+
+240.3 240.4 239.4 239.4
+207.0 218.6 224.4 232.7
+33.3
+21.8
+15.0
+6.7
+
+253.6 255.5 258.0 263.8
+243.0 238.6 240.4 248.6
+10.6
+16.9
+17.5
+15.2
+
+275.5
+251.4
+24.2
+
+Domestic credit
+Claims on private sector
+Nonbank lending
+Claims on central government
+
+240.2 249.4 255.8 256.4
+189.1 193.4 197.4 199.1
+182.6 189.6 194.0 194.6
+51.1
+55.9
+58.4
+57.3
+
+266.5 276.5 290.6 299.2
+205.0 212.3 220.1 232.8
+201.4 209.1 218.7 233.4
+61.5
+64.2
+70.5
+66.4
+
+316.0 326.5 332.2 341.7
+245.1 254.4 264.6 268.1
+249.3 261.1 272.9 272.2
+70.9
+72.1
+67.6
+73.6
+
+346.8
+266.4
+270.7
+80.4
+
+-216.8 -222.4 -230.3 -218.8
+
+-227.0 -223.2 -235.8 -241.0
+
+-256.4 -266.3 -265.5 -272.0
+
+-272.9
+
+233.6 243.7 251.4 268.7
+227.5 237.5 245.1 262.4
+
+286.8 301.3 302.7 306.8
+279.8 293.6 294.1 297.6
+
+322.7 325.1 333.8 342.4
+313.3 315.7 324.7 333.4
+
+357.9
+349.4
+
+Other items (net) 3/
+M3
+M2
+
+(Annual percentage change)
+Domestic credit
+Claims on private sector
+Nonbank lending
+M3
+M2
+
+0.6
+
+3.1
+
+4.7
+
+6.6
+
+11.0
+
+10.9
+
+13.6
+
+16.7
+
+18.6
+
+18.1
+
+14.3
+
+14.2
+
+9.7
+
+1.9
+
+3.4
+
+5.0
+
+4.9
+
+8.4
+
+9.7
+
+11.5
+
+16.9
+
+19.6
+
+19.8
+
+20.2
+
+15.2
+
+8.7
+
+2.8
+
+5.7
+
+7.5
+
+6.3
+
+10.3
+
+10.3
+
+12.8
+
+19.9
+
+23.8
+
+24.9
+
+24.8
+
+16.6
+
+8.6
+
+8.3
+8.1
+
+11.2
+11.1
+
+12.7
+12.8
+
+19.1
+19.4
+
+22.8
+23.0
+
+23.6
+23.6
+
+20.4
+20.0
+
+14.1
+13.4
+
+12.5
+11.9
+
+7.9
+7.5
+
+10.3
+10.4
+
+11.6
+12.0
+
+10.9
+11.5
+
+5.0
+16.6
+14.0
+2.6
+-13.7
+
+6.1
+13.7
+14.7
+-1.0
+-9.6
+
+8.0
+13.8
+11.5
+2.3
+-10.2
+
+6.8
+9.5
+6.6
+2.9
+-5.4
+
+(Contribution to M3 growth, in percent)
+Net foreign assets
+Domestic credit
+Claims on private sector
+Claims on central government
+Other items (net) 3/
+
+10.2
+0.6
+1.6
+-1.0
+-2.5
+
+11.6
+3.3
+2.9
+0.4
+-3.7
+
+12.0
+5.1
+4.2
+0.9
+-4.5
+
+13.8
+7.0
+4.1
+2.9
+-1.7
+
+15.5
+11.3
+6.8
+4.4
+-4.0
+
+Source: IMF, International Financial Statistics ; and CEIC Data Co., Ltd.
+1/ Total foreign reserves (international liquidity concept) minus foreign liabilities.
+2/ Commercial banks.
+3/ Including other nonbank financial institutions.
+
+12.2
+11.1
+7.7
+3.4
+0.2
+
+7.8
+13.9
+9.0
+4.8
+-1.3
+
+5.4
+15.9
+12.5
+3.4
+-7.2
+
+4.6
+17.3
+14.0
+3.3
+-9.4
+
+26
+Table 4. Singapore: Indicators of Vulnerability, 2003–08
+
+Financial sector indicators
+Broad money (M3, percent change, y/y)
+Claims on private sector (percent change, y/y)
+Credit to the property sector (percent change, y/y)
+Share of property-sector credit in total nonbank credit (percent)
+Credit rating of local banks (S&P) 1/
+Three-month interbank rate (percent, end-year)
+NPL ratio (local banks, percent) 2/ 3/
+Capital adequacy ratio of local banks (percent) 3/
+Asset market indicators
+Stock prices (percent change, y/y)
+P/E ratio
+Stock prices of the finance sector (percent change, y/y)
+Real estate prices (percent change, y/y) 4/
+Residential
+Office space
+External indicators
+Current account balance (US$ billion)
+(In percent of GDP)
+Gross official reserves (US$ billion)
+(In month of next year's imports of goods and services)
+Real exchange rate (end of period, 2000=100)
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+5.9
+5.4
+11.2
+44.4
+A/A+
+0.8
+6.7
+16.0
+
+6.1
+4.4
+8.2
+46.0
+A+
+1.4
+5.0
+16.2
+
+6.4
+2.0
+3.3
+46.4
+A+/AA3.3
+3.8
+15.8
+
+19.1
+4.9
+5.5
+46.1
+A+/AA3.4
+2.8
+15.4
+
+14.1
+16.9
+23.4
+47.4
+A+/AA2.4
+1.5
+13.5
+
+11.6
+15.2
+17.1
+47.6
+A+/AA1.0
+1.4
+14.3
+
+32.8
+24.9
+23.8
+
+15.6
+16.6
+9.8
+
+14.0
+15.4
+5.9
+
+28.0
+19.4
+29.3
+
+18.7
+18.0
+39.7
+
+-49.2
+6.2
+n.a.
+
+-1.8
+-13.4
+
+-0.4
+-5.4
+
+2.9
+3.4
+
+7.1
+10.2
+
+23.6
+28.1
+
+12.3
+10.3
+
+22.1
+23.7
+96.2
+5.3
+92.1
+
+19.9
+18.1
+112.6
+5.4
+91.7
+
+27.5
+22.7
+116.2
+4.7
+93.2
+
+35.4
+25.4
+136.3
+4.9
+95.1
+
+39.2
+23.5
+163.0
+5.0
+98.0
+
+27.0
+14.8
+174.2
+6.9
+101.9
+
+Sources: Data provided by the Singapore authorities; and IMF, Information Notice System.
+1/ Ratings of the three major local banks.
+2/ In percent of global nonbank loans.
+3/ Latest observation as of September 2008.
+4/ The underlying price indices are computed based on the Laspeyres method and are 4-quarter moving averages.
+
+27
+
+Table 5. Singapore: Summary of Government Operations, 2005/06–2009/10 1/
+(In percent of GDP)
+2008/09
+Budget
+Prel.
+
+2009/10
+Budget
+
+2005/06
+
+2006/07
+
+2007/08
+
+Total revenue
+Current revenue
+Tax revenue
+Investment income 2/
+Other nontax revenue
+Capital revenue 3/
+
+21.0
+17.7
+12.5
+4.1
+1.2
+3.2
+
+21.1
+17.4
+12.7
+3.6
+1.1
+3.7
+
+25.4
+19.7
+14.2
+4.1
+1.4
+5.7
+
+23.6
+19.7
+14.2
+3.8
+1.6
+3.9
+
+24.5
+21.0
+15.1
+4.8
+1.1
+3.5
+
+22.0
+17.9
+12.9
+4.0
+1.0
+4.1
+
+Total expenditure
+Current expenditure
+Operating expenditure
+Debt servicing
+Investment expenses
+Transfer payments
+Development expenditure and net lending
+Development expenditure 4/
+Net lending
+Fund transfers 5/
+
+12.9
+11.2
+10.4
+0.1
+0.4
+0.3
+1.5
+3.7
+-2.2
+0.1
+
+13.9
+12.5
+10.4
+0.1
+0.7
+1.4
+1.2
+2.9
+-1.7
+0.2
+
+13.0
+11.7
+10.0
+0.0
+1.0
+0.7
+1.2
+3.0
+-1.8
+0.1
+
+18.9
+14.1
+11.5
+0.0
+1.0
+1.5
+4.2
+4.2
+0.0
+0.7
+
+20.3
+15.1
+11.6
+0.0
+1.1
+2.3
+4.5
+4.7
+-0.2
+0.7
+
+24.3
+17.1
+13.4
+0.0
+1.2
+2.4
+7.2
+5.7
+1.5
+0.1
+
+Overall balance
+Primary operating balance 6/
+
+8.1
+-1.2
+
+7.3
+-1.5
+
+12.4
+0.9
+
+4.6
+-2.4
+
+4.2
+-3.6
+
+-2.3
+-8.8
+
+Memorandum items:
+Budget balance (the government's definition)
+Government saving
+Structural primary balance 7/
+
+0.7
+6.4
+-1.4
+
+0.0
+4.7
+-2.4
+
+3.0
+7.9
+-0.4
+
+-0.3
+5.0
+-2.7
+
+-0.8
+5.3
+-3.9
+
+-3.5
+0.8
+-2.7
+
+Sources: Data provided by the Singapore authorities; and staff estimates and projections.
+1/ Fiscal year runs from April 1 through March 31.
+2/ Includes investment income from government assets (interest rates and dividends), including interest
+earnings on development loans from 2000/01.
+3/ Sale of government property.
+4/ Includes the land reclamation expenditure.
+5/ Includes transfers to the Endowment Funds: Edusave, Medical, Lifelong Learning, and ElderCare.
+6/ Overall balance excluding investment income, capital revenue, debt service, other items.
+7/ Primary balance adjusted for cyclical impact on revenues associated with deviation between actual and
+potential economic output.
+
+28
+Table 6. Singapore: Medium-Term Scenario, 2006–14
+Prel.
+Proj.
+2006 2007 2008 2009 2010 2011 2012 2013 2014
+
+Real growth (percent change)
+GDP
+Total domestic demand
+Final domestic demand
+Consumption
+Private
+Public
+Gross capital formation
+Private
+Public
+Net exports /1
+Saving and investment (percent of GDP)
+Gross national savings
+Central government
+Private and other
+Gross capital formation
+
+8.4
+7.8
+1.1 -7.7
+6.8
+6.9 15.9 -4.5
+7.1
+9.2
+7.1 -2.1
+4.5
+4.6
+3.6 -0.4
+4.0
+5.2
+2.4 -1.3
+6.6
+2.2
+8.1
+3.1
+12.4 12.3 42.8 -11.1
+17.7 15.7 42.8 -14.1
+-12.9 -10.0 42.3 13.7
+3.1
+3.6 -10.6 -4.9
+
+2.5
+2.4
+2.4
+4.7
+4.5
+5.4
+-1.8
+-3.0
+6.4
+0.5
+
+5.2
+6.8
+6.8
+4.9
+4.4
+6.7
+10.2
+11.2
+4.8
+-0.5
+
+4.5
+6.3
+6.4
+5.6
+5.9
+4.4
+7.6
+8.1
+4.7
+-0.8
+
+4.5
+4.5
+4.5
+4.7
+5.5
+1.8
+4.1
+4.4
+2.5
+0.6
+
+4.6
+4.2
+4.2
+4.9
+5.7
+1.8
+2.9
+3.0
+2.1
+1.0
+
+45.5
+5.1
+40.4
+20.1
+
+44.2
+7.1
+37.2
+20.7
+
+45.7
+5.9
+39.8
+30.9
+
+40.4
+4.0
+36.4
+27.1
+
+37.9
+3.5
+34.3
+24.7
+
+39.1
+3.7
+35.5
+25.0
+
+39.3
+3.8
+35.5
+25.2
+
+39.1
+4.1
+35.0
+25.0
+
+38.8
+4.3
+34.5
+24.6
+
+1.0
+2.7
+3.9
+
+2.1
+2.1
+7.1
+
+6.5
+2.2
+3.9
+
+0.3
+3.9
+-6.5
+
+1.3
+3.6
+-6.3
+
+1.9
+3.1
+-3.4
+
+1.7
+2.7
+-1.4
+
+1.7
+2.3
+0.0
+
+1.8
+2.3
+0.0
+
+Central government (percent of GDP) 2/
+Revenue
+Expenditure
+Overall balance
+Primary balance
+
+21.1
+13.6
+7.5
+-1.4
+
+24.3
+13.2
+11.1
+0.3
+
+24.7
+18.4
+6.3
+-2.5
+
+23.8
+21.6
+2.2
+-5.7
+
+23.7
+21.9
+1.7
+-6.3
+
+23.9
+21.9
+2.0
+-6.2
+
+24.1
+22.0
+2.1
+-6.3
+
+24.3
+21.9
+2.5
+-6.2
+
+24.6
+21.9
+2.7
+-6.2
+
+Merchandise trade (percent change)
+Export volume
+Import volume
+Terms of trade
+
+11.4
+11.0
+-1.1
+
+7.4
+6.5
+-0.9
+
+3.0
+9.6
+-1.1
+
+-3.8
+-2.8
+1.8
+
+2.5
+2.0
+-0.5
+
+4.3
+4.3
+0.8
+
+4.7
+5.1
+0.5
+
+5.2
+5.1
+0.0
+
+5.3
+5.1
+0.0
+
+Inflation and unemployment
+(period average, percent)
+CPI inflation
+Unemployment rate
+Output gap
+
+Balance of payments (percent of GDP)
+Current account balance
+Balance on goods and services
+Balance on income and transfers
+Gross official reserves (US$ billions)
+(In months of imports) 3/
+
+25.4 23.5 14.8 13.3 13.2 14.1 14.1 14.0 14.2
+30.2 31.7 19.1 17.0 16.3 17.0 16.7 16.6 16.8
+-4.8 -8.2 -4.2 -3.7 -3.2 -2.9 -2.6 -2.6 -2.6
+136.3 163.0 174.2 184.0 194.1 200.8 207.4 214.0 220.5
+(4.9) (5.0) (6.9) (6.8) (7.0) (6.9) (6.9) (6.9) (6.9)
+
+Sources: Data provided by the Singapore authorities; and staff estimates and projections.
+1/ Contribution to GDP growth.
+2/ On a calendar year basis.
+3/ In months of next year's imports of goods and services.
+
+29
+Table 7. Singapore: Financial Soundness Indicators: Local Banking Sector, 2004–08
+
+2004 2005 2006 2007
+
+Mar.
+
+2008
+Jun.
+
+Sep.
+
+13.9
+10.6
+8.5
+
+14.3
+11.3
+8.5
+
+(In percent)
+Capital adequacy ratio
+Regulatory capital to risk-weighted assets
+Regulatory tier I capital to risk-weighted assets
+Shareholders’ equity to assets
+
+16.2
+11.5
+9.6
+
+15.8
+11.4
+9.6
+
+15.4
+11.2
+9.6
+
+Asset quality
+NPLs to nonbank loans
+Total provisions to NPLs
+Specific provisions to NPLs
+
+5.0
+73.6
+40.7
+
+3.8
+78.7
+41.1
+
+2.8
+1.5
+1.4
+1.4
+1.4
+89.5 115.6 118.9 117.2 119.9
+41.3 39.9 38.8 41.4 43.5
+
+23.3
+76.7
+
+24.1
+75.9
+
+22.8
+77.2
+
+16.2
+83.8
+
+17.7
+82.3
+
+17.1
+82.9
+
+16.6
+83.4
+
+7.4
+8.4
+22.5
+10.1
+
+7.6
+8.8
+21.7
+9.4
+
+8.4
+9.5
+21.0
+
+9.2
+11.4
+20.6
+
+9.1
+12.1
+19.8
+
+8.9
+12.3
+19.7
+
+9.4
+12.3
+19.2
+
+8.6
+12.3
+
+8.2
+11.8
+
+8.4
+11.4
+
+8.1
+11.2
+
+Loan concentrations (in percent of total loans)
+Bank loans
+Non-bank loans
+Of which :
+Manufacturing loans
+Building and construction loans
+Housing loans
+Loans to professionals and private individuals
+
+13.5
+9.8
+9.2
+
+14.1
+10.5
+8.7
+
+9.8
+
+10.0
+
+8.7
+10.5
+
+Profitability
+After-tax return on assets
+After-tax return on equity
+Net interest margin
+Non-interest income to total income
+
+1.2
+11.6
+2.0
+41.4
+
+1.2
+11.2
+1.9
+39.0
+
+1.4
+13.7
+2.1
+42.6
+
+1.3
+12.9
+2.1
+39.1
+
+1.2
+12.2
+2.2
+36.5
+
+1.2
+12.5
+2.2
+36.4
+
+1.1
+11.9
+2.2
+34.2
+
+Liquidity
+Liquid DBU assets to total DBU assets
+Liquid DBU assets to total DBU liabilities
+
+11.4
+12.5
+
+10.3
+11.3
+
+9.8
+10.6
+
+10.1
+10.8
+
+9.5
+10.3
+
+9.6
+10.3
+
+9.0
+9.6
+
+Loans to nonbank financial institutions
+
+Source: Monetary Authority of Singapore.
+
+INTERNATIONAL MONETARY FUND
+SINGAPORE
+Staff Report for the 2009 Article IV Consultation—Informational Annex
+Prepared by the Asia and Pacific Department
+July 16, 2009
+
+Contents
+
+Page
+
+I. Fund Relations .....................................................................................................................2
+II. Statistical Issues...................................................................................................................4
+
+2
+
+ANNEX I: SINGAPORE—FUND RELATIONS
+(As of June 30, 2009)
+I.
+
+Membership Status: Joined August 3, 1966; Article VIII
+
+II.
+
+General Resources Account:
+
+SDR Million
+
+Quota
+Fund holdings of currency
+Reserve position in Fund
+III.
+
+862.50
+720.79
+141.89
+
+SDR Department:
+
+SDR Million
+
+Net cumulative allocation
+Holdings
+
+16.48
+241.43
+
+IV.
+
+Outstanding Purchases and Loans: None
+
+V.
+
+Financial Arrangements:
+
+None
+
+VI.
+
+Projected Payments to Fund:
+
+None
+
+VII.
+
+Exchange Arrangement:
+
+Quota
+(In percent)
+100.00
+83.57
+16.45
+Allocation
+(In percent)
+100.00
+1,465.39
+
+Singapore’s exchange rate regime is floating. The Monetary Authority of Singapore (MAS)
+monitors its value against an undisclosed basket of currencies and intervenes in the market to
+maintain this value within an undisclosed target band. The U.S. dollar is the intervention
+currency.
+Singapore has accepted the obligations of Article VIII, Sections 2, 3, and 4 and maintains an
+exchange rate system that is free of restrictions on the making of payments and transfers for
+current international transactions.
+Singapore maintains restrictions on Singapore-dollar credit facilities to, and bond and equity
+issuance by, nonresident financial institutions. Singapore-dollar proceeds obtained by
+nonresident financial entities (such as banks, merchant banks, finance companies, and hedge
+funds) from loans exceeding S$5 million, or any amount for equity listings or bond issuance
+to finance activities outside Singapore have to be swapped or converted into foreign currency
+upon draw-down. Financial institutions are prohibited from extending Singapore-dollar credit
+
+3
+facilities in excess of S$5 million to nonresident financial entities if there is reason to believe
+that the Singapore-dollar proceeds may be used for Singapore-dollar currency speculation.
+VIII. Article IV Consultation:
+Singapore is on the 12-month consultation cycle. The 2008 Article IV consultation discussions
+were held during May 5−12, 2008, the Executive Board discussed the staff report (IMF Country
+Report No. 08/280) and concluded the consultation on July 16, 2008.
+IX.
+
+FSAP Participation and ROSCs:
+
+The FSAP was undertaken in conjunction with the 2003 Article IV consultation. The FSSA was
+published as IMF Country Report No. 04/104.
+A fiscal ROSC remains a priority for the authorities, and the exact timing is likely to be
+considered in 2010. A data ROSC could also be considered at that time.
+X.
+
+Technical Assistance: None
+
+XI.
+
+Resident Representative: Mr. Harm Zebregs
+
+4
+ANNEX II: SINGAPORE––STATISTICAL ISSUES
+Singapore provides data on a timely basis and meets all the SDDS specifications. These
+include the coverage, periodicity, and timeliness of the data; and the dissemination of
+advance release calendars; quarterly certification of the metadata posted on the Fund’s
+Dissemination Standards Bulletin Board; and provision of information to allow users to
+assess data quality.
+While the authorities have continued to improve the quality of data, dissemination of more
+disaggregated data would enhance the basis for macroeconomic policy analysis, particularly
+in the external and fiscal areas.
+
+
+In early 2006, the Singapore Department of Statistics (DOS) completed rebasing the
+reference year for the Singapore System of National Accounts from 1995 to 2000.
+The DOS also made improvements in data sources and methodology. The
+reconciliation of various national accounts estimates was conducted, resulting in
+lower statistical discrepancies. Work on further improvements, particularly with
+respect to changes in inventories, is ongoing.
+
+
+
+The authorities have released the full set of statistics on merchandise trade including
+trade with Indonesia since January 2006. Prior to this, merchandise trade statistics did
+not fully include trade with Indonesia, although trade transactions with Indonesia are
+captured elsewhere in the current account of the balance of payments (BOP).
+
+
+
+Information on government assets held abroad is neither published nor provided to
+the Fund. Interest and dividend on these assets and debt service payments on
+domestic debt made from the extra budgetary Government Securities Fund are
+published on an annual basis. Data on the financial position of the consolidated public
+sector are not published.
+
+
+
+Data on the international investment position (IIP) are not provided on a
+disaggregated level as suggested by the Balance of Payments Manual (5th edition).
+Also, the IIP position does not include the net foreign assets held by Singapore’s
+Government Investment Corporation, although the associated flows are included in
+the balance of payments data. The authorities have committed to improve over time
+the reporting of the international investment position to the IMF.
+
+The Monetary Authority of Singapore has not submitted the standardized report forms
+(SRFs) for monetary statistics introduced in October 2004. The SRFs provide for accounting
+data to be broken down by instrument, sector, and currency.
+
+5
+Singapore––Table of Common Indicators Required for Surveillance
+(As of July 10, 2009)
+Date of
+Latest
+Observation
+
+Date
+Received
+
+Frequency
+of
+6
+Data
+
+Frequency
+of
+6
+Reporting
+
+Frequency of
+6
+Publication
+
+Exchange rates
+
+07/10/09
+
+07/10/09
+
+D
+
+D
+
+D
+
+International reserve assets and
+reserve liabilities of the Monetary
+1
+Authorities
+
+06/2009
+
+07/2009
+
+M
+
+M
+
+M
+
+Reserve/base money
+
+06/2009
+
+07/2009
+
+M
+
+M
+
+M
+
+Broad money
+
+05/2009
+
+07/2009
+
+M
+
+M
+
+M
+
+Central bank balance sheet
+
+05/2009
+
+06/2009
+
+M
+
+M
+
+M
+
+Consolidated balance sheet of the
+banking system
+
+05/2009
+
+07/2009
+
+M
+
+M
+
+M
+
+07/10/09
+
+07/10/09
+
+D
+
+D
+
+D
+
+05/2009
+
+06/2009
+
+M
+
+M
+
+M
+
+Revenue, expenditure, balance and
+3
+composition of financing ––general
+4
+government
+
+...
+
+...
+
+...
+
+...
+
+...
+
+Revenue, expenditure, balance and
+3
+composition of financing ––central
+government
+
+05/2009
+
+06/2009
+
+M
+
+M
+
+M
+
+...
+
+...
+
+...
+
+...
+
+...
+
+External current account balance
+
+2009: Q1
+
+05/2009
+
+Q
+
+Q
+
+Q
+
+Exports and imports of goods and
+services
+
+05/2009
+
+06/2009
+
+M
+
+M
+
+M
+
+GDP/GNP
+
+2009: Q1
+
+05/2009
+
+Q
+
+Q
+
+Q
+
+2009: Q1
+
+06/2009
+
+Q
+
+Q
+
+Q
+
+2008
+
+2009
+
+A
+
+A
+
+A
+
+Interest rates
+
+2
+
+Consumer price index
+
+Stocks of central government and
+5
+central government-guaranteed debt
+
+7
+
+Gross external debt
+
+Net international investment position
+1
+
+8
+
+Includes reserve assets pledged or otherwise encumbered as well as net derivative positions.
+Both market-based and officially determined, including discount rates, money market rates, rates on treasury bills, notes,
+and bonds.
+3
+Foreign, domestic bank, and domestic nonbank financing.
+4
+The general government consists of the central government (budgetary funds, extra budgetary funds, and social security
+funds) and state and local governments.
+5
+Including currency and maturity composition.
+6
+Daily (D); weekly (W); monthly (M); quarterly (Q); annually (A); irregular (I); and not available (NA).
+7
+Official external debt is zero.
+8
+The reported number does not include the net foreign asset position of the Government of Singapore’s Investment
+Corporation.
+2
+
+Statement by the IMF Staff Representative on Singapore
+July 29, 2009
+The information below has become available following the issuance of the staff report. It
+does not alter the thrust of the staff appraisal.
+1.
+
+Recent Data
+
+
+
+Activity rebounded strongly in the second quarter. On advanced estimates, GDP
+growth (q/q saar) jumped to 20.4 percent, after 4 quarters of output contraction. On a
+year-on-year basis, GDP fell 3.7 percent, a slower rate of decline than that in Q1 2009
+(9.6 percent) and Q4 2008 (4.2 percent). However, June industrial production (down
+9.3 percent reflecting a sharp slowdown in biomedical manufacturing) and export
+data (showing inter alia electronics exports still falling at about 20 percent y/y)
+suggest that the Q2 outturn might have been partly driven by one-off factors.
+
+
+
+Singapore’s CPI declined y/y by 0.5 percent in June (compared to 0.3 percent in
+May). Mild temporary deflation in the first half of the year is consistent with the
+staff’s projection of inflation at about ¼ percent for the year as a whole.
+
+2.
+
+Policies
+
+
+
+On July 22, the Hong Kong Monetary Authority, Bank Negara Malaysia, and the
+Monetary Authority of Singapore announced the establishment of a working group to
+coordinate the exit from full deposit guarantees in their respective jurisdictions.
+
+
+
+Employment growth in the public sector remains on track. Of the 18,000 new jobs in
+the public sector and government-supported areas such health and education
+envisaged under the 2009 budget, 13,000 have been created so far.
+
+3.
+Outlook. On the whole, the latest data releases support the staff’s view that the
+Singaporean economy is likely to experience slow and uneven growth in the period ahead.
+Nonetheless, the Q2 outturn and an upward revision in Q1 growth mechanically lift the GDP
+numbers for 2009. Accordingly, GDP growth for the year is likely to be revised from
+−7¾ percent to around −4⅓ percent in the upcoming WEO round. The revised staff estimate
+would be on the strong side of the latest official growth forecast, a range of −6 percent to
+−4 percent.
+
+Public Information Notice (PIN) No. 09/110
+FOR IMMEDIATE RELEASE
+August 31, 2009
+
+International Monetary Fund
+700 19th Street, NW
+Washington, D. C. 20431 USA
+
+IMF Executive Board Concludes 2009 Article IV Consultation
+with Singapore
+On July 29, 2009, the Executive Board of the International Monetary Fund (IMF) concluded the
+Article IV consultation with Singapore.1
+Background
+Singapore has been severely affected by the global downturn. It was among the first countries
+in Asia to enter a recession and is now set for its worst economic contraction since
+independence. Nonetheless, economic fundamentals remain strong and provide an important
+buffer against the external shocks.
+As elsewhere in the region, Singapore’s financial markets experienced considerable turbulence
+in the fall of 2008, but the impact of the crisis has been felt mainly through the trade channel.
+The collapse in external demand has led to a sharp contraction in GDP, which fell by almost
+13 percent (quarter-on-quarter, seasonally adjusted annualized rate) in the first quarter of 2009.
+Although export-oriented sectors have been hit the hardest, services, including in the financial
+sector, have also suffered. Unemployment has risen and wage growth has decelerated.
+However, employment of residents has fallen less than in previous downturns as the corporate
+sector entered the recession in a stronger position.
+1
+
+Under Article IV of the IMF's Articles of Agreement, the IMF holds bilateral discussions with
+members, usually every year. A staff team visits the country, collects economic and financial
+information, and discusses with officials the country's economic developments and policies. On
+return to headquarters, the staff prepares a report, which forms the basis for discussion by the
+Executive Board. At the conclusion of the discussion, the Managing Director, as Chairman of the
+Board, summarizes the views of Executive Directors, and this summary is transmitted to the
+country's authorities.
+
+2
+The current account surplus has shrunk markedly as a result of the slump in exports. Foreign
+direct investment (FDI) and portfolio inflows have also fallen because of the deteriorating growth
+outlook and rising risk aversion. However, the decline has been more than offset by lower
+capital outflows owing to weaker corporate profits and concerns about asset quality in advanced
+economies. Outflows have also been mitigated by Singapore’s status as a safe haven.
+Singapore is a major funding center for South-East Asia and its financial market conditions are
+highly influenced by developments abroad. The equity market fell by almost 24 percent in
+October 2008, the biggest month-on-month decline in more than twenty years, and money and
+credit markets experienced considerable liquidity pressures. However, as concerns about the
+severity of the global downturn have eased in recent months, and risk appetite has improved,
+equity prices have rebounded, and the liquidity situation has also improved.
+The policy response to the crisis has been forceful and has included a large fiscal stimulus
+package, an easing of monetary policy, and a range of measures aimed at stabilizing the
+financial sector. The overarching strategy has been to lessen the impact of the external shocks,
+while ensuring that Singapore is well positioned to rebound once the global economy recovers.
+Executive Board Assessment
+Executive Directors noted that, given the openness of its economy, Singapore was among the
+first countries in Asia to enter a recession following the collapse of external demand.
+Nevertheless, strong economic fundamentals, coupled with the authorities’ skillful
+implementation of a broad range of policy instruments, have helped lessen the impact of the
+shocks. The focus now is to preserve financial stability and to ensure that Singapore is well
+positioned to rebound once the global economy recovers, taking advantage of the ample room
+for maneuver at the authorities’ disposal.
+Directors considered monetary policy settings to be broadly appropriate, supporting domestic
+demand without undermining exchange rate stability. They agreed that, barring a significant
+deterioration of the outlook for growth or inflation, monetary policy should stay the course until a
+recovery is clearly established. Further along the recovery path, a tightening stance would be
+warranted to safeguard price stability, through targeting a trend appreciation of the nominal
+effective exchange rate.
+Directors observed that the floating exchange rate regime has served Singapore well, and that
+the exchange-rate centered monetary policy framework has been an important source of
+stability in times of turbulence. They noted the staff’s assessment, though subject to
+considerable uncertainty, that the Singapore dollar in real effective terms appears to be
+somewhat weaker than its medium-term equilibrium level. The real effective exchange rate
+would likely strengthen, in line with fundamentals, once a global recovery takes hold.
+
+3
+
+Directors agreed that the fiscal policy response, most recently the Resilience Package
+contained in the 2009 budget, should go a long way toward mitigating the impact of the
+recession on households and businesses, while also fostering the country’s long-term growth
+potential. They welcomed the authorities’ readiness to take further measures if the economy’s
+trajectory proves more fragile than currently expected. Directors emphasized that, over the
+medium term, fiscal policy will need to play a part in preparing the economy for shifts in the
+pattern of global demand. Higher public investment in physical and social infrastructure, along
+with flexible labor and product markets, would create an enabling environment in which
+Singapore could seize new economic opportunities. Consideration could be given also to
+strengthening the role of automatic stabilizers.
+Directors noted that Singapore’s financial sector has shown remarkable resilience and should
+be able to withstand an even deeper and more prolonged global downturn. They commended
+the authorities for proactively implementing a series of measures to safeguard the stability of the
+financial system. Directors stressed that, in the period ahead, priority should continue to be
+given to rigorous stress-testing as asset quality is likely to deteriorate, upgrading contingency
+planning, and strengthening cooperation with supervisors abroad. They welcomed the decision
+of the Monetary Authority of Singapore (MAS), the Hong Kong Monetary Authority, and Bank
+Negara Malaysia to coordinate the unwinding of deposit guarantees in their respective
+jurisdictions. Directors encouraged the MAS to continue to adapt its supervisory and regulatory
+framework as lessons from the crisis are learned.
+Given all members’ obligations to provide accurate data to the Fund, Directors welcomed the
+authorities’ intention to improve over time the currently incomplete reporting of the international
+investment position of Singapore.
+
+Public Information Notices (PINs) form part of the IMF's efforts to promote transparency of the IMF's
+views and analysis of economic developments and policies. With the consent of the country (or
+countries) concerned, PINs are issued after Executive Board discussions of Article IV consultations with
+member countries, of its surveillance of developments at the regional level, of post-program monitoring,
+and of ex post assessments of member countries with longer-term program engagements. PINs are also
+issued after Executive Board discussions of general policy matters, unless otherwise decided by the
+Executive Board in a particular case. The staff report (use the free Adobe Acrobat Reader to view this
+pdf file) for the 2009 Article IV Consultation with Singapore is also available.
+
+4
+
+Singapore: Selected Economic and Financial Indicators, 2005–10
+2005
+
+2006
+
+2007
+
+2008
+
+Proj.
+2009
+
+Growth (percentage change)
+Real GDP
+Total domestic demand
+Consumption
+Private consumption
+Gross capital formation
+Net exports
+Contribution to GDP growth
+
+7.3
+3.3
+4.4
+3.8
+0.6
+21.3
+5.6
+
+8.4
+6.8
+4.5
+4.0
+12.4
+10.5
+3.1
+
+7.8
+6.9
+4.6
+5.2
+12.3
+11.9
+3.6
+
+1.1
+15.9
+3.6
+2.4
+42.8
+-33.8
+-10.6
+
+-7.7
+-4.5
+-0.4
+-1.3
+-11.1
+-23.8
+-4.9
+
+2.5
+2.4
+4.7
+4.5
+-1.8
+2.9
+0.5
+
+Saving and investment (percent of GDP)
+Gross national savings
+Gross capital formation
+
+43.0
+20.2
+
+45.5
+20.1
+
+44.2
+20.7
+
+45.7
+30.9
+
+40.4
+27.1
+
+37.9
+24.7
+
+0.5
+3.1
+
+1.0
+2.7
+
+2.1
+2.1
+
+6.5
+2.2
+
+0.3
+3.9
+
+1.3
+3.6
+
+21.0
+12.9
+8.1
+-1.2
+
+21.1
+13.9
+7.3
+-1.5
+
+25.4
+13.0
+12.4
+0.9
+
+24.5
+20.3
+4.2
+-3.6
+
+23.5
+22.0
+1.5
+-6.4
+
+23.7
+21.9
+1.8
+-6.2
+
+6.4
+2.2
+3.3
+
+19.1
+6.3
+3.4
+
+14.1
+19.9
+2.4
+
+11.6
+16.6
+1.0
+
+10.7
+5.5
+0.7
+
+...
+...
+…
+
+27.5
+22.7
+36.4
+12.3
+
+35.4
+25.4
+42.8
+17.0
+
+39.2
+23.5
+47.2
+19.4
+
+27.0
+14.8
+30.7
+13.1
+
+20.8
+13.3
+24.9
+9.8
+
+22.1
+13.2
+27.5
+10.1
+
+International reserves, external debt, and IIP
+Gross official reserves (US$ billion)
+(months of imports) 3/
+
+116.2
+4.7
+
+136.3
+4.9
+
+163.0
+5.0
+
+174.2
+6.9
+
+184.0
+6.8
+
+194.1
+7.0
+
+Exchange rate (end of period)
+S$/US$ 4/
+Nominal effective exchange rate 5/
+Real effective exchange rate 5/
+
+1.66
+100.3
+93.2
+
+1.53
+104.0
+95.1
+
+1.44
+106.0
+98.0
+
+1.44
+107.6
+101.9
+
+1.45
+108.5
+101.3
+
+...
+...
+…
+
+Inflation and unemployment (period average, percent)
+CPI inflation
+Unemployment rate
+Central government budget (percent of GDP) 1/
+Revenue
+Expenditure
+Overall balance
+Primary operating balance
+Money and credit (end of period, percentage change) 2/
+Broad money (M3)
+Lending to nonbanking sector
+Interest rate (three-month interbank, in percent)
+Balance of payments (US$ billion)
+Current account balance
+(percent of GDP)
+Trade balance
+Overall balance
+
+Sources: Data provided by the Singapore authorities; and Fund staff estimates and projections.
+1/ Fiscal year beginning April 1.
+2/ Latest observations as of May 2009.
+3/ In months of following year's imports of goods and services.
+4/ Latest observations as of May 2009.
+5/ IMF, Information Notice System monthly index (2000 full-year average = 100). Latest observations as of May 2009.
+
+2010
+
+Statement by Adrian Chua, Alternate Executive Director for Singapore
+July 29, 2009
+1
+
+Introduction
+
+1.1
+The Singapore authorities would like to thank the IMF staff for the 2009 Article IV
+Consultation. The focus of the Consultation, on policy responses to cushion the domestic
+economy from the adverse impact of the current global recession and to ensure it is well
+positioned for the eventual recovery, was appropriate and constructive. The discussions at
+this year’s Consultation were among the most engaging in recent years.
+2
+
+Recent Economic Developments and Outlook
+
+2.1
+Singapore is one of the most open economies in the world. Given its deep and
+extensive integration with international markets, the economy could not be insulated from the
+unfolding global recession which gathered momentum towards the end of last year. In Q1
+2009, domestic economic activity experienced its second consecutive quarter of double-digit
+contraction on a quarter-on-quarter seasonally-adjusted annualised rate (q-o-q SAAR) basis,
+with the GDP level falling to 10% below its Q1 2008 peak. Industries with a high degree of
+external orientation, such as manufacturing and trade-related services, bore the brunt of the
+downturn.
+2.2
+More recent data, including the Advance Estimates released by the Ministry of Trade
+of Industry, showed that the domestic economy has likely reached a trough. The Singapore
+economy rebounded strongly by 20% q-o-q SAAR in Q2 2009, regaining some of the
+previous output losses. This recovery has to be seen in the context of the sharp retraction in
+economic activity which took place during Q4 2008 and Q1 2009. Businesses have started to
+rebuild inventories to levels that are more sustainable and consistent with underlying
+demand, which has stabilised somewhat amidst easing financial conditions. In the domestic
+financial sector, several segments posted gains in the second quarter. Notably, stock market
+turnover was supported by improved investor sentiment, while domestic non-bank loans
+remained firm.
+2.3
+Nevertheless, the Singapore economy is unlikely to witness a sharp and decisive
+recovery this year, as that would be contingent on a sustained recovery of final demand in the
+G3. Given continued stresses in the global financial system and sluggishness in labour
+market conditions in the major economies, domestic GDP growth is thus likely to be
+concomitantly slow and uneven in the near term. Indeed, Singapore is facing the most
+challenging external environment in recent history. GDP growth in eight out of our top ten
+trading partners is expected to be negative this year, compared with five in ten during the
+Asian Financial Crisis. Against this backdrop, the domestic economy is forecast to contract
+by 4-6% in 2009, and continue to register below-trend growth in 2010.
+2.4
+Domestic CPI inflation has been on a downward trend since hitting a peak of 7.5%
+y-o-y in Q2 2008. It fell sharply to 2.1% in Q1 this year before turning slightly negative in
+Q2 (-0.5%). The steep falloff in inflation is attributed first to the dissipation of the impact of
+
+2
+the Goods and Services Tax hike in Q3 2008 and, subsequently, to the collapse in global oil
+prices. Other drivers of inflation in 2008, such as escalating global food prices and elevated
+domestic business costs, have also moderated. More recently, administrative measures from
+the government’s FY2009 Budget have also lowered inflation through reductions in public
+housing maintenance costs.
+2.5
+CPI inflation is likely to remain slightly negative for the rest of the year, due largely
+to the drag from oil-related items. While global oil prices have recovered from the trough
+reached in February, they are expected to remain significantly lower this year compared to
+2008. The slack in demand and easing domestic costs would also cap increases in consumer
+prices. This period of disinflation is characteristic of the adjustment process taking place
+during an economic downturn, although exaggerated by the sharp run-up in prices a year ago.
+For the whole of 2009, CPI inflation is likely to average between -0.5% and 0.5%.
+3
+
+Policy Responses
+
+3.1
+Amidst the rapidly evolving economic conditions over the past few quarters, the
+responses of monetary policy have been deliberately graduated, underpinned by its core
+objective of maintaining price stability in the medium term. In October 2008, MAS eased
+monetary policy by shifting to a 0% appreciation of the Singapore dollar nominal effective
+exchange rate (S$NEER) policy band in light of the weak economic environment and easing
+inflationary pressures. This was followed by a re-centring of the policy band to the prevailing
+level of the S$NEER in April this year, while keeping the 0% appreciation path.
+Notwithstanding the sharp economic rebound in Q2 2009, growth remains below trend and
+inflationary pressures continue to be muted. At this juncture, the current policy stance
+remains appropriate to support the economic recovery and ensure medium-term price
+stability. The Singapore dollar continues to play the anchor of stability role for our small and
+open economy.
+3.2
+At the same time, fiscal policy has contributed in a significant way to the required
+adjustments in the overall macroeconomic stance. The FY2009 Budget was announced about
+one month earlier than usual in response to the economic crisis. The $20.5 billion (8.2% of
+GDP) Resilience Package comprised measures that targeted the multiple stress points
+confronting businesses and households, such as supplementing their cash flows in the short
+term, while providing resources for building long-term capabilities. This objective was
+carefully balanced against the need to ensure that the measures would not distort the market
+incentives for companies and workers to take the necessary steps to adjust to the new realities
+in the global economy. The Resilience Package is estimated to result in a deficit in the Basic
+Balance1 of 6.0% of GDP, and an overall budget deficit of 3.5% of GDP.2 However,
+1
+
+The Basic Balance is the Budget Balance before accounting for Net Investment Income/Returns and transfers
+to endowment and trust funds.
+
+2
+
+This is significantly more expansionary than previous off-Budget packages. In the downturns of 1998 and
+2001, the off-Budget packages resulted in a surplus in the Basic Balance of 0.7% of GDP in FY1998, and a
+deficit in the Basic Balance of 1.5% of GDP in FY2001.
+
+3
+Singapore will not need to borrow to finance this deficit. The authorities remain vigilant to
+the continuing risks in the external environment and their ability to implement fiscal policy
+measures quickly will ensure a timely response as the situation requires.
+3.3
+The authorities noted the IMF staff’s suggestion to strengthen the automatic
+stabilisers by assessing taxes on the basis of current rather than previous year’s income. The
+authorities will continue to review this, bearing in mind the higher administrative and
+compliance costs that come with a current year basis of assessment. In the meantime, the
+authorities have implemented various counter-cyclical measures to mitigate the tax impact on
+individuals and companies, including personal income tax rebate, enhanced loss carry-back,
+and deferred installment payments for taxpayers with short-term financial difficulties.
+3.4
+Singapore’s financial system has weathered the crisis well. The banking system and
+insurance sector had low exposures to toxic assets and remained profitable, liquid and wellcapitalised. There were no disruptions to inter-bank funding markets in domestic currency
+and credit flows to the economy. Going forward, MAS’ continuing efforts to strengthen
+financial stability include focusing financial institutions’ attention on managing risks and
+safeguarding the robustness of their liquidity, earnings and capital. MAS is also shaping and
+adapting new international regulatory standards, strengthening the corporate governance of
+financial institutions, and improving safety net arrangements in Singapore such as the deposit
+insurance fund and the policy-owners protection fund.
+3.5
+Aside from cyclical policy responses, the authorities have embarked on a review of
+Singapore’s medium-term economic growth strategies amidst the structural changes
+occurring in the global landscape. Moreover, as the economy transits to a more developed
+phase, growth would have to be increasingly underpinned by improvements in productivity.
+Against this, the Prime Minister has tasked a newly-established Economic Strategies
+Committee (ESC) to develop strategies for Singapore to build capabilities and maximise
+opportunities as a global city in a new world environment. Chaired by the Minister for
+Finance and comprising representatives from both the public and private sectors, the
+Committee will focus its work on five broad areas: seizing growth opportunities,
+strengthening corporate capabilities, growing human and knowledge capital, creating quality
+jobs and real wage growth for Singaporeans, and optimising the use of scarce resources. To
+facilitate this, eight sub-committees have been formed to undertake in-depth reviews of the
+various issues.3 The ESC aims to put forward its key recommendations in January 2010,
+while the full report is expected to be released by mid-2010.
+4
+
+Final Remarks
+
+4.1
+The global economy is going through an unprecedented downturn. Accordingly, an
+ultra-open economy like Singapore has had to confront an extreme deterioration in external
+conditions. While domestic GDP growth has taken a sharp hit, the solid fundamentals of the
+3
+
+More information on the the ESC and its various sub-committees are available at the website:
+www.esc.gov.sg.
+
+4
+economy have ensured that cyclical adjustments have not derailed macroeconomic and
+financial stability. As the global economy is restored to health, the recovery in the Singapore
+economy will also pick up in pace, although the authorities recognise that this could be a
+slow and extended process. Appropriate macroeconomic policy settings have and will be
+formulated with these prospects in mind. The authorities remain fully committed to
+engagement in global markets and are confident that Singapore will continue to reap the full
+benefits of its outward-oriented development strategy.
+4.2
+The Singapore authorities are pleased to inform the Board that they are agreeable to
+the publication of the Staff Report associated with the 2009 Article IV consultation and will
+be releasing the Buff Statement at the same time.
+
+

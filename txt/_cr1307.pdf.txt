@@ -1,0 +1,11171 @@
+IMF Country Report No. 13/7
+
+ALBANIA
+January 2013
+
+2012 ARTICLE IV CONSULTATION
+Under Article IV of the IMF’s Articles of Agreement, the IMF holds bilateral discussions with
+members, usually every year. In the context of the 2012 Article IV consultation with Albania,
+the following documents have been released and are included in this package:
+
+
+
+Staff Report for the 2012 Article IV consultation, prepared by a staff team of the IMF,
+following discussions that ended on October 2, 2012, with the officials of Albania on
+economic developments and policies. Based on information available at the time of these
+discussions, the staff report was completed on November 16, 2012. The views expressed in
+the staff report are those of the staff team and do not necessarily reflect the views of the
+Executive Board of the IMF.
+
+
+
+
+Staff Statement
+
+
+
+Statement by the Executive Director for Albania.
+
+Public Information Notice (PIN) summarizing the views of the Executive Board as
+expressed during its December 3, 2012 discussion of the staff report that concluded the
+Article IV consultation.
+
+The document listed below has been or will be separately released.
+
+The policy of publication of staff reports and other documents allows for the deletion of
+market-sensitive information.
+Copies of this report are available to the public from
+International Monetary Fund  Publication Services
+700 19th Street, N.W.  Washington, D.C. 20431
+Telephone: (202) 623-7430  Telefax: (202) 623-7201
+E-mail: publications@imf.org Internet: http://www.imf.org
+Price: $18.00 a copy
+
+International Monetary Fund
+Washington, D.C.
+
+©2013 International Monetary Fund
+
+
+
+ALBANIA
+STAFF REPORT FOR THE 2012 ARTICLE IV CONSULTATION
+November 16, 2012
+
+KEY ISSUES
+Context: Albania has successfully avoided a serious economic slowdown since the
+outbreak of the global crisis four years ago. But now, policy buffers are absent, and
+macroeconomic imbalances persist. With the ongoing eurozone problems, the
+economy has slowed, and the financial sector is exposed to domestic and external risks.
+Fiscal Policy: Arresting the upward trend in public debt in the near term to anchor
+market expectations, and undertaking sustained but gradual fiscal consolidation over
+the medium term would strike an appropriate balance between signaling the
+government’s commitment to debt sustainability, and limiting the adverse impact of
+fiscal consolidation on the weak economy. Adjustment could entail modest increases in
+tax rates, as well as trimming current spending. Improving the debt trajectory would
+also mitigate fiscal financing risks emanating from high rollover needs.
+Financial Sector: Containing spillovers from the eurozone crisis and minimizing
+negative feedback from a slowing economy will require close banking supervision and
+continued close cooperation with foreign regulatory authorities. The problem of rapidly
+rising nonperforming loans should be addressed by clearing unpaid government bills
+and improving collateral execution. Work on deepening public debt markets and
+lengthening maturity should continue.
+Structural Reform: Strengthening property rights, improving contract enforcement,
+and simplifying the tax system would encourage investment and medium-term growth.
+
+ALBANIA
+
+Approved By
+
+Aasim M. Husain and
+Masato Miyazaki
+
+Discussions were held in Tirana on September 19-October 2, 2012.
+The staff team comprised Mr. Ilahi (head), Mr. Gaertner, Mr. Ioannou,
+and Ms. Tambunlertchai (all EUR), and Ms. Araujo (SPR), and was
+assisted by Ms. Spahia (local office). Mr. Husain (EUR) joined some of
+the policy discussions. The mission met with the Prime Minister,
+Finance Minister, Bank of Albania Governor, other senior officials,
+banks, private sector representatives, unions, and parliamentarians.
+
+CONTENTS
+CONTEXT: UNFINISHED REBALANCING AND REFORMS _______________________________________ 4
+RECENT DEVELOPMENTS: EUROZONE CRISIS TAKING A TOLL ________________________________ 4
+A. The Economy: Weakening Amidst Elevated Imbalances _________________________________________ 4
+B. Public Finances: In Need of Adjustment _________________________________________________________ 5
+C. Banking System: Stability Amidst Continued Risks ______________________________________________ 7
+D. Monetary Policy: An Anchor of Stability _________________________________________________________ 8
+E. Structural Reforms: Potential Largely Unexploited ______________________________________________ 8
+REPORT ON THE DISCUSSIONS __________________________________________________________________ 9
+A. Outlook and Risks _______________________________________________________________________________ 9
+B. Advancing Fiscal Sustainability through a Credible Anchor ___________________________________ 12
+C. Maintaining Financial Stability in the Face of Continued Challenges __________________________ 14
+D. Use of Monetary Policy to Ease the Economic Slowdown _____________________________________ 16
+E. Accelerating Reforms to Boost Medium-Term Growth ________________________________________ 17
+STAFF APPRAISAL ______________________________________________________________________________ 18
+BOXES
+1. Spillovers from the Eurozone Crisis ______________________________________________________________ 6
+2. Exchange Rate Assessment ____________________________________________________________________ 11
+FIGURES
+1. Background and Outlook ______________________________________________________________________ 21
+2. External Sector Developments _________________________________________________________________ 22
+3. Inflation and Monetary Developments ________________________________________________________ 23
+4. Financial Sector Developments ________________________________________________________________ 24
+5. Governance, Business Environment, and Labor Market________________________________________ 25
+
+2
+
+INTERNATIONAL MONETARY FUND
+
+ALBANIA
+
+5. Governance, Business Environment, and Labor Market________________________________________ 25
+6. Baseline and Adjustment Scenarios ___________________________________________________________ 26
+TABLES
+1. Basic Indicators and Macroeconomic Framework, 2009–17 ___________________________________ 27
+2a. General Government Operations, 2009–17 (Percent of GDP) ________________________________ 28
+2b. General Government Operations, 2009–17 (Billions of leks) _________________________________ 29
+3a. Balance of Payments, 2009–17 (Percent of GDP) _____________________________________________ 30
+3b. Balance of Payments, 2009–17 (Millions of euros) ___________________________________________ 31
+4a. Monetary Aggregates, 2009–13 (Percent of GDP) ____________________________________________ 32
+4b. Monetary Aggregates, 2009–13 (Billions of leks) _____________________________________________ 33
+5. IMF Core Indicators of Financial Soundness, December 2005–June 2012 _____________________ 34
+6. Risk Assessment Matrix ________________________________________________________________________ 35
+APPENDIXES
+I. Debt Sustainability Analysis ___________________________________________________________________ 36
+II. Fiscal Deficits, Rollover Risk, and Banking System Stability ____________________________________ 42
+III. Inflation Targeting in Albania _________________________________________________________________ 46
+
+INTERNATIONAL MONETARY FUND
+
+3
+
+ALBANIA
+
+CONTEXT: UNFINISHED REBALANCING AND
+REFORMS
+1.
+After successfully avoiding a serious decline in growth and financial instability since
+2009, the economy is weakening and macroeconomic imbalances are elevated. Albania has
+largely avoided a sharp fall in output since the crisis broke, kept inflation low and stable, and
+maintained banking system stability, thanks to a fiscal stimulus, sound monetary policy and effective
+macroprudential actions. But today, policy buffers are exhausted, macroeconomic imbalances
+persist, and with the ongoing eurozone problems, the economy has slowed. The financial sector is
+exposed to domestic and external risks, and incomplete investment climate reforms constrain
+medium term growth.
+2.
+Implementation of earlier Article IV consultation recommendations has been mixed.
+The authorities have strengthened financial sector supervision, crisis preparedness, and bank
+resolution frameworks in line with 2011 Article IV consultation recommendations, but have made
+limited headway toward sustained fiscal consolidation.
+3.
+The possibility of EU accession is an anchor for consensus on reforms, but the
+upcoming election season could polarize positions. In October 2012, the European Commission
+recommended that Albania could be granted EU candidate status, subject to completion of key
+measures in the areas of judicial and public administration reform and revision of the parliamentary
+rules and procedures.1 While there appears to be wide support for moving toward EU membership,
+bipartisan consensus on reforms is unlikely in the run up to parliamentary elections in June 2013.
+
+RECENT DEVELOPMENTS: EUROZONE CRISIS TAKING
+A TOLL
+A. The Economy: Weakening Amidst Elevated Imbalances
+4.
+Albania has so far managed the headwinds from the global crisis reasonably well. The
+growth shock was less severe than elsewhere in Europe, thanks in part to the use, albeit modest, of
+the public sector balance sheet, which partially offset weak private demand. Monetary
+accommodation also helped mitigate the impact on domestic demand. Other factors, notably
+exports of hydroelectricity in 2010 and crude oil in 2011—driven by good rains and coming on
+stream of oil production, respectively—also helped. The financial system has proved broadly
+resilient, notwithstanding the preponderance of foreign banks, thanks largely to strong
+macroprudential regulations.
+
+1
+
+4
+
+http://ec.europa.eu/enlargement/pdf/key_documents/2012/package/al_conclusions_2012_en.pdf
+
+INTERNATIONAL MONETARY FUND
+
+ALBANIA
+
+Real GDP per Capita
+
+Real GDP, 2009-12
+(percent change, y/y)
+
+15
+
+(U.S. dollars)
+
+7000
+ALB
+BIH
+MKD
+SRB
+MNE
+
+6000
+
+10
+
+5000
+
+5
+
+4000
+
+0
+
+3000
+
+-5
+
+ALB
+HRV
+ROM
+SVK
+
+-10
+
+BGR
+HUN
+SRB
+SVN
+
+2000
+1000
+0
+
+-15
+2009Q1
+
+2009Q3
+
+2010Q1
+
+2010Q3
+
+2011Q1
+
+2011Q3
+
+2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012
+
+2012Q1
+
+Source: WEO, Albanian authorities, and IMF staff calculations
+
+Source: WEO
+
+5.
+The eurozone crisis is weighing down on the economy. Output grew by 1.0 percent
+during 2012:H1 (in part because of severe winter weather), compared to 2.7 percent in the same
+period in 2011, and could slow further, in line with other countries in the region. Core inflation has
+also been on a declining trend. Credit growth fell sharply between January and August, as consumer
+and investor confidence weakened with the worsening outlook in eurozone neighbors. As a result,
+the economy is expected to operate below potential (about 2.6 percent growth) in 2012. While the
+current account deficit has begun to adjust on account of weakening imports (Figure 1), the narrow
+export base and sluggish external demand limit the extent of the correction. Heavy exposure of
+exports and remittances to Italy and Greece carries near-term risks (Box 1).
+
+B. Public Finances: In Need of Adjustment
+6.
+There are no fiscal buffers to stimulate the economy. At nearly 60 percent of GDP, the
+debt-GDP ratio today has reached the statutory ceiling and is among the highest in the region. As a
+result, new debt-financed fiscal stimulus would be counterproductive.
+
+
+Tax revenues continue their downward
+trend. Since 2008, revenues have fallen
+steadily, by about 1.5 percentage points of
+GDP, and budgetary projections have
+repeatedly proven optimistic. The
+economic slowdown has affected tax
+revenues, but tax reform, motivated by the
+need to enhance competitiveness—such
+as the introduction of a flat personal
+income tax and a low corporate income
+tax in 2007–08—has also limited the scope
+for additional revenues.
+
+Albania: General Government Operations, 2010-12
+(Percent of GDP)
+2010
+Budget
+Outturn
+Total revenue and grants
+
+2011
+Budget
+Outturn
+
+2012
+Budget
+
+Proj.
+
+28.2
+
+25.8
+
+27.1
+
+25.1
+
+25.6
+
+24.8
+
+25.7
+9.9
+1.5
+3.3
+2.6
+4.8
+2.5
+
+23.3
+9.2
+1.4
+3.1
+2.2
+4.4
+2.5
+
+24.9
+10.2
+1.4
+3.3
+2.4
+4.4
+2.2
+
+23.0
+9.0
+1.5
+3.1
+2.1
+4.3
+2.0
+
+23.4
+9.2
+1.6
+3.1
+2.1
+4.3
+2.2
+
+22.7
+9.0
+1.2
+2.8
+2.0
+4.3
+2.1
+
+32.1
+
+29.6
+
+30.6
+
+28.5
+
+28.6
+
+27.9
+
+24.9
+5.1
+8.4
+6.4
+0.8
+
+24.2
+5.3
+8.6
+5.8
+-0.5
+
+24.1
+5.2
+8.7
+6.2
+0.4
+
+23.2
+5.1
+8.6
+5.4
+0.0
+
+23.2
+5.1
+8.8
+5.0
+0.3
+
+23.3
+5.2
+8.9
+4.4
+0.2
+
+-3.9
+
+-3.7
+
+-3.5
+
+-3.5
+
+-3.0
+
+-3.1
+
+…
+…
+…
+20.0
+-3.6
+1,279
+
+57.8
+32.9
+24.9
+19.6
+-4.2
+1237
+
+…
+…
+…
+20.2
+-4.3
+1,335
+
+58.6
+33.3
+25.3
+18.8
+-4.3
+1319
+
+…
+…
+…
+17.6
+-4.5
+1,390
+
+60.9
+34.1
+26.8
+15.8
+-4.5
+1357
+
+INTERNATIONAL MONETARY FUND
+
+5
+
+Tax revenue
+VAT
+Profit tax
+Excise tax
+Personal income tax
+Social insurance contributions
+Other
+Total expenditure
+Current expenditure
+Personnel cost
+Social insurance outlays
+Capital expenditure
+Other
+Overall balance
+Memorandum Items:
+Public debt
+Domestic general government
+External
+Share of capital expenditure (% total expen
+Social security financing gap
+GDP (in billions of leks)
+
+Source: Albanian authorities; and IMF staff estimates and projections.
+
+ALBANIA
+
+Box 1. Spillovers from the Eurozone Crisis
+Albania’s close export, banking and migration links with the eurozone make it vulnerable. So far the direct effects of
+export and banking shocks from the eurozone have largely been contained or dealt with, but the worsening outlook in
+Europe and declining remittances have affected confidence and demand, and possibly added to joblessness.
+Despite Albania’s strong export links with the crisis-affected countries, to date direct trade spillovers have
+not been as severe as would be expected. Near 80 percent of Albania’s exports go to the EU, with Italy alone
+accounting for about 60 percent. Weakening demand in the eurozone, particularly in Italy, is expected to affect
+Albania’s exports. However, direct trade related spillovers have been rather modest so far. While Albania’s traditional
+exports (e.g., textiles and clothing), which typically have high employment content, have fallen since 2008, there has
+been a reorientation to new products (e.g., oil and minerals exports) and markets (e.g., China and Turkey). As a result,
+aggregate exports have not declined. The relatively low share of exports in Albania’s GDP also means that direct
+trade related spillovers in future could have a muted impact on growth.
+Merchandise Exports, 2005-12
+
+Destinationof Exports, 2005-12
+100
+90
+
+(Percent of total exports)
+
+(Percent)
+
+Italy
+Rest of EU
+
+Greece
+Other important partners
+
+60
+50
+
+Miscellaneous manufactures
+
+40
+
+Export volume (% change, RHS)
+
+Raw materials and mining
+
+80
+70
+
+35
+
+Fuels and lubricants
+
+30
+25
+20
+
+60
+
+30
+
+50
+
+15
+
+40
+
+20
+
+30
+
+10
+
+10
+
+20
+10
+
+5
+0
+
+0
+2005-09
+
+0
+2005-2009
+
+2010
+
+2011
+
+7M 2012
+
+2010
+
+2011
+
+7M 2012
+
+Source: Bank of Albania, and IMF staff estimates and projections
+
+Source: Bank of Albania, and IMF estimates.
+
+Banking spillovers are also broadly contained, despite the preponderance of European banks. The banking
+crisis in Greece has impacted Greek subsidiaries (Greek banks account for one-fifth of Albania’s banking system),
+though the effects have been mitigated. Even though Greek
+Greek Subsidiaries Indicators, 2010-12
+subsidiaries constitute less than 1 percent of their parents’
+(Percent of banking system)
+62
+45
+assets, they experienced some parent funding stress,
+Total assets
+Total loans
+40
+Nonperforming loans
+Deposits
+deterioration in asset quality (in part because of problem loans
+61
+35
+L/D ratio (percent) RHS
+to entities connected to Greece) and falling remittances, and
+61
+30
+decline in profitability. Greek subsidiaries responded by
+25
+60
+shrinking their balance sheets and slowing lending. They now
+20
+rely mainly on domestic funding. Interbank market operations in
+60
+15
+10
+Albania have also not seen stress. Low pre-crisis reliance on
+59
+5
+external funding meant other European subsidiaries in Albania
+0
+59
+did not face deleveraging as in other countries in the region.
+2010
+2011
+6M 2012
+Migration links with Greece and Italy have affected Albania;
+indirect confidence effects have been strong. Remittances
+from Greece and Italy comprise more than two thirds of all
+remittances. While the crisis has adversely impacted
+remittances, which have been falling since 2008, the magnitude
+of the impact may be masked by the repatriation of returning
+emigrants’ savings. Nevertheless, the loss of permanent
+remittance income has affected domestic consumption, while
+return migration, particularly from Greece, could have added to
+joblessness. An important spillover has been indirect—a
+worsening economic outlook in Greece and Italy has dampened
+consumer and investor confidence in Albania.
+
+6
+
+INTERNATIONAL MONETARY FUND
+
+Sources: Bank of Albania, and IMF staff estimates
+
+Remittances, 2008-12
+850
+
+10
+9
+
+800
+
+8
+
+750
+
+7
+
+700
+
+6
+
+650
+
+4
+
+5
+3
+
+600
+
+2
+
+550
+
+Millions of Euros
+
+Percent of GDP (RHS)
+
+1
+0
+
+500
+2008
+
+2009
+
+2010
+
+2011
+
+Source: Bank of Albania, and IMF staff estimates and projections.
+
+2012
+
+ALBANIA
+
+Public Domestic Debt by Creditor, 2011
+(Percent of total)
+
+Source: Albanian authorities and IMF staff estimates.
+
+
+
+Albania
+
+Serbia
+
+Hungary
+
+Turkey
+
+Belarus
+
+Croatia
+
+Macedonia
+
+Romania
+
+Czech Rep
+
+Bosnia
+
+Ukraine
+
+Poland
+
+Latvia
+
+Estonia
+
+Moldova
+
+Individuals
+
+Montenegro
+
+Commercial banks
+
+Nonbanks
+
+Slovenia
+
+Central bank
+
+Kosovo
+
+69.1
+
+Deficit
+Domestic debt payment
+External debt payment
+
+Lithuania
+
+12.9 14.3
+
+Bulgaria
+
+25
+20
+15
+10
+5
+0
+-5
+
+Slovak Rep
+
+3.7
+
+Fiscal Financing Needs, June-December, 2012
+(Percent of GDP)
+
+Source: IMF staff estimations and projections.
+1/ For Czech Rep., Estonia, Latvia, Turkey, and Ukraine, there is no breakdown available. Full
+year figures for Bosnia, Estonia, and Turkey.
+
+Most of the expenditure cuts have been unplanned, and focused on capital. With revenue tending
+to disappoint by midyear, the authorities, in an attempt to restrict fiscal deficits ex post, have
+been curtailing capital spending, as scope for cuts to discretionary spending has been limited. In
+2012, the government has also accumulated liabilities in the form of unpaid bills to contractors
+(about 1–2 percent of GDP).
+
+7.
+Fiscal financing risks are elevated. Albania’s fiscal financing needs are the highest in the
+region, and with short-term debt representing more than half of public debt, the government faces
+significant rollover risks. About 70 percent of public debt is held by commercial banks, some of
+whom have recently been under pressure to shed exposure to public securities (Appendix II),
+although with ample bank liquidity and limited credit demand, rollover risk has moderated
+somewhat recently.
+
+C. Banking System: Stability Amidst Continued Risks
+8.
+The banking system has been resilient so far, but domestic and external spillover risks
+are concerns (Figure 4). Unlike many regional countries, Albania did not experience a big boombust credit cycle, in large part because of prudent limits on external borrowing prior to the crisis.
+Banks today exhibit high liquidity and solvency ratios (Table 5), supported by continued stringent
+liquidity and capital requirements. Nonetheless, NPLs have risen sharply over the last two years and
+now exceed one fifth of all outstanding loans, the highest ratio in SEE (80 percent of NPLs are in the
+corporate sector—largely in trade, construction and manufacturing). Further, a large pool of “watch
+loans”—representing the leading edge of possible new NPLs—could add another 5–10 percentage
+points down the road. Provisioning has been adequate, but bank profitability has suffered, and
+some banks are shrinking their loan portfolios to meet capital requirements.
+9.
+Exposure to Greece is a near-term risk. Greek bank subsidiaries have made considerable
+progress in re-aligning lending with their domestic deposit base and increasing capital (Box 1).
+However, economic distress in Greece could adversely affect parents’ ability to inject new capital in
+their Albanian subsidiaries, if needed. To address possible risks, the Bank of Albania (BoA) has
+applied more stringent capital and liquidity requirements on Greek banks, and heightened
+coordination with Greek authorities.
+INTERNATIONAL MONETARY FUND
+
+7
+
+ALBANIA
+
+D. Monetary Policy: An Anchor of Stability
+10.
+Albania’s success at maintaining low inflation has been vital in buttressing
+macroeconomic stability. The inflation targeting regime has been highly effective in overcoming
+various shocks and keeping inflation low and stable. Not surprisingly, despite a global food and
+commodity price-related uptick in inflation recently, expectations remain well anchored within the
+BoA’s 3±1 percent annual target range. With the economy showing signs of weakness, the BoA has
+lowered its policy rate (1-week reverse repo
+Inflation, 2009-12
+(Percent, y/y)
+rate) five times since August 2011, to a
+5
+historic low of 4 percent (Appendix III).
+4
+
+E. Structural Reforms: Potential
+Largely Unexploited
+
+3
+2
+1
+
+Jun-12
+
+Apr-12
+
+Feb-12
+
+Oct-11
+
+Dec-11
+
+Jun-11
+
+Aug-11
+
+Apr-11
+
+Feb-11
+
+Oct-10
+
+Dec-10
+
+Jun-10
+
+Aug-10
+
+Apr-10
+
+Feb-10
+
+Dec-09
+
+11.
+Progress in reforming the
+Headline
+Core (excl. food and energy)
+0
+business climate has been limited. Albania
+ranks 85th out of 185 countries on the World
+Source: INSTAT, IMF staff estimations and projections
+Bank’s Doing Business indicator, a
+deterioration of 8 places over the past three
+years (Figure 5). Continued weaknesses in the legal framework (e.g., property rights and contract
+enforcement), along with known difficulties in obtaining construction permits, paying taxes, and
+accessing electricity affect Albania’s investment climate. Moreover, perceptions of corruption and
+weak governance affect the view of Albania as an investment destination. Arbitrariness of tax
+collection undermines the attractiveness of Albania’s low tax rates for businesses.
+
+12.
+Energy security has deteriorated recently, and poses fiscal risks. With hydropower
+accounting for 95 percent of electricity production, Albania’s energy security hinges on adequate
+rainfall, and output is often inadequate to meet domestic demand. A brewing dispute between the
+privatized distributor and the public power generation company over cross claims, the inadequacy
+of the former’s infrastructure investments and a lack of tariff adjustment by the regulator also
+threaten electricity supply.2 These problems pose fiscal and growth risks—the government has thus
+far committed about 0.7 percent of GDP in 2012 in loans and guarantees for energy imports.
+
+2
+
+8
+
+The World Bank is providing assistance to resolve the ongoing dispute.
+
+INTERNATIONAL MONETARY FUND
+
+ALBANIA
+
+REPORT ON THE DISCUSSIONS
+A. Outlook and Risks
+13.
+Staff expects weak confidence to affect growth over the near term. Staff expects growth
+to decline to about 0.5 percent in 2012, from 3 percent in 2011, as weakness in Albania’s external
+partners exacerbates sluggish domestic demand. Staff’s projection for Albania is broadly consistent
+with those in other neighboring countries. Inflation would remain within the central bank’s
+3±1 percent target range.
+14.
+The authorities expect a more modest
+slowdown. While agreeing with staff that
+economic growth was slowing, the authorities
+ascribed the economic weakness in 2012:Q1 to
+exogenous factors (weather) and expect a more
+robust recovery in 2012:Q4 than staff. They expect
+2012 GDP growth at about 1–2 percent.
+
+Real Growth Projections, 2012–14
+(Percent)
+2012
+
+2013
+
+2014
+
+Albania
+
+0.5
+
+1.3
+
+2.5
+
+Regional Average
+
+0.7
+
+1.9
+
+2.6
+
+0.0
+
+1.0
+
+2.5
+
+Bosnia and Herzegovina
+Bulgaria
+
+1.0
+
+1.5
+
+2.5
+
+Croatia
+
+-1.1
+
+1.0
+
+1.5
+
+Kosovo
+
+3.8
+
+4.1
+
+3.2
+
+Macedonia, FYR
+
+1.0
+
+2.0
+
+3.5
+
+Montenegro
+
+0.2
+
+1.5
+
+2.0
+
+15.
+Staff sees unchanged policies as
+Romania
+0.9
+2.5
+3.0
+Serbia
+-0.5
+2.0
+2.5
+yielding anemic growth over the medium term.
+Main Trading Partners
+Staff expects only a mild pickup in economic
+Greece
+-6.0
+-4.0
+0.0
+Italy
+-2.3
+-0.7
+0.5
+activity in 2013, aided, to some extent, by
+monetary easing, a modest recovery in confidence Source: WEO and IMF staff projection
+in H2 and progress in alleviating financial market stress. Under the baseline (unchanged medium
+term policies) scenario, the economy would recover but remain weak as high deficit and debt
+constrain growth. In particular, until 2017 actual output could hover below potential (which has been
+experiencing a secular decline in recent years) and would reach potential by 2017 only.3 This is
+largely because:
+
+
+A strong rebound in external demand is unlikely. Although immediate risks have recently receded
+in the euro area, economic weakness is likely to persist, affecting external demand as well as
+domestic confidence, including through weak remittances.
+
+
+
+Financial sector problems could feed back to the real economy. High and rising NPLs are likely to
+unwind only gradually, keeping credit rather tight and affecting the corporate outlook.
+
+16.
+The authorities’ view of the medium term outlook is more sanguine. They pointed to
+the country’s untapped natural resource wealth, notably mining and hydroelectricity, which promises
+opportunities for new investment. They also underscored the flexibility in Albania’s productive base,
+which has led to some export diversification, thereby limiting the adverse impact of a protracted
+3
+
+Declining total factor productivity and a loss of reform momentum are the primary reasons for the secular decline
+in Albania’s potential growth (see Article IV staff report, 2011).
+
+INTERNATIONAL MONETARY FUND
+
+9
+
+ALBANIA
+
+slowdown in Europe. They agreed with the need for structural reforms, particularly those related to
+property rights, but noted the constraints imposed by lack of political consensus.
+17.
+Staff and the authorities agreed that reducing external vulnerabilities would require
+further improvements in competitiveness. In the absence of well-coordinated efforts to boost
+competiveness, staff estimates that the real exchange rate, which has contributed to maintaining
+competitiveness and stability, thanks in part to a cumulative nominal depreciation of 20 percent
+since 2008, could become moderately overvalued over the medium term (Box 2). Non-price
+factors—such as the high cost of doing business emanating in part from perceptions of governance
+problems, and business environment distortions—could, if left unaddressed, also affect
+competitiveness. The authorities considered the stability of the real exchange rate, the minor loss in
+export share (which is still higher than in 2009), and the ability to sustain FDI given the country’s
+natural resource wealth, as limiting the risk of a disorderly current account adjustment.
+18.
+Staff sees risks to the outlook as largely weighted to the downside. Spillovers could
+transmit through trade, remittances and banking channels (Box 1). A larger-than-expected
+deterioration in the eurozone could significantly worsen Albania’s growth outlook and debt
+sustainability, and weaken the financial sector. Ongoing domestic weaknesses, including an erosion
+of fiscal discipline and political uncertainty in the run up to elections could also adversely affect the
+fiscal outlook and lead to a sudden reversal of investment sentiment. Potential government funding
+problems, particularly the large rollover need, could exert a negative feedback to banks (Appendix II,
+and Table 6).
+19.
+The authorities saw some upside to the baseline scenario. While they agreed with staff
+on the risks emanating from high debt and rollover needs, they did not see these as excessive; they
+pointed to Albania’s high pre-crisis level of funding need. The authorities also saw a significant
+upside to the baseline scenario emanating from the privatization of the state oil company, Albpetrol,
+receipts from which they expect as early as Q4: 2012.4
+
+4
+
+A winning bid has been announced and subsequent discussions are ongoing.
+
+10
+
+INTERNATIONAL MONETARY FUND
+
+ALBANIA
+
+Box 2. Albania: Exchange Rate Assessment
+Competitiveness indicators remained broadly unchanged in 2011 and 2012:H1. The average lek-euro value has been largely
+flat in 2011 and first half of 2012, contributing to a stable average REER relative to a year earlier. Nonetheless, after gaining world
+trade market share till 2010, Albania’s export share decreased slightly in 2011 and could decline further in 2012.
+Exchange Rate
+
+105
+
+0.012
+
+0.011
+
+0.010
+
+0.010
+
+0.008
+
+0.009
+
+0.006
+
+0.008
+
+Real Effective Exchange Rate (LHS)
+
+0.004
+
+0.007
+
+US$/LEK (period average, RHS)
+
+0.002
+
+0.006
+
+0.000
+
+0.005
+
+100
+95
+90
+Nominal Effective Exchange Rate (LHS)
+
+85
+80
+
+2012Q2
+
+2011Q4
+
+2011Q2
+
+2010Q4
+
+2010Q2
+
+2009Q4
+
+2009Q2
+
+2008Q2
+
+2007Q4
+
+2007Q2
+
+2008Q4
+
+EUR/LEK (period average, RHS)
+
+75
+
+Albania's Export Share in World Trade
+(percent)
+
+0.014
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+proj.
+
+Source: WEO
+
+Source: WEO, IMF staff calculations
+
+However, in recent years, persistent fiscal deficits and worsening terms-of-trade have put pressure on the current account
+balance. Relative to the 2005–2006 period, the current account has deteriorated, reflecting, a twin-deficit phenomenon as well as
+a downward trend in the terms-of-trade. Most recently, in the first half of 2012, the current account and trade deficits narrowed
+because of weak imports of goods and services.
+
+-5
+
+-4
+-6
+
+-20
+
+-7
+-8
+
+H12012
+
+Source: Albanian authorities and IMF staff calculations
+
+2011
+
+2010
+
+2009
+
+2008
+
+2007
+
+2006
+
+2005
+
+-25
+
+80
+70
+60
+
+Source: Albanian authorities and IMF staff calculations
+
+H12012
+
+-15
+
+Terms of Trade, goods
+
+90
+
+2011
+
+-3
+
+2010
+
+Fiscal Balance (RHS)
+
+-10
+
+Terms of Trade, total
+
+100
+
+2009
+
+-2
+
+2008
+
+-1
+
+Current Account Balance (LHS)
+
+-5
+
+Terms of Trade
+
+110
+
+2007
+
+0
+
+2006
+
+(percent of GDP)
+
+2005
+
+Current Account and Fiscal Balances
+0
+
+This real exchange rate assessment is based on three different methodologies: the Equilibrium Real Exchange Rate (ERER),
+the Macroeconomic Balance (MB), and the External
+Equilibrium
+Sustainability (ES) approaches.1 The ERER is estimated as a
+Real Exchange
+Current
+Current
+Real Effective
+Real
+Rate
+Account
+Account
+function of terms of trade, relative productivity, government
+Exchange Rate Exchange
+Overvaluation
+Norm
+Balance
+consumption, and remittance inflows. In the MB approach,
+Rate
+MB Approach
+-5.8
+-3.6
+9.5
+the current account is estimated as a function of a set of
+ERER
+Approach
+91.1
+89.7
+1.5
+macroeconomic fundamentals—population and output
+ES Approach
+-5.8
+-1.7
+18.0
+growth, oil trade balance, fiscal balance, net foreign assets
+Source:
+IMF
+staff
+projections
+and
+calculations.
+Current
+account
+elasticity
+(NFA) and aid inflows. The ES approach computes the
+with respect to the real effective exchange rate is estimated to be -0.23.
+current account balance-GDP ratio required to stabilize
+2
+Albania’s NFA-GDP ratio at its end-2010 level.
+Staff estimates point to a modest exchange rate overvaluation. The three approaches point to a modest prospective
+medium-term overvaluation of the real exchange rate by about 10 percent. However, Albania’s ability to sustain FDI implies that
+the current account norm calculated under the MB and ES approaches could be lower than estimated.
+_________________________________________________________________
+1
+2
+
+The methodologies, discussed in Lee et al. (2008), are in line with the analysis of the Consultative Group on Exchange Rate Issues (CGER).
+In the MB and ERER approaches, a panel regression model is estimated for a sample of 184 economies over the period of 1973–2011. See Vitek
+(2012) for an extension of the CGER methodology applied here to a larger sample of developed and developing countries.
+
+INTERNATIONAL MONETARY FUND
+
+11
+
+ALBANIA
+
+B. Advancing Fiscal Sustainability through a Credible Anchor
+Background
+20.
+Unchanged fiscal policies would
+not address underlying fiscal
+vulnerabilities. Under staff’s baseline
+(unchanged) policy scenario, where the
+primary fiscal position would register a
+surplus of about 1 percent of GDP, public
+debt would remain near the 60 percent of
+GDP statutory limit over the medium term. In
+this scenario rollover risk would remain
+elevated.
+
+40
+38
+
+General Government Total Revenue and Grants and Total Spending
+(percent of GDP)
+Total Revenue and Grants
+
+Total Expenditure
+
+Primary expenditure
+
+36
+34
+32
+30
+28
+26
+24
+22
+20
+
+Staff advice
+
+
+2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017
+Source: Albanian authorities and IMF staff estimates.
+
+Re-commit to a credible debt ceiling and consolidation path to re-anchor fiscal policy. The
+first priority should be to arrest the upward trend in public debt and other government
+obligations (including unpaid bills) by preparing a 2013 budget that stabilizes debt at the 2012
+level and extinguishes the outstanding
+Fiscal Indicators, 2005-12
+obligations. This would entail a cyclically(Percent of GDP)
+adjusted improvement of the primary balance
+6
+by 0.8 percent of GDP—a pace of
+4
+Debt stabilizing primary balance
+3.8
+consolidation that, in staff’s view, would strike
+2
+an appropriate balance between the need for
+0
+debt stabilization and limiting the adverse
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+impact on growth, financial sector stability and -2
+social outcomes. Strengthening the economy’s -4
+resilience to shocks should take priority over
+-6
+the medium term, but this objective should
+Primary balance
+Cyclically adjusted primary balance
+also be tempered by the economic weakness
+Source: IMF staff estimations and projections.
+and financial sector risks. Staff proposed
+reducing public debt to 40 percent of GDP by 2022 (about 53 percent by 2017)—a target it
+believes would allow for an appropriate gradual pace of adjustment during the period the
+economy is operating below potential (till 2017), while also enabling Albania to restock its fiscal
+buffers to a higher than the pre-crisis level so as to reduce rollover risk. This target would entail
+a gradual yet sustained cyclically-adjusted annual consolidation of the primary balance
+averaging about 0.3 percent of GDP till 2017 (Figure 6).5
+
+5
+
+Staff projections under the adjustment scenario are consistent with a fiscal multiplier in the moderate range
+(0.4–0.7), reflecting the impact of tax and capital expenditure increases and current expenditure reductions. As a
+
+(continued)
+
+12
+
+INTERNATIONAL MONETARY FUND
+
+ALBANIA
+
+
+
+Increase tax rates and simplify the system. Albania’s tax revenue and primary spending to
+GDP ratios are low, yet the country has significant medium-term development needs. Staff
+proposed that the burden of future fiscal
+Total Revenue and Primary Spending, Average (2006-11)
+(Percent of GDP)
+adjustment should fall largely on revenues.
+60
+Total revenue
+Primary spending
+With Albania’s VAT rate already relatively
+50
+high, increasing the personal and corporate
+income tax rates will be necessary. The
+40
+proposed rate increase would likely not
+30
+affect Albania’s ability to attract investment,
+20
+particularly if arbitrariness in collection is
+reduced, local “nuisance” taxes—which are
+10
+inefficient and effectively add to the tax
+0
+burden—are streamlined in a revenue
+ALB MKD BGR ROM SVK HRV POL
+CZE SVN SRB HUN BIH
+6
+neutral manner, and the priority business
+Source: WEO and IMF estimates
+climate issues are addressed (see below).
+
+
+
+Address the fiscal burden of social security. Given Albania’s young population and the
+dramatic rate of aging expected in the coming decades, the current large social security
+burden—in part the result of contribution rate cuts in 2006 and 2009, and the recent unfunded
+increases in pension benefits and social insurance outlays—is unsustainable. Widening the net of
+contributors, including those in agriculture, and removing the asymmetry between contributions
+and benefits, will help.7 Ad hoc increases in wages and pensions, which has been recent practice,
+should be avoided, and instead a rules-based system that uses inflation as the upper bound
+should be used.
+
+
+
+Avoid cuts to capital and other priority expenditure. Albania’s high development needs and
+weak cyclical position call for avoiding cuts to investment and targeted social spending. Staff
+suggested increasing the volume and quality of capital spending over time, and ensuring
+adequate funding for social safety nets that effectively protect the vulnerable.
+
+
+
+Utilize privatization receipts in a balanced manner. To the extent natural resource wealth
+belongs to current and future generations of Albanians, the bulk of privatization receipts should
+be used to retire debt. Given the weak state of the economy today, and the recent buildup of
+unpaid bills and VAT refunds, part of the receipts could also be used to clear the backlog, which
+will support growth in the near term.
+
+result, the proposed fiscal consolidation would have a marginal impact on annual growth (about 0.1–0.2 percentage
+points over the medium term, with a somewhat higher effect in 2013).
+6
+
+These taxes could be replaced by other measures such as streamlining VAT exemptions and raising property taxes.
+
+7
+
+Worker contributions vary with income and the highest can be as much as five times the lowest contribution, while
+benefits are at most twice the minimum benefit. This encourages high income earners to evade the pension system.
+
+INTERNATIONAL MONETARY FUND
+
+13
+
+ALBANIA
+
+
+
+Manage short-term rollover risks. Progress is needed on deepening public debt markets by
+diversifying government paper holdings away from banks, including by following Fund TA
+advice, and lengthening maturity of public securities.
+
+Authorities’ views
+
+
+The current statutory debt ceiling has been useful but needs to be used flexibly. The
+authorities saw Albania’s fiscal record as having been prudent despite the crisis—they pointed to
+the moderate post-2008 increase in Albania’s public debt—and that debt service is manageable.
+The large domestic component also makes the debt less risky than the headline public debt
+number would suggest. They felt the statutory 60 percent debt limit had provided an anchor for
+fiscal policy, but felt that using it as a hard target in the near term is inappropriate, especially
+given the weak cyclical position of the economy.
+
+
+
+The current low level of income taxes has helped reduce informality. The authorities
+explained the recent decline in tax revenues as largely cyclical—resulting from automatic
+stabilizers and weak confidence related to the eurozone crisis—and expected tax collection to
+recover as the outlook improved. They feared an increase in tax rates could harm Albania’s
+investment competitiveness. Instead, they preferred to focus on improving tax administration.
+
+
+
+Social insurance reform is necessary. The authorities agreed on the need for smaller increases
+in the public wage and pension bills, and adding those employed in agriculture into the
+contribution net. However, they also cautioned about the lack of political consensus on the
+issue.
+
+
+
+Higher capital expenditure is desirable, but future increases have to take debt
+sustainability into account. The authorities will increase capital spending if and when
+privatization receipts (or other non-debt-creating flows) are available and other priority
+spending (unpaid bills and emergency electricity imports) are accounted for. In the absence of
+such flows, they will cut capital spending further, if necessary, to achieve debt sustainability.
+They rejected the idea of increasing tax rates to finance higher capital spending.
+
+
+
+Rollover is high, but does not necessarily pose a high risk in the current environment. The
+authorities agreed with staff’s suggestion to take measures to lengthen maturities and deepen
+public securities markets. However, they also pointed to the commercial banks’ ample liquidity
+and limited lending opportunities as helping to mitigate rollover risks.
+
+C. Maintaining Financial Stability in the Face of Continued Challenges
+Background
+21.
+Eurozone spillover risks are a concern, but significant actions have been taken. The
+preponderance of foreign subsidiaries in Albania and banking troubles in Europe raise the specter of
+potential spillovers to the country’s banking system. However, the low reliance on external funding
+
+14
+
+INTERNATIONAL MONETARY FUND
+
+ALBANIA
+
+and greater dependence on local deposits prior to the crisis (the loan-to-deposit ratio of the
+Albanian banking system has remained below 65 percent in the past decade) has helped to mitigate
+the risks. Also, regulatory changes introduced in late 2011 have helped to protect against possible
+contagion effects, particularly related to Greece (Box 1 and Figure 4).8
+22.
+Asset quality deterioration has both cyclical and structural reasons. The increase in NPLs
+is explained by the economic slowdown, which has been exacerbated, in part, by the increase in the
+government’s nonpayment of supplier’s bills. In addition, banks’ efforts to resolve problem loans
+have been hindered by an inefficient collateral execution process, including lengthy legal
+procedures, weak judicial enforcement of creditors’ rights and a regulated floor on real estate prices
+at auctions, which hinders foreclosure sales. Banks appear to be relatively well-provisioned against
+NPLs, but not surprisingly, the increase in NPLs has adversely affected both their profitability and
+their ability to extend credit. If NPLs continue to rise, some nonsystemic banks may need to bolster
+capital or shed assets. Given that the system is dominated by European subsidiaries, it may be
+ambitious to expect parents to fully satisfy additional capital needs, if necessary.
+
+Staff advice
+
+
+Strictly monitor capital and liquidity. Supervisors should be vigilant to ensure that banks
+continue to proactively recognize and provision against nonperforming loans and, based on
+stress test results, ensure that capital and liquidity levels provide appropriate buffers. Close
+coordination with other national regulators about evolving challenges, including regional
+deleveraging, should also continue. Following up on the considerable progress made in recent
+years with Fund technical assistance, the priority should be to develop contingency plans for
+individual banks, and develop simulations to test the authorities’ preparedness. Staff
+encouraged the authorities to request an update on the 2005 FSAP.
+
+
+
+Intensify efforts to arrest the deterioration in asset quality. Concrete actions to ease
+collateral execution, reduce delays in the legal process, and clear unpaid government bills and
+VAT refunds are essential. In particular, allowing property prices to adjust to market forces by
+removing the regulated price floor at auctions would help facilitate foreclosures sales,9 while
+backloading the fees paid to bailiff offices would create greater incentives for timely execution.
+Implementation of the guidelines on loan restructuring, recently issued by the BoA (and
+prepared in cooperation with the World Bank), should also encourage increased out-of-court
+workouts of nonperforming loans.
+
+8
+
+Foreign bank branches were converted to subsidiaries and the required ratio of liquid assets to short-term liabilities
+raised from 20 to 25 percent, with a more restrictive definition of liquid assets, and haircuts applied to eligible assets
+based on their credit rating. The regulation on related party exposure was tightened, and the risk-weighting on
+unhedged foreign currency lending increased from 100 to 150 percent.
+
+9
+
+The direct impact of a decline in real estate prices on banks’ balance sheets would be limited as the amount banks
+are required to provision is unrelated to the estimated value of underlying collateral.
+
+INTERNATIONAL MONETARY FUND
+
+15
+
+ALBANIA
+
+Authorities’ views
+23.
+The authorities concurred that the near term priority is to contain possible Eurozone
+spillovers. They viewed continued close bank supervision and cooperation with regional regulatory
+authorities as having been critical in containing risks so far and planned to further strengthen these
+efforts. They also indicated a readiness to reinforce the regulatory framework and contingency plans,
+guided by stress test results. They plan to request an FSAP update for late 2013.
+24.
+Reducing NPLs is a priority. There was broad agreement about the causes of rising NPLs
+and the need to reduce their level. At the same time, the authorities noted that with adequate
+capitalization, the increase in NPLs had been rather manageable so far, and even if it were to
+increase further, only a handful of nonsystemic banks would fall below regulatory capital
+requirements. The authorities were also confident about the ability of parent banks to bring in
+additional capital, if needed. Instead, they expressed concern about the tendency of European banks
+to ascribe high risk weights to Albanian government securities. They saw scope for more aggressive
+execution of collateral but also underscored the social sensitivities associated with rapid foreclosure
+sales.
+
+D. Use of Monetary Policy to Ease the Economic Slowdown
+Background
+25.
+Despite significant monetary easing, credit growth is weak. Despite repeated cuts in the
+policy rate, credit has remained sluggish. With fiscal buffers absent, there appears to be persistent
+pressure on the BoA to continue to ease monetary policy. A slowdown in credit has sparked a
+debate about creating a public development finance institution that channels credit to the
+underserved microfinance sector and small and medium enterprises (SMEs).
+
+Staff advice
+
+
+The scope for further monetary policy easing is nearing its limits. Staff advised that in the
+event of further weakening of domestic demand and drying up of credit, the authorities could
+consider additional monetary easing, provided inflation expectations remained well anchored. In
+this regard, the BoA could accept inflation rates at the upper end of its tolerance band. However
+any further monetary policy easing may provide only a limited boost to domestic demand unless
+market confidence improved.
+
+
+
+Further monetary easing also carries risks. Since monetary transmission operates primarily
+through the exchange rate (Appendix III), continued monetary easing runs the risk of generating
+exchange market pressures and adversely impacting bank balance sheets, the latter primarily
+because of unhedged foreign currency lending (although significant foreign currency deposits
+provide a cushion).
+
+16
+
+INTERNATIONAL MONETARY FUND
+
+ALBANIA
+
+
+
+In setting up a development finance institution to channel credit to underserved sectors,
+risks should be taken into account. While such an institution could help improve SME’s access
+to finance, a well-defined mandate with careful governance and independent oversight is
+essential to ensure that lending decisions are on commercial lines and fiscal risks are
+minimized.10
+
+Authorities’ views
+
+
+The authorities agreed to exercise caution on further easing. They felt the recent monetary
+easing had some beneficial effect on domestic demand, and economic conditions would have
+been worse without it. However, they agreed to proceed cautiously with further easing by
+assessing implications for financial stability.
+
+E. Accelerating Reforms to Boost Medium-Term Growth
+Background
+26.
+Private sector-led growth could unleash the country’s potential. The downward trend in
+potential growth in recent years has coincided with the deceleration of structural reforms. In the
+absence of structural reforms, staff sees potential growth to continue to decline over the medium
+term. Staff envisages substantially higher medium-term economic growth than under the baseline,
+particularly in the outer years, if there is significant macroeconomic and structural adjustment
+(adjustment scenario; Figure 6). Attracting investment is key for transferring technology and
+innovation, and boosting productivity and high-wage employment. In particular, structural reforms
+could help broaden the productive base, reduce the informal economy, and diversify exports.
+Energy, mining, tourism, and agricultural sectors offer high potential for growth.
+
+Staff advice
+
+
+Reduce existing macroeconomic vulnerabilities in order to support private sector growth.
+Undertaking sustained but growth friendly fiscal consolidation would allow the crowding in of
+private sector credit and investment and increase infrastructure-related capital spending. The
+scenario would also result in a gradual improvement in the current account imbalance as higher
+investment strengthens export capacity (adjustment scenario, Figure 6).
+
+
+
+Proceed with targeted reforms to improve the investment climate. Staff argued for renewed
+focus on correcting weaknesses in property rights, land titling, and contract enforcement.
+Reducing arbitrariness in tax collection would lower the effective tax burden on businesses.
+
+
+
+Implement improvements in the post-privatization regulatory framework of key
+industries, notably electricity. Given the importance of the energy sector for growth and risks,
+
+10
+
+International experience on the effectiveness of such institutions is largely unfavorable, with low repayment rates
+often translating into a much larger eventual drain on budget resources than initially anticipated.
+
+INTERNATIONAL MONETARY FUND
+
+17
+
+ALBANIA
+
+staff advised the authorities to continue to work closely with the World Bank to correct existing
+impediments in the functioning of the electricity market. Staff underscored the importance of a
+self sustainable model which does not depend on government involvement (e.g., energy
+imports, or investment).
+
+
+Continue improvements in economic statistics. Improving data accuracy and timeliness,
+particularly in national and external accounts, will contribute toward better surveillance and
+policymaking. Adequate resources should be made available to ensure effective use of Fund TA.
+
+Authorities’ views
+
+
+Attracting foreign investment requires further upgrading of infrastructure. While agreeing
+on the need for FDI to achieve and sustain high medium-term growth, the authorities
+emphasized the importance of continued infrastructure development to attract investment. They
+appeared optimistic about the prospects for renewed investment flows, once conditions in
+Europe stabilized.
+
+
+
+Resolving energy sector problems is critical. The authorities ascribed the existing weaknesses
+to the failure of the distributor to make the required investments, and did not see adjustments
+in retail prices as necessary, since tariffs in Albania are broadly comparable to those in
+neighboring countries. Until these problems are addressed, government support, including
+financing emergency electricity imports, will be essential to avoid power cuts.
+
+
+
+The authorities agreed on the need for continued improvements in economic statistics.
+They acknowledged that annual national account statistics on expenditure basis have not been
+published since 2008, while quarterly GDP statistics are subject to considerable revisions and
+often available with significant lag. They are committed to continue working with Fund technical
+assistance in order to develop capacity.
+
+STAFF APPRAISAL
+27.
+Until this year Albania had weathered the Eurozone crisis relatively well. Between 2008
+and 2011, Albania avoided a sharp fall in output and was able to maintain banking system stability,
+thanks to a fiscal stimulus, sound monetary policy and effective macroprudential actions.
+28.
+The economy is now slowing at a time when external risks remain high. GDP growth is
+expected to decline sharply in 2012, on the back of low consumer and business confidence
+emanating from the weak outlook for Greece and Italy. The ongoing eurozone crisis could continue
+to bear both direct and indirect headwinds in 2013, resulting only in a modest recovery growth in
+Albania.
+29.
+Underlying imbalances and vulnerabilities are elevated. The large share of short–term
+public debt translates to high fiscal financing risks. In the medium term, rising public debt could also
+
+18
+
+INTERNATIONAL MONETARY FUND
+
+ALBANIA
+
+hamper growth prospects by crowding out private credit and investment, and limiting the
+government’s ability to finance crucial development projects. While the current account deficit has
+begun to decline, it remains high.
+30.
+Fiscal consolidation is essential for lowering elevated debt risk. The statutory debt limit
+of 60 percent of GDP has served Albania well in anchoring the economic policy debate. While strict
+adherence to this ceiling may have no particular economic rationale, the authorities would be well
+served to recognize that there is no debt financing fiscal buffer available. Breaching the limit could
+undermine market confidence in the government’s commitment to macroeconomic stability and
+debt sustainability, something which Albania can ill afford, given the high public debt rollover need.
+31.
+The authorities should commit to a credible long-term debt anchor, and firm nearand medium-term fiscal consolidation paths. A feasible long-term debt target that ambitiously
+lowers the debt-GDP ratio would strengthen the economy’s resilience to shocks, while allowing for a
+gradual adjustment to accommodate development needs. For 2013, the government’s immediate
+priority should be to commit to a budget that is consistent with maintaining the debt-GDP ratio at
+the 2012 level. This would strike an appropriate balance between consolidation and growth, financial
+sector stability, and social outcomes. Building consensus on the medium term consolidation path
+would also ensure sustainable growth and macroeconomic stability.
+32.
+Tax and expenditure reforms are needed to help achieve the long-term debt target,
+while supporting growth. With inflexibility in a large part of expenditures, lowering the fiscal
+deficit would require higher revenues over a sustained period of time. While tax administration
+efforts would help, increases in tax rates will be essential. Social security reform and restraint on
+current spending would also be key. Revenue increases and current spending restraint are also
+required for a much-needed increase in capital spending, in a way that does not magnify fiscal risks
+or crowd out private investment. Needed capital spending should not rely on privatization inflows
+alone, which any way should be utilized mainly to reduce debt and clear unpaid bills. Utilizing
+realistic ex ante revenue estimates, would make for effective fiscal policy, and help avoid the
+accumulation of unpaid bills.
+33.
+Monetary policy has anchored macrofinancial stability, but its ability to support the
+economy is reaching its limits. If domestic demand were to weaken further and credit to contract,
+the authorities could consider further monetary easing, provided inflation expectations remain well
+anchored and financial stability is not threatened. However, sluggish credit demand and bank risk
+aversion would likely limit effectiveness. It could also risk exchange market pressures and adverse
+impact on bank balance sheets. While the authorities’ frustration with weak credit growth is
+understandable, any attempts to direct credit to preferred sectors should take into account the weak
+credit demand in the economy, and the budgetary impact of such an action.
+34.
+Despite the preponderance of European bank subsidiaries, the banking system has
+proved resilient, but continued vigilance is needed. Stress tests should continue to guide
+decisions on capital and liquidity buffers, while close cooperation with foreign supervisory
+authorities is key to mitigating cross-border risks. The rising level of non-performing loans is a
+
+INTERNATIONAL MONETARY FUND
+
+19
+
+ALBANIA
+
+concern and requires prompt action. Not all of the recent increase in NPLs can be ascribed to the
+slowing economy. Removing structural distortions in collateral execution—including streamlining
+legal processes, strengthening judicial enforcement of creditors’ rights , and increasing the efficiency
+of private bailiff offices—and clearing unpaid government bills and VAT refunds would be
+important.
+35.
+Business environment weaknesses are an obstacle to investment and hence medium
+term growth. Continued weaknesses in the legal framework, notably in property rights and contract
+enforcement, should be tackled urgently. Tax collection should be made less arbitrary. Remedying
+structural impediments in the electricity market is essential for putting the sector on a selfsustainable path, supporting growth and avoiding fiscal risks. Improvements in data accuracy and
+timeliness, particularly in national and external accounts, will contribute toward better surveillance
+and policymaking.
+36.
+It is recommended that the next Article IV consultation with Albania be held on the standard
+12-month cycle.
+
+20
+
+INTERNATIONAL MONETARY FUND
+
+ALBANIA
+
+Figure 1. Albania: Background and Outlook
+Albania successfully avoided recession since 2009…
+
+…while inflation was kept low and stable.
+
+Albania: Real GDP, 2009-12
+
+Average Annual Inflation, 2006-11
+
+(Year-on-year percent change)
+
+15
+10
+5
+0
+-5
+
+ALB
+HRV
+ROM
+SVK
+
+-10
+-15
+
+(percent, ±2 s.d.)
+
+16
+14
+12
+10
+8
+6
+4
+2
+0
+-2
+
+BGR
+HUN
+SRB
+SVN
+
+CZE HRV ALB POL MKD BIH MNE HUN ROM SRB
+
+2009Q1 2009Q3 2010Q1 2010Q3 2011Q1 2011Q3 2012Q1
+
+Source: WEO
+
+Source: WEO and IMF staff calculations
+
+But the crisis has consumed buffers and worsened
+external imbalances, which are only now beginning to
+correct.
+
+The economy is expected to slow down...
+
+Current Account Deficit
+
+Output Gap and Potential Growth
+
+(percent of GDP)
+
+30
+25
+20
+
+ALB 1/ (LHS)
+
+64
+
+Avg of SEE 2/ (LHS)
+
+62
+
+Public Debt (RHS)
+
+60
+
+10
+8
+6
+
+58
+
+15
+
+4
+
+56
+
+10
+
+2
+
+54
+
+5
+
+52
+50
+
+0
+
+(percent)
+
+12
+
+0
+-2
+2001
+
+2003 2004 2005 2006 2007 2008 2009 2010 2011 2012
+
+2003
+
+1/ 2012 H1
+2/ 2012 full-year projection
+
+Source: WEO and IMF staff calculations
+
+2005
+
+2007
+
+2009
+
+2011
+
+2013
+
+Output gap (λ=100)
+
+Potential growth (λ=100)
+
+Output gap (λ=6.25)
+
+Potential growth (λ=6.25)
+
+Avg output gap
+
+Avg potential growth
+
+Source: IMF staff calculations
+
+…because of weakening construction, industry, and
+services…
+
+…as well as sluggish partner growth.
+External Partner Growth in Southeast Europe, 2011-13
+
+Contributions to growth
+(percent)
+
+10
+8
+6
+4
+2
+0
+-2
+-4
+
+4
+3
+2
+1
+0
+
+2006
+
+2007
+
+Agriculture
+Construction
+Transport
+FISIM
+
+2008
+
+2009
+
+2010
+
+2011
+
+Industry
+Trade, hotels, restaurants
+Other services
+Communication
+
+Source: INSTAT and IMF staff calculations
+
+-1
+
+(Export-share-weighted growth, year-on-year percent change)
+ALB
+BIH
+BGR
+HRV
+MKD
+MNE
+SRB
+SVN
+
+-2
+2011
+
+2012
+
+2013
+
+Source: Directions of Trade database, WEO, and IMF staff calculations
+
+INTERNATIONAL MONETARY FUND
+
+21
+
+ALBANIA
+
+Figure 2. Albania: External Sector Developments
+…but continued to grow, mostly due to commodity
+exports…
+
+After strong performance in 2010, exports decelerated…
+
+Export Composition
+
+Export Growth
+(percent change, y/y)
+
+60
+
+(percent)
+
+60
+50
+
+40
+20
+0
+2009
+
+-20
+
+2010
+
+2011
+
+2012H1
+
+Others
+Food and live animals
+Raw materials, minerals
+Fuels, lubricants and energy
+Manufactures (Iron, steel)
+Misc. manufactures (textiles, footwear)
+Total
+
+2009
+
+40
+
+2010
+
+30
+
+2011
+
+20
+
+H12012
+
+10
+Footwear and Minerals,
+Textiles
+fuels, & oils
+
+Source: Albanian authorities and IMF staff calculations
+
+Notwithstanding, trade and current account balance
+deteriorated along with terms of trade in 2011 but
+started to adjust in 2012H1
+
+Top Trading Partners
+
+External Balance and Terms of Trade
+
+(percent of total exports)
+
+60
+50
+40
+30
+20
+
+0
+
+2009
+
+-5
+
+2010
+
+-10
+
+2011
+
+-15
+
+2012H1
+
+-20
+
+10
+
+100
+
+CA balance, % of GDP (LHS)
+Bal. of goods & svc, % of GDP (LHS)
+Terms of Trade (RHS)
+
+90
+
+80
+
+-25
+
+0
+Italy
+
+Turkey
+
+Kosovo
+
+Greece
+
+Spain
+
+Others
+
+-30
+
+(millions of euros)
+
+2,000
+
+Total Transfers
+FDI
+Gross Reserves (EOP stock)
+
+1,500
+1,000
+500
+0
+2010
+
+2011
+
+2012H1
+
+Source: Albanian authorities and IMF staff calculations
+
+INTERNATIONAL MONETARY FUND
+
+2011
+
+2012H1
+
+International reserves have remained adequate.
+40
+35
+30
+25
+20
+15
+10
+5
+0
+
+Reserve Adequacy
+Reserves (% of GDP)
+3-months of Imports (% of GDP)
+20 percent of M2 (% of GDP)
+New Reserve Adequacy Metric 1/
+
+2009
+2009
+
+2010
+
+Source: Albanian authorities and IMF staff calculations
+
+Apart from transfers, FDI remains the main source of
+financing the current account deficit.
+
+Trade Balance Financing Sources
+
+70
+2009
+
+Source: Albanian authorities and IMF staff calculations
+
+22
+
+Others
+
+Source: Albanian authorities and IMF staff calculations
+
+…and resilience of trade with Italy and new trading
+partners.
+
+70
+
+Iron & steel
+
+2010
+
+2011
+
+2012H1
+
+1/ Composed of 30% of Short-term Debt, 10% of other portfolio
+liabilities, 5% of M2 and 5% of exports. Short-term debt data excludes
+deposits due to data limitations.
+
+Source: Albanian authorities and IMF staff calculations
+
+ALBANIA
+
+Figure 3. Albania: Inflation and Monetary Developments
+Inflation has remained largely within the central bank’s
+target range in recent years…
+
+… with recent fluctuations mostly reflecting changes in
+food prices, which account for 40% of the basket.
+Inflation
+
+Inflation
+
+(percent change, y/y)
+
+7
+
+CPI
+Core inflation
+Target range
+
+5
+
+12
+
+4
+
+1
+
+0
+
+Jan-09
+
+Jan-10
+
+Jan-11
+
+Jan-12
+
+CPI
+Food prices
+
+8
+
+3
+
+-1
+Jan-08
+
+(percent change, y/y)
+
+-4
+Jan-08
+
+Source: INSTAT and IMF staff calculations
+
+Jan-09
+
+Jan-10
+
+Jan-11
+
+Jan-12
+
+Source: INSTAT and IMF staff calculations
+
+Interest rate cuts since 2009 have largely followed the
+direction set by the ECB …
+
+… helping to stabilize the exchange rate …
+
+Interest Rates
+
+Exchange Rates
+
+(percent)
+
+8
+
+BoA rate
+ECB refinancing rate
+
+6
+
+(Lek/Euro)
+
+150
+140
+
+4
+
+130
+
+2
+0
+Jan-09
+
+Jan-10
+
+Jan-11
+
+Jan-12
+
+Source: Albanian authorities, ECB, and IMF staff calculations
+
+Jan-10
+
+Jan-11
+
+Jan-12
+
+Source: IFTS database
+
+… and keeping the real exchange rate little changed since
+2010.
+Effective Exchange Rates
+
+(Index, 2005=100, decline indicates depreciation)
+
+110
+
+120
+Jan-09
+
+The financial system remains highly euroized, which
+magnifies the balance sheet impact of exchange rate
+moves.
+
+Banking Sector Euroization
+
+100%
+80%
+
+105
+NEER
+
+100
+
+REER
+
+95
+
+60%
+40%
+
+90
+
+FX lending, share of total
+
+20%
+
+85
+80
+Jan-09
+
+FX deposits, share of total
+
+0%
+Jan-10
+
+Source: IMF staff calculations
+
+Jan-11
+
+Jan-12
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+Source: Albanian authorities and IMF staff calculations
+
+INTERNATIONAL MONETARY FUND
+
+23
+
+ALBANIA
+
+Figure 4. Albania: Financial Sector Developments
+The banking sector remains relatively well capitalized …
+
+… but the level of NPLs has become a major concern.
+
+Regulatory Capital
+
+Non-Performing Loans
+
+(percent of RWA)
+
+20
+
+(percent of total loans)
+
+24
+Albania
+
+20
+
+18
+
+Southeast Europe average
+
+16
+
+16
+
+12
+
+14
+
+8
+
+12
+
+4
+
+10
+
+0
+
+2008
+
+2009
+
+2010
+
+2011
+
+2006
+
+2012
+
+2007
+
+Source: Albanian authorities
+
+Bank deposits have continued to rise steadily in 2012,
+although there has been a shift away from Greek banks.
+
+20
+
+2011 2012 H1
+
+(percent change, y/y)
+
+80
+
+Total
+Greek banks
+Other banks
+
+60
+40
+
+10
+
+20
+
+0
+
+0
+
+-10
+2008
+
+2009
+
+2010
+
+2011
+
+-20
+
+2012
+
+1/ The three Greek subsidiaries in Albania together account for 18% of system assets, but
+none is systemically important.
+
+Source: Albanian authorities and IMF staff calculations
+
+… as banks instead continue to increase their assets
+abroad.
+
+Banks' Foreign Assets
+
+350
+
+20%
+
+Euro mn (left axis)
+
+300
+
+16%
+
+Share of total assets (right axis)
+
+250
+200
+
+12%
+
+150
+
+8%
+
+100
+
+4%
+
+50
+0
+
+0%
+2008
+
+2009
+
+2010
+
+2011
+
+Source: Albanian authorities and IMF staff calculations
+
+24
+
+2010
+
+Bank Loans
+
+Total
+Greek banks 1/
+Other banks
+
+30
+
+2009
+
+However, bank lending has slowed in 2012, with loan
+contraction in Greek banks ...
+
+Bank Deposits
+(percent change, y/y)
+
+40
+
+2008
+
+Source: Regional FSIs, Albanian authorities, and IMF staff calculations
+
+INTERNATIONAL MONETARY FUND
+
+2012
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+Source: Albanian authorities and IMF staff calculations
+
+Banks’ very low reliance on external funding has helped
+limit the effects of deleveraging in Europe.
+100%
+
+15%
+
+Loan to deposit ratio (left axis)
+
+80%
+
+Foreign liabilities as share of total assets (right)
+
+12%
+
+60%
+
+9%
+
+40%
+
+6%
+
+20%
+
+3%
+
+0%
+
+0%
+2008
+
+2009
+
+2010
+
+2011
+
+Source: Albanian authorities and IMF staff calculations
+
+2012
+
+ALBANIA
+
+Figure 5. Albania: Governance, Business Environment, and Labor Market
+Governance in Albania has improved, albeit from a low
+base...
+Governance Indicator
+
+Doing Business Ranking
+
+110
+
+(percentile rank)
+
+6
+5
+4
+3
+2
+1
+0
+-1
+-2
+-3
+
+DB percentile ranking (LHS)
+3-yr percentile rank improvement (RHS)
+
+90
+
+80
+Better governance →
+
+…though overall indicators of business environment
+show some weakening.
+
+70
+
+60
+
+50
+30
+
+40
+20
+
+2005
+
+10
+
+2010
+
+-10
+-30
+
+0
+ALB
+
+LIC
+
+MNE
+
+ALB
+
+SRB
+
+KOS
+
+BiH
+
+-50
+
+EM
+
+Source: Worldwide Governance Indicators (government
+effectiveness, regulatory quality, rule of law and control of
+corruption);and IMF staff calculations
+
+Source: Doing Business (2013) and IMF staff calculations
+
+Labor market efficiency index are not weak.
+
+Business environment could be boosted through
+reducing delays in obtaining construction permits,…
+
+Labor Market Efficiency Index
+
+5.0
+
+MKD
+
+Delays in Establishing Business
+(# days to obtain license)
+
+120
+
+4.5
+
+100
+80
+
+4.0
+
+60
+
+OECD
+World
+Balkan
+ALB
+
+40
+20
+
+3.5
+MNE
+
+ALB
+
+MKD
+
+BiH
+
+SRB
+
+Euro
+Area
+
+0
+Op. license
+
+Source: Global Competitiveness Report (2011)
+
+…improving the quality of infrastructure, especially
+electricity,...
+50
+40
+
+Electricity Infrastructure
+Power outages/month (LHS)
+Days to obtain connection (RHS)
+
+Import license
+
+…and enhancing access to finance, including from nonbank sources.
+Financial Market Development Indicators
+
+150
+
+(higher number = more efficient)
+availability
+6
+
+100
+
+30
+20
+
+50
+
+10
+0
+
+0
+KOS ALB MNE BiH MKD SRB EECA OECD
+Source: World Bank Enterprise Survey (2009)
+
+Constr. Permit
+
+Source: World Bank Enterprise Survey (2009)
+
+Balkans
+
+4
+
+banks'
+soundness
+
+ALB
+
+EM
+affordability
+
+2
+0
+
+access to
+loans
+
+financing thru
+equity mkt
+
+Source: Global Competitiveness Report (2011)
+
+INTERNATIONAL MONETARY FUND
+
+25
+
+ALBANIA
+
+Figure 6. Albania: Baseline and Adjustment Scenarios1
+Real GDP Growth
+(percent)
+
+6
+
+Private Investments
+(percent of GDP)
+
+25
+
+5
+
+20
+
+4
+
+15
+
+3
+
+10
+
+2
+
+Baseline
+
+Baseline
+
+1
+
+5
+
+Adjustment
+
+0
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+Public Debt
+(percent of GDP)
+
+65
+
+Adjustment
+
+0
+2012
+
+2013
+
+2015
+
+2016
+
+2017
+
+Fiscal Deficit
+(percent of GDP)
+
+4
+
+60
+
+2014
+
+3
+
+55
+
+2
+
+50
+
+Baseline
+
+Baseline
+
+45
+40
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+Current Account Deficit
+(percent of GDP)
+
+12
+
+Adjustment
+
+1
+
+Adjustment
+
+0
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+Trade Deficit
+(percent of GDP)
+
+20
+
+10
+
+15
+
+8
+6
+
+10
+
+4
+
+Baseline
+
+2
+
+Adjustment
+
+0
+2012
+
+2013
+
+2014
+
+Baseline
+
+5
+
+2015
+
+2016
+
+2017
+
+Adjustment
+
+0
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+Source: IMF staff estimates and projections.
+1
+The adjustment scenario is based on the following assumptions: 1) faster growth, driven by the most critical
+structural reforms (e.g., property rights, business climate) and fiscal consolidation, which boost private
+investment; 2) fiscal consolidation, notably a tax rate increase, zero real growth in the wage and pension bills, and
+higher capital spending; 3) reduction in public debt to 40 percent of GDP by 2022; and 4) gradual reduction in
+the external current account deficit, as higher investment strengthens export capacity, and interest payments
+decline as a result of lower debt.
+
+26
+
+INTERNATIONAL MONETARY FUND
+
+ALBANIA
+
+Table 1. Albania: Basic Indicators and Macroeconomic Framework, 2009–17
+
+Real GDP 1/
+Consumer Price Index (avg.)
+Consumer Price Index (eop)
+GDP deflator
+
+2009
+
+2010
+
+2011
+Est.
+
+3.3
+2.2
+3.7
+2.3
+
+3.5
+3.6
+3.4
+3.8
+
+3.0
+3.4
+1.7
+3.5
+
+2012
+
+2013
+
+2014
+2015
+Projections
+
+(Growth rate in percent)
+0.5
+1.3
+2.2
+3.2
+3.4
+3.0
+2.4
+3.1
+
+2016
+
+2017
+
+2.5
+3.0
+3.0
+2.8
+
+2.5
+3.0
+3.0
+2.8
+
+2.5
+3.0
+3.0
+2.8
+
+2.5
+3.0
+3.0
+2.9
+
+(Percent of GDP)
+Saving-investment balance
+Foreign savings
+National savings
+Public
+Private
+Investment
+Public
+Private
+
+14.0
+16.2
+1.0
+15.2
+30.3
+10.1
+20.2
+
+11.4
+15.4
+1.2
+14.2
+26.8
+6.7
+20.1
+
+11.9
+13.7
+1.6
+12.1
+25.6
+6.0
+19.6
+
+10.1
+13.9
+1.1
+12.8
+24.0
+4.9
+19.1
+
+9.4
+13.0
+0.9
+12.1
+22.3
+4.0
+18.3
+
+8.8
+12.7
+0.7
+12.1
+21.5
+4.0
+17.5
+
+8.3
+12.4
+0.4
+12.0
+20.7
+4.0
+16.7
+
+7.1
+12.9
+0.2
+12.7
+19.9
+4.0
+15.9
+
+5.8
+13.4
+0.1
+13.3
+19.1
+4.0
+15.1
+
+Fiscal sector
+Revenues and grants
+Tax revenue
+Expenditures
+Primary
+Interest
+
+26.0
+23.5
+33.4
+30.2
+3.2
+
+25.8
+23.3
+29.6
+26.2
+3.4
+
+25.1
+23.0
+28.5
+25.4
+3.1
+
+24.8
+22.7
+27.9
+24.7
+3.2
+
+24.9
+22.7
+27.1
+23.7
+3.4
+
+24.8
+22.7
+27.3
+23.7
+3.5
+
+24.8
+22.6
+27.5
+23.7
+3.8
+
+24.7
+22.5
+27.6
+23.7
+3.8
+
+24.6
+22.4
+27.6
+23.7
+3.9
+
+-7.4
+-4.3
+0.9
+2.4
+3.7
+59.3
+36.1
+23.2
+
+-3.7
+-0.4
+0.9
+0.4
+2.1
+57.8
+32.9
+24.9
+
+-3.5
+-0.3
+2.0
+0.0
+1.6
+58.6
+33.3
+25.3
+
+-3.1
+0.2
+1.8
+0.1
+1.4
+60.9
+34.1
+26.8
+
+-2.2
+1.1
+0.7
+0.0
+1.5
+60.8
+33.4
+27.4
+
+-2.4
+1.1
+1.9
+0.0
+0.6
+60.5
+33.5
+27.0
+
+-2.7
+1.0
+2.5
+0.0
+0.3
+60.4
+34.3
+26.1
+
+-2.9
+0.9
+3.0
+0.0
+-0.1
+60.4
+35.5
+24.9
+
+-3.0
+0.8
+3.9
+0.0
+-0.9
+60.5
+37.6
+22.8
+
+6.8
+10.3
+1.3
+6.3
+
+12.5
+10.1
+1.3
+5.3
+
+9.1
+10.4
+1.2
+5.3
+
+6.1
+2.1
+1.2
+…
+
+4.4
+4.5
+1.2
+…
+
+5.3
+5.8
+1.2
+…
+
+5.4
+4.7
+1.2
+…
+
+5.4
+3.8
+1.2
+…
+
+5.4
+0.4
+1.2
+…
+
+Overall balance (including grants)
+Primary balance (including grants)
+Net domestic borrowing
+Privatization receipts
+Foreign financing
+Public Debt
+Domestic
+External (including publicly guaranteed)
+Monetary indicators
+Broad money growth
+Private credit growth
+Velocity
+Interest rate (3-mth T-bills, end-period)
+
+(Percent of GDP unless otherwise indicated)
+External sector
+Trade balance (goods and services)
+Current account balance (including official transfers)
+Current account balance (excluding official transfers)
+Official transfers
+Gross international reserves (in millions of Euros)
+(In months of imports of goods and services)
+(Relative to external debt service)
+(In percent of broad money)
+Change in real exchange rate (eop, in percent)
+
+-24.6
+-14.0
+-14.7
+0.7
+1,621
+4.1
+10.9
+26.0
+-7.8
+
+-20.7
+-11.4
+-11.9
+0.5
+1,926
+4.4
+5.0
+27.0
+-2.6
+
+-22.4
+-11.9
+-12.2
+0.2
+1,879
+4.4
+8.8
+24.9
+0.7
+
+-18.8
+-10.1
+-10.8
+0.7
+1,976
+4.5
+8.2
+24.4
+…
+
+-17.6
+-9.4
+-10.1
+0.7
+2,065
+4.5
+6.5
+24.6
+…
+
+-17.3
+-8.8
+-9.5
+0.7
+2,101
+4.4
+5.3
+24.0
+…
+
+-16.9
+-8.3
+-9.0
+0.7
+2,160
+4.4
+2.8
+23.6
+…
+
+-16.2
+-7.1
+-7.8
+0.7
+2,296
+4.5
+5.0
+24.0
+…
+
+-15.2
+-5.8
+-6.5
+0.7
+2,495
+4.5
+5.5
+24.8
+…
+
+Memorandum items
+Nominal GDP (in billions of lek) 1/
+
+1,151
+
+1,237
+
+1,319
+
+1,357
+
+1,417
+
+1,493
+
+1,574
+
+1,659
+
+1,749
+
+Sources: Albanian authorities; and IMF staff estimates and projections.
+1/ GDP data for 2008–09 are from the official national accounts.
+
+INTERNATIONAL MONETARY FUND
+
+27
+
+ALBANIA
+
+Table 2a. Albania: General Government Operations, 2009–17
+(Percent of GDP)
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+Est. Rev. Proj.
+Total revenue and grants
+
+2014
+
+2015
+
+2017
+
+Projection
+
+26.0
+
+25.8
+
+25.1
+
+24.8
+
+24.9
+
+24.8
+
+24.8
+
+24.7
+
+24.6
+
+23.5
+9.6
+1.5
+2.9
+0.2
+2.3
+0.7
+1.2
+0.8
+4.3
+
+23.3
+9.2
+1.4
+3.1
+0.2
+2.2
+0.6
+1.5
+0.8
+4.4
+
+23.0
+9.0
+1.5
+3.1
+0.2
+2.1
+0.5
+1.6
+0.7
+4.3
+
+22.7
+9.0
+1.2
+2.8
+0.1
+2.0
+0.4
+2.0
+0.7
+4.3
+
+22.7
+9.0
+1.3
+2.8
+0.1
+2.0
+0.4
+2.0
+0.7
+4.3
+
+22.7
+8.9
+1.3
+2.8
+0.1
+2.0
+0.4
+2.0
+0.7
+4.3
+
+22.6
+8.9
+1.3
+2.8
+0.1
+2.0
+0.4
+2.0
+0.7
+4.3
+
+22.5
+8.8
+1.3
+2.8
+0.1
+2.0
+0.4
+2.0
+0.7
+4.3
+
+22.4
+8.7
+1.3
+2.8
+0.1
+2.0
+0.4
+2.0
+0.7
+4.3
+
+Non-tax revenue
+
+2.1
+
+2.1
+
+1.7
+
+1.7
+
+1.7
+
+1.7
+
+1.7
+
+1.7
+
+1.7
+
+Grants
+
+0.4
+
+0.4
+
+0.3
+
+0.4
+
+0.4
+
+0.4
+
+0.4
+
+0.4
+
+0.4
+
+Tax revenue
+VAT
+Profit tax
+Excise tax
+Small business tax
+Personal income tax
+Customs duties
+Other taxes
+Property and local taxes
+Social insurance contributions
+
+Total expenditure
+
+33.4
+
+29.6
+
+28.5
+
+27.9
+
+27.1
+
+27.3
+
+27.5
+
+27.6
+
+27.6
+
+24.6
+5.4
+3.2
+2.7
+2.8
+0.2
+8.6
+2.9
+1.7
+
+24.2
+5.3
+3.4
+2.9
+2.7
+0.3
+8.6
+2.5
+1.5
+
+23.2
+5.1
+3.1
+2.6
+2.5
+0.3
+8.6
+2.1
+1.4
+
+23.3
+5.2
+3.2
+2.3
+2.3
+0.1
+8.9
+2.0
+1.5
+
+23.6
+5.2
+3.4
+2.3
+2.3
+0.1
+8.9
+2.0
+1.5
+
+23.8
+5.2
+3.5
+2.4
+2.3
+0.1
+8.9
+2.0
+1.5
+
+24.0
+5.2
+3.8
+2.5
+2.3
+0.1
+8.9
+2.0
+1.5
+
+24.1
+5.2
+3.8
+2.6
+2.3
+0.1
+8.9
+2.0
+1.5
+
+24.1
+5.2
+3.9
+2.7
+2.3
+0.1
+8.9
+2.0
+1.5
+
+8.8
+
+5.8
+
+5.4
+
+4.4
+
+3.5
+
+3.5
+
+3.5
+
+3.5
+
+3.5
+
+Lending minus repayment
+
+0.0
+
+-0.5
+
+0.0
+
+0.2
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+Reserve and contingency funds 1/
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+-7.4
+
+-3.7
+
+-3.5
+
+-3.1
+
+-2.2
+
+-2.4
+
+-2.7
+
+-2.9
+
+-3.0
+
+Current balance including grants
+
+1.4
+
+1.6
+
+1.9
+
+1.5
+
+1.3
+
+1.1
+
+0.8
+
+0.6
+
+0.5
+
+Financing
+Domestic
+Privatization receipts
+Net borrowing
+Foreign
+Accumulation of Arrears
+
+7.4
+3.3
+2.4
+0.9
+3.7
+0.5
+
+3.7
+1.4
+0.4
+0.9
+2.1
+0.3
+
+3.5
+1.9
+0.0
+2.0
+1.6
+0.0
+
+3.1
+1.6
+0.1
+1.8
+1.4
+0.0
+
+2.2
+0.7
+0.0
+0.7
+1.5
+0.0
+
+2.4
+1.9
+0.0
+1.9
+0.6
+0.0
+
+2.7
+2.5
+0.0
+2.5
+0.3
+0.0
+
+2.9
+3.0
+0.0
+3.0
+-0.1
+0.0
+
+3.0
+3.9
+0.0
+3.9
+-0.9
+0.0
+
+-4.3
+1.0
+59.3
+36.1
+23.2
+
+-0.4
+1.2
+57.8
+32.9
+24.9
+
+-0.3
+1.6
+58.6
+33.3
+25.3
+
+0.2
+1.1
+60.9
+34.1
+26.8
+
+1.1
+0.9
+60.8
+33.4
+27.4
+
+1.1
+0.7
+60.5
+33.5
+27.0
+
+1.0
+0.4
+60.4
+34.3
+26.1
+
+0.9
+0.2
+60.4
+35.5
+24.9
+
+0.8
+0.1
+60.5
+37.6
+22.8
+
+1151
+
+1237
+
+1319
+
+1357
+
+1417
+
+1493
+
+1574
+
+1659
+
+1749
+
+Current expenditure
+Personnel cost
+Interest
+Of which: domestic
+Operations & maintenance
+Subsidies
+Social insurance outlays
+Local government expenditure
+Social protection transfers
+Capital expenditure
+
+Overall balance
+
+Memorandum Items:
+Primary balance
+Current balance excluding grants
+Public debt
+Domestic general government
+External
+GDP (in billions of leks)
+
+Sources: Albanian authorities; and IMF staff estimates and projections.
+1/ Spending contingencies are reported according to their economic classification at outturn.
+
+28
+
+2016
+
+INTERNATIONAL MONETARY FUND
+
+ALBANIA
+
+Table 2b. Albania: General Government Operations, 2009–17
+(Billions of leks)
+
+2009
+
+2010
+
+2011
+Est.
+
+Total revenue and grants
+Tax revenue
+VAT
+Profit tax
+Excise tax
+Small business tax
+Personal income tax
+Customs duties
+Other taxes
+Property and local taxes
+Social insurance contributions
+Non-tax revenue
+Grants
+Total expenditure
+
+2012
+
+2013
+
+2014
+
+Rev. Proj.
+
+2015
+
+2016
+
+2017
+
+Projection
+
+299.0
+270.8
+110.1
+17.1
+33.5
+2.5
+26.8
+7.9
+13.4
+9.7
+49.8
+
+319.6
+288.8
+114.0
+17.6
+38.8
+2.3
+27.1
+7.3
+18.4
+9.6
+53.8
+
+330.4
+303.9
+119.2
+19.7
+40.4
+2.6
+28.0
+6.9
+21.4
+9.2
+56.6
+
+337.2
+308.2
+122.4
+16.4
+37.9
+1.9
+27.5
+6.1
+27.4
+10.1
+58.5
+
+352.6
+322.2
+127.3
+18.0
+39.6
+2.1
+28.7
+6.3
+28.6
+10.6
+61.0
+
+371.0
+338.9
+133.6
+19.0
+41.7
+2.2
+30.2
+6.6
+30.2
+11.2
+64.3
+
+390.2
+356.4
+140.0
+20.0
+44.0
+2.3
+31.8
+6.9
+31.8
+11.8
+67.8
+
+409.2
+373.7
+145.8
+21.1
+46.3
+2.4
+33.6
+7.2
+33.5
+12.4
+71.4
+
+429.5
+392.0
+151.8
+22.2
+48.9
+2.6
+35.4
+7.4
+35.3
+13.1
+75.3
+
+23.7
+
+26.2
+
+22.7
+
+23.6
+
+24.6
+
+26.0
+
+27.4
+
+28.8
+
+30.4
+
+4.4
+
+4.6
+
+3.8
+
+5.4
+
+5.8
+
+6.1
+
+6.5
+
+6.7
+
+7.1
+
+384.4
+
+365.8
+
+376.2
+
+378.9
+
+384.3
+
+407.4
+
+433.2
+
+457.4
+
+482.6
+
+Current expenditure
+Personnel cost
+Interest
+Operations & maintenance
+Subsidies
+Social insurance outlays
+Local government expenditure
+Social protection transfers
+
+282.9
+62.4
+36.3
+32.1
+2.0
+98.4
+33.6
+19.1
+
+299.9
+65.8
+41.6
+33.3
+3.5
+106.2
+30.8
+18.7
+
+305.6
+67.4
+41.1
+33.0
+3.3
+113.9
+28.1
+18.7
+
+316.7
+70.9
+44.0
+31.1
+2.0
+120.2
+27.0
+19.8
+
+334.3
+74.0
+47.8
+32.4
+2.0
+125.5
+29.0
+21.0
+
+354.8
+78.0
+52.9
+34.2
+2.1
+132.2
+30.5
+22.2
+
+377.7
+82.2
+59.5
+36.0
+2.2
+139.3
+32.2
+23.4
+
+399.0
+86.6
+63.7
+38.0
+2.3
+146.9
+33.9
+24.7
+
+420.9
+91.3
+67.8
+40.0
+2.4
+154.8
+35.7
+25.9
+
+Capital expenditure
+
+101.4
+
+71.6
+
+70.6
+
+60.0
+
+49.9
+
+52.6
+
+55.5
+
+58.4
+
+61.6
+
+Lending minus repayment
+
+0.1
+
+-5.6
+
+0.0
+
+2.3
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+Reserve and contingency funds 1/
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+-85.4
+
+-46.2
+
+-45.7
+
+-41.7
+
+-31.7
+
+-36.5
+
+-43.0
+
+-48.2
+
+-53.1
+
+Current balance including grants
+
+16.1
+
+19.7
+
+24.8
+
+20.5
+
+18.2
+
+16.2
+
+12.5
+
+10.3
+
+8.5
+
+Financing
+Domestic
+Privatization receipts
+Net borrowing
+Foreign
+Accumulation of Arrears
+
+85.4
+37.5
+27.6
+9.9
+42.4
+5.5
+
+46.2
+16.7
+4.5
+11.1
+25.4
+4.1
+
+45.7
+24.9
+0.4
+27.0
+20.9
+0.0
+
+41.7
+22.1
+1.0
+24.1
+19.7
+0.0
+
+31.7
+10.4
+0.0
+10.4
+21.3
+0.0
+
+36.5
+27.7
+0.0
+27.7
+8.8
+0.0
+
+43.0
+38.8
+0.0
+38.8
+4.2
+0.0
+
+48.2
+50.0
+0.0
+50.0
+-1.8
+0.0
+
+53.1
+68.0
+0.0
+68.0
+-14.9
+0.0
+
+-49.1
+11.6
+682.5
+415.0
+267.5
+227.2
+40.3
+
+-4.6
+15.1
+715.3
+407.4
+308.0
+268.1
+39.9
+
+-4.6
+21.0
+772.3
+438.6
+333.7
+286.6
+47.1
+
+2.3
+15.1
+826.2
+462.7
+363.5
+310.6
+53.0
+
+16.1
+12.5
+862.0
+473.1
+388.9
+330.5
+58.4
+
+16.5
+10.0
+903.2
+500.8
+402.4
+338.6
+63.9
+
+16.5
+15.5
+6.0
+3.5
+950.3 1001.7
+539.6 589.5
+410.7 412.2
+341.3 337.5
+69.3
+74.8
+
+14.7
+1.4
+1057.1
+657.6
+399.5
+319.1
+80.4
+
+Overall balance
+
+Memorandum Items:
+Primary balance
+Current balance excluding grants
+Public Debt
+Domestic general government
+External
+Direct government external debt
+Government guaranteed external debt
+
+Sources: Albanian authorities; and IMF staff estimates and projections.
+1/ Spending contingencies are reported according to their economic classification at outturn.
+
+INTERNATIONAL MONETARY FUND
+
+29
+
+ALBANIA
+
+Table 3a. Albania: Balance of Payments, 2009–17
+(Percent of GDP)
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+Est.
+
+Current account
+Balance of goods and services
+Exports
+Goods
+Services
+Imports
+Goods
+Services
+Income balance
+Of which : Interest due
+Private transfers 1/
+Official transfers
+Financial account
+Direct investment
+Other capital
+
+2014
+
+2015 2016 2017
+
+Projections
+
+-14.0
+
+-11.4
+
+-11.9
+
+-10.1
+
+-9.4
+
+-8.8
+
+-24.6
+
+-20.7
+
+-22.4
+
+-18.8
+
+-17.6
+
+-17.3
+
+-8.3
+
+-7.1
+
+-5.8
+
+28.7
+
+32.6
+
+33.6
+
+34.0
+
+34.7
+
+35.1
+
+35.4
+
+35.7
+
+36.1
+16.6
+
+-16.9 -16.2 -15.2
+
+9.0
+
+13.1
+
+15.0
+
+15.5
+
+16.0
+
+16.2
+
+16.4
+
+16.5
+
+19.7
+
+19.5
+
+18.6
+
+18.5
+
+18.8
+
+18.9
+
+19.1
+
+19.2
+
+19.5
+
+53.2
+
+53.3
+
+56.0
+
+52.8
+
+52.4
+
+52.4
+
+52.3
+
+51.8
+
+51.3
+
+35.0
+
+36.3
+
+38.8
+
+36.5
+
+35.9
+
+35.8
+
+35.5
+
+35.0
+
+34.5
+
+18.3
+-1.0
+
+16.9
+-1.0
+
+17.2
+0.5
+
+16.3
+-0.2
+
+16.5
+-0.8
+
+16.7
+-0.8
+
+16.8
+-0.7
+
+16.8
+-0.2
+
+16.8
+0.0
+
+0.8
+
+0.8
+
+0.9
+
+1.0
+
+1.1
+
+1.1
+
+1.2
+
+0.9
+
+0.8
+
+11.0
+
+9.8
+
+9.8
+
+8.2
+
+8.4
+
+8.5
+
+8.6
+
+8.6
+
+8.7
+
+0.7
+
+0.5
+
+0.2
+
+0.7
+
+0.7
+
+0.7
+
+0.7
+
+0.7
+
+0.7
+
+11.2
+
+12.9
+
+9.9
+
+9.6
+
+8.8
+
+7.7
+
+7.5
+
+6.9
+
+6.1
+
+7.7
+
+9.2
+
+7.6
+
+6.5
+
+6.1
+
+5.9
+
+5.9
+
+5.8
+
+5.7
+1.3
+
+-0.4
+
+1.4
+
+0.6
+
+1.6
+
+1.2
+
+1.3
+
+1.3
+
+1.3
+
+0.8
+
+1.6
+
+1.5
+
+1.3
+
+1.3
+
+1.3
+
+1.4
+
+1.4
+
+1.4
+
+-1.2
+
+-0.2
+
+-0.8
+
+0.3
+
+-0.1
+
+0.0
+
+-0.1
+
+-0.1
+
+-0.1
+
+-1.9
+
+-4.6
+
+-3.3
+
+-2.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+3.9
+
+2.3
+
+1.6
+
+1.6
+
+1.5
+
+0.6
+
+0.3
+
+-0.1
+
+-0.9
+
+4.5
+
+5.3
+
+2.4
+
+2.4
+
+2.7
+
+2.0
+
+4.7
+
+1.6
+
+0.8
+
+Multilateral loans
+
+1.5
+
+1.2
+
+1.8
+
+1.9
+
+1.5
+
+0.9
+
+0.9
+
+0.4
+
+0.4
+
+World Bank
+
+0.3
+
+0.2
+
+0.4
+
+0.3
+
+0.3
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+EBRD
+
+0.4
+
+0.2
+
+0.4
+
+0.3
+
+0.3
+
+0.3
+
+0.3
+
+0.2
+
+0.2
+
+Other
+
+0.7
+
+0.8
+
+1.0
+
+1.3
+
+0.9
+
+0.5
+
+0.7
+
+0.1
+
+0.1
+
+Bilateral loans
+
+0.9
+
+0.7
+
+0.6
+
+0.5
+
+1.2
+
+1.2
+
+1.0
+
+0.4
+
+0.4
+
+Commercial debt
+
+2.2
+
+3.3
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+2.7
+
+0.8
+
+0.0
+
+Amortization
+
+-0.6
+
+-3.0
+
+-0.8
+
+-0.8
+
+-1.2
+
+-1.5
+
+-4.4
+
+-1.7
+
+-1.6
+
+Errors and omissions 3/
+
+1.8
+
+2.3
+
+1.7
+
+1.6
+
+1.6
+
+1.5
+
+1.4
+
+1.4
+
+1.3
+
+-1.0
+
+3.9
+
+-0.4
+
+1.0
+
+1.0
+
+0.4
+
+0.6
+
+1.2
+
+1.7
+
+Private loans (incl.net trade credits)
+Other financial flows
+Of which: Change in NFA of DMBs (increase = -) 2/
+
+Medium- and long-term loans (net)
+New borrowing
+
+Net balance
+Available financing
+Change in net reserves (increase = -) 2/
+Financing gap 4/
+
+0.5
+
+-3.5
+
+0.4
+
+-1.0
+
+-1.0
+
+-0.4
+
+-0.6
+
+-1.2
+
+-1.7
+
+0.5
+
+-3.5
+
+0.4
+
+-1.0
+
+-1.0
+
+-0.4
+
+-0.6
+
+-1.2
+
+-1.7
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+Sources: Ministry of Finance; Bank of Albania; donors; and Fund staff estimates and projections.
+1/ Bank of Albania data plus IMF estimate (to capture some unrecorded inflows not captured in the BOA estimate).
+2/ Net of valuation changes in 2008–11. In projections for 2012–17, valuation effects are assumed to be zero.
+3/ Net errors and omissions include unidentified flows of private transfers.
+4/ The financing gap, if any, is expected to be fully covered by arrears rescheduling.
+
+30
+
+INTERNATIONAL MONETARY FUND
+
+ALBANIA
+
+Table 3b. Albania: Balance of Payments, 2009–17
+(Millions of Euros)
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+Current account
+Balance of goods and services
+Exports
+Goods
+Services
+Imports
+Goods
+Services
+Income balance
+Of which: Interest due
+Private transfers 1/
+Official transfers
+
+2015
+
+2016
+
+2017
+
+Projections
+
+Est.
+-1,225
+-2,148
+2,504
+785
+1,718
+4,652
+3,054
+1,598
+-91
+67
+957
+58
+
+-1,019
+-1,852
+2,922
+1,172
+1,751
+4,774
+3,255
+1,519
+-90
+71
+877
+45
+
+-1,122
+-2,107
+3,153
+1,406
+1,747
+5,260
+3,647
+1,613
+48
+87
+916
+21
+
+-989
+-1,831
+3,318
+1,511
+1,807
+5,149
+3,559
+1,589
+-21
+100
+795
+68
+
+-944
+-1,776
+3,499
+1,609
+1,890
+5,275
+3,616
+1,660
+-85
+111
+846
+71
+
+-926
+-1,817
+3,692
+1,702
+1,990
+5,509
+3,759
+1,750
+-79
+118
+894
+76
+
+-913
+-1,857
+3,889
+1,796
+2,093
+5,745
+3,901
+1,844
+-76
+133
+942
+78
+
+-810
+-1,857
+4,098
+1,895
+2,203
+5,954
+4,021
+1,933
+-24
+103
+987
+83
+
+-696
+-1,830
+4,349
+1,999
+2,350
+6,179
+4,150
+2,029
+4
+95
+1,043
+87
+
+977
+672
+-34
+70
+-105
+-169
+340
+396
+127
+30
+33
+63
+77
+193
+-57
+
+1,160
+827
+124
+144
+-19
+-415
+208
+474
+111
+22
+14
+75
+62
+300
+-266
+
+927
+717
+60
+138
+-78
+-312
+150
+221
+165
+38
+36
+91
+56
+0
+-71
+
+935
+630
+153
+129
+25
+-199
+152
+233
+185
+28
+32
+124
+49
+0
+-82
+
+884
+612
+121
+132
+-11
+1
+151
+267
+148
+34
+26
+88
+119
+0
+-116
+
+813
+615
+136
+138
+-2
+1
+62
+215
+90
+2
+33
+56
+125
+0
+-153
+
+821
+653
+139
+148
+-10
+1
+30
+517
+104
+0
+29
+75
+114
+300
+-488
+
+795
+663
+144
+156
+-11
+1
+-12
+183
+43
+0
+28
+15
+45
+95
+-196
+
+740
+688
+155
+168
+-13
+1
+-103
+92
+44
+1
+28
+15
+48
+0
+-195
+
+Errors and omissions 3/
+
+159
+
+209
+
+157
+
+157
+
+157
+
+157
+
+157
+
+157
+
+157
+
+Net balance
+
+-88
+
+349
+
+-38
+
+102
+
+97
+
+44
+
+65
+
+141
+
+201
+
+47
+47
+
+-314
+-314
+
+38
+38
+
+-102
+-102
+
+-97
+-97
+
+-44
+-44
+
+-66
+-66
+
+-141
+-141
+
+-201
+-201
+
+0
+0
+
+0
+0
+
+0
+0
+
+0
+0
+
+0
+0
+
+0
+0
+
+0
+0
+
+0
+0
+
+0
+0
+
+8,737
+1,621
+4.1
+-24.6
+-14.0
+4.0
+4.8
+32.9
+-5.9
+0.8
+4.2
+
+8,960
+1,926
+4.4
+-20.7
+-11.4
+9.7
+13.1
+33.9
+24.8
+-4.3
+5.8
+
+9,389
+1,879
+4.4
+-22.4
+-11.9
+2.8
+3.8
+34.9
+11.1
+5.0
+0.3
+
+10,978 11,490
+2,159 2,297
+4.4
+4.5
+-16.9
+-16.2
+-8.3
+-7.1
+11.3
+2.1
+16.4
+3.1
+36.6
+35.1
+5.2
+5.0
+3.9
+6.0
+0.6
+0.4
+
+12,044
+2,496
+4.5
+-15.2
+-5.8
+1.7
+2.5
+33.1
+6.0
+7.0
+0.4
+
+Financial account
+Direct investment, net
+Other capital
+Private loans (incl.net trade credits)
+Other financial flows
+Of which: Change in NFA of DMBs (increase = -) 2/
+Medium- and long-term loans (net)
+New borrowing
+Multilateral loans
+World Bank
+EBRD
+Other
+Bilateral loans
+Commercial debt
+Amortization
+
+Available financing
+Change in net reserves (increase = -) 2/
+Financing gap 4/
+Arrears Rescheduling
+Memorandum items:
+GDP in Euros
+Gross usable reserves
+(months of imports of goods and services)
+Balance of goods and services (percent of GDP)
+Current account (percent of GDP)
+Debt service (percent of exports of goods and services) 5/
+Debt service (percent of central government revenues) 5/
+Total external debt stock (percent of GDP) 6/
+Volume of Exports of Goods and Services (percent change)
+Volume of Imports of Goods and Services (percent change)
+Terms of trade (percent change) 7/
+
+9,756 10,072 10,511
+1,973 2,062 2,099
+4.5
+4.5
+4.4
+-18.8
+-17.6
+-17.3
+-10.1
+-9.4
+-8.8
+3.1
+3.1
+3.0
+4.3
+4.4
+4.3
+37.1
+38.1
+37.6
+0.7
+5.0
+6.5
+-6.8
+1.0
+4.5
+0.4
+0.1
+0.0
+
+Sources: Ministry of Finance; Bank of Albania; donors; and IMFstaff estimates and projections.
+1/ Bank of Albania data plus IMF estimate (to capture some unrecorded inflows not captured in the BOA estimate).
+2/ Net of valuation changes in 2008–11. In projections for 2012–17, valuation effects are assumed to be zero.
+3/ Net errors and omissions include unidentified flows of private transfers.
+4/ The financing gap,if any, is expected to be fully covered by arrears rescheduling.
+5/ Public and publicly guaranteed debt only.
+6/ Public and private external debt, including arrears. Debt stock converted into Lek at the e-o-p exchange rate.
+7/ Fund Staff estimates and projections.
+
+INTERNATIONAL MONETARY FUND
+
+31
+
+ALBANIA
+
+Table 4a. Albania: Monetary Aggregates, 2009–13
+(Percent of GDP)
+Projections
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+Dec.
+
+Dec.
+
+Dec.
+
+Dec.
+
+Dec.
+
+75.7
+
+79.3
+
+81.2
+
+83.6
+
+83.6
+
+18.2
+57.6
+32.1
+25.5
+
+15.8
+63.5
+33.1
+30.4
+
+14.8
+66.4
+34.3
+32.1
+
+15.2
+68.4
+35.3
+33.1
+
+15.2
+68.4
+35.3
+33.1
+
+21.2
+18.6
+
+27.4
+20.4
+
+29.5
+19.4
+
+31.5
+19.7
+
+31.6
+20.2
+
+2.6
+
+7.0
+
+10.1
+
+11.8
+
+11.4
+
+Monetary survey
+Broad money
+Currency outside banks
+Deposits
+Domestic currency deposits
+Foreign currency deposits
+Net foreign assets
+Bank of Albania
+Commercial Banks
+Net domestic assets
+Claims on government (net of deposits)
+BOA financing
+Of which : gross credit
+Other (including T-bills)
+Claims on state enterprises and farms
+Claims on the private sector
+In leks
+In foreign currency
+Other items, net
+Memorandum items
+Reserve money
+M1
+M2
+Sources: Bank of Albania; and IMF staff estimates.
+
+32
+
+INTERNATIONAL MONETARY FUND
+
+54.5
+
+51.8
+
+51.7
+
+52.1
+
+52.1
+
+29.2
+5.8
+
+27.6
+4.5
+
+27.2
+4.1
+
+27.6
+4.0
+
+26.9
+3.8
+
+6.7
+
+5.2
+
+4.9
+
+4.8
+
+4.5
+
+23.5
+
+23.1
+
+23.1
+
+23.6
+
+23.1
+
+1.0
+
+0.8
+
+1.4
+
+1.4
+
+1.3
+
+36.7
+11.6
+
+37.6
+12.1
+
+38.9
+13.4
+
+38.6
+13.5
+
+38.6
+13.6
+
+25.1
+
+25.5
+
+25.5
+
+25.6
+
+25.9
+
+-12.5
+
+-14.1
+
+-15.9
+
+-15.4
+
+-14.8
+
+24.7
+24.7
+50.2
+
+22.9
+22.3
+48.9
+
+22.0
+21.0
+49.1
+
+21.8
+22.0
+51.5
+
+21.8
+22.0
+51.5
+
+ALBANIA
+
+Table 4b. Albania: Monetary Aggregates, 2009–13
+(In billions of leks unless otherwise indicated; end-period)
+Projections
+
+Monetary survey
+Broad money
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+Dec.
+
+Dec.
+
+Dec.
+
+Dec.
+
+Dec.
+
+871.5
+
+980.5
+
+1070.3
+
+1135.4
+
+1185.6
+
+Currency outside banks
+Deposits
+Domestic currency deposits
+
+209.0
+662.4
+369.1
+
+195.1
+785.5
+409.7
+
+194.9
+875.3
+452.2
+
+206.8
+928.6
+479.1
+
+216.0
+969.7
+500.3
+
+Foreign currency deposits
+
+293.3
+
+375.8
+
+423.1
+
+449.5
+
+469.4
+
+244.4
+214.5
+30.0
+
+339.4
+252.8
+86.6
+
+389.1
+255.7
+133.4
+
+427.6
+267.5
+160.1
+
+447.5
+286.1
+161.4
+
+627.0
+336.3
+66.4
+77.3
+269.9
+12.1
+422.3
+133.3
+289.0
+-143.6
+
+641.1
+340.9
+55.4
+64.4
+285.5
+9.4
+465.0
+149.1
+315.8
+-174.1
+
+681.2
+358.6
+54.0
+64.5
+304.6
+18.7
+513.2
+176.8
+336.4
+-209.3
+
+707.8
+374.4
+54.0
+64.5
+320.4
+18.7
+524.1
+182.7
+347.6
+-209.3
+
+738.1
+381.2
+54.0
+64.5
+327.2
+18.7
+547.5
+192.6
+366.7
+-209.3
+
+Net foreign assets
+Bank of Albania
+Commercial Banks
+Net domestic assets
+Claims on government (net of deposits)
+BOA financing
+Of which: gross credit
+Other (including T-bills)
+Claims on state enterprises and farms
+Claims on the private sector
+In leks
+In foreign currency
+Other items, net
+
+(change as a percent of beginning of period broad money)
+Broad money
+Currency outside banks
+Deposits
+Domestic currency deposits
+Foreign currency deposits
+Net foreign assets
+Bank of Albania
+Commercial Banks
+Net domestic assets
+Claims on government (net of deposits)
+BOA financing
+Of which: gross credit
+Other (including T-bills)
+Claims on state enterprises and farms
+Claims on the private sector
+In leks
+In foreign currency
+Other items, net
+Memorandum items
+Reserve money (billions of Lek)
+M1 (billions of Lek)
+M2 (Billions of Lek)
+Annual broad money growth
+Annual growth in private sector credit
+Private sector credit as a percent of GDP
+Annual change in credit as a percent of GDP
+Annual M2 growth
+Velocity (annual GDP/BM)
+Money multiplier (absolute values)
+Currency/Broad Money ratio
+Foreign currency deposits/total deposits
+Gross reserves (millions of euros)
+In percent of broad money
+U.S. dollar exchange rate (end of period)
+Euro exchange rate (end of period)
+3-month T-bill rate (in percent)
+BoA repo rate (in percent)
+
+6.8
+
+12.5
+
+9.1
+
+6.1
+
+4.4
+
+1.6
+5.2
+1.2
+4.0
+
+-1.6
+14.1
+4.7
+9.5
+
+0.0
+9.2
+4.3
+4.8
+
+1.1
+5.0
+2.5
+2.5
+
+0.8
+3.6
+1.9
+1.8
+
+4.6
+1.6
+3.0
+
+10.9
+4.4
+6.5
+
+5.1
+0.3
+4.8
+
+3.6
+1.1
+2.5
+
+1.8
+1.6
+0.1
+
+2.2
+2.1
+0.7
+-0.1
+1.5
+-0.1
+4.8
+2.9
+2.0
+-4.7
+
+1.6
+0.5
+-1.3
+-1.5
+1.8
+-0.3
+4.9
+1.8
+3.1
+-3.5
+
+4.1
+1.8
+-0.1
+0.0
+1.9
+0.9
+4.9
+2.8
+2.1
+-3.6
+
+2.5
+1.5
+0.0
+0.0
+1.5
+0.0
+1.0
+0.5
+1.0
+0.0
+
+2.7
+0.6
+0.0
+0.0
+0.6
+0.0
+2.1
+0.9
+1.7
+0.0
+
+284.8
+284.5
+578.2
+6.8
+10.3
+36.7
+1.5
+4.2
+1.3
+3.1
+24.0
+44.3
+1621.0
+26.0
+95.8
+138.0
+6.3
+5.3
+
+283.5
+275.4
+604.5
+12.5
+10.1
+37.6
+0.9
+4.6
+1.3
+3.5
+19.9
+47.8
+1925.7
+27.0
+104.0
+138.8
+5.3
+5.0
+
+289.8
+276.9
+647.0
+9.1
+10.4
+38.9
+1.3
+7.0
+1.2
+3.7
+18.2
+48.3
+1879.4
+24.9
+107.5
+138.9
+5.3
+4.8
+
+295.5
+299.2
+699.0
+6.1
+2.1
+38.6
+-0.3
+8.0
+1.2
+3.8
+18.2
+48.4
+1975.7
+24.4
+...
+...
+...
+...
+
+308.5
+312.1
+729.5
+4.4
+4.5
+38.6
+0.0
+4.4
+1.2
+3.8
+18.2
+48.4
+2064.9
+24.6
+...
+...
+...
+...
+
+Sources: Bank of Albania; and IMF staff estimates.
+
+INTERNATIONAL MONETARY FUND
+
+33
+
+INTERNATIONAL MONETARY FUND
+
+Dec-05
+I
+
+Dec-06
+
+Dec-07
+
+Mar-08
+
+Jun-08
+
+Sep-08 Dec-08 Mar-09
+
+Jun-09 Sep-09
+
+Dec-09
+
+Feb-10
+
+Dec-10
+
+Mar-11
+
+Jun-11
+
+Sep-11
+
+Dec-11
+
+Mar-12
+
+Jun-12
+
+Capital-based
+(i)
+
+Regulatory capital as a percent of risk-weighted assets
+
+18.6
+
+18.1
+
+17.1
+
+17.2
+
+17.3
+
+17.5
+
+17.2
+
+0.0
+
+16.9
+
+16.7
+
+16.2
+
+16.2
+
+15.4
+
+14.8
+
+14.6
+
+15.1
+
+15.6
+
+15.9
+
+15.7
+
+(ii)
+
+Regulatory Tier 1 capital as a percent of risk-weighted assets
+
+18.1
+
+17.1
+
+16.0
+
+16.3
+
+16.5
+
+16.6
+
+16.3
+
+0.0
+
+16.1
+
+15.9
+
+15.3
+
+15.3
+
+14.5
+
+13.9
+
+13.6
+
+13.9
+
+14.3
+
+14.7
+
+14.5
+
+(iii)
+
+Capital as a percent of total assets
+Regulatory Tier 1 capital as a percent of total assets
+Regulatory capital as a percent of total assets
+Shareholders' equity as a percent of total assets
+
+5.4
+5.6
+6.6
+
+5.9
+6.2
+6.8
+
+5.8
+6.2
+7.6
+
+6.1
+6.4
+7.9
+
+6.2
+6.5
+7.9
+
+6.5
+6.8
+8.0
+
+6.7
+7.0
+8.6
+
+0.0
+0.0
+0.0
+
+8.7
+9.2
+9.3
+
+8.8
+9.3
+9.3
+
+8.7
+9.2
+9.6
+
+8.5
+9.0
+9.5
+
+8.6
+9.1
+9.4
+
+8.2
+8.7
+9.1
+
+8.0
+8.7
+8.6
+
+8.1
+8.7
+8.7
+
+8.1
+8.8
+8.7
+
+8.3
+9.0
+8.7
+
+8.0
+8.6
+8.6
+
+Nonperforming loans net of provisions as a percent of capital
+Nonperforming loans net of provisions as a percent of regulatory Tier 1 capital
+Nonperforming loans net of provisions as a percent of regulatory capital
+Nonperforming loans net of provisions as a percent of shareholders' equity
+
+4.4
+4.3
+3.6
+
+7.2
+6.8
+6.3
+
+12.0
+11.2
+9.1
+
+13.7
+13.0
+10.6
+
+16.7
+15.9
+12.9
+
+14.2
+13.5
+11.5
+
+27.2
+25.7
+21.1
+
+0.0
+0.0
+0.0
+
+30.4
+29.1
+28.5
+
+27.2
+25.9
+25.8
+
+29.9
+28.2
+27.1
+
+35.3
+33.3
+31.4
+
+38.1
+35.9
+34.8
+
+40.4
+38.1
+36.2
+
+51.2
+47.4
+47.6
+
+55.3
+51.2
+51.6
+
+56.6
+52.0
+52.6
+
+58.8
+54.2
+56.0
+
+60.5
+55.8
+56.3
+
+22.2
+
+20.2
+
+20.7
+
+16.3
+
+16.6
+
+16.3
+
+11.4
+
+0.0
+
+1.8
+
+1.8
+
+4.6
+
+2.8
+
+7.6
+
+2.9
+
+2.4
+
+1.9
+
+0.8
+
+8.0
+
+4.8
+
+9.5
+9.3
+7.8
+
+5.5
+5.2
+4.8
+
+1.8
+1.7
+1.4
+
+9.9
+9.4
+7.6
+
+-0.6
+-0.6
+-0.4
+
+5.7
+5.4
+4.6
+
+4.5
+4.3
+3.5
+
+0.0
+0.0
+0.0
+
+4.6
+4.4
+4.3
+
+5.1
+4.9
+4.8
+
+4.1
+3.9
+3.7
+
+5.0
+4.7
+4.4
+
+5.3
+5.0
+4.9
+
+3.0
+2.8
+2.7
+
+4.0
+3.7
+3.7
+
+-3.3
+-3.0
+-3.1
+
+4.3
+3.9
+4.0
+
+4.3
+4.0
+4.1
+
+6.5
+6.0
+6.1
+
+(iv)
+
+(v)
+
+Return on equity (ROE) (annual basis)
+
+(vi)
+
+Net open position in foreign exchange as a percent of capital
+Net open position in foreign exchange as a percent of regulatory Tier 1 capital
+Net open position in foreign exchange as a percent of regulatory capital
+Net open position in foreign exchange as a percent of shareholders' equity
+
+II
+
+Asset-based
+(vii)
+
+Liquid assets as a percent of total assets (Liquid-asset ratio) 1/
+
+62.6
+
+57.6
+
+49.8
+
+48.9
+
+47.0
+
+45.9
+
+42.8
+
+0.0
+
+40.9
+
+41.3
+
+27.6
+
+27.8
+
+25.9
+
+26.6
+
+25.5
+
+26.3
+
+26.5
+
+29.0
+
+35.9
+
+(viii)
+
+Liquid assets as a percent of short-term liabilities 1/
+
+75.2
+
+69.5
+
+55.6
+
+54.4
+
+52.3
+
+50.8
+
+104.7
+
+0.0
+
+111.6
+
+116.1
+
+32.6
+
+32.8
+
+30.6
+
+31.4
+
+30.2
+
+31.3
+
+33.1
+
+36.1
+
+36.0
+
+(ix)
+
+Return on assets (ROA) (net income to average total assets) (annual basis)
+
+1.4
+
+1.4
+
+1.6
+
+1.3
+
+1.3
+
+1.3
+
+0.9
+
+0.0
+
+0.2
+
+0.2
+
+0.4
+
+0.3
+
+0.7
+
+0.3
+
+0.2
+
+0.2
+
+0.1
+
+0.7
+
+0.4
+
+(x)
+
+Nonperforming loans (gross) as a percent of total loans
+
+2.3
+
+3.1
+
+3.4
+
+3.9
+
+4.3
+
+4.1
+
+6.6
+
+0.0
+
+8.7
+
+9.7
+
+10.5
+
+11.8
+
+14.0
+
+14.7
+
+17.0
+
+18.4
+
+18.8
+
+20.1
+
+21.1
+
+na
+
+na
+
+na
+
+na
+
+na
+
+na
+
+na
+
+na
+
+na
+
+na
+
+na
+
+na
+
+na
+
+na
+
+na
+
+na
+
+na
+
+na
+
+na
+
+(xi)
+III
+
+Sectoral distribution of loans to total loans
+Income and expense-based
+
+(xii)
+
+Interest margin to gross income
+
+84.0
+
+92.6
+
+92.7
+
+100.0
+
+99.2
+
+97.7
+
+106.5
+
+0.0
+
+129.1
+
+131.5
+
+119.6
+
+135.3
+
+118.9
+
+137.2
+
+146.6
+
+147.6
+
+147.7
+
+119.7
+
+129.5
+
+(xiii)
+
+Noninterest expenses to gross income
+
+76.3
+
+65.7
+
+58.5
+
+73.3
+
+72.1
+
+62.9
+
+69.6
+
+0.0
+
+90.7
+
+91.3
+
+83.0
+
+87.1
+
+75.5
+
+85.1
+
+88.4
+
+89.4
+
+91.3
+
+71.7
+
+80.4
+
+342.5
+75.5
+41.0
+
+265.5
+71.9
+44.0
+
+215.5
+72.5
+46.9
+
+201.9
+73.1
+47.8
+
+187.7
+73.1
+48.1
+
+183.9
+73.7
+50.2
+
+162.6
+72.6
+48.5
+
+0.0
+0.0
+0.0
+
+151.7
+70.8
+47.5
+
+153.7
+70.0
+48.3
+
+154.3
+70.2
+48.9
+
+156.5
+70.4
+49.2
+
+166.4
+69.8
+51.0
+
+164.6
+69.4
+50.2
+
+163.7
+68.7
+50.3
+
+166.3
+68.8
+52.1
+
+163.2
+67.9
+51.9
+
+164.0
+68.2
+52.1
+
+168.1
+67.1
+52.3
+
+30.0
+25.7
+387.0
+
+34.6
+31.7
+469.5
+
+36.4
+39.4
+516.4
+
+37.2
+40.7
+517.4
+
+37.4
+43.0
+541.4
+
+38.9
+44.1
+550.9
+
+40.8
+47.6
+555.1
+
+0.0
+0.0
+0.0
+
+54.3
+50.7
+542.9
+
+55.6
+50.6
+542.9
+
+56.7
+50.8
+530.2
+
+55.5
+50.4
+529.4
+
+59.2
+49.6
+527.0
+
+58.7
+50.0
+547.9
+
+59.3
+50.1
+580.2
+
+58.1
+49.6
+572.3
+
+56.5
+50.5
+581.9
+
+56.3
+50.2
+578.8
+
+55.2
+49.4
+575.5
+
+IV
+
+Memorandum items
+Other (noncore) indicators:
+Customer deposits as a percent of total (non-interbank) loans
+Foreign currency-denominated loans to total loans
+Foreign currency-denominated liabilities as a percent of total liabilities
+Other indicators:
+Risk weighted assets as a percent of total assets
+Total loans as a percent of total assets
+Total loans as a percent of shareholders' equity
+Source: Data provided by Bank of Albania.
+1/ Definition of liquid assets and short term liabilities were changed in October 2009.
+
+ALBANIA
+
+34
+
+Table 5. Albania: IMF Core Indicators of Financial Soundness, December 2005–June 2012
+
+ALBANIA
+
+Table 6. Albania: Risk Assessment Matrix1
+Overall Level of Concern
+Source of Risks
+
+1.
+
+Strong
+intensificat
+ion of the
+euro area
+crisis.
+
+Relative Likelihood of Severe Realization of
+Threat in the Next 1–3 Years
+(high, medium or low)
+Medium
+Heightened financial stress could further
+reduce consumer and business confidence
+and stifle growth. European banks
+subsidiaries could suffer greater losses as a
+result of higher nonperforming loans,
+making it difficult to meet capital
+requirements.
+Medium
+
+2.
+
+3.
+
+4.
+
+Weakening
+confidence
+in the
+banking
+system.
+
+Rollover of
+governme
+nt debt.
+
+Sharp
+increase in
+oil prices.
+
+ Continued uncertainty in Greece and
+Italy, could trigger deposit withdrawals,
+especially in their subsidiaries.
+ Weak bank profitability, to a large
+extent because of persistently high non
+performing loans, may further weaken
+credit.
+
+Impact if Realized
+(high, medium or low)
+High
+Negative impact on export demand,
+tourism, remittances, and foreign direct
+investment. Albania’s foreign-dominated
+banking system may be directly hit,
+including through deleveraging.
+
+High
+A worsening of liquidity pressures will
+lead to a contraction in bank lending,
+which will further weaken domestic
+demand. Lower revenues could
+adversely impact public finances and
+debt sustainability, while funding
+pressures and higher interest rates could
+further exacerbate the situation.
+
+Medium
+Uncertainty about economic conditions,
+especially in the run up to elections, and
+concerns about debt sustainability, may
+make banks hesitant to rollover government
+debt, a large part of which is short term.
+
+High
+Higher borrowing costs will exacerbate
+debt sustainability and possibly lead to a
+disorderly fiscal adjustment that will
+further weaken growth prospects.
+
+Low
+Geo-political risks could lead to a sharp
+increase in oil prices.
+
+Medium
+Higher energy prices would depress
+domestic and external demand.
+Economic activity and public finances
+would suffer. The external current
+account deficit would worsen, putting
+pressure on the exchange rate and
+reserves, while inflation would rise.
+
+1/The Risk Assessment Matrix (RAM) shows events that could materially alter the baseline path discussed in this report
+(which is the scenario most likely to materialize in the view of the staff). The RAM reflects staff’s views on the source of
+risks and overall level of concerns as of the time of discussions with the authorities. The relative likelihood of risks listed
+is the staff’s subjective assessment of the risks surrounding this baseline.
+
+INTERNATIONAL MONETARY FUND
+
+35
+
+ALBANIA
+
+Appendix I. Debt Sustainability Analysis
+Although external debt will remain sustainable over the medium term, concerns about
+public debt sustainability could undermine the government’s capacity to rollover its debt.
+Shocks could lead to a further deterioration of debt indicators.
+
+Public Debt Sustainability
+1.
+
+Under the baseline scenario, public debt is expected to remain broadly unchanged at about
+
+60 percent of GDP. Debt at that level will require primary surpluses of 1 percent of GDP to stabilize.
+More importantly, that level of debt constitutes about 245 percent of revenues, which could cast
+doubts on the government’s ability to rollover its debt.
+2.
+
+Various stress tests highlight the possibility for further deterioration of the debt-to-GDP
+
+ratio. The biggest deterioration would come from a one–time depreciation of the real exchange rate
+by 30 percent, which would lead to an increase in the debt–to–GDP ratio to 73 percent by 2017.
+Also, noteworthy is the impact of growth deceleration. If growth were to slow down to an average of
+1.5 percent over the medium term (compared to 2.5 percent under the baseline scenario), the
+debt-to-GDP ratio would rise to 65 percent. Finally, a worsening of the primary deficit by
+0.7 percentage point would lead to an increase in the public debt to 64 percent of GDP.
+
+External Debt Sustainability
+3.
+
+External debt appears sustainable in the medium-term, although it is expected to rise in
+
+relation to GDP in the short-term as economic growth slows and public external borrowing takes
+place to smooth the adjustment to the external shock. Over the medium-term, the external current
+account is expected to decline as: (1) import growth slows down due to moderating demand
+pressures; and (2) remittances recover from global shock, though converging to a lower level than
+before the crisis. Foreign direct investment and external borrowing are expected to be just sufficient
+to finance the projected level of the external current account deficit in the coming years.
+
+36
+
+INTERNATIONAL MONETARY FUND
+
+ALBANIA
+
+4.
+
+External debt would remain sustainable under shocks represented by standard bound tests.
+
+A combined shock to interest rates, real GDP growth, and the external current account deficit of
+¼ of a standard deviation around historical averages would bring the ratio of external debt to GDP
+to 40 percent in 2013 through 2016. A one-time 30 percent nominal depreciation in 2013 would
+increase external debt to 55 percent of GDP in that year, but it would fall to 48 percent by 2017.
+
+INTERNATIONAL MONETARY FUND
+
+37
+
+INTERNATIONAL MONETARY FUND
+
+ALBANIA
+
+38
+Table 1. Albania: Public Sector Debt Sustainability Framework, 2007-2017
+(In percent of GDP, unless otherwise indicated)
+2006
+
+1 Baseline: Public sector debt 1/
+o/w foreign-currency denominated
+2 Change in public sector debt
+3 Identified debt-creating flows (4+7+12)
+4 Primary deficit
+5
+Revenue and grants
+6
+Primary (noninterest) expenditure
+7 Automatic debt dynamics 2/
+8
+Contribution from interest rate/growth differential 3/
+9
+Of which contribution from real interest rate
+10
+Of which contribution from real GDP growth
+11
+Contribution from exchange rate depreciation 4/
+12 Other identified debt-creating flows
+13
+Privatization receipts (negative)
+14
+Recognition of implicit or contingent liabilities
+15
+Other (specify, e.g. bank recapitalization)
+16 Residual, including asset changes (2-3) 5/
+Public sector debt-to-revenue ratio 1/
+Gross financing need 6/
+in billions of U.S. dollars
+
+2007
+
+Actual
+2008 2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+Projections
+2014 2015
+
+2016
+
+2017
+
+56.7
+17.1
+
+53.4
+15.2
+
+54.7
+17.9
+
+59.3
+23.2
+
+57.8
+24.9
+
+58.6
+25.3
+
+60.9
+26.8
+
+60.8
+27.4
+
+60.5
+27.0
+
+60.4
+26.1
+
+60.4
+24.9
+
+Debt-stabilizing
+primary
+balance 9/
+60.5
+1.0
+22.8
+
+-1.2
+-1.9
+0.5
+26.0
+26.5
+-2.8
+-1.2
+1.7
+-2.9
+-1.5
+0.3
+0.3
+0.0
+0.0
+0.8
+
+-3.3
+-1.3
+1.4
+26.0
+27.4
+-4.3
+-2.4
+0.7
+-3.0
+-1.9
+1.6
+1.6
+0.0
+0.0
+-1.9
+
+1.3
+1.1
+2.7
+26.7
+29.4
+-2.2
+-3.1
+0.5
+-3.6
+0.9
+0.5
+0.5
+0.0
+0.0
+0.2
+
+4.6
+7.9
+4.3
+26.0
+30.2
+1.7
+0.2
+1.9
+-1.7
+1.5
+1.9
+2.4
+0.0
+-0.5
+-3.3
+
+-1.5
+1.5
+0.4
+25.8
+26.2
+1.1
+-0.8
+1.2
+-1.9
+1.9
+0.0
+0.4
+0.0
+-0.3
+-3.0
+
+0.8
+0.7
+0.3
+25.1
+25.4
+0.4
+-0.5
+1.2
+-1.6
+0.8
+0.0
+0.0
+0.0
+0.0
+0.0
+
+2.3
+1.5
+-0.2
+24.8
+24.7
+1.6
+1.6
+1.9
+-0.3
+...
+0.1
+0.1
+0.0
+0.0
+0.8
+
+-0.1
+-0.3
+-1.1
+24.9
+23.7
+0.8
+0.8
+1.5
+-0.8
+...
+0.0
+0.0
+0.0
+0.0
+0.3
+
+-0.3
+-0.6
+-1.1
+24.8
+23.7
+0.5
+0.5
+1.9
+-1.4
+...
+0.0
+0.0
+0.0
+0.0
+0.3
+
+-0.1
+-0.4
+-1.0
+24.8
+23.7
+0.7
+0.7
+2.1
+-1.4
+...
+0.0
+0.0
+0.0
+0.0
+0.3
+
+0.0
+-0.2
+-0.9
+24.7
+23.7
+0.7
+0.7
+2.2
+-1.4
+...
+0.0
+0.0
+0.0
+0.0
+0.2
+
+0.1
+-0.1
+-0.8
+24.6
+23.7
+0.8
+0.8
+2.2
+-1.4
+...
+0.0
+0.0
+0.0
+0.0
+0.1
+
+217.9
+
+205.5
+
+204.8
+
+228.3
+
+223.8
+
+233.7
+
+245.0
+
+244.5
+
+243.5
+
+243.5
+
+244.8
+
+246.1
+
+3.8
+0.3
+
+4.5
+0.5
+
+6.0
+0.8
+
+7.7
+0.9
+
+6.7
+0.8
+
+4.2
+0.5
+
+3.9
+0.5
+
+3.4
+0.4
+
+3.9
+0.5
+
+7.2
+1.0
+
+4.6
+0.6
+
+4.7
+0.7
+
+60.9
+60.9
+
+59.6
+61.8
+
+58.5
+62.4
+
+57.3
+63.2
+
+56.1
+64.1
+
+55.0
+64.9
+
+0.5
+5.7
+3.3
+...
+2.4
+-2.4
+-0.2
+
+1.3
+5.8
+2.7
+...
+3.1
+-2.5
+-1.1
+
+2.5
+6.1
+3.4
+...
+2.8
+2.5
+-1.1
+
+2.5
+6.6
+3.8
+...
+2.8
+2.5
+-1.0
+
+2.5
+6.7
+3.9
+...
+2.8
+2.5
+-0.9
+
+2.5
+6.8
+3.9
+...
+2.9
+2.4
+-0.8
+
+Scenario with key variables at their historical averages 7/
+Scenario with no policy change (constant primary balance) in 2012-2017
+Key Macroeconomic and Fiscal Assumptions Underlying Baseline
+Real GDP growth (in percent)
+Average nominal interest rate on public debt (in percent) 8/
+Average real interest rate (nominal rate minus change in GDP deflator, in percent)
+Nominal appreciation (increase in US dollar value of local currency, in percent)
+Inflation rate (GDP deflator, in percent)
+Growth of real primary spending (deflated by GDP deflator, in percent)
+Primary deficit
+
+5.4
+5.3
+3.3
+10.0
+2.0
+10.1
+0.5
+
+5.9
+5.1
+1.5
+13.8
+3.6
+9.4
+1.4
+
+7.5
+6.1
+1.4
+-6.2
+4.7
+15.5
+2.7
+
+3.3
+6.1
+3.8
+-7.9
+2.3
+6.2
+4.3
+
+3.5
+6.1
+2.2
+-7.9
+3.8
+-10.3
+0.4
+
+3.0
+5.7
+2.3
+-3.3
+3.5
+-0.1
+0.3
+
+1/ Indicate coverage of public sector, e.g., general government or nonfinancial public sector. Also whether net or gross debt is used.
+2/ Derived as [(r - (1+g - g + (1+r]/(1+g++g)) times previous period debt ratio, with r = interest rate;  = growth rate of GDP deflator; g = real GDP growth rate;  = share of foreign-currency
+denominated debt; and  = nominal exchange rate depreciation (measured by increase in local currency value of U.S. dollar).
+3/ The real interest rate contribution is derived from the denominator in footnote 2/ as r - π (1+g) and the real growth contribution as -g.
+4/ The exchange rate contribution is derived from the numerator in footnote 2/ as (1+r).
+5/ For projections, this line includes exchange rate changes.
+6/ Defined as public sector deficit, plus amortization of medium and long-term public sector debt, plus short-term debt at end of previous period.
+7/ The key variables include real GDP growth; real interest rate; and primary balance in percent of GDP.
+8/ Derived as nominal interest expenditure divided by previous period debt stock.
+9/ Assumes that key variables (real GDP growth, real interest rate, and other identified debt-creating flows) remain at the level of the last projection year.
+
+-2.1
+1.1
+
+ALBANIA
+
+Figure 1. Albania: Public Debt Sustainability: Bound Tests 1/ 2/
+(Public debt in percent of GDP)
+Interest rate shock (in percent)
+
+Baseline and historical scenarios
+80
+
+8
+
+80
+
+8
+
+70
+
+Baseline
+
+60
+
+60
+
+40
+
+7
+
+55
+
+6
+
+50
+
+6
+
+40
+
+5
+
+30
+
+20
+
+4
+
+10
+2009
+
+2011
+
+2013
+
+3
+2017
+
+2015
+
+2009
+
+2011
+
+2013
+
+65
+
+60
+
+No policy change 65
+64
+PB shock
+
+70
+
+60
+
+60
+
+Baseline
+
+Baseline 60
+
+50
+
+40
+
+40
+
+Baseline:
+
+1.0
+
+30
+
+Scenario:
+
+0.3
+
+1.5
+
+20
+
+Historical:
+
+-1.0
+
+5.0
+
+10
+
+30
+
+10
+0
+2007
+
+2009
+
+2011
+
+Baseline:
+
+2.3
+
+Scenario:
+Historical:
+2013
+
+2017
+
+80
+
+Growth
+shock
+
+20
+
+2015
+
+Primary balance shock (in percent of GDP) and
+no policy change scenario (constant primary
+balance)
+
+80
+
+50
+
+3.5
+5.1
+
+Historical: 0.7
+
+0
+2007
+
+Growth shock (in percent per year)
+
+70
+
+Baseline:
+Scenario:
+
+60
+
+10
+
+4
+
+0
+2007
+
+Baseline
+
+30
+
+5
+
+20
+
+65
+
+60
+
+7
+
+Historical
+Gross financing need
+under baseline
+(right scale)
+
+50
+
+i-rate
+shock
+
+70
+
+2015
+
+0
+
+2017
+
+Combined shock 3/
+
+2007
+
+2009
+
+2011
+
+2013
+
+2015
+
+2017
+
+Real depreciation and contingent liabilities shocks 4/
+
+80
+
+100
+
+75
+
+95
+
+Combined
+shock
+
+70
+
+90
+66
+
+85
+
+30 %
+depreciation
+
+80
+
+65
+
+75
+
+60
+Baseline
+
+55
+
+60
+
+73
+
+70
+contingent
+liabilities
+shock
+
+65
+60
+
+50
+
+71
+Baseline
+
+55
+
+60
+
+50
+
+45
+
+45
+40
+2007
+
+2009
+
+2011
+
+2013
+
+2015
+
+2017
+
+40
+2007
+
+2009
+
+2011
+
+2013
+
+2015
+
+2017
+
+Sources: International Monetary Fund, country desk data, and staff estimates.
+1/ Shaded areas represent actual data. Individual shocks are permanent one-half standard deviation shocks.
+Figures in the boxes represent average projections for the respective variables in the baseline and scenario being
+presented. Ten-year historical average for the variable is also shown.
+2/ For historical scenarios, the historical averages are calculated over the ten-year period, and the information is
+used to project debt dynamics five years ahead.
+3/ Permanent 1/4 standard deviation shocks applied to real interest rate, growth rate, and primary balance.
+4/ One-time real depreciation of 30 percent and 10 percent of GDP shock to contingent liabilities occur in 2012
+with real depreciation defined as nominal depreciation (measured by percentage fall in dollar value of local
+currency) minus domestic inflation (based on GDP deflator).
+
+INTERNATIONAL MONETARY FUND
+
+39
+
+INTERNATIONAL MONETARY FUND
+
+ALBANIA
+
+40
+Table 2. Albania: External Debt Sustainability Framework, 2007-2017
+(In percent of GDP, unless otherwise indicated)
+2007
+
+2008
+
+Actual
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+Projections
+2015
+2016
+
+2017
+
+Baseline: External debt
+
+25.1
+
+27.5
+
+33.6
+
+33.4
+
+33.1
+
+36.4
+
+38.4
+
+37.8
+
+36.8
+
+35.4
+
+33.4
+
+Change in external debt
+Identified external debt-creating flows (4+8+9)
+Current account deficit, excluding interest payments
+Deficit in balance of goods and services
+Exports
+Imports
+Net non-debt creating capital inflows (negative)
+Automatic debt dynamics 1/
+Contribution from nominal interest rate
+Contribution from real GDP growth
+Contribution from price and exchange rate changes 2/
+Residual, incl. change in gross foreign assets (2-3) 3/
+
+-0.1
+0.3
+9.5
+26.8
+28.2
+55.0
+-6.1
+-3.1
+0.9
+-1.2
+-2.7
+-0.4
+
+2.4
+4.0
+14.4
+26.6
+29.3
+55.9
+-6.7
+-3.7
+0.7
+-1.6
+-2.9
+-1.6
+
+6.1
+8.2
+13.3
+24.6
+28.7
+53.2
+-7.7
+2.6
+0.8
+-1.0
+2.9
+-2.1
+
+-0.2
+2.9
+10.6
+20.7
+32.6
+53.3
+-9.2
+1.6
+0.8
+-1.2
+2.0
+-3.1
+
+-0.3
+1.6
+11.1
+22.6
+33.8
+56.4
+-7.7
+-1.8
+0.9
+-0.9
+-1.9
+-1.9
+
+3.3
+3.5
+9.1
+18.7
+33.9
+52.5
+-6.4
+0.9
+1.0
+-0.2
+...
+-0.2
+
+2.0
+2.8
+8.3
+17.7
+34.8
+52.5
+-6.1
+0.6
+1.1
+-0.5
+...
+-0.8
+
+-0.6
+2.0
+7.7
+17.3
+35.2
+52.5
+-5.9
+0.2
+1.1
+-0.9
+...
+-2.7
+
+-1.0
+1.5
+7.1
+16.9
+35.4
+52.4
+-5.9
+0.3
+1.2
+-0.9
+...
+-2.5
+
+-1.4
+0.4
+6.2
+16.2
+35.7
+51.8
+-5.8
+0.0
+0.9
+-0.9
+...
+-1.8
+
+-2.0
+-0.8
+5.0
+15.2
+36.1
+51.3
+-5.7
+-0.1
+0.8
+-0.8
+...
+-1.2
+
+External debt-to-exports ratio (in percent)
+
+88.9
+
+93.6
+
+117.2
+
+102.4
+
+97.8
+
+107.5
+
+110.4
+
+107.5
+
+103.8
+
+99.2
+
+92.4
+
+Gross external financing need (in billions of US dollars) 4/
+in percent of GDP
+
+1.7
+15.6
+
+3.1
+23.9
+
+2.8
+22.9
+
+2.0
+17.2
+
+1.8
+13.5
+
+1.6
+12.5
+
+1.7
+13.5
+
+1.7
+13.4
+
+2.1
+15.9
+
+1.7
+11.9
+
+1.5
+10.4
+
+36.4
+
+35.0
+
+33.1
+
+31.6
+
+30.8
+
+30.6
+
+0.5
+-4.8
+3.0
+-4.2
+-10.9
+-9.1
+6.4
+
+1.3
+-0.9
+3.0
+3.2
+0.3
+-8.3
+6.1
+
+2.5
+1.5
+3.1
+5.2
+4.1
+-7.7
+5.9
+
+2.5
+1.5
+3.3
+4.8
+3.8
+-7.1
+5.9
+
+2.5
+1.7
+2.5
+4.9
+3.2
+-6.2
+5.8
+
+2.5
+1.9
+2.3
+5.7
+3.4
+-5.0
+5.7
+
+Scenario with key variables at their historical averages 5/
+
+Debt-stabilizing
+non-interest
+current account 6/
+-6.4
+
+-8.3
+
+Key Macroeconomic Assumptions Underlying Baseline
+Real GDP growth (in percent)
+GDP deflator in US dollars (change in percent)
+Nominal external interest rate (in percent)
+Growth of exports (US dollar terms, in percent)
+Growth of imports (US dollar terms, in percent)
+Current account balance, excluding interest payments
+Net non-debt creating capital inflows
+
+5.9
+12.2
+4.3
+31.6
+31.0
+-9.5
+6.1
+
+7.5
+13.0
+3.6
+26.5
+23.6
+-14.4
+6.7
+
+3.3
+-9.4
+2.6
+-8.6
+-10.9
+-13.3
+7.7
+
+3.5
+-5.6
+2.3
+11.2
+-2.2
+-10.6
+9.2
+
+3.0
+5.9
+3.1
+13.1
+15.5
+-11.1
+7.7
+
+1/ Derived as [r - g -  (1+g) +  (1+r)]/(1+g+ +g) times previous period debt stock, with r = nominal effective interest rate on external debt; = change in domestic GDP deflator in US dollar terms, g = real GDP growth rate,
+ = nominal appreciation (increase in dollar value of domestic currency), and  = share of domestic-currency denominated debt in total external debt.
+2/ The contribution from price and exchange rate changes is defined as [- (1+g (1+r1+g+ +g ) times previous period debt stock. increases with an appreciating domestic currency (> 0) and rising inflation (based on GDP deflator).
+3/ For projection, line includes the impact of price and exchange rate changes.
+4/ Defined as current account deficit, plus amortization on medium- and long-term debt, plus short-term debt at end of previous period.
+5/ The key variables include real GDP growth; nominal interest rate; dollar deflator growth; and both non-interest current account and non-debt inflows in percent of GDP.
+6/ Long-run, constant balance that stabilizes the debt ratio assuming that key variables (real GDP growth, nominal interest rate, dollar deflator growth, and non-debt inflows in percent of GDP) remain at their levels
+of the last projection year.
+
+ALBANIA
+
+Figure 2. Albania: External Debt Sustainability: Bound Tests 1/ 2/
+(External debt in percent of GDP)
+Interest rate shock (in percent)
+
+Baseline and historical scenarios
+60
+
+Gross financing need
+under baseline
+(right scale)
+
+50
+
+28
+
+60
+
+24
+
+50
+
+20
+
+40
+
+33 16
+
+30
+
+31
+
+12
+
+Baseline
+
+20
+
+8
+
+Historical
+
+10
+
+4
+
+0
+2007
+
+2009
+
+2011
+
+2013
+
+2015
+
+0
+2017
+
+i-rate
+shock
+
+40
+
+34
+Baseline
+
+30
+20
+10
+0
+2007
+
+2009
+
+2011
+
+33
+
+Baseline:
+
+2.9
+
+Scenario:
+
+3.3
+
+Historical:
+
+2.6
+
+2013
+
+2015
+
+2017
+
+Non-interest current account shock
+(in percent of GDP)
+
+Growth shock (in percent per year)
+60
+
+60
+50
+
+50
+
+Growth
+shock
+
+40
+
+CA shock
+34
+
+Baseline
+
+30
+20
+10
+0
+2007
+
+2009
+
+2011
+
+33
+
+Baseline:
+
+2.3
+
+Scenario:
+
+1.5
+
+Historical:
+
+5.0
+
+2013
+
+2015
+
+Baseline
+
+30
+20
+
+0
+2007
+
+Combined shock 3/
+
+33
+
+Baseline:
+
+-6.8
+
+Scenario:
+
+-8.8
+
+Historical:
+
+10
+
+2017
+
+43
+
+40
+
+2009
+
+2011
+
+2013
+
+2015
+
+-8.4
+
+2017
+
+Real depreciation shock 4/
+60
+
+60
+50
+
+Combine
+d shock
+
+40
+
+Baseline
+
+30
+
+50
+
+33
+
+40
+
+20
+
+10
+
+10
+
+2009
+
+2011
+
+2013
+
+2015
+
+2017
+
+Baseline
+
+30
+
+20
+
+0
+2007
+
+30 %
+depreciation
+
+39
+
+0
+2007
+
+2009
+
+2011
+
+2013
+
+2015
+
+48
+33
+
+2017
+
+Sources: International Monetary Fund, Country desk data, and staff estimates.
+1/ Shaded areas represent actual data. Individual shocks are permanent one-half standard deviation
+shocks. Figures in the boxes represent average projections for the respective variables in the
+baseline and scenario being presented. Ten-year historical average for the variable is also shown.
+2/ For historical scenarios, the historical averages are calculated over the ten-year period, and the
+information is used to project debt dynamics five years ahead.
+3/ Permanent 1/4 standard deviation shocks applied to real interest rate, growth rate, and current
+account balance.
+4/ One-time real depreciation of 30 percent occurs.
+
+INTERNATIONAL MONETARY FUND
+
+41
+
+ALBANIA
+
+Appendix II. Albania: Fiscal Deficits, Rollover Risk, and
+Banking System Stability
+If left unaddressed, Albania’s high public debt could pose significant challenges in the
+current environment. Rollover risk could worsen because of large financing needs,
+which banks may be unable to cover, and inward shocks to the domestic debt market.
+These problems could also have feedback effects on banking stability.
+1. Albania’s key challenge is to put its public debt on a downward trajectory. Under
+the baseline scenario, even if the authorities maintain a small primary fiscal surplus over the
+medium term, the debt burden will not improve. Instead, it will hover around the statutory ceiling
+of 60 percent of GDP by 2017, because of rising interest spending.
+Primary Fiscal Balance and Public Debt, 2005-17
+
+Public Finances, 2005-17
+
+(Percent of GDP)
+2
+
+70
+
+1
+
+60
+
+(Percent of GDP)
+
+40
+
+5
+
+35
+
+4
+
+30
+
+4
+
+50
+
+0
+
+40
+
+-1
+
+30
+
+-2
+
+20
+
+-3
+
+10
+
+1
+
+10
+
+-4
+
+5
+
+1
+
+0
+
+-5
+
+0
+
+2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017
+Domestic debt
+External debt
+
+3
+
+25
+
+3
+
+20
+
+2
+
+15
+
+2
+
+0
+2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017
+Revenue
+
+Expenditure
+
+Interest expenditure (RHS)
+
+Source: IMF staff estimates and projections.
+
+Primary Fiscal Balance (RHS)
+Source: IMF staff estimates and projections.
+
+2. With an adverse external
+environment, the government will have to rely increasingly on raising money domestically.
+The prospects for external financing are not rosy today—Albania’s five-year Eurobond spread
+was about 665 basis points at end-September 2012—and are likely to continue to be relatively
+unfavorable over the near term, till eurozone markets return to stability. The government would
+therefore continue to rely on the more expensive, albeit safer domestic financing over the
+medium term, not only to finance the deficit, but also to retire maturing external debt. As a
+result, the domestic debt stock could rise from about 33 percent of GDP in 2011 to about
+38 percent by 2017 (with domestic debt accounting for 62 percent of total).
+3. Most of Albania’s domestic public debt is short term, and largely held by
+commercial banks. About 56 percent of the 2011 debt stock was of 12-month maturity or less.
+Longer term debt is primarily in the form of 5-year and 2-year notes. Almost the entire stock of
+domestic debt is in local currency. Commercial banks are by far the largest holders—with the
+nonbanking system accounting for only about 15 percent of the debt stock.
+
+42
+
+INTERNATIONAL MONETARY FUND
+
+ALBANIA
+
+Public Domestic Debt by Creditor, 2011
+
+Public Domestic Debt by Instrument, 2011
+
+(Percent of total)
+
+3.7
+
+12.9 14.3
+
+69.1
+Central bank
+
+Commercial banks
+
+Nonbanks
+
+Individuals
+
+Source: Albanian authorities and IMF staff estimates.
+
+(Percent of total)
+
+50
+45
+40
+35
+30
+25
+20
+15
+10
+5
+0
+3 mo
+
+6 mo
+
+9 mo
+
+1 yr
+
+2 yr
+
+3 yr
+
+5 yr
+
+7 yr
+
+Source: Albanian authorities and IMF staff estimates.
+
+4. The government’s ability to continue to attract investors in the future is subject to
+considerable risks. There has already been a significant shift in bank balance sheets away from
+public debt over the past five years—the share of government securities in total assets has fallen
+by 10 percentage points over the period. Going forward, the projected baseline increase in public
+domestic debt over the medium term poses significant rollover risks mainly because of:
+
+
+
+Fiscal Financing Needs Net of Fiscal Buffer, Jun-Dec 2012
+(Percent of GDP)
+
+25
+20
+15
+10
+5
+0
+-5
+
+Serbia
+
+Albania
+
+Turkey
+
+Belarus
+
+Ukraine
+
+Macedonia
+
+Poland
+
+Hungary
+
+Croatia
+
+Romania
+
+Moldova
+
+Bosnia
+
+Czech Rep
+
+Kosovo
+
+Montenegro
+
+Lithuania
+
+Latvia
+
+Slovak Rep
+
+Bulgaria
+
+-10
+
+Estonia
+
+Inward spillover. Given the
+predominance of foreign-owned banks
+in Albania’s banking system (about 90
+percent of assets), unexpected stress in
+parent European banks could
+potentially spill over into Albanian
+subsidiaries, in turn putting at risk the
+government’s ability to rollover and
+issue new public debt. The recent
+offloading of government paper by a
+major foreign bank subsidiary is a case
+in point1
+
+Slovenia
+
+
+
+Source: IMF staff estimations and projections.
+1/ Full year figures for Bosnia, Estonia, and Turkey.
+
+Changes in perceived riskiness of government securities. If public debt were to increase—
+above the publicly known statutory debt limit—potential creditors might reassess the risk
+profile of government securities. An explicit downgrade may force creditor banks to
+reallocate their securities portfolios—recently, banks appear to be moving away from
+government securities, driven by their internal risk models.
+
+1
+
+Following the decision of the parent bank (based in the Euro area) to reduce its risk-weighted assets—
+ostensibly to meet more stringent capital requirements at home—the subsidiary, which is the biggest bank in
+Albania with about one third of domestic public debt, reduced exposure to Albanian government paper by
+150 million euro (about 5 percent of public securities maturing in 2012). In the event, another bank picked up
+most of the offloaded securities.
+INTERNATIONAL MONETARY FUND
+
+43
+
+ALBANIA
+
+
+
+
+
+Profitability pressures. Because of the economic downturn and more stringent liquidity
+requirements, banks have shrunk their loan portfolios, which in turn has impacted their
+profitability. To boost profitability, banks may in the future decide to gradually reduce their
+exposure to the relatively loweryielding government securities in
+Bank Profitability and Loans-to-Assets Ratio, 2007-12
+(Percent)
+2
+50
+25
+search of higher returns.
+Financial innovation. Over the long
+term, the introduction of new
+savings schemes is likely to lead to
+a shift in savings away from
+traditional bank deposits. As a
+result, the availability and reliability
+of government funding could suffer.
+
+ROE
+
+20
+
+Loans/TA
+
+45
+
+15
+10
+
+40
+
+5
+35
+
+0
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+Source: Bank of Albania and IMF staff estimates.
+
+1.5
+
+0
+
+Percent
+
+Percent of GDP
+
+5. The government’s projected financing needs over the medium term will likely be
+too large to be covered by commercial banks. An examination of bank balance sheets
+suggests that if the stock of government securities continues to increase by the annual historical
+average of 5 percent, banks would be able
+Projected Net Government Securities Purchases by Banks and
+Budget Financing Need, 2013-17
+to pick up only 60 percent of the issuances
+3.0
+60
+needed to meet financing needs over the
+2.5
+40
+medium term.
+2.0
+20
+1.0
+-20
+6. Uncertainty about the
+0.5
+-40
+government’s ability to finance its
+0.0
+-60
+budget deficit could exacerbate
+2013
+2014
+2015
+2016
+2017
+-0.5
+-80
+pressures in the domestic debt market,
+-1.0
+-100
+Govt Secur Purchases
+Fin Need
+and affect banking system stability. Given
+Fin Shortfall
+Fin shortfall, % of total (RHS)
+the expected shortfall in financing,
+Source: IMF staff estimates and projections.
+government security yields could rise,
+putting further pressure on the fiscal deficit and public debt. If left unaddressed, investor
+nervousness could ultimately lead to an adverse shift in perceptions. A disorderly fiscal
+adjustment could then trigger bondholder losses and banking system instability.
+
+2
+
+The average bank lending rate was 12.4 percent in 2011, compared with an average of 8.0 percent return on
+government bonds, and 6.5 percent on treasury bills.
+
+44
+
+INTERNATIONAL MONETARY FUND
+
+ALBANIA
+
+7. Cross-country experience confirms the potential negative effects of high public
+debt on banking system stability.3 Foremost, higher public debt is associated with lower return
+on assets and equity for the banking system. This association may be driven by higher interest
+rates, which hamper borrowers’ ability to stay current on loans. Cross country evidence also
+shows that high public debt is associated with low provisioning and capitalization.
+
+Bank Return on Assets and Public Debt, 2006-11
+
+Bank Return on Equity and Public Debt, 2006-11
+
+40
+
+3
+
+30
+
+2
+
+20
+ROE (%)
+
+ROA (%)
+
+4
+
+1
+
+10
+0
+
+0
+0
+
+50
+
+100
+
+150
+
+200
+
+25
+
+-1
+-2
+
+0
+
+-20
+
+Public debt (% of GDP)
+
+Source: IFS and IMF staff estimates.
+
+100
+
+150
+
+200
+
+Public debt (% of GDP)
+Source: IFS and IMF staff estimates.
+
+Bank Capital and Public Debt, 2006-11
+
+25
+
+50
+
+-10
+
+Bank Provisions and Public Debt, 2006-11
+
+200
+180
+
+Bank Provisions/NPL (%)
+
+Capital/TA (%)
+
+20
+15
+10
+5
+
+160
+140
+120
+100
+80
+60
+40
+20
+
+0
+
+0
+
+0
+
+50
+
+100
+
+150
+
+Public debt (% of GDP)
+Source: IFS and IMF staff estimates.
+
+3
+
+200
+
+250
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+Public debt (% of GDP)
+Source: IFS and IMF staff estimates.
+
+The analysis uses data from 89 countries from all regions, excluding sub-Saharan Africa.
+INTERNATIONAL MONETARY FUND
+
+45
+
+ALBANIA
+
+Appendix III. Inflation Targeting in Albania
+1. Albania’s record on inflation since the move to inflation targeting has been
+impressive. Inflation has remained within the central bank’s target range of 2–4 percent for most
+of the period since 2006, a performance that compares favorably to other countries in the region,
+including other inflation targeters such as Poland, the Czech Republic, Serbia and Romania
+(Figure 1).
+2. The inflation targeting framework has evolved gradually since the shift to inflation
+targets in 2000. The central bank has moved from quantitative targets for monetary aggregates
+toward an interest-rate based monetary policy, while gradually eliminating direct credit to the
+government and building the analytical capacity needed for a full-fledged inflation targeting
+regime. The monetary policy stance under the current framework is signaled by the central
+bank’s reference rate, with open market operations used to align short-term interbank rates with
+that rate. The annual growth rate of broad money (M3) is monitored as an intermediate target,
+along with a floor for international reserves (4 months’ import cover). While the target range
+applies to headline inflation, the central bank also closely monitors core inflation; food accounts
+for nearly 40 percent of the basket, making headline inflation highly sensitive to supply shocks.
+3. As a small, open and highly euroized economy, inflation in Albania remains closely
+linked to exchange rate movements. Half of bank deposits and two-thirds of lending are in
+foreign currency, while imports of goods and services amount to roughly 55 percent of GDP,
+ensuring that changes in exchange rates have an immediate balance sheet effect and pass
+through relatively quickly into domestic prices. In addition, the effect of interest rates on
+domestic demand through the credit channel remains relatively modest (bank loans amounts to
+only 40 percent of GDP, well below regional comparators), while the high level of liquidity in the
+banking system limits the scope for a significant impact on lending activity through changes in
+domestic interest rates.
+4. As a result, interest rate policy works primarily through the exchange rate. While
+the credit channel continues to strengthen as the level of financial intermediation rises with the
+development of the financial system, at the moment, the most significant transmission of interest
+rate changes is through their impact of the exchange rate. Interest rate cuts have largely followed
+the course set by the ECB over the past two years, maintaining a sufficient differential to stabilize
+the exchange rate against the euro after the depreciation in the wake of the financial crisis in
+2009, and keep inflation close to eurozone levels.
+
+46
+
+INTERNATIONAL MONETARY FUND
+
+ALBANIA
+
+Figure 1. Albania: Recent Inflation and Monetary Developments
+5
+
+12
+Total CPI, y/y % chg
+
+10
+
+4
+
+Food
+
+8
+6
+
+3
+
+4
+
+2
+
+2
+
+1
+
+0
+
+CPI, y/y % chg
+
+-2
+
+target range
+
+-4
+
+0
+
+Jan-06
+
+Jan-07
+
+Jan-08
+
+Jan-09
+
+Jan-10
+
+Jan-11
+
+Jan-12
+
+Jan-06
+
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+
+Jan-09
+
+Jan-10
+
+Jan-11
+
+Jan-12
+
+Standard deviation of annual inflation, 2006-2011
+3.5
+3.0
+2.5
+2.0
+1.5
+1.0
+0.5
+
+CZE HRV ALB
+
+POL MKD BIH MNE HUN ROM SRB
+
+0.0
+ALB ROM POL HUN HRV CZE
+
+Credit to the private sector, end-2011
+(percent of GDP)
+
+SRB MNE BIH MKD
+
+Source: International Financial Statistics and IMF staff calculations
+
+Source: International Financial Statistics and IMF staff calculations
+
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+
+Jan-08
+
+Source: Albanian authorities and IMF staff calculations
+
+Source: Albanian authorities and IMF staff calculations
+
+Average annual inflation, 2006-2011
+(percent)
+
+Jan-07
+
+ECB rate (left)
+
+BoA rate (left)
+
+Lek/Euro (right)
+
+7
+
+90
+
+6
+
+100
+
+5
+
+110
+
+4
+
+120
+
+3
+
+130
+
+2
+
+140
+
+1
+
+150
+
+0
+
+ALB ROM MKD MNE SRB BIH POL CZE HRV HUN
+Source: International Financial Statistics and IMF staff calculations
+
+160
+
+Jan-07
+
+Jan-08
+
+Jan-09
+
+Jan-10
+
+Jan-11
+
+Jan-12
+
+Source: International Financial Statistics and IMF staff calculations
+
+INTERNATIONAL MONETARY FUND
+
+47
+
+ALBANIA
+STAFF REPORT FOR THE 2012 ARTICLE IV
+November 16, 2012
+
+CONSULTATION—INFORMATIONAL ANNEX
+Prepared By
+
+European Department
+(in consultation with other departments)
+
+CONTENTS
+I. FUND RELATIONS ______________________________________________________________________2
+II. WORLD BANK RELATIONS ____________________________________________________________6
+III. STATISTICAL ISSUES __________________________________________________________________8
+
+ALBANIA
+
+I. FUND RELATIONS
+(As of September 30, 2012)
+I.
+
+Membership Status: Joined: 10/15/1991; Article XIV
+
+II.
+
+General Resources Account:
+Quota
+Fund holdings of currency
+Reserve tranche position
+
+SDR Million
+60.00
+60.93
+6.18
+
+Percent Quota
+100.00
+101.55
+10.30
+
+III.
+
+SDR Department:
+Net cumulative allocation
+Holdings
+
+SDR Million
+46.45
+46.96
+
+Percent Allocation
+100.00
+101.11
+
+IV.
+
+Outstanding Purchases and Loans:
+Extended Arrangement
+ECF Arrangements
+
+SDR Million
+7.10
+16.19
+
+Percent Quota
+11.84
+26.99
+
+V.
+
+Financial Arrangements:
+Approval
+Date
+Type
+1
+2/01/2006
+ECF
+EFF
+2/01/2006
+1
+6/21/2002
+ECF
+
+1
+
+Amount Approved
+(SDR Million)
+8.52
+8.52
+28.00
+
+Amount Drawn
+(SDR Million)
+8.52
+8.52
+28.00
+
+Formerly PRGF.
+
+VI.
+
+2
+
+Expiration
+Date
+1/31/2009
+1/31/2009
+11/20/2005
+
+Projected Payments to the Fund (Expectation Basis)
+(SDR Million; based on existing use of resources and present holdings of SDRs):
+Forthcoming
+2012
+2013
+2014
+2015
+Principal
+0.10
+6.81
+5.80
+4.32
+Charges/Intere
+0.02
+0.07
+0.07
+0.05
+st
+Total
+0.12
+6.88
+5.88
+4.37
+
+INTERNATIONAL MONETARY FUND
+
+2016
+2.90
+0.03
+2.93
+
+ALBANIA
+
+VII.
+
+Safeguards Assessments:
+
+The latest safeguards assessment of the Bank of Albania, completed on July 14, 2006, found that
+some weaknesses existed in the central bank's safeguards framework. The main vulnerabilities
+identified by the assessment concerned the quality of the external audit, poor oversight of the
+external and internal audit functions and the system of internal controls, and certain weaknesses
+in the controls over the Fund data reporting process. Subsequent to the assessment completion,
+external audit quality has been improved by adding cosignature from the larger office of the
+audit firm, and the data reporting process was modified as recommended. The authorities are
+working to address remaining vulnerabilities in the areas of governance oversight and internal
+audit function.
+VIII. Exchange Rate Arrangement:
+On July 1, 1992 the Albanian authorities adopted a floating exchange rate system. The de jure
+exchange rate system is classified as free floating, but the de facto exchange rate arrangement is
+floating, with the monetary authorities occasionally intervening in the foreign exchange market
+in order to avoid excessive and short-term disruptions in the functioning of the market and to
+accumulate reserves. The country still avails itself of the transitional arrangements under Article
+XIV and maintains an exchange restriction in the form of outstanding debit balances on
+inoperative bilateral payment agreements, which were in place before Albania became a Fund
+member. These relate primarily to debt in nonconvertible and formerly nonconvertible
+currencies. Staff is currently assessing Albania’s exchange system for potential exchange
+restrictions and multiple currency practices. The exchange rate stood at lek 109.57 per U.S. dollar
+on November 16, 2012.
+IX.
+
+Article IV Consultation:
+
+The conclusion of the 2011 Article IV consultation took place in September 2011 (IMF Country
+Report No. 11/313).
+X.
+
+FSAP Participation and ROSCs:
+
+An FSAP was carried out in early 2005. The Financial System Stability Assessment was considered
+by the Executive Board on August 1, 2005 concurrently with the staff report for the sixth review
+of the PRGF-supported program and financing assurances review. An action plan for
+implementing the FSAP recommendations has been prepared in consultation with the IMF. A
+data module ROSC was published on the Fund’s website in June 2000. A fiscal ROSC was
+completed in June 2003. Albania participates in the General Data Dissemination System (GDDS),
+and a complete set of GDDS metadata for the external, financial, fiscal, and real sectors, as well as
+for the socio-demographic indicators is posted on the Fund’s Dissemination Standards Bulletin
+Board (http://dsbb.imf.org). A data module ROSC reassessment using the Data Quality
+Assessment Framework was conducted in March 2006. A ROSC for assessing the Financial Action
+
+INTERNATIONAL MONETARY FUND
+
+3
+
+ALBANIA
+
+Task Force (FATF) recommendations for Anti-Money Laundering (AML) and Special
+Recommendations on Combating the Financing of Terrorism (CFT) was conducted in November
+2010 and the report was published in July 2011.
+
+XI. Technical Assistance:
+The Fund, other multilateral organizations and donors have provided extensive assistance for
+institutional development in Albania. The Fund has sent several technical assistance missions to
+Albania every year since 1991. The extent and focus of Fund TA since FY 2008 is briefly listed
+below.
+Table 1. Albania—Technical Assistance since FY2008
+Department
+
+Purpose
+
+Date
+
+FAD
+
+Cash Management and Public Finance
+Strategy
+Cash Forecasting and Management
+Revenue Administration
+Advice on IT Strategy and Business
+Process Reengineering
+Tax Administration
+
+May 2008
+
+Capacity Building in Taxpayer
+Compliance and Information
+Technology
+LEGAL
+
+MCM
+
+Review of the Albanian AML/CFT law
+TA on Repurchase Transactions Law
+Banking Seminar for Judges and Bank
+Regulators
+TA in Central Banking Law
+TA on Payments Systems
+ROSC on AML and CFT
+Monetary Policy
+Management
+Credit Registry
+Modeling and Forecasting
+Monetary Policy Strategy for Small
+Countries
+
+4
+
+INTERNATIONAL MONETARY FUND
+
+October 2012
+October/November 2008
+April 2009; March 2010
+April 2009; March 2010, April
+2011
+November 2011
+
+August 2007
+March 2008
+November 2008
+April 2009
+May 2009
+Nov 2010
+25 visits between June 2007
+and April 2010;
+June, July 2007
+October 2007; January 2008
+October 2007; March 2008
+December 2007;
+
+ALBANIA
+
+Department
+
+(together with LEGAL)
+
+Purpose
+Banking Supervision
+Delivery vs. Payment
+Central Bank Law
+Treasury Bill Registry
+Modeling of Monetary Policy
+
+Stress testing, liquidity testing
+
+Department
+STATISTICS
+
+Contingency planning and Crisis
+Management
+Purpose
+Balance of Payment Statistics
+GDDS: Consultation
+STE: Consumer Prices/Producer Price
+LTE: Government Finance Statistics
+STE National Accounts Statistics
+SDDS: Assessment
+National Accounts Statistics
+LTE: National Account Statistics
+
+Date
+13 visits between February
+2008 and March 2010;
+April/May 2008
+April 2009: February 2010
+November 2009
+December 2009; March, April,
+September 2010, January
+2011, October 2011
+April 2011, July 2011,
+September 2011
+September 2011
+Date
+September-October 2007
+October 2007
+November 2007
+February 2008
+5 visits between February 2008
+and November 2009
+April, July 2010
+March 2011
+June 2012
+
+XII. Resident Representative
+A Fund resident representative was posted in Tirana from April 1993 to August 2009.
+Ms. Ann-Margret Westin filled the position from August 2005 to August 2009.
+
+INTERNATIONAL MONETARY FUND
+
+5
+
+ALBANIA
+
+II. WORLD BANK RELATIONS
+Albania: Bank-Fund Joint Management Action Plan Matrix
+(As of October 2012)
+
+Title
+Product
+A. Mutual information on relevant work programs
+The World Bank
+1.
+Financial Stability & Modernization
+work program in
+Loan, September
+the next 12
+2.
+Land Administration & Management
+months
+Project (LAMP) , Implementation Support
+Mission for Component a, Security of Tenure
+& Registration of Immovable Property Rights
+3.
+IDF Grant Strengthening Aarhus
+Convention Implementation Project,
+4.
+Education Excellence & Equity Project,
+5.
+Albania Improved Natural Resources
+Management
+6.
+Social Assistance Modernization
+Project, October
+7.
+Disaster Risk Mitigation & Adaptation
+Project
+
+Provisional Timing
+of missions
+
+Expected
+Delivery date
+
+September 24–
+October 5, 2012
+October 1–5, 2012
+
+Ongoing
+Ongoing
+
+October 8–9, 2012
+October 3–12, 2012
+October 15–19,
+2012
+October 22–26,
+2012
+October 8–15, 2012
+
+Ongoing
+Ongoing
+Ongoing
+Ongoing
+Ongoing
+
+The Fund work
+program in the
+next 12 months
+
+Surveillance:
+2013 Article IV Consultation
+
+September 2013
+
+Staff visit for review of recent developments
+
+April 2013
+
+FSAP, 2nd half of 2013
+Technical assistance:
+Monetary and Financial sector
+Strengthening bank supervision
+Monetary policy modeling
+Government foreign exchange payments
+Internal auditing
+Stress testing
+Contingency planning
+
+6
+
+INTERNATIONAL MONETARY FUND
+
+3 missions
+1 missions
+2 missions
+1 missions
+1 missions
+1 missions
+
+Board
+meeting in
+December
+2013
+
+Ongoing
+Ongoing
+Ongoing
+Ongoing
+Ongoing
+Ongoing
+
+ALBANIA
+
+Fiscal sector
+Strengthening Tax Compliance
+Public financial management
+
+1 mission
+1 mission
+
+Ongoing
+Ongoing
+
+Statistics
+National accounts statistics
+
+1 mission
+
+Ongoing
+
+B. Requests for work program inputs (as needed)
+Fund request to
+Growth diagnostics, assessment of
+Bank
+competitiveness, and related structural
+reforms (e.g., electricity sector)
+Fiscal governance and PEM
+Public expenditure reform needs (in particular
+civil service and pension reforms)
+Nonbank financial sector development
+Bank request to
+Periodic macro updates
+Fund
+Joint approach to advisory work on
+institutional reform at the MoF in debt
+management
+Debt Sustainability Analysis
+
+INTERNATIONAL MONETARY FUND
+
+7
+
+ALBANIA
+
+III. STATISTICAL ISSUES
+October 17, 2012
+A. Assessment of Data Adequacy for Surveillance
+General: Data provision has some shortcomings, but is broadly adequate for surveillance. The main obstacles
+are in real sector statistics.
+National Accounts: National accounts are compiled from insufficient and poor quality sources. While
+technical assistance has been provided on methodological procedures, source data still do not provide
+sufficient information to compile reliable estimates on the unobserved economy. In November 2005, the
+Institute of Statistics (INSTAT) released major revisions of the national accounts estimates for
+1996–2003 and updates for 2004, reflecting methodological improvements.
+INSTAT has benefited from technical assistance from the Fund and the European Union, mainly to address
+weaknesses in methodology, basic data sources, and coverage of the private sector. STA continued to
+provide technical assistance through peripatetic missions in 2010 and 2011. The Labor Force Survey was
+incorporated into the estimates of the unobserved economy in the annual national accounts while attempts
+were made to use the Household Budget Survey to develop a new benchmark estimate of private
+consumption. A new methodology for gross fixed capital formation based on a commodity flow approach
+was developed. Quarterly national accounts were compiled during the project and are now being published
+and revised. Due to severe resource constraints at INSTAT, the improvement in the national accounts has
+been relatively slow.
+Price statistics: Compilation generally follows international standards, and the estimation of imputed rent
+within the CPI was improved in 2003. In December 2007, INSTAT has updated the CPI weights using the
+results of a new national-level HBS conducted during the period October 2006-September 2007. PPI has
+been published only quarterly due to financial constraints. The weights were derived from the 1998 annual
+Structural Business Survey.
+Government finance statistics: GFS generally follow the Government Finance Statistics Manual 1986.
+External donor financed-projects that do not pass through the treasury system represent a weakness in
+source data. There are adequate source data to establish a GFSM 2001 presentation for Albania, but data on
+financial assets need to be compiled and further disaggregation of debt instruments is necessary to report a
+financial balance sheet of government that reconciles stocks and flows.
+
+8
+
+INTERNATIONAL MONETARY FUND
+
+ALBANIA
+
+Monetary statistics: The monetary data compilation framework conforms to the methodology
+recommended in the Monetary and Financial Statistics Manual (MFSM) 2000. The depository corporations
+survey covers the Bank of Albania (BoA) and all the other deposit-taking institutions (commercial banks and
+savings and loans associations (SLAs)). The accounts of the SLAs, with the exception of loans, are produced
+on a cash basis, which contrasts with the MFSM’s recommendations of accrual accounting. Another deviation
+from the MFSM’s methodology is that the BoA’s and commercial banks’ holdings of nontradable long-term
+securities are recorded at book value.
+External sector statistics: The Balance of payments data compiled by the BoA are methodologically sound,
+although some of the estimates, particularly for international transactions outside the banking system need
+to be refined. Problems remain in the areas of service transactions and remittances, and in the monitoring of
+financial account transactions, foreign assistance (grants from abroad to regional and local governments are
+underreported), and external debt.
+A September–October 2007 mission noted strong progress in adopting earlier recommendations but advised
+that estimation methods for transactions outside the banking system (mostly remittances and investment
+transactions by nonresident Albanians) require further improvement.
+The external debt database ensures timely and accurate reporting of external government debt (including
+commitments of state-owned enterprises). However, there have been some irregularities in the recording
+and presentation of external arrears. The collection of data on external grants is not timely, with lags of
+several months frequently encountered.
+B. Data Standards and Quality
+Albania participates in the General Data
+Dissemination System (GDDS).
+
+Data ROSC published on October 2006.
+
+INTERNATIONAL MONETARY FUND
+
+9
+
+ALBANIA
+
+Albania: Table of Common Indicators Required for Surveillance
+As of October 17, 2012
+Date of
+latest
+observation
+
+Date
+received
+
+Frequency
+of
+Data7
+
+Frequency
+of
+reporting7
+
+Frequency
+of
+publication
+
+Exchange Rates
+
+10/17/12
+
+10/17/12
+
+D
+
+D
+
+D
+
+International Reserve
+Assets and Reserve
+Liabilities of the
+Monetary
+Authorities1
+
+10/12/12
+
+10/17/12
+
+D
+
+W
+
+M
+
+Reserve/Base Money
+
+10/12/12
+
+10/17/12
+
+D and M
+
+W and M
+
+M
+
+August 12
+
+10/1/12
+
+M
+
+M
+
+M
+
+Central Bank Balance
+Sheet
+
+September
+12
+
+10/15/12
+
+M
+
+M
+
+M
+
+Consolidated
+Balance Sheet of the
+Banking System
+
+August 12
+
+10/1/12
+
+M
+
+M
+
+M
+
+Interest Rates2
+
+10/17/12
+
+10/17/12
+
+D
+
+D
+
+D
+
+Consumer Price
+Index
+
+September
+12
+
+10/10/12
+
+M
+
+M
+
+M
+
+Revenue,
+Expenditure, Balance
+and Composition of
+Financing3 – General
+Government4
+
+September
+2012
+
+10/17/12
+
+M
+
+M
+
+M
+
+Revenue,
+Expenditure, Balance
+and Composition of
+Financing3– Central
+Government
+
+September
+2012
+
+10/17/12
+
+M
+
+M
+
+M
+
+Broad Money
+
+10
+
+INTERNATIONAL MONETARY FUND
+
+7
+
+Memo Items:
+Data Quality –
+Data
+Methodological Quality –
+Soundness8
+Accuracy
+and
+Reliability9
+
+O, O , O , LO
+
+O, LO, LO,
+O, O
+
+O, LO, O, LO
+
+LO, LO,
+LO, O, O
+
+LO, O, O, O
+
+LO, O, O,
+O, O
+
+ALBANIA
+
+Frequency
+of
+Data7
+
+Frequency
+of
+reporting7
+
+Frequency
+of
+publication
+
+08/15/12
+
+Q
+
+Q
+
+A
+
+2012Q2
+
+09/10/12
+
+Q
+
+I
+
+I
+
+August 2012
+
+10/1/12
+
+M
+
+M
+
+M
+
+2012Q2
+
+10/12
+
+Q
+
+Q
+
+Q
+
+Gross External Debt
+
+2012Q1
+
+09/10/12
+
+Q
+
+I
+
+Q
+
+International
+Investment position6
+
+2010
+
+7/15/12
+
+A
+
+A
+
+A
+
+Stocks of Central
+Government and
+Central GovernmentGuaranteed Debt5
+External Current
+Account Balance
+Exports and Imports
+of Goods and
+Services
+GDP/GNP
+
+Date of
+latest
+observation
+
+Date
+received
+
+June 2012
+
+7
+
+Memo Items:
+Data Quality –
+Data
+Methodological Quality –
+Soundness8
+Accuracy
+and
+Reliability9
+
+O, O, O, LO
+
+LNO, O,
+LO, LO, O
+
+O, LNO, O, LO
+
+LNO, O,
+LNO, LO,
+LO
+
+1
+
+Any reserve assets that are pledged or otherwise encumbered should be specified separately. Also, data should comprise shortterm liabilities linked to a foreign currency but settled by other means as well as the notional values of financial derivatives to pay
+and to receive foreign currency, including those linked to a foreign currency but settled by other means.
+2
+Both market-based and officially determined, including discount rates, money market rates, rates on treasury bills, notes and bonds.
+3
+Foreign, domestic bank, and domestic nonbank financing.
+4
+The general government consists of the central government (budgetary funds, extra budgetary funds, and social security funds) and
+state and local governments.
+5
+Including currency and maturity composition.
+6
+Includes external gross financial asset and liability positions vis-à-vis nonresidents. The IIP is currently being developed by the
+Albanian authorities and is not yet published. The authorities will publish the data once quality checks have been completed.
+7
+Daily (D), Weekly (W), Monthly (M), Quarterly (Q), Annually (A), Irregular (I); Not Available (NA).
+8
+Reflects the assessment provided in the data ROSC published on October 31, 2006, and based on the findings of the mission that
+took place March 8–22, 2006, for the dataset corresponding to the variable in each row. The assessment indicates whether
+international standards concerning concepts and definitions, scope, classification/sectorization, and basis for recording are fully
+observed (O), largely observed (LO), largely not observed (LNO), or not observed (NO).
+9
+Same as footnote 8, except referring to international standards concerning source data, assessment of source data, statistical
+techniques, assessment and validation of intermediate data and statistical outputs, and revision studies.
+
+INTERNATIONAL MONETARY FUND
+
+11
+
+Statement by Mr. Montanino, Executive Director for Albania
+and Mr. Spadafora, Senior Advisor to the Executive Director
+Executive Board Meeting
+December 3, 2012
+
+On behalf of the Albanian authorities, we thank staff for the continued close and constructive
+cooperation, as well as for the very informative report.
+
+Main Issues
+Albania weathered the global crisis better than most other regional and European
+economies. A timely fiscal response, sound monetary policy, and effective macroprudential
+actions have allowed escaping a recession despite the challenging external environment
+which affects that specific geographical area.
+After years of severe recession in some neighboring countries, Albania is now being
+increasingly affected by the slowdown in the euro area. Output growth slowed to 1.0 percent
+during the first half of 2012 (from 2.7 percent in the same period of 2011), as consumer and
+investor confidence suffered from worsened external conditions, remittances declined, and
+credit growth fell sharply. Part of the economic weakness was due to exogenous factors
+(severe winter weather).
+The authorities expect a more robust recovery than staff starting in the current quarter. Some
+upside to the baseline scenario emanates from the privatization of the state oil company
+(Albpetrol) and further positive effects might come from stabilization in external
+conditions expected from the initiatives agreed on November 26 by the Eurogroup on
+Greece.
+Public finances remain manageable. The authorities’ conduct of fiscal policy during the crisis
+was prudent, as public debt-to-GDP ratio remained fairly stable around 60 per cent of
+GDP during the last years.
+In the medium term, the authorities value the country’s untapped natural resource
+wealth (notably mining and hydroelectricity). Also, flexibility in the Albania’s productive
+base shows capacity to reorient export to new products and markets.
+Fiscal Policy
+The statutory 60 percent debt limit is an anchor for fiscal policy, but it needs to be used in a
+flexible manner in the near term. Given the current economic environment, an excessively
+
+2
+rigid rule might be procyclical, with counterproductive effects on growth, particularly
+if investment is cut further in order to comply with the rule.
+The authorities are aware of the rollover requirements and agree with the staff’s suggestion to
+take measures to lengthen debt maturities and deepen public securities markets. However,
+they consider the debt service as manageable: rollover risks are mitigated by the fact that
+about 70 percent of public debt is held by commercial banks, which have ample liquidity and
+face limited lending opportunities.
+The overall balance is expected to improve in 2012, as fallen tax revenues have been
+more than offset by cuts in capital expenditure. The authorities consider a prevailing part of
+the fall in revenues as cyclical, resulting from automatic stabilizers and weak confidence
+related to the eurozone crisis. Almost all the decrease in the tax revenue-to-GDP ratio
+between 2009 and 2011 might be explained by the reduction in VAT receipts. Tax collection
+is thus expected to recover as the outlook improved.
+In the authorities’ view, the current low level of income taxes has helped reduce informality.
+They are thus concerned that an increase in tax rates could harm Albania’s investment
+competitiveness, and prefer to focus on improving tax administration.
+While recognizing the desirability of higher capital expenditure, the authorities reject the idea
+of increasing tax rates to finance it. Increases in capital spending are conditioned to the
+availability of privatization receipts (or other non-debt-creating flows) and to the financing of
+other priority spending (unpaid bills and emergency electricity imports).
+The authorities agreed that social insurance reform is necessary and on the need for smaller
+increases in the public wage and pension bills. However, they also cautioned about the lack
+of political consensus on the issue.
+Monetary Policy and Financial Sector
+With the economy showing signs of weakness, the Bank of Albania (BoA) has lowered its
+policy rate five times since August 2011, to a historic low of 4 percent. Against this
+background, the authorities share the staff’s call for caution on further monetary easing,
+given the implicit risks for financial stability. In fact, since monetary transmission operates
+primarily through the exchange rate, continued monetary easing runs the risk of generating
+exchange market pressures that may adversely impact bank balance sheets, because of
+unhedged foreign currency lending (although significant foreign currency deposits provide a
+cushion).
+The financial system is dominated by foreign banks, and has proved resilient thanks largely
+to strong macroprudential regulations by the central bank. In fact, prudent limits on external
+
+3
+borrowing prior to the crisis avoided a large boom-bust credit cycle. Banks exhibit high
+liquidity and solvency ratios, supported by continued stringent regulatory
+requirements. Risks are further mitigated by the banks’ low reliance on external funding and
+greater dependence on local deposits (the loan-to-deposit ratio of the Albanian banking
+system has remained below 65 percent in the past decade).
+However, potential spillovers from the euro area to the country’s banking system are a
+concern, and the authorities concurred that the near term priority is to contain these
+spillovers. In particular, the banking crisis in Greece has impacted Greek subsidiaries, which
+account for one-fifth of Albania’s banking system, though the effects have been mitigated.
+Greek subsidiaries responded by shrinking their balance sheets and slowing lending, so that
+they now rely mainly on domestic funding.
+To address possible risks, the BoA has applied more stringent capital and liquidity
+requirements on Greek banks, and heightened coordination with Greek authorities. More
+generally, the authorities view continued close bank supervision and cooperation with
+regional regulatory authorities as critical in containing risks so far and planned to further
+strengthen these efforts. They also indicated a readiness to reinforce the regulatory
+framework and contingency plans, guided by stress test results. They plan to request an
+FSAP update for late 2013.
+The sharp rise of NPLs over the last two years is another source of concern, given the impact
+on bank profitability and the ability to extend credit, although provisioning has been
+adequate. The authorities share the staff’s views on the causes (cyclical and structural)
+of rising NPLs and the need to reduce their level. At the same time, the authorities noted
+that with adequate capitalization, the increase in NPLs had been rather manageable so far,
+and even if it were to increase further, only a handful of non-systemic banks would fall
+below regulatory capital requirements. They saw scope for more aggressive execution of
+collateral but also underscored the social sensitivities associated with rapid foreclosure sales.
+
+Structural Reforms
+The authorities agree that a favorable investment environment is a vital condition for
+further attracting large-scale international investors and boosting productivity. They
+thus agree on the need for structural reforms, particularly those related to property rights;
+further improvements in competitiveness are also critical so as to reducing external
+vulnerabilities. The authorities however noted the constraints imposed by lack of political
+consensus.
+The authorities emphasized the importance of continued infrastructure development to
+attract investment. They are broadly confident about the prospects for renewed investment
+
+4
+flows, once conditions in Europe stabilized.
+The authorities recognize the importance of resolving problems in the energy sector, but they
+ascribed the existing weaknesses to the failure of the distributor to make the required
+investments; they did not see adjustments in retail prices as necessary, since tariffs in Albania
+are broadly comparable to those in neighboring countries. Until these problems are
+addressed, government support, including financing emergency electricity imports, will be
+essential to avoid power cuts.
+Finally, the authorities agreed on the need for continued improvements in economic statistics.
+They are committed to continue working with Fund technical assistance in order to develop
+capacity.
+
+Public Information Notice (PIN) No. 13/02
+FOR IMMEDIATE RELEASE
+January 11, 2013
+
+International Monetary Fund
+700 19th Street, NW
+Washington, D. C. 20431 USA
+
+IMF Executive Board Concludes 2012 Article IV Consultation with
+Albania
+On December 3, 2012, the Executive Board of the International Monetary Fund (IMF)
+concluded the Article IV consultation with Albania. 1
+Background
+Albania has successfully avoided a serious economic slowdown since 2009, but with
+euro zone problems persisting, the economy slowed considerably in the first half of
+2012. Credit growth fell sharply between January and August, as consumer and investor
+confidence weakened. Inflation has been low and relatively stable, largely within the
+central bank’s 2-4 percent target range. The current account deficit has begun to adjust
+on account of weakening imports but still remains high. Heavy exposure of exports and
+remittances to Greece and Italy carries near-term risks.
+Fiscal imbalances are rising. At nearly 60 percent, the debt-GDP ratio has reached the
+statutory ceiling and is among the highest in the region. Tax revenues have been
+trending downward, partly due to cyclical conditions, while most expenditure cuts have
+been focused on capital. Rollover needs are high as more than half of public debt is
+short term.
+The banking system has been resilient so far, with banks having high liquidity and
+capital ratios. Strong macroprudential actions have mitigated risks. However,
+nonperforming loans have risen sharply over the last two years and now exceed one
+fifth of all outstanding loans—the highest ratio in the region. Greek bank subsidiaries,
+Under Article IV of the IMF's Articles of Agreement, the IMF holds bilateral discussions with
+members, usually every year. A staff team visits the country, collects economic and financial
+information, and discusses with officials the country's economic developments and policies.
+On return to headquarters, the staff prepares a report, which forms the basis for discussion
+by the Executive Board. At the conclusion of the discussion, the Managing Director, as
+Chairman of the Board, summarizes the views of Executive Directors, and this summary is
+transmitted to the country's authorities. An explanation of any qualifiers used in summings
+up can be found here: http://www.imf.org/external/np/sec/misc/qualifiers.htm.
+
+1
+
+2
+which account for one-fifth of bank assets, have made considerable progress in realigning lending with their domestic deposit base and increasing capital.
+Progress in reforming the business climate—critical for attracting investment and
+achieving sustained growth over the medium term—has been limited. Albania has
+dropped 8 places on the World Bank’s Doing Business Index to a rank of 85.
+Executive Board Assessment
+Executive Directors commended the authorities for prudent policies that have supported
+growth in the midst of the global financial crisis. However, Directors noted that the
+economy is slowing, policy buffers have been depleted, and macroeconomic imbalances
+persist. Against this backdrop, they recommended actions on a variety of fronts to
+preserve fiscal sustainability, safeguard financial soundness, and improve the
+investment climate.
+Directors underscored the importance of a sustained fiscal adjustment that would
+reduce the debt-to-GDP ratio over the medium term without unduly dampening growth.
+Budgetary consolidation should center on both tax and expenditure reforms. Taking note
+of proposed legislation to remove the statutory debt limit, Directors agreed on the need
+for a renewed commitment to a credible ceiling for public indebtedness to anchor the
+authorities’ fiscal plans. Improvements in debt management are also a priority, given
+rollover risks. In this regard, Directors encouraged the authorities to utilize prospective
+privatization receipts mainly for debt reduction and clearance of unpaid bills.
+Directors observed that inflation targeting in the context of a flexible exchange rate
+regime has been effective in keeping inflation low and stable. However, they noted that
+the scope for easing monetary policy further is limited by weakness in the economy as
+well as the risk of an adverse impact on unhedged positions in banks’ balance sheets.
+Directors took note of the staff’s assessment that the real effective exchange rate is
+modestly overvalued, and urged the authorities to accelerate fiscal and structural
+reforms to foster competitiveness and external adjustment.
+Directors commended the authorities for policies that have safeguarded the soundness
+of the financial system. At the same time, they recognized that financial risks remained
+elevated, and called for continued supervisory vigilance. In particular, Directors
+encouraged the authorities to take action against rising nonperforming loans at banks,
+including by clearing unpaid government bills and improving collateral execution.
+Directors welcomed the authorities’ request for an update in 2013 under the Financial
+Sector Assessment Program.
+Directors stressed the need to accelerate structural reforms in many areas to boost
+potential growth. Priorities include strengthening property rights and contract
+
+3
+enforcement which would enhance the investment climate. Impediments in the energy
+sector also need to be addressed to make the sector self-sustaining and lower fiscal
+risks. Directors highlighted the importance of further improving Albania’s economic
+statistics, particularly as regards the national and external accounts, to help policy
+design and evaluation.
+Public Information Notices (PINs) form part of the IMF's efforts to promote transparency of the
+IMF's views and analysis of economic developments and policies. With the consent of the country
+(or countries) concerned, PINs are issued after Executive Board discussions of Article IV
+consultations with member countries, of its surveillance of developments at the regional level, of postprogram monitoring, and of ex post assessments of member countries with longer-term program
+engagements. PINs are also issued after Executive Board discussions of general policy matters,
+unless otherwise decided by the Executive Board in a particular case. The staff report (use the free
+Adobe Acrobat Reader to view this pdf file) for the 2012 Article IV Consultation with Albania is also
+available.
+
+4
+Albania: Basic Indicators and Macroeconomic Framework, 2009–12
+2009
+
+Real GDP 1/
+
+2011
+Est.
+(Growth rate in percent)
+3.3
+3.5
+3.0
+
+Consumer Price Index (avg.)
+Consumer Price Index (eop)
+GDP deflator
+
+2.2
+3.7
+2.3
+
+Saving-investment balance
+Foreign savings
+National savings
+Public
+Private
+Investment
+Public
+Private
+Fiscal sector
+Revenues and grants
+Tax revenue
+Expenditures
+Primary
+Interest
+Overall balance (including grants)
+Primary balance (including grants)
+Net domestic borrowing
+Privatization receipts
+Foreign financing
+Public Debt
+Domestic
+External (including publicly guaranteed)
+Monetary indicators
+Broad money growth
+Private credit growth
+Velocity
+Interest rate (3-month T-bills, end-period)
+External sector
+Trade balance (goods and services)
+Current account balance (including official
+Current account balance (excluding official
+f )transfers
+Official
+
+2010
+
+3.6
+3.4
+3.4
+1.7
+3.8
+3.5
+(Percent of GDP)
+
+2012
+Proj.
+0.5
+2.2
+3.4
+2.4
+
+14.0
+16.2
+1.0
+15.2
+30.3
+10.1
+20.2
+
+11.4
+15.4
+1.2
+14.2
+26.8
+6.7
+20.1
+
+11.9
+13.7
+1.6
+12.1
+25.6
+6.0
+19.6
+
+10.1
+13.9
+1.1
+12.8
+24.0
+4.9
+19.1
+
+26.0
+23.5
+33.4
+30.2
+3.2
+-7.4
+-4.3
+0.9
+2.4
+3.7
+59.3
+36.1
+23.2
+
+25.8
+23.3
+29.6
+26.2
+3.4
+-3.7
+-0.4
+0.9
+0.4
+2.1
+57.8
+32.9
+24.9
+
+25.1
+23.0
+28.5
+25.4
+3.1
+-3.5
+-0.3
+2.0
+0.0
+1.6
+58.6
+33.3
+25.3
+
+24.8
+22.7
+27.9
+24.7
+3.2
+-3.1
+0.2
+1.8
+0.1
+1.4
+60.9
+34.1
+26.8
+
+6.8
+12.5
+9.1
+6.1
+10.3
+10.1
+10.4
+2.1
+1.3
+1.3
+1.2
+1.2
+6.3
+5.3
+5.3
+…
+(Percent of GDP, unless otherwise) noted
+-24.6
+-14.0
+-14.7
+0.7
+1,621
+4.1
+10.9
+26.0
+-7.8
+
+-20.7
+-11.4
+-11.9
+0.5
+1,926
+4.4
+5.0
+27.0
+-2.6
+
+Gross international reserves (in millions of euros)
+(In months of imports of goods and services)
+(Relative to external debt service)
+(In percent of broad money)
+Change in real exchange rate (eop, in percent)
+Memorandum items
+Nominal GDP (in billions of lek) 1/
+1,151
+1,237
+Sources: Albanian authorities; and IMF staff estimates and projections.
+1/ GDP data for 2008–09 are from the official national accounts.
+
+-22.4
+-11.9
+-12.2
+0.2
+1,879
+4.4
+8.8
+24.9
+0.7
+
+-18.8
+-10.1
+-10.8
+0.7
+1,976
+4.5
+8.2
+24.4
+…
+
+1,319
+
+1,357
+
+Statement by the IMF Staff Representative on Albania
+Executive Board Meeting
+December 3, 2012
+
+1.
+This statement provides information that has become available since issuance of the
+Staff Report. The information does not alter the thrust of the staff appraisal.
+2.
+Negotiations on a contract agreement for Albpetrol privatization could not be
+concluded within the stipulated 30-day period (since the announcement of the winning bid on
+October 3). The deadline has been extended by thirty days.
+3.
+Recent data (January–October) indicate that the fiscal deficit was 1.9 percent of
+annual GDP, compared to 2.4 percent of annual GDP in the first 10 months of 2011.
+Revenues grew by 2 percent (y-o-y), while spending was broadly unchanged, largely because
+of a 15 percent reduction in capital spending.
+4.
+Under the budget approved by the Council of Ministers on November 19, the 2013
+fiscal deficit would increase to 3.4 percent of GDP, from the authorities’ projected 2012
+deficit of 3 percent. Tax revenues are projected to increase by 5.4 percent, more than double
+their expected rate of growth in 2012. Pensions will continue to rise well above inflation,
+though wage bill growth is expected to be contained. Capital spending is projected to
+rebound strongly. No privatization receipts are assumed in the draft budget. Public debt
+would to climb to 62.4 percent of GDP next year.
+5.
+Earlier this month, the Albanian Regulatory Entity (ERE) decided to proceed with
+revoking the private electricity distributor’s (CEZ) license because of the latter’s failure to
+abide by the terms of the privatization contract (e.g., loss reduction and investments to
+improve the grid). CEZ has 30 days to rectify the situation.
+6.
+Financial soundness indicators for September suggest that nonperforming loans rose
+further to reach 22.7 percent of gross loans. The profitability of the banking system
+weakened further in the third quarter, while provisioning was broadly unchanged. Credit to
+the economy grew by 5.5 percent, compared to 14.5 percent in the first 9 months of 2011.
+
+

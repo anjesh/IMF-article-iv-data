@@ -1,0 +1,4793 @@
+IMF Country Report No.12/181
+
+EURO AREA POLICIES
+July 2012
+
+2012 ARTICLE IV CONSULTATION
+
+Under Article IV of the IMF’s Articles of Agreement, the IMF holds bilateral discussions with
+members, usually every year. In the context of the Article IV consultation with member
+countries forming the Euro Area, the following documents have been released and are
+included in this package:
+
+
+Staff Report for the Article IV consultation, prepared by a staff team of the IMF,
+following discussions that ended on June 12, 2012, with the officials of euro area on
+economic developments and policies. Based on information available at the time of these
+discussions, the staff report was completed on July 3, 2012. The views expressed in the staff
+report are those of the staff team and do not necessarily reflect the views of the Executive
+Board of the IMF.
+
+Public Information Notice (PIN) summarizing the views of the Executive Board as
+expressed during its July 16, 2012 discussion of the staff report that concluded the Article IV
+consultation.
+
+
+Statement by the Executive Director
+
+The document listed below has been or will be separately released.
+Selected Issues Paper
+
+The policy of publication of staff reports and other documents allows for the deletion of
+market-sensitive information.
+Copies of this report are available to the public from
+International Monetary Fund  Publication Services
+700 19th Street, N.W.  Washington, D.C. 20431
+Telephone: (202) 623-7430  Telefax: (202) 623-7201
+E-mail: publications@imf.org Internet: http://www.imf.org
+
+International Monetary Fund
+Washington, D.C.
+
+©2012 International Monetary Fund
+
+DMSDR1S-#4915617-v10-Euro_Area-June_2012Staff_Report_for_the_Article_IV_Consultation.DOCX 2010 Article IV Report
+
+EURO AREA POLICIES
+July 3, 2012
+
+STAFF REPORT FOR THE 2012 ARTICLE IV CONSULTATION
+WITH MEMBER COUNTRIES
+
+KEY ISSUES
+Context: The euro area crisis has reached a new and critical stage. Despite major policy
+actions, financial markets in parts of the region remain under acute stress, raising questions
+about the viability of the monetary union itself. The adverse links between sovereigns, banks,
+and the real economy are stronger than ever. As a consequence, financial markets are
+increasingly fragmenting along national borders, demand is weakening, inflation pressures
+are subsiding, and unemployment is increasing. A further intensification of the crisis would
+have a substantial impact on neighboring European countries and the rest of the world.
+Completing EMU: A determined move toward a more complete union is needed now to
+demonstrate policymakers’ unequivocal commitment to sustain EMU. This means measures
+to break the adverse loops between sovereigns and banks. To this end, the first priority is a
+banking union for the euro area, with a common supervisory and macroprudential
+framework, deposit guarantee scheme, and bank resolution authority. The progress made in
+this direction during the June 28-29 summit is welcome. To reduce the tendency for
+economic shocks in one country to imperil the euro area as a whole, banking union needs to
+be complemented by more fiscal integration—combining ideas of a political union and
+stronger central governance with more risk sharing. A unified statement of support for all of
+these steps by euro area governments, with a clear timetable of decisions, could arrest the
+decline in confidence engulfing the region.
+Restoring strong and balanced growth: Changing the architecture will not be sufficient
+without measures to support growth. Structural reforms are essential to raise trend growth
+across the region and to improve competitiveness in deficit economies. But short-run
+support for growth will still be needed. Crisis measures remain important and, in the case of
+the European firewall, should be used flexibly. The recapitalization of weak banks—including
+through direct support from EFSF/ESM resources—will help break adverse fiscal-bankinggrowth feedback loops. Monetary policy can play a role in easing the transition until
+structural reforms become effective. Because inflation is low and falling, the ECB has room
+for lowering rates, and deploying additional unconventional measures would relieve severe
+stress in some markets. Fiscal consolidation should proceed decisively and credibly where
+market pressure is high, but more gradually elsewhere to help support demand in the
+region. The pace of adjustment should be guided by structural targets.
+
+EURO AREA POLICIES
+
+Approved By
+
+Reza Moghadam
+and Tamim
+Bayoumi
+
+Discussions took place during May 29–June 11, 2012. Mission members
+included M. Pradhan (head), H. Berger, P. Koeva Brooks, A. Al-Eyd, E. Perez
+Ruiz, A. Scott, T. Tressel, and N. Valckx (all EUR), S. Gray and J. Zhou (MCM),
+and M. Chivakul (SPR). Executive Director A. Fayolle and his Advisor P. Garcia
+Martinez, and Georges Pineau, ECB Observer at the IMF, participated in some
+meetings.1
+
+CONTENTS
+KEY ISSUES ..........................................................................................................................................................................1
+A DEEPENING CRISIS .....................................................................................................................................................4
+WEAK OUTLOOK WITH SUBSTANTIAL RISKS ..................................................................................................5
+THE IMPLICATIONS FOR POLICY.............................................................................................................................9
+A. The Case for Completing EMU ............................................................................................................. 10
+B. Restoring Strong and Balanced Growth............................................................................................ 15
+THE AUTHORITIES’ VIEWS....................................................................................................................................... 23
+STAFF APPRAISAL ........................................................................................................................................................ 25
+TABLES
+1. Euro Area: Main Economic Indicators, 2007-2014 ........................................................................................ 33
+2. Euro Area: Balance of Payments........................................................................................................................... 34
+3. IMF Policy Recommendations for Selected Countries................................................................................. 35
+FIGURES
+1. Short-term Activity Indicators ............................................................................................................................... 28
+2. Euro Area Inflation Developments ...................................................................................................................... 29
+3a. Fiscal Outlook in the Euro Area: 2012 April WEO ....................................................................................... 30
+3b. Fiscal Consolidation in the Euro Area: Challenges ..................................................................................... 31
+4. LTROs: Effects on the ECB Balance Sheets and Bank Funding ................................................................. 32
+
+1
+
+The mission would like to thank euro area authorities, in particular President M. Draghi (European Central Bank),
+
+Chairperson A. Enria (European Banking Authority), Head of Secretariat F. Mazzaferro (European Systemic Risk Board),
+Vice-President O. Rehn (European Commssion), and President H. van Rompuy (European Council), as well as their
+staff for their time, support, and accessibility. The mission has also benefited from the Fund's bilateral Article IV
+consultations with euro area countries and from discussions with national authorities during meetings of the
+Eurogroup and the Eurogroup Working Group.
+
+2
+
+INTERNATIONAL MONETARY FUND
+
+EURO AREA POLICIES
+
+BOXES
+1. European Summit Policy Initiatives: Right Steps on the Roadmap ...........................................................9
+2. The Case for a Banking Union ............................................................................................................................... 11
+3. The Case for a Fiscal Union .................................................................................................................................... 12
+4. The Impaired Monetary Transmission in the Euro Area ............................................................................. 16
+5. Further Use of Long-Term Refinancing Operations (LTROs)? .................................................................. 18
+APPENDIX I: STATISTICAL ISSUES ....................................................................................................................... 37
+
+INTERNATIONAL MONETARY FUND
+
+3
+
+EURO AREA POLICIES
+
+A DEEPENING CRISIS
+The euro area crisis has reached a new, critical level
+1.
+Market tensions have increased further. Still-pressing banking problems and continuing
+sovereign funding concerns in some euro area countries have raised doubts about the viability of
+the monetary union itself. This has driven sovereign borrowing costs and risk premiums to very high
+levels in several countries, adding to the already-severe pressures on many bank and sovereign
+balance sheets in an environment of very low confidence and growth.
+
+Sources: Bloomberg L.P.; IMF, World Economic outlook database; and
+IMF staff calculations
+
+Sources: Bloomberg L.P.; and IMF staff calculations
+
+2.
+The adverse bank-sovereign feedback loops at the heart of the crisis have intensified.
+Concerns about banks’ solvency have increased
+because of large sovereign exposures, particularly in
+periphery countries. Some sovereigns, in turn, are
+struggling to backstop weak banks on their own.
+Depositor confidence is increasingly fragile. As
+investors have moved capital "north" and abroad to
+perceived safer assets, official financing—including in
+the form of programs and ECB liquidity support—has
+become more important. This is largely mirrored in
+widening Target 2 balances between euro area Source: National Central Banks
+national central banks.2
+3.
+And the single financial market has become increasingly fragmented. Despite low policy
+rates, credit conditions vary widely among euro area countries. This is mainly due to starkly
+diverging perceptions of sovereign and banking risks, as well as a drastic decline in interbank activity
+(as banks reduce cross-border funding, shore up capital and liquidity buffers in their home
+
+2
+
+Target 2 is the payments settlement system for the euro area, largely reflecting interbank activities settled through
+
+the transfer of reserves within the Eurosystem. Currently, large Target 2 deficits in the periphery are offset by
+corresponding surpluses in northern countries, mostly Germany, but also Finland and Luxembourg.
+
+4
+
+INTERNATIONAL MONETARY FUND
+
+EURO AREA POLICIES
+
+jurisdiction, and accumulate overnight deposits at the ECB). As a consequence, financing conditions
+are now the least supportive in countries where the crisis is the most acute.
+
+Source: European Central Bank
+
+Sources: Haver Analytics; and European Central Bank
+
+4.
+Against this backdrop, the real economy has been weak, reinforcing adverse banksovereign feedback loops. GDP was flat in the first quarter of 2012, after contracting at an
+annualized rate of almost 1 percent in the last quarter of 2011. Demand was depressed, particularly
+in the periphery countries (Figure 1). Tightening financing conditions and weak confidence held
+back private investment and consumption, and fiscal consolidation dampened demand further.
+Consequently, the euro area unemployment rate increased further, to over 11 percent in May, its
+highest level since the start of EMU. In turn, the weakness in real activity has added to budgetary
+pressures and the deterioration in banks’ loan portfolios.
+
+WEAK OUTLOOK WITH SUBSTANTIAL RISKS
+5.
+With the crisis deepening, the outlook remains for very low growth. After averaging 1.5
+percent in 2011, euro area GDP growth is expected to be -0.3 and 0.7 percent in 2012 and 2013. A
+number of factors will weigh on the outlook:
+
+
+Private domestic demand is expected to remain
+subdued as banks and households continue to
+repair balance sheets and consumers and
+investors act cautiously amidst heightened
+uncertainty. With many of these headwinds
+significantly stronger in the periphery, growth
+is expected to be much lower there than in
+the core. Germany and France are expected to
+post weak-but-positive growth in 2012.
+
+Sources: IMF, World Economic Outlook database; and IMF staff
+calculations
+
+INTERNATIONAL MONETARY FUND
+
+5
+
+EURO AREA POLICIES
+
+
+
+Substantial
+and
+frontloaded
+fiscal
+consolidation will weigh on growth. In the
+aggregate, on current policies, the euro area
+structural deficit is projected to narrow by
+about 1½ percent of GDP in 2012, ½ percent
+of GDP in 2013, and an additional ½ percent
+of GDP over 2014-17. The pace of fiscal
+adjustment is particularly accelerated in the
+hard-hit periphery countries: the projected
+consolidation over this and next year ranges Sources: IMF, World Economic Outlook database; and IMF staff
+from around 3½ percentage points or more calculations
+of GDP in Portugal, Greece, Italy, and Spain, compared with ½ percentage point or less in
+Germany, Austria, and Finland (see also Figure 3).
+
+
+
+At the same time, the global outlook has deteriorated, reducing export demand despite the
+recent depreciation of the euro. External imbalances within the euro area will narrow, but the
+decline in periphery deficits will materialize largely as a consequence of weak activity and
+import compression.
+
+
+
+Trend growth remains low. Even abstracting from current factors, euro area medium-term
+growth is set to disappoint in the absence of policy action. Reflecting well-known area-wide
+structural weaknesses, staff sees trend growth at only about ¾ percent over the medium
+term.
+
+6.
+Unemployment will remain high because of weak growth. In 2012, unemployment rates
+are expected to span a wide range, from about 5 ½ percent in Germany to 24 percent in Spain. Staff
+projections also indicate that these differences will persist, as growth in countries under pressure
+(Portugal, Greece, Ireland, and Spain) will not be sufficient to return unemployment to pre-crisis
+levels.
+
+Source: Eurostat
+
+Source: IMF, World Economic Outlook database; and IMF staff
+calculations
+
+7.
+Inflation is set to decline significantly and could even become negative. Headline
+inflation is expected to fall well below 2 percent in 2013 and remain there through 2014. Although
+survey-based inflation expectations are still broadly anchored, market-based indicators are clearly
+6
+
+INTERNATIONAL MONETARY FUND
+
+EURO AREA POLICIES
+
+pointing downward and core inflation (stripping out the most volatile components, such as energy
+and food prices) signals very low underlying inflation pressures (see Figure 2). Moreover, given the
+subdued growth outlook, there is a sizable risk that inflation could even turn negative in the
+medium run. Specifically, the IMF’s GPM projections indicate about a 25 percent probability of
+below-zero inflation by early 2014. This risk of deflation is relatively low in the faster-growing
+economies but significant in the periphery, where administrative price and tax increases are masking
+more severe downward price pressures from still substantial output gaps. For example, staff
+estimates suggest that fiscal factors contribute over 1 percentage point to inflation in Italy in 2012.
+This disinflationary environment in much of the periphery will make it difficult for many countries to
+reduce the burden of debt.
+
+Sources: Eurostat; and IMF staff calculations
+
+Sources: IMF; and Global Projection Model
+
+8.
+The outlook is subject to a number of severe downside risks (see text Table 1). Greaterthan-expected bank deleveraging and fiscal consolidation could further lower confidence and
+hamper growth; this would have a strong negative impact on public debt trajectories. Where growth
+is already weak, there is a risk of stagnation and long-term damage to potential output as
+unemployed workers lose skills and new workers find it difficult to join the active labor force. A
+failure of a large and systemic bank could test the ability of the ECB and crisis facilities to stem
+contagion. And reform slippage at the country level could have large negative spillovers throughout
+the euro area. The fear of euro area exit, if not countered swiftly and effectively, could spread to
+other economies perceived to have similar characteristics, potentially leading to increased financial
+market stress and depositor flight from several banking systems.
+9.
+A deeper euro area crisis would have substantial global implications. Staff analyses
+suggest that further intensification of the euro area crisis—modeled as a jump in sovereign and
+private yields—could have a significant impact on the rest of the world. The spillovers would be
+especially strong in the neighboring EU and southeastern European countries. Specifically, output
+losses across the euro area result in nearly equivalent losses in the UK and Eastern Europe, with peak
+output losses occurring within two years. However, the extent of the spillovers depends on several
+factors, including the associated policy responses within the euro area and in the rest of the world,
+the duration of the crisis, and the pass-through of sovereign spreads to private sector borrowing
+costs. Some banks in core euro area countries are sufficiently large and connected that they could
+
+INTERNATIONAL MONETARY FUND
+
+7
+
+EURO AREA POLICIES
+
+generate significant spillovers—both in the core and periphery—through cross-border deleveraging
+and associated increases in counterparty risks.3
+Text Table 1. Euro Area: Risk Assessment Matrix1/
+(Scale—high, medium, or low)
+2/
+
+Source of Risk
+1. Strong
+intensification of
+euro area crisis
+
+Relative Likelihood
+
+
+
+
+
+
+
+2. Country-specific
+policy and reform
+slippage
+
+
+
+
+
+
+
+
+
+3. Failure of a SIFI
+
+
+
+
+
+4. Oil price surge
+
+1/
+
+
+
+Medium
+The effect from bank deleveraging could be
+larger than envisaged
+Fiscal consolidation could depress activity more
+than envisaged or fail to generate the expected
+decline in risk premiums in some countries
+Adverse feedback loops between sovereign and
+banks could be stronger in some countries,
+given banks’ increased holdings of domestic
+sovereign debt
+Stagnation and long-term damage to potential
+output, where growth is already weak
+Medium
+Implementation of fiscal adjustment plans may
+falter in some countries in the face of high social
+costs of consolidation
+Bank recapitalization efforts both at the national
+level and through euro area financial support
+could prove more protracted than expected
+Implementation of structural reforms could stall
+(periphery countries)
+Backlash in the core against continued financial
+support for the periphery could intensify
+Sudden increase of financial stress in a euro area
+member could further undermine confidence,
+possibility triggering deposit flight in several
+banking systems
+Medium
+A sizable sovereign or funding shock triggered
+by a re-intensification of the crisis could lead to
+a SIFI failure
+However, the ECB’s LTROs have addressed
+immediate bank funding pressures, and the
+completion of higher firewalls should provide
+added liquidity insurance to sovereigns
+Low
+A spike in oil prices linked to geo-political
+tensions, partially offset by favorable supply
+conditions
+
+Impact if Realized
+
+
+
+
+
+
+
+
+
+
+
+High
+Undermine already fragile market
+confidence
+Adversely affect growth prospects, and
+raise unemployment
+Threaten sovereign debt trajectories,
+and possibly market access
+
+Medium/High
+Raise questions about the political will
+to sustain the EMU
+Undermine already fragile market
+confidence
+Drive sovereign and bank spreads
+firmly into unsustainable levels
+Adversely affect growth prospects and
+raise unemployment
+Intensify cross-border financial
+contagion and bank deleveraging
+Increase market pressure on euro area
+members perceived to have similar
+characteristics is likely
+
+
+
+High
+Intensify cross-border bank
+deleveraging
+Generate strong contagion effects
+through direct exposures, confidence
+channels, and common exposures or
+markets
+
+
+
+Medium
+Weaken economic activity and increase
+headline inflation
+
+
+
+The Risk Assessment Matrix shows events that could materially alter the baseline path discussed in this report (which is the
+
+scenario most likely to materialize in the view of the staff). The relative likelihood of risks listed is the staff’s subjective
+assessment of the risks surrounding this baseline.
+2/
+
+3
+
+8
+
+In case the baseline does not materialize.
+
+These issues are addressed in more detail in the 2012 Spillover Report.
+
+INTERNATIONAL MONETARY FUND
+
+EURO AREA POLICIES
+
+THE IMPLICATIONS FOR POLICY
+10.
+The deepening of the crisis suggests that its root causes remain un-addressed. EMU still
+lacks the basic tools that can break the adverse feedback loops between sovereigns, banks, and the
+real economy. Also, largely missing are ambitious policies to restore strong and balanced growth
+across the euro area that can counter current headwinds to growth, rectify competitiveness
+problems, and raise trend growth.
+11.
+Policy makers have responded to the crisis with wide-ranging initiatives. The ECB has
+reduced policy rates to historical lows and conducted special liquidity interventions to address
+immediate bank funding pressures, averting an even more rapid escalation of the crisis (Figure 4).
+The enlarged European and global firewall will provide more liquidity insurance to sovereigns while
+the ongoing reform of fiscal governance will help strengthen fiscal discipline. National governments
+have also embarked on fiscal consolidation and reaffirmed their debt sustainability and deficit
+targets. Importantly, the June 28-29 summit agreed to steps toward a single supervisory mechanism,
+followed by the possibility of using ESM resources to recapitalize banks directly, in addition to other
+measures (Box 1). Together, these actions represent a significant commitment to deal with the crisis.
+
+Box 1. European Summit Policy Initiatives: Right Steps on the Roadmap4
+At their summit meeting on June 28-29, European leaders agreed upon significant positive steps to address
+the immediate crisis. The agreement, if implemented in full, will help break the adverse links between sovereigns
+and banks and create a banking union, in line with the Article IV mission recommendations. In particular, once a
+single supervisory mechanism for euro area banks is established—with key decisions to be taken by end-2012—the
+ESM would be able to recapitalize banks directly. Moreover, ESM assistance will not carry seniority status for Spain—
+an important step to support market confidence. In addition, the leaders re-affirmed a willingness to consider
+secondary purchases of sovereign bonds by the EFSF/ESM, although without expanding the resource envelope.
+Finally, an agreement was reached on terms for a “Growth Compact”, mainly in the form of infrastructure projects,
+and a request to pursue the “Four Presidents” proposals, with concrete plans to be delivered to a summit later in the
+year. Collectively, these steps are consistent with the direction advocated in this staff report.
+Implementing these measures in a timely way would help restore longer term confidence in the union. The
+hurdles to implement these measures are high: the ESM has not yet been ratified by all members, the timing of paneuro area supervision remains uncertain, and many of the announced measures will require unanimity by Euro group
+ministers. Furthermore, crucial questions on the terms for direct euro area bank recapitalizations still need to be
+addressed.
+These initiatives are steps in the right direction that will need to be complemented, as envisaged, by more
+progress toward deeper fiscal integration and a full-fledged banking union. By setting in motion a process
+toward a unified supervisory framework, the Summit put in place the first building block of a banking union. But
+
+4
+
+The summit took place after the meetings for this Article IV consultation.
+
+INTERNATIONAL MONETARY FUND
+
+9
+
+EURO AREA POLICIES
+
+other necessary elements, including a pan-European deposit insurance guarantee scheme and bank resolution
+mechanism with common backstops, need to be added. Staff sees these as necessary to send a firm signal of
+commitment toward completing the monetary union and decisively breaking the link between sovereigns and banks.
+In addition, these steps would usefully be complemented by plans for fiscal integration, as anticipated in the report
+of the ‘Four Presidents’ submitted to the summit. It is encouraging that the leaders have asked the Council President
+to develop proposals for a more complete union over the next three months.
+
+12.
+But the crisis calls for a much stronger collective effort now to demonstrate
+policymakers’ unequivocal commitment to sustain EMU. Only a convincing and concerted move
+toward a more complete EMU could arrest the decline in confidence engulfing the region. A credible
+roadmap toward a full banking union and fiscal integration will make the short-term crisis measures
+more effective. Structural reforms throughout the euro area will also be necessary to revive growth
+in the long run, while macroeconomic policies can smooth the needed adjustment in the short run.
+
+A. The Case for Completing EMU
+13.
+The euro area is in an uncomfortable and unsustainable halfway point. While it is
+sufficiently integrated to allow escalating problems in one country to spill over to others, it lacks the
+economic flexibility or policy tools to deal with these spillovers.
+
+
+Economic adjustment to country-specific shocks is limited. Labor mobility across countries is
+low, partly owing to institutional factors such as housing market rigidities, non-transferable
+social benefits, and the absence of an area-wide social safety net. Wage and price flexibility
+can be limited, slowing the correction of macroeconomic imbalances. And while capital
+moves freely across the euro area, it is susceptible to sudden swings that can paralyze
+financial markets and threaten financial stability.
+
+
+
+Crucially, the euro area also lacks essential financial and fiscal policy tools to stabilize the
+monetary union. As the crisis has illustrated, without a strong common financial stability
+framework, banking problems are hard to contain and resolve in an integrated market
+(Box 2). Absent sufficient instruments of fiscal risk sharing, there are no common backstops
+to support banks or other tools than can soften the fiscal consequences of country-shocks
+before they spread beyond national borders. At the same time, without robust fiscal
+governance, there are only weak incentives to keep sovereign debt levels low before a crisis
+hits (Box 3).
+
+10
+
+INTERNATIONAL MONETARY FUND
+
+EURO AREA POLICIES
+
+Box 2. The Case for a Banking Union5
+The euro area crisis has revealed the flaws in a framework in which responsibility for financial stability remains
+national. Before the crisis, the euro area had achieved a high degree of financial integration. For example, sovereign
+risks of periphery countries were de facto shared between core euro area and domestic investors (see figure below). But
+faced by a funding freeze affecting large euro area banks dependent on wholesale funding and contagion of sovereign
+stress to Italy and Spain, the euro area financial system has fragmented away from an area-wide system to within
+national borders. This has created de-integrating forces in sovereign bond markets, interbank markets and lending and
+deposit markets. Sovereign bond and interbank markets have been the most deeply affected by the withdrawals of
+intra-euro area cross-border capital flows (see figure below). As a result, financial markets have become more
+fragmented, which has impaired the transmission channels of euro area monetary policy (see Box 4).
+120%
+100%
+80%
+
+Share of Foreign-held Debt Securities
+Held within the Euro Area (2010)
+
+200
+100
+
+held by UK residents
+held by other EA countries
+
+Change in EA MFI Cross-border Claims, 2011 and 2012Q1
+(Billions of euros)
+
+0
+On EA countries
+
+On other EU
+countries
+
+On non-EU
+countries
+
+60%
+
+-100
+
+40%
+
+-200
+
+20%
+
+-300
+
+Claims on non-MFI (securities excl. shares)
+
+0%
+
+-400
+
+Claims on non-MFI (loans)
+
+Source: IMF, Coordinated Portfolio Investment Survey.
+
+Shares and MMF
+
+Claims on MFI (excl. shares)
+-500
+Source: ECB , cross-border positions of EA MFI, excl ESCB.
+Note: changes in cross-border claims not adjusted for potential
+valuation effects.
+
+Downward spirals between sovereigns, banks and the real economy are stronger than ever in the periphery.
+Concerns about bank solvency remain large where the domestic sovereign is weak. Weak sovereigns, in turn, are
+unable to backstop failed banks without jeopardizing
+4.5
+Selected Euro Area Countries: Monthly
+their solvency, as discussed in the accompanying
+Interest
+Rate and Banking Stress, 2010-12
+4.0
+Selected Issues Paper.
+To strengthen internal funds, banks make loans
+3.5
+pricier and adversely reduce credit supply, which
+weakens growth and the fiscal balance. Staff analysis
+3.0
+suggests that bank funding stress has a substantial
+DEU
+2.5
+effect on loan pricing: a 150 bps increase in bank
+ESP
+CDS spreads is associated with an increase in lending
+ITA
+2.0
+FRA
+rates of 0.6 percentage points for corporate loans
+and 0.4 percentage points for mortgages.
+1.5
+These adverse feed-back loops are amplified by the
+0
+200
+400
+600
+800
+Average bank CDS spreads (bps.)
+absence of an exchange rate that could offset part of
+the adverse impact on domestic demand.
+Interest rates on new loans to NFC (percent)
+
+
+
+
+
+
+
+A banking union would strengthen the viability of the EMU by helping sever adverse feed back loops between
+banks and their sovereign and providing incentives to end financial de-integration. Mitigating the adverse effects
+of the sovereign-bank nexus and reducing incentives to cut cross-border exposures would stabilize financial systems
+and counteract financial fragmentation, thereby contributing to restore the transmission of monetary policy. It would
+also help re-start growth by ensuring that healthy euro area firms can obtain credit from financial institutions at a
+reasonable cost, regardless of the strength of their sovereign.
+
+5
+
+Prepared by Thierry Tressel. See 2012 Selected Issues Paper for further details.
+
+INTERNATIONAL MONETARY FUND
+
+11
+
+EURO AREA POLICIES
+
+Box 3. The Case for a Fiscal Union6
+In a common currency area, fiscal integration provides critical tools to enhance the adjustment to idiosyncratic
+shocks and deal with externalities. Greater centralized risk sharing and support for fiscal adjustment would be
+particularly valuable in the euro area given that economic adjustment to country-specific shocks is less than perfect.
+Compared to many other currency areas, labor is not very mobile between countries, intra-area capital flows can prove
+volatile, and structural rigidities often impede the price adjustment and reallocation of resources (see Section B). At the
+same time, governance safeguards against excessive debt have disappointed in the past.
+Institutions of fiscal risk sharing are at work in most currency areas. In contrast to the euro area, countries such as
+Brazil, Canada, Germany, Switzerland, and the U.S. offer ex ante insurance through a variety of formalized mechanisms.
+The literature on the benefits of fiscal risk sharing suggests that, on average, about 10-20 percent of regional income
+shocks are absorbed through sharing arrangements. This helps prevent contagion and reduces the need for costly ex
+post bailouts. Among the tools employed are:
+Financial stability: Common financial stability frameworks with a common, area-wide backstop such as the FDIC in
+the U.S. that ensure localized banking stresses do not develop into systemic crises (see Box 2).
+Transfer and tax schemes: Transfers from the central (or federal) government to regions (Figure 1a) and/or tax
+sharing arrangements between regions, or between regions and the center, account for a significant share of
+regional income in many currency areas. Although the institutional arrangements can differ, these transfers often
+respond to cyclical developments at the regional level, providing insurance against idiosyncratic shocks.
+Public goods: Important public goods and services are often provided by the center but financed through regional
+taxes (see Figure 1b below). This entails fiscal risk sharing in case of an adverse shock: the benefit of a centrallyprovided public good is unchanged, but a region’s relative tax contribution will fall during a downturn.
+
+
+
+
+
+
+Figure 1a. Transfers from the Center
+
+Figure 1b. Central Provision of Public Goods
+
+Gross Transfers from Central Government to Subnational Governments
+(2005-2007 average, percent of subnational GDP)
+
+100
+
+35
+
+Share of Central Government Expenditure in General Government Expenditure
+(in percent, by function, consolidated, 2005-10 average)
+Belgium
+
+100
+
+Germany
+
+30
+
+25
+
+Spain
+
+80
+
+Max
+
+France
+
+80
+
+Italy
+
+Median
+
+Netherlands
+
+Min
+
+60
+
+Sweden
+
+60
+
+United Kingdom
+
+20
+
+Switzerland
+Average
+
+40
+
+15
+
+10
+
+20
+
+40
+
+20
+
+5
+0
+
+0
+Defence
+
+0
+EU 1/
+
+Brazil
+
+Mexico
+
+USA
+
+Australia
+
+Canada 2/
+
+China
+
+Public order
+and safety
+
+Education
+
+Social
+protection
+
+Health
+
+Environment
+protection
+
+Sources: Eurostat; IMF staff calculations.
+
+Sources: Eurostat, McHugh; and Poghosyan, 2012.
+
+Note: Excludes tax sharing arrangements. 1/ For EU, spending of EU budget, data for 2008. 2/ Excludes region of Nunavut which receives 77
+percent of GDP in gross transfers.
+
+But fiscal integration also requires strong governance arrangements to address moral hazard. As a rule,
+instruments of fiscal risk sharing are complemented by governance frameworks that limit fiscal sovereignty at the
+regional level and help to ensure fiscal behavior in accordance with commonly agreed standards. For example, where
+public goods are provided centrally, the center usually has tax authority over the entire region. Where transfers are a
+significant part of regional income, the center often has the right to intervene more directly in the regions’ public
+finances. In addition, many currency areas use legally enforceable fiscal rules to ensure that regional fiscal positions are
+sustainable. Some currency areas have a bailout mechanism, while others rely on no-bailout provisions to guard against
+moral hazard. However, even where no-bailout provisions exist, their credibility is supported by a minimum level of risk
+sharing that protects basic government functions and helps absorb regional shocks.
+
+6
+
+Prepared by Fabian Bornhorst. See Selected Issues Paper for further details.
+
+12
+
+INTERNATIONAL MONETARY FUND
+
+EURO AREA POLICIES
+
+14.
+As a result, the pernicious feedback loop between banks and sovereigns, as well as
+market fragmentation, have been accentuated during the crisis. In a number of countries, the
+transfer of banking liabilities to the public balance sheet is continuing, while worsening public
+finances are still causing direct losses on sovereign bonds. In some cases, the necessary provision of
+ECB liquidity has led to further sovereign bond purchases by banks, deepening this link even more.
+Where perceptions of sovereign and banking risks have been increasing, financing conditions have
+deteriorated markedly, accelerating the re-fragmentation of the euro area’s financial market.
+A banking union would help address the underlying problem…
+15.
+
+A euro area banking union could combine three main elements:
+
+
+
+A pan-European deposit guarantee scheme. A deposit guarantee scheme can increase
+depositor confidence by reducing the dependence of banks on their sovereigns and thereby
+also reduce the risk of sudden deposit movements across the currency area. Eventually, such
+a scheme could (and should) be funded by a levy on the industry but, to be effective, it
+would need ready recourse to additional funding in times of stress, from a common pool of
+government-provided resources or—for the euro area— an ECB credit line.
+
+
+
+A pan-European bank resolution mechanism. A bank resolution authority, established with
+powers to bail in private creditors and support directly the resolution of banks, would
+facilitate an orderly wind-down of failing institutions and smooth the deleveraging process
+across the region. As with the deposit scheme, resolution could be backed by a common
+fund financed by an industry levy with recourse to government-provided resources or the
+ECB.
+
+
+
+Common supervision. In addition to deposit guarantee and bank resolution schemes, an
+effective banking union will need the support of a common supervisory framework to foster
+stability and deter fragmentation. The framework would be most effective if it encompassed
+the entire banking system but could at first focus on cross-border banks and large
+systemically-important financial institutions in the euro area. To this end, the June 28-29
+summit plan to establish a single supervisory mechanism for euro area banks—to be
+considered by the Council by end-2012—is an important first step toward a banking union.
+But it will be important that the necessary decisions be taken and implemented quickly.
+
+16.
+Several intermediate steps can pave the way for—and add to the credibility of—a
+banking union.
+
+
+In particular, the recently proposed EU framework for harmonized national bank resolution
+processes and deposit insurance could become a helpful building block toward a banking
+union if fully implemented on an accelerated schedule. The new framework can reduce the
+cost to taxpayers from future bank failures by providing strong powers to resolution
+authorities, including the power to bail-in unsecured creditors, thus reducing the ‘too-bigto-fail’ subsidy.
+
+
+
+The existing EFSF/ESM framework could provide immediate financing for the common
+deposit insurance and resolution frameworks before industry contributions are available. In
+INTERNATIONAL MONETARY FUND
+
+13
+
+EURO AREA POLICIES
+
+this regard, the use of EFSF/ESM resources for these purposes could be linked to advances in
+area-wide supervision, similar to the recent decision to consider direct bank recapitalization
+by the ESM.
+Strong coordination of macroprudential policies would also mark progress in the right
+direction. In this regard, the recent compromise draft of the CRDIV, which provides greater
+flexibility at the national level by allowing countries to impose stricter capital buffers, offers a
+helpful balance between the needs of the single rule book and financial stability concerns of
+national authorities. A common approach to capital and liquidity requirements is essential,
+with a strong role for pan-European institutions such as the ESRB and EBA.
+
+
+
+17.
+Fast progress is more critical for the euro area than for the EU. Although the banking
+union should be consistent with European Union directives, it is particularly urgent for the euro area.
+This is because deposits move more easily within a currency area, and a deposit guarantee scheme
+covering all euro area depository institutions would help reassure retail depositors that their savings
+are safe and avoid sudden depositor flight. In the same way, a euro area bank resolution authority
+would weaken the bank-sovereign feedback loops operating within the currency union. At the same
+time, to align supervisory incentives within the euro area, the ECB could play the role of common
+supervisor. And to further strengthen its financial markets role, the ECB could also be given explicit
+responsibility for financial stability and full lender-of-last-resort functions, thereby eliminating banksovereign linkages present in the current Emergency Liquidity Assistance (ELA) scheme.
+…and steps toward a fiscal union would be helpful as well
+18.
+More fiscal integration would support the banking union. Elements of a fiscal union
+would already be present in a banking union as described above: the provision of common
+backstops for deposit insurance and bank resolution is a form of fiscal risk sharing. And unified
+regulatory and supervisory frameworks provide an important element of governance in the form of
+delegation of national sovereignty to the center.7
+19.
+Fiscal integration means stronger governance arrangements that help to ensure fiscal
+behavior in accordance with commonly agreed standards. The Fiscal Compact and the proposed
+“Two Pack” are important steps in this direction. The Compact re-commits signatories to the fiscal
+discipline of the original Stability and Growth Pact (SGP) while offering some necessary flexibility in
+the shorter term (see ¶26 and the Selected Issues Paper). If implemented well, it can go some way
+to reducing fiscally-generated risks while limiting the adverse impact of fiscal consolidation on
+demand. The “two pack” will reinforce the influence of the European Commission in shaping
+national budgetary plans and oversight of budgetary execution. This would better align national
+fiscal policy with common objectives.
+
+7
+
+See 2012 Selected Issues Paper for further details
+
+14
+
+INTERNATIONAL MONETARY FUND
+
+EURO AREA POLICIES
+
+20.
+More ex ante fiscal risk sharing would ensure that member economies can cope better
+with macroeconomic shocks. Some degree of fiscal risk sharing is already being achieved through
+crisis management facilities (the EFSM, EFSF, and ESM). But it is provided after a crisis has hit, which
+can make it expensive. Even worse, it can give rise to recurring market doubts about the adequacy
+of available resources. By contrast, ex ante risk sharing is commonplace in other currency areas (e.g.,
+Switzerland, the United States). In addition to fully-developed banking unions, these areas feature
+significant fiscal risk sharing tools, such as transfers from federal to state budgets and central
+provision of public goods (e.g., social security or infrastructure).
+21.
+Fiscal risk sharing can be achieved in different ways, but all approaches would benefit
+from a clear roadmap. Ultimately, helping countries smooth adjustment to adverse shocks might
+require large resources at the center. But reaching this point will imply a form of political union with
+a substantial reorientation of sovereignty and burden sharing, requiring changes to the EU treaty
+and national constitutions. This will take time. But the process could start now, with a clear
+commitment to a broad-based dialogue about what a fuller fiscal union would imply for the
+sovereignty of member states and the accountability of the center. It should deliver a schedule of
+discussion, decision, and implementation.
+22.
+The path toward more fiscal integration could start with a limited-but-scalable
+introduction of common debt, with appropriate governance safeguards. Such euro area debt
+securities could, at first, be restricted to shorter maturities of small size, and be conditional on more
+centralized control (e.g., veto powers over national deficits, the pledging of national tax revenues).
+Among the many proposals discussed in this area, “Eurobills” come closest to such an approach,
+while “the redemption fund” is also limited. Common bond financing could also be used to provide
+the backstops for the common frameworks within the banking union.8
+
+B. Restoring Strong and Balanced Growth
+A forceful common response would bolster growth in the short run…
+23.
+The ECB can provide further defenses against an escalation of the crisis. These could
+include policies to support demand in the short run and fend off downside risks to inflation, as well
+as measures to ensure that monetary transmission, currently impaired by financial stress in some
+countries, operates well again across the euro area (Box 4).
+
+
+8
+
+Interest rate reductions. Economic weakness and downside risks to inflation in the euro area
+warrant further reductions in the main policy rates. Although the room for such reductions is
+limited, they would deliver a strong signaling effect and, in addition, provide some direct
+near-term support to weaker banks by reducing indexed borrowing costs under existing
+LTROs.
+
+See the 2012 Selected Issues Paper for further details.
+
+INTERNATIONAL MONETARY FUND
+
+15
+
+EURO AREA POLICIES
+
+Box 4. The Impaired Monetary Transmission in the Euro Area9
+Since the start of the crisis, lending conditions have varied substantially across the euro area. For instance, nonfinancial corporate lending rates have risen sharply in the periphery, but have fallen in the core countries over the
+past year.
+1. Retail bank lending rates
+
+This is partly due to increased sovereign stress. Banks’ wholesale funding
+and lending rates are priced off (domestic) sovereign yields. Since the euro
+area started to experience periods of sovereign stress in late 2010, the
+impact of ECB policy interest rate changes on domestic bond yields has
+weakened as financial markets differentiate more strongly between core and
+periphery countries.
+Weak bank capital and liquidity positions contributed to the slowdown in
+lending. Specifically, based on a panel estimation using data for 100 euro area
+banks covering the period Q1:2007-Q1:2012, staff analysis reveals the
+following. First, banks’ quarterly bank lending growth was significantly higher
+for larger, more profitable, more liquid and better capitalized banks. Second,
+banks with a higher loan/deposit ratio mismatch (reflecting business/funding
+model risk or leverage) and higher CDS spreads (i.e., more risky banks) lent
+significantly less. Finally, bank lending was substantially higher in countries
+with higher GDP growth and higher house prices.
+At the same time, reductions in the policy rate and larger liquidity
+provision appear to have supported bank lending. The empirical analysis
+suggests that ECB policy rate reductions were associated with higher bank
+lending, and reliance on ECB funding cushioned bank lending. A higher ECBEONIA interest rate spread, which is often viewed as an alternative indicator of
+monetary policy (but also captures liquidity and counterparty stress), was
+associated with lower bank lending.
+The empirical results suggest that improving bank soundness and
+relieving sovereign stress will help underpin lending in the euro area.
+
+9
+
+Prepared by Nico Valckx.
+
+16
+
+INTERNATIONAL MONETARY FUND
+
+7
+
+and the ECB policy rate
+
+6
+5
+4
+3
+2
+
+Core (NFC)
+Core (mortgages)
+Periphery (NFC)
+Periphery (mortgages)
+ECB policy rate
+
+1
+0
+2007
+
+2009
+
+2011
+
+Source: ECB, staff computations. Periphery
+includes Greece, Ireland, Portugal, Spain,
+Italy. Rates are volume-weighted.
+
+1.0
+
+2. Slowdown in policy
+interest rate pass-through
+NFC shortterm
+
+crisis
+
+The pass-through of policy to lending rates has weakened, especially in
+the periphery. Before the crisis intensified, lending rates broadly tracked
+changes in the ECB policy rate, albeit to varying degrees. But since late 2010,
+retail lending rates started to rise while policy rates remained low. Staff
+analysis confirms that both the speed of adjustment and the long-run impact
+of ECB policy rate changes on a variety of retail interest rates have declined
+across many euro area countries.
+
+NFC
+
+0.5 long-term
+mortgages
+consumer
+credit
+
+0.0
+0.0
+
+0.5
+
+1.0
+
+pre-crisis
+
+1.5
+
+2.0
+
+Source: ECB, IMF staff computations.
+Interest rate pass-through is estimated from
+monthly data (pre-crisis 1997/03-2007/02 and
+crisis 2007/03-2012/02) using a standard error
+correction model. Points below the diagonal are
+markets that have experienced a slowdown in the
+long-run pass-through.
+
+EURO AREA POLICIES
+
+
+
+Quantitative easing (QE). The ECB could achieve further monetary easing through a
+transparent QE program encompassing sizable sovereign bond purchases, possibly
+preannounced over a given period of time. Buying a representative portfolio of long-term
+government bonds—e.g., defined equitably across the euro area by GDP weights—would
+also provide a measure of added stability to stressed sovereign markets. However, QE would
+likely also contribute to lower yields in already “low yield” countries, including Germany.
+
+
+
+More SMP purchases. Additional and clearly communicated SMP purchases could ensure the
+transmission of monetary easing where sovereign bond markets are subject to increased
+stress.10 With the possible exception of Greece, SMP purchases have been relatively small
+compared with the outstanding debt stock, in principle increasing the scope for additional
+intervention. And a well-communicated re-activation of SMP purchases would likely carry
+strong signaling effects which might mitigate the need for very large purchases. The benefits
+from lower yields would also ease collateral constraints on official and interbank lending
+facilities.
+
+
+
+Further liquidity provision. This could encompass additional multi-year LTRO facilities,
+coupled with adjusted collateral requirements, if needed—including a broadened collateral
+base and/or a lowering of haircuts—to address localized shortages. The associated credit
+risk to the ECB would be manageable in view of its strong balance sheet and high levels of
+capital provisioning. Nevertheless, one of the disadvantages of the LTRO facility is that it
+tends to strengthen sovereign-bank links (see Box 5).
+
+24.
+Clarification of the ECB’s seniority status would make its crisis response more effective.
+Market concerns about the subordination of private sovereign bond holdings should be addressed
+by clarifying the seniority status of ECB’s holdings. Similar considerations apply to the ESM. A clear
+commitment to accept equal status with private sector claims, as in the case of Spain, would
+enhance the effectiveness of official sector crisis management.
+25.
+If the crisis escalates, policymakers will have to stand ready to support the euro area
+banking system, including through a flexible use of the European firewall. Clarity on common
+support—including, foremost by the ECB, but possibly also by announcing a pan-European deposit
+insurance scheme—may be necessary to support depositor confidence. In addition, to effectively
+reduce bank sovereign links and promote confidence, the EFSF/ESM facilities should be ratified
+quickly and empowered with sufficient flexibility and resources to support banks of member states.
+The June 28-29 summit decision to consider direct bank recapitalization marks important progress
+toward flexibility. In addition, as discussed in ¶16, the existing EFSF/ESM framework could provide
+financing for common deposit insurance and resolution frameworks in the short run.
+
+10
+
+See 2012 Selected Issues Paper for further details.
+
+INTERNATIONAL MONETARY FUND
+
+17
+
+EURO AREA POLICIES
+
+Box 5. Further Use of Long-Term Refinancing Operations (LTROs)?11
+The intense funding difficulties for euro area banks prompted significant liquidity support from the ECB.
+Through two three-year LTROs and a further relaxation in its collateral rules, the ECB allotted €1 trillion to euro area
+banks, with a net increase in liquidity of about €500 billion. For the second LTRO, the ECB expanded eligible collateral to
+include additional performing credit claims (i.e., bank loans), after widening the eligibility criteria in previous years.
+But further ECB liquidity support may be necessary if bank funding conditions continue to deteriorate. The total
+wholesale debt roll-over need of the euro area banks is estimated at about €630 billion for 2012, some of which has
+been pre-financed via the 3-year LTROs and some will be refinanced in the market. However, further long-term LTROs
+may be required if funding conditions deteriorate or if banks face withdrawals. But can banks generate additional
+eligible collateral to obtain ECB funding?
+According to the ECB, banks on the whole would be able to generate sufficient collateral under the current ECB
+eligibility criteria to meet additional refinancing needs. LTRO borrowings are around €1.1 trillion (end May), but
+marketable collateral eligible for Eurosystem operations (including LTROs) is about €13 trillion (not all held by banks).
+And there may be substantial non-marketable collateral, evidenced by the €3 trillion pre-pledged collateral (typically
+non-marketable). This could allow borrowing of up to €2.4 trillion (assuming haircuts of 20 percent).
+However, some individual banks—mainly in the periphery countries—could be short of collateral. The Greek and
+Irish banks already need to use the national ELA, which has a wider collateral pool. In Spain, assuming the stability of
+domestic deposits, collateral and liquidity buffers appear sufficient at the system level, but collateral posted at the ECB
+is vulnerable to ratings downgrades and margin calls while the capacity to generate new collateral is weakening.
+Although the LTROs have provided a sizable cushion, the phasing-out of ECB funding will likely prove problematic if
+market access does not improve. Indeed, liquidity stress tests in the context of Spain’s FSAP show that liquidity risk can
+potentially become the biggest risk should ECB support not be renewed.
+A further relaxation of collateral rules as well as a rethinking of collateral pricing and haircut policies may be
+necessary to ensure liquidity support to (solvent) banks and prevent liquidity risks from escalating into
+insolvency risks. In late 2011, among other measures, the ECB allowed national central banks to accept as collateral
+additional performing credit claims (i.e., bank loans). More recently, it further amended rating thresholds and eligibility
+requirements for certain asset-backed securities (ABSs) to improve banks’ access to the liquidity operations.
+However, additional steps may be needed to cover liquidity risk of the collateral it accepts. The ECB assesses the
+value of collateral using market prices (or uses a “mark to model” approach if a market price is not available) and then
+calculates the haircut to allow for sale of the collateral within a short period without loss to the ECB. This feature is
+unhelpfully pro-cyclical, and may not be necessary since the ECB does not need to sell collateral quickly.12 A fire sale of
+assets in a systemic liquidity crisis would indeed require large haircuts, but when imposed as part of the LTRO they
+could substantially reduce liquidity crisis and asset sales at distressed prices, exactly the situation the LTRO is meant to
+prevent.
+
+11
+
+Prepared by Simon Gray and Jianping Zhou.
+
+12
+
+The contrast between the ECB and the Swiss National bank (SNB) approaches to haircuts when on-lending USD
+
+borrowed from the Fed is interesting in this regard. The ECB required a haircut of 20 percent, but with no variation
+margining (later reduced to 12 percent with weekly margining); the SNB required a zero initial haircut, but used daily
+variation margining.
+
+18
+
+INTERNATIONAL MONETARY FUND
+
+EURO AREA POLICIES
+
+26.
+To help cushion the adverse impact of fiscal consolidation on demand, policy
+measures would need to be as growth-friendly as possible. To reduce deficits and debt that have
+risen sharply in recent years, most euro area countries plan significant fiscal adjustment over the
+medium term. In this setting, the overarching challenge is to implement consolidation plans without
+exacerbating the adverse feedback loops with the real economy. Countries where market pressure is
+high have little choice but to proceed rapidly with consolidation. But the adjustment elsewhere
+should be conducted at a steady underlying pace that balances the need to bring down deficits and
+to support the recovery. To ensure that unanticipated shocks from the real economy do not
+automatically set off a damaging wave of further cuts, it is important to focus the fiscal targets on
+structural, rather than nominal deficits. This calls for exploiting the flexibility built into the Fiscal
+Compact, as discussed in the Selected Issues Paper. Moreover, anchoring consolidation efforts in
+fully-specified multi-year plans, with fiscal measures identified in advance, will increase their
+credibility, mitigating the negative effect on demand.
+
+Sources: IMF, World Economic Outlook database; and IMF staff
+calculations
+
+Sources: IMF, World Economic Outlook database; and IMF staff
+calculations
+
+…and support continued national adjustment
+27.
+Timely and credible actions at the national level remain an integral part of the crisis
+response. Although needs vary across crisis countries, transparent and comprehensive strategies to
+recapitalize viable banks should be implemented without delay. In this context, the recently
+announced Eurogroup support for the Spanish banking system is timely. Acting quickly to
+strengthen the banking system through the ongoing independent assessments of banks’ loan
+books, by dealing with legacy assets and by strengthening supervision and regulatory frameworks,
+will help restore confidence and alleviate financial market pressure. In addition, policy actions to
+restore the health of public finances and structural measures (labor and product market reforms) to
+enhance competitiveness could support confidence and anchor medium-term expectations (see
+Table 3 on IMF key policy recommendations).
+
+INTERNATIONAL MONETARY FUND
+
+19
+
+EURO AREA POLICIES
+
+Rectifying external imbalances will be crucial for the euro area
+28.
+
+The euro area as a whole has been close to balance.
+
+
+
+The current account balance of the Euro area was, on average, zero, for the period from
+1999–2006. Since the 2008, the balance has dipped slightly, reflecting greater-than-average
+deterioration in southern economies.
+
+
+
+On the capital account side, portfolio flows, in particular into debt, have supported the
+current account deficit as cross-border financial flows declined with the crisis. Equity
+balances were substantially affected by valuations during 2008-2009 but have since
+recovered. Portfolio investments by financial institutions have not recovered, as banks have
+reduced lending abroad.
+
+
+
+The net foreign asset position had deteriorated, to nearly -17 percent of GDP, but has since
+recovered to -12 percent of GDP. Estimates of the cyclically adjusted current account
+suggest that the NFA position will stay relatively constant going forward.
+
+29.
+Overall, the Euro area external position appears moderately weaker than implied by
+medium-term fundamentals and desired policies. Staff analysis suggests that a modest
+improvement in the current account, in the order of 1 percentage point of GDP, would be desirable
+to ensure external sustainability.
+30.
+Consequently, the euro is assessed to be slightly overvalued. Analysis based on
+fundamental equilibrium models, desired current account adjustment, and aggregation of staff
+views of individual member states suggests that the euro is overvalued in real terms by 0 to 5
+percent.13
+31.
+But individual member states built up large external imbalances. From the inception of
+the euro, current account deficits by individual member states cumulated to nearly 20 percent of
+euro area GDP in 2011, while surpluses cumulated to over 20 percent during the same period.
+During the crisis, external balances of deficit economies have narrowed, to -10 percent in the case of
+Greece, and all the way to balance in the case of Ireland. However, such reductions have largely
+been the result of falling imports as a result of sharp declines in domestic demand. Moreover,
+comparatively little adjustment has taken place in costs: unit labor costs of deficit economies such as
+Greece, Portugal, and Spain declined, on average, by 1 to 2½ percent per year in 2010–11.
+
+13
+
+Note that, since this analysis was conducted, the value of the euro has depreciated by nearly 2 percent in real
+
+terms.
+
+20
+
+INTERNATIONAL MONETARY FUND
+
+EURO AREA POLICIES
+
+Sources: IMF, World Economic Outlook database; and IMF staff
+calculations
+
+Sources: IMF, and Information Notice System database
+
+32.
+Ensuring external sustainability implies more substantial real exchange rate
+adjustments for individual member economies. Although only a modest adjustment is needed for
+the Euro area as a whole, some individual euro area economies require more substantial adjustment.
+For example, in the cases of Italy and Spain, the required adjustments are in the order of 5 to 10
+percent and 10 to 15 percent, respectively.
+33.
+
+Structural policies throughout the region could help address external imbalances.
+
+
+
+In deficit economies, improving competitiveness of tradable sectors requires policies that
+help reduce unit labor costs, such as labor market flexibility, reducing entry costs in product
+markets, and raising labor productivity. Non-price competitiveness may also play a
+significant role—this implies, for example, microeconomic reforms that make it easier for
+small firms to expand into foreign markets.
+
+
+
+In surplus economies, product market reforms—especially in the services sectors—are a
+priority. Improvements in disposable incomes in surplus economies could have some
+beneficial spillover effects—via improvements in external demand—to deficit economies.
+Equivalently, improvements in non-tradables productivity would be matched, ideally, by
+increases in nominal wages, which, in conjunction with a reduction in unit labor costs in
+deficit economies, will facilitate relative price adjustment.
+
+34.
+In the short run, price adjustment can play a role in addressing external imbalances.
+Wage and asset price increases in the north would
+be part of the natural process of rebalancing the
+sources of growth, and would help to appropriately
+reduce high current account surpluses. Larger
+inflation differentials would also facilitate the
+needed relative price adjustment by the south. In
+addition, for a given level of euro area inflation,
+higher inflation in the north would reduce the risk
+of debt-deflation spirals in the south.
+Source: IMF staff simulations
+
+INTERNATIONAL MONETARY FUND
+
+21
+
+EURO AREA POLICIES
+
+Structural reforms are also needed to raise trend growth across the euro area
+35.
+Weak trend growth has fuelled the crisis. An important reason why bank and sovereign
+problems have proven difficult to resolve is that debt dynamics are fragile in an environment of low
+growth and poor growth prospects. At the same time, private capital has fled some economies,
+reflecting increasing doubts about the ability of member states to service debt. And there has been
+a corresponding increase in demand for official funding.
+36.
+As the crisis continues, the risks of stagnation grow larger. As unemployment has risen,
+the proportion of youth and long-term unemployed has increased disproportionately in those euro
+area economies hardest hit by the crisis. As more new workers fail to enter the workforce and obtain
+skills, and as existing unemployed workers lose skills, the risk grows that potential output will be
+lower.
+37.
+Raising trend growth will be challenging because of low productivity and
+demographic presures. As with most advanced economies, euro area output growth has been
+steadily falling over the past 50 years. Compared with its best-performing peers, however, the
+deterioration in euro area growth has been worse. From a growth accounting perspective, the facts
+are stark. Productivity growth has weakened over time, and effective labor utilization has been
+relatively low. Moreover, euro area states face particularly challenging demographic trends, with low
+and declining population growth implying substantial increases within the space of a generation in
+the ratio of dependents to those of working age.
+38.
+Labor and product market reforms can raise total factor productivity, growth, and
+employment. Studies suggest four aspects are critical: changes to labor market institutions to
+improve the performance of the labor market; product market reforms that raise competition and
+lower regulatory burdens; tax reforms to switch away from labor income to consumption tax
+revenues and smooth marginal taxes to raise labor participation; and pension reforms to ease
+revenue burdens and encourage increased labor effort.
+39.
+The gains from reforms are potentially large. Staff estimates suggest that eliminating half
+of euro area countries’ gaps with OECD best
+practice in labor market, product market, tax,
+and pension policies could raise output by 5
+percent over 5 years.14 Moreover, such reforms
+are applicable to all euro area states, not just
+those that currently have the lowest growth. This
+offers the potential for significant spillover
+benefits as higher growth in any one country
+benefits others—estimates suggest they could
+
+14
+
+Sources: Global Integrated Monetary and Fiscal Model; and IMF staff
+simulations
+
+See “Fostering Growth in Europe Now”, available at http://www.imf.org/external/pubs/cat/longres.aspx?sk=26006.0
+
+22
+
+INTERNATIONAL MONETARY FUND
+
+EURO AREA POLICIES
+
+account for one quarter of the total gains in growth.
+40.
+But the full effects are likely to take time to materialize, which argues for short-run
+demand support. Some reforms can have immediate effects, if implemented well, particularly active
+labor market policies (e.g., retraining). There are many reasons for such lags: for example, some
+reforms necessarily take time to implement; reallocating resources across sectors is costly; and the
+reform process can create uncertainty that deters long-term commitments for a period. Reforms
+might even have negative effects on employment in the short run (especially if focused first at labor
+market measures without correspondingly-deep product market reforms). And in the current
+situation where economic slack is large, some reforms might initially reduce disposable income if
+unemployment rises. Thus, support for aggregate demand in the short run would be crucial to avoid
+stagnation, as discussed in ¶23 and ¶26.
+
+THE AUTHORITIES’ VIEWS
+41.
+There was very broad agreement between staff and the authorities on the scale of the
+crisis, and the need for clear statements on the long-run architecture of the monetary union.
+The authorities—the ECB and European Commission—stressed, in particular, the importance of
+establishing deeper monetary integration through a banking union and setting out a credible
+architecture for more fiscal integration to help stabilize the immediate crisis and anchor
+expectations on the viability of EMU.
+42.
+The authorities broadly agreed with the overall assessment of economic developments
+in the euro area, and the strong downside risks to growth. They noted a rebalancing in the
+composition of growth away from domestic demand toward net trade, resulting mainly from a
+compression in import demand. They also emphasized strong headwinds to growth from ongoing
+private balance sheet deleveraging, credit supply constraints, fiscal consolidation, and still-weak
+confidence. The authorities also argued that these factors could be further aggravated by sustained
+financial market stress. Nevertheless, they currently project a recovery in domestic demand from the
+middle of this year, driven by improving real incomes and confidence, rising external demand, and
+lower global commodity prices.
+43.
+There are somewhat elevated risks to inflation this year, but price pressures are
+projected to decline. Despite weakened demand and staff’s emphasis on subdued core inflation,
+the ECB stressed that the impact from higher energy prices, a weaker euro, and indirect tax effects
+will keep inflationary pressures high in the near-term. Looking ahead, the ECB expects inflationary
+pressures to decline with weaker commodity prices, sluggish growth in the periphery countries, but
+do not expect strong disinflationary pressures, particularly given what they described as still very
+well-anchored inflation expectations.
+44.
+Increased financial market fragmentation is impeding the effectiveness of monetary
+policy. In view of the strong policy response to the crisis and downside risks to growth, the
+authorities considered the current monetary policy stance to be broadly appropriate. With policy
+INTERNATIONAL MONETARY FUND
+
+23
+
+EURO AREA POLICIES
+
+rates at historical lows, the ECB remains cautious on the benefits of further easing, emphasizing that
+divergences in both liquidity conditions and market lending rates within the euro area weaken the
+interest rate channel of monetary policy. In this context, the authorities argued that there were limits
+to the effectiveness of additional unconventional measures, but did not exclude their use to prevent
+further contagion should the crisis escalate. Against this, they noted that further euro weakness
+could stoke inflationary pressures and unseat expectations.
+45.
+Ongoing fiscal consolidation efforts—anchored by structural targets—are needed to
+ensure sustainable debt trajectories and restore market confidence. There was also agreement
+with the European Commission that the 3 percent nominal deficit target was binding for several
+countries in the near-term, and that flexibility embedded in the SGP/Fiscal Compact should be
+exercised if slippages were the result of negative growth surprises. In this context, there was also a
+consensus that emphasis should be placed on structural, rather than nominal, fiscal targets despite
+the well-known difficulties in measuring the former.
+46.
+There was broad agreement that a concerted move toward a banking union is urgently
+needed to ensure the viability of the monetary union. The authorities emphasized that this
+should encompass area-wide supervision, and deposit insurance and resolution frameworks with
+common backstops. In addition, it was emphasized that the recently-published EU crisis
+management directive is an important step toward establishing an effective supranational financial
+stability framework. Although the authorities acknowledged that achieving a banking union is critical
+for the euro area, they stressed that it should be developed to preserve the single European market
+at the EU level. Discussions also showed broad agreement that the flexibility embedded in the ESM
+treaty could and should be used to establish new financial instruments within the framework,
+including allowing the ESM to directly inject equity into banks.
+47.
+A credible vision for more fiscal integration is needed to raise confidence and anchor
+the crisis effort. The authorities concurred that a commitment to a roadmap for fiscal integration
+would be more credible if it includes intermediate steps featuring elements of more centralized
+governance—such as a strong implementation of the “two-pack”—and some limited form of joint
+borrowing. It was agreed that meaningful fiscal integration would take time, but should entail a
+stronger center with enhanced fiscal responsibilities, sufficiently large resources, and proper
+democratic controls and oversight to help contain budget shortfalls at the national level.
+48.
+Well-executed reforms could yield substantial benefits in terms of enhancing
+competitiveness, correcting intra-euro area imbalances, and raising output. The authorities
+stressed the importance of assessing competitiveness in terms of unit labor costs, or productivity,
+rather than relative price developments alone. Moreover, they emphasized that rebalancing within
+the euro area was proceeding, albeit currently mainly driven by import compression. In this regard,
+the authorities agreed with staff that reforms targeted at labor and product markets would help
+restore competitiveness and external balances over time.
+49.
+There was broad agreement with staff’s analysis on the significance of the global
+spillovers from an intensification of the crisis in the euro area. The authorities agreed that staff’s
+24
+
+INTERNATIONAL MONETARY FUND
+
+EURO AREA POLICIES
+
+focus on financial rather than trade spillovers was appropriate. However, they noted that the analysis
+depends on the length of the shocks that are imposed, as well as the pass-through of sovereign
+spreads to private sector borrowing costs. The authorities also indicated that the growth impacts
+appeared too large, and questioned whether the results have taken into account the flight to safety,
+notably to German assets.
+
+STAFF APPRAISAL
+50.
+The financial and economic environment continues to deteriorate. Investors are
+withholding funding from member states most in need, moving capital to safe havens and driving
+risk premiums to new records. Demand is weakening and unemployment increasing across the euro
+area. Lower growth and heightened market stress are compounding the difficulties in reducing debt
+burdens. The risk of stagnation and long-term damage to potential growth will increase as
+unemployed workers lose skills and new workers find it difficult to join the active labor force.
+51.
+Important actions have been taken. The ECB has lowered policy rates and conducted
+special liquidity interventions to address immediate bank funding pressures and avert an even more
+rapid escalation of the crisis. And the larger European and global firewall will provide more liquidity
+insurance to sovereigns, while the ongoing reform of fiscal governance, especially the adoption of
+the Fiscal Compact, will help strengthen budgetary discipline. National governments have also
+embarked on fiscal consolidation and reaffirmed their commitment to debt sustainability and deficit
+targets. Most recently, the June 28-29 summit set in motion an important process toward a single
+supervisory mechanism, followed by the possibility of using the ESM to recapitalize banks directly.
+52.
+But the crisis calls for a stronger and more collective effort. Downward spirals between
+sovereigns, banks, and the real economy are stronger than ever. As concerns about banks’ solvency
+have increased—because of large sovereign exposures and weak growth prospects in many parts of
+the euro area—the effectiveness of liquidity operations has diminished. Sovereigns, in turn, are
+struggling to backstop weak banks on their own. Absent collective mechanisms to break these
+adverse feedback loops, the crisis has spilled across euro area countries. Contagion from further
+intensification of the crisis—including acute stress in funding markets and tensions involving
+systemically-important banks—would be sizable globally. And spillovers to neighboring EU
+economies would be particularly large. A more determined and forceful collective response is
+needed.
+53.
+A strong commitment toward a robust and complete monetary union would help
+restore faith in the viability of EMU. This should encompass a credible path to a banking union
+and greater fiscal integration, with better governance and more risk sharing. However, achieving this
+goal will take time and hence requires a clear timeline, with concrete intermediate actions to set the
+guide posts and anchor public expectations.
+54.
+The immediate priority is a banking union for the euro area. The proposed EU
+framework for harmonized national bank resolution processes and the progress toward a single
+INTERNATIONAL MONETARY FUND
+
+25
+
+EURO AREA POLICIES
+
+supervisory mechanism are appropriate first steps. But they need to go further. A deposit guarantee
+scheme with a common backstop needs to be established at the regional level to help break the
+links between domestic banks and their sovereigns, and support depositor confidence. A common
+bank resolution authority is also needed, backed by a common resolution fund to ensure burden
+sharing and to limit fiscal costs. These efforts should be supported by a single supervisory
+mechanism (as envisaged by the June 28-29 summit) and a macro-prudential framework to forestall
+further financial fragmentation. Although a banking union is desirable for the European Union, it is
+crucial for the euro area.
+55.
+More fiscal integration, with risk sharing supported by stronger central governance,
+can reduce the tendency for economic shocks in one country to spill over to the euro area as a
+whole. Ultimately, this could mean sufficiently large resources at the center, matched by proper
+democratic controls and oversight, to help insure budget shortfalls at the national level. Getting to
+this endpoint will take time. But the process can start with a commitment to a broad-based dialogue
+about what a fuller fiscal union would imply for the sovereignty of member states and the
+accountability of the center. This should deliver a schedule for discussion, decision, and
+implementation.
+56.
+Introduction of a limited form of common debt, with appropriate governance
+safeguards, can provide an intermediate step towards fiscal integration and risk sharing. Such
+debt securities could, at first, be restricted to shorter maturities and small size and be conditional on
+more centralized control (e.g., limited to countries that deliver on policy commitments; veto powers
+over national deficits; pledging of national tax revenues). Common bonds/bills financing could, for
+example, be used to provide the backstops for the common frameworks within the banking union.
+57.
+To restore growth across the union, long-standing structural rigidities need to be
+tackled to raise long-term growth prospects. In many countries, labor market reforms are needed
+to raise participation and address disparities in protection that confine “outsiders” to low-wage,
+temporary jobs. Southern Europe needs to increase competitiveness in the tradables sector. In
+addition, targeted investment in infrastructure and human capital will support growth and
+employment. In northern Europe, product market reforms would help generate a more vibrant
+services sector and help raise overall productivity.
+58.
+Policy efforts should also focus on improving competitiveness, in particular within the
+euro area. The euro is assessed to be broadly in line with fundamentals, but there are substantial
+competitiveness gaps between countries. Services sector reforms in the surplus economies could
+improve disposable incomes and lead to higher external demand, including for deficit economies.
+Lowering unit labor costs in the tradables sector is essential for deficit countries. This means
+productivity-enhancing reforms (e.g., lowering barriers to entry, making it easier for small firms to
+expand into foreign markets) and labor market measures that ensure nominal wage developments
+are aligned with productivity growth. To foster relative price adjustment between the North and the
+South, monetary policy should ensure that overall inflation does not drop far below two percent for
+the euro area as a whole, while allowing for larger inflation differentials between North and South.
+
+26
+
+INTERNATIONAL MONETARY FUND
+
+EURO AREA POLICIES
+
+59.
+The global economic outlook is weakening, reflecting—at least in part—the fragile
+situation in the euro area. Given Europe’s important role in the global economy, it is important
+that euro area policymakers strengthen the crisis response through further decisive and collective
+action. Setting out a credible long-term vision for the monetary union and boosting the near-term
+crisis response will provide much needed support to the global economic recovery.
+60.
+The staff proposes that the next consultation on euro area policies in the context of the
+Article IV obligations of member countries follow the standard 12-month cycle.
+
+INTERNATIONAL MONETARY FUND
+
+27
+
+EURO AREA POLICIES
+
+Figure 1. Short-term Activity Indicators
+Early this year, some short-term activity indicators showed tentative signs of stabilization at low levels
+and amid considerable volatility, while performance has differed markedly across countries.
+130
+130
+Industrial Production Excl.
+Business Confidence
+125
+125
+Construction
+(ESI, long-term average=100)
+120
+120
+(2006 = 100)
+115
+115
+110
+
+110
+
+100
+
+100
+
+90
+80
+
+Euro area
+Germany
+France
+Italy
+Spain
+
+70
+Jan-06 Jan-07 Jan-08 Jan-09 Jan-10 Jan-11 Jan-12
+25
+
+20
+
+15
+
+Unemployment Rate
+(Percent)
+Euro area
+Germany
+France
+Italy
+Spain
+
+90
+
+105
+
+95
+
+95
+
+85
+
+Euro area
+Germany
+
+80
+
+75
+
+70
+
+Italy
+65
+Jan-06 Jan-07 Jan-08 Jan-09 Jan-10 Jan-11 Jan-12
+
+25
+
+30
+20
+
+20
+
+15
+
+France
+
+Household Confidence
+(Percentage points; balance of opinions)
+
+85
+75
+65
+
+30
+20
+
+10
+
+10
+
+0
+
+0
+-10
+
+-10
+
+-20
+
+-20
+10
+
+10
+
+105
+
+-30
+-40
+
+Euro area
+Germany
+France
+Italy
+Spain
+
+-30
+-40
+-50
+
+5
+
+-50
+Jan-06 Jan-07 Jan-08 Jan-09 Jan-10 Jan-11 Jan-12
+
+65
+
+65
+
+55
+
+55
+
+55
+
+55
+
+45
+
+45
+
+45
+
+45
+
+35
+
+35
+
+25
+
+25
+Jan-06 Jan-07 Jan-08 Jan-09 Jan-10 Jan-11 Jan-12
+
+5
+Jan-06 Jan-07 Jan-08 Jan-09 Jan-10 Jan-11 Jan-12
+
+65
+
+35
+
+PMI: Composite Output
+(SA, 50+=Expansion)
+
+Euro area
+Germany
+France
+Italy
+Spain
+
+25
+Jan-06 Jan-07 Jan-08 Jan-09 Jan-10 Jan-11 Jan-12
+Sources: Haver Analytics; Markit; and Eurostat.
+
+28
+
+INTERNATIONAL MONETARY FUND
+
+PMI: Composite New Orders
+(SA, 50+=Expansion)
+
+Euro area
+Germany
+France
+Italy
+Spain
+
+65
+
+35
+
+25
+
+EURO AREA POLICIES
+
+Figure 2: Euro Area Inflation Developments
+Inflation is coming down as base effects from past
+food and energy price increases disappear...
+4
+
+...and administered price and indirect tax increases
+do not translate into higher core inflation
+108
+
+Services
+Energy
+Nonen.Ind.
+Unproc. Fd
+Processed fd
+
+3
+2
+
+Administered prices
+Headline
+Constant taxes
+Core
+
+105
+
+1
+
+104
+
+0
+
+103
+102
+101
+
+-2
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+As for underlying price pressures, firm input prices
+and profits have fallen over the past year...
+Domestic PPI and Profit Margin
+(year-on-year percentage change)
+
+8
+
+100
+Jan-10
+
+15
+
+7
+
+5
+12
+
+2
+
+Jan-11
+
+Jul-11
+
+Jan-12
+
+Labor Costs
+(Year-on-year percent change)
+Unit labour costs
+Compensation per employee
+Hourly labour costs
+Negotiated wages
+
+6
+
+4
+
+Jul-10
+
+...and also wage pressures remain contained
+
+6
+
+4
+3
+
+0
+
+2
+
+-2
+
+9
+
+-4
+-6
+-10
+2008
+
+2009
+
+2010
+
+2011
+
+1
+0
+
+Industry Excl Construction & Energy
+Intermediate Goods
+Profit margin (percent, rhs)
+
+-8
+
+3.0
+
+(Jan.2010=100)
+
+106
+
+-1
+
+10
+
+Euro Area Inflation Indices
+
+107
+
+-1
+6
+2012
+
+Inflation expectations remain well-anchored , but some
+market indicators signal much lower inflation ahead
+
+-2
+2001
+
+130
+
+Market and Survey-based Inflation
+2.5
+
+125
+
+2.0
+
+120
+
+1.5
+
+115
+
+1.0
+
+5-year forward 5 years ahead break-even
+inflation rate
+Consensus 5-year inflation expectation
+
+0.5
+
+5-year inflation rate expectation
+
+2003
+
+2005
+
+2009
+
+2010
+
+2011
+
+2012
+
+2011
+
+Base Money and M3
+(Jan 2007=100)
+
+110
+M3
+M3 increasing at 4.5%
+
+100
+2008
+
+2009
+
+And broad M3 money growth signals no imminent
+inflation risks
+
+105
+
+0.0
+
+2007
+
+Jan-07 Nov-07 Sep-08
+
+Jul-09
+
+May-10 Mar-11
+
+Jan-12
+
+Sources: Eurostat; ECB; European Commision; Haver Analytics; IMF, World Economic Outlook, and staff calculations.
+
+INTERNATIONAL MONETARY FUND
+
+29
+
+EURO AREA POLICIES
+
+Figure 3a. Fiscal Outlook in the Euro Area: 2012 April WEO
+With 2011 deficit and debt levels well above targets...
+
+...planned fiscal consolidation is substantial ...
+7
+
+180
+
+3 percent of GDP Deficit
+Limit
+
+IRL
+
+ESP
+
+CY
+
+140
+
+IT
+
+120
+
+PRT
+BEL
+
+100
+
+FR
+
+EA
+
+DEU 80
+
+AT
+
+NLD
+
+MT
+FIN
+
+SI
+SVK
+
+60
+40
+
+LUX 20
+
+60 percent of GDP Debt Limit
+
+0
+-12
+
+-10
+
+-8
+
+-6
+
+IRL
+
+160
+
+Cumulative Change in Structural Balance, 2011-17
+
+Gross Government Debt, 2011 (Percent of GDP)
+
+GRC
+
+-4
+
+-2
+
+PRT
+
+0
+
+ESP
+
+MLT
+
+NLD
+
+AUT
+
+SVK
+
+DEU
+SVN
+-10
+
+-8
+
+-6
+
+1
+FIN
+
+0
+
+-4
+
+-2
+
+0
+
+2
+
+Structural Balance , 2011 (Percent of GDP)
+
+...and largely frontloaded...
+115
+
+...allowing debt ratio to peak earlier and at a lower
+level than in other economies 1/
+
+260
+255
+
+110
+
+1.2
+
+4
+
+EST
+
+-1
+-2
+
+2
+
+1.4
+
+3
+2
+
+ITA
+
+LUX
+
+Gross Debt (Percent of GDP)
+
+Yearly Change in Structural Balance (Percent of GDP)
+
+4
+
+BEL
+FRA
+
+EST
+
+250
+
+105
+
+1.0
+
+245
+Euro Area
+
+100
+
+0.8
+0.6
+0.4
+
+US
+
+240
+
+United Kingdom
+235
+
+Japan (rhs)
+
+95
+
+230
+90
+225
+85
+
+0.2
+0.0
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+220
+215
+
+80
+2011
+
+2012
+
+2013
+
+Source: 2012 April WEO
+1/ Euro Area, US and the UK shown in primary axis: Japan shown in secondary axis.
+
+30
+
+6
+5
+
+Government Deficit , 2011 (Percent of GDP)
+
+1.6
+
+CYP
+GRC
+
+INTERNATIONAL MONETARY FUND
+
+2014
+
+2015
+
+2016
+
+2017
+
+EURO AREA POLICIES
+
+Fiscal consolidation is increasingly demanding in a
+deteriorating outlook...1/
+
+7
+
+-0.5
+
+2012 consolidation efforts in excess of 2011
+plans
+
+6
+5
+
+...as countries stick to SGP nominal targets 3/
+
+0.0
+-1.0
+-1.5
+
+5-Year Bond Yield
+
+12
+10
+
+PT
+IRL
+
+8
+
+IT
+
+6
+
+ES
+
+BEL
+FR
+
+AT
+DEU
+
+2
+
+NLD
+
+0
+-5
+
+GRC
+
+R² = 0.6422
+
+FIN 4
+
+Finland
+
+Germany
+
+Austria
+
+Netherlands
+
+Belgium
+
+Portugal
+
+Ireland
+
+Italy
+
+France
+
+Spain
+
+Spain
+
+...shrinking fiscal space in many countries
+16
+14
+
+Greece
+
+Required adjustment in CAPB, 2011-20 5/
+-5
+0
+5
+10
+15
+20
+
+The scale of consolidation is also large in teh
+longer term ..
+
+Slovenia
+
+-4.5
+
+Austria
+
+-1
+
+Overall deficit in 2012 SGP (Percent of GDP)
+Overall deficit in 2011 SGP (Percent of GDP)
+
+Slovak Republic
+
+-4.0
+
+Portugal 4/
+
+0
+
+3 percent of GDP deficit threshold
+
+Netherlands 2/
+
+-3.5
+
+Italy
+
+-3.0
+
+1
+
+Ireland 4/
+
+-2.5
+
+2
+
+Greece 4/
+
+-2.0
+
+3
+
+France
+
+4
+
+Cyprus
+Portugal
+Spain
+Italy
+Greece
+Slovenia
+Netherlands 2/
+Finland
+France
+Luxembourg
+Belgium
+Slovak Republic
+Austria
+Germany
+Malta
+Ireland
+
+2011-13 cumulative change in structural
+balance, percent of GDP; 2012 over 2011
+
+Figure 3b. Fiscal Consolidation in the Euro area: Challenges
+
+0
+
+5
+
+10
+
+15
+
+20
+
+Required Adjustment in CAPB
+
+SK
+
+6
+
+R² = 0.234
+
+NLD
+
+2
+
+FR
+IRL
+
+0
+
+Finland
+
+Luxembourg
+
+Slovenia
+
+France
+
+Required Adjustment in CAPB
+
+Belgium
+
+-2
+
+-2
+
+Austria
+
+-1
+
+Germany
+
+GRC
+
+20
+
+Slovak Republic
+
+ES
+
+15
+
+Italy
+
+PT
+
+1
+10
+
+Netherlands
+
+IT 5
+
+Cumulative change 2013-17
+
+3
+
+Portugal
+
+0
+
+BEL
+SI
+
+4
+
+Cyprus
+
+0
+
+DEU
+
+Cumulative change 2011-13
+
+Ireland
+
+1
+FIN
+
+AT
+
+5
+
+Malta
+
+2
+
+... and overall prompting substantial frontloading in
+many countries
+
+Spain
+
+3
+
+-1
+
+7
+
+Greece
+
+-5
+
+Real GDP growth 2011-12
+
+...with weak growth adding to the challenge...
+4
+
+Sources: WEO; 2011 and 2012 Stability Programs; and J. P. Morgan
+1/ The chart shows fiscal consolidation over 2011-13 required at the 2012 Stability Programs in excess of fiscal consolidation envisaged
+in last year's Stability Program. A positive sign indicates that fiscal policy is tighter under current plans.
+2/ The figure for 2013 includes the measures recently agreed by the Dutch parliament.
+3/ The chart focuses on Euro area countries currently under EDP.
+4/ Targets under program commitments.
+5/ Ajustment in CAPB required between 2011 and 2020 (and sustained for the 2020-30 decade) to bring down the debt-to-GDP ratio to
+60 percent by 2030, or to stabilize debt at the 2012 level if the ratio is less than 60 percent of GDP.
+
+INTERNATIONAL MONETARY FUND
+
+31
+
+EURO AREA POLICIES
+
+Figure 4. LTROs: Effects on the ECB balance sheet and bank funding
+The 3y LTROs are extremes in terms of size and average
+allotment per bidder... 1/
+1000
+1000
+Average allotment (mil euro)
+
+900
+
+900
+
+Dec 2011
+
+800
+700
+
+800
+700
+
+May 2010
+
+600
+
+600
+
+Feb 2012
+
+500
+
+Dec.2009
+
+400
+
+Jun 2009
+
+Oct.2011
+
+300
+200
+
+200
+400
+Size of refi (bil euro)
+
+Bank Reliance on ECB Funding
+(Percent of banking sector assets)
+
+9
+8
+
+1400
+
+Longer-term refinancing operations
+
+1200
+
+1200
+
+Main (weekly) refinancing operations
+
+1000
+
+1000
+
+SMP
+
+600
+
+600
+
+300
+
+400
+
+400
+
+200
+
+200
+
+800
+
+CBPP
+
+0
+
+0
+2005
+
+600
+
+ECB funding dependence of periphery banks
+increased substantially...
+
+10
+
+1400
+
+400
+
+0
+-
+
+1600
+
+ECB balance sheet composition
+(Billions of euros)
+
+500
+
+100
+
+0
+
+1600
+
+800
+
+200
+
+Sep.2009
+
+100
+
+...and led to sizable expansion and maturity lengthening
+of the ECB balance sheet .
+
+10
+
+10
+
+9
+
+9
+
+8
+
+8
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+... while also creating room for sovereign carry trade
+strategies.
+10
+
+Banks' Sovereign Bond Holdings
+(Percent of bank assets)
+
+9
+8
+
+7
+
+Greece, Ireland, Portugal, Spain, Italy
+
+7
+
+7
+
+7
+
+6
+
+Rest of the Euro area
+
+6
+
+6
+
+6
+
+5
+
+Euro area
+
+5
+
+5
+
+5
+
+4
+
+4
+
+4
+
+3
+
+3
+
+3
+
+Euro area
+
+3
+
+2
+
+2
+
+2
+
+Greece, Ireland, Italy, Portugal, Spain
+
+2
+
+1
+
+1
+
+1
+
+Rest of the euro area
+
+1
+
+0
+
+0
+
+0
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+4
+
+0
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+Eventually, LTROs could be countereffective as they increase asset encumbrance and create collateral shortages
+25
+
+25
+
+Asset Encumbrance 2007 and Feb.2012
+(Percent of bank assets)
+
+20
+
+ECB LTRO
+
+20
+
+ECB (before LTRO)
+covered bonds
+
+15
+
+15
+
+repo
+
+10
+
+10
+
+5
+
+5
+
+0
+
+ESP
+
+PRT
+
+GRC
+
+IRL
+
+DEU
+
+EMU
+
+ITA
+
+NLD
+
+FRA
+
+SVK
+
+AUT
+
+BEL
+
+LUX
+
+CYP
+
+FIN
+
+MLT
+
+EST
+
+Sources: European Central Bank; Haver Analytics; European Covered Bond Council; and IMF staff calculations.
+1/ Blue circles: 6 month LTROs, green: 1yr , red: 3yr
+
+32
+
+INTERNATIONAL MONETARY FUND
+
+SVN
+
+0
+
+EURO AREA POLICIES
+
+Table 1. Euro Area: Main Economic Indicators, 2007-2014
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+3.0
+
+0.4
+
+-4.3
+
+1.9
+
+1.5
+
+-0.3
+
+0.7
+
+1.3
+
+1.7
+2.2
+4.7
+2.4
+0.4
+2.8
+0.2
+6.6
+6.2
+
+0.4
+2.3
+-1.1
+0.5
+-0.1
+0.3
+0.1
+1.0
+0.9
+
+-1.2
+2.5
+-12.1
+-2.8
+-1.0
+-3.7
+-0.6
+-12.7
+-11.7
+
+0.9
+0.5
+-0.5
+0.5
+0.7
+1.2
+0.7
+11.2
+9.6
+
+0.2
+0.0
+1.3
+0.4
+0.1
+0.4
+1.1
+6.2
+3.8
+
+-0.5
+-0.7
+-2.4
+-0.9
+-0.5
+-1.3
+1.0
+2.1
+-0.2
+
+0.5
+-0.4
+1.1
+0.4
+-0.1
+0.4
+0.3
+3.1
+2.7
+
+1.0
+0.2
+1.8
+1.0
+0.0
+1.0
+0.3
+3.8
+3.3
+
+Resource Utilization
+Potential GDP
+Output gap
+Employment
+Unemployment rate 3/
+
+1.7
+2.7
+1.8
+7.6
+
+1.4
+1.6
+0.7
+7.7
+
+0.8
+-3.6
+-1.8
+9.6
+
+0.7
+-2.4
+-0.5
+10.1
+
+0.6
+-1.5
+0.1
+10.2
+
+0.5
+-2.3
+-0.7
+11.1
+
+0.7
+-2.3
+0.1
+11.3
+
+0.8
+-1.9
+0.6
+11.1
+
+Prices
+GDP deflator
+Consumer prices
+
+2.4
+2.1
+
+2.0
+3.3
+
+0.9
+0.3
+
+0.7
+1.6
+
+1.3
+2.7
+
+1.9
+2.2
+
+1.4
+1.6
+
+1.5
+1.5
+
+-0.7
+-2.3
+66.4
+
+-2.1
+-2.9
+70.2
+
+-6.4
+-4.4
+80.0
+
+-6.2
+-4.2
+85.8
+
+-4.1
+-3.1
+88.1
+
+-3.2
+-1.7
+91.4
+
+-2.5
+-1.1
+92.4
+
+-2.0
+-0.9
+92.2
+
+4.3
+4.3
+
+4.6
+4.4
+
+1.2
+4.0
+
+0.8
+3.8
+
+1.4
+4.3
+
+0.7
+3.5
+
+…
+…
+
+…
+…
+
+1.37
+103.7
+100.9
+
+1.47
+108.7
+103.4
+
+1.39
+110.9
+104.0
+
+1.33
+103.2
+95.3
+
+1.39
+104.2
+95.0
+
+1.28
+99.3
+89.8
+
+…
+…
+…
+
+…
+…
+…
+
+0.1
+
+-1.6
+
+-0.2
+
+-0.1
+
+0.0
+
+0.9
+
+1.0
+
+1.1
+
+Demand and Supply
+Real GDP
+Private consumption
+Public consumption
+Gross fixed investment
+Final domestic demand
+Stockbuilding 1/
+Domestic Demand
+Foreign balance 1/
+Exports 2/
+Imports 2/
+
+Public Finance 4/
+General government balance
+General government structural balance
+General government gross debt
+Interest Rates 3/ 5/
+EURIBOR 3-month offered rate
+10-year government benchmark bond yield
+Exchange Rates 5/
+U.S. dollar per euro
+Nominal effective rate (2000=100)
+Real effective rate (2000=100) 6/
+External Sector 4/ 7/
+Current account balance
+
+2012
+2013
+2014
+staff projection
+
+Sources: IMF, World Economic Outlook; Global Data Source; DataStream; and Eurostat.
+1/
+2/
+3/
+4/
+5/
+6/
+7/
+
+Contribution to growth.
+Includes intra-euro area trade.
+In percent.
+In percent of GDP.
+Latest monthly available data for 2012.
+CPI based.
+Based on ECB data, which excludes intra-euro area flows.
+
+INTERNATIONAL MONETARY FUND
+
+33
+
+EURO AREA POLICIES
+
+Table 2. Euro Area: Balance of Payments
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+(Billions of euros)
+20.9
+98.7
+22.5
+-44.8
+-56.1
+
+60.8
+94.1
+32.9
+-6.8
+-59.5
+
+10.9
+42.2
+39.6
+2.4
+-73.4
+
+-12.7
+8.1
+42.5
+16.6
+-79.6
+
+7.3
+42.3
+47.9
+5.3
+-87.9
+
+-143.4
+-21.8
+42.0
+-66.8
+-97.1
+
+-22.0
+31.2
+36.5
+3.4
+-93.1
+
+-6.9
+15.0
+49.6
+31.7
+-103.3
+
+-3.2
+4.9
+61.0
+31.8
+-100.6
+
+12.2
+
+16.6
+
+12.0
+
+9.6
+
+4.8
+
+10.0
+
+6.5
+
+6.4
+
+10.8
+
+Financial account
+Direct investment
+Portfolio investment
+Equity
+Debt instruments
+Financial derivatives
+Other investment
+Reserve assets
+
+-14.0
+-9.7
+54.4
+32.8
+21.3
+-13.7
+-72.8
+28.0
+
+-78.6
+-79.4
+44.1
+-2.3
+46.7
+-8.3
+-47.9
+12.6
+
+-35.2
+-203.9
+106.4
+103.7
+2.4
+-17.3
+62.1
+18.2
+
+-6.2
+-159.6
+186.0
+89.2
+96.5
+-0.7
+-30.9
+-1.1
+
+3.1
+-90.4
+126.8
+102.0
+24.9
+-67.0
+38.7
+-4.9
+
+121.3
+-231.2
+261.4
+-14.7
+276.3
+-84.6
+178.8
+-3.4
+
+9.4
+-105.1
+265.8
+71.8
+193.9
+19.9
+-175.7
+4.6
+
+-2.7
+-113.8
+165.1
+67.4
+97.8
+18.4
+-61.7
+-10.5
+
+-24.6
+-151.0
+308.1
+189.5
+118.9
+-20.8
+-150.8
+-10.1
+
+Errors and omissions
+
+-19.1
+
+1.1
+
+12.4
+
+9.4
+
+-15.1
+
+12.2
+
+5.7
+
+2.9
+
+17.0
+
+Current account
+Goods
+Services
+Income
+Current transfers
+Capital account
+
+(Percent of GDP)
+0.3
+1.3
+0.3
+-0.6
+-0.7
+
+0.8
+1.2
+0.4
+-0.1
+-0.8
+
+0.1
+0.5
+0.5
+0.0
+-0.9
+
+-0.1
+0.1
+0.5
+0.2
+-0.9
+
+0.1
+0.5
+0.5
+0.1
+-1.0
+
+-1.6
+-0.2
+0.5
+-0.7
+-1.1
+
+-0.2
+0.3
+0.4
+0.0
+-1.0
+
+-0.1
+0.2
+0.5
+0.3
+-1.1
+
+0.0
+0.1
+0.6
+0.3
+-1.1
+
+0.2
+
+0.2
+
+0.1
+
+0.1
+
+0.1
+
+0.1
+
+0.1
+
+0.1
+
+0.1
+
+Financial account
+Direct investment
+Portfolio investment
+Equity
+Debt instruments
+Financial derivatives
+Other investment
+Reserve assets
+
+-0.2
+-0.1
+0.7
+0.4
+0.3
+-0.2
+-1.0
+0.4
+
+-1.0
+-1.0
+0.6
+0.0
+0.6
+-0.1
+-0.6
+0.2
+
+-0.4
+-2.5
+1.3
+1.3
+0.0
+-0.2
+0.8
+0.2
+
+-0.1
+-1.9
+2.2
+1.0
+1.1
+0.0
+-0.4
+0.0
+
+0.0
+-1.0
+1.4
+1.1
+0.3
+-0.7
+0.4
+-0.1
+
+1.3
+-2.5
+2.8
+-0.2
+3.0
+-0.9
+1.9
+0.0
+
+0.1
+-1.2
+3.0
+0.8
+2.2
+0.2
+-2.0
+0.1
+
+0.0
+-1.2
+1.8
+0.7
+1.1
+0.2
+-0.7
+-0.1
+
+-0.3
+-1.6
+3.3
+2.0
+1.3
+-0.2
+-1.6
+-0.1
+
+Errors and omissions
+
+-0.3
+
+0.0
+
+0.2
+
+0.1
+
+-0.2
+
+0.1
+
+0.1
+
+0.0
+
+0.2
+
+7,546.9 7,860.4 8,145.4 8,564.9 9,030.2 9,244.3
+
+8,930.1
+
+9,160.9
+
+9,425.8
+
+462.4
+
+591.2
+
+667.1
+
+Current account
+Goods
+Services
+Income
+Current transfers
+Capital account
+
+Memorandum items:
+GDP (billions of euros)
+Reserves of the eurosystem 1/
+(billions of euros)
+Source: ECB.
+1/ End of period stocks.
+
+34
+
+INTERNATIONAL MONETARY FUND
+
+306.7
+
+281
+
+320.1
+
+325.8
+
+347.2
+
+374.2
+
+EURO AREA POLICIES
+
+Table 3. IMF Policy Recommendations for Selected Countries
+Greece
+
+Fiscal Policies and Reforms
+• Specify and legislate
+remaining revenue and
+expenditure measures
+necessary to achieve the
+medium-term fiscal target
+• Undertake fiscal institutional
+reforms to improve revenue
+collection and prevent
+expenditure arrears
+
+Ireland
+
+• Accommodate a revenue
+shortfall if growth weakens
+notably in 2012 to help
+protect the fragile recovery
+• Specify the measures to
+underpin the 2013-15 fiscal
+consolidation by Budget
+2013, including targeting of
+social welfare
+• Implement fiscal
+institutional reforms through
+the Fiscal Responsibility Bill
+and give a statutory basis to
+the medium-term
+expenditure ceilings
+
+Portugal
+
+• Adhere to programmed
+fiscal targets, but avoid
+excessive structural
+adjustment in case of weaker
+growth and employment
+• Ensure timely
+implementation of PFM
+reform agenda
+• Reduce contingent liabilities
+through timely, planned SOE
+restructuring
+
+Italy
+
+Financial Sector Reforms
+• Finalize recapitalization
+strategy for viable banks and
+establish timeframe for
+capital raising
+• Finalize plans to address
+state-owned banks in a least
+cost manner (while protecting
+depositors)
+• Implement PTSB
+restructuring carefully to put
+it on a sound footing,
+including through timely
+separation of certain legacy
+assets
+• Strengthen banks’ capacity
+to manage distressed loans to
+help restore their viability and
+restart lending
+
+Structural Reforms
+• Improve competitiveness
+through labor market reforms,
+product and service market
+liberalization, and business
+environment reforms
+
+• Fully implement Pathways to
+Work strategy, and increase
+resources for engaging with
+jobseekers, possibly through
+private employment services
+• Implement asset sales in 2013,
+and reinvest a portion of
+proceeds, but strengthen
+competition enforcement to
+harness the full growth benefits
+
+• Prepare the new personal
+insolvency framework to
+address household debt
+distress while protecting debt
+service discipline
+
+• Review the structure of social
+payments to avoid
+unemployment traps, especially
+for the long-term unemployed
+
+• Avert a credit crunch by
+ensuring alignment of bank
+deleveraging plans with
+available credit supply
+
+• Ensure competitiveness gains
+through accelerated supply side
+reforms, notably the labor code
+and product market reforms
+
+• Strengthen the capital
+buffers of the largest banks in
+line with program targets
+
+• Address structural weaknesses
+in wage setting mechanisms
+and the judicial system
+
+• Strengthen the supervision
+and resolution framework
+
+• Lower taxes supported by
+expenditure cuts to better
+distribute the burden of
+adjustment and help growth
+
+• Strengthen capital and
+liquidity buffers by raising
+equity and/or disposing of
+noncore assets
+
+• To build buffers, target an
+overall structural surplus of 1
+percent of GDP as the anchor
+for the new fiscal rule;
+legislate medium-term
+
+• Conduct and publish stress
+tests on banks not covered by
+the EBA
+
+• Raise productivity in services
+by accelerating reforms in the
+energy, local public, and
+professional services sectors to
+reduce the cost of doing
+business and increase
+competition
+
+• Encourage banks to devise
+
+• Curb state involvement in the
+
+INTERNATIONAL MONETARY FUND
+
+35
+
+EURO AREA POLICIES
+
+expenditure cuts in next
+year’s budget to lock in gains
+• Strengthen fiscal institutions
+by ensuring independence of
+fiscal council, adopting multiyear expenditure frameworks,
+and merging the various
+spending reviews into a
+central role in the budget
+process
+Spain
+
+• Make the fiscal adjustment
+less front loaded and embed
+in a more prudent macro
+framework
+• Increase role of revenue
+measures, especially indirect
+taxes
+• Apply sanctions on regional
+government finances and
+improve their transparency
+
+36
+
+INTERNATIONAL MONETARY FUND
+
+strategies for selling,
+restructuring or writing down
+impaired loans
+• Strengthen the crisis
+management framework in
+line with the forthcoming EU
+Directive
+
+• Communicate
+comprehensive strategy,
+including triaging banks
+according to the independent
+valuations, and managing
+legacy assets
+• Enhance crisis management
+and resolution framework
+
+economy
+• Implement labor market
+reform to reduce duality,
+increase participation, and
+decentralize wage setting
+• Promote SME growth by
+improving access to financing
+and reducing start-up costs and
+regulatory hurdles
+• Implement approved labor
+market reforms
+• Implement other planned
+structural reforms
+
+EURO AREA POLICIES
+
+APPENDIX I: STATISTICAL ISSUES
+
+1
+
+Statistics for the EU and the euro area are collected by Eurostat from the national statistical
+institutes. These statistics are generally of sufficient quality, scope, and timeliness to allow for
+effective macroeconomic surveillance. This appendix summarizes ongoing developments and
+desirable improvements.
+1.
+The Code of Practice for the European Statistical System has been revised. The new
+code reaffirms the principles for the production and dissemination of statistics set out in 2005 and
+reinforces statistical independence, statistical use of administrative data and quality management.
+Following this revision, a mapping of the revised code and other existing quality frameworks,
+including the Fund’s DQAF, with the new UN Generic National Quality Assurance Framework was
+presented at the UN Statistical Commission in 2012. The UN Committee for the Coordination of
+Statistical Activities was invited to harmonize the different quality assessment frameworks.2
+2.
+
+Initiatives on National Accounts are underway. These include:
+
+
+
+NACE Rev. 2: Annual and quarterly euro area aggregates starting in 2000 were released in
+December 2011 (three months behind schedule due to late reporting by some countries).
+The legal deadline for reporting long time series 1995-2000 according to NACE rev2 is endSeptember 2012, which will allow EU/EA aggregates to be released by December 2012.
+Eurostat expects no significant changes in countries’ GDP under the new method.
+
+
+
+ESA 2010: Countries are expected to adopt the new system by September 2014. The
+supporting legal framework is currently under discussion and should be adopted throughout
+the year. The main challenges ahead include improvements in the timeliness for the main
+national accounts aggregates (from t+70 to t+60 days); the backward calculation of time
+series; and the transmission of a supplementary tables on pension schemes based on SNA
+2008 standards, which is being resisted by some countries.
+
+
+
+Data Gaps Initiative: Eurostat is collaborating actively with the Inter-Agency Group (IAG) on
+this front. IAG members have agreed on a template for reporting quarterly financial and
+non-financial accounts by institutional sectors. To enable the provision of this data at both
+annual and quarterly frequencies, it will be essential that Eurostat reaches agreement with
+member countries.
+
+3.
+The new Macroeconomic Imbalances Procedure has involved considerable data
+collection since last year’s consultation. Eurostat and the national statistical institutes worked
+closely with the European Commission (DG ECFIN–Directorate General of Economic and Financial
+Affairs) and the ECB during 2011 to set up a scoreboard of indicators with which to assess internal
+1
+
+The European Department is grateful for the participation of experts from the Statistics Department also in the
+
+consultation. Mark Van Wersch acted as the STA coordinator.
+2
+
+ibid, p. 14.
+
+INTERNATIONAL MONETARY FUND
+
+37
+
+EURO AREA POLICIES
+
+and external imbalances (the so-called Macroeconomic Imbalances Procedure). Eurostat has
+created a new platform collecting all relevant indicators3, which will be updated on an annual basis.
+In a small number of areas further work is needed, in particular house price developments (see next
+paragraph) and the compilation of private sector debt, where some consistency issues exist in the
+recording of intra-company loans and the treatment of Special Purpose Entities (i.e., holding
+companies).
+4.
+Updates on data on property markets under the Principal European Economic
+Indicators (PEEIs) strategy:
+
+
+Residential property prices: Eurostat is currently releasing quarterly house price data, which
+will be covered by a new regulation entering into force in autumn 2012 and requiring data
+transmission at t+85 days. Monthly data is unlikely to become available in the near future
+with full coverage. Although comparability issues remain, harmonization at EU level has been
+steadily improving. To help economic analysis, it was advised that more be done to flag
+countries whose coverage and/or methodology are not fully in line with the harmonized
+rules.
+
+
+
+Indicator on house sales: Eurostat expects that a harmonized indicator can be obtained as a
+byproduct of improvements in transaction price quarterly indexes of residential properties
+(see above). In staff’s view, where house price indices are derived from a comprehensive and
+timely Land Registry, sales data could be a useful by product.
+
+
+
+Commercial Property Price Indices (CPPIs): Collaboration between international organizations
+(including the Fund) is underway to set standards for the compilation of CPPIs. As lead
+agency, Eurostat has organized a tender for developing an international Handbook on best
+practices for compiling such indices. This is an area for which data at present are sparse and
+of variable quality. However, given the importance of CPPIs, the endeavor is worth pursuing.
+
+5.
+It was agreed that more information would be provided to explain the impact of the
+new treatment of seasonal products on the HICP introduced last year. Eurostat has published an
+impact report (updated regularly) for each country. It was noted that, for several countries the
+effects were quite marked. Staff asked for more information to be provided on the underlying
+reasons for changes, especially those due to the changes in methodology.
+6.
+Eurostat is working towards an improved dissemination of quarterly government
+finance statistics. This includes the improvement of timelines and the production of a new press
+release on quarterly government debt and actions. One outstanding issue is that a few countries still
+
+3
+
+The indicators comprise the current account balance (as percentage of GDP), the net international investment
+
+position (as percentage of GDP), export market shares (goods and services) measures in values, nominal unit labor
+costs, HICP-based real effective exchange rates relative to 35 industrial partners, private sector debt (percent of GDP),
+general government debt (percent of GDP), private sector credit flow (percent of GDP), house prices relative to
+consumption deflator, and the unemployment rate.
+
+38
+
+INTERNATIONAL MONETARY FUND
+
+EURO AREA POLICIES
+
+restrict the dissemination of quarterly government finance statistics for the first quarters of the year
+because of quality concerns. A new element in the quarterly statistics is the data on
+intergovernmental lending that will avoid double-counting through consolidation.
+7.
+The Directive on national fiscal frameworks poses considerable challenges to
+government finance statistics. The Directive calls for the dissemination of monthly data on
+government operations and balance sheet. This entails some difficulties for statistical compilers, but
+data are expected to be disseminated from 2014. The provision of additional data on public sector
+statistics is even more demanding. The analysis of public finances is currently limited to the general
+government sector, following the ESA 95 and Excessive Deficit Procedure concepts. However, given
+their magnitude in many countries, a fully-fledged register of debt and deficits of public
+corporations is essential to the assessment of fiscal risks. Eurostat is working closely with member
+states to publish new chapters on the ESA 95 Manual on Government Deficit and Debt.
+8.
+
+Work continues to modernize Balance of Payments statistics:
+
+
+
+BPM6: The Regulation introducing BPM6 should be adopted in a matter of weeks. Eurostat is
+engaged with countries to ensure the swift implementation of the new methodology. The
+2014 deadline is mandatory and no derogations are envisaged, thus countries should adhere
+to the deadline.
+
+
+
+Intrastat reporting: Easing the reporting burden for international trade statistics remains a
+priority. Eurostat is encouraging countries to collect and exchange micro-export data with
+other trade partners. This would allow for more flexibility as compared with the current
+system, which also requires the reporting of import data.
+
+
+
+Bilateral exchange of micro-data for FDI: While the tool has proved useful to enhance data
+quality, Eurostat and staff concurred that compulsory reporting would be required to perfect
+the system.
+
+
+
+Asymmetries in trade statistics: Asymmetries persist but they are limited and stable over time.
+Eurostat engages with countries in regular “reconciliation rounds” that facilitate the
+exchange of micro data. Due to technical limitations faced by some countries, the rounds are
+voluntary. Eurostat’s efforts to develop tools to resolve this issue are welcome.
+
+INTERNATIONAL MONETARY FUND
+
+39
+
+Public Information Notice (PIN) No. 12/80
+
+International Monetary Fund
+
+FOR IMMEDIATE RELEASE
+
+700 19th Street, NW
+
+July 18, 2012
+
+Washington, D. C. 20431 USA
+
+IMF Executive Board Concludes Article IV Consultation
+on Euro Area Policies
+On July 16, 2012, the Executive Board of the International Monetary Fund (IMF) concluded the
+Article IV consultation on Euro Area Policies.1
+Background
+The euro area crisis has intensified. Adverse links between banks, sovereigns, and the real
+economy have deepened, driving sovereign borrowing costs and risk premiums to record
+levels. Investors are withholding funding from member states most in need, moving capital
+"north" and abroad to perceived safer assets. This has contributed to divergences in liquidity
+1
+
+Under Article IV of the IMF's Articles of Agreement, the IMF holds bilateral discussions with
+
+members, usually every year. A staff team visits the country, collects economic and financial
+information, and discusses with officials the country's economic developments and policies. On
+return to headquarters, the staff prepares a report, which forms the basis for discussion by the
+Executive Board. At the conclusion of the discussion, the Managing Director, as Chairman of the
+Board, summarizes the views of Executive Directors, and this summary is transmitted to the
+country's authorities. An explanation of any qualifiers used in summings up can be found here:
+http://www.imf.org/external/np/sec/misc/qualifiers.htm.
+
+2
+conditions and lending rates within the euro area, adding to already-severe pressures on many
+bank and sovereign balance sheets and raising questions about the viability of the monetary
+union itself.
+Economic activity has weakened and is likely to remain subdued, particularly in the hard-hit
+periphery countries. After averaging 1.5 percent in 2011, euro area GDP growth is expected to
+be -0.3 and 0.7 percent in 2012 and 2013, respectively. In this context, headline inflation is
+projected to fall well below 2 percent by 2013 and to remain there through 2014. Strong
+headwinds to growth—including much tighter financing conditions, subdued confidence, and
+fiscal consolidation—are likely to be compounded by banks and households repairing balance
+sheets and consumers acting cautious amidst heightened uncertainty. This will add further
+pressure to the high level of unemployment and increase the risk of stagnation and long-term
+damage to potential growth as unemployed workers lose skills and new workers find it difficult
+to join the active labor force.
+There are severe downside risks to the outlook, with possible substantial regional and global
+implications. Reinforced negative bank-sovereign linkages could further weigh on confidence,
+growth, and public debt trajectories, while boosting sovereign spreads and risk premiums.
+Depending on the pass-through of weaker growth and financial market stress, the global
+spillovers are likely to be significant. The potential for failure of a systemic bank, or stalled
+reform or fiscal adjustment efforts at the country level, could spill into the euro area and
+beyond.
+Major policy actions have averted an even more rapid escalation of the crisis. The European
+Central Bank has lowered its policy interest rates to historic levels, and conducted special
+liquidity interventions to ease bank funding pressures. The European and global firewall has
+been enlarged and will provide added liquidity insurance to sovereigns, while the adoption of
+the Fiscal Compact will strengthen budgetary discipline. Moreover, national governments in
+deficit countries have embarked on fiscal consolidation and reaffirmed their debt sustainability
+and deficit targets.
+
+3
+Most recently, European leaders agreed to steps toward a banking union that, if implemented
+in full, will help break the adverse links between sovereigns and banks. In particular, plans to
+establish a single supervisory mechanism, followed by the possibility of using European
+Stability Mechanism (ESM) resources to recapitalize banks directly, were defined. In addition,
+the leaders re-affirmed a willingness to consider using existing resources from the European
+Financial Stability Facility (EFSF) or the ESM to purchase sovereign bonds. However, despite
+these initiatives, bank and sovereign stresses persist, reflecting continued market concerns
+that a sustainable solution has yet to be achieved.
+Executive Board Assessment
+Executive Directors noted that the euro area continues to face a number of economic
+challenges amid increasing financial stresses and market fragmentation, with considerable
+downside risks to the already weak growth outlook, notably a further intensification of the
+sovereign debt crisis. Directors welcomed the many policy actions taken recently to restore
+growth and financial stability, including the rate cuts by the European Central Bank (ECB) and
+the enlarged European firewall. They urged prompt and full implementation of the important
+initiatives agreed at the European Leaders’ Summit in June, as well as further collective action
+to strengthen the crisis response and mitigate spillovers. Directors underlined the urgency of
+completing the reform of the monetary union architecture and promoting strong, balanced
+growth across the euro area—key to restoring confidence in the near term and ensuring the
+long-term viability of the euro. They highlighted that these are the responsibilities of the euro
+zone as a whole and of each member state.
+Directors stressed that, as the crisis had reached a critical stage, it is important that
+policymakers continue to demonstrate shared and unequivocal commitment—with a clear,
+credible roadmap—to a deeper integration of the euro area. They agreed that the immediate
+priority is to break the adverse loops between banks, sovereigns, and growth prospects. This
+requires action on three major fronts:
+
+
+First, steps toward a banking union, comprising a pan-European deposit guarantee
+scheme and a pan-European bank resolution scheme—both backed with common
+resources—together with a common supervisory framework.
+
+
+
+4
+Second, greater fiscal integration, with stronger governance arrangements and risk
+sharing, balanced by appropriate safeguards. Directors welcomed the Fiscal Compact
+and the proposed “two pack” as important steps toward better governance, aligning
+national policies with common objectives through enhanced European oversight.
+
+
+
+Third, structural reforms in both deficit and surplus countries to raise trend growth and
+address external imbalances within the euro area. Directors emphasized in particular
+the need to reform the labor and product markets, and to facilitate wage and price
+adjustments to boost competitiveness.
+
+Recognizing that many of these steps would necessarily take some time to implement and
+have full effect, Directors underscored the importance of the following policies directed at the
+immediate situation:
+
+
+First, crisis measures, financing under the enlarged European firewall facilities, and
+continued official funding support. Directors welcomed the authorities’ commitment to
+use EFSF/ESM resources flexibly. They looked forward to early progress toward a
+single supervisory mechanism for euro area banks, paving the way for direct
+recapitalization of banks by the ESM. Directors agreed that the ECB will have to
+continue to play a role in the crisis response, including through liquidity provision and
+securities purchases. A few Directors also noted that clarifying the seniority status of
+sovereign debt holdings by the ECB would help address market concerns.
+
+
+
+Second, supportive monetary policy. Noting fundamentally weak inflationary pressures,
+Directors generally saw scope for further monetary easing, especially if downside risks
+to growth materialize, including through additional non-standard measures in view of
+the impaired monetary transmission mechanism.
+
+
+
+Third, fiscal consolidation that is as growth friendly as possible and at a differentiated
+pace based on individual countries’ circumstances. To deal with growth surprises in the
+short term, Directors encouraged member states to focus on structural fiscal targets
+and exploit the flexibility built into the Fiscal Compact.
+
+5
+Public Information Notices (PINs) form part of the IMF's efforts to promote transparency of the IMF's
+views and analysis of economic developments and policies. With the consent of the country
+(or countries) concerned, PINs are issued after Executive Board discussions of Article IV consultations
+with member countries, of its surveillance of developments at the regional level, of post-program
+monitoring, and of ex post assessments of member countries with longer-term program engagements.
+PINs are also issued after Executive Board discussions of general policy matters, unless otherwise
+decided by the Executive Board in a particular case. The staff report (use the free Adobe Acrobat
+Reader to view this pdf file) for the 2012 Article IV Consultation on Euro Area Policies is also available.
+
+6
+Euro Area: Main Economic Indicators
+(Percent change)
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+staff projection
+
+Demand and Supply
+Real GDP
+Private consumption
+Public consumption
+Gross fixed investment
+Final domestic demand
+Stockbuilding 1/
+Domestic Demand
+Foreign balance 1/
+Exports 2/
+Imports 2/
+
+3.0
+1.7
+2.2
+4.7
+2.4
+0.4
+2.8
+0.2
+6.6
+6.2
+
+0.4
+0.4
+2.3
+-1.1
+0.5
+-0.1
+0.3
+0.1
+1.0
+0.9
+
+-4.3
+-1.2
+2.5
+-12.1
+-2.8
+-1.0
+-3.7
+-0.6
+-12.7
+-11.7
+
+1.9
+0.9
+0.5
+-0.5
+0.5
+0.7
+1.2
+0.7
+11.2
+9.6
+
+1.5
+0.2
+0.0
+1.3
+0.4
+0.1
+0.4
+1.1
+6.2
+3.8
+
+-0.3
+-0.5
+-0.7
+-2.4
+-0.9
+-0.5
+-1.3
+1.0
+2.1
+-0.2
+
+0.7
+0.5
+-0.4
+1.1
+0.4
+-0.1
+0.4
+0.3
+3.1
+2.7
+
+Resource Utilization
+Potential GDP
+Output gap
+Employment
+Unemployment rate 3/
+
+1.7
+2.7
+1.8
+7.6
+
+1.4
+1.6
+0.7
+7.7
+
+0.8
+-3.6
+-1.8
+9.6
+
+0.7
+-2.4
+-0.5
+10.1
+
+0.6
+-1.5
+0.1
+10.2
+
+0.5
+-2.3
+-0.7
+11.1
+
+0.7
+-2.3
+0.1
+11.3
+
+Prices
+GDP deflator
+Consumer prices
+
+2.4
+2.1
+
+2.0
+3.3
+
+0.9
+0.3
+
+0.7
+1.6
+
+1.3
+2.7
+
+1.9
+2.2
+
+1.4
+1.6
+
+-0.7
+-2.3
+66.4
+
+-2.1
+-2.9
+70.2
+
+-6.4
+-4.4
+80.0
+
+-6.2
+-4.2
+85.8
+
+-4.1
+-3.1
+88.1
+
+-3.2
+-1.7
+91.4
+
+-2.5
+-1.1
+92.4
+
+4.3
+4.3
+
+4.6
+4.4
+
+1.2
+4.0
+
+0.8
+3.8
+
+1.4
+4.3
+
+0.7
+3.5
+
+…
+…
+
+1.37
+103.7
+100.9
+
+1.47
+108.7
+103.4
+
+1.39
+110.9
+104.0
+
+1.33
+103.2
+95.3
+
+1.39
+104.2
+95.0
+
+1.28
+99.3
+89.8
+
+…
+…
+…
+
+0.1
+
+-1.6
+
+-0.2
+
+-0.1
+
+0.0
+
+0.9
+
+1.0
+
+Public Finance 4/
+General government balance
+General government structural balance
+General government gross debt
+Interest Rates 3/ 5/
+EURIBOR 3-month offered rate
+10-year government benchmark bond yield
+Exchange Rates 5/
+U.S. dollar per euro
+Nominal effective rate (2000=100)
+Real effective rate (2000=100) 6/
+External Sector 4/ 7/
+Current account balance
+
+Sources: IMF, World Economic Outlook; Global Data Source; DataStream; and Eurostat.
+1/ Contribution to growth.
+2/ Includes intra-euro area trade.
+3/ In percent.
+4/ In percent of GDP.
+5/ Latest monthly available data for 2012.
+6/ CPI based.
+7/ Based on ECB data, which excludes intra-euro area flows.
+
+Statement by Mr. Fayolle, Executive Director for France
+on behalf of the Euro Area Authorities
+July 16, 2012
+In my capacity as President of EURIMF, I submit this Buff statement on the Article IV
+consultation with the euro area. It reflects the common view of the Member States of the
+euro area and the European Union in their respective fields of competence.
+The authorities of the euro-area Member States are grateful for open and fruitful
+consultations with staff and for their constructive policy advice.
+The authorities are in broad agreement with staff findings and recommendations.
+Particularly the agreement reached at the Euro Area summit on 29 June to establish an
+effective single supervisory mechanism, involving the ECB, following which the ESM
+could have the possibility to recapitalize banks directly, represents a decisive step
+towards breaking harmful feedback loops between banks and sovereigns, while
+recognizing the need for supervision and liability to go hand in hand. These proposals
+will be considered as a matter of urgency by the end of 2012. In the past months the areas
+of fiscal policy coordination and growth support have also seen further progress in
+completing the comprehensive response to tackle the root causes of the ongoing banking
+and debt crisis. New fiscal governance advances include Commission legislative
+proposals under the so-called 'two pack', which strengthen national fiscal frameworks,
+allow for closer fiscal surveillance and establish a suitable surveillance framework for
+programme countries and those facing financial stress. The Fiscal Compact agreed in
+March by euro area Member States and 8 other EU members will add further weight to
+the aim of establishing balanced budget rules enshrined in national legislation, and the
+first implementation of the 'six-pack' entered into force last December has been a broad
+success.
+Growth policies are receiving further support through the "Compact for Growth and
+Jobs" agreed by the European Council of 28/29 June, which rests on the strong
+commitment of Member States to move forward on closer policy integration and to
+implement the country-specific recommendations on structural and fiscal policies as well
+as the Euro area recommendation formally agreed at the 10 July ECOFIN Council that
+have been issued as part of the European Semester. These concrete efforts and the clear
+trajectory that they establish towards a closer and more robust euro area should soon
+begin to reassure markets, which currently still remain fragile. The concrete advances
+made at the Euro Summit meeting of 29 June and the Eurogroup meeting on 9 July in
+matters of financial supervision and banking sector support for Spain mean that
+confidence continues to be built. The authorities reiterate their resolve to take all the
+necessary actions to preserve the integrity and stability of the euro area.
+
+Short-term economic outlook
+The authorities broadly share staff's view on the outlook, particularly that a successful
+handling of the sovereign-debt crisis and tackling negative feedback loops between banks
+and sovereigns are essential for increasing investor and consumer confidence and the
+return to a recovery path. The Commission services' spring forecast suggests that, for the
+year 2012 as a whole, GDP is expected to shrink by about 0.3% before recovering in
+2013 to a rate of around 1%. Given weak output growth, unemployment rates are
+expected to remain close to current levels. Risks to the growth outlook are elevated and
+tilted to the downside. The main risk remains an aggravation of the sovereign-debt crisis
+with financial contagion and a sharp drop in credit availability. Another prominent
+downside risk stems from geopolitical uncertainty that could lead to a surge in oil prices.
+The real economy continues to suffer from the impact of the European sovereign-debt
+crisis. In the first half of 2012, tensions in financial markets only temporarily eased in the
+wake of policy decisions and unconventional liquidity provision; confidence has stopped
+deteriorating but remains at low levels. In the first quarter output remained stable, but up
+to mid-2012 unemployment has been increasing further and consumer price inflation has
+remained above long-term averages. Leading indicators and survey data (e.g. Economic
+Sentiment Indicator, Eurozone PMIs) do not provide encouraging signs for the near-term
+outlook. The euro area remains faced with elevated financial stress and with the need to
+complete the adjustment of internal and external imbalances, to repair financial sectors
+and to achieve sustainable public finances. Market expectations that further efforts are
+needed in these areas cast shadows over the outlook for the real economy.
+Monetary policy and the outlook for price stability
+Early July, the ECB decided to lower its key interest rates by 25 basis points. This step
+was motivated by further dampened inflationary pressure over the medium term, as some
+downside risks to economic activity have materialised. As a result, our main policy rate
+(MRO rate) now stands at 0.75% while the deposit rate stands at 0.0%.
+Euro area annual inflation was 2.4% in June 2012 (Eurostat flash estimate), unchanged
+from May. Inflation should decline further in the course of 2012 and be again below 2%
+in 2013. Underlying price pressures should remain moderate over the medium term
+given modest growth and well-anchored inflation expectations. Information from the
+monetary analysis is consistent with price developments remaining in line with price
+stability over the medium term. On-going weak loan growth largely reflects the current
+cyclical situation, heightened risk aversion, and balance sheet adjustments of households
+and firms which weigh on credit demand. Risks to the outlook for inflation are broadly
+balanced over the medium term: on the downside they relate to weaker than expected
+euro area growth; on the upside risks could stem from further increases in indirect taxes
+and higher than expected energy prices.
+As regards non-standard monetary policy measures, the ECB in June decided that all
+Eurosystem refinancing operations will continue to be conducted as fixed-rate tender
+
+procedures with full allotment for as long as necessary and at least until the end of the
+last maintenance period of 2012, on 15 January 2013. Furthermore, measures were taken
+to improve access of the banking sector to these operations by enhancing collateral
+availability, notably as regards asset-backed securities. Reflecting demand for ECB
+refinancing operations, there is a large amount of excess liquidity in the euro area
+banking system at present.
+Fiscal policy
+Authorities share the general view reflected in the staff assessment of the fiscal situation
+of the euro area, which shows a need for consolidation, which is essential to restore
+confidence though this is intertwined with short-term negative prospects for growth. Of
+paramount importance is the principle of differentiated consolidation, shared by the Staff
+report, which judges budgetary adjustment needs on a country-by-country basis.
+Furthermore, consolidation must be as growth-friendly as possible and should be
+underpinned by structural reforms to boost growth potential. The multi-annual fiscal
+adjustment plans of Member States that are coordinated at the Union level and guided by
+the overhauled fiscal governance architecture following the 'six-pack' reforms lend
+significant credibility to the euro area's long-term fiscal adjustment aim, especially so if
+accompanied by structural reforms.
+Authorities would further like to stress that the fiscal effort under the Stability and
+Growth Pact (SGP) has been assessed in cyclically-adjustment terms since 2005, and
+indeed constitutes a cornerstone of fiscal policy coordination in the euro area and EU.
+Any impression that a structural adjustment focus constitutes a ‘flexible’ interpretation of
+the Pact is therefore inaccurate. It should also be noted that the Stability and Growth Pact
+duly guides fiscal policies based on both nominal and structural budget balance targets.
+Consolidation in 2011 has been in line with plans in spite of lower-than-planned growth
+with a sizeable reduction in deficit of more than 2 pp. of GDP in the euro area. It should
+further be noted that, contrary to the assertion in the staff's accompanying Selected Issues
+paper, planned fiscal efforts in the euro area overall do not fall significantly short of SGP
+requirements. According to current budgetary plans by euro area Member States in their
+Stability Programmes, Member States will implement structural adjustment high enough
+to improve their structural fiscal position by 1½ pp. of GDP in 2012 and 1 pp. of GDP in
+2013 in the euro area, so as to generally respect the expenditure rule and the progress
+towards the debt benchmark over the planning period (up to 2015), both rules introduced
+by the '6-pack'. According to SGP budgetary plans and Commission services'
+macroeconomic projections, on which SGP requirements should be assessed, all Member
+States will respect the debt rule by the end of their transitional period and will be broadly
+in line with the expenditure benchmark.
+Financial sector policies
+The Staff Report rightly focuses on the pivotal role that the banking system plays in the
+current crisis, notably in terms of financial stability concerns emanating from certain
+banking systems in their own right, as well as from adverse feedback loops between
+
+banks and sovereigns. Ambitious restructuring measures have been launched to
+strengthen vulnerable banking systems either using resources set aside through the
+financial programmes dedicated to countries under EU assistance programmes, or
+through programmes directed specifically at recapitalization and restructuring of
+individual banks.
+Authorities further stress that the October 2011 recapitalization exercise performed by the
+European Banking Authority (EBA) represents an indispensable step towards addressing
+financial stability concerns, and therefore merits mention. The 2011 EBA
+recommendation required 71 banks to establish an additional capital buffer, including a
+buffer for sovereign exposures, such that banks' Core Tier 1 capital reaches a level of 9%
+by the end of June 2012. In accordance with the EBA overview report, the
+recommendation is being implemented with success on aggregate, as the EBA's initial
+estimates for banks' capital plans are in excess of the estimated capital gap by no less
+than 26%. Moreover, and contrary to widespread criticism, the exercise does not appear
+to have been accompanied by disruptive deleveraging. Overall, the exercise represents a
+valuable tool to better scrutinize the deleveraging process that is ongoing in the euro area
+banking system and to make sure it does not harm the flow of credit towards the real
+economy.
+Financial stability mechanisms
+The euro area has made significant progress on enhancing and increasing its firewalls,
+notably by agreeing on an improved ESM Treaty, signed on 2 February 2012. The new
+ESM Treaty establishes a permanent European Stability Mechanism which will provide
+the Eurozone firewall with a full fresh lending capacity of €500bn. Combined with the
+already engaged EFSF fund, the overall firewall power is €700bn., as agreed at the 30
+March Eurogroup meeting. The authorities confirm that preparations for the ESM have
+advanced well and all efforts are now undertaken to finalise as soon as possible the
+Treaty ratification process so that the new mechanism can become operational.
+The Euro Area Summit decisions of 29 June reaffirm the strong commitment of the euro
+area to do whatever is necessary to ensure financial stability, in particular through the
+flexible and efficient use of existing EFSF/ESM instruments, in order to stabilise markets
+for Member States respecting their EU commitments. As an immediate follow-up, the
+ECB will serve as an agent to EFSF/ESM in conducting market operations in an effective
+and efficient manner. Furthermore, the decision to allow the ESM to engage in the direct
+recapitalisation of banks once an effective single supervisory mechanism is established
+marks important progress towards more flexibility but also towards reducing the banksovereign link. This measure, together with the decision that ESM assistance will not
+carry preferred creditor status for Spain, is likely to have a positive effect on the
+economic and fiscal situation in Spain.
+
+Banking Union
+With regard to the authorities' plans for moving towards a banking union, significant
+progress has been made at the 28/29 June summit, where the euro area Heads of State or
+Government stated that proposals for a single supervisory mechanism involving the ECB
+will be presented by the Commission in September or October. The authorities consider
+banking union proposals as a matter of priority. They agree that the existing EFSF/ESM
+framework could play a role in deepening financial integration in the euro area. In
+particular, as also suggested in the Staff Report, the ESM might play a role in financing
+recapitalisation once an effective single supervision mechanism is in place. Furthermore,
+in order to establish a more unified prudential framework, the Commission's legislative
+proposals for a single rulebook - a unified financial regulation framework – will be
+considered as a priority, as will the Commission proposals concerning deposit guarantees
+and bank resolution.
+External Imbalances
+The euro area as a whole currently registers a current account that is practically balanced,
+as has been the case in almost every single year since the creation of the currency area.
+The Commission's spring projections indicate that the area's current account will slightly
+strengthen in 2012 and 2013, while remaining close to the equilibrium. The net
+international investment position (NIIP) of the euro area is slightly negative, and should
+remain relatively stable; it is not as such a source of any specific tensions.
+In spite of this benign view of the currency area as a whole, the authorities do concur
+with the Fund's staff that external imbalances of some euro area countries remain
+unsustainably large, a persistent source of financial tension and an indicator of resource
+misallocation. The reduction in those imbalances is a major challenge and a crucial
+objective for the euro area. Anyhow, over the last four years, there has already been a
+tangible reduction in these imbalances, in particular in the most vulnerable countries.
+Notably for Greece and Portugal, the reduction in their current account deficit (2008-12)
+has been of, or above, 9 percentage point of GDP, while the external accounts of Spain,
+Cyprus, Slovenia and Slovakia are also moving in the right direction. While part of the
+correction is driven by the different cyclical position of the economies, some of the
+improvement is estimated to be structural. The Fund's staff rightly indicates that the
+correction in imbalances has been mainly the result of a compression in imports resulting
+from a contraction in domestic demand in these countries; however, in several countries,
+such as in Portugal, exports have shown promising dynamism.
+While the Staff Report rightly calls for progress in real effective exchange rate
+adjustment, some adjustment on this front is already evident. The authorities agree that a
+faster adjustment in price and cost competitiveness in the vulnerable countries would be
+desirable. The labour market reforms that several countries are adopting with voluntarism
+contribute to this adjustment and have to be tailor-made depending on the characteristics
+of each labour market. The adjustment in costs should continue not only in the
+programme countries, but also in other deficit economies.
+
+Policy arrangements under the European Semester as part of the Macroeconomic
+Imbalances Procedure are guiding Member States' external adjustment through in-depth
+country reviews examine causes of, and suggest responses to, harmful macroeconomic
+imbalances in a number of selected countries – 12 for the first review. Furthermore, the
+differentiated pace of fiscal consolidation and the decisive structural reforms that both the
+Commission and the Eurogroup have been promoting should also contribute to address
+external imbalances. In deficit countries, they should increase labour productivity and
+overall competitiveness, while in surplus countries households' disposable income and
+the business environment would be supported, which will translate in higher
+consumption, investment and imports and have positive spill-overs for the whole euroarea. Wage developments in surplus countries also suggest an ongoing rebalancing.
+Growth and Structural Reforms
+Structural reforms are critically important to enhance the EU economy's overall
+efficiency and speed up its capacity to adjust. In a positive feedback loop an improved
+growth outlook will support other objectives by enhancing confidence and boosting
+employment, contributing to successful fiscal consolidation and to the stability in the
+banking sector, as well as easing the situation in vulnerable countries. The comprehensive
+overhaul of economic governance and surveillance that has occurred since the crisis has
+upgraded economic policy coordination in the euro area, as the successful conclusion of
+the second European Semester by the June European Council shows. The EU Semester
+comprises country-specific recommendations in the fiscal and structural domain for each
+Member State plus the euro area as a whole. The focus on implementation of structural
+and fiscal measures has been sharpened through concrete country-specific
+recommendations for each and every Member State, building in part on the follow-up to
+last year's Semester.
+As a means to drive forward Europe's focus on growth and prosperity, the June European
+Council further adopted a new Compact for Growth and Jobs for Europe. It presents a
+coherent set of priorities for action at national, EU and euro area levels. Euro area
+Member States will benefit from measures agreed at the EU level as part of the Compact,
+which amount to €120bn. (1% of EU GDP). These include a reallocation of EU structural
+funds, focusing them on growth and competitiveness, increasing the lending capacity of
+the EIB so as to boost investment at the European level and launching a pilot phase for
+project bonds. These measures will allow reaching a better balance between fiscal
+discipline and growth prospects, as advocated by the Staff report. Authorities note that a
+further impetus for growth will come from realising the full potential of the Single
+Market, especially for the services sector.
+
+

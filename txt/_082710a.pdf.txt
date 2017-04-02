@@ -1,0 +1,1136 @@
+INTERNATIONAL MONETARY FUND
+Integrating Stability Assessments Under the Financial Sector Assessment Program into
+Article IV Surveillance: Background Material
+Prepared by the Monetary and Capital Markets Department
+Approved by José Viñals
+August 27, 2010
+Contents
+
+Page
+
+Glossary .....................................................................................................................................2
+I. Introduction ............................................................................................................................3
+II. The Methodology for Identifying Jurisdictions with Systemically Important Financial
+Sectors ........................................................................................................................................3
+A. Definition of Systemic Importance ...........................................................................3
+B. Data ...........................................................................................................................4
+C. Methodology .............................................................................................................5
+D. Results .....................................................................................................................12
+E. Interpretations and Caveats .....................................................................................15
+III. Frequency of Mandatory Financial Stability Assessments for Jurisdictions with
+Systemically Important Financial Sectors ...............................................................................16
+A. General Considerations and Industry Practice ........................................................16
+B. Lessons from the Early Warning Literature ............................................................17
+References ................................................................................................................................22
+Tables
+1. Composite Index Ranking: the Top 50 Jurisdictions ...........................................................10
+2. Cluster Analysis: the Top Three Clusters ............................................................................12
+3. Jurisdictions with Systemically Important Financial Sectors ..............................................13
+Figures
+1. The Global Banking Network ................................................................................................9
+2. The Position of the 25 Jurisdictions with Systemically Important Financial Sectors in the
+Global Banking Network .........................................................................................................14
+Appendix I: Data Sources ........................................................................................................19
+
+2
+
+GLOSSARY
+BIS
+CAMELS
+CPIS
+FDI
+FSAP
+FSB
+IFS
+IIP
+OECD
+OTC
+PPP
+SIMIs
+UNCTAD
+WEO
+
+Bank of International Settlements
+Capital adequacy, Asset quality, Management, Earnings, Liquidity,
+Sensitivity to market risk
+Coordinated Portfolio Investment Survey
+Foreign Direct Investment
+Financial Sector Assessment Program
+Financial Stability Board
+International Financial Statistics
+International Investment Position
+Organization and for Economic Co-operation and Development
+Over the counter
+Purchasing power parity
+Systemically Important Institutions, Markets, and Instruments
+United Nations Conference on Trade and Development
+World Economic Outlook
+
+3
+I. INTRODUCTION
+1.
+This paper presents the staff analysis underpinning two central elements of the
+proposal to make financial stability assessments under the FSAP mandatory for
+members with systemically important financial sectors:
+
+
+the definition of systemic importance used in the paper and the methodology for
+identifying members with systemically important financial sectors (Section II); and
+
+
+
+the review of the literature and industry practices that form the basis for the staff
+proposal to conduct these mandatory financial stability assessments at a frequency of
+about three years (Section III).
+
+II. THE METHODOLOGY FOR IDENTIFYING JURISDICTIONS WITH SYSTEMICALLY
+IMPORTANT FINANCIAL SECTORS1
+A. Definition of Systemic Importance
+2.
+There is no clear, universally accepted definition of “systemic importance.”
+Systemic importance is not a binary concept but can be measured along a continuum: some
+firms, sectors, markets, or countries can be judged to be “more” or “less” systemically
+important than others, using different criteria. It is a dynamic concept, changing over time as
+economic agents or whole sectors or countries evolve. Systemic importance is also
+contingent on the state of global or domestic markets, thus reflecting to a certain degree the
+subjective views of market participants. Against this background, distinguishing between
+different jurisdictions on the basis of whether or not their financial sectors are “systemically
+important” is not a straightforward task.
+3.
+Nevertheless, establishing a set of relevant and transparent criteria for
+identifying systemically important financial sectors is a crucial component of the
+proposal to integrate financial stability assessments into Article IV surveillance.
+Establishing clear criteria and applying them consistently is crucial for the uniform treatment
+of all members in the process of establishing mandatory financial stability assessments. At
+the same time, given that systemic importance is a fluid concept and that financial sectors
+and their interlinkages evolve over time, these criteria cannot be cast in stone but would have
+to be reviewed periodically.
+4.
+A useful starting point for the analysis is the set of criteria that have been
+established for identifying systemically important institutions, markets, and
+instruments (SIMIs). In 2009, the IMF, the Bank of International Settlements (BIS), and the
+
+1
+
+Prepared by Martin Čihák, Sònia Muñoz, and Ryan Scuzzarella.
+
+4
+Financial Stability Board (FSB) defined criteria to identify SIMIs:2 (i) size, i.e., the volume of
+financial services provided by an individual financial institution or market;
+(ii) interconnectedness, i.e., the extent of linkages with other financial institutions or markets;
+and (iii) substitutability, i.e., the extent to which other institutions or markets can provide the
+same services in the event of the failure of part of the system.
+5.
+Substitutability is hard to measure and arguably less applicable as a criterion of
+systemic importance for entire financial sectors. As acknowledged in IMF/BIS/FSB
+(2009), it is difficult to capture the degree of uniqueness of an individual institution of a
+specific market in the provision of a financial service, and simple indicators such as
+concentration may not capture the key dimensions of lack of substitutability. Measuring
+substitutability in an objective way is even more challenging when referring to whole
+financial sectors, rather than individual institutions or markets. More importantly, for entire
+financial sectors, substitutability may not be a relevant concept: within a country, there is
+little or no substitutability between the services provided by the financial sector and those of
+other sectors; and the cross-border substitutability of financial sectors is already captured by
+the measure of interconnectedness.
+6.
+The criteria of size and interconnectedness, on the other hand, are intuitive and
+easy to apply to the analysis of entire financial sectors. The methodology discussed below
+thus focuses solely on size and interconnectedness.
+
+
+Size is measured in terms of the volume of services provided by a jurisdiction’s
+financial sector. This defines the importance of a jurisdiction’s financial sector in the
+global financial system and in the specific jurisdiction.
+
+
+
+Interconnectedness is the extent of linkages of a particular financial sector with
+financial sectors in other jurisdictions. Interconnectedness captures the potential for
+systemic risk that can arise through direct and indirect interlinkages, so that an
+individual failure or malfunction has repercussions around the financial system,
+leading to a reduction in the aggregate amount of services.
+B. Data
+
+7.
+The need to apply the criteria uniformly across the entire Fund membership
+limits the data that can be used. Data for the analysis are mainly drawn from the Bank of
+International Settlements (BIS), IMF’s World Economic Outlook (WEO), International
+Financial Statistics (IFS), and Coordinated Portfolio Investment Survey (CPIS), as well as
+the United Nations Conference on Trade and Development (UNCTAD) dataset on foreign
+direct investment (FDI). The sample covers 191 jurisdictions (187 Fund members and 4
+
+2
+
+IMF, BIS, FSB on “Guidance to Assess the sytemic Importance of Financial Insitutions, Markets and
+Instruments: Initial Considerations,” October 2009.
+
+5
+territories that are subject to Article IV surveillance).3 The data cover the year 2008, which is
+the most recent period for which the relevant data cover the full sample. A description of the
+data is provided in Appendix I.
+8.
+Interconnectedness is calculated from bilateral locational banking data. The
+network analysis is done using BIS bilateral data for cross-border interbank assets and
+liabilities at end-2008. The BIS bilateral locational banking statistics treat all countries on a
+residence basis,4 and capture the geography of banking activity in a consistent fashion. The
+fact that banks in all reporting countries disclose both assets and liabilities is used to alleviate
+the problem of data gaps for some countries.5 Other types of cross-border claims, such as
+equity, debt, and FDI, are available but were not used in the exercise because they do not
+necessarily reflect the interconnectedness of the financial sector.
+C. Methodology
+9.
+The methodology for identifying systemically important financial sectors is a
+three-stage process. In the first stage, separate ordinal rankings of jurisdictions are
+developed for size and interconnectedness. In the second stage, the rankings of size and
+interconnectedness are combined into a composite index of systemic importance. In the third
+stage, cluster analysis is used to identify groups of jurisdictions with financial sectors of a
+similar degree of systemic importance that provide the basis for the final list.
+First stage
+10.
+Four indicators of financial activity are used to capture size. There are, of course,
+several possible ways to define “financial activity,” but the selection is limited by the need to
+use data that are, to the maximum possible extent, uniform and available for the entire
+membership. Three of these are measures of the “absolute” size of the financial sector (in
+U.S. dollars or other currency units), and the fourth a measure of the “relative” size of a
+financial sector (in relation to the jurisdiction’s output). The first three capture the
+importance of a jurisdiction’s financial sector in the global financial system, and the fourth
+measures the relative weight of the financial sector within a given jurisdiction.6 These are:
+
+3
+
+In the subsequent text, the term “country” is often used for simplicity to denote all jurisdictions.
+
+4
+
+Residence depends on whether a banking entity is permanently located, physically and/or by way of law or
+registration, inside or outside a country’s borders. Nationality, on the other hand, is determined by the location
+of the head office, rather than the location of the banking unit.
+5
+
+6
+
+Only positions between non-reporting banks and between nonbanks remain unobservable.
+
+In the case of territories of Fund members that issue their own currencies, the size of the financial sector is
+measured in relation to the size of the economy of the territory and not of the member country of which it is
+part.
+
+6
+
+
+Currency and deposits in U.S. dollar terms. This indicator is included as a proxy for
+the size of the total balance sheet of a jurisdiction’s banking sector. Unfortunately,
+comparable data on total banking sector assets and liabilities are not available on a
+sufficiently broad and comprehensive basis. Data on currency and deposits, however,
+are widely available. They are closely aligned with the M2 monetary aggregate, and
+tend to be well correlated with total banking sector assets.7
+
+
+
+Volume of non-banking activity in U.S. dollar terms. This is a collection of different
+measures of non-banking activity (pension fund assets, hedge fund assets, over-thecounter (OTC) derivatives markets, and insurance premiums).
+
+
+
+International investment position (IIP) in U.S. dollar terms. This measures the
+importance of the gross external position of each jurisdiction in the global financial
+system.
+
+
+
+Financial depth of the domestic economy, measured as the share of currency and
+deposits in the jurisdiction’s output. In contrast to the previous three, this measure of
+“relative” size captures financial depth in each jurisdiction, which is a crucial
+component of systemic importance of the financial sector for each individual
+economy.
+
+11.
+These size indicators are scaled by the share of the jurisdiction’s output to world
+output. The systemic importance of a financial sector does not only depend on its own
+(relative or absolute) size but also on the size of the economy in which it operates. For
+example, distress in an individual financial sector can propagate to the rest of the world both
+directly through financial connections and indirectly through real economy linkages. The
+former is captured by interconnectedness, as explained below. To capture the latter, the four
+measures of size described above are weighted by the relative size of each jurisdiction’s total
+output to global economic output (measured by the ratio of domestic GDP to world GDP).
+Given the broad range of countries being compared, a purchasing power parity (PPP)
+measure of GDP is used throughout the analysis to take into account the differences in price
+levels across economies and better measure each jurisdiction’s contribution to world GDP.
+12.
+The four size indicators are then combined into a single ranking for size. All
+jurisdictions are ranked in each of the four size indicators separately,8 and the median of the
+four is calculated as the basis for the single ranking for size.
+7
+
+Staff estimates using data for countries where both currency and deposit and total banking sector assets are
+available show that the correlation between these two is 99 percent.
+
+8
+
+For the volume of non-bank financial activity, given the heterogeneity of this type of information, jurisdictions
+are ranked separately in each of the four measures, and then for each jurisdiction the highest rank of the four is
+used.
+
+7
+13.
+Interconnectedness is measured using network analysis. The underlying idea of
+the analysis, based on von Peter (2007) and Kubelec and Sá (2010), is to infer from the
+pattern of cross-border linkages among financial sectors the extent to which a financial sector
+in a jurisdiction is “central” in the international banking network. The international network
+is a set of bilateral claims (links) of different banking systems (nodes) on each other; linkages
+in financial infrastructure, for example payment systems, are not considered. Data
+availability limits the measures of interconnectedness to the banking sector only. To ensure
+that the analysis focuses only on economically meaningful links, claims representing less
+than 0.01 percent of GDP of the source jurisdiction are not considered.
+14.
+The model is based on four indicators of interconnectedness, or “centrality,” of a
+jurisdiction’s financial sector within the global financial network. The network is
+expressed in matrix form, where Aij represents the value of financial assets held by
+jurisdiction i in jurisdiction j . The matrix has dimension n equal to the number of countries
+and can be read in two directions: rows of A represent assets of jurisdiction i in jurisdiction
+j and columns of A represent liabilities of j in i . All diagonal elements are zero. Offdiagonal elements are zero for jurisdiction pairs that have no links (either as a creditor or as a
+debtor). The network is directed, hence A is not symmetric. The indicators are based on
+whether a link exists or not, i.e., they are based on the indicator N ij  1 if Aij  0 , and 0
+
+otherwise. The four measures of centrality, following the literature (e.g., von Peter, 2007;
+Kubelec and Sá 2010), are defined as follows:
+
+
+“In-Degree” is the number of links that point to a node, i.e., it is given by the sum
+ j N ji .
+
+
+
+“Closeness” is the inverse of the average distance from node i to all other nodes. The
+distance between i and j ,  ij , equals the length of the shortest path. The average
+
+distance from i to all other nodes is given by
+
+
+
+j
+
+ ij
+
+ n  1 . Closeness is the inverse
+
+of this measure.
+
+
+“Betweenness” focuses on the nodes that the shortest path goes through. Let g jk
+
+denote the number of shortest paths between j and k , and g jk  i  denote the number
+of such paths that go through node i . The probability that node i is on the shortest
+path from j to k is given by g jk  i  g jk . “Betweenness” of node i is the sum of
+these probabilities over all nodes excluding i , divided by the maximum that the sum
+can attain:
+
+
+
+
+j i
+
+
+
+k i
+
+g jk  i  g jk
+
+
+
+ n  1 n  2  .
+
+“Prestige” (or eigenvector centrality) considers the identity of the counterparties. It is
+a measure of the importance of a node in the network. It assigns relative scores to all
+
+8
+nodes in the network based on the principle that connections to high-scoring nodes
+contribute more to the score of the node in question than equal connections to lowscoring nodes. The “prestige” of jurisdiction i  vi  is obtained by taking the “prestige”
+of its creditors, weighted by a matrix of relationships with i , i.e., vi   j R ji v j . This
+defines a linear system v  R ' v , where R is the matrix of relationships. The solution
+to this system is the eigenvector associated with the unit eigenvalue.
+15.
+As with the ranking for size, a single ranking for interconnectedness is
+calculated from these four different indicators. Jurisdictions are ranked separately in each
+of these four “centrality” measures, and then a single interconnectedness rank is calculated as
+the median of these four rankings. It should be noted that this definition of
+interconnectedness takes into account whether or not a relationship (exceeding a minimum
+threshold of 0.01 percent of GDP of the source jurisdiction) exists between two banking
+sectors, but not the size of the exposure.9 Figure 1 presents the global banking network
+“map” based on this ranking. Straight lines between jurisdictions reflect the connections
+between their financial sectors. The interconnectedness ranking of each jurisdiction is
+reflected in its position in the two dimensional space: the closer to the center of the graph, the
+more interconnected is its banking sector. In addition, for illustrative purposes (these data are
+not used in the calculations), Figure 1 also shows the size of each jurisdiction’s external
+interbank assets and liabilities.
+
+9
+
+Incorporating the size of cross-border linkages into the network model increases considerably the complexity
+of the calculation, and the tools for this are still evolving in the research community. While it has not been
+explored here, it may be considered for future analysis.
+
+Figure 1. The Global Banking Network
+
+9
+
+Source: Staff estimates.
+Notes: Lines between jurisdictions reflect the connections between their respective banking systems. The size of the spheres represents
+the volume of their external interbank assets and liabilities.
+
+10
+Second stage
+
+16.
+In the second stage, an overall composite index of systemic importance is
+calculated as a combination of the size and interconnectedness rankings. The rankings of
+size and interconnectedness are combined into a weighted average “baseline” index, to allow
+the analysis of the relative significance of size and interconnectedness in systemic
+importance. To derive the baseline index, the relative weights for size and interconnectedness
+are set at 0.7 and 0.3, respectively. As size is a more fundamental measure of systemic
+importance, it is given a relatively higher weight in the baseline index than
+interconnectedness. Table 1 presents the 50 jurisdictions ranked highest in this baseline
+composite ranking.
+Table 1. Composite Index Ranking: the Top 50 Jurisdictions
+
+Rank
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Jurisdiction
+United Kingdom
+Germany
+United States
+France
+Japan
+Italy
+Netherlands
+Spain
+Canada
+Switzerland
+China
+Belgium
+Australia
+India
+Ireland
+Hong Kong SAR
+Brazil
+Russian Federation
+Korea
+Austria
+Luxembourg
+Sweden
+Singapore
+Turkey
+Mexico
+
+Source: Staff estimates.
+
+Rank
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+
+Jurisdiction
+Denmark
+Saudi Arabia
+Malaysia
+Portugal
+Greece
+South Africa
+Poland
+Thailand
+Finland
+Norway
+United Arab Emirates
+Indonesia
+Chile
+Egypt
+Israel
+Philippines
+Argentina
+Czech Republic
+Iran
+Kuwait
+Ukraine
+Cyprus
+Hungary
+Venezuela
+Kazakhstan
+
+11
+
+17.
+A range of sensitivity tests have been used to test the robustness of the composite
+index. In addition to the 0.7/0.3 baseline weight combination, alternative composite rankings
+are calculated for 0.5/0.5, 0.6/0.4, and 0.8/0.2 weight combinations. This also serves as
+preparation for the third stage of the calculations. In addition, different ways of combining
+the subcomponents of the size measure and the subcomponents of the interconnectedness
+measure (using averages instead of medians), and different types of bilateral financial assets
+and liabilities (such as equity, debt, and FDI) were added in another check. While these
+changes affect some of the individual country ratings at the margin, the country groupings
+are very robust to different weights.
+Third stage
+
+18.
+In the final stage, cluster analysis is used to identify groups of jurisdictions with
+financial sectors that have comparable degrees of systemic importance. The underlying
+idea is to “let the data speak for themselves” in identifying groups of financial sectors that are
+not only closely ranked, but whose rankings are relatively stable across different weight
+combinations. To capture this idea, the standard deviation of ordinal rankings across different
+combinations of weights is calculated for each financial sector as a proxy for the robustness
+of the ranking. Clusters of jurisdictions are then calculated by iteratively minimizing the
+within-cluster sum of squared standard deviations from cluster means over several possible
+clusters of jurisdictions. The top three clusters identified by the data in this way are presented
+in Table 2.
+19.
+The final list contains the jurisdictions that have both the highest and the most
+robust rankings of systemic importance. The criteria for choosing which cluster(s) will be
+included in the final list of jurisdictions with systemically important financial sectors are
+(i) the order of the ranking (clusters ranked lower cannot be included if clusters ranked above
+them are excluded); (ii) the robustness of the ranking (clusters of jurisdictions whose ranking
+is more robust to changes in weight combinations are presumed to be more systemically
+important than those whose ranking is more sensitive); and (iii) the degree of coverage of the
+global financial system by the jurisdictions in the cluster(s) (clusters that represent a higher
+share of the global financial system are presumed to be more systemically important than
+those that represent a lower share). These criteria ensure that the jurisdictions on the final list
+are both the highest ranked according to the “baseline” composite index and have the most
+robust rankings across different weighting schemes and represent a substantial share of the
+global financial system. This methodology eschews as much as possible a priori judgments
+on the size and makeup of the list (it is not possible to determine ex ante the number of
+jurisdictions to be included or “cherry pick” individual jurisdictions), and allows the data to
+indicate its final composition.
+
+12
+Table 2. Cluster Analysis: the Top Three Clusters
+Cluster 1
+
+Cluster 2
+
+Cluster 3
+
+United Kingdom
+Germany
+United States
+France
+Japan
+Italy
+Netherlands
+Spain
+Canada
+Switzerland
+
+China
+Belgium
+Australia
+India
+Ireland
+Hong Kong SAR
+Brazil
+Russian Federation
+Korea
+Austria
+Luxembourg
+Sweden
+Singapore
+Turkey
+Mexico
+
+Denmark
+Saudi Arabia
+Malaysia
+Portugal
+Greece
+South Africa
+Poland
+Thailand
+Finland
+Norway
+United Arab Emirates
+Indonesia
+Chile
+Egypt
+Israel
+Philippines
+
+Source: Staff estimates.
+
+D. Results
+
+20.
+On the basis of this methodology, the final list of jurisdictions with systemically
+important financial sectors includes the 25 jurisdictions in the first two clusters
+(Table 3). These clusters were chosen because the ranking of these jurisdictions is not only
+the highest in the entire sample, but also very robust to different weight specifications. For a
+wide range of different weight combinations, the composition of this group remains
+unchanged (although the ordering of countries within the group may vary slightly). Only
+Mexico appears to be a borderline case, dropping out of its cluster for some of the weight
+combinations. These jurisdictions also ensure a broad coverage of the global financial
+system, comprising about 90 percent of global international investment and global currency
+and deposits and almost 80 percent of global PPP GDP. As Figure 2 shows, they also occupy
+a central position in the global banking network. As such, the financial sectors of these
+jurisdictions are of such systemic importance as to merit more in-depth monitoring of their
+financial sector policies through the conduct of periodic financial stability assessments in the
+context of Article IV. The first cluster alone, in contrast, represents less than 70 percent of
+the global financial system and less than half of global output. The third cluster
+(16 additional jurisdictions) is also relatively stable for different weight combinations, but
+only accounts for a very small share (less than 5 percent) of the global financial system.
+
+13
+Table 3. Jurisdictions with Systemically Important Financial Sectors
+Country
+
+Size Rank
+
+Interconnectedness
+Rank
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+
+3
+4
+1
+6
+2
+8
+9
+7
+9
+15
+4
+19
+14
+11
+20
+
+1
+2
+10
+3
+14
+8
+6
+11
+14
+4
+34
+5
+17
+29
+9
+
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+17
+12
+13
+18
+22
+26
+23
+26
+21
+16
+
+18
+32
+31
+22
+13
+7
+16
+12
+25
+49
+
+Overall
+1
+
+Rank
+United Kingdom
+Germany
+United States
+France
+Japan
+Italy
+Netherlands
+Spain
+Canada
+Switzerland
+China
+Belgium
+Australia
+India
+Ireland
+2
+Hong Kong SAR
+Brazil
+Russian Federation
+Korea
+Austria
+Luxembourg
+Sweden
+Singapore
+Turkey
+Mexico
+Source: Staff estimates.
+1
+
+Weighted average of the size and interconnectedness rankings using a 0.7/0.3 weight
+breakdown, respectively.
+2
+
+Stability assessments for Hong Kong Special Administrative Region will form part of
+Article IV consultations with the People's Republic of China.
+
+Figure 2. The Position of the 25 Jurisdictions with Systemically Important Financial Sectors
+in the Global Banking Network
+
+14
+
+Source: Staff estimates.
+Notes: Lines between jurisdictions reflect the connections between their respective banking systems. For simplicity, only the connections between
+each of the 25 jurisdictions and the rest of the global network are shown.
+
+15
+E. Interpretations and Caveats
+
+21.
+It is important to bear in mind the limitations of this definition of systemic
+importance:
+
+
+It is not a proxy for a jurisdiction’s systemic importance writ large. The
+analytical approach used in this paper is focused on the financial sector. It does not
+purport to measure all aspects of a jurisdiction’s relative importance in the world
+economy, such as the size of the domestic market, growth potential, trade linkages,
+etc. As a result, some large, systemically important economies may be ranked lower
+than smaller countries that have relatively big and/or highly interconnected financial
+sectors.
+
+
+
+It does not capture market perceptions. This approach is entirely data-based.
+Market perception of a financial sector’s systemic importance, though a key
+component of systemic risk, can be volatile; is influenced by economic and political
+factors that go beyond the size and interconnectedness of the particular financial
+sector; and is hard to measure objectively. It is therefore not incorporated into this
+approach.
+
+
+
+The extent of vulnerabilities is also not considered. The methodology is focused on
+systemic importance as measured by size and interconnectedness, not vulnerabilities.
+This is because the benefits of regular financial stability assessments would be
+maximized—both for the individual members and for the global financial system—if
+these assessments are focused on the countries with the most systemically important
+financial sectors, not on the most vulnerable. To be sure, members faced with
+macrofinancial vulnerabilities, regardless of their size or interconnections, would also
+benefit from an in-depth look at their financial sectors and may need additional Fund
+support. But there are other instruments, including Article IV surveillance, voluntary
+FSAPs, and technical assistance, which would continue to provide this analysis.
+
+
+
+Like all quantitative analyses, it is limited by the quality of data. In particular, it
+may not reflect accurately the importance of non-bank and unregulated segments of
+the financial sector, given the difficulties countries often experience in collecting such
+data, nor can it fully take into account differences in the quality of data collection and
+reporting across countries.
+
+16
+III. FREQUENCY OF MANDATORY FINANCIAL STABILITY ASSESSMENTS FOR
+JURISDICTIONS WITH SYSTEMICALLY IMPORTANT FINANCIAL SECTORS10
+
+22.
+The appropriate frequency of mandatory financial stability assessments has to
+be based on a balance of different considerations. Financial stability assessments should in
+principle take place as frequently as needed to provide timely input to surveillance and
+minimize the probability of vulnerabilities or threats to financial stability growing
+undetected. At the same time, these considerations need to be weighed against resource costs,
+both for the country and for the Fund.
+23.
+A review of the relevant literature and practice in the financial industry suggests
+three years as a reasonable target for the frequency of stability assessments. Economic
+and financial theory and empirical literature do not provide unambiguous answers.
+Nevertheless, on the basis of a review of several strands of literature and industry practice, it
+appears that about three years is a reasonable frequency for regular in-depth macro-level
+assessments of financial stability. Not only would this provide an appropriate window for the
+detection of the vulnerabilities that are the main focus of FSAP stability assessments, but also
+a reasonable timeframe for the authorities to take appropriate action in response to these
+vulnerabilities.
+A. General Considerations and Industry Practice
+
+24.
+The frequency of stability assessments in the financial industry differs
+substantially depending on the purpose and scope of such assessments. Portfolio
+managers often have a short time horizon (e.g., quarterly or less for the most active trading
+institutions), while banks typically focus on a one-year horizon for their own credit risk and
+capital needs assessment (Castren, et al., 2009). The scope, technical complexity, and
+resource intensity of the assessment also affects its frequency: product-based market risk
+assessments using Value-at-Risk models are fairly straightforward and often updated on a
+daily basis, while risk assessments of structured products or enterprise-wise risk assessments
+are technically much more complex, require more time and resources, and are done less
+frequently.11
+
+10
+11
+
+Prepared by Nicolas Blancher and Hiroko Oura.
+
+An industry survey by Deloitte (2009), covering various types of financial institutions from around the world,
+documents the wide variety of practices. Risk management practice is still fragmented within institutions: more
+than 40 percent of institutions are still lacking an integrated risk management system for a whole enterprise. As
+for stress testing, the same survey reports that roughly 80 percent of the institutions employed stress tests for
+their banking and trading books, although a smaller amount (58 percent) reported performing stress tests of their
+structured products (or securitization and related transaction) exposures. Among institutions that conducted
+stress tests of their structured product exposures, only 17 percent conducted them daily, while 68 percent
+conducted these tests quarterly or less often.
+
+17
+Sector- or macro-level assessments of the type conducted by supervisory
+25.
+institutions cover broader, systemic sources of vulnerabilities and are performed much
+less frequently than in the financial industry. Macro-level risk assessments have broad
+coverage, including the interactions between the financial sector and the other sectors of the
+domestic economy or even across borders, and are generally highly resource intensive.
+System-wide stress testing exercises often require resources and input from both supervisors
+and participating financial institutions, sometimes over several iterations. Supervisory
+authorities that conduct system-wide stress testing exercises typically do so on an annual or
+even lower frequency.
+The vulnerabilities assessed in the context of FSAP stability assessments are
+26.
+primarily of a macro-financial nature, which typically build up over multi-year periods.
+FSAP assessments focus on the buildup of systemic risks with potential macroeconomic
+implications, such as the deterioration of asset quality, the accumulation of leverage, the
+formation of asset bubbles, and the buildup of concentrated exposures. Such risks may reflect
+macroeconomic imbalances, persistent shifts in capital allocation and flows across asset
+classes, countries, and markets, or other business cycle factors. Since the average business
+cycle is about five years (National Bureau of Economic Research, 2010), macro-financial
+stability analysis conducted at this, or somewhat higher frequency (say, every in three to five
+years) should in principle be able to detect a major buildup of vulnerabilities.
+The frequency of macro-financial risk assessments may need to be higher when
+27.
+the system is undergoing structural change or innovation. Even though stability
+assessments focused on detecting macro-financial vulnerabilities can be effective at a
+relatively low frequency, the literature on financial crisis suggests that vulnerabilities can
+build up faster at times of financial innovation or structural change. Over the last several
+centuries, major financial crises have taken place years or even decades apart (Reinhart and
+Rogoff, 2008). Even during the Bretton Woods period, there was no major banking crisis—
+despite the occurrence of some currency crises. Some authors attribute this to the currency
+peg system, as well as to extremely tight financial sector regulation around the world as a
+consequence of the Great Depression (Allen and Gale, 2000; Ishii and Habermeier, 2002;
+Ranciere et al., 2005). However, Bordo, et al. (2001) noted that the frequency of crises has
+increased in recent decades, especially since the 1980s. This pattern suggests a more rapid
+accumulation of vulnerabilities during periods of structural change, financial innovation, and
+deregulation, as during the last decade. Other things being equal, this would militate in favor
+of more frequent vulnerability assessments under these circumstances.
+B. Lessons from the Early Warning Literature
+
+28.
+The early warning literature suggests that an assessment window of three years
+or less might be needed for a financial stability exercise to identify vulnerabilities with
+reasonable accuracy and allow the authorities to take policy action. The models
+underpinning the frequency of supervisory examinations of financial institutions, as well as
+
+18
+early warning models of financial distress, can provide some potentially useful lessons on the
+appropriate frequency of macro-financial surveillance under FSAPs.
+29.
+The early warning models for individual institutions used by supervisors seem to
+have been reasonably successful with identifying vulnerable institutions typically one
+and a half to three years.
+
+
+Thomson (1991) assessed models of bank failures based on CAMELS variables and
+found that the majority of these variables are significantly related to the probability of
+failure as much as four years in advance of failure. However, Cole and Gunther
+(1998) and Hirtle and Lopez (1999) showed that CAMEL ratings cease to provide
+useful information about the condition of a bank more than one and a half to three
+years ahead, especially for the weaker institutions.
+
+
+
+In the mid 1990s, the Federal Reserve Board started using an early warning model to
+predict bank financial stress during the subsequent two years, and the Office of
+Currency Comptroller currently uses a model designed to predict the potential impact
+of different macroeconomic scenarios on banks’ return on assets over the next three
+years (Jagtiani, 2003).
+
+
+
+In 2000, the BIS took stock of existing early warning models, including the ones
+above, and concluded that time horizons used by supervisory authorities in these
+statistical models were typically in the range of a few months to three years
+(Sahajwala and Van den Bergh, 2000).
+
+
+
+More recently, it has been shown that incorporating market prices in early warning
+models can be useful in forecasting bank distress. In particular, Gropp (2004) shows
+that distance-to-default indicators help predict bank failures up to one and a half years
+in advance, a result confirmed by Chan-Lau, Jobert and Kong (2004) in the context of
+banks in emerging markets.
+
+30.
+The early warning literature on systemic crises suggests a time horizon as long
+as five years. The early warning model of financial crises used in the Fund’s vulnerability
+exercises (IMF, 2007), in particular, builds on and expands preceding early warning models
+(including Kaminsky, Lizondo, and Reinhart, 1998; Kaminsky and Reinhart, 1999; and
+Demirguc-Kunt and Detragiache, 1998). The dependent variable is the financial crisis
+indicator, and the explanatory variables are divided into medium-term variables (defined over
+the previous five years and including house prices, stock prices, private credit growth), and
+near-term variables (defined over the preceding one year and including macro variables, bank
+and corporate sector indicators, household liability and house/stock price acceleration). This
+setup suggests that a five-year window is an acceptable upper bound for the optimal time
+horizon for macro-financial vulnerability identification. Compared to micro-level early
+warnings models, however, the predictive power of systemic crisis models is much weaker.
+
+19
+APPENDIX I: DATA SOURCES
+Gross external position
+
+The gross external position is represented by the stocks of external financial assets and
+liabilities in each country, that is, the international investment position (IIP).1 Gross IIP is
+approximated by adding foreign direct investment, external loans and deposits, foreign
+exchange reserves, portfolio investment, and financial derivatives.
+
+
+Foreign direct investment is direct investment in the reporting economy plus direct
+investment abroad (stocks at end-2008). Data are reported in U.S. dollars. Source:
+UNCTAD, Foreign Direct Investment Database Online. http://stats.unctad.org/fdi/.
+
+
+
+External loans and deposits are derived from BIS locational banking statistics and are
+calculated as the sum of loans and deposits of reporting banks to all sectors vis-à-vis
+individual countries (amounts outstanding at end-2008).2 Data are reported in U.S.
+dollars. Source: Bank for International Settlements, Quarterly Review, Table 7A.
+http://www.bis.org/statistics/bankstats.htm.
+
+
+
+Foreign exchange reserves are official foreign exchange assets at end-2008. These
+comprise currency and deposits, securities (including debt and equity securities),
+financial derivatives, and other claims (loans and other financial instruments) usable in
+the event of balance of payments needs. Data are reported in U.S. dollars. Source:
+International Monetary Fund, International Financial Statistics.
+
+
+
+Portfolio investment is the sum of total portfolio investment assets and liabilities3 at
+end-2008. Data are reported in U.S. dollars. Source: IMF, Coordinated Portfolio
+Investment Survey, Tables 12 and 13. http://www.imf.org/external/np/sta/pi/datarsl.htm.
+
+
+
+Financial derivatives cover financial instruments that are linked to other specific
+financial instruments, indicators, or commodities and can, in their own right, be traded in
+financial markets. Financial derivative assets and liabilities are added to calculate each
+jurisdiction’s gross position at end-2008. Data are reported in U.S. dollars. Source: IMF,
+IFS.
+
+1
+
+The IIP used in the paper is an approximation for this exercise and does not correspond exactly to what is
+published in the IMF’s International Financial Statistics.
+2
+
+The locational banking statistics report both international claims and liabilities of banks resident in 42
+countries. Data for nonreporting countries are extrapolated by reversing the direction of the reported positions.
+This is an approximation and could vary from reported figures.
+3
+
+Liabilities show, from the perspective of the economy issuing the securities, the value of securities held by
+nonresidents as derived from information reported by the holders of securities (creditor information). Derived
+liabilities are only generated when the sum of reported holdings of securities issued by a given country is at
+least U.S. dollar 10 million.
+
+20
+Financial sector activity
+
+This measure is used to approximate the size of the financial sector in a jurisdiction. It is
+comprised of transferable deposits, currency outside depository corporations, and other
+deposits (i.e., currency and deposits) as published in the IFS at end-2008. Where these data
+are unavailable, missing values are substituted with 2008 broad money figures from the
+World Economic Outlook (WEO). (Eleven missing values were taken from the WEO, while
+figures for Iceland and Marshall Islands were taken from Article IV Staff Reports.) IFS
+figures have been converted to U.S. dollars using end-2008 exchange rates from IFS. WEO
+figures are reported in U.S. dollars. Sources: IMF, IFS and WEO.
+Nonbanking financial markets
+
+This measure takes into account the following nonbanking financial markets:
+
+
+Pension fund assets are total assets of autonomous pension funds, both occupational and
+personal, at end-2008. Data are reported as a percentage of GDP and are converted using
+PPP GDP as reported in the WEO (for eight countries, GDP was taken from UN data,
+http://data.un.org/). Sources: IMF, WEO and Organization for Economic Co-operation
+and Development (OECD), Global Pension Statistics. http://stats.oecd.org/
+
+
+
+OTC derivatives turnover is calculated as the sum of average daily turnover in April
+2007 of over-the-counter foreign exchange derivatives (comprising outright forwards,
+foreign exchange swaps, currency swaps, options and other products) and single currency
+interest rate derivatives (comprising forward rate agreements, swaps, options, and other
+products). Data are in U.S. dollars. Source: BIS, Triennial Central Bank Survey of
+Foreign Exhange and Derivatives Market Activity in 2007.
+http://www.bis.org/publ/rpfxf07t.htm
+
+
+
+Insurance premiums are total insurance premium volumes in 2008. Data are reported in
+U.S. dollars. Source: Swiss Re, sigma, No 3/2009, Table III.
+http://www.swissre.com/sigma/
+
+
+
+Hedge funds by legal domicile and hedge funds by manager location are amounts
+outstanding of capital managed by hedge funds at end-2008. Source: BIS calculations
+based on data from Hedge Fund Research.
+
+Gross Domestic Product
+
+
+
+Purchasing power parity (PPP) valuation of GDP at end-2008 is used. Data are reported
+in U.S. dollars. Source: International Monetary Fund, World Economic Outlook.
+
+21
+Interconnectedness Measure
+
+The network analysis is done using bilateral data for banking sector external interbank assets
+and liabilities at end-2008. Data are in U.S. dollars. Data for non-reporting jurisdictions are
+derived from reporting country data. Source: Bilateral locational banking statistics by BIS.
+
+22
+REFERENCES
+
+Allen, F. and D. Gale, 2001, Comparing Financial Systems, MIT Press.
+BIS, 2010, Research on global financial stability: the use of BIS international financial
+statistics, CGFS Papers no. 40, June.
+Bordo, M., B. Eichengreen, D. Klingebiel and M. Martinez-Peria, 2001, Is the crisis problem
+growing more severe? Economic Policy, vol. 16 issue 32.
+Castren, Fitzpatrick and Sydow, 2009, Assessing portfolio credit risk changes in a sample of
+EU large and complex banking groups in reaction to macroeconomic shocks, ECB Working
+Paper, no. 1002.
+Chan-Lau, J. , A. Jobert and J. Kong, 2004, An option-based approach to bank
+vulnerabilities in emerging markets, IMF working paper, WP/04/33.
+Cole, A. and J. Gunther, 1998, Predicting bank failures: a comparison of on-and off-site
+monitoring systems, Journal of Financial Services Research vol. 13, no. 2.
+Deloitte, 2009, Global Risk Management Survey: Sixth Edition.
+Demirguc-Kunt, A. and E. Detragiache, 1998, “The determinants of banking crises in
+developing and developed countries,” IMF Staff Papers, Vol. 45, No. 1.
+Edison, H., 2002, “Do indicators of financial crises work? An evaluation of an early warning
+system,” International Journal of Finance and Economics, vol.8, issue 1.
+Estrella, A., S. Park and S. Peristiani, 2000, Capital ratios as predictors of bank failure,
+Economic policy review, Federal Reserve Bank of New York Economic Policy Review, vol.
+6, no.2.
+FSB, 2010, “Application of the criteria for prioritizing jurisdictions for further evaluation,”
+Note by the Secretariat for the FSB Plenary meeting, January.
+Gropp, R., J. Vesala, and G. Vulpes, 2004, Market indicators, bank fragility, and indirect
+market discipline, Federal Reserve Bank of New York Economic Policy Review, vol. 10, no.
+2.
+Hirtle, B. and J. Lopez, 1999, Supervisory Information and the Frequency of Bank
+Examinations, Federal Reserve Bank of New York Economic Policy Review, vol. 5 no. 1.
+
+23
+IMF, 2010, “Financial Sector Surveillance and the Mandate of the Fund”, March.
+IMF/ BIS/ FSB, 2009, “Guidance to Assess the Systemic Importance of Financial
+Institutions, Markets and Instruments: Initial Considerations”, October.
+Ishii, S. and K. Habermeier eds, 2002, Capital Account Liberalization and Financial Sector
+Stability, IMF Occasional Paper 211.
+Jagtiani, J., J. Kolari, C. Lemieux and H. Shin, 2003, Early Warning Models for Bank
+Supervision: Simpler Could Be Better, Economic Perspectives, vol. 27.
+Kaminsky, G., S. Lizondo and C. Reinhart, 1998, Leading indicators of currency crises, IMF
+Staff Papers, 45.
+Kaminsky, G. and C. Reinhart, 1999, The twin crisis: The causes of banking and balance of
+payments problems, American Economic Review 89 (3).
+Kubelec and Sá, 2010, “The Geographical Composition of National External Balance Sheets:
+1980-2005,” Bank of England Working Paper No. 384, March.
+Laeven, L. and F. Valencia, 2008, Systemic Banking Crises: A New Database, IMF Working
+Paper 08/224.
+NBER, Business Cycle Expansions and Contractions (http://www.nber.org/cycles.html)
+Ranciere, R., A. Tornell and F. Westermann, 2005, Systemic Crises and Growth, CESifo
+Working Paper Series No. 1451
+Reinhart, C. and K. Rogoff, 2008, This time is different: A panoramic view of eight centuries
+of financial crises, NBER Working Paper 13882.
+Rose, A. and M. Spiegel, 2009, Cross-country causes and consequences of the 2008 crisis:
+Early Warning, NBER Working Paper no. 15357.
+Sahajwala and Van den Bergh, 2000, Supervisory risk assessment and early warning
+systems, BIS, BCBS Working Paper.
+Thomson, J., 1991, “Predicting bank failures in the 1980s,” Federal Reserve Board of
+Cleveland Economic Review, Vol. 27, No.1.
+Von Peter, 2007, “International Banking Centres: A Network Analysis,” BIS Quarterly
+Review, December.
+
+

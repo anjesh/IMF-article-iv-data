@@ -1,0 +1,1485 @@
+INTERNATIONAL MONETARY FUND
+Integrating Stability Assessments Under the Financial Sector Assessment Program
+into Article IV Surveillance
+Prepared by the Monetary and Capital Markets, Legal, and Strategy, Policy, and Review
+Departments
+Approved by José Viñals, Reza Moghadam, and Sean Hagan
+August 27, 2010
+
+Contents
+
+Page
+
+Glossary .....................................................................................................................................2
+Executive Summary ...................................................................................................................3
+I. The Case for Making Financial Stability Assessments Under the FSAP a Mandatory Part of
+Article IV Surveillance ..............................................................................................................5
+II. Legal and Operational Aspects .............................................................................................7
+A. The Legal Basis for Mandatory Financial Stability Assessments.............................7
+B. Operational Aspects ................................................................................................10
+Definition of Systemically Important Financial Sectors ..................................10
+Thematic Coverage and Data Requirements....................................................15
+Frequency .........................................................................................................17
+Integration with Article IV Consultations........................................................18
+Coordination with the World Bank ..................................................................19
+Resource Requirements ...................................................................................20
+III. Key Features of the Proposed Decision .............................................................................23
+Proposed Decision ...................................................................................................................25
+Tables
+1. Ranking of Jurisdictions with Systemically Important Financial Sectors ...........................14
+2. FSAP Average Costs, FY2008–2010 ..................................................................................21
+3. Estimated Resource Impact of Mandatory Financial Stability Assessments .......................22
+Text Box
+1. The Elements of the Mandatory Financial Stability Assessment ........................................16
+
+2
+
+GLOSSARY
+BIS
+CAMELS
+FSAP
+FSSA
+FSB
+FSLC
+GFSR
+IEO
+NBER
+ROSC
+SIMIs
+WEO
+
+Bank of International Settlements
+Capital adequacy, Asset quality, Management, Earnings, Liquidity,
+Sensitivity to market risk
+Financial Sector Assessment Program
+Financial System Stability Assessment
+Financial Stability Board
+Financial Sector Liaison Committee
+Global Financial Stability Report
+Independent Evaluation Office
+National Bureau of Economic Research
+Report on Observance of Standards and Codes
+Systemically important institutions, markets, and instruments
+World Economic Outlook
+
+3
+EXECUTIVE SUMMARY
+1.
+Integration of financial sector issues into bilateral surveillance has been a
+long-standing challenge. Financial stability is a key component of the domestic and external
+stability of members and is important for the promotion of the “stable system of exchange
+rates” envisaged under Article IV. But although financial sector issues and policies are at the
+core of the Fund’s surveillance mandate, their effective integration has been a challenge. One
+of the main reasons is that the FSAP—the key tool for assessing members’ financial
+vulnerabilities and financial sector policies—is not formally a surveillance instrument but a
+voluntary program. Moreover, it is conducted jointly with the World Bank in developing and
+emerging market countries, with a broad coverage that often goes beyond macro-relevant
+financial stability issues. As a result, the Fund cannot allocate FSAP resources where they
+may be most needed for surveillance, and the gaps between FSAP updates are long. The
+growing awareness of the importance of financial sector stability issues for surveillance,
+and—especially—the recent financial crisis have highlighted these shortcomings.
+2.
+To address this challenge, it is proposed to adopt a more risk-based approach to
+financial sector surveillance by making FSAP stability assessments part of Article IV
+surveillance for members with systemically important financial sectors. The last Board
+review of the FSAP made a number of changes to the program aimed at improving the
+integration of financial sector issues into surveillance, chiefly by introducing greater
+flexibility to the FSAP and strengthening its focus on financial stability issues. But in the
+context of the broader debate on modernizing the Fund’s surveillance mandate and
+modalities, a majority of directors agreed in principle to consider going a step further:
+making stability assessments under the FSAP a mandatory part of Article IV surveillance for
+members with systemically important financial sectors.
+3.
+This step would not create new legal obligations for members. Although the FSAP
+is currently a form of technical assistance performed by the Fund at the request of members,
+the issues covered under financial stability assessments conducted under the FSAP may, as a
+legal matter, be discussed in the context of bilateral surveillance on a mandatory basis.
+4.
+Establishing a set of relevant and transparent criteria for identifying
+jurisdictions with systemically important financial sectors is a key component of the
+proposal. It ensures that members would be treated uniformly in the context of this move
+toward a risk-based approach to financial sector surveillance. The criteria for defining
+systemic importance combine two key features of a jurisdiction’s financial sector: its size and
+its interconnectedness with financial sectors in other countries. These criteria are not
+designed to reflect a country’s broader systemic importance, political or economic, and
+would need to be periodically reevaluated as financial sectors develop and their size and
+interconnectedness change. But they help identify a number of jurisdictions with the most
+systemically important financial sectors today that would be required to have financial
+stability assessments as part of their Article IV consultations.
+
+4
+5.
+The issues covered in these mandatory financial stability assessments would be
+the core elements of stability assessments defined in the 2009 review of the FSAP,
+namely (i) the source, probability, and potential impact of the main risks to macro-financial
+stability in the near term; (ii) the jurisdiction’s financial stability policy framework; and
+(iii) the authorities’ capacity to manage and resolve a financial crisis should the risks
+materialize. Even in countries with systemically important financial sectors, formal
+assessments of compliance with financial sector standards and codes (and associated ROSCs)
+and other components of the FSAP, e.g. developmental assessments, would continue to be
+voluntary.
+6.
+Mandatory financial stability assessments would be targeted at a frequency of
+every three years. * This frequency compares with a six- to seven-year average gap between
+voluntary FSAP assessments today, and is supported by a review of the empirical literature
+on systemic financial sector crises and on early warning models for distress of individual
+financial institutions. As is the case with Article IV consultations, this periodicity would, for
+the time being, be an “expectation” and applied with flexibility.
+7.
+Operational changes would help integrate more closely the proposed mandatory
+assessments into Article IV consultations. These could include increasing the overlap
+between the financial stability assessment and Article IV teams and strengthening area
+departments’ follow up on these assessments through the Article IV process in the period
+between such assessments.
+8.
+Making financial stability assessments part of Article IV surveillance would not
+materially affect the status of the FSAP as a joint program with the World Bank. The
+World Bank’s developmental assessments in developing and emerging market countries,
+including those with systemically important financial sectors, are important and would
+continue to take place on a voluntary basis, as at present. Joint missions could still be fielded
+in these countries, where appropriate. And the Financial Sector Liaison Committee would
+continue to play a coordinating role for the financial sector work of the two institutions.
+9.
+An increase in resources would be needed to maintain the capacity to satisfy
+requests from countries requesting FSAPs on a voluntary basis. The estimated resource
+cost of regular mandatory financial stability assessments in countries with systemically
+important financial sectors every three years is based on the working assumption that the
+Fund will maintain its present capacity to deliver FSAPs for the rest of the membership. On
+this assumption, the overall resource envelope for the program would have to be increased by
+about US$2.8 million from the baseline. In the absence of these additional resources,
+mandatory financial stability assessments would have to take place at the expense of the
+countries requesting FSAP assessments on a voluntary basis.
+*
+
+The Executive Board did not agree with the proposed frequency for the assessments, and instead endorsed
+targeting a frequency of every five years. See Integrating Stability Assessments Under the Financial Sector
+Assessment Program into Article IV Surveillance—Revised Proposed Decision.
+
+5
+I. THE CASE FOR MAKING FINANCIAL STABILITY ASSESSMENTS UNDER THE FSAP A
+MANDATORY PART OF ARTICLE IV SURVEILLANCE1
+10.
+Financial stability is a key component of members’ domestic and external
+stability and is important for the promotion of the “stable system of exchange rates”
+envisaged under Article IV. Financial instability can jeopardize growth and price stability.
+It can also translate into external instability both directly, through a loss of confidence in a
+country’s currency or other financial assets, and indirectly through its impact on the domestic
+economy. The consequences and spillovers to the rest of the world can be especially severe
+in countries with large and globally interconnected financial markets and institutions. These
+lessons were emphatically underscored by the recent crisis.
+11.
+Financial sector issues and policies are at the core of the Fund’s surveillance
+mandate (see Section II.A).2 The 2007 Surveillance Decision clarified that financial sector
+policies will always be a subject of the Fund’s bilateral surveillance3 and, against the
+background of the recent global crisis, the October 2008 Statement of Surveillance Priorities
+for 2008–11 gave prominence to financial sector issues.4
+12.
+In practice, however, the integration of financial sector issues into bilateral
+surveillance has been a challenge. In large part, this is because the FSAP—the premier tool
+for assessing members’ financial vulnerabilities and financial sector policies—is not formally
+a surveillance instrument. The FSAP was established in the aftermath of the Asian crisis of
+the late 1990s as one of several initiatives to strengthen the international financial
+architecture. However: (i) it was established as a technical assistance instrument (country
+participation is voluntary and assessments are conducted separately from Article IV
+consultations); (ii) FSAPs in developing and emerging market countries are carried out
+jointly with the World Bank, which has no surveillance mandate and a separate set of
+institutional priorities; and (iii) the scope of assessments is required to be very broad,
+including issues such as long-term financial sector development needs and access to financial
+services. These choices reflected the preoccupations of that time: voluntary participation was
+seen as important for ensuring broad acceptance of the new program; and joint operation with
+the Bank as a way to exploit synergies in developing countries and, more importantly, to
+leverage the limited specialized financial sector expertise the Fund possessed in the late
+1990s. They nonetheless entrenched the FSAP as a program distinct from the Article IV
+consultation process, and created a gap between the FSAP and surveillance.
+1
+
+The papers cited in this report are publicly available, including at www.imf.org.
+
+2
+
+See Article IV of the Fund’s Articles of Agreement—An Overview of the Legal Framework (June 2006) and
+The Fund’s Mandate—The Legal Framework (February 2010).
+
+3
+
+See Bilateral Surveillance over Members’ Policies—2007 Decision (Decision No. 13919-(07/51), adopted
+June 15, 2007, hereinafter the “2007 Surveillance Decision”).
+4
+
+The economic priorities of the Statement of Surveillance Priorities were revised in September 2009, and
+continue to give prominence to financial sector issues.
+
+6
+13.
+The limitations of the FSAP as a surveillance tool have become more
+conspicuous over time. The production by Fund staff alone of a Financial System Stability
+Assessment (FSSA) following an FSAP, focusing exclusively on macro-relevant financial
+stability issues and considered by the Board in conjunction with an Article IV consultation
+report, was seen as a way to bridge the gap between the FSAP and surveillance. But as
+awareness of the importance of financial sector issues for surveillance grew, successive
+reviews of the FSAP, as well as broader evaluations of the Fund’s financial sector work,5
+highlighted the two major pitfalls of the original design of the program:
+
+
+The broad scope of joint Bank-Fund assessments, often going well beyond
+macro-critical issues, implies large teams, and high costs (for both country authorities
+and the two institutions). Moreover, the long gaps between updates have been
+identified as a major handicap for the timely analysis of financial sector
+vulnerabilities and macro-financial linkages.6
+
+
+
+The voluntary nature of the program constrains the scope for prioritization, hampers
+the allocation of scarce resources where they are most needed, and might create
+“selection bias” among the countries assessed. (Though not, in itself, a proof of the
+selection bias argument, the fact that the country of origin of the most recent financial
+crisis had not, until recently, volunteered for an FSAP lends credibility to this
+concern.) An important side effect of the voluntary nature of the program is that
+assessments in similar countries are often done several years apart (or in some cases
+not done at all), which makes it challenging to extract cross-country lessons for
+surveillance from FSAPs.
+
+14.
+As part of the wider strategy to improve the integration of financial sector issues
+into surveillance, the last Board review of the FSAP introduced a number of changes to
+the program that go some way toward addressing the first of these limitations. The
+definition of the core elements of a stability assessment;7 the delineation of the institutional
+responsibilities of the Bank (development) and the Fund (macro-relevant stability issues);
+and the option of modular FSAP assessments focused on either one or the other were meant
+to make the FSAP more flexible, strengthen institutional accountability, and lead to more
+focused and—resources permitting—more frequent assessments of macro-critical financial
+stability issues. At the same time, a number of steps were taken to improve the quality,
+5
+
+Including the Independent Evaluation Office (IEO) Report on the Evaluation of the Financial Sector
+Assessment Program, 2006; the report on Integrating Financial Sector Issues and FSAP Assessments into
+Surveillance (2009); and last year’s Board review of the FSAP The Financial Sector Assessment Program After
+Ten Years—Experience and Reforms for the Next Decade (September 2009).
+6
+
+“Performance of the FSAP in the Current Financial Crisis,” The Financial Sector Assessment Program After
+Ten Years—Background Material (Suppl. 1), Chapter 1.
+7
+
+See The Financial Sector Assessment Program After Ten Years—Experience and Reforms for the Next Decade
+(September 2009), Box 3.
+
+7
+candor, and transparency of stability assessments, including a new generation of quantitative
+tools, greater emphasis on macroprudential risks and cross-border linkages, and the
+introduction of the Risk Assessment Matrix.8
+15.
+The next logical step is to make financial stability assessments a mandatory part
+of Article IV surveillance for members with systemically important financial sectors. In
+the context of the broader debate on modernizing the Fund’s surveillance mandate and
+modalities,9 a majority within the Fund’s Executive Board agreed in principle to consider
+making stability assessments under the FSAP a mandatory part of bilateral surveillance for
+such members (Public Information Notice (PIN) No. 10/52, April 22, 2010). This step would
+integrate the macro-critical components of the FSAP into bilateral surveillance in a more
+risk-based manner by focusing higher-frequency financial stability assessments on members
+with systemically important financial sectors, while maintaining access to FSAP assessments
+for all other members at the current frequency. It would also retain the other voluntary
+components of the program, as well as its joint nature with the World Bank. More
+fundamentally, it would reaffirm the centrality of financial sector issues in Fund surveillance.
+16.
+This step would complement ongoing efforts to improve the integration of
+multilateral and bilateral surveillance. The proposed mandatory financial stability
+assessments for members with systemically important financial sectors are firmly embedded
+into the Fund’s bilateral surveillance mandate and would be part of the bilateral surveillance
+modalities. Nevertheless, given the importance of financial sector cross-border linkages,
+better surveillance of jurisdictions with systemically important financial sectors, including
+their interconnections and potential effect on other members, would enhance the
+effectiveness of existing multilateral surveillance instruments, notably the WEO and the
+GFSR, as well as complement ongoing or envisaged tools to bridge the gap between
+multilateral and bilateral surveillance, such as spillover reports.
+II. LEGAL AND OPERATIONAL ASPECTS
+A. The Legal Basis for Mandatory Financial Stability Assessments
+17.
+It is legally possible for the Fund to conduct mandatory financial stability
+assessments, as proposed below, in the context of bilateral surveillance under
+Article IV.10 Surveillance is mandatory for the Fund and its members. The purpose of
+bilateral surveillance is for the Fund to assess the compliance of each member with the
+obligations of Article IV, Section 1, respecting the conduct of its exchange rate policies and
+8
+
+See Financial Sector and Bilateral Surveillance—Toward Further Integration (September 2009) and The
+Financial Sector Assessment Program After Ten Years—Experience and Reforms for the Next Decade
+(September 2009).
+9
+
+See Modernizing the Surveillance Mandate and Modalities (March 2010).
+
+10
+
+See The Fund’s Mandate—the Legal Framework (February 2010), page 7.
+
+8
+its domestic economic and financial policies.11 Under Article IV, Section 1, each member
+undertakes to collaborate with the Fund and other members to assure orderly exchange
+arrangements and to promote a stable system of exchange rates (i.e., “systemic stability”).
+The 2007 Surveillance Decision recognizes that systemic stability is most effectively
+achieved by each member adopting policies that promote its own “external stability”—that
+is, a balance of payments position that does not and is not likely to give rise to disruptive
+exchange rate movements. Moreover, the 2007 Surveillance Decision recognizes that each
+member, in the conduct of its domestic economic and financial policies, promotes its own
+external stability by promoting its own domestic stability—that is, by complying with its
+domestic policy obligations under Article IV, Sections 1 (i) and (ii).12 The 2007 Surveillance
+Decision requires the Fund in its bilateral surveillance to assess whether the member’s
+domestic policies are directed toward the promotion of domestic stability. A member’s
+policies respecting the financial sector are central to domestic stability and fall within the
+scope of the member’s domestic policy obligations under Article IV, Section 1. In this
+regard, the 2007 Surveillance Decision specifically requires the Fund’s bilateral surveillance,
+in all cases, to include an analysis of the member’s “financial sector policies (both their
+macroeconomic aspects and macroeconomically relevant structural aspects).”13
+18.
+Since the conduct of financial stability assessments is directly relevant to the
+Fund’s assessment of a member’s compliance with its existing obligations under
+Article IV, incorporating these assessments into surveillance would not create new legal
+obligations for members. Rather, it would involve the application of a member’s existing
+obligation to consult with the Fund regarding the performance of its obligations under
+Article IV. For the purposes of bilateral surveillance, the Fund may “request” (i.e., require) a
+member to discuss any issue that falls within the scope of its obligations under Article IV,
+11
+
+The legal basis for surveillance is Article IV, Section 3. Article IV, Section 3 (a) provides that the Fund “shall
+oversee the international monetary system in order to ensure its effective operation and shall oversee the
+compliance of each member with its obligations under” Article IV, Section 1. Moreover, given the importance
+of exchange rate policies for the Fund’s mandate, Article IV, Section 3 (b) requires the Fund to exercise “firm
+surveillance” over the exchange rate policies of members.
+
+12
+
+These domestic policy obligations form part of the general “chapeau” obligation to collaborate with the Fund
+and other members to assure orderly exchange arrangements and promote a stable system of exchange rates.
+They require each member to (i) “endeavor to direct its economic and financial policies toward the objective of
+fostering orderly economic growth with reasonable price stability, with due regard to its circumstances;” and
+(ii) “seek to promote stability by fostering orderly underlying economic and financial conditions and a monetary
+system that does not tend to produce erratic disruptions.” These obligations are “soft” in nature and are cast in
+terms of best efforts. Under Article IV, a member is required to change its domestic policies only if the member
+is domestically unstable: if the member is in a state of domestic stability, the member cannot be required to
+change these policies even if they have negative externalities. For a more detailed discussion of the scope of
+members’ domestic policy obligations under Article IV, Section 1, see The Fund’s Mandate—The Legal
+Framework (February, 2010), p. 8; Modernizing the Surveillance Mandate and Modalities (March 2010), p. 12.
+13
+
+2007 Surveillance Decision, paragraph 5.
+
+9
+Section 1, and as discussed above, members’ financial sector policies clearly fall within the
+scope of these obligations. Members are required to hold discussions with Fund staff, and to
+provide the Fund with such information as the Fund may require for this purpose.14 As a
+related matter, Article VIII, Section 5 requires members, subject to certain limitations, to
+provide the Fund with such information as the Fund deems necessary for surveillance.
+19.
+Under the Fund’s existing legal framework, it is open to the Fund to require
+members with systemically important financial sectors to engage in regular mandatory
+financial stability assessments under Article IV while not requiring such assessments of
+other members. The principle of uniformity of treatment does not require that members be
+treated identically. Rather, it requires that any differentiation in the treatment of members by
+the Fund be based on the application of criteria that are relevant to the provisions of the
+Articles being implemented. Since, as noted above, the purpose of bilateral surveillance is to
+assess the extent to which members’ policies are promoting systemic stability, it is
+appropriate for the Fund, when examining the financial sector policies of members, to
+scrutinize more closely the policies of those members whose financial sectors are most likely
+to affect systemic stability. Indeed the Fund already uses “systemic importance” as a criterion
+in its policy framework for surveillance in determining consultation cycles for members.15
+While it may be argued that the stability of the financial sector, in particular, is so central to a
+member’s domestic stability that all members should be required to engage in financial
+stability assessments under Article IV, the establishment of a framework that would only
+require such assessments of members with systemically important financial sectors may be
+justified by the greater likelihood that problems in the financial sectors of these members
+would lead to domestic and external instability of a type that would give rise to particularly
+disruptive exchange rate movements and adverse consequences for systemic stability.
+20.
+In requiring a specific group of members to periodically engage in financial
+stability assessments on a mandatory basis, the Fund would need to put in place a
+decision of general applicability that would establish the criteria upon which such
+members would be chosen, and the modalities through which such assessments would
+be conducted. This approach would ensure that the assessments are conducted in a manner
+that respects the principle of uniformity of treatment. The specific operational aspects are
+discussed in the following section and a draft decision is proposed at the end of the paper.
+
+14
+
+Article IV, Section 3 (b) requires members, at the “request” of the Fund, to consult with the Fund on their
+exchange rate policies. The corresponding obligation of members to consult with the Fund on their domestic
+economic and financial policies is implicit in the “chapeau” obligation under Article IV, Section 1 to
+“collaborate with the Fund and other members to assure orderly exchange arrangements and to promote a stable
+system of exchange rates.” See The Fund’s Mandate – the Legal Framework (2010), p. 6, footnote 9.
+
+15
+
+See 2009 Bilateral Surveillance Guidance Note, paragraph 54.
+
+10
+B. Operational Aspects
+Definition of Systemically Important Financial Sectors
+21.
+There is no clear, universally accepted definition of “systemic importance.”
+Systemic importance is not a binary concept but can be measured along a continuum, using
+different criteria. Systemic importance is also contingent on the state of global or domestic
+markets, thus reflecting to a certain degree the subjective views of market participants.
+Distinguishing between different countries on the basis of whether or not their financial
+sectors are “systemically important” is thus fraught with difficulty.
+22.
+Nevertheless, establishing a set of relevant and transparent criteria for
+identifying systemically important financial sectors is a critical component of the
+proposal to integrate financial stability assessments into Article IV surveillance. It is key
+for the uniform treatment of all members in the context of a more risk-based approach to
+financial sector surveillance. Nevertheless, since financial sectors and their
+interconnectedness evolve over time, the determination of countries with systemically
+important financial sectors on the basis of these criteria would have to be reviewed
+periodically.
+23.
+The point of departure for defining systemic importance for this exercise is the
+conceptual framework developed by the IMF, BIS, and FSB.16 This framework—
+originally developed for evaluating the systemic importance of financial institutions, markets,
+and instruments (SIMIs)—approaches systemic importance from both a domestic and a
+global point of view. It identifies the following three key concepts: (i) size, i.e., the volume of
+financial services provided by an individual financial institution or market;
+(ii) interconnectedness, i.e., the extent of linkages with other financial institutions or markets;
+and (iii) substitutability, i.e., the extent to which other institutions or markets can provide the
+same services in the event of the failure of part of the system.
+24.
+Systemic importance of a financial sector is defined below with the focus on its
+size and interconnectedness. The volume of financial services provided by a financial
+sector is the main component of systemic importance. Size is measured across several
+dimensions, to capture the importance of a particular financial sector in the specific
+jurisdiction (expressed in terms of the jurisdiction’s output) and in the global financial
+system (expressed in absolute terms and scaled by the jurisdiction’s GDP relative to world
+GDP). Cross-border interconnectedness is an important complementary measure: it captures
+the systemic risk that can arise through direct and indirect interlinkages among financial
+sectors in the global financial system, i.e., the risk that individual failure or malfunction may
+have severe repercussions on other countries or on systemic stability. As regards the notion
+16
+
+IMF/BIS/FSB, (2009) Guidance to Assess the Systemic Importance of Financial Institutions, Markets and
+Instruments: Initial Considerations.
+
+11
+of substitutability, while it is important at the level of individual institutions and markets, it is
+not included in the criteria. As acknowledged in IMF/BIS/FSB (2009), the concept of
+substitutability is difficult to measure, because it is hard to capture the degree of uniqueness
+of an individual institution or a specific market in the provision of a financial service. More
+importantly, substitutability may not be a relevant concept for entire financial sectors.
+25.
+It is important to bear in mind the limitations of this definition of systemic
+importance :
+
+
+It is not a proxy for a jurisdiction’s systemic importance writ large. The
+analytical approach used in this paper is focused on the financial sector. It does not
+purport to measure all aspects of a country’s relative importance in the world
+economy, such as the size of the domestic market, growth potential, trade linkages,
+etc. As a result, some large, systemically important economies may be ranked lower
+than smaller countries that have relatively big and/or highly interconnected financial
+sectors.
+
+
+
+It does not capture market perceptions. This approach is entirely data based.
+Market perception of a financial sector’s systemic importance, though a key
+component of systemic risk, can be volatile; is influenced by economic and political
+factors that go beyond the size and interconnectedness of the particular financial
+sector; and is hard to measure objectively. It is therefore not incorporated into this
+approach.
+
+
+
+The extent of vulnerabilities is not a factor. The methodology is focused on
+systemic importance as measured by size and interconnectedness, not vulnerabilities.
+This is because the benefits of regular financial stability assessments would be
+maximized—both for the individual members and for the global financial system—if
+these assessments were focused on the jurisdictions with the most systemically
+important financial sectors, not on the most vulnerable. To be sure, members faced
+with macrofinancial vulnerabilities, regardless of their size or interconnections, would
+also benefit from an in-depth look at their financial sectors and may need additional
+Fund support. But there are other instruments, including Article IV surveillance,
+voluntary FSAPs, and technical assistance, which would continue to provide this
+analysis.
+
+
+
+Like all quantitative analyses, it is limited by the quality of data. In particular, it
+may not reflect accurately the importance of nonbank and unregulated segments of
+the financial sector, given the difficulties countries often experience in collecting such
+data, nor can it fully take into account differences in the quality of data collection and
+reporting across countries.
+
+12
+26.
+The methodology for identifying jurisdictions with systemically important
+financial sectors, explained in greater detail in the accompanying Background Paper, is
+a three-stage process that uses available financial data for the entire Fund membership.
+The need to apply the criteria uniformly across the entire membership limits the data that can
+be used. Data for the analysis are mainly drawn from the BIS, the IMF’s World Economic
+Outlook, the IMF’s International Financial Statistics, the IMF’s Coordinated Portfolio
+Investment Survey, and the United Nations Conference on Trade and Development’s datasets
+on foreign direct investment. The sample covers 191 jurisdictions (187 Fund members plus
+four territories that are subject to Article IV surveillance) for the year 2008.
+
+
+In the first stage, separate ordinal rankings of jurisdictions are developed for
+size and interconnectedness.
+o The size of a jurisdiction’s financial sector is measured by the volume of
+financial services. The size ranking is a median of four rankings, three of which
+are measures of the “absolute” size of the sector (currency and deposits as a proxy
+for the banking-system balance sheet; volume on nonbank financial services; and
+the jurisdiction’s international investment position, all measured in U.S. dollars),
+and the fourth is a measure of the “relative” size of the financial sector (financial
+depth, measured as a share to the jurisdiction’s output). The first three capture the
+importance of a jurisdiction’s financial sector in the global financial system and
+the fourth measures the relative weight of the financial sector within a given
+jurisdiction. At the same time, since distress in an individual financial sector can
+propagate to the rest of the world both directly through financial connections and
+indirectly through real economy linkages, these measures of size are weighted by
+the relative size of each jurisdiction’s total output to global economic output.
+o Interconnectedness is determined on the basis of bank-based network
+analysis. The basic idea (see Background Paper) is to infer from the pattern of
+cross-border linkages to what extent the banking sector of a particular jurisdiction
+is an important center in the international banking network.17 Data availability has
+limited the measures of interconnectedness to the banking sector only, so the
+network is defined as a set of bilateral claims of different banking systems on
+each other. The importance (or “centrality”) of a banking sector in the network is
+measured in terms of the number and structure of claims on other banking sectors.
+
+
+
+17
+
+In the second stage, the rankings of size and interconnectedness are combined
+into a single weighted composite index of systemic importance. To derive the
+single index, the relative weights for size and interconnectedness are set at 0.7 and
+
+The network analysis is based on von Peter (2007), International Banking Centres: A Network Analysis, BIS
+Quarterly Review, and Kubelec and Sá (2010), The Geographical Composition of National External Balance
+Sheets: 1980–2005, Bank of England Working Paper No. 384.
+
+13
+0.3, respectively. As size is a more fundamental measure of systemic importance, it is
+given a relatively higher weight in the composite index than interconnectedness. As a
+robustness check, alternative composite rankings are calculated for a range of
+different weight combinations, and different ways of combining the indices of size
+and interconnectedness (using averages instead of medians), and different types of
+bilateral financial assets and liabilities (such as equity, debt, and FDI) are tested.
+
+
+In the third stage, cluster analysis is used to identify groups of jurisdictions with
+financial sectors that have consistently the highest degree of systemic
+importance. The underlying idea is to “let the data speak for themselves” in
+identifying groups of financial sectors whose rankings are relatively stable across
+different weight combinations. To capture this idea, the standard deviation of ordinal
+rankings across different combinations of weights is calculated for each financial
+sector as a proxy for the robustness of the ranking. Clusters of jurisdictions are then
+calculated by iteratively minimizing the within-cluster sum of squared standard
+deviations from cluster means over several possible clusters of jurisdictions. The final
+list includes the clusters with the jurisdictions that are not just the highest ranked, but
+also have the most robust rankings across different weighting schemes and represent a
+substantial share of the global financial system. This methodology eschews as much
+as possible a priori judgments on the size and makeup of the list (the number of
+jurisdictions to be included is not predetermined, and it is not possible to “cherry
+pick” individual jurisdictions), and allows the data to indicate its final composition.
+
+27.
+The results identify 25 jurisdictions with the most systemically important
+financial sectors (Table 1). They cover almost 90 percent of the global financial system and
+represent almost 80 percent of global economic output. The group contains 15 of the G-20
+countries and advanced economies are heavily represented. The United Kingdom’s financial
+sector has the highest composite rank. The United States’ financial sector is ranked third
+despite being ranked first in size because of its relatively lower level of cross-border
+connections. Several euro area economies are also highly ranked because of the high degree
+of interconnectedness of their financial sectors. Although these connections are largely
+within the euro area, for the purposes of this exercise they have been treated as all other
+cross-border flows because first, they may give rise to cross-border systemic risk affecting
+the domestic stability of the individual countries, as well as the external stability of the euro
+area as a whole; second, the authorities in these countries still have considerable
+independence in their domestic financial sector policies; and third, comprehensive
+cross-border resolution mechanisms are yet to be established. Moreover, Article IV
+consultations (and FSAPs) with these members are still conducted separately. Given the
+degree of financial integration of the euro area countries and the gradual move toward a more
+integrated system of regulation and supervision in the European Union, this treatment of
+cross-border exposures of these countries could be reconsidered in the future.
+
+14
+Table 1. Ranking of Jurisdictions with Systemically Important Financial Sectors
+Jurisdiction
+
+Size Rank
+
+Interconnectedness
+Rank
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+
+3
+4
+1
+6
+2
+8
+9
+7
+9
+15
+4
+19
+14
+11
+20
+
+1
+2
+10
+3
+14
+8
+6
+11
+14
+4
+34
+5
+17
+29
+9
+
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+17
+12
+13
+18
+22
+26
+23
+26
+21
+16
+
+18
+32
+31
+22
+13
+7
+16
+12
+25
+49
+
+Overall
+1
+
+Rank
+United Kingdom
+Germany
+United States
+France
+Japan
+Italy
+Netherlands
+Spain
+Canada
+Switzerland
+China
+Belgium
+Australia
+India
+Ireland
+Hong Kong SAR2
+Brazil
+Russian Federation
+Korea
+Austria
+Luxembourg
+Sweden
+Singapore
+Turkey
+Mexico
+Source: Staff estimates.
+1
+
+Weighted average of the size and interconnectedness rankings using 70/30 weights respectively.
+
+2
+
+Stability assessments for Hong Kong Special Administrative Region would form part of Article IV
+consultations with the People's Republic of China.
+
+28.
+This list of jurisdictions may change over time. Systemic importance is a dynamic
+concept. As countries and financial sectors develop, this list will likely change. When data on
+size and interconnectedness are updated, the same three-stage methodology may result in a
+different list, both in terms of size and country composition. In addition, as new data sources
+become available (for instance, to allow extending the network analysis beyond the banking
+sector data) and as network analysis methodologies gain in sophistication, the methodology
+itself may need to be revisited in the future.
+
+15
+29.
+The conduct of financial stability assessments with a specified group of members
+as part of bilateral surveillance would not preclude other forms of multilateral or
+regional engagement with these members. Cross-country analyses of financial
+interconnections or vulnerabilities, special studies (such as the 2007 study on Financial
+Integration in the Nordic-Baltic Region), or other forms of regional policy dialogue in the
+context of the FSAP could still take place, where appropriate. Reliance on these forms of
+engagement would take into account the degree of cross-border interconnectedness of the
+various financial sectors and the extent of regional integration of financial policies and the
+supervisory architecture.
+Thematic Coverage and Data Requirements
+30.
+The last FSAP review established the core elements of the financial stability
+assessment, the Fund’s main responsibility in the context of the FSAP (Box 1)18 (). These
+elements provide a coherent framework for financial stability policy and correspond to the
+minimum required for a well-rounded assessment of financial vulnerabilities, macro-financial
+linkages, and financial stability policies. These elements would comprise the core of stability
+assessments conducted in countries with systemically important financial sectors as part of
+Article IV surveillance.
+31.
+Formal assessments of compliance with financial sector standards and codes
+(and associated ROSCs) and other components of the FSAP would continue to be
+voluntary.19 They may be included in the mandatory financial stability assessment, as
+necessary, on a voluntary basis, as is the case at present. Similarly, additional elements
+currently covered in voluntary FSAPs, notably assessments of developmental needs, would
+continue to be conducted upon request and subject to resource constraints (see section below
+on cooperation with the World Bank).
+32.
+Financial stability assessments conducted as part of surveillance would require
+the same access to data typically provided in voluntary FSAPs. Adequate coverage of the
+three core elements may require access to information typically not provided to Article IV
+missions but made regularly available to FSAP teams, such as selected data on individual
+financial institutions or supervisory data, which are often confidential. Also, arriving at an
+assessment of the quality of supervision in the country would normally require a careful
+18
+
+See Financial Sector Assessment Program After Ten Years—Experience and Reforms for the Next Decade
+(September 2009).
+19
+
+As is the case with the financial stability modules under the FSAP on which the mandatory financial stability
+assessments are based, there would be no requirement that a full AML/CFT assessment be conducted in the
+context of a mandatory financial stability assessment (see Financial Sector Assessment Program After Ten
+Years—Experience and Reforms for the Next Decade (September 2009), page 32, footnote 14). Issues related to
+the conduct of AML/CFT assessments will be discussed in the forthcoming Board paper on the Fund’s
+AML/CFT policy.
+
+16
+
+Box 1. The Elements of a Mandatory Financial Stability Assessment
+A mandatory financial stability assessment would comprise the three core elements of identified in the 2009
+Board review of the FSAP.
+ An evaluation of the source, probability, and potential impact of the main risks to macro-financial
+stability in the near term. This involves analyzing the structure and soundness of the financial system;
+salient trends in both the financial and nonfinancial sectors; risk transmission channels (such as macrofinancial linkages and feedback loops); and features of the overall policy framework that may attenuate or
+amplify financial stability risks (e.g., exchange rate regime). Both quantitative analysis (Financial
+Soundness Indicators, stress tests) and qualitative assessments (of the regulatory structure, relationship
+between supervisors, supervisory approach and governance) would be used to estimate the severity of
+risks and rank them according to the likelihood of occurrence and their potential impact.
+ An assessment of the authorities’ financial stability policy framework. This involves an evaluation of
+the effectiveness of financial sector supervision against broadly accepted international standards and best
+practices; the quality of financial stability analysis and reports; the role of and coordination between the
+various institutions involved in financial stability policy (with special emphasis on the central bank); and
+the effectiveness of monetary policy.
+
+ An assessment of the authorities’ capacity to manage and resolve a financial crisis should the risks
+materialize. This involves an overview of the country’s liquidity management framework (instruments,
+collateral policies); financial safety nets (deposit insurance, lender-of-last-resort arrangements); crisis
+preparedness and crisis resolution frameworks (bank resolution); and the possible spillovers from the
+financial sector onto the sovereign balance sheet.
+
+examination of a sample of supervisory reports. Article VIII, Section 5 requires members,
+subject to certain limitations, to provide the Fund with such information as the Fund deems
+necessary for its activities, including surveillance. However, members are under no
+obligation to provide the Fund with information in such detail as to disclose the affairs of
+individuals or corporations. As a result, it would be important to reach understandings with
+the relevant authorities to obtain access to firm-specific data on a voluntary basis without
+violating banking secrecy or other laws. As the experience with FSAPs has shown, in the
+vast majority of jurisdictions this is possible by, e.g., providing the institution-by-institution
+data in an anonymized form, having the supervisory authorities conduct the stress testing
+exercise on the basis of specific assumptions and parameters provided by the staff, or
+providing access to supervisory reports on a confidential basis (“reading room only”). As
+with Article IV consultation reports, FSSAs would include an assessment of the adequacy of
+the data for the purposes of the financial stability assessment, and point out explicitly any
+limitations of the analysis due to lack or poor quality of data. 20
+20
+
+In the context of Article IV surveillance, members provide the Fund with a great deal of information on a
+voluntary basis in addition to the information that they are legally required to report under Article VIII,
+
+(continued)
+
+17
+Frequency
+33.
+The “right” frequency for financial stability assessments has to be a balance of
+different considerations. Financial stability assessments should in principle take place as
+frequently as needed in order to provide timely input to surveillance and minimize the
+probability of vulnerabilities or threats to financial stability growing undetected. At the same
+time, since these assessments have resource costs both for the country and for the Fund, their
+frequency should be determined so as to ensure the most effective use of Fund financial and
+staff resources.
+34.
+While it is not easy to determine the optimal frequency of financial stability
+assessments from first principles, three years seems a reasonable target. * This judgment
+is based on a review of early warning frameworks used by supervisors for specific
+institutions, systemic crisis prediction models, and the history of financial crises, which
+suggest that three years would be an appropriate frequency for regular in-depth assessments
+of financial stability. In addition, this frequency would allow sufficient time to the authorities
+to evaluate and implement the related policy recommendations. For a more detailed
+discussion of the points summarized below, see the accompanying Background Paper.
+35.
+Early warning models for identifying financial distress in individual financial
+institutions have a typical lead time in the range of a few months to three years. National
+supervisory authorities use various early warning models, including CAMELS ratings,
+market-based indicators and others, to identify weak institutions and take preventive action.
+The experience suggests that an assessment window of no more than three years may be
+needed for such an exercise to identify vulnerabilities with reasonable accuracy and provide
+sufficient advance warning for effective action.
+36.
+The early warning literature on systemic crises suggests a somewhat lower
+frequency. The vulnerabilities assessed in systemic crisis models are primarily of a
+macro-financial nature and, as such, likely to have longer gestation periods. These models
+typically use annual data of cross-country systemic crises and strive to identify emerging
+vulnerabilities one to five years prior to the crisis. For instance, the IMF’s empirical model of
+financial crises used in the Vulnerability Exercise is built on both medium-term indicators
+over the latest five years and near-term indicators over the past one year (including
+Section 5. The Fund has, pursuant to Article VIII, Section 5, adopted a decision that obligates members to
+report certain types of information for the purposes of surveillance (See Strengthening the Effectiveness of
+Article VIII, Section 5, Decision No. 13183-(04/10), adopted January 30, 2004, as amended). It is not proposed,
+for the purposes of mandatory financial stability assessments, to expand this list. Rather, the Fund would
+normally obtain such additional information as needed on a voluntary basis from members.
+*
+
+The Executive Board did not agree with the proposed frequency for the assessments, and instead endorsed
+targeting a frequency of every five years. See Integrating Stability Assessments Under the Financial Sector
+Assessment Program into Article IV Surveillance—Revised Proposed Decision.
+
+18
+macroeconomic and bank/household/corporate indicators and asset price acceleration
+measures). Therefore, this strand of literature seems to suggest that a five-year window is an
+acceptable upper bound for the optimal time horizon for macro-financial stability analysis. It
+should be noted, however, that the predictive performance of these models is relatively poor,
+at least compared to early warning models for financial distress of individual institutions
+using higher frequency data.
+37.
+The literature on the history of financial crises does not provide any guidance
+for the optimal frequency of financial stability assessments, but suggests the need for
+more frequent assessments when the system is undergoing structural change or
+innovation. Over the last several centuries, major financial crises have taken place years or
+even decades apart. The frequency of crises has increased in recent decades, especially since
+the 1980s. However, the pattern of crises suggests higher risks and a more rapid
+accumulation of vulnerabilities during periods of structural change, major innovation, and
+deregulation.
+Integration with Article IV Consultations
+38.
+A mandatory financial stability assessment would be part of the Article IV
+consultation with the relevant member. While the mandatory financial stability assessment
+and the Article IV consultation mission would typically take place at different times, as at
+present, it would be expected that the financial stability assessment would be part of the
+Article IV process and discussed in an Executive Board discussion of an Article IV report for
+the member.
+39.
+The operational procedures for the mandatory financial stability assessments
+would be largely the same as for the voluntary assessments in the context of the FSAP.
+Documentary outputs of the mandatory financial stability assessments would be the same as
+in the case of voluntary stability assessments conducted under the FSAP. As with regular
+FSAPs, the key findings and recommendations of financial stability assessments would be
+summarized in a Financial System Stability Assessment (FSSA) report, which would
+normally be issued to the Board alongside the Article IV staff report. Moreover, the relevant
+Article IV report would integrate into the staff assessment the principal findings of the
+mandatory financial stability assessment. The FSSA would include the Risk Assessment
+Matrix, introduced in the 2009 review of the program. As with the voluntary FSAP missions,
+the team would normally draft and leave with the authorities an Aide-Mémoire, a
+confidential document that forms the basis of the FSSA. The mission could also produce
+technical notes (to provide further detail on technical issues to the country authorities) and
+detailed assessment reports on the observance of standards and codes (if assessments of
+compliance with standards and codes were carried out on a voluntary basis). Publication
+policies and procedures for the FSSA and other documents produced under the mandatory
+financial stability assessments would be the same as those for the FSAP currently.
+
+19
+40.
+In addition, a number of operational changes would be implemented to integrate
+more closely the proposed mandatory assessments into Article IV consultations.
+
+
+MCM and Area Departments would endeavor to increase the overlap between
+financial stability assessment and Article IV teams. This could involve fielding the
+two missions simultaneously or having the Area Department mission chief lead the
+financial stability assessment, if appropriate.
+
+
+
+Area Departments would strengthen their follow up of financial stability assessments
+and embed their findings and recommendations into the Article IV process in the
+period between such assessments. The inter-departmental review process would play
+a critical role in ensuring that the increased frequency of these stability assessments is
+reflected in expanded coverage of financial sector issues in Article IV consultations.
+
+Coordination with the World Bank
+41.
+The World Bank is providing important input to financial sector assessments in
+developing and emerging market countries. In these cases, the Bank’s staff’s primary
+contribution is the financial development assessment, and FSAP missions can take place
+jointly with the Fund. Developmental assessments focus on the medium- to long-term needs
+for the deepening and strengthening of the financial sector, aiming to address major
+weaknesses affecting the sector’s efficiency, soundness, and contribution to long-term
+growth and social development. This perspective is an important complement to the financial
+stability assessment conducted by the Fund, regardless of whether the latter is done at the
+authorities’ request or as part of Article IV surveillance.
+42.
+Making financial stability assessments part of Article IV surveillance would not
+materially affect the status of the FSAP as a joint program with the World Bank,
+provided the necessary resources are made available. First, this change will only affect a
+small subset of developing and emerging market countries, where the program is conducted
+jointly with the Bank: of the 25 jurisdictions judged to have systemically important financial
+sectors on the basis of the selection criteria discussed above (Table 1), only a handful would
+be developing and emerging market countries. Even if this number were to grow in the future
+as these financial sectors develop—and the selection criteria evolve—it is likely to represent
+a fraction of this group of countries. And second, even in the relatively few developing and
+emerging market countries that would be subject to mandatory financial stability
+assessments, the Bank’s role would remain unchanged.
+
+
+The developmental assessment of the financial sector will continue to be a
+voluntary component of the FSAP in these countries. As at present, the authorities
+will have the opportunity to request a financial development assessment from the
+World Bank, regardless of whether the financial stability assessment under the FSAP
+continues to be voluntary or has become mandatory for some of them. Requests for
+voluntary assessments will be prioritized on the basis of the criteria already
+established by the two Boards.
+
+20
+
+
+There would be no substantive difference in the delivery modalities of FSAPs.
+Initial FSAP assessments, where financial stability and development aspects are
+examined simultaneously, would continue to be conducted jointly in countries where
+the Bank is involved. FSAP updates in countries where the financial stability
+assessment is mandatory could be conducted jointly if (i) the country had requested a
+developmental assessment, or (ii) a joint FSAP assessment was overdue.
+
+43.
+The Financial Sector Liaison Committee (FSLC) will continue to play a
+coordinating role. The FSLC, a joint committee of Bank and Fund senior staff created in
+1998, has as its core mandate the facilitation and administration of the FSAP in countries
+where assessments are conducted jointly.21 Its role was elevated by the last Board review of
+the FSAP to ensure a strong and effective coordination mechanism while minimizing
+additional bureaucratic procedures. FLSC will continue to ensure continuous information
+flow between the two institutions and consistency of financial sector advice in developing
+and emerging market countries, regardless of whether some of these have to undertake
+financial stability assessments as part of Article IV surveillance.
+Resource Requirements
+44.
+The proposal to make regular financial stability assessments mandatory for
+members with systemically important financial sectors would add to the already
+considerable resource demands on the FSAP. Even without the proposed changes, the
+program is facing unprecedented demand, primarily reflecting the G-20 and FSB countries’
+commitment to the process (FSB members, which include all the G-20 countries, have
+voluntarily pledged to request assessments under the FSAP every five years).22 Initial
+assessments for Indonesia, China, and the United States will be completed in FY2011,
+leaving Argentina as the only G-20 member without an FSAP assessment. Increasing the
+frequency of financial stability assessments that are done as part of surveillance in countries
+with systemically important financial sectors would require additional resources. Absent
+these, it would entail a sharp reduction in the Fund’s capacity to deliver FSAP assessments to
+the rest of the membership on a voluntary basis.
+45.
+The estimated incremental resource cost of mandatory financial stability
+assessments in members with systemically important financial sectors is based on the
+assumption that the Fund will maintain its present capacity to deliver FSAPs to the rest
+of the membership. This would involve first, ensuring adequate resources to meet current
+G-20/FSB country commitments to undertake FSAPs every five years; and second,
+increasing the envelope to accommodate the higher frequency of mandatory financial
+21
+
+The Financial Sector Assessment Program After Ten Years—Experience and Reforms for the Next Decade
+(September 2009), Appendix V.
+
+22
+
+See “Overview of Progress in the Implementation of the G20 Recommendations for Strengthening Financial
+Stability: Report of the Financial Stability Board to G20 Leaders,” June 18, 2010.
+
+21
+stability assessments. This calculation takes into account the fact that FSAP assessments in
+members with systemically important financial sectors are more resource-intensive than
+others: as Table 2 shows, based on actual data for FY2008–2010, the average cost of an
+FSAP update in G-20/FSB jurisdictions was more than twice that of other members.
+Table 2. FSAP Average Costs, FY2008–2010
+
+Total
+
+FY08-FY10
+Initial
+
+Updates
+
+(Thousands of U.S. dollars)
+1
+
+Total average annual cost (Fund only)
+Countries with systemically important financial sectors (incl. G20/FSB)
+of which: G20/FSB
+
+7,036
+1,922
+1,828
+
+2,913
+1,167
+1,167
+
+4,123
+754
+660
+
+All other countries
+All other countries, excluding OFCs
+
+5,115
+4,906
+
+1,746
+1,537
+
+3,368
+3,368
+
+Average cost of an individual FSAP (Fund only)
+Countries with systemically important financial sectors (incl. G20/FSB)
+of which: G20/FSB
+
+335
+961
+1,097
+
+380
+1,751
+1,751
+
+309
+660
+660
+
+269
+283
+
+249
+288
+
+281
+281
+
+1
+
+1
+
+All other countries
+All other countries, excluding OFCs
+Source: Staff calculations.
+
+1/ Includes the cost of assessments of offshore financial centers (OFCs), which were incorporated into the FSAP program in 2008.
+
+46.
+On this assumption, the overall resource envelope for the program would have
+to be increased by about US$2.8 million from the baseline. The average annual cost of the
+program for the Fund (including staff resources, travel, and headquarters-based review and
+support) during FY2008–2010 was just over US$7 million (Table 3). This covered around
+21 FSAPs—some of them joint with the World Bank—most of which, however, were not in
+systemically important countries. Starting last year, demand for assessments in G-20
+countries increased substantially, raising both the number of assessments and their average
+cost. To meet the demand for assessments every five years from G-20/FSB countries without
+reducing the number of FSAPs in non-G-20 countries would require an additional
+US$1.2 million at steady state (column “baseline” in Table 3). Increasing the frequency of
+assessments for 25 jurisdictions with systemically important financial sectors to a three-year
+cycle would imply undertaking eight to nine mandatory financial stability assessments every
+year. * However, as some of these would take place anyway in the context of voluntary
+*
+
+The Executive Board did not agree with the proposed frequency for the assessments, and instead endorsed
+targeting a frequency of every five years. See Integrating Stability Assessments Under the Financial Sector
+Assessment Program into Article IV Surveillance—Revised Proposed Decision.
+
+22
+FSAPs in baseline scenario, the net increase in resource demands is estimated at about
+US$2.8 million compared to baseline, or about US$4 million relative to the average annual
+cost of the program during FY2008–2010.
+47.
+Historical figures may, if anything, underestimate the cost of financial sector
+surveillance, including mandatory financial stability assessments, going forward. The
+renewed emphasis by the G-20 and the FSB on compliance with international financial sector
+standards and codes may well result in greater demand for standards assessments by
+members, both in FSAPs undertaken voluntarily and in mandatory financial stability
+assessments. The historical costs used in these calculations, however, reflect the low number
+of financial sector ROSCs included in recent FSAPs (on average, less than one ROSC per
+FSAP).
+Table 3. Estimated Resource Impact of Mandatory Financial Stability Assessments
+
+FY08-FY10
+Average
+
+1
+
+Baseline
+
+With mandatory
+stability
+
+2
+
+scenario
+
+3
+
+assessments
+
+Average number of FSAPs
+Countries with systemically important financial sectors (incl. G20/FSB)
+of which: G20/FSB
+All other countries
+
+21
+2
+2
+19
+
+23 - 24
+4- 5
+4- 5
+19
+
+27 - 28
+8- 9
+5- 7
+19
+
+Fund Costs of FSAPs
+Countries with systemically important financial sectors (incl. G20/FSB)
+of which: G20/FSB
+
+7.0
+1.9
+1.8
+
+(in millions of US$)
+8.2
+2.9
+2.9
+
+11.0
+5.7
+4.0
+
+5.1
+
+5.3
+
+5.3
+
+4
+
+All other countries
+Source: Staff estimates.
+1/ Numbers are rounded.
+
+2/ Assumes G20/FSB countries have FSAP updates every 5 years, and all other countries have updates at the current update frequency of every 6-7 years.
+The cost of each additional FSAP update of a country with a systemically important financial sector is set at the average of a G20 FSAP update cost.
+3/ Assumes that countries with systemically important financial sectors have stability assessments every 3 years, and all other countries have FSAP updates at
+the current frequency of every 6-7 years. The cost of each mandatory stability assessment is set at the average of a G20 FSAP update cost.
+4/ Projected costs based on the average cost of an FSAP update in countries with non-systemically important financial sectors excluding OFCs.
+
+48.
+In the absence of these additional resources, mandatory financial stability
+assessments would have to take place at the expense of the countries requesting FSAPs
+on a voluntary basis. In case the resource envelope for the program remained unchanged at
+the level of the FY2008–2010 annual average, conducting financial stability assessments in
+the countries with systemically important financial sectors every three years—which would
+now be mandatory also for the Fund—would imply reducing the number of voluntary FSAPs
+
+23
+the Fund could deliver by almost half. * While the Bank could be expected to absorb some of
+the demand in developing countries, the two institutions have different areas of focus and
+expertise, so the room for substitution would be limited: as a result, the joint operation of
+voluntary FSAPs with the World Bank in these countries would be affected. And even this
+option would not be available to advanced economies without systemically important
+financial sectors, where FSAPs are the responsibility of the Fund alone.
+III. KEY FEATURES OF THE PROPOSED DECISION*
+49.
+A proposed Decision setting out the framework for the conduct of mandatory
+financial stability assessments is appended. As noted above, this framework seeks to
+ensure that members are chosen for mandatory financial stability assessments and that these
+assessments are conducted in a manner that respects the principle of uniformity of treatment.
+The Decision seeks to address several important questions, including the following.
+
+
+Who will decide whether a member’s financial sector is systemically important?
+The proposed Decision provides that the Managing Director would, in consultation
+with the Executive Board, determine whether the financial sector of a member is
+systemically important on the basis of the criteria set out above. An assessment of the
+systemic importance of members’ financial systems would be made for this purpose
+at least every three years.*
+
+
+
+How frequently will mandatory financial stability assessments be conducted?
+The proposed Decision provides that such assessments would be conducted every
+three years for so long as the member’s financial sector is determined to be
+systemically important.* Moreover, the Decision establishes a system of periodicity
+that would seek to align the conduct of financial stability assessments with the
+Article IV consultation process with the relevant member. Thus, it clarifies that, after
+a member’s financial sector has been determined by the Managing Director to be
+systemically important, (i) the first mandatory financial stability assessment would be
+expected to be completed (i.e., discussed by the Executive Board) by the deadline for
+completion of the first Article IV consultation with the member that follows the third
+
+*
+
+The Executive Board did not agree with the proposed frequency for the assessments, and instead endorsed
+targeting a frequency of every five years. See Integrating Stability Assessments Under the Financial Sector
+Assessment Program into Article IV Surveillance—Revised Proposed Decision.
+*
+
+The Executive Board did not agree with the proposed frequency for the assessments, and instead endorsed
+targeting a frequency of every five years. See Integrating Stability Assessments Under the Financial Sector
+Assessment Program into Article IV Surveillance—Revised Proposed Decision.
+
+24
+anniversary of the Managing Director’s determination,23 and (ii) subsequent
+assessments would be expected to be completed by the deadline for completion of the
+first Article IV consultation with the member that follows the third anniversary of the
+date of completion of the previous financial stability assessment with the member.24
+As is the case with deadlines for Article IV consultations, it would be possible to
+complete a financial stability assessment sooner if deemed appropriate.
+
+
+What would happen if the three-year periodicity were not respected?* Following
+the approach currently taken with respect to Article IV consultations, this periodicity
+would be expressed in terms of an “expectation” rather than an obligation, and the
+three-year cycle would thus be applied with some flexibility. A member that failed to
+engage in the conduct of a mandatory financial stability assessment or to provide the
+information requested by the Fund would be subject to the existing legal framework
+applicable to members’ obligations with respect to Article IV. To the extent that the
+three-year cycle were not adhered to with respect to a particular member, the
+Executive Board would be informed of the reasons for the delay.25
+
+
+
+When will the framework for mandatory financial stability assessments be
+reviewed? It would be expected that the Decision would be reviewed in light of
+experience after the first round of mandatory assessments is completed and, in any
+event, within four years of the Decision’s adoption.*
+
+23
+
+The determination of the expected date of completion for an Article IV consultation with a member would
+take into account any grace period that applies under Fund surveillance policy.
+
+24
+
+With respect to financial stability assessments for territories of members, the expected date of the Executive
+Board discussion would be based on the expected date of the Executive Board discussion of the relevant Article
+IV report respecting the territory.
+
+25
+
+The Executive Board will, in the coming months, consider a paper on the obligation of members to consult
+with the Fund under Article IV and, in particular, the advisability of making members’ adherence to Article IV
+consultations cycles obligatory at least in some circumstances. Pending that discussion, it is proposed that the
+periodicity of mandatory financial stability assessments be expressed in terms of “expectations” in a manner
+that is similar to the approach taken with respect to Article IV consultations more generally.
+
+25
+PROPOSED DECISION*
+*The Executive Board did not adopt this proposed decision, but endorsed a revised proposed
+decision (see Integrating Stability Assessments Under the Financial Sector Assessment
+Program into Article IV Surveillance—Revised Proposed Decision). The Decision adopted
+by the Executive Board provides for targeting financial stability assessments at a frequency
+of every five years. Moreover, it provides that both the Decision and the list of systemically
+important members will be reviewed within five years of adoption of the Decision and at
+similar intervals thereafter. At the same time, the Decision may be reviewed at any time to
+take into account major advances in availability of data and in the development of
+methodologies for assessing the systemic importance of financial sectors. The Decision no
+longer includes provision on the reporting of information under Article VIII, Section 5 set
+out in paragraph 10.The Decision also stipulates that a financial stability assessment will be
+conducted and the FSSA resulting from assessment will be discussed by the Executive Board
+by no later than the first deadline for completion of Article IV consultation with the member
+or a territory of a member that follows the fifth anniversary of such determination.
+The following Decision, which may be adopted by a majority of votes cast, is proposed for
+adoption by the Executive Board.
+This Decision sets out the scope and modalities of bilateral surveillance over the financial
+sector policies of members with systemically important financial sectors in accordance with
+Article IV, Sections 3 (a) and (b) of the Fund’s Articles and the Fund’s Decision on Bilateral
+Surveillance over Members’ Policies – 2007 Decision (Decision No. 13919-(07/51), adopted
+June 15, 2007 (the “2007 Surveillance Decision”).
+Introduction
+1.
+
+Article IV, Section 1 of the Fund’s Articles requires each member to “collaborate
+
+with the Fund and other members to assure orderly exchange arrangements and to promote a
+stable system of exchange rates” (“systemic stability”). Recognizing the important impact
+that a member’s domestic economic and financial policies can have on systemic stability,
+Article IV, Sections 1(i) and (ii) establish obligations for members respecting the conduct of
+these policies, including their financial sector policies.
+
+26
+2.
+
+In accordance with the framework set out in Article IV, the 2007 Surveillance
+
+Decision provides that systemic stability is most effectively achieved by each member
+adopting policies that promote its own “external stability” – that is, a balance of payments
+position that does not, and is not likely to, give rise to disruptive exchange rate movements.
+In the conduct of their domestic economic and financial policies, members are considered to
+be promoting external stability when they are promoting their own domestic stability – that
+is, when they comply with the obligations of Article IV, Sections 1 (i) and (ii) of the Fund’s
+Articles. For this purpose, the 2007 Surveillance Decision requires the Fund’s bilateral
+surveillance to assess, in particular, whether a member’s domestic policies are directed
+towards domestic stability. It provides that “financial sector policies (both their
+macroeconomic aspects and macroeconomically relevant structural aspects)” will always be
+the subject of the Fund’s bilateral surveillance with respect to each member.
+3.
+
+While an examination of members’ financial sector policies is important in all cases
+
+of bilateral surveillance, the Fund decides that, taking into account the framework described
+above and the overall purpose of surveillance, heightened scrutiny should be given in
+bilateral surveillance to the financial sector policies of those members whose financial
+sectors are systemically important, given the risk that domestic and external instability in
+such countries will lead to particularly disruptive exchange rate movements and undermine
+systemic stability. As financial stability assessments are a key tool for assessing members’
+financial vulnerabilities and financial sector policies, it is appropriate that financial stability
+assessments be conducted with such members as provided for in this Decision.
+4.
+
+This Decision does not impose new obligations on members or, in particular, modify
+
+the scope of their obligations under Article IV, Section 1. The Fund, in its bilateral
+
+27
+surveillance, will continue to assess whether a member’s domestic economic and financial
+policies are directed toward the promotion of domestic stability.
+Scope and modalities of financial stability assessments
+5.
+
+Determination of systemic importance. The Managing Director, in consultation
+
+with the Executive Board, will identify those members that have systemically important
+financial sectors. This determination will be made at least every three years, will based on an
+assessment of the size and interconnectedness of members’ financial sectors as contemplated
+in paragraphs 23 to 26 in SM/10/235.
+6.
+
+Financial stability assessments. Where the financial sector of a member is
+
+determined to be systematically important pursuant to paragraph 5 of this Decision, the
+member shall engage in a financial stability assessment in the context of bilateral
+surveillance under Article IV of the Fund’s Articles in accordance with the terms of this
+Decision. For this purpose, the member shall consult with the Fund and the authorities of the
+member shall make themselves available for discussions with Fund staff of the issues that fall
+within paragraph 7 of this Decision.
+7.
+
+Scope of financial stability assessments. The financial stability assessments
+
+undertaken under this Decision will consist of the following elements:
+a. An evaluation of the source, probability, and potential impact of the main
+risks to macro-financial stability in the near-term for the relevant financial
+sector. Such an evaluation will involve: an analysis of the structure and soundness
+of the financial system; trends in both the financial and non-financial sectors; risk
+transmission channels; and features of the overall policy framework that may
+
+28
+attenuate or amplify financial stability risks (such as the exchange rate regime).
+Both quantitative analysis (such as balance sheet indicators and stress tests) and
+qualitative assessments will be used to evaluate the risks to macro-financial
+stability.
+b.
+
+An assessment of the authorities’ financial stability policy framework. Such
+an assessment will involve: an evaluation of the effectiveness of financial sector
+supervision; the quality of financial stability analysis and reports; the role of and
+coordination between the various institutions involved in financial stability policy;
+and the effectiveness of monetary policy.
+
+c.
+
+An assessment of the authorities’ capacity to manage and resolve a financial
+crisis should the risks materialize. Such an assessment will involve an overview
+of the country’s liquidity management framework; financial safety nets (such as
+deposit insurance and lender-of-last-resort arrangements); crisis preparedness and
+crisis resolution frameworks; and the possible spillovers from the financial sector
+onto the sovereign balance sheet.
+
+8.
+
+Modalities of assessments. The key findings and recommendations of a financial
+
+stability assessment under this Decision will be summarized in a Financial System Stability
+Assessment Report (FSSA) that will normally be discussed by the Executive Board at the
+same time as the relevant Article IV consultation report.
+9.
+
+Frequency. Where the financial sector of a member is determined to be systemically
+
+important pursuant to this Decision, it will be expected that a financial stability assessment
+will be conducted and the FSSA resulting from such an assessment will be discussed by the
+
+29
+Executive Board by no later than the third anniversary of the expected date of completion of
+the first Article IV consultation with the member that follows such a determination or, in the
+case of the financial sector of a territory of a member, the third anniversary of the expected
+date of completion of the first Article IV consultation discussion with respect to that territory
+by the Executive Board that follows such a determination. It is expected that subsequent
+FSSAs for a member with a systemically important financial sector will be discussed by the
+Executive Board by no later than the expected date of completion of the first Article IV
+consultation with that member that follows the third anniversary of the date of completion of
+the previous Executive Board discussion of the FSSA respecting that member or, in the case
+of the financial sector of a territory of a member, the expected date of completion of the first
+Article IV consultation discussion with respect to that territory by the Executive Board that
+follows the third anniversary of the date of completion of the previous Executive Board
+discussion of the FSSA respecting the financial sector of that territory.
+10.
+
+Provision of information. Under Article VIII, Section 5, the Fund may, subject to
+
+certain limitations, require members to provide the Fund with information it deems necessary
+for the conduct of a financial stability assessment. While members are under no obligation to
+provide information in such detail that the affairs of individuals or corporations are disclosed,
+the Fund may obtain such information by agreement with members, with due regard to the
+confidentiality of such data.
+Miscellaneous
+11.
+
+Review. The Fund will review this Decision no later than four years following the
+
+date of its adoption. In particular, as “systemic importance” is a dynamic concept, the Fund
+
+30
+will review and revise, as necessary, the criteria for determining members with systemically
+important financial sectors.
+
+

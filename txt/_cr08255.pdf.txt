@@ -1,0 +1,9822 @@
+July 2008
+IMF Country Report No. 08/255
+
+© 2008 International Monetary Fund
+
+[Month, Day], 201
+
+August 2, 2001
+
+United States: 2008 Article IV Consultation—Staff Report; Staff Supplement; and
+Public Information Notice on the Executive Board Discussion
+Under Article IV of the IMF’s Articles of Agreement, the IMF holds bilateral discussions with
+members, usually every year. In the context of the 2008 Article IV consultation with the United States
+the following documents have been released and are included in this package:
+•
+
+The staff report for the 2008 Article IV consultation, prepared by a staff team of the IMF,
+following discussions that ended on June 17, 2008, with the officials of the United States on
+economic developments and policies. Based on information available at the time of these
+discussions, the staff report was completed on July 2, 2008. The views expressed in the staff
+report are those of the staff team and do not necessarily reflect the views of the Executive
+Board of the IMF.
+
+•
+
+A staff supplement of July 18, 2008, updating information on recent developments.
+
+•
+
+A Public Information Notice (PIN) summarizing the views of the Executive Board as
+expressed during its July 21, 2008 discussion of the staff report that concluded the Article IV
+consultation.
+
+The document listed below will be separately released.
+Selected Issues Paper
+The policy of publication of staff reports and other documents allows for the deletion of market-sensitive
+information.
+Copies of this report are available to the public from
+International Monetary Fund • Publication Services
+700 19th Street, N.W. • Washington, D.C. 20431
+Telephone: (202) 623-7430 • Telefax: (202) 623-7201
+E-mail: publications@imf.org • Internet: http://www.imf.org
+Price: $18.00 a copy
+
+International Monetary Fund
+Washington, D.C.
+
+INTERNATIONAL MONETARY FUND
+UNITED STATES
+Staff Report for the 2008 Article IV Consultation
+Prepared by the Staff Representatives for the 2008 Consultation with United States
+(In consultation with other departments)
+Approved by Anoop Singh and Adnan Mazarei
+July 2, 2008
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+Focus. This report centers on the analysis, implications, and policy responses related to
+the serious stresses in U.S. housing and financial markets. Other long-standing Article IV
+issues, e.g., trade, aid, and anti-money laundering, are summarized in Table 1.
+Assessment. The economy has shown remarkable resilience to headwinds from housing,
+the financial sector and oil prices through the second quarter, but activity is expected to
+remain weak in 2008, with a slow recovery in 2009 as hits to balance sheets are worked
+out. Still, the shock is unprecedented and uncertainty over prospects for house prices—
+key to the outlook—is large. External adjustment is in train, with the external deficit and
+the dollar falling toward a level consistent with medium-term fundamentals.
+Policy advice. The staff report advocates to:
+• Keep monetary policy on hold but be ready to raise rates in light of inflation risks.
+• Avoid repeated generalized fiscal stimulus, and instead let the stimulus package work,
+with any needed further actions targeted at root problems in housing and banking.
+• Avoid excess house price falls by expanding mortgage guarantee programs to catalyze
+voluntary writedowns, as proposed in Congress, but with further incentives for lenders.
+• Prepare contingency measures in the financial sector—for example, with the Treasury
+stepping in to support market liquidity with longer-term asset swaps.
+• Reform financial regulation—although detailed recommendations require further
+analysis, including in next year’s Financial Sector Assessment Program, the process
+could begin by considering tightening liquidity and capital requirements and bringing
+large investment bank holding companies under Fed umbrella supervision.
+Authorities’ position. The flexibility of the U.S. economy, and the rapid policy response,
+should prompt a faster recovery than in the staff baseline. Additional stimulus is not
+contemplated, while further action on housing or banking risks impeding needed
+adjustment and aggravating moral hazard. Reform of financial regulation is a priority.
+Analytical work. Underpinning the report are several background studies, focusing on the
+aftermath of housing booms and busts, house price dynamics, macrofinancial linkages,
+banking spillovers, and corporate balance sheets (see summaries in Selected Issues).
+Staff. The team comprised (at times) Ranjit Teja (Head), Tamim Bayoumi, Marcello
+Estevão, Ravi Balakrishnan, Vladimir Klyuev, Koshy Mathai, Hui Tong (WHD); Ashok
+Bhatia, Christian Capuano, John Kiff, Paul Mills (MCM), and Jean-Jacques Hallaert
+(PDR). Mr. Singh (WHD) and Ms. Lundsager (Executive Director) joined meetings with
+senior officials, and with Secretary Paulson and Chairman Bernanke on June 16–17, led
+on the Fund side by Managing Director Strauss-Kahn and FDMD Lipsky.
+
+2
+
+Contents
+
+Page
+
+I.
+
+Background........................................................................................................................4
+
+II.
+
+Balance Sheet Strains ........................................................................................................7
+A. Housing and Households ..........................................................................................7
+B. Financial Intermediaries..........................................................................................11
+
+III.
+
+Macrofinancial Linkages .................................................................................................13
+
+IV.
+
+The Resulting Outlook ....................................................................................................18
+
+V.
+
+Macroeconomic Policy Responses ..................................................................................22
+A. Monetary Accommodation .....................................................................................22
+B. Fiscal Support .........................................................................................................24
+C. Housing Support .....................................................................................................27
+D. Bank Support ..........................................................................................................28
+
+VI.
+
+Financial Regulation........................................................................................................30
+A. Bank and Securities Regulation ..............................................................................30
+B. Business Conduct Regulation .................................................................................31
+C. Securitization ..........................................................................................................32
+
+VII. External Adjustment and the Dollar ................................................................................32
+VIII. Staff Appraisal.................................................................................................................37
+Boxes
+1.
+International Spillovers .....................................................................................................8
+2.
+Special Considerations in the Assessment of the Dollar .................................................36
+Figures
+1.
+Recent Indicators ...............................................................................................................5
+2.
+Anatomy of a Housing Boom and Bust.............................................................................6
+3.
+Household Cash Flow and Balance Sheets .....................................................................10
+4.
+The Banking Sector Leverage Cycle...............................................................................12
+5.
+Deleveraging....................................................................................................................14
+6.
+Macro-Financial Linkages...............................................................................................15
+7.
+Corporate Sector Cash Flow and Balance Sheets............................................................17
+8.
+Outlook and Risks ...........................................................................................................19
+9.
+Monetary Policy Indicators .............................................................................................23
+10. Fiscal Indicators...............................................................................................................25
+11. U.S. Competitiveness ......................................................................................................33
+
+3
+
+Tables
+1.
+Long-Standing Fund Policy Advice ................................................................................39
+2.
+Measures to Support the Housing Market––Selected Actions and Proposals.................41
+3.
+Forms of Federal Reserve Lending to Financial Institutions ..........................................42
+4.
+Selected Economic Indicators .........................................................................................43
+5.
+Balance of Payments .......................................................................................................44
+6.
+Indicators of External and Financial Vulnerability .........................................................45
+7.
+Fiscal Indicators...............................................................................................................46
+Appendix Figure
+1.
+Net Foreign Asset Sustainability: Bound Tests...............................................................47
+2.
+Public Debt Sustainability: Bound Tests.........................................................................48
+Appendix Tables
+1.
+Net Foreign Asset Position Sustainability Framework, 2003–2013 ...............................49
+2.
+Public Debt Sustainability Framework, 2002–2012........................................................50
+
+4
+I. BACKGROUND
+1.
+Growth has slowed dramatically, as many of the downside risks to the U.S.
+economy outlined in last year’s staff report have materialized (Figure 1). The impact
+of the housing downturn, limited to the
+Employment and Recessions
+600
+600
+construction sector a year ago, has since fed
+Payroll employment (three-month average change,
+thousands, using data available prior to benchmark
+through to household spending and financial
+400
+400 revisions)
+markets, further slowing GDP growth.
+Payrolls have shrunk for five months in a row 200
+200
+(somewhat sharper declines have reliably
+0
+0
+signaled past recessions), the unemployment
+rate has risen, and, despite some recent easing,
+-200
+200
+financial market conditions remain strained.
+More recently, the latest surge in food and
+-400
+400
+energy prices has lifted headline inflation,
+-600
+600
+constraining monetary policy options and
+1968 1972 1976 1980 1984 1988 1992 1996 2000 2004 2008
+partly offsetting temporary boosts to disposable Sources: Federal Reserve Bank of St. Louis; Haver
+Analytics; and Fund staff calculations.
+income and consumption from fiscal stimulus.
+2.
+The economy is in uncharted waters, with house prices falling nationwide for
+the first time in at least four decades (Figure 2). From 2001, rising housing values
+boosted wealth, spending, and mortgage
+House Prices
+110
+110
+borrowing. At some point, entrenched
+Case-Shiller House Price Indices
+expectations of house price rises led to a self(June 2006=100)
+100
+100
+reinforcing process of imprudent lending by
+90
+90
+financial institutions to willing—and at times
+misled—borrowers. Stretched bank balance
+80
+80
+sheets were masked as additional lending
+20-city actual
+70
+70
+occurred mainly through lightly-capitalized
+entities. Final investors underestimated risks
+60
+60
+10-city implied
+by futures
+to asset quality, reflecting over reliance on lax
+market prices 1/
+10-city actual
+50
+50
+credit ratings and on the stability of
+geographically-diversified U.S. mortgage
+40
+40
+2000
+2002
+2004
+2006
+2008
+2010
+pools. The full implications of these
+Sources: Haver Analytics; Bloomberg, L.P.; and Fund
+individual trends, exposed once house-price
+staff calculations.
+appreciation reversed, were missed by most
+1/ Illiquidity in market may lend a downward bias to prices
+implied by futures contracts.
+commentators, including the Fund.
+3.
+Financial supervision and regulation, more than monetary policy, failed to
+rein in lending excesses, the reversal of which is reverberating around the world.
+With the U.S. economy recovering slowly from the 2001 recession, the Fed delayed
+raising policy rates until 2004, boosting spending and—through a relatively steep yield
+curve—prompting a major switch to adjustable rate mortgages (ARMs). While the
+
+5
+Figure 1. United States: Recent Indicators
+Consumption has avoided collapse so far but is
+weak...
+
+...and consumer confidence is at a 28-year low.
+5
+
+5
+Real personal consumption
+(twelve-month percent change)
+4
+
+110
+
+110
+
+Michigan consumer expectations
+(three month moving average)
+
+100
+
+100
+4
+
+Average during expansions
+
+3
+
+3
+
+2
+
+2
+
+Average during recessions
+1
+
+90
+
+90
+
+80
+
+80
+
+70
+
+70
+
+60
+
+60
+
+50
+
+50
+
+1
+
+0
+Jan-07
+
+0
+May-07
+
+Sep-07
+
+Jan-08
+
+Average during expansions
+
+60
+
+60
+
+55
+
+55
+
+50
+
+50
+
+45
+
+45
+
+40
+
+40
+
+-3
+
+35
+
+35
+
+-4
+
+30
+
+1
+
+1
+
+0
+
+0
+
+-1
+
+-1
+
+-2
+
+-2
+Average during recessions
+
+-3
+
+Sep-07
+
+Jan-08
+
+May-08
+
+20
+
+10
+
+10
+
+5
+
+0
+
+0
+
+-10
+
+-5
+
+-20
+
+Housing starts (left scale)
+
+-10
+
+-30
+
+Real residential investment
+(right scale)
+Case-Shiller house price
+(right scale)
+
+-15
+
+2005
+
+2006
+
+2007
+
+Sources: Haver Analytics; and Fund staff calculations.
+
+1993
+
+1998
+
+2003
+
+2008
+
+5
+Consumer price index
+(twelve-month percent change)
+
+4
+
+4
+
+3
+
+3
+
+2
+
+2
+
+1
+
+1
+Headline
+
+-20
+-25
+
+2004
+
+1988
+
+5
+
+15
+
+20
+
+-50
+2003
+
+30
+1983
+
+...and commodity prices are driving up headline
+inflation.
+
+(four-quarter
+percent change)
+
+(twelve-month
+percent change)
+
+70
+
+ISM manufacturing index (three month moving average)
+
+1978
+
+Meanwhile, the housing downturn continues...
+
+-40
+
+2008
+
+65
+
+2
+
+30
+
+2003
+
+1998
+
+65
+
+2
+
+40
+
+1993
+
+4
+3
+
+May-07
+
+1988
+
+70
+
+3
+
+-4
+Jan-07
+
+1983
+
+5
+
+Manufacturing production (twelve-month percent change)
+4
+
+40
+
+1978
+
+...but business confidence is not yet at recession
+levels.
+
+Production is sputtering...
+
+5
+
+40
+
+May-08
+
+2008
+
+0
+2000
+
+Core
+0
+
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+6
+Figure 2. United States: Anatomy of a Housing Boom and Bust
+5
+
+The housing boom was prolonged by subprime
+lending...
+Mortgage originations
+(trillion U.S. dollars)
+
+5
+
+70
+
+...including increasing loan-to-value ratios and
+unsound documentation practices.
+
+70
+
+Subprime adjustable-rate mortgage origination
+Non-prime
+
+4
+
+4
+
+Prime
+
+60
+
+60
+Percent with loan-tovalue ratio greater than
+90 percent
+
+50
+3
+
+50
+
+3
+Percent of loans
+without full
+documentation
+
+40
+2
+
+2
+
+1
+
+1
+
+0
+
+0
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+25
+
+30
+
+30
+
+20
+
+20
+
+10
+
+10
+
+2007
+
+Defaults have been particularly heavy among
+adjustable-rate mortgages...
+
+2001
+
+25
+
+30
+
+20
+Subprime fixed
+
+2002
+
+2003
+
+2004
+
+Delinquency rates by origination date
+(percent of mortgages originated)
+2000
+
+25
+
+10
+
+Prime fixed
+
+130
+
+5
+
+0
+2004
+
+2006
+
+House prices are moving back toward
+equilibrium...
+Real OFHEO purchase-only house price
+(index, predicted 2008Q1 = 100)
+
+2003
+
+5
+
+0
+
+0
+0
+
+130 12
+
+8
+
+16
+
+24
+
+32
+
+40
+
+48
+
+56
+
+64
+
+72
+
+...but the boom and bust have had little effect on
+core inflation.
+
+10
+120
+8
+110
+
+12
+10
+
+OFHEO purchase only
+house price index
+
+6
+
+8
+6
+
+CPI: Rent and owners'
+equivalent rent
+
+4
+Predicted
+
+10
+
+5
+
+2008
+
+Actual
+
+100
+
+15
+
+2007
+
+(y/y percent change)
+
+120
+
+110
+
+25
+
+2002
+
+2004
+
+10
+
+2002
+
+30
+
+20
+
+10
+
+2000
+
+2001
+
+2005
+15
+
+0
+1998
+
+2007
+
+20
+15
+
+Prime ARM
+
+2006
+
+2006
+
+Subprime ARM
+
+15
+
+5
+
+2005
+
+...especially on subprime loans originated in 2006
+and 2007.
+
+Mortgage delinquency rates by type of loan
+(percent of outstanding mortgages in each category)
+20
+
+40
+
+4
+
+100
+
+90
+
+90
+
+80
+
+80
+
+70
+70
+1978 1981 1984 1987 1990 1993 1996 1999 2002 2005 2008
+
+2
+
+2
+
+0
+
+0
+
+-2
+
+-2
+
+-4
+
+-4
+
+-6
+2000
+
+Sources: Haver Analytics; Merrill Lynch; Intex; and Fund staff calculations.
+
+-6
+2002
+
+2004
+
+2006
+
+2008
+
+7
+
+eventual rate increase slowed most parts of final demand, the housing boom, fueled by
+low initial (“teaser”) mortgage interest rates, continued to boost construction and hold
+down household savings. Importantly, a fragmented regulatory system did not recognize
+the implications of the financial system becoming over-leveraged, while outdated rules
+failed to constrain imprudent mortgage lending. Delinquency and foreclosure rates are
+now rising on all ARMs, particularly subprime ones, but banks face more widespread
+problems. Higher spreads and a slowing economy are exposing other underwriting
+lapses—e.g., in auto, credit card, and commercial real estate loans. Elevated spreads in
+money and bond markets have been transmitted to financial centers around the world,
+reflecting the central role of the United States in the global financial system (Box 1). As a
+result, growth is now slowing in many industrial countries, although it has so far
+remained robust in emerging markets.
+4.
+Despite slowing growth, headline inflation has been pushed up by energy and
+Inflation Expectations
+food prices, raising fears that thus-far anchored
+Michigan survey (y/y percent change)
+inflation expectations will drift up. At slightly
+5
+over 4 percent, headline CPI inflation is again
+around the highs of mid-2005 to mid-2006. By
+4
+contrast, the Fed’s preferred measure of trends—
+3
+core personal consumption expenditure
+inflation—remains just above their presumed
+comfort zone of 1–2 percent, with no evidence of 2
+One-year-ahead inflation
+expectations
+higher energy costs spilling over on other prices.
+1
+Two to five-year-ahead
+While there are signs that short-term inflation
+inflation expectations
+expectations are rising, medium-term expectations 0
+2000 2001 2002 2003 2004 2005 2006 2007 2008
+appear better anchored, and wages continue to
+Sources: Haver Analytics; Bloomberg, L.P.; and
+slow in line with a weakening labor market.
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+Fund staff calculations.
+
+II. BALANCE SHEET STRAINS
+A. Housing and Households
+5.
+After an unsustainable run up, house
+prices are now falling sharply across the
+country. With the dispersion of house price
+changes tightening progressively, it is clear that
+the housing boom and bust is a national
+phenomenon, even if some areas have been
+harder hit. House-price inflation at the national
+level peaked in 2005, and prices are now
+declining. Office of Federal Housing Enterprise
+Oversight (OFHEO) purchase-only prices, which
+have a wide geographic coverage but include
+only safer (conforming) mortgages, peaked in
+
+Regional House Price Cycles
+12
+
+OFHEO House Price Indices (q/q percent change)
+
+10
+
+Behaves like
+regional markets
+
+8
+
+12
+10
+
+Behaves like a
+national market
+
+8
+
+6
+
+6
+
+4
+
+4
+
+2
+
+2
+
+0
+
+0
+
+-2
+
+Range of nine
+Census regions
+
+-2
+
+-4
+
+National index
+
+-4
+
+-6
+
+-6
+
+1976
+
+1980
+
+1984
+
+1988
+
+1992
+
+Source: Haver Analytics.
+
+1996
+
+2000
+
+2004
+
+2008
+
+8
+April 2007 and have fallen 4½ percent to date. By contrast, the Case-Shiller 10-city
+index, which covers only major urban areas but all types of sales (including those
+financed by subprime and jumbo loans) started to fall in mid-2006 and is already
+18 percent below its peak. On the latter measure, prices fell by almost 10 percent from
+December through April and futures markets project a further 15–20 percent fall,
+suggesting continuing strong pressure on house prices, especially in previously hot
+markets such as California and Florida.
+Box 1. International Spillovers
+The tightening in U.S. financial conditions has
+been transmitted rapidly abroad. Global money
+market premiums, bond market spreads, and
+equity risk premiums have moved in tandem with
+their U.S. analogues. With estimated aggregate
+losses of European banks similar to their U.S.
+counterparts, lending standards have risen
+significantly in Europe and, to a somewhat lesser
+extent, in Japan.
+The current U.S. slowdown is likely to result in
+significant aftershocks in other industrial
+countries. The size of the U.S. economy and
+dominance of its financial markets create
+international spillovers through trade, commodity
+prices, and global financial markets. Desk analysis
+suggests that a 1 percent fall in U.S. activity
+gradually lowers real GDP in other industrial
+countries by some ½ percent after a year or so.
+The bulk of this effect comes through financial
+linkages, with smaller effects through trade and
+commodity prices.
+While slowing activity and dollar depreciation
+are curbing U.S. imports, buoyant commodity
+prices are supporting activity in producer
+countries. Trade links are strongest for NAFTA
+partners—Canada and Mexico—whose economies
+are highly dependent on U.S. activity, especially
+manufacturing, while support from commodity
+prices is more important in other cases.
+
+Lending Standards for Large Firms
+3
+
+2
+
+3
+
+Central bank surveys
+(standard deviations from period
+average for 2003-2008Q2)
+
+2
+
+United States
+Euro area
+
+1
+
+1
+
+Japan
+0
+
+0
+
+-1
+
+-1
+
+-2
+
+-2
+2003
+
+2005
+
+2007
+
+Spillovers of U.S. Economic Activity
+0.0
+
+0.0
+Cumulative GDP response to one
+percentage point U.S. shock
+
+-0.5
+
+-0.5
+
+United States
+Euro area
+Japan
+Rest of world 1/
+
+-1.0
+
+-1.0
+
+-1.5
+
+-1.5
+
+-2.0
+
+-2.0
+1Q
+
+2Q
+
+3Q
+
+4Q
+
+5Q
+
+6Q
+
+7Q
+
+8Q
+
+1/ Includes Australia, Canada, Denmark, Korea, Mexico,
+New Zealand, Norway, South Africa, Sweden, Switzerland,
+Taiwan P.O.C., and United Kingdom.
+
+A number of countries with pegs or limited flexibility against the dollar are finding that they are
+importing a more relaxed monetary stance than is appropriate for them. These countries, which
+are already facing considerable inflationary pressure, would in the normal course have sought to raise
+interest rates but have only limited room to do so, given their exchange rate regimes.
+
+9
+6.
+Falling house prices could be taking on a life of their own, as the supply
+overhang is exacerbated by reduced incentives to buy and higher foreclosures. While
+the size and sources of pressure on house prices vary by region, staff background analysis
+suggests that the inventory-sales ratio and foreclosure starts are good predictors of
+national house price movements, with the gap between current and estimated equilibrium
+prices playing only a limited role (Selected Issues, Chapter 1). In fact, expectations of
+further price declines and credit constraints are choking sales (as buyers wait for lower
+prices), while a rising wave of foreclosures is adding inventory and diminishing values of
+neighboring houses (each foreclosure is estimated to lower the prices of other homes
+within one-eighth of a mile by 1 percent).
+7.
+With housing assets and mortgage debt at near-record ratios to disposable
+income, household balance sheets are particularly exposed to house-price declines.
+The staff baseline forecast assumes that
+Household Wealth
+76
+2.5
+nominal prices will fall a further
+Homeowners' equity (percent of real
+estate value, right scale)
+10 percent on an OFHEO basis and
+2.0
+Housing wealth (ratio to
+somewhat more using Case-Shiller
+68
+disposable personal
+income, left scale)
+indices. In real terms (OFHEO basis),
+1.5
+house prices fall from their current level
+60
+of 10 percent or so above equilibrium to
+Mortgage debt (ratio to
+1.0
+5 percent or more below equilibrium by
+disposable personal
+income, left scale)
+end-2009. The resulting peak-to-trough
+52
+0.5
+reduction in net household wealth and
+collateral of almost 30 percent of GDP
+44
+0.0
+puts considerable downward pressure on
+1980 1983 1987 1990 1994 1997 2001 2004 2008
+consumption: each dollar fall in wealth is
+Source: Haver Analytics.
+expected to reduce consumption by
+7 cents, with about half the reduction in the first year. This is at the upper end of
+estimated wealth and collateral effects, reflecting borrowers’ growing access to home
+equity over time.
+8.
+Spending has weakened on eroding wealth, declining employment, high oil
+prices, and credit constraints (Figure 3). Employment has fallen by ¼ percent since
+December even as food and energy hikes have boosted prices by almost one percent.
+These pressures on real incomes, along with financial strains, are eroding consumer
+confidence, with some measures down to levels last seen in the early 1980s. As a result,
+real consumption, which accounts for 70 percent of GDP, slowed to a crawl in early 2008
+(versus a trend growth rate of 3½ percent a year over the last decade). Consumption
+jumped in May and likely stayed high in June, reflecting the temporary stimulus from tax
+rebates that raised disposable incomes by around 5 percent in May–June.
+
+10
+Figure 3. United States: Household Cash Flow and Balance Sheets
+Rising energy prices are taking a bite out of
+real earning power.
+8
+
+After surging, house prices are now declining...
+8
+
+Real employee compensation (y/y percent change)
+
+7
+
+7
+Deflated by core prices
+
+6
+
+5
+Deflated by
+headline
+prices
+
+4
+
+3
+
+3
+
+2
+
+2
+
+1
+
+1
+
+0
+
+0
+
+-1
+1998
+
+180
+
+6
+
+5
+4
+
+200
+
+2002
+
+2004
+
+2006
+
+140
+
+14
+
+140
+
+OFHEO purchase
+only index
+
+120
+
+100
+
+100
+
+80
+
+80
+
+60
+
+60
+
+1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008
+
+...leaving a rising number owing more on their
+mortgages than their homes are worth...
+16
+Homeowners with negative equity (who owe more
+on their mortgages than their homes are worth;
+million)
+
+160
+NAR median sales price
+of existing homes
+
+120
+
+2008
+
+16
+
+180
+
+S&P/Case-Shiller
+
+160
+
+-1
+2000
+
+200
+
+House price indices
+(2000=100)
+
+14
+
+80
+
+...which has boosted foreclosures and resulted
+in a tightening of lending standards...
+
+70
+Net percent of banks tightening
+mortgage lending standards
+(left scale)
+
+60
+
+12
+
+12
+
+10
+
+10
+
+8
+
+8
+
+6
+
+6
+
+50
+
+2.3
+2.1
+1.9
+
+40
+30
+
+2.5
+
+Foreclosure rate (right scale)
+
+20
+
+1.7
+1.5
+
+10
+4
+
+4
+
+2
+
+2
+
+0
+
+0
+2006
+
+2007
+
+2008
+
+2009
+
+6
+
+Home sales
+(million at annual rate)
+
+Inventory (months' supply)
+
+1.1
+
+-10
+-20
+
+0.9
+
+1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008
+
+2010
+
+...raising the inventory of vacant homes, lowering
+sales...
+7
+
+1.3
+0
+
+12
+
+8
+
+...and causing housing wealth to tick down after an
+extended boom.
+Household net worth
+(ratio to disposable income)
+
+10
+6
+
+5
+4
+
+8
+
+6
+
+8
+Existing home sales
+Existing home inventories
+
+Household net worth
+
+6
+
+4
+
+4
+
+3
+2
+
+4
+2
+
+New home inventories
+
+2
+Housing and equity wealth
+
+2
+
+1
+New home sales
+
+0
+0
+1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008
+
+0
+0
+1980 1983 1986 1989 1992 1995 1998 2001 2004 2007
+
+Sources: Mortgage Bankers Association; Bloomberg; Equifax, Moody's Economy.com; and Haver Analytics.
+
+11
+B. Financial Intermediaries
+9.
+The shock to U.S. financial markets hit an overleveraged system dependent
+on market liquidity (Figure 4). The asset boom from mid-2004 to mid-2007 came
+mainly from highly leveraged investment
+The Asset Boom
+180
+180
+banks and off-balance sheet affiliates of
+Financial assets (percent of GDP)
+160
+160
+commercial banks (conduits and special
+Security broker-dealers
+investment vehicles). Regulators
+ABS issuers
+140
+140
+Finance companies
+underestimated the degree to which tangible
+120
+120
+Depository institutions
+capital had become stretched, in part because 100
+100
+of an under-appreciation of the importance to
+80
+80
+banks of supporting off-balance sheet
+60
+60
+affiliates for reputational reasons when
+40
+40
+financing conditions deteriorated. While the
+20
+20
+limited capital backing for the apparent
+“originate-to-distribute” boom was
+0
+0
+1980 1983 1987 1990 1994 1997 2001 2004 2008
+sustainable when markets were liquid and the
+Sources: Haver Analytics; and Fund staff calculations.
+price of risk low, investors are now shunning
+complex asset-backed securities, tightening investment criteria, and forcing the system
+back to a more overt “originate-to-hold” mode. In essence, there has been a rapid and
+involuntary return to intermediation through bank balance sheets.
+10.
+Loan losses add to the need for more capital to support overextended balance
+sheets. Estimates from the Spring 2008 Global Financial Stability Report, using
+prevailing market prices, put losses at near $1 trillion globally and $220–260 billion for
+U.S. banks—over one-third of the equity of the ten major commercial and investment
+banking groups. Of this, some $160 billion in U.S. losses have already been recognized,
+reflecting deep discounts on assets such as mortgage-backed collateralized debt
+obligations previously believed to be secure. If illiquidity has pushed market prices well
+below underlying values, realized losses could be smaller than priced in, and the financial
+sector could stabilize faster than projected. However, with house prices falling and the
+credit cycle tending to lag the slowdown in activity, bank losses could just as likely
+overshoot current market assumptions.
+11.
+Reflecting their high leverage and reliance on wholesale funding, pressures
+have been heaviest on the largest banks. Liquidity problems initially stemmed from
+uncertainty about the location of losses and short-term funding needs and, with collateral
+requirements tightening, lenders started shunning weaker institutions. In early March, the
+Fed facilitated the acquisition of Bear Stearns by JPMorgan Chase after it experienced a
+wholesale funding run, with access to even secured borrowing against high-quality
+collateral drying up. Immediately afterwards, the Fed widened its discount window to the
+remaining primary dealers (including, importantly, major investment banks), which
+calmed systemic concerns and lowered credit default swap spreads of the major
+
+12
+Figure 4. United States: The Banking Sector Leverage Cycle
+Low long rates, and spreads,...
+12
+
+12
+
+10
+
+10
+
+...and low market volatilities...
+
+200
+
+Market volatility (index,
+January 2000=100)
+
+180
+
+Equities (VIX)
+
+6
+
+4
+
+4
+Ten-year U.S.
+Treasury yield
+(percent)
+
+0
+2002
+
+140
+
+140
+
+120
+
+120
+
+100
+
+100
+
+80
+
+80
+
+60
+
+60
+
+2
+
+0
+2000
+
+2004
+
+2006
+
+2008
+
+40
+
+40
+2000
+
+80
+
+2002
+
+2004
+
+2008
+
+2006
+
+Mark-to-market makes leverage procyclical, particularly
+for lightly supervised investment banks.
+
+...allowed investment banks to lever up and
+increase in size to make profits.
+90
+
+160
+
+Interest Rates (MOVE)
+
+8
+
+6
+
+2
+
+180
+
+G-7 Currencies (VXY)
+160
+
+High yield spreads
+(percent)
+
+8
+
+200
+
+35
+
+Balance sheet developments of largest bank holding
+companies (BHCs) and investment Banks (IBs) 1/
+
+30
+
+70
+
+50
+Largest BHCs and IBs: Asset growth and change in
+Assets (y/yleverage,
+percent 2000-2007,
+change) 1/ 2/
+40
+Investment
+banks
+
+25
+
+30
+
+50
+
+20
+
+20
+
+40
+
+15
+
+10
+
+60
+
+Bank holding
+companies
+
+30
+10
+20
+
+IB assets (percent of GDP, left scale)
+BHCs assets (percent of GDP, left scale)
+IBs leverage (simple average, right scale)
+BHCs leverage (simple average, right scale)
+
+10
+
+0
+
+5
+
+-10
+-40
+
+2000
+
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+40
+
+60
+
+...and a rise in individual and systemic risks, although they
+have fallen somewhat since the Bear Stearns crisis.
+3.5
+
+Balance Sheet Magnitude of the Financial Crisis
+Writedowns 3/
+Capital
+Injection 2/
+
+3.0
+
+Bank Holding Companies
+Bank of America
+Citigroup
+J.P. Morgan Chase
+Wachovia
+Wells Fargo
+
+9.3
+6.4
+8.9
+10.3
+9.5
+
+9.1
+6.0
+7.7
+10.0
+8.1
+
+20.7
+44.1
+7.8
+10.5
+4.1
+
+15.1
+42.9
+9.8
+7.0
+3.3
+
+2.5
+
+Investment Banks
+Bear Stearns
+Goldman Sachs
+Lehman Brothers
+Merrill Lynch
+Morgan Stanley
+
+3.5
+4.3
+3.8
+4.6
+2.8
+
+3.0
+3.6
+3.2
+3.5
+3.1
+
+0
+0
+13.9
+17.9
+5.6
+
+3.2
+3.0
+8.2
+37.1
+12.6
+
+1.5
+
+1/ In percent of total assets.
+2/ Billion U.S. dollars.
+3/ Data through June 11, 2008; billion U.S. dollars.
+
+20
+
+Leverage (y/y percent change)
+
+2007
+
+Banks are suffering major losses, leading to a
+deterioration in capital adequacy...
+Equity 1/
+March
+Dec.
+2006
+2008
+
+0
+
+-20
+
+0
+
+0
+
+0.24
+Top ten U.S. financial institutions:
+Change in dependence structure
+(default probability in one year, in percent)
+
+0.20
+
+Probability of a default (left
+scale)
+
+2.0
+
+0.16
+
+Probability of all defaulting
+(right scale)
+
+0.12
+
+0.08
+1.0
+0.04
+
+0.5
+0.0
+2002
+
+0.00
+2003
+
+2004
+
+Sources: Merrill Lynch; Haver Analytics; Bank reports; Bloomberg, L.P.; and Fund staff calculations.
+1/ BHCs and IBs are those listed in table. Leverage is assets as a percent of equity.
+2/ Excludes 2004.
+
+2005
+
+2006
+
+2007
+
+13
+institutions. However, as observed by Chairman Bernanke, financial conditions remain
+far from normal. Credit default and interbank spreads remain high, suggesting continuing
+solvency/liquidity concerns.
+12.
+In response to strains on capital, commercial and investment banks are
+tightening loan standards, cutting costs, and raising new equity. The Fed’s Senior
+Loan Officer Opinion Survey—a strong predictor of future activity—suggests that loan
+conditions are tightening at rates similar to those seen in the credit crunch of the early
+1990s. With falling turnover constraining fee and trading income, the financial sector has
+shed almost 120,000 jobs since the beginning of 2007, canceled equity buybacks, and
+lowered dividends. Major U.S. banks have raised an impressive $125 billion in new
+capital, initially from sovereign wealth funds and now other investors. However, the size
+of continuing problems is illustrated by Citigroup’s announcement that it will divest a
+quarter of its assets ($500 billion) even after raising over $40 billion in new capital.
+13.
+The financial system’s balance sheet shrank in the last quarter of 2007, for
+the first time since the credit crunch of
+Change in Financial Sector Assets
+the early 1990s (Figure 5). Contracting
+30
+30
+Net acquisition of financial assets
+Average 5 years
+assets of nonbanks—mainly asset-backed
+(percent of GDP at annual rate)
+25
+25
+before crisis
+Nonbank financial institutions
+security issuers and broker-dealers—more
+20
+Banking system
+than offset a largely involuntary expansion 20
+Total
+15
+in commercial bank loans as conduits were 15
+bailed out or absorbed and previously
+10
+10
+agreed lines of credit activated. While
+5
+5
+asset growth rebounded modestly in the
+0
+0
+first quarter of this year, slowing activity
+-5
+-5
+is reinforcing the underlying drivers of the
+Average since crisis
+credit crunch—deleveraging and mounting -10
+-10
+1990 1992 1994 1996 1998 2000 2002 2004 2006 2008
+losses—and implying further strains on
+Sources: Haver Analytics; and Fund staff calculations.
+credit availability. Indeed, bank lending
+appears to have stalled in April and May.
+III. MACROFINANCIAL LINKAGES
+14.
+The major risk is that house prices fall well below equilibrium, generating
+self-reinforcing cycles and further macroeconomic disruption (Figure 6). Declines in
+house prices are increasing financial market stress directly through losses on mortgages
+and mortgage-backed securities, and indirectly through delinquencies as consumption and
+construction spending slows. Strains on bank capital are resulting in a rapid tightening of
+bank lending standards, which in turn are threatening to restrict access to mortgages,
+consumer credit, and new corporate loans—thus putting further downward pressure on
+spending, incomes, house prices, and wealth. Meanwhile, weak activity and rising
+defaults are keeping up credit spreads and depressing issuance of asset-backed securities.
+
+14
+Figure 5. United States: Deleveraging
+...as securitized asset issuance has fallen.
+
+ABS issuers have been deleveraging...
+1000
+800
+
+1000
+
+ABS issuers' assets and liabilities:
+flow at annual rate
+(billion U.S. dollars)
+
+2000
+600
+
+400
+
+400
+
+200
+
+200
+
+0
+
+0
+
+-200
+
+-200
+Net acquisition of financial assets
+
+-400
+
+Net issuance of commercial paper
+
+-400
+
+-600
+
+Net acquisition of mortgages
+
+-600
+
+-800
+
+800
+
+2004
+
+2005
+
+2006
+
+2007
+
+MBS
+
+800
+
+800
+
+400
+
+400
+
+0
+
+0
+2003
+
+1200
+
+1000
+800
+
+400
+
+400
+
+0
+
+0
+Net acquisition of financial assets
+
+-800
+2007
+
+1200
+
+Loans to firms
+Mortgages
+
+600
+
+400
+
+400
+
+200
+
+200
+
+400
+
+200
+
+200
+0
+
+-200
+
+-200
+
+0
+
+2003
+
+2005
+
+2007
+
+2007
+
+100
+
+90
+
+90
+
+80
+
+80
+
+70
+
+70
+
+60
+
+60
+
+50
+
+50
+
+30
+20
+10
+
+-200
+
+-200
+
+2005
+
+100
+
+40
+
+0
+
+600
+
+Is the trend away from banks likely to reverse?
+
+800
+
+FHLBs: loans to members
+
+600
+
+800
+
+Corporate bonds
+
+2003
+
+Net acquisition of assets at annual rate
+(billion U.S. dollars)
+GSE mortgage pools
+
+1000
+
+400
+
+2008
+
+1000
+
+800
+
+2007
+
+Commercial banks: net acquisition of
+financial assets at annual rate (billion U.S.
+dollars)
+
+600
+
+The government has responded by supporting
+markets through Fannie, Freddie, and the FHLBs.
+1000
+
+2006
+
+0
+
+-800
+2006
+
+2005
+
+-400
+
+Net lending of securities to other
+institutions
+2005
+
+2004
+
+1200
+
+800
+
+2004
+
+1200
+
+...even as commercial banks expanded theirs, partly
+reflecting a temporary spike in lines of credit.
+
+Security brokers and dealers' assets
+and liabilities: flow at annual rate
+(billion U.S. dollars)
+
+2003
+
+1600
+
+ABS
+
+1200
+
+2008
+
+Investment banks shrunk their balance
+sheets substantially towards end-2007...
+
+-400
+
+2000
+
+CDO
+1600
+
+-800
+2003
+
+2400
+
+Private issuance of structured finance
+products in the United States
+(billion U.S. dollars)
+
+800
+
+600
+
+1200
+
+2400
+
+(percent of total assets)
+
+40
+
+Security broker-dealers and funding corporations
+ABS issuers
+GSEs
+Finance companies
+Insured depositories
+
+20
+10
+0
+
+0
+1980
+
+30
+
+1984
+
+1988
+
+1992
+
+1996
+
+2000
+
+2004
+
+Sources: Haver Analytics; Bloomberg, L.P.; J.P. Morgan; Inside Mortgage Finance; and Fund staff calculations.
+
+15
+Figure 6. United States: Macro-Financial Linkages
+
+100
+80
+
+Bank lending standards are tightening...
+
+100
+
+Lending standards from Senior Loan Officer Survey
+(percent tightening minus percent easing)
+
+80
+
+Commercial and industrial loans
+Commercial real estate
+Consumer loans
+Residential mortgages
+
+60
+
+1200
+
+...corporate credit spreads are high as investors
+pull back from riskier asset classes...
+
+1000
+
+1000
+
+High-yield
+bonds
+
+60
+800
+
+40
+
+800
+
+40
+
+20
+
+20
+
+600
+
+High-yield
+CDS
+
+400
+0
+
+Investment
+grade CDS
+
+Investment
+grade bonds
+
+600
+
+400
+
+0
+
+-20
+
+-20
+
+-40
+
+200
+
+2004
+
+2005
+
+2006
+
+2007
+
+200
+
+0
+
+-40
+
+2003
+
+0
+
+2000
+
+2008
+
+...interbank spreads remain elevated despite
+recent easing...
+300
+
+1200
+
+Corporate spreads
+(basis points)
+
+2001
+
+2002
+
+300
+
+2005
+
+2006
+
+2007
+
+2008
+
+S&P 500 equity indices (Jan. 1, 2007 = 100)
+
+130
+
+Overall index
+Consumer
+discretionary
+
+250
+
+250
+Eurodollar
+minus
+Treasury
+(TED)
+
+110
+
+130
+
+Financial
+Homebuilders
+110
+
+200
+
+Libor minus
+risk-free
+swap
+
+150
+
+2004
+
+...and equity prices of exposed sectors have been
+hit the hardest.
+
+Three-month interest rate spreads
+(basis points)
+
+200
+
+2003
+
+90
+
+90
+
+70
+
+70
+
+50
+
+50
+
+150
+
+100
+
+100
+
+50
+
+50
+
+0
+
+0
+Jan-07
+
+Apr-07
+
+Jul-07
+
+Oct-07
+
+Jan-08
+
+Apr-08
+
+Jul-08
+
+30
+
+30
+Jan-07
+
+Jul-07
+
+Oct-07
+
+Jan-08
+
+Apr-08
+
+Jul-08
+
+...but overall credit flows outside residential
+mortages have yet to fall markedly.
+
+Corporate debt issuance outside investment
+grade has dropped off...
+600
+
+600
+Corporate bond and leveraged loan issuance
+(billion U.S. dollars)
+
+500
+
+500
+Leveraged loans
+
+1400
+1200
+
+1400
+
+Net credit market borrowing at annual rate
+(billion U.S. dollars)
+
+1000
+
+High yield debt
+
+400
+
+Apr-07
+
+1200
+
+Residential
+mortgages
+
+1000
+
+400
+
+Investment grade debt
+
+800
+
+800
+
+300
+
+300
+
+600
+200
+
+200
+
+600
+
+Nonfinancial
+corporations
+
+400
+
+400
+Other credit to households
+
+100
+
+100
+
+0
+
+0
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+200
+
+200
+
+0
+2003
+
+0
+2004
+
+2005
+
+Sources: Haver Analytics; Merrill Lynch; J.P. Morgan; Bloomberg, L.P.; and Fund staff calculations.
+
+2006
+
+2007
+
+2008
+
+16
+15.
+To assess these interactions, staff have developed two alternative tools to
+examine linkages between financial conditions and demand:
+•
+
+A financial conditions index analyzes the interaction between an array of financial
+indicators—short-term interest rates, bond spreads, equity prices, exchange rates, and,
+importantly, bank loan standards—
+Growth and Financial Conditions
+6
+6
+and real GDP using vector
+autoregressions (Selected Issues
+Real GDP
+5
+5
+(y/y percent change)
+Chapter 2). The model suggests that,
+4
+4
+despite Fed cuts and dollar
+3
+3
+depreciation, financial conditions
+2
+2
+have tightened since mid-2007 and
+1
+1
+will—given lags—slow growth by
+0
+0
+around 1¼ percentage points over the
+-1
+-1
+next year. In addition, staff expect
+Overall FCI
+(impact on growth,
+-2
+-2
+some further tightening of financial
+y/y percent change)
+-3
+-3
+conditions, including loan standards,
+1992
+1996
+2000
+2004
+2008
+which implies a further ¾ percentage
+Sources: Haver Analytics; and Fund staff calculations.
+point slowdown next year.
+
+•
+
+A banking model traces how strains on bank capital gradually feed through loan
+conditions to consumer, mortgage, and corporate lending, and hence to associated
+spending, as well as the reverse
+Financial System Feedback Loop
+feedback from weaker spending and
+Impact of shock to bank capital
+incomes to bank capital and lending
+Δ ≈ $300 –
+(Selected Issues Chapter 3). This
+Δ ≈ $150 bn ↓
+Fed index ↑
+500 bn ↓
+model suggests macrofinancial
+LENDING
+BANK
+CREDIT
+STANDARDS
+CAPITAL
+linkages—and hence an outlook—
+that is similar to that produced by the
+financial conditions index; a
+SPENDING
+percentage point shock to the bank
+Feedback through
+capital-asset ratio subtracts some 1–2
+balance sheets of
+INCOME
+percent from the baseline path of
+banks, firms, and
+households
+GDP, with the maximum impact on
+Δ1–2%
+GDP ↓
+growth after a year or so. The model
+Source: Fund staff estimates.
+can also be run in reverse, with credit
+and bank lending channels doubling the impact of an initial fall in spending/GDP and
+elongating the response.
+
+16.
+Weak credit and household spending are hurting firms, but the impact is
+being cushioned by strong corporate balance sheets and external demand (Figure 7).
+With many firms holding substantial cash buffers, the path of business investment is
+expected to be driven primarily by the growth slowdown, although credit constraints are
+
+17
+Figure 7. United States: Corporate Sector Cash Flow and Balance Sheets
+
+30
+
+Profit growth has deteriorated faster than in other
+countries...
+Corporate profits (y/y percent change)
+
+25
+
+25
+
+20
+United States
+United Kingdom
+
+10
+
+30
+60
+
+Japan
+
+15
+
+...despite a healthy contribution from strong
+growth abroad...
+
+40
+
+15
+
+30
+
+30
+
+20
+
+20
+
+10
+
+10
+
+0
+
+0
+
+0
+
+0
+
+-10
+
+France
+-5
+
+-5
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+50
+
+40
+
+5
+
+5
+
+60
+
+20
+
+10
+
+Germany
+
+50
+
+Profits of domestic corporations (y/y percent change)
+Domestic nonfinancial
+Domestic financial
+Rest of world operations
+
+2009
+
+-10
+
+-20
+2002
+
+...and business investment has started to slow...
+
+-20
+2004
+
+2006
+
+2008
+
+...but there is still a wide gap between internal
+funds and investment...
+3
+
+10
+
+2
+
+2
+
+9
+
+9
+
+1
+
+1
+
+8
+
+8
+
+0
+
+0
+
+7
+
+7
+
+-1
+
+6
+
+3
+
+Contribution to annualized q/q GDP growth
+(percentage points)
+Equipment and software
+
+10
+
+Nonfinancial corporations
+(percent of GDP)
+
+Nonresidential structures
+-1
+
+6
+Financing gap (+/-)
+
+Gross investment
+-2
+
+-2
+
+1990 1992 1994 1996 1998 2000 2002 2004 2006 2008
+
+5
+Internal funds + inventory
+adjustment
+1990 1992 valuation
+1994 1996
+1998 2000 2002 2004 2006 2008
+
+5
+
+With firms relying heavily on lending from
+commercial banks...
+50
+40
+
+7
+Gross loans
+(y/y percent change)
+
+30
+
+Delinquencies
+(y/y percent
+change)
+
+20
+
+6
+
+0
+
+3
+
+100
+
+80
+
+80
+
+4
+
+Limited reliance on external financing
+60
+
+60
+
+40
+
+40
+
+Typical
+
+2
+
+-20
+-30
+
+Firms' external finance needs
+(percent of firms in each category)
+
+5
+
+10
+
+-10
+
+100
+
+...although the proportion of firms in need of
+external financing has eased.
+
+20
+Delinquency rate
+(percent, right scale)
+
+-40
+1990 1992 1994 1996 1998 2000 2002 2004 2006 2008
+
+0
+
+0
+1999
+
+20
+
+Significant
+
+1
+
+High
+2000
+
+2001
+
+2002
+
+2003
+
+Sources: Consensus Forecasts; Datastream Advance, Haver Analytics; and Fund staff calculations.
+
+2004
+
+2005
+
+0
+2006
+
+18
+Corporate Balance Sheets
+also playing a role. Equity prices have
+2.3
+100
+U.S. nonfarm nonfinancial corporations' ratio
+fallen most in the sectors under strongest
+of assets to net worth (left scale)
+90
+2.2
+pressure—finance, construction, and
+Credit market debt to net
+worth (percent, right)
+discretionary consumption—and
+80
+2.1
+background work using valuations of
+70
+2.0
+individual firms confirms that weakness
+60
+is more pronounced in those more reliant 1.9
+50
+on market borrowing and, to a lesser
+1.8
+extent, household spending (Selected
+40
+Issues, Chapter 4). However, staff
+1.7
+30
+analysis also finds that the proportion of
+Debt to market value of equities (percent, right)
+1.6
+20
+firms in need of external financing has
+1990 1992 1994 1996 1998 2000 2002 2004 2006 2008
+shrunk since the early 2000s. Further
+Sources: Haver Analytics; and Fund staff calculations.
+support, especially for manufacturing, is
+coming through external demand, which is being boosted by still-robust growth abroad
+and dollar weakness.
+
+IV. THE RESULTING OUTLOOK
+17.
+While forward-looking indicators such as consumer confidence and lending
+standards suggest a decline in activity, so far final demand has continued to grow.
+With spending showing surprising
+resilience through the second quarter in
+Assumptions Behind the Outlook
+the face of headwinds, the baseline staff
+(In percent; annual average terms)
+forecast is for real GDP growth to be
+2008
+2009
+slightly positive in 2008 (Q4/Q4),
+followed by a gradual recovery. In the
++2½
++2½
+Potential growth
+staff baseline, the weakness in real final
++1¼
++¾
+IMF growth forecast
+domestic demand seen in the first quarter
+Deviation:
+-1¼
+-1¾
+of 2008 continues through the year, as
+Tightening of financial conditions
+-¾
+-1¼
+household and financial strains feed off
+House prices on consumption
+each other, although stimulus supports
+-½
+-1
+growth in the late spring/summer
+Residential investment
+-¾
+0
+(Figure 8). Inflation falls gradually as
+Oil prices
+-½
+-¼
+commodity prices peak and slack dampens
++¼
+Fiscal stimulus
+0
+Net exports
++1
++¾
+wage pressures. Real net exports boost
+output by 1 percent of GDP on slowing
+domestic activity, continuing strong growth in emerging markets, and competitiveness
+gains from past exchange rate depreciation.
+
+19
+Figure 8. United States: Outlook and Risks
+
+6
+
+The baseline forecast envisages continuing but
+moderate weakness...
+
+6
+
+Real GDP (q/q percent change, annualized)
+
+5
+
+5
+Headline path
+
+4
+
+4
+
+Excluding fiscal stimulus
+
+3
+
+3
+
+2
+
+2
+
+1
+
+1
+
+0
+
+0
+
+3.5
+
+...although the downturn would be mild by
+historical standards.
+Cumulative output declines in past recessions (percent)
+
+3.0
+
+3.0
+
+2.5
+
+2.5
+
+2.0
+
+2.0
+
+Projected
+decline in
+level of
+output H2
+2008
+
+1.5
+
+1.0
+
+-2
+2007
+
+-2 0.0
+2008
+
+2009
+
+50 percent
+confidence interval
+
+3
+
+5
+
+5
+
+3
+
+50 percent
+confidence interval
+
+4
+
+2
+
+3
+
+1
+
+Skew (mean less mode)
+Upside risks
+2008 2009
+Net exports
+0.04 0.08
+Housing / dom. demand 0.02 0.04
+
+3
+
+1
+
+2
+
+0
+
+0
+
+-1
+
+Skew (mean less mode)
+Upside risks 2008 2009
+Energy
+0.05 0.09
+Dollar weakness 0.03 0.07
+Food prices
+0.03 0.05
+
+2
+
+90 percent
+confidence interval
+
+90 percent
+confidence interval
+
+1
+
+1
+
+-1
+Skew (mean less mode)
+Downside risks
+2008 2009
+Oil prices
+-0.04 -0.04
+
+Skew (mean less mode)
+Downside risks
+2008 2009
+Financing conditions
+-0.02 -0.05
+
+-2
+2005
+
+2008
+
+U.S. inflation forecast: Balance of risks
+(headline CPI, y/y percent change)
+
+4
+
+2
+
+2001
+
+…while risks to inflation are modestly to the upside.
+4
+
+U.S. growth forecast: Balance of risks
+(real GDP, y/y percent change)
+
+1.0
+
+0.0
+1974/75 1980/81 1981/82 1990/91
+
+Risks to growth are now balanced...
+4
+
+1.5
+
+0.5
+
+-1 0.5
+
+-1
+
+3.5
+
+-2
+2006
+
+2007
+
+2008
+
+2009
+
+0
+2005
+
+2006
+
+2007
+
+Sources: Haver Analytics; IMF, World Economic Outlook, April 2003; and Fund staff calculations.
+
+2008
+
+0
+2009
+
+20
+
+United States: Short-Term Projections
+(Percent change from previous period, unless otherwise indicated)
+
+Real GDP
+Q4/Q4 growth
+Total domestic demand
+Private final consumption
+Nonresidential fixed investment
+Residential investment
+Net exports (contribution to growth)
+Unemployment rate (percent)
+CPI inflation
+Unified federal balance (percent of GDP; fiscal year)
+Current account balance (percent of GDP)
+
+2006
+
+2007
+
+2008
+
+2009
+
+2.9
+2.6
+2.8
+3.1
+6.6
+-4.6
+-0.1
+4.6
+3.2
+-1.9
+-6.0
+
+2.2
+2.5
+1.5
+2.9
+4.7
+-17.0
+0.6
+4.6
+2.9
+-1.2
+-5.3
+
+1.3
+0.3
+0.4
+1.4
+1.6
+-21.3
+0.9
+5.4
+3.9
+-3.0
+-5.0
+
+0.8
+1.9
+0.1
+0.6
+-4.2
+-7.0
+0.7
+6.3
+2.3
+-3.1
+-4.4
+
+Consensus Forecast of Real GDP
+...
+...
+1.5
+Range
+...
+...
+0.8-1.9
+Federal Reserve Governors and Reserve Bank Presidents, Real GDP Projections
+Range (Q4/Q4)
+...
+...
+0.0-1.5
+Central tendency (Q4/Q4)
+...
+...
+0.3-1.2
+
+1.8-3.0
+2.0-2.8
+
+Memorandum items:
+Output gap (percent of potential GDP)
+Partner country growth
+Oil prices (APSP, $/Barrel)
+
+-2.6
+2.2
+125.0
+
+0.5
+3.5
+64.3
+
+0.1
+3.3
+71.1
+
+-1.0
+1.8
+116.5
+
+1.7
+0.6-3.1
+
+Sources: Haver Analytics; Consensus Forecasts; Federal Reserve Board; and Fund staff estimates.
+
+18.
+The slow recovery, relative to the consensus forecast, reflects the impact on
+households of the credit crunch and falling wealth. The current episode is in contrast
+to previous downturns, where business spending was the key driver of the cycle.
+Households have fewer ways to respond to financial and collateral strains than firms—
+staff analysis suggests that consumption is much more dependent on access to bank
+lending and collateral than is business investment. With falling house prices reducing
+collateral for personal borrowing even as losses tighten bank lending standards, credit
+constraints are likely to build gradually, and household spending and income growth are
+projected to remain relatively sluggish through the first half of 2009. Thus, the eventual
+recovery is slower than is typical of the United States but faster than suggested by
+international and U.S. regional evidence on housing busts (Selected Issues, Chapter 5),
+reflecting economic flexibility, the rapid policy response, and support from external
+demand. The consensus forecast, by contrast, sees a much more typical V-shaped
+recovery starting in the second half of this year as fiscal and monetary stimulus kicks in.
+
+21
+Real GDP in Downturns and Recoveries
+5
+
+Recoveries from U.S. Regional Housing Busts
+5
+
+(y/y percent change)
+
+4
+
+4
+
+4
+Average of 5 U.S.
+recessions, 1974-2001
+
+3
+2
+
+1
+
+0
+
+0
+Typical industrialized
+country housing bust
+
+6
+
+-2
+Onset
+
+4Q
+
+6
+
+8Q
+
+7
+
+7
+
+8
+
+8
+
+9
+
+-1
+
+-2
+-4Q
+
+5
+Average for regional
+recessions without a
+housing bust
+
+2
+
+1
+
+-1
+
+5
+
+3
+
+2008
+cycle
+
+4
+
+Unemployment rate (percent)
+
+10
+-12M
+
+12Q
+
+Average for regional recessions with
+a housing bust
+Onset
+
+12M
+
+24M
+
+36M
+
+9
+
+10
+48M
+
+19.
+Potential deviations from this path are large, given the unprecedented nature
+of the shocks. While risks to growth are balanced, those for inflation are modestly to the
+upside, reflecting uncertainties about commodity prices and passthrough. With spending
+surprisingly resilient even as forward-looking indicators such as weakening consumer
+confidence and tightening bank lending standards, the range of plausible outcomes is
+extremely wide, as shown in the fan charts of potential outcomes (Figure 8). Upside and
+downside scenarios approximating the tenth and ninetieth percentiles of possible
+outcomes illustrate the main uncertainties:
+•
+
+•
+
+On the downside. More extended financial system pressures could generate a longer
+and sharper credit crunch, as weak credit and activity feed back into further bank
+losses. The prolonged slowing of industrial country activity starts spilling over to the
+rest of the world, reducing the external
+Real GDP scenarios
+6
+support to demand. The result is the
+(q/q percent change, annualized)
+type of extended slowdown and pallid 5
+Baseline
+4
+recovery seen in “typical” housing
+Downside
+Upside
+busts elsewhere. Extended financial
+3
+sector difficulties imply a larger role
+2
+for the cycle in explaining recent high 1
+growth, and hence some downward
+0
+revision in potential growth.
+-1
+-2
+
+On the upside. By contrast, a rapid
+recapitalization of the financial sector, -3
+-4
+policy stimulus, and robust global
+2007
+2008
+2009
+activity could yield a V-shaped
+recovery of the type embodied in consensus forecasts. Smaller downdrafts to
+consumers from credit and housing strains are offset by fiscal and monetary stimulus.
+A recovery starting in the second half of 2008 causes growth to overshoot its potential
+
+6
+5
+4
+3
+2
+1
+0
+-1
+-2
+-3
+-4
+
+22
+•
+
+rate in mid-2009 before settling back as the Fed rapidly tightens to combat
+inflationary pressures.
+
+20.
+The authorities expect an outcome more similar to the staff’s upside scenario
+than the baseline path. There was agreement about the qualitative factors that have been
+shaping the economy’s path, but the authorities consider the baseline’s financial and
+housing conditions overly pessimistic. In particular, Treasury officials emphasize the
+flexible and diversified nature of the U.S. economy, and the support to activity from
+strong corporate balance sheets, external demand, and macroeconomic stimulus—which
+they expect to help the economy recover in the second half of 2008. These different
+views shaped the policy discussions.
+V. MACROECONOMIC POLICY RESPONSES
+A. Monetary Accommodation
+21.
+Having eased rapidly, monetary policy settings are now consistent with a
+robust response to downside risks to growth (Figure 9). From mid-2006 through late
+2007 Fed policy was mildly restrictive as core inflation remained above the upper end of
+its implicit comfort zone, mainly reflecting delayed increases in owner-equivalent rent,
+which had stayed remarkably low during the housing boom. The Fed subsequently
+responded rapidly to recessionary risks cutting rates by 325 basis points in less than five
+months. The real federal funds rate is now below zero (even using core CPI inflation), as
+well as below settings implied by standard Taylor rules, although the impact is being
+dampened by widening spreads and tighter lending standards. In addition, a relatively flat
+bank-yield curve is limiting the support from low policy rates to banks’ profits from
+maturity transformation.
+22.
+While inflation concerns are on the rise, the staff forecast of further
+economic weakness and a slow recovery suggest that policy should remain on hold.
+Concerns about activity would need to be much more pronounced to justify a more
+accommodative stance. On the other hand, although surging commodity prices have lifted
+headline inflation and near-term expectations, medium-term inflation expectations have
+remained relatively anchored, while wages and unit labor costs are slowing with activity.
+The case for a preemptive hike in policy rates, as markets now anticipate, is therefore
+unclear. That said, given the costs of reversing high expectations once they become
+entrenched, policy will need to be especially alert to the possible need to withdraw
+stimulus quickly as the economic recovery gains traction.
+23.
+U.S. biofuels subsidies added to the boom in corn and soybean prices, but the
+role of monetary policy in the recent commodity surge is more controversial. With
+high fuel prices providing strong incentives to produce biofuels, the subsidy has become
+in essence a simple transfer to producers, and staff see a suspension as sensible. U.S.
+officials do not think that subsidies have contributed much to food inflation and pointed
+out that suspension would anyway be difficult, since Congress deleted a proposed safety
+
+23
+Figure 9. United States: Monetary Policy Indicators
+...but rates faced by households and firms have
+not eased much.
+
+The Fed has cut the fed funds rate sharply...
+8
+
+8
+
+Policy interest rate (percent)
+
+7
+
+7
+
+6
+
+6
+
+9
+
+Interest rates (percent)
+
+8
+
+8
+United Kingdom
+
+5
+
+5
+
+4
+
+4
+
+3
+
+3
+
+2
+
+2
+
+Euro area
+
+1
+0
+2000
+
+0
+2001
+
+2002
+
+Thirty year fixed-rate mortgages
+
+7
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+Commodity prices have boosted headline
+inflation...
+
+7
+
+6
+
+6
+
+5
+
+5
+Corporate investment
+grade bonds
+
+1
+
+United States
+
+9
+
+4
+2000
+
+4
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+...the weaker dollar is lifting import prices...
+
+5
+
+-15
+
+4
+
+-10
+
+3
+
+-5
+
+3
+
+2
+
+2
+
+0
+
+0
+
+1
+
+1
+
+5
+
+0
+
+10
+
+5
+
+4
+
+Contributions to y/y percent change in
+consumer price index
+Energy
+Food
+Core
+Total
+
+3
+
+0
+2007
+
+5
+
+2008
+
+Imports from
+developing countries
+
+Inflation expectations and wages
+(percent change per year)
+Average hourly earnings
+
+5
+
+3.5
+
+6
+Unemployment rate
+(percent, left scale, inverted)
+Unit labor costs
+(y/y percent change,
+right scale)
+
+5.0
+
+5.5
+1-year ahead inflation
+from Livingston Survey of
+Economists' Forecasts
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+3
+2
+1
+0
+
+2
+6.0
+
+1
+2002
+
+5
+4
+
+4.5
+
+3
+
+2001
+
+-3
+
+-6
+
+4
+
+3
+
+1
+2000
+
+6
+
+...and rising labor market slack should keep unit
+labor costs contained.
+
+4.0
+
+Differential between 10-year
+nominal Treasury and TIPS
+
+2
+
+9
+
+2000 2001 2002 2003 2004 2005 2006 2007 2008
+
+...and short-term inflation expectations are edging
+up, but wage growth is decelerating...
+
+4
+
+Price of manufactured goods imports
+(y/y percent change)
+Imports from
+developed countries
+Real effective
+exchange rate (left
+scale, inverse)
+
+-1
+
+6.5
+-2
+2000 2001 2002 2003 2004 2005 2006 2007 2008
+
+Sources: Haver Analytics; Board of Governors of the Federal Reserve System; and Fund staff calculations.
+
+24
+valve clause that would have allowed such adjustment. On monetary policy, as discussed
+in the April World Economic Outlook, staff analysis suggests that lower U.S. interest
+rates and a weaker dollar are playing a significant role in surging world commodity
+prices. Fed officials, however, are skeptical about such an impact of monetary policy,
+noting that there is little evidence of a rise in commodity inventories or of a stable
+relationship between commodity prices and real interest rates.
+24.
+In the wake of the housing bubble, the role of asset prices in monetary policy
+bears reexamination. In staff’s view, it remains doubtful that policymakers can identify
+unsustainable asset price booms with sufficient confidence to justify strong offsetting
+interest rate moves. However, the fact of two asset-price busts in this decade with
+prolonged macroeconomic consequences underlines the dangers of inaction. Thus, given
+the potential for asset booms to turn into economic busts and lead to a rapid loosening of
+policy, further consideration should be given to allowing monetary—and regulatory—
+policy to lean against the wind, i.e., tightening policy by more than implied by just the
+short-term impact on activity and inflation. Fed officials acknowledge the importance of
+the issue, but thought it too early to draw policy conclusions from the current episode.
+B. Fiscal Support
+25.
+While there is room for temporary stimulus and automatic stabilizers,
+significant medium- and long-term challenges remain (Figure 10). The general
+government deficit shrank to 2¾ percent of GDP, and the federal fiscal deficit to
+1¼ percent of GDP in 2007 as nonsecurity discretionary spending was restricted and
+capital gains revenues were buoyed by the credit boom. Automatic stabilizers as growth
+slows will be enhanced as capital gains receipts reverse, although the impact on private
+spending is likely to be limited as the lower tax liabilities mainly accrue to high-saving
+households. The usual procyclical cut in spending by state and local governments from
+balanced budget constraints also may be exacerbated by financial sector problems.
+26.
+Fiscal stimulus is providing well-timed support to activity, more than
+offsetting short-term strains on income and borrowing. The stimulus package of over
+1 percent of GDP mainly comprises tax rebates that will largely go to low- and middleincome individuals. This targeting will help offset the fact that temporary stimulus tends
+to generate a smaller boost to demand than a permanent change. Experience from the
+2001 tax cuts suggests that about half of the transfer will be spent in the spring and
+summer (part of which will leak away on imports), while the support to business
+spending from accelerated investment depreciation also in the package is likely to be
+limited.
+27.
+In staff’s view, were further fiscal action needed, public finances should
+provide temporary support to housing and financial sectors at the root of problems.
+The experience of Japan in the 1990s suggests that repeated packages in the face of rea
+
+25
+Figure 10. United States: Fiscal Indicators
+... as the contributions of corporate profits and
+capital gains to tax revenue are likely to drop.
+
+Economic strains will increase the general
+government fiscal deficit...
+
+36
+
+General government expenditure and revenue
+(percent of GDP)
+
+35
+
+36
+
+Staff
+forecast
+
+Expenditure
+
+34
+
+35
+34
+
+33
+
+1.5
+
+1.2
+
+1.5
+
+Contribution to federal revenue increase
+(percent of GDP)
+Corporate profits
+Capital gains
+Income distribution
+Other
+
+1.2
+
+33
+
+32
+
+32
+
+Deficit
+Surplus
+
+31
+
+31
+
+30
+
+0.9
+
+0.9
+
+0.6
+
+0.6
+
+0.3
+
+0.3
+
+30
+
+29
+
+29
+Revenue
+
+28
+
+28
+
+27
+27
+1990 1992 1994 1996 1998 2000 2002 2004 2006 2008 2010 2012
+
+15
+10
+
+Meanwhile, subnational governments are already
+under stress.
+Real tax revenue of state government, adjusted for
+legislative changes (y/y percent change)
+
+2004
+
+15
+
+4.0
+
+10
+
+3.5
+
+5
+
+5
+
+0
+
+0
+
+0.0
+
+0.0
+2005
+
+2006
+
+2007
+
+Average
+2004–2007
+
+While the general government debt and fiscal deficit
+appear manageable by international standards...
+General government, 2007 (percent of GDP)
+
+250
+
+Deficit (left scale)
+Gross debt (right scale)
+
+200
+
+3.0
+2.5
+
+150
+
+2.0
+-5
+
+-5
+
+-10
+
+-10
+
+-15
+
+-15
+
+0.5
+
+-20
+
+0.0
+
+100
+
+1.5
+1.0
+
+50
+
+-20
+
+1
+
+..unrealistic assumptions exaggerate expected
+medium-term adjustment...
+
+1
+
+Federal unified fiscal balance (percent of GDP)
+
+0
+Euro
+Area
+
+1999 2000 2001 2002 2003 2004 2005 2006 2007
+
+20
+
+Japan United United Euro
+Kingdom States Area
+
+Japan United United
+Kingdom States
+
+...making it harder to tackle long-term fiscal
+problems.
+
+20
+
+Federal entitlement expenditure (percent of GDP)
+
+Administration balance
+0
+
+0
+
+16
+
+Medicaid
+
+16
+
+Medicare
+-1
+
+-2
+
+-3
+
+Social Security
+
+-1
+12
+
+12
+
+8
+
+8
+
+4
+
+4
+
+0
+
+0
+
+-2
+
+Adjustments due to
+different assumptions about:
+Economic
+other factors
+Medicare savings
+AMT fix
+War cost
+
+Staff balance
+
+-4
+
+-5
+
+-3
+
+-4
+
+-5
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+1990 1995 2000 2005 2010 2015 2020 2025 2030 2035 2040 2045 2050
+
+Sources: Haver Analytics; Rockefeller Institute of Government; International Monetary Fund, World Economic Outlook ; OECD;
+Office of Management and Budget; Congressional Budget Office; and Fund staff calculations.
+
+26
+estate and banking problems have diminishing benefits to economic activity, while
+loosening medium-term fiscal discipline—an important point to bear in mind given the
+huge U.S. long-run fiscal problem. This implies that if any further fiscal interventions are
+needed they could more productively focus on limiting short-term risks to house prices
+and bank lending. Reactions of officials varied, with some noting that targeted spending
+packages could delay needed adjustment in housing and asset prices and be perceived as
+“bailing out” reckless behavior. However, others observed that if a much more negative
+scenario materializes, there could be a role for some limited measures.
+United States: Fiscal Projections
+(Fiscal years; in percent of GDP)
+Projection
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+Staff Projection 1/
+Unified balance
+Structural unified balance 2/
+Primary balance
+Unified balance exc. social security
+Debt held by the public
+
+-1.9
+-2.2
+-0.2
+-3.3
+37.2
+
+-1.2
+-1.7
+0.5
+-2.6
+36.8
+
+-3.0
+-3.0
+-1.3
+-4.4
+38.4
+
+-3.1
+-2.8
+-1.3
+-4.5
+40.7
+
+-2.5
+-2.3
+-0.6
+-3.9
+41.5
+
+-2.4
+-2.4
+-0.5
+-3.9
+41.9
+
+-1.8
+-1.7
+0.2
+-3.2
+41.9
+
+-1.9
+-1.9
+0.1
+-3.2
+42.3
+
+General government balance 3/
+General government structural balance 2/ 3/
+
+-2.6
+-2.8
+
+-2.7
+-2.7
+
+-4.2
+-3.9
+
+-4.1
+-3.2
+
+-3.5
+-2.8
+
+-3.3
+-2.9
+
+-2.9
+-2.8
+
+-2.8
+-2.8
+
+Memorandum items: FY 2009 Budget Assumptions
+Unified balance
+-1.9
+Primary balance
+-0.2
+Unified balance exc. social security
+-3.3
+Debt held by the public
+37.2
+
+-1.2
+0.5
+-2.6
+36.6
+
+-2.9
+-1.2
+-4.2
+37.8
+
+-2.7
+-1.0
+-4.1
+38.7
+
+-1.0
+0.8
+-2.4
+37.9
+
+-0.6
+1.2
+-2.0
+36.6
+
+0.3
+2.0
+-1.2
+34.7
+
+0.2
+1.8
+-1.1
+32.9
+
+Sources: FY 2009 Budget of the U.S. Government (February, 2008); and Fund staff estimates.
+1/ Staff projections are based on the Administration's estimates adjusted for: differences in macroeconomic projections;
+staff estimates of the costs of the war on terror; staff estimates of the cost of the stimulus package; some additional
+nonsecurity discretionary expenditure; additional Medicare spending; and continued AMT relief beyond FY2008.
+PRAs are also assumed not to be introduced.
+2/ As a percent of potential GDP, based on proposed measures, under IMF staff's economic
+assumptions. Also incorporates CBO adjustments for one-off items.
+3/ Calendar year, on a national accounts basis. The projections use Fund staff budget and economic assumptions.
+
+28.
+While the focus on a balanced federal budget by 2013 is encouraging,
+significant medium-term pressures are being obscured by unrealistic budget plans.
+Medium-term balanced budget plans have different emphases: the Administration
+assumes that non-security discretionary spending will fall in nominal terms, and Congress
+assumes that most of the 2001/03 tax cuts—equivalent to 1¼ percent of GDP—will
+expire. More importantly, both Administration and Congressional budget plans include
+no war funding authority beyond FY2009. Nor do they make any allowance for the costs
+of annual overrides of legislation that tightens criteria for the alternative minimum tax
+and reduces compensation to Medicare providers, which the Congressional Budget Office
+estimates are also worth 1¼ percent of GDP by FY2013. In addition, despite
+
+27
+Administration efforts, little progress has been made in Congress on reforming
+unsustainable pension and health entitlement programs.
+29.
+Thus, staff project the general government deficit in 2013 will remain at
+around 2¾ percent of GDP, assuming that the 2001/03 tax cuts are extended. As
+proposed in previous consultations, staff view the more ambitious medium-term target of
+balance excluding the social security surplus as an appropriate goal to complement
+needed reform of unaffordable entitlement programs. This suggests a need for further
+consolidation of over 3 percentage points of GDP by 2013 as well as major entitlement
+reform. Officials explained that the Administration’s policy is to keep real spending
+outside security and entitlements constant, which would contribute to a balanced budget,
+and agreed that progress on reforming entitlement programs is crucial to reducing the
+main fiscal problem of huge long-term unfunded liabilities.
+C. Housing Support
+30.
+Housing support has been helpfully expanded (Table 2). Senior officials
+agreed that house prices falling below equilibrium is a key risk to the economy. Thus, in
+addition to supporting efforts to liquefy the market for securitized mortgages through
+swaps and purchases, the Administration has supported a widening set of schemes to
+encourage lenders to avoid foreclosures. The HOPE NOW alliance has encouraged
+voluntary workouts and the Federal Housing Administration (FHA) Secure program has
+provided FHA loan guarantees to borrowers who are delinquent as a result of ARM resets
+and some other criteria.
+31.
+To prevent a damaging overadjustment in house prices, staff favor further
+expanding the scope of the government’s mortgage guarantee program. Congress is
+likely to pass a bill supporting voluntary mortgage writedowns by allowing the FHA to
+guarantee up to $300 billion of loans (2 percent of GDP)—provided that the borrower
+qualifies and that the new mortgages are at a significant discount to current appraised
+value. The latter is important, because price declines are estimated to have already left
+5–10 percent of homeowners with negative equity (i.e., with houses worth less than
+mortgage debt), which reduces incentives to service debt. The legislation also includes
+regulatory reform of government-sponsored enterprises as well as FHA modernization,
+measures long-sought by both the Administration and the staff. While views vary, and
+full agreement between Congress and the Administration has yet to be reached, most
+officials believed that the final package would likely be targeted enough to limit
+undesirable side-effects (e.g., strategic borrower defaults in order to extract concessions).
+Correspondingly, a number of observers thought the scheme may be “too little, too late”
+(too tightly defined to have a significant impact on the foreclosure problem, and taking
+too long before the FHA gears up to the task).
+
+28
+32.
+In staff’s view, a scheme with greater creditor incentives could better limit
+macroeconomic risks without significantly adding moral hazard. Issuing “negative
+equity warrants” that allow the creditor to share profits from future sales could expand
+the scope of the current scheme, which runs the risk of limited take-up by lenders. In
+addition, bankruptcy reform allowing judges to “cram down” reduced mortgage principal
+on primary residences—as is already allowed for other houses and all other debt—would
+provide further incentives for creditors to participate. This is particularly important where
+writedowns are complicated by second lien holders (some 40 percent of subprime and
+Alt-A mortgages) and by servicers of securitized assets (some 75 percent of mortgages
+originated in 2007 were securitized). Both actors have limited incentives to pursue loan
+modifications that crystallize losses upfront. While allowing courts such discretion could
+raise borrowing costs to homeowners, it could also encourage better risk management by
+lenders, and recent evidence suggests that the effect on mortgage costs through moral
+hazard is likely to be small.
+33.
+Officials emphasize that the Administration is responding flexibly to housing
+woes, but that moral hazard concerns constrain policy options. In their view, the
+focus of policies should be on helping homeowners who had bought the “right” house
+(i.e., a fundamentally affordable one) with the “wrong” loan (i.e., with low teaser rates
+subject to sharp jumps). Accordingly, the Administration supports FHA modernization
+that would provide more leeway in risk-based pricing of guarantees, and is wary of rigid
+rules for FHA mortgage support. The Administration also opposes bankruptcy reform on
+the grounds that abrogation of contracts would curtail future mortgage lending.
+D. Bank Support
+34.
+Recent experience underlines the difficulty of letting systemic institutions fail
+given the complexity of their operations.
+The Fed Balance Sheet
+1000
+Other
+Federal Reserve assets
+Staff background work underlines high
+(billion U.S. dollars)
+interdependencies across institutions that
+Discount
+$58
+$119
+$22
+window/PDCF
+800
+appear to rise at times of stress, exacerbating
+TAF
+$150
+systemic risks (Selected Issues, Chapter 6).
+$25
+Repos
+600
+Thus, the collapse of Bear Stearns last
+$134
+Treasuries
+March led to the Fed’s taking on an exposure
+400
+$791
+of $29 billion (¼ percent of GDP) as part of
+the firm’s takeover by JPMorgan Chase. The
+$479
+200
+Fed’s leading role was unavoidable, given
+the speed of Bear Stearns’ loss of liquidity,
+0
+the span and complexity of its financial
+August 1, 2007
+June 18, 2008
+linkages, and the risk of a broader asset “fire
+Source: Board of Governors of the Federal Reserve
+System.
+sale”. That said, staff believe it is more
+appropriate to use a government agency for
+any future assumption of assets so as to make transparent the risks to the public purse.
+
+29
+35.
+In the face of illiquid markets, the Fed gradually widened access to its
+liquidity facilities and in time reduced systemic risks (Table 3). Conventional open
+market operations proved inadequate as counterparties and collateral were too narrowly
+defined for the unusually strained market circumstances, while stigma limited the use of
+the discount window. In response, the Fed steadily widened its eligibility criteria for
+institutions and instruments, increased the maturity of its operations, and lowered its
+penalty spreads. The process culminated in a facility accepting investment grade assetbacked securities from depositories and—in a striking departure from past practice—
+from primary dealers, including major investment banks. While calming market concerns
+about systemic risks, the extension of Fed lending to investment banks implies a
+reexamination of the rationale for prudential oversight.
+36.
+Notwithstanding moral hazard concerns, were the market instability of last
+March to recur, staff see a role for longer liquidity facilities. Despite the large capital
+enhancements and investment banks’ access to Fed loans, such market instability could
+recur—in which case wider-ranging options for improving the certainty of future market
+liquidity should be considered. In particular, significantly extending the length of existing
+swaps of mortgage-backed securities for Treasuries using the government’s balance
+sheet, as in the United Kingdom, could limit disruption from further market illiquidity.
+As banks would retain the capital gains and losses on their collateral, the fiscal cost
+should be limited. Moreover, by giving financial institutions more time to strengthen their
+balance sheets, such a scheme would facilitate an orderly deleveraging process. Officials
+observed that the length of swap facilities had been extended as part of the response to
+financial problems, and that further extension was not contemplated at this time.
+37.
+In staff’s view, any further emergency asset operations should be made by
+the Treasury rather than via proxies that can obscure potential costs. In addition to
+the Fed’s taking on an exposure of $29 billion of Bear Stearns’ assets, nearly $300 billion
+(2 percent of GDP) of secured loans have been made by the Federal Home Loan Banks to
+mortgage lenders over the past year. More indirectly, the already-light capital
+requirements for Fannie Mae and Freddie Mac have been loosened further even though
+they bear the system’s largest exposures to housing-related credit risk. Moreover, recent
+increases in size limits on conforming mortgages that Fannie or Freddie may purchase
+reinforce perceptions of an implicit government guarantee of these privately-owned
+enterprises. Officials view the lifting of Fannie and Freddie’s capital surcharge
+requirements as response to their improved accounting practices rather than forbearance.
+However, authorities agreed on the importance of a tighter regulatory regime for these
+government-sponsored enterprises, as proposed in housing legislation now in Congress.
+38.
+The Fed is well-placed to expand on its existing role as a stability regulator
+that internalizes systemic risks. This reflects its supervisory powers over bank holding
+companies and knowledge of market conditions, including counterparty risk
+concentrations. The Fed is already contributing to improved market infrastructure, e.g.,
+
+30
+for the netting and settlement of derivative positions. Officials recognize the importance
+of a systemic supervisor and, pending a thorough overhaul of the system, are
+strengthening arrangements between the Fed and the Securities and Exchange
+Commission (SEC) on oversight of major investment banks.
+VI. FINANCIAL REGULATION
+39.
+A key medium-term challenge for policymakers will be to restore confidence
+in segments of U.S. financial markets, most notably for securitized products. While
+recognition of the limits of financial engineering has led to a dramatic fall in issuance of
+structured assets, securitization is likely to recover eventually given its benefits, but with
+simpler and more transparent instruments. The financial boom also exposed weaknesses
+from excessively procyclical financial lending, limited consumer protection in the
+mortgage origination process, and poor incentives within the securitization chain. Private
+sector actors will address many of these problems, but financial market turmoil has added
+urgency to the need to improve the fragmented U.S. regulatory system. While specific
+reforms warrant further consideration, including through the Fund’s Financial Sector
+Assessment Program starting next year, the staff team initiated a preliminary discussion
+of the key issues.
+A. Bank and Securities Regulation
+40.
+The Treasury blueprint, which sensibly emphasizes regulatory consolidation,
+is a useful starting point for reform. As discussed in last year’s staff report, regulatory
+fragmentation and turf battles slow decision-making, blur lines of responsibility, and
+permit regulatory arbitrage. The Treasury proposes an objectives-based system, with:
+(1) a prudential supervisor covering depositories and insurance companies; (2) a business
+conduct regulator for investor and consumer protection; and (3) the Fed as a market
+stability regulator. However, the blueprint does not address who should regulate
+investment banks or government-sponsored enterprises. In addition, staff and Fed
+officials view it as important that, in developing a macro-prudential framework, the Fed
+retains supervisory powers to ensure it interacts closely with the system it is overseeing.
+41.
+The extension of the financial safety net after Bear Stearns justifies stronger
+oversight of major investment banks and of liquidity management by all banks. One
+medium-term option would be to put all systemic financial intermediaries under a single
+set of regulations and regulator—e.g., by extending umbrella Fed supervision to cover
+major investment bank and thrift holding companies and also the main governmentsponsored housing enterprises. In addition, persistent market pressures suggest liquidity
+cushions at these institutions, and at commercial bank holding companies, should be
+managed and supervised more conservatively at the group level, with contingency
+funding plans that factor-in interruptions of secured financing. Fed officials were
+
+31
+sympathetic to the thrust of these views, some of which echo public remarks by the New
+York Fed president.
+42.
+A tighter focus could also be placed on adequate capital coverage during
+booms. International efforts through the Financial Stability Forum, the Fund, and the
+Basel Committee are revisiting capital and liquidity risks, including the use of ratings and
+treatment of off-balance sheet affiliates. Officials also emphasized the role of the U.S.
+leverage ratio, which uses the unweighted value of assets—but currently excludes offbalance sheet items—in potentially limiting procyclical lending. Staff discussed other
+counter-cyclical capital requirements, such as dynamic provisioning already used in
+Spain, and officials confirmed the general issue was being considered. Some regulators
+felt fair value accounting rules for hard-to-value assets could be used more flexibly, but
+most observed that investors remain strongly in favor of fair value accounting’s increased
+transparency. With market sentiment still delicate, staff agree with the Treasury’s view
+that the issue should be revisited only after financial conditions have normalized.
+43.
+A Financial Sector Assessment Program, scheduled to start in late 2009, will
+provide the Fund an opportunity to contribute to the U.S. regulatory debate. Serious
+consideration of major regulatory reforms will probably have to wait until after the
+November 2008 election and will likely be a long process. Reforming the regulatory
+system has been difficult in the past, and the Treasury blueprint already faces resistance.
+B. Business Conduct Regulation
+44.
+Staff support creating a business conduct regulator with responsibilities for
+consumer and investor protection, as discussed in last year’s report. The Treasury
+blueprint appropriately suggests merging the SEC and the Commodity Futures Trading
+Commission, whose responsibilities often overlap, and moving responsibility for
+mortgage consumer protection from the Fed to this new body.
+45.
+In the wake of the housing bust, public attention has focused on the extension
+of inappropriate loans to unsophisticated borrowers. Provisions under the Home
+Ownership and Equity Protection Act, the most relevant federal law, did not apply to the
+vast majority of subprime loans because their rates did not trip unrealistically high
+interest rate triggers, while enforcement often relied on state regulators. Stricter
+prudential guidance to banks on nontraditional and subprime mortgage lending was
+delayed by the need for agreement across five federal agencies. Finally, borrowers who
+were provided with misleading loan information generally have little redress, particularly
+when the originator has gone out of business.
+46.
+Legislation can allow higher national standards to be enforced through
+federal courts. Given the macroeconomic costs coming from imprudent mortgage loans,
+the Fed is appropriately proposing that subprime mortgage lenders be required to ensure
+that borrowers can afford the full cost of the loan (not simply low initial rates), to verify a
+
+32
+borrower’s income and assets, to ensure local taxes and other costs are placed in escrow
+accounts, and to limit pre-payment penalties. Also, legislation before Congress rightly
+triggers federal regulation of mortgage brokers if state supervision is insufficient. Finally,
+the issue of legal recourse if originators go out of business could be addressed through
+capped liability for bundlers (see ¶49).
+C. Securitization
+47.
+Recent events have highlighted the need to improve incentives in the
+originate-to-distribute lending model. In a typical mortgage securitization chain, a
+nonbank originator sells loans to a bundler—generally an investment or commercial
+bank. The bundler pools the loans into trusts funded by mortgage-backed securities. The
+trusts pay servicers to collect payments from borrowers and to deal with delinquencies
+and defaults. Rating agencies are paid to assess the quality of the securities, and
+“monoline” bond insurers provide insurance against payment shortfalls. Incentives broke
+down as investors became overly reliant on ratings, while originators and bundlers—who
+were best placed to assess underlying risks—had few incentives to maintain loan quality.
+48.
+As discussed in the Spring 2008 Global Financial Stability Report, capital
+charges and ratings transparency of structured credit products could be improved.
+The Basel committee is revisiting capital charges for off-balance sheet activities, while
+stronger safeguards against conflicts of interest between advice on structuring products
+and eventual ratings has been suggested by the International Organization of Securities
+Commissions. More generally, greater transparency throughout the rating process would
+allow more effective exercise of due diligence by investors. Newly proposed rules from
+the SEC are strong first steps, and are expected to be followed by measures to limit
+references to external credit ratings in bank and securities regulation.
+49.
+Holding bundlers of securitized assets partially legally liable for the assets
+they create is another possible way of improving securitization incentives. With
+securitization having increased specialization in finance, the rightful place for quality
+control in the securitization chain, arguably, is the assembly line. The impact of
+alternative levels of liability on loans can be examined as some U.S. states and cities have
+rules assigning capped legal liability to bundlers for “predatory” loans within securitized
+pools. Academic studies suggest that providing some liability for bundlers improves
+monitoring of loan quality and standards of loan originators although unlimited assignee
+liability shuts down the securitization process completely (see IMF working paper
+WP/07/188). Officials recognize the faulty incentives in the securitization process, but
+could not commit to specific remedies at this point.
+VII. EXTERNAL ADJUSTMENT AND THE DOLLAR
+50.
+Recent dollar depreciation has moved the dollar significantly closer to
+medium-term equilibrium (Figure 11). The U.S. current account deficit rose to a record
+
+33
+Figure 11. United States: U.S. Competitiveness
+
+1
+
+The current account deficit has narrowed
+despite higher oil prices...
+Current account balance (percent of GDP)
+
+0
+Excluding petroleum
+products
+
+-1
+
+1
+
+30
+
+0
+
+25
+
+-1
+
+20
+
+...as real export growth has recently significantly
+exceeded real import growth.
+
+30
+
+(y/y percent change)
+
+25
+
+Real imports
+
+20
+Real exports
+
+-2
+-3
+Excluding
+petroleum and
+agriculture
+
+-4
+
+Overall
+
+-5
+-6
+
+1.0
+
+15
+
+15
+
+-3
+
+10
+
+10
+
+-4
+
+5
+
+5
+
+-5
+
+0
+
+0
+
+-6
+
+-5
+
+-5
+
+-7
+
+-7
+1985
+
+1.5
+
+-2
+
+1988
+
+1991
+
+1994
+
+1997
+
+2000
+
+2003
+
+2006
+
+The U.S. current account deficit mirrors
+surpluses in Asia and among oil exporters.
+Current account balance
+(percent of World GDP)
+
+Oil Exporters 2/
+
+0.5
+
+0.5
+
+0.0
+
+0.0
+Euro Area
+
+-0.5
+
+Japan
+
+-0.5
+
+1984
+
+1988
+
+1992
+
+2000
+
+1996
+
+2004
+
+Current account financing and the dollar fell
+sharply during the first leg of the financial crisis...
+
+1.5
+1.0
+
+-10
+
+-10
+1980
+
+140
+
+Net foreign portfolio investment flows
+(billion U.S. dollars,
+3-month moving
+average)
+
+140
+
+90
+
+90
+
+40
+
+40
+
+Emerging Asia 1/
+-1.0
+
+-1.0
+-10
+
+-1.5
+-2.0
+
+-2.0
+1997 1999 2001 2003 2005 2007 2009 2011 2013
+
+60
+50
+40
+
+...as investors bailed out of riskier asset classes...
+Net foreign purchases of U.S. securities
+(billion U.S. dollars, 3-month moving average)
+Treasury bonds and notes
+Government agency bonds
+Corporate bonds
+Equities
+
+-10
+
+Short-term
+Long-term
+Total
+
+-1.5
+
+United States
+
+-60
+2004
+
+-60
+2005
+
+2006
+
+2007
+
+2008
+
+...in particular, corporate bonds.
+
+60
+
+100
+
+50
+
+50
+
+50
+
+40
+
+0
+
+0
+
+30
+
+30
+
+20
+
+20
+
+10
+
+10
+
+0
+
+0
+
+Net foreign purchases of U.S. securities
+(change from 2006 to 2007, billion U.S. dollars)
+
+-50
+
+-50
+-100
+
+First half of 2007
+Second half of 2007
+
+-100
+
+-150
+
+-150
+
+-200
+
+-200
+-250
+
+-250
+-10
+2004
+
+-10
+2005
+
+2006
+
+2007
+
+2008
+
+100
+
+Treasury
+bonds
+
+Agency
+bonds
+
+Corporate
+bonds
+
+Sources: Haver Analytics; International Monetary Fund,
+World Economic Outlook;and Fund staff calculations.
+
+Equity
+
+34
+
+of around 6 percent of GDP in 2005 and 2006 despite gradual depreciation since 2002.
+This partly reflected strong activity over the housing boom that was supported by
+heightened foreign demand for U.S. bonds, including mortgage-backed securities.
+Subsequently, despite a substantially higher oil import bill, this process has gone into
+reverse, with the current account narrowing rapidly to 5 percent of GDP in the wake of
+dollar depreciation, slowing domestic demand, and falling foreign net purchases of
+private U.S. bonds. At current exchange rates, the current account deficit is projected to
+fall to a more manageable level of just under 4 percent of GDP by 2013, still a bit above
+the level consistent with medium-term fundamentals.
+51.
+Financial turmoil has reduced capital inflows, contributing to recent dollar
+depreciation. The dollar lost about 10 percent of its trade-weighted value between mid2007 and March 2008 before rallying somewhat more recently. Officials view this
+depreciation as a continuation of the trend initiated in early 2002, reflecting fundamentals
+such as relative cyclical positions and interest rate differentials. While accepting that
+these factors play a role, staff see the rapid improvement of the current account as also
+reflecting capital account developments, notably the sharp reduction in foreign demand
+for private bonds as a result of financial turmoil: virtually all of the decline in the capital
+account surplus has fallen on private
+Dollar Adjustment and External Imbalances
+bonds.
+52.
+Multilateral dollar depreciation
+has lowered a key global
+vulnerability—the U.S. external
+deficit—but the benefit has been
+diminished by lop-sided bilateral
+currency movements. In particular, the
+depreciation of the dollar has generally
+been larger against freely-floating
+currencies, such as the euro, rather than
+against less flexible currencies associated
+with large external surpluses, such as the
+renminbi. As a result of these bilateral
+movements, significant international
+exchange rate and trade tensions remain.
+
+Bilateral real depreciation of dollar,
+2002Q1–2008Q1 (percent)
+
+45
+40
+
+Euro area
+
+35
+
+Canada
+
+30
+
+United
+Kingdom
+
+25
+20
+15
+
+China
+
+10
+
+Japan
+
+5
+0
+
+Saudi
+Arabia
+
+-5
+-10
+-10
+
+-5
+0
+5
+10
+15
+20
+25
+Current account balance, 2006 (percent of GDP)
+
+30
+
+Sources: Haver Analytics; International Monetary
+Fund, International Financial Statistics; International
+Monetary Fund, World Economic Outlook; and Fund
+staff calculations.
+
+53.
+This underlines the importance of implementing the strategy agreed during
+the Multilateral Consultation to combat external imbalances. To maintain growth, the
+strategy sees the amelioration of global current account imbalances requiring the
+rebalancing of demand across key countries, not just in the United States. Given shortterm economic weakness in the United States, it makes sense to defer progress toward the
+
+35
+medium-term objective of a balanced U.S. budget. On the other policy goals set out in the
+Multilateral Consultation, the U.S. authorities have proposed the following steps, the first
+three of which still require Congressional action:
+•
+
+Reforming the budget process to contain spending growth. This year’s budget again
+proposes earmark reform and requests the legislative line-item veto.
+
+•
+
+Entitlement reform. The budget again proposes reform of Social Security and a health
+insurance deduction, plus new initiatives to restructure health insurance markets.
+
+•
+
+Further tax incentives to support private saving. The FY2009 Budget again proposes
+schemes to expand incentives for saving, including Lifetime Savings Accounts.
+
+•
+
+Enhancing energy efficiency. Congress has passed tighter fuel efficiency standards,
+with ethanol subsidies also reducing consumption of gasoline.
+
+•
+
+Pro-growth, open investment policies. The Administration has reiterated that it is
+committed to policies that make the United States attractive to foreign investment.
+
+•
+
+Capital market competitiveness. The Treasury’s Blueprint suggests an improved
+regulatory structure for the long term and a number of intermediate steps.
+
+54.
+Staff now consider the dollar closer to the level implied by medium-term
+fundamentals, although still somewhat on the strong side. Estimates of the
+equilibrium rate vary significantly. As of early-June, the Fund’s Consultative Group on
+Exchange Rates’ exchange rate equation suggests slight undervaluation, its comparison
+with medium-term saving-investment fundamentals suggests a modest overvaluation, and
+its calculation based on stabilizing the path of net foreign assets as a ratio to GDP implies
+a 15 percent overvaluation. These differences across the methodologies have been
+apparent for some time. However, long-term trends in U.S. trade flows and net foreign
+assets tend to narrow this range, without materially changing the staff’s overall
+assessment (Box 2). Adjusting for these factors suggest that all three methodologies
+imply modest dollar overvaluation of 0-10 percent in real effective terms. While not
+taking a position on the level of the dollar, U.S. officials noted that the dollar had moved
+in line with fundamentals, including interest rate differentials and relative output.
+
+36
+
+Box 2. Special Considerations in the Assessment of the Dollar
+The trend switch in U.S. trade toward low-cost producers may mean conventional real
+effective exchange rate measures overstate the dollar weakness. The basic point is that,
+even if all prices and exchange rates
+Real Effective Exchange Rates
+1.6
+1.6
+were constant, the mere fact of
+Exchange rate indices (REER equals WARP in Q1 1990)
+growing trade with low cost countries
+1.5
+WARP 1/
+is an implicit loss of competitiveness. 1.5
+(PPP-based)
+Thus, the growing importance of
+1.4
+1.4
+producers with low levels of costs,
+such as China and Mexico, in U.S.
+1.3
+1.3
+trade may be blunting the benefit
+1.2
+1.2
+from recent dollar depreciation.
+Conventional exchange rate indices
+1.1
+1.1
+REER
+ignore this effect as they either
+(CPI-based)
+assume fixed trade patterns or ignore
+1.0
+1.0
+differences in cost levels across
+0.9
+0.9
+countries. The implied bias can be
+1985
+1989
+1993
+1997
+2001
+2005
+estimated using a weighted average
+1/ Calculation parallels the methodology in Thomas, Marquez,
+relative price (WARP) exchange rate
+and Fahle (2008).
+index. This combines updated trade
+weights with absolute measures of competitiveness derived from purchasing power parities.
+Results suggest that, using the mid-1990s as a base, the dollar may be 10 percent more
+appreciated than implied by the Fed’s standard real effective exchange rate index.
+Furthermore, using WARP indices improves the fit and stability of trade volume equations.
+On the other hand, the U.S. net foreign asset position has fallen much less than
+cumulative current account deficits—implying lower depreciation to stabilize net debt.
+Current Account and Net Foreign Assets
+The rise in the net foreign debt
+0
+0
+Components of international investment position
+position from 3 percent of GDP in
+(percent of GDP)
+-5
+-5
+1989 to currently 20 percent is well
+Net foreign
+under half of that implied by
+-10
+-10
+assets
+accumulating current account
+Cumulative current
+-15
+-15
+account balance
+deficits. While revaluation from
+-20
+-20
+dollar weakness has played some
+Cumulative exchange
+role in recent years, it is negligible
+rate valuation changes
+-25
+-25
+over the longer term (reflecting the
+-30
+-30
+longer-term stability of the dollar).
+Cumulative other
+-35
+-35
+Rather, U.S. investors have
+valuation changes
+consistently made greater capital
+-40
+-40
+gains on portfolio and FDI
+-45
+-45
+investments, partly reflecting a
+1988
+1991
+1994
+1997
+2000
+2003
+2006
+greater willingness of U.S. investors
+to take risks. Staff projections assume that, including this difference in risk tolerance,
+overall valuations changes reduce the implied fall in net foreign assets by some 1 percent of
+GDP (per year) relative to the amount implied by future current account deficits.
+
+37
+VIII. STAFF APPRAISAL
+55.
+Despite impressive resilience, the United States faces a difficult situation as
+the housing bust weakens household demand and worsens credit conditions. The
+staff’s baseline forecast envisages extremely low growth of GDP in 2008 (Q4/Q4)
+followed by gradual recovery in 2009. Although inflation expectations have ticked up on
+surging commodity prices, price pressures should be contained as commodity prices peak
+and economic slack rises. The outlook crucially hinges on the evolution of house prices,
+and the dynamic interaction of financial sector and housing cycles. Thus, there are large
+uncertainties around any projection and policy response to this first national-level
+housing bust in at least 40 years.
+56.
+Monetary policy should stay on hold for now, while being prepared to raise
+rates as recovery becomes established. With the real fed funds rate already negative
+(even using core CPI inflation), monetary policy is already consistent with a robust
+response to recession risks. Meanwhile, although wage demands remain moderate,
+elevated headline inflation may have already started seeping into near-term inflation
+expectations. Given the high cost of reversing such expectations once they become
+entrenched, the bias going forward should be toward a decisive tightening once recovery
+is established and financial conditions ease further.
+57.
+Fiscal stimulus is providing support to activity at a critical time, but
+medium-and long-term fiscal challenges limit the room for further initiatives. The
+fiscal stimulus package was relatively well targeted toward those who are most likely to
+spend the money, and its rapid passage in Congress has ensured its benefits are timely.
+While automatic stabilizers should be allowed to operate, in the face of significant
+medium-term fiscal challenges, any needed further government support should focus on
+using balance sheets to support housing and financial markets. A more ambitious
+medium-term target of balance excluding the social security surplus as well as major
+entitlement reform remain key to restoring fiscal sustainability.
+58.
+Given the risks, the government should be prepared to widen support for
+housing and, if serious dislocations reappear, in financial markets. It is true that
+policies need to be mindful of moral hazard, that the housing sector is already the
+recipient of large tax subsidies, and that house prices still need to adjust down. Still, there
+is a clear risk that prices could fall significantly below equilibrium, with painful
+economic consequences. Given that house prices are falling rapidly and the inventorysales ratio is at a near-record high, there is a role for public policy to overcome
+coordination difficulties by using FHA guarantees to encourage lenders to make
+voluntary write-downs on mortgage principal to new, more affordable loans. Ideally, such
+legislation would provide additional incentives for lenders to participate. If major
+systemic financial disruptions recur, the government could support market stability by
+
+38
+significantly extending the term of asset swaps, as has been done with Treasury backing
+in the United Kingdom.
+59.
+Financial regulation could be consolidated and specialized, and liquidity and
+capital requirements strengthened, including for off-balance sheet lending. The
+housing boom revealed multiple weaknesses in financial regulation and supervision.
+While private sector responses will plug some of the gaps, the Treasury blueprint, which
+includes many proposals highlighted in last year’s report, provides a sensible basis for
+comprehensive reform. Pending further analysis, including under the Financial Sector
+Assessment Program, reform options could include reducing the procyclicality of bank
+lending (e.g., by augmenting risk-based capital ratios) and bringing the oversight of
+major investment banks and government-sponsored enterprises closer to that of
+commercial bank holding companies. Finally, with liquidity having emerged as a major
+and under-emphasized risk, draft recommendations from the Basel Committee will need
+to be implemented swiftly, taking into account U.S.-specific considerations.
+60.
+Dollar depreciation has moved U.S. competitiveness closer to medium-term
+fundamentals, but tensions remain in the pattern of bilateral adjustment. The
+narrowing of the U.S. external deficit has been a welcome global development. However,
+bilateral rate adjustments have not corresponded to the existing pattern of imbalances,
+with larger changes against freely-floating currencies (such as the euro) than against
+currencies of countries with large current account surpluses. Thus, the reduction in the
+tensions in the international exchange rate and trade system has been more limited than
+suggested by the trend in the dollar’s real effective rate. This emphasizes the importance
+of multilateral efforts to reduce global current account imbalances.
+61.
+
+It is proposed to hold the next Article IV Consultation on a 12-month cycle.
+
+A single, unified regulator should be established. State regulation
+results in higher costs, regulatory arbitrage, and politically-driven
+interference in local insurance markets.
+Reduce tax disincentives to overfunding DB plans to bolster
+cushions during market downturns; the Public Benefit Guaranty
+Corporation (PBGC) should set risk-based premia; 'automatic'
+enrollment in employer-sponsored DC plans should be facilitated.
+Concern that the PBGC recently adopted a riskier investment
+strategy moving away from matching assets and liabilities.
+Areas for improvement include, inter alia: (i) strengthening
+customer due diligence; (ii) making corporate ownership
+information more readily available; and (iii) extending AML/CFT
+requirements to certain designated nonfinancial businesses and
+professions.
+
+The adequacy of savings for retirement
+could be improved: many defined-benefit
+(DB) plans remain underfunded, and weak
+incentives hamper employee enrollment in
+defined-contribution (DC) plans.
+
+As noted in the September 2006 AML/CFT
+ROSC, the AML/CFT regime has
+strengthened significantly, but there remain
+areas where compliance with FATF
+recommendations could be tighter.
+
+ILCs are, in essence, state-chartered commercial banks, and are
+insured by the Federal Deposit Insurance Corporation (FDIC). All
+commercial bank holding companies should be subject to the same
+consolidated supervision provisions.
+
+U.S. ODA should be increased, in line with G-8 commitments to
+increase aid to Africa, the Millennium Challenge Account, and
+HIV/AIDS and malaria initiatives.
+
+Proliferation of U.S. preferential trade agreements could
+undermine the multilateral fabric of world trade unless the
+agreements include open-access clauses and simple rules of origin.
+
+Staff Position
+
+Regulation of the insurance sector is
+entirely in the hands of state Insurance
+Commissioners, with little federal
+oversight.
+
+Financial Policy
+There are concerns about the supervisory
+level-playing field with regard to industrial
+finance companies (ILCs). Unlike owners
+of commercial banks, owners of ILCs are
+not subject to consolidated supervision
+under the Bank Holding Company Act.
+
+Official development assistance (ODA) as a
+percent of GDP is lower in the U.S. than in
+most other industrial countries.
+
+Trade Policy and Foreign Aid
+There are concerns about U.S. leadership in
+advancing global trade liberalization.
+
+Issue
+
+Authorities’ Position
+
+The September 2006 AML/CFT ROSC noted not only strong
+overall progress since the last mutual evaluation in 1997, but
+also satisfactory compliance with the FATF
+recommendations on enhanced due diligence for
+correspondent banking relationships and requirements for
+money remittance services.
+
+The Pension Protection Act (PPA) of 2006 generally
+implemented changes reflecting these suggestions, including
+provisions that are expected to encourage more employers to
+adopt auto enrollment.
+
+The Administration has suggested the need for a stronger
+federal role in insurance regulation. The Treasury Blueprint
+for a Modernized Financial Regulatory Structure
+recommends an optional federal charter for insurers.
+
+The FDIC imposed a moratorium on applications for deposit
+insurance by ILCs that ended in January 2008. The FDIC will
+process ILC applications and impose conditions and
+safeguards on ILC parents on a case-by-case basis. The
+degree of supervision necessary for nonfinancial corporate
+owners of ILCs remains an open issue.
+
+The U.S. government is on track to meet its G8 commitment
+to double aid to Africa, and, more broadly, remains the
+largest bilateral donor. Authorities do not subscribe to an
+ODA-as-percent of GDP target; rather, they emphasize aid
+effectiveness and development impact.
+
+U.S. free trade agreements contain elements that complement
+and advance the multilateral trade agenda, and include rules
+of origin regimes that are simple and efficient to administer
+and operate.
+
+Table 1. United States: Long-Standing Fund Policy Advice
+
+39
+
+The absence of a financial stability report
+(FSR).
+
+Monetary Policy
+Improvements in the Fed's communications
+strategy would bolster its ability to comply
+with the dual mandate of price stability and
+full employment.
+
+Revenue reform
+
+Fiscal Policy
+Entitlement growth makes the long-term
+fiscal position unsustainable.
+
+There are concerns about the impact of
+Basel II implementation on minimum
+capital floors and that it may engender
+procyclical lending.
+
+Issue
+
+As in many other industrialized countries, publication of an FSR
+could improve markets' understanding of U.S. financial sector
+risks and vulnerabilities and, potentially, facilitate greater
+coordination amongst regulators.
+
+Quantifying the Fed's long-term inflation objective might help
+further anchor expectations. Recent increase in detail provided on
+economic projections is welcome, but more could be done.
+
+With budget deficits projected to rise despite a squeeze in nondefense discretionary spending, revenue increases need to be
+considered in the medium term. Consumption taxes, energy or
+carbon taxes, and elimination of unlimited tax deductions for
+employers' health insurance and mortgage interest would improve
+efficiency.
+
+Linking Medicare contributions to income would be helpful, but
+not sufficient, and assumed reduction in provider payments is
+unrealistic. Systemic reform, with emphasis on the effectiveness
+of medical spending and better targeting, is necessary. Progressive
+indexation of Social Security benefits is a promising approach.
+More ambitious medium-term consolidation would help alleviate
+long-term pressure.
+
+Staff supports implementation of Basel II as a modern risksensitive capital standard. However, it acknowledges concerns
+about the potential impact on minimum capital floors and thus
+supports the cautious and methodical approach to implementing
+the new framework, especially in light of lessons to be learned
+from the recent financial crisis.
+
+Staff Position
+
+Authorities’ Position
+
+Although the Federal Reserve publishes a range of
+information that is relevant to the analysis of financial
+stability, including in its semiannual monetary policy report,
+it does not currently publish a separate financial stability
+report.
+
+The FOMC has not specified a numerical inflation target or
+range to quantify its price stability objective. Given the
+irreversibility of increased flow of information from the Fed
+to the public, changes in communications strategy are best
+introduced gradually.
+
+Federal revenue as a share of GDP is projected to exceed its
+historical average throughout most of the next decade even if
+the growth-enhancing 2001/03 tax cuts are made permanent,
+as advocated by the Administration. There is little political
+support for efficiency-improving tax reform.
+
+The essential mechanics involved with reforming Social
+Security are well understood; it is now a question of the
+political will to undertake reform. The problems with
+Medicare and Medicaid cost growth are intrinsically linked to
+overall health care cost growth, and thus solutions are more
+difficult. Administration emphasizes market-based and
+consumer-driven solutions to lowering the rate of health care
+cost growth and the rate of Medicare/Medicaid cost growth.
+
+Banking regulators have taken a cautious approach to
+implementation. The final rule issued in November 2007
+specified a parallel run for at least a year, before three
+transitional years with maximum reductions in risk-weighted
+capital. Banks would also continue to be subject to the U.S.
+leverage ratio and prompt corrective action requirements.
+
+Table 1. United States: Long-Standing Fund Policy Advice
+
+40
+
+41
+Table 2. United States: Measures to Support the Housing Market—Selected Actions and Proposals
+Administration’s actions
+The FHASecure program has extended eligibility for Federal Housing Administration (FHA)
+guarantees to delinquent home owners if late payment was caused by a rate reset, and it is planned to
+also allow FHA insurance on loans to borrowers who have missed up to three payments for other
+reasons, provided the lender is willing to write down the principal sufficiently below the current
+appraised value of the house. The Administration was also instrumental in setting up HOPE NOW—
+an alliance of mortgage servicers aimed at
+reaching distressed home owners and finding
+U.S. Housing Market Numbers
+alternatives to foreclosures. HOPE NOW
+Total housing units
+129 million
+members, supported by the American
+Single-family
+88 million
+Securitization Forum, say they have provided
+Occupied units
+111 million
+loan workouts to approximately 1½ million
+Owner-occupied
+75 million
+homeowners (with about one third involving loan
+Residential mortgages
+57 million
+modifications such as interest rate freezes and
+Subprime/Alt-A
+11 million
+FHASecure refinancing), but the Office of the
+Mortgages outstanding
+$12 trillion
+Comptroller of the Currency has suggested the
+Subprime/Alt-A
+$2 trillion
+extent of loan mitigation is much smaller.
+Foreclosures started in 2007
+
+1.5 million
+
+Congressional Housing Package Provisions
+Federal Housing Administration expansion
+Congressional draft legislation envisages the FHA providing guarantees for troubled mortgages over
+three years. To qualify, the principal of the modified loan would have to be written down to no more
+than 90 percent of the current appraised value of the house; a 3 percent loan loss reserve must be
+established; origination and closing costs for the new loan up to 2 percent would be paid by existing
+mortgage holders; and all other claims must be extinguished. The refinanced borrower would pay an
+exit fee in the future upon selling or refinancing the property, and share a declining fraction of home
+price appreciation with the FHA. The Congressional Budget Office has estimated that the program
+would help about 400,000 borrowers and cost around $700 million, which would be covered by
+temporarily diverting GSE contributions from the affordable housing funds.
+Federal Housing Administration modernization
+Legislation would permanently increase FHA loan guarantee limits, extend their maximum term,
+allow more flexibility in underwriting criteria, reduce minimum down-payments, and permit greater
+flexibility to charge fees to reflect differences in credit risk across borrowers.
+Government-Sponsored Enterprise overhaul
+An independent supervisor with broad safety and soundness powers would oversee Freddie Mac,
+Fannie Mae, and the Federal Home Loan Banks. The GSEs’ conforming loan limits in high cost areas
+would be raised permanently to the smaller of 175 percent of the national limit ($729,750 currently) or
+125 percent of the local median home price (House bill), or to the smaller of 150 percent of the
+national limit or the local median home price (Senate bill). (The Economic Stimulus Act has raised the
+limits temporarily until the end of this year). Part of GSE profits would finance newly established
+affordable housing funds.
+
+Primary
+dealers,
+including
+investment
+banks
+
+Funds
+
+U.S.
+Treasuries,
+agencies,
+agency MBS
+
+Yes
+
+Typically,
+term is
+overnight-14
+days
+
+Typically once
+or more daily
+
+Who can
+borrow?
+
+What are they
+borrowing?
+
+What collateral
+can be
+pledged?
+
+Is there a
+reserves
+impact?
+
+What is the
+term of loan?
+
+How frequently
+are operations
+conducted?
+
+Regular
+OMOs
+
+Typically
+weekly
+
+28 days
+
+Yes
+
+U.S. Treasuries,
+agencies, agency
+MBS
+
+Funds
+
+Primary dealers,
+including
+investment
+banks
+
+Single-Tranche
+OMO Program
+(announced
+Mar. 7, 2008)
+
+As requested
+
+Typically
+overnight but
+up to several
+weeks
+
+Yes
+
+Full range of
+Discount
+Window
+collateral
+
+Funds
+
+Depository
+institutions
+
+Discount
+Window
+
+As requested
+
+Up to 90 days
+
+Yes
+
+Full range of
+Discount Window
+collateral
+
+Funds
+
+Primary crediteligible depository
+institutions
+
+Term Discount
+Window Program
+(announced
+Aug. 17, 2007)
+
+Overnight
+
+Daily
+
+As requested
+Every other week
+
+No (loans are
+bond-for-bond)
+
+U.S. Treasuries
+
+U.S. Treasuries
+
+Primary
+dealers,
+including
+investment
+banks
+
+Securities
+Lending
+
+Overnight
+
+Yes
+
+U.S. Treasuries,
+agencies, agency
+MBS, investmentgrade debt securities
+
+Funds
+
+Primary dealers,
+including investment
+banks
+
+Primary Dealer
+Credit Facility
+(announced
+Mar. 16, 2008)
+
+28 days
+
+Yes
+
+Full range of
+Discount
+Window
+collateral
+
+Funds
+
+Primary crediteligible
+depository
+institutions
+
+Term Auction
+Facility
+(announced
+Dec. 12, 2007)
+
+Table 3. United States: Forms of Federal Reserve Lending to Financial Institutions
+
+Weekly
+
+28 days
+
+No (loans are bond-forbond)
+
+U.S. Treasuries,
+agencies, agency MBS,
+AAA/Aaa-rated privatelabel RMBS and CMBS,
+agency CMO
+
+U.S. Treasuries
+
+Primary dealers,
+including investment
+banks
+
+Term Securities Lending
+Facility (announced
+Mar. 11, 2008)
+
+42
+
+43
+Table 4. United States: Selected Economic Indicators
+(Percentage change from previous period at annual rate, unless otherwise indicated)
+2006 2007 2008 2009 2010 2011 2012
+
+National production and income
+Real GDP
+Net Exports 1/
+Total domestic demand
+Final domestic demand
+Private final consumption
+Public consumption expenditure
+Gross fixed domestic investment
+Private fixed investment
+Equipment & software
+Structures (non-residential)
+Structures (residential)
+Public fixed investment
+Change in private inventories 1/
+
+Q2
+
+Q3
+
+Q4
+
+2008
+Q1
+
+3.5
+0.0
+3.4
+3.4
+2.5
+3.2
+7.5
+8.5
+10.6
+6.3
+6.7
+3.6
+0.0
+
+3.0
+0.0
+2.9
+2.9
+2.1
+2.3
+7.0
+8.1
+10.3
+6.6
+5.5
+2.6
+0.0
+
+2.6
+0.1
+2.5
+2.4
+1.8
+2.9
+4.5
+4.9
+6.1
+3.0
+4.5
+3.0
+0.0
+
+0.6 3.8 4.9 0.6 1.0
+-0.5 1.3 1.4 1.0 0.8
+1.1 2.4 3.3 -0.4 0.2
+1.7 2.1 2.5 1.3 0.1
+3.7 1.4 2.8 2.3 1.1
+-0.4 3.3 3.5 2.0 3.1
+-3.8 4.0 0.3 -2.9 -6.1
+-4.4 3.1 -0.7 -4.0 -6.9
+0.3 4.7 6.2 3.1 0.2
+6.3 26.2 16.4 12.4 1.3
+-16.3 -11.8 -20.5 -25.2 -24.5
+-0.9 8.0 5.2 1.8 -2.6
+-0.7 0.2 0.9 -1.8 0.0
+
+6.1 4.9 3.7 2.9 5.3
+0.4 0.5 1.0 0.9 1.0
+16.7 15.4 13.8 12.8 12.9
+
+5.8
+1.4
+13.3
+
+5.3
+1.9
+13.8
+
+4.8
+2.6
+14.0
+
+4.9 6.6 6.0 3.0 3.7
+1.0 0.3 0.4 0.2 0.4
+15.6 15.5 15.5 14.8 14.4
+
+-2.0
+2.5
+5.8
+2.3
+2.2
+
+-1.0
+2.4
+5.2
+2.4
+2.2
+
+-0.3
+2.3
+5.0
+2.2
+2.2
+
+0.0
+2.3
+4.9
+2.2
+2.2
+
+-0.3
+2.6
+4.5
+3.7
+4.2
+
+0.0
+2.6
+4.5
+4.6
+2.6
+
+0.6
+2.6
+4.7
+2.8
+1.0
+
+0.1
+2.5
+4.8
+5.0
+2.4
+
+-0.3
+2.5
+4.9
+4.3
+2.7
+
+Financial policy indicators
+Central gov't balance ($ b, public accounts)
+In percent of FY GDP
+Central government balance ($ b, NIPA)
+In percent of CY GDP
+General government balance ($ b, NIPA)
+In percent of CY GDP
+Three-month Treasury bill rate
+Ten-year government bond rate
+
+-248 -162 -432 -451 -378
+-1.9 -1.2 -3.0 -3.1 -2.5
+-263 -284 -533 -530 -466
+-2.0 -2.1 -3.7 -3.6 -3.0
+-345 -371 -608 -603 -550
+-2.6 -2.7 -4.2 -4.1 -3.5
+4.8 4.5 1.6 2.7 4.7
+4.8 4.6 3.8 3.9 4.7
+
+-394
+-2.4
+-442
+-2.7
+-537
+-3.3
+4.8
+5.8
+
+-300
+-1.8
+-364
+-2.1
+-505
+-2.9
+4.8
+5.8
+
+-346
+-1.9
+-393
+-2.2
+-510
+-2.8
+4.8
+5.8
+
+5.1
+4.7
+
+4.9
+4.8
+
+4.4
+4.7
+
+3.5
+4.3
+
+2.1
+3.7
+
+Balance of payments
+Current account balance ($ b)
+Merchandise trade balance ($ b)
+Balance on invisibles ($ b)
+
+-788 -731 -712 -650 -682
+-838 -819 -890 -849 -855
+50
+88 178 199 173
+
+-676
+-880
+203
+
+-689
+-899
+210
+
+-680
+-913
+233
+
+-788 -776 -692 -669 -706
+-813 -824 -805 -836 -844
+26
+47 113 167 139
+
+-6.0
+-6.4
+0.4
+
+-5.3
+-5.9
+0.6
+
+-5.0
+-6.2
+1.2
+
+-4.4
+-5.7
+1.3
+
+-4.4
+-5.5
+1.1
+
+-4.1
+-5.3
+1.2
+
+-4.0
+-5.2
+1.2
+
+-3.7
+-5.0
+1.3
+
+-5.8
+-6.0
+0.2
+
+9.9
+6.0
+
+7.9
+1.6
+
+7.1
+-1.0
+
+7.7
+1.1
+
+7.5
+5.0
+
+7.1
+5.8
+
+6.8
+5.4
+
+6.3
+4.8
+
+0.9
+4.1
+
+14.1
+0.5
+13.6
+0.3
+13.3
+20.0
+
+13.4
+0.4
+13.0
+0.3
+12.7
+18.7
+
+12.0
+-0.7
+12.7
+0.8
+11.9
+17.2
+
+11.8
+-0.7
+12.4
+0.7
+11.7
+16.2
+
+11.9
+-0.1
+12.0
+0.8
+11.2
+16.3
+
+12.6
+0.2
+12.4
+1.1
+11.4
+16.7
+
+13.2
+0.5
+12.7
+1.4
+11.3
+17.2
+
+13.6
+0.6
+13.0
+1.9
+11.1
+17.4
+
+13.9
+0.4
+13.4
+0.7
+12.7
+19.0
+
+Employment and inflation
+Output gap (percent of potential)
+Potential GDP
+Unemployment rate (percent)
+CPI inflation
+GDP deflator
+
+Current account balance (% of GDP)
+Merchandise trade balance (% of GDP)
+Balance on invisibles (% of GDP)
+Export volume 2/
+Import volume 2/
+Saving and investment (as a share of GDP)
+Gross national saving
+General government
+Private
+Personal
+Business
+Gross domestic investment
+
+0.5
+2.7
+4.6
+3.2
+3.2
+
+Sources: Haver Analytics; and Fund staff estimates.
+1/ Contributions to growth.
+2/ NIPA basis, goods.
+
+0.1
+2.6
+4.6
+2.9
+2.7
+
+-1.0
+2.5
+5.4
+3.9
+2.4
+
+0.8
+0.7
+0.1
+0.1
+0.6
+1.9
+-3.7
+-4.9
+-4.2
+-4.2
+-7.0
+1.1
+0.0
+
+2007
+Q1
+
+3.0
+0.1
+2.8
+2.8
+2.5
+2.1
+4.9
+5.5
+5.8
+3.2
+7.4
+2.8
+0.0
+
+Nominal GDP
+Personal saving ratio (% of DI)
+Private investment rate (% of GDP)
+
+2.9 2.2 1.3
+-0.1 0.6 0.9
+2.8 1.5 0.4
+2.7 1.8 0.6
+3.1 2.9 1.4
+1.4 1.9 2.3
+2.6 -2.0 -4.2
+2.4 -2.9 -5.3
+5.9 1.3 0.3
+8.4 12.9 4.4
+-4.6 -17.0 -21.3
+3.7 2.4 0.9
+0.1 -0.3 -0.2
+
+2013
+
+-2.6
+2.4
+6.3
+2.3
+2.0
+
+-5.6
+-6.0
+0.3
+
+-5.0
+-5.8
+0.8
+
+-4.8
+-5.9
+1.2
+
+-5.0
+-5.9
+1.0
+
+6.6 26.2
+-2.9 4.8
+
+3.9
+-2.7
+
+1.5
+-3.6
+
+13.9
+0.7
+13.2
+0.2
+13.0
+18.9
+
+12.7
+0.2
+12.4
+0.1
+12.3
+18.2
+
+11.9
+-0.5
+12.4
+0.3
+12.1
+17.8
+
+13.3
+0.3
+13.0
+0.3
+12.7
+18.9
+
+44
+
+Table 5. United States: Balance of Payments
+(Billion U.S. dollars, unless otherwise indicated)
+2006
+
+2007
+
+2008
+
+2009
+
+Projection
+2010
+2011
+
+2012
+
+2013
+
+-788
+-6.0
+
+-731
+-5.3
+
+-712
+-5.0
+
+-650
+-4.4
+
+-682
+-4.4
+
+-676
+-4.1
+
+-689
+-4.0
+
+-680
+-3.7
+
+-753
+-838
+1,023
+-1,861
+85
+434
+-349
+
+-700
+-819
+1,148
+-1,968
+119
+497
+-378
+
+-733
+-890
+1,330
+-2,221
+157
+565
+-408
+
+-662
+-849
+1,468
+-2,317
+187
+613
+-425
+
+-640
+-855
+1,604
+-2,459
+215
+665
+-451
+
+-638
+-880
+1,755
+-2,635
+241
+724
+-483
+
+-629
+-899
+1,912
+-2,811
+269
+785
+-516
+
+-614
+-913
+2,069
+-2,982
+298
+847
+-549
+
+57
+685
+-628
+
+82
+818
+-736
+
+141
+796
+-655
+
+122
+846
+-724
+
+68
+1,097
+-1,029
+
+75
+1,287
+-1,212
+
+58
+1,415
+-1,357
+
+57
+1,553
+-1,496
+
+-92
+
+-113
+
+-119
+
+-110
+
+-110
+
+-113
+
+-117
+
+-122
+
+Capital account
+transactions, net
+
+-4
+
+-2
+
+-2
+
+-2
+
+-2
+
+-3
+
+-3
+
+-3
+
+Financial account
+
+809
+
+768
+
+662
+
+652
+
+684
+
+679
+
+691
+
+682
+
+293
+1
+-241
+242
+262
+-365
+627
+30
+-674
+704
+
+386
+-96
+-333
+238
+431
+-289
+720
+50
+-639
+689
+
+323
+-154
+…
+…
+180
+…
+…
+297
+…
+…
+
+431
+-165
+…
+…
+308
+…
+…
+288
+…
+…
+
+451
+-175
+…
+…
+310
+…
+…
+315
+…
+…
+
+432
+-186
+…
+…
+325
+…
+…
+293
+…
+…
+
+431
+-198
+…
+…
+342
+…
+…
+288
+…
+…
+
+410
+-211
+…
+…
+357
+…
+…
+263
+…
+…
+
+2
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+488
+
+411
+
+336
+
+222
+
+233
+
+247
+
+260
+
+272
+
+26
+
+-29
+
+3
+
+0
+
+0
+
+0
+
+0
+
+0
+
+-17
+-517
+
+-35
+-438
+
+53
+-236
+
+0
+-132
+
+0
+-143
+
+0
+-108
+
+0
+-93
+
+0
+-60
+
+Current account
+Percent of GDP
+Goods and services
+Merchandise trade
+Exports
+Imports
+Services
+Receipts
+Payments
+Income
+Receipts
+Payments
+Unilateral transfers, net
+
+Private capital
+Direct investment
+Outflows
+Inflows
+Securities
+Outflows
+Inflows
+Other investment
+Outflows
+Inflows
+U.S. official reserves
+Foreign official assets
+Other items
+Statistical discrepancy
+Memo item: Current account
+excluding petroleum
+
+Sources: Haver Analytics; and Fund staff calculations.
+
+45
+Table 6. United States: Indicators of External and Financial Vulnerability
+(In percent of GDP, unless otherwise indicated)
+
+External indicators
+Exports of goods and services (percent change)
+Imports of goods and services (percent change)
+Terms of trade (percent change)
+Current account balance
+Capital and financial account balance
+Of which:
+Net portfolio investment
+Net foreign direct investment
+Net other investment
+Official reserves (billion dollars)
+Central bank foreign liabilities (billion dollars)
+Official reserves (months of imports)
+Net international investment position 1/
+Of which: General government debt 2/
+External debt-to-exports ratio
+External interest payments to exports (percent) 3/
+Nominal effective exchange rate (percent change)
+Real effective exchange rate (percent change)
+Financial market indicators
+General government gross debt
+Three-month Treasury bill yield (percent)
+Three-month Treasury bill yield (percent, real)
+Equity market index
+(percent change in S&P500, year average)
+
+2000
+
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+10.8
+17.8
+-4.6
+-4.3
+4.9
+
+-6.1
+-5.5
+2.8
+-3.8
+3.9
+
+-3.0
+2.1
+1.5
+-4.4
+4.8
+
+4.4
+8.3
+-1.3
+-4.8
+4.8
+
+14.0
+16.7
+-1.7
+-5.3
+4.5
+
+10.6
+12.8
+-4.0
+-5.9
+5.6
+
+13.5
+10.8
+-1.2
+-6.0
+6.1
+
+13.0
+6.1
+0.6
+-5.3
+5.5
+
+3.1
+1.7
+0.2
+67.6
+0.3
+0.6
+-13.6
+11.6
+1.2
+24.8
+2.6
+3.3
+
+3.3
+0.2
+0.4
+68.7
+0.1
+0.6
+-18.5
+12.1
+1.9
+23.7
+5.2
+5.6
+
+4.5
+-0.7
+1.0
+79.0
+0.1
+0.7
+-19.5
+13.8
+2.1
+20.7
+0.0
+-0.2
+
+4.2
+-0.8
+1.5
+85.9
+0.2
+0.7
+-19.0
+15.6
+2.1
+19.0
+-6.4
+-6.4
+
+6.2
+-1.5
+-0.2
+86.8
+0.1
+0.6
+-19.2
+17.7
+1.9
+20.5
+-4.9
+-4.6
+
+5.0
+0.6
+0.0
+65.1
+0.1
+0.4
+-15.5
+19.1
+1.5
+25.9
+-2.6
+-1.4
+
+5.7
+0.0
+0.4
+65.9
+0.2
+0.4
+-16.9
+20.7
+1.5
+32.5
+-1.5
+-0.4
+
+5.9
+-0.7
+0.3
+70.6
+0.1
+0.4
+-17.6
+23.4
+1.5
+35.9
+-4.3
+-3.9
+
+54.2
+6.0
+2.5
+
+53.7
+3.5
+0.6
+
+56.1
+1.6
+0.0
+
+59.4
+1.0
+-1.2
+
+60.4
+1.4
+-1.2
+
+60.8
+3.2
+-0.2
+
+60.1
+4.8
+1.6
+
+60.9
+4.5
+1.6
+
+7.6
+
+-16.4
+
+-16.5
+
+-3.2
+
+17.3
+
+6.8
+
+8.6
+
+12.7
+
+7,601
+58.3
+88.0
+1.2
+0.8
+
+8,414
+58.3
+87.7
+0.9
+0.6
+
+9,040 10,090 11,176
+59.5
+59.3
+59.3
+88.6
+88.9
+90.7
+0.8
+0.8
+1.3
+0.5
+0.5
+0.9
+
+1.7
+145.7
+15.3
+1.4
+12.8
+7.9
+
+1.5
+174.7
+13.7
+1.3
+12.6
+7.8
+
+1.3
+170.5
+12.9
+1.3
+12.3
+7.9
+
+Banking sector risk indicators (percent unless otherwise indicated) 4/
+Total assets (in billions of dollars)
+6,246 6,552 7,077
+Total loans and leases to assets
+61.1
+59.3
+58.7
+Total loans to deposits
+91.3
+88.7
+88.6
+Problem loans to total loans and leases 5/
+1.1
+1.4
+1.5
+Nonperforming assets to assets
+0.7
+0.9
+0.9
+Loss allowance to:
+Total loans and leases
+1.7
+1.9
+1.9
+Noncurrent loans and leases
+149.4 132.4 127.2
+Return on equity
+14.0
+13.2
+14.4
+Return on assets
+1.2
+1.2
+1.3
+Total capital to risk-weighted assets
+12.1
+12.7
+12.8
+Core capital ratio
+7.7
+7.8
+7.8
+
+1.2
+147.6
+13.0
+1.3
+12.4
+7.9
+
+Sources: IMF, International Financial Statistics; Federal Deposit Insurance Corporation; and Haver Analytics.
+1/ With FDI at market value.
+2/ Excludes foreign private holdings of U.S. government securities other than Treasuries.
+3/ External interest payments: income payments on foreign-owned assets (other private payments plus
+U.S. government payments).
+4/ FDIC-insured commercial banks.
+5/ Noncurrent loans and leases.
+
+1.3
+102.8
+9.3
+1.0
+12.2
+7.6
+
+46
+Table 7. United States: Fiscal Indicators
+(Fiscal years; in percent of GDP except where otherwise indicated)
+Projection
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+19.6
+1.8
+17.8
+18.6
+-1.0
+0.8
+-2.4
+-160
+37.9
+
+19.1
+1.8
+17.3
+18.5
+-0.6
+1.2
+-2.0
+-95
+36.6
+
+18.5
+1.7
+16.8
+18.8
+0.3
+2.0
+-1.2
+48
+34.7
+
+18.6
+1.7
+17.0
+18.8
+0.2
+1.8
+-1.1
+29
+32.9
+
+FY 2009 Budget, Administration
+Outlays
+Debt service
+Other
+Revenue
+Unified balance
+Primary balance
+Unified balance exc. social security
+Unified balance (billion dollars)
+Debt held by the public
+
+20.4
+1.7
+18.6
+18.5
+-1.9
+-0.2
+-3.3
+-248
+37.2
+
+20.0
+1.7
+18.2
+18.8
+-1.2
+0.5
+-2.6
+-162
+36.6
+
+20.5
+1.7
+18.8
+17.6
+-2.9
+-1.2
+-4.2
+-410
+37.8
+
+20.7
+1.7
+18.9
+18.0
+-2.7
+-1.0
+-4.1
+-407
+38.7
+
+FY 2009 Budget, Adjusted for Staff's Assumptions 1/
+Outlays
+Debt service
+Other
+Revenue
+Unified balance
+Primary balance
+Unified balance exc. social security
+Unified balance (billion dollars)
+Debt held by the public
+
+20.4
+1.7
+18.6
+18.5
+-1.9
+-0.2
+-3.3
+-248
+37.2
+
+20.0
+1.7
+18.2
+18.8
+-1.2
+0.5
+-2.6
+-162
+36.8
+
+20.5
+1.7
+18.8
+17.4
+-3.0
+-1.3
+-4.4
+-432
+38.4
+
+Memorandum items:
+Structural unified balance 2/
+-2.2
+-1.7
+-3.0
+Primary structural unified balance
+-0.5
+0.0
+-1.3
+Administration's economic projections (in percent, calendar-year basis)
+Real GDP growth
+2.9
+2.2
+2.7
+CPI inflation
+3.2
+2.9
+2.7
+Three-month Treasury bill rate
+4.8
+4.5
+3.7
+Central government balance 3/
+-2.0
+-2.1
+-3.7
+General government balance 3/
+-2.6
+-2.7
+-4.2
+
+21.4
+1.8
+19.6
+18.3
+-3.1
+-1.3
+-4.5
+-451
+40.7
+
+20.9
+1.9
+19.0
+18.4
+-2.5
+-0.6
+-3.9
+-378
+41.5
+
+20.6
+2.0
+18.7
+18.2
+-2.4
+-0.5
+-3.9
+-394
+41.9
+
+20.0
+2.0
+18.0
+18.3
+-1.8
+0.2
+-3.2
+-300
+41.9
+
+20.2
+2.0
+18.1
+18.2
+-1.9
+0.1
+-3.2
+-346
+42.3
+
+-2.8
+-1.1
+
+-2.3
+-0.5
+
+-2.4
+-0.4
+
+-1.7
+0.3
+
+-1.9
+0.1
+
+3.0
+2.1
+3.8
+-3.6
+-4.1
+
+3.0
+2.3
+4.0
+-3.0
+-3.5
+
+2.9
+2.3
+4.1
+-2.7
+-3.3
+
+2.8
+2.3
+4.1
+-2.1
+-2.9
+
+2.8
+2.3
+4.1
+-2.2
+-2.8
+
+Sources: FY 2009 Budget (February 4, 2008); and Fund staff estimates.
+1/ Staff projections are based on the Administration's estimates adjusted for: differences in macroeconomic projections;
+staff estimates of the costs of the war on terror; staff estimates of the cost of the stimulus package; some additional
+nonsecurity discretionary expenditure; additional Medicare spending; and continued AMT relief beyond FY2008.
+PRAs are also assumed not to be introduced.
+2/ As a percent of potential GDP, based on proposed measures, under IMF staff's economic
+assumptions. Also incorporates CBO adjustments for one-off items.
+3/ Calendar year, on a national accounts basis. The projections use Fund staff budget and economic assumptions.
+
+47
+Appendix Figure 1. United States: Net Foreign Asset Sustainability: Bound Tests 1/
+(Net foreign assets in percent of GDP)
+
+-10
+
+Interest rate shock (in percent)
+
+Baseline and historical scenarios
+
+-10
+
+-15
+
+-15
+
+-20
+
+-20
+
+-25
+-30
+
+-25
+
+Historical
+
+Baseline
+
+Baseline
+
+-32
+-32
+
+-35
+
+-40
+2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013
+
+Growth shock (in percent per year)
+
+-20
+
+Baseline:
+Scenario:
+Historical:
+
+-25
+
+2.6
+2.0
+2.9
+
+-35
+
+-32
+
+Non-interest current account shock
+(in percent of GDP)
+Baseline:
+
+-4.6
+
+Scenario:
+Historical:
+
+-5.3
+-4.9
+
+-25
+Baseline
+
+-32
+
+-40
+
+-32
+
+-30
+-35
+
+Current
+account shock
+
+-35
+
+-40
+
+2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013
+
+-10
+
+Interest rate
+shock
+
+-40
+2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013
+
+-20
+
+-32
+Growth shock
+
+-35
+
+-15
+
+Baseline
+
+-30
+
+-32
+
+-30
+
+-10
+
+-10
+-15
+
+Baseline: 4.9
+Scenario: 5.3
+Historical: 4.1
+
+Combined shock 2/
+
+2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013
+
+-10
+
+-15
+
+-15
+
+-20
+
+-20
+
+-25
+
+-25
+
+Real depreciation shock 3/
+
+30 percent
+depreciation
+-25
+
+Baseline
+
+-30
+-35
+
+Combined
+shock
+
+-32
+
+-30
+
+-34
+
+-35
+
+Baseline
+-32
+
+-40
+2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013
+
+-40
+2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013
+
+Source: Fund staff estimates.
+1/ Shaded areas represent actual data. Individual shocks are permanent one-half standard deviation shocks.
+Figures in the boxes represent average projections for the respective variables in the baseline and scenario being
+presented. Ten-year historical average for the variable is also shown.
+2/ Permanent 1/4 standard deviation shocks applied to real interest rate, growth rate, and current account
+balance.
+3/ One-time real depreciation of 30 percent occurs in 2009.
+
+48
+Appendix Figure 2. United States: Public Debt Sustainability: Bound Tests 1/
+(Public debt in percent of GDP)
+Baseline and historical scenarios
+
+Real interest rate shock (in percent)
+
+70
+65
+60
+
+35 70
+Gross financing need under
+baseline (right scale)
+Baseline
+
+30
+
+Historical
+
+55
+50
+
+65
+60
+
+55
+
+25
+
+48
+
+20 50
+
+45
+40
+35
+
+40
+
+70
+
+65
+
+65
+
+No policy change
+Growth
+shock
+
+60
+55
+
+Baseline
+
+50
+
+59
+
+55
+
+60
+
+Baseline: 2.6
+
+45
+
+Scenario: 2.1
+
+40
+
+Historical: 2.9
+
+67
+PB shock
+
+62
+
+55
+50
+
+Baseline
+
+55
+
+Baseline: 0.0
+Scenario: -1.4
+Historical: 1.3
+
+35
+
+35
+2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013
+
+2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013
+
+Real depreciation and contingent liabilities shocks 3/
+
+Combined shock 2/
+70
+
+70
+
+65
+
+65
+Combined
+shock
+
+60
+60
+
+55
+50
+
+Baseline: 3.1
+Scenario: 3.8
+Historical: 3.4
+
+Primary balance shock (in percent of GDP) and
+no policy change scenario (constant primary balance)
+
+70
+
+60
+
+55
+
+2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013
+
+Growth shock (in percent per year)
+
+40
+
+Baseline
+
+10 35
+
+2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013
+
+45
+
+57
+
+55
+
+45
+15
+
+Interest rate
+shock
+
+55
+Baseline
+
+Contingent
+liabilities
+shock
+
+55
+
+55
+50
+
+45
+
+45
+
+40
+
+40
+
+35
+
+35
+
+2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013
+
+65
+
+Baseline
+30 percent
+depreciation
+
+2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013
+
+Source: Fund staff estimates.
+1/ Shaded areas represent actual data. Individual shocks are permanent one-half standard deviation shocks.
+Figures in the boxes represent average projections for the respective variables in the baseline and scenario being
+presented. Ten-year historical average for the variable is also shown.
+2/ Permanent 1/4 standard deviation shocks applied to real interest rate, growth rate, and primary balance.
+3/ One-time real depreciation of 30 percent and 10 percent of GDP shock to contingent liabilities occur in 2009,
+with real depreciation defined as nominal depreciation (measured by percentage fall in dollar value of local
+currency) minus domestic inflation (based on GDP deflator).
+
+3.6
+2.9
+3.5
+14.0
+16.7
+-5.9
+
+-197.7
+
+-0.1
+5.4
+5.9
+5.2
+9.9
+15.1
+0.6
+-0.6
+0.7
+0.5
+5.3
+
+-19.6
+
+2004
+
+3.1
+3.2
+4.0
+10.6
+12.8
+-6.4
+
+-174.4
+
+1.6
+6.0
+6.4
+5.7
+10.3
+16.0
+0.4
+-0.7
+0.6
+0.6
+7.6
+
+-18.0
+
+Actual
+2005
+
+2.9
+3.2
+4.5
+13.5
+10.8
+-6.4
+
+-174.3
+
+-1.2
+6.1
+6.4
+5.7
+11.0
+16.8
+0.3
+-0.8
+0.5
+0.6
+4.9
+
+-19.2
+
+2006
+
+2.2
+2.7
+4.5
+13.0
+6.1
+-5.9
+
+-175.4
+
+-1.6
+5.8
+5.9
+5.1
+11.9
+16.9
+0.1
+-0.8
+0.4
+0.5
+4.2
+
+-20.9
+
+2007
+
+1.3
+2.4
+3.8
+15.2
+12.0
+-5.9
+
+-23.4
+
+-177.2
+
+-2.5
+5.9
+5.9
+5.1
+13.2
+18.3
+0.0
+-0.8
+0.3
+0.5
+3.4
+
+-23.4
+
+2008
+
+0.8
+2.0
+3.8
+9.8
+4.3
+-5.2
+
+-25.2
+
+-184.2
+
+-2.6
+5.4
+5.2
+4.5
+14.1
+18.6
+-0.2
+-0.9
+0.2
+0.5
+2.9
+
+-25.9
+
+2009
+
+3.0
+2.2
+4.9
+9.1
+6.1
+-4.8
+
+-27.1
+
+-190.8
+
+-1.9
+4.7
+4.8
+4.1
+14.6
+18.7
+0.1
+-1.2
+0.7
+0.5
+2.8
+
+-27.8
+
+2010
+
+3.5
+2.2
+5.2
+9.3
+7.2
+-4.6
+
+-28.7
+
+-194.1
+
+-1.4
+4.4
+4.6
+3.9
+15.1
+18.9
+0.2
+-1.4
+0.9
+0.6
+3.0
+
+-29.2
+
+3.0
+2.2
+5.3
+8.8
+6.7
+-4.3
+
+-30.3
+
+-196.3
+
+-1.3
+4.3
+4.3
+3.6
+15.6
+19.2
+0.0
+-1.5
+0.8
+0.6
+3.0
+
+-30.6
+
+Projections
+2011
+2012
+
+2.6
+2.2
+5.3
+8.1
+6.1
+-4.1
+
+-31.9
+
+-197.5
+
+-1.2
+4.2
+4.1
+3.4
+16.1
+19.5
+-0.2
+-1.6
+0.8
+0.6
+3.1
+
+-0.4
+
+NFA-stabilizing
+non-income
+current account 5/
+-31.7
+0.2
+
+2013
+
+1/ Derived as [r - g - ρ(1+g) + εα(1+r)]/(1+g+ρ+gρ) times previous period debt stock, with r = nominal effective interest rate on external debt; ρ = change in domestic GDP deflator in US dollar terms, g = real GDP growth rate,
+ε = nominal appreciation (increase in dollar value of domestic currency), and α = share of domestic-currency denominated debt in total external debt.
+2/ The contribution from price changes is defined as [-ρ(1+g)]/(1+g+ρ+gρ) times previous period debt stock. ρ increases with a rising GDP deflator.
+3/ Line includes the impact of exchange rate changes.
+4/ The key variables include real GDP growth; nominal interest rate; dollar deflator growth; and both non-interest current account and non-debt inflows in percent of GDP.
+5/ Long-run, constant balance that stabilizes the net foreign asset ratio assuming that key variables (real GDP growth, nominal interest rate, dollar deflator growth, and non-debt inflows in percent of GDP) remain at their levels
+of the last projection year.
+
+Real GDP growth (in percent)
+GDP deflator in US dollars (change in percent)
+Nominal external interest rate (in percent)
+Growth of exports (US dollar terms, in percent)
+Growth of imports (US dollar terms, in percent)
+Current account balance, excluding interest payments
+
+Key Macroeconomic Assumptions Underlying Baseline
+2.5
+2.1
+3.1
+4.4
+8.3
+-5.2
+
+-210.3
+
+Net foreign liabilities-to-exports ratio (in percent)
+
+Scenario with key variables at their historical averages 4/
+
+0.4
+4.9
+5.2
+4.5
+9.3
+13.8
+0.3
+-0.6
+0.5
+0.4
+5.3
+
+-19.5
+
+2 Change in net foreign asset position
+3 Identified external liability-creating flows (4+8)
+4
+Current account deficit excluding income flows
+5
+Deficit in balance of goods and services
+6
+Exports
+7
+Imports
+8
+Automatic debt dynamics 1/
+9
+Contribution from nominal interest rate
+10
+Contribution from real GDP growth
+11
+Contribution from price changes 2/
+12 Residual (2-3) 3/
+
+1 Baseline: Net Foreign Asset Position
+
+2003
+
+(In percent of GDP, unless otherwise indicated)
+
+Appendix Table 1. United States: Net Foreign Asset Position Sustainability Framework, 2003–2013
+
+49
+
+3.6
+4.8
+1.9
+0.0
+2.9
+2.8
+1.7
+
+25.3
+2962.3
+
+153.3
+
+1.7
+1.0
+1.7
+28.1
+29.8
+-0.7
+-0.7
+0.7
+-1.4
+0.0
+0.0
+0.0
+0.0
+0.0
+0.7
+
+43.1
+0.0
+
+2004
+
+3.1
+4.9
+1.7
+0.0
+3.2
+3.4
+0.8
+
+23.9
+2975.9
+
+150.4
+
+0.7
+0.2
+0.8
+29.1
+29.9
+-0.6
+-0.6
+0.6
+-1.2
+0.0
+0.0
+0.0
+0.0
+0.0
+0.5
+
+43.8
+0.0
+
+Actual
+2005
+
+2.9
+4.9
+1.8
+0.0
+3.2
+2.7
+-0.2
+
+21.5
+2839.3
+
+143.9
+
+-0.5
+-0.7
+-0.2
+30.1
+29.9
+-0.5
+-0.5
+0.7
+-1.2
+0.0
+0.0
+0.0
+0.0
+0.0
+0.2
+
+43.3
+0.0
+
+2006
+
+2.2
+5.1
+2.4
+0.0
+2.7
+4.2
+-0.2
+
+21.4
+2956.1
+
+143.1
+
+0.6
+-0.2
+-0.2
+30.7
+30.4
+0.1
+0.1
+1.0
+-0.9
+0.0
+0.0
+0.0
+0.0
+0.0
+0.8
+
+43.9
+0.0
+
+2007
+
+1.3
+5.0
+2.6
+...
+2.4
+3.4
+1.3
+
+47.1
+47.1
+
+23.2
+3335.6
+
+158.1
+
+3.2
+1.8
+1.3
+29.8
+31.1
+0.5
+0.5
+1.1
+-0.6
+...
+0.0
+0.0
+0.0
+0.0
+1.4
+
+47.1
+0.0
+
+2008
+
+0.8
+5.0
+3.0
+...
+2.0
+2.5
+1.0
+
+47.3
+52.3
+
+23.8
+3514.8
+
+165.1
+
+3.3
+2.0
+1.0
+30.5
+31.6
+1.0
+1.0
+1.4
+-0.4
+...
+0.0
+0.0
+0.0
+0.0
+1.3
+
+50.4
+0.0
+
+2009
+
+3.0
+5.1
+3.0
+...
+2.2
+0.8
+0.3
+
+47.5
+55.6
+
+23.7
+3687.6
+
+170.3
+
+1.6
+0.3
+0.3
+30.5
+30.9
+-0.1
+-0.1
+1.4
+-1.5
+...
+0.0
+0.0
+0.0
+0.0
+1.3
+
+52.0
+0.0
+
+3.5
+5.2
+3.0
+...
+2.2
+1.9
+-0.1
+
+47.7
+58.7
+
+23.7
+3904.5
+
+174.1
+
+1.0
+-0.3
+-0.1
+30.4
+30.4
+-0.3
+-0.3
+1.4
+-1.7
+...
+0.0
+0.0
+0.0
+0.0
+1.3
+
+53.0
+0.0
+
+Projections
+2010
+2011
+
+3.0
+5.3
+3.1
+...
+2.2
+1.9
+-0.5
+
+47.9
+62.1
+
+23.8
+4114.4
+
+176.4
+
+0.8
+-0.5
+-0.5
+30.5
+30.0
+0.0
+0.0
+1.5
+-1.5
+...
+0.0
+0.0
+0.0
+0.0
+1.3
+
+53.8
+0.0
+
+2012
+
+2.6
+5.3
+3.1
+...
+2.2
+1.9
+-0.7
+
+48.2
+65.9
+
+24.0
+4352.6
+
+179.4
+
+0.9
+-0.4
+-0.7
+30.5
+29.8
+0.3
+0.3
+1.6
+-1.3
+...
+0.0
+0.0
+0.0
+0.0
+1.3
+
+54.7
+0.0
+
+2013
+
+1/ General government net debt.
+2/ Derived as [(r - π(1+g) - g + αε(1+r)]/(1+g+π+gπ)) times previous period debt ratio, with r = interest rate; π = growth rate of GDP deflator; g = real GDP growth rate; α = share of foreign-currency
+denominated debt; and ε = nominal exchange rate depreciation (measured by increase in local currency value of U.S. dollar).
+3/ The real interest rate contribution is derived from the denominator in footnote 2/ as r - π (1+g) and the real growth contribution as -g.
+4/ The exchange rate contribution is derived from the numerator in footnote 2/ as αε(1+r).
+5/ For projections, this line includes exchange rate changes.
+6/ Defined as public sector deficit, plus amortization of medium and long-term public sector debt, plus short-term debt at end of previous period.
+7/ The key variables include real GDP growth; real interest rate; and primary balance in percent of GDP.
+8/ Derived as nominal interest expenditure divided by previous period gross debt stock.
+9/ Assumes that key variables (real GDP growth, real interest rate, and other identified debt-creating flows) remain at the level of the last projection year.
+
+Real GDP growth (in percent)
+Average nominal interest rate on public debt (in percent) 8/
+Average real interest rate (nominal rate minus change in GDP deflator, in percent)
+Nominal appreciation (increase in US dollar value of local currency, in percent)
+Inflation rate (GDP deflator, in percent)
+Growth of real primary spending (deflated by GDP deflator, in percent)
+Primary deficit
+
+Key Macroeconomic and Fiscal Assumptions Underlying Baseline
+2.5
+5.1
+3.0
+0.0
+2.1
+4.9
+2.1
+
+25.1
+2746.2
+
+Scenario with key variables at their historical averages 7/
+Scenario with no policy change (constant primary balance) in 2006-2011
+
+148.0
+
+Gross financing need 6/
+in billions of U.S. dollars
+
+2.9
+2.2
+2.1
+28.0
+30.0
+0.2
+0.2
+1.1
+-0.9
+0.0
+0.0
+0.0
+0.0
+0.0
+0.7
+
+41.4
+0.0
+
+Public sector debt-to-revenue ratio 1/
+
+2 Change in public sector debt
+3 Identified debt-creating flows (4+7+12)
+4 Primary deficit
+5
+Revenue and grants
+6
+Primary (noninterest) expenditure
+7 Automatic debt dynamics 2/
+8
+Contribution from interest rate/growth differential 3/
+9
+Of which contribution from real interest rate
+10
+Of which contribution from real GDP growth
+11
+Contribution from exchange rate depreciation 4/
+12 Other identified debt-creating flows
+13
+Privatization receipts (negative)
+14
+Recognition of implicit or contingent liabilities
+15
+Other (specify, e.g. bank recapitalization)
+16 Residual, including asset changes (2-3) 5/
+
+1 Baseline: Public sector debt 1/
+o/w foreign-currency denominated
+
+2003
+
+(In percent of GDP, unless otherwise indicated)
+
+Appendix Table 2. United States: Public Sector Debt Sustainability Framework, 2002–2012
+
+0.2
+1.2
+
+Debt-stabilizing
+primary
+deficit 9/
+0.3
+
+50
+
+INTERNATIONAL MONETARY FUND
+UNITED STATES
+United States 2008 Article IV Consultation Staff Report—Informational Annex
+Prepared by Western Hemisphere Department
+July 21, 2008
+
+Contents
+
+Page
+
+I. Fund Relations ................................................................................................................2
+II. Statistical Issues ..............................................................................................................4
+
+2
+Annex I. United States: Fund Relations
+(As of May 31, 2008)
+
+I.
+
+II.
+
+Membership Status: Joined 12/27/45; Article VIII
+
+General Resources Account:
+Quota
+Fund holdings of currency
+Reserve position in Fund
+
+III.
+
+SDR Department:
+Net cumulative allocation
+Holdings
+
+IV.
+
+Outstanding Purchases and Loans: None
+
+V.
+
+Financial Arrangements: None
+
+VI.
+
+Projected Obligations to Fund: None
+
+SDR Million
+37,149.30
+33,994.85
+3,153.63
+
+Percent
+Quota
+100.0
+91.5
+8.5
+
+SDR Million
+4,899.53
+6,029.04
+
+Percent
+Allocation
+100.0
+123.1
+
+VII. Exchange Rate Arrangements: The exchange rate of the U.S. dollar floats
+independently and is determined freely in the foreign exchange market.
+VIII. Payments Restrictions: The United States maintains restrictions on payments and
+transfers for current international transactions to the Balkans, Belarus, Cote d’Ivoire, Cuba,
+Democratic People’s Republic of Korea, Iraq, Islamic Republic of Iran, Liberia, Myanmar,
+Sudan, Syrian Arab Republic, and Zimbabwe and has notified the Fund of these restrictions
+under Decision No. 144–(52/51). The United States restricts the sale of arms and petroleum
+to the National Union for the Total Independence of Angola (UNITA) and to the territory of
+Angola and has prohibitions against transactions with international narcotics traffickers. The
+United States notified the Fund under Decision No. 144–(52/51) on August 2, 1995 of the
+imposition of further restrictions on current transactions with Islamic Republic of Iran. On
+March 21, 2002, the United States notified the Fund of exchange restrictions related to the
+financing of terrorism. The United States notified the Fund under the Framework of Decision
+144 of the imposition of two additional exchange restrictions solely for the preservation of
+national and international security in March 2007 (EBD/07/34, 3/19/07): (i) the blocking of
+property of and prohibiting transactions with the Government of Sudan and prohibiting
+transactions with the petroleum and petrochemical industries in Sudan and (ii) the blocking
+
+3
+of property of certain persons contributing to the conflict in the Democratic Republic of
+Congo.
+IX.
+Article IV Consultation. The 2007 Article IV consultation was concluded in
+July 2007 and the Staff Report was published as IMF Country Report 07/264. A fiscal ROSC
+was completed in the context of the 2003 consultation.
+The 2008 Article IV discussions were conducted from April 28-June 17. Concluding
+meetings with Chairman Bernanke of the Board of Governors of the Federal Reserve System
+and Treasury Secretary Paulson occurred on June 16 and 17. A press conference on the
+consultation was held on June 20. The team comprised R. Teja (Head), T. Bayoumi, M.
+Estevão, R. Balakrishnan, V. Klyuev, K. Mathai, and H. Tong (all WHD); A. Bhatia, C.
+Capuano, J. Kiff, and P. Mills (all MCM); and J. Hallaert (PDR). Ms. Lundsager (Executive
+Director), Mr. Heath (Alternate Executive Director), and Mr. Lin (Advisor) attended some of
+the meetings. Outreach included discussions with the private sector and think tanks. The
+authorities have agreed to the publication of the staff report.
+
+4
+Annex II. Statistical Issues
+Statistical Issues: Comprehensive economic data are available for the United States on a
+timely basis. The quality, coverage, periodicity, and timeliness of U.S. economic data are
+adequate for surveillance. Coverage of international capital flows in external sector statistics
+has been improved, with the June 2007 releases of BOP and IIP data on financial derivatives.
+The United States has subscribed to the Special Data Dissemination Standard (SDDS) and its
+metadata are posted on the Dissemination Standard Bulletin Board (DSBB).
+United States: Table of Common Indicators Required for Surveillance
+(As of June 13, 2008)
+
+Exchange rates
+International reserve assets and reserve
+1
+liabilities of the monetary authorities
+Reserve/base money
+Broad money
+Central bank balance sheet
+2
+Interest rates
+Consumer price index
+Revenue, expenditure, balance and
+3
+composition of financing – general
+4
+government
+Revenue, expenditure, balance and
+3
+composition of financing – central
+government
+Stocks of central government and central
+government-guaranteed debt
+External current account balance
+Exports and imports of goods and
+services
+GDP/GNP
+Gross External Debt
+International Investment Position
+1
+
+5
+
+Date of
+latest
+observation
+
+Date
+received
+
+Frequency
+6
+of data
+
+Frequency
+6
+of reporting
+
+Frequency
+of
+6
+publication
+
+same day
+Jun. 6
+
+same day
+Jun. 12
+
+D
+W
+
+D
+W
+
+D
+W
+
+Jun. 4
+Jun. 2
+Jun. 11
+same day
+May 2008
+2008 Q1
+
+Jun. 12
+Jun. 12
+Jun. 12
+same day
+Jun. 13
+Jun. 5
+
+B
+W
+W
+D
+M
+Q
+
+W
+W
+W
+D
+M
+Q
+
+W
+W
+W
+D
+M
+Q
+
+May 2008
+
+Jun. 11
+
+M
+
+M
+
+M
+
+May 2008
+
+Jun. 11
+
+M
+
+M
+
+M
+
+2007 Q4
+Apr. 2008
+
+Mar. 17
+Jun. 10
+
+Q
+M
+
+Q
+M
+
+Q
+M
+
+2008 Q1
+2007 Q4
+2006
+
+May 30
+Mar. 28
+Jul. 9,
+2007
+
+Q
+Q
+A
+
+M
+Q
+A
+
+M
+Q
+A
+
+Includes reserve assets pledged or otherwise encumbered as well as net derivative positions.
+Both market-based and officially-determined, including discount rates, money market rates, rates on treasury bills, notes
+and bonds.
+3
+Foreign, domestic bank, and domestic nonbank financing.
+4
+The general government consists of the central government (budgetary funds, extra budgetary funds, and social security
+funds) and state and local governments.
+5
+Includes external gross financial asset and liability positions vis-à-vis nonresidents.
+6
+Daily (D), Weekly (W), Biweekly (B), Monthly (M), Quarterly (Q), Annually (A); NA: Not Available.
+2
+
+INTERNATIONAL MONETARY FUND
+UNITED STATES
+Staff Report for the 2008 Article IV Consultation—Supplement on
+Government-Sponsored Enterprises
+Prepared by the Western Hemisphere Department
+(In consultation with other departments)
+Approved by Anoop Singh and Adnan Mazarei
+July 18, 2008
+Recent problems at Fannie Mae and Freddie Mac illustrate that the dynamic interactions
+between the financial sector and housing cycles highlighted in the staff report, and the knock
+on effects on overall activity, have yet to fully play out. As such, the thrust of the staff
+appraisal remains unchanged.
+1.
+Recent severe market pressures forced a rescue of Fannie Mae and Freddie
+Mac, including access to Fed loans and a request to Congress for direct government
+support. The dramatic loss in confidence in the two main housing government-sponsored
+enterprises (GSEs) was triggered by reports suggesting that accounting rule changes could
+take around $75 billion off Fannie and Freddie’s capital. Whatever the merits of the analysis,
+the market response reflects underlying concerns over the GSEs’ capital cushions in the face
+of falling house prices—not subprime mortgages—and political pressure to increase their
+exposure to the housing bust. These come on top of long-standing concerns about an
+inadequate regulatory regime. On July 13 the Treasury proposed to eliminate the existing
+$4½ billion cap on its lending authority to the GSEs and to gain permission to buy equity. In
+the interim, the Fed’s balance sheet is now available through collateralized borrowing to
+provide a liquidity backstop to calm market fears.
+2.
+As with Bear Stearns, the final
+outcome of the weekend rescue is likely to
+be that equity holders lose money but debt
+holders will be protected. The GSEs’ equity
+prices fell by 80 percent in the week before
+the announcement and—with naked short
+selling of their securities suspended—remain
+around this level. Auctions of GSE bonds,
+however, are proceeding smoothly and their
+spread over Treasuries is stable. With markets
+concluding that the implicit government
+guarantee of debt is real, the GSEs should
+continue to function fairly normally.
+
+Financial Sector Equity Prices
+120
+
+120
+
+Index (July 2, 2007=100)
+
+100
+
+100
+
+80
+
+80
+
+60
+
+60
+
+40
+
+40
+
+S&P 500
+S&P 500 financials
+
+20
+
+20
+
+Fannie Mae
+
+0
+Jul-07
+
+Freddie Mac
+Oct-07
+
+Jan-08
+
+Source: Bloomberg, L.P.
+
+0
+Apr-08
+
+Jul-08
+
+2
+3.
+With banks also being pressured
+by housing woes, the deterioration in
+overall financial conditions is broadly
+consistent with the staff’s financial
+forecast. Reflecting these pressures, a retail
+deposit run on IndyMac bank, a large
+Californian mortgage specialist, led to its
+intervention by federal regulators—the third
+biggest depository failure in U.S. history.
+The CDS spreads of large commercial and
+investment banks have also widened
+significantly, with those of Lehman Brothers
+and Wachovia close to or above levels at the
+time of the Bear Stearns crisis. More
+generally, interbank spreads remain elevated,
+the yield curve has steepened, and the highyield spread has widened close to the levels
+typical of a recession.
+
+Investment Bank Credit Default Swap Spreads
+800
+700
+
+800
+Five-year CDS spread
+(basis points)
+
+700
+
+Bear Stearns
+
+600
+
+600
+
+Goldman Sachs
+Lehman Brothers
+
+500
+
+500
+
+Merrill Lynch
+400
+
+400
+
+Morgan Stanley
+
+300
+
+300
+
+200
+
+200
+
+100
+
+100
+
+0
+Jul-07
+
+0
+Oct-07
+
+Jan-08
+
+Apr-08
+
+Jul-08
+
+Source: Bloomberg, L.P.
+Commercial Bank Credit Default Swap Spreads
+400
+350
+300
+250
+
+400
+Five-year CDS spread
+(basis points)
+Bank of America
+Citibank
+J.P. Morgan Chase
+
+350
+300
+250
+
+4.
+Given the two GSEs’ systemic and
+Wachovia Bank
+200
+200
+Wells Fargo
+global importance (Box 1), staff support
+150
+150
+the rescue, but existing shareholders
+should take major losses. The authorities
+100
+100
+have stressed that they aim to keep these
+50
+50
+institutions as shareholder-owned entities.
+0
+0
+One way forward would be government
+Jul-07
+Oct-07
+Jan-08
+Apr-08
+Jul-08
+assumption of temporary control through
+Source: Bloomberg, L.P.
+issuance of preferred equity that dilutes
+current shareholders. Passing the improved regulatory regime—including receivership—
+already in the proposed housing bill should also be a priority, as discussed in the staff report.
+Consideration of this bill has been delayed to allow inclusion of requested provisions for the
+government to provide direct support to the GSEs.
+5.
+The long-term role of Fannie and Freddie will need to be rethought, with staff
+contributing via next year’s Financial Sector Assessment Program. The tension has
+always been that cheap funding from the assumed government guarantee allowed the GSEs
+to benefit their shareholders by expanding their portfolios while exposing taxpayers to risk.
+One approach would be to break them into entities small enough to be allowed to fail,
+removing their special charters and the presumption of government backing. Alternatively,
+Chairman Bernanke has suggested that they could be kept in their current form—presumably
+with strict prudential oversight and portfolio limits to constrain their benefit from cheap
+funding. In any case, as discussed in the staff report, they should be regulated like private
+institutions to ensure supervisory consistency.
+
+3
+Box 1. Fannie Mae and Freddie Mac: A Primer
+These GSEs have long been seen as “too big to fail”—they hold or guarantee about half
+of U.S. residential mortgages, their securities widely serve as collateral, and their
+derivatives activity is extensive (see Figure).
+Congress created these GSEs to support reliable and affordable mortgage financing,
+limiting their guarantees to conforming mortgages (with ceilings on size and risk).
+With their private ownership and public mission involving Congressional oversight,
+markets have long assumed that they enjoy an implicit government guarantee, although
+the U.S. authorities have consistently denied this. The belief stems from their size and
+unique charters that include credit lines from the Treasury, privileged bank regulatory
+treatment of their bonds, and a weak supervisor with only conservatorship (going concern)
+not receivership (closure) authority.
+Fannie and Freddie, which are highly leveraged, bear the largest exposures to U.S.
+housing-related credit risk. Their combined balance-sheet size was about $1½ trillion at
+end-2007 and the GSEs
+GSE statistics, end-2007
+have guaranteed a further
+Percent of
+Percentage of
+$4¼ trillion. Almost oneUSD trillion
+U.S. GDP U.S. mortgages
+fifth of total agency
+Housing market
+Owned
+1.4
+10.4
+12.9
+issued debt and
+Guaranteed
+4.2
+30.1
+37.3
+guaranteed securities are
+Financial markets
+held abroad. Reflecting
+Debt outstanding
+1.5
+11.1
+13.8
+the traditional riskMBS guaranteed
+4.2
+30.1
+37.3
+insensitivity of their
+Total held abroad
+1.5
+10.8
+13.4
+funding costs and
+0.08
+0.6
+0.7
+Core capital
+relatively loose regulatory Sources: Federal Reserve Board; OFHEO; Fannie Mae; Freddie Mac; and staff calculations.
+requirements, their equity capital to total assets has generally stood at 3-4 percent, similar
+to that at the large U.S. investment banks, but about half of comparable ratios at
+U.S. commercial banks.
+In addition to credit risk, the two enterprises also have large exposures to market
+risk and play a systemic role in derivatives markets. The mortgage guarantees pose
+credit and reputational risk, while the investment portfolios run the gamut of credit,
+interest rate, prepayment, and pricing risk. They are also key players in the OTC interest
+rate derivatives markets as they seek to hedge interest rate and prepayment risks using
+swaps and options on swaps (swaptions).
+Reflecting their privileged position, the two GSEs were able until recently to raise
+equity capital cheaply and to produce high returns for their shareholders. The
+implicit guarantee kept the borrowing cost just above that on Treasury securities, even as
+the low capital requirement allowed the GSEs to boost their portfolios. Large exposure to
+mortgages and a thin capital cushion is at the root of market concerns about GSE solvency
+as the housing crisis has led to a rise in defaults, including on prime mortgages.
+
+4
+The Housing GSEs in Perspective
+9
+8
+7
+6
+
+Fannie and Freddie are highly leveraged ...
+Liabilities and capital structure, end-2007
+(trillion U.S. dollars)
+Credit guarantees off-balance sheet
+Total liabilities on-balance sheet
+Equity capital
+Equity/Total assets (%)
+Equity/Assets incl. off-bal. sht. (%)
+
+9
+
+7
+
+4
+
+4
+
+3
+
+3
+
+2
+
+2
+
+1
+
+1
+0
+
+0
+
+5
+
+4
+
+5-largest investment
+banks
+
+80
+
+5-largest BHCs
+
+Core U.S. financial intermediaries rely on GSE debt
+as collateral in repos with liquidity-rich investors ...
+Treasury and GSE debt by holder, end-March 2008
+(trillion U.S. dollars)
+
+Freddie Mac
+60
+
+60
+
+Fannie Mae
+
+40
+
+40
+
+20
+
+20
+
+0
+1990
+
+1993
+
+1996
+
+1999
+
+2002
+
+2005
+
+0
+2008 Q1
+
+... with small and midsize institutions particularly
+heavily exposed to the GSEs.
+5
+
+1,000
+
+160
+
+Commercial bank holdings of GSE debt,
+end-March 2008
+4
+
+Treasuries
+
+80
+
+Other
+
+6
+5
+
+100
+
+Residential mortgages outstanding by
+holder/guarantor (percent of GDP)
+
+8
+
+5
+
+Fannie & Freddie
+
+100
+
+... and own or guarantee a large and growing
+share of the U.S. residential mortgage market.
+
+800
+120
+
+GSE debt &MBSs
+3
+
+3
+
+600
+Billion U.S. dollars
+
+2
+
+2
+
+400
+
+1
+
+1
+
+200
+
+0
+
+0
+
+0
+Core U.S. financial
+system
+
+U.S. investors
+
+7
+6
+
+All banks
+
+...especially in Asia.
+Foreign agency holdings
+(percent of total foreign)
+
+8
+7
+
+Held domestically
+
+24
+
+Held abroad
+
+6
+
+5
+
+5
+
+4
+
+4
+
+3
+
+3
+
+2
+
+2
+
+1
+
+1
+
+0
+
+0
+Treasuries
+
+0
+Small banks Midsize banks Large banks
+
+Agency debt is also an important component of
+foreign securities holdings...
+8
+
+Percent of equity
+(right scale)
+40
+
+Rest of world
+
+Treasury and Agency debt/guaranteed securities
+(trillion U.S. dollars)
+
+80
+
+Agencies
+
+31
+
+China
+Japan
+Other East Asia
+Other advanced
+All other
+
+17
+
+18
+10
+
+Sources: Board of Governors of the Federal Reserve; Office of Federal Housing Enterprise Oversight; Haver
+Analytics; and Fund staff estimates.
+
+5
+6.
+Systemic risks from the GSEs have long been a well understood problem and
+key policy issue, but political consensus in Congress has been elusive. The Treasury, Fed,
+and Fund have repeatedly emphasized the topic over many years (Box 2).
+Box 2. Staff’s Analysis of Fannie Mae and Freddie Mac
+Staff reports since 2003 have consistently stressed that, in view of Fannie Mae and
+Freddie Mac’s systemic importance, there is a need to monitor closely their risk
+management and accounting practices and reform their regulation. More specifically:
+•
+
+Size of portfolios. Staff have supported proposals by the Treasury and the Fed to
+cap these enterprises’ portfolios, to restore their focus on securitization of
+conforming mortgages, and to limit their special status, to discourage the market
+perception of an implicit government guarantee of their liabilities.
+
+•
+
+Interest and mortgage prepayment risk. Staff have also repeatedly observed that
+the growth of these institutions has concentrated interest rate and mortgage
+prepayment risk, with the attendant hedging operations also leading to
+concentration in some derivative markets.
+
+•
+
+Overhauling the supervisory arrangement. The staff have strongly backed
+Treasury proposals to create a new regulator with full powers to set risk-based
+capital requirements, to design stress tests, and to place a housing GSE into
+receivership in the event of a financial insolvency.
+
+Public Information Notice (PIN) No. 08/95
+FOR IMMEDIATE RELEASE
+July 30, 2008
+
+International Monetary Fund
+700 19th Street, NW
+Washington, D. C. 20431 USA
+
+IMF Executive Board Concludes 2008 Article IV Consultation with the
+United States
+On July 23, 2008, the Executive Board of the International Monetary Fund (IMF) concluded the
+Article IV consultation with the United States. 1
+Background
+Problems in the housing and financial markets over the past year have combined to slow the
+U.S. economy substantially. As the residential investment downturn accelerated and national
+indices of house prices started falling, mortgage defaults rose sharply, and bank losses
+mounted. Increased uncertainty about counterparty creditworthiness triggered a full-blown
+liquidity and credit crisis late last summer, and credit spreads widened. As banks’ balance
+sheets deteriorated, lending standards that had supported the earlier housing boom were
+rapidly tightened, and a deleveraging cycle began, impairing the extension of credit to the real
+economy. With consumption and construction weakening in the face of falling house prices,
+higher oil prices, and tighter credit, the economy has increasingly been supported by net
+exports. Headline inflation, as well as near-term inflation expectations, have been pushed up
+recently by surging commodity prices, but growing slack has for now kept a lid on core inflation
+and wage demands.
+Policymakers have responded aggressively to these developments. The Fed cut the federal
+funds rate target by 325 basis points over just eight months, facilitated JP Morgan’s takeover of
+1
+
+Under Article IV of the IMF's Articles of Agreement, the IMF holds bilateral discussions with
+members, usually every year. A staff team visits the country, collects economic and financial
+information, and discusses with officials the country's economic developments and policies. On
+return to headquarters, the staff prepares a report, which forms the basis for discussion by the
+Executive Board. At the conclusion of the discussion, the [Managing Director], as Chairman of the
+Board, summarizes the views of Executive Directors, and this summary is transmitted to the
+country's authorities.
+
+2
+Bear Stearns in March, and introduced a variety of innovative liquidity instruments. These
+actions have brought greater liquidity and smoother functioning of financial markets, but overall
+financial conditions have continued to tighten in the face of higher lending standards, falling
+asset prices, and higher risk spreads. Fiscal policy too has been responsive, with a stimulus
+package consisting of targeted tax rebates and investment incentives enacted in January. The
+rebate checks began to arrive at households in late April, providing timely support to the
+economy.
+The international and regional U.S. experience with housing busts suggests that the associated
+recovery is often slow. With the effects of earlier financial tightening yet to feed fully through the
+real economy, real GDP growth is likely to remain below potential through mid-2009. Significant
+uncertainty, however, surrounds this forecast, given the unprecedented nature of the shocks
+that have hit the U.S. economy. Indeed, many other forecasters view the substantial policy
+stimulus and rapid raising of bank capital as being likely to ease financial conditions faster than
+expected in the staff’s baseline, suggesting a recovery could start in the second half of 2008.
+The turmoil unveiled many weaknesses in the current system of financial regulation and
+supervision in the United States. The “originate-to-distribute” model has gone into reverse, and
+assets have returned to banks’ balance sheets, straining bank capital at a time when lax
+mortgage underwriting standards have resulted in substantial losses. The authorities have
+outlined a blueprint for financial regulatory reform that is a solid starting point for discussion.
+The current account deficit has receded from its peak in 2006 on the back of a weakening dollar
+and robust foreign activity, despite pressures from surging oil prices. At unchanged real
+exchange rates, the current account deficit is expected to narrow over the medium term. Staff
+analysis suggests that the dollar is closer to its medium-term equilibrium level, although still on
+the strong side.
+The federal fiscal deficit narrowed substantially in recent years, falling to just above 1 percent of
+GDP in FY 2007. The growth slowdown and stimulus package are expected to lead to a marked
+increase in deficits over the next two years, which should then return to about 2 percent of GDP
+over the medium term. The Administration and Congress share the goal of balancing the budget
+by FY 2012 but neither outlines a complete plan for achieving the goal, as no provision is made
+for war-funding authority beyond FY2009, costs of overriding tighter criteria for the alternative
+minimum tax, or realistic compensation for Medicare providers.
+Executive Board Assessment
+Executive Directors agreed with the thrust of the staff appraisal. Directors noted that the U.S.
+economy and financial system are confronting significant challenges, with understandable
+concerns about their implications for the global economy. The housing correction and the
+broader financial sector turmoil of recent months have weakened household demand and credit
+conditions. With added headwinds from oil prices, the U.S. economy will be notably weaker but
+still register positive growth in 2008, and will recover only gradually in 2009. Although short-term
+inflation expectations have risen somewhat on surging commodity prices, price pressures are
+expected to be contained as commodity prices peak and economic slack rises.
+
+3
+Directors observed that the U.S. economy has shown impressive resilience in the face of an
+unprecedented confluence of shocks, and commended the authorities’ decisive and swift policy
+response. In particular, they welcomed the carefully calibrated and targeted fiscal stimulus, the
+significant easing of monetary policy, and the willingness to introduce innovative mechanisms to
+support market liquidity. While not without risk, these measures have helped support economic
+activity, and played an important role in stabilizing financial markets domestically and globally.
+Looking ahead, Directors cautioned that large uncertainties remain, and that the outlook hinges
+crucially on the evolution of house prices, and the dynamic interaction of financial sector and
+housing cycles, which have still to play out fully. Directors therefore welcomed the authorities’
+commitment to carefully monitor developments and continue to respond as necessary to
+achieve sustainable noninflationary growth and financial stability over the medium term.
+Directors generally agreed that monetary policy should stay on hold for now, unless economic
+and financial conditions deteriorate further. With the real federal funds rate negative, monetary
+policy is already positioned appropriately to respond to recession risks, although the impact is
+being dampened by widening spreads and tighter lending standards. Wage demands remain
+moderate, but there is a risk that elevated headline inflation may seep into inflation
+expectations. Given the high cost of reversing such expectations once they become
+entrenched, most Directors underscored that the bias should be toward a decisive tightening
+once recovery is established and financial conditions ease. At the same time, Directors
+acknowledged that the downside risks to growth still remain large, adding to the complexity of
+monetary policy management at this juncture.
+While fiscal stimulus is providing well-targeted support to aggregate demand at a critical time,
+Directors underscored that medium-term fiscal challenges limit the room for further initiatives.
+Automatic stabilizers should be allowed to operate, and, in the face of looming fiscal challenges
+that require medium-term fiscal consolidation and reform of unsustainable entitlement
+programs, any further fiscal action—were it to become necessary—should focus on direct
+support to housing and financial markets. Directors supported the recent federal backstop to
+Fannie Mae and Freddie Mac, given the systemic importance of these government-sponsored
+enterprises in financial and housing markets. They considered that improvements in the
+regulatory regime of these agencies aimed at better risk management and stricter oversight
+should also be implemented as a priority.
+Directors generally suggested that the government should be prepared to widen support for
+housing and, if serious dislocations reappear, for financial markets, while limiting the cost to the
+government and minimizing moral hazard. Housing prices are continuing to fall, and there is a
+risk that such prices could move significantly below equilibrium, with important macroeconomic
+consequences. With house prices falling rapidly and the inventory-sales ratio at a near-record
+high, there is a role for public policy to overcome coordination difficulties by using Federal
+Housing Administration guarantees to encourage lenders to make voluntary write-downs on
+mortgage principal to new, more affordable loans. Such legislation would ideally also provide
+further incentives for lenders to participate. If major systemic financial disruptions recur, the
+government could support bank liquidity by significantly extending the term of asset swaps.
+While welcoming the recent regulatory and prudential reforms initiated by the authorities,
+
+4
+Directors considered that a comprehensive policy response to improve financial regulation could
+include further consolidation and specialization of regulatory institutions, as well as
+strengthening liquidity requirements and raising capital charges for off-balance sheet lending.
+Directors emphasized that the housing boom has revealed multiple weaknesses in the current
+regulatory system, including the inadequate consumer protection for mortgage borrowers and
+perverse incentives in the securitization chain.
+Directors welcomed the authorities’ intentions to undertake comprehensive reform of the U.S.
+regulatory model, and saw the Treasury Blueprint as a useful starting point. In addition, the
+regulation and supervision of major investment banks and government-sponsored enterprises
+should be improved, and some Directors saw merit in a more consolidated regulatory
+structure—for example, by merging the oversight of investment banks and GSEs with that for
+commercial bank holding companies—although the specific modalities for such improvements
+remain under discussion. The point was made that regulation should yield the benefits of
+broadened oversight of investment banks while preserving the dynamism and flexibility of the
+sector. Regulatory reform could also include further measures to reduce the procyclicality of
+bank lending by augmenting risk-based capital ratios with ancillary measures. Finally, with
+liquidity having emerged as a major and under-emphasized risk, forthcoming recommendations
+from the Basel Committee will also merit early implementation, taking into account U.S.-specific
+nuances. Directors welcomed the authorities’ intention to undertake a Financial Sector
+Assessment Program with the Fund starting in 2009. Directors recognized the importance of
+stronger market discipline, as a complement to regulatory actions.
+Directors noted the staff assessment that the decline in the dollar’s real effective exchange rate
+has moved U.S. competitiveness relatively close to medium-term fundamentals. A number of
+Directors cautioned that tensions remain in the pattern of bilateral adjustment. In particular,
+bilateral rate adjustments have not corresponded to the pattern of imbalances, with larger
+changes against freely floating currencies such as the euro, rather than against currencies of
+countries with large current account surpluses. Directors also reiterated the importance of
+structural reforms in facilitating external adjustment across the main economic areas, as
+envisaged during the Multilateral Consultation on global imbalances. They looked forward to
+continued U.S. leadership in fostering a positive outcome to the Doha Round and in working
+with partners to avoid protectionism in trade and finance.
+
+Public Information Notices (PINs) form part of the IMF's efforts to promote transparency of the IMF's views
+and analysis of economic developments and policies. With the consent of the country (or countries)
+concerned, PINs are issued after Executive Board discussions of Article IV consultations with member
+countries, of its surveillance of developments at the regional level, of post-program monitoring, and of ex post
+assessments of member countries with longer-term program engagements. PINs are also issued after
+Executive Board discussions of general policy matters, unless otherwise decided by the Executive Board in a
+particular case. The staff report (use the free Adobe Acrobat Reader to view this pdf file) for the 2008 Article IV
+Consultation with the United States is also available.
+
+5
+
+United States: Selected Economic Indicators
+(Annual change in percent, unless otherwise indicated)
+
+2004
+
+2005
+
+2006
+
+2.5
+-0.4
+2.8
+2.8
+2.8
+2.5
+3.2
+3.4
+8.4
+2.2
+0.0
+
+3.6
+-0.7
+4.1
+3.8
+3.6
+1.5
+6.1
+7.3
+10.0
+0.9
+0.4
+
+3.1
+-0.2
+3.1
+3.3
+3.2
+0.8
+5.8
+6.9
+6.6
+0.6
+-0.2
+
+2.9
+-0.1
+2.8
+2.7
+3.1
+1.4
+2.6
+2.4
+-4.6
+3.7
+0.1
+
+4.7
+
+6.6
+
+6.4
+
+6.1
+
+4.9
+
+3.7
+
+2.9
+
+6.0
+2.3
+2.1
+
+5.5
+2.7
+2.9
+
+5.1
+3.4
+3.2
+
+4.6
+3.2
+3.2
+
+4.6
+2.9
+2.7
+
+5.4
+3.9
+2.4
+
+6.3
+2.3
+2.0
+
+Fiscal policy indicators
+Unified federal balance (fiscal year, billions of dollars)
+In percent of FY GDP
+General government balance (NIPA, calendar year, billions of dollars)
+In percent of CY GDP
+
+-378
+-3.5
+-530
+-4.8
+
+-413
+-3.6
+-509
+-4.4
+
+-318
+-2.6
+-447
+-3.6
+
+-248
+-1.9
+-345
+-2.6
+
+-162
+-1.2
+-371
+-2.7
+
+-432
+-3.0
+-608
+-4.2
+
+-451
+-3.1
+-603
+-4.1
+
+Balance of payments
+Current account balance (billions of dollars)
+In percent of GDP
+Merchandise trade balance (billions of dollars)
+In percent of GDP
+Invisibles (billions of dollars)
+In percent of GDP
+
+-523
+-4.8
+-551
+-5.0
+27
+0.3
+
+-625
+-5.3
+-670
+-5.7
+45
+0.4
+
+-729
+-5.9
+-787
+-6.3
+58
+0.5
+
+-788
+-6.0
+-838
+-6.4
+50
+0.4
+
+-731
+-5.3
+-819
+-5.9
+88
+0.6
+
+-712
+-5.0
+-890
+-6.2
+178
+1.2
+
+-650
+-4.4
+-849
+-5.7
+199
+1.3
+
+Saving and investment (as a share of GDP)
+Gross national saving
+Gross domestic investment
+
+13.3
+18.4
+
+13.8
+19.4
+
+14.0
+19.9
+
+14.1
+20.0
+
+13.4
+18.7
+
+12.0
+17.2
+
+11.8
+16.2
+
+National production and income
+Real GDP
+Net Exports 1/
+Total domestic demand
+Final domestic demand
+Private final consumption
+Public consumption expenditure
+Gross fixed domestic investment
+Private fixed investment
+Of which: residential structures
+Public fixed investment
+Change in private inventories 1/
+GDP in current prices
+Employment and inflation
+Unemployment rate (percent)
+CPI inflation
+GDP deflator
+
+Sources: IMF staff estimates; and Haver Analytics.
+1/ Contributions to growth.
+2/ As of July 2, 2008.
+
+2007
+
+Projection 2/
+2008 2009
+
+2003
+
+2.2
+1.3
+0.6
+0.9
+1.5
+0.4
+1.8
+0.6
+2.9
+1.4
+1.9
+2.3
+-2.0
+-4.2
+-2.9
+-5.3
+-17.0 -21.3
+2.4
+0.9
+-0.3
+-0.2
+
+0.8
+0.7
+0.1
+0.1
+0.6
+1.9
+-3.7
+-4.9
+-7.0
+1.1
+0.0
+
+

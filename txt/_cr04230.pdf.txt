@@ -1,0 +1,8767 @@
+July 2004
+IMF Country Report No. 04/230
+
+© 2004 International Monetary Fund
+
+[Month, Day], 2001
+[Month, Day], 2001
+
+August 2, 2001
+January 29, 2001
+August 2, 2001
+
+United States: 2004 Article IV Consultation—Staff Report; Staff Supplement; and
+Public Information Notice on the Executive Board Discussion
+Under Article IV of the IMF’s Articles of Agreement, the IMF holds bilateral discussions with
+members, usually every year. In the context of the 2004 Article IV consultation with the
+United States, the following documents have been released and are included in this package:
+•
+
+the staff report for the 2004 Article IV consultation, prepared by a staff team of the IMF,
+following discussions that ended on June 11, 2004, with the officials of the United States on
+economic developments and policies. Based on information available at the time of these
+discussions, the staff report was completed on June 28, 2004. The views expressed in the
+staff report are those of the staff team and do not necessarily reflect the views of the
+Executive Board of the IMF.
+
+•
+
+a staff supplement of July 22, 2004 updating information on recent developments.
+
+•
+
+a Public Information Notice (PIN) summarizing the views of the Executive Board as
+expressed during its July 23, 2004 discussion of the staff report that concluded the
+Article IV consultation.
+
+The document listed below have been or will be separately released.
+Selected Issues Paper
+The policy of publication of staff reports and other documents allows for the deletion of market-sensitive
+information.
+To assist the IMF in evaluating the publication policy, reader comments are invited and may be sent
+by e-mail to publicationpolicy@imf.org.
+Copies of this report are available to the public from
+International Monetary Fund • Publication Services
+700 19th Street, N.W. • Washington, D.C. 20431
+Telephone: (202) 623-7430 • Telefax: (202) 623-7201
+E-mail: publications@imf.org • Internet: http://www.imf.org
+Price: $15.00 a copy
+
+International Monetary Fund
+Washington, D.C.
+
+INTERNATIONAL MONETARY FUND
+UNITED STATES OF AMERICA
+Staff Report for the 2004 Article IV Consultation
+Prepared by the Staff Representatives for the 2004 Article IV Consultation
+With the United States of America
+Approved by Anoop Singh and Liam P. Ebrill
+June 28, 2004
+•
+
+The 2004 Article IV discussions took place in Washington, D.C. during May. The staff team
+comprised C. Towe (Head), T. Bayoumi, M. Mühleisen, C. Schnure, R. Cardarelli, and P. Rabanal (all
+WHD); H. Lankes and K. Alexandraki (PDR); R. Thorne (ICM); A. Bhatia, G. De Nicolo, and
+P. Hayward (MFD); and K. Ueda (RES). N. Jacklin and M. Lundsager, and A. Baukol, U.S. Executive
+Director, Alternate Executive Director, and Advisor, respectively, also attended the meetings.
+
+•
+
+The Acting Managing Director Ms. Krueger, Mr. Singh (WHD), and Mr. Rajan (RES) took part in
+the concluding discussions with Treasury Secretary Snow and Federal Reserve Chairman
+Greenspan. The mission met with officials from the U.S. Treasury, the Federal Reserve Board, the
+Bureau of Economy Analysis, the Bureau of Labor Statistics, the Congressional Budget Office, the
+Employee Benefits Security Administration, the National Association of State Budget Officers, the
+Office of the Comptroller of the Currency, the Office of Management and Budget, the Office of the
+U.S. Trade Representative, and the Securities and Exchange Commission. The team also met with
+financial market participants and the Federal Reserve Bank of New York in March, and officials of the
+California state government and the Federal Reserve Bank of San Francisco in April.
+
+•
+
+The 2003 Article IV consultation was concluded in July 2003 and the Staff Report was published as
+IMF Country Report No. 03/244. During the Board discussion, Executive Directors highlighted the
+valuable support that the U.S. economy had provided for global growth, but stressed the need for
+decisive action to be taken to re-establish a strong fiscal position to help strengthen national saving
+and prepare for the pressures of population aging. They urged the authorities to establish a credible
+fiscal framework with the clear objective of bringing the budget to balance, excluding Social Security,
+over the next five to ten years to provide room to phase in reforms needed to place retirement and
+health care systems on a sound financial footing. Directors commended the Federal Reserve for its
+aggressive response to the economic slowdown and also welcomed the considerable progress made
+toward strengthening the oversight of accounting and corporate governance. Directors also called
+upon the United States to continue to play a leadership role in promoting an open multilateral trading
+system, including by ensuring that efforts to promote bilateral and regional free-trade arrangements
+are complementary to the multilateral approach.
+
+•
+
+The United States has accepted the obligations of Article VIII (Appendix I). Comprehensive
+economic data are available for the United States on a timely basis. The United States subscribes to
+the Fund’s Special Data Dissemination Standard, and its metadata are posted on the Fund’s Data
+Standards Bulletin Board (Appendix II). A fiscal ROSC was completed in the context of the 2003
+consultation. Appendix III contains fiscal and external sustainability calculations.
+
+#2246073 v1 - US 2004 Article IV Staff Report Bundle Version in Word (July 29) July 30, 2004 (10:39 AM)
+
+-2-
+
+Contents
+
+Page
+
+I.
+
+Introduction and Executive Summary ...........................................................................3
+
+II.
+
+Recent Economic Developments ...................................................................................4
+
+III.
+
+Economic Prospects and Risks ....................................................................................12
+
+IV.
+
+Fiscal Discussions........................................................................................................16
+
+V.
+
+Monetary and Exchange Rate Policies ........................................................................24
+
+VI.
+
+Financial Sector and Corporate Governance ...............................................................28
+
+VII.
+
+Trade Policy and Official Assistance...........................................................................32
+
+VIII.
+
+Staff Appraisal .............................................................................................................34
+
+Boxes
+1.
+2.
+3.
+4.
+5.
+6.
+
+Inflation and Productivity ..............................................................................................9
+Options for Fiscal Consolidation .................................................................................21
+The Real Fiscal Problem—An Intergenerational Accounting Approach ....................23
+How Typical Was the Federal Reserve’s Response to This Recession? .....................27
+Prospects for the Trade Deficit ....................................................................................29
+Proposed Regulatory Reform of the Government Sponsored Enterprises (GSEs)......31
+
+Tables
+1.
+2.
+3.
+4.
+5.
+6.
+
+Selected Economic Indicators........................................................................................6
+Monthly Indicators.........................................................................................................7
+Major Industrial Countries: Indicators of Economic Performance..............................10
+Balance of Payments....................................................................................................13
+Indicators of External and Financial Vulnerability......................................................14
+Fiscal Indicators, FY 2000–2009.................................................................................17
+
+Appendices
+I.
+Fund Relations .............................................................................................................38
+II.
+Core Statistical Indicators ............................................................................................39
+III.
+Debt Sustainability.......................................................................................................40
+
+-3-
+
+I. INTRODUCTION AND EXECUTIVE SUMMARY
+State of the economy
+1.
+The 2004 consultation discussions took place against increasing signs that the
+recovery was becoming self-sustaining. Although the 2001 recession was relatively shallow,
+it was followed initially by an unusually tepid recovery, as a series of negative shocks offset
+unprecedented fiscal and monetary stimulus. Nonetheless, labor productivity growth
+remained remarkably robust and an increase in the momentum of the recovery over the last
+year has been followed more recently by a long-awaited improvement in employment
+growth. A pickup in price pressures also appears to have fully erased earlier deflation fears.
+Policy stance
+2.
+As a result, the focus of both monetary and fiscal policies has shifted toward
+consolidation. After commendably aggressive and effective action to address the deflation
+risks that emerged last year, the monetary authorities have now clearly signaled that stimulus
+will be withdrawn soon, albeit at a measured pace. While emphasizing a commitment to
+make recent tax cuts permanent, the FY 2005 budget also aimed to halve the budget deficit
+over the next five years, largely through significant spending restraint.
+Discussions
+3.
+Against this background, the policy discussions focused on how to manage the
+withdrawal of stimulus and ensure long-run fiscal sustainability, in particular:
+•
+
+Restoring a sustainable fiscal position. With entitlement programs significantly
+underfunded and an external current account deficit of 5 percentage points of GDP,
+early steps are needed to establish a credible plan to restore fiscal surpluses and
+reform health and retirement programs.
+
+•
+
+Ensuring an orderly withdrawal of monetary stimulus. Having successfully
+forestalled earlier deflation risks, the challenge is now to return interest rates to
+neutral levels without disrupting financial markets or kindling inflation.
+
+•
+
+The global ramifications of the U.S. economy and policies. The U.S. recovery has
+led the global upturn; looking ahead, key issues include the impact of monetary
+policy tightening on exchange rates and global borrowing conditions, including in
+emerging markets, and the spillover effects of U.S. fiscal policy on global investment.
+
+-4-
+
+II. RECENT ECONOMIC DEVELOPMENTS
+An uprecedented degree of policy stimulus has
+supported output recently...
+6
+
+6
+
+in percentage points of annualized real GDP growth
+GDP growth, y/y
+
+5
+
+5
+4
+
+3
+
+3
+
+2
+
+2
+
+1
+
+1
+
+0
+
+0
+
+-1
+
+Forecast
+
+4
+
+Overall Stimulus,1
+
+-2
+
+4-q moving average
+
+-3
+1995
+
+-1
+-2
+-3
+
+1997
+
+1999
+
+2001
+
+2003
+
+2005
+
+...reflecting both monetary and fiscal stimulus.
+6 in percentage points of the annualized GDP growth
+4-q moving average
+5
+4
+Financial Conditions1,2
+
+3
+
+Fiscal1
+
+6
+5
+Forecast
+
+4.
+With the broadening of the
+economic recovery in recent months,
+concerns have shifted from the
+sustainability of the upturn to the
+possible emergence of inflationary
+pressures (see the figure on the next page,
+Tables 1–2). Following an initially anemic
+recovery from the 2001 recession,
+economic activity began to gather steam
+in 2003, with real GDP growth beginning
+to exceed potential around mid-year. The
+acceleration in growth since last year’s
+consultation has been somewhat stronger
+than anticipated and has provided
+welcome support to the global recovery.
+Risks that a lack of employment growth
+and correspondingly weaker household
+incomes could derail the recovery have
+dissipated earlier this year as payroll
+employment finally started to accelerate.
+
+4
+3
+
+2
+
+2
+
+1
+
+1
+
+0
+
+0
+
+-1
+-1
+5.
+Monetary and fiscal policies have
+-2
+-2
+provided significant support to activity.
+-3
+-3
+The Federal Reserve has eased
+1995
+1997
+1999
+2001
+2003
+2005
+aggressively since 2001 and—with
+Sources: Haver Analytics; IMF staff calculations; and Macroeconomic
+deflation becoming a growing concern—
+Advisors, a private sector consultancy.
+cut the federal funds rate to a 40-year low
+Financial and fiscal stimulus are calculated by Macroeconomic
+of 1 percent in mid-2003. Post-war lows
+Advisors, based on their macroeconomic model.
+in long-term interest rates helped spur a
+Financial conditions include the impact of the interest rate, the
+exchange rate, and stock market valuations on the economy.
+boom in housing markets and offset the
+effect on household demand from the
+equity price collapse in 2001. Domestic demand has also been supported by fiscal stimulus,
+with the structural fiscal balance shifting by some 5 percentage points of GDP since 2001
+due to tax cuts, temporary investment incentives, and a rapid increase in government outlays.
+Lower interest rates helped trigger a depreciation of the dollar and stem the drag on activity
+from weak growth abroad as well as from the effects of the dollar’s strong appreciation
+during 1995–2001.
+1
+
+2
+
+-5-
+
+The recovery has been marked by strong growth in productivity and profits, but recovery of
+investment and employment has lagged, although recently they have both started to turn up.
+Employment
+
+GDP
+
+Total nonfarm payrolls
+
+Chained 2000$
+110
+
+Level at trough=100
+
+110
+
+108
+
+105
+
+104
+
+100
+
+100
+
+Level at trough=100
+
+108
+
+Average
+69-81
+Average
+105
+
+Current
+
+69-81
+
+104
+
+Early 1990s
+Early 1990s
+
+100
+
+100
+Current
+
+95
+
+95
+-8Q
+
+-6Q
+
+-4Q
+
+-2Q Trough +2Q
+
++4Q
+
++6Q
+
++8Q
+
+96
+-8Q
+
+Labor Productivity
+
+Level at trough=100
+
+115
+110
+105
+
+Average
+
+100
+
++4Q
+
++6Q
+
++8Q
+
+180
+
+Level at trough=100
+
+Early 1990s
+
+100
+95
+
+95
+
+170
+160
+
+160
+150
+
+Average
+
+150
+
+140
+
+69-81
+
+140
+130
+
+130
+120
+
+120
+
+Current
+
+110
+100
+
+110
+100
+
+Early 1990s
+
+90
+
+90
+80
+
+80
+90
+
+90
+-8Q
+
+-6Q
+
+-4Q
+
+-2Q Trough +2Q
+
++4Q
+
++6Q
+
++8Q
+
+-8Q
+
+-4Q
+
+-2Q Trough +2Q
+
++4Q
+
+115
+Current
+Average
+
+110
+
+69-81
+105
+
+Early 1990s
+
+130
+
+95
+
+95
+
+90
+
+90
+
+130
+
+125
+
+125
+
+120
+
+120
+
+115
+
+115
+Average
+
+Early 1990s
+
+69-81
+
+105
+
+-4Q
+
+-2Q Trough +2Q
+
++4Q
+
++6Q
+
+Source: Haver Analytics and IMF staff calculations.
+
++8Q
+
+110
+105
+100
+
+100
+Current
+
+95
+-6Q
+
++8Q
+
+Level at trough=100
+
+110
+100
+
+100
+
+-8Q
+
++6Q
+
+Chained 2000$
+
+Level at trough=100
+
+105
+
+-6Q
+
+Business Fixed Investment
+
+Residential Investment and Consumption
+
+110
+
+70
+
+70
+
+Chained 2000$
+115
+
+96
++10Q
+
+180
+
+170
+
+Current
+
+69-81
+
+-2Q Trough +2Q
+
+Nonfinancial sector, chained 2000$
+
+110
+105
+
+-4Q
+
+Corporate Profits
+
+Nonfarm business sector
+115
+
+-6Q
+
+95
+90
+
+90
+-8Q
+
+-6Q
+
+-4Q
+
+-2Q Trough +2Q
+
++4Q
+
++6Q
+
++8Q
+
+-6-
+
+Table 1. United States: Selected Economic Indicators
+(Change from previous period in percent, unless otherwise indicated)
+
+2001 2002 2003 2004 2005 2006
+National production and income
+Real GDP
+Net exports 1/
+Total domestic demand
+Final domestic demand
+Private final consumption
+Personal saving ratio (% of DI)
+Public consumption expenditure
+Gross fixed domestic investment
+Private fixed investment
+Private investment rate
+Equipment & software
+Structures (non-res.)
+Structures (res.)
+Public
+Change in private inventories 1/
+Nominal GDP
+
+0.5
+2.2
+-0.2 -0.7
+0.7
+2.8
+1.6
+2.4
+2.5
+3.4
+1.7
+2.3
+2.8
+3.6
+-2.3 -2.3
+-3.2 -3.7
+15.9 15.2
+-5.2 -2.8
+-2.5 -18.4
+0.3
+4.9
+2.5
+5.1
+-0.9
+0.4
+
+3.1 4.5 3.9 3.6
+-0.4 -0.1 0.1 0.0
+3.3 4.5 3.7 3.6
+3.4 4.2 3.5 3.2
+3.1 3.9 4.1 4.1
+2.1 2.5 3.3 4.0
+3.8 1.7 0.4 -1.9
+3.9 7.4 3.7 3.8
+4.4 7.6 3.6 5.1
+15.2 15.9 15.8 16.2
+5.5 11.9 10.1 9.2
+-4.6 -2.1 0.8 1.0
+7.5 5.6 -5.0 0.0
+1.4 6.7 4.0 -2.6
+0.0 0.3 0.2 0.3
+
+Q1
+
+2003
+Q2 Q3
+
+Q4
+
+Q1
+
+2004
+Q2 Q3
+
+Q4
+
+Q1
+
+2005
+Q2 Q3
+
+Q4
+
+2.0 3.1 8.2 4.1 3.9 4.3 4.0 4.0 3.9 3.8 3.7 3.6
+0.8 -1.4 0.8 -0.3 -0.7 0.0 0.2 0.1 0.0 0.0 0.0 0.0
+1.1 4.3 7.0 4.3 4.4 4.1 3.6 3.7 3.7 3.7 3.5 3.5
+1.8 4.5 7.2 3.6 3.8 3.9 3.5 3.6 3.6 3.5 3.3 3.1
+2.5 3.3 6.9 3.2 3.8 3.1 3.6 3.8 3.7 4.8 5.2 4.5
+1.9 2.3 2.4 1.9 2.2 2.4 2.6 2.8 3.0 3.2 3.4 3.6
+0.8 7.1 0.1 0.7 1.8 2.5 1.5 1.3 2.3 -1.1 -2.9 -2.7
+-0.2 6.6 14.8 7.5 5.7 8.0 4.6 4.9 4.0 2.3 1.0 2.4
+1.1 6.1 15.7 9.9 5.1 6.7 5.1 4.5 2.5 2.6 3.1 3.8
+15.0 15.0 15.2 15.7 15.9 16.0 15.9 15.9 15.8 15.8 15.8 15.9
+0.5 8.0 17.6 14.9 9.2 12.0 10.0 10.0 10.0 10.0 10.0 10.0
+-4.1 3.9 -1.8 -1.3 -7.4 0.0 0.0 1.0 1.0 1.0 1.0 1.0
+4.6 4.4 21.9 7.9 4.6 2.0 0.0 -2.0 -8.0 -8.0 -7.0 -5.0
+-5.9 8.9 10.4 -3.6 9.0 14.3 2.6 6.5 12.0 1.1 -8.5 -4.2
+-0.7 -0.2 -0.1 0.7 0.6 0.2 0.1 0.1 0.1 0.2 0.3 0.4
+
+2.9
+
+3.8
+
+4.8
+
+6.9
+
+6.6
+
+5.7
+
+4.3
+
+Employment and inflation
+Unemployment rate (percent)
+GDP gap
+Potential GDP
+CPI inflation
+GDP deflator
+
+4.8
+-0.7
+3.4
+2.8
+2.4
+
+5.8
+-1.9
+3.4
+1.6
+1.5
+
+6.0
+-2.2
+3.5
+2.3
+1.7
+
+5.5
+-1.1
+3.3
+2.7
+2.3
+
+5.4
+-0.6
+3.3
+2.6
+2.6
+
+5.3
+-0.3
+3.3
+2.4
+2.0
+
+5.8
+-2.8
+3.5
+3.9
+2.3
+
+Financial policy indicators
+Central gov't balance ($ b, public accounts)
+In percent of FY GDP 2/
+Central government balance ($ b, NIPA)
+In percent of CY GDP 2/
+General government balance ($ b, NIPA)
+In percent of CY GDP 2/
+Three-month Treasury bill rate
+Ten-year government bond rate
+
+127
+1.3
+45
+0.4
+-16
+-0.2
+3.47
+5.02
+
+-158
+-1.5
+-259
+-2.5
+-345
+-3.3
+1.63
+4.61
+
+-375
+-3.5
+-454
+-4.1
+-538
+-4.9
+1.03
+4.02
+
+-486
+-4.2
+-496
+-4.2
+-545
+-4.6
+1.36
+4.66
+
+-432
+-3.5
+-363
+-2.9
+-419
+-3.3
+3.38
+5.63
+
+-327
+-2.5
+-335
+-2.5
+-417
+-3.2
+4.94
+6.00
+
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+1.18 1.06 0.95 0.93 0.93 1.25 1.50 1.75 2.25 3.00 3.75 4.50
+3.92 3.62 4.23 4.29 4.02 4.75 4.85 5.00 5.25 5.50 5.75 6.00
+
+Balance of payments
+Current account balance ($ b)
+In percent of GDP
+Merchandise trade balance ($ b)
+In percent of GDP 3/
+Export volume 3/
+Import volume 3/
+Balance on invisibles ($ b)
+In percent of GDP
+
+-386
+-3.8
+-427
+-4.2
+-6.1
+-3.2
+41
+0.4
+
+-474
+-4.5
+-483
+-4.6
+-4.0
+3.7
+9
+0.1
+
+-531 -556 -548 -556
+-4.8 -4.7 -4.4 -4.2
+-548 -620 -636 -671
+-5.0 -5.3 -5.1 -5.1
+1.9 10.5 8.1 7.9
+4.8 9.4 5.1 6.9
+17
+64
+88 115
+0.2 0.5 0.7 0.9
+
+-553 -536 -527 -508 -580 -560 -546 -539 -542 -551 -552 -548
+-5.1 -4.9 -4.7 -4.5 -5.1 -4.8 -4.6 -4.5 -4.4 -4.4 -4.4 -4.3
+-552 -542 -539 -558 -603 -628 -623 -624 -628 -633 -639 -645
+-5.1 -5.0 -4.8 -5.0 -5.3 -5.4 -5.3 -5.2 -5.1 -5.1 -5.1 -5.0
+1.9 -1.7 8.6 21.3 9.4 9.0 8.8 8.5 8.0 7.5 7.8 8.0
+-6.6 13.7 -1.5 18.3 12.2 10.6 2.2 3.9 5.7 5.0 6.0 6.3
+-1
+7
+12
+50
+24
+68
+78
+85
+86
+82
+86
+97
+0.0 0.1 0.1 0.4 0.2 0.6 0.7 0.7 0.7 0.7 0.7 0.8
+
+Saving and investment (as a share of GDP)
+Gross national saving
+General government
+Private
+Personal
+Business
+Gross domestic investment
+
+16.4
+2.7
+13.7
+1.3
+12.4
+19.0
+
+14.7
+-0.3
+15.0
+1.7
+13.2
+18.3
+
+13.5
+-1.9
+15.3
+1.6
+13.7
+18.2
+
+12.9
+-1.4
+14.3
+1.4
+12.9
+18.0
+
+14.4
+-1.5
+16.1
+1.9
+14.2
+19.2
+
+15.9
+-0.2
+16.2
+2.5
+13.7
+19.1
+
+15.1
+-0.2
+15.5
+3.0
+12.4
+19.3
+
+4.2 10.0
+6.1
+-2.8
+3.5
+0.6
+1.1
+
+13.2
+-2.0
+15.3
+1.7
+13.6
+17.9
+
+6.1
+-1.8
+3.5
+2.3
+1.6
+
+13.4
+-2.4
+15.7
+1.8
+13.9
+18.2
+
+5.7
+
+6.9
+
+6.9
+
+7.1
+
+7.1
+
+6.6
+
+6.3
+
+6.0
+
+5.7
+
+5.9
+-1.6
+3.3
+0.7
+1.5
+
+5.6
+-1.4
+3.3
+3.6
+2.9
+
+5.5
+-1.2
+3.3
+3.9
+2.5
+
+5.5
+-1.0
+3.3
+3.2
+3.0
+
+5.4
+-0.9
+3.3
+3.0
+3.0
+
+5.4
+-0.7
+3.3
+2.5
+2.6
+
+5.4
+-0.6
+3.3
+2.0
+2.4
+
+5.4
+-0.5
+3.3
+2.2
+2.2
+
+5.4
+-0.4
+3.3
+2.4
+2.0
+
+14.5
+-1.9
+15.8
+1.4
+14.4
+18.8
+
+13.1
+-2.1
+15.3
+1.6
+13.7
+19.0
+
+14.5
+-1.8
+16.5
+1.8
+14.7
+19.2
+
+14.6
+-1.4
+16.3
+2.0
+14.3
+19.2
+
+15.4
+-0.7
+16.3
+2.1
+14.2
+19.3
+
+15.8
+-0.4
+16.3
+2.3
+14.1
+19.2
+
+16.1
+-0.1
+16.3
+2.4
+13.9
+19.1
+
+Sources: Haver Analytics; and preliminary IMF staff calculations.
+1/ Contributions to growth.
+2/ Staff projections allow for differences in macroceconomic assumptions, as well as incorporating AMT reform and somewhat faster spending growth.
+3/ NIPA basis, goods and services.
+
+16.1
+0.1
+16.1
+2.6
+13.6
+19.0
+
+15.5
+-0.3
+16.0
+2.7
+13.2
+19.0
+
+-7-
+
+Table 2. United States: Monthly Indicators
+(Percent changes from previous period, unless otherwise indicated)
+2003
+
+2003
+Q2
+
+Q3
+
+2004
+Q1
+
+Q4
+
+2003
+Jul
+
+Aug
+
+Sep
+
+Oct
+
+Nov
+
+Dec
+
+Jan
+
+Feb
+
+Mar
+
+Apr
+
+2004
+May
+
+y/y percent change
+(except where noted)
+
+Q/Q at annual rate
+(except where noted)
+Production and capacity utilization
+Industrial production
+All industries
+0.3
+Manufacturing
+0.1
+Business equipment
+0.7
+Ex hi-tech and autos & parts
+-1.2
+Capacity utilization (percent of capacity)
+All industries
+74.8
+Manufacturing
+72.8
+
+-4.1
+-3.6
+-4.9
+-3.6
+
+3.8
+4.4
+5.2
+0.6
+
+5.6
+6.2
+7.7
+4.6
+
+6.8
+6.2
+12.3
+4.4
+
+-0.6
+-0.8
+0.3
+-1.9
+
+-0.5
+-1.1
+0.3
+-2.0
+
+0.2
+0.1
+1.7
+-1.6
+
+0.7
+0.8
+1.8
+-0.8
+
+1.5
+1.8
+2.8
+0.7
+
+2.3
+2.5
+3.7
+1.1
+
+2.3
+2.1
+4.2
+0.7
+
+2.9
+3.4
+5.1
+1.4
+
+3.6
+4.1
+5.5
+2.2
+
+5.1
+5.4
+7.8
+3.6
+
+6.3
+6.4
+9.4
+4.9
+
+74.1
+72.0
+
+74.6
+72.6
+
+75.5
+73.6
+
+76.5
+74.5
+
+74.5
+72.5
+
+74.5
+72.4
+
+74.9
+73.0
+
+75.0
+73.1
+
+75.7
+73.8
+
+75.8
+73.9
+
+76.2
+74.0
+
+76.7
+74.6
+
+76.6
+74.8
+
+77.1
+75.1
+
+77.8
+75.7
+
+Orders and inventories
+Inventory/sales (ratio)
+Total manufacturers' orders
+Total manufacturers' shipments
+Nondef. capital goods ex. aircraft
+
+1.37
+3.7
+2.6
+2.2
+
+1.40
+-3.7
+-4.3
+5.6
+
+1.36
+15.2
+13.5
+15.6
+
+1.34
+13.3
+9.6
+12.2
+
+1.32
+10.3
+12.1
+12.1
+
+1.36
+1.9
+2.7
+3.0
+
+1.36
+1.7
+1.7
+1.1
+
+1.35
+6.4
+3.5
+5.7
+
+1.35
+6.8
+3.2
+5.4
+
+1.34
+6.6
+4.6
+5.6
+
+1.33
+8.8
+7.8
+12.2
+
+1.33
+6.1
+5.7
+9.4
+
+1.33
+7.8
+6.9
+10.8
+
+1.30
+11.5
+9.7
+13.8
+
+1.30
+12.5
+12.0
+13.8
+
+...
+...
+...
+11.6
+
+6.7
+6.6
+
+6.4
+7.5
+
+9.1
+8.2
+
+8.9
+7.9
+
+8.6
+8.2
+
+9.3
+7.8
+
+-3.1 -0.3
+92.6 103.8
+5.6
+6.1
+15.6
+4.2
+
+4.9
+94.4
+6.2
+14.4
+
+3.1
+95.8
+6.1
+15.7
+
+0.0
+94.2
+6.5
+21.0
+
+9.3
+90.2
+6.4
+12.5
+
+1.7
+1.2
+2.1
+1.1
+1.5
+1.2
+
+1.7
+1.6
+1.4
+0.7
+1.6
+1.4
+
+2.3
+1.8
+3.6
+1.4
+2.0
+1.6
+
+3.0
+1.8
+4.9
+1.7
+2.5
+1.6
+
+Households
+Retail sales
+ex. autos, building supplies,
+and gasoline
+Motor vehicle sales
+Consumer confidence (index)
+Disposable income
+Housing starts
+
+5.6
+4.9
+
+5.6
+4.4
+
+11.8
+10.9
+
+4.3
+5.8
+
+11.0
+10.5
+
+5.6
+5.5
+
+6.1
+6.3
+
+7.2
+6.7
+
+6.7
+6.3
+
+7.3
+6.6
+
+-0.7
+87.6
+4.6
+8.3
+
+11.0
+89.3
+5.4
+-0.5
+
+28.0
+89.3
+8.7
+35.7
+
+-12.3
+92.0
+2.2
+36.2
+
+-11.3
+98.0
+8.3
+-16.8
+
+-6.5
+90.9
+5.3
+14.4
+
+-1.5
+89.3
+6.1
+12.4
+
+4.4
+87.7
+4.8
+6.5
+
+3.3
+89.6
+5.1
+20.3
+
+5.8
+93.7
+5.4
+17.2
+
+Inflation
+CPI
+excluding food and energy
+PPI, finished goods
+excluding food and energy
+PCE price index
+excluding food and energy
+
+2.3
+1.5
+3.2
+0.2
+1.8
+1.2
+
+0.6
+1.1
+-1.3
+-0.4
+0.5
+0.8
+
+2.3
+1.4
+2.8
+1.0
+1.8
+1.0
+
+0.7
+1.0
+3.7
+1.9
+1.0
+1.2
+
+3.6
+1.8
+3.8
+1.2
+3.2
+2.0
+
+2.1
+1.5
+3.0
+0.2
+1.7
+1.3
+
+2.2
+1.3
+3.5
+0.4
+1.7
+1.0
+
+2.3
+1.2
+3.5
+0.1
+1.7
+0.8
+
+2.0
+1.3
+3.4
+0.4
+1.7
+1.1
+
+1.8
+1.1
+3.4
+0.5
+1.5
+1.0
+
+Labor market
+Nonfarm payrolls (millions)
+Change (millions)
+Unemployment rate (percent)
+
+129.9
+-0.4
+6.0
+
+129.9
+-0.2
+6.1
+
+129.8
+-0.1
+6.1
+
+6.0
+6.8
+7.6
+
+8.9
+8.5
+11.3
+
+6.6
+7.1
+7.5
+
+2.4
+-1.5
+-1.6
+
+6.2
+3.2
+11.5
+
+6.6
+8.0
+9.6
+
+8.3
+8.1
+9.2
+
+7.6
+7.2
+7.9
+
+6.8
+6.0
+6.3
+
+6.5
+5.1
+5.7
+
+6.2
+4.6
+5.7
+
+5.4
+4.1
+7.1
+
+5.7
+4.2
+7.1
+
+6.8
+4.5
+6.9
+
+6.0
+4.5
+6.8
+
+4.9
+4.8
+6.1
+
+Current account ($ billions)
+Percent of GDP
+
+-531
+-4.8
+
+-536
+-4.9
+
+-527
+-4.7
+
+-508
+-4.5
+
+-580
+-5.1
+
+...
+...
+
+...
+...
+
+...
+...
+
+...
+...
+
+...
+...
+
+...
+...
+
+...
+...
+
+...
+...
+
+...
+...
+
+...
+...
+
+...
+...
+
+Merchandise trade balance
+Exports ($ billions)
+Imports ($ billions)
+
+-578
+725
+1303
+
+-571
+711
+1282
+
+-568
+726
+1294
+
+-592
+758
+1350
+
+-640
+788
+1428
+
+-568 -561 -576 -589 -568 -619 -632 -635 -653 -676
+734 711 732 743 770 761 752 791 822 802
+1302 1272 1308 1332 1338 1380 1384 1425 1475 1478
+
+...
+...
+...
+
+Money and credit (percent change)
+M1
+M2
+Bank lending
+
+Source: Haver Analytics.
+
+130.0 130.4
+0.2
+0.4
+5.9
+5.6
+
+1.8
+1.1
+3.9
+1.0
+1.4
+0.8
+
+2.0
+1.1
+3.3
+1.0
+1.7
+1.1
+
+129.8 129.8 129.9 129.9 130.0 130.0 130.2 130.3 130.6 131.0 131.2
+-0.5 -0.5 -0.4 -0.4 -0.3 -0.1
+0.0
+0.2
+0.7
+1.1
+1.4
+6.2
+6.1
+6.1
+6.0
+5.9
+5.7
+5.6
+5.6
+5.7
+5.6
+5.6
+
+-8-
+
+6.
+However, macroeconomic stimulus is starting to wane. Financial conditions have
+tightened somewhat in recent months as stronger data and statements from Fed officials have
+led to expectations that monetary stimulus will soon begin to be removed. The 10-year
+benchmark bond yield, in particular, has risen by around a percentage point since late March,
+and part of the dollar’s earlier depreciation has been reversed. On the fiscal front, the
+stimulus from this year’s surge in personal tax refunds associated with the 2003 tax cuts is
+starting to fade, and investment incentives generated by accelerated depreciation allowances
+are slated to expire at end-December.
+7.
+Increasing asset prices have helped support aggregate demand. Equity markets have
+risen nearly 50 percent from their lows just before the Iraq war, although prices have
+stagnated somewhat in recent months on concerns that the removal of monetary stimulus
+would hurt corporate earnings. House prices have continued to increase rapidly, further
+boosting household balance sheets, and a temporary surge in refinancing activity in the first
+months of 2004 reflected households’ efforts to reduce interest payments and lengthen debt
+maturities ahead of an expected tightening of interest rates.
+8.
+Labor productivity growth remains
+remarkably strong, and has accelerated
+compared with the late 1990s (Box 1).
+Productivity growth rose strongly in the
+latter half of the 1990s and has accelerated
+further through the current cycle, moving
+U.S. growth ahead of major competitors
+(Table 3). Although this recent strength
+appears to reflect partly temporary factors,
+there is increasing evidence that it also
+reflects the reorganization of production in
+response to the IT revolution and other
+innovations in business practices,
+suggesting a further upward shift may have
+also taken place.1
+
+Labor productivity growth has been robust recently,
+even compared to the late 1990s.
+6
+
+4-quarter percent change
+
+5
+
+Average
+1970-94
+
+6
+
+Average
+1995-2000
+
+5
+
+4
+
+4
+
+3
+
+3
+
+2
+
+2
+
+1
+
+1
+
+0
+
+0
+Recessions
+are shaded
+
+-1
+-2
+-3
+1970
+
+-1
+-2
+-3
+
+1974
+
+1978
+
+1982
+
+1986
+
+1990
+
+1994
+
+1998
+
+2002
+
+Source: Haver Analytics.
+
+9.
+Job creation was unusually slow compared with other cyclical episodes, but has
+begun to revive in the last few months. Tepid employment earlier in the recovery appears to
+have largely reflected cost cutting in the face of uncertain growth and geopolitical prospects
+but, as confidence has firmed over the last few months, almost a million new jobs have been
+created and the unemployment rate has fallen to 5.6 percent. Although data are sketchy,
+offshoring of jobs appears too small to have any significant impact on these overall trends.2
+1
+
+2
+
+See Chapter 1 of the accompanying Selected Issues paper.
+
+See Council of Economic Advisers, 2004, Economic Report of the President, and M. Amiti and S. Wei, 2004,
+“Fear of Service Outsourcing: Is it Justified?,” unpublished manuscript, IMF Research Department.
+
+-9Box 1. Inflation and Productivity
+After an extended period of disinflation, price increases are
+starting to accelerate. Inflation rates have reversed much of
+last year’s decline, with the core personal consumption
+expenditure (PCE) deflator moving up to 1.6 percent (yoy)
+in May 2004, from 0.8 percent (yoy) at end-2003 (Chart).
+
+Price Indices
+4
+
+change in percent, year-on-year
+
+4
+
+3
+3
+The pickup of inflation reflects in part the effects of the
+global recovery and geopolitical events on commodity and
+other upstream prices. Increasing global output has led to a
+2
+2
+general increase in raw material prices and, together with
+tensions in the Middle East and elsewhere, has led to a spike
+1
+1
+in energy prices, which futures markets indicate could be
+Core PCE deflator
+PCE deflator
+more long-lasting than those caused by the Gulf or Iraq
+wars. Producer prices of crude and intermediate materials
+0
+0
+excluding food and energy have risen 22 percent and
+1996
+1998
+2000
+2002
+2004
+5 percent, respectively, over the 12 months ended May 2004,
+while the weaker dollar contributed to a 3 percent rise in
+non-oil import prices. Although the pass-through to final prices has historically been small—past estimates suggest a
+permanent 10 percent rise in raw materials costs is associated with a 0.1 percent or less increase in final consumer
+prices—the magnitude of the upstream price increases has caused concern.
+
+Inflationary pressures may be dampened by significant economic slack in factories and labor markets. While real GDP
+has expanded at a brisk 5 percent over the past year, at 76 percent, the manufacturing capacity utilization rate remains
+well below the long-term average of 82 percent. The unemployment rate remains above most estimates of the NAIRU,
+which center at around 5 percent, and the low labor force participation rate may represent additional slack through
+“hidden unemployment.” Staff estimates show that monthly job gains of 300,000 would be needed to bring the economy
+to full employment in late 2005 or early 2006, after allowing for a rise in the participation rate and growth of the labor
+force.
+A key determinant of current and future price pressures
+is the rate of growth of labor productivity. For a given rate
+of growth of activity, higher underlying labor productivity
+growth implies more economic slack and a slower return to
+potential. Output per hour has risen at a 3¾ percent annual
+pace since 2000, leading to speculation that in addition to
+cyclical factors, the underlying trend has accelerated
+further from the already elevated 2½ percent rate recorded
+in the late 1990s. As a result of this rapid increase in
+productivity, unit labor costs have declined (yoy) for a
+record nine consecutive quarters, helping hold price
+pressures in check (Chart).
+
+Productivity and Labor Costs
+8
+
+change in percent, year-on-year
+
+8
+Compensation
+
+7
+
+7
+
+6
+
+6
+
+5
+
+5
+
+4
+
+4
+
+3
+
+3
+
+2
+
+2
+
+1
+0
+
+Productivity
+
+Declining unit labor costs
+
+1
+0
+
+Data suggest that the improved performance of the U.S.
+-1
+-1
+economy since 1995 reflects a broad-based acceleration
+1996
+1998
+2000
+2002
+2004
+in total factor productivity (TFP) rather than just the
+gains in the information technology sector. Recent research has found an acceleration in TFP growth across a range of
+industries outside of the IT sector as businesses use new technologies and other innovations to improve the efficiency of
+production (see Chapter 1 of the accompanying Selected Issues paper).
+Faster labor productivity growth may also temporarily reduce employment. Analysis by the staff and others finds that
+increases in output per worker reduces employment, but that this effect lasts only about a year-and-a-half. This suggests
+that the recent acceleration in labor product growth may help explain both the limited job creation over much of the
+recent recovery and hence some of the muted inflationary pressures that have been observed, but is unlikely to have
+significant consequences for job growth over a longer period.
+Note: The author of this box is Calvin Schnure.
+
+- 10 -
+
+Table 3. Major Industrial Countries: Indicators of Economic Performance
+1996
+
+1997
+
+1998
+
+1999
+
+2000
+
+2001
+
+2002
+
+2003
+
+Projection
+2004
+2005
+
+(Annual percent change)
+Per capita GDP
+United States
+Japan
+Germany
+Canada
+France, Italy, and United Kingdom 1/
+G-7 countries
+
+2.5
+3.2
+0.5
+0.6
+1.4
+2.1
+
+3.3
+1.5
+1.2
+3.2
+2.2
+2.5
+
+3.0
+-1.5
+2.0
+3.2
+2.6
+2.1
+
+3.3
+0.0
+2.0
+4.7
+2.3
+2.4
+
+2.5
+2.6
+2.7
+4.3
+3.4
+2.8
+
+-0.5
+0.2
+0.7
+0.9
+1.6
+0.2
+
+1.2
+-0.5
+0.0
+2.2
+0.8
+0.7
+
+2.1
+2.5
+-0.1
+0.8
+0.6
+1.6
+
+3.6
+3.2
+1.6
+1.4
+1.8
+2.9
+
+2.9
+1.8
+1.9
+1.9
+2.0
+2.4
+
+Real GDP
+United States
+Japan
+Germany
+Canada
+France, Italy, and United Kingdom 1/
+G-7 countries
+
+3.7
+3.6
+0.8
+1.6
+1.6
+2.3
+
+4.5
+1.8
+1.4
+4.2
+2.4
+2.7
+
+4.2
+-1.2
+2.0
+4.1
+2.8
+2.2
+
+4.4
+0.2
+2.0
+5.5
+2.6
+2.6
+
+3.7
+2.8
+2.9
+5.3
+3.7
+3.0
+
+0.5
+0.4
+0.8
+1.9
+2.0
+0.4
+
+2.2
+-0.3
+0.2
+3.3
+1.1
+0.9
+
+3.1
+2.7
+-0.1
+1.7
+0.9
+1.7
+
+4.5
+3.4
+1.6
+2.6
+2.2
+3.0
+
+3.9
+1.9
+1.9
+3.1
+2.3
+2.5
+
+Real domestic demand
+United States
+Japan
+Germany
+Canada
+France, Italy, and United Kingdom 1/
+G-7 countries
+
+3.8
+4.1
+0.3
+0.9
+1.5
+2.8
+
+4.8
+0.8
+0.6
+5.7
+2.3
+3.1
+
+5.3
+-1.5
+2.4
+2.4
+4.1
+3.5
+
+5.3
+0.3
+2.8
+4.1
+3.6
+3.8
+
+4.4
+2.3
+1.8
+5.0
+3.5
+3.6
+
+0.7
+1.1
+-0.8
+1.7
+2.0
+0.9
+
+2.8
+-1.0
+-1.6
+3.4
+1.8
+1.5
+
+3.3
+2.0
+0.2
+4.2
+1.7
+2.5
+
+4.5
+2.7
+1.5
+3.5
+2.5
+3.4
+
+3.7
+1.4
+2.0
+3.3
+2.3
+2.8
+
+GDP deflator
+United States
+Japan
+Germany
+Canada
+France, Italy, and United Kingdom 1/
+G-7 countries
+
+1.9
+-0.8
+1.0
+1.7
+3.4
+1.6
+
+1.7
+0.3
+0.7
+1.2
+2.2
+1.4
+
+1.1
+-0.1
+1.1
+-0.4
+2.1
+1.1
+
+1.4
+-1.5
+0.5
+1.7
+1.4
+0.9
+
+2.2
+-2.0
+-0.3
+4.0
+1.4
+1.2
+
+2.4
+-1.5
+1.3
+1.0
+2.2
+1.5
+
+1.5
+-1.2
+1.6
+1.0
+2.7
+1.3
+
+1.7
+-2.5
+1.0
+3.4
+2.6
+1.2
+
+2.3
+-2.4
+1.0
+1.4
+2.4
+1.4
+
+2.6
+-1.4
+1.2
+1.9
+2.4
+1.8
+
+(In percent of GDP)
+
+General government financial balance 2/
+United States
+Japan
+Germany
+Canada
+France, Italy, and United Kingdom 1/
+G-7 countries
+
+-2.2
+-5.1
+-3.4
+-2.8
+-5.1
+-3.5
+
+-0.8
+-3.8
+-2.7
+0.2
+-2.6
+-1.9
+
+0.4
+-5.5
+-2.2
+0.1
+-1.8
+-1.3
+
+0.9
+-7.2
+-1.5
+1.6
+-0.8
+-1.0
+
+1.6
+-7.5
+1.3
+3.0
+0.6
+0.0
+
+-0.2
+-6.1
+-2.8
+1.4
+-1.1
+-1.5
+
+-3.3
+-7.9
+-3.5
+0.8
+-2.3
+-3.7
+
+-4.9
+-8.2
+-4.0
+1.2
+-3.2
+-4.7
+
+-4.6
+-7.1
+-3.5
+1.0
+-3.3
+-4.4
+
+-3.3
+-6.6
+-3.1
+1.3
+-3.0
+-3.5
+
+Gross savings
+United States
+Japan
+Germany
+Canada
+France, Italy, and United Kingdom 1/
+G-7 countries
+
+16.5
+30.6
+21.1
+18.8
+19.0
+20.1
+
+17.6
+30.9
+21.0
+19.6
+19.6
+20.8
+
+18.3
+29.8
+21.2
+19.1
+19.8
+20.9
+
+18.1
+28.6
+20.5
+20.7
+19.3
+20.4
+
+18.0
+28.8
+20.3
+23.8
+19.0
+20.5
+
+16.4
+27.8
+19.8
+22.4
+18.9
+19.4
+
+14.7
+26.7
+20.8
+21.9
+18.5
+18.4
+
+13.5
+27.1
+19.6
+22.3
+17.3
+17.5
+
+15.7
+27.4
+20.9
+22.1
+17.1
+18.7
+
+18.2
+27.6
+21.6
+22.2
+17.3
+20.0
+
+Fixed investment
+United States
+Japan
+Germany
+Canada
+France, Italy, and United Kingdom 1/
+G-7 countries
+
+15.5
+28.5
+21.8
+17.9
+17.8
+19.1
+
+15.9
+28.1
+21.4
+19.8
+17.6
+19.1
+
+16.4
+26.8
+21.4
+19.9
+18.1
+19.2
+
+16.8
+26.4
+21.6
+19.8
+18.4
+19.3
+
+17.1
+26.4
+21.7
+19.3
+19.0
+19.6
+
+16.3
+25.7
+20.3
+19.9
+18.9
+18.9
+
+15.1
+24.2
+18.6
+19.7
+18.5
+17.8
+
+15.2
+23.9
+18.0
+19.5
+18.2
+17.7
+
+15.7
+24.3
+18.4
+20.2
+18.2
+18.0
+
+15.4
+24.4
+18.7
+20.5
+18.2
+17.9
+
+Current account balance
+United States
+Japan
+Germany
+Canada
+France, Italy, and United Kingdom 1/
+G-7 countries
+
+-1.5
+1.4
+-0.6
+0.5
+1.2
+-0.2
+
+-1.6
+2.2
+-0.4
+-1.3
+1.8
+-0.1
+
+-2.4
+3.0
+-0.6
+-1.2
+1.3
+-0.4
+
+-3.2
+2.6
+-1.2
+0.3
+0.3
+-1.1
+
+-4.2
+2.5
+-1.4
+2.9
+-0.5
+-1.7
+
+-3.8
+2.1
+0.2
+2.4
+-0.2
+-1.4
+
+-4.5
+2.8
+2.8
+2.0
+-0.1
+-1.4
+
+-4.8
+3.2
+2.4
+2.1
+-0.8
+-1.6
+
+-4.7
+3.1
+3.1
+1.8
+-0.9
+-1.6
+
+-4.4
+3.2
+2.7
+1.7
+-0.7
+-1.4
+
+Sources: World Economic Outlook ; and IMF staff calculations.
+1/ Composites for the country groups are averages of individual countries weighted by the average value of their respective GDPs converted
+using PPP weights over the preceding three years.
+2/ On national accounts basis.
+
+- 11 -
+
+By contrast, the expansion of the U.S. labor force due to immigration appears to have
+contributed to the longer-term growth of the U.S. economy, while also enabling the flow of
+remittances to lower-income countries, most notably in Central America and Mexico.3
+10.
+The business and financial sectors
+Nonfinancial corporations are currently providing
+funds to the rest of the economy.
+have strengthened as a result of
+productivity growth and the recovery. With
+in percent of GDP
+12
+12
+Capital
+a sharp rebound in profits and investment
+11
+11
+spending
+spending at a low ebb, the nonfinancial
+10
+10
+corporate sector is in the unusual position of
+9
+9
+being a net provider of funds to the rest of
+8
+8
+the economy. The share of after-tax profits in 7
+7
+GDP has risen to a post-war high as firms
+6
+6
+Cash flow
+have strengthened their balance sheets and
+5
+5
+taken advantage of low bond rates and
+4
+4
+1960 1966 1972 1978 1984 1990 1996 2002
+narrowing corporate spreads to extend the
+Source: Haver Analytics.
+maturity of their debt even as investment
+spending has started to pick up. At the same
+time, the banking system booked record profits in 2004Q1 and near-record returns on assets.
+11.
+Oil prices have spiked upward as faster global growth has spurred demand.
+Industry analysis suggests that rapid demand growth in China and elsewhere has reduced the
+supply cushion to unusually low levels, while geopolitical developments have also raised
+fears of possible supply disruptions. The
+Core inflation has started to increase on upstream
+spike in energy prices—which also
+presssures, but unit labor costs remain contained.
+reflects supply constraints in the natural
+gas sector—has raised overall inflation,
+8 change in percent, year on year
+8
+but pass-through to non-energy prices
+Unit labor
+6
+6
+costs
+has been limited. Nonetheless, higher
+4
+4
+fuel bills are expected to erode
+Core CPI
+discretionary income and dampen
+2
+2
+aggregate demand, while boosting the
+0
+0
+current account deficit.4
+12.
+Fears of deflation have recently
+been replaced by concerns that price
+pressures are growing. After falling to
+3
+4
+
+-2
+
+-2
+
+PPI finished
+
+-4
+1991
+
+goods
+1993
+
+1995
+
+1997
+
+1999
+
+-4
+2001
+
+2003
+
+Source: Haver Analytics.
+
+See Chapter 2 of the accompanying Selected Issues paper.
+
+The impact of higher oil prices on aggregate activity has fallen over time as conservation and the increasing
+role of services in U.S. GDP has lowered the energy intensity of output in the United States (see M. Mühleisen
+and C. Towe (eds.), 2004, U.S. Fiscal Policies and Priorities for Long-Run Sustainability, IMF Occasional
+Paper 227). Staff estimates from a range of sources suggest that a sustained increase of $5 in the price of a
+barrel of oil reduces U.S. economic activity by around ¼–½ percentage point over two years.
+
+- 12 -
+
+a 40-year low of around 1 percent in early-2004, year-on-year core inflation has recently
+started to rise, reaching over 1½ percent in May.5 The recent increase reflects a deceleration
+of deflation in goods prices as the global recovery has increased costs of materials and
+intermediate inputs, most notably energy. The depreciation of the dollar has added to these
+pressures, although the exchange rate pass-through of the weaker dollar appears to have been
+limited as foreign firms have reduced profit margins or benefited from earlier hedging.6 At
+the same time, rapid labor productivity growth continues to dampen unit labor costs, and
+service price inflation remains moderate.
+13.
+The current account deficit is
+close to its record high of 5 percent of
+The current account deficit is projected to stay at
+GDP—representing around 6 percent
+4-5 percent of GDP even after the dollar's depreciation
+of global saving—despite some dollar
+and anticipated faster partner-country growth.
+depreciation (Tables 4–5). While the
+2
+160
+US GDP Relative
+dollar has rebounded somewhat in recent 1
+to Trading Partners
+150
+months on expectations of monetary
+0
+140
+tightening, in real effective terms, it
+-1
+130
+-2
+remains some 10 percent below its peak
+Current
+-3
+120
+in early 2002, partly reversing its
+Account/
+-4
+GDP
+110
+appreciation since the mid-1990s. The
+-5
+depreciation has been almost exclusively
+100
+-6
+REER
+against industrial country currencies,
+90
+1990=100
+-7
+while the competitive position against
+-8
+80
+1990
+1994
+1998
+2002
+2006
+major developing country partners has
+Sources: Haver Analytics and IMF staff calculations.
+remained largely unchanged. The effect
+of the weaker dollar on real net exports, which continued to subtract from real GDP growth
+in 2003 and early 2004, has been modest, reflecting the usual lags between changes in real
+exchange rates and trade volumes as well as the relatively slower revival of foreign demand.
+III. ECONOMIC PROSPECTS AND RISKS
+14.
+Staff projections are for output growth to remain above potential through 2004
+and 2005, closing the output gap by 2006. The baseline forecast—which is broadly similar
+to the private consensus and the assumptions in the FY 2005 budget—is underpinned by
+continued strength in business fixed investment and an improvement in external demand.
+This is expected to help offset a slowdown in household demand, responding to the waning
+effects of tax cuts and a gradual rebound in the household saving rate, as well as weaker
+5
+
+These patterns are true of both the CPI and the personal consumption deflator (the measure preferred by the
+Federal Reserve Board), although the recent rise in core inflation has been more marked for the CPI.
+
+6
+
+There is some evidence that pass-through has been declining over time. See, for example, E. Choudhri,
+H. Faruqee, and D. Hakura, 2002, “Explaining the Exchange Rate Pass-Through in Different Prices,” IMF
+Working Paper WP/02/224.
+
+- 13 -
+
+Table 4. United States: Balance of Payments
+(In billions of dollars, unless otherwise indicated)
+1997
+
+1998
+
+1999
+
+2000
+
+2001
+
+2002
+
+2003
+
+Current account
+Percent of GDP
+
+-136
+-1.6
+
+-210
+-2.4
+
+-297
+-3.2
+
+-413
+-4.2
+
+-386
+-3.8
+
+-474
+-4.5
+
+-531
+-4.8
+
+Goods and services
+Merchandise trade
+Exports
+Imports
+Services
+Receipts
+Payments
+
+-108
+-198
+678
+-876
+90
+256
+-166
+
+-165
+-247
+670
+-917
+82
+263
+-181
+
+-263
+-346
+684
+-1,030
+83
+282
+-200
+
+-378
+-452
+772
+-1,224
+74
+299
+-225
+
+-363
+-427
+719
+-1,146
+64
+288
+-223
+
+-422
+-483
+682
+-1,165
+61
+294
+-233
+
+-497
+-548
+713
+-1,261
+51
+307
+-256
+
+Investment income
+Receipts
+Payments
+
+13
+257
+-244
+
+4
+261
+-258
+
+13
+293
+-280
+
+21
+350
+-330
+
+24
+287
+-263
+
+7
+267
+-260
+
+33
+294
+-261
+
+-40
+-12
+-28
+
+-48
+-13
+-35
+
+-47
+-14
+-33
+
+-56
+-17
+-39
+
+-47
+-12
+-35
+
+-59
+-17
+-42
+
+-67
+-22
+-46
+
+Capital account
+transactions, net
+
+-1
+
+-1
+
+-5
+
+-1
+
+-1
+
+-1
+
+-3
+
+Financial account
+
+221
+
+76
+
+237
+
+477
+
+416
+
+570
+
+546
+
+203
+1
+-105
+106
+200
+-117
+317
+
+103
+36
+-143
+179
+77
+-124
+202
+
+182
+65
+-225
+289
+161
+-116
+277
+
+436
+162
+-159
+321
+273
+-122
+395
+
+393
+25
+-142
+167
+319
+-85
+403
+
+460
+-62
+-135
+72
+423
+16
+407
+
+295
+-134
+-174
+40
+309
+-72
+381
+
+8
+
+4
+
+-22
+
+-32
+
+-7
+
+66
+
+65
+
+-5
+
+-15
+
+-21
+
+32
+
+58
+
+33
+
+55
+
+U.S. official reserves
+
+-1
+
+-7
+
+9
+
+0
+
+-5
+
+-4
+
+2
+
+Foreign official assets
+
+19
+
+-20
+
+44
+
+43
+
+28
+
+114
+
+249
+
+0
+
+0
+
+3
+
+-1
+
+0
+
+0
+
+1
+
+-84
+
+135
+
+65
+
+-63
+
+-29
+
+-95
+
+-12
+
+Unilateral transfers
+Government transfers
+Private transfers
+
+Private capital
+Direct investment
+Outflows
+Inflows
+Securities
+Outflows
+Inflows
+Net U.S. bank flows
+Nonbank capital flows
+
+Other items
+Statistical discrepancy
+Source: Haver Analytics.
+
+- 14 -
+
+Table 5. United States: Indicators of External and Financial Vulnerability
+(In percent of GDP, unless otherwise indicated)
+1996
+
+1997
+
+1998
+
+1999
+
+2000
+
+2001
+
+2002
+
+2003
+
+External indicators
+Exports of goods and services (percentage change, BOP basis)
+Imports of goods and services (percentage change, BOP basis)
+Terms of trade (annual percentage change)
+Current account balance
+Capital and financial account balance
+Of which: Inward portfolio investment (debt securities, etc.)
+Inward foreign direct investment
+Other investment liabilities (net)
+Official reserves (in billions of dollars)
+Broad money (M3) to reserves ratio
+Central bank foreign liabilities (in billions of dollars)
+Official reserves in months of imports
+Net international investment position (in billions of dollars) 1/
+Of which: General government debt (in billions of dollars) 2/
+External debt-to-exports ratio
+External interest payments to exports (in percent) 3/
+Nominal effective exchange rate (percent change)
+
+7.2
+7.3
+-0.5
+-1.5
+0.2
+3.2
+1.1
+0.2
+75.1
+90.8
+0.2
+0.9
+-521.5
+1,071.9
+0.6
+19.1
+5.1
+
+9.8
+9.1
+1.1
+-1.5
+0.3
+3.5
+1.3
+1.8
+70.0
+110.4
+0.5
+0.8
+-833.2
+1,198.8
+0.9
+20.4
+8.1
+
+-0.1
+5.3
+2.9
+-2.3
+0.1
+2.1
+2.0
+0.5
+81.8
+126.5
+0.2
+0.9
+-918.7
+1,231.8
+1.0
+22.1
+7.8
+
+3.5
+12.0
+-2.1
+-3.1
+0.3
+2.7
+3.1
+0.6
+71.5
+145.5
+0.1
+0.7
+-797.6
+1,156.5
+0.8
+21.9
+-1.3
+
+10.8
+17.8
+-4.6
+-4.2
+0.5
+3.9
+3.3
+1.2
+67.6
+170.2
+0.3
+0.6
+-1,387.7
+1,150.9
+1.3
+24.6
+3.4
+
+-5.8
+-5.5
+2.8
+-3.9
+0.4
+4.0
+1.5
+1.2
+68.7
+184.3
+0.1
+0.6
+-1,979.9
+1,187.8
+2.0
+23.9
+6.4
+
+-3.3
+2.0
+1.5
+-4.6
+0.5
+3.7
+0.4
+0.9
+79.0
+205.3
+0.1
+0.7
+-2,387.2
+1,401.6
+2.5
+20.7
+-0.6
+
+4.6
+8.4
+-1.3
+-4.9
+0.5
+3.4
+0.7
+0.9
+85.9
+204.7
+0.2
+0.7
+…
+…
+…
+17.6
+-8.8
+
+Financial market indicators
+General government gross debt
+Three-month Treasury bill yield (percent)
+Three-month Treasury bill yield (percent, real)
+Change in stock market index (S&P500 percent, year average)
+
+70.8
+5.1
+2.1
+23.9
+
+69.0
+5.2
+2.8
+30.1
+
+66.1
+4.9
+3.3
+24.2
+
+62.2
+4.8
+2.5
+22.3
+
+57.7
+6.0
+2.5
+7.6
+
+55.8
+3.5
+0.6
+-16.4
+
+56.8
+1.6
+0.0
+-16.5
+
+58.5
+1.0
+-1.2
+-3.2
+
+4,878.3
+57.6
+87.9
+1.0
+0.8
+
+5,014.9
+59.2
+86.8
+1.0
+0.7
+
+5,442.5
+59.5
+88.0
+1.0
+0.7
+
+5,735.2
+60.9
+91.1
+1.0
+0.6
+
+6,244.6
+61.2
+91.4
+1.1
+0.7
+
+6,552.4
+59.3
+88.7
+1.4
+0.9
+
+7,077.2
+58.7
+88.6
+1.5
+0.9
+
+7,602.5
+58.3
+88.1
+1.2
+0.8
+
+1.9
+183.5
+14.5
+1.2
+12.5
+7.6
+
+1.8
+191.6
+14.7
+1.2
+12.2
+7.6
+
+1.8
+183.2
+13.9
+1.2
+12.2
+7.5
+
+1.7
+178.1
+15.3
+1.3
+12.2
+7.8
+
+1.7
+149.4
+14.0
+1.2
+12.1
+7.7
+
+1.9
+131.0
+13.1
+1.2
+12.7
+7.8
+
+1.9
+127.2
+14.5
+1.3
+12.8
+7.8
+
+1.7
+145.8
+15.3
+1.4
+12.7
+7.9
+
+Banking sector risk indicators (percent unless otherwise indicated) 4/
+Total assets (in billions of dollars)
+Total loans and leases to assets
+Total loans to deposits
+Problem loans to total loans and leases 5/
+Nonperforming assets to assets
+Loss allowance to:
+Total loans and leases
+Noncurrent loans and leases
+Return on equity
+Return on assets
+Total capital ratio
+Core capital ratio
+
+Sources: Bureau of Economic Analysis; Department of Commerce; Federal Deposit Insurance Corporation; Federal Reserve Board; and Haver Analytics.
+1/ Current cost valuation.
+2/ Foreign official assets (U.S. Government securities plus Treasury securities).
+3/ External interest payments: income payments on foreign-owned assets (other private payments plus U.S. government payments).
+4/ FDIC-insured commercial banks.
+5/ Noncurrent loans and leases.
+
+- 15 -
+
+government demand as the fiscal position improves. Core inflation is expected to remain
+contained as the Federal Reserve withdraws stimulus broadly in line with current market
+expectations. The current account position is anticipated to improve only modestly, with the
+deficit falling close to 4 percent of GDP in 2009, as the lagged effect of the recent real
+depreciation of the dollar and economic recoveries in partner countries support net exports.
+Selected Indicators of Economic Activity
+(In percent changes from previous period, unless otherwise indicated)
+2004
+Real GDP
+Final domestic demand
+Private consumption
+Business fixed investment
+Residential investment
+Inventories 1/
+Net exports 1/
+Unemployment rate (percent)
+Central government balance 2/
+Current account balance 2/
+
+3.1
+3.4
+3.1
+3.0
+7.5
+0.0
+-0.4
+6.0
+-3.5
+-4.8
+
+3.9 4.3 4.0 4.0 3.9 3.8 3.7 3.6 3.6 3.5 3.5 3.5
+3.8 3.9 3.5 3.6 3.6 3.5 3.3 3.1 3.1 3.1 3.3 3.5
+3.8 3.1 3.6 3.8 3.7 4.8 5.2 4.5 3.8 3.7 3.8 3.5
+5.3 9.3 7.8 8.0 8.0 8.0 8.1 8.1 8.1 6.5 6.6 6.6
+4.6 2.0 0.0 -2.0 -8.0 -8.0 -7.0 -5.0 3.0 4.0 6.0 4.0
+0.6 0.2 0.1 0.1 0.1 0.2 0.3 0.4 0.3 0.3 0.3 0.3
+-0.7 0.3 0.4 0.3 0.0 0.0 0.0 0.0 0.0 0.0 -0.1 -0.2
+5.6 5.5 5.5 5.4 5.4 5.4 5.4 5.4 5.3 5.3 5.3 5.3
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+-5.1 -4.8 -4.6 -4.5 -4.4 -4.4 -4.4 -4.3 -4.2 -4.2 -4.3 -4.1
+
+3.9
+3.5
+4.1
+8.0
+-5.0
+0.2
+0.1
+5.4
+-3.5
+-4.4
+
+3.6
+3.2
+4.1
+7.5
+0.0
+0.3
+0.0
+5.3
+-2.5
+-4.2
+
+3.3
+3.3
+3.7
+6.6
+2.0
+0.1
+-0.2
+5.3
+-2.3
+-4.2
+
+3.1
+3.3
+3.6
+6.6
+2.0
+0.0
+-0.2
+5.3
+-2.4
+4.1
+
+3.1
+3.2
+3.4
+6.7
+2.0
+0.0
+-0.2
+5.3
+-2.3
+-3.9
+
+Q3
+
+Q4
+
+Q1
+
+Q2
+
+Q3
+
+2006
+
+Q1
+
+4.5
+4.2
+3.9
+8.9
+5.6
+0.3
+-0.1
+5.5
+-4.2
+-4.7
+
+Q2
+
+2005
+
+2003 2004 2005 2006 2007 2008 2009
+
+Q4
+
+Q1
+
+Q2
+
+Q3
+
+Q4
+
+Sources: Haver Analytics; and IMF staff calculations.
+1/ Contribution to growth.
+2/ As a share of GDP.
+
+15.
+Officials broadly shared the
+staff’s macroeconomic outlook and
+agreed that downside risks to the
+recovery had diminished in recent
+months. Businesses appeared to have
+worked off the excess IT capital stock
+built up in the late 1990s and had strong
+cash-flow positions. The boost to business
+spending from the cyclical upturn would
+likely offset the effects of the expiration
+of accelerated depreciation allowances
+later this year. In addition, firms would
+need to restock inventories from their
+current record-low relative to sales.
+16.
+Officials were less concerned
+than the staff about domestic risks to
+household spending. They agreed that the
+household saving rate appeared low, but
+noted that net worth as a share of
+disposable income had rebounded recently
+and had surpassed levels reached in the
+
+Household net worth has started to recover, but the
+saving ratio remains low...
+400
+
+in percent of disposable income
+
+450
+
+9
+
+Net worth
+
+8
+
+(left scale,
+
+7
+
+inverted)
+
+6
+
+500
+
+5
+
+550
+
+4
+
+Saving rate
+
+3
+
+(right scale)
+
+600
+
+2
+1
+
+650
+1990
+
+1992
+
+1994
+
+1996
+
+1998
+
+2000
+
+2002
+
+0
+2004
+
+... and the debt ratio is high and increasing.
+110 in percent of disposable income
+
+110
+
+100
+
+100
+Mortgage debt and consumer
+
+90
+
+90
+
+credit
+
+80
+
+80
+70
+
+70
+
+Mortgage debt
+
+60
+
+60
+50
+1990
+
+1992
+
+1994
+
+1996
+
+Source: Haver Analytics.
+
+1998
+
+2000
+
+2002
+
+50
+2004
+
+- 16 -
+
+mid-1990s.7 While the ratio of debt to income had risen to a record level, it was largely to
+finance real estate purchases, and interest burdens remained manageable as homeowners had
+locked in low interest rates. Some retrenchment of consumer spending growth was expected
+as the boost from past tax cuts and mortgage refinancing faded and rising energy costs
+reduced discretionary incomes. Nevertheless, in the absence of a geopolitical shock, officials
+regarded the risks of an abrupt slowing of spending as small, given the signs that
+employment and labor compensation were firming.
+17.
+Officials also indicated that, in their view, risks from recent housing price
+developments were limited. They agreed with staff that some regional markets appeared
+overheated but observed that house prices in general were recovering from relatively sluggish
+increases during the 1990s and were broadly in line with disposable income.8 In any event,
+officials noted that nominal house prices had never fallen on a national basis, suggesting that
+any cooling of the real estate market would likely involve a slowing of future appreciation.
+18.
+Federal Reserve officials noted that unemployment and capacity utilization
+suggested continued economic slack, limiting the risk to inflation. Their models were
+consistent with the consensus view of the NAIRU of around 5 percent, although there was a
+large degree of uncertainty surrounding such estimates. For example, the sharp drop in
+inflation last year and the unusual decrease in the participation rate recently suggested the
+potential for a lower NAIRU. Capacity utilization in manufacturing—which they regarded as
+a relatively good measure of aggregate economic conditions—also remained well below its
+long-term average. Thus, the overall picture was broadly consistent with the staff’s estimate
+of an output gap of 1½ percent of GDP.
+19.
+Staff and officials agreed that the rapid labor productivity growth of recent years
+represented an upside risk to the outlook.9 Official and staff forecasts have generally treated
+the recent acceleration conservatively, assuming that productivity growth would slow to
+2 percent or so over the medium term. A faster trend would boost domestic incomes, as well
+as ease policy challenges by moderating pressures on prices, raising government revenues,
+and encouraging capital inflows needed to fund the external deficit.
+IV. FISCAL DISCUSSIONS
+20.
+The FY 2005 budget signaled a welcome shift in policy emphasis toward fiscal
+consolidation (Table 6). The budget—released in February 2004 and covering the next five
+
+7
+
+The staff’s analysis of the U.S. saving rate and housing markets was published in the March 2004 issue of
+Finance and Development.
+
+8
+
+For further discussion of house prices, see K. Case and R. Schiller, 2003, “Is There a Bubble in the Housing
+Market?,” Brookings Paper on Economic Activity 2, pp. 299–362.
+
+9
+
+Chapter 1 of the accompanying Selected Issues paper reviews productivity developments in more detail.
+
+- 17 -
+
+Table 6. United States: Fiscal Indicators, FY 2000–09
+(In percent of GDP, unless otherwise indicated)
+
+2000
+
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+FY 2005 Current Services Baseline (Administration projection)
+Revenue
+
+20.9
+
+19.8
+
+17.9
+
+16.5
+
+15.7
+
+17.0
+
+17.7
+
+17.9
+
+18.0
+
+18.1
+
+Outlays
+Debt service
+Other
+
+18.4
+2.3
+16.1
+
+18.6
+2.1
+16.5
+
+19.4
+1.6
+17.7
+
+19.9
+1.4
+18.5
+
+20.2
+1.4
+18.9
+
+19.9
+1.5
+18.5
+
+19.6
+1.7
+17.9
+
+19.5
+1.8
+17.7
+
+19.5
+1.9
+17.5
+
+19.4
+2.0
+17.4
+
+Unified balance
+
+2.4
+
+1.3
+
+-1.5
+
+-3.5
+
+-4.5
+
+-2.9
+
+-1.9
+
+-1.6
+
+-1.5
+
+-1.3
+
+Memorandum items:
+Unified balance (in billions of dollars)
+
+236
+
+127
+
+-158
+
+-375
+
+-520
+
+-352
+
+-240
+
+-211
+
+-209
+
+-188
+
+Balance excl. Soc. Sec. and Medicare (HI)
+Primary balance
+Net debt held by public
+
+0.6
+4.7
+36.7
+
+-0.6
+3.3
+34.6
+
+-3.4
+0.1
+35.6
+
+-5.1
+-2.1
+37.6
+
+-5.9
+-3.2
+39.9
+
+-4.5
+-1.4
+41.0
+
+-3.6
+-0.2
+41.1
+
+-3.4
+0.2
+40.8
+
+-3.3
+0.4
+40.4
+
+-3.1
+0.7
+39.8
+
+FY 2005 Administration Budget
+Revenue
+
+20.9
+
+19.8
+
+17.9
+
+16.5
+
+15.7
+
+16.9
+
+17.4
+
+17.7
+
+17.8
+
+17.8
+
+Outlays
+Debt service
+Other
+
+18.4
+2.3
+16.1
+
+18.6
+2.1
+16.5
+
+19.4
+1.6
+17.7
+
+19.9
+1.4
+18.5
+
+20.2
+1.4
+18.9
+
+19.9
+1.5
+18.5
+
+19.6
+1.7
+17.9
+
+19.5
+1.9
+17.7
+
+19.5
+2.0
+17.5
+
+19.4
+2.0
+17.4
+
+2.4
+
+1.3
+
+-1.5
+
+-3.5
+
+-4.5
+
+-3.0
+
+-2.1
+
+-1.8
+
+-1.7
+
+-1.6
+
+236
+0.6
+4.7
+35.1
+
+127
+-0.6
+3.3
+33.1
+
+-158
+-3.4
+0.1
+34.1
+
+-375
+-5.1
+-2.1
+36.1
+
+-521
+-5.9
+-3.2
+38.6
+
+-364
+-4.6
+-1.5
+39.8
+
+-268
+-3.8
+-0.4
+40.1
+
+-241
+-3.6
+0.0
+40.2
+
+-239
+-3.6
+0.3
+40.0
+
+-237
+-3.5
+0.4
+39.8
+
+Unified balance
+Memorandum items:
+Unified balance (in billions of dollars)
+Balance excl. Soc. Sec. and Medicare (HI)
+Primary balance
+Net debt held by public
+
+FY 2005 Budget (Staff Projection) 1/
+Revenue
+
+20.9
+
+19.8
+
+17.9
+
+16.5
+
+16.0
+
+16.6
+
+17.0
+
+17.0
+
+16.9
+
+16.8
+
+Outlays
+Debt service
+Other
+
+18.4
+2.3
+16.1
+
+18.6
+2.1
+16.5
+
+19.4
+1.6
+17.7
+
+19.9
+1.4
+18.5
+
+20.2
+1.3
+18.9
+
+20.1
+1.5
+18.6
+
+19.5
+2.0
+17.5
+
+19.3
+2.2
+17.2
+
+19.2
+2.2
+17.0
+
+19.1
+2.3
+16.9
+
+Unified balance
+
+2.4
+
+1.3
+
+-1.5
+
+-3.5
+
+-4.2
+
+-3.5
+
+-2.5
+
+-2.3
+
+-2.4
+
+-2.3
+
+Memorandum items:
+Unified balance (in billions of dollars)
+
+237
+
+127
+
+-158
+
+-375
+
+-486
+
+-432
+
+-327
+
+-322
+
+-341
+
+-349
+
+Balance excl. Soc. Sec. and Medicare (HI)
+Primary balance
+Net debt held by Public
+
+0.6
+4.7
+35.1
+
+-0.6
+3.3
+33.1
+
+-3.4
+0.1
+34.1
+
+-5.1
+-2.1
+36.1
+
+-5.6
+-2.9
+38.0
+
+-4.9
+-2.0
+39.4
+
+-5.3
+-0.5
+39.3
+
+-4.1
+-0.2
+39.3
+
+-4.2
+-0.2
+39.3
+
+-4.1
+0.0
+39.1
+
+17.0
+19.3
+-2.3
+
+16.9
+19.2
+-2.4
+
+16.8
+19.1
+-2.3
+
+Structural Unified Balance (Staff Projection) 1/
+Revenue
+Outlays
+Unified balance 2/
+Memorandum items:
+Real GDP growth
+Administration
+Staff
+10-year government bond yield
+Administration
+Staff
+
+20.8
+18.9
+1.9
+
+19.8
+18.6
+1.2
+
+17.9
+19.0
+-1.1
+
+16.5
+19.4
+-2.9
+
+16.0
+19.9
+-3.9
+
+16.6
+20.0
+-3.4
+
+17.0
+19.4
+-2.4
+
+(in percent, calendar-year basis)
+3.7
+3.7
+
+0.5
+0.5
+
+2.2
+2.2
+
+3.1
+3.1
+
+4.4
+4.5
+
+3.6
+3.9
+
+3.4
+3.6
+
+3.3
+3.3
+
+3.2
+3.1
+
+3.1
+3.1
+
+6.0
+6.0
+
+5.0
+5.0
+
+4.6
+4.6
+
+4.0
+4.0
+
+4.6
+4.7
+
+5.0
+5.6
+
+5.4
+6.0
+
+5.6
+6.0
+
+5.8
+6.0
+
+5.8
+6.0
+
+Sources: Fiscal Year 2005 Budget of the United States Government (February 2004), and IMF staff calculations.
+1/ Staff projections allow for differences in macroceconomic assumptions, as well as incorporating AMT reform and somewhat faster spending growth.
+2/ As a percent of potential GDP, based on proposed measures, under staff's economic assumptions.
+
+- 18 -
+
+fiscal years—adopted the goal of halving the deficit in nominal terms by FY 2009, implying
+a reduction of almost 3 percent of GDP relative to the projected FY 2004 deficit. The vast
+majority of this decline would occur over FY 2005–06, when consolidation is projected to
+occur at over 1 percentage point of GDP per annum (compared to one-sixth of a percentage
+point per annum during the subsequent three fiscal years). The near-term adjustment would
+mainly result from the expiration of temporary investment incentives and the restoration of
+personal tax refunds to more normal levels. Tight limits on spending—as well as an easing of
+pressures on defense outlays—are assumed to provide room over the medium-term for
+making the 2001 tax cuts permanent and to introduce new tax-preferred savings instruments.
+Recent data also suggest that the FY 2004 deficit could be as much as ½ percent of GDP
+lower than projected in the budget.
+21.
+Congressional approval of the
+budget is still awaited. Agreement on a
+budget resolution has been hampered by
+differences about the cost of further tax
+measures. Whereas the House already
+approved bills that would make many of
+the 2001 tax cuts permanent, the Senate
+would require the cost of any tax cuts in
+FY 2005 to be fully offset by other
+measures. Analysts also anticipate
+difficulties in passing a full set of budget
+appropriations, given that 60 votes would
+be required to block costly amendments
+to each bill in the Senate. This could
+again necessitate bundling appropriations
+into an omnibus spending bill, which has
+reduced fiscal transparency and
+weakened expenditure discipline in the
+past.
+
+The FY 2005 Budget foresees a narrowing of the deficit
+through FY 2006 but relatively small changes thereafter.
+in percent of GDP, fiscal year
+23
+
+Budget
+Forecast
+
+22
+
+23
+
+Staff
+Forecast
+
+22
+
+Tight discretionary
+spending limits
+
+21
+
+21
+20
+
+20
+Surplus
+
+19
+
+19
+Deficit
+
+18
+
+18
+17
+
+17
+End of temporary tax
+cuts
+
+16
+
+16
+15
+
+15
+1997
+
+2002
+
+2007
+
+2012
+
+Sources: U.S. Government FY 2005 Budget; Congressional
+Budget Office; IMF staff calculations.
+
+The FY 2005 Budget projects a decline in
+discretionary spending, particularly on items
+
+22.
+The mission agreed that the
+rate of fiscal adjustment envisaged for
+the coming two years was appropriate,
+and focused on associated risks and
+the longer-term context. In this regard,
+the team noted that while the shift to
+consolidation was consistent with past
+Fund advice, the budget took no account
+of the cost of ongoing operations in Iraq
+and Afghanistan, as well as highway
+and energy legislation presently before
+
+unrelated to defense and homeland security.
+12
+10
+
+Federal Spending
+
+12
+
+Mandatory
+
+in percent of GDP
+
+Budget
+National
+
+8
+
+Forecast
+
+Defense &
+Homeland
+
+6
+
+10
+8
+6
+
+Security
+
+4
+
+4
+
+2
+
+2
+Other discretionary
+
+0
+
+0
+1977
+
+1981
+
+1985
+
+1989
+
+1993
+
+1997
+
+Source: Office of Management and Budget.
+
+2001
+
+2005
+
+2009
+
+- 19 -
+
+Congress. It also assumed sustained
+spending discipline that would take
+nondefense discretionary spending as a
+share of GDP to its lowest level since the
+early 1960s. On the revenue side, the repeal
+of the Foreign Sales Corporation Act was
+likely to involve additional tax cuts, and the
+budget’s revenue projections were
+predicated on a significant increase in the
+number of tax filers falling under the
+Alternative Minimum Tax, which was
+almost certain to trigger corrective
+legislative action at potentially significant
+fiscal cost.
+23.
+Regarding the longer term, the
+mission noted that a significant effort
+would be needed to address the
+sustainability of the U.S. fiscal position.
+Although the Administration has recognized
+the pressures that are expected to build from
+the Social Security and Medicare systems,
+last year’s expansion of Medicare benefits
+has exacerbated the long-run fiscal
+imbalance. Staff estimates now place the
+actuarial liability of major entitlement
+programs over a 75-year horizon at about
+230 percent of current GDP, roughly
+equivalent to a 13 percentage point hike in
+payroll taxes.
+
+In the absence of reforms, federal debt is projected to
+rise steadily as a ratio to GDP.
+500
+
+500
+
+In percent of GDP
+
+450
+
+450
+
+400
+
+400
+
+350
+
+350
+300
+
+300
+Federal Debt
+Held by
+SS/HI Trust
+Fund
+
+250
+200
+150
+
+250
+200
+
+50
+0
+2000
+
+2010
+
+2020
+
+2030
+
+150
+
+Federal Debt
+Held by
+Public
+
+100
+
+2040
+
+2050
+
+2060
+
+2070
+
+100
+50
+0
+2080
+
+Sources: Social Security and Medicare Trustees' Reports.
+
+An early withdrawal of fiscal stimulus would reduce
+the long-term drag from higher debt.
+2
+
+U.S. Real GDP (deviation from baseline)
+in percent
+
+2
+
+Consolidation
+
+1
+
+1
+
+over 5 years
+0
+
+0
+
+-1
+
+-1
+
+-2
+
+delayed 5 years
+
+-3
+-4
+2000
+
+2
+
+-2
+
+Consolidation
+
+2005
+
+2010
+
+2015
+
+-3
+-4
+2020
+
+Other Industrial Countries Real GDP (deviation from baseline)
+in percent
+
+2
+
+24.
+Against this background, the team
+1
+1
+Consolidation
+saw the need for a clear long-term fiscal
+over 5 years
+0
+0
+goal to anchor expectations, consistent
+with previous Fund advice. The mission
+-1
+-1
+proposed that the authorities aim at
+-2
+-2
+balancing the budget, excluding the Social
+Consolidation
+delayed 5 years
+Security surplus, by the end of decade. This
+-3
+-3
+would enable a substantial reduction of
+-4
+-4
+U.S. federal debt ahead of the retirement of
+2000
+2005
+2010
+2015
+2020
+the baby-boom generation and provide room
+Source: World Economic Outlook , May 2004.
+to build consensus on the entitlement front.
+Reducing the deficit by 1 percentage point of GDP each year through the rest of this
+decade—roughly the rate envisioned for FY 2005–06—could provide significant supply-side
+benefits to the United States and elsewhere by raising public saving and thereby reducing
+
+- 20 -
+
+pressures on global interest rates and investment, with only modest effects on short-term
+activity.10 To maximize these benefits, the mission considered that consolidation could be
+achieved in a manner that would preserve the supply-side benefits from recent reductions in
+marginal tax rates.
+25.
+Officials stressed the Administration’s commitment to reducing the deficit, agreeing
+that persistent deficits would be harmful to the economy, including by driving up interest
+rates. While seeing little merit in establishing a more formal longer-term fiscal goal, given
+the uncertainties involved in budget projections, they emphasized that a balanced budget
+remained the Administration’s longer run objective. By FY 2009, the ratio of the fiscal
+deficit to GDP would fall below its long-term average, which they regarded as an
+appropriately ambitious goal, especially in light of the need to give priority to spending on
+defense and homeland security. They added that considerable care had been taken to ensure
+that the budget rested on prudent macroeconomic and technical assumptions, but did not
+expect that a better-than-expected outcome this year would translate into a more ambitious
+medium-term target.
+26.
+The mission supported the Administration’s call for a reauthorization of the 1985
+Budget Enforcement Act (BEA), but saw risks in the decision to limit its scope. Although
+the Administration’s proposal would establish caps on discretionary spending and tighten
+restrictions on “emergency” appropriations, it could significantly weaken fiscal discipline by
+exempting most tax measures from “pay-as-you-go” provisions and shortening the horizon of
+the legislation’s discipline to five years. This would allow lawmakers, for example, to
+circumvent spending restrictions by granting targeted tax relief, or to design measures with
+the fiscal impact concentrated in the outer years.
+27.
+The team discussed the role revenue enhancements could play in helping to achieve
+consolidation. The mission agreed that spending cuts represented a preferable option for
+restoring fiscal balance but noted that revenue reform could play an important role, especially
+given the magnitude of the fiscal adjustment required and already ambitious plans for cutting
+nondefense discretionary spending. In order to preserve potential supply-side benefits of
+lower marginal tax rates, the mission suggested that emphasis should be laid on reforms to
+broaden and simplify the tax base. As discussed in Box 2, potential options to improve the
+equity and efficiency of the tax system could include lowering personal income tax
+expenditures, such as the deductibility of mortgage interest payments, reducing corporate tax
+exemptions, raising energy taxes, and introducing a national value-added or similar indirect
+tax.11
+
+10
+
+Chapter 2 of the World Economic Outlook (April 2004) illustrates this point by reporting MULTIMOD
+simulations that suggest that a delayed fiscal adjustment places greater downward pressure on investment and
+output, both domestically and abroad, as higher government debt reduces private saving.
+
+11
+
+See also Chapter 3 of the accompanying Selected Issues paper.
+
+- 21 -
+
+Box 2. Options for Fiscal Consolidation1
+Estimates of the size of measures needed to balance the budget excluding Social Security differ depending on
+assumptions about policies and future growth. Using the Administration’s FY 2005 budget proposals, the CBO
+projects a unified federal government deficit excluding the Social Security of 3¼ percent of GDP ($570 billion) by
+2014, while a baseline that includes AMT relief and somewhat faster expenditure growth yields a gap of 4 percent
+of GDP. Estimates of the fiscal gap are sensitive to underlying growth assumptions, with the required adjustment
+falling (rising) by 1½ percent of GDP for each ½ percentage point, the potential growth rate is higher (lower) than
+in the baseline.
+Further spending cuts may be difficult to achieve. The Administration’s FY 2005 budget already aims to reduce
+nondefense discretionary expenditure to under 3 percent of GDP over five years, the lowest level since the 1960s.
+Additional cuts could include reigning in agricultural and other commercial subsidies, including curbing
+agricultural price support, closing or privatizing federal agencies, such as NASA, the FAA, or the Export-Import
+Bank, and ending a range of other federal programs. While such measures could yield savings worth up to
+2½ percent of GDP by 2009, realistic targets are likely to prove considerably smaller. Similarly, reductions in
+federal transfers to the states would simply move the fiscal problem from the federal to state budgets.
+Even under relatively optimistic assumptions regarding expenditure restraint, sizeable revenue increases
+appear necessary to restore the budget to balance excluding Social Security. Efficiency considerations suggest
+that broadening the personal income tax base and introducing a federal consumption tax should take priority over
+raising marginal income tax rates. The potential revenue impact of such measures could be significant:
+•
+
+The U.S. personal income tax system provides substantial tax deductions and exemptions, leading to
+total revenue losses of about 6 percent of GDP in 2003. Savings could be achieved by bringing these
+exemptions partly under the tax net. For example, the maximum mortgage amount on which tax
+exemption can be claimed (currently $1 million) could be gradually reduced or phased out.
+
+•
+
+The corporate income tax system has been characterized by a widening gap between corporate book and
+taxable profits. Potential revenue gains from closing corporate tax loopholes and stepping up enforcement
+of existing rules are hard to estimate, but could be a multiple of the $25 billion (¼ percent of GDP)
+annual cost of corporate tax expenditures projected over the medium term.
+
+•
+
+A gradual increase in energy taxes could raise revenues and help limit U.S. energy use especially since
+from an international perspective energy use in the United States is relatively lightly taxed, even
+accounting for geographical and climatic idiosyncrasies. Estimates suggest that raising gasoline taxes by
+20 cents per gallon could yield around ¼–½ percent of GDP in revenues.
+
+•
+
+Experience from other industrial countries suggests that a federal VAT could yield about ½ percent of
+GDP per percentage point. A VAT could help improve intergenerational equity by implicitly taxing
+retiree wealth, and—once established—would provide an economically more efficient means to raise
+revenues to respond to spending pressures from population aging.
+
+While no alternative to long-term fundamental reform of the Social Security and Medicare programs, fasteracting measures to reduce entitlement spending could also be implemented. These could include, among others,
+advancing the next phase of the increase in retirement age, currently slated for 2017; improving the formula for
+cost-of-living adjustments to align benefit levels more closely with actual cost increases; and adjusting benefit
+payments for increases in life expectancy. On the revenue side, the share of taxable earnings currently included in
+the payroll tax base could be increased, and there also remains scope for raising premium levels for the SMI part
+of Medicare. These measures could provide annual savings of ½–¾ percent of GDP by 2014.
+Note: The author of this box is Martin Mühleisen.
+1
+
+This box is based on U.S. government budget documents as well as: CBO, 2003 Budget Options; C. Edwards, 2004,
+“Downsizing the Federal Government,” Policy Analysis, No. 515 (The Cato Institute); M. Mühleisen and C. Towe (eds.), 2004,
+U.S. Fiscal Policies and Priorities for Long-Run Sustainability, IMF Occasional Paper 227, A. Rivlin and I. Sawhill (eds.),
+2004 Restoring Fiscal Sanity: How to Balance the Budget (Brookings Institution).
+
+- 22 -
+
+28.
+Officials ruled out tax increases to close the medium-term budget gap, but saw scope
+for revenue-neutral tax reform. This reflected a fundamental view that budget discipline should
+rest on curbing government spending. The Administration’s policy was aimed at maximizing
+incentives for economic growth, including by keeping the ratio of tax revenue to GDP low,
+encouraging private saving, and reducing the regulatory burden, while maintaining a reasonable
+level of government. Nevertheless, officials acknowledged that the expected increase in the
+number of taxpayers falling under the Alternative Minimum Tax (AMT) ran counter to the
+AMT’s original purpose of securing a minimum amount of tax revenue from wealthy individuals
+and would likely trigger broader reform proposals.12
+29.
+The Administration also remains committed to simplifying and extending existing taxexempt vehicles to provide incentives for enhanced private saving. Existing tax-preferred
+savings plans would be replaced by Retirement Savings Accounts, which would enable tax-free
+investment so long as withdrawals were made following retirement (so-called tax-prepaid plans).
+The Administration has also proposed tax-prepaid Lifetime Savings Accounts—which would
+allow households to withdraw funds before retirement for a range of purposes—as a means to
+support saving especially amongst low-income households that tend to suffer more from liquidity
+constraints than other groups of the population. Health Savings Accounts were already
+introduced as part of the 2003 Medicare reform bill to help make medical insurance more
+affordable. Staff cautioned that existing evidence on the effectiveness of tax-exempt vehicles in
+raising net private saving was mixed, suggesting that a positive impact on national saving was
+not assured.
+30.
+In view of the continued underfunding of the Social Security system, the team noted
+that delaying reform would require larger and more painful measures later on (Box 3). The
+2004 Economic Report of the President analyzes a reform option already proposed and discussed
+by a 2001 Presidential Commission. It involves indexing benefit accruals to inflation instead of
+wage growth, which would slow benefit growth and eliminate the system’s underfunding, and
+diverting part of the existing payroll tax to personal retirement accounts (PRAs). While PRAs
+would have a limited impact on unfunded liabilities, the team noted that debt and deficits would
+rise during the transition to a more funded system.
+31.
+Officials responded that the Administration had sought to foster debate around
+alternative approaches to Social Security reform rather than identify specific policies.
+Although it had not endorsed any particular reform plan, the Administration was deeply
+committed to the introduction of PRAs. Officials discounted concerns about the associated rise in
+public debt and deficits, noting that these would be transitory and would only reflect an explicit
+recognition of implicit obligations. Indeed, the expectation was that the higher deficits in the
+transition period would assist in disciplining spending in these and other areas. Accordingly, they
+saw no need for offsetting measures, such as broadening the base of the Social Security tax
+noting that indexing accruals to prices, in combination with the introduction of PRAs, would
+eliminate the program’s funding gap over the infinite horizon.
+32.
+Officials agreed that the financial problems of the Medicare system were much more
+daunting than Social Security. The system is expected to begin running cash-flow
+12
+
+See Chapter 4 of the accompanying Selected Issues paper.
+
+- 23 Box 3. The Real Fiscal Problem—An Intergenerational Accounting Approach1
+The recent re-emergence of large U.S. budget deficits has heightened concern regarding the extent to which the
+retirement and health care systems are prepared to cope with the pressures of an aging population. Actuarial
+estimates for the Social Security and Medicare systems show that the present value of the unfunded liability of these
+two programs is around 230 percent of current GDP over a 75-year horizon (and higher if calculated over a longer
+horizon; Table). This suggests the need for either benefit cuts or premium increases with a yield roughly equivalent to
+an immediate and permanent 13 percentage point hike in
+the current payroll tax rate.
+Unfunded Liabilities
+Reform options for Social Security were discussed in the
+2004 Economic Report of the President. One plan,
+which was outlined by the 2001 Presidential
+Commission, slows the growth of Social Security benefits
+by indexing accruals of benefits to inflation instead of
+wage growth, and offers beneficiaries the option to
+deposit part of their payroll taxes in personal retirement
+accounts. The accumulated contributions, to be invested
+in private securities, would be available for workers at
+retirement in exchange for reductions in the traditional
+Social Security benefit. While indexing accruals to
+inflation would eliminate the program’s funding gap,
+staff estimates (assuming that price-indexing ends after
+75 years) suggest that the introduction of personal
+retirement accounts would likely still leave the system
+with a small remaining liability.1
+
+(In percent of 2003 GDP)
+Years of projections
+
+50
+
+75
+
+150
+
+∞
+
+Social Security 1/ 2/
+Current system
+Indexing accruals to prices
+Indexing accruals to prices plus PRA
+with 67% participation
+with 100% participation
+
+9.0 31.1 71.0 80.6
+(5.2) (5.6) (9.1) (10.2)
+10.1
+17.8
+
+8.5
+15.6
+
+7.6
+12.5
+
+(0.4)
+4.5
+
+Medicare 2/
+Current system
+Of which:
+Hospital insurance
+Supplementary medical insurance (Part B)
+Medicare prescription drug (Part D)
+
+124.7 202.4 338.1
+
+...
+
+30.7
+55.5
+38.4
+
+60.2 116.5
+83.3 129.4
+58.8 92.2
+
+...
+...
+...
+
+Tighter Spending
+
+97.8 138.0 202.0
+
+...
+
+Source: IMF staff calculations based on SSA data.
+1/ Present value of the projected costs less the sum of the trust fund assets at the
+
+beginning of 2003 and the present value of the projected tax income.
+The unfunded liabilities of Medicare are much larger
+than Social Security. On current policies, including the
+2/ Present values are obtained using the projected 2004 OASDI Trust Fund
+prescription drug benefit introduced in 2003, spending on Report intermediate long term yield rate (5.8 percent).
+Medicare is projected to rise from about 2½ in 2004 to about 10 percent of GDP by 2075, and Medicare’s 75-year
+actuarial imbalance is estimated at around 200 percent of 2003 GDP (Table). Population aging is only one of the
+factors behind the projected increase in Medicare spending. Due to the increase in the cost of medical technology and
+drugs, per capita health expenditure has increased significantly faster than wages over the last decade, and projections
+assume this trend to continue. As indicated in the “tighter spending” scenario reported in the table above, staff
+estimates indicate that containing Medicare spending to the rate of productivity growth would reduce its actuarial
+imbalance by about one-third.
+
+A frequently ignored aspect of the debate concerns the
+Closing the Fiscal Imbalance
+intergenerational consequences of the reform. Estimates
+based on an intergenerational accounting framework
+Percent
+Percent Cut in
+Increase in Social Security
+similar to that used by Gokhale and Smetters (2003) show
+Income Taxes and Medicare
+that the size of the U.S. fiscal gap over an infinite horizon
+may be nearly five times the present level of U.S. GDP.
+67.1
+-51.0
+Baseline
+The adoption of policy measures to close the gap would
+73.5
+-53.8
+Adjustment delayed to 2010
+require an immediate and permanent increase in personal
+Adjustment delayed to 2020
+85.3
+-58.8
+and corporate income tax revenues of two-thirds or,
+Sources: Budget of U.S. Government, FY2005; Old-Age and Survivors
+alternatively, an immediate and permanent halving of
+and Disability Insurance (OASDI) 2004 Trust Funds Annual Report;
+Social Security and Medicare outlays for all current and
+and IMF staff calculations.
+future generations. Delaying the reforms would not only
+increase the total size of the adjustment eventually needed, it would also involve a substantial redistribution of the
+fiscal burden from current to future generations.
+Note: The author of this box is Roberto Cardarelli.
+1
+
+Estimates of the effect of this option are only available from the Social Security Administration for 75 years. IMF staff
+assumptions for subsequent years include the indexation of benefit accruals to wages rather than prices, as discussed further in
+Chapter 4 of U.S. Fiscal Policies and Priorities for Long-Run Sustainability, IMF Occasional Paper No. 227 (2004). As with all
+long-term projections, changes to the underlying assumptions could affect the results.
+
+- 24 -
+
+deficits by the end of the next decade, and outlays are projected to rise rapidly as a share of
+GDP, particularly given the drug benefits introduced last year. Officials stressed that the
+problems went beyond the increase in the elderly population. Rising costs, in part, reflect
+improvements in technology that have encouraged the increased use of more expensive
+procedures and equipment, including for relatively expensive chronic illnesses, such as
+diabetes and coronary heart disease.
+33.
+The mission asked about prospects for reform and whether it should involve the
+broader health care system. Although the health system is largely run by the private sector,
+half of U.S. medical spending is publicly financed, with this share likely to rise with
+population aging. Consequently, durable reform of the public system would also seem to
+require measures that could address the cost pressures and incentives in the private system.
+Officials responded that recent and prospective reform proposals would help increase
+efficiency and slow health care costs. The Health Savings Accounts established as part of last
+year’s Medicare legislation were designed to give consumers greater responsibility and
+choice over their health care and encourage them to play a greater role in containing costs.
+The 2003 legislation also introduced the principle of means-tested benefits, contained
+initiatives to promote preventative care and the use of information technology, and increased
+private sector involvement in administering benefits. Although private health management
+organizations have had only mixed success in containing costs thus far, officials viewed these
+systems as likely to be effective in reducing costs related to excess capacity, which was
+especially significant in urban rather than rural areas.
+34.
+Health care issues also remain of central importance at the state level. Financial
+conditions among the states have improved since mid-2003 reflecting expenditure cuts, some
+revenue measures, and a recovery in economic activity. However, most states continue to
+seek budgetary savings to cope with the steep drop in tax revenues after 2001, and some were
+concerned that new federal mandates in areas such as education and homeland security had
+only been partly funded. In the long run, however, the states’ fiscal position was largely
+dominated by health care spending, which was projected to continue to trend upwards at a
+rate of 8–9 percent per year. With diminishing room for further expenditure cuts, states are
+expected to increasingly turn toward revenue measures, with the taxation of internet
+transactions emerging as an area of potential friction in state-federal fiscal relations.
+V. MONETARY AND EXCHANGE RATE POLICIES
+35.
+In recent months, the Federal Open Market Committee (FOMC) has begun to lay
+the ground for a withdrawal of stimulus. Following the August 2003 formulation that an
+accommodative stance would be maintained for a “considerable period,” the FOMC’s
+January 2004 statement suggested that deflationary risks had eased by stressing that the Fed
+could be “patient” before withdrawing stimulus. In subsequent speeches, FOMC members
+downplayed fears that low interest rates were fueling a speculative bubble in asset markets,
+but also cautioned that households and businesses should be prepared for a higher interest
+rate environment. In May, the FOMC’s statement shifted toward a balanced assessment of
+inflation and noted that policy accommodation could be removed at a pace that was likely to
+
+- 25 -
+
+be “measured.” More recent speeches have
+emphasized that, if necessary, the FOMC
+stands ready to move rapidly to maintain
+price stability.
+
+Market expectations of monetary tightening have
+accelerated.
+5.0
+4.5
+4.0
+
+Eurodollar futures yields, in percent
+21-Jun-2004
+14-Apr-2004
+31-Mar-2004
+
+5.0
+4.5
+4.0
+
+36.
+The team commended the
+3.5
+3.5
+authorities for their success in stemming
+3.0
+3.0
+deflation risks during the past year. The
+2.5
+2.5
+further easing that had been introduced in
+2.0
+2.0
+early 2003, and the subsequent statements
+1.5
+1.5
+by policymakers that the authorities were
+1.0
+1.0
+prepared to respond further, including
+Jun-04
+Dec-04
+Jun-05
+Dec-05
+Jun-06
+through unconventional means, appeared to
+Source: Bloomberg.
+have effectively anchored expectations and
+reassured markets. Fed officials responded that, with the recovery now becoming well
+advanced, the focus of their communication strategy had shifted toward preparing financial
+markets for the inevitable withdrawal of monetary stimulus. This emphasis reflected a desire
+to avoid the type of market over-reaction that had occurred in 1994, when bond yields rose
+sharply in response to Fed tightening. FOMC statements seemed to have been effective in
+signaling that policymakers were committed to a gradual policy adjustment, and officials
+expressed broad satisfaction with the extent to which this signal had been reflected in bond
+yields.
+37.
+At the same time, however, the team discussed whether recent price pressures
+suggested that an earlier withdrawal of stimulus might have been warranted. The core PCE
+deflator had accelerated by some ½ percent
+(year-over-year) since January and inflation
+The recent rise in bond yields appears to have led
+to some increase in inflation expectations.
+expectations—as measured by the spread
+between nominal and inflation-indexed
+5 in percent
+5
+bonds—seemed to be drifting upward. In
+Nominal 10 year bond
+this circumstance, a gradual increase in the
+Real interest rate
+4
+4
+from inflationfederal funds rate might not be consistent
+adjusted bonds
+with price stability given that the economy
+3
+3
+was expected to return to potential around
+2
+Implied inflation
+mid-2006, the transmission lag for monetary 2
+expectations from
+policy was around 18 months, and there
+inflation-adjusted
+1
+1
+remained a large gap between the current
+bonds
+federal fund rate of 1 percent and
+0
+0
+conventional estimates of a neutral rate of
+Mar
+Apr
+May
+Source: Bloomberg.
+4–5 percent.
+38.
+Fed officials saw little likelihood that an abrupt removal of stimulus would be
+needed. Indeed, they suggested that the rate of withdrawal of stimulus in 2005 implied by
+yield curves seemed more rapid than warranted by cyclical conditions. Although the federal
+funds rate was a considerable distance from its neutral level, bond yields had increased and
+
+- 26 -
+
+headwinds associated with the higher oil prices, the anticipated rebuilding of the household
+saving rate, and the withdrawal of fiscal stimulus, meant that monetary policy could be easier
+for longer than otherwise.
+39.
+Thus, while Fed officials acknowledged that the recent rebound in inflation was a
+cause for concern, they saw the risk of a significant acceleration in core prices as limited.
+Recent price pressures seemed to largely reflect increases in margins rather than unit costs
+and, with the share of profits in national income unusually elevated, there was considerable
+room for margins to accommodate a further rise in material costs. Moreover, since the
+disinflation through late 2003 and early 2004 had been larger than projected by conventional
+models, the recent price increases likely represented a return to more normal conditions.
+Although inflation expectations had increased, the rise was modest and to be expected in the
+face of higher energy prices and the cyclical recovery, and surveys indicated that
+expectations remained well anchored.
+40.
+Officials observed that the Fed continued to take a “risk-management approach” to
+policy. The weight that policymakers placed on the Fed’s dual mandate of price stability and
+full employment tended to vary depending on which of these objectives were at greatest risk.
+Thus, greater weight was given to real output growth during economic downturns, with a
+larger weight attached to inflation and interest rate smoothing during upturns (Box 4).13
+41.
+The Federal Reserve remains one of the most transparent central banks. That said,
+as in the past, the staff queried whether introducing a more explicit definition of price
+stability and medium-term target for inflation would provide valuable additional guidance to
+markets. They noted that a greater number of FOMC members appeared amenable to this
+idea than in the past. Officials acknowledged that there were different views on the merits of
+adopting an explicit inflation target within the FOMC, but key objections included the Fed’s
+dual mandate, the fact that inflation expectations were already well anchored, and that
+inflation indices tended to be biased. A number of options for increasing transparency—such
+as adopting a standard formula for describing the FOMC’s policy stance, releasing more
+detailed macroeconomic forecasts, and accelerating the publication of minutes—had been
+discussed at the FOMC’s January 2004 meeting, but there had been no agreement on these
+proposals.
+42.
+Staff discussed the implications of the large U.S. current account deficit and
+associated risks of market disruption. Especially against the background of a large fiscal
+deficit, the low U.S. national saving rate could be a significant drain on global saving as the
+global recovery matures, potentially dampening global investment and growth.14 In addition,
+
+13
+
+The cyclical response of monetary policy is discussed in Chapter 5 of the accompanying Selected Issues
+paper.
+14
+
+See Chapter 2 of the World Economic Outlook, April 2004, “The Global Implications of the U.S. Fiscal
+Deficit and of China’s Growth.”
+
+- 27 -
+
+Box 4. How Typical Was the Federal Reserve’s Response To This Recession? 1
+To compare the monetary policy response to past cyclical episodes, the staff has estimated a
+monetary response function in which the coefficients on the Taylor rule vary depending on
+the state of the cycle. More precisely, Taylor rules were estimated separately for recessions
+(i.e., periods of negative output growth) and expansions. Given uncertainties about the true
+state of the economy, the implied policy being followed at any one time is a weighted average
+of these two rules, with the weights depending on the relative probabilities assigned to being in
+either situation.
+The results indicate that in expansions the Federal Reserve puts a high weight on combating
+inflation and on smoothing interest rate changes, while in recessions more weight is
+assigned to output growth and responses are faster. The focus on inflation in recoveries and
+output growth in recessions plausibly reflects differing economic risks and costs as well as
+possible nonlinearities in the relationship between inflation and output over the cycle.
+Similarly, the difference in speed of response is consistent with some stylized features of the
+cycle, including that the onset of recessions is less predictable than recoveries and that output
+tends to fall more rapidly than it increases.
+The two-state Taylor rule captures the
+Federal Funds Rate Under Alternative Scenarios
+broad contours of the Federal Reserve’s
+In percent
+8
+8
+recent behavior. The figure shows the
+Actual
+actual path of the federal funds rate and the
+6
+6
+path implied by the two extreme rules
+adjusted to equal the actual rate at the end
+Recession
+of the recession. As can be seen, the
+4
+4
+rule
+“recession” policy rule suggests a rapid fall
+in the federal funds rate over the downturn
+2
+2
+Expansion
+that is relatively similar to the actual
+rule
+easing, reflecting the focus on anemic
+0
+0
+output growth. Similarly, the “expansion”
+2000
+2001
+2002
+2003
+rule, with its greater concentration on
+inflationary developments and interest rate smoothing, suggests that the tightening cycle would
+normally have started but be at an early stage.
+The analysis also suggests, however, that current stimulus is larger than typical. A closer
+examination of the results reveals that the easing cycle this time around was particularly
+aggressive. The speed of easing appears to have reflected fears of deflation and the limited
+room to provide future interest rate reductions due to the closeness of the zero interest rate
+bound, which generated a greater-than-usual emphasis on ensuring adequate current stimulus.
+However, this also implies that the current stance is more simulative than would be typical at
+this stage in the cycle. This suggests that at some point, the tightening cycle might be expected
+to be somewhat more aggressive than in a more typical environment.
+Note: The author of this box is Pau Rabanal.
+1
+
+More details of the staff’s work is contained in Chapter 5 of the accompanying Selected Issues paper.
+
+- 28 -
+
+the projected continuing rise in U.S. net foreign liabilities as a ratio to GDP posed the risk of
+a disorderly adjustment as financial markets might become saturated with U.S. instruments.
+Finally, market conditions could be affected by a reversal of the recent trend toward an
+increasing proportion of the deficit being financed by foreign official flows.
+43.
+Treasury officials emphasized that they viewed the current account deficit as a
+reflection of the buoyancy of the U.S. economy and weakness of demand abroad rather
+than a policy concern. Capital inflows still largely reflected market-based decisions by
+investors, and they expressed confidence that if official purchases diminished, private
+investors would fill the gap without significant consequence, since a mild depreciation of the
+dollar would make U.S. securities cheaper and more attractive to foreign investors. Treasury
+officials and Federal Reserve officials agreed that market developments during the past year
+had illustrated that fears of disorderly market adjustments were largely overdone.
+44.
+Nonetheless, Federal Reserve officials acknowledged that the U.S. current account
+deficit could not remain in the present range over the long term. The relative strength of the
+U.S. economy, recent increases in global oil prices, and the likelihood that higher interest
+rates would begin to raise payments abroad to holders of U.S. Treasuries, could keep the
+deficit at or higher than 5 percent of GDP for the foreseeable future (Box 5 discusses
+prospects for the trade balance). Officials recognized that the steady rise in net external
+indebtedness could not be sustained indefinitely, and stabilizing the external debt-to-GDP
+ratio would require a much larger adjustment in the trade balance than may be assumed,
+given the need to service the net liability position.
+VI. FINANCIAL SECTOR AND CORPORATE GOVERNANCE
+45.
+Officials expressed strong confidence in the stability of the banking system. While
+the improvement in overall economic conditions was helping to create record profits and
+near-record returns on assets, sound risk management practices had also made important
+contributions. The system was well prepared for interest hikes and, given high levels of
+capital, the system appeared unlikely to face significant threats to its financial stability. Staff
+agreed that banking profitability and capital measures looked healthy, especially compared
+with their levels following the 1991 recession. At the same time, the importance of large,
+complex banking groups continued to increase, and staff welcomed the authorities’ continued
+efforts to adapt inter-agency supervisory arrangements.15
+46.
+The authorities remain committed to the Basel II Accord. Outstanding issues within
+the Basel Committee, largely involving the treatment of credit card debt, were likely to be
+resolved soon. The main concern among U.S. regulators was to ensure that Basel II did not
+significantly affect the competitive position of adopting banks relative to non-adopters. Were
+this to be the case, implementation might be delayed until supervisors were satisfied that any
+such unintended consequences could be mitigated. That said, officials viewed the benefits of
+15
+
+See Chapter 6 of the accompanying Selected Issues paper.
+
+- 29 -
+
+Box 5. Prospects for the Trade Deficit
+Standard trade models suggest that the expansion in the U.S. trade deficit over recent years reflects U.S. growth
+relative to competitors, and that the U.S. trade deficit will continue to widen as a consequence of domestic
+economic vibrancy. However, this view may be unduly pessimistic and, if supply-side effects are important, the trade
+deficit as a ratio to GDP could stabilize even with rapid
+domestic growth.
+Traditional trade models imply that countries in which
+growth accelerates should suffer a deterioration in their
+trade balance or a trend depreciation in their exchange
+rates. In such models, trade only reflects demand factors.
+Exports depend on relative prices (e.g., the tradeweighted real exchange rate) and a measure of global
+demand. Similarly, imports depend on relative prices and
+growth at home.
+
+Trade Balance
+
+-3
+
+in percent of GDP
+
+-3
+
+Model with Supply Effects
+-4
+
+-4
+
+-5
+
+-5
+
+For the United States, estimated income elasticities are
+Demand-based Trade Model
+typically found to be larger for imports than for exports.
+This implies that if growth in the United States is the
+-6
+same or faster than its trading partners, the trade deficit
+2004
+2005
+2006
+2007
+2008
+2009
+1
+will expand inexorably with unchanged relative prices.
+Source: IMF staff calculations.
+Staff estimates of such a specification imply that, on
+current WEO assumptions about growth in the United States and its trading partners and unchanged real exchange
+rates, the trade deficit would reach 5¾ percentage points of GDP by 2009.
+
+-6
+
+Some authors, however, have argued this prediction reflects the absence of “supply-side” effects.2 They note that
+countries with fast underlying growth rates tend to also have higher estimated activity elasticities on exports compared
+to imports. As a result, rapid development in countries such as Japan or South Korea was not associated with growing
+trade deficits or trend depreciations in their exchange rates. This suggests that an expansion of domestic supply
+creates a demand for exports and reduces the demand for imports. Such an effect could occur if growth increases the
+range of goods produced by that country. If consumers enjoy variety, they will purchase more goods from a fastgrowing economy.
+Forecasts that incorporate such supply effects suggest a more modest deterioration of the trade balance. For
+example, in a model that assumes that demand factors dominate in the short term, but that exports and imports
+respond equally to demand and supply factors in the long run, the trade balance as a ratio to GDP is projected to fall
+modestly over the next 5 years and stabilize at around 4 percent of GDP.
+Note: The authors of this box are Tamim Bayoumi and Pau Rabanal.
+1
+
+The original result was reported in H. S. Houtakker and Stephen Magee, 1969, “Income and Price Elasticities in
+World Trade,” Review of Economics and Statistics, 51, pp. 111–24. Updated regressions that find basically the same
+result include Peter Hooper, Karen Johnson, and Jaime Marquez, 1998, “Trade Elasticities for the G-7 Countries,”
+Board of Governors of the Federal Reserve System Working Paper No. 609.
+
+2
+
+See, for instance, Paul Krugman, 1989, “Differences in Income Elasticities and Trends in Real Exchange Rates,”
+European Economic Review, 33, pp. 1031–54.
+
+- 30 -
+
+adopting Basel II, in terms of risk improved measurement and management, as exceeding the
+costs of implementation.
+47.
+Officials and staff agreed on the need for stronger regulation of the major
+government sponsored enterprises (GSEs) (Box 6). Although they expressed confidence in
+the financial position and risk-management practices of the GSEs, officials saw the rapid
+expansion of their asset holdings as posing potential concerns due to the concentration of
+interest rate risk, particularly given the incorrect perception by many market participants that
+the GSEs benefited from an implicit government guarantee. The Administration had
+proposed legislation to create a new regulator with powers to set capital levels, define stress
+tests, and place a GSE into receivership if necessary. It appeared doubtful that the legislation
+would be enacted in the current year, however, largely due to a lack of agreement on the
+receivership issue, and officials were exploring how the current regulatory framework could
+be used to tighten oversight. Staff welcomed the proposed measures, but noted that
+strengthened regulation would not necessarily curb the growth in GSE activities if the
+perception that these agencies were too big to fail remained, and allowed funding at an
+advantageous rate.
+48.
+Corporate governance reforms contained in the Sarbanes-Oxley legislation were
+largely in place. There had been few difficulties in implementing these changes and—
+notwithstanding some concerns in the corporate sector—officials said they had found little
+evidence that the rules had hampered firms from expanding activities or attracting qualified
+candidates for boards and audit committees. The Public Company Accounting Oversight
+Board (PCAOB) had made significant progress in strengthening the oversight of the auditing
+profession by initiating registration of domestic auditors and conducting “limited procedure”
+inspections of the top accounting firms. Official agreed with staff that recent revelations of
+questionable practices in the mutual fund industry underscored the need for continued
+vigilance with regard to the integrity of markets.
+49.
+Officials noted the improvement in finances of defined benefit corporate pensions,
+but indicated additional reforms could further strengthen the system. Such plans remain an
+important, if declining, part of the U.S. pension system. Rising stock prices and increased
+contributions had generally improved balance sheets, although there were still significant
+funding issues in several plans, particularly in the steel and airline industries.16 Recentlyenacted legislation would improve the accuracy of measuring pension liabilities but also
+would provide relief to most severely underfunded plans, reducing overall funding and
+raising issues of moral hazard. Administration proposals to strengthen future funding levels
+included measures to reduce incentive problems by restricting the benefits severely
+underfunded plans may offer. Officials acknowledged that restructuring the Pension Benefit
+Guarantee Corporation’s (PBGC) premium structure to reflect pension plan risks was one of
+the measures under consideration to improve PBGC funding.
+16
+
+For details, see Chapter 3 of United States: Selected Issues, IMF Country Report No. 03/235, August 2003.
+
+- 31 -
+
+Box 6: Proposed Regulatory Reform of the Government Sponsored Enterprises (GSEs)
+During the past year, debate has intensified over regulation
+of the two major housing GSEs, Fannie Mae and Freddie
+Mac. The authorities and Congress have been considering
+measures that would enhance the supervision of their activities
+and could reduce the potential moral hazard arising from the
+continued market perception of an implicit government
+guarantee on their debt.
+The activities and balance sheet size of the GSEs have
+expanded significantly in recent years (see Chart). Not only
+is the quantity of mortgage-backed securities (MBSs)
+guaranteed by the GSEs of a comparable size to the U.S.
+Treasury market, but the GSEs’ own balance sheets are more
+than half the size of the securitized markets they have fostered.
+The implicit guarantee that markets attach to GSE debt has
+enabled them to acquire large amounts of mortgage-related
+assets at a lower cost than other market participants and, in the
+process, take on interest rate exposures.
+
+Size of Mortgage Market and GSEs.
+8000
+
+8000
+
+in billions; amounts outstanding
+
+7000
+
+7000
+Home mortgage
+debt
+
+6000
+5000
+4000
+3000
+2000
+1000
+
+6000
+5000
+
+U.S. Treasury
+debt
+
+4000
+Federally related
+MBSs 1/
+GSE debt 1/
+
+0
+
+3000
+2000
+1000
+0
+
+1991 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003
+Source: Flow of Funds.
+1/ As of end-2003, over 80 percent of federally related MBSs were
+guaranteed by Fannie Mae and Freddie Mac, and almost 70 percent of GSE
+debt was issued by Fannie Mae and Freddie Mac.
+
+Besides their size, the GSEs are important to financial stability for several reasons: About 30 to 50 percent of their liabilities
+are short-term; their role as one of the largest counterparties in the interest-rate swap and swaption market; and possible
+amplification of market volatility from their readjustments of hedges when yields move and expectations of mortgage
+prepayments change. The GSEs’ activities are large enough to give them price-setting influence in the interest rate derivatives
+markets.
+Concerns about the GSEs’ potential impact have been heightened by accounting problems. Freddie Mac was required to
+restate earnings upwards for 2000–02, and its 2003 statement is still under preparation. The Office of Federal Housing Enterprise
+Oversight (OFHEO) is conducting a special examination of accounting policies and practices at Fannie Mae. These accounting
+problems have not cast doubt on the GSEs’ underlying financial soundness, but do raise questions about the transparency and
+control of their complex risk management operations.
+The potential for future problems is exacerbated by the continued perception of an implicit government guarantee. The
+perception persists because of several factors, including: a line of credit from the Treasury; exemption of GSE debt from banks’
+large exposure limits; exemption of their income from state and local taxes; exemption from SEC securities registration
+requirements; and, perhaps most importantly, the widespread belief that they are “too big to fail.” As a result, investors and
+counterparties may take on greater exposures to the agencies than they would to an equivalent institution without such links to
+government.
+The Treasury has proposed legislation that would treat the GSEs more like other financial institutions. The proposal would
+establish a new regulator, under the oversight of the Treasury, with more discretion to set capital and other requirements. In the
+same way as bank regulators, the new regulator would have the power if necessary to place GSEs in receivership, take other
+enforcement actions, and fund itself through GSE assessments. However, the current version of the bill in Congress does not
+contain the receivership provision, which the Treasury regards as essential, and legislation is therefore unlikely to be enacted this
+year.
+Federal Reserve officials have proposed more directly addressing the size of the GSEs. Noting that stricter regulation could
+actually increase perceptions of the guarantee, Chairman Greenspan has suggested limiting the size of the GSEs’ own debt as a
+proportion of the debt they securitize. Limiting their ability to fund holdings on their balance sheet, relative to the overall size of
+the mortgage-backed securities market should reduce their potential impact while enhancing the liquidity of the securitization
+market.
+
+With legislation unlikely in the short term, the Administration is exploring more modest interim steps that can be taken
+under existing law. In the absence of receivership, OFHEO is developing rules for applying conservatorship. The Treasury
+intends to request more ongoing information on the GSEs’ debt issuance policy.
+Note: The author of this box is Rupert Thorne.
+1
+
+Wayne Passmore, 2003, “The GSE Implicit Subsidy and Value of Government Ambiguity,” Finance and Economics Discussion
+Paper No. 2003-64 (Federal Reserve Board, December).
+
+- 32 -
+
+50.
+Officials and staff concurred with the Financial Accounting Standard Board
+(FASB) proposal that stock option grants should be expensed. Officials noted that stock
+options are a form of compensation and that pricing them at zero in income statements was
+not transparent. Moreover, although there was some discussion in Congress of weakening
+this proposal—as had occurred in 1994—expensing options would bring the United States
+more in line with international accounting standards. Indeed, officials noted with satisfaction
+the more general convergence of accounting standards, and that FASB and the International
+Accounting Standards Board (IASB) were working to eliminate differences in treatment with
+an emphasis on adopting whichever measure was stronger.
+51.
+Officials noted that the United States has largely complied with the 40+8 Financial
+Action Task Force (FATF) recommendations on Anti-Money Laundering and Combating
+the Financing of Terrorism (AML/CFT), and progress was being made on the remaining
+issues. The authorities are continuing their efforts to implement the provisions of the Patriot
+Act, and will be in full compliance with FATF recommendations when regulations requiring
+all nonbank financial institutions to report suspicious activities are in place. Given the range
+of regulators involved in supervising different types of financial institutions, a new Office of
+Intelligence and Analysis is being created to increase information sharing.
+VII. TRADE POLICY AND OFFICIAL ASSISTANCE
+52.
+Officials explained that the Administration is pursuing a multi-pronged trade
+policy strategy. On the multilateral front, the office of the U.S. Trade Representative (USTR)
+had been active in efforts to reinvigorate the Doha trade round, promoting regional free trade
+agreements (FTAs), and building trade capacity among developing countries. On the bilateral
+front, the authorities also placed an emphasis on bilateral FTAs and on ensuring a level
+playing field with major trading partners such as China.
+53.
+The USTR representatives suggested that prospects for progress in the Doha Round
+had improved recently, but agriculture held the key to success. Officials welcomed recent
+EU proposals on agriculture and noted that, since the Cancún Ministerial, the United States
+had indicated flexibility with regard to trade-distorting domestic supports. The central issue
+now was to achieve agreement on an ambitious formula for agricultural market access, and
+officials stressed the need for all sides to make concessions to secure a useful framework
+agreement.
+54.
+The authorities’ Doha Round objectives also included ensuring that developing
+countries faced disciplines and adopted liberalization commitments commensurate with
+their importance in world trade. In particular, officials argued that large and competitive
+developing countries should be subject to the same market access formula as developed
+countries. However, the Administration was of the view that less developed countries should
+not be asked to deliver results that were beyond their capacity and supported flexible
+approaches that combined a gradual phasing of commitments with trade-related technical
+assistance. The key was to avoid permanent “opt-outs” and excessive dilution of market
+access goals, which could further disassociate such countries from the global trading system.
+
+- 33 -
+
+55.
+Officials noted that the U.S. trade liberalization agenda also included aggressive
+pursuit of bilateral and regional FTAs.17 This was partly founded on the view that such
+agreements helped establish momentum in favor of free trade that could carry over to
+multilateral negotiations. The staff cautioned, however, that the competitive advantage that
+current and possible future FTAs could yield to participants might weaken their support for
+multilateral liberalization, while also straining the administrative and negotiating capacity of
+some developing countries, posing concerns regarding fragmentation of global trade.
+56.
+Officials noted that it would be difficult to meet the January 2005 deadline for
+completion of the Free Trade Area of the Americas. The Miami Ministerial in November
+2003 concluded without a consensus on the specific issues to be negotiated and with
+relatively modest commitments in nine broad negotiating areas. Key sticking points included
+the U.S. emphasis on addressing issues related to domestic agricultural support within the
+WTO framework and some Latin American countries’ aversion to including provisions on
+investment, intellectual property rights, and government procurement.
+57.
+Officials confirmed the Administration’s commitment to the end-2004 deadline for
+eliminating textile and apparel quotas. This was likely to prompt a rise in textile imports
+from China, with negative implications for less competitive developing-country suppliers as
+well as for domestic textile manufacturers. With regard to other competitors, the authorities
+pointed out that some recent FTAs, such as the one with Central America, were partly
+designed to mitigate the effect of the quota elimination. On the domestic front, measures to
+alleviate trade-related adjustment costs were already in place to provide financial support to
+affected industries and retrain workers—indeed, the textile sector had been the largest
+beneficiary of such schemes over 1997–2003.
+58.
+Officials noted that China had remained an important focus of trade policy over the
+past year.18 China had continued to provide an important area of opportunity for U.S. exports
+and, while imports from China had also risen rapidly, this had largely been at the expense of
+third-country suppliers rather than domestic production. In addition, important safeguards
+had been introduced as part of China’s WTO membership, which could be triggered under
+less stringent conditions, and these had been applied by the U.S. government in
+December 2003. Looking forward, U.S. authorities placed important emphasis on China’s
+full and timely compliance with its market access commitments at the WTO, as well as on
+enforcement of intellectual property rights. The team welcomed the Administration’s
+outward-looking approach and cautioned against a defensive recourse to trade remedy action.
+
+17
+
+Over the past year, FTAs have been signed with Australia, Chile, five Central American countries, and
+Singapore, and negotiations have been launched with Bahrain, Colombia, the Dominican Republic, Panama,
+Peru, the Southern African Customs Union, and Thailand. Officials noted that the busy legislative agenda meant
+that ratification of many recently-signed FTAs by Congress was unlikely this year.
+
+18
+
+Trade relations with China are discussed in Chapter 7 of the accompanying Selected Issues paper.
+
+- 34 -
+
+On current plans, ODA spending is projected to rise
+
+Other
+
+59.
+Official development
+rapidly in 2004 and then fall back, reflecting
+assistance (ODA) has increased
+supplemental spending for Iraq. However, underlying
+rapidly in recent years, but at
+spending is projected to rise significantly as percent of
+GNI.
+0.13 percent of GNI in 2002 is still
+in percent of GNI
+the lowest ratio among industrial
+0.25
+0.25
+countries. Significant increases in
+0.20
+0.20
+ODA spending are planned for the
+Iraq
+next three years, although some of
+MCC
+0.15
+0.15
+this increase would be temporary as it
+is related to reconstruction in Iraq as
+0.10
+0.10
+well as Afghanistan. Sixteen of the
+63 countries that qualified for the
+0.05
+0.05
+Millennium Challenge Corporation
+(MCC) had been asked to submit
+0.00
+0.00
+plans, and operations would start
+2003
+2004
+2005
+2006
+shortly. MCC programs will be fully
+Source: U.S. Agency for International Development (USAID).
+funded, which has the advantage that
+they will not be subject to future appropriations, but also implies that fewer programs could
+be approved initially. The authorities reiterated the President’s commitment to allocate $15
+billion in five years to fight HIV/AIDS, including $10 billion of new money, and outlined
+other initiatives to ensure that humanitarian relief remains adequate, such as the creation of a
+famine fund.
+VIII. STAFF APPRAISAL
+60.
+The U.S. recovery has gathered considerable momentum since last year, and is
+again leading the global recovery. The economy has shaken off an unprecedented series of
+adverse shocks and—supported by the sizeable injection of monetary and fiscal stimulus
+since the onset of the downturn—has expanded strongly during the past year. To be sure,
+downside risks remain, including those related to high energy prices and the course of
+household demand given high debt loads and concerns that some real estate markets are
+overvalued. However, productivity growth continues at an exceptional rate, balancing these
+downside risks and holding out the possibility of further upside surprises to the economy’s
+supply side.
+61.
+The FY 2005 budget signals a welcome shift toward fiscal consolidation especially
+in the nearer term. With the recovery now well on track, the deficit reduction projected for
+the coming two fiscal years is appropriate. Nonetheless, the challenge remains to sustain
+expenditure discipline, contain budgetary pressures—including those related to ongoing
+operations in Iraq and Afghanistan and a number of legislative initiatives presently before
+Congress—and anticipate costs of likely AMT reform. It will help that the budget outcome
+this year will likely be better-than-expected, providing the opportunity to strengthen
+subsequent deficit-reduction objectives.
+
+- 35 -
+
+62.
+Continuing the pace of deficit reduction beyond the next two years will help place
+the long-run fiscal position on a sustainable basis. Federal deficits and debt will come
+under increasing pressure as the baby boom generation retires and places greater demands on
+entitlement programs, especially in the context of the expansion of Medicare benefits and
+plans to make tax cuts permanent. Against this background, it will help if the deficit
+reduction pace envisaged over FY 2005–06 is extended to subsequent years.
+63.
+Bringing the budget back to balance, excluding Social Security, within a
+reasonable period would leave the U.S. fiscal position much better placed to cope with
+impending demographic pressures. Although entitlement reform holds the key to long-run
+fiscal sustainability, restoring a fiscal surplus equal to the cash-flow surplus of the Social
+Security system by the end of the decade would achieve significant debt reduction ahead of
+the retirement of the baby boom generation and provide greater room to build consensus for
+and implement entitlement reforms. This more ambitious fiscal objective could also have
+significant supply-side benefits for the United States and the rest of the world by reducing
+pressures on global interest rates and investment.
+64.
+The recovery provides a valuable opportunity for embarking upon the fiscal effort
+that is needed to achieve such a medium-term objective. Helpfully, the authorities have
+supported budget enforcement legislation that could provide the necessary framework for
+solidifying fiscal responsibility and expenditure discipline but proposals to limit the pay-asyou-go requirement from covering most tax measures and to shorten its horizon to five years
+risks weakening the legislation’s discipline.
+65.
+Revenue measures in the context of efficiency-building tax reform warrant
+consideration. While expenditure discipline will need to be an essential element of the
+consolidation effort, given the magnitude of the fiscal adjustment required and already
+ambitious plans for cutting nondefense discretionary spending, revenues may also need to
+rise. To avoid having to unwind recent marginal tax rate cuts and give up their potential
+supply-side benefits, emphasis could be laid on reforms to broaden and simplify the tax base,
+for example by cutting tax expenditures, which significantly reduce revenues and distort
+resource allocation, or by introducing a national indirect tax.
+66.
+Delaying actions to address the Social Security system’s funding problems will
+likely entail larger and more painful adjustments later on. The Administration has already
+taken the important step of commissioning reform proposals, which show that amending
+indexation formulas to slow benefit growth would eliminate the system’s underfunding.
+However, the proposed diversion of a portion of the payroll tax into private retirement
+accounts would significantly boost the federal budget deficits and debt in coming decades,
+and care is needed to ensure that this measure is coupled with durable steps to address longterm fiscal sustainability.
+67.
+The financial problems of the Medicare system dwarf those of Social Security, and
+also reflect the effects of the additional drug benefits introduced last year. The Medicare
+Reform legislation included useful initiatives to introduce competition and increase
+
+- 36 -
+
+efficiency in health care delivery, and the means-testing of Part B premiums could enable
+enhancements of system revenues. However, the Medicare system is still expected to begin
+running cash-flow deficits by the end of the next decade and outlays are projected to triple as
+a share of GDP by mid-century. Early steps to address these adverse trends are needed, but
+may also require broader, efficiency-enhancing reforms of the U.S. health care system.
+68.
+The Federal Open Market Committee (FOMC) has appropriately begun preparing
+markets for the gradual withdrawal of stimulus. The aggressive easing of recent years has
+provided essential support to the recovery, and the monetary authorities are to be commended
+for forestalling fears of deflation that emerged last year. Nonetheless, with signs that the
+recovery is maturing, labor market conditions are improving, and concerns that higher energy
+prices could revive inflation expectations, the time has come to start removing stimulus.
+Although there appears scope for a measured tightening, recent statements by officials have
+helped market participants recognize that the withdrawal of monetary stimulus will not be
+unduly delayed.
+69.
+Building on the Fed’s already high transparency, the mission discussed the scope
+for providing further guidance to financial markets. Useful options were a subject of recent
+FOMC discussions, and there would also seem to be merit in the Federal Reserve further
+anchoring expectations by clarifying its definition of price stability and its medium-term
+inflation objective.
+70.
+Financial markets have demonstrated during the past year their ability to digest
+significant exchange rate movements. Nonetheless, the U.S. current account deficit is still
+expected to remain large at around 5 percent of GDP and highly dependent upon foreign
+private and official investor appetite for net claims against U.S. residents, with the attendant
+risk that shifts in such demand could result in abrupt adjustments of interest and exchange
+rates. Although stronger growth abroad should play a key role in fostering the resolution of
+global current account imbalances, determined efforts to strengthen the U.S. fiscal position
+would help boost national saving and ensure that the adjustment is orderly and avoids an
+undue burden on investment, both domestically and abroad.
+71.
+The banking sector has proven its resilience over recent years and ongoing reforms
+of corporate governance have helped increase confidence in market integrity. Strong
+fundamentals have left the financial system well prepared for the expected withdrawal of
+monetary stimulus. At the same time, the authorities have also moved effectively in response
+to recent corporate scandals to strengthen corporate governance. Looking ahead, it will be
+important to ensure that the Financial Standards Accounting Board is able to fulfill its
+responsibilities in an independent manner.
+72.
+The Administration has raised justified concerns about the large and increasing
+share of mortgage-backed securities held by the main government sponsored enterprises
+(GSEs). The growth of these institutions has concentrated interest rate and mortgage
+prepayment risk, and the Administration’s proposal to overhaul the current supervisory
+regime and establish an independent regulator warrants legislative support.
+
+- 37 -
+
+73.
+The U.S. authorities have taken welcome steps to provide impetus to the Doha
+Round negotiations. Continued U.S. leadership and commitment to multilateral approaches
+to trade liberalization, especially with regard to agriculture, will be critical to the success of
+the Round.
+74.
+Recent increases in U.S. official development assistance (ODA) and progress on
+Millennium Challenge Account are welcome. However, U.S. ODA remains the lowest
+among industrial countries as a share of GNI and the mission supports Administration plans
+to boost U.S. foreign assistance as a ratio to GNI over coming years.
+75.
+It is recommended that the next Article IV consultation take place within the standard
+12-month cycle.
+
+- 38 -
+
+APPENDIX I
+
+United States: Fund Relations
+(As of March 31, 2004)
+I.
+
+Membership Status: Joined 12/27/45; Article VIII
+
+II.
+
+General Resources Account:
+Quota
+Fund holdings of currency
+Reserve position in Fund
+
+SDR Million
+37,149.30
+22,530.07
+14,617.58
+
+Percent
+Quota
+100.0
+60.5
+39.4
+
+III.
+
+SDR Department:
+Net cumulative allocation
+Holdings
+
+SDR Million
+4,899.53
+8,572.00
+
+Percent
+Allocation
+100.0
+175.0
+
+IV.
+
+Outstanding Purchases and Loans:
+
+None
+
+V.
+
+Financial Arrangements:
+
+None
+
+VI.
+
+Projected Obligations to Fund:
+
+None
+
+VII. Payments Restrictions: The United States has notified the Fund under Decision
+No. 144 of restrictions on payments and transfers for current international transactions to
+Libya, Iraq, North Korea, Cuba, and Iran. The United States restricts the sale of arms and
+petroleum to the National Union for the Total Independence of Angola (UNITA) and to the
+territory of Angola and has prohibitions against transactions with international narcotics
+traffickers. The United States notified the Fund under Decision No. 144 on August 2, 1995 of
+the imposition of further restrictions on current transactions with Iran. On March 21, 2002,
+the United States notified the Fund of exchange restrictions related to the financing of
+terrorism .
+VIII.
+Statistical Issues: The quality, coverage, periodicity, and timeliness of U.S.
+economic data are considered to be good both in the context of the Article IV consultation
+and for purposes of ongoing surveillance. The United States has subscribed to the Special
+Data Dissemination Standard (SDDS) and its metadata are posted on the Dissemination
+Standard Bulletin Board (DSBB).
+
+daily
+
+Frequency of
+publication
+
+weekly
+
+none
+
+electronic
+
+Treasury
+
+weekly
+
+weekly
+
+June
+3
+
+May
+21
+
+weekly
+
+none
+
+electronic
+
+Federal
+Reserve
+
+weekly
+
+weekly
+
+June
+2
+
+May
+28
+
+Central
+Bank
+Balance
+Sheet
+
+weekly
+
+none
+
+electronic
+
+Federal
+Reserve
+
+weekly
+
+weekly
+
+June
+2
+
+May
+5
+
+Reserve/
+Base
+Money
+
+weekly
+
+none
+
+electronic
+
+Federal
+Reserve
+
+weekly
+
+weekly
+
+June
+2
+
+May
+5
+
+Broad
+Money
+
+daily
+
+none
+
+electronic
+
+Federal
+Reserve
+
+daily
+
+daily
+
+Same
+day
+
+Same
+day
+
+Interest
+Rates
+
+1/ Most data are available from statistical releases and from private electronic databases.
+
+none
+
+Confidentiality
+
+electronic
+
+daily
+
+Frequency
+of reporting
+
+Mode of
+reporting 1/
+
+daily
+
+Frequency
+of data
+
+Federal
+Reserve
+
+Same
+day
+
+Date released
+
+Source of data
+
+Same
+day
+
+Date of latest
+observation
+
+Exchange
+Rates
+
+International
+Reserves
+
+monthly
+
+none
+
+electronic
+
+Dept. of
+Labor
+
+monthly
+
+monthly
+
+May
+14
+
+April
+2004
+
+Consumer
+Price
+Index
+
+(As of June 3, 2004)
+
+monthly
+
+none
+
+electronic
+
+Dept. of
+Commerce
+
+monthly
+
+monthly
+
+May
+12
+
+March
+2004
+
+Exports/
+Imports
+
+United States: Core Statistical Indicators
+
+quarterly
+
+none
+
+electronic
+
+Dept. of
+Commerce
+
+quarterly
+
+quarterly
+
+March
+12
+
+2003Q4
+
+Current
+Account
+Balance
+
+monthly
+
+none
+
+electronic
+
+Treasury
+
+monthly
+
+monthly
+
+April
+30
+
+April
+2004
+
+Overall
+Government
+Balance
+
+annual
+
+annual
+
+July 2003
+
+2002
+
+External
+Debt/Debt
+Service
+
+monthly
+
+none
+
+electronic
+
+annual
+
+none
+
+electronic
+
+Dept. of
+Dept. of
+Commerce Commerce
+
+quarterly
+
+quarterly
+
+May
+27
+
+2004Q1
+
+GDP/
+GNP
+
+- 39 APPENDIX II
+
+- 40 -
+
+APPENDIX III
+
+United States—Debt Sustainability
+1.
+This appendix subjects projections for U.S. public debt and net external liabilities to a
+series of established macroeconomic stress tests.1 Following the methodology prescribed in
+“Assessing Sustainability,” (May 28, 2002, www.imf.org), a baseline trajectory for these two debt
+variables is determined by setting key macroeconomic variables, including the primary fiscal deficit
+and the non-interest current account balance, at values projected by staff. The fiscal baseline is then
+subjected to two-standard deviation shocks in domestic interest rates, real growth and the primary
+fiscal deficit, each lasting two years before the variable returns to normal. For external debt, similar
+shocks are assumed for real growth, domestic prices, the foreign interest rate, and the non-interest
+current account balance.
+2.
+The exercise focuses on short- to medium-term vulnerabilities for the general government.
+Accordingly, net general government debt is defined by combining the net financial liabilities of
+federal, state, and local government debt to the public (that is, excluding government debt held by the
+social insurance trust funds).
+3.
+In all but one case, shocks to the fiscal baseline lead to an upward path of public debt
+(Figure and Table 1a). Under adverse interest rate, fiscal, and real GDP shocks, the debt-to-GDP ratio
+continues to grow after an initial jump in the first two years. Under a combination of all shocks (at
+one standard deviation) the ratio plateaus after the initial rise. The greatest vulnerability is with regard
+to fiscal and interest rates shocks—both shocks induce a temporary increase in the debt ratio in 2005
+and 2006 and leave the 2009 ratio at more than 5 percent of GDP above the baseline.
+
+4.
+Shocks to the external baseline all imply a faster accumulation of foreign debt by 2009
+(Figure and Table 1b). In the baseline scenario, the ratio of net external liabilities to GDP increases
+from 22 percent in 2003 to 37 percent in 2009. Non-interest current account and real GDP would
+have the largest influence on debt accumulation. External debt would be within 37–40 percent of
+GDP in all simulated cases. These simulations reflect the higher historical volatility of the external
+variables, which increases the magnitude of the two standard deviation shocks.
+1.a Sensitivity of Net General Government Debt
+70
+
+1.b Sensitivity of Net External Liabilities
+
+In percent of GDP
+
+70
+
+50
+
+In percent of GDP
+
+Baseline
+
+50
+
+All shocks combined (at 1 S.D.)
+
+65
+
+65
+
+60
+
+60
+
+45
+
+Shock in prices
+
+40
+
+Baseline
+Shock in interest rate
+Shock in real GDP
+Fiscal shock
+All shocks combined (at 1 S.D.)
+
+55
+
+50
+2004
+
+1
+
+2005
+
+2006
+
+2007
+
+55
+
+50
+2008
+
+2009
+
+45
+
+Shock in interest rate
+
+40
+
+Shock in non-interest CAB
+Shock in real GDP
+
+35
+
+35
+
+30
+
+30
+
+25
+
+25
+2003
+
+2004
+
+2005
+
+Net external liabilities equal the U.S. net international investment position.
+
+2006
+
+2007
+
+2008
+
+2009
+
+2.7
+7.2
+4.9
+0.0
+2.3
+1.6
+
+...
+...
+
+220.2
+
+71.2
+0.2
+0.2
+32.3
+32.5
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+70.9
+
+71.2
+0.0
+
+4.0
+6.8
+4.7
+0.0
+2.1
+1.1
+
+...
+...
+
+217.1
+
+-0.3
+-0.6
+-1.0
+32.6
+31.6
+0.4
+0.4
+3.1
+-2.7
+0.0
+0.0
+0.0
+0.0
+0.0
+0.3
+
+70.9
+0.0
+
+1995
+
+2.5
+7.1
+5.0
+0.0
+2.0
+1.7
+
+...
+...
+
+215.7
+
+0.4
+0.0
+-1.7
+33.0
+31.4
+1.7
+1.7
+3.4
+-1.7
+0.0
+0.0
+0.0
+0.0
+0.0
+0.4
+
+71.3
+0.0
+
+1996
+
+3.7
+6.9
+5.0
+0.0
+1.9
+2.5
+
+...
+...
+
+211.2
+
+-0.5
+-1.6
+-2.5
+33.5
+31.0
+0.9
+0.9
+3.3
+-2.5
+0.0
+0.0
+0.0
+0.0
+0.0
+1.1
+
+70.8
+0.0
+
+1997
+
+4.5
+6.7
+5.0
+0.0
+1.7
+1.5
+
+...
+...
+
+204.1
+
+-1.8
+-3.4
+-3.7
+33.8
+30.1
+0.3
+0.3
+3.3
+-3.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.6
+
+69.0
+0.0
+
+1998
+
+4.2
+6.5
+5.4
+0.0
+1.1
+2.3
+
+...
+...
+
+193.0
+
+-2.8
+-3.9
+-4.7
+34.3
+29.6
+0.8
+0.8
+3.5
+-2.7
+0.0
+0.0
+0.0
+0.0
+0.0
+1.1
+
+66.1
+0.0
+
+1999
+
+2001
+
+2002
+
+2003
+
+4.2
+6.0
+1.4
+0.0
+4.6
+9.0
+
+...
+...
+
+162.0
+
+-6.4
+-5.0
+-3.3
+34.4
+31.2
+-1.7
+-1.7
+0.7
+-2.4
+0.0
+0.0
+0.0
+0.0
+0.0
+-1.5
+
+55.8
+0.0
+
+2.2
+5.7
+4.1
+0.0
+1.5
+6.0
+
+...
+...
+
+177.0
+
+1.0
+1.3
+0.2
+32.1
+32.3
+1.0
+1.0
+2.2
+-1.2
+0.0
+0.0
+0.0
+0.0
+0.0
+-0.3
+
+56.8
+0.0
+
+3.1
+5.2
+3.6
+0.0
+1.7
+5.6
+
+...
+...
+
+188.4
+
+1.7
+2.3
+2.1
+31.0
+33.1
+0.2
+0.2
+1.9
+-1.7
+0.0
+0.0
+0.0
+0.0
+0.0
+-0.6
+
+58.5
+0.0
+
+-1.9
+3.6
+6.4
+4.4
+2.0
+33.2
+
+Historical
+Average
+
+2.3
+0.9
+0.6
+1.2
+1.0
+1.1
+
+Standard
+Deviation
+
+II. Stress Tests for Public Debt Ratio
+
+4.4
+6.2
+4.7
+0.0
+1.4
+5.1
+
+...
+...
+
+180.3
+
+-4.0
+-4.6
+-4.7
+34.5
+29.8
+0.1
+0.1
+2.9
+-2.8
+0.0
+0.0
+0.0
+0.0
+0.0
+0.6
+
+62.2
+0.0
+
+I. Baseline Medium-Term Projections
+
+2000
+
+59.3
+59.3
+59.3
+59.3
+59.3
+
+4.6
+4.8
+2.5
+0.0
+2.3
+2.5
+
+...
+...
+
+195.4
+
+0.8
+0.9
+2.1
+30.3
+32.4
+-1.2
+-1.2
+1.3
+-2.5
+0.0
+0.0
+0.0
+0.0
+0.0
+-0.1
+
+59.3
+0.0
+
+2004
+
+1/ Indicate coverage of public sector, e.g., general government or nonfinancial public sector. Also whether net or gross debt is used.
+2/ Derived as [(r - π(1+g) - g + αε(1+r)]/(1+g+π+gπ)) times previous period debt ratio, with r = interest rate; π = growth rate of GDP deflator; g = real GDP growth rate; α = share of foreign-currency
+denominated debt; and ε = nominal exchange rate depreciation (measured by increase in local currency value of U.S. dollar).
+3/ The real interest rate contribution is derived from the denominator in footnote 2/ as r - π (1+g) and the real growth contribution as -g.
+4/ The exchange rate contribution is derived from the numerator in footnote 2/ as αε(1+r).
+5/ Defined as public sector deficit, plus amortization of medium and long-term public sector debt, plus short-term debt at end of previous period.
+6/ Derived as nominal interest expenditure divided by previous period debt stock.
+7/ Real depreciation is defined as nominal depreciation (measured by percentage fall in dollar value of local currency) minus domestic inflation (based on GDP deflator).
+
+Primary deficit
+Real GDP growth (in percent)
+Nominal interest rate (in percent) 6/
+Real interest rate (in percent)
+Inflation rate (GDP deflator, in percent)
+Revenue to GDP ratio
+
+Historical Statistics for Key Variables (past 10 years)
+
+Base1. Baseline
+Shoc2. Real interest rate is at historical average plus two standard deviations in 2005 and 2006
+Shoc3. Real GDP growth is at historical average minus two standard deviations in 2005 and 2006
+Fisca4. Primary balance is at historical average minus two standard deviations in 2005 and 2006
+All s5. Combination of 2-4 using one standard deviation shocks
+
+Real GDP growth (in percent)
+Average nominal interest rate on public debt (in percent) 6/
+Average real interest rate (nominal rate minus change in GDP deflator, in percent)
+Nominal appreciation (increase in US dollar value of local currency, in percent)
+Inflation rate (GDP deflator, in percent)
+Growth of real primary spending (deflated by GDP deflator, in percent)
+
+Key Macroeconomic and Fiscal Assumptions
+
+Gross financing need 5/
+in billions of U.S. dollars
+
+Public sector debt-to-revenue ratio 1/
+
+2 Change in public sector debt
+3 Identified debt-creating flows (4+7+12)
+4 Primary deficit
+5
+Revenue and grants
+6
+Primary (noninterest) expenditure
+7 Automatic debt dynamics 2/
+8
+Contribution from interest rate/growth differential 3/
+9
+Of which contribution from real interest rate
+10
+Of which contribution from real GDP growth
+11
+Contribution from exchange rate depreciation 4/
+12 Other identified debt-creating flows
+13
+Privatization receipts (negative)
+14
+Recognition of implicit or contingent liabilities
+15
+Other (specify, e.g. bank recapitalization)
+16 Residual, including asset changes (2-3)
+
+1 Public sector debt 1/
+o/w foreign-currency denominated
+
+1994
+
+Table 1a. United States: Public Sector Debt Sustainability Framework, 2004-2009
+(In percent of GDP, unless otherwise indicated)
+
+60.7
+62.9
+61.9
+62.9
+62.9
+
+3.9
+5.2
+2.8
+0.0
+2.4
+1.9
+
+...
+...
+
+194.2
+
+1.5
+-0.2
+0.5
+31.3
+31.8
+-0.7
+-0.7
+1.5
+-2.2
+0.0
+0.0
+0.0
+0.0
+0.0
+1.7
+
+60.7
+0.0
+
+2005
+
+0.1
+3.6
+5.6
+3.5
+2.1
+31.0
+
+Average
+2003-09
+
+61.5
+65.4
+63.7
+66.5
+65.8
+
+3.6
+5.8
+3.8
+0.0
+2.0
+1.9
+
+...
+...
+
+195.4
+
+0.7
+-0.1
+-0.2
+31.4
+31.3
+0.1
+0.1
+2.2
+-2.1
+0.0
+0.0
+0.0
+0.0
+0.0
+0.8
+
+61.5
+0.0
+
+62.1
+66.0
+64.3
+67.1
+65.8
+
+3.3
+5.9
+3.9
+0.0
+2.0
+2.1
+
+...
+...
+
+199.0
+
+0.6
+0.0
+-0.3
+31.2
+30.9
+0.3
+0.3
+2.2
+-1.9
+0.0
+0.0
+0.0
+0.0
+0.0
+0.6
+
+62.1
+0.0
+
+Projections
+2006
+2007
+
+62.7
+66.7
+64.9
+67.8
+65.8
+
+3.1
+5.9
+3.9
+0.0
+2.0
+1.3
+
+...
+...
+
+203.0
+
+0.6
+-0.1
+-0.5
+30.9
+30.4
+0.4
+0.4
+2.2
+-1.8
+0.0
+0.0
+0.0
+0.0
+0.0
+0.7
+
+62.7
+0.0
+
+2008
+
+63.3
+67.3
+65.5
+68.4
+65.7
+
+3.1
+5.9
+3.9
+0.0
+2.0
+1.9
+
+...
+...
+
+205.9
+
+0.6
+-0.3
+-0.7
+30.7
+30.0
+0.5
+0.5
+2.3
+-1.8
+0.0
+0.0
+0.0
+0.0
+0.0
+0.8
+
+63.3
+0.0
+
+2009
+
+- 41 APPENDIX III
+
+2.7
+0.0
+2.3
+2.7
+4.2
+8.7
+
+...
+...
+
+47.8
+
+4.6
+1.1
+1.1
+1.0
+9.6
+10.7
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+3.6
+
+4.6
+
+4.0
+0.0
+2.1
+3.5
+9.4
+12.4
+
+...
+...
+
+44.4
+
+-0.2
+1.4
+1.5
+1.4
+9.9
+11.3
+0.0
+0.0
+0.0
+-0.1
+0.2
+-0.2
+-0.1
+-1.6
+
+4.4
+
+1994
+
+2.5
+0.0
+2.0
+6.9
+13.0
+11.1
+
+...
+...
+
+62.5
+
+2.3
+1.2
+1.1
+1.3
+10.7
+12.0
+0.0
+0.0
+0.0
+0.1
+0.3
+-0.1
+-0.1
+1.1
+
+6.7
+
+1995
+
+3.7
+0.0
+1.9
+4.9
+7.2
+7.3
+
+...
+...
+
+61.3
+
+0.0
+1.1
+1.2
+1.3
+10.9
+12.2
+0.0
+0.0
+0.0
+0.0
+0.3
+-0.2
+-0.1
+-1.2
+
+6.7
+
+1996
+
+4.5
+0.0
+1.7
+7.0
+9.8
+9.3
+
+...
+...
+
+89.1
+
+3.4
+1.2
+1.2
+1.3
+11.3
+12.6
+0.0
+0.0
+0.0
+0.0
+0.4
+-0.3
+-0.1
+2.1
+
+10.0
+
+1997
+
+4.2
+0.0
+1.1
+4.8
+-0.1
+5.3
+
+...
+...
+
+98.4
+
+0.5
+1.9
+1.9
+1.9
+10.7
+12.6
+0.0
+0.0
+0.0
+0.0
+0.5
+-0.4
+-0.1
+-1.4
+
+2000
+
+2001
+
+2002
+
+3.7
+0.0
+2.2
+7.0
+10.8
+17.9
+
+...
+...
+
+129.6
+
+5.5
+3.7
+3.6
+3.9
+10.9
+14.8
+0.0
+0.0
+0.0
+0.1
+0.6
+-0.3
+-0.2
+1.8
+
+14.1
+
+0.5
+0.0
+2.4
+6.0
+-6.0
+-5.5
+
+...
+...
+
+196.7
+
+5.5
+3.4
+3.0
+3.6
+10.0
+13.6
+0.0
+0.0
+0.0
+0.4
+0.8
+-0.1
+-0.3
+2.0
+
+19.6
+
+2.2
+0.0
+1.5
+3.8
+-3.1
+2.1
+
+...
+...
+
+244.6
+
+3.2
+3.8
+3.8
+4.0
+9.3
+13.3
+0.0
+0.0
+0.0
+0.0
+0.7
+-0.4
+-0.3
+-0.6
+
+22.8
+
+2.1
+0.0
+5.0
+3.2
+1.9
+
+Historical
+Average
+
+1.1
+0.0
+1.6
+1.3
+0.4
+
+Standard
+Deviation
+
+II. Stress Tests for External Debt Ratio
+
+4.4
+0.0
+1.4
+3.6
+3.5
+12.0
+
+...
+...
+
+82.5
+
+-1.9
+2.6
+2.8
+2.8
+10.4
+13.3
+0.0
+0.0
+0.0
+-0.2
+0.4
+-0.4
+-0.1
+-4.5
+
+8.6
+
+I. Baseline Medium-Term Projections
+
+Actual
+1999
+
+10.5
+
+1998
+
+1/ Derived as [r - g - ρ(1+g) + εα(1+r)]/(1+g+ρ+gρ) times previous period debt stock, with r = nominal effective interest rate on external debt; ρ = change in domestic GDP deflator in US dollar terms,
+g = real GDP growth rate, e = nominal appreciation (increase in dollar value of domestic currency), and a = share of domestic-currency denominated debt in total external debt.
+2/ The contribution from price and exchange rate changes is defined as [-ρ(1+g) + εα(1+r)]/(1+g+ρ+gρ) times previous period debt stock. ρ increases with an appreciating domestic currency (ε > 0)
+and rising inflation (based on GDP deflator).
+3/ Defined as current account deficit, plus amortization on medium- and long-term debt, plus short-term debt at end of previous period.
+
+Current account deficit, excluding interest payments
+Net non-debt creating capital inflows
+Nominal external interest rate (in percent)
+Real GDP growth (in percent)
+GDP deflator in US dollars (change in percent)
+
+Historical Statistics for Key Variables (past 10 years)
+
+1. Baseline
+2. Nominal interest rate is at historical average plus two standard deviations in 2003 and 2004
+3. Real GDP growth is at historical average minus two standard deviations in 2003 and 2004
+4. Change in US dollar GDP deflator is at historical average minus two standard deviations in 2003 and 2004
+5. Non-interest current account is at historical average minus two standard deviations in 2003 and 2004
+6. Combination of 2-5 using one standard deviation shocks
+
+Real GDP growth (in percent)
+Exchange rate appreciation (US dollar value of local currency, change in percent)
+GDP deflator in US dollars (change in percent)
+Nominal external interest rate (in percent)
+Growth of exports (US dollar terms, in percent)
+Growth of imports (US dollar terms, in percent)
+
+Key Macroeconomic and External Assumptions
+
+Gross external financing need (in billions of US dollars) 3/
+in percent of GDP
+
+External debt-to-exports ratio (in percent)
+
+2 Change in external debt
+3 Identified external debt-creating flows (4+8+11)
+4
+Current account deficit, excluding interest payments
+5
+Deficit in balance of goods and services
+6
+Exports
+7
+Imports
+8
+Net non-debt creating capital inflows (negative)
+9
+Net foreign direct investment, equity
+10
+Net portfolio investment,equity
+11
+Automatic debt dynamics 1/
+12
+Contribution from nominal interest rate
+13
+Contribution from real GDP growth
+14
+Contribution from price and exchange rate changes 2/
+14 Residual, incl. change in gross foreign assets (2-3)
+
+1 External debt
+
+1993
+
+Table 1b. United States: External Debt Sustainability Framework, 2003-2009
+(In percent of GDP, unless otherwise indicated)
+
+26.7
+26.7
+26.7
+26.7
+26.7
+26.7
+
+3.1
+0.0
+1.7
+5.0
+4.6
+8.5
+
+...
+...
+
+287.4
+
+3.9
+3.8
+3.7
+4.5
+9.3
+13.8
+0.0
+0.0
+0.0
+0.0
+1.1
+-0.7
+-0.4
+0.1
+
+26.7
+
+2003
+
+30.0
+30.8
+31.0
+30.3
+30.7
+31.0
+
+4.6
+0.0
+2.2
+4.9
+15.0
+12.8
+
+...
+...
+
+300.8
+
+3.3
+3.1
+3.6
+4.6
+10.0
+14.6
+0.0
+0.0
+0.0
+-0.5
+1.2
+-1.2
+-0.6
+0.2
+
+30.0
+
+2004
+
+3.1
+0.0
+4.8
+3.6
+2.1
+
+Average
+2002-07
+
+32.8
+34.7
+34.8
+33.6
+34.5
+35.1
+
+3.9
+0.0
+2.6
+4.8
+13.4
+8.9
+
+...
+...
+
+309.2
+
+2.8
+2.8
+3.3
+4.2
+10.6
+14.9
+0.0
+0.0
+0.0
+-0.5
+1.3
+-1.1
+-0.8
+0.0
+
+32.8
+
+2005
+
+35.5
+37.3
+37.5
+36.3
+37.2
+37.8
+
+3.6
+0.0
+2.0
+4.7
+10.2
+7.3
+
+...
+...
+
+320.9
+
+2.7
+2.7
+3.0
+4.0
+11.1
+15.1
+0.0
+0.0
+0.0
+-0.3
+1.5
+-1.1
+-0.7
+0.0
+
+35.5
+
+Projections
+2006
+
+38.0
+39.7
+39.9
+38.7
+39.6
+40.2
+
+3.3
+0.0
+2.0
+4.6
+9.2
+6.9
+
+...
+...
+
+330.7
+
+2.4
+2.4
+2.7
+3.8
+11.5
+15.3
+0.0
+0.0
+0.0
+-0.2
+1.6
+-1.1
+-0.7
+0.0
+
+38.0
+
+2007
+
+40.2
+42.0
+42.2
+41.0
+41.9
+42.5
+
+3.1
+0.0
+2.0
+4.6
+8.6
+6.7
+
+...
+...
+
+339.7
+
+2.3
+2.3
+2.5
+3.7
+11.8
+15.6
+0.0
+0.0
+0.0
+-0.2
+1.7
+-1.1
+-0.7
+0.0
+
+40.2
+
+2008
+
+42.4
+44.2
+44.3
+43.2
+44.0
+44.6
+
+3.1
+0.0
+2.0
+4.6
+8.2
+7.0
+
+...
+...
+
+347.9
+
+2.2
+2.2
+2.4
+3.6
+12.2
+15.8
+0.0
+0.0
+0.0
+-0.2
+1.7
+-1.2
+-0.8
+0.0
+
+42.4
+
+2009
+
+- 42 APPENDIX III
+
+INTERNATIONAL MONETARY FUND
+UNITED STATES OF AMERICA
+Staff Report for the 2004 Article IV Consultation
+Supplementary Information
+Prepared by the Western Hemisphere Department
+Approved by Christopher Towe
+July 22, 2004
+1.
+This supplement reports on information that has become available since the staff
+report was issued. The topics covered include the June 30 meeting of the Federal Open
+Market Committee (FOMC), the Federal Reserve’s Monetary Policy Report to Congress,
+recent economic and financial market developments, and an update on the budget outlook.
+These changes do not affect the staff appraisal.
+Monetary policy developments
+2.
+As widely anticipated, the FOMC raised its target for short-term interest rates by
+one-quarter percentage point to 1¼ percent on June 30. The accompanying statement
+offered a balanced assessment of the risks to both growth and inflation, and reaffirmed that
+the pace of tightening “is likely to be measured.” Nonetheless, in an apparent
+acknowledgement of the recent pickup in inflation, the FOMC cautioned that it “will respond
+to changes in economic prospects as needed.” The move was fully discounted in markets, and
+bond, equity, and currency prices were little affected.
+3.
+The Federal Reserve Board’s semi-annual Monetary Policy Report was presented
+to Congress on July 20. The FOMC’s central forecast is for growth to moderate to between
+3½–4 percent in 2005 (Q4 on Q4), with the core deflator for personal consumption
+expenditure stable between 1½–2 percent (Q4 on Q4), both consistent with staff projections.
+The FOMC expects the economy to continue to benefit from improving labor market
+conditions, brisk increases in capital spending as a result of strong corporate financial
+conditions, stock building, and a pickup in activity abroad.
+4.
+In his testimony, Chairman Greenspan expanded on the FOMC’s view that the
+pace of policy tightening can remain “measured.” The Chairman acknowledged that
+productivity growth had slowed from the extraordinary pace in 2003, contributing to a
+modest increase in unit labor costs in recent quarters, but emphasized that these
+developments did not appear to pose a risk to long-term price stability. However, the
+Chairman also reiterated the FOMC’s view that a rise in inflationary pressures as a result of
+the Fed’s recent accommodative stance could not be ruled out, and that the Federal Reserve
+would therefore pay close attention to incoming data, especially on costs and prices.
+
+-2-
+
+Recent economic and financial market developments
+5.
+Although recent data suggest a somewhat slower rate of growth in the second
+quarter than previously projected, the staff’s forecast for the year as a whole still appears
+appropriate. In June, payroll employment rose by 112,000 (1 percent on an annualized
+basis), about half the pace of the first five months of the year; industrial production fell
+0.3 percent; and retail sales declined 1.1 percent. However, strong export growth helped
+lower the trade deficit to $46 billion in May from the previous month’s record $48 billion.
+Moreover, forward-looking indicators also remain positive, with the Conference Board’s
+consumer confidence index rising above 100 in June for the first time in two years and
+diffusion indices for both the manufacturing and nonmanufacturing sectors also consistent
+with strong growth of output and employment. Thus, while second-quarter growth may dip
+below 4 percent, most forecasters expect faster activity in the second half of the year,
+supported by continuing strength in profits and compensation.
+6.
+Inflation pressures appear to be contained. Although higher energy prices continued
+to boost the overall consumer price index, taking the 12-month inflation rate to 3.3 percent,
+the core consumer price index rose by only 0.1 percent in June leaving the 12-month core
+inflation rate at 1.9 percent. Similarly, the headline and core producer price indexes rose by
+4 percent and 1.8 percent over the past 12 months. Against this, oil prices have returned near
+their recent highs due to strong demand and the reemergence of supply concerns.
+7.
+Weaker recent data have
+helped scale back market
+expectations of the pace of future
+interest rate hikes. The yield curve
+now suggests a federal funds rate of
+3¼ –3½ percent by end-2005, almost
+50 basis points lower than before the
+rate hike (figure). Similarly, 10-year
+Treasury bond yields have fallen by
+some ¼ percentage point to around
+4½ percent. Stock prices have also
+eased, partly on concerns that energy
+prices will hurt earnings prospects,
+and the dollar has weakened
+moderately.
+
+The June 30 FOMC decision had little impact on
+expectations of future monetary tightening but
+expectations have moderated subsequently.
+5.0
+4.5
+
+5.0
+
+Eurodollar futures yields, in percent
+
+4.5
+
+4.0
+
+4.0
+
+3.5
+
+3.5
+
+3.0
+
+3.0
+
+2.5
+
+2.5
+29-Jun-2004
+30-Jun-2004
+20-Jul-2004
+
+2.0
+1.5
+1.0
+Sep-04
+
+Mar-05
+
+Source: Bloomberg.
+
+Sep-05
+
+Mar-06
+
+2.0
+1.5
+1.0
+Sep-06
+
+-3-
+
+Fiscal developments
+8.
+Recent budget data continue to suggest an increasingly favorable budget outlook
+for this year. Reflecting stronger-than-anticipated revenue growth through June, a recent
+Treasury report suggested that the FY 2004 deficit would likely fall below the CBO’s March
+estimate of $477 billion (4¼ percent of GDP) and well below the administration’s February
+estimate of $520 billion (4½ percent of GDP). Progress toward passing the FY 2005 budget
+has been slow—since late June, the House has completed work on five spending bills and the
+Senate on one.
+After a lengthy debate, the House rejected a proposal by the Administration that would
+have effectively reauthorized the Budget Enforcement Act (BEA). The bill would have
+required budgetary offsets for changes in mandatory spending, but would have exempted
+most future tax cuts from this obligation. Although Congress may yet agree on some budget
+enforcement measures during the ongoing appropriations process, the debate on restoring
+BEA provisions is unlikely to resume before next year.
+
+Public Information Notice (PIN) No. 04/77
+FOR IMMEDIATE RELEASE
+July 30, 2004
+
+International Monetary Fund
+700 19th Street, NW
+Washington, D. C. 20431 USA
+
+IMF Concludes 2004 Article IV Consultation with the United States
+On July 23, 2004, the Executive Board of the International Monetary Fund (IMF) concluded the
+Article IV consultation with the United States.1
+Background
+Following a rather tepid recovery, the economy gathered strength in 2003. Supported by
+continued robust productivity growth, real GDP growth began to exceed the growth rate of
+potential output around mid-year. The recovery broadened in early 2004 as payroll employment
+strengthened, easing concerns that a lack of employment growth and correspondingly weaker
+household income could weigh on consumer demand. Both the pickup in economic activity and
+higher world energy prices have contributed to a rise in inflation that has helped erase earlier
+deflation fears. Although the pace of recovery appears to have slowed recently, partly owing to
+the dampening effect of higher oil prices on demand and the waning effects of earlier fiscal
+stimulus, prospects appear favorable for continued strength in the second half of the year.
+Stronger asset prices have played an important role in supporting aggregate demand. Equity
+markets have risen nearly 50 percent from their lows just before the Iraq war, although prices
+have stagnated somewhat in recent months on concerns that the removal of monetary stimulus
+and higher energy costs would hurt corporate earnings. Nonetheless, house prices have
+continued to increase rapidly, and households have continued to refinance mortgage debt in
+order to reduce interest payments and lengthen debt maturities.
+1
+
+Under Article IV of the IMF's Articles of Agreement, the IMF holds bilateral discussions with
+members, usually every year. A staff team visits the country, collects economic and financial
+information, and discusses with officials the country's economic developments and policies.
+On return to headquarters, the staff prepares a report, which forms the basis for discussion by the
+Executive Board. At the conclusion of the discussion, the Managing Director, as Chairman of the
+Board, summarizes the views of Executive Directors, and this summary is transmitted to the
+country's authorities.
+
+-2Both monetary and fiscal policies have provided significant support to the recovery, but stimulus
+is now being withdrawn. The Federal Reserve acted to raise the Federal funds rate by
+¼ percentage point on June 30, long-term interest rates have risen by around 1 percentage
+point since late March, and part of the dollar’s earlier depreciation has been reversed. On the
+fiscal front, the stimulus from this year’s surge in personal tax refunds associated with the 2003
+tax cuts is starting to fade, and investment incentives generated by accelerated depreciation
+allowances are slated to expire at end-December.
+Labor productivity growth has remained remarkably strong during the past year, and job
+creation has also begun to revive. Tepid employment growth earlier in the recovery appeared to
+have largely reflected cost cutting in the face of uncertain growth and geopolitical uncertainties.
+With confidence firming, however, payrolls have expanded by 1¼ million in the first half of 2004
+and the unemployment rate fell to 5.6 percent in the second quarter.
+Strong productivity growth has also contributed to significant improvements in corporate and
+financial balance sheets. A sharp rebound in operating profits and relatively low levels of capital
+expenditure have helped elevate the share of after-tax profits in GDP to a post-war high. While
+this left the nonfinancial corporate sector in the unusual position of being a net provider of funds
+to the rest of the economy, firms have also taken advantage of low interest rates to extend the
+maturity of their debt. At the same time, the banking system booked record profits in 2004Q1
+and near-record returns on assets.
+Year-on-year core CPI inflation rose to almost 2 percent in June, after having fallen to a 40-year
+low of around 1 percent in early-2004. The rise reflects a deceleration of deflation in goods
+prices as the global recovery has increased costs of raw materials and intermediate inputs, but
+also some effect of the depreciation of the dollar. Nonetheless, rapid labor productivity growth
+continues to dampen unit labor costs, and service price inflation remains moderate. The passthrough from higher energy prices to non-energy prices has been limited, but higher fuel bills
+have lowered discretionary income, dampened aggregate demand, and weighed on the external
+trade balance.
+Reflecting strong demand and higher import prices, the current account deficit has remained
+close to its record high of 5 percent of GDP. Although the dollar has rebounded somewhat in
+recent months, it remains some 10 percent in real effective terms below its peak in early 2002.
+The depreciation has been almost exclusively against industrial country currencies, while the
+dollar’s position against major developing country partners has remained largely unchanged.
+The effect of the weaker exchange rate on real net exports, which continued to subtract from
+real GDP growth in 2003 and early 2004, has been modest, reflecting the usual lags between
+changes in real exchange rates and trade volumes as well as a relatively slow revival of foreign
+demand.
+Fund staff projects output growth to remain above potential through 2004 and 2005, closing the
+output gap by 2006. The baseline forecast is predicated on continued strength in business fixed
+investment and an improvement in external demand. This is expected to help offset a slowdown
+in consumer demand, following the waning effect of recent tax cuts and a gradual rebound in
+the household saving rate, and weaker growth in government expenditure as the fiscal position
+
+-3is improved. Core inflation is expected to remain contained as the Federal Reserve is assumed
+to withdraw stimulus broadly in line with current market expectations. The current account
+position is anticipated to improve only modestly, with the deficit falling to close to 4 percent of
+GDP in 2009 as the lagged effects of dollar depreciation and economic recoveries in partner
+countries support net exports.
+Executive Board Assessment
+Executive Directors noted that the economy has shaken off an unprecedented series of adverse
+shocks and, with the support of significant monetary and fiscal stimulus that has been injected
+since the onset of the downturn, expanded strongly during the past year and is again providing
+valuable support to the global economy.
+Directors observed that the short-term outlook for the U.S. economy remains relatively
+favorable, although subject to some uncertainty. While they acknowledged some downside
+risks—such as those related to high energy prices, the low household saving rate, and rapid
+recent increases in house prices—many viewed these as balanced by upside risks associated
+with rapid productivity growth that has kept price pressures at bay. Looking further ahead,
+however, most Directors stressed that continued robust growth of the economy will require
+decisive action to strengthen the U.S. fiscal position to avoid a crowding out of investment.
+Against this background, Directors welcomed the emphasis that was placed on fiscal
+consolidation in the FY 2005 budget. With the recovery now well on track, most Directors
+agreed that the pace of deficit reduction projected in the budget over the coming two fiscal
+years is appropriate. They noted that sizeable budgetary pressures exist, and underscored the
+importance of ensuring that these pressures do not slow the pace of deficit reduction over this
+period. Indeed, most Directors also suggested that the likely better-than-expected budget
+outcome for the current fiscal year offers an opportunity to strengthen the near-term deficitreduction objective.
+Most Directors, however, questioned whether the Administration’s medium-term fiscal
+objective—of halving the deficit in five years—is ambitious enough, especially given the
+increasing pressure on the Social Security and Medicare/Medicaid programs that is expected
+with the retirement of the baby boom generation. While acknowledging that entitlement reform
+holds the key to long-run fiscal sustainability, a number of Directors encouraged the authorities
+to aim toward bringing the budget back to balance, excluding Social Security, by the end of the
+decade, in order to provide greater fiscal room for placing entitlement programs on a sound
+financial footing. Directors also re-iterated their longstanding call for the establishment of a clear
+long-term fiscal goal, embedded in a credible medium-term fiscal framework, to anchor
+expectations and discipline policies.
+Directors discussed the role of both expenditure discipline and revenue measures in ensuring
+longer-run fiscal sustainability. In this regard, they emphasized the helpful role that could be
+played by budget enforcement legislation, and cautioned against exempting tax cuts from the
+requirement that expansionary measures be accompanied by offsets to ensure budget
+neutrality. Indeed, given the magnitude of the fiscal adjustment considered necessary and the
+
+-4already-ambitious plans for cutting nondefense discretionary spending, most Directors felt that
+revenue enhancements should be actively considered. In this regard, it was noted that the focus
+might be on policies aimed at broadening and simplifying the tax base to help avoid unwinding
+recent cuts in marginal tax rates.
+Directors recognized the need to address the severe underfunding of the Social Security and
+Medicare systems, noting that delaying reforms would only entail larger and more painful
+adjustments later. In this context, a number of Directors agreed that recent proposals to amend
+indexation formulas to slow the growth of Social Security benefits merit consideration, but
+several cautioned that diverting a portion of the payroll tax into private retirement accounts
+would significantly lower fiscal revenues and would have to be coupled with durable steps to
+ensure long-term fiscal sustainability. Directors observed that the underfunding of the Medicare
+system dwarfs that of Social Security, and has increased significantly as a result of the
+additional drug benefits introduced last year. Therefore, early steps to contain the growth of
+health care outlays are needed.
+Directors observed that the Federal Open Market Committee (FOMC), after earlier providing
+essential support to the recovery and forestalling fears of deflation, has more recently
+appropriately prepared markets for the gradual withdrawal of monetary stimulus. Given signs
+that the recovery is maturing and labor market conditions are improving, and concerns that
+higher energy prices could revive inflation expectations, Directors supported the recent decision
+to start removing stimulus. Directors agreed that that there remains scope for a measured
+withdrawal of stimulus, with due regard for the pace of economic recovery, but—given the
+substantial gap between the current and neutral level of the federal funds rate and the usual
+transmission lags—Directors also welcomed recent statements by FOMC members that this
+process would not be unduly delayed.
+Directors commended the Federal Reserve for its already high level of transparency, noting the
+effective manner in which the recent policy shift had been communicated to financial markets.
+A number of Directors suggested, however, that there could be merit in further anchoring
+market expectations by clarifying the Federal Reserve’s definition of price stability and its
+medium-term inflation objective.
+Directors reiterated their long-standing concern about the large U.S. current account deficit.
+While they acknowledged that the past two years had illustrated the market’s ability to absorb a
+significant depreciation of the dollar, the current account deficit is expected to remain large,
+leaving the United States highly dependent upon private and official inflows from abroad.
+Directors noted that determined efforts to strengthen the U.S. fiscal position would help boost
+national saving, avoid an undue burden on investment—both domestically and abroad—and
+help achieve an orderly adjustment in resolving global current account imbalances. Directors
+also recognized that stronger growth abroad should play an important role in facilitating this
+adjustment.
+Directors agreed that the banking sector has proven its resilience in recent years and that
+measures to strengthen corporate governance have helped increase confidence in market
+integrity. They observed that strong fundamentals have left the financial system well prepared
+
+-5for the withdrawal of monetary stimulus. Directors also commended the authorities for moving
+effectively in response to recent corporate failures. Directors agreed with the authorities’
+concerns about the large and increasing share of mortgage-backed securities held by the
+government sponsored enterprises (GSEs), and supported the Administration’s efforts to
+strengthen supervision of these enterprises.
+Directors recognized the important role of the United States in providing impetus to the Doha
+Round negotiations. They stressed that continued U.S. leadership and commitment to
+multilateral approaches to trade liberalization, especially with regard to agriculture, will be
+critical to the success of the Round. Directors welcomed recent increases in U.S. official
+development assistance (ODA) and progress achieved in implementing the Millennium
+Challenge Account. They noted, however, that U.S. ODA remains low as a share of Gross
+National Income and encouraged further increases in ODA in coming years.
+
+Public Information Notices (PINs) form part of the IMF's efforts to promote transparency of the IMF's views
+and analysis of economic developments and policies. With the consent of the country (or countries)
+concerned, PINs are issued after Executive Board discussions of Article IV consultations with member
+countries, of its surveillance of developments at the regional level, of post-program monitoring, and of ex post
+assessments of member countries with longer-term program engagements. PINs are also issued after
+Executive Board discussions of general policy matters, unless otherwise decided by the Executive Board in a
+particular case. The Staff Report for the 2004 Article IV Consultation with the United States is also available.
+
+-6-
+
+United States: Selected Economic Indicators
+(Annual change in percent, unless otherwise noted)
+1997
+
+1998
+
+1999
+
+2000
+
+2001
+
+2002
+
+2003
+
+4.5
+-0.3
+4.8
+4.3
+3.8
+1.8
+8.0
+9.2
+2.2
+0.5
+
+4.2
+-1.2
+5.3
+5.3
+5.0
+1.6
+9.1
+10.2
+3.5
+0.0
+
+4.5
+-1.0
+5.3
+5.4
+5.1
+3.1
+8.2
+8.3
+7.5
+-0.1
+
+3.7
+-0.9
+4.4
+4.5
+4.7
+1.7
+6.1
+6.5
+3.6
+-0.1
+
+0.5
+-0.2
+0.7
+1.6
+2.5
+2.8
+-2.3
+-3.2
+2.5
+-0.9
+
+2.2
+-0.7
+2.8
+2.4
+3.4
+3.6
+-2.3
+-3.7
+5.1
+0.4
+
+3.1
+-0.4
+3.3
+3.4
+3.1
+3.8
+3.9
+4.4
+1.4
+0.0
+
+GDP in current prices 1/
+
+6.2
+
+5.3
+
+6.0
+
+5.9
+
+2.9
+
+3.8
+
+4.8
+
+Employment and inflation
+Unemployment rate (percent)
+CPI inflation
+GDP deflator
+
+4.9
+2.3
+1.7
+
+4.5
+1.5
+1.1
+
+4.2
+2.2
+1.4
+
+4.0
+3.4
+2.2
+
+4.8
+2.8
+2.4
+
+5.8
+1.6
+1.5
+
+6.0
+2.3
+1.7
+
+Financial policy indicators
+Unified federal balance (billions of dollars)
+In percent of CY GDP
+Central government balance (NIPA, billions of dollars)
+In percent of CY GDP
+General government balance (NIPA, billions of dollars)
+In percent of CY GDP
+Three-month Treasury bill rate
+Ten-year government bond rate
+
+-22
+-0.3
+-47
+-0.6
+-66
+-0.8
+5.2
+6.4
+
+69
+0.8
+48
+0.5
+38
+0.4
+4.9
+5.3
+
+126
+1.4
+101
+1.1
+79
+0.9
+4.8
+5.6
+
+236
+2.4
+189
+1.9
+159
+1.6
+6.0
+6.0
+
+127
+1.3
+45
+0.4
+-16
+-0.2
+3.4
+5.0
+
+-158
+-1.5
+-259
+-2.5
+-345
+-3.3
+1.6
+4.6
+
+-375
+-3.5
+-454
+-4.1
+-538
+-4.9
+1.0
+4.0
+
+Balance of payments
+Current account balance (billions of dollars)
+In percent of GDP
+Merchandise trade balance (billions of dollars)
+In percent of GDP
+Export volume (NIPA, goods and services)
+Import volume (NIPA, goods and services)
+Invisibles (billions of dollars)
+In percent of GDP
+
+-136
+-1.6
+-198
+-2.4
+14.4
+13.6
+62.1
+0.7
+
+-210
+-2.4
+-247
+-2.8
+2.2
+11.6
+37.1
+0.4
+
+-297
+-3.2
+-346
+-3.7
+3.8
+11.5
+49.2
+0.5
+
+-413
+-4.2
+-452
+-4.6
+11.2
+13.1
+39.0
+0.4
+
+-386
+-3.8
+-427
+-4.2
+-6.1
+-3.2
+41.5
+0.4
+
+-474
+-4.5
+-483
+-4.6
+-4.0
+3.7
+9
+0.1
+
+-531
+-4.8
+-548
+-5.0
+1.9
+4.8
+17
+0.2
+
+Saving and investment (as a share of GDP)
+Gross national saving
+General government
+Private
+Personal
+Business
+Gross domestic investment
+
+17.6
+1.9
+15.7
+2.6
+13.1
+19.8
+
+18.3
+3.1
+15.2
+3.2
+12.0
+20.6
+
+18.1
+3.7
+14.4
+1.7
+12.7
+20.9
+
+18.0
+4.4
+13.6
+1.7
+11.9
+21.1
+
+16.4
+2.7
+13.7
+1.3
+12.4
+19.0
+
+14.7
+-0.3
+15.0
+1.7
+13.2
+18.3
+
+13.5
+-1.9
+15.3
+1.6
+13.7
+18.2
+
+NIPA in constant prices 1/
+Real GDP
+Net exports 2/
+Total domestic demand
+Final domestic demand
+Private final consumption
+Public consumption expenditure
+Gross fixed domestic investment
+Private
+Public
+Change in business inventories 2/
+
+Source: Haver Analytics; and IMF staff estimates.
+1/ National accounts data as available at the time of the July 23, 2004 Executive Board discussion.
+2/ Contribution to growth.
+
+

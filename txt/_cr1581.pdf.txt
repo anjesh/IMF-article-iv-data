@@ -1,0 +1,11347 @@
+IMF Country Report No. 15/81
+
+URUGUAY
+March 2015
+
+STAFF REPORT FOR THE 2014 ARTICLE IV
+CONSULTATION—STAFF REPORT; AND PRESS RELEASE
+Under Article IV of the IMF’s Articles of Agreement, the IMF holds bilateral discussions with
+members, usually every year. In the context of the 2014 Article IV Consultation with Uruguay,
+the following documents have been released and are included in this package:
+
+
+
+The Staff Report prepared by a staff team of the IMF for the Executive Board’s
+consideration on a lapse of time basis, following discussions that ended on December 12,
+2014, with the officials of Uruguay on economic developments and policies. Based on
+information available at the time of these discussions, the staff report was completed on
+January 30, 2015.
+
+
+
+An Informational Annex prepared by the IMF.
+
+
+
+A Press Release
+
+The document(s) listed below have been or will be separately released.
+Selected Issues Paper
+The publication policy for staff reports and other documents allows for the deletion of
+market-sensitive information.
+Copies of this report are available to the public from
+International Monetary Fund  Publication Services
+700 19th Street, N.W.  Washington, D.C. 20431
+Telephone: (202) 623-7430  Telefax: (202) 623-7201
+E-mail: publications@imf.org Internet: http://www.imf.org
+
+International Monetary Fund
+Washington, D.C.
+
+©2015 International Monetary Fund
+
+URUGUAY
+January 30, 2015
+
+STAFF REPORT FOR THE 2014 ARTICLE IV CONSULTATION
+Elections: The candidate of the ruling coalition Frente Amplio, former president Tabaré Vazquez,
+won the presidency and will take office in March 2015. With Frente Amplio retaining majority in
+both houses of Parliament, broad continuity in macroeconomic policy making is expected.
+Focus: Amid moderating but still solid growth, the 2014 consultation focused on four broad
+themes: confronting inflation, reinforcing fiscal sustainability, safeguarding financial stability, and
+bolstering strong and inclusive growth for the medium run.
+Main Policy Advice:
+
+
+
+A comprehensive disinflation strategy is needed to bring inflation to the mid-point of the
+target range. This would include maintaining a tight monetary policy stance, moving towards
+tighter fiscal policy, reducing the extent of backward-looking indexation of wages, wellcrafted central bank communication on the direction of monetary policy, and enhanced
+central bank autonomy. The present conjuncture provides an unusually good opportunity to
+achieve a paradigm shift in expectations.
+
+
+
+Fiscal sustainability would be reinforced by raising the primary balance by 2 percent of GDP
+over the medium term to ensure a downward trend in net public debt.
+
+
+
+Banks’ exposures to exchange rate depreciation risks bear continued close monitoring. It
+would be useful to strengthen risk weights for foreign currency loans to unhedged borrowers
+and incorporate greater exchange rate stress into the supervisory stress tests.
+
+
+
+Uruguay’s medium-term growth would benefit additionally from heightened efforts to boost
+infrastructure, strengthen education outcomes, and foster an innovation-friendly business
+environment.
+
+Past advice: In recent Article IV consultations, there has been broad agreement between the
+authorities and Fund staff on the macroeconomic policy objectives. Views have differed on the
+appropriate stance of fiscal policy, with staff favoring a tighter stance. The tightening in the
+monetary policy stance since mid-2013 has been in line with staff advice. The authorities have
+taken several steps to reduce the fiscal risks stemming from the impact of recurrent droughts on
+the balances of the state-owned electricity company, including by boosting investment in wind
+power, creating an energy stabilization fund, and purchasing weather related insurance. The
+authorities continue to make steady progress in implementing the 2012 FSAP recommendations
+to further strengthen financial regulation and supervision, and improve access to finance.
+
+URUGUAY
+
+Approved By
+Charles Enoch and
+Masato Miyazaki
+
+Discussions took place in Montevideo during December 1–12, 2014.
+The staff team comprised Oya Celasun (Head), Diva Singh, Elif Türe,
+Yulia Ustyugova (all WHD) and Hideyuki Tanimoto (MCM). Charles
+Enoch (WHD) and Rafael Portillo (RES) joined the mission in the
+second week. The team was assisted by Stella Addo, John McCoy, and
+Joanna Meza-Cuadra (all WHD) in headquarters, and Natalia Melgar
+and Sandra Shaw (Montevideo Office) in the field. Staff met with Vice
+President Astori, Minister Bergara (Economy and Finance), Central
+Bank President Graña, Undersecretary Loustaunau (Labor), other
+senior government officials, members of the incoming administration,
+as well as representatives of the private sector and civil society.
+
+CONTENTS
+CONTEXT _________________________________________________________________________________________ 4
+RECENT DEVELOPMENTS ________________________________________________________________________ 4
+OUTLOOK AND RISKS __________________________________________________________________________ 12
+POLICY ISSUES __________________________________________________________________________________ 15
+A. Confronting Inflation __________________________________________________________________________ 15
+B. Reinforcing Fiscal Sustainability _______________________________________________________________ 17
+C. Responding to Inward Spillovers ______________________________________________________________ 19
+D. Safeguarding Financial Stability _______________________________________________________________ 20
+E. Bolstering Inclusive Growth in the Medium Term ______________________________________________ 23
+STAFF APPRAISAL ______________________________________________________________________________ 25
+BOXES
+1. Uruguay‘s Experience with Inclusive Growth ___________________________________________________ 27
+2. Uruguay’s Money-Targeting Framework: Takeaways From The First Six Quarters of
+Implementation _____________________________________________________________________________ 29
+FIGURES
+1. Real Activity and Inflation ________________________________________________________________________5
+2. External Accounts ________________________________________________________________________________6
+3. Macroeconomic Policy Mix ______________________________________________________________________9
+4. Credit and Banking ____________________________________________________________________________ 11
+5. Medium-Term Growth _________________________________________________________________________ 24
+
+2
+
+INTERNATIONAL MONETARY FUND
+
+URUGUAY
+
+TABLES
+1. Selected Financial Soundness Indicators_______________________________________________________ 10
+2. Baseline and Fiscal Adjustment Scenarios _____________________________________________________ 18
+3. Key Prudential Regulations for FX-Related Risks_______________________________________________ 22
+4. Selected Economic Indicators __________________________________________________________________ 30
+5. Main Fiscal Aggregates ________________________________________________________________________ 31
+6. Public Sector Debt and Assets _________________________________________________________________ 32
+7. Statement of Operations of the Central Government __________________________________________ 33
+8. Central Government Stock Positions___________________________________________________________ 34
+9. Balance of Payments and External Sector Indicators ___________________________________________ 35
+10. Monetary Survey _____________________________________________________________________________ 36
+11. Medium-Term Macroeconomic Framework __________________________________________________ 37
+ANNEXES
+I. External Stability Assessment ___________________________________________________________________ 38
+II. Economic Ties with Argentina and Brazil ______________________________________________________ 40
+III. Public Sector Debt Sustainability Analysis (DSA) ______________________________________________ 42
+IV. External Debt Sustainability Analysis (DSA) ___________________________________________________ 50
+
+INTERNATIONAL MONETARY FUND
+
+3
+
+URUGUAY
+
+CONTEXT
+1.
+Uruguay’s economy performed strongly over the last decade and has so far weathered
+the regional slowdown quite well. Buoyant FDI inflows since 2005 have contributed to strong
+growth in productivity and real incomes. Per capita income has risen by 75 percent following the
+2002 crisis, while poverty and inequality have declined to historic lows (Box 1). The public sector
+balance sheet has been fortified substantially, with net public debt at less than half its post-crisis
+peak and the average maturity of central government debt among the longest in the world.
+Investments in renewable energy have started reducing the country’s dependence on oil imports
+and the volatility of the public sector balance. Uruguay’s economy is now cooling off in the context
+of a regional slowdown, but has achieved a robust pace of growth through 2014.
+
+10
+
+Uruguay vs. the Region: Growth of GDP, Domestic Demand, and Exports
+(Y-o-y percent change)
+Real Gross Domestic Product
+Regional Range 1/
+
+8
+
+Regional Median
+
+10 10
+
+8
+
+Real Domestic Demand
+Regional Range 1/
+
+8
+
+Regional Median
+
+Uruguay
+
+10 24
+
+8
+
+Exports of Goods and Services
+Regional Range 1/
+
+18
+
+Regional Median
+
+Uruguay
+
+24
+
+18
+
+Uruguay
+
+6
+
+6
+
+6
+
+6
+
+12
+
+12
+
+4
+
+4
+
+4
+
+4
+
+6
+
+6
+
+2
+
+2
+
+2
+
+2
+
+0
+
+0
+
+0
+
+0
+
+0
+
+-6
+
+0
+2005-12
+
+2013-14
+
+2005-12
+
+2013-14
+
+-6
+2005-12
+
+2013-14
+
+Sources: World Economic Outlook and Fund staff calculations. Real GDP and domestic demand are expressed in constant price local curre ncy
+units. Export of goods and services are expressed in current U.S. dollars.
+1/ Includes Argentina, Brazil, Chile, Colombia, Mexico, and Peru.
+
+2.
+Entrenching strong growth in the medium term will require taking policy actions to
+reinforce macroeconomic stability as well as accelerating supply-enhancing reforms. Robust
+growth in recent years has been accompanied by above target inflation and a marked decline in the
+primary fiscal balance. Although near term risks seem manageable given Uruguay’s strong liquidity
+cushions, the uncertain external environment calls for continued prudence in macroeconomic
+management. The aftermath of the elections is an auspicious time to take forward a policy agenda
+to consolidate macroeconomic stability, strengthen institutions, and accelerate supply-side reforms.
+
+RECENT DEVELOPMENTS
+3.
+The economy is decelerating gradually (Figure 1). Real GDP growth is estimated to have
+declined to around 3¼ percent in 2014 from 4½ percent in 2013. Private consumption growth has
+geared down from its torrid pace in 2010–11 but has remained robust. Private investment is
+moderating from record high levels. Although commodity exports were solid in 2014, the growth of
+overall export receipts has slowed down markedly from a few years ago. Weak economic conditions
+in Argentina, in particular, have continued to weigh on Uruguay’s external services balance and
+current account (Figure 2).
+4
+
+INTERNATIONAL MONETARY FUND
+
+URUGUAY
+
+Figure 1. Uruguay: Real Activity and Inflation
+Private consumption growth is slowing but
+remains robust...
+
+Growth is moderating at a gradual pace.
+12
+
+12
+
+Contributions to Real GDP Growth
+(Y-o-y, in percent)
+
+8
+
+8
+
+4
+
+4
+
+30
+25
+
+70
+
+Real Consumption Growth
+(Y-o-y, in percent)
+
+60
+
+Real private consumption
+
+50
+
+Real labor compensation
+
+20
+
+Real consumer credit (rhs)
+
+40
+
+15
+0
+
+30
+
+0
+10
+
+-4
+
+-4
+Public investment
+Public consumption
+Private consumption
+
+-8
+
+Private investment
+Net Exports
+Real GDP
+
+-8
+
+2011H2 2012H1 2012H2 2013H1 2013H2 2014H1
+...while private investment has moderated
+after a boom during 2010-12.
+25
+
+5
+
+10
+
+0
+2010Q3
+
+2011Q3
+
+2012Q3
+
+25
+20
+
+15
+
+15
+
+10
+
+10
+
+5
+
+5
+
+0
+
+12
+
+-10
+
+BRA
+
+15
+13
+
+CHL
+
+COL
+
+MEX
+
+PER
+
+10
+
+-10
+
+15
+10
+
+8
+
+8
+
+6
+
+6
+Target range
+
+3
+Apr-12
+
+4
+
+2
+2006Q4
+
+2008Q4
+
+2010Q4
+
+2012Q4
+
+2
+2014Q4
+
+Underlying inflation pressures are firm given a
+positive output gap and low unemployment.
+15
+10
+
+24
+
+Output Gap and Unemployment Rate
+(In percent of potential output and labor force)
+
+18
+
+Projections
+5
+
+0
+Core tradable inflation 2/
+Core nontradable inflation 2/
+Exchange Rate (Peso/USD, rhs)
+
+Dec-12
+
+Aug-13
+
+Apr-14
+
+-5
+
+0
+
+0
+
+-6
+
+-5
+
+-12
+
+Output gap
+
+-10
+
+-10
+-15
+Dec-14
+
+12
+
+6
+
+5
+
+7
+5
+
+10
+
+CPI inflation
+Inflation expectations
+
+4
+
+Currency depreciation contributed to the increase
+in inflation in the second half of 2013 and early
+2014.
+30
+Core Inflation and Exchange Rate
+Depreciation
+25
+(Y-o-y, in percent)
+20
+
+9
+
+12
+
+-5
+
+URY
+
+11
+
+0
+2014Q3
+
+Inflation, Target Range, and Expectations 1/
+(Y-o-y, in percent)
+
+0
+2010-12 (Average)
+2013
+2014 (Projected)
+
+-5
+
+2013Q3
+
+Inflation remains above the target range.
+
+LA6 Private Investment Growth
+(Y-o-y, in percent)
+
+20
+
+20
+
+Unemployment rate (rhs)
+-15
+
+-18
+-24
+
+1997 2000 2003
+
+2007
+
+2011 2014
+
+2019
+
+Sources: World Economic Outlook, Haver Analytics, Banco Central del Uruguay (BCU), Instituto Nacional de Estadistica,
+and Fund staff estimates and calculations.
+1/ BCU survey, median of expected inflation for the 12 months ahead.
+2/ Core tradable CPI is calculated by excluding fruit, vegetables, and fuel prices from the tradable component of the CPI.
+Core nontradable CPI excludes non-fuel administered prices (including electricity tariffs) from the nontradable CPI.
+
+INTERNATIONAL MONETARY FUND
+
+5
+
+URUGUAY
+
+Figure 2. Uruguay: External Accounts
+
+5.0
+3.0
+
+The movements in the current account largely
+reflected those of the services balance and oil
+imports.
+
+The weakening in the net services balance since
+2011…
+5.0
+
+Current Account
+(In percent of GDP)
+
+3.0
+
+5.0
+4.0
+
+3.0
+
+2.0
+
+2.0
+
+1.0
+
+1.0
+
+1.0
+
+-1.0
+
+-1.0
+
+-3.0
+
+-3.0
+
+-5.0
+
+-5.0 -1.0
+
+-7.0
+
+2010
+
+2011
+
+Non-oil trade balance
+Oil imports
+
+2012
+
+2013
+
+0.0
+
+2.5
+
+20
+
+2.5
+
+2.0
+
+2.0
+
+1.5
+
+1.5
+
+1.0
+
+1.0
+
+15
+10
+
+0.5
+
+Spending by Argentines in Uruguay
+
+0.0
+2008Q2
+
+Spending by Uruguayans in Argentina
+2009Q4
+
+2011Q2
+
+2012Q4
+
+Travel
+
+0.5
+
+Goods Exports Volume Growth, Contributions
+by Trading Partner
+(4Q mva , in percent)
+Total
+Argentina
+Europe
+Brazil
+Other
+
+20
+15
+10
+
+5
+
+5
+
+0
+
+0
+
+-5
+2010Q3
+
+0.0
+
+2014Q2
+
+…but the trade balance remains broadly
+unchanged .
+
+-5
+2011Q3
+
+2012Q3
+
+2013Q3
+
+2014Q3
+
+FDI has exceeded the current account deficit
+in most of the recent years.
+
+30
+
+20
+
+20
+
+15
+
+10
+
+10
+
+10
+
+10
+
+0
+
+0
+
+5
+
+5
+
+-10
+
+-10
+
+0
+
+0
+
+-20
+
+-20
+
+-5
+
+-30
+
+-10
+
+-40
+2013Q1 2014Q3
+
+-15
+
+30
+20
+
+Goods Balance
+(4-quarter basis, in percent of GDP)
+
+-30
+-40
+2007Q1
+
+Total Exports
+Trade Balance
+2009Q1
+
+2011Q1
+
+Total Imports
+
+Financial and Current Account Balance
+(In percent of GDP, net)
+
+Other
+Portfolio
+FDI
+Current Account Deficit
+Financial Account Balance
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014 Proj.
+
+Sources: Banco Central de Uruguay (BCU), World Economic Outlook, Haver Analytics, and Fund staff
+calculations.
+1/ The last observation covers the 4 quarters through 2014Q3.
+
+6
+
+-1.0
+
+Goods export growth to the immediate region
+and Europe has been weak...
+
+3.0
+
+Tourism Flows between Uruguay and
+Argentina
+(4-quarter basis, in percent of GDP)
+
+0.0
+Other services
+Transport
+Services (net)
+
+-7.0 -2.0
+-2.0
+2008Q2 2009Q3 2010Q4 2012Q1 2013Q2 2014Q3
+
+2014 1/
+
+...was mostly due to a lower bilateral tourism
+balance vis a vis Argentina.
+
+3.0
+
+4.0
+
+3.0
+
+1.0
+
+Current account
+Services balance
+
+5.0
+
+Services Balance of the Current Account
+(4-quarter basis, in percent of GDP)
+
+INTERNATIONAL MONETARY FUND
+
+20
+15
+
+-5
+-10
+
+-15
+
+URUGUAY
+
+4.
+The surge in nonresident purchases of local
+securities has abated and the Uruguayan peso has
+depreciated towards levels consistent with fundamentals.
+The peso has weakened by about 30 percent against the U.S.
+dollar and 7 percent in real effective terms since the Fed’s
+May 2013 tapering announcement, broadly in line with the
+trends in the region. Noting the reversal of appreciation
+pressures, the authorities eased the reserve requirements on
+nonresident purchases of public debt securities in September
+2014. They also intervened in the foreign exchange market,
+selling about US$500 million in forward contracts in the
+second half of 2014. International reserves remain
+comfortably above norms and the exchange rate slightly on
+the strong side of fundamentals (0–5 percent, Annex I).
+
+170
+
+160
+150
+140
+130
+
+170
+
+Exchange Rates Against the U.S. Dollar
+(Index 100= May 1st, 2013)
+Argentina 1/
+Chile
+Brazil
+Colombia
+Mexico
+Uruguay
+
+160
+150
+140
+130
+
+120
+
+120
+
+110
+
+110
+
+100
+
+100
+
+90
+90
+Jun-13
+Dec-13
+Jun-14
+Dec-14
+Source: Bloomberg L.P.
+1/ Simple weekly average of official and informal market rates.
+
+5.
+Inflation remains above the central bank’s 3–7 percent target range (Figure 1). After
+being pushed to near 10 percent in early 2014 by food price shocks and the pass-through of peso
+depreciation, consumer price (CPI) inflation eased to 8¼ percent at the end of the year. The easing
+in inflation was due to one-off measures and subdued
+12
+12
+Consumer Prices
+increases in administered prices enabled in part by lower
+(Y-o-y, in percent)
+electricity generation costs.1 Core CPI inflation, which
+10
+10
+excludes fruit, vegetable, and administered price inflation,
+remains around 10 percent. Above target inflation reflects a
+8
+8
+shrinking but still positive output gap, upward shocks to
+food and fuel prices in 2010–13, and pervasive backward6
+6
+looking wage indexation that embedded these shocks.
+Headline Inflation
+Against a backdrop of upward pressures on inflation, and a
+Core Inflation
+period of accommodative monetary policy during the 2011–
+4
+4
+Jan-12 Aug-12 Mar-13 Oct-13 May-14 Dec-14
+13 capital inflow surge, inflation expectations have not been
+Sources: Haver Analytics and Fund staff calculations.
+anchored within the target range.
+
+1
+
+The one-off measures in force since March 2014, estimated to subtract about ½ percentage point from the CPI for
+a temporary period, include reduced VAT on fruits, vegetables, and energy and telephone tariffs, a subsidy on health
+care contributions, and lower lottery prices. Core CPI excludes these effects.
+
+INTERNATIONAL MONETARY FUND
+
+7
+
+URUGUAY
+
+6.
+Monetary policy has been tight while fiscal policy has been slightly expansionary in
+2014 (Figure 3).
+
+
+Since the introduction of money growth targets in July
+2013, the growth rate of M1 plus savings deposits
+(M1+) has declined from around 14 percent in the
+previous year to about 7 percent in 2014Q3 and the
+peso yield curve has hovered 400–500 basis points
+above its level prior to July 2013. Reflecting the
+monetary policy tightening as well as cooling demand,
+a slowdown now appears to be taking hold for both
+peso and FX loans.
+
+20
+
+20
+
+Local Currency Yield Curve
+(In percent)
+
+15
+
+15
+
+10
+
+10
+
+5
+
+5/17/2013
+
+5
+
+4/7/2014
+
+12/18/2014
+0
+
+0
+
+O/N 1M 2M 3M 6M 9M 12M24M36M48M60M
+
+
+
+Current fiscal spending has continued to grow faster
+than real GDP in 2014, implying an expansionary fiscal
+policy stance. The budget approved for 2015 will keep
+central government discretionary spending constant in
+nominal terms—in line with a convention for postelection years. This, together with a moderation of
+investment by public enterprises and a strengthening
+of their operating balances, will improve the public
+sector primary balance by ¾ percentage point of GDP.
+
+Sources: Bolsa Electrónica de Valores del Uruguay S.A.
+10.0
+8.0
+
+Public Sector Primary Balance and Fiscal
+Impulse
+Projections
+(In percent of GDP)
+
+10.0
+8.0
+
+6.0
+
+6.0
+
+4.0
+
+4.0
+
+2.0
+
+2.0
+
+0.0
+
+0.0
+
+-2.0
+-4.0
+
+Fiscal Impulse 1/
+Structural Primary Balance
+Primary Balance
+
+-2.0
+
+-4.0
+2001 2003 2005 2007 2009 2011 2013 2015
+Sources: Ministerio de Economia y Finanzas and Fund
+staff calculations.
+1/ Change in the structural primary deficit.
+
+8
+
+INTERNATIONAL MONETARY FUND
+
+URUGUAY
+
+Figure 3. Uruguay: Macroeconomic Policy Mix
+The monetary policy stance has tightened
+since mid-2013.
+10
+8
+6
+
+10
+
+Monetary Conditions Index (MCI) 1/
+(Index, 2012=0)
+
+16
+
+6
+4
+
+2
+1
+0.5
+
+2
+
+0
+
+-2
+
+-2
+
+-4
+
+-4
+
+Nov-12
+
+Jul-13
+
+Mar-14
+
+-6
+Nov-14
+
+The Taylor rule implies that short term interest
+rate levels are consistent with bringing inflation
+into the target range.
+
+30
+25
+
+25
+
+12
+
+12
+
+8
+
+8
+
+20
+
+15
+
+15
+
+10
+
+10
+1-month interest rate
+Taylor rule (alpha=1.5, beta=0.5)
+December average 1-month interest rate
+2012Q2
+
+5
+
+0
+2014Q4
+
+2013Q3
+
+The primary balance weakened in 2014
+and net public debt notched up.
+
+2.5
+2.0
+
+50
+
+Primary Balance and Net Debt of the Public
+Sector
+(In percent of GDP)
+
+Commercial Lending Rate
+
+4
+
+0
+Dec-12
+
+42
+
+1.0
+0.5
+
+38
+
+16
+
+Primary balance
+Net Public Sector Debt (rhs)
+Projections
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+0
+Sep-14
+
+Feb-14
+
+14
+
+Real Primary Spending Growth
+(Y-o-y , in percent)
+Current primary spending
+Real GDP
+Projections
+
+16
+14
+12
+
+10
+
+10
+
+8
+
+8
+
+6
+
+6
+
+4
+
+4
+
+2
+
+2
+
+0
+
+0
+2009 2010 2011 2012 2013 2014 2015
+The long average maturity of public debt is a
+strength, but the high share of non-resident
+holdings may present a vulnerability.
+
+Maturity
+
+Currency
+
+Residence
+
+1 Year
+
+Pesos
+
+Non-residents
+
+1-5 Years
+
+Foreign
+Currency
+
+Residents
+
+5 Years+
+
+0.0
+
+-1.0
+
+Jul-13
+
+Composition of Public Sector Debt, September 2014
+46
+
+1.5
+
+-0.5
+
+4
+
+12-month yield
+
+12
+
+20
+
+0
+2011Q1
+
+16
+
+Real current spending of the public sector
+has continued to grow faster than real GDP .
+
+30
+
+Actual and Taylor-Rule Interest Rates 2/
+(In percent)
+
+5
+
+20
+
+Nominal Yield on 12-Month Securities and
+Bank Lending Rates
+(In percent)
+
+2
+
+0
+
+-6
+Mar-12
+
+20
+
+8
+
+Relative weights for the real
+interest rate versus REER
+
+4
+
+Bank lending rates have risen.
+
+12%
+
+34
+
+21%
+67%
+
+43%
+
+57%
+
+47%
+
+53%
+
+30
+2014
+
+2015
+
+Sources: World Economic Outlook, Banco Central del Uruguay, Haver Analytics, and Fund staff calculations.
+1/ The MCI is a weighted average of the changes in the real interest rate of 12 -month Central Bank securities and the real
+effective exchange rate (REER) relative to their values in a base period, January 2012.
+2/ A standard Taylor Rule was calibrated 𝑖𝑡 = 𝑐 + 𝛼 𝜋𝑡 − 𝜋∗ + 𝛽(𝑦𝑡 − 𝑦𝑡∗) , where c is the nominal neutral rate calculated as
+the sum of the mid-point of the official inflation target range and the estimated real neutral rate (3.5 percent); π* is the midpoint of the official inflation target range; (y-y*) is the estimated output gap.
+
+INTERNATIONAL MONETARY FUND
+
+9
+
+URUGUAY
+
+7.
+Banks continue to account for the bulk of financial intermediation, and report
+adequate capital levels and ample liquidity (Table 1).2 Bank resilience indicators are generally
+strong, with non-performing loans (NPLs) at less than 2 percent of total loans, total loan-loss
+provisions on average three times larger than NPLs, and net foreign exchange positions below
+1 percent of capital. Nonetheless, a few indicators of soundness are less strong than they were a few
+years ago (Figure 4). In particular, foreign currency credit to borrowers in the nontradables sector
+has increased as a share of total credit, banks’ capital buffers have declined somewhat, and the
+share of NPLs has inched up in 2014. Bank profitability remains subdued given high deposit
+dollarization and high U.S. dollar liquidity, low interest rates on U.S. dollar assets, and high operating
+costs.3
+
+Table 1. Uruguay: Selected Financial Soundness Indicators
+2010
+
+2011
+
+2012
+
+2013 2014 1/
+
+LA5 2/
+
+Regulatory capital in percent of risk-weighted assets
+Non-performing loans in percent of total loans
+Non-performing loans in percent of total household loans
+Specific loan-loss provisions in percent of non-performing loans
+Operating costs in percent of gross income
+Return on assets 3/
+Return on equity 4/
+Liquidity ratio 5/
+Dollar loans in percent of total loans
+Dollar deposits in percent of total deposits
+Non-resident deposits in percent of total deposits
+Private sector credit in percent of GDP 6/
+Household consumer credit in percent of GDP 6/
+Implicit exchange rate risk 6/ 7/
+
+16.1
+1.0
+3.5
+73.1
+91.3
+0.8
+8.1
+47.4
+59.4
+74.1
+16.4
+19.7
+8.4
+26.0
+
+13.7
+1.3
+3.1
+71.1
+83.4
+0.8
+7.9
+47.8
+58.5
+71.9
+14.6
+20.1
+8.3
+29.0
+
+12.8
+1.5
+3.5
+69.0
+81.0
+1.0
+12.6
+52.6
+57.9
+71.9
+15.2
+22.1
+8.7
+28.0
+
+11.7
+1.3
+3.7
+56.2
+83.1
+1.6
+19.7
+52.6
+59.6
+73.5
+15.0
+23.3
+9.0
+29.7
+
+12.8
+1.6
+3.6
+61.6
+86.4
+0.9
+12.0
+56.8
+60.9
+77.6
+14.7
+24.6
+9.5
+31.0
+
+15.6
+2.9
+…
+…
+…
+2.0
+19.3
+30.6
+22.1
+21.7
+…
+36.3
+…
+…
+
+Memorandum items:
+Loan dollarization (constant exchange rate, January 2013)
+Deposit dollarization (constant exchange rate, January 2013)
+
+50.8
+68.6
+
+52.9
+67.2
+
+52.3
+67.4
+
+51.4
+67.2
+
+50.2
+70.0
+
+…
+…
+
+Sources: Banco Central del Uruguay, IMF Global Financial Stability Report, and Fund staff calculations.
+1/ Latest available data (August 2014).
+2/ Median of Brazil, Chile, Colombia, Mexico, and Peru for 2013. Definitions of soundness indicators vary by country.
+3/ Annualized net income before extraordinary items and taxes, from the beginning of the year until the reporting
+month, in percent of the average value of total assets over the same period.
+4/ Same as footnote 3 but in percent of average value of capital over the same period.
+5/ Liquid assets with maturity up to 30 days in percent of total liabilities expiring within the same period.
+6/ For 2014, latest available data (2014Q2).
+7/ Foreign currency bank credit to borrowers without natural hedges as a share of total bank loans to the private sector.
+
+2
+
+In December 2012, capital requirements were modified to cover operational risks and capital surcharges were
+established for systemically important banks (0.5-2.0 percentage points).
+3
+
+The profitability indicators (ROA and ROE) for 2014 are held down by an inflation adjustment to fixed assets as
+accumulated inflation exceeded the threshold of 25 percent in the previous 3 years. Excluding this adjustment,
+profitability indicators are largely unchanged from end-2013. Banks’ net worth is not affected by this adjustment.
+
+10
+
+INTERNATIONAL MONETARY FUND
+
+URUGUAY
+
+Figure 4. Uruguay: Credit and Banking
+...with buoyant credit growth in the past few
+years.
+
+Average capital adequacy has declined since 2011...
+20
+18
+
+30
+Capital Adequacy Ratio for Major Banks
+(In percent)
+
+25
+
+16
+14
+
+30
+
+Credit Growth by Sector 2/
+(y-o-y, in percent)
+
+25
+
+20
+
+20
+
+15
+
+15
+
+10
+
+10
+
+12
+10
+8
+
+BROU
+Santander
+Scotia
+
+6
+
+Dec-11
+
+Major Banks' Capital Buffers 3/
+(In percentage points)
+
+Households (in real UY$)
+Jan-13
+
+BROU
+Santander
+Scotia
+
+12
+10
+
+Itau
+BBVA
+Weighted Average 1/
+
+6
+4
+2
+
+Dec-11
+
+0
+Oct-14
+
+NPLs and Provisions For Major Banks 4/
+(In percent of total loans, August 2014)
+NPLs
+Provisions
+Weighted average for NPLs 1/
+Weighted average for provisions 1/
+
+8
+
+Agriculture
+Commerce
+Construction
+Manufacturing
+Services
+Others
+NPL in percent of total loans (rhs)
+
+160
+140
+
+4
+
+2
+
+2
+
+120
+
+1.2
+1.0
+
+80
+
+0.8
+
+60
+
+0.6
+
+40
+
+0.4
+
+20
+
+0.2
+Oct-11
+
+Jul-12
+
+Apr-13
+
+Jan-14
+
+0
+Itaú
+
+Santander BBVA
+
+Scotia
+
+FX lending to unhedged borrowers stands around
+one-third of total loans.
+Share of FX Loans to Unhedged Borrowers 5/
+(In percent)
+
+32
+
+30
+
+30
+
+28
+
+28
+
+26
+
+26
+
+24
+
+24
+
+1.4
+
+100
+
+0
+Jan-11
+
+32
+
+1.8
+1.6
+
+8
+
+4
+
+BROU
+
+2.0
+
+10
+
+6
+
+Aug-14
+
+NPLs to Dom. Non-Financial Corporate Sector
+(In Millions of US$, and in percent)
+
+12
+
+6
+
+...though NPLs have notched up from low levels.
+
+180
+
+Mar-14
+
+0
+
+0
+
+200
+
+Aug-13
+
+The level of provisions are high...
+
+10
+8
+
+5
+
+Private firms (in US$)
+
+0
+Jun-12
+
+Aug-14
+
+The erosion in capital buffers was partly due to the
+incorporation of operational risk weights and
+systemic capital surcharges.
+12
+
+5
+
+Itau
+BBVA
+Weighted Average 1/
+
+0.0
+Oct-14
+
+22
+
+22
+2010
+
+2011
+
+2012
+
+2013
+
+2014Q2
+
+Sources: World Economic Outlook, Banco Central del Uruguay (BCU), and Fund staff estimates and calculations.
+1/ Weighted average of all private banks and Banco de la República Oriental del Uruguay (BROU).
+2/ BCU reports credit numbers in US$. Household credit is converted to pesos using the end of period nominal exchange
+rate and deflated using CPI, since the majority of household credit is denominated in local currency.
+3/ Capital buffers are given by the actual minus the required capital ratio.
+4/ Provisions include specific, general, and dynamic provisions.
+5/ Foreign currency bank credit to borrowers without natural hedges as a share of total bank credit to the private sector.
+
+INTERNATIONAL MONETARY FUND
+
+11
+
+URUGUAY
+
+OUTLOOK AND RISKS
+8.
+The sharp decline in oil prices will start having a significant effect on Uruguay’s
+economy in 2015. The drop in global crude oil prices is expected to lower Uruguay’s oil import bill
+by almost 1½ percentage points of GDP in 2015, and to reduce the current account deficit despite
+the projected slowdown in export earnings. However, the pass through of lower crude oil prices to
+end-user prices is expected to be gradual, as part of the windfall will initially be absorbed by the
+state-owned petroleum company to shore up its operating balance.
+9.
+The deceleration in activity is expected to continue in the near term. GDP growth is
+projected to soften to around 2¾ percent in 2015. The programmed slowdown in fiscal spending
+and continued weak external conditions—including lower export prices for soy and grains—are
+projected to outweigh the positive impact of lower gasoline prices on private consumption and the
+ramping up of exports by the recently completed Montes del Plata pulp mill.4
+10.
+In the medium term, growth is projected to return to the potential rate of 3–
+3½ percent as external demand growth recovers and private investment growth picks up. The
+downward revision to medium-term growth—from the 4 percent projected one year ago—reflects
+significant downward revisions to growth prospects in key trading partners. CPI inflation is projected
+to decline gradually to within the target range as monetary policy remains tight, the output gap
+closes, and lower oil prices are gradually passed through to retail prices. Net public debt is projected
+to crawl up to 43 percent of GDP by 2019 from 36½ percent in 2013 with the primary balance
+remaining below the debt-stabilizing level.
+11.
+
+There are risks stemming from external and domestic factors (detailed in the RAM).
+
+
+
+The immediate region. Uruguay’s economic linkages with the immediate region have lessened
+in some respects but remain relevant (Annex II). Subpar performance in Argentina and Brazil has
+already lowered Uruguay’s growth, and poses further near- and medium-term risks.5
+
+
+
+The global economy. Being a small and open economy that mostly exports agricultural
+commodities, imports all its oil, and has nonresidents holding a high share of its public debt,
+Uruguay would not be immune to further changes in global commodity prices or global financial
+conditions.6
+
+4
+
+The Montes del Plata pulp mill started production in June 2014. Its exports are estimated at US$300 million in 2014
+and are expected to increase to US$700 million in 2015 (close to 1½ percent of GDP).
+5
+
+A one percentage point drop in Argentina’s GDP growth is estimated to reduce Uruguay’s GDP growth by slightly
+more than ½ percentage point; the impact could be lower now given diminished economic linkages. Growth shocks
+in Brazil have typically had a muted effect on Uruguay. See Annex I in the 2013 Article IV Staff Report, “Is the
+Uruguayan Economy Decoupling from its Neighbors? An Analysis of Inwards Spillovers to Uruguay”.
+6
+
+See Selected Issues Paper “How is the Normalization of U.S. Monetary Policy Likely to Affect Uruguay?” by Diva
+Singh and Yulia Ustyugova.
+
+12
+
+INTERNATIONAL MONETARY FUND
+
+URUGUAY
+
+Domestic fiscal outlook. A delay in tightening fiscal policy beyond 2015 would leave net debt
+on an upward trend and raise the possibility of a more austere procyclical adjustment later.
+1.6
+1.4
+1.2
+
+Response of Commodity Prices to China's Growth
+Surprises 1/
+(In percent)
+
+1
+
+1.6
+1.4
+1.2
+1
+
+0.8
+
+0.8
+
+0.6
+
+0.6
+
+0.4
+
+0.4
+
+0.2
+
+0.2
+
+0
+
+0
+
+Wheat
+
+Beef
+
+Soy
+
+Gas
+
+Oil (Brent)
+
+-0.2
+
+Zinc
+
+-0.2
+
+Nickel
+
+12.
+The authorities broadly agreed with staff’s
+outlook but saw more limited downside risks. They
+felt that the decoupling of Uruguay’s economic
+performance from economic developments in Argentina
+and Brazil has been self evident in recent years, and that
+the reduced trade and tourism linkages especially with
+Argentina would imply lower negative spillovers than in
+the past. They stressed that a slowdown in China would
+hurt Uruguay less than other regional commodity
+exporters as agricultural commodity prices would be
+unlikely to fall as much as those for oil or metals. Finally,
+they emphasized that the public sector’s strong liquidity
+buffers and the flexible exchange rate would help buffer
+Uruguay’s economy against adverse shocks.
+
+Copper
+
+
+
+Sources: Bloomberg; and Fund staff calculations.
+1/ The response denotes the coefficient from individual regressions in
+which the dependent variable is the percent change of each commodity
+price (spot or future) over the three days following each data release. The
+only explanatory variable is a surprise in China's industrial value added
+growth (the difference between the actual year -on-year change and
+Bloomberg's median forecast at the time of the data release), scaled by
+the standard deviation of historical surprises. Red bars denote that the
+coefficient is significant at the 95 percent confidence level. The data span
+from March 2005 to December 2014.
+
+INTERNATIONAL MONETARY FUND
+
+13
+
+URUGUAY
+
+Uruguay: Risk Assessment Matrix (RAM)
+Sources of Risk
+
+Relative
+Likelihood
+
+Impact if Realized
+
+High/Medium
+
+Medium/Low (↓)
+
+External
+An abrupt surge in global
+financial market volatility,
+
+ Bond yields would increase and there could be a slowdown
+
+tighter global financial
+
+or reversal of capital flows into Uruguay.
+
+conditions, and persistent U.S.
+
+ The peso depreciation would put upward pressure on
+
+dollar strength.
+
+inflation. It could also raise the default rate on FX loans to
+unhedged borrowers.
+
+ Near-term public sector financing risks would be limited
+given comfortable levels of liquid dollar assets and high
+average debt maturity.
+
+ External financing risks would be contained by the high
+level of reserves and the high share of FDI-financing of the
+current account deficit.
+Protracted period of slower
+
+High/Medium
+
+growth in advanced and
+
+ A slowdown in global demand could trigger a further
+
+emerging economies / China.
+
+Sharply lower growth in the
+
+Medium (↓)
+decline in Uruguay’s export prices, as two-thirds of
+Uruguay’s exports are linked to agricultural commodities.
+However, the decline in oil prices that would likely
+accompany such a scenario would buffer the adverse
+impact by reducing Uruguay’s import bill.
+
+Medium
+
+region.
+
+Medium (↓)
+
+ A sharp slowdown in Argentina and Brazil could adversely
+impact Uruguay through trade, tourism and FDI channels.
+
+Significant disruptions in global
+
+Medium
+
+commodity, financial, and goods
+
+ The recent investment boom in renewable energy and the
+
+markets due to increased
+
+current low level of oil prices would temper the adverse
+effects of potential oil market disruptions.
+
+geopolitical tensions.
+A slowdown in FDI inflows due
+
+Low
+
+to a darker external outlook,
+lower commodity prices, or
+tighter global financial
+conditions.
+
+14
+
+Low (↓)
+
+INTERNATIONAL MONETARY FUND
+
+High (↓)
+
+ Averaging 5¼ percent of GDP from 2003–12, FDI over-
+
+financed Uruguay’s current account deficits for over a
+decade and fostered strong productivity gains. A sharp
+slowdown in FDI to Uruguay would hurt medium term
+growth prospects. At the same time, a softening in FDI
+flows would come hand in hand with a decline in capital
+goods imports, lowering the current account deficits and
+external financing needs.
+
+URUGUAY
+
+Domestic
+Delay in tightening the fiscal
+
+Medium
+
+stance.
+
+Medium (↓)
+
+ The fiscal withdrawal projected for 2015 would not be
+
+sufficient to stabilize the net debt to GDP ratio under staff’s
+baseline macroeconomic projections. A delay in tightening
+fiscal policy beyond 2015 would raise the possibility of a
+more austere procyclical adjustment later, especially if
+external shocks were to raise the debt burden.
+
+Increased mining revenues in
+
+Medium
+
+the medium term.
+
+Medium (↑)
+
+ The start of large-scale iron mining would boost
+investment, and eventually export and fiscal revenues in the
+medium term. The current account could potentially widen
+in the initial phase of the project due to FDI-financed capital
+goods imports.
+
+POLICY ISSUES
+A. Confronting Inflation
+13.
+Confronting inflation remains a priority. Inflation taxes low income households and
+presents an obstacle for financial de-dollarization. Inflation persisting above the target range also
+creates the risk of unhinging inflation expectations and prevents the use of monetary policy as a
+countercyclical tool.
+14.
+Bringing CPI inflation to the mid-point of the target range requires a comprehensive
+disinflation effort. The recent decline in oil prices will create an excellent window of opportunity to
+bring inflation closer to the target range. A strategy to reduce inflation further to 5 percent, the midpoint of the target range, should include maintaining tight macroeconomic policies, a strategy for
+reducing the backward-looking indexation of wages, steps towards strengthening the central bank’s
+influence on inflation expectations through forward-looking communication, and enhanced
+autonomy for the Banco Central del Uruguay (BCU). If implemented together, the measures would
+be mutually reinforcing and hence bring down the cost of the disinflation. A comprehensive
+disinflation strategy along these lines would also eliminate the need to resort to ad hoc measures—
+such as fiscally costly VAT cuts—to hold inflation down in the case of further commodity price
+shocks.
+
+
+Policy stance. The slowdown in M1+ growth and the substantial increase in real interest rates
+since mid-2013 represent a welcome tightening in financial conditions. The current monetary
+policy stance—with short term interest rates about 600 basis points above inflation—is
+consistent with the goal of lowering inflation. In order to durably reduce inflation to the middle
+of the target range, monetary policy needs to stay tight for some time, with appropriate re-
+
+INTERNATIONAL MONETARY FUND
+
+15
+
+URUGUAY
+
+calibration if economic circumstances change. Tighter fiscal policy would also help lower
+inflation by tempering the growth of domestic demand.
+
+
+Reducing inflation persistence. Reducing the indexation of wages to past inflation is
+critical for lessening inflation persistence and lowering the cost of disinflation. The
+government’s wage-setting guidelines for the bargaining rounds of 2015 and 2016 should
+solely recommend nominal contracts. To ensure the success of the effort, it will be critical to
+lower inflation further and get a tighter grip on inflation expectations through well-crafted
+central bank communication on the direction of monetary policy.
+
+
+
+Improving the policy framework. A major currency depreciation spurred in part by the
+Fed’s tapering announcement in mid-2013 fueled inflationary pressures and created serious
+challenges for the disinflationary effort within the monetary framework introduced in mid2013. Therefore, it seems too early to assess the efficacy of this framework in anchoring
+expectations. However, given the challenges involved in predicting money demand, it is
+important that the authorities monitor the performance of the new framework closely and
+remain open to considering other frameworks as needed over time. To enhance the
+framework, there would be merit in allowing more variable M1+ growth targets to ensure
+that the monetary policy stance is appropriately responsive to shocks and to avoid carrying
+over past errors in predicting money demand (Box 2).
+
+
+
+Further enhancing central bank communication and autonomy.
+o
+
+Communication. There is scope to strengthen the expectations channel of monetary
+policy through well-crafted communication efforts. Providing a more detailed
+assessment of the impact of money growth on inflation, publishing inflation forecasts,
+and explaining how monetary policy would respond to shocks could strengthen the
+BCU’s influence on inflation expectations.
+
+o
+
+Autonomy. Though no institutional framework guarantees success, there is evidence
+that central banks that pursue their established objectives independent of political
+considerations are more effective in reaching their goals. In this regard, there is scope
+to increase the BCU’s autonomy through legislation that delinks the terms for the
+President and Board members from the electoral cycle, as was envisaged in the draft
+central bank law submitted to Uruguay’s Parliament in December 2005.
+
+15.
+Authorities’ views on inflation dynamics. The authorities indicated that they expected
+inflation to trend down in the near term given the tight monetary policy stance and the eventual
+pass-through of the drop in global crude oil prices to retail prices. They noted that some of the
+recent decline in administrative prices reflected structural changes, for instance cheaper electricity
+production given the coming-on-stream of wind power. The authorities considered the current
+policy mix to be consistent with lowering inflation and did not consider fiscal policy to have a
+significant effect on inflation at this time. They felt that inflationary risks from exchange rate
+depreciation had lessened with the real exchange rate being near equilibrium.
+
+16
+
+INTERNATIONAL MONETARY FUND
+
+URUGUAY
+
+16.
+Authorities’ views on the monetary policy framework and central bank autonomy. The
+authorities took note of the staff’s view that allowing for more variable monetary growth targets
+may be necessary to enhance the responsiveness of the monetary policy stance to shocks and to
+avoid carrying over past errors in predicting money demand. Nevertheless, they felt that
+communicating more variable targets might be a challenge. The authorities considered that the BCU
+has an appropriate level of autonomy, giving it significant flexibility in choosing the monetary policy
+settings.
+
+B. Reinforcing Fiscal Sustainability
+17.
+The upcoming budget is an opportunity to restore a downward trend in the public
+debt-to-GDP ratio. Under unchanged fiscal policies beyond 2015 and staff’s macroeconomic
+projections, the net debt ratio would creep upwards over the medium term, approaching less
+comfortable levels. Moreover, adverse shocks to growth, interest rates, and the exchange rate could
+worsen the debt dynamics (Annex III). Staff welcomed the planned fiscal withdrawal for 2015, and
+recommended increasing the structural fiscal balance by an additional 2 percentage points of GDP
+in the following four years, which would help keep net public debt close to current levels in 2019
+and on a firm downward trend in the medium run.
+18.
+The improvement in the primary fiscal balance
+could come from a mix of expenditure and revenue
+measures. The relatively high share of rigid spending
+(pensions, social assistance and wages) poses a challenge
+to improving the primary balance through expenditure
+restraint alone. Therefore, revenue-enhancing measures
+would also be needed. While sustained expenditure
+restraint could gradually deliver part of the targeted
+improvement in the primary balance, revenue measures
+could be adopted upfront, in 2016, to reduce the eventual
+adjustment need and achieve a visible change in the
+direction of debt right away. Table 2 presents an
+adjustment path along these lines.
+
+
+100%
+80%
+60%
+
+Composition of Primary Fiscal Expenditure
+(Non-financial public sector, in percent)
+Transfers to Private Pension
+Funds
+Other Transfers
+
+Capital Expenditure
+Goods and Services
+
+40%
+20%
+0%
+
+Wages
+Social Assistance
+Pensions
+
+2013
+Sources: Ministerio de Economia y Finanzas and Fund staff
+calculations.
+
+On the expenditure side, real spending growth could be kept below real GDP growth. For
+instance, capping the growth of real primary expenditures at 2 percent from 2016 onwards
+would contribute two-thirds of the recommended adjustment over four years. To help ensure
+compliance with expenditure targets, there would be merit in incorporating a numerical
+expenditure rule in the next five-year budget. The real expenditure growth targets could be
+converted into a nominal expenditure ceiling for each individual year of the five-year budget
+period and be reduced over time if disinflation proceeds faster than expected. Also, targeting
+higher spending efficiency would help accommodate any new spending priorities without
+stretching the expenditure envelope.
+
+INTERNATIONAL MONETARY FUND
+
+17
+
+URUGUAY
+
+On the revenue side, a mix of measures could be considered. In particular, lowering the
+minimum income threshold for the PIT (currently, only about 35 percent of employees are
+estimated to contribute to the PIT), limiting VAT exemptions (estimated at 3 percent of GDP),
+and reviewing the business tax exemptions (about 2 percent of GDP) and eliminating those that
+are not clearly conducive to long-term growth could deliver the remaining adjustment.
+
+
+
+Table 2. Uruguay: Baseline and Fiscal Adjustment Scenarios 1/
+(In percent of GDP, unless indicated otherwise)
+2013
+2014
+2015
+2016
+
+2017
+
+2018
+
+2019
+
+2.8
+2.9
+3.0
+7.4
+7.3
+7.0
+-2.8
+-2.8
+-2.9
+0.3
+0.1
+-0.2
+30.2
+30.1
+29.9
+29.9
+30.0
+30.0
+0.0
+3.2
+3.0
+-1.7
+3.3
+2.8
+-0.2
+-0.2
+-0.3
+64.3
+65.1
+65.5
+38.7
+39.8
+40.9
+Fiscal Adjustment Scenario 2/, 3/
+
+3.3
+6.7
+-2.9
+-0.3
+29.7
+30.0
+3.2
+3.2
+-0.3
+66.2
+42.0
+
+3.3
+6.4
+-2.8
+-0.3
+29.7
+30.0
+3.1
+3.1
+-0.3
+66.9
+43.0
+
+Baseline Scenario
+Real GDP growth (percent)
+CPI inflation (percent, eop)
+Overall balance of the public sector
+Primary balance of the Central government, BPS and NFPEs
+Primary revenues
+Primary expenditure
+Real growth of primary expenditure (percent)
+Real growth of primary non-pension expenditure (percent)
+Structural primary balance of the public sector
+Gross public sector debt
+Net public sector debt (Gross debt minus liquid financial assets)
+
+4.4
+8.5
+-2.4
+0.4
+30.4
+30.1
+8.6
+10.5
+-0.9
+62.1
+36.5
+
+3.3
+8.3
+-3.3
+-0.4
+30.3
+30.7
+5.3
+5.5
+-1.1
+63.6
+37.6
+
+Real GDP growth (percent)
+4.4
+3.3
+2.8
+2.7
+2.9
+3.2
+3.3
+CPI inflation (percent, eop)
+8.5
+8.3
+7.4
+7.1
+6.9
+6.6
+6.3
+Overall balance of the public sector
+-2.4
+-3.3
+-2.8
+-1.9
+-1.5
+-0.9
+-0.4
+Primary balance of the Central government, BPS and NFPEs
+0.4
+-0.4
+0.3
+1.1
+1.1
+1.4
+1.8
+Primary revenues
+30.4
+30.3
+30.2
+30.7
+30.5
+30.4
+30.4
+Primary expenditure
+30.1
+30.7
+29.9
+29.6
+29.3
+29.0
+28.6
+Real growth of primary expenditure (percent)
+8.6
+5.3
+0.0
+2.0
+2.0
+2.0
+2.0
+Real growth of primary non-pension expenditure (percent)
+10.5
+5.5
+-1.7
+1.2
+1.2
+1.4
+1.2
+Structural primary balance of the public sector
+-0.9
+-1.1
+-0.2
+0.8
+1.0
+1.4
+1.8
+Gross public sector debt
+62.1
+63.6
+64.3
+64.3
+63.4
+62.5
+61.1
+Net public sector debt (Gross debt minus liquid financial assets)
+36.5
+37.6
+38.7
+38.9
+38.8
+38.1
+37.1
+Sources: Ministerio de Economia y Finanzas, Banco Central del Uruguay, and Fund staff calculations.
+1/ Both the baseline and the fiscal adjustment scenarios assume that the ratio of primary expenditures to GDP declines by 0.8 percentage points in
+2015, as the discretionary expenditures of the central government are kept constant in nominal terms and spending by nonfinancial public
+enterprises (NFPE) slows down.
+2/ The fiscal consolidation scenario assumes a 2.0 percent cap on the growth rate of real primary expenditures and a persistent increase in
+revenues of about ½ percentage point of GDP from 2016 onwards.
+3/ The assumed GDP multipliers are 0.3 for expenditures and 0.2 for revenues, consistent with empirical research for emerging markets. See, for
+example, N. Batini, L. Eyraud, and A. Weber, 2014, “A Simple Method to Compute Fiscal Multipliers,” IMF Working Paper 14/93 (Washington:
+International Monetary Fund); and E. Ilzetzki, 2011, “Fiscal Policy and Debt Dynamics in Developing Countries,” Policy Research Working Paper 5666
+(Washington: The World Bank), which show that in emerging markets spending multipliers generally range from 0.1 to 0.3, while revenue
+multipliers lie between 0.2 and 0.4.
+
+19.
+
+
+18
+
+Authorities’ views on fiscal policy:
+Objectives and composition. The authorities agreed that keeping the net debt to GDP ratio
+stable over the next five-year budget period would be desirable. They noted that a precise policy
+strategy would be outlined in the next five-year budget to be submitted to Parliament by June
+2015. They stressed that a number of investment projects implemented by the state-owned
+
+INTERNATIONAL MONETARY FUND
+
+URUGUAY
+
+enterprises would be completed in the near term, improving the public sector balance. The
+authorities saw limited scope for reducing tax exemptions, which they consider to be well
+targeted. They underscored the success of investment incentives in attracting FDI and noted that
+revising the business tax exemptions would create uncertainty and potentially undermine
+investment prospects.
+
+
+Framework. The authorities stressed that their fiscal policy framework already incorporates a
+net debt rule imposing a limit on the annual increase in the net liabilities of the consolidated
+public sector.7 They took note of staff’s argument that an expenditure rule would entail less
+procyclicality than a net debt rule.
+
+C. Responding to Inward Spillovers
+25
+20.
+The floating exchange rate should remain the main
+Exchange Rate and Net Volume of FX
+300
+Sales by the Central Bank
+absorber of external shocks. Exchange rate intervention
+(In millions of US$)
+24
+225
+should not substitute for strong macroeconomic policies. There
+is scope, however, to respond to external shocks by reducing
+150
+23
+reserves towards prudential norms if macroeconomic policy
+75
+settings are at appropriate levels and the exchange rate is not
+22
+deemed stronger than warranted by fundamentals. Staff
+0
+considers the FX intervention in September–October 2014 to
+21
+-75
+Net Sales
+have been justified by exchange rate depreciation pressures
+Exchange Rate (UY peso/US$, rhs)
+-150
+20
+emanating from the volatile external environment (particularly
+Dec-13 Mar-14 Jun-14
+Sep-14 Dec-14
+in the immediate region) in the context of a disinflationary
+Sources: Banco Central del Uruguay and Fund staff
+calculations.
+monetary policy stance, an effective real exchange rate very
+close to equilibrium, and international reserves well-above prudential norms.
+
+21.
+There is limited scope to respond to adverse spillovers with countercyclical
+macroeconomic policies. With inflation above the target range and a structural primary fiscal
+balance that is lower than the level that would stabilize the public debt-to-GDP ratio, there is limited
+room for active monetary or fiscal policy easing to combat adverse spillovers. Automatic fiscal
+stabilizers built into Uruguay’s solid social safety net and tax system would help shelter the economy
+from adverse developments.
+22.
+Nevertheless, the strong liquidity buffers of the public sector and the banking system
+would enable an orderly adjustment to shocks.
+
+
+Public sector financing risks are limited in the near term as the central government has access to
+3½ percent of GDP in contingent credit lines and has a stock of liquid financial assets sufficient
+to cover public debt service through end-2015 (4½ percent of GDP). Central bank reserves
+
+7
+
+Since 2010 the limit is fixed in inflation-indexed units. In 2013, it corresponded to about 1¼ percentage points of
+GDP.
+
+INTERNATIONAL MONETARY FUND
+
+19
+
+URUGUAY
+
+stood around 32 percent of GDP in October 2014, whereas ‘liquid’ reserves (excluding required
+reserves against FX deposits) amounted to 18½ percent of GDP, comfortably exceeding
+prudential benchmarks (Annex I). The high share of private nonresident holdings of Uruguay’s
+public debt, however, could make domestic financial conditions susceptible to changes in global
+financial sentiment.
+
+
+The modestly sized and highly liquid banking system is
+unlikely to act as a major amplifier of shocks.
+Nevertheless, there is a need to continue monitoring
+closely the resilience of banks and their customers. FXdenominated bank credit to borrowers in the
+nontradables sector, around one third of total loans to
+the private sector or 7 percent of GDP, could be a point
+of vulnerability (Table 1, paragraph 24–27).
+
+80
+70
+
+80
+
+Bank Credit to the Private Sector
+(Percent of GDP, 2014)
+
+70
+
+60
+
+60
+
+50
+
+50
+
+40
+
+40
+
+30
+
+30
+
+20
+
+20
+
+10
+
+10
+
+0
+
+0
+Chile
+
+Brazil
+
+Peru
+
+Colombia Uruguay
+
+Mexico
+
+Sources: World Economic Outlook and Fund staff calculations.
+
+
+
+Macroprudential policy settings could be eased in case of
+liquidity strains. The reserve requirement on nonresident holdings of central bank paper could
+be unwound if there were disruptive portfolio outflows, and in case of liquidity stress in the local
+banking system, reserve requirements on bank deposits could be lowered.
+
+23.
+Authorities’ views. The authorities argued that with international reserves significantly
+above traditional prudential benchmarks and money growth in line with the BCU’s reference range,
+occasional FX intervention is appropriate for smoothing potential excessive volatility in the exchange
+rate. They also argued that foreign currency sales entailed lower fiscal costs than issuing central
+bank securities to withdraw peso liquidity.
+
+D. Safeguarding Financial Stability
+24.
+Heightened external risks call for continued vigilant regulation and supervision of the
+highly dollarized banking system. A comprehensive set of regulations for mitigating FX-related
+credit, market, and liquidity risks is in place (Table 3). The authorities’ plan to impose the Basel III
+Liquidity Coverage Ratio requirements by currency is welcome; staff recommended that the new
+requirements also take into account the higher potential run-off rates of nonresident deposits. Staff
+also encouraged continued proactive efforts to monitor the risks associated with FX-denominated
+lending, and recommended applying higher capital risk-weights to FX loans to unhedged borrowers.
+25.
+Authorities’ views on FX exposures. The authorities did not see a need to further tighten
+regulations related to FX lending to unhedged borrowers, noting that verifying the currency of
+borrowers’ earnings would present a challenge for applying different risk weights to FX loans to
+unhedged versus hedged borrowers. They argued that the provisioning rules, with banks
+periodically assessing the payment ability of borrowers under real currency depreciations of 20 and
+35 percent, ensured that banks hold greater cushions against FX loans to unhedged borrowers.
+
+20
+
+INTERNATIONAL MONETARY FUND
+
+URUGUAY
+
+26.
+Staff recommended making the supervisory stress tests more stringent and requiring
+banks to incorporate the test results into their capital planning. Staff welcomed the authorities’
+plan to differentiate the impact of shocks across corporate versus household borrowers, and by the
+currency denomination of the loans, starting with the 2015 stress tests. Staff pointed out that the
+real depreciations assumed in the “adverse” scenario of the latest supervisory stress tests (carried
+out in 2014Q2) were less than five percent, calling to make them more stringent.8 Staff also urged to
+make the stress test results more binding, by requiring any banks that faced capital shortfalls in the
+tests to submit capital plans for the authorities’ approval, describing how they would deal with
+contingencies.
+27.
+Authorities’ views on the stress tests. With banks adequately meeting the current
+regulatory and supervisory requirements, the authorities saw no significant risks to financial stability.
+In responding to staff’s query on the stringency of supervisory stress tests, they discussed the results
+of internal stress tests (prepared for the Financial Stability Committee) which featured deeper
+exchange rate stress. The authorities argued that any capital deficiencies resulting from the
+considered shocks could be resolved through recapitalization without creating systemic risks. They
+explained that with the planned introduction in 2015 of banks’ self-assessment of capital adequacy,
+they would start a dialogue with banks on the implications of the stress test results.
+28.
+Progress continues towards implementing the recommendations of the 2012 FSAP. The
+authorities explained that an organizational change of the Superintendency of Financial Services
+(SSF) to enhance the supervisory capacity will be incorporated in the 2015 budget. Staff welcomed
+the efforts to strengthen the safety net and crisis management through an information exchange
+agreement between the SSF and COPAB—the deposit insurance fund. Moreover, the authorities are
+considering amendments to the bank resolution legal framework, consistent with the 2012 FSAP and
+recent Fund technical assistance. The authorities also mentioned that they are planning to
+implement a simulation exercise for bank resolution to enhance coordination among involved
+agencies.
+
+8
+
+The authorities’ May 2014 stress test entails shocks of -3.2 percent for real GDP, 11.3 percent for the exchange rate,
+9.1 percent for inflation, and increments of 335 and 70 basis points in country risk and international interest rates,
+respectively.
+
+INTERNATIONAL MONETARY FUND
+
+21
+
+URUGUAY
+
+Table 3. Uruguay: Key Prudential Regulations for FX-Related Risks
+Capital
+
+Higher risk weights are applied to FX loans compared to peso loans to the nonfinancial sector.
+
+requirements
+FX loans:
+
+
+Peso loans (except housing):
+125 percent
+
+
+
+100 percent
+
+Peso housing loans:
+
+
+75 percent
+
+Capital requirements for market risk are applied to open FX positions by currency (8 percent for currencies with an associated
+sovereign rating of AA or above and 10 percent for other currencies).
+Provisioning for
+
+Specific and differentiated provisioning rules are applied for anticipated (not realized) losses on FX loans.
+
+loan losses
+
+Liquidity
+
+FX commercial loans:
+
+FX consumer loans:
+
+ Banks assess borrowers’ payment ability under real
+peso depreciations of 20 or 35 percent.
+→ Higher provisions required if a problem is
+anticipated in payment ability.
+
+ Monthly payments do not exceed 15 percent of income
+(as opposed to 30 percent for peso loans).
+→ Considered normal.
+ Monthly payments exceed 15 percent of income.
+→ Higher provisions required.
+
+Differentiated liquidity requirements are applied to FX-denominated or nonresident liabilities.
+
+requirements
+FX liabilities to residents:
+
+FX liabilities to nonresidents:
+
+Peso liabilities:
+
+Up to 180 days: 25 percent
+
+30 percent
+
+Up to 29 days: 17 percent
+
+Over 180 days: 19 percent
+
+30 to 90 days:
+
+9 percent
+
+91 to 180 days:
+
+6 percent
+
+181 to 366 days: 4 percent
+Liquidity requirements must be met with liquid assets (for example, cash, demand deposits at BCU or foreign banks, or
+government bonds) in FX and local currency, respectively.
+Limits on open
+
+The net asset or liability position, defined as the difference between assets (excluding operating fixed assets) and liabilities,
+
+FX positions
+
+cannot exceed 150 percent of net worth.
+Differentiated minimum reserve requirements are applied to FX liabilities.
+
+Reserve
+requirements
+
+FX liabilities to residents:
+
+FX liabilities to nonresidents:
+
+Peso liabilities:
+
+Up to 180 days: 18 percent
+
+18 percent
+
+Up to 29 days: 15 percent
+
+Over 180 days: 14 percent
+
+30 to 90 days:
+
+9 percent
+
+91 to 180 days:
+
+6 percent
+
+181 to 366 days: 4 percent
+Effective August 1, 2013, marginal reserve requirements are applied, consisting of 45 percent on FX deposits and 25 percent of
+peso deposits on the daily average balance minus the corresponding April 2011 balance. FX and peso reserve requirements
+must be met with cash and deposits at the BCU. Both the minimum and marginal reserves at BCU are remunerated.
+
+22
+
+INTERNATIONAL MONETARY FUND
+
+URUGUAY
+
+E. Bolstering Inclusive Growth in the Medium Term
+29.
+Supply-enhancing reforms are needed to secure the strong economic growth that
+Uruguay needs in order to continue deepening its social gains. Given limited scope for higher
+contribution from the growth of the labor force going forward, strong medium-run growth will
+require continued high investment rates and TFP growth (Figure 5).
+30.
+The structural reform agenda of the incoming administration is well targeted to the
+identified potential impediments to future growth.
+
+
+Infrastructure. Unlike investments in energy and telecommunication infrastructure, investment
+in transport infrastructure has fallen below the needs of Uruguay’s growing economy, which
+could hinder FDI prospects in the medium run. The authorities indicated that the modernization
+and maintenance of highways and railroads are a priority in their reform agenda, with several
+rehabilitation projects to be launched as Private Public Partnerships (PPP) in the near term. The
+authorities argued that the PPP investments should pick up as the private sector becomes more
+familiar with the framework, while acknowledging that there is room to improve the project
+design and approval procedures. Staff welcomes the authorities’ intention to review the overall
+PPP process and introduce changes as needed.
+
+
+
+Education. There is broad consensus that reversing the quality decline in secondary education
+will be essential to sustain strong and inclusive growth in the long run (Box 1). The incoming
+administration is committed to undertake reforms to boost student enrollment and completion
+rates, and learning outcomes in secondary education. The reform will establish a set of analytical
+skills in order to help students better succeed in college and the labor market, create a common
+core curriculum to support the acquisition of those skills, and implement a national system of
+standardized evaluation. The authorities expect education spending to increase by 1 percent of
+GDP over the next five to ten years.
+
+
+
+Labor skills. The labor market has been tight in recent years, with anecdotal evidence of skill
+shortages in some sectors. There is a need to review the government funded training programs
+and ensure that their design is well aligned with the demands of Uruguay’s current production
+structure. The authorities stressed the need to improve job training opportunities especially for
+the youth, and address the skill gaps in fast-growing sectors such as services and IT.
+
+31.
+Fostering an enabling business environment will also be important in maintaining high
+productivity and investment rates in the years ahead. With business surveys ranking labor
+market efficiency as the most difficult aspect of doing business in Uruguay, it would be useful to
+evaluate the labor market regulations introduced in recent years and ensure that they strike a good
+balance between efficiency and appropriate protection for workers. The authorities emphasized their
+plans to launch a national system of competitiveness, an umbrella reform agenda that aims to
+facilitate an innovation-friendly business environment; not only by improving infrastructure and
+human capital, but also by promoting research, development and entrepreneurial capacities.
+
+INTERNATIONAL MONETARY FUND
+
+23
+
+URUGUAY
+
+Figure 5. Uruguay: Medium-Term Growth
+Sustaining strong growth and competitiveness
+will require enhancing labor market efficiency.
+
+Strong increases in capital accumulation and TFP
+were the main drivers of potential growth in
+recent years.
+Contribution to Potential Output Growth
+6 (Average annual percentage contribution)
+6
+Capital Stock
+Labor 1/
+projections
+5
+5
+TFP
+Potential Output
+4
+4
+3
+
+3
+
+2
+
+2
+
+1
+
+1
+
+0
+
+5
+
+Hiring and
+firing practices
+1
+
+Alignment
+between pay
+and
+productivity
+
+2009-2013
+
+Uruguay lagged behind the LA5 in infrastructure
+investment until 2012...
+
+6
+
+LA6: Infrastructure investment, 2005-2012
+(In percent of GDP)
+Public
+
+4
+
+0
+
+Cooperation in
+laboremployer
+relations
+
+2006
+
+2014-2019
+
+5
+
+Private
+
+4
+
+3
+
+3
+
+2
+
+Flexibility of
+wage
+determination
+
+0.5
+
+Redundancy
+costs, weeks of
+salary
+
+0
+2003-2008
+
+6
+
+Labor Market Efficiency Rankings (WEF)
+(A value of 1 indicates the country is ranked last)
+
+2014
+
+... when private investment in energy
+infrastructure strongly increased...
+
+Uruguay: Infrastructure investment, 2005-2012
+(In percent of GDP)
+Transportation
+Energy
+Telecomunicationes
+Water and sanitation
+
+2
+
+1
+1
+
+0
+URY
+
+LA5
+
+URY
+
+2005-2011
+
+LA5
+
+0
+2005 2006 2007 2008 2009 2010 2011 2012
+
+2012
+
+... increasing the share of renewable energy and
+reducing Uruguay's dependence on oil imports.
+
+7
+6
+
+5
+
+550
+
+Total primary energy supply by source
+(in million tons of oil equivalent)
+projections
+biomass
+wood
+wind power
+hydro power
+natural gas
+combustibles
+
+To ensure strong and inclusive growth in the
+longer term, it will be critical to improve
+educational quality and equity.
+PISA Results, 2009 vs 2012
+(In absolute value (lhs), in percentage (rhs))
+
+25
+
+500
+
+20
+
+2009 Math Score
+
+4
+
+450
+
+3
+
+2012 Math Score
+
+15
+
+2012 Inequity Score 2/ (rhs)
+
+10
+
+2
+
+400
+
+5
+
+1
+
+0
+2003
+
+350
+
+2005
+
+2007
+
+2009
+
+2011
+
+2015
+
+0
+Uruguay
+
+LAC Average
+
+OECD average
+
+Sources: Banco Central del Uruguay, National Statistics Institute, World Economic Forum (WEF), Economic Comission
+for Latin America and the Caribbean (CEPAL), Ministry of Industry, Energy and Mining, OECD and Fund staff estimates.
+1/ Adjusted for quality using data on average years of schooling based on Barro and Lee (2010), "A New Data Set of
+Educational Attainment in the World, 1950-2010".
+2/ Percentage of variation in student performance explained by the students' socio-economic background.
+
+24
+
+30
+
+INTERNATIONAL MONETARY FUND
+
+URUGUAY
+
+32.
+A far-reaching financial inclusion law adopted in April 2014 will broaden
+households’access to financial services and promote their use of electronic payments. The law
+requires all salaries and pension benefits to be paid into bank accounts or debit cards by May 2017,
+mandates that workers be able to access affordable credit that is serviced directly from these
+accounts, and incentivizes electronic transactions through temporary VAT cuts on purchases with
+credit and debit cards. The authorities indicated that the number of debit card transactions tripled
+from less than 1 percent to around 3 percent of total transactions in the two months following the
+introduction of VAT cuts in August 2014, and noted that they expect cash transactions to halve by
+August 2015.
+33.
+The authorities have also taken steps to facilitate household access to a greater range
+of saving instruments. Shares in money market funds backed by central bank securities can now be
+purchased at payment service providers. Once take up increases, the availability of alternative saving
+instruments should enhance competition for peso-denominated bank deposits and strengthen the
+impact of monetary policy on household saving decisions.
+
+STAFF APPRAISAL
+34.
+The Uruguayan economy is decelerating gradually after a decade of strong and
+inclusive growth. Export receipts are growing at a markedly lower clip than a few years ago and
+domestic demand growth is slowing towards a more sustainable pace. At the same time, inflation
+remains above the target range and the primary fiscal balance has weakened further in 2014.
+35.
+The external environment presents risks as well as opportunities. As a small open
+economy that exports mostly agricultural products and has nonresidents holding a relatively high
+share of its public debt, Uruguay is exposed to the risk of lower global growth and tighter global
+financial conditions. At the same time, the recent drop in global crude oil prices will provide a
+welcome opportunity to improve the overall fiscal and balance of payments positions and reduce
+inflation.
+36.
+Uruguay’s strong liquidity buffers would allow an orderly adjustment in the event of
+adverse external shocks. Public debt maturity is high, reserves comfortably exceed prudential
+benchmarks, and banks and the public sector have ample U.S. dollar liquidity. However, abovetarget inflation would leave little room for a countercyclical monetary policy response, and a primary
+balance that is insufficient to stabilize net public debt would limit the policy space to deploy
+discretionary stimulus.
+37.
+A multi-dimensional disinflation strategy is needed to bring inflation to the mid-point
+of the target range. Such a strategy would involve maintaining a monetary policy stance tight
+enough to keep inflation on a downward trend, moving towards tighter fiscal policy, a reduction in
+the backward-looking component of wage setting to temper inflation persistence, and bolstering
+the central bank’s influence on inflation expectations through well-crafted communication efforts.
+Enhanced central bank autonomy would also be beneficial.
+
+INTERNATIONAL MONETARY FUND
+
+25
+
+URUGUAY
+
+38.
+The upcoming five-year budget is an opportunity to reinforce fiscal sustainability.
+Improving the primary fiscal balance by about 2 percent of GDP over the medium term would help
+ensure that net public debt is put on a firmly declining path. The improvement in the fiscal balance
+could be achieved by keeping spending growth moderately below potential GDP growth over the
+next five years and modestly increasing revenues.
+39.
+Financial regulation and supervision are solid, but could benefit from fine-tuning in
+some areas. The exposures to exchange rate depreciation risks bear continued close monitoring.
+There is scope to strengthen risk weights for foreign currency loans to unhedged borrowers,
+incorporate greater exchange rate stress into the supervisory stress tests, and require banks facing
+capital shortfalls in the stress tests to submit contingent capital plans for the SSF’s approval. In
+addition, measures to assist financial deepening could enhance growth and social inclusion.
+40.
+A key challenge is to bolster strong growth in the medium run in order to continue
+deepening Uruguay’s social gains. The commitment of the incoming government to boost
+infrastructure investments, revamp secondary education and skill formation for the youth, and foster
+an innovation-friendly business environment is welcome.
+41.
+
+26
+
+Staff proposes that Uruguay remains on the 12-month Article IV consultation cycle.
+
+INTERNATIONAL MONETARY FUND
+
+URUGUAY
+
+Box 1. Uruguay‘s Experience with Inclusive Growth 1/
+Uruguay has a long history of high living standards comparable to many developed
+countries and has made further progress in improving social conditions in the last decade.
+The recession leading to the 2002 crisis took a severe toll on social indicators. However, rising
+employment and labor incomes, as well as the introduction of targeted public transfers, kept
+poverty on a declining trend after 2005 and reduced it to multi-decade lows. Income inequality
+has also declined after 2007.
+Uruguay: Poverty, Inequality, and Growth /1
+
+LA6: Social Public Expenditure, 2005 and 2010
+
+(Poverty and Gini in percent, GDP in thousands of 2005 USD PPP)
+16
+14
+
+Real GDP per capita PPP
+
+Extreme Poverty
+
+Poverty (rhs)
+
+Gini (rhs)
+
+55
+50
+
+12
+
+45
+
+10
+
+40
+35
+
+8
+
+30
+
+0 percent
+A B of
+0 GDP)
+C D
+(In
+
+0
+
+E
+
+F
+
+25
+
+0
+
+G H
+
+0
+
+I
+
+J
+
+0
+
+K
+
+L
+
+Social Security
+Housing and Other
+Health
+
+20
+
+Education
+15
+
+30
+
+6
+
+25
+
+4
+
+20
+
+2
+
+10
+5
+
+15
+
+0
+
+10
+1990
+
+1993
+
+1996
+
+1999
+
+2002
+
+2005
+
+2008
+
+0
+
+2011
+
+Source: National Statistics Institute (INE), and World Bank (WDI).
+1/ Solid series represent data for urban areas (with more than 5000 inhabitants).
+Dotted series , which begin in 2006 , cover urban as well as rural areas.
+
+BRA 1/
+
+CHL
+
+COL
+
+MEX
+
+PER
+
+URY 1/
+
+Source: Economic Commission for Latin America and the Caribbean.
+1/ For Brazil and Uruguay, the latest social expenditure data are for 2009.
+
+Public social spending increased from 20 percent of GDP in 2005 to 25 percent in 2012,
+reflecting a deliberate social policy effort. The government implemented a temporary social
+emergency plan (PANES) between 2005 and 2007, aimed at reducing extreme poverty through
+targeted cash transfers. The more comprehensive and permanent Equity Plan launched in 2007
+included an expansion in the coverage and amount of social assistance transfers, as well as farreaching tax and health care reforms. The tax reform introduced personal income taxes and
+improved the progressivity of the tax system, while the health care reform doubled by 2010 the
+health insurance coverage under public plans. In 2010, further steps were taken to expand the
+coverage of health care, unemployment insurance,
+LA: Contribution of Growth in Poverty Reduction /1
+(Poverty reduction in percentage points, contribution in percent)
+and non-contributory pension benefits.
+Preserving strong and stable growth, and
+ensuring the fiscal sustainability of social
+policies, will be essential to cementing and
+deepening these social gains going forward. The
+reduction in poverty following the 2002 crisis in
+large part owes to strong economic growth, which
+raised employment and incomes while also enabling
+higher spending on social policies.
+
+Argentina 1998-11
+Bolivia 1997-11
+Brazil 2003-11
+Chile 2000-09
+Costa Rica 2002-09
+Dom. Rep. 2003-11
+Ecuador 2003-11
+El Salvador 1998-10
+Guatemala 2000-11
+Honduras 2003-11
+Mexico 2000-10
+Panama 2001-11
+Paraguay 2004-10
+Peru 1997-10
+Uruguay 2004-11
+Venezuela 2004-11
+
+-25
+
+Contribution of Growth
+Change in Poverty
+
+0
+
+25
+
+50
+
+75
+
+100
+
+Source: Lustig, Lopez-Calva and Ortiz-Juarez (2013), "Deconstructing the decline in
+inequality in Latin America", World Bank Policy Research Working Paper No. 6552.
+1/ Datt-Ravallion methodology using US$ 4 PPP poverty line, decomposing the poverty
+reduction into mean household income growth and inequality components. The growth
+component reflects a shift in the income distribution maintaining its shape, while the
+inequality component reflects a change in the shape of the income distribution
+maintaining its mean.
+
+INTERNATIONAL MONETARY FUND
+
+27
+
+URUGUAY
+
+Box 1. Uruguay‘s Experience with Inclusive Growth (concluded)
+Strong skill formation, especially for women and youth, would help ensure that the
+reduction in poverty is durable. Although Uruguay’s cash transfer policies were successful in
+reducing the poverty rate over the last decade, a sizable share of the population remains at risk of
+falling back into poverty. Strengthening job training opportunities and job search assistance,
+especially for women and youth, would help insert the poor and vulnerable population into the
+labor market, thereby providing a durable strategy for eliminating poverty and vulnerability.
+Extreme Poverty before and after Cash Transfers, 2009 /1
+20
+
+Youth Unemployment for Ages 15-24, 2012 /1
+
+(In percent)
+
+(In percent of the labor force for corresponding age and gender groups)
+Extreme poverty before cash transfers 2/
+
+Extreme poverty after cash transfers
+
+30
+
+Female
+
+25
+
+Male
+
+15
+20
+
+Total Unemployment (all
+ages, both genders)
+
+15
+
+10
+
+10
+5
+5
+0
+
+0
+
+Argentina
+
+Bolivia
+
+Brazil
+
+Mexico
+
+Peru
+
+Uruguay
+
+Source: Lustig, Pessino and Scott (2014), "The impact of taxes and social spending on
+inequality and poverty in Argentina, Bolivia, Brazil, Peru, Uruguay: An overview",
+Commitment to Equity Working Paper No. 13.
+1/ 2010 for Mexico.
+2/ Extreme poverty measured at the US$ 2.5 PPP a day poverty line.
+
+Brazil
+
+Chile
+
+Colombia
+
+Mexico
+
+Peru
+
+Uruguay
+
+Source: Socio-Economic Database for Latin America and the Caribbean.
+1/ 2011 for Chile.
+
+Enhancing the quality of education is crucial for improving equity and raising growth
+potential in the longer-term. Declining PISA scores and the high dependence of student
+performance on socioeconomic conditions are a concern (Figure 5). Uruguay currently spends
+about 4. 6 percent of GDP on education, below the 5.4 percent average among OECD countries.
+While additional resources could be allocated to improve the quality of education, there is room
+to improve the efficiency of education spending as well.
+____________________
+1/ This box summarizes the analysis presented in the Selected Issues Paper “Inclusive Growth: The Tale of
+Uruguay”, by Elif Türe.
+
+28
+
+INTERNATIONAL MONETARY FUND
+
+URUGUAY
+
+Box 2. Uruguay’s Money-Targeting Framework: Takeaways From the First Six Quarters
+of Implementation 1/
+In July 2013, the BCU switched from using the overnight interest rate as the intermediate
+target to announcing reference ranges for the growth of M1+ within its inflation targeting
+framework. At the inception of the framework, the BCU announced its intention to reduce M1+
+20
+growth from an average of about 14 percent in the
+M1+ Growth Reference Ranges and
+Outturns
+previous year to 8 percent by mid-2015, and started setting 18 (In percent)
+16
+M1+ growth targets for the quarter ahead. In the event,
+Reference range
+14
+M1+ growth declined to under 8 percent by 2014Q3.
+12
+
+The new framework has delivered a significant
+tightening in the monetary policy stance, but its first
+six quarters of implementation highlighted some
+operational challenges.
+
+
+18
+
+16
+14
+12
+
+10
+
+10
+M1+ growth rate
+(y-o-y, rhs)
+
+8
+
+8
+
+6
+
+6
+
+4
+
+4
+2013Q2
+
+2013Q4
+
+2014Q2
+
+2014Q4
+
+Sources: Banco Central del Uruguay and Fund staff
+Money demand has proven difficult to predict. The
+calculations.
+M1+growth rate has undershot the reference range in
+four out of the six quarters of implementation. Analysis based on a calibrated macroeconomic
+model suggests that the observed deviations from the reference range mostly reflected
+money demand shocks—i.e. unexpected decreases in money demand. The undershooting of
+targets was appropriate in view of the disinflation objective, as keeping M1+ growth in the
+originally-announced reference range would have
+Decomposition of Money Target Misses 1/
+2 (In percentage points)
+2
+implied a looser monetary stance. In the converse
+case of higher-than-expected monetary demand,
+0
+0
+however, it would be preferable to avoid an
+-2
+-2
+overshooting of targets and hold on to the gains in
+lowering inflation.
+Money Demand Shocks
+-4
+
+
+
+20
+
+World Shocks
+Exchange Rate Shocks
+Monetary Policy Shocks
+Demand Shocks
+Initial Conditions
+Inflation Shocks
+M1+ growth minus target
+
+-4
+
+There is a need to analyze the deviations of M1+
+-6
+growth from the reference range and ensure that
+-8
+errors in predicting money demand do not get
+2013Q3 2013Q4 2014Q1 2014Q2 2014Q3
+carried over. The BCU has been working with the
+Sources: Fund staff calculations.
+1/ M1+ growth minus mid-point of target range.
+year-on-year growth rate of M1+, which allows
+abstracting from seasonality. However, setting a smooth path for year-on-year growth could
+lead to a carry-over of past errors in predicting money demand, as the growth rate is applied
+to the M1+ level one year ago. Accepting some variability in money targets is essential to
+calibrate the policy stance appropriately—both to react to new shocks and to correct for past
+errors in predicting money demand.
+
+-6
+-8
+
+___________________
+1/ This box is based on “A Calibrated Macroeconomic Model of Uruguay for Monetary Policy Analysis,” by Rafael
+Portillo and Yulia Ustyugova, forthcoming IMF working paper.
+
+INTERNATIONAL MONETARY FUND
+
+29
+
+URUGUAY
+
+Table 4. Uruguay: Selected Economic Indicators
+
+Output, prices, and employment
+Real GDP (percent change)
+GDP (US$ billions)
+Unemployment (in percent, eop)
+CPI inflation (in percent, average)
+Exchange rate (UY$/US$, average)
+Real effective exchange rate (percent change, eop)
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+Projection
+2016
+2017
+
+2018
+
+2019
+
+8.4
+38.9
+7.0
+6.7
+20.1
+3.5
+
+7.3
+47.2
+6.3
+8.1
+19.3
+6.8
+
+3.7
+50.0
+6.3
+8.1
+20.3
+10.1
+
+4.4
+55.7
+6.5
+8.6
+20.5
+-1.6
+
+3.3
+55.1
+6.5
+8.9
+23.2
+-4.4
+
+2.8
+57.3
+6.8
+7.9
+…
+…
+
+2.7
+59.9
+7.0
+7.5
+…
+…
+
+2.9
+63.1
+7.0
+7.1
+…
+…
+
+3.2
+66.6
+7.2
+6.7
+…
+…
+
+3.3
+70.2
+7.2
+6.5
+…
+…
+
+...
+...
+...
+...
+...
+...
+...
+...
+
+...
+...
+...
+...
+...
+...
+...
+...
+
+...
+...
+...
+...
+...
+...
+...
+...
+
+(Percent change, unless otherwise specified)
+Monetary and banking indicators 1/
+Base money
+Broader M1 (M1 plus savings deposits)
+M2
+Growth of credit to households (in real UY$)
+Growth of credit to firms (in US$)
+Bank assets (in percent of GDP)
+Private credit (in percent of GDP) 2/
+Foreign bank market share (in percent of total loans)
+
+16.2
+30.0
+30.3
+15.8
+18.8
+58.2
+23.1
+54.1
+
+17.3
+20.8
+22.0
+2.1
+26.5
+60.2
+23.4
+56.0
+
+26.7
+11.2
+12.3
+7.3
+17.5
+58.5
+24.0
+56.6
+
+12.9
+15.0
+11.6
+9.9
+16.2
+62.8
+26.9
+59.3
+
+2.7
+7.2
+5.4
+6.4
+8.4
+66.6
+26.8
+62.3
+
+...
+...
+...
+...
+...
+...
+...
+...
+
+...
+...
+...
+...
+...
+...
+...
+...
+
+(Percent of GDP, unless otherwise specified)
+Public sector indicators
+Revenue 3/
+Non-interest expenditure 3/
+Wage bill
+Primary balance 4/
+Interest 4/
+Overall balance 4/
+Gross public sector debt
+Public sector debt net of liquid financial assets 5/
+External indicators
+Merchandise exports, fob (US$ millions)
+Merchandise imports, fob (US$ millions)
+Terms of trade (percent change)
+Current account balance
+Foreign direct investment
+Overall balance of payments (US$ millions)
+Total external debt + non-resident deposits
+Of which: External public debt
+External debt service (in percent of exports of g&s)
+Gross official reserves (US$ millions)
+In months of imports of goods and services
+In percent of:
+Short-term external (STE) debt
+STE debt plus banks' non-resident deposits
+
+29.8
+28.5
+5.0
+1.6
+3.1
+-1.5
+61.6
+40.2
+
+28.5
+26.8
+4.9
+2.0
+2.9
+-0.9
+59.0
+37.0
+
+28.4
+28.7
+5.1
+-0.2
+2.6
+-2.8
+59.5
+37.2
+
+30.4
+30.1
+5.1
+0.4
+2.8
+-2.4
+62.1
+36.5
+
+30.3
+30.7
+5.2
+-0.4
+2.9
+-3.3
+63.6
+37.6
+
+30.2
+29.9
+5.0
+0.3
+3.1
+-2.8
+64.3
+38.7
+
+30.1
+30.0
+5.1
+0.1
+2.9
+-2.8
+65.1
+39.8
+
+29.9
+30.1
+5.2
+-0.2
+2.7
+-2.9
+65.5
+40.9
+
+29.8
+30.1
+5.2
+-0.3
+2.6
+-2.9
+66.2
+42.0
+
+29.8
+30.1
+5.2
+-0.3
+2.6
+-2.9
+66.9
+43.0
+
+8,031
+8,558
+-3.4
+-1.9
+5.9
+-361
+47.5
+34.0
+29.9
+7,655
+9.1
+
+9,274
+10,704
+-0.2
+-2.9
+5.3
+2,564
+40.0
+31.5
+21.6
+10,302
+9.7
+
+9,916
+12,277
+6.6
+-5.4
+5.1
+3,287
+40.3
+31.8
+15.8
+13,604
+11.1
+
+10,291
+11,593
+0.0
+-5.2
+5.4
+2,945
+42.9
+33.9
+22.0
+16,279
+13.2
+
+10,934
+11,743
+2.6
+-4.8
+5.5
+1,667
+44.5
+35.5
+22.1
+17,946
+14.3
+
+10,985
+11,245
+4.2
+-3.7
+5.0
+666
+44.4
+35.4
+23.8
+18,612
+15.4
+
+11,393
+11,926
+-2.3
+-3.9
+4.7
+446
+44.2
+35.1
+24.0
+19,058
+15.0
+
+11,990
+12,611
+-0.4
+-3.8
+4.5
+679
+44.5
+35.5
+24.4
+19,736
+14.7
+
+12,656
+13,390
+-0.1
+-3.6
+4.1
+972
+44.4
+35.3
+24.3
+20,708
+14.6
+
+13,377
+14,223
+0.3
+-3.5
+3.8
+961
+43.8
+34.8
+24.2
+21,669
+14.4
+
+139.0
+80.9
+
+212.6
+126.2
+
+214.9
+140.0
+
+264.1
+153.9
+
+263.3
+160.6
+
+315.6
+178.5
+
+305.2
+173.4
+
+262.8
+157.7
+
+270.0
+159.9
+
+277.9
+162.1
+
+Sources: Banco Central del Uruguay, Ministerio de Economia y Finanzas, Instituto Nacional de Estadistica, and Fund staff calculations.
+1/ Percent change of end-of-year data on one year ago. For 2014, latest available data.
+2/ Includes bank and non-bank credit.
+3/ Non-financial public sector excluding local governments.
+4/ Total public sector. Includes the non-financial public sector, local governments, Banco Central del Uruguay, and Banco de Seguros del Estado.
+5/ Gross debt of the public sector minus liquid financial assets of the public sector. Liquid financial assets are given by deducting from total
+public sector assets the part of central bank reserves held as a counterpart to required reserves on foreign currency deposits and the domestic
+currency claims of the non-financial public sector on resident financial institutions.
+
+30
+
+INTERNATIONAL MONETARY FUND
+
+Table 5. Uruguay: Main Fiscal Aggregates
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+Projection
+2016
+2017
+
+2018
+
+2019
+
+-1.6
+-3.0
+516.4
+328.2
+27.4
+136.3
+24.5
+519.4
+467.3
+52.1
+-0.3
+1.7
+-1.3
+-2.8
+47.4
+8.2
+-50.3
+
+-3.6
+-5.2
+567.1
+360.5
+30.1
+149.9
+26.6
+572.2
+515.0
+57.2
+-0.3
+1.9
+-1.4
+-4.9
+49.7
+7.3
+-54.6
+
+-3.8
+-5.5
+623.0
+396.2
+32.9
+164.8
+29.1
+628.5
+565.7
+62.9
+-0.3
+2.1
+-1.5
+-5.3
+54.3
+7.2
+-59.6
+
+(In billions of pesos, unless otherwise indicated)
+I. Primary balance of the non-financial public sector (A+B+C)
+A. Primary balance of central government, BPS and NFPE 1/ 2/
+Revenues
+Taxes
+Non tax
+Social security
+NFPE operating balance 2/
+Primary expenditures
+Current
+Capital
+B. Primary balance of local governments
+C. Primary balance of BSE 3/
+II. Primary balance of the BCU 4/
+III. Primary balance of the public sector (I+II)
+IV. Interest
+of which: BCU 4/
+V. Overall balance of the public sector (III-IV)
+
+12.9
+10.2
+232.5
+152.2
+12.4
+49.7
+18.1
+222.3
+193.7
+28.6
+-0.2
+2.8
+-0.7
+12.2
+23.8
+4.5
+-11.6
+
+18.6
+16.1
+260.2
+175.0
+15.5
+59.9
+9.8
+244.1
+219.5
+24.6
+0.9
+1.6
+-0.8
+17.8
+26.2
+4.2
+-8.4
+
+-1.2
+-2.4
+288.6
+191.3
+16.2
+72.6
+8.5
+291.0
+261.9
+29.1
+-0.8
+2.0
+-0.4
+-1.7
+26.4
+3.0
+-28.0
+
+5.4
+4.4
+347.4
+222.5
+20.9
+86.0
+18.0
+343.1
+302.6
+40.4
+-0.8
+1.8
+-0.8
+4.6
+31.9
+4.4
+-27.4
+
+-3.6
+-4.7
+388.7
+248.6
+20.6
+101.0
+18.6
+393.4
+348.6
+44.9
+-0.2
+1.3
+-0.9
+-4.6
+37.3
+7.2
+-41.9
+
+5.5
+4.3
+428.8
+270.3
+22.7
+111.9
+23.9
+424.5
+380.5
+44.0
+-0.2
+1.4
+-1.0
+4.5
+44.7
+10.2
+-40.2
+
+2.9
+1.6
+472.3
+298.7
+24.9
+123.7
+25.1
+470.8
+422.9
+47.9
+-0.3
+1.6
+-1.1
+1.8
+46.0
+9.3
+-44.2
+
+I. Primary balance of the non-financial public sector (A+B+C)
+A. Primary balance of central government, BPS and NFPE 1/ 2/
+Revenues
+Taxes
+Non tax
+Social security
+NFPE operating balance 2/
+Primary expenditures
+Current
+Capital
+B. Primary balance of local governments
+C. Primary balance of BSE 3/
+II. Primary balance of BCU 4/
+III. Primary balance of the public sector (I+II)
+IV. Interest
+Of which: BCU 4/
+V. Overall balance of the public sector (III-IV)
+
+1.7
+1.3
+29.8
+19.5
+1.6
+6.4
+2.3
+28.5
+24.8
+3.7
+0.0
+0.4
+-0.1
+1.6
+3.1
+0.6
+-1.5
+
+2.0
+1.8
+28.5
+19.2
+1.7
+6.6
+1.1
+26.8
+24.1
+2.7
+0.1
+0.2
+-0.1
+2.0
+2.9
+0.5
+-0.9
+
+-0.1
+-0.2
+28.4
+18.8
+1.6
+7.1
+0.8
+28.7
+25.8
+2.9
+-0.1
+0.2
+0.0
+-0.2
+2.6
+0.3
+-2.8
+
+0.5
+0.4
+30.4
+19.5
+1.8
+7.5
+1.6
+30.1
+26.5
+3.5
+-0.1
+0.2
+-0.1
+0.4
+2.8
+0.4
+-2.4
+
+-0.3
+-0.4
+30.3
+19.4
+1.6
+7.9
+1.4
+30.7
+27.2
+3.5
+0.0
+0.1
+-0.1
+-0.4
+2.9
+0.6
+-3.3
+
+0.4
+0.3
+30.2
+19.0
+1.6
+7.9
+1.7
+29.9
+26.8
+3.1
+0.0
+0.1
+-0.1
+0.3
+3.1
+0.7
+-2.8
+
+0.2
+0.1
+30.1
+19.0
+1.6
+7.9
+1.6
+30.0
+27.0
+3.1
+0.0
+0.1
+-0.1
+0.1
+2.9
+0.6
+-2.8
+
+-0.1
+-0.2
+29.9
+19.0
+1.6
+7.9
+1.4
+30.0
+27.0
+3.0
+0.0
+0.1
+-0.1
+-0.2
+2.7
+0.5
+-2.9
+
+-0.2
+-0.3
+29.7
+18.9
+1.6
+7.9
+1.4
+30.0
+27.0
+3.0
+0.0
+0.1
+-0.1
+-0.3
+2.6
+0.4
+-2.9
+
+-0.2
+-0.3
+29.7
+18.9
+1.6
+7.9
+1.4
+30.0
+27.0
+3.0
+0.0
+0.1
+-0.1
+-0.3
+2.6
+0.3
+-2.8
+
+Memorandum Items:
+GDP (in billions of pesos)
+
+780
+
+912
+
+1,016
+
+1,141
+
+1,282
+
+1,420
+
+1,569
+
+1,730
+
+1,906
+
+2,095
+
+(In percent of GDP, unless otherwise indicated)
+
+31
+
+URUGUAY
+
+INTERNATIONAL MONETARY FUND
+
+Sources: Ministerio de Economia y Finanzas, Banco Central del Uruguay, and Fund staff calculations.
+1/ Banco de Prevision Social (BPS).
+2/ Non-financial public enterprises (NFPE).
+3/ Banco de Seguros del Estado (BSE).
+4/ Banco Central del Uruguay (BCU).
+
+INTERNATIONAL MONETARY FUND
+
+URUGUAY
+
+32
+Table 6. Uruguay: Public Sector Debt and Assets 1/
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+Projection
+2016
+2017
+
+2018
+
+2019
+
+(In billions of U.S. dollars, unless otherwise indicated)
+Public Sector Debt
+Gross debt of the public sector
+of which:
+
+23.9
+
+27.0
+
+31.1
+
+33.1
+
+33.5
+
+35.1
+
+37.3
+
+39.6
+
+42.2
+
+44.9
+
+Non-financial public sector debt
+Central bank debt
+
+17.8
+6.1
+
+20.8
+6.2
+
+23.5
+7.7
+
+23.9
+9.2
+
+24.2
+9.2
+
+25.4
+9.7
+
+26.8
+10.5
+
+28.6
+11.0
+
+30.5
+11.7
+
+32.5
+12.5
+
+External debt of the public sector
+Domestic debt of the public sector
+
+13.2
+10.7
+
+14.4
+12.6
+
+16.7
+14.5
+
+18.0
+15.1
+
+18.6
+14.8
+
+19.3
+15.8
+
+20.1
+17.2
+
+21.4
+18.1
+
+22.5
+19.7
+
+23.4
+21.6
+
+11.6
+
+13.9
+
+17.5
+
+20.1
+
+21.4
+
+22.2
+
+22.7
+
+23.5
+
+24.6
+
+25.7
+
+2.9
+8.7
+5.4
+8.3
+
+2.7
+11.2
+7.4
+10.1
+
+3.1
+14.4
+8.5
+11.7
+
+2.9
+17.1
+10.7
+13.7
+
+2.6
+18.8
+11.0
+13.7
+
+2.7
+19.5
+11.3
+14.0
+
+2.8
+19.9
+11.7
+14.5
+
+2.9
+20.6
+12.0
+14.8
+
+3.0
+21.6
+12.5
+15.5
+
+3.2
+22.5
+12.9
+16.1
+
+15.6
+12.3
+
+17.0
+13.2
+
+19.5
+13.6
+
+19.4
+13.0
+
+19.8
+12.0
+
+21.1
+12.9
+
+22.8
+14.6
+
+24.7
+16.1
+
+26.7
+17.6
+
+28.9
+19.3
+
+Public Sector Assets
+Gross assets of the public sector
+of which:
+Financial assets of the non-financial public sector
+Reserve assets of the central bank
+Liquid reserve assets of the central bank
+Liquid assets of the public sector 2/
+Net Public Sector Debt
+Gross debt minus liquid financial assets 2/
+Authorities' definition 3/
+
+(In percent of GDP, unless otherwise indicated) 1/
+Public Sector Debt
+Gross debt of the public sector
+of which:
+
+61.6
+
+59.0
+
+59.5
+
+62.1
+
+63.6
+
+64.3
+
+65.1
+
+65.5
+
+66.2
+
+66.9
+
+Non-financial public sector debt
+Central bank debt
+
+45.9
+15.6
+
+45.4
+13.6
+
+44.8
+14.7
+
+44.8
+17.4
+
+46.1
+17.6
+
+46.5
+17.8
+
+46.8
+18.3
+
+47.3
+18.2
+
+47.8
+18.4
+
+48.3
+18.5
+
+External debt of the public sector
+Domestic debt of the public sector
+
+34.0
+27.6
+
+31.5
+27.5
+
+31.8
+27.7
+
+33.9
+28.3
+
+35.5
+28.1
+
+35.4
+28.9
+
+35.1
+29.9
+
+35.5
+30.1
+
+35.3
+30.9
+
+34.8
+32.1
+
+Public Sector Assets
+Gross financial assets of the public sector
+of which:
+
+29.9
+
+30.3
+
+33.5
+
+37.7
+
+40.8
+
+40.6
+
+39.6
+
+38.9
+
+38.6
+
+38.2
+
+7.5
+21.4
+
+5.9
+22.0
+
+6.0
+22.3
+
+5.5
+25.7
+
+5.0
+26.0
+
+5.0
+25.6
+
+4.9
+25.3
+
+4.8
+24.6
+
+4.7
+24.3
+
+4.7
+23.9
+
+40.2
+31.7
+
+37.0
+28.7
+
+37.2
+26.0
+
+36.5
+24.5
+
+37.6
+22.8
+
+38.7
+23.7
+
+39.8
+25.5
+
+40.9
+26.6
+
+42.0
+27.7
+
+43.0
+28.7
+
+Financial assets of the non-financial public sector
+Liquid assets of the public sector 2/
+Net Public Sector Debt
+Gross debt minus liquid financial assets 2/
+Authorities' definition 3/
+
+Sources: Ministerio de Economia y Finanzas, Banco Central del Uruguay, and Fund staff calculations.
+1/ Stocks are converted into pesos using the end of period exchange rate and divided by GDP.
+2/ Liquid financial assets are given by deducting from total public sector assets the part of central bank reserves held as a counterpart to required reserves on foreign currency deposits and
+the domestic currency claims of the non-financial public sector on resident financial institutions.
+3/ Gross debt minus total financial assets of the public sector.
+
+URUGUAY
+
+Table 7. Uruguay: Statement of Operations of the Central Government 1/
+Projections
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+(In percent of GDP, based on the 2001 GFS Manual)
+Revenue
+Taxes
+Social contributions
+Grants
+Other revenue
+
+26.5
+18.2
+5.8
+0.0
+2.4
+
+30.4
+19.5
+9.0
+0.0
+1.9
+
+31.0
+19.6
+9.2
+0.0
+2.2
+
+30.5
+19.4
+9.3
+0.0
+1.8
+
+30.7
+19.3
+9.9
+0.0
+1.5
+
+32.1
+19.7
+10.4
+0.0
+2.1
+
+Expense
+Compensation of employees
+Use of goods and services
+Consumption of fixed capital 2/
+Interest
+Subsidies
+Grants
+Social benefits
+Other expenses
+Net acquisition of nonfinancial assets
+
+25.6
+6.1
+3.8
+….
+2.9
+2.6
+0.0
+10.3
+0.0
+1.8
+
+30.3
+7.5
+3.8
+….
+2.8
+0.4
+0.7
+13.2
+2.0
+1.6
+
+30.5
+7.0
+3.8
+….
+2.5
+0.2
+0.0
+13.9
+3.0
+1.4
+
+29.6
+7.0
+3.5
+….
+2.5
+0.2
+0.0
+13.6
+2.8
+1.5
+
+31.3
+7.3
+3.6
+….
+2.4
+0.3
+0.0
+14.6
+3.2
+1.5
+
+32.2
+7.4
+3.8
+0
+2.5
+0.3
+0.0
+15.0
+3.3
+1.5
+
+Gross operating balance
+Net operating balance 2/
+Net lending (+) borrowing (-)
+
+0.9
+….
+-0.9
+
+0.1
+….
+-1.5
+
+0.5
+….
+-0.9
+
+0.9
+….
+-0.6
+
+-0.6
+….
+-2.1
+
+-0.1
+-0.1
+-1.6
+
+Net acquisition of financial assets 4/
+
+-0.9
+
+4.7
+
+-2.4
+
+3.5
+
+0.7
+
+-0.3
+
+0.0
+-1.2
+0.0
+0.3
+0.0
+
+0.0
+1.9
+2.0
+0.1
+0.7
+
+0.0
+-2.2
+0.1
+-0.4
+0.0
+
+0.0
+3.3
+0.4
+-0.1
+0.0
+
+0.0
+0.2
+0.0
+0.4
+0.0
+
+0.0
+-1.0
+-0.1
+0.8
+0.0
+
+-0.9
+0.0
+
+4.7
+0.0
+
+-2.4
+0.0
+
+3.3
+0.0
+
+0.3
+0.0
+
+-0.3
+0.0
+
+0.2
+
+6.4
+
+-1.2
+
+4.1
+
+2.7
+
+1.4
+
+0.0
+0.0
+-0.9
+1.1
+0.0
+
+0.0
+0.0
+1.5
+4.9
+0.0
+
+0.0
+0.0
+-0.1
+-1.2
+0.0
+
+0.0
+0.0
+4.7
+-0.6
+0.0
+
+0.0
+0.0
+2.2
+0.5
+0.0
+
+0.0
+0.0
+2.2
+-0.8
+0.0
+
+Domestic
+
+1.5
+
+3.9
+
+-0.8
+
+4.3
+
+0.6
+
+-1.4
+
+External
+
+-1.3
+
+2.5
+
+-0.4
+
+-0.2
+
+2.1
+
+2.8
+
+-1.6
+1.4
+
+-1.7
+1.2
+
+-1.5
+1.6
+
+-0.9
+2.0
+
+-2.8
+-0.2
+
+-2.4
+0.4
+
+By instrument
+Monetary gold and SDRs
+Currency and deposits
+Debt securities
+Loans
+Equity and shares
+By residency
+Domestic
+External
+Net incurrence of liabilities 5/
+By instrument
+SDRs
+Currency and deposits
+Debt securities
+Loans
+Equity and shares
+By residency
+
+Memorandum items:
+Public sector net lending (+) borrowing (-)
+Public sector primary balance
+
+Sources: Banco Central del Uruguay, and Fund staff calculations.
+1/ Central government and Social Security Bank. Collection of above the line data for municipalities is
+not feasible at this moment. 2013 below the line data is not consolidated.
+2/ Not compiled by the authorities until 2013.
+
+INTERNATIONAL MONETARY FUND
+
+33
+
+URUGUAY
+
+Table 8. Uruguay: Central Government Stock Positions 1/
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+(In percent of GDP, based on the 2001 GFS Manual)
+Net financial worth
+Financial assets
+By instrument
+Monetary gold and SDRs
+Currency and deposits
+Debt securities
+Loans
+Equity and shares
+By residency
+Domestic
+External
+Liabilities
+By instrument
+SDRs
+Currency and deposits
+Debt securities
+Loans
+Equity and shares
+By residency
+Domestic
+External
+
+-47.9
+
+-39.8
+
+-36.9
+
+-35.5
+
+-34.4
+
+-34.9
+
+9.3
+
+11.4
+
+9.0
+
+10.5
+
+10.1
+
+9.2
+
+0.0
+6.8
+0.0
+2.5
+0.0
+
+0.0
+7.2
+1.6
+1.9
+0.7
+
+0.0
+4.5
+2.1
+1.7
+0.6
+
+0.0
+6.9
+2.5
+0.6
+0.5
+
+0.0
+6.7
+2.5
+0.5
+0.4
+
+0.0
+4.8
+2.3
+1.8
+0.3
+
+9.3
+0.0
+
+11.4
+0.0
+
+8.9
+0.0
+
+10.5
+0.0
+
+10.1
+0.0
+
+9.2
+0.0
+
+57.3
+
+51.2
+
+45.8
+
+46.0
+
+44.5
+
+44.1
+
+0.0
+0.0
+42.8
+14.4
+0.0
+
+0.0
+0.0
+36.7
+14.6
+0.0
+
+0.0
+0.0
+33.7
+12.1
+0.0
+
+0.0
+0.0
+35.2
+10.9
+0.0
+
+0.0
+0.0
+35.2
+9.3
+0.0
+
+0.0
+0.0
+36.3
+7.9
+0.0
+
+20.7
+36.5
+
+20.8
+30.4
+
+18.5
+27.3
+
+21.4
+24.7
+
+19.9
+24.6
+
+17.4
+26.7
+
+Sources: Banco Central del Uruguay, and Fund staff calculations.
+1/ Central government and Social Security Bank. 2013 data is not consolidated.
+
+34
+
+INTERNATIONAL MONETARY FUND
+
+URUGUAY
+
+Table 9. Uruguay: Balance of Payments and External Sector Indicators
+Projection
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+-733
+-527
+8,031
+8,558
+1,593
+6,965
+1,157
+2,688
+1,531
+-1,503
+140
+1,057
+2,289
+-683
+-609
+361
+
+-1,374
+-1,431
+9,274
+10,704
+2,011
+8,694
+1,519
+3,594
+2,075
+-1,618
+156
+4,190
+2,504
+1,976
+-297
+-2,564
+
+-2,691
+-2,361
+9,916
+12,277
+2,851
+9,426
+1,074
+3,482
+2,408
+-1,519
+115
+6,286
+2,536
+1,643
+2,064
+-3,287
+
+-2,920
+-1,302
+10,291
+11,593
+2,055
+9,538
+78
+3,273
+3,195
+-1,825
+129
+4,605
+3,030
+2,771
+-1,393
+-2,945
+
+-2,625
+-809
+10,934
+11,743
+1,945
+9,798
+-23
+3,248
+3,271
+-1,924
+131
+4,291
+3,054
+1,556
+-1,313
+-1,667
+
+-2,131
+-260
+10,985
+11,245
+1,226
+10,019
+-6
+3,269
+3,275
+-1,997
+132
+2,797
+2,891
+1,395
+-1,483
+-666
+
+7,655
+9.1
+139.0
+
+10,302
+9.7
+212.6
+
+13,604
+11.1
+214.9
+
+16,279
+13.2
+264.1
+
+17,946
+14.3
+263.3
+
+18,612
+15.4
+315.6
+
+2016
+
+2017
+
+2018
+
+2019
+
+-2,337
+-533
+11,393
+11,926
+1,409
+10,517
+158
+3,515
+3,357
+-2,094
+132
+2,783
+2,812
+1,305
+-1,329
+-446
+
+-2,381
+-621
+11,990
+12,611
+1,528
+11,083
+303
+3,814
+3,511
+-2,195
+132
+3,060
+2,819
+1,357
+-1,110
+-679
+
+-2,437
+-735
+12,656
+13,390
+1,628
+11,762
+493
+4,144
+3,651
+-2,328
+132
+3,409
+2,766
+1,392
+-743
+-972
+
+-2,481
+-847
+13,377
+14,223
+1,691
+12,532
+692
+4,496
+3,805
+-2,459
+133
+3,443
+2,711
+1,503
+-765
+-961
+
+19,058
+15.0
+305.2
+
+19,736
+14.7
+262.8
+
+20,708
+14.6
+270.0
+
+21,669
+14.4
+277.9
+
+(In millions of U.S. dollars, unless otherwise indicated)
+Balance of Payments
+Current account
+Trade balance
+Exports, f.o.b.
+Imports, f.o.b.
+Of which: Fuel products
+Of which: Non-fuel products
+Services balance
+Exports, f.o.b.
+Imports, f.o.b.
+Income balance (net)
+Transfers (net)
+Financial and capital account
+Foreign direct investment
+Portfolio investment
+Other capital flows (net)
+Reserve assets (- increase)
+Reserve Adequacy and External Indicators
+Gross official reserves (stock)
+In months of imports of goods and services
+In percent of short-term debt
+
+(As percent of GDP)
+Balance of Payments
+Current account
+Trade balance
+Exports of goods
+Imports of goods
+Of which: Fuel products
+Of which: Non-fuel products
+Services balance
+Exports
+Imports
+Financial and capital account
+Foreign direct investment
+Other capital flows (net)
+
+-1.9
+-1.4
+20.7
+22.0
+4.1
+17.9
+3.0
+6.9
+3.9
+2.7
+5.9
+-1.6
+
+-2.9
+-3.0
+19.6
+22.7
+4.3
+18.4
+3.2
+7.6
+4.4
+8.9
+5.3
+-0.6
+
+-5.4
+-4.7
+19.8
+24.6
+5.7
+18.9
+2.1
+7.0
+4.8
+12.6
+5.1
+4.1
+
+-5.2
+-2.3
+18.5
+20.8
+3.7
+17.1
+0.1
+5.9
+5.7
+8.3
+5.4
+-2.5
+
+-4.8
+-1.5
+19.8
+21.3
+3.5
+17.8
+0.0
+5.9
+5.9
+7.8
+5.5
+-2.4
+
+-3.7
+-0.5
+19.2
+19.6
+2.1
+17.5
+0.0
+5.7
+5.7
+4.9
+5.0
+-2.6
+
+-3.9
+-0.9
+19.0
+19.9
+2.4
+17.5
+0.3
+5.9
+5.6
+4.6
+4.7
+-2.2
+
+-3.8
+-1.0
+18.9
+20.0
+2.4
+17.6
+0.5
+6.0
+5.6
+4.8
+4.5
+-1.8
+
+-3.6
+-1.1
+18.9
+20.1
+2.4
+17.7
+0.7
+6.2
+5.5
+5.1
+4.1
+-1.1
+
+-3.5
+-1.2
+19.0
+20.3
+2.4
+17.8
+1.0
+6.4
+5.4
+4.9
+3.8
+-1.1
+
+Reserve assets (- increase)
+Total external debt + non-resident deposits
+Of which: Short-term debt (residual maturity)
+Of which: External public debt
+
+0.9
+47.5
+14.2
+34.0
+
+-5.4
+40.0
+10.3
+31.5
+
+-6.6
+40.3
+12.7
+31.8
+
+-5.3
+42.9
+11.1
+33.9
+
+-3.0
+44.5
+12.4
+35.5
+
+-1.2
+44.4
+10.3
+35.4
+
+-0.7
+44.2
+10.4
+35.1
+
+-1.1
+44.5
+11.9
+35.5
+
+-1.5
+44.4
+11.5
+35.3
+
+-1.4
+43.8
+11.1
+34.8
+
+169.8
+24.0
+2.7
+
+170.1
+24.4
+1.0
+
+168.4
+24.3
+3.7
+
+164.8
+24.2
+3.3
+
+(As percent of annual exports of goods and services)
+External Debt
+Total external debt (including non-resident deposits)
+Debt service
+Of which: Interest payments
+
+171.9
+29.9
+7.8
+
+142.6
+21.6
+6.7
+
+157.6
+15.8
+5.4
+
+168.5
+22.0
+6.0
+
+165.1
+22.1
+5.3
+
+170.3
+23.8
+5.7
+
+(Annual percent changes)
+External Trade
+Exports of goods in US$
+Imports of goods in US$
+
+25.6
+24.1
+
+15.5
+25.1
+
+6.9
+14.7
+
+3.8
+-5.6
+
+6.3
+1.3
+
+0.5
+-4.2
+
+3.7
+6.0
+
+5.2
+5.8
+
+5.6
+6.2
+
+5.7
+6.2
+
+Export prices in US$
+Import prices in US$
+
+7.4
+11.6
+-3.4
+14.2
+11.0
+16.5
+11.2
+15.0
+-8.1
+
+12.5
+12.7
+-0.2
+6.7
+13.1
+2.7
+11.0
+20.0
+-4.1
+
+5.0
+-1.5
+6.6
+-0.9
+15.9
+1.8
+16.4
+9.7
+40.4
+
+-1.1
+-1.1
+0.0
+-0.1
+1.4
+5.0
+-4.5
+9.8
+-27.3
+
+0.6
+-1.9
+2.6
+2.0
+2.7
+5.6
+3.3
+5.2
+2.3
+
+-4.3
+-8.2
+4.2
+2.2
+3.1
+5.0
+4.3
+3.9
+7.0
+
+-0.8
+1.5
+-2.3
+3.5
+3.6
+4.5
+4.4
+4.8
+2.0
+
+0.5
+0.9
+-0.4
+3.9
+4.2
+4.7
+4.8
+5.3
+2.0
+
+0.6
+0.7
+-0.1
+4.1
+4.6
+4.9
+5.4
+5.9
+2.1
+
+0.6
+0.3
+0.3
+4.3
+5.0
+5.1
+5.9
+6.4
+2.2
+
+Terms of trade for goods
+Export volume (goods and non-factor services)
+Import volume (goods and non-factor services)
+Export volume (goods)
+Import volume (goods)
+Of which: Non-fuel products
+Of which: Fuel products
+
+Sources: Banco Central del Uruguay and Fund staff calculations and projections.
+
+INTERNATIONAL MONETARY FUND
+
+35
+
+URUGUAY
+
+Table 10. Uruguay: Monetary Survey
+2010
+
+2011
+
+2012
+
+2013
+
+2014 1/
+
+(End of period, in billions of pesos)
+Banco Central del Uruguay (BCU)
+Net foreign assets
+Net international reserves 2/
+Other net foreign assets
+
+153.9
+153.8
+0.1
+
+205.4
+205.0
+0.4
+
+254.4
+263.9
+-9.5
+
+330.6
+348.2
+-17.6
+
+409.7
+430.4
+-20.6
+
+Net domestic assets
+Net credit to the public sector
+Net credit to the financial system
+Credit to the private sector
+Securities issued by the BCU
+Other
+
+-86.5
+51.0
+-35.7
+0.3
+-123.3
+18.3
+
+-123.7
+22.2
+-51.8
+0.3
+-120.5
+27.5
+
+-155.0
+43.0
+-82.5
+0.3
+-155.2
+36.8
+
+-211.7
+75.6
+-128.9
+0.3
+-202.4
+28.2
+
+-288.6
+63.8
+-169.1
+0.5
+-220.7
+6.4
+
+67.4
+
+81.7
+
+99.4
+
+118.9
+
+121.2
+
+Peso monetary liabilities 3/
+Public and Private Banks 4/
+Net foreign assets
+
+98.6
+
+94.8
+
+70.9
+
+64.7
+
+90.6
+
+Net domestic assets
+Net credit to the public sector
+Net credit to the financial system
+Credit to the private sector
+Other
+
+224.3
+11.1
+94.0
+179.8
+-60.6
+
+287.3
+25.8
+110.8
+213.4
+-62.7
+
+346.2
+25.1
+148.6
+243.9
+-71.4
+
+438.3
+19.9
+190.2
+305.9
+-77.7
+
+497.7
+20.9
+231.9
+333.7
+-88.8
+
+Liabilities to the private sector (residents)
+Public banks
+Local currency
+Foreign currency
+Private banks
+Local currency
+Foreign currency
+
+322.8
+2.8
+56.3
+104.5
+2.3
+46.9
+115.1
+
+382.1
+3.5
+70.5
+121.1
+2.9
+57.2
+133.3
+
+417.1
+4.2
+82.0
+131.6
+3.0
+59.1
+144.4
+
+503.0
+4.4
+94.0
+163.2
+3.1
+66.5
+179.2
+
+588.3
+4.6
+97.1
+197.5
+3.2
+66.2
+227.1
+
+Banking System (Central, Private, and Public Banks)
+Net foreign assets
+
+252.5
+
+300.2
+
+325.3
+
+395.3
+
+500.3
+
+88.5
+62.1
+11.9
+180.1
+-165.6
+
+102.1
+48.0
+-3.9
+213.7
+-155.6
+
+117.1
+68.1
+-5.5
+244.2
+-189.8
+
+132.0
+95.5
+-17.8
+306.2
+-251.9
+
+106.1
+84.7
+-9.6
+334.2
+-303.2
+
+402.4
+
+442.4
+
+527.3
+
+606.4
+
+Net domestic assets
+Credit to the public sector
+Credit to the rest of financial system
+Credit to the private sector
+Other
+Broad money (M-3)
+
+341.0
+
+(In percent of total private credit) 5/ 6/
+Composition of Credit
+Credit to firms
+Credit to households
+Consumption
+Car loans
+Mortgages
+
+54.2
+45.8
+52.5
+0.6
+47.0
+
+55.1
+44.9
+62.1
+0.6
+37.3
+
+56.8
+43.2
+63.7
+0.7
+35.6
+
+57.4
+42.6
+63.1
+1.0
+35.9
+
+59.7
+40.3
+61.2
+1.3
+37.5
+
+12.9
+12.2
+15.0
+11.6
+19.2
+16.2
+9.9
+
+2.7
+5.7
+7.2
+5.4
+13.4
+8.4
+6.4
+
+(Percentage change) 7/
+Memorandum Items:
+Base money
+M-1
+Broader M-1 (M1 plus savings deposits)
+M-2
+M-3
+Credit to firms (in US$)
+Credit to households (in real UY$) 6/
+
+16.2
+28.9
+30.0
+30.3
+22.1
+18.8
+15.8
+
+17.3
+18.8
+20.8
+22.0
+18.0
+26.5
+2.1
+
+26.7
+9.1
+11.2
+12.3
+10.0
+17.5
+7.3
+
+Source: Banco Central del Uruguay.
+1/ For 2014, latest available data (August 2014).
+2/ Includes all outstanding liabilities to the IMF, but excludes liabilities to resident financial institutions.
+3/ Peso monetary liabilities include base money and non-liquid liabilities.
+4/ The Banco de la Republica Oriental de Uruguay (BROU), Banco Hipotecario de Uruguay (BHU; mortgage institution),
+private banks, financial houses and cooperatives.
+5/ Includes credit to households from banks and credit cooperatives.
+6/ For 2014, latest available data (September 2014).
+7/ Percent change of end-of-year data on one year ago. For 2014, latest available data. In pesos, unless indicated otherw ise.
+
+36
+
+INTERNATIONAL MONETARY FUND
+
+URUGUAY
+
+Table 11. Uruguay: Medium-Term Macroeconomic Framework
+Projections
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+(Annual percent change, unless otherwise indicated)
+National Accounts
+Real GDP
+Total domestic demand
+Final consumption expenditure
+Private final consumption expenditure
+Public final consumption expenditure
+Gross capital formation
+Gross fixed capital formation
+Private fixed capital formation
+Public fixed capital formation
+Change in inventories (contribution to growth)
+Net exports (contribution to growth)
+Consumer Prices
+CPI inflation (average)
+CPI inflation (end of period)
+Core CPI inflation (average)
+Balance of Payments
+Current account balance (percent of GDP)
+Exports of goods and services (volume)
+Export of goods (volume)
+Imports of goods and services (volume)
+Imports of goods (volume)
+Terms of trade (goods)
+
+8.4
+10.9
+11.5
+12.8
+3.1
+8.7
+13.6
+20.4
+-6.0
+-0.9
+-2.7
+
+7.3
+9.7
+9.0
+9.8
+3.8
+12.5
+6.4
+11.0
+-10.7
+1.2
+-2.7
+
+3.7
+7.7
+5.4
+5.5
+4.6
+16.6
+19.2
+22.2
+5.3
+-0.3
+-4.4
+
+4.4
+5.0
+5.2
+5.3
+4.2
+4.2
+6.2
+5.0
+12.4
+-0.4
+-1.1
+
+3.3
+3.4
+4.1
+4.1
+3.9
+0.9
+0.2
+-1.0
+6.2
+0.2
+-0.5
+
+2.8
+3.0
+3.8
+4.1
+1.2
+0.3
+0.2
+1.0
+-3.3
+0.0
+-0.6
+
+2.7
+2.8
+3.0
+3.1
+1.9
+2.1
+2.1
+1.5
+4.9
+0.0
+-0.4
+
+2.9
+3.1
+3.2
+3.2
+2.5
+2.9
+3.0
+2.5
+5.0
+0.0
+-0.6
+
+3.2
+3.5
+3.3
+3.4
+2.8
+4.2
+4.2
+4.0
+5.1
+0.0
+-0.7
+
+3.3
+3.7
+3.4
+3.5
+3.2
+4.6
+4.6
+4.5
+5.1
+0.0
+-0.8
+
+6.7
+6.9
+8.4
+
+8.1
+8.6
+8.9
+
+8.1
+7.5
+8.8
+
+8.6
+8.5
+8.3
+
+8.9
+8.3
+9.8
+
+7.9
+7.4
+…
+
+7.5
+7.3
+…
+
+7.1
+7.0
+…
+
+6.7
+6.7
+…
+
+6.5
+6.4
+…
+
+-1.9
+7.0
+16.5
+14.9
+11.2
+93.9
+
+-2.9
+6.0
+2.7
+13.2
+11.0
+93.8
+
+-5.4
+2.1
+1.8
+14.0
+16.4
+100.0
+
+-5.2
+0.1
+5.0
+2.8
+-4.5
+100.0
+
+-4.8
+2.0
+5.6
+2.7
+3.3
+102.6
+
+-3.7
+2.2
+5.0
+3.1
+4.3
+106.9
+
+-3.9
+3.5
+4.5
+3.6
+4.4
+104.5
+
+-3.8
+3.9
+4.7
+4.2
+4.8
+104.1
+
+-3.6
+4.1
+4.9
+4.6
+5.4
+104.0
+
+-3.5
+4.3
+5.1
+5.0
+5.9
+104.3
+
+(In percent of GDP, unless otherwise indicated)
+Public Sector Finance
+Primary balance 1/
+Revenue 2/
+Primary expenditure 2/
+Structural primary balance
+Overall balance
+Public sector gross debt
+Gross Debt (NFPS)
+Assets of the public sector
+Liquid assets of the public sector 3/
+Net public sector debt (gross debt minus liquid assets)
+
+1.6
+29.8
+28.5
+1.2
+-1.5
+61.6
+45.9
+29.8
+21.4
+40.2
+
+2.0
+28.5
+26.8
+1.0
+-0.9
+59.0
+45.4
+29.4
+22.0
+37.0
+
+-0.2
+28.4
+28.7
+0.0
+-2.8
+59.5
+44.8
+35.1
+22.3
+37.2
+
+0.4
+30.4
+30.1
+-0.9
+-2.4
+62.1
+44.8
+36.0
+25.7
+36.5
+
+-0.4
+30.3
+30.7
+-1.1
+-3.3
+63.6
+46.1
+38.9
+26.0
+37.6
+
+0.3
+30.2
+29.9
+-0.2
+-2.8
+64.3
+46.5
+38.7
+25.6
+38.7
+
+0.1
+30.1
+30.0
+-0.2
+-2.8
+65.1
+46.8
+37.9
+25.4
+39.8
+
+-0.2
+29.9
+30.1
+-0.3
+-2.9
+65.5
+47.3
+37.2
+24.6
+40.9
+
+-0.3
+29.8
+30.1
+-0.3
+-2.9
+66.2
+47.8
+36.9
+24.4
+42.0
+
+-0.3
+29.8
+30.1
+-0.3
+-2.9
+66.9
+48.3
+36.6
+24.0
+43.0
+
+External Debt
+Gross external debt
+Public sector gross external debt
+Gross international reserves (US$ billions)
+
+47.5
+34.0
+7.7
+
+40.0
+31.5
+10.3
+
+40.3
+31.8
+13.6
+
+42.9
+33.9
+16.3
+
+44.5
+35.5
+17.9
+
+44.4
+35.4
+18.6
+
+44.2
+35.1
+19.1
+
+44.5
+35.5
+19.7
+
+44.4
+35.3
+20.7
+
+43.8
+34.8
+21.7
+
+18.9
+4.7
+14.2
+17.0
+2.2
+14.8
+
+21.1
+3.7
+17.4
+18.2
+1.8
+16.4
+
+23.6
+4.2
+19.4
+18.2
+0.1
+18.1
+
+23.6
+4.6
+19.0
+18.1
+1.1
+17.0
+
+22.3
+4.5
+17.7
+17.5
+0.2
+17.3
+
+21.1
+4.0
+17.1
+17.4
+0.3
+17.1
+
+20.5
+4.0
+16.5
+16.6
+0.2
+16.4
+
+20.1
+3.9
+16.2
+16.3
+0.1
+16.2
+
+19.9
+3.9
+16.0
+16.2
+0.1
+16.1
+
+19.8
+3.9
+15.9
+16.3
+0.2
+16.1
+
+7.0
+0.2
+
+6.3
+3.1
+
+6.3
+2.7
+
+6.5
+3.2
+
+6.5
+2.6
+
+6.8
+1.7
+
+7.0
+0.9
+
+7.0
+0.3
+
+7.2
+0.1
+
+7.2
+0.0
+
+Saving and Investment
+Gross domestic investment
+Public sector gross investment
+Private sector gross investment
+Gross national saving
+Public sector gross saving
+Private sector gross saving
+Unemployment and Output Gap
+Unemployment rate (percent)
+Output gap (percent of potential output)
+
+Sources: Banco Central del Uruguay, Haver Analytics and Fund staff calculations.
+1/ Total public sector. Includes the non-financial public sector, local governments, Banco Central del Uruguay, and Banco de Seguros del Estado.
+2/ Non-financial public sector excluding local governments.
+3/ Liquid financial assets are given by deducting from total public sector assets the part of central bank reserves held as a counterpart to required reserves on
+foreign currency deposits and the domestic currency claims of the non-financial public sector on resident financial institutions.
+
+INTERNATIONAL MONETARY FUND
+
+37
+
+URUGUAY
+
+Annex I. Uruguay: External Stability Assessment
+1.
+Uruguay’s non-oil current account (CA)
+6
+6
+Current Account
+deficit widened in 2013 as weak external
+(4
+quarter
+basis,
+in
+percent
+of
+GDP)
+4
+4
+conditions, particularly in Argentina, hit the
+2
+2
+external services balance. After averaging 0
+0
+1.2 percent of GDP from 2002–11, Uruguay’s CAD
+-2
+-2
+widened significantly in 2012 due to a drought that
+-4
+-4
+necessitated higher oil imports for electricity
+-6
+-6
+generation. In 2013, oil imports declined, but the
+-8
+-8
+Goods
+Income
+deficit widened significantly relative to 2011 as the
+Transfers and Services
+Current Account
+-10
+-10
+economic deterioration and tight FX controls in
+2007Q1
+2009Q1
+2011Q1
+2013Q1
+2014Q3
+Sources: Haver Analytics, Banco Central del Uruguay, and Fund staff
+Argentina triggered a decline in Uruguay’s tourism
+calculations.
+Uruguay: Merchandise Trade Balance
+receipts as well as higher spending by Uruguayans in
+2010
+2011
+2012
+2013
+2014 1/
+Argentina (given the sharp depreciation of the
+(In percent of GDP)
+Argentine peso in the informal market). From
+Trade balance
+-1.4
+-3.0
+-4.7
+-2.3
+-1.8
+Exports
+20.7
+19.6
+19.8
+18.5
+19.1
+averaging 3 percent of GDP in surpluses from 2009–
+Imports
+22.0
+22.7
+24.5
+20.8
+20.9
+Fuel
+4.1
+4.3
+5.7
+3.7
+3.2
+12, Uruguay’s services balance declined to almost
+Non-fuel
+18.0
+18.3
+17.2
+17.2
+17.9
+Capital
+3.7
+3.4
+3.1
+3.5
+4.0
+zero in 2013—and is projected to turn slightly
+Consumption
+5.2
+5.3
+5.3
+5.1
+5.3
+Intermediary
+9.1
+9.6
+8.8
+8.7
+8.6
+negative in 2014. The goods balance has served to
+Sources: Banco Central del Uruguay and Fund staff calculations.
+1/ Four quarters through 2014Q3
+partly offset the decline on the services side, with the
+trade deficit improving in 2013 relative to 2012 due to lower oil imports, and shrinking further in
+2014 due to strong commodity exports and a lower oil import bill. The current account deficit,
+estimated at 4¾ percent of GDP in 2014, is projected to decrease to 3¾ percent of GDP in 2015,
+thanks to a lower oil import bill that is projected to more than offset the impact of lower prices for
+many of Uruguay’s agricultural commodity exports. Over the medium term, the CAD is projected to
+return to about 3½ percent of GDP as goods and services exports recover gradually in line with
+stronger performance in trading partners.
+2.
+FDI has continued to exceed the current account deficit. Averaging 5¼ percent of GDP,
+FDI more than financed Uruguay’s CAD most years between 2003 and 2013, and is estimated to
+have done so in 2014 as well. Net portfolio investment inflows to Uruguay averaged a strong
+4 percent of GDP in 2011–13 as the country regained its investment-grade sovereign rating, but
+have slowed down since end-2013 (to 2 percent of GDP in the 4 quarters through 2014Q3). Other
+investment flows have proved volatile and have not shown a clear trend.
+3.
+
+Staff estimates the Uruguayan peso to be slightly on the strong side of fundamentals.
+
+
+38
+
+The EBA current account model, based on data available as of October 2014, suggests a
+cyclically-adjusted current account “norm” of -3.2 percent of GDP for Uruguay. The actual
+cyclically adjusted CA balance in 2014 is projected to be -3.3 percent of GDP, in line with
+the norm.
+
+INTERNATIONAL MONETARY FUND
+
+URUGUAY
+
+
+
+Calculations based on the EBA external stability approach indicate that a current account
+of -1.3 percent of GDP would be required to stabilize Uruguay’s net foreign assets to GDP
+ratio in the medium-term.
+
+
+
+Based on staff estimates of the relationship between the current account and the REER for
+Uruguay, the EBA current account and external stability results suggest Uruguay’s REER is
+between 0 and 5 percent above its norm.
+
+
+
+Finally, an estimate using an EBA-like
+equilibrium real exchange rate
+regression suggests that Uruguay’s
+REER is 3 percent above its equilibrium
+value. Uruguay is not included in the
+official EBA REER regression due to
+data gaps; therefore, an auxiliary
+regression was estimated based on a
+cross-country sample, using an
+imputed series for Uruguay’s financial
+home bias.
+
+Uruguay: Exchange Rate Assessment
+Deviation from equilibrium (in percent) 1/
+I. EBA - Current Account Model 2/ 4/
+
+0.2
+
+II. External Sustainability (ES) approach 3/ 4/
+
+5.2
+
+III. Equilibrium Real Exchange Rate (ERER) approach 5/
+
+3.2
+
+Source: Fund staff calculations
+1/ Positive values indicate overvaluation.
+2/ Based on the October 2014 EBA CA norm.
+3/ Desk calculations based on the EBA ES approach.
+4/ The CA elasticity used to translate CA gap to REER gap is 0.415 (average of
+desk calculation given current export and import ratios, and the small economy elasticity for
+Uruguay estimated in Tokarick (2010), IMF WP 10/180).
+5/ Uruguay is not included in the official EBA REER sample. The results presented
+are based on an auxiliary EBA regression based on a cross-country sample including Uruguay.
+An imputed series is used for Uruguay's financial home bias due to data gaps prior to 2008.
+
+4.
+Despite the relatively high CA deficit, external stability risks for Uruguay remain
+contained. Uruguay’s international reserves remain comfortably above the upper bound of the IMF
+reserve adequacy metric range and other prudential benchmarks. The sum of the foreign assets of
+the central bank and commercial banks exceeds the sum of foreign currency denominated bank
+deposits (resident and nonresident) and shortUruguay: Gross International Reserves
+term external debt. Given the strong level of
+In billions of U.S. dollars (latest)
+17.9
+In months of imports (2013)
+14.6
+reserves, and the high contribution of relatively
+In percent of:
+stable FDI inflows in financing the CAD, external
+GDP (2013)
+32.2
+Short-term external (STE) debt (2013 Q4)
+291.1
+stability risks remain contained.
+STE debt and foreign currency deposits (2013 Q4)
+
+67.1
+
+STE debt and nonresident deposits (2013 Q4)
+
+174.7
+
+M2 (latest)
+
+197.7
+
+M3 (latest)
+
+72.8
+
+Memo items:
+IMF's new reserve adequacy metric range in
+
+5.8 to 8.7
+
+US$, billions (2013 Q4) 1/
+Banks' gross foreign assets (US$, billions)
+Ratio of gross reserves plus banks' foreign assets to STE
+debt and foreign currency deposits (percent)
+
+8.3
+98.0
+
+Sources: Banco Central del Uruguay and Fund staff calculations.
+1/ Reserve adequacy metric range is the minimum reserve adequacy to 1.5
+times the minimum.
+
+INTERNATIONAL MONETARY FUND
+
+39
+
+URUGUAY
+
+Annex II. Uruguay’s Economic Ties with Argentina and Brazil
+Argentina. The shares of Uruguay’s merchandise and service exports to Argentina have diminished
+in recent years, but remain relevant. There has been a sharp drop in banking linkages between the
+two countries since the early 2000s.
+
+
+
+
+
+
+The share of nonresident deposits (traditionally dominated by Argentine holders) in Uruguay’s
+bank deposits has fallen from a peak of 40 percent in 2001 to about 15 percent in 2014.
+Argentina accounts for 60 percent of tourism spending in Uruguay. Even so, spending by
+Argentine tourists in Uruguay has dropped from 2.7 percent of GDP in 2011 to 2 percent in
+2013 following the introduction of foreign exchange controls in Argentina. Conversely,
+spending by Uruguayans in Argentina increased from 0.8 percent of GDP to 1.3 percent of GDP
+against the backdrop of a sharp depreciation of the Argentine peso.
+In 2013, Argentina accounted for only 5 percent of Uruguay’s goods exports (1 percent of GDP),
+a historical low compared to an average of 10 percent of exports during the last two decades.
+In 2009–12, FDI from Argentina accounted for about one-third of total FDI inflows into Uruguay
+(mainly into agriculture and real estate). Through data for 2013 is not yet available, anecdotal
+evidence suggests that there was a decline in real estate purchases by Argentines in 2013,
+following a bilateral tax information exchange treaty signed by the two countries.
+
+Brazil. Brazil remains an important trade destination for Uruguay, and its share in tourism and FDI
+inflows has increased over the past decade.
+
+
+
+
+40
+
+Brazil’s share in Uruguay’s goods exports has increased from 13 percent in 2005 to 19 percent
+in 2013. In contrast to Uruguay’s exports to Argentina, more than two-thirds of which are
+specialized manufactured products without an alternative market, the majority of Uruguay’s
+exports to Brazil are commodity-based, and thus easier to export to alternative markets when
+growth slows in Brazil. On the services side, Brazil, combined with Chile and Paraguay, has
+accounted for around one-fifth of tourism receipts (0.8 percent of GDP) in recent years.
+FDI inflows from Brazil to Uruguay are also significant. Their share in total FDI has increased
+from less than 1 percent in 2001 to almost 9 percent in 2012.
+
+INTERNATIONAL MONETARY FUND
+
+URUGUAY
+
+Figure A2.1. Uruguay: Economic Ties with Argentina and Brazil, 2005-14
+Goods Exports to Argentina and Brazil
+(In percent of GDP)
+4.0
+
+Argentina
+
+4.0
+
+Brazil
+
+3.5
+
+3.5
+
+3.0
+
+3.0
+
+2.5
+
+2.5
+
+2.0
+
+2.0
+
+1.5
+
+1.5
+
+1.0
+
+1.0
+
+0.5
+
+0.5
+
+0.0
+
+0.0
+
+2005
+
+1.4
+1.2
+
+2011
+
+2013
+
+Brazil
+
+1.4
+
+1.0
+
+1.0
+
+0.8
+
+0.8
+
+0.6
+
+0.6
+
+0.4
+
+0.4
+
+0.2
+
+0.2
+0.0
+
+2005
+
+2011
+
+2013
+
+2014 H1 2/
+
+Brazil, Chile, Paraguay
+
+3.0
+2.5
+
+2.0
+
+2.0
+
+1.5
+
+1.5
+
+1.0
+
+1.0
+
+0.5
+
+0.5
+
+0.0
+
+0.0
+
+2005
+
+1.2
+
+0.0
+
+Argentina
+
+2.5
+
+2014 1/
+
+Tourism Spending in Argentina and Brazil
+(In percent of GDP)
+Argentina
+
+3.0
+
+Tourism Revenues From Argentina, Brazil,
+Chile, and Paraguay
+(In percent of GDP)
+
+2.5
+
+2011
+
+2013
+
+2014 H1 2/
+
+FDI inflows from Argentina and Brazil
+(In percent of GDP)
+
+Argentina
+
+2.5
+
+Brazil
+
+2.0
+
+2.0
+
+1.5
+
+1.5
+
+1.0
+
+1.0
+
+0.5
+
+0.5
+
+0.0
+
+0.0
+
+2005
+
+2011
+
+2012
+
+Sources: Banco Central de Uruguay and Fund staff calculations.
+1/ The last observation covers four quarters through 2014Q3.
+2/ The last observation covers four quarters through 2014Q2.
+
+INTERNATIONAL MONETARY FUND
+
+41
+
+URUGUAY
+
+Annex III. Uruguay: Public Sector Debt Sustainability Analysis
+(DSA)
+Under current policies and macroeconomic projections, the gross debt of Uruguay’s public sector is
+projected to increase to 67 percent of GDP in 2019 from 62 percent of GDP in 2013. However, the high
+level of liquid financial assets of the public sector—26 percent of GDP at end-2013—as well as the
+high average maturity of the public debt, mitigate near-term financing risks. Uruguay’s gross financing
+needs exceed the DSA benchmarks because short-term central bank securities are included in the total
+public sector debt stock. The central bank’s debt is more than covered by its “free” reserve assets.
+Composition of the Public Sector Financial Balance Sheet
+The gross debt of the public sector has a broad institutional coverage. It includes:
+
+
+Central government debt, which stood at 40 percent of GDP at end-2013. Currently the average
+maturity of central government debt is close to 15 years and about half of the debt is in localcurrency.
+
+
+
+Central bank debt, which stood at 17 percent of GDP at end-2013. The debt of the central bank
+mostly consists of shorter-term securities (with maturity below 2 years) issued to sterilize the
+liquidity created by reserve accumulation. About 85 percent of the central bank debt is in local
+currency.
+
+
+
+Public enterprises’ debt, which stood at 4 percent of GDP at end-2013.
+
+In total, at end-2013 about 40 percent of Uruguay’s public sector gross debt was in foreign currency.
+About 70 percent of the local-currency debt of the public sector was in CPI-indexed units.
+The public sector has access to contingent credit lines of 3½ percent of GDP and at end-2013 had
+total gross financial assets of 38 percent of GDP. Net public debt—gross debt minus liquid assets—
+stood at 36½ percent of GDP at the end of 2013.
+
+
+The gross foreign reserve assets of the central bank reached about 29 percent of GDP at end-2013.
+
+
+
+The financial assets of the non-financial public sector amounted to 5½ percent of GDP at end2013, in line with the authorities’ prefunding policy aimed at holding enough liquid assets to
+cover at least 12 months of total interest and amortization payments.
+
+
+
+The stock of liquid foreign assets of the public sector stood at 26 percent of GDP, given by total
+gross public sector assets minus (i) the required reserves held at by BCU against foreign currency
+
+42
+
+INTERNATIONAL MONETARY FUND
+
+URUGUAY
+
+deposits and (ii) the domestic currency claims of the nonfinancial public sector on resident
+banks.1
+Baseline and Alternative Scenarios
+Under the DSA baseline scenario, the gross and net public debt ratios would creep upwards over the
+projection horizon. In particular, net public debt would increase from 36½ percent of GDP in 2013 to
+43 percent of GDP in 2019. The increase in gross public debt would be slightly less, from 62 percent
+of GDP in 2013 to about 67 percent of GDP in 2019, assuming that the pace of asset accumulation
+moderates over the next few years with an attendant slowdown in the issuance of central bank
+securities. The gross financing need would rise over the medium term, consistent with higher global
+interest rates and a rising debt stock. The baseline scenario assumes the maturity profile of the
+public debt stock to remain tilted to the medium and long term, and the share of local currency
+debt to remain slightly above 50 percent of the total.
+Assuming that the real GDP growth rate, real interest rates, the rate of exchange rate depreciation,
+and the pace of asset purchases remain at their levels projected for 2019, the medium term debtstabilizing primary balance is estimated at about 1¼ percent of GDP, about 1½ percentage points
+of GDP above the projected medium term level of the primary balance.2
+The analysis of past forecast errors for key macroeconomic variables suggests that the baseline
+assumptions are generally realistic. The level of the projected primary balance for Uruguay is
+comparable to those seen in the past.
+A “historical” scenario (that assumes that the key macroeconomic variables behave as in the last
+decade) yields a downward-sloping debt path, since Uruguay experienced high growth rates and
+exchange rate appreciation in the last decade as it recovered from its 2002 financial crisis.
+Vulnerability of the Financing Profile
+Uruguay’s gross public and external financing needs do not imply near-term vulnerabilities,
+although they are slightly above the benchmark levels of 15 percent of GDP. The elevated gross
+public financing needs reflect primarily the short-term maturity of the central bank securities.
+Refinancing risks for these securities are contained since their amount is smaller than the central
+bank’s liquid foreign reserves. External financing risks are also mitigated by the high liquidity
+buffers—including the liquid financial assets of the public sector and its contingent credit lines.
+Uruguay’s current account deficits in the last several years have been more than or mostly covered
+1
+
+The latter adjustment removes the domestic currency assets from total assets and thus implies that all the liquid assets are in
+foreign currency.
+2
+
+The expected rate of domestic currency depreciation against the U.S. dollar is given by the inflation differential between Uruguay
+and the United States, on the basis of assuming a constant real exchange rate between the domestic currency and the U.S. dollar.
+
+INTERNATIONAL MONETARY FUND
+
+43
+
+URUGUAY
+
+by FDI inflows. A softening in FDI flows, should it occur, would come hand in hand with a decline in
+capital goods imports, which would contribute to lower current account deficits and external
+financing needs.
+At 53 percent of total public sector debt, the share of public sector debt held by nonresidents is
+found to be slightly above the benchmark. This exposure could make domestic financial conditions
+susceptible to potential external shocks and needs to be monitored.
+Stress Tests
+Debt dynamics in Uruguay remain sensitive to shocks. In a stylized downside scenario that combines
+a permanent exchange rate depreciation (relative to the baseline) of about 18 percent with a
+temporary drop in growth and primary balances and a permanent increase in real interest rates, the
+gross debt ratio rises by about 16 percentage points over the five-year forecast horizon. The net
+debt ratio rises by 12 percentage points in the
+90
+90
+same scenario. The sensitivity of net debt to
+Dynamics of Net Public Debt
+exchange rate shocks is lower than that of gross
+80
+80
+(in percent of GDP)
+debt, as the presence of similar amounts of
+70
+70
+foreign currency assets and debt imply offsetting
+60
+60
+valuation effects in response to exchange rate
+50
+50
+changes. Fan charts of the projected gross debt
+40
+40
+distribution confirm that the debt dynamics under
+30
+30
+statistical distributions of combined shocks are
+20
+20
+generally manageable—gross public debt would
+Baseline
+Combined Shock
+10
+10
+remain below 80 percent of GDP in the vast
+0
+0
+majority of scenarios, while net public debt would
+2014
+2015
+2016
+2017
+2018
+2019
+remain below 55 percent of GDP under the
+Source: Fund staff calculations.
+Note: Combined shock as described in Figure A3.5.
+combined shock scenario as shown in the text
+chart.
+
+44
+
+INTERNATIONAL MONETARY FUND
+
+URUGUAY
+
+Figure A3.1. Uruguay Public DSA Risk Assessment
+Heat Map
+Debt level
+
+1/
+
+Gross financing needs
+
+Debt profile
+
+2/
+
+Real GDP
+Primary
+Growth Shock Balance Shock
+
+Real Interest Exchange Rate Contingent
+Rate Shock
+Shock
+Liability shock
+
+Real GDP
+Primary
+Growth Shock Balance Shock
+
+Real Interest Exchange Rate Contingent
+Rate Shock
+Shock
+Liability Shock
+
+External
+Change in the Public Debt
+Financing
+Share of Short- Held by NonRequirements
+Term Debt
+Residents
+
+Market
+Perception
+
+3/
+
+Foreign
+Currency
+Debt
+
+Evolution of Predictive Densities of Gross Nominal Public Debt
+(in percent of GDP)
+Baseline
+
+10th-25th
+
+Percentiles:
+
+Symmetric Distribution
+
+25th-75th
+
+75th-90th
+
+Restricted (Asymmetric) Distribution
+
+90
+
+90
+
+80
+
+80
+
+70
+
+70
+
+60
+
+60
+
+50
+
+50
+
+40
+
+40
+
+30
+
+30
+
+Restrictions on upside shocks:
+
+20
+
+20
+
+2 is the max positive growth rate shock (percent)
+
+10
+
+10
+
+0
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+0
+2012
+
+2019
+
+no restriction on the interest rate shock
+0 is the max positive pb shock (percent GDP)
+no restriction on the exchange rate shock
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+Debt Profile Vulnerabilities
+(Indicators vis-à-vis risk assessment benchmarks, in 2013)
+
+Uruguay
+
+Lower early warning
+
+Upper early warning
+53%
+
+16%
+600
+
+1
+
+15
+
+60
+
+45
+
+40%
+
+205
+bp
+
+200
+
+1
+
+0.5
+
+5
+
+2
+
+1
+
+2
+
+20
+
+15
+
+1
+
+2
+
+1
+
+2
+
+1
+
+2
+
+0.6%
+
+EMBIG
+
+External Financing
+Requirement
+
+(in basis points) 4/
+
+(in percent of GDP) 5/
+
+Annual Change in
+Short-Term Public
+Debt
+(in percent of total)
+
+Public Debt Held
+by Non-Residents
+
+Public Debt in
+Foreign Currency
+
+(in percent of total)
+
+(in percent of total)
+
+Source: Fund staff estimates and calculations.
+1/ The cell is highlighted in green if debt burden benchmark of 70% is not exceeded under the specific shock or baseline, yellow if exceeded under specific shock but not
+baseline, red if benchmark is exceeded under baseline, white if stress test is not relevant.
+2/ The cell is highlighted in green if gross financing needs benchmark of 15% is not exceeded under the specific shock or baseline, yellow if exceeded under specific shock
+but not baseline, red if benchmark is exceeded under baseline, white if stress test is not relevant.
+3/ The cell is highlighted in green if country value is less than the lower risk-assessment benchmark, red if country value exceeds the upper risk-assessment benchmark,
+yellow if country value is between the lower and upper risk-assessment benchmarks. If data are unavailable or indicator is not relevant, cell is white.
+Lower and upper risk-assessment benchmarks are:
+200 and 600 basis points for bond spreads; 5 and 15 percent of GDP for external financing requirement; 0.5 and 1 percent for change in the share of short-term debt; 15
+and 45 percent for the public debt held by non-residents; and 20 and 60 percent for the share of foreign-currency denominated debt.
+4/ EMBIG, an average over the last 3 months, 11-Oct-14 through 09-Jan-15.
+5/ External financing requirement is defined as the sum of current account deficit, amortization of medium and long-term total external debt, and short-term total external
+debt at the end of previous period.
+
+INTERNATIONAL MONETARY FUND
+
+45
+
+URUGUAY
+
+Figure A3.2. Uruguay Public DSA—Realism of Baseline Assumptions
+
+46
+
+INTERNATIONAL MONETARY FUND
+
+URUGUAY
+
+Figure A3.3. Uruguay Public Sector Debt Sustainability Analysis (DSA)—Baseline Scenario
+(in percent of GDP unless otherwise indicated)
+Debt, Economic and Market Indicators
+2003-2011
+76.3
+
+Nominal gross public debt
+
+Actual
+2/
+2012
+59.5
+
+2013
+62.1
+
+2014
+63.6
+
+2015
+64.3
+
+1/
+
+Projections
+2016 2017
+65.1 65.5
+
+2018
+66.2
+
+2019
+66.9
+
+Public gross financing needs
+
+12.9
+
+12.0
+
+13.4
+
+15.3
+
+17.1
+
+16.8
+
+18.8
+
+18.1
+
+20.9
+
+Net public debt
+
+47.0
+
+37.2
+
+36.5
+
+37.6
+
+38.6
+
+39.7
+
+40.9
+
+41.9
+
+43.0
+
+Real GDP growth (in percent)
+Inflation (GDP deflator, in percent)
+Nominal GDP growth (in percent)
+
+5.5
+7.8
+13.7
+5.4
+
+3.7
+7.4
+11.3
+4.9
+
+4.4
+7.6
+12.3
+5.3
+
+3.3
+8.7
+12.3
+5.5
+
+2.8
+7.8
+10.8
+5.9
+
+2.9
+7.4
+10.5
+6.3
+
+3.0
+7.0
+10.2
+6.2
+
+3.3
+6.7
+10.2
+6.0
+
+3.3
+6.4
+9.9
+5.9
+
+Effective interest rate (in percent)
+
+4/
+
+As of January 09, 2015
+Sovereign Spreads
+EMBIG (bp) 3/
+232
+5Y CDS (bp)
+
+Ratings
+Moody's
+S&Ps
+Fitch
+
+192
+
+Foreign
+Baa2
+BBBBBB-
+
+Local
+Baa2
+BBBBBB
+
+Contribution to Changes in Public Debt
+
+Change in gross public sector debt
+
+2003-2011
+-5.6
+
+Identified debt-creating flows
+Primary deficit
+Primary (noninterest) revenue and grants
+Primary (noninterest) expenditure
+Automatic debt dynamics 5/
+Interest rate/growth differential 6/
+Of which: real interest rate
+Of which: real GDP growth
+Exchange rate depreciation 7/
+Other identified debt-creating flows
+Privatization Receipts (negative)
+Contingent liabilities
+Other debt flows (asset purchases)
+Residual
+
+-6.4
+-2.7
+28.3
+25.6
+-7.0
+-5.2
+-1.3
+-3.8
+-1.9
+3.3
+0.0
+0.0
+3.3
+0.8
+
+Actual
+2012
+0.5
+
+2013
+2.7
+
+2014
+1.4
+
+2015
+0.7
+
+2016
+0.8
+
+2017
+0.4
+
+0.6
+0.2
+28.4
+28.6
+-2.6
+-1.9
+0.0
+-1.9
+-0.7
+3.1
+0.0
+0.0
+3.1
+-0.2
+
+3.8
+-0.4
+30.4
+30.0
+0.5
+-2.0
+0.3
+-2.3
+2.5
+3.8
+0.0
+0.0
+3.8
+-1.2
+
+1.7
+0.4
+30.3
+30.7
+1.4
+-1.8
+0.0
+-1.8
+3.2
+0.0
+0.0
+0.0
+0.0
+-0.3
+
+1.0
+-0.3
+30.2
+29.9
+0.7
+-0.9
+0.7
+-1.6
+1.7
+0.6
+0.0
+0.0
+0.6
+-0.3
+
+1.6
+-0.1
+30.1
+30.0
+0.8
+-0.6
+1.1
+-1.7
+1.4
+0.9
+0.0
+0.0
+0.9
+-0.7
+
+1.3
+0.2
+29.9
+30.0
+0.6
+-0.6
+1.2
+-1.8
+1.2
+0.5
+0.0
+0.0
+0.5
+-0.9
+
+Projections
+2018 2019 cumulative debt-stabilizing
+0.7
+0.6
+4.7
+primary
+1.7
+0.3
+29.7
+30.0
+0.4
+-0.7
+1.2
+-2.0
+1.2
+1.0
+0.0
+0.0
+1.0
+-1.0
+
+1.6
+0.3
+29.7
+30.0
+0.5
+-0.7
+1.3
+-2.0
+1.1
+0.9
+0.0
+0.0
+0.9
+-1.0
+
+20
+15
+
+Debt-Creating Flows
+
+balance 8/
+1.3
+
+8.9
+0.6
+180.0
+180.6
+4.4
+-5.4
+5.5
+-10.8
+9.7
+3.9
+0.0
+0.0
+3.9
+-4.2
+
+15
+projection
+
+10
+
+(in percent of GDP)
+
+10
+5
+
+5
+0
+
+0
+
+-5
+
+-5
+
+-10
+
+-10
+
+-15
+-15
+
+-20
+
+-20
+
+-25
+2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019
+Primary deficit
+Real GDP growth
+Real interest rate
+Exchange rate depreciation
+Other debt-creating flows
+Residual
+Change in gross public sector debt
+
+cumulative
+
+Source: Fund staff estimates and calculations.
+1/ Public sector is defined as consolidated public sector.
+2/ Based on available data.
+3/ EMBIG.
+4/ Defined as interest payments divided by debt stock (excluding guarantees) at the end of previous year.
+5/ Derived as [(r - π(1+g) - g + ae(1+r)]/(1+g+π+gπ)) times previous period debt ratio, with r = interest rate; π = growth rate of GDP deflator; g = real GDP growth rate;
+a = share of foreign-currency denominated debt; and e = nominal exchange rate depreciation (measured by increase in local currency value of U.S. dollar).
+6/ The real interest rate contribution is derived as r - π (1+g)+π[Debt in indexed units] to take into account a high share of debt indexed to inflation in total debt. The real growth
+contribution is derived as -g.
+7/ The exchange rate contribution is derived from the numerator in footnote 5 as ae(1+r).
+8/ Assumes that key variables (real GDP growth, real interest rate, and other identified debt-creating flows) remain at the level of the last projection year.
+
+INTERNATIONAL MONETARY FUND
+
+47
+
+URUGUAY
+
+Figure A3.4. Uruguay Public DSA—Composition of Public Debt and Alternative Scenarios
+Composition of Public Debt
+By Currency
+
+By Maturity
+(in percent of GDP)
+
+(in percent of GDP)
+
+120
+
+120
+
+100
+
+Medium and long-term
+Short-term
+
+100
+
+80
+
+80
+
+60
+
+60
+
+40
+
+projection
+
+40
+
+projection
+
+20
+0
+2003
+
+Local currency-denominated
+Foreign currency-denominated
+
+20
+
+2005
+
+2007
+
+2009
+
+2011
+
+2013
+
+2015
+
+2017
+
+0
+2003
+
+2019
+
+2005
+
+2007
+
+2009
+
+2011
+
+2013
+
+2015
+
+2017
+
+2019
+
+Alternative Scenarios
+Baseline
+
+Historical
+
+Constant Primary Balance
+
+Gross Nominal Public Debt
+
+Public Gross Financing Needs
+
+(in percent of GDP)
+80
+
+(in percent of GDP)
+24
+
+70
+
+20
+
+60
+16
+
+50
+40
+30
+
+20
+10
+0
+2012
+
+12
+Net debt (in
+percent of
+GDP)
+
+8
+
+4
+projection
+2013
+
+2014
+
+projection
+2015
+
+2016
+
+2017
+
+2018
+
+0
+2012
+
+2019
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+Underlying Assumptions
+(in percent)
+
+Baseline Scenario
+Real GDP growth
+Inflation
+Primary Balance
+Effective interest rate
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+3.3
+8.7
+-0.4
+5.5
+
+2.8
+7.8
+0.3
+5.9
+
+2.9
+7.4
+0.1
+6.3
+
+3.0
+7.0
+-0.2
+6.2
+
+3.3
+6.7
+-0.3
+6.0
+
+3.3
+6.4
+-0.3
+5.9
+
+Constant Primary Balance Scenario
+Real GDP growth
+3.3
+
+2.8
+
+2.9
+
+3.0
+
+3.3
+
+3.3
+
+Inflation
+Primary Balance
+
+8.7
+-0.4
+
+7.8
+-0.4
+
+7.4
+-0.4
+
+7.0
+-0.4
+
+6.7
+-0.4
+
+6.4
+-0.4
+
+Effective interest rate
+
+5.5
+
+5.9
+
+6.2
+
+6.2
+
+6.0
+
+5.9
+
+Source: Fund staff estimates and calculations.
+
+48
+
+INTERNATIONAL MONETARY FUND
+
+Historical Scenario
+Real GDP growth
+Inflation
+Primary Balance
+Effective interest rate
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+3.3
+8.7
+-0.4
+5.5
+
+5.5
+7.8
+2.1
+5.9
+
+5.5
+7.4
+2.1
+6.2
+
+5.5
+7.0
+2.1
+6.2
+
+5.5
+6.7
+2.1
+6.0
+
+5.5
+6.4
+2.1
+5.9
+
+URUGUAY
+
+Figure A3.5. Uruguay Public Gross DSA—Stress Tests 1/
+Macro-Fiscal Stress Tests
+Baseline
+Real GDP Growth Shock
+
+Primary Balance Shock
+Real Exchange Rate Shock
+
+Gross Nominal Public Debt
+
+Gross Nominal Public Debt
+
+(in percent of GDP)
+
+Public Gross Financing Needs
+
+(in percent of Revenue)
+
+74
+
+240
+
+72
+
+235
+
+70
+
+230
+
+(in percent of GDP)
+30
+
+25
+
+225
+
+68
+
+20
+
+220
+
+66
+
+15
+
+215
+
+64
+
+10
+
+210
+
+62
+
+205
+
+60
+58
+2014
+
+Real Interest Rate Shock
+
+5
+
+200
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+195
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+0
+2014
+
+2019
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2018
+
+2019
+
+Additional Stress Tests
+Baseline
+
+Combined Macro-Fiscal Shock
+
+Gross Nominal Public Debt
+
+Gross Nominal Public Debt
+
+(in percent of GDP)
+90
+
+280
+
+80
+
+270
+
+70
+
+260
+
+60
+
+(in percent of GDP)
+30
+25
+20
+
+250
+
+50
+
+240
+
+40
+
+15
+
+230
+
+30
+
+20
+
+220
+
+10
+
+210
+
+0
+2014
+
+Public Gross Financing Needs
+
+(in percent of Revenue)
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+10
+
+5
+
+200
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+0
+2014
+
+2019
+
+2015
+
+2016
+
+2017
+
+Underlying Assumptions
+(in percent)
+
+Primary Balance Shock
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+Real GDP growth
+
+3.3
+
+2.8
+
+2.9
+
+3.0
+
+3.3
+
+3.3
+
+Real GDP growth
+
+3.3
+
+0.8
+
+0.9
+
+3.0
+
+3.3
+
+3.3
+
+Inflation
+Primary balance
+
+8.7
+-0.4
+
+7.8
+-0.5
+
+7.4
+-0.7
+
+7.0
+-0.2
+
+6.7
+-0.3
+
+6.4
+-0.3
+
+Inflation
+Primary balance
+
+8.7
+-0.4
+
+7.3
+-0.4
+
+6.9
+-1.4
+
+7.0
+-0.2
+
+6.7
+-0.3
+
+6.4
+-0.3
+
+Effective interest rate
+
+5.5
+
+5.9
+
+6.3
+
+6.3
+
+6.0
+
+5.9
+
+Effective interest rate
+
+5.5
+
+5.9
+
+6.3
+
+6.3
+
+6.1
+
+5.9
+
+Real Interest Rate Shock
+
+Real GDP Growth Shock
+
+Real Exchange Rate Shock
+
+Real GDP growth
+
+3.3
+
+2.8
+
+2.9
+
+3.0
+
+3.3
+
+3.3
+
+Real GDP growth
+
+3.3
+
+2.8
+
+2.9
+
+3.0
+
+3.3
+
+3.3
+
+Inflation
+Primary balance
+
+8.7
+-0.4
+
+7.8
+0.3
+
+7.4
+0.1
+
+7.0
+-0.2
+
+6.7
+-0.3
+
+6.4
+-0.3
+
+Inflation
+Primary balance
+
+8.7
+-0.4
+
+12.2
+0.3
+
+7.4
+0.1
+
+7.0
+-0.2
+
+6.7
+-0.3
+
+6.4
+-0.3
+
+Effective interest rate
+
+5.5
+
+5.9
+
+7.4
+
+8.1
+
+8.3
+
+8.6
+
+Effective interest rate
+Nominal exchange rate
+
+5.5
+0.0
+
+6.3
+17.7
+
+6.2
+17.7
+
+6.2
+17.7
+
+6.0
+17.7
+
+5.9
+17.7
+
+deviation from baseline
+Combined Shock
+Real GDP growth
+
+3.3
+
+0.8
+
+0.9
+
+3.0
+
+3.3
+
+3.3
+
+Inflation
+Primary balance
+
+8.7
+-0.4
+
+7.3
+-0.5
+
+6.9
+-1.4
+
+7.0
+-0.2
+
+6.7
+-0.3
+
+6.4
+-0.3
+
+Effective interest rate
+Nominal exchange rate
+
+5.5
+0.0
+
+6.3
+17.7
+
+7.3
+17.7
+
+8.0
+17.7
+
+8.3
+17.7
+
+8.5
+17.7
+
+deviation from baseline
+Source: Fund staff estimates and calculations.
+1/ For a description of scenarios see http://www.imf.org/external/pubs/ft/dsa/mac.htm.
+
+INTERNATIONAL MONETARY FUND
+
+49
+
+INTERNATIONAL MONETARY FUND
+
+URUGUAY
+
+50
+
+Annex IV. Uruguay: External Debt Sustainability Analysis (DSA)
+Table A4.1. Uruguay: External Debt Sustainability Framework, 2009-2019
+(In percent of GDP, unless otherwise indicated)
+
+2009
+
+1 Baseline: External debt 1/
+2 Change in external debt
+3 Identified external debt-creating flows (4+8+9)
+4
+Current account deficit, excluding interest payments
+5
+Deficit in balance of goods and services
+6
+Exports
+7
+Imports
+8
+Net non-debt creating capital inflows (negative)
+9
+Automatic debt dynamics 2/
+10
+Contribution from nominal interest rate
+11
+Contribution from real GDP growth
+12
+Contribution from price and exchange rate changes 3/
+13 Residual, incl. change in gross foreign assets (2-3) 4/
+External debt-to-exports ratio (in percent)
+Gross external financing need (in billions of US dollars) 5/
+in percent of GDP
+
+2010
+
+Actual
+2011
+
+2012
+
+2013
+
+2015
+
+2016
+
+Projections
+2018
+
+2019
+
+47.5
+
+40.0
+
+40.3
+
+42.9
+
+44.5
+
+44.4
+
+44.2
+
+44.5
+
+44.4
+
+43.8
+
+-7.7
+-3.2
+0.6
+-1.5
+24.9
+23.4
+-4.3
+0.5
+0.7
+-1.4
+1.2
+-4.5
+
+-3.8
+-15.1
+1.9
+-1.6
+27.6
+26.0
+-5.9
+-11.1
+0.0
+-3.4
+-7.7
+11.3
+
+-7.5
+-10.9
+3.0
+-0.2
+28.1
+27.9
+-5.5
+-8.4
+0.0
+-2.9
+-5.5
+3.4
+
+0.3
+-1.9
+5.1
+2.5
+25.6
+28.1
+-4.8
+-2.2
+0.0
+-1.4
+-0.8
+2.2
+
+2.6
+-4.4
+5.0
+2.3
+25.5
+27.8
+-5.7
+-3.7
+0.4
+-1.6
+-2.5
+7.0
+
+1.6
+-2.3
+3.6
+1.6
+27.0
+28.5
+-5.8
+0.0
+1.4
+-1.4
+...
+3.8
+
+-0.1
+-2.6
+2.4
+0.5
+26.1
+26.6
+-5.3
+0.3
+1.5
+-1.2
+...
+2.5
+
+-0.2
+-2.0
+3.4
+0.7
+26.1
+26.7
+-4.9
+-0.4
+0.7
+-1.1
+...
+1.7
+
+0.4
+-1.9
+3.7
+0.5
+26.2
+26.8
+-4.7
+-1.0
+0.3
+-1.2
+...
+2.3
+
+-0.1
+-1.9
+2.9
+0.4
+26.5
+26.8
+-4.4
+-0.4
+1.0
+-1.4
+...
+1.8
+
+-0.7
+-1.7
+2.8
+0.2
+26.7
+26.9
+-4.0
+-0.5
+0.9
+-1.4
+...
+1.1
+
+206.3
+
+171.9
+
+142.6
+
+157.6
+
+168.5
+
+165.1
+
+170.3
+
+169.5
+
+169.7
+
+168.0
+
+164.0
+
+4.7
+13.3
+
+6.1
+15.6
+
+7.5
+16.4
+
+8.1
+15.4
+
+8.9
+16.7
+
+9.2
+17.4
+
+9.0
+16.5
+
+8.5
+14.9
+
+9.7
+16.1
+
+9.8
+15.5
+
+10.1
+15.0
+
+Key Macroeconomic Assumptions Underlying Baseline
+2.4
+-2.0
+1.2
+-7.0
+-20.7
+-0.6
+4.3
+
+8.4
+17.7
+0.0
+23.0
+23.2
+-1.9
+5.9
+
+7.3
+13.2
+0.0
+20.0
+26.7
+-3.0
+5.5
+
+3.7
+2.1
+0.0
+4.1
+14.9
+-5.1
+4.8
+
+4.4
+6.7
+1.2
+1.2
+0.7
+-5.0
+5.7
+
+10-Year
+Historical
+Average
+
+10-Year
+Standard
+Deviation
+
+44.5
+
+37.7
+
+31.2
+
+26.0
+
+20.8
+
+15.7
+
+5.5
+10.6
+0.9
+16.9
+20.0
+-2.0
+5.4
+
+2.0
+7.4
+0.7
+14.5
+19.9
+2.6
+1.6
+
+3.3
+-4.2
+3.3
+4.6
+1.5
+-3.6
+5.8
+
+2.8
+1.1
+3.5
+0.5
+-3.3
+-2.4
+5.3
+
+2.7
+1.9
+1.6
+4.6
+5.3
+-3.4
+4.9
+
+2.9
+2.4
+0.6
+6.0
+5.5
+-3.7
+4.7
+
+3.2
+2.2
+2.3
+6.3
+5.7
+-2.9
+4.4
+
+3.3
+2.1
+2.1
+6.4
+5.8
+-2.8
+4.0
+
+1/ External debt includes non-resident deposits.
+2/ Derived as [r - g - r(1+g) + ea(1+r)]/(1+g+r+gr) times previous period debt stock, with r = nominal effective interest rate on external debt; r = change in domestic GDP deflator in US dollar terms, g = real GDP
+growth rate, e = nominal appreciation (increase in dollar value of domestic currency), and a = share of domestic-currency denominated debt in total external debt.
+3/ The contribution from price and exchange rate changes is defined as [-r(1+g) + ea(1+r)]/(1+g+r+gr) times previous period debt stock. r increases with an appreciating domestic currency (e > 0) and rising
+inflation (based on GDP deflator).
+4/ For projection, line includes the impact of price and exchange rate changes.
+5/ Defined as current account deficit, plus amortization on medium- and long-term debt, plus short-term debt at end of previous period.
+6/ The key variables include real GDP growth; nominal interest rate; dollar deflator growth; and both non-interest current account and non-debt inflows in percent of GDP.
+7/ Long-run, constant balance that stabilizes the debt ratio assuming that key variables (real GDP growth, nominal interest rate, dollar deflator growth, and non-debt inflows in percent of GDP) remain at their
+levels of the last projection year.
+
+2017
+
+51.3
+
+Scenario with key variables at their historical averages 6/
+
+Real GDP growth (in percent)
+GDP deflator in US dollars (change in percent)
+Nominal external interest rate (in percent)
+Growth of exports (US dollar terms, in percent)
+Growth of imports (US dollar terms, in percent)
+Current account balance, excluding interest payments
+Net non-debt creating capital inflows
+
+2014
+
+Debt-stabilizing
+non-interest
+current account 7/
+-5.5
+
+-7.6
+
+URUGUAY
+
+Figure A4.1. Uruguay: External Debt Sustainability: Bound Tests 1/ 2/ 3/
+(External debt in percent of GDP)
+Interest rate shock (in percent)
+
+Baseline and historical scenarios
+
+20 100
+
+100
+Gross financing need
+under baseline
+(right scale)
+
+90
+80
+70
+
+90
+
+15
+
+Baseline
+
+50
+
+10
+
+44
+
+40
+5
+
+20
+
+Historical
+
+10
+2011
+
+2013
+
+2015
+
+16
+0
+2019
+
+2017
+
+0.9
+
+60
+
+i-rate
+shock
+
+45
+
+Baseline
+
+44
+
+80
+
+70
+60
+
+Baseline:
+
+3.0
+
+Scenario:
+
+2.0
+
+Historical:
+
+5.5
+
+Growth
+shock
+
+50
+40
+
+30
+20
+2009
+
+2011
+
+2013
+
+2015
+
+2017
+
+2019
+
+100
+
+100
+90
+
+40
+
+Non-interest current account shock
+(in percent of GDP)
+
+Growth shock
+(in percent per year)
+
+Baseline
+
+90
+80
+
+Baseline:
+
+-3.0
+
+Scenario:
+
+-4.4
+
+Historical:
+
+-2.0
+
+70
+
+60
+46
+
+50
+
+44
+
+40
+
+CA shock
+Baseline
+
+50
+44
+
+30
+
+30
+2011
+
+2013
+
+2015
+
+2017
+
+2019
+
+Combined shock 4/
+
+20
+2009
+
+100
+
+90
+
+90
+
+80
+
+80
+
+70
+
+70
+
+60
+
+Combined
+shock
+
+50
+40
+
+2011
+
+2013
+
+2015
+
+2017
+
+2019
+
+Real depreciation shock 5/
+
+100
+
+Baseline
+
+30 %
+
+66
+
+depreciation
+
+60
+
+48
+44
+
+50
+40
+
+Baseline
+
+44
+
+30
+
+30
+20
+2009
+
+2.3
+
+Historical:
+
+50
+
+30
+
+20
+2009
+
+2.0
+
+70
+
+60
+
+0
+2009
+
+80
+
+Baseline:
+
+Scenario:
+
+2011
+
+2013
+
+2015
+
+2017
+
+2019
+
+20
+2009
+
+2011
+
+2013
+
+2015
+
+2017
+
+2019
+
+Sources: International Monetary Fund, Country desk data, and staff estimates.
+1/ Shaded areas represent actual data. Individual shocks are permanent one-half standard deviation
+shocks. Figures in the boxes represent average projections for the respective variables in the baseline
+and scenario being presented. Ten-year historical average for the variable is also shown.
+2/ For historical scenarios, the historical averages are calculated over the ten -year period, and the
+information is used to project debt dynamics five years ahead.
+3/ External debt includes non-resident deposits.
+4/ Permanent 1/4 standard deviation shocks applied to real interest rate, growth rate, and current
+account balance.
+5/ One-time real depreciation of 30 percent occurs in 2010.
+
+INTERNATIONAL MONETARY FUND
+
+51
+
+URUGUAY
+January 30, 2015
+
+STAFF REPORT FOR THE 2014 ARTICLE IV
+CONSULTATION—INFORMATIONAL ANNEX
+Prepared By
+
+The Western Hemisphere Department
+(In Consultation with Other Departments)
+
+CONTENTS
+FUND RELATIONS ________________________________________________________________________2
+RELATIONS WITH THE WORLD BANK UNDER JMAP __________________________________4
+RELATIONS WITH THE INTER-AMERICAN DEVELOPMENT BANK_____________________6
+STATISTICAL ISSUES _____________________________________________________________________8
+
+URUGUAY
+
+FUND RELATIONS
+(As of December 31, 2014)
+I.
+
+Membership Status: Joined: March 11, 1946
+
+II.
+
+General Resources Account:
+Quota
+Fund holdings of currency
+Reserve Tranche Position
+
+III. SDR Department:
+Net cumulative allocation
+Holdings
+
+Article VIII
+SDR Million
+306.50
+192.19
+114.32
+
+% Quota
+100.00
+62.70
+37.30
+
+SDR Million
+293.26
+245.73
+
+% Allocation
+100.00
+83.79
+
+IV. Outstanding Purchases and Loans: None
+V.
+
+Latest Financial Arrangements:
+Date of
+Type
+Arrangement
+Stand-By
+Jun 08, 2005
+Stand-By
+Apr 01, 2002
+Of which: SRF
+Jun 25, 2002
+Stand-By
+May 31, 2000
+
+Expiration
+Date
+Dec 27, 2006
+Mar 31, 2005
+Aug 08, 2002
+Mar 31, 2002
+
+Amount Approved
+(SDR Million)
+766.25
+1,988.50
+128.70
+150.00
+
+Amount Drawn
+(SDR Million)
+263.59
+1,988.50
+128.70
+150.00
+
+VI. Projected Payments to Fund 1/
+(SDR Million; based on existing use of resources and present holdings of SDRs):
+Forthcoming
+2015
+2016
+2017
+2018
+Principal
+Charges/Interest
+0.03
+0.03
+0.03
+0.03
+Total
+0.03
+0.03
+0.03
+0.03
+
+2019
+0.03
+0.03
+
+1/ When a member has overdue financial obligations outstanding for more than three months, the amount of
+such arrears will be shown in this section.
+
+Ex-Post Assessment. The last Ex-Post Assessment of Longer-Term Program Engagement was
+considered by the Executive Board on August 29, 2007 (Country Report No. 08/47).
+Exchange Rate Arrangement. The currency is the Uruguayan peso (UY$). Uruguay’s de jure and de
+facto exchange rate arrangements are classified as floating. Since June 2013, monetary policy targets
+the growth rate of M1 plus saving deposits as the intermediate instrument. On December 30, 2014,
+the exchange rate in the official market was UY$ 24.333 per U.S. dollar. Uruguay has accepted the
+
+2
+
+INTERNATIONAL MONETARY FUND
+
+URUGUAY
+
+obligations of Article VIII and maintains an exchange rate system free of restrictions on payments
+and transfers for current international transactions.
+FSAP participation and ROSCs. A Financial Sector Stability Assessment (FSSA) was considered by
+the Executive Board on June 28, 2006 (Country Report No. 06/187). An FSAP Update was conducted
+in 2012 and the FSSA was published on May 31, 2013 (Country Report No. 13/152). A ROSC module
+on fiscal transparency was published on March 5, 2001. A ROSC module on data dissemination
+practices was published on October 18, 2001. A ROSC on Anti-Money Laundering and Combating
+the Financing of Terrorism (AML/CFT) was published on December 12, 2006 (Country Report
+No. 06/435). A data module ROSC was published on February 11, 2014 (Country Report No. 14/42).
+Technical Assistance 2008–14.
+Department
+FAD
+
+LEG
+
+MCM
+STA
+
+Purpose
+Treasury Management
+Tax, Customs, and Social Security
+Administration
+Performance Informed Budgeting
+Private Public Partnership
+Assist the authorities on strengthening
+the AML/CFT capacity of the
+Superintendency of Financial Services
+and the Financial Intelligence Unit
+Follow up of the implementation of the
+AML/CFT National Strategy
+Assist the authorities on the launch of
+the recently designed AML/CFT
+National Strategy
+Assist the authorities on the
+elaboration of a risk-based national
+strategy enhancing the AML/CFT
+regime
+Conduct a money laundering/terrorist
+financing country risk assessment
+consistent with the objectives of the
+AML/CFT National Strategy
+Bank Resolution
+FSAP Update
+Data ROSC reassessment
+Government Finance Statistics, to assist
+in improving the quality of public debt
+data
+
+Date of Delivery
+August 2014
+August 2014, March 2014, November
+2012, November 2011, and September
+2010
+March 2011
+May 2010
+October 2014
+
+October 2013
+June 2012
+
+December 2010
+
+January, April, and July 2009
+
+June 2014
+September 2012
+August 2012
+February 2008
+
+INTERNATIONAL MONETARY FUND
+
+3
+
+URUGUAY
+
+RELATIONS WITH THE WORLD BANK UNDER JMAP
+(As of October 13, 2014)
+Title
+
+World Bank
+Work Program
+
+Products
+
+Provisional
+timing of
+missions
+
+Expected
+delivery date*
+
+October 2014
+
+December 2014
+
+A. Lending
+1. Uruguay Climate Events’
+Impact Mitigating Investment
+Project Financing
+
+B. ESW
+
+4
+
+1. Uruguay Low Carbon Study
+
+November 2014
+
+2. Water for Uruguay
+
+April 2015
+
+3. Poverty and Gender Analysis
+
+April 2015
+
+4. Climate-smart Agriculture and
+Integrated Water Resources
+Management and
+Development Includes
+(4 pillars TA)
+
+April 2015
+
+5. Systematic Country
+Diagnostic
+
+April/May 2015
+
+6. Demographic Change and
+Social Policies in Uruguay
+
+May 2015
+
+7. Uruguay Policy Notes
+
+June 2015
+
+8. Pro-growth public policies,
+competitiveness and business
+investment climate
+
+June 2015
+
+9. Country Partnership
+Framework
+
+July/August
+2015
+
+INTERNATIONAL MONETARY FUND
+
+URUGUAY
+
+Title
+
+Products
+
+Provisional
+timing of
+missions
+
+Expected
+delivery date*
+
+C. Technical Assistance
+1. Program market regulation
+
+March 2015
+
+2. Competition regulatory
+framework
+
+March 2015
+
+3. Uruguay Improvement of
+Pollution Control
+
+April 2015
+
+4. Dam Safety regulatory
+framework development
+
+April 2015
+
+5. Climate Smart Water
+Agriculture Management
+
+April 2015
+
+6. Capacity Building for
+Uruguay’s Oil and Gas Sectors
+
+June 2015
+
+7. Uruguay Integrated Urban
+Water Management in
+Uruguayan Cities
+
+December 2015
+
+INTERNATIONAL MONETARY FUND
+
+5
+
+URUGUAY
+
+RELATIONS WITH THE INTER-AMERICAN
+DEVELOPMENT BANK
+(As of September 30, 2014)
+The Inter-American Development Bank’s (IDB) Board of Executive Directors approved in
+August 2011 a Country Strategy with Uruguay (2010–15). Sovereign-guaranteed lending under
+the program is expected to reach approximately US$1.8 billion. The program includes additional non
+reimbursable financing for technical assistance and analytical work.
+Under the Strategy, the national authorities and the IDB identified the following priority
+sectors in which the IDB Group would focus both its financial and nonfinancial products and
+services: (i) transport; (ii) energy; (iii) water, sanitation, and solid waste; (iv) science and technology;
+(v) social protection; (vi) education and job training; (vii) agribusiness; (viii) services exports; (ix)
+public management and finances; and (x) urban development and citizen security. It is also expected
+that all four of the Bank’s private sector windows will approve loans and technical assistance in the
+energy, transport, agribusiness and global services sectors. The strategic areas were selected taking
+into account: (i) a context of strong economic growth, which imposes heavy investment
+requirements on a number of sectors; (ii) business opportunities, which in turn contribute to the
+Bank’s institutional goals within the framework of the 9th General Capital Increase; (iii) greater
+complementarity between the multilateral financial institutions working in Uruguay; (iv) the Bank’s
+accumulated operational experience and technical knowledge from having worked for several
+decades in the country; and (v) the government’s interest for continued IDB engagement.
+As of September 30th 2014, the IDB’s portfolio in Uruguay includes loans for the financing of
+45 projects; five of which are without sovereign guarantee. The 5 loans earmarked towards the
+private sector account for US$494 million (22 percent of the approved amounts). The lending
+portfolio amounts to US$2,249 million, of which US$1,379.8 million are pending disbursement. One
+operation amounting to US$550 million is a contingent line of credit that would only be disbursed in
+case the government needs it. Disbursements in 2014 for sovereign loans are expected to total
+US$176 million. US$58.8 million has already been disbursed this year for private loans. The current
+portfolio includes lending to support the Government in the following sectors: promotion of exports
+and investments (32.5 percent of the approved amounts); water and sanitation (19.2 percent of the
+approved amounts); urban development and citizenship security (12.2 percent of the approved
+amounts); energy (11.4 percent of the approved amounts); institutional capacity and finance
+(8.3 percent of the approved amounts); transport (5.7 percent of the approved amounts); and other
+sectors such as labor training, science and technology, agro-industry and social protection
+(10.7 percent of the approved amounts).
+
+6
+
+INTERNATIONAL MONETARY FUND
+
+URUGUAY
+
+In 2014, the Bank approved loans to the public sector for approximately US$392.5 million in
+the areas of integration, financial and budget public management, education, water and sanitation,
+productive infrastructure (mainly in the renewable energy sector), and innovation and productive
+development.
+FINANCIAL RELATIONS WITH THE INTER-AMERICAN DEVELOPMENT BANK
+(In millions of U.S. dollars)
+Total outstanding loans: US$1,755.2 (As of September 30, 2014)
+
+Disbursement
+Amortization
+Net Loan
+Flows
+
+2005
+242.3
+222.3
+20.0
+
+2006
+114.8
+520.8
+-406.0
+
+2007
+112.9
+142.1
+-29.2
+
+2008
+337.2
+138.7
+198.5
+
+Loan transactions
+2009
+2010
+477.3
+54.3
+162.0
+465.1
+315.3
+-410.8
+
+2011
+138.2
+115.4
+22.8
+
+2012
+121.6
+120.7
+0.9
+
+2013
+195.9
+591.7
+-395.8
+
+1
+
+20142
+174.9
+97.8
+77.1
+
+Source: Inter-American Development Bank.
+1
+
+Only loans with sovereign guarantee are considered.
+
+2
+
+Preliminary.
+
+INTERNATIONAL MONETARY FUND
+
+7
+
+URUGUAY
+
+STATISTICAL ISSUES
+(As of January 27, 2014)
+I. Assessment of Data Adequacy for Surveillance
+General: Data provision has some shortcomings, but broadly adequate for surveillance. Most
+affected area is national accounts.
+National Accounts: In 2009, the Uruguayan authorities completed a revision of national
+accounts statistics, in which they updated the benchmark year (from 1983 to 1997 and 2005) and
+adopted the System of National Accounts (SNA) 1993. However, national accounts statistics still
+have some shortcomings: limited coverage of the enterprise survey, partial update of business
+register, poor quality source data for some components of GDP, inadequate information on the
+informal economy, and incomplete quarterly accounts. About 60 percent of the GDP calculation
+is based on fixed input-output ratios from 1997. Household consumption is not independently
+derived and changes in inventories are obtained as residuals. Household income and expenditure
+survey are conducted every ten years. The central bank (BCU) compiles and disseminates annual
+but not quarterly GDP by the expenditure approach at current prices, and does not compile
+annual integrated economic accounts by institutional sector, in particular, the income account.
+Gross national income, gross disposable income and gross savings are also available annually.
+Detailed national accounts data are only available up to 2008. Long-time series are not available
+on the BCU website. There is no regular schedule for updating the base year of the national
+accounts. The causes of the current revisions to the quarterly national accounts are not explained
+to users. A monthly index of economic activity is not disseminated. For the national accounts
+there is a need to plan for the adoption of the 2008 SNA and updating of the base year.
+Prices: Both the consumer and wholesale price indices are reported on a regular and timely basis
+for publication in the IFS. The new base period for the consumer price index is December
+2010 = 100. The CPI has national coverage and includes more than forty thousand price
+quotations. It does not cover either the implicit rent or the net acquisitions of owner-occupied
+dwellings. For the CPI, reselection of the sample of detailed products has not been done for an
+extended period. The base of the wholesale price index has been updated to 2001. Producer
+price indices (March 2010 = 100) for national products have been recently disseminated. The PPI
+does not cover utilities, construction, business and other services and exported output. The
+authorities do not provide trade price and volume indices for publication in the International
+Financial Statistics (IFS). For both the CPI and PPI, statistical outputs/intermediate results are not
+validated with available information from alternative sources. The CPI and PPI would benefit from
+a more regular and frequent schedule of weight updates.
+Government Finance Statistics: Official data on the central administration, the state enterprises
+and the social security system are complete and current, but there are problems with the
+timeliness of the data on local governments. There are also problems with the timeliness of
+financing and debt data reported for inclusion in the Fund’s statistical publications. Information
+on a monthly and quarterly basis for financing and debt data respectively, are disseminated on
+
+8
+
+INTERNATIONAL MONETARY FUND
+
+URUGUAY
+
+the BCU website from 1999 onwards for the central government and total public sector, but no
+information is reported for publication in the International Financial Statistics. The information
+reported for publication in the Government Finance Statistics Yearbook covers transactions on
+revenue and expense for the consolidated central government (data on revenue and expense for
+local governments have not been reported since 1994), and the general government’s operations
+on financial assets and liabilities, both in terms of flows (financing) and stocks (debt).
+Monetary and Financial Statistics: Monetary and financial statistics are prepared in accordance
+with the IMF's Monetary and Financial Statistics Manual (2000). Authorities report monetary data
+for the central bank, other depository corporations, and other financial corporation’s (OFCs)
+using the standardized reporting forms (SRFs). However, data for the OFCs are limited to offshore financial institutions. A mission could be fielded to expand the institutional coverage of the
+OFCs and compile the SRF for OFCs with full institutional coverage.
+Financial Sector Surveillance: Authorities participate in the IMF’s Coordinated Direct
+Investment Survey (CDIS), Coordinated Portfolio Investment Survey (CPIS) and financial
+soundness indicators (FSIs) databases. FSIs on non-financial corporations, households, market
+liquidity and real estate markets are not available. BCU disseminates FSIs for individual banks
+on a monthly basis and staff estimates FSIs for the banking system by weighting individual
+bank FSIs by their asset share.
+External Sector Statistics: Balance of payments statements are compiled and published on a
+quarterly basis. Data are compiled following the recommendations of the fifth edition of the
+Balance of Payments Manual. Uruguay compiles and reports to STA quarterly data on balance of
+payments and annual data on the international investment position (IIP) for publication in the IFS
+and the Balance of Payments Statistics Yearbook. New surveys are allowing for improved
+coverage of the private sector in the IIP.
+Uruguay started disseminating the international reserves and foreign currency liquidity data
+template on the Fund’s external website in 2005. The BCU also disseminates quarterly external
+debt statistics in the format prescribed by the SDDS on the National Summary Data Page (NSDP).
+II. Data Standards and Quality
+Uruguay subscribed to the SDDS in February
+2004 and is in observance.
+
+Data ROSC published on October 1, 2001.
+A data reassessment ROSC on CPI, PPI and NA
+was published in February 2014.
+
+III. Reporting to STA
+Annual GFS are regularly reported to STA for publication in the Government Finance Statistics
+Yearbook. No high frequency GFS are reported for publication in the International Financial
+Statistics.
+
+INTERNATIONAL MONETARY FUND
+
+9
+
+INTERNATIONAL MONETARY FUND
+
+URUGUAY
+
+10
+
+URUGUAY: COMMON INDICATORS REQUIRED FOR SURVEILLANCE
+(As of November 25, 2014)
+
+Date of
+
+Date
+
+latest
+
+received
+
+observation
+
+Exchange Rates
+
+Frequency
+
+Frequency
+
+Frequency
+
+Memo items:
+
+of
+
+of
+
+of
+
+Data Quality –
+
+Data Quality –
+
+Data 7/
+
+Reporting
+
+Publication
+
+Methodological
+
+Accuracy and
+
+7/
+
+7/
+
+Soundness 8/
+
+Reliability 9/
+
+O, LO, O, O
+
+LO, O, O, LNO, NO
+
+11/24/14
+
+11/24/14
+
+D
+
+D
+
+D
+
+11/20/14
+
+11/20/14
+
+M
+
+M
+
+M
+
+Reserve/Base Money
+
+10/14
+
+11/1/14
+
+M
+
+M
+
+M
+
+Broad Money
+
+10/14
+
+11/1/14
+
+M
+
+M
+
+M
+
+Central Bank Balance Sheet
+
+9/14
+
+10/1/14
+
+M
+
+M
+
+M
+
+9/14
+
+10/1/14
+
+M
+
+M
+
+M
+
+11/24/14
+
+11/24/14
+
+D
+
+D
+
+D
+
+10/14
+
+11/1/14
+
+M
+
+M
+
+M
+
+M
+
+M
+
+M
+
+Q
+
+Q
+
+Q
+
+Q
+
+Q
+
+Q
+
+International Reserve Assets and
+Reserve Liabilities of the Monetary
+Authorities 1/
+
+Consolidated Balance Sheet of the
+Banking System
+Interest Rates 2/
+Consumer Price Index
+Revenue, Expenditure, Balance and
+Composition of Financing 3/–
+
+9/14
+
+10/1/14
+
+Q2/14
+
+10/1/14
+
+Q2/14
+
+10/1/14
+
+Central Government 4/
+Stocks of Central Government and
+Central Government-Guaranteed
+Debt 4/ 5/
+External Current Account Balance
+
+Date of
+
+Date
+
+Frequency
+
+Frequency
+
+Frequency
+
+latest
+
+received
+
+of
+
+of
+
+of
+
+Data 7/
+
+Reporting
+
+Publication
+
+7/
+
+7/
+
+Q
+
+Q
+
+Q
+
+Q
+
+Q
+
+Q
+
+observation
+
+Exports and Imports of Goods and
+
+Q2/14
+
+10/1/14
+
+Q2/14
+
+10/1/14
+
+Gross External Debt
+
+Q2/14
+
+10/1/14
+
+Q
+
+Q
+
+Q
+
+International Investment Position 6/
+
+2012A1
+
+2014Q1
+
+A
+
+A
+
+A
+
+Services
+GDP/GNP
+
+Memo items:
+Data Quality –
+
+Data Quality –
+
+Methodological
+
+Accuracy and
+
+Soundness 8/
+
+Reliability 9/
+
+LO, LO, LO, LO
+
+LNO, LNO, LO, O,
+LO
+
+1/ Includes reserve assets pledged or otherwise encumbered as well net derivative positions.
+2/ Both market-based and officially-determined, including discount rates, money market rates, rates on treasury bills, notes and bonds.
+3/ Foreign, domestic bank, and domestic nonbank financing.
+4/ The general government consists of the central government (budgetary funds, extra budgetary funds, and social security funds) and state and
+local governments.
+5/ Including currency and maturity composition.
+6/ Includes external gross financial asset and liability positions vis-à-vis nonresidents.
+7/ Daily (D); weekly (W); monthly (M); quarterly (Q); annually (A); irregular (I); and not available (NA).
+8/ This reflects the reassessment provided in the data ROSC (published in February 2014, and based on the findings of the mission that took
+place during August 20-31, 2012) for the dataset corresponding to the variable in each row. The assessment indicates whether international
+standards concerning (respectively) (i) concepts and definitions, (ii) scope, (iii) classification/ sectorization, and (iv) basis for recording are fully
+observed (O); largely observed (LO);largely not observed (LNO); not observed (NO); and not available (NA).
+9/ Same as footnote 9, except referring to international standards concerning (respectively) (i) source data, (ii) assessment of source data,
+(iii) statistical techniques, (iv) assessment and validation of intermediate data and statistical outputs, and (v) revision studies.
+
+URUGUAY
+
+INTERNATIONAL MONETARY FUND
+1
+
+Press Release No. 15/77
+FOR IMMEDIATE RELEASE
+February 26, 2015
+
+International Monetary Fund
+700 19th Street, NW
+Washington, D. C. 20431 USA
+
+IMF Executive Board Concludes 2014 Article IV Consultation with Uruguay
+On February 20, 2015, the Executive Board of the International Monetary Fund (IMF) concluded
+the Article IV consultation1 with Uruguay, and considered and endorsed the staff appraisal
+without a meeting.2
+Recent Developments and Outlook
+The Uruguayan economy continues to decelerate gradually. Real GDP growth is estimated to
+have softened to a still robust 3¼ percent in 2014 from 4½ percent in 2013, mostly reflecting the
+moderation in domestic demand growth amid a less favorable external environment. Weak
+economic conditions abroad have continued to weigh on Uruguay’s current account, particularly
+on the services side. At the same time, the surge in inflows to the local securities market abated
+and the Uruguayan peso has depreciated towards levels broadly consistent with fundamentals.
+Inflation remains above the central bank’s 3–7 percent target range. After being pushed to near
+10 percent in early 2014 by food price shocks and the pass-through of peso depreciation,
+consumer price inflation receded to 8¼ percent at the end of the year, in part due to subdued
+increases in administrative prices and one-off measures to ease inflation. Above target inflation
+reflects a shrinking but still positive output gap, upward shocks to food and fuel prices in 2010–
+13, and pervasive backward-looking wage indexation that embedded these shocks.
+Monetary policy has been tight while fiscal policy has been slightly expansionary in 2014. The
+peso yield curve remained 400–600 basis points above inflation and credit growth has slowed
+markedly. Public sector spending continued to grow faster than real GDP in 2014, but the budget
+approved for 2015 will generate a fiscal withdrawal of about ¾ percentage point of GDP, mostly
+by slowing spending.
+
+1
+
+Under Article IV of the IMF's Articles of Agreement, the IMF holds bilateral discussions with members, usually
+every year. A staff team visits the country, collects economic and financial information, and discusses with officials
+the country's economic developments and policies. On return to headquarters, the staff prepares a report, which
+forms the basis for discussion by the Executive Board.
+
+2
+
+The Executive Board takes decisions under its lapse-of-time procedure when the Board agrees that a proposal can
+be considered without convening formal discussions.
+
+2
+Bank resilience indicators are generally strong, but less so than a few years ago. In particular,
+foreign currency credit to borrowers in the nontradables sector has increased as a share of total
+credit, banks’ capital buffers have declined somewhat, and the share of nonperforming loans has
+inched up in 2014, albeit from a low level. Deposit dollarization remains elevated.
+Economic activity is projected to decelerate further but remain solid. The pass-through of lower
+global oil prices to end-user prices will be gradual, as part of the windfall from lower oil prices
+will initially be used to shore up the operating balance of the state-owned petroleum enterprise.
+The programmed fiscal tightening and continued weak external conditions will outweigh the
+positive impact of reduced gasoline prices on domestic demand, with growth shifting down to
+about 2¾ percent in 2015. Inflation is projected to decline gradually to within the target range
+over the medium term as monetary policy remains tight, the output gap closes, and retail prices
+for gasoline decline. Net public debt is projected to crawl up to 43 percent of GDP in 2019 from
+36½ percent in 2013, with the primary balance remaining below the level required to keep debt
+constant.
+Key risks to the outlook relate to uncertainties regarding global and regional economic growth
+and U.S. monetary policy normalization. The strong liquidity buffers of the private and public
+sectors would facilitate an orderly adjustment to external shocks. Nevertheless, the high shares of
+nonresident-holdings of public debt and foreign currency denominated bank credit to borrowers
+in the nontradables sector could present vulnerabilities.
+Executive Board Assessment
+The Uruguayan economy is decelerating gradually after a decade of strong and inclusive growth.
+Export receipts are growing at a markedly lower clip than a few years ago and domestic demand
+growth is slowing towards a more sustainable pace. At the same time, inflation remains above
+the target range and the primary fiscal balance has weakened further in 2014.
+The external environment presents risks as well as opportunities. As a small open economy that
+exports mostly agricultural products and has nonresidents holding a relatively high share of its
+public debt, Uruguay is exposed to the risk of lower global growth and tighter global financial
+conditions. At the same time, the recent drop in global crude oil prices will provide a welcome
+opportunity to improve the overall fiscal and balance of payments positions and reduce inflation.
+Uruguay’s strong liquidity buffers would allow an orderly adjustment in the event of adverse
+external shocks. Public debt maturity is high, reserves comfortably exceed prudential
+benchmarks, and banks and the public sector have ample U.S. dollar liquidity. However, abovetarget inflation would leave little room for a countercyclical monetary policy response, and a
+primary balance that is insufficient to keep net public debt around its current level would limit
+the policy space to deploy discretionary stimulus.
+A multi-dimensional disinflation strategy is needed to bring inflation to the mid-point of the
+target range. Such a strategy would involve maintaining a monetary policy stance tight enough to
+keep inflation on a downward trend, moving towards tighter fiscal policy, a reduction in the
+backward-looking component of wage setting to temper inflation persistence, and bolstering the
+
+3
+central bank’s influence on inflation expectations through well-crafted communication efforts.
+Enhanced central bank autonomy would also be beneficial.
+The upcoming five-year budget is an opportunity to reinforce fiscal sustainability. Improving the
+primary fiscal balance by about 2 percent of GDP over the medium term would help ensure that
+net public debt is put on a firmly declining path. The improvement in the fiscal balance could be
+achieved by keeping spending growth moderately below potential GDP growth over the next five
+years and modestly increasing revenues.
+Financial regulation and supervision are solid, but could benefit from fine-tuning in some areas.
+The exposures to exchange rate depreciation risks bear continued close monitoring. There is
+scope to strengthen risk weights for foreign currency loans to unhedged borrowers, incorporate
+greater exchange rate stress into the supervisory stress tests, and require banks facing capital
+shortfalls in the stress tests to submit contingent capital plans for the approval of the
+Superintendency of Financial Services. In addition, measures to assist financial deepening could
+enhance growth and social inclusion.
+A key challenge is to bolster strong growth in the medium run in order to continue deepening
+Uruguay’s social gains. The commitment of the incoming government to boost infrastructure
+investments, revamp secondary education and skill formation for the youth, and foster an
+innovation-friendly business environment is welcome.
+
+4
+Table 4. Uruguay: Selected Economic Indicators
+2013
+
+2014
+
+2015
+
+Projection
+2016
+2017
+
+2010
+
+2011
+
+2012
+
+2018
+
+2019
+
+Real GDP (percent change)
+GDP (US$ billions)
+Unemployment (in percent, eop)
+CPI inflation (in percent, average)
+Exchange rate (UY$/US$, average)
+Real effective exchange rate (percent change, eop)
+
+8.4
+38.9
+7.0
+6.7
+20.1
+3.5
+
+7.3
+47.2
+6.3
+8.1
+19.3
+6.8
+
+3.7
+50.0
+6.3
+8.1
+20.3
+10.1
+
+4.4
+3.3
+2.8
+2.7
+55.7
+55.1
+57.3
+59.9
+6.5
+6.5
+6.8
+7.0
+8.6
+8.9
+7.9
+7.5
+20.5
+23.2
+…
+…
+-1.6
+-4.4
+…
+…
+(Percent change, unless otherwise specified)
+
+2.9
+63.1
+7.0
+7.1
+…
+…
+
+3.2
+66.6
+7.2
+6.7
+…
+…
+
+3.3
+70.2
+7.2
+6.5
+…
+…
+
+Monetary and banking indicators 1/
+Base money
+Broader M1 (M1 plus savings deposits)
+M2
+Growth of credit to households (in real UY$)
+Growth of credit to firms (in US$)
+Bank assets (in percent of GDP)
+Private credit (in percent of GDP) 2/
+Foreign bank market share (in percent of total loans)
+
+16.2
+30.0
+30.3
+15.8
+18.8
+58.2
+23.1
+54.1
+
+17.3
+20.8
+22.0
+2.1
+26.5
+60.2
+23.4
+56.0
+
+26.7
+11.2
+12.3
+7.3
+17.5
+58.5
+24.0
+56.6
+
+12.9
+2.7
+...
+...
+15.0
+7.2
+...
+...
+11.6
+5.4
+...
+...
+9.9
+6.4
+...
+...
+16.2
+8.4
+...
+...
+62.8
+66.6
+...
+...
+26.9
+26.8
+...
+...
+59.3
+62.3
+...
+...
+(Percent of GDP, unless otherwise specified)
+
+...
+...
+...
+...
+...
+...
+...
+...
+
+...
+...
+...
+...
+...
+...
+...
+...
+
+...
+...
+...
+...
+...
+...
+...
+...
+
+Public sector indicators
+Revenue 3/
+Non-interest expenditure 3/
+Wage bill
+Primary balance 4/
+Interest 4/
+Overall balance 4/
+Gross public sector debt
+Public sector debt net of liquid financial assets 5/
+
+29.8
+28.5
+5.0
+1.6
+3.1
+-1.5
+61.6
+40.2
+
+28.5
+26.8
+4.9
+2.0
+2.9
+-0.9
+59.0
+37.0
+
+28.4
+28.7
+5.1
+-0.2
+2.6
+-2.8
+59.5
+37.2
+
+30.4
+30.1
+5.1
+0.4
+2.8
+-2.4
+62.1
+36.5
+
+30.3
+30.7
+5.2
+-0.4
+2.9
+-3.3
+63.6
+37.6
+
+30.2
+29.9
+5.0
+0.3
+3.1
+-2.8
+64.3
+38.7
+
+30.1
+30.0
+5.1
+0.1
+2.9
+-2.8
+65.1
+39.8
+
+29.9
+30.1
+5.2
+-0.2
+2.7
+-2.9
+65.5
+40.9
+
+29.8
+30.1
+5.2
+-0.3
+2.6
+-2.9
+66.2
+42.0
+
+29.8
+30.1
+5.2
+-0.3
+2.6
+-2.9
+66.9
+43.0
+
+8,031
+8,558
+-3.4
+-1.9
+5.9
+-361
+47.5
+34.0
+29.9
+7,655
+9.1
+
+9,274
+10,704
+-0.2
+-2.9
+5.3
+2,564
+40.0
+31.5
+21.6
+10,302
+9.7
+
+9,916
+12,277
+6.6
+-5.4
+5.1
+3,287
+40.3
+31.8
+15.8
+13,604
+11.1
+
+10,291
+11,593
+0.0
+-5.2
+5.4
+2,945
+42.9
+33.9
+22.0
+16,279
+13.2
+
+10,934
+11,743
+2.6
+-4.8
+5.5
+1,667
+44.5
+35.5
+22.1
+17,946
+14.3
+
+10,985
+11,245
+4.2
+-3.7
+5.0
+666
+44.4
+35.4
+23.8
+18,612
+15.4
+
+11,393
+11,926
+-2.3
+-3.9
+4.7
+446
+44.2
+35.1
+24.0
+19,058
+15.0
+
+11,990
+12,611
+-0.4
+-3.8
+4.5
+679
+44.5
+35.5
+24.4
+19,736
+14.7
+
+12,656
+13,390
+-0.1
+-3.6
+4.1
+972
+44.4
+35.3
+24.3
+20,708
+14.6
+
+13,377
+14,223
+0.3
+-3.5
+3.8
+961
+43.8
+34.8
+24.2
+21,669
+14.4
+
+139.0
+80.9
+
+212.6
+126.2
+
+214.9
+140.0
+
+264.1
+153.9
+
+263.3
+160.6
+
+315.6
+178.5
+
+305.2
+173.4
+
+262.8
+157.7
+
+270.0
+159.9
+
+277.9
+162.1
+
+Output, prices, and employment
+
+External indicators
+Merchandise exports, fob (US$ millions)
+Merchandise imports, fob (US$ millions)
+Terms of trade (percent change)
+Current account balance
+Foreign direct investment
+Overall balance of payments (US$ millions)
+Total external debt + non-resident deposits
+Of which: External public debt
+External debt service (in percent of exports of g&s)
+Gross official reserves (US$ millions)
+In months of imports of goods and services
+In percent of:
+Short-term external (STE) debt
+STE debt plus banks' non-resident deposits
+
+Sources: Banco Central del Uruguay, Ministerio de Economia y Finanzas, Instituto Nacional de Estadistica, and Fund staff calculations.
+1/ Percent change of end-of-year data on one year ago. For 2014, latest available data.
+2/ Includes bank and non-bank credit.
+3/ Non-financial public sector excluding local governments.
+4/ Total public sector. Includes the non-financial public sector, local governments, Banco Central del Uruguay, and Banco de Seguros del Estado.
+5/ Gross debt of the public sector minus liquid financial assets of the public sector. Liquid financial assets are given by deducting from total public sector assets the
+part of central bank reserves held as a counterpart to required reserves on foreign currency deposits and the domestic currency claims of the non-financial public
+sector on resident financial institutions.
+
+

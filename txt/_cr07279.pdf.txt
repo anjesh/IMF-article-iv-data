@@ -1,0 +1,6374 @@
+August 2007
+IMF Country Report No. 07/279
+
+© 2007 International Monetary Fund
+
+July 11, 2007
+May 31, 2007
+
+August 1, 2007
+July 11, 2007
+2007
+August 1, 2007
+
+Finland: 2007 Article IV Consultation—Staff Report; Staff Statement and Supplement;
+Public Information Notice on the Executive Board Discussion; and Statement by the
+Executive Director for Finland
+Under Article IV of the IMF’s Articles of Agreement, the IMF holds bilateral discussions with
+members, usually every year. In the context of the 2007 Article IV consultation with Finland, the
+following documents have been released and are included in this package:
+•
+
+The staff report for the 2007 Article IV consultation, prepared by a staff team of the IMF,
+following discussions that ended on May 31, 2007, with the officials of Finland on economic
+developments and policies. Based on information available at the time of these discussions,
+the staff report was completed on July 11, 2007. The views expressed in the staff report are
+those of the staff team and do not necessarily reflect the views of the Executive Board of the
+IMF.
+
+•
+
+A staff statement of August 1, 2007 updating information on recent developments.
+
+•
+
+A Public Information Notice (PIN) summarizing the views of the Executive Board as
+expressed during its August 1, 2007 discussion of the staff report that concluded the
+Article IV consultation.
+
+•
+
+A statement by the Executive Director for Finland.
+
+The document listed below has been or will be separately released.
+Selected Issues Paper
+The policy of publication of staff reports and other documents allows for the deletion of market-sensitive
+information.
+To assist the IMF in evaluating the publication policy, reader comments are invited and may be sent
+by e-mail to publicationpolicy@imf.org.
+
+Copies of this report are available to the public from
+International Monetary Fund • Publication Services
+700 19th Street, N.W. • Washington, D.C. 20431
+Telephone: (202) 623-7430 • Telefax: (202) 623-7201
+E-mail: publications@imf.org • Internet: http://www.imf.org
+Price: $18.00 a copy
+
+International Monetary Fund
+Washington, D.C.
+
+INTERNATIONAL MONETARY FUND
+FINLAND
+Staff Report for the 2007 Article IV Consultation
+Prepared by the Staff Representatives for the 2007 Consultation with Finland
+Approved by Alessandro Leipold and Adnan Mazarei
+July 11, 2007
+
+EXECUTIVE SUMMARY
+Though one of the best performing EU economies, Finland faces rapid population aging, sluggish
+productivity in sheltered sectors, and supervisory problems associated with deepening international
+financial integration. Thus, discussions focused on: (i) fiscal policies capable of ensuring
+sustainability; (ii) labor and product market reforms to enhance human resource utilization and
+stimulate productivity gains; and (iii) the maintenance of financial sector stability.
+On current projections, the budget framework for 2008–11 implies a sizable fiscal deterioration.
+Reflecting this and the costs of population aging, long-term fiscal sustainability requires improving
+the primary balance. Fiscal restraint would be appropriate also from a cyclical perspective. The
+authorities were confident that higher-than-expected actual and potential growth, sustained by not yet
+identified structural reforms, could reduce greatly the fiscal loosening. Staff counseled greater
+prudence.
+Given already high taxation, fiscal restraint should focus on spending retrenchment, facilitated by
+efficiency gains. Staff recommended greater recourse to user charges and outsourcing as well as more
+stringent spending ceilings which could be extended to local governments. The authorities stressed
+that consensual policymaking and strong local autonomies made changes difficult.
+There was agreement that improved labor utilization, especially of older workers and the young, was
+needed to ensure future growth. This might require more wage differentiation, reforming student
+allowances, and tightening early retirement through disability or unemployment, with broader
+recourse to activation. While broadly agreeing, the authorities emphasized the need to move
+cautiously in these socially sensitive areas.
+Financial system supervisors concurred that cooperation with market participants and foreign
+supervisors must be enhanced to minimize systemic risks from cross-country activities.
+Finland’s external competitiveness is strong, but imminent aging with a fast-rising dependency ratio,
+declining terms of trade, and pressures on exporters’ profitability indicate that the current account
+surplus is likely to shrink.
+
+2
+
+Contents
+I.
+
+Page
+
+Introduction ........................................................................................................................4
+
+II. Recent Economic Developments........................................................................................4
+III. Outlook ...............................................................................................................................6
+IV. Policy Discussions ..............................................................................................................8
+A. Fiscal Policy ..................................................................................................................9
+B. Structural Policies........................................................................................................13
+C. Financial Sector ...........................................................................................................15
+V. Staff Appraisal ..................................................................................................................16
+Tables
+1. Main Economic Indicators, 2002–09................................................................................19
+2. Balance of Payments, 1999–2012.....................................................................................20
+3. General and Central Government Financial Accounts, 2002–09 .....................................21
+4. Indicators of Financial Vulnerability, 2000–06................................................................22
+5. Recent Fund Staff Recommendations and Implementation .............................................23
+Text tables
+GDP and Demand ...............................................................................................................4
+Inflation, Labor Market, and Output Gap Indicators..........................................................5
+General Government Overall Balances ..............................................................................6
+Estimates of Competitiveness Margin Using CGER Methodologies.................................7
+Long-Term Scenario...........................................................................................................8
+Government Financial Operations, 2006–11......................................................................9
+Figures
+1. Growth and Inflation, 2000–08.........................................................................................24
+2. Current Account and Net International Investment Position, 1975–2006........................25
+3. Real Effective Exchange Rates, 1995–2006.....................................................................26
+4. Export Shares and Terms of Trade ...................................................................................27
+5. Public Sector Efficiency Measures, 2000.........................................................................28
+6. Labor Market Developments, 1990–2006 ........................................................................29
+7. Selected Labor Market Characteristics, 1980–2004.........................................................30
+8. Selected Labor Market Characteristics.............................................................................31
+9. Wage Compression and Low-Skilled Employment .........................................................32
+10. Product Market Rigidity ...................................................................................................33
+11. Selected Product Market Indicators, 2005........................................................................34
+12. Telecommunication Charges, 2005 ..................................................................................35
+
+3
+
+Text figures
+Employment Growth and Unemployment Rates, 2000–06 ................................................5
+Beveridge Curve, 1975–2006 .............................................................................................5
+Old-Age Dependency Ratios and Population Indices, 2005–50 ........................................9
+Government Efficiency, 1995–2005.................................................................................12
+Government Consumption and GDP ................................................................................13
+Government Expenditure Shares, 1997–2006 ..................................................................13
+Government and Total Employment ................................................................................13
+Boxes
+1. Long-Term Fiscal Sustainability ......................................................................................11
+2. Labor Market Issues .........................................................................................................14
+
+4
+I. INTRODUCTION
+1.
+The economic situation remains enviable. Growth has outpaced that in the euro
+area since the early 1990s, inflation has remained among the lowest in the EU, and the
+government budget and external current account are both comfortably in surplus. Finland is
+also near the top of rankings for research and development, innovation, and competitiveness.
+2.
+Nevertheless, significant challenges loom. Exports are growing strongly, having
+rebounded from a labor dispute-induced fall in 2005, but they remain comparatively
+concentrated in two sectors: telecommunications and paper products. Demographic pressures
+are soon to be felt, with the old-age dependency ratio set to rise the most rapidly in the EU.
+Despite recent pension reforms, the authorities acknowledge in their latest Stability Program
+that without additional steps the fiscal position is unsustainable. Fast-paced change and
+increasing international integration in the financial sector open opportunities, but create risks
+and test supervisory capabilities.
+II. RECENT ECONOMIC DEVELOPMENTS
+3.
+The economy surged in 2006, the result of underlying strength and one-off
+factors. Although the rebound following the 2005 labor dispute in the paper sector is
+estimated to have added 1 percentage point to growth, underlying activity still expanded by
+some 4½ percent—about 1 percent above
+GDP and Demand 1/
+(Percent change)
+potential (Table 1 and Figure 1). The components
+2004 2005 2006 2007
+of domestic demand made more balanced
+proj.
+contributions to growth, with strengthening
+Real GDP
+3.7
+2.9
+5.5
+4.0
+business fixed investment joining vibrant
+Domestic demand
+3.0
+4.3
+3.1
+3.6
+Consumption
+2.6
+3.2
+2.3
+2.9
+residential construction in offsetting somewhat
+Private
+3.0
+3.8
+3.0
+3.4
+Gross fixed capital formation
+3.6
+3.7
+5.1
+5.5
+the reduced contribution of consumption.
+Residential investment
+8.8
+6.1
+5.9
+1.8
+Nonetheless, private consumption growth
+Net exports 2/
+1.0 -1.1
+2.5
+0.7
+remained solid, as employment gains, income tax
+Sources: Statistics Finland; and staff projections.
+reductions, and improving consumer confidence
+1/ A paper sector labor dispute is estimated to have reduced
+growth by about 1 percentage point in 2005 (most of which was
+offset the dampening effects of higher interest
+accounted for by a worse contribution of net exports to growth),
+with offsetting changes in 2006.
+rates and mounting debt loads. Net exports
+2/ Contribution to growth.
+contributed 2½ percentage points to growth,
+reflecting buoyant activity in the “neighborhood” (Sweden, Russia, and the Baltics), a
+rallying German economy, and the paper sector bounceback.
+4.
+The labor market is finally benefiting from the cyclical upswing, amid, however,
+signs of mismatches and related tightening. After some delay, rising employer confidence
+has boosted job growth, with over 125,000 net new jobs created in the last three years. The
+unemployment rate mirrors the euro area level, but signs of labor shortages are appearing
+
+5
+Inflation, Labor Market, and Output Gap Indicators
+
+(e.g., in construction), especially in the booming
+Helsinki area. Impediments to territorial mobility, worsening
+skills mismatches, and social insurance features (see
+Harmonized CPI
+below) are hindering further employment gains, and
+GDP deflator
+Employment
+threaten to spur wage pressures, as unemployment is
+Unemployment rate 1/
+Labor compensation 2/
+falling below the structural rate (estimated at 7½–
+Unit labor costs 2/
+Output gap
+8 percent).
+
+(Percent change)
+
+2004
+
+2005
+
+2006
+
+2007
+proj.
+
+0.1
+0.6
+0.0
+8.8
+4.0
+1.7
+-1.1
+
+0.8
+0.2
+1.5
+8.4
+5.0
+2.3
+-1.4
+
+1.3
+1.3
+1.8
+7.7
+4.5
+0.8
+0.6
+
+1.5
+1.0
+1.8
+6.7
+3.5
+1.3
+1.2
+
+Sources: Statistics Finland; and staff projections.
+1/ Percent of labor force.
+2/ Economy-wide.
+
+10
+
+2.5
+
+1.4
+
+Employment Growth and Unemployment Rates, 2000-2006
+
+1.4
+
+Beveridge curve (1975-2006)
+1.2
+
+Finland unemployment
+(right scale)
+
+2.0
+
+2005
+1990
+
+8
+
+1.0
+Euro area employment
+growth
+
+Vacancies (In percent)
+
+1.0
+Euro area
+unemployment
+(right scale)
+
+1.0
+2004
+2003
+2002
+2001
+
+1975
+
+0.8
+
+1988
+0.6
+
+0.8
+
+2000
+
+1980 1981
+
+1991
+
+1998
+
+1999
+
+0.6
+
+1997
+
+1982-87
+
+1976
+
+0.4
+
+0.5
+
+1.2
+
+1989
+
+9
+1.5
+
+2006
+
+1996
+
+1979
+
+7
+
+0.4
+
+1995
+1994
+1993
+
+1978
+
+1977
+
+0.2
+
+1992
+
+0.2
+
+0.0
+Source: Finnish authorities.
+
+Finland employment
+growth
+-0.5
+
+0.0
+
+Source: Eurostat.
+
+2000
+
+6
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+0.0
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+14
+
+16
+
+Unemployment rate (In percent)
+
+5.
+Inflation has remained muted, aided by exceptional factors now on the wane.
+Relatively low inflation has been supported by wage moderation in the face of fast
+productivity growth, as demonstrated by the latest tripartite agreement (for 2005–07)
+between unions, employers, and the government—struck in part thanks to income tax cuts
+offered by the government. Furthermore, the 4 percent decline in 2005–06 in the terms of
+trade has lowered the equilibrium real exchange rate, which, in the absence of nominal
+depreciation, exerts downward pressure on inflation. However, a number of one-off factors
+have also contributed, including lower telecommunications tariffs and food prices—the
+latter associated with increased competition from new foreign-owned retailers. With these
+effects fading, HICP inflation is creeping up to 1½ percent.
+6.
+Finland’s external competitiveness is solid, but its export base is narrow. With a
+current account surplus of about 6 percent of GDP and a barely negative net international
+investment position (accounted entirely for by foreign holdings of volatile ICT shares—
+mainly Nokia), standard indicators of external competitiveness are comforting (Table 2 and
+Figure 2), with various real effective exchange rate (REER) estimates broadly unchanged
+over the past decade (Figure 3 panel 1). The manufacturing unit-labor-cost-based measure
+has shown the largest improvement. However, capital's share in this sector in Finland vis-àvis its trading partners is under greater pressure because of a relatively weaker export
+deflator (Figure 3 panel 2). This is largely because Finland’s export composition is rather
+
+18
+
+6
+heavily biased towards sectors whose prices are rapidly declining (ICT) or comparatively
+stagnant (paper products) (Figure 4).
+7.
+The fiscal position improved significantly last year, underpinned by expenditure
+restraint. The general government surplus of 3¾ percent of GDP—mostly in the pension
+funds—is the second highest in the EU. With the output gap close to zero, the surplus is
+General Government Overall Balances
+almost entirely accounted for by
+(Percent of GDP)
+structural factors (Table 3). It benefited
+from a determined implementation of
+2004
+2005
+2006
+2007
+multi-year central government spending
+proj.
+limits, which has permitted income tax
+Central and local governments
+-0.4
+-0.2
+0.6
+1.2
+reductions without weakening the fiscal
+Social security
+2.5
+2.8
+3.2
+2.8
+2.1
+2.5
+3.8
+4.0
+position. As a result, the gross debt ratio General government
+General government (structural) 1/
+2.6
+2.7
+3.5
+3.5
+declined over 2003–06 by over
+5 percentage points to below 40 percent
+Sources: Statistics Finland; Ministry of Finance; and staff projections.
+of GDP, while assets of the public
+1/ Adjusted in 2005 for a paper sector dispute.
+pension system now approach 70 percent
+of GDP.
+III. OUTLOOK
+8.
+Economic expansion will continue in the near term, albeit at a slower pace.
+During the mission, authorities and staff anticipated growth at about 3 percent in 2007 and
+2¾ percent in 2008. However, data for the first quarter of 2007 and revised quarterly data for
+2006 recently released suggest that the momentum of growth in 2007 is significantly higher
+than expected. Accordingly, staff has raised its growth projection to 4 percent in 2007, still
+less than in 2006. The bulk of the deceleration is due to the ebbing of an unusually strong
+contribution from net exports in 2006 (including the rebound from the labor dispute). The
+contribution of domestic demand is projected to increase by about ½ percent of GDP, with
+private consumption boosted by strong consumer confidence and employment growth,
+despite rising interest rates and household debt levels (the latter approaching 100 percent of
+disposable income). Continuing fast employment growth is likely to tighten the labor market.
+As the economy is expected to continue to operate somewhat above potential, inflation
+should creep upwards, although rising interest rates and recent euro strength may have
+cooling effects.
+9.
+Risks appear balanced for growth but risks that inflation may exceed its
+projected level prevail. The “neighborhood effect” may not decline as projected, which
+could sustain a larger contribution to growth from trading partners. Higher-than-anticipated
+labor force participation rates could emerge and immigration—stimulated by a tightening
+
+7
+labor market—might accelerate,1 which would allow for greater growth without engendering
+wage pressures. On the downside, excessive salary increases could harm external
+competitiveness and stoke inflationary pressures (the latest authorities’ projection has raised
+wage growth in 2008 from 3½ to 5 percent) . More important, if Russia—as recent reports
+hint—were to impose a 10-fold increase over the next two years in export tariffs on
+unprocessed wood, Finland’s paper sector (which accounts for one-fourth of all exports)
+would suffer.
+10.
+For the medium term, the authorities’ official projections envisaged a further
+slowdown in growth. The deceleration (to 2¾ percent on average) in 2008–11 would result
+from lower employment expansion and a resumption of the modest trend decline in
+productivity growth during 2000–04. Staff concurred with this assessment.
+11.
+Officials, however, thought that GDP could rise much faster if the government
+implemented bold structural measures. In particular, reforms of labor and product markets
+could substantially lift potential growth of the economy. While agreeing on the need to
+deepen reforms, staff cautioned that time and size of any boost to growth from structural
+measures were uncertain.
+12.
+The authorities regarded competitiveness of the economy as broadly adequate.
+While wage growth in Finland has exceeded that in the euro area, so has productivity growth,
+especially in the export-intensive electronics sector. However, the bulk of these gains are
+shifted to foreign consumers through lower prices, limiting domestic income gains. The
+terms of trade were anticipated to temporarily improve this year, before resuming their trend
+worsening thereafter, and strengthening euro area growth was expected also to contribute to a
+one-off improvement in the external accounts. However, capacity constraints and continued
+shifting of production abroad were expected to limit export growth below that in foreign
+markets.
+13.
+Staff concurred, while noting that some measures suggested a significant
+undervaluation of the real
+Estimates of Competitiveness Margin Using CGER Methodologies
+exchange rate. As explained
+(In percent)
+above, standard indicators of
+Methodology
+external competitiveness are
+benign. Estimates based on
+Macroeconomic balance approach
+-12.7
+methodologies elaborated by the
+External sustainability approach
+-20.4
+Equilibrium real exchange rate approach
+-21.5
+Consultative Group on Exchange
+Rate Issues (CGER)—point to a
+Source: Fund staff estimates.
+sizable competitiveness margin,
+1
+
+Finland liberalized immigration from the new EU member states more than a year ago.
+
+8
+with a mid-point of 17 percent2. These estimates should be taken with a larger than usual
+dose of caution. In light of rapid population aging, Finland needs to build up substantial
+assets in a short time to pre-fund the associated costs, requiring temporarily large fiscal and
+current account surpluses. As aging unfolds, the domestic savings rate is expected to decline
+and these surpluses are anticipated to diminish. The trend worsening of Finland’s terms of
+trade is also expected to reduce the external surplus. Indeed, these forces may, to some
+extent, already make their presence felt, as attested by pressures on exporter’s profitability.
+On balance, therefore, staff felt that the real exchange rate was not significantly undervalued.
+IV. POLICY DISCUSSIONS
+14.
+The overarching concern is the risk posed to longer-term growth by rapid aging
+and the anticipated productivity slowdown. With the fastest population aging in the EU
+and attendant fiscal costs, discussions focused mainly on medium-term and structural issues.
+As working-age cohorts are expected to shrink from the end of this decade, increasing the
+employment rate and supporting faster gains in productivity throughout the economy will be
+Prospects for labor force participation/employment and productivity growth imply a significant drop in income per cap
+key for future growth
+growth.
+prospects. Above all, this
+Long-Term Scenario
+requires improving the
+1995 - 2000 2000 - 05
+2005 - 10
+2010 - 20
+2020 - 30
+lackluster productivity
+Productivity growth 1/
+2.6
+2.2
+2.2
+1.9
+1.9
+record of the sheltered
+Demographic contribution 2/
+0.0
+-0.1
+0.0
+-0.8
+-0.5
+Employment rate contribution 3/
+1.8
+0.4
+0.7
+0.1
+0.0
+sectors (agriculture,
+GDP per capita growth
+4.5
+2.5
+2.9
+1.2
+1.3
+utilities, and trade), as
+Sources: WEO; Finnish Stability Program 2006.
+the contribution from
+1/ GDP per employed.
+high technology
+2/ Change in the share of population 15-64 years.
+3/ Employed as a share of population 15-64 years.
+industries—facing
+falling prices and stiffer competition in world markets—declines. The adaptation of the
+economy to the challenges of aging and diversification needs support from the rapidly
+evolving financial sector, which must cope with the spread of innovative technologies or
+products and deepening international integration, raising issues about internal risk
+management and cross-country supervision.
+
+2
+
+These analyses are discussed in Methodology for CGER Exchange Rate Assessments, IMF, 11/8/06,
+http://www.imf.org/external/np/pp/eng/2006/110806.pdf.
+
+9
+110
+
+55
+
+Old-age Dependency Ratios and Population Indices, 2005-50
+(Population in 2005 = 100)
+Finland population
+(right scale)
+
+50
+
+105
+
+100
+
+45
+EU25 population
+(right scale)
+
+95
+
+40
+Finland working-age
+population 15-64
+(right scale)
+
+Finland dependency
+ratio 65+ years
+
+35
+
+90
+
+EU25 dependency
+ratio 65+ years
+85
+
+30
+EU25 working-age
+population 15-64
+(right scale)
+
+80
+
+25
+
+20
+
+Source: Eurostat.
+2005
+
+2010
+
+75
+2015
+
+2020
+
+2025
+
+2030
+
+2035
+
+2040
+
+2045
+
+2050
+
+15.
+
+Against this background, the discussions focused on three priorities:
+
+•
+
+craft tax and public expenditure policies that promote continued economic expansion
+while ensuring fiscal sustainability,
+
+•
+
+reform the labor and product markets in order to enhance utilization of soon-to-be
+shrinking human resources and contribute to greater competition in sheltered sectors,
+
+●
+
+maintain financial sector stability.
+A. Fiscal Policy
+
+16.
+The authorities acknowledged that, based on official macro projections, the
+government’s program for 2008–11
+Finland: Government Financial Operations, 2006-11
+(In percent of GDP)
+implies a sharp deterioration of the
+2006
+2007
+2008
+2009
+2010
+2011
+Diff. 2007-11
+fiscal position. Specifically, the
+Staff's Baseline Projection 1/
+general government surplus would
+Overall balance
+General government
+3.8
+4.0
+3.5
+3.2
+2.4
+1.8
+-2.3
+decline by about 2 percent of GDP
+Central government
+0.9
+1.2
+0.6
+0.5
+-0.1
+-0.4
+-1.6
+Local governments
+-0.3
+0.0
+0.1
+0.1
+0.0
+-0.1
+-0.1
+Social security
+3.2
+2.8
+2.8
+2.6
+2.5
+2.3
+-0.5
+over 2008–11, owing mainly to a
+Primary
+balance
+front-loaded rise in expenditure.
+General government
+3.7
+3.9
+3.4
+3.1
+2.1
+1.5
+-2.5
+Modest cuts—generally
+Staff's Adjustment Projection
+Overall balance
+backloaded—in personal income
+General government
+3.8
+4.0
+4.0
+4.0
+3.9
+3.8
+-0.2
+Central government
+0.9
+1.2
+1.1
+1.3
+1.4
+1.6
+0.4
+Local
+governments
+-0.3
+0.0
+0.1
+0.1
+0.0
+-0.1
+-0.1
+taxes, VAT on food, and inheritance
+Social security
+3.2
+2.8
+2.8
+2.6
+2.5
+2.3
+-0.5
+taxes are also envisaged, only
+Primary balance
+3.7
+3.9
+3.9
+3.8
+3.5
+3.4
+-0.5
+partially compensated by increases in General government
+excises on energy, alcohol, and
+Source: Ministry of Finance; and staff estimates and projections.
+1/ Based on the authorities' medium-term scenario, including the Ministry's June economic projections,
+tobacco. The central government
+adjusted for the staff's macroeconomic projections.
+(CG) balance would worsen by
+1½ percent of GDP and turn a deficit by 2010.
+
+10
+17.
+Officials did not dispute the staff’s view that under current policies the longterm fiscal position is unsustainable (Box 1). Taking into account the new government’s
+plan reducing the overall surplus to about 2 percent of GDP by 2011, in an otherwise
+“passive” projection the additional public spending associated with population aging
+eventually generates ever-growing deficits and debt. Ministry of Finance officials recognized
+that the general government primary balance in 2011 and beyond should be uniformly higher
+by around 2 percent of GDP than in the passive-scenario path to maintain long-term fiscal
+sustainability, at least through 2050.
+18.
+The authorities, however, were confident that higher growth associated with
+structural reforms could avert the fiscal deterioration. Notably, the CG surplus of about
+1 percent of GDP achieved in 2006 could be maintained through 2011 with GDP growth of
+3½ percent, almost 1 percentage point above the average rate currently projected. Staff
+warned against relying on optimistic revisions to growth projections to discount the fiscal
+loosening, as the reforms had yet to be identified and implemented and their impact on
+growth verified. The authorities vowed to implement flexibly planned spending hikes and tax
+reductions, so as to limit risks to inflation and the fiscal position, if higher sustainable growth
+were not achieved.
+19.
+Staff also saw a need for tighter fiscal policy for cyclical reasons. Continuing
+strong growth—positive output gaps are expected in both 2007 and 2008 and labor markets
+are tightening—points to the advisability of withdrawing some fiscal stimulus. The
+authorities stated that the fiscal stance would be appropriately corrected should signs of
+overheating arise.
+20.
+The authorities noted that reducing Finland’s relatively heavy tax burden could
+lessen economic distortions. Taxation of earned income is particularly steep: the average
+and marginal rates for the average wage earner exceed 40 and 50 percent, respectively. Such
+large tax wedges introduce significant distortions in the labor market. Coupled with a high
+effective minimum wage, they discourage employment of low-skilled workers and lead to
+inefficient do-it-yourself practices. Thus, a lowering of income taxes was likely to boost
+employment and output. Staff concurred but stressed that tax cuts, albeit justified, demanded
+commensurate spending reductions not to undermine sustainability.
+21.
+It was acknowledged that adjustment efforts ought to concentrate on
+expenditure restraint. The general government expenditure-to-GDP ratio is high—and
+projected to increase further owing to population aging. The authorities noted that the
+medium-term budget framework was already postponing several investment projects to limit
+
+11
+Box 1. Long-Term Fiscal Sustainability
+“Passive” simulations of the general government (GG) position for 2007–50 raise sustainability
+concerns. The staff’s baseline projection reflects stated policy intentions of the new government for
+2008–11. After that, following
+Long-Term Fiscal Projections, 2005-50
+the authorities’ recent Stability
+(Percent of GDP)
+Program, it assumes that the
+5
+5
+Primary Balance
+primary-revenue-to-GDP ratio
+4
+4
+remains constant throughout the 3
+3
+2
+2
+Staff's adjustment
+period, with pension
+projection
+1
+1
+contributions increasing (by
+0
+0
+about 2 percent of GDP) but
+-1
+-1
+Staff's
+other taxes decreasing
+-2
+-2
+baseline
+projection 1/
+-3
+-3
+correspondingly. Age-related
+-4
+-4
+expenditure surges by about 6
+2005
+2010
+2015
+2020
+2025
+2030
+2035
+2040
+2045
+2050
+percent of GDP, only in small
+6
+6
+part compensated by declines in
+Overall Balance
+4
+4
+Staff's adjustment
+education and unemployment
+projection
+2
+2
+spending. The GG balance slips
+0
+0
+into a deficit, reaching
+-2
+-2
+Staff's baseline
+8½ percent of GDP by 2050.
+-4
+-4
+projection 1/
+And starting with net assets of
+-6
+-6
+about 20 percent of GDP, the
+-8
+-8
+-10
+-10
+GG ends with net liabilities.
+2005
+2010
+2015
+2020
+2025
+2030
+2035
+2040
+2045
+2050
+Although characterizing the
+80
+80
+risks to fiscal sustainability as
+Net Assets
+60
+60
+“low,” the European
+Staff's adjustment
+40
+40
+Commission also notes that a
+projection
+20
+20
+sustainability gap emerges
+0
+0
+based on the authorities’ long-20
+-20
+Staff's baseline
+term projections.
+projection 1/
+-40
+-40
+-60
+
+-60
+
+The sustainability gap is
+-80
+-80
+2005
+2010
+2015
+2020
+2025
+2030
+2035
+2040
+2045
+2050
+estimated at about 2 percent
+Sources: Ministry of Finance; and IMF staff estimates.
+of GDP. This is the permanent
+1/ Based on the new government's announced economic strategy's surplus target for 2008-11, and Stability Program
+projections thereafter. Other assumptions include: average real GDP growth at 1.9 percent till 2020, and 1.4 percent thereafter;
+adjustment of the GG primary
+real interest rate at 3 percent; employment rate increasing to 74 percent by 2030 (from about 69 percent in 2006); labor
+productivity growing by 2 percent up to 2020, and by 1.7 percent thereafter.
+balance, with respect to the
+“passive” scenario, needed to achieve the net assets targeted for 2050 by the authorities’ stability
+program—46 percent of GDP. The staff’s “active” scenario assumes that measures are taken to fill
+this gap.
+Nevertheless, some further adjustment after 2050 is needed to stabilize debt fully. Staff
+projections indicate that improving the primary balance by approximately 1 percent of GDP more
+would be enough to stabilize net debt (alternatively the rate of return on gross assets could be raised
+by 1 percentage point). Otherwise, even in the “active” scenario, net assets (although still higher than
+now in 2050) would decline indefinitely.
+
+12
+spending growth. Nonetheless, they also deemed essential some increase in spending in the
+short term, including to honor electoral promises of sizable pay increases for health workers.
+22. The authorities viewed enhancing the efficiency of government as the best way to
+restrain spending. Studies suggest that expenditure could be more efficient, particularly in
+higher education and health care—with some indicating that Finnish combined expenditure
+efficiency is somewhat below the OECD average (Figure 5). Thus, sizable spending savings
+would be feasible without jeopardizing the quality of services. The authorities concurred,
+but pointed out that the low
+Government Efficiency, 1995 - 2005
+(2000 = 100)
+population density limited economies
+of scale. They also agreed that
+recourse to domestic or international
+benchmarking could help identify
+best practices and stated that CG
+employment was already planned to
+be reduced through attrition. It was
+noted that greater use of contracting
+out, outsourcing, and well-designed
+public-private partnerships could
+stimulate efficiency and moderate
+cost inflation. More frequent resort to—and a rebalancing of—user charges for local
+services would also strengthen market incentives for consumers and suppliers.
+104
+
+104
+
+Central government
+total
+factor productivity
+
+102
+
+100
+
+Central government
+labor productivity
+
+102
+
+100
+
+98
+
+98
+
+Local government
+education total
+factor productivity
+
+96
+
+96
+
+Local government
+social work total
+factor productivity
+
+94
+
+Local government
+overall total
+factor productivity
+
+92
+
+92
+
+Local government
+health total
+factor productivity
+
+90
+
+88
+
+94
+
+90
+
+Source: Statistics Finland.
+
+1995
+
+1996
+
+1997
+
+88
+
+1998
+
+1999
+
+2000
+
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+23. Officials were open to improvements in the design of the multi-year spending
+ceilings in order to contain expenditure growth. The government has committed to new
+expenditure ceilings until its term expires in 2011, based on the same principles as in the
+previous legislature, but with a larger contingency reserve and more flexible carry-over
+rules. Although broadly effective in curbing CG expenditure growth, the limits have not
+dented the high level of public spending. One problem lies in step increases in outlays
+decided by incoming governments when setting the new ceilings. Others arise from the
+generous cost deflator used in establishing the annual ceilings3 and the incomplete coverage
+of the ceilings. Accordingly, staff recommended using the GDP deflator or the CPI, which
+would impose more stringent ceilings, thereby providing incentives to increase productivity
+and reduce costs. In addition, the spending rule could be extended to local governments
+(LGs) (see below). It was understood that these technical measures could help reduce
+expenditure growth, but a more substantive impact on spending trends required changes in
+underlying policies.
+
+3
+
+The spending rule is defined in real terms, based on a public spending deflator, which tends to grow faster than
+the CPI or the GDP deflator and accommodates increases in wages and other government costs.
+
+13
+24.
+The authorities agreed that instilling greater budgetary discipline at the local
+level was a key challenge. Municipalities—the main providers of education, health care,
+old-age care, and other social services, with total outlays of about 17 percent of GDP and
+three-quarters of public employment—
+have experienced a rapid rise of
+recurrent spending and employment as
+well as worsening efficiency in recent
+years. These pressures are expected to
+mount with population aging. The
+authorities expect to generate savings
+from merging municipalities and
+coordinating provision of services.
+Staff recommended extending the
+expenditure ceilings to LGs,
+sanctioning their inclusion by a
+“domestic stability pact” with CG transfers used as enforcement mechanism. In addition,
+caps on LG income taxation (offset as needed by greater reliance on property taxation)
+might place limits on the growth of revenues which to some extent is fueling LG spending.
+The authorities explained that they were considering strengthening the existing agreement
+with the association of LGs to harden budget constraints, but interfering with the
+constitutionally protected autonomy of municipalities was politically difficult.
+140
+
+140
+
+Government Consumption and GDP
+(2000 = 100)
+
+130
+
+130
+
+Local government
+consumption
+
+120
+
+120
+
+GDP
+
+110
+
+Central government
+consumption
+
+100
+
+110
+
+100
+
+90
+
+90
+
+80
+
+80
+
+Source: Statistics Finland.
+
+70
+
+1995
+
+56
+
+20
+
+1996
+
+1997
+
+1998
+
+1999
+
+2000
+
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+70
+
+2006
+
+110
+
+110
+
+Government and Total Employment
+(2000 = 100)
+
+Government Expenditure Shares, 1997-2006
+(Percent of GDP)
+54
+
+Local government
+employment
+
+105
+
+105
+Total employment
+
+52
+
+Local government
+(right axis)
+
+Central government
+(right axis)
+
+50
+
+100
+
+100
+Central government
+employment
+
+Social security
+(right axis)
+
+48
+
+15
+
+95
+
+95
+
+90
+
+90
+
+46
+
+General government
+(left axis)
+
+44
+
+42
+
+Source: Statistics Finland.
+40
+
+10
+1997
+
+1998
+
+1999
+
+2000
+
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+85
+
+Source: Statistics Finland.
+1995
+
+1996
+
+1997
+
+85
+1998
+
+1999
+
+2000
+
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+B. Structural Policies
+Labor market
+25.
+There was consensus on the need to pursue several complementary strategies to
+raise activity and employment rates. Specifically, the authorities:
+
+2006
+
+14
+•
+
+plan to increase substantially targeted wage subsidies, to boost employment at the
+low end of the labor market. They also noted that the decision to forgo centralized
+wage bargaining this year—which may presage its phasing out—could spur wage and
+regulatory flexibility.
+
+•
+
+have recently created Labor Force Service Centers to reinforce activation of hard-toplace unemployment benefit recipients. To the same end, a 2006 reform made
+municipalities financially responsible for half of the cost of unemployment assistance
+and created obligations for beneficiaries. Furthermore, Public Employment Services
+intend to sign action plans with all young unemployed within the first three months of
+benefit recipiency to find active alternatives to passive entitlement. Finally, a
+profiling system for job seekers will be phased-in.
+Box 2. Labor Market Issues
+
+Finland lags behind its peers in labor-market performance. While unemployment has been more
+than halved since the recession of the early 1990s and the employment rate has risen to 68½ percent
+at end-2006, the latter is still below other
+Nonemployment and Unemployment Benefit Recipiency Rates
+Northern European countries (Figure 6).
+(As a percentage of working-age population, 2002/2004)
+Furthermore, the shares of long-term
+20
+20
+unemployed and disabled are quite high.
+18
+18
+16
+
+16
+
+16 OECD
+economy
+average
+
+Sweden
+
+Norway
+
+Netherlands
+
+Finland
+
+Denmark
+
+Problems are particularly acute for young
+14
+14
+12
+12
+and elderly workers. Finland’s generous
+10
+10
+welfare system, including highly subsidized
+8
+8
+6
+6
+education, delays the entry of younger
+4
+4
+workers into the labor force, and provides
+2
+2
+unwanted pathways to early exit for older
+0
+0
+workers (Figures 7–9). Even after the 2005
+reform, unemployment benefits can be
+Incapacity / Invalidity Unemployment
+Social Assistance / Lone parents
+extended above the standard 500 days for
+those aged 57 and over. And the disability scheme now allows to consider also “social grounds” when
+claiming benefits. Thus the employment rate of older workers, at 53 percent, is below that of other
+Nordic countries. The employment rate for young workers, at less than 40 percent in 2005, compares
+unfavorably with rates above 60 percent in Denmark and the Netherlands, and is also below the
+OECD average (43 percent). Part of the explanation lies in prolonged entitlement to generous student
+allowances (up to €700 a month) supplemented by guaranteed loans and no tuition fees: with 9½
+years of expected education for the 15-29 year old, Finland is an OECD outlier.
+The wage-setting system, associated with generous benefits, has not helped price-in young and
+elderly workers, nor the low-skilled. While the economy-wide wage agreements have served to
+maintain overall wage moderation, they have also resulted in salary compression, with a high
+effective minimum wage. Furthermore, the high replacement ratio of unemployment and other social
+benefits often leads to high effective marginal tax rates which discourage work resumption.
+
+15
+Staff argued that, these valuable efforts notwithstanding, further scope for activation existed,
+notably of recipients of unemployment and disability benefits. Tightening access to early
+retirement, together with less generous student allowances, would also be useful (Box 2).
+The stressed that state enterprises were generally run as private entities and thus government
+ownership did not affect adversely efficiency. Nevertheless, it was not disputed that
+competition could be enhanced through further selective privatization, restraining local
+monopolies, and strengthening non-discriminatory third-party access to network industries.
+In addition, liberalizing shop opening hours and more flexible zoning laws could boost
+competition in wholesale and retail trade, while reforming agricultural support (which
+exceeds CAP-based levels) should increase efficiency and lower food prices. The authorities
+contended, though, that these measures were politically controversial and could only be
+implemented gradually.
+C. Financial Sector
+26.
+The financial system appears sound and well supervised. Banks are profitable and
+well capitalized. Returns on equity are generally high, with low cost ratios. Capital adequacy
+ratios are well in the double digits, with sizable financial “buffers,” albeit slowly decreasing
+owing to the higher credit base. While lending margins have declined with increased
+competition, bank profits have risen with growing fee income and the expansion of lending
+portfolios—especially household mortgages. Bank of Finland (BoF) estimates of several
+stability indicators also point to the good position of the banking sector (Table 4).
+27.
+Supervisors closely monitor mortgage lending practices, but were confident that
+developments in the equity and housing markets were broadly benign. Although
+household and corporate debt levels remain comparatively low, the authorities noted that
+household debt is relatively concentrated among younger borrowers, raising concerns about
+commercial banks’ regard for repayment ability and undue reliance on collateral.
+Nevertheless, debt servicing expenses are historically low, as household net wealth and
+disposable income have improved strongly in recent years. House prices, while also rising
+rapidly, have grown less than in most advanced economies, with BoF analyses not detecting
+bubbles, except possibly in some Helsinki neighborhoods. Equity prices have increased by
+more than 50 percent since the beginning of 2003, creating some risk of reversal. However,
+BoF estimates suggest that stock market valuations do not deviate from fundamentals.
+28.
+Supervisors confirmed that the system can withstand considerable disruptions.
+New stress tests undertaken jointly by the BoF and bank supervisors (FSA)—assuming a
+marked economic recession and a sizable drop in housing and equity prices—show that
+banks’ profitability would be hard hit, but remain positive, and the impact on their capital
+position would also be manageable. While the authorities’ stress tests are of high quality,
+staff recommended to improve them further by assessing the impact on the balance sheets of
+banks: (i) of the same shocks in different years; and (ii) of cross-border contagion, using
+extreme observations in market-based indicators.
+
+16
+29.
+The authorities agreed that regulation and supervision of cross-border
+institutions pose considerable challenges. The recent sale of Sampo’s banking
+operations—the country’s third largest—to the Danish Danske group has left Finland with
+the second highest share in the EU15 of foreign-owned banking system assets—70 percent
+compared to an average of 25 percent. In this connection, both BoF and FSA acknowledged
+that, while regional supervisory cooperation through memoranda of understanding (MoUs) is
+generally effective, it has not been tested under crisis conditions. Thus the authorities’ efforts
+focus, at both the Nordic and European levels, on (i) harmonizing supervisory cooperation on
+major cross-border groups4 (including the coordination of deposit guarantee schemes) and
+(ii) defining ex-ante rules and intervention procedures, in particular to minimize conflicting
+interests in case of financial crises (e.g., rules to determine when a subsidiary is of systemic
+importance and for burden-sharing for intervention in systemic institutions). Supervisors also
+confirmed their intention to work closely with market participants and foreign supervisors to
+improve supervision of an increasingly cross-border “infrastructure” (e.g., merged stock
+exchanges in the Nordic/Baltic area).
+30.
+Implementation of European directives is proceeding apace. The capital
+requirements directive (based on Basel II) came into force in February 2007, but banks can
+delay its application to 2008. To limit temporarily the possible acceleration of lending from
+the capital “freed” by risk-based determination of capital, the FSA has required banks that
+choose the internal-ratings-based approach not to reduce for 2008 and 2009 their capital to
+less than 90 and 80 percent respectively of that prescribed under Basel I. The financial
+markets directive (MiFID) will be enacted in November 2007. Finland is planning to merge
+the FSA with the insurance supervisor in 2009, reflecting the growing bundling of activities
+by financial institutions.
+V. STAFF APPRAISAL
+31.
+Finland’s recent economic performance is enviable. Finland has consistently
+exhibited higher growth and lower inflation than most other EU countries, while the budget
+and external current account have attained sizable surpluses. Finland also excels in
+innovation and business environment rankings.
+32.
+Competitiveness of the Finnish economy is also broadly appropriate. Though
+some measures suggest that the real effective exchange rate may be undervalued, the rising
+old-age dependency ratio and declining terms of trade, as well as pressures on exporters’
+profitability, probably mean that competitiveness margins are moderate. Moreover, the
+4
+
+In particular, concerning other Nordic countries, supervision of Nordea is conducted according to the
+supervisory college model following an agreement with the Swedish authorities, which stipulates joint
+inspection and complete information sharing. An agreement is under discussion with Denmark to supervise
+jointly the activities of Sampo-Danske.
+
+17
+external current account surplus is expected to diminish over the medium to long term. The
+relatively strong external position at present is also the result of fiscal and structural policies
+that are generally desirable from a long-term perspective.
+33.
+The authorities nonetheless face considerable challenges. A tightening labor
+market threatens a build-up of wage pressures. Owing to demographic pressures and sluggish
+productivity in sheltered sectors, growth is likely to decline, while—despite substantial
+reforms to the pension system in recent years—the fiscal position remains unsustainable
+from a longer-term perspective. Increasing international integration, together with
+technological and organizational changes in the financial sector, improve efficiency, but
+complicate supervision.
+34.
+Fiscal tightening is advisable both to ensure long-term sustainability and from a
+cyclical perspective. To maintain an adequate net asset position of the general government
+at least through 2050, the noninterest balance must improve by about 2 percent of GDP
+relative to the authorities’ projected path. Some withdrawal of fiscal stimulus is also called
+for because economic activity is somewhat above potential and the labor market is tight.
+Otherwise, excess demand could translate into inflationary pressures. A general government
+surplus of about 4 percent of GDP, only slightly above the 2006 level, would be an
+appropriate target in both 2007 and 2008.
+35.
+Therefore, the authorities’ recently adopted budget framework for 2008–11 is
+insufficiently restrained. Indeed, current projections imply a large fiscal loosening. The
+authorities are confident that stronger-than-projected growth, aided by as yet unspecified
+structural measures, could help maintain fiscal surpluses approximately at the current level.
+However, relying on the assumption of a sizable pick-up in growth is risky. Measures to
+boost productivity and employment should be implemented promptly and their effects on
+growth assessed before raising spending or cutting taxes.
+36.
+With taxes and expenditures high, fiscal adjustment should focus on spending
+restraint, facilitated by enhancing its efficiency, particularly at the local level. Sizable
+savings would then be feasible while maintaining the quality of services. This calls for:
+benchmarking to identify best practices; redesigning the multi-year expenditure ceilings and
+extending them to local governments; greater recourse to outsourcing, public-private
+partnerships, and user charges; and reform of intergovernmental relations to tighten
+municipal budget constraints.
+37.
+Improved utilization of labor resources, especially older workers and the young,
+is fundamental for future growth. Increased wage differentiation to help “price-in” those
+with low skills would be useful. Similarly, an increase in tertiary education fees (while
+maintaining financial aid to the truly needy), limits to the amount and duration of grants, and
+greater reliance on student loans could lower the time to graduation of students and
+accelerate their entry into the labor force. For the elderly, consideration should be given to
+
+18
+reduce the scope of early retirement, increase use of activation requirements, and tighten
+control on access to these benefits. Tax and benefit policies ought to be revised to increase
+the relative returns from employment, thereby alleviating “poverty-trap” effects.
+38.
+Strengthening competition in product markets to spur productivity would
+complement labor market reform. Productivity can be enhanced, especially in the
+sheltered sectors, through further privatization, restraining local monopolies, and promoting
+non-discriminatory third-party access to network industries. In addition, more regulatory
+flexibility in the trade sector and reform of agricultural support should increase competition
+and efficiency.
+39.
+The financial system is sound and well supervised, but enhanced cross-border
+supervision of financial institutions and infrastructure is key to preserve stability.
+Rising foreign ownership in the banking sector poses considerable challenges for regulation
+and supervision, highlighting the urgency to nurture cooperation between home and host
+supervisors, especially to prepare for financial crises. Moreover, supervisors have to step up
+their cooperation with market participants and foreign supervisors to control the systemic
+risks associated with the spread of new technologies or products and with cross-border
+financial infrastructure.
+40.
+
+Finland’s data are adequate for surveillance.
+
+41.
+It is proposed that the next Article IV consultation be held on the 12-month
+cycle.
+
+19
+Table 1. Finland: Main Economic Indicators, 2002–09 1/
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+Proj.
+2008
+
+2009
+
+(Percentage change, unless otherwise indicated)
+Output and demand (volumes)
+GDP
+Domestic demand
+Consumption
+Private consumption
+Public consumption
+Gross fixed capital formation
+Private investment
+Public investment
+Export of goods and services
+Import of goods and services
+Foreign contribution to growth (in percent of GDP)
+
+1.6
+1.4
+2.3
+2.2
+2.7
+-3.0
+-4.9
+9.8
+2.8
+2.5
+0.4
+
+1.8
+3.8
+3.8
+4.8
+1.5
+4.0
+3.2
+8.4
+-1.7
+3.3
+-1.7
+
+3.7
+3.0
+2.6
+3.0
+1.8
+3.6
+3.6
+3.7
+8.6
+7.8
+1.0
+
+2.9
+4.3
+3.2
+3.8
+1.7
+3.7
+6.4
+-10.7
+7.1
+12.2
+-1.1
+
+5.5
+3.1
+2.3
+3.0
+0.9
+5.1
+5.6
+1.8
+10.7
+5.4
+2.5
+
+4.0
+3.6
+2.9
+3.4
+1.3
+5.5
+5.8
+3.5
+6.0
+5.3
+0.7
+
+2.8
+3.0
+2.5
+3.0
+1.3
+4.5
+4.5
+4.5
+4.8
+5.7
+0.0
+
+2.4
+2.5
+2.3
+2.7
+1.3
+4.1
+4.0
+3.5
+4.8
+5.5
+0.0
+
+Prices, costs, and income
+Consumer price inflation (harmonized)
+Core inflation (excluding energy and seasonal food)
+GDP deflator
+Terms of trade
+Unit labor cost, manufacturing
+
+2.0
+2.4
+1.3
+2.2
+-1.5
+
+1.3
+1.1
+-0.4
+1.1
+-4.8
+
+0.1
+0.7
+0.6
+1.3
+-0.7
+
+0.8
+0.5
+0.2
+-0.7
+-1.0
+
+1.3
+0.9
+1.3
+-3.3
+-0.1
+
+1.5
+1.5
+1.0
+0.5
+0.3
+
+1.8
+1.8
+0.9
+-2.0
+1.2
+
+1.8
+1.8
+1.3
+-1.4
+0.7
+
+0.2
+0.2
+9.1
+
+-0.4
+-0.3
+9.0
+
+-0.2
+0.0
+8.8
+
+1.0
+1.5
+8.4
+
+1.1
+1.8
+7.7
+
+0.7
+1.8
+6.7
+
+0.3
+0.5
+6.5
+
+0.1
+0.1
+6.5
+
+-0.6
+2.8
+8.4
+
+-1.5
+2.7
+8.8
+
+-1.1
+3.3
+8.5
+
+-1.4
+3.2
+7.9
+
+0.6
+3.4
+7.8
+
+1.2
+3.3
+7.2
+
+1.2
+2.9
+6.9
+
+0.9
+2.7
+6.6
+
+Labor market
+Labor force
+Employment
+Unemployment rate (in percent)
+Potential output and NAIRU
+Output gap (in percent of potential output) 2/
+Growth in potential output
+NAIRU (in percent)
+
+(In percent)
+Money and interest rates
+M3 (Finnish contribution to euro area , growth rate, e.o.p.)
+Domestic credit (growth rate, e.o.p.)
+3-month money market rate
+10-year government bonds yield
+
+6.6
+5.1
+3.3
+5.0
+
+11.0
+7.7
+2.3
+4.1
+
+6.3
+8.8
+2.1
+4.1
+
+8.2
+15.2
+2.2
+3.4
+
+8.5
+12.0
+3.1
+3.8
+
+...
+...
+...
+...
+
+...
+...
+...
+...
+
+...
+...
+...
+...
+
+(In percent of GDP, unless otherwise indicated)
+National saving, investment, and income
+Gross national saving
+Gross domestic investment
+Private saving
+Household saving as percent of disposable income
+Private investment
+Government savings surplus
+Households' real disposable income (increase in percent)
+
+28.5
+18.3
+21.7
+0.0
+15.6
+4.1
+2.8
+
+24.9
+18.5
+19.8
+1.1
+15.7
+2.4
+5.9
+
+26.5
+18.8
+21.6
+2.2
+15.9
+2.1
+4.0
+
+25.7
+20.6
+20.6
+0.0
+18.1
+2.5
+1.4
+
+26.6
+20.7
+20.4
+-1.5
+18.3
+3.8
+1.5
+
+27.5
+21.0
+21.1
+-1.5
+18.5
+4.0
+3.8
+
+27.4
+21.2
+21.5
+-1.6
+18.8
+3.5
+3.5
+
+27.0
+21.4
+21.4
+-1.5
+19.0
+3.2
+2.6
+
+6.1
+4.2
+-18.3
+7.5
+
+5.6
+3.7
+-23.2
+14.6
+
+(In percent of GDP, unless otherwise indicated)
+Balance of payments
+Current account balance
+Trade balance
+Net external debt (excluding equity FDI and shares)
+Net international investment position
+Exchange rates (period average)
+Euro per US$
+Nominal effective rate (increase in percent)
+Real effective rate (increase in percent) 3/
+
+10.1
+9.4
+3.0
+-40.7
+
+6.4
+7.8
+-9.4
+-27.6
+
+7.7
+6.6
+-8.3
+-10.9
+
+5.1
+4.9
+-5.9
+-14.3
+
+5.8
+5.7
+-6.4
+-12.5
+
+1.06
+2.1
+0.1
+
+0.89
+6.2
+3.6
+
+0.81
+2.2
+2.4
+
+0.80
+-0.5
+0.2
+
+0.80
+0.0
+0.2
+
+Sources: Ministry of Finance, Bank of Finland; and staff projections.
+1/ Projections are staff estimates based on the authorities' current policy indications.
+2/ A negative value indicates a level of potential output that is larger than actual GDP.
+3/ Based on relative normalized unit labor costs.
+
+6.6
+6.1
+-12.6
+-0.3
+
+...
+...
+...
+
+...
+...
+...
+
+...
+...
+...
+
+-3.1
+-1.6
+
+Current transfers
+Official
+
+Sources: Bank of Finland; and staff projections.
+
+Memorandum item:
+GDP at current prices
+122.7
+
+0.1
+-6.1
+-1.9
+4.3
+-6.2
+-2.2
+-1.8
+-3.3
+1.5
+-0.6
+-1.2
+-0.2
+-1.2
+
+-1.9
+0.3
+-2.2
+
+Income
+Compensation of employees
+Investment income
+
+Capital account
+Financial account
+Direct investment
+In Finland
+Abroad
+Portfolio investment excl. fin. derivatives
+Other investment
+Assets
+Liabilities
+Official
+Private
+Reserve assets
+Net errors and omissions
+
+-35.3
+-28.1
+-7.21
+
+Imports of goods and services
+Goods
+Services
+
+-6.0
+
+47.5
+39.4
+8.12
+
+Exports of goods and services
+Goods
+Services
+
+Capital and financial account
+
+12.2
+
+7.3
+5.9
+
+Goods and services
+
+Current account
+as a percentage of GDP
+
+1999
+
+132.3
+
+0.1
+-9.9
+-16.5
+9.6
+-26.1
+-2.5
+9.5
+-5.9
+15.4
+-1.5
+11.0
+-0.4
+-1.7
+
+-9.8
+
+-0.3
+-1.5
+
+-1.9
+0.4
+-2.3
+
+-43.9
+-34.6
+-9.31
+
+57.6
+49.6
+7.92
+
+13.6
+
+11.5
+8.7
+
+2000
+
+139.9
+
+0.1
+-12.8
+-5.2
+4.2
+-9.4
+-6.2
+-0.9
+-11.3
+10.5
+-0.6
+-0.3
+-0.5
+-0.8
+
+-12.7
+
+-0.1
+-1.7
+
+-1.2
+0.4
+-1.6
+
+-43.2
+-33.9
+-9.30
+
+57.8
+48.0
+9.84
+
+14.7
+
+13.4
+9.6
+
+2001
+
+144.0
+
+0.1
+-7.5
+0.7
+8.5
+-7.8
+-5.0
+-3.4
+-0.7
+-2.7
+0.4
+-3.9
+0.2
+-7.3
+
+-7.3
+
+0.1
+-0.7
+
+-0.7
+0.4
+-1.1
+
+-42.7
+-33.9
+-8.80
+
+58.0
+47.4
+10.54
+
+15.2
+
+14.6
+10.1
+
+2002
+
+(In billions of euros)
+
+145.9
+
+0.1
+-10.0
+5.0
+2.9
+2.0
+-0.4
+-15.0
+-13.2
+-1.8
+0.4
+-15.4
+0.5
+0.4
+
+-9.8
+
+-0.6
+-1.3
+
+-2.3
+0.3
+-2.6
+
+-44.1
+-35.2
+-8.97
+
+56.4
+46.6
+9.86
+
+12.3
+
+9.4
+6.4
+
+2003
+
+152.3
+
+0.2
+-8.2
+3.3
+2.4
+0.9
+-8.8
+-2.0
+-10.1
+8.0
+0.3
+-2.4
+-0.6
+-3.8
+
+-8.0
+
+-0.5
+-1.2
+
+0.1
+0.4
+-0.2
+
+-48.7
+-39.0
+-9.66
+
+60.8
+49.1
+11.73
+
+12.1
+
+11.8
+7.7
+
+2004
+
+157.2
+
+0.3
+-3.7
+0.0
+3.6
+-3.6
+-3.4
+-0.4
+-1.5
+1.1
+0.3
+-0.7
+0.1
+-4.5
+
+-3.5
+
+-0.9
+-1.6
+
+0.0
+0.6
+-0.5
+
+-57.0
+-45.0
+-11.99
+
+65.8
+52.6
+13.19
+
+8.8
+
+8.0
+5.1
+
+2005
+
+74.7
+61.5
+13.20
+
+11.0
+
+9.8
+5.8
+
+2006
+
+167.9
+
+0.2
+-8.7
+2.9
+3.0
+0.0
+-13.1
+-2.1
+-13.0
+10.8
+0.3
+-2.4
+3.6
+-1.3
+
+-8.5
+
+-1.4
+-2.2
+
+0.2
+1.2
+-1.0
+
+-63.6
+-51.9
+-11.76
+
+Table 2. Finland: Balance of Payments, 1999-2012
+
+176.3
+
+0.2
+-11.8
+-1.5
+5.6
+-7.1
+-12.7
+2.4
+-7.2
+9.6
+0.3
+2.1
+0.0
+0.0
+
+-11.6
+
+-0.9
+-1.6
+
+0.0
+1.3
+-0.9
+
+-67.3
+-55.1
+-12.18
+
+79.8
+65.9
+13.84
+
+12.5
+
+11.6
+6.6
+
+2007
+
+183.0
+
+0.2
+-11.7
+-1.6
+6.3
+-7.8
+-13.5
+3.3
+-10.1
+13.4
+0.2
+3.1
+0.0
+0.0
+
+-11.5
+
+-0.9
+-1.7
+
+1.4
+1.3
+0.4
+
+-72.4
+-59.3
+-13.10
+
+83.4
+67.0
+16.43
+
+11.1
+
+11.5
+6.3
+
+2008
+
+189.8
+
+0.2
+-11.0
+-1.6
+7.0
+-8.6
+-13.7
+4.3
+-8.7
+13.0
+0.2
+4.1
+0.0
+0.0
+
+-10.8
+
+-1.0
+-1.7
+
+1.7
+1.4
+0.7
+
+-77.4
+-63.4
+-14.01
+
+87.5
+70.5
+16.97
+
+10.0
+
+10.8
+5.7
+
+196.3
+
+0.2
+-11.0
+-1.6
+7.9
+-9.5
+-14.2
+4.9
+-9.4
+14.3
+0.2
+4.7
+0.0
+0.0
+
+-10.8
+
+-1.0
+-1.7
+
+2.1
+1.4
+1.1
+
+-82.0
+-67.1
+-14.84
+
+91.6
+73.9
+17.69
+
+9.6
+
+10.8
+5.5
+
+2009
+2010
+Proj.
+
+203.1
+
+0.2
+-11.2
+-1.6
+8.8
+-10.4
+-14.6
+5.1
+-9.0
+14.1
+0.2
+4.9
+0.0
+0.0
+
+-11.0
+
+-1.0
+-1.7
+
+2.5
+1.4
+1.4
+
+-86.1
+-70.5
+-15.58
+
+95.5
+77.2
+18.39
+
+9.4
+
+11.0
+5.4
+
+2011
+
+210.4
+
+0.2
+-11.5
+-1.6
+9.9
+-11.5
+-15.1
+5.2
+-9.2
+14.4
+0.1
+5.0
+0.0
+0.0
+
+-11.3
+
+-1.0
+-1.8
+
+2.9
+1.5
+1.8
+
+-90.3
+-73.9
+-16.34
+
+99.7
+80.6
+19.11
+
+9.4
+
+11.3
+5.4
+
+2012
+
+20
+
+21
+
+Table 3. General and Central Government Financial Accounts, 2002–09 1/
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+Proj.
+2008
+
+2009
+
+(In percent of GDP)
+General government 1/
+Revenues 2/
+Expenditure
+General government balance
+Of which: net interest on public debt
+Primary balance 3/
+Structural balance (in percent of potential GDP) 4/
+Structural primary balance (in percent of potential GDP) 3/ 4/
+…corrected for one-off factors 5/
+One-off factors 5/
+Gross debt (EMU definition) 6/
+Central government 1/
+Revenues
+Expenditure
+Central government balance
+Gross debt
+
+50.2
+46.1
+4.1
+0.1
+4.2
+4.4
+4.5
+3.9
+0.6
+41.3
+
+49.5
+47.2
+2.4
+0.0
+2.4
+3.0
+3.1
+…
+…
+44.3
+
+49.2
+47.1
+2.1
+0.1
+2.1
+2.6
+2.6
+…
+…
+44.1
+
+49.6
+47.0
+2.5
+0.0
+2.5
+2.7
+2.7
+…
+…
+41.4
+
+49.1
+45.4
+3.8
+0.0
+3.7
+3.5
+3.5
+…
+…
+39.1
+
+49.0
+45.0
+4.0
+-0.1
+3.9
+3.5
+3.4
+…
+…
+36.1
+
+49.2
+45.7
+3.5
+-0.1
+3.4
+3.0
+2.9
+…
+…
+34.2
+
+49.0
+45.8
+3.2
+-0.1
+3.1
+2.8
+2.8
+…
+…
+32.4
+
+25.2
+23.8
+1.4
+41.7
+
+25.0
+24.4
+0.5
+43.9
+
+24.8
+24.4
+0.4
+42.6
+
+24.8
+24.4
+0.4
+39.1
+
+24.2
+23.3
+0.9
+36.1
+
+24.2
+22.9
+1.2
+32.1
+
+23.7
+23.1
+0.6
+30.9
+
+23.4
+22.9
+0.5
+29.7
+
+Sources: Ministry of Finance; and staff projections.
+1/ On ESA95 basis.
+2/ The fall in revenues in 2003 reflects, in part, cuts in some indirect taxes as well as the fading out of one-off factors related to exceptional
+tax revenues owing to income from stock options in earlier years.
+3/ Excludes net interest on government debt and financial assets
+4/ Corrected for the influence of the business cycle as measured by the output gap, adjusted in 2005 for a paper sector dispute that was estimated
+to have reduced output by about 1 percentage point.
+5/ One-off factors include exceptional tax revenues owing to income from stock options.
+6/ Includes stock-flow adjustments reflecting changes in the portfolio allocation of Finnish pension funds.
+
+22
+Table 4. Finland: Indicators of Financial Vulnerability, 2000–06
+
+Households
+Total household debt (in percent of GDP)
+Debt-to-income ratio
+Non-financial corporations
+Gross debt (in percent of GDP)
+Government
+General government debt (EMU definition, in percent of GDP)
+Central government debt (in percent of GDP)
+Banking sector
+Outstanding credit to nonfinancial private sector (percent change, e.o.p.) 1/
+Of which: housing loans (percent change, e.o.p.)
+Housing loans in percent of total lending to nonfinancial private sector
+Asset Quality
+Non-performing loans/total loans (in percent) 2/ 3/
+Capital Adequacy
+Capital adequacy ratio 3/
+Equity/total assets (in percent)
+Profitability
+Interest rate spread 4/
+Net interest income (in percent of total income) 3/ 5/
+Return on equity (in percent) 3/ 5/
+Return on assets (in percent) 5/
+Liquid assets/total assets (in percent) 6/
+Off-balance sheet liabilities/total assets (in percent)
+Stock market
+Change in stock market index (in percent, e.o.p.)
+Change in housing price index, Helsinki region (in percent, e.o.p.)
+Change in housing price index, rest of Finland (in percent, e.o.p.)
+
+2000
+
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+29.9
+64.6
+
+30.8
+65.9
+
+32.8
+68.8
+
+36.5
+73.5
+
+39.6
+79.2
+
+44.0
+89.6
+
+45.0
+94.5
+
+52.8
+
+53.0
+
+51.1
+
+51.0
+
+50.9
+
+50.9
+
+...
+
+43.8
+48.5
+
+42.3
+44.5
+
+41.3
+41.7
+
+44.3
+43.9
+
+44.1
+42.6
+
+41.4
+39.1
+
+39.1
+36.1
+
+6.4
+10.6
+38.5
+
+6.9
+11.5
+40.1
+
+7.8
+12.9
+42.0
+
+11.2
+14.7
+41.6
+
+11.5
+15.2
+43.0
+
+12.2
+16.7
+44.7
+
+11.4
+14.1
+45.8
+
+0.6
+
+0.6
+
+0.5
+
+0.5
+
+0.4
+
+0.3
+
+0.3
+
+11.6
+6.0
+
+10.5
+5.9
+
+11.7
+5.6
+
+18.7
+9.7
+
+19.1
+8.7
+
+17.2
+8.8
+
+15.0
+9.2
+
+4.3
+46.8
+22.4
+1.2
+15.2
+18.7
+
+3.5
+61.4
+13.5
+0.7
+14.0
+20.4
+
+3.2
+65.4
+10.7
+0.6
+10.7
+19.6
+
+2.8
+63.3
+11.3
+0.7
+12.0
+20.2
+
+2.7
+60.8
+12.4
+0.8
+12.9
+15.9
+
+2.5
+59.1
+10.5
+0.9
+11.2
+16.2
+
+2.9
+52.4
+10.6
+1.0
+12.8
+12.8
+
+-10.6
+9.3
+4.1
+
+-32.4
+-1.2
+-1.5
+
+-34.4
+10.8
+6.0
+
+4.4
+5.9
+6.3
+
+3.3
+6.1
+8.2
+
+31.1
+5.9
+6.4
+
+17.9
+9.9
+6.8
+
+Sources: Bank of Finland; The Finnish Bankers' Association; Financial Supervision Authority; Statistics Finland; and Fund staff estimates.
+1/ Euro-denominated lending only, which accounted for about 98 percent of total lending in 2000.
+2/ Loans are defined as the sum of claims on credit institutions, the public, and public sector entities.
+3/ 2006 data are for June.
+4/ Average lending rate minus average deposit rate.
+5/ 2001 adjusted for large intrafinancial conglomerate transactions.
+6/ Liquid assets are defined as the sum of bills discounted by the central bank, debt securities, and the balance sheet item "liquid assets."
+
+Implementation
+
+1/ See the Country Reports for 2004 and 2005 (http://www.imf.org/external/pubs/cat/longres.cfm?sk=18025.0; http://www.imf.org/external/pubs/cat/longres.cfm?sk=18857.0).
+
+Competition policy
+Strengthen competition in product markets, especially in "sheltered" sectors, to
+Competition Authority's powers have been enhanced to more directly address antiboost productivity growth.
+competitive behavior. Research has been launched to assess developments in
+competition, specifically in the service sector.
+
+Labor market policy
+The wage bargaining system needs to allow for greater flexibility in wage setting.
+Employment gains under previous government exceeded its target. Centralized
+Measures are needed to ease labor market mismatches, reduce structural
+bargaining will not be in force in the current wage negotiations. Labor tax rates
+unemployment, and induce earlier entry into the labor force. Various "pipelines"
+have been cut generally, with additional specific reductions targeted for older,
+to early labor force departure need to be further curtailed.
+less productive workers. These cuts are to be extended notably to young labor
+market entrants. Labor force service centers have been established for the hard-toemploy. The unemployment pension is to be phased out from 2009, and the
+"unemployment pipeline" was tightened to begin from age 57. Employment rates
+among older workers have increased considerably in recent years.
+
+Fiscal policy
+Signicant reforms in the pension system were adopted in 2005. The multi-year
+Although the general government surplus has been sizable in recent years, the
+expenditure rule was reformed to increase its effectiveness. Efforts to improve
+overall fiscal position under current policies remains unsustainable. Efforts
+expenditure efficiency are being implemented, with greater success to date at the
+should focus on expenditure restraint, especially at the local level, in light of high
+central government level. Intergovernmental financing rules are being revised and
+tax rates. The efficiency of public services needs to be raised. It may be necessary
+measures to encourage municipal mergers have been adopted.
+to further revisit the pension system's parameters.
+
+Past Staff Recommendations
+
+Table 5. Finland: Recent Fund Staff Recommendations and Implementation 1/
+
+23
+
+24
+Figure 1. Finland: Growth and Inflation, 2000-08
+Growth surged to 5 1/2 percent in 2006, 1 percentage point of which from a labor dispute rebound,...
+6
+
+6
+
+Contributions to Growth
+(Percent of GDP)
+
+5
+
+5
+
+GDP
+
+4
+
+4
+Domestic demand
+
+3
+
+3
+Consumption
+
+2
+
+2
+
+Fixed investment
+
+1
+
+1
+
+0
+
+0
+
+-1
+
+-1
+Net exports
+
+-2
+2000
+
+12
+10
+
+2001
+
+2002
+
+2003
+
+2004
+
+-2
+2005
+
+2006
+
+2007
+
+2008
+
+…with net exports benefiting from strong "neighborhood" effects,...
+
+12
+
+Output Growth
+(Percent)
+
+10
+Baltics
+
+8
+6
+
+6
+
+Finland
+Other Nordic
+
+4
+
+4
+
+2
+0
+
+8
+
+Russia
+
+2
+
+Euro area
+S
+2000
+
+0
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+…while inflation is rising as "one-off" factors wane.
+4.0
+3.5
+
+4.0
+
+Inflation
+(Percent)
+
+3.5
+3.0
+
+3.0
+Euro area
+
+2.5
+
+2.5
+2.0
+
+2.0
+1.5
+
+1.5
+
+Finland overall
+
+1.0
+
+1.0
+
+Finland services
+contribution
+
+0.5
+
+0.5
+
+0.0
+
+0.0
+
+-0.5
+
+-0.5
+
+-1.0
+2000m01
+
+-1.0
+2001m01
+
+2002m01
+
+2003m01
+
+Sources: Statistics Finland Eurostat; and IMF staff estimates.
+
+2004m01
+
+2005m01
+
+2006m01
+
+2007m01
+
+25
+Figure 2. Finland: Current Account and Net International Investment Position, 1975-2006
+(Percent of GDP)
+While the current account surplus has declined from its ICT-boom peak...
+12
+
+12
+Current Account Balance
+
+10
+
+10
+
+8
+
+8
+
+6
+
+6
+
+4
+
+4
+
+2
+
+2
+
+0
+
+0
+
+-2
+
+-2
+
+-4
+
+-4
+
+-6
+
+-6
+
+-8
+
+-8
+
+-10
+
+-10
+1975
+
+1977
+
+1979
+
+1981
+
+1983
+
+1985
+
+1987
+
+1989
+
+1991
+
+1993
+
+1995
+
+1997
+
+1999
+
+2001
+
+2003
+
+2005
+
+… the NIIP has displayed a trend improvement.
+50
+
+50
+
+Net International Investment Position
+Net equity
+
+0
+
+0
+
+-50
+
+-50
+
+Other net assets
+-100
+
+-100
+
+-150
+
+-150
+NIIP
+
+-200
+
+-200
+1975
+
+1977
+
+1979
+
+Sources: IFS; WEO.
+
+1981
+
+1983
+
+1985
+
+1987
+
+1989
+
+1991
+
+1993
+
+1995
+
+1997
+
+1999
+
+2001
+
+2003
+
+2005
+
+26
+Figure 3. Finland: Real Effective Exchange Rates, 1995-2006
+(1999 = 100)
+Most measures of external competitiveness are adequate,...
+130
+
+130
+
+120
+
+120
+
+Export deflator
+
+110
+
+110
+HICP
+
+ULC, total economy
+
+100
+
+100
+GDP deflator
+
+90
+
+90
+ULC, manufacturing
+
+80
+Jan1995
+
+80
+Jan1997
+
+Jan1999
+
+Jan2001
+
+Jan2003
+
+Jan2005
+
+… but Finland's growing relative manufacturing labor share suggests pressures on profits.
+130
+
+130
+
+120
+
+120
+
+Relative labor share
+
+110
+
+110
+
+100
+
+100
+Relative industry output
+deflator
+
+90
+
+90
+ULC, manufacturing
+
+80
+Jan1995
+
+80
+Jan1997
+
+Jan1999
+
+Sources: European Commission; and IMF staff estimates.
+
+Jan2001
+
+Jan2003
+
+Jan2005
+
+27
+
+Figure 4. Finland: Export Shares and Terms of Trade
+External risks stem from comparatively large reliance on a few export sectors...
+60
+
+60
+Top Two and ICT Export Sector Shares
+(Percent of total exports; 1998 - 2003 averages)
+
+Pulp/Paper/
+Paper
+products/Printing
+
+50
+
+50
+
+Radio/TV/Communications
+equip.
+
+1st
+
+2nd
+
+Sum
+
+ICT
+
+40
+
+40
+
+30
+
+30
+
+20
+
+20
+
+10
+
+10
+
+0
+
+0
+Finland
+
+Sweden
+
+Ireland
+
+Korea
+
+Netherlands
+
+EU14
+
+OECD
+
+… whose prices are stagnant or falling, resulting in worsening terms of trade
+120
+
+120
+Terms of Trade
+(2000 = 100)
+
+110
+
+110
+
+100
+
+100
+
+90
+
+90
+
+80
+
+80
+
+1995Q1
+
+1996Q1
+
+1997Q1
+
+1998Q1
+
+1999Q1
+
+Sources: OECD STAN database; IFS.
+
+2000Q1
+
+2001Q1
+
+2002Q1
+
+2003Q1
+
+2004Q1
+
+2005Q1
+
+2006Q1
+
+28
+Figure 5. Finland: Public Sector Efficiency Measures, 2000 1/
+1.0
+
+1.0
+
+Input Efficiency
+
+1.0
+
+Finland
+
+Sweden
+
+Denmark
+
+France
+
+Italy
+
+Belgium
+
+Austria
+
+Netherlands
+
+EU15 average
+
+Germany
+
+Greece
+
+Norway
+
+Canada
+
+Average
+
+Spain
+
+Portugal
+
+0.0
+New Zealand
+
+0.0
+Iceland
+
+0.2
+
+United Kingdom
+
+0.2
+
+Switzerland
+
+0.4
+
+Ireland
+
+0.4
+
+Australia
+
+0.6
+
+United States
+
+0.6
+
+Japan
+
+0.8
+
+Luxembourg
+
+0.8
+
+1.0
+
+Output Efficiency
+
+Italy
+
+Greece
+
+Portugal
+
+France
+
+Spain
+
+Belgium
+
+Germany
+
+New Zealand
+
+United Kingdom
+
+EU15 average
+
+Finland
+
+Canada
+
+Average
+
+Sweden
+
+Iceland
+
+Denmark
+
+0.0
+Netherlands
+
+0.0
+Austria
+
+0.2
+
+Australia
+
+0.2
+
+Norway
+
+0.4
+
+Ireland
+
+0.4
+
+Switzerland
+
+0.6
+
+United States
+
+0.6
+
+Japan
+
+0.8
+
+Luxembourg
+
+0.8
+
+Source: Afonso, Schuknecht, and Tanzi (2005)
+1/ / Production frontier analysis. Measured relative to the most efficient country (with a score of 1.0), the
+input efficiency indicates how much less input a country could use to achieve its current output (e.g., 0.6
+indicates that it could achieve the same output with only 60 percent of current inputs); the output
+efficiency indicates how much less output a country is producing (e.g., 0.8 indicates that it is producing
+only 80 percent of output with the same input as the most efficient country). Input is public expenditure
+as a percent of GDP; output is a composite public sector performance indicator comprising seven public
+goods and services.
+
+29
+Figure 6. Finland: Labor Market Developments, 1990-2006
+
+80
+
+The unemployment rate is slowly declining...
+
+20
+
+Real GDP Growth, Employment and Unemployment Rates
+
+70
+60
+
+15
+
+Employment rate (percent of
+working age population)
+
+50
+
+10
+
+40
+Unemployment rate
+(right scale)
+
+30
+20
+
+5
+
+10
+0
+
+0
+
+GDP growth
+(right scale)
+
+-10
+
+-5
+
+-20
+-30
+-40
+1990
+
+100
+
+1991
+
+1992
+
+1993
+
+1994
+
+1995
+
+1996
+
+1997
+
+1998
+
+1999
+
+2000
+
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+-10
+2006
+
+...as employment rates recover, especially among older workers,...
+100
+
+Employment Rates by Age Groups
+(Percent of working age population)
+
+90
+
+90
+
+80
+
+80
+
+70
+
+70
+
+60
+
+60
+
+50
+
+50
+
+40
+
+40
+
+30
+
+30
+Young workers (15-24)
+
+20
+1990
+
+1991
+
+1992
+
+1993
+
+1994
+
+1995
+
+Older workers (55-65)
+1996
+
+1997
+
+1998
+
+Main group (25-54)
+1999
+
+2000
+
+2001
+
+2002
+
+2003
+
+2004
+
+…but elderly, and especially youth, employment rates lag behind those in other Nordic countries.
+100
+Employment Rate by Age Group
+15-24 25-54 55-64
+90
+(In percent, 2005; Netherlands and Sweden, 2004)
+
+20
+2005
+
+100
+90
+
+80
+
+80
+
+70
+
+70
+
+60
+
+60
+
+50
+
+50
+
+40
+
+40
+
+30
+
+30
+
+20
+
+20
+
+10
+
+10
+
+0
+
+0
+Denmark
+Source: OECD.
+
+Finland
+
+Norway
+
+Sweden
+
+Netherlands
+
+Unemployment
+Social Assistance
+Sickness
+Disability
+
+Recipients of Major Non-Employment and Unemployment Benefits
+(Percent of working-age population)
+
+A significant share of the population...
+
+Source: OECD; and Carcillo and Grubb (2006).
+
+0%
+
+5%
+
+10%
+
+15%
+
+20%
+
+25%
+
+30%
+
+1980
+
+0
+
+1982
+
+0%
+
+5%
+
+10%
+
+15%
+
+20%
+
+25%
+
+30%
+
+0
+
+2
+
+4
+
+6
+
+8
+
+0%
+
+2%
+
+4%
+
+6%
+
+8%
+
+10%
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+Canada
+Unemployment
+Social Assistance
+Sickness
+Disability
+
+Expenditure in Major Non-Employment and Unemployment benefits
+(Percent of GDP)
+
+…receives sizable social transfers.
+
+Germany
+
+0%
+
+2%
+
+4%
+
+6%
+
+8%
+
+10%
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+…while older workers use disability entitlements as disguised unemployment
+support.
+16
+14
+Invalidity/Incapacity Benefit Recipents
+14
+12
+(Percent of working age population, 2001)
+
+Netherlands
+
+10
+
+Australia
+1980
+
+1
+
+1984
+
+Denmark
+1982
+
+2
+
+1986
+
+Finland
+1984
+
+3
+
+1988
+
+France
+1986
+
+4
+
+2002
+
+Ireland
+1988
+
+5
+
+2004
+
+Japan
+1990
+
+6
+
+1990
+
+New Zealand
+1992
+
+7
+
+1992
+
+Spain
+
+8
+
+1994
+
+Norway
+1994
+
+Expected Years in Education for 15-29 Year-Olds, 2004
+
+1996
+
+Portugal
+1996
+
+9
+
+1998
+
+Sweden
+1998
+
+Denmark
+Finland
+Iceland
+Netherlands
+Luxembourg
+Poland
+Germany
+France
+Belgium
+Austria
+Sweden
+OECD
+Hungary
+Switzerland
+Canada
+US
+Italy
+Norway
+Australia
+Ireland
+Japan
+UK
+Greece
+Slovak Rep.
+Czech Rep.
+Portugal
+Spain
+Mexico
+Turkey
+2000
+
+United Kingdom
+2000
+
+The young enjoy extended periods of subsidised scholarship...
+
+United States
+
+10
+
+Figure 7. Finland: Selected Labor Market Characteristics, 1980-2004
+
+30
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+Ireland
+
+Germany
+
+France
+
+Finland
+
+Average of Net Replacement Rates over 60 Months of Unemployment, 2004
+(Including social assistance)
+
+Belgium
+
+UK
+
+France
+
+Iceland
+
+Ireland
+
+Portugal
+
+Austria
+
+Germany
+
+Finland
+
+Luxembourg
+
+Denmark
+
+0
+
+10
+
+-40
+
+-20
+
+0
+
+20
+
+30
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+Excluding programs for the disabled
+
+All active programs
+
+ALMP Expenditure 1/
+(Percent of GDP spent per percent of labor force in labor market programs)
+
+…spending on active policies is rather low.
+
+Denmark
+
+0.00
+
+0.05
+
+0.10
+
+0.15
+
+0.20
+
+0.25
+
+0.30
+
+0.35
+
+0.40
+
+Marginal tax rate for UB (component)
+Marginal tax rate for IW (component)
+Marginal tax rate for SA+HB+ FB (component)
+Marginal tax rate for IT+SC (component)
+
+Attractiveness of Work Compared with Unemployment and Other Non-Employment
+Benefits 2/
+(Single parent case, wage before unemployment = 67% APW, 2002)
+
+… and generous nonwork benefits reduce employment incentives.
+
+0.00
+
+0.05
+
+0.10
+
+0.15
+
+0.20
+
+0.25
+
+0.30
+
+0.35
+
+0.40
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+Finland
+
+Source: OECD.
+1/ ALMP: active labor market programs.
+2/ APW: average production wage, UB: unemployment benefits, IW: in-work benefits, SA: social assistance, HB: housing benefits, FB: family benefits, IT: income tax (net of
+any tax benefits), SC: employees' social security contributions.
+
+Norway
+
+90
+
+Japan
+
+High unemployment replacement rates...
+
+Netherlands
+N. Zealand
+
+100
+
+New Zealand
+Japan
+
+0
+
+Poland
+
+1
+
+Average
+
+2
+
+Czech Rep.
+
+Australia
+
+Switzerland
+
+Norway
+Spain
+
+3
+
+Canada
+
+Denmark
+
+Sweden
+
+Portugal
+Australia
+
+4
+
+Korea
+
+5
+
+Netherlands
+
+Spain
+Slovak Rep.
+
+Netherlands
+
+6
+
+Greece
+
+Non Employment and Unemployment Benefit Expenditure
+(Percent of GDP, 2001)
+
+Sweden
+Hungary
+
+Norway
+
+While passive benefits are comparatively large,...
+
+United States
+Italy
+
+Sweden
+
+SVK
+DEU
+SWE
+CHE
+FRA
+DNK
+LUX
+FIN
+NOR
+PRT
+BEL
+CZE
+AUT
+ESP
+GRC
+NLD
+ISL
+NZL
+CAN
+HUN
+POL
+JPN
+AUS
+USA
+GBR
+ITA
+KOR
+IRL
+
+7
+
+US
+
+Figure 8. Finland: Selected Labor Market Characteristics
+
+-40
+
+-20
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+31
+
+32
+Figure 9. Finland: Wage Compression and Low-Skilled Employment
+Relatively high effective minimum wage...
+70
+
+70
+
+Minimum Labor Cost of Younger Workers and Apprentices, 2004 1/
+(Percent of median wage)
+60
+
+60
+Labor cost
+Exceptions included
+
+50
+
+50
+
+40
+
+40
+
+30
+
+30
+
+20
+
+20
+
+10
+
+10
+
+0
+
+0
+KOR
+
+CZE
+
+SVK
+
+POL
+
+PRT
+
+GBR
+
+BEL
+
+IRL
+
+NLD
+
+FRA
+
+FIN
+
+AUS
+
+...is associated with less employment for the lesser skilled.
+Low-Skilled Service Employment Share of Total
+Employment
+(wholesale and retail trade, and hotels and
+restaurants)
+
+22
+
+USA
+
+21
+
+20
+
+19
+
+18
+
+22
+
+Wage Compression and Low-Skilled Employment, 2002
+21
+PRT
+NLD
+ITA
+
+20
+GBR
+
+IRL
+19
+
+(correlation coefficient = .60)
+BEL
+
+18
+DEU
+
+DNK
+
+17
+
+16
+
+17
+FRA
+
+SWE
+
+15
+
+16
+
+NOR
+FIN
+15
+Median/Lowest Decile Earnings
+
+14
+
+14
+1.3
+
+1.4
+
+1.5
+
+1.6
+
+1.7
+
+1.8
+
+1.9
+
+2.0
+
+Sources: OECD, Miminum Wage and Taxing Wages database; OECD.
+1/ The costs of labor is the sum of wage level and the corresponding social security contribution paid
+by employers for a single worker. The minimum cost for younger workers includes exceptions by age
+or by contract.
+
+DNK
+
+DEU
+
+CAN
+
+SWE
+
+ESP
+
+NZL
+
+BEL
+
+JPN
+
+NOR
+
+FIN
+
+AUT
+
+ITA
+
+PRT
+
+CHE
+
+FRA
+
+IRL
+
+GRC
+
+0.0
+
+NLD
+
+0.0
+
+Source: OECD Going for Growth 2007 .
+1/ Covers competition-restraining regulation in energy, transport and communications sectors, where 1 indicates the highest level of rigidity.
+
+AUS
+
+0.2
+
+0.2
+
+USA
+
+0.4
+
+0.4
+
+GBR
+
+0.6
+
+0.6
+
+2003
+
+1.0
+
+0.8
+
+1985
+
+While much improved, product markets remain comparatively rigid.
+
+0.8
+
+1.0
+
+Figure 10. Finland: Product Market Rigidity 1/
+
+33
+
+Malta
+
+Source: Eurostat.
+
+EU25
+
+EU15
+
+Poland
+
+France
+
+Romania
+
+Italy
+
+Germany
+
+Finland
+
+Portugal
+
+Spain
+
+UK
+
+Czech Republic
+
+Slovakia
+
+Slovenia
+
+Lithuania
+
+Greece
+
+Sweden
+
+Hungary
+
+Latvia
+
+Norway
+
+Netherlands
+
+Iceland
+
+Belgium
+
+Bulgaria
+
+Denmark
+
+Austria
+
+Croatia
+
+80
+
+Estonia
+
+100
+
+Cyprus
+
+Slovakia
+
+EU25
+
+EU15
+
+Greece
+
+UK
+
+Italy
+
+Spain
+
+France
+
+Cyprus
+
+Iceland
+
+Norway
+
+Turkey
+
+Portugal
+
+Denmark
+
+Finland
+
+Germany
+
+Poland
+
+Romania
+
+Sweden
+
+Croatia
+
+Austria
+
+Ireland
+
+Latvia
+
+Luxembourg
+
+Netherlands
+
+Lithuania
+
+Bulgaria
+
+Malta
+
+Slovenia
+
+Hungary
+
+Czech Republic
+
+80
+
+Estonia
+
+Belgium
+
+Iceland
+Norway
+Denmark
+Ireland
+Finland
+Sweden
+France
+Italy
+Belgium
+Luxembour
+Netherlands
+EU15
+United
+Germany
+Euro
+Austria
+EU25
+Spain
+Cyprus
+Greece
+Portugal
+Slovenia
+Malta
+Estonia
+Hungary
+Poland
+Czech
+Slovakia
+Latvia
+Lithuania
+Romania
+Bulgaria
+
+160
+140
+120
+100
+80
+60
+40
+20
+0
+
+Ireland
+
+Luxembourg
+
+Figure 11. Finland: Selected Product Market Indicators, 2005
+
+Finland has relatively high prices...
+Comparative Price Levels
+(EU25 = 100)
+160
+140
+120
+100
+80
+60
+40
+20
+0
+
+...and comparatively low degree of goods market integration,...
+Goods Market Integration
+(Goods Exports + Imports/GDP)
+80
+
+60
+60
+
+40
+40
+
+20
+20
+
+0
+0
+
+...even more so for services, suggesting relative weak competition in the sheltered sector .
+Services Market Integration
+(Services Exports + Imports/GDP)
+100
+
+80
+
+60
+60
+
+40
+40
+
+20
+20
+
+0
+0
+
+Latvia
+
+Belgium
+
+UK
+
+Italy
+
+EU25
+
+Cyprus
+
+Norway
+
+Netherlands
+
+Sweden
+
+Germany
+
+Luxembourg
+
+Slovenia
+
+Spain
+
+Malta
+
+Austria
+
+Euro area
+
+EU15
+
+Ireland
+
+7.00
+Cyprus
+
+Estonia
+
+Slovenia
+
+Sweden
+
+Norway
+
+Denmark
+
+UK
+
+Netherlands
+
+Germany
+
+Belgium
+
+Austria
+
+Portugal
+
+EU15
+
+Greece
+
+EU25
+
+Euro area
+
+Lithuania
+
+Ireland
+
+France
+
+Spain
+
+Finland
+
+Latvia
+
+USA
+
+Czech Republic
+
+1.40
+
+France
+
+Denmark
+
+Estonia
+
+Greece
+
+Slovakia
+
+Portugal
+
+Japan
+
+Italy
+
+Slovakia
+
+Hungary
+
+Poland
+
+USA
+
+Italy
+
+Cyprus
+
+Finland
+
+Malta
+
+Estonia
+
+Slovenia
+
+Japan
+
+Spain
+
+Sweden
+
+Poland
+
+Luxembourg
+
+Greece
+
+Netherlands
+
+France
+
+Euro area
+
+Norway
+
+EU25
+
+EU15
+
+Latvia
+
+Portugal
+
+Denmark
+
+Lithuania
+
+Germany
+
+UK
+
+Hungary
+
+Austria
+
+Ireland
+
+Belgium
+
+Slovakia
+
+Czech Republic
+
+1.00
+0.90
+0.80
+0.70
+0.60
+0.50
+0.40
+0.30
+0.20
+0.10
+0.00
+
+Czech Republic
+
+Source: Eurostat.
+Hungary
+
+Poland
+
+Lithuania
+
+Japan
+
+Finland
+
+35
+
+Figure 12. Finland: Telecommunication Charges, 2005
+(10 minute calls)
+Local Calls
+1.00
+0.90
+0.80
+0.70
+0.60
+0.50
+0.40
+0.30
+0.20
+0.10
+0.00
+
+1.20
+National Calls
+1.40
+
+1.20
+
+1.00
+1.00
+
+0.80
+0.80
+
+0.60
+0.60
+
+0.40
+0.40
+
+0.20
+0.20
+
+0.00
+0.00
+
+Calls to USA
+7.00
+
+6.00
+6.00
+
+5.00
+5.00
+
+4.00
+4.00
+
+3.00
+3.00
+
+2.00
+2.00
+
+1.00
+1.00
+
+0.00
+0.00
+
+INTERNATIONAL MONETARY FUND
+FINLAND
+Staff Report for the 2007 Article IV Consultation—Informational Annex
+Prepared by the European Department
+July 11, 2007
+
+Contents
+I.
+II.
+
+Page
+
+Fund Relations............................................................................................................... 2
+Table of Common Indicators Required for Surveillance .............................................. 4
+
+2
+APPENDIX I. FINLAND: FUND RELATIONS
+(As of April 30, 2007)
+•
+
+A staff team comprising Messrs. Figliuoli (head), Lutz, Mottu (all EUR), and Carcillo (FAD)
+visited Helsinki during May 22–31. They met Mr. Liikanen, Governor of the Bank of
+Finland, Mr. Katainen newly appointed Minister of Finance, Mr. Hetemäki, permanent
+Under Secretary of State at the Ministry of Finance, other senior officials of the central bank,
+economic ministries, and the Financial Supervisory Authority. Mr. Saarenheimo, the
+Executive Director for the Nordic-Baltic region, participated in the discussions.
+
+•
+
+The mission consulted with many members of the Finnish policy community. Meetings were
+held with the Finance Committee of the Parliament, representatives of the Finnish Trade
+Unions (SAK), the Confederation of Industries (EK), the Association of Local Authorities
+(Kuntalitto), and members of the business, academic, and private financial communities.
+
+•
+
+The mission’s concluding statement and press conference received wide coverage in the
+Finnish media. The authorities intend to publish the staff report.
+
+•
+
+Parliamentary elections were held on March 18, and a center-right coalition government took
+office, replacing a center-left coalition, both with the Centre Party as their pivot and
+Mr. Matti Vanhanen as Prime Minister.
+
+I.
+
+Membership Status: Joined January 14, 1948; Article VIII.
+
+II.
+
+General Resources Account:
+Quota
+Fund holdings of currency
+Reserve Position
+
+SDR Million
+1,263.80
+1,167.13
+96.72
+
+Percent of Quota
+100.00
+92.35
+7.65
+
+III.
+
+SDR Department:
+Net cumulative allocation
+Holdings
+
+SDR Million
+142.69
+128.46
+
+Percent of Allocation
+100.00
+90.03
+
+IV.
+
+Outstanding Purchases and Loans:
+
+None
+
+V.
+
+Latest Financial Arrangements:
+
+None
+
+3
+VI. Projected Payments to Fund
+(SDR million; based on existing use of resources and present holdings of SDRs):
+
+2007
+Principal
+Charges/Interest
+Total
+
+VII.
+
+0.45
+0.45
+
+Forthcoming
+2008
+2009
+0.61
+0.61
+
+0.61
+0.61
+
+2010
+0.61
+0.61
+
+2011
+0.61
+0.61
+
+Exchange Arrangements:
+
+Finland’s currency is the euro, which floats freely and independently against other currencies.
+Finland has accepted the obligations of Article VIII (Sections 2, 3, and 4) and
+maintains an exchange system that is free of restrictions on the making of payments and
+transfers for current international transactions, apart from those in accordance with (i) IMF
+Executive Board Decision No. 144-(52/51) and the relevant UN Security Council
+resolutions—measures have been taken to freeze the accounts of the Taliban and of listed
+individuals and organizations associated with terrorism; (ii) EU regulations and the relevant
+UN Security Council resolutions. An updated and comprehensive list of all EU restrictions
+can be found at: http://ec.europa.eu/external_relations/cfsp/sanctions/measures.htm
+VIII.
+
+Article IV Consultation:
+
+Discussions for the 2005 Article IV consultation were held in Helsinki during October 18–25, 2005
+and the Executive Board concluded the consultation on January 30, 2006. Country Report No. 06/36
+summarizing the views of the Executive Board, was published.
+
+4
+APPENDIX II. FINLAND: TABLE OF COMMON INDICATORS REQUIRED FOR SURVEILLANCE
+(As of June 12, 2007)
+Date of
+latest
+observation
+
+Date
+received
+
+Frequency
+of
+6
+
+Data
+
+Frequency
+of
+
+Frequency
+of
+
+6
+
+publication
+
+Reporting
+
+6
+
+Memo Items:
+Data Quality –
+Methodological
+soundness
+
+Exchange Rates
+
+June 12,
+2007
+
+June12,
+2007
+
+D
+
+D
+
+D
+
+May 2007
+
+June 2007
+
+M
+
+M
+
+M
+
+Reserve/Base Money
+
+May 2007
+
+June 2007
+
+M
+
+M
+
+M
+
+Broad Money
+
+Apr. 2007
+
+June 2007
+
+M
+
+M
+
+M
+
+Central Bank Balance Sheet
+
+May 2007
+
+June 2007
+
+M
+
+M
+
+M
+
+Consolidated Balance Sheet of the Banking System
+
+Apr. 2007
+
+Apr. 2007
+
+M
+
+M
+
+M
+
+June 12,
+2007
+
+June 12,
+2007
+
+D
+
+D
+
+D
+
+Apr. 2007
+
+May 2007
+
+M
+
+M
+
+M
+
+2006
+
+Mar. 2007
+
+A
+
+A
+
+A
+
+International Reserve Assets and Reserve Liabilities
+of the Monetary Authorities
+
+Interest Rates
+
+7
+
+Data Quality –
+Accuracy and
+reliability
+
+8
+
+1
+
+2
+
+Consumer Price Index
+Revenue, Expenditure, Balance and Composition of
+3
+
+4
+
+Financing – General Government
+
+2006
+
+Mar. 2007
+
+A
+
+A
+
+A
+
+Q4, 2006
+
+Mar. 2007
+
+Q
+
+Q
+
+Q
+
+External Current Account Balance
+
+Mar. 2007
+
+May 2007
+
+M
+
+M
+
+M
+
+Exports and Imports of Goods and Services
+
+Mar. 2006
+
+May 2007
+
+M
+
+M
+
+M
+
+GDP/GNP
+
+Q4. 2006
+
+Mar. 2007
+
+Q
+
+Q
+
+Q
+
+Gross External Debt
+
+Q4. 2006
+
+Mar. 2007
+
+Q
+
+Q
+
+Q
+
+Revenue, Expenditure, Balance and Composition of
+
+O, O, O, O
+
+LO, O, LO, O, O
+
+LO, LO, LNO, O
+
+LO, O, O, O, O
+
+O, O, O, LO
+
+LO, O, LO, O, O
+
+O, O, O, O
+
+LO, O, LO, O, O
+
+3
+
+Financing – Central Government
+Stocks of Central Government and Central
+5
+
+Government-Guaranteed Debt
+
+1
+
+Includes reserve assets pledged or otherwise encumbered as well as net derivative positions.
+Both market-based and officially-determined, including discount rates, money market rates, rates on treasury bills, notes and bonds.
+3
+Foreign, domestic bank, and domestic nonbank financing.
+4
+The general government consists of the central government, including National Insurance Scheme, and local governments.
+5
+Including currency and instrument composition.
+6
+Daily (D), Weekly (W), Monthly (M), Quarterly (Q), Annually (A), Irregular (I); Not Available (NA).
+7
+Reflects the assessment provided in the data ROSC published in October 2005, and based on the findings of the mission that took place during May 10–25, 2005 for the dataset
+corresponding to the variable in each row. The assessment indicates whether international standards concerning concepts and definitions, scope, classification/sectorization, and
+basis for recording are fully observed (O), largely observed (LO), largely not observed (LNO), or not observed (NO).
+8
+Same as footnote 7, except referring to international standards concerning source data, statistical techniques, assessment and validation of source data, assessment
+and validation of intermediate data and statistical outputs, and revision studies.
+2
+
+Statement by the IMF Staff Representative
+August 1, 2007
+
+1.
+This statement provides an update on recent economic developments based on
+information received after the staff report was issued. The new information does not alter the
+thrust of the staff appraisal.
+2.
+There have been further revisions to the national accounts. Estimates published in
+July indicate that annual growth in 2006 was lower than previously thought 5 rather than
+5½ percent, as a result of more comprehensive data and the correction of a methodological
+error in the preliminary data. Private consumption and imports were revised up, while public
+investment is now thought to have shrunk. The contribution of net exports to growth has been
+halved to 1¼ percent of GDP. As mentioned in the staff report, data issued in June for the
+first quarter of 2007 and a revised quarterly pattern of GDP for 2006 suggested that the
+momentum of growth in 2007 is stronger than expected during the mission.
+3.
+In response to the June data revisions, the authorities have tentatively raised
+their GDP growth projections. Specifically, the Ministry of Finance has increased its 2007
+projection to 4.3 percent for 2007 and to 3.2 percent for 2008. The Ministry of Finance and
+the Bank of Finland will release their next official projections in September.
+4.
+The staff’s GDP growth projections remain as stated in the report, despite the
+lower 2006 growth. Based on the data issued in June, staff had already revised upwards its
+growth outlook for 2007 and 2008 in the
+Selected Indicators
+report. The downward adjustment of
+Projected
+2006 GDP included in the July release of
+2006
+2007
+2008
+the national accounts was concentrated
+GDP growth
+(Percent change)
+in the first quarter of the year, which
+Authorities
+(March
+2007)
+5.5
+3.1
+2.7
+does not impact negatively on growth
+Authorities
+(June
+2007)
+5.0
+4.3
+3.2
+prospects for 2007.
+Staff (Staff Report)
+
+5.5
+
+4.0
+
+2.8
+
+Staff (revised)
+5.0
+4.0
+2.8
+5.
+In light of the revisions to the
+national accounts, staff has lowered its
+Current account
+(Percent of GDP)
+estimate of the 2006 current account
+Staff (Staff Report)
+5.8
+6.6
+6.1
+surplus to about 5 percent of GDP.
+Staff (revised)
+4.7
+5.3
+4.8
+The downward revision by some
+1 percentage point reflects higher
+imports of services and, to a lesser
+degree, goods. This has also led staff to reduce its projections of a current account surplus by
+broadly similar amounts in future years. Staff’s estimates of the competitiveness margins are
+correspondingly somewhat smaller.
+
+6.
+Inflation in June was 1.4 percent, in line with the annual projection of
+1.5 percent.
+
+Public Information Notice (PIN) No. 07/95
+FOR IMMEDIATE RELEASE
+August 3, 2007
+
+International Monetary Fund
+700 19th Street, NW
+Washington, D. C. 20431 USA
+
+IMF Executive Board Concludes 2007 Article IV Consultation with Finland
+On August 1, 2007, the Executive Board of the International Monetary Fund (IMF) concluded
+the 2007 Article IV consultation with Finland.1
+Background
+Economic developments in recent years have been enviable. Growth has outpaced the euro
+area average, inflation is among the lowest in the European Union, and the external current
+account and general government budget are both comfortably in surplus. Nevertheless, the
+onset of population aging will be felt more rapidly in Finland than elsewhere in the EU (with the
+working age population projected to begin declining at the end of the decade). Without fiscal
+and structural reforms, this threatens long-term growth prospects and fiscal sustainability.
+The economy is set to grow by about 4 percent in 2007, lower than the 5½ percent recorded in
+2006, although the 2006 outcome was boosted by the rebound from a labor-dispute in the paper
+sector that shaved off about 1 percentage point from 2005 growth. The decline is almost entirely
+attributable to a smaller contribution from net exports (similarly influenced by the labor dispute),
+with the contribution of domestic demand growth projected to increase by about ½ percent of
+GDP. Consumption growth remains robust, despite rising interest rates and household debt
+loads, boosted by strong employment growth, income tax cuts, and strong consumer
+confidence. With the economy operating slightly above its potential, economic growth is
+expected to cool somewhat in 2008 to about 2½ percent, with declining contributions from all
+
+1
+
+Under Article IV of the IMF's Articles of Agreement, the IMF holds bilateral discussions with
+members, usually every year. A staff team visits the country, collects economic and financial
+information, and discusses with officials the country's economic developments and policies. On
+return to headquarters, the staff prepares a report, which forms the basis for discussion by the
+Executive Board. At the conclusion of the discussion, the Managing Director, as Chairman of the
+Board, summarizes the views of Executive Directors, and this summary is transmitted to the
+country's authorities.
+
+2
+components—consumption, investment, and net exports. Risks to the growth outlook are
+balanced.
+The labor market has improved markedly since 2005, with rising participation rates and
+comparatively strong employment growth. The unemployment rate has dipped below the euro
+area average, and hovers near estimates of the structural unemployment rate. Labor shortages
+are increasing, especially in the construction sector and in the capital region.
+Inflation has remained tamed, largely from comparatively high productivity gains that have
+limited unit labor cost growth, and a trend worsening in the terms of trade. However, other oneoff effects that have also dampened price growth are waning, and inflation is slowly nearing the
+euro area average. Also, while the current multi-year, economy-wide wage compact (set to
+expire in the fall) has helped contain labor costs, a shift to sectoral agreements in the coming
+round may exacerbate wage and inflation pressures, though providing scope for useful pay
+differentiation.
+Various estimates point to a benign external competitiveness position for Finland. The current
+account surplus has been in excess of 5 percent of GDP in recent years, contributing to a
+improved net international investment position.
+The fiscal position strengthened markedly last year, with the general government surplus
+nearing 4 percent of GDP, a surplus expected to persist in 2007. The budget has benefited from
+higher-than-expected growth combined with a determined implementation of the authorities’
+multi-year spending limits on central government outlays. As a result, the debt ratio has fallen
+below 40 percent of GDP and the pension systems’ assets now approach 70 percent of GDP.
+However, on the basis of official macro projections, the new government’s program implies a
+sharp deterioration of the fiscal position, with the surplus declining to about 2 percent of GDP by
+the end of its mandate in 2011.
+Executive Board Assessment
+Executive Directors commended the authorities’ stability-oriented macroeconomic policies that
+have underpinned a prolonged economic expansion. Growth and inflation developments have
+both outperformed euro area averages, and recent activity indicators suggest near-term growth
+prospects are favorable. The general government has recorded sizable surpluses, and is
+expected to do so again this year.
+Directors concurred that the competitiveness of the Finnish economy is broadly appropriate.
+The external current account surplus is sizable at present, and some measures indicate
+comfortable competitiveness margins. However, rapid population aging, worsening terms of
+trade, and pressures on exporters’ profitability suggest that the surplus is likely to decline over
+the medium to long term.
+Despite this favorable background, Directors cautioned that Finland faces considerable
+challenges. They stressed that Finland’s exceptionally rapid population aging and sluggish
+
+3
+productivity in sheltered sectors raise concerns about long-term growth and soundness of its
+public finances. In addition, from a short-run perspective, the economy is estimated to be
+operating slightly above its growth potential, with rising geographic and skill-specific labor
+market shortages, which, with growing mismatches, could stoke wage and inflationary
+pressures. Indeed, the move from the traditional economy-wide wage agreement to sectoral,
+union-level wage negotiations for 2008 heightens inflationary risks, though holding promise of
+fostering much needed pay differentiation. Furthermore, the export base remains relatively
+narrow, posing risks to growth prospects.
+In this light, and notwithstanding the already sizable general government surplus, Directors
+advised a somewhat tighter fiscal policy for both cyclical and sustainability reasons. They noted
+that, given positive output gaps expected in 2007–08 and tightening labor markets, some
+withdrawal of fiscal stimulus would be appropriate. Thus, Directors welcomed the authorities’
+intention to correct the fiscal stance envisaged for 2008–11, were signs of overheating to arise.
+In the period beyond 2011, Directors saw the need to target a uniform improvement in the
+primary surplus of about 2 percent of GDP, in order to prepare for the anticipated expenditure
+pressures from population aging.
+Given already high revenue and expenditure levels, Directors stressed that fiscal adjustment
+efforts should concentrate on reducing the growth of public spending, preferably through
+increased efficiency, especially at the local level. To achieve this, they supported benchmarking
+to identify best practices, and redesigning and extending the system of expenditure ceilings.
+They also saw merit in greater recourse to outsourcing and well-designed public private
+partnerships, rebalancing user charges, and the reform of intergovernmental fiscal relations, to
+tighten municipal budget constraints.
+Executive Directors noted that longer-term growth prospects and fiscal sustainability, would be
+bolstered by improvements in labor and product market performance. Greater utilization of
+human resources and strengthened competition in product markets were seen as vital
+components of boosting Finland’s growth potential and placing its public finances on a sounder
+footing. Directors considered that efforts to increase employment rates by the young and older
+workers would be most useful. Increased wage differentiation was deemed to help “price-in”
+those with little labor market experience or low skills. Reducing the scope for early retirement
+and increasing activation requirements, along with the elimination of “poverty traps” through
+reform of tax and benefit schemes, could also foster greater employment, especially among
+older workers. Policies responding to these issues will need to take political economy
+considerations into account. Directors advocated measures to enhance competition, especially
+in sheltered sectors, to complement labor market reforms and boost productivity growth.
+Directors welcomed the soundness and stability of the financial sector, as well as its diligent
+supervision. At the same time, they counseled vigilance, in light of rising international integration
+and rapidly evolving infrastructure. Enhanced cross-border cooperation among supervisors is
+crucial given the expanding foreign ownership of domestic banking operations. And heightened
+cooperation with both market participants and foreign supervisors was desirable to control the
+systemic risks arising from the adoption of new technologies or products.
+
+4
+
+Public Information Notices (PINs) form part of the IMF's efforts to promote transparency of the IMF's
+views and analysis of economic developments and policies. With the consent of the country
+(or countries) concerned, PINs are issued after Executive Board discussions of Article IV consultations
+with member countries, of its surveillance of developments at the regional level, of post-program
+monitoring, and of ex post assessments of member countries with longer-term program engagements.
+PINs are also issued after Executive Board discussions of general policy matters, unless otherwise
+decided by the Executive Board in a particular case.
+
+5
+
+Finland: Selected Economic Indicators
+2004
+
+2005
+
+2006
+
+2007 1/
+
+3.7
+3.0
+0.1
+
+2.9
+4.3
+0.8
+
+5.5
+3.1
+1.3
+
+4.0
+3.6
+1.5
+
+8.8
+26.5
+18.8
+
+8.4
+25.7
+20.6
+
+7.7
+26.6
+20.7
+
+6.7
+27.5
+21.0
+
+Overall balance
+Primary balance 3/
+Gross debt (Maastricht definition)
+Money and credit (end of year, percentage change)
+
+2.1
+2.1
+44.1
+
+2.5
+2.5
+41.4
+
+3.8
+3.7
+39.1
+
+4.0
+3.9
+36.1
+
+M3 (Finnish contribution to euro area) 4/
+Total domestic credit 4/
+Interest rates (year average)
+
+6.3
+10.5
+
+8.2
+12.9
+
+8.1
+12.1
+
+10.0
+12.0
+
+2.1
+4.1
+
+2.2
+3.4
+
+3.1
+4.0
+
+3.9
+4.0
+
+Trade balance
+
+6.6
+
+4.9
+
+5.7
+
+6.1
+
+Current account
+
+7.7
+
+5.1
+
+5.8
+
+6.6
+
+Real economy
+GDP (change in percent)
+Domestic Demand (change in percent)
+Harmonized CPI (change in percent) 2/
+Unemployment rate (in percent) 2/
+Gross national saving (in percent of GDP)
+Gross domestic investment (in percent of GDP)
+Public finances (general government, in percent of GDP)
+
+Three-month money market 5/
+Ten-year government bonds 5/
+Balance of payments (in percent of GDP)
+
+Fund position (as of end-April 2007)
+Fund holding of currency (in percent of quota)
+Holdings of SDRs (in percent of allocation)
+Quota (in millions of SDRs)
+Exchange rate
+Exchange rate regime
+Present rate (July 5, 2007)
+Nominal effective exchange rate (increase in percent) 6/
+Real effective exchange rate (increase in percent) 7/
+
+92.4
+90.0
+1,263.80
+Euro
+US$ 1.36 per euro
+
+2.2
+-0.5
+2.4
+0.2
+Sources: Finnish authorities; International Financial Statistics; and IMF Staff estimates.
+1/ IMF staff estimates and projections, unless otherwise indicated.
+2/ Consistent with Eurostat methodology.
+3/ Defined as non-interest revenue minus non-interest expenditure.
+4/ For 2007, 12-month increase to March.
+5/ For 2007, monthly average for March.
+6/ For 2007, average 12-month increase to May.
+7/ Based on unit labor costs. For 2007, average 12-month increase to May.
+
+0.0
+0.2
+
+1.7
+1.8
+
+Statement by Tuomas Saarenheimo, Executive Director for Finland
+August 1, 2007
+Recent Economic Developments and Outlook
+1.
+The upswing of the Finnish economy since the beginning of 2006 is proven to be
+stronger and longer lasting than anticipated. In the first quarter of this year, GDP growth
+continued at the brisk rate of 5 percent. As consumer confidence and domestic demand
+appear to be holding up well, the growth rate for the full year of 2007 is likely to come in at
+slightly above 4 percent, somewhat short of the 2006 rate which was inflated by the rebound
+from a major labor dispute a year earlier, but still above the potential rate of growth. In line
+with staff’s projection, the authorities expect growth to decelerate further in the following
+years, mainly due to capacity constraints and especially the shortage of skilled labor in
+mechanical engineering industry and construction.
+2.
+Supported by the cyclical upswing, the good employment trend of the past couple of
+years is continuing in 2007, with the employment rate approaching, or even surpassing, 70
+percent. Labor demand remains high, as evidenced by the large number of vacancies. The
+seasonally adjusted unemployment rate has decreased steeply during the spring and stood at
+6.7 percent in June, an improvement of 1.1 percentage points from a year earlier. The supply
+of labor is also increasing, as the average retirement age continues to increase and strong
+labor demand is attracting people from outside the labor market. Despite these positive
+developments in labor supply, labor markets are tightening, as reminded by staff, and the
+unemployment rate is now below its estimated structural level of 7.2 percent.
+3.
+Although inflation remains modest, it is gradually moving closer to the euro area
+levels. The EU harmonized measure of consumer inflation, at around 1.4 percent, stands now
+half a percentage point below the euro area average. In the future, the authorities expect
+inflation to slightly accelerate further, consistent with staff’s forecast. In addition to the high
+energy prices, this is partially due to accelerating wage dynamics caused by the tightening
+labor market conditions. While the annual average increase in the earnings is expected to
+remain unchanged at around 3 percent in 2007, the projection for 2008 is two percentage
+points higher, much due to the timing of the contractual pay increases at the end of the year.
+From the last quarter of the previous year to the last quarter of 2007, the earnings index is
+expected to increase by 4.5 percent, and the pace of rise seems to continue throughout 2008.
+4.
+While wage growth remains above the EU average, continuing productivity growth
+has ensured that, in terms of external competitiveness, Finland’s situation remains
+comfortable. In addition, Finland has greatly benefited – likely more than most other EU
+countries – from the ongoing global investment boom, particularly through the rising export
+prices in the metals industry, which has helped to offset the trend-like decline in the export
+
+2
+prices of telecommunication products. This pattern of export growth is expected to continue
+in the near future, and will help to broaden the Finnish export base. In the period from
+January to April 2007, the export share of the metals industry (16 percent) as well as the
+combined share for the rapidly growing mechanical and electric machinery industries (17
+percent) exceeded the declining shares for the traditionally strong paper industry (14.7
+percent) and telecommunication products (13.9 percent). However, looking further ahead, the
+authorities acknowledge a non-negligible risk of current account weakening, due to high and
+increasing labor costs and the deteriorating trend in terms of trade, as mentioned by staff.
+5.
+Aided by the rise in economic activity and the strong growth in capital income, the
+financing position of the general government will strengthen this year, with an anticipated
+fiscal surplus of more than 4 percent of GDP. General government revenues will grow by 5.5
+percent this year, while the growth in expenses will be 4.5 percent. Moreover, the recently
+updated figures suggest that general government expenditure as a share of GDP will decline
+by one percentage point to 44.6 percent this year.
+Fiscal Policy
+6.
+As noted by the staff report, the Government Program for the years 2008-2011
+includes some essential and long-promised, short-term increases in public expenditures. The
+authorities acknowledge that this is likely to result in a deterioration of the fiscal position.
+They also share staff’s view on the need to maintain tight fiscal policy in the current cyclical
+upswing. Recognizing the risk of weakening industrial competitiveness towards the end of
+the cyclical peak, due to growing cost and wage pressures, the central task of the
+government’s economic policy is to safeguard economic stability. Accordingly, the
+envisaged tax cuts, mostly intended to enhance economic efficiency, are to take place at the
+end of the current term.
+7.
+Nonetheless, the greatest challenge for fiscal policy comes from the rapidly
+proceeding population ageing, and the authorities fully share staff’s concerns in this respect.
+The May 2007 update to the population forecast revises mortality projections downward and
+life expectancy upwards, with the result that in 2040, the number of population over 65 years
+is now expected to be some 120 000 larger than suggested by projections only three years
+ago. While the longevity correction included in the pension system will partly neutralize the
+effect of increases in life expectancy on pension expenditure, the consequences to health care
+and elderly care expenditure will be tangible. At the same time, due to a higher fertility ratio,
+the number of children will also exceed earlier estimates, resulting in an overall higher
+dependency ratio. The increasing expenditure pressures from pension and welfare services
+will coincide with declining growth in national income and the tax base, resulting in
+significant challenges for the sustainable funding of the general government.
+
+3
+8.
+The authorities agree that under current policies, the fiscal position of the general
+government is unsustainable over the long term. Nonetheless, they believe that once the
+envisaged reforms can contribute to a substantially faster growth rate than that underlying the
+present economic forecasts, a view also supported by Finland’s outstanding track record in
+recent years. The Government Programme aims to achieve a structural surplus of one percent
+of GDP for the central government by the end of this parliamentary term. The Government
+Programme also commits the new government to achieve the goals stated in Finland’s
+Stability Programme submitted by the previous government. The surplus objective will be
+supported by structural reforms, including an overhaul of the social security system, to
+improve the functioning of the labor markets. In addition, as noted by staff, the risks to
+inflation and the fiscal position can be alleviated by appropriate timing of the planned
+spending hikes and tax reductions.
+9.
+The authorities recognize that adjustment of the fiscal situation to the challenges of
+population ageing must take place also on the expenditure side. As mentioned in the staff
+report, several investment projects have already been postponed in the medium-term budget
+framework to limit growth in government spending. It is also worth pointing out that
+envisaged cuts in income taxation will be postponed to cyclically more suitable times and
+will thus be back-loaded.. Moreover, the authorities concur with the assessment that there is a
+potential for savings from enhancing the efficiency of government service provision, without
+any deterioration in the quality of services. To this end, continued implementation of the
+Government productivity program and restructuring of public services remain key.
+10.
+At the local government level, while tax revenues and central government transfers
+continue to rise rapidly, further savings can be gained from the government’s ongoing
+municipalities and services reform. The aim of the reform is to improve productivity and
+curb local government expenditure growth. Service structures will be strengthened by
+consolidating individual services that require a population base larger than one municipality
+to be viable, and closer cooperation between municipalities will be promoted. Appropriate
+regrouping and merging of municipalities will further bolster the efficiency of local
+government. Some outright mergers have already taken place, and tens of further mergers are
+under preparation. The number of municipalities stands now at 416, down from 448 five
+years ago. As recognized by staff, however, the low population density does set some natural
+limits to the economies of scale from such development.
+11.
+As the Government Programme states, the authorities are committed to secure the
+sustainability of public finances. According to the Government Programme, the government
+will assess whether sufficient provisions have been made to meet the impending challenges
+brought about by population ageing so that any necessary corrective actions can be
+undertaken while the present government is still in office.
+
+4
+Labor Market Policies
+12.
+Despite the many positive developments in the Finnish labor market, staff correctly
+highlights the remaining structural problems. The recent gains in employment rates and the
+falling unemployment rate mask weaknesses in some parts of the labor market. Although the
+employment rate of older workers has improved rapidly in recent years, it remains below that
+of the Nordic peers, and the same applies to employment of the Finnish youth. These
+concerns need to be addressed, particularly in light of the demographic changes and the
+incipient downward turn in the overall labor force. The authorities, therefore, concur with
+staff’s assessment on the need to improve labor market participation by shortening study
+times and encouraging ageing workers to stay longer in working life. In line with this, labor
+market issues are high on the government’s agenda.
+13.
+Changes are already taking place in the Finnish labor market. The recent
+decentralized wage agreements take better into account the economy-wide differences in
+productivity developments by enhancing the scope of local bargaining, thus providing more
+flexibility in the wage-setting system. The government plans include a substantial increase in
+wage subsidies for low-wage jobs, implementation of an action plan to activate young
+unemployed, as well as to phase in a profiling system for job seekers. In addition, the merger
+of the Ministry of Labor and the Ministry of Trade and Industry, once implemented in 2008,
+is expected to smooth the process of matching job seekers and vacancies by utilizing the
+public employment services more effectively.
+14.
+To introduce more fundamental improvements to the functioning of the Finnish labor
+market, the government is planning to review the entire social security system and has set up
+a tripartite committee to consider different reform possibilities. The work of the committee
+covers the areas of (i) basic social security, (ii) earnings-related security, (iii) financing and
+incentives and (iv) governance and processes. The committee’s work will commence this fall
+and is expected to be completed by the end of 2009, with the first legislative changes
+anticipated in the fall of 2008. The timetable is intentionally cautious, as the policies and
+benefit systems under scrutiny are socially sensitive, and rushing could endanger the success
+of the reform.
+Financial Sector
+15.
+Staff correctly observes that the Finnish financial system remains stable and sound. In
+2006 the profitability and capital adequacy of the Finnish banks and most insurance
+companies was strong. Data from the first two quarters of 2007 indicate continued
+improvement of profitability. The risk-bearing capacity of the financial system remains very
+good.
+
+5
+16.
+Banks’ good results have been boosted by rapid growth in net interest income,
+generated by an increase in the volume of financial intermediation and the widening margin
+between lending and deposit rates, as the pass-through of the increasing market interest rates
+is stronger to the former than to the latter. At the same time, tight competition has kept
+lending margins over the reference market interest rates narrow, which may pose a risk to
+banks’ profitability in the long term. While intensifying competition has not so far been
+reflected in deposit rates, there are some incipient signs of a change on this front as well.
+17.
+Household indebtedness remains relatively moderate in international comparison, and
+is not seen as a threat to financial stability or to sustained economic growth. This
+notwithstanding, as noted by staff, household debt is unevenly distributed within the
+household sector, which might give cause for some concern. The bulk of debt is, however,
+held by households with the highest levels of income, which also have greater assets than
+other households.
+18.
+The corporate sector profitability is good and the level of debt reasonable. Banks’
+actual credit losses or nonperforming assets show no indication of increased difficulties in
+the corporate sector.
+19.
+The most significant internal challenges to the stability of the financial system are
+structural and related to the consolidation and internalization of the financial sector. As also
+highlighted by staff, these structural changes also pose substantial challenges for regulation
+and supervision. In the future, the two major commercial banks may be transformed into
+branches of their foreign parent banks. Such a reorganization would lead to an entirely new
+situation for supervision, as the EU legislation so far does not give the host country
+supervisor much of a role. To the extent the host supervisor has a role, it comes largely from
+the option for the home country supervisor to outsource some tasks. Financial stability and
+consumer confidence might require creating a framework that allows active participation by
+the host country supervisor also in the case of branches.
+20.
+The consolidation of the Finnish Financial Supervision Authority and the Insurance
+Supervision Authority, which is included in the Government Programme, is designed to
+improve the efficiency of financial and insurance market supervision by exploiting the
+synergies both in expertise and in terms of common supervised entities.
+21.
+There are many ongoing large EU projects (e.g. the Single Euro Payments Area) in
+the area of financial market infrastructure that will bear fruit over the next few years. These
+initiatives will improve the efficiency of the Finnish financial system thanks to economies of
+scale, but they also include challenges from the viewpoint of maintaining the current high
+service levels, competition issues and crises management.
+
+

@@ -1,0 +1,9916 @@
+April 2008
+IMF Country Report No. 08/126
+
+© 2008 International Monetary Fund
+
+[Month, Day], 201
+
+August 2, 2001
+
+St. Kitts and Nevis: 2007 Article IV Consultation—Staff Report; Staff Statement; and
+Public Information Notice on the Executive Board Discussion
+Under Article IV of the IMF’s Articles of Agreement, the IMF holds bilateral discussions with
+members, usually every year. In the context of the 2007 Article IV consultation with St. Kitts and
+Nevis, the following documents have been released and are included in this package:
+•
+
+The staff report for the 2007 Article IV consultation, prepared by a staff team of the IMF,
+following discussions that ended on October 9, 2007, with the officials of St. Kitts and Nevis
+on economic developments and policies. Based on information available at the time of these
+discussions, the staff report was completed on December 17, 2007. The views expressed in
+the staff report are those of the staff team and do not necessarily reflect the views of the
+Executive Board of the IMF.
+
+•
+
+A staff statement of February 4, 2008, updating information on recent developments.
+
+•
+
+A Public Information Notice (PIN) summarizing the views of the Executive Board as
+expressed during its February 4, 2008 discussion of the staff report that concluded the
+Article IV consultation.
+
+The document listed below will be separately released.
+Statistical Appendix
+The policy of publication of staff reports and other documents allows for the deletion of market-sensitive
+information.
+Copies of this report are available to the public from
+International Monetary Fund • Publication Services
+700 19th Street, N.W. • Washington, D.C. 20431
+Telephone: (202) 623-7430 • Telefax: (202) 623-7201
+E-mail: publications@imf.org • Internet: http://www.imf.org
+Price: $18.00 a copy
+
+International Monetary Fund
+Washington, D.C.
+
+INTERNATIONAL MONETARY FUND
+ST. KITTS AND NEVIS
+Staff Report for the 2007 Article IV Consultation
+Prepared by the Staff Representatives for the 2007 Consultation with
+St. Kitts and Nevis
+Approved by Markus Rodlauer (WHD) and Matthew Fisher (PDR)
+December 17, 2007
+EXECUTIVE SUMMARY
+Political context: St. Kitts and Nevis form a twin-island federation with a unicameral parliament. In the October 2004
+elections, the incumbent Labor Party was re-elected with a large majority. The next election is due in 2009 but could take
+place earlier. The Nevis Reformation Party returned to power in Nevis in July 2006 after 14 years in opposition.
+Background: The economic rebound continued in 2006, but showed signs of weakening in 2007. The public debt-toGDP ratio—at about 185 percent as of end-2006—leaves little room for maneuver in the event of an adverse shock. In
+the 2006 budget, the authorities announced a strategy to restore fiscal and debt sustainability, in conjunction with
+transition out of sugar production. The fiscal stabilization program has borne fruit, with a primary surplus expected in
+2007 for the third consecutive year, although there has been some fiscal loosening relative to 2006.
+External competitiveness: Although the real effective exchange rate and medium-term current account deficits are
+broadly in line with fundamentals, maintaining competitiveness remains challenging. Fiscal consolidation will be
+important for supporting competitiveness, maintaining stability, and underpinning the quasi-currency board arrangement.
+Discussions focused on the key challenges facing St. Kitts and Nevis:
+• Restoring fiscal and debt sustainability. Further efforts are needed to put debt on a solid downward path and
+achieve the government’s goal of a primary surplus of 8 percent of GDP by 2010. The authorities broadly agreed with the
+mission’s recommendations, including comprehensive tax reforms, expenditure restraint, enhanced debt management and
+oversight of public enterprises, and tapping more concessional financing (e.g., European Union sugar grants).
+• Enhancing competitiveness and growth. There was broad consensus on the need to accelerate structural reforms—
+especially enhancing the business climate, improving labor market flexibility, and strengthening regional integration—to
+promote private sector-led growth. The authorities recognized the urgency of divesting government land/assets for more
+productive uses, but have faced resistance to selling off the nation’s “patrimony.”
+• Containing risks. The high and rising government exposure of the banking system warrants close monitoring, and
+the rapidly-growing nonbank sector needs to be better supervised. The authorities clearly recognized the country’s
+vulnerability to a range of exogenous shocks and agreed that a contingency plan should be prepared to allow a rapid
+response in the event of an adverse shock.
+
+2
+CONTENTS
+
+Page
+
+Executive Summary ............................................................................................................................... 1
+I.
+
+Context
+
+...................................................................................................................................... 3
+
+II.
+
+Recent Economic Developments and Outlook ............................................................................... 4
+
+III. Policy Discussions.......................................................................................................................... 9
+A. Restoring Fiscal and Debt Sustainability................................................................................ 9
+B. Enhancing Competitiveness and Growth.............................................................................. 13
+C. Containing Risks................................................................................................................... 17
+IV. Staff Appraisal.............................................................................................................................. 20
+Boxes
+1. External Competitiveness ............................................................................................................. 14
+2. Land Development and Sales ....................................................................................................... 19
+Figures
+1. Banking System Developments, 2000–07...................................................................................... 5
+2. Fiscal Developments, 2002–06....................................................................................................... 7
+3. Evolution of Public Debt, 2000–06 ................................................................................................ 8
+4. External Competitiveness, 1990–2007 ......................................................................................... 15
+5. Doing Business Indicators, 2007 .................................................................................................. 16
+6. Public Debt Sustainability: Bound Tests ...................................................................................... 24
+7. External Public Debt Sustainability: Bound Tests........................................................................ 25
+Annexes
+1. Medium-Term Fiscal Scenarios and Debt Sustainability Analysis .............................................. 22
+2. Summary of Appendices .............................................................................................................. 26
+Tables
+1. Basic Data..................................................................................................................................... 27
+2. Central Government Fiscal Operations, 2001−08 (in millions of EC dollars) ............................. 28
+3. Central Government Fiscal Operations, 2001−08 (in percent of GDP) ....................................... 29
+4. Structure of the Public Debt, 2001−07 ......................................................................................... 30
+5. Balance of Payments, 2002−12 .................................................................................................... 31
+6. Monetary Survey, 2001−07 .......................................................................................................... 32
+7. Summary Medium-Term Projections, 2004–12 ........................................................................... 33
+8. Indicators of External and Financial Vulnerability, 2001–07....................................................... 34
+9. Status of Policy Conditions for the First Disbursement of PBL .................................................. 35
+10. Public Sector Debt Sustainability Framework, 2002−12 ............................................................. 36
+11. External Debt Sustainability Framework, 2002−12 ..................................................................... 37
+
+3
+I. CONTEXT
+1.
+St. Kitts and Nevis is a small, open, middle-income country that is highly
+vulnerable to shocks. The closure in 2005 of the sugar industry—the historical mainstay of
+the economy—set the stage for a new economic course. The key challenges now facing the
+economy include:
+•
+
+Transition out of sugar. The country is grappling with the challenge of putting labor
+and land released from the sugar sector to more productive uses. In consultation with
+the European Union (EU), the government adopted a National Adaptation Strategy in
+2006 that aims to put the economy on a sustainable growth path.
+
+•
+
+Debt burden. Public debt1—the result of a series of exogenous shocks and
+accommodative policies—amounted to about 185 percent of GDP by end-2006. In the
+2006 budget, the authorities announced the goal of boosting the primary surplus to
+8 percent of GDP by 2010 to place public debt on a solid downward trajectory.
+
+•
+
+Vulnerability. The economy is vulnerable to external shocks, particularly natural
+disasters and shifts in tourism demand. High public debt leaves little room for
+maneuver.
+
+2.
+Inter-island relations have improved, but the political atmosphere makes fiscal
+consolidation and reform challenging. The new Nevis Island Administration (NIA) has
+taken a conciliatory approach toward working with the St. Kitts’ Government. In a departure
+from past practice, the two islands have held joint Cabinet meetings, including a joint
+concluding meeting with the mission. There is speculation in St. Kitts that early elections
+might be called in 2008. The NIA also faces pressure to deliver on campaign promises such
+as social programs and road construction.
+3.
+Social indicators remain
+favorable. The country has the secondhighest per capita income in the Eastern
+Caribbean Currency Union (ECCU) and
+ranks third among Caribbean nations in the
+UN’s Human Development Index.
+However, the spread of HIV/AIDS and
+diabetes is becoming a concern.
+
+1
+
+St. Kitts and Nevis: Selected Social and Demographic Indicators
+
+HDI rank (rank out of 177 countries), 2007
+Life expectancy at birth (years), 2005
+Adult illiteracy rate (% of people ages 15 and above), 2004
+Infant mortality (per 1,000 live births), 2005
+GNI per capita (US$), 2006
+Gini coefficient
+Aids incidences (per 100,000), 1998
+
+St. Kitts
+and Nevis
+54
+71.0
+2.2
+18.0
+7,840
+0.445
+14
+
+ECCU
+...
+73.7
+8.2
+14.7
+5,685
+0.480
+9
+
+Sources: World Bank, WDI; United Nations, Human Development Report 2007;
+and Fund staff estimates.
+
+Public debt includes the debt of the St. Kitts Government, Nevis Island Administration, and statutory bodies,
+including debt to the social security system but excluding all other intra-public sector debt.
+
+4
+II. RECENT ECONOMIC DEVELOPMENTS AND OUTLOOK
+4.
+
+The economic rebound continued in 2006, but showed signs of slowing in 2007.
+•
+
+Growth. The economy grew by 4 percent in 2006, driven by tourism, construction,
+and communications. Growth is projected at 3.3 percent in 2007, with tourism
+receipts marginally lower, notwithstanding the Cricket World Cup.
+St. Kitts and Nevis: Contribution to Overall Inflation
+
+•
+
+(In percent)
+
+Inflation. Average inflation reached
+8.5 percent during 2006, the highest in
+the ECCU. This reflected large
+adjustments in fuel prices and a new fuel
+surcharge for electricity, which led to
+higher prices for other items, particularly
+transportation and food. Inflation has
+since decelerated to under 5 percent.
+
+10
+Transportation and communication
+8
+
+Food
+Overall inflation
+
+6
+4
+2
+0
+Jan-03
+
+Dec-03
+
+Nov-04
+
+Oct-05
+
+Sep-06
+
+Aug-07
+
+Sources: St. Kitts and Nevis authorities; and Fund staff estimates.
+
+•
+
+Balance of payments. Reflecting strong
+construction-related imports, the current
+account deficit increased to 29 percent of
+GDP in 2006. This was largely financed
+by tourism-related FDI (40 percent of
+GDP, twice the level in 2005). The
+current account deficit is projected to
+widen slightly to 31 percent of GDP in
+2007, but will continue to be largely
+financed by FDI.
+
+50
+
+St. Kitts and Nevis: Components of Balance of Payments
+(In percent of GDP)
+Current account deficit
+
+40
+30
+20
+10
+0
+
+Capital and financial account, net inflows
+Public sector
+Foreign direct investment
+Other private (including errors and omissions)
+
+-10
+-20
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+Proj.
+5.
+Although prudential indicators point to
+Sources: St. Kitts and Nevis authorities; ECCB; and Fund
+staff estimates.
+some strengthening of the banking system, its
+high public sector exposure has increased further (Figure 1). Profitability and loan-loss
+provisioning of locally-incorporated banks have increased. The nonperforming loans (NPLs)
+ratio declined to just above the ECCB’s prudential target of 5 percent of total assets,2 in part
+reflecting the rebound in credit to the private sector on the back of buoyant economic
+activity. However, the banking system’s public sector exposure continued to increase. As of
+June 2007, banks held 44 percent of total public debt (an increase of 10 percentage points
+
+2
+
+The 2004 ECCU FSSA, however, noted that there were some problems with loan classification by locallyincorporated banks in the ECCU, particularly with regard to public sector debt.
+
+5
+Figure 1. St. Kitts and Nevis: Banking System Developments, 2000–2007
+(In percent)
+Unsatisfactory asset ratios have been falling,
+although they are still higher in local banks.
+1/
+
+50
+
+30
+
+40
+
+25
+
+Ratio to total assets
+
+30
+20
+10
+
+20
+15
+10
+5
+
+0
+
+07
+pSe
+
+20
+06
+
+20
+05
+
+20
+04
+
+20
+03
+
+20
+02
+
+...but are less liquid than foreign banks.
+
+Liquid assets ratio
+
+50
+
+3
+2
+1
+
+40
+30
+20
+10
+
+100
+80
+60
+40
+20
+0
+20
+
+00
+
+05
+04
+03
+02
+01
+20
+20
+20
+20
+20
+Locally-incorporated banks
+Foreign bank branches
+ECCU average
+
+20
+
+06
+
+Se
+
+p-
+
+07
+
+07
+p-
+
+Se
+
+20
+06
+
+20
+05
+
+Locally incorporated banks
+Foreign banks
+ECCU average
+
+Provisioning has recently become higher
+in local banks.
+
+140
+120
+
+20
+04
+
+06
+07
+p20
+Se
+
+20
+03
+
+01
+05
+04
+03
+02
+20
+20
+20
+20
+20
+Locally-incorporated banks
+Foreign bank branches
+ECCU average
+
+Capital to risk-weighted assets
+
+160
+
+00
+
+20
+00
+
+20
+
+20
+02
+
+0
+
+0
+
+Ratio to NPLs
+
+20
+01
+
+20
+00
+
+p-
+
+Locally-incorporated banks
+Foreign bank branches
+ECCU average
+
+Local banks have become more profitable
+than foreign banks...
+
+4
+Return on avg. assets
+
+07
+
+06
+
+Locally-incorporated banks
+Foreign bank branches
+ECCU average
+
+Se
+
+20
+
+05
+20
+
+04
+20
+
+03
+20
+
+02
+20
+
+20
+
+20
+
+01
+
+00
+
+0
+
+20
+01
+
+Ratio to total assets
+
+Gross public sector exposure is high and
+concentrated in local banks.
+
+Officially reported capital adequacey ratios are
+well above prudential norms.
+50
+40
+30
+20
+10
+0
+20
+
+00
+
+05
+04
+03
+02
+01
+20
+20
+20
+20
+20
+Locally-incorporated banks
+
+ECCU average
+
+Source: ECCB
+1/ Unsatisfactory assets include nonperforming loans, credits, and overdrafts.
+
+20
+
+06
+
+Se
+
+0
+p-
+
+7
+
+6
+from end-2004), with the majority held by indigenous banks. Indeed, the public sector
+accounted for 68 percent of locally-incorporated banks’ loan portfolios.
+6.
+The government achieved a sizable primary surplus in 2006, for the second year
+St. Kitts and Nevis: Selected Fiscal Indicators, 2004–07
+in a row (Figure 2). A buoyant economy,
+Prel. Budget Proj.
+the electricity surcharge, and strengthened
+2004 2005 2006 2007 2007
+tax administration allowed the government
+(Central government, in percent of GDP)
+Revenue
+33.9 36.7
+36.2
+36.0 35.8
+to broadly preserve the revenue gains
+Grants
+0.4
+2.7
+2.7
+1.5
+1.5
+realized in 2005. While government wages Expenditure
+Current
+34.9 36.9
+36.0
+32.6 35.3
+were contained, large expenditure
+Of which
+Interest payments
+7.1
+8.1
+9.6
+7.0
+9.5
+overruns continued for goods and services, Capital spending and net lending
+7.2
+6.7
+8.3
+11.9
+9.1
+Current balance
+-1.0 -0.1
+0.3
+3.5
+0.5
+capital, and net lending.
+Primary balance
+-0.8
+4.0
+4.3
+0.4
+2.4
+-6.6
+
+-7.1
+
+government debt
+121.2 117.2 112.6
+...
+7.
+The primary surplus is projected Central
+Public sector debt
+195.0 194.8 184.6
+...
+to decline in 2007. Several factors are
+Sources: St. Kitts and Nevis authorities; and Fund staff estimates.
+contributing: a reduction in the electricity
+fuel surcharge in early 2007 and a sharp increase in net lending in St. Kitts; and a neartripling of capital expenditure in Nevis, with major road projects underway.
+
+Overall balance
+
+-7.9
+
+-4.1
+
+-5.3
+
+109.7
+180.4
+
+8.
+The picture for the broader public sector is less clear. There is little financial
+information on public enterprises—whose share in public debt reached 38 percent by endJune 2007—hindering an accurate assessment of the public sector fiscal stance and debt
+sustainability.
+9.
+Public debt remains a major source of risk (Figure 3). Although debt declined by
+about 10 percent of GDP during 2006, rising debt service costs—reflecting increasing rates
+for new borrowing—crowded out social spending. Facing tightened external borrowing
+conditions, the government has not accessed new commercial external borrowing since 2005,
+relying instead mainly on the expensive overdraft facility, which has tripled in two years to
+about 22 percent of GDP by end-June 2007.
+St. Kitts and Nevis: Implicit Interest Rates on Central Government Debt 1/
+(In percent)
+
+9
+
+16
+14
+
+8
+
+12
+
+7
+
+St. Kitts and Nevis: Central Government Debt Service and
+Social Expenditure, 2004–06
+(In percent of GDP)
+Debt service 1/
+Education
+Health
+
+10
+8
+
+6
+
+6
+
+5
+Total debt
+
+Domestic
+
+4
+
+External
+
+2
+
+4
+
+0
+
+3
+1998
+
+1999
+
+2000
+
+2001
+
+2002
+
+Source: St. Kitts and Nevis authorities.
+1/ Excludes SSMC debt.
+
+2003
+
+2004
+
+2005
+
+2006
+
+2004
+
+2005
+
+Sources: St. Kitts and Nevis authorities; and Fund staff estimates.
+1/ Interest plus external amortization.
+
+2006
+
+7
+
+Figure 2. St. Kitts and Nevis: Fiscal Developments, 2002–06
+(In percent of GDP, central government)
+
+12
+
+The fiscal position improved in recent
+years...
+
+8
+
+48
+46
+
+Primary balance
+
+4
+
+44
+
+0
+
+42
+38
+
+-8
+
+36
+
+-12
+
+34
+
+Overall Balance
+
+-16
+2002
+
+2003
+
+2004
+
+Revenue
+
+32
+
+-20
+2005
+
+2006
+
+Revenue growth reflected a buoyant
+economy and strengthened administration.
+
+30
+2002
+
+10.0
+
+2003
+
+2004
+
+2005
+
+2006
+
+However, interest costs have increased
+sharply.
+
+9.5
+
+Taxes on international
+trade and transactions
+
+9.0
+8.5
+
+Interest
+payments
+
+8.0
+
+Income and property taxes
+
+7.5
+7.0
+
+Taxes on domestic goods
+and consumption
+2003
+
+2004
+
+2005
+
+6.5
+2006
+
+6.0
+2002
+
+The fall in primary spending reflects
+better control on wages and net lending...
+16
+
+16
+
+Wages
+
+14
+
+2003
+
+8
+
+Current transfers
+
+6
+
+4
+
+Capital expenditure
+
+4
+
+2
+
+2
+
+Net lending
+2003
+
+2004
+
+2006
+
+Goods and services
+
+10
+
+8
+
+0
+
+2005
+
+...although expenditures on goods
+and services and public investment
+remain high.
+
+12
+
+10
+6
+
+2004
+
+14
+
+12
+
+-2
+2002
+
+Primary spending
+
+40
+
+-4
+
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+0
+2002
+
+...reflecting lower spending and increased
+revenue.
+
+2005
+
+2006
+
+0
+2002
+
+Sources: St. Kitts and Nevis authorities; and Fund staff estimates.
+
+2003
+
+2004
+
+2005
+
+2006
+
+8
+
+Figure 3. St. Kitts and Nevis: Evolution of Public Debt, 200006
+(In percent of GDP)
+
+140
+120
+
+Reliance on domestic debt has
+increased...
+
+75
+
+External
+Domestic
+
+60
+
+100
+
+...principally via overdrafts, and
+loans and advances...
+
+Overdraft
+Government securities
+Loans and advances
+
+45
+
+80
+60
+
+30
+
+40
+15
+
+20
+0
+
+0
+2000 2001 2002 2003 2004 2005 2006
+
+2000 2001 2002 2003 2004 2005 2006
+
+...while external debt is mainly
+from commercial sources.
+60
+50
+40
+
+The share of public enterprise
+borrowing has increased.
+140
+
+Bilateral
+Commercial
+Multilateral
+
+St. Kitts Government
+Nevis Island Administration
+Public enterprises 1/
+
+120
+100
+80
+
+30
+
+60
+20
+
+40
+
+10
+
+20
+
+0
+
+0
+2000 2001 2002 2003 2004 2005 2006
+
+2000 2001 2002 2003 2004 2005 2006
+
+Net debt including social security assets is still high.
+
+210
+180
+150
+
+Total public debt net of social security assets
+Total public debt
+
+120
+90
+60
+30
+0
+2000
+
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+Sources: ECCB; St. Kitts and Nevis authorities; and Fund staff estimates.
+1/ Including SSMC.
+
+2006
+
+9
+10.
+The government plans to refinance its more costly debt. In October 2006, the
+CDB approved a policy-based guarantee, renewable annually, covering one year of debt
+service on a proposed 12-year bond of EC$150 million. Proceeds from the bond, when fully
+subscribed, would be used to repay more costly debt. In February 2007, the CDB approved a
+policy-based loan (PBL) of US$20 million. The first tranche is pending implementation of
+several policy measures (Table 9).
+11.
+Economic prospects look promising, with a number of high-end foreign
+investment tourism projects in the pipeline. If the authorities push ahead with their reform
+agenda, real growth is projected at around 4 percent over the medium term. However, the
+potential slowdown of the global economy, particularly in the United States, and exogenous
+shocks such as hurricanes pose downside risks to the outlook.
+III. POLICY DISCUSSIONS
+Discussions centered on restoring fiscal and debt sustainability, enhancing competitiveness
+and growth, and containing risks.3 The authorities generally agreed with the staff’s analysis
+and recommendations, and reaffirmed their commitment to reducing public debt in an
+effective and orderly manner.
+A. Restoring Fiscal and Debt Sustainability
+12.
+The government aims to raise the primary surplus to 8 percent of GDP by 2010,
+putting debt on a solid downward
+ECCU: Revenue and Expenditure
+trajectory. The authorities have already
+(In percent of GDP; 20052006 average)
+Non-interest
+taken important steps toward this goal,
+Tax Revenue
+Current
+including strengthening tax administration;
+Expenditure
+Antigua and Barbuda
+20.1
+20.7
+introducing an electricity fuel surcharge;
+Dominica
+31.1
+25.7
+adopting an automatic fuel pricing
+Grenada
+23.2
+18.8
+St. Kitts and Nevis
+28.5
+27.6
+mechanism; and moving toward marketSt. Lucia
+24.0
+18.6
+St. Vincent and the Grenadines
+26.7
+23.9
+valuation-based property tax. They broadly
+Sources:
+St.
+Kitts
+and
+Nevis
+authorities;
+and
+Fund
+staff
+estimates.
+agreed on the need for greater expenditure
+control and prioritization, but noted the challenge of meeting pressing social/development
+needs.
+13.
+However, policies need to be strengthened to achieve these targets. On current
+policies (the “baseline” scenario), the 2008 primary balance is projected to move into deficit,
+and the public debt ratio would increase. With access to external credit markets tightened and
+3
+
+The discussions took place from September 27–October 11, 2007. The team comprised N. Wagner (Head),
+H. Monroe, N. Mwase, and Y. Sun (all WHD) and was joined by staff of the ECCB and the CDB.
+P. Charleton (OED) participated in the final meetings. The team met with Prime Minister Douglas, Deputy
+Prime Minister Condor, Nevis Premier Parry, other senior officials, and representatives of the opposition, trade
+unions, and the private sector.
+
+10
+the domestic banking system already heavily exposed, financing the deficit would require
+land/asset sales, contrary to the government’s strategy to use divestment proceeds to pay
+down debt. Besides strengthening central government finances, improving debt dynamics
+will require better oversight of public enterprises, more land/asset sales, and improved debt
+management capacity, areas where progress has been limited.
+14.
+The mission recommended a set of measures to restore sustainability and
+forestall financing problems. Under an “active scenario” with additional fiscal measures,
+accelerated land/asset sales, and
+St. Kitts and Nevis: Options for Fiscal Adjustment in 2008
+Additional Measures Under Active Scenario Relative to Baseline
+annual GDP growth of about
+(In percent of GDP)
+Measures
+Total St. Kitts
+Nevis
+4 percent, the central government
+Expenditures
+5.9
+3.8
+2.0
+primary surplus is projected to reach Contain wages
+0.4
+0.3
+0.1
+Contain expenditure on goods and services
+0.3
+0.3
+0.1
+8 percent of GDP by 2010 and the
+Corporatize the Electricity Department (net effect)
+0.5
+0.5
+...
+Implement well-targeted social transfers
+(0.1)
+(0.1)
+(0.1)
+public debt would fall to 60 percent
+Reduce transfers to statutory bodies
+0.1
+...
+0.1
+of GDP by 2019 (Annex I). For
+Refrain from net lending to public enterprises
+1.5
+1.5
+...
+Contain capital expenditure
+3.2
+1.3
+1.8
+2008, the mission advocated a
+Revenue
+0.6
+0.5
+0.1
+Increase efforts to collect tax arrears
+0.2
+0.1
+0.1
+central government primary surplus
+Strictly enforce hotel taxes
+0.1
+0.1
+...
+of 6 percent of GDP. With major tax Refrain from price control tax concessions
+0.3
+0.3
+...
+Increase efforts to collect non-tax arrears
+0.1
+...
+0.1
+reforms to be introduced only after
+Total impact of fiscal measures
+6.5
+4.3
+2.1
+2008, the adjustment should focus
+Sources: St. Kitts and Nevis authorities; and Fund staff estimates.
+on containing expenditures while
+preserving revenue gains.
+15.
+Containing expenditures and enhancing efficiency will be crucial. The authorities
+plan to introduce performance budgeting in 2008 to allow for greater accountability in the
+use of budget resources.
+•
+
+Off-budget expenditures. “Below-the-line” accounts, many of which capture revenue
+and expenditure items not in the budget, have proliferated in recent years. With
+CARTAC’s assistance, the authorities have incorporated these accounts into 2006 and
+2007 fiscal estimates. The mission commended the
+ECCU: Wage Bill of Central Government, 2004–06
+government for this accomplishment and
+(In percent of GDP, period average)
+encouraged the authorities to continue
+St. Lucia
+this practice.
+Antigua and
+Barbuda
+
+•
+
+Civil service reform. Despite wage
+Grenada
+restraint in recent years, the
+St. Vincent and the
+Grenadines
+government wage bill remains
+Dominica
+among the highest in the region, partly
+reflecting the operation of parallel St. Kitts and Nevis
+administrations. The mission
+9
+10
+11
+12
+13
+supported the authorities’ plan for
+Sources: ECCU country authorities; and Fund staff estimates.
+
+14
+
+11
+comprehensive civil service reform aimed at eliminating duplication between agencies
+and rationalizing the public sector workforce, while ensuring that compensation is
+sufficient to retain highly-qualified civil servants.
+•
+
+Goods and services. Tighter control over spending on goods and services is crucial.
+The mission supported plans to corporatize the electricity department, which has been
+a substantial drain on the budget, and suggested a similar approach for water services.
+
+•
+
+Capital expenditure and net lending. Capital spending needs to be prioritized, based
+on rigorous cost-benefit analysis and financing availability. The authorities agreed on
+the need to strengthen the PSIP process. The NIA indicated that increased capital
+spending was needed to attract FDI and transform the economy toward high-end
+tourism. Restraining net lending activities would also be important.4
+
+•
+
+Civil servant pension reform. Commendable progress has been made in establishing
+a contributory pension scheme for civil servants. The mission welcomed the
+authorities’ plan to cap double pensions for civil servants and increase their
+retirement age to match that under the social security scheme.
+
+16.
+The mission supported the authorities’ consideration of a transactions-based or
+value-added tax (VAT), but only with a unified administration. A VAT would replace the
+current consumption tax and allow for some increase in revenues to offset the
+implementation of the Common External Tariff (CET) under CARICOM.5
+•
+
+Tax/customs administration needs to be revamped to ensure successful introduction
+of a VAT. Currently, there are two separate administrations—one for each island—
+which do not share revenues. Successful VAT implementation will require a unified
+regime administered at the federal level and effective revenue-sharing. Following a
+recent FAD/CARTAC mission, both islands agreed to establish a joint management
+committee to oversee tax/customs administration. While the St. Kitts Government
+believed revenue sharing would be feasible, the NIA, which has viewed revenue
+autonomy as crucial to its economic development strategy, reserved a firm decision
+pending more details on a proposed revenue-sharing mechanism.
+
+•
+
+Thorough preparation, including developing an action plan for tax administration
+reform, is essential for the VAT’s success. Such a plan would include creation of a
+project team and steering committee and preparation of a detailed roadmap for VAT
+
+4
+
+Net lending in St. Kitts has been mainly on-lending of foreign official credit to statutory bodies, as creditors
+preferred to channel funds through the central government (¶18).
+
+5
+
+The authorities intend to implement Phase IV of the CET gradually over three years, given concerns about
+potential revenue losses.
+
+12
+implementation, including TA needs. The authorities intend to assemble a strong VAT
+team soon and to keep the public fully informed to address uncertainty and
+misperceptions.
+17.
+
+Other reforms to enhance the tax system’s equity and efficiency were discussed.
+•
+
+Social services levy. Adopting a comprehensive personal income tax (PIT) could
+broaden the tax base and enhance progressivity. However, given limited
+implementation capacity and the need to focus on introducing a VAT, it was agreed
+that reforming the existing social services levy, including broadening the definition of
+income, could be preferable to introducing a new PIT at this stage.
+
+•
+
+Property tax. The government has made substantial progress in moving toward a
+market-based valuation system, with assessments expected to be completed by end2007 and implementation to start in 2008.
+
+•
+
+Tax concessions. St. Kitts and Nevis has granted costly investment incentives,
+including generous tax holidays. While the authorities believe that a unilateral
+elimination of incentives could place St. Kitts and Nevis at a disadvantage relative to
+other countries in the region, a new Investment Code under preparation will specify a
+transparent, nondiscretionary regime that provides investment incentives based on
+projected economic impact. The government was considering import duty
+concessions on some foods and other basic necessities to mitigate the impact of rising
+prices. The mission advised against this approach as it could lead to sizable revenue
+losses. Instead, targeted transfers could better compensate low-income households.
+
+•
+
+Corporate income tax. The existing Income Tax Act was enacted some 40 years ago
+and has many loopholes. The mission endorsed the plan to introduce a new Corporate
+Tax Act, which should also limit the room to grant tax concessions.
+
+18.
+Control over the broader public sector needs to be strengthened. The adoption of
+a new Finance Administration Act (FAA) is a welcome step. Its strict enforcement will be
+key, particularly on borrowing and data provision by public enterprises. The mission advised
+that borrowing by public enterprises using land as collateral should be strictly avoided, and
+government guarantees should be contingent on full and timely disclosure of financial
+information.
+19.
+Debt management capacity, albeit improved, needs further strengthening. With
+assistance from CARTAC, the debt unit has compiled a comprehensive government debt
+database. The mission recommended incorporation of nongovernment-guaranteed external
+debt in the database and closer monitoring of public debt developments. The government
+intends to hire a debt management consultant and seek Fund technical assistance to further
+strengthen the debt unit, improve debt management capacity of statutory bodies, and
+formulate a strategy to retire more costly debt.
+
+13
+B. Enhancing Competitiveness and Growth
+20.
+Discussions centered on structural reforms to enhance the business climate and
+improve labor market flexibility, and on releasing government land/assets for more
+productive uses. The authorities reaffirmed their commitment to advancing these reforms
+and providing a conducive environment for private sector-led growth.
+21.
+While the real effective exchange rate (REER) does not appear to be misaligned,
+external competitiveness remains a challenge (Box 1 and Figure 4). Staff analysis suggests
+that the REER is broadly in line with macroeconomic fundamentals. However, maintaining
+competitiveness remains challenging, as
+St. Kitts and Nevis: Actual and Equilibrium REER, 19812006 1/
+4.70
+private sector and government wage
+4.65
+bills are among the highest in the
+Actual
+Equilibrium
+region, and the recent increase in the
+4.60
+share of the Caribbean tourist market
+4.55
+leveled off in 2006.6 Reflecting higher
+4.50
+inflation, the CPI-based REER
+4.45
+appreciated through early 2007, despite
+the depreciation of the U.S. dollar
+4.40
+1981
+1984
+1987
+1990
+1993
+1996
+1999
+2002
+2005
+against other major currencies during
+Sources: St. Kitts and Nevis authorities; and Fund staff estimates.
+1/ The shaded band around the equilibrium REER represents plus or minus one
+this period. However, declining
+standard error of the prediction.
+inflation during 2007 and the continued
+depreciation of the U.S. dollar has since arrested the upward movement of the REER.7
+22.
+Improving the business climate is essential to support competitiveness. Reflecting
+steps to lower the cost of doing business, St. Kitts and Nevis now ranks 64th out of 178
+countries on the World Bank’s 2008 Doing Business Indicators survey (Figure 5). While this
+ranking is an improvement over last year’s, the country still has the lowest rank in the ECCU
+on some sub-categories, such as procedures to start and close a business. The government has
+set up a team to address these areas and is establishing a one-stop Investment Promotion
+Agency.
+23.
+Transfer of government land/assets to the private sector for more productive
+uses will be key to enhancing growth potential. The mission welcomed the recent sales of
+the government’s shares in Cable and Wireless. The adoption of a National Physical
+Development Plan is also a welcome step and should be complemented by accelerated
+implementation of the government’s plans to unify land development agencies, define a full6
+
+Tourism receipts increased by 1.6 percent in 2006, compared to double-digit increases in 2003–05 after the
+opening of a large Marriott resort in 2003.
+
+7
+
+The text figure shows developments only through end-2006 as annual data are used to calculate the
+equilibrium REER and associated standard deviation.
+
+14
+fledged and transparent land development strategy, and create a professionally-staffed land
+sales agency. The authorities agreed, but face strong resistance to selling off the nation’s
+“patrimony.” To garner public support, the authorities intend to give priority to nationals and
+have announced an initiative to sell 618 acres to first-time land owners.
+Box 1. External Competitiveness 1
+The widening of the current account deficit in the past few years was largely due to the
+closure of the sugar industry and external factors, rather than an erosion of competitiveness.
+The cessation of sugar exports, rising imports related to a construction boom, and a sharp increase
+in oil prices led to a deterioration in the current account.
+Evolution of the Current Account, FDI and Terms of Trade
+2
+
+45
+FDI
+
+Terms of Trade (right axis)
+
+0
+
+35
+(percent of GDP)
+
+40
+
+1
+
+Current Account
+Deficit
+
+30
+
+-1
+-2
+
+25
+
+-3
+
+20
+
+-4
+
+15
+10
+
+-5
+
+5
+
+-6
+-7
+
+0
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007 Proj
+
+(percent change)
+
+40
+
+St. Kitts and Nevis: Current Account Deficit, Actual and Estimated Norms
+(In percent of GDP)
+
+40
+
+35
+
+35
+
+30
+
+30
+
+25
+
+25
+
+20
+
+20
+
+15
+
+15
+
+10
+
+10
+
+5
+
+5
+
+0
+
+0
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+MediumTerm 1/
+
+Norm 2/
+
+Sources: ECCB; and Fund staff estimates and calculations.
+1/ Based on Fund staff estimates. Medium-term is average during 2008-2012.
+2/ In computing the norms, medium-term values of the fiscal balance, oil-balance, output
+growth, and relative income are drawn from staff projections. Band is ±1 standard error of
+the prediction.
+
+The current account deficit is broadly in line with equilibrium levels predicted by
+fundamentals. Using the macroeconomic balance approach, staff estimates put the equilibrium
+current account deficit under the baseline scenario (i.e., the current account “norm”) at around
+28 percent of GDP. The projected medium-term deficit of about 27 percent of GDP is within one
+standard deviation of the equilibrium level. This implies that despite their apparent high levels,
+medium-term deficits, financed largely by FDI, appear sustainable. 2
+The real effective exchange rate is also broadly in line with fundamentals. The CPI-based
+REER appreciated by 2½ percent during 2006, mainly on account of a rise in inflation following
+energy price adjustments. While the results from the equilibrium value approach indicate that the
+REER was slightly above its equilibrium as of end-2006, the more recent deceleration of inflation
+and the continued depreciation of the U.S. dollar have begun to reverse the earlier appreciation
+(see Figure 4), suggesting no consistent evidence of misalignment at present.
+____________________________
+1
+
+The analysis uses a panel regression model linking the REER to fundamentals (based on the CGER
+approach, but using staff’s own estimation from a different sample). See Pineda and Cashin (2007),
+“Assessing Exchange Rate Competitiveness in the Eastern Caribbean Currency Union,” forthcoming ECCU
+Selected Issues Paper.
+
+2
+
+While current account deficits of this magnitude could not be sustained indefinitely, the pipeline of foreign
+investment projects suggests that FDI levels should remain very high during the period under consideration.
+
+15
+
+Figure 4. St. Kitts and Nevis: External Competitiveness, 1990–2007
+A sharp depreciation of the REER since
+2002 was reversed somewhat from
+2005...
+
+115
+
+Index 2000=100) 1/
+
+300
+
+Trade weighted
+nominal effective
+exchange rate
+
+105
+
+...with the government wage bill growing
+faster than the rest of the economy until
+recently.
+(Index 1992=100)
+Central government
+wage bill
+
+260
+220
+
+95
+
+GDP
+
+180
+CPI-based real effective
+exchange rate
+
+85
+
+140
+
+Average wage
+(private and public)
+
+100
+
+75
+1990
+
+60
+
+1994
+
+1998
+
+2002
+
+1990
+
+2006
+
+50
+
+(in percent of GDP)
+
+40
+
+2002
+
+2006
+
+(in percent of GDP)
+
+40
+
+30
+
+1998
+
+...supported by higher inflows of FDI in
+the hotel sector.
+
+A buoyant services sector has reversed
+the declining trend in exports...
+50
+
+1994
+
+Tourism receipts
+
+30
+
+Exports of goods and
+nonfactor services
+
+20
+
+20
+Exports of goods
+
+10
+
+10
+
+0
+
+Foreign direct investment
+
+0
+1990
+
+130
+120
+
+1994
+
+1998
+
+2002
+
+2006
+
+Both customer-based and competitorbased REER indicate some loss of
+competitiveness since late 2005...
+Competitor-based real effective exchange rate
+(index 2000=100) 1/ 2/
+
+1990
+
+16
+
+1994
+
+12
+
+100
+
+10
+
+2002
+
+2006
+
+...with the gain of market share by St. Kitts
+and Nevis in the Caribbean tourist market
+leveling off.
+Share of ECCU stay-over
+arrivals
+(in percent, left scale)
+
+14
+
+110
+
+1998
+
+0.7
+0.6
+0.5
+
+90
+80
+1990
+
+Customer-based real effective exchange
+rate (index 2000=100) 1/
+
+1994
+
+1998
+
+2002
+
+2006
+
+Share of
+Caribbean arrivals
+(in percent, right scale)
+
+8
+
+0.4
+
+6
+
+0.3
+1990
+
+1994
+
+1998
+
+2002
+
+2006
+
+Sources: ECCB; Caribbean Tourism Organization; St. Kitts and Nevis authorities; and Fund staff
+calculations.
+1/ An increase (decrease) indicates an appreciation (depreciation).
+2/ The spike in the competitor-based real exchange rate in 2002–03 was largely caused by the real
+effective depreciation and subsequent appreciation of the Dominican Republic’s peso.
+
+16
+
+Figure 5. St. Kitts and Nevis: Doing Business Indicators, 2007 1/
+...by removing cumbersome procedures in
+starting a business...
+
+Doing business should be facilitated...
+100
+
+Doing Business Ranking 2/
+
+80
+
+100
+
+60
+
+60
+
+40
+
+40
+
+20
+
+20
+
+0
+LCA ATG VCT JAM KNA TTO GRD DMA
+
+0
+JAM DMA ATG GRD VCT TTO LCA KNA
+...enhancing the availability of credit
+information...
+
+...making the process of property
+registration more efficient...
+160
+
+Registering Property Ranking 4/
+
+160
+
+120
+
+120
+
+80
+
+80
+
+40
+
+40
+
+0
+LCA ATG DMA VCT JAM KNA GRD TTO
+
+Contract Enforcement Ranking 6/
+
+TTO VCT DMA GRD LCA JAM KNA ATG
+...and strengthening bankruptcy
+procedures.
+160
+
+120
+
+120
+
+80
+
+80
+
+40
+
+40
+
+0
+JAM ATG VCT KNA GRD TTO DMA LCA
+
+Getting Credit Ranking 5/
+
+0
+
+...facilitating commercial contract
+enforcement...
+160
+
+Starting a Business Ranking 3/
+
+80
+
+Closing a Business Ranking 7/
+
+0
+JAM LCA ATG VCT TTO DMA GRD KNA
+
+Source: World Bank, 2008 Doing Business Indicators (2007).
+Note: ATG stands for Antigua and Barbuda, DMA stands for Dominica, GRD stands for Grenada, JAM
+stands for Jamaica, KNA stands for St. Kitts and Nevis, LCA stands for St. Lucia, TTO stands for Trinidad and
+Tobago and VCT stands for St. Vincent and the Grenadines.
+1/ Smaller numbers represent greater ease in doing business. The indicators are comparable across 178
+countries.
+2/ This is an overall indicator that captures the regulatory costs of doing business; it can be used to analyze
+specific regulations that enhance or constrain investment, productivity, and growth.
+3/ This topic identifies the bureaucratic and legal hurdles an entrepreneur must overcome to incorporate and
+register a new firm. It examines the procedures, time, and cost involved in launching a commercial or
+industrial firm with up to 50 employees and start-up capital of ten times the economy’s per capita gross
+national income.
+4/ This topic examines the steps, time, and cost involved in registering property, assuming a standardized
+case of an entrepreneur who wants to purchase land and a building in the largest business city—already
+registered and free of title dispute.
+5/ This topic explores two sets of issues—credit information registries and the effectiveness of collateral and
+bankruptcy laws in facilitating lending.
+6/ This topic looks at the efficiency of contract enforcement by following the evolution of a sale of goods
+dispute and tracking the time, cost, and number of procedures involved from the moment the plaintiff files the
+lawsuit until actual payment.
+7/ This topic identifies weaknesses in existing bankruptcy laws and the main procedural and administrative
+bottlenecks in the bankruptcy process.
+
+17
+24.
+While the labor market is relatively flexible, labor constraints are emerging as
+large-scale investment projects come on stream. The mission supported the authorities’
+efforts to address emerging labor/skill shortages, including by strengthening vocational and
+technical education, and encouraged them to promote greater regional labor mobility.
+C. Containing Risks
+25.
+Reducing public debt to sustainable levels represents a major challenge. Even
+with strong growth, full implementation of the reform agenda, and the absence of exogenous
+shocks, public debt will remain very high throughout the medium term (Annex I and
+Figures 6 and 7). It is, therefore, important to carefully monitor risks, explore options to
+lower debt more quickly, and develop a contingency plan.
+26.
+Banking sector risks need to be carefully monitored. The system’s government
+exposure is rising and very high by international standards. While the government has a
+strong payment record, any disruption to the government’s payment capacity—owing, for
+example, to a shock like a hurricane—could undermine the stability of the banking system.
+The high exposure warrants close monitoring, including enhanced supervision of vulnerable
+banks, development of a contingency plan, and a strategy to unwind this large exposure.
+Moreover, while the pickup of private sector credit growth is a welcome sign of economic
+growth, there is a risk that an economic slowdown could lead to a sharp increase in the NPLs.
+Lastly, the high and rising level of dollarization, likely reflecting the suspension of exchange
+controls in 2004, highlights the need for careful management of currency mismatches. The
+authorities noted that the banks report regularly to the ECCB, which is carefully monitoring
+banking sector risks including with enhanced off-site inspections. They also reaffirmed their
+plans to use the proceeds from land sales and the proposed 12-year bond to pay down the
+bank-held sugar debt and the overdraft.
+27.
+The nonbank sector has been growing rapidly, requiring careful monitoring. The
+mission expressed concern about the deposit-taking activities of insurance companies, which
+offer fixed-term deposits with interest rates significantly higher than commercial banks.8
+These deposit accounts not only undermine the client base for the commercial banks, but the
+much higher interest rates could indicate riskier investment activities (of which depositors
+may not be fully aware). The staff encouraged the authorities to determine, in coordination
+with the ECCB, whether these companies should be required to obtain banking licenses to
+continue these activities. The timely establishment of a single regulatory unit, along with the
+adoption of supporting legislation such as the Insurance Act, is also critical for containing
+emerging risks in the nonbank sector. On AML/CFT, the authorities are preparing for an
+assessment in 2008 by the Caribbean Financial Action Task Force; they are strengthening the
+Financial Services Department, are planning to undertake an inspection of credit unions with
+CARTAC assistance, and have signed Memoranda of Understanding with several countries
+for the exchange of information.
+8
+
+Indeed, banks’ real deposit rates were negative during 2005–06.
+
+18
+28.
+St. Kitts and Nevis is vulnerable to a wide range of exogenous shocks, which
+could derail the authorities’ adjustment strategy. While financial markets in the region
+have remained relatively insulated, recent financial market turmoil, if it continues, could
+have a negative impact on the local real estate market, undermining the government’s land
+sales strategy and plans for upscale tourism development, while weakening bank portfolios.
+The ongoing repricing of risk could also complicate rolling over public sector external debt,
+with about EC$110 million (7 percent of GDP) falling due in 2008.9 Other shocks include
+natural disasters, declines in tourism demand, a slowdown in the world economy, and higher
+world oil prices. The mission welcomed the authorities’ emphasis on preparedness and more
+widespread use of insurance for mitigating and managing natural disasters.
+29.
+The high debt level and vulnerability of the economy point to the need to explore
+options to reduce debt more quickly.
+•
+
+Land/asset sales. There was broad agreement that the pace of debt reduction would
+depend critically on the pace and scope of land/asset sales (Box 2).
+
+•
+
+Concessional resources. The authorities have made important progress toward
+meeting the conditions of the CDB’s PBL, which could also facilitate access to the
+EU’s pledged sugar grants (2–3 percent of GDP per annum during 2007–13). The
+mission encouraged the authorities to use concessional financing under PetroCaribe,
+when available, to improve the debt profile.10
+
+30.
+Reforming the social security system is necessary to ensure the long-term
+viability of public finances. The system’s operating surpluses of 5–6 percent of GDP a year,
+which have directly and indirectly financed the budget, will not continue as the population
+ages. On current trends, deficits would emerge around 2020 and assets be depleted by midcentury. The authorities have established a committee to explore parametric reforms. The
+mission also encouraged the authorities to explore options to gradually diversify portfolio
+allocations,11 along with a reduction in government financing needs.
+31.
+A contingency plan is needed in light of the country’s high vulnerability to
+shocks. The mission suggested that a key component of such a plan should be emergency
+fiscal measures that can be quickly implemented in the event of shocks. The authorities noted
+their intention to identify such a set of measures.
+
+9
+
+Annex I illustrates the impact on public external debt under a modified active scenario of higher interest rates.
+It is assumed that debt would not be rolled over under the baseline scenario.
+
+10
+
+The first PetroCaribe shipment of diesel is expected before end-2007.
+
+11
+
+Nearly 90 percent of assets are invested in the public sector.
+
+19
+Box 2. St. Kitts: Land Development and Sales
+About 80 percent of the island’s land is owned by the St. Kitts Government. The existing land
+ownership pattern is a direct result of the compulsory acquisition of sugar estates in 1975 by the
+government. Until the demise of the sugar industry, land use policy was primarily designed to
+support the sugar sector. Since the sugar industry’s closure in 2005, the sugar lands have largely
+been idle.
+St. Kitts: General Land Use
+Built-up areas
+(10 percent)
+
+Other 1/
+
+Non-sugar farms
+(11 percent)
+
+St. Kitts: Land ownership
+Forest and
+scrub
+(50 percent)
+
+Government-owned lands
+(32,300 acres)
+
+Sugar cane (24 percent)
+
+Source: The National Physical Development Plan (2006)
+1/ National Park, rock, sand, quarries and water bodies.
+
+Privately-owned lands
+(7,000 acres)
+
+Source: The National Physical Development Plan (2006)
+
+Two corporations, Frigate Bay and Whitegate, were established to develop and sell lands in
+the southeastern and northwestern parts, respectively, of the island. The southeast is currently
+the heart of the tourism industry, with high-end projects including the Marriott Resort—the largest
+hotel in the country—and ongoing construction of other resorts. In the northwest, a wide range of
+projects are either underway or being planned, including golf courses, a horse racing track, and
+upscale villas.
+In August 2007, the government announced its intention to sell 618 acres of land (about
+2 percent of government-owned land) to first-time homeowners under the Special Land
+Distribution Initiative (SLDI). Land will be sold using a two-tier pricing system—EC$4.95 per
+sq.ft. for the first 4,000 square feet and EC$6.50 thereafter.
+Preliminary estimates suggest that proceeds from land sales, based on a conservative
+assumption on market prices, could be on the order of 45–50 percent of 2006 GDP. About
+10-13 percent of GDP could be generated by the SLDI. Selling another 1,200 acres of land, in line
+with the CDB policy-based-loan conditions and using a lower bound for market prices, could yield
+additional proceeds of about 36 percent of GDP.
+P o te n tia l P ro c e e d s fro m L a n d S a le s
+P ric e (s q .ft.)
+(in E C $ )
+
+P ro c e e d s
+(in E C $
+(in p e rc e n t
+m illio n s )
+of 2006 G D P)
+
+S p e c ia l L a n d D is t. In it. (6 1 8 a c re s )
+Lower bound
+U pper bound
+
+5 .0
+6 .5
+
+1 3 3 .3
+1 7 5 .0
+
+1 0 .0
+1 3 .1
+
+1 ,2 0 0 a c re s a t m a rk e t p ric e s 1 /
+
+9 .1
+
+4 7 4 .9
+
+3 5 .5
+
+S o u rc e : F u n d s ta ff e s tim a te s
+1 / A s s u m e s 6 3 6 a c re s s o ld fo r lo c a l re s id e n tia l u s e a t E C $ 6 .5 p e r s q .ft. a n d 5 6 4 a c re s s o ld fo r
+h o te ls /villa s a t E C $ 1 2 p e r s q .ft. (a c re a g e in lin e w ith N a tio n a l P h ys ic a l D e ve lo p m e n t P la n s e c to ra l
+g o a ls ).
+
+20
+IV. STAFF APPRAISAL
+32.
+Macroeconomic outcomes have strengthened in recent years. Growth has
+rebounded, and fiscal balances have improved markedly. This is testament to the authorities’
+commitment to reinvigorate the economy and restore sustainability, including by closing the
+sugar industry and launching a reform strategy to boost growth and reduce debt.
+33.
+The economy, however, remains very vulnerable. Public debt is very high,
+constraining the room for maneuver in the event of shocks. Recent fiscal trends have
+increased the risk that earlier consolidation gains could be reversed and public debt return to
+an upward path. With access to external credit markets limited, the domestic banking system
+already heavily exposed to the government, and a less benign global environment, strong
+efforts are needed to mitigate risks and place public debt on a solid downward trajectory.
+34.
+The authorities’ medium-term fiscal goals are appropriate but need to be
+underpinned by:
+•
+
+Expenditure restraint. It is critical to move quickly with the corporatization of the
+electricity department; contain and prioritize capital expenditures; refrain from net
+lending; implement comprehensive civil service reform; and reform civil servant
+pensions.
+
+•
+
+Tax reforms, focused on broadening the tax base and revamping tax administration
+(in particular, a unified VAT regime).
+
+35.
+Improving the oversight of public enterprises will also be key. The recent
+adoption of the new FAA is a major step in the right direction, but its strict enforcement will
+be crucial for its success. Ongoing efforts to strengthen debt management capacity are well
+placed.
+36.
+Although the real effective exchange rate and medium-term current account
+deficits are broadly in line with fundamentals, maintaining external competitiveness
+remains challenging. Other indicators—including inflation, tourism developments,
+deteriorating terms of trade, and high wages—point to challenges for competitiveness. Fiscal
+consolidation is not only fundamental to supporting competitiveness, but also necessary to
+avoid instability and underpin the quasi-currency board arrangement.
+37.
+Planned structural reforms will enhance competitiveness and growth. The
+authorities have initiated a number of reforms, but the pace of implementation could be
+accelerated to build on the current growth momentum. Priority should be given to
+strengthening the business climate and labor market flexibility.
+38.
+Transfers of government land/assets to the private sector should help promote
+growth and reduce public debt. The adoption of a National Physical Development Plan, the
+
+21
+recent sale of the government’s shares in Cable and Wireless, and the government’s
+commitment to use divestment proceeds to lower debt are positive developments. The staff
+also welcomes the government’s plans to consolidate land development agencies, define a
+land development strategy, and establish a land sales agency.
+39.
+Financial sector risks warrant careful monitoring. The high government exposure
+of the banking system is a systemic concern. Implementing measures to mitigate risks should
+be given a top priority, including enhanced supervision of vulnerable banks and reducing the
+large government exposure. Establishing a single regulatory unit is also essential for more
+comprehensive supervision of the nonbank sector.
+40.
+Risk management and contingency planning should be a priority. Even with
+determined efforts and a benign external environment, public debt will remain high well into
+the next decade. Given the country’s vulnerability to shocks, a full-fledged contingency plan,
+including a set of emergency fiscal measures, should be at hand. The authorities should also
+continue their efforts to tap more concessional resources, particularly the EU sugar grants, to
+lower the debt level more quickly.
+41.
+Better statistics will support effective economic management. Commendable
+progress has been made in improving the quality and coverage of central government fiscal
+data, which will strengthen fiscal policy analysis and implementation. Further improvements
+are needed in the areas of national accounts, labor markets, tourism, debt, and public
+enterprises.
+42.
+It is proposed that the next Article IV consultation be conducted on the standard
+12-month cycle.
+
+22
+ANNEX I. MEDIUM-TERM FISCAL SCENARIOS AND DEBT SUSTAINABILITY ANALYSIS
+Two scenarios, baseline and active, are considered. Under the baseline, major reforms are
+delayed and expenditures continue to increase, resulting in large financing gaps and a rise in
+the public debt ratio. In contrast, the active scenario, under which the authorities deepen and
+sustain fiscal adjustment and structural reforms, suggests a solid downward trajectory for
+public debt over the medium term.
+•
+
+Baseline scenario. Real growth in 2008 is projected to be slightly stronger than in
+2007, as the tourism sector recovers somewhat owing to improved airlift from the
+United States. However, growth will gradually decline to 2 percent in the medium
+term, reflecting delayed structural reforms, including land/asset sales. On revenue, a
+market-based property tax and VAT will be introduced in 2008 and mid-2010,
+respectively. Tax concessions continue to be granted. On expenditure, the electricity
+department will be corporatized only in mid-2009, the wage bill as a share of GDP
+will start to increase
+St. Kitts and Nevis: Medium-Term Projections Under Baseline and Active Scenarios
+(In percent of GDP unless otherwise indicated)
+moderately, and large net
+2007
+2008
+2009
+2010
+2011
+2012
+lending and capital
+Real GDP growth (in percent)
+Active
+3.3
+4.0
+4.1
+4.1
+4.2
+4.2
+expenditures will
+Baseline
+3.3
+3.5
+2.7
+2.3
+2.0
+2.0
+continue. Under this
+Primary balance
+Active
+2.4
+6.2
+6.8
+8.0
+8.2
+8.6
+scenario, the central
+Baseline
+2.4
+-0.2
+-0.5
+0.3
+0.6
+0.5
+Overall balance
+government primary
+Active
+-7.1
+-2.8
+-1.9
+-0.2
+0.7
+1.7
+Baseline
+-7.1
+-9.8
+-10.5
+-10.2
+-10.3
+-10.9
+balance will hover
+Asset sales
+Active
+3.0
+3.0
+3.0
+3.0
+3.0
+3.0
+around the zero mark
+Baseline
+3.0
+1.0
+1.0
+1.0
+1.0
+1.0
+and there will be large
+Financing gaps
+Active
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+financing gaps. Public
+Baseline 1/
+0.0
+3.7
+5.5
+5.6
+6.4
+6.6
+debt
+enterprises are assumed Public
+Active
+180
+171
+160
+149
+138
+126
+Active with EU grants
+180
+168
+155
+141
+124
+110
+to borrow mainly from
+Baseline
+180
+182
+185
+189
+193
+199
+Sources: Fund staff estimates.
+domestic sources, and
+1/ Assumed to be filled through issuing of domestic bonds with an interest rate of 10 percent.
+their debt is projected to
+decline from 72 percent of GDP at end-2006 to 63 percent by 2012, reflecting the
+assumption that the Finance Administration Act is passed but its enforcement and
+control are lax. Total public debt is projected to increase to almost 200 percent of
+GDP by 2012.
+
+•
+
+Active scenario. With accelerated structural reforms, including land/asset sales of
+3 percent of GDP per year, and a shift toward more productive private investment,
+real growth remains at 4 percent per year throughout the medium term, compared to
+declining growth under the baseline scenario. On revenue, a market-based property
+tax and VAT will be introduced in 2008 and early 2010, respectively. Tax
+concessions are contained and efforts to collect tax arrears are strengthened. On
+expenditure, the electricity department will be corporatized in mid-2008, the wage
+
+23
+bill will grow in line with inflation, there is no net lending, and capital expenditures
+will be reduced, largely reflecting a postponement of planned new road construction
+in Nevis. Under this scenario, the central government primary balance will reach
+8 percent of GDP by 2010. Strict enforcement of the Finance Administration Act
+combined with stronger control of borrowing by public enterprises will lead to the
+projected decline of public enterprise indebtedness, from 72 percent of GDP at end2006 to 53 percent by 2012. The overall public debt is projected to decline steadily to
+126 percent of GDP by 2012.
+The active scenario is modified as follows:
+•
+
+Disaster in 2008 and 2012. Reflecting the vulnerability to hurricanes, this assumes
+that real growth is reduced by 5 percent in 2008 and 2012, respectively, and
+expenditure is increased by 2–3 percent of annual GDP during 2008–12.
+
+•
+
+Lower growth. This has the same fiscal path as the active scenario but GDP growth
+declines as in the baseline scenario.
+
+•
+
+Higher interest rates. The interest rate increases gradually by 5 percentage points
+relative to the base case, in which the marginal interest rate increases broadly in line
+with the WEO projections for the U.S. deposit rate.
+
+•
+
+With EU financing. Reflecting EU commitments on sugar assistance, this assumes
+an increase in grants of 2–3 percent of annual GDP during 2008–12.
+Public Sector Debt Dynamics (In percent of GDP)
+
+15
+
+200
+
+Central government primary balance 1/
+
+190
+
+10
+
+180
+170
+
+Active scenario
+
+5
+
+Public debt 2/
+
+160
+
+Lower growth
+
+150
+
+0
+Baseline
+scenario
+
+-5
+
+Baseline scenario
+
+140
+
+Disaster in 2008 and 2012
+
+130
+
+With EU financing
+
+120
+
+-10
+
+Higher interest rates
+
+110
+-15
+
+Active scenario
+
+100
+2003
+
+2006
+
+2009
+
+2012
+
+2003
+
+2006
+
+2009
+
+Sources: St. Kitts and Nevis authorities; and Fund staff estimates and projections.
+1/ Combined accounts of the St. Kitts Government and the Nevis Island Administration.
+2/ Public debt comprises debts of the St. Kitts Government, Nevis Island Administration, and statutory bodies, including
+debt to the social security system but excluding all other intra-public sector debt.
+
+2012
+
+24
+
+Figure 6. St. Kitts and Nevis: Public Debt Sustainability: Bound Tests 1/
+(Public debt in percent of GDP)
+Interest rate shock (in percent)
+
+Baseline and historical scenarios
+103
+220
+
+221
+
+Historical
+
+93
+
+199
+
+200
+
+83
+
+220
+208
+
+i-rate
+shock
+
+200
+
+73
+180
+
+63
+
+Baseline
+
+53
+
+160
+
+199
+
+180
+
+Baseline
+
+160
+
+43
+
+140
+
+33
+23
+
+Gross financing need under baseline
+(right scale)
+
+120
+100
+2002
+
+2004
+
+2006
+
+2008
+
+13
+3
+2012
+
+2010
+
+221
+
+100
+2002
+
+2004
+
+2006
+
+4.8
+5.8
+
+Historical:
+
+3.9
+
+2008
+
+2010
+
+220
+
+Growth
+shock
+
+200
+
+120
+
+Baseline:
+Scenario:
+
+216
+PB shock
+
+200
+
+Baseline
+180
+
+180
+
+199
+
+Baseline
+160
+
+Baseline:
+
+No policy change
+
+120
+100
+2002
+
+2004
+
+2006
+
+Scenario:
+
+1.2
+
+Historical:
+
+3.8
+
+2008
+
+140
+
+2.5
+
+120
+
+2010
+
+2012
+
+219
+
+220
+
+Baseline
+
+160
+
+140
+
+140
+
+120
+
+120
+
+2006
+
+2008
+
+-7.5
+
+2008
+
+2010
+
+2012
+
+210
+
+2010
+
+2012
+
+199
+
+180
+
+160
+
+2004
+
+Historical:
+
+200
+199
+
+100
+2002
+
+2006
+
+1.2
+-2.0
+
+30%
+depreciation
+
+220
+
+Combined
+shock
+
+180
+
+2004
+
+Baseline:
+Scenario:
+
+Real depreciation and contingent liabilities shocks 3/
+
+Combined shock 2/
+
+200
+
+100
+2002
+
+199
+188
+
+160
+
+140
+
+2012
+
+Primary balance shock (in percent of GDP) and
+no policy change scenario (constant primary balance)
+
+Growth shock (in percent per year)
+220
+
+140
+
+100
+2002
+
+Baseline
+Contingent
+liabilities shock
+
+2004
+
+2006
+
+2008
+
+2010
+
+2012
+
+Sources: International Monetary Fund, country desk data; and Fund staff estimates.
+1/ Based on the current policy scenario. Shaded areas represent actual data. Individual shocks are permanent one-half
+standard deviation shocks. Figures in the boxes represent average projections for the respective variables in the baseline and
+scenario being presented. Ten-year historical average for the variable is also shown.
+2/ Permanent 1/4 standard deviation shocks applied to real interest rate, growth rate, and primary balance.
+3/ One-time real depreciation of 30 percent and 10 percent of GDP shock to contingent liabilities occur in 2008, with real
+depreciation defined as nominal depreciation (measured by percentage fall in dollar value of local currency) minus domestic
+inflation (based on GDP deflator).
+
+25
+
+Figure 7. St. Kitts and Nevis: External Debt Sustainability: Bound Tests 1/
+(External debt in percent of GDP)
+Interest rate shock (in percent)
+
+Baseline and historical scenarios
+90
+
+50
+
+80
+
+80
+
+60
+
+30
+
+2008
+
+10
+2012
+
+2010
+
+Baseline:
+
+2.5
+
+60
+
+Scenario:
+
+1.2
+
+Historical:
+
+3.8
+
+30
+2002
+
+90
+
+i-rate shock
+36
+
+Baseline
+
+2004
+
+2006
+
+2008
+
+2010
+
+2012
+
+Non-interest current account shock
+(in percent of GDP)
+
+80
+
+Baseline:
+
+-22.8
+
+Scenario:
+
+-27.0
+
+Historical:
+
+-22.4
+
+70
+
+Growth
+shock
+
+60
+
+6.3
+
+35
+
+90
+
+70
+
+Historical:
+
+40
+
+Growth shock (in percent per year)
+80
+
+6.6
+
+20
+
+35
+
+Gross financing need under baseline
+(right scale)
+2006
+
+6.0
+
+50
+
+Baseline
+
+2004
+
+Baseline:
+Scenario:
+
+70
+64
+
+50
+
+30
+2002
+
+40
+
+Historical
+
+70
+
+40
+
+90
+
+CA shock
+
+60
+
+52
+
+48
+50
+
+50
+Baseline
+
+40
+30
+2002
+
+2004
+
+2006
+
+2008
+
+Baseline
+
+35
+
+2010
+
+2012
+
+30
+2002
+
+Combined shock 2/
+90
+
+90
+
+80
+
+80
+
+70
+
+70
+Combined
+shock
+
+60
+50
+
+2004
+
+2006
+
+2008
+
+2010
+
+Real depreciation shock 3/
+
+30%
+depreciation
+
+43
+
+38
+
+50
+Baseline
+
+40
+
+35
+
+35
+30
+2002
+
+2004
+
+2006
+
+2008
+
+2010
+
+2012
+
+60
+
+Baseline
+
+40
+
+35
+
+40
+
+2012
+
+30
+2002
+
+2004
+
+2006
+
+2008
+
+2010
+
+2012
+
+Sources: International Monetary Fund, Country desk data; and Fund staff estimates.
+1/ Based on the current policy scenario. Shaded areas represent actual data. Individual shocks are permanent
+one-half standard deviation shocks. Figures in the boxes represent average projections for the respective
+variables in the baseline and scenario being presented. Ten-year historical average for the variable is also
+shown.
+2/ Permanent 1/4 standard deviation shocks applied to real interest rate, growth rate, and current account
+balance.
+3/ One-time real depreciation of 30 percent occurs in 2008.
+
+26
+ANNEX II. SUMMARY OF APPENDICES
+The full appendices to this report are issued as a supplement.
+Fund relations. St. Kitts and Nevis has no outstanding Fund resources. It is a member of the
+Eastern Caribbean Currency Union (ECCU), which has a common central bank, the Eastern
+Caribbean Central Bank (ECCB). The common currency, the EC dollar, has been pegged to
+the U.S. dollar at the rate of EC$2.70 since July 1976. St. Kitts and Nevis has accepted the
+obligations of Article VIII, Sections 2, 3, and 4 of the Articles of Agreement. The exchange
+system is free of restrictions on the making of payments and transfers for current
+international transactions.
+Relations with the World Bank Group. The country assistance strategy (CAS) for
+FY 2006−09 supports the region’s development through: (1) stimulating growth and
+improving competitiveness; and (2) reducing vulnerability. The current CAS does not include
+any lending to St. Kitts and Nevis under the base case scenario. There are three active
+projects in St. Kitts and Nevis with a commitment of US$9.6 million of which
+US$3.7 million has been disbursed: (i) Telecommunications and ICT Development Project,
+approved on May 12, 2005, to improve the access, quality, and use of telecommunications
+and ICT services; (ii) Education Development Project approved in June 2003, to increase
+equitable access to secondary education and improve the quality of the teaching and learning
+processes; and (iii) HIV/AIDS Prevention and Control Program, approved in January 2003.
+Relations with the Caribbean Development Bank. The CDB has approved loans of
+US$165.8 million, of which US$119.1 million has been disbursed as of end-September 2007. Major
+
+projects under implementation include: a basic education project; road projects, a child
+development project, loans to Nevis Electricity Company (NEVLEC), a natural disaster
+management project, a policy-based guarantee, and a policy-based loan.
+Statistical issues. St. Kitts and Nevis has participated in the General Data Dissemination
+System since October 2000 and its metadata are posted on the Fund’s Dissemination
+Standards Bulletin Board. There are significant weaknesses in real, fiscal, and balance of
+payments data. Data on GDP by type of expenditure are not available at constant prices,
+while the data at current prices are not reliable due to weaknesses in estimating gross capital
+formation. A new CPI with weights from the 2000 household survey has been introduced.
+There are no data on labor market developments. Fiscal data are not reported for publication
+in IFS. The latest data published in the GFS Yearbook are for 2003 (only). No data are
+available on the nonfinancial public sector. Data on external trade (especially exports) are not
+comprehensive, as they omit important categories of goods. Most components of the
+financial account also need improvement. There are no data on private external debt.
+
+27
+
+Table 1. St. Kitts and Nevis: Basic Data
+I. Social and Demographic Indicators
+Area (sq. km)
+Population
+Total (thousands, 2001)
+Rate of growth (percent per year, 2001)
+Density (per sq. km., 2001)
+Net migration rate (per thousand, 2002)
+Population characteristics
+Life expectancy at birth (years, 2005)
+Infant mortality (per thousand live births, 2005)
+Under 5 mortality rate (per thousand, 2004)
+
+269.4
+
+Adult literacy rate (percent, 2004)
+
+46.1
+0.02
+171.2
+-9.8
+
+Health and nutrition
+Calorie intake (per capita a day, 1996)
+Population per physician (thousand, 1993)
+Access to safe water (percent, 1994)
+AIDS incidence rate (per 100,000, 1998)
+
+2639
+2
+100
+14
+
+Gross domestic product (2006)
+(millions of U.S. dollars)
+(millions of E.C. dollars)
+(US$ per capita)
+
+495
+1337
+9723
+
+71
+18
+18
+
+97.8
+
+II. Economic and Financial Indicators, 2001–08
+2001
+
+2002
+
+2003
+
+2004
+
+(Annual percentage change; unless otherwise specified)
+National income and prices
+Real GDP (factor cost)
+1.7
+-0.3
+-1.2
+7.3
+2.6
+1.8
+2.9
+1.7
+Consumer prices, end-of-year
+Real effective exchange rate (end-of-period) 2/
+1.8
+-3.3
+-3.9
+-4.0
+Banking system
+Net foreign assets 3/
+Net domestic assets 3/
+Of which
+Credit to public sector 3/
+Credit to private sector 3/
+Broad money
+Of which
+Money
+Quasi-money
+Weighted average deposit rate 4/
+Weighted average lending rate 4/
+
+Proj.
+2007 2008 1/
+
+2005
+
+Prel.
+2006
+
+4.4
+6.0
+5.4
+
+4.0
+7.9
+0.5
+
+3.3
+4.0
+...
+
+3.5
+2.5
+...
+
+10.4
+-8.2
+
+10.2
+-3.9
+
+13.6
+-6.7
+
+-5.7
+27.8
+
+8.4
+-4.1
+
+7.1
+5.7
+
+9.9
+4.2
+
+1.5
+4.5
+
+1.3
+-0.7
+2.3
+
+1.6
+-2.1
+6.4
+
+-10.8
+3.4
+6.9
+
+18.3
+6.8
+22.1
+
+9.2
+5.1
+4.3
+
+6.4
+8.2
+12.8
+
+4.1
+6.6
+14.1
+
+0.5
+4.0
+6.1
+
+-3.6
+3.2
+4.2
+11.1
+
+12.9
+5.4
+3.8
+10.4
+
+11.0
+6.2
+4.1
+12.0
+
+25.4
+21.6
+3.6
+9.9
+
+-1.9
+5.5
+4.1
+9.7
+
+12.7
+12.8
+3.7
+9.4
+
+14.1
+14.1
+...
+...
+
+6.1
+6.1
+...
+...
+
+(In percent of GDP)
+Public sector 5/
+Primary balance
+Overall balance
+Total revenue and grants
+Total expenditure and net lending
+Foreign financing
+Domestic financing
+Sale of assets
+Statistical discrepancy
+Financing gap
+Total public debt (end-of-period)
+Of which
+Central government
+Public enterprises 6/
+External sector
+External current account balance
+Trade balance
+Services, net
+Of which
+Tourism receipts
+Transfers, net
+Net capital inflow 7/
+FDI (net)
+External public debt (end-of-period)
+
+-7.2
+-12.9
+28.8
+41.6
+14.1
+1.8
+0.4
+-3.3
+0.0
+139.7
+
+-12.0
+-19.4
+34.5
+53.9
+11.0
+0.2
+0.7
+7.5
+0.0
+163.0
+
+-1.4
+-9.0
+33.5
+42.5
+14.5
+-3.1
+0.2
+-2.6
+0.0
+181.5
+
+-0.8
+-7.9
+34.3
+42.1
+1.5
+8.7
+0.4
+-2.8
+0.0
+195.0
+
+4.0
+-4.1
+39.5
+43.5
+-1.1
+11.9
+0.3
+-7.1
+0.0
+194.8
+
+4.3
+-5.3
+38.9
+44.2
+0.2
+9.6
+0.5
+-5.0
+0.0
+184.6
+
+2.4
+-7.1
+37.4
+44.5
+-0.9
+5.0
+3.0
+0.0
+0.0
+180.4
+
+-0.2
+-9.8
+36.3
+46.1
+-0.9
+6.0
+1.0
+0.0
+3.7
+181.9
+
+90.7
+49.1
+
+108.6
+54.4
+
+119.4
+62.1
+
+121.2
+73.8
+
+117.2
+77.6
+
+112.6
+72.0
+
+109.7
+70.8
+
+112.2
+69.7
+
+-32.0
+-32.6
+6.6
+
+-39.1
+-33.4
+3.3
+
+-34.9
+-32.8
+7.7
+
+-20.2
+-25.6
+13.6
+
+-22.6
+-29.9
+13.7
+
+-29.0
+-32.2
+9.1
+
+-31.0
+-32.9
+7.2
+
+-30.2
+-32.7
+7.5
+
+18.1
+5.7
+34.8
+25.7
+65.3
+
+16.3
+4.7
+42.2
+22.7
+75.9
+
+20.8
+5.1
+34.7
+20.9
+88.5
+
+25.7
+4.6
+23.7
+11.6
+85.5
+
+26.1
+4.7
+21.1
+19.5
+77.0
+
+23.5
+4.1
+32.5
+40.3
+66.9
+
+21.6
+4.0
+31.0
+29.4
+60.1
+
+22.0
+4.0
+30.2
+29.4
+55.4
+
+24.1
+163.3
+
+25.1
+153.2
+
+25.3
+144.5
+
+25.7
+132.8
+
+(In percent of exports of goods and nonfactor services)
+External public debt service
+External public debt (end-of-period)
+
+18.8
+146.2
+
+21.0
+176.8
+
+25.5
+194.4
+
+26.2
+176.3
+
+Sources: St. Kitts and Nevis authorities; ECCB; UNDP; World Bank; and Fund staff estimates and projections.
+1/ Based on the baseline (current policy) scenario.
+2/ Weights given by the average trade share during 1999–2003. Depreciation (-).
+3/ In relation to broad money at the beginning of the period.
+4/ End of period. Weighted by the size of loans or deposits. There was a break in the interest rate series in June 2003.
+5/ Central government unless otherwise noted.
+6/ Including St. Kitts Sugar Manufacturing Company (SSMC).
+7/ Includes errors and omissions.
+
+28
+Table 2. St. Kitts and Nevis: Central Government Fiscal Operations, 2001–08 1/
+(In millions of Eastern Caribbean dollars)
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+Prel.
+2006
+
+Proj.
+2007
+
+Baseline
+2008
+
+Active
+2008
+
+261.3
+
+299.1
+
+321.4
+
+365.3
+
+434.4
+
+484.2
+
+509.5
+
+531.7
+
+518.3
+
+261.3
+193.6
+57.7
+4.4
+37.6
+93.9
+67.6
+0.0
+
+299.1
+212.1
+61.9
+4.5
+41.3
+104.3
+87.0
+0.0
+
+321.4
+233.9
+64.1
+5.2
+45.2
+119.3
+87.5
+0.0
+
+365.3
+281.9
+80.4
+5.1
+56.0
+140.5
+83.5
+0.0
+
+434.4
+344.8
+101.6
+5.0
+68.7
+169.5
+89.6
+0.0
+
+484.2
+373.1
+97.6
+8.7
+90.8
+175.9
+111.1
+0.0
+
+509.5
+395.5
+109.1
+6.0
+89.8
+190.6
+114.0
+0.0
+
+531.7
+413.5
+115.7
+7.9
+95.3
+194.6
+118.2
+0.0
+
+518.3
+423.8
+116.3
+7.9
+99.6
+200.1
+94.5
+0.0
+
+385.0
+
+511.2
+
+415.6
+
+454.1
+
+514.6
+
+591.4
+
+632.6
+
+694.8
+
+577.3
+
+Current expenditure
+Wages and salaries
+Goods and services
+Interest
+Domestic
+Foreign
+Transfers
+
+306.5
+140.3
+79.5
+52.6
+34.1
+18.5
+34.1
+
+326.5
+144.2
+78.9
+69.8
+38.2
+31.6
+33.6
+
+333.2
+144.1
+79.0
+74.5
+31.0
+43.5
+35.6
+
+376.0
+159.7
+95.8
+76.1
+30.1
+46.1
+44.3
+
+435.8
+163.1
+114.7
+95.8
+48.4
+47.4
+62.2
+
+480.8
+170.0
+127.5
+128.7
+87.0
+41.7
+54.7
+
+502.6
+175.7
+131.9
+135.4
+94.0
+41.4
+59.5
+
+536.0
+186.7
+142.5
+143.7
+103.1
+40.6
+63.1
+
+487.9
+181.0
+105.2
+137.3
+95.5
+41.8
+64.4
+
+Net lending
+Capital expenditure 3/
+
+0.0
+78.4
+
+51.6
+133.1
+
+13.9
+68.6
+
+11.3
+66.7
+
+0.0
+78.8
+
+8.7
+101.8
+
+18.0
+112.0
+
+22.0
+136.8
+
+0.0
+89.4
+
+-45.2
+-123.7
+
+-27.4
+-212.2
+
+-11.7
+-94.2
+
+-10.7
+-88.7
+
+-1.4
+-80.2
+
+3.4
+-107.1
+
+7.0
+-123.0
+
+-4.3
+-163.1
+
+30.4
+-59.0
+
+4.6
+
+28.3
+
+6.1
+
+4.1
+
+32.2
+
+36.1
+
+22.0
+
+16.0
+
+16.0
+
+Overall balance (after grants)
+Primary balance
+
+-119.1
+-66.5
+
+-183.8
+-114.0
+
+-88.2
+-13.7
+
+-84.7
+-8.6
+
+-48.0
+47.8
+
+-71.0
+57.6
+
+-101.0
+34.4
+
+-147.1
+-3.4
+
+-43.0
+94.3
+
+Financing
+Net foreign financing
+Disbursements
+Amortization
+Other 4/
+Net domestic financing
+Banking system
+Nonbanks
+Capitalized interest arrears of SSMC debt 5/
+Sale/purchase of assets
+
+149.9
+130.0
+148.5
+18.0
+-0.5
+16.3
+11.8
+4.5
+0.0
+3.7
+
+113.0
+104.3
+134.1
+26.3
+-3.4
+2.2
+-15.0
+17.2
+0.0
+6.5
+
+113.7
+141.8
+187.1
+42.1
+-3.2
+-30.3
+-68.5
+38.2
+0.0
+2.2
+
+114.5
+16.6
+62.9
+45.3
+-1.0
+93.3
+61.8
+31.5
+0.0
+4.6
+
+132.4
+-12.6
+7.5
+55.6
+35.5
+141.0
+88.7
+52.3
+0.0
+4.0
+
+138.2
+3.0
+45.2
+49.8
+7.7
+128.2
+105.7
+11.7
+10.9
+7.0
+
+101.0
+-12.8
+52.1
+65.0
+0.0
+71.5
+66.1
+1.3
+4.0
+42.4
+
+91.9
+-13.7
+66.5
+80.2
+0.0
+90.5
+40.5
+50.0
+0.0
+15.1
+
+43.0
+22.3
+106.5
+84.2
+0.0
+-24.8
+-34.8
+10.0
+0.0
+45.5
+
+Statistical discrepancy
+Financing gap
+
+-30.9
+0.0
+
+70.9
+0.0
+
+-25.6
+0.0
+
+-29.8
+0.0
+
+-84.4
+0.0
+
+-67.2
+0.0
+
+0.0
+0.0
+
+0.0
+55.2
+
+0.0
+0.0
+
+924
+1292
+
+948
+1544
+
+977
+1774
+
+1078
+2102
+
+1182
+2303
+
+1337
+2467
+
+1422
+2566
+
+1508
+2744
+
+1516
+2589
+
+838
+454
+384
+
+1029
+534
+495
+
+1167
+523
+644
+
+1306
+643
+663
+
+1386
+790
+596
+
+1505
+905
+601
+
+1560
+972
+588
+
+1692
+1118
+574
+
+1557
+947
+610
+
+Total revenue
+Current revenue
+Tax revenue
+Taxes on income
+Taxes on property
+Taxes on domestic goods and consumption
+Taxes on international trade and transactions
+Nontax revenue 2/
+Capital revenue
+Total expenditure and net lending
+
+Current balance
+Overall balance (before grants)
+Grants
+
+Memorandum items:
+GDP (market prices)
+Public sector debt (end of period)
+Of which
+Central government 6/
+Domestic
+External
+
+Sources: St. Kitts and Nevis authorities; and Fund staff estimates.
+1/ Combined accounts of the Federal Government of St. Kitts and Nevis and the Nevis Island Administration.
+2/ The decline of nontax revenue under 2008 active relative to baseline reflects the corporatization of electricity department in mid-2008.
+3/ The increase in 2007 largely reflects on-going projects to improve roads in Nevis.
+4/ IMF purchases and repurchases, and changes in the foreign assets of the federal government.
+5/ Held in the Development Bank.
+6/ Excluding SSMC debt taken over by the government from 2005.
+
+29
+
+Table 3. St. Kitts and Nevis: Central Government Fiscal Operations, 2001–08 1/
+(In percent of GDP)
+
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+Prel.
+2006
+
+Proj.
+2007
+
+Baseline
+2008
+
+Active
+2008
+
+28.3
+
+31.6
+
+32.9
+
+33.9
+
+36.7
+
+36.2
+
+35.8
+
+35.2
+
+34.2
+
+28.3
+20.9
+6.2
+0.5
+4.1
+10.2
+7.3
+0.0
+
+31.6
+22.4
+6.5
+0.5
+4.4
+11.0
+9.2
+0.0
+
+32.9
+23.9
+6.6
+0.5
+4.6
+12.2
+9.0
+0.0
+
+33.9
+26.2
+7.5
+0.5
+5.2
+13.0
+7.7
+0.0
+
+36.7
+29.2
+8.6
+0.4
+5.8
+14.3
+7.6
+0.0
+
+36.2
+27.9
+7.3
+0.7
+6.8
+13.2
+8.3
+0.0
+
+35.8
+27.8
+7.7
+0.4
+6.3
+13.4
+8.0
+0.0
+
+35.2
+27.4
+7.7
+0.5
+6.3
+12.9
+7.8
+0.0
+
+34.2
+28.0
+7.7
+0.5
+6.6
+13.2
+6.2
+0.0
+
+41.6
+
+53.9
+
+42.5
+
+42.1
+
+43.5
+
+44.2
+
+44.5
+
+46.1
+
+38.1
+
+Current expenditure
+Wages and salaries
+Goods and services
+Interest
+Domestic
+Foreign
+Transfers
+
+33.2
+15.2
+8.6
+5.7
+3.7
+2.0
+3.7
+
+34.5
+15.2
+8.3
+7.4
+4.0
+3.3
+3.5
+
+34.1
+14.7
+8.1
+7.6
+3.2
+4.5
+3.6
+
+34.9
+14.8
+8.9
+7.1
+2.8
+4.3
+4.1
+
+36.9
+13.8
+9.7
+8.1
+4.1
+4.0
+5.3
+
+36.0
+12.7
+9.5
+9.6
+6.5
+3.1
+4.1
+
+35.3
+12.4
+9.3
+9.5
+6.6
+2.9
+4.2
+
+35.5
+12.4
+9.4
+9.5
+6.8
+2.7
+4.2
+
+32.2
+11.9
+6.9
+9.1
+6.3
+2.8
+4.3
+
+Net lending
+Capital expenditure 3/
+
+0.0
+8.5
+
+5.4
+14.0
+
+1.4
+7.0
+
+1.1
+6.2
+
+0.0
+6.7
+
+0.7
+7.6
+
+1.3
+7.9
+
+1.5
+9.1
+
+0.0
+5.9
+
+-4.9
+-13.4
+
+-2.9
+-22.4
+
+-1.2
+-9.6
+
+-1.0
+-8.2
+
+-0.1
+-6.8
+
+0.3
+-8.0
+
+0.5
+-8.7
+
+-0.3
+-10.8
+
+2.0
+-3.9
+
+0.5
+
+3.0
+
+0.6
+
+0.4
+
+2.7
+
+2.7
+
+1.5
+
+1.1
+
+1.1
+
+-12.9
+-7.2
+
+-19.4
+-12.0
+
+-9.0
+-1.4
+
+-7.9
+-0.8
+
+-4.1
+4.0
+
+-5.3
+4.3
+
+-7.1
+2.4
+
+-9.8
+-0.2
+
+-2.8
+6.2
+
+Financing
+Net foreign financing
+Drawings
+Amortization
+Other 4/
+Net domestic financing
+Banking system
+Nonbanks
+Capitalized interest arrears of SSMC debt 5/
+Sale/purchase of assets
+
+16.2
+14.1
+16.1
+2.0
+-0.1
+1.8
+1.3
+0.5
+0.0
+0.4
+
+11.9
+11.0
+14.1
+2.8
+-0.4
+0.2
+-1.6
+1.8
+0.0
+0.7
+
+11.6
+14.5
+19.1
+4.3
+-0.3
+-3.1
+-7.0
+3.9
+0.0
+0.2
+
+10.6
+1.5
+5.8
+4.2
+-0.1
+8.7
+5.7
+2.9
+0.0
+0.4
+
+11.2
+-1.1
+0.6
+4.7
+3.0
+11.9
+7.5
+4.4
+0.0
+0.3
+
+10.3
+0.2
+3.4
+3.7
+0.6
+9.6
+7.9
+0.9
+0.8
+0.5
+
+7.1
+-0.9
+3.7
+4.6
+0.0
+5.0
+4.7
+0.1
+0.3
+3.0
+
+6.1
+-0.9
+4.4
+5.3
+0.0
+6.0
+2.7
+3.3
+0.0
+1.0
+
+2.8
+1.5
+7.0
+5.6
+0.0
+-1.6
+-2.3
+0.7
+0.0
+3.0
+
+Statistical discrepancy
+Financing gap
+
+-3.3
+0.0
+
+7.5
+0.0
+
+-2.6
+0.0
+
+-2.8
+0.0
+
+-7.1
+0.0
+
+-5.0
+0.0
+
+0.0
+0.0
+
+0.0
+3.7
+
+0.0
+0.0
+
+139.7
+
+163.0
+
+181.5
+
+195.0
+
+194.8
+
+184.6
+
+180.4
+
+181.9
+
+170.8
+
+90.7
+49.1
+41.6
+
+108.6
+56.4
+52.2
+
+119.4
+53.6
+65.8
+
+121.2
+59.6
+61.5
+
+117.2
+66.8
+50.4
+
+112.6
+67.7
+44.9
+
+109.7
+68.3
+41.3
+
+112.2
+74.1
+38.1
+
+102.7
+62.5
+40.3
+
+Total revenue
+Current revenue
+Tax revenue
+Taxes on income
+Taxes on property
+Taxes on domestic goods and consumption
+Taxes on international trade and transactions
+Nontax revenue 2/
+Capital revenue
+Total expenditure and net lending
+
+Current balance
+Overall balance (before grants)
+Grants
+Overall balance (after grants)
+Primary balance
+
+Memorandum items:
+Public sector debt (end of period)
+Of which
+Central government 6/
+Domestic
+External
+
+Sources: St. Kitts and Nevis authorities; and Fund staff estimates.
+1/ Combined accounts of the Federal Government of St. Kitts and Nevis and the Nevis Island Administration.
+2/ The decline of nontax revenue under 2008 active relative to baseline reflects the corporatization of electricity department in mid-2008.
+3/ The increase in 2007 largely reflects projects to improve roads in Nevis.
+4/ IMF purchases and repurchases, and changes in the foreign assets of the federal government.
+5/ Held in the Development Bank.
+6/ Excluding SSMC debt taken over by the government from 2005.
+
+30
+
+Table 4. St. Kitts and Nevis: Structure of the Public Debt, 2001–07 1/
+(In millions of U.S. dollars, unless otherwise stated)
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+Prel.
+2007Q1
+
+2007Q2
+
+Total stock of debt
+(In percent of GDP)
+
+478.4
+139.7
+
+571.9
+163.0
+
+656.9
+181.5
+
+778.4
+195.0
+
+853.0
+194.8
+
+913.8
+184.6
+
+926.2
+175.8
+
+928.9
+176.3
+
+Total external debt (by debtor)
+St. Kitts Government
+Nevis Island Administration
+Public enterprises 2/
+
+223.5
+105.8
+36.5
+81.2
+
+266.4
+138.9
+44.4
+83.1
+
+320.6
+185.5
+52.9
+82.2
+
+341.5
+180.7
+65.0
+95.9
+
+337.3
+173.8
+47.0
+116.5
+
+331.0
+178.3
+44.1
+108.6
+
+328.3
+176.8
+43.1
+108.3
+
+322.3
+175.0
+42.7
+104.7
+
+Total external debt (by creditor)
+Bilateral
+Taiwan, Province of China
+Kuwait
+Other
+Multilateral
+CDB
+World Bank
+Other
+Commercial and other
+
+223.5
+41.3
+21.9
+9.6
+9.8
+63.6
+49.4
+7.9
+6.2
+118.6
+
+266.4
+41.2
+20.4
+11.9
+9.0
+84.3
+68.2
+10.1
+5.9
+140.8
+
+320.6
+47.7
+18.5
+11.8
+17.3
+91.7
+72.7
+11.9
+7.0
+181.2
+
+341.5
+42.7
+17.1
+11.2
+14.4
+97.6
+76.9
+13.2
+7.5
+201.2
+
+337.3
+36.4
+15.3
+9.9
+11.2
+98.9
+79.8
+13.0
+6.1
+202.0
+
+331.0
+41.2
+24.0
+8.4
+8.8
+105.6
+84.4
+14.5
+6.7
+184.2
+
+328.3
+43.6
+26.5
+8.3
+8.8
+106.7
+85.0
+2.5
+19.2
+178.0
+
+322.3
+41.3
+25.9
+7.7
+7.6
+106.4
+85.4
+2.5
+18.5
+174.7
+
+Total domestic debt (by debtor)
+St. Kitts Government
+Nevis Island Administration
+Public enterprises 2/
+
+254.9
+153.4
+14.6
+86.9
+
+305.5
+178.0
+19.8
+107.7
+
+336.4
+168.0
+25.9
+142.5
+
+436.8
+207.8
+30.3
+198.7
+
+515.8
+255.9
+36.6
+223.2
+
+582.8
+289.8
+45.2
+247.8
+
+597.9
+301.7
+49.1
+247.1
+
+606.5
+306.5
+50.3
+249.7
+
+Total domestic debt (by instruments)
+Loans and advances
+Treasury bills
+Debentures
+Regional government securities market
+Other
+
+254.9
+157.7
+90.7
+6.4
+0.0
+0.0
+
+305.5
+171.9
+95.1
+10.7
+27.8
+0.0
+
+336.4
+186.8
+111.6
+10.2
+27.8
+0.0
+
+436.8
+268.3
+130.4
+10.3
+27.8
+0.0
+
+515.8
+326.7
+152.4
+9.0
+15.6
+12.1
+
+582.8
+402.2
+144.0
+10.4
+15.6
+10.6
+
+597.9
+418.9
+141.9
+10.4
+15.6
+11.1
+
+606.5
+428.4
+140.7
+10.4
+15.6
+11.5
+
+Total domestic debt (by creditor)
+ECCB
+Commercial banks
+Of which
+Overdrafts 3/
+Social security
+Other
+
+254.9
+2.3
+180.4
+
+305.5
+2.6
+189.3
+
+336.4
+3.7
+196.3
+
+436.8
+4.8
+262.2
+
+515.8
+4.8
+326.7
+
+582.8
+5.0
+384.0
+
+597.9
+5.5
+395.1
+
+606.5
+5.3
+404.3
+
+32.5
+40.8
+31.4
+
+36.2
+63.0
+50.7
+
+0.0
+69.3
+67.0
+
+105.3
+80.9
+89.0
+
+166.4
+84.1
+100.1
+
+259.4
+87.4
+106.3
+
+300.6
+87.2
+110.1
+
+311.6
+87.1
+109.9
+
+21.1
+127.8
+54.2
+
+24.4
+145.0
+58.6
+
+27.6
+162.3
+64.0
+
+28.8
+174.7
+63.8
+
+29.2
+175.6
+64.1
+
+26.6
+167.0
+62.3
+
+25.1
+...
+...
+
+25.2
+...
+...
+
+Memorandum items (in percent of GDP):
+Debt of St. Kitts Sugar Manufacturing Corporation
+Public sector debt excluding debt to social security system
+Net assets of Social Security Board
+
+Sources: St. Kitts and Nevis authorities; ECCB; and financial statements of public enterprises.
+1/ Public debt comprises debts of the St. Kitts government, Nevis Island Administration, and public enterprises, including government guaranteed
+debt and debt to the social security system but excluding all other intra-public sector debt.
+2/ Including SSMC.
+3/ For central government only.
+
+31
+
+Table 5. St Kitts and Nevis: Balance of Payments, Baseline, 2002–12
+2002
+
+2003
+
+2004
+
+2005
+
+Prel.
+2006
+
+2007
+
+2008
+
+Projections
+2009
+2010
+
+2011
+
+2012
+
+(In millions of Eastern Caribbean dollars)
+Current account
+Trade balance
+Exports, f.o.b.
+Of which
+Sugar
+Imports f.o.b.
+Of which
+Mineral fuel
+Services and transfers (net)
+Services (net)
+Services (receipts)
+Of which
+Tourism receipts
+Services (payments)
+Factor income (net)
+Of which
+Public sector interest
+Transfers (net)
+Official (net)
+Private (net)
+
+-370.5
+-316.5
+163.0
+
+-341.1
+-320.3
+153.9
+
+-217.5
+-276.0
+158.3
+
+-267.7
+-352.9
+147.1
+
+-388.1
+-430.8
+158.3
+
+-441.2
+-467.5
+167.0
+
+-455.9
+-493.3
+174.7
+
+-447.6
+-494.8
+181.4
+
+-431.8
+-495.6
+189.0
+
+-419.2
+-500.1
+197.3
+
+-413.8
+-509.0
+206.3
+
+0.1
+-479.5
+
+19.5
+-474.2
+
+25.7
+-434.2
+
+0.0
+-500.1
+
+0.0
+-589.2
+
+0.0
+-634.4
+
+0.0
+-668.0
+
+0.0
+-676.2
+
+0.0
+-684.6
+
+0.0
+-697.5
+
+0.0
+-715.3
+
+-24.3
+
+-47.9
+
+-53.4
+
+-74.1
+
+-88.0
+
+-93.8
+
+-102.7
+
+-98.9
+
+-96.5
+
+-95.2
+
+-94.1
+
+-54.0
+31.2
+243.7
+
+-20.8
+74.8
+291.3
+
+58.5
+146.7
+364.9
+
+85.3
+162.1
+410.3
+
+42.7
+121.9
+424.9
+
+26.3
+101.9
+424.3
+
+37.3
+112.9
+454.9
+
+47.2
+121.0
+479.1
+
+63.8
+134.0
+505.8
+
+80.9
+146.7
+531.7
+
+95.2
+160.5
+559.1
+
+154.3
+-212.5
+-129.6
+
+203.5
+-216.4
+-145.8
+
+277.1
+-218.2
+-137.4
+
+309.2
+-248.2
+-132.4
+
+314.1
+-303.0
+-133.4
+
+307.9
+-322.4
+-133.0
+
+331.3
+-342.0
+-135.5
+
+352.0
+-358.1
+-137.7
+
+375.7
+-371.7
+-137.6
+
+399.2
+-385.0
+-136.9
+
+424.1
+-398.6
+-140.2
+
+-45.3
+44.4
+-1.1
+45.5
+
+-55.8
+50.2
+-1.2
+51.4
+
+-57.3
+49.2
+-3.6
+52.8
+
+-60.7
+55.6
+-2.7
+58.4
+
+-59.8
+54.2
+-3.9
+58.1
+
+-54.8
+57.4
+-2.5
+59.9
+
+-52.5
+59.9
+-1.8
+61.7
+
+-50.8
+63.9
+-0.7
+64.5
+
+-47.4
+67.4
+-0.7
+68.0
+
+-43.5
+71.1
+-0.7
+71.8
+
+-43.5
+75.0
+-0.7
+75.6
+
+Capital and financial account
+
+357.5
+
+302.6
+
+238.2
+
+149.6
+
+384.5
+
+441.2
+
+455.9
+
+447.6
+
+431.8
+
+419.2
+
+413.8
+
+Official
+Capital transfers (net)
+Long-term borrowing (net)
+Disbursements
+Amortization
+
+143.1
+30.7
+112.3
+152.6
+40.2
+
+147.6
+6.1
+141.5
+199.0
+57.6
+
+61.9
+7.3
+54.6
+133.4
+79.8
+
+39.1
+31.6
+7.5
+81.4
+73.9
+
+-0.2
+26.5
+-26.7
+59.7
+86.5
+
+-22.4
+16.7
+-39.1
+55.9
+95.0
+
+-6.1
+12.2
+-18.2
+91.0
+109.2
+
+-45.2
+4.6
+-49.8
+33.9
+83.6
+
+-53.2
+4.6
+-57.7
+19.9
+77.7
+
+-58.2
+4.6
+-62.8
+11.7
+74.5
+
+-51.7
+4.6
+-56.2
+10.0
+66.2
+
+Private capital
+Capital transfers (net)
+Foreign direct investment (net)
+Portfolio investment (net)
+Short-term capital (net)
+Other private (net)
+
+214.4
+8.7
+215.4
+18.2
+-51.9
+24.1
+
+155.0
+8.4
+204.2
+-1.1
+-89.8
+33.4
+
+176.3
+7.2
+124.6
+-62.8
+152.1
+-44.7
+
+110.5
+8.2
+230.8
+9.0
+-107.9
+-29.6
+
+384.7
+8.4
+539.1
+9.0
+-184.5
+12.7
+
+463.6
+8.2
+418.6
+9.0
+-128.6
+156.4
+
+462.0
+8.0
+443.7
+9.0
+-22.5
+23.7
+
+492.8
+8.0
+458.9
+9.0
+-17.8
+34.7
+
+485.0
+8.1
+463.2
+9.0
+-10.8
+15.4
+
+477.4
+8.2
+469.5
+9.0
+-18.9
+9.6
+
+465.5
+8.3
+477.1
+9.0
+-14.4
+-14.6
+
+Errors and omissions
+Overall balance
+
+42.5
+29.5
+
+36.6
+-1.9
+
+17.1
+37.9
+
+99.6
+-18.5
+
+49.8
+46.1
+
+0.0
+0.0
+
+0.0
+0.0
+
+0.0
+0.0
+
+0.0
+0.0
+
+0.0
+0.0
+
+0.0
+0.0
+
+Current account
+Exports of goods and nonfactor services
+Merchandise exports
+Nonfactor services
+Of which
+Tourism receipts
+Imports of goods and nonfactor services
+Merchandise imports
+Nonfactor services
+Foreign direct investment (net)
+External public debt
+
+-39.1
+42.9
+17.2
+25.7
+
+-34.9
+45.5
+15.7
+29.8
+
+-20.2
+48.5
+14.7
+33.9
+
+-22.6
+47.1
+12.4
+34.7
+
+-29.0
+43.6
+11.8
+31.8
+
+-31.0
+41.6
+11.7
+29.8
+
+-30.2
+41.7
+11.6
+30.2
+
+-28.3
+41.8
+11.5
+30.3
+
+-26.3
+42.4
+11.5
+30.8
+
+-24.7
+42.9
+11.6
+31.3
+
+-23.5
+43.5
+11.7
+31.8
+
+16.3
+-73.0
+-50.6
+-22.4
+22.7
+75.9
+
+20.8
+-70.7
+-48.5
+-22.1
+20.9
+88.5
+
+25.7
+-60.5
+-40.3
+-20.2
+11.6
+85.5
+
+26.1
+-63.3
+-42.3
+-21.0
+19.5
+77.0
+
+23.5
+-66.8
+-44.1
+-22.7
+40.3
+66.9
+
+21.6
+-67.3
+-44.6
+-22.7
+29.4
+60.1
+
+22.0
+-67.0
+-44.3
+-22.7
+29.4
+55.4
+
+22.3
+-65.5
+-42.8
+-22.7
+29.0
+49.8
+
+22.9
+-64.4
+-41.8
+-22.7
+28.2
+44.4
+
+23.5
+-63.7
+-41.1
+-22.7
+27.7
+39.2
+
+24.1
+-63.4
+-40.7
+-22.7
+27.1
+34.7
+
+Merchandise exports
+Tourism receipts
+Merchandise imports
+Terms of trade
+
+9.7
+-7.6
+6.6
+0.2
+
+-5.6
+31.9
+-1.1
+0.2
+
+5.4
+-2.0
+7.7
+-0.6
+
+4.6
+7.6
+5.3
+0.5
+
+3.8
+6.2
+1.2
+2.3
+
+4.2
+6.7
+1.2
+2.1
+
+4.4
+6.2
+1.9
+1.4
+
+4.5
+6.2
+2.6
+1.0
+
+External public debt
+External debt service
+Of which
+Interest
+
+176.8
+21.0
+
+194.4
+25.5
+
+176.3
+26.2
+
+163.3
+24.1
+
+153.2
+25.1
+
+144.5
+25.3
+
+132.8
+25.7
+
+119.0
+20.4
+
+104.9
+18.0
+
+91.3
+16.2
+
+79.6
+14.3
+
+10.8
+
+12.1
+
+10.5
+
+10.3
+
+9.7
+
+8.7
+
+7.9
+
+7.2
+
+6.4
+
+5.6
+
+5.4
+
+(In percent of GDP)
+
+(Annual percentage change)
+2.8
+36.2
+-8.4
+-3.6
+
+-7.0
+11.6
+15.2
+-5.9
+
+7.6
+1.6
+17.8
+-5.7
+
+(In percent of exports of goods and nonfactor services)
+
+Sources: ECCB; and Fund staff estimates and projections.
+
+32
+Table 6. St. Kitts and Nevis: Monetary Survey, 2001–07
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+Prel.
+2006
+
+Proj.
+2007
+
+(In millions of EC$)
+Net foreign assets
+ECCB imputed reserves
+Crown agents
+Commercial banks
+
+242.6
+147.7
+8.9
+86.0
+
+324.0
+176.6
+9.5
+137.9
+
+438.9
+174.6
+9.6
+254.7
+
+387.6
+211.5
+10.6
+165.5
+
+480.7
+193.0
+10.6
+277.0
+
+562.1
+239.1
+10.6
+312.3
+
+690.7
+239.1
+10.6
+441.0
+
+Net domestic assets
+Net credit to the public sector
+Net credit to central government
+Net credit to St. Kitts
+Net credit to Nevis
+Net credit to nonfinancial public sector
+Net credit to nonbank financial institutions
+Credit to the private sector
+Net other assets 1/
+
+551.6
+130.4
+286.2
+250.5
+35.7
+-155.8
+-4.5
+675.3
+-249.6
+
+520.8
+143.0
+266.7
+226.1
+40.6
+-123.7
+-16.0
+658.9
+-265.1
+
+464.1
+51.4
+198.2
+160.1
+38.1
+-146.8
+25.1
+687.4
+-299.8
+
+715.2
+216.4
+263.0
+216.0
+47.0
+-46.5
+48.8
+748.5
+-298.5
+
+670.2
+318.0
+351.7
+296.7
+55.0
+-33.7
+41.0
+804.6
+-493.4
+
+736.2
+392.1
+422.5
+397.5
+25.0
+-30.3
+37.9
+899.5
+-593.3
+
+790.7
+445.6
+488.6
+445.5
+43.1
+-43.1
+40.0
+985.1
+-680.0
+
+Broad money (M2)
+Money
+Currency in circulation
+Demand deposits
+Quasi-money
+Savings deposits
+Time deposits
+Foreign currency deposits
+
+794.2
+106.2
+36.1
+70.1
+688.1
+305.9
+147.3
+234.8
+
+844.8
+119.9
+37.7
+82.2
+724.9
+335.0
+153.6
+236.3
+
+903.0
+133.1
+39.9
+93.2
+769.9
+361.2
+144.6
+264.2
+
+1102.9
+166.9
+44.6
+122.3
+936.0
+418.2
+203.5
+314.2
+
+1150.8
+163.7
+49.9
+113.8
+987.1
+468.1
+183.3
+335.7
+
+1298.3
+184.5
+55.1
+129.4
+1113.8
+518.9
+188.1
+406.8
+
+1481.4
+210.5
+62.9
+147.6
+1270.9
+555.3
+232.7
+482.9
+
+-5.7
+27.8
+18.3
+7.2
+11.1
+2.6
+6.8
+0.1
+
+8.4
+-4.1
+9.2
+8.0
+1.2
+-0.7
+5.1
+-17.7
+
+7.1
+5.7
+6.4
+6.2
+0.3
+-0.3
+8.2
+-8.7
+
+9.9
+4.2
+4.1
+5.1
+-1.0
+0.2
+6.6
+-6.7
+
+(Percentage change relative to broad money at beginning of period)
+Net foreign assets
+Net domestic assets
+Net credit to the public sector
+Net credit to central government
+Net credit to nonfinancial public sector
+Net credit to nonbank financial institutions
+Credit to the private sector
+Net other assets 1/
+
+10.4
+-8.2
+1.3
+1.7
+-0.4
+-0.1
+-0.7
+-8.7
+
+10.2
+-3.9
+1.6
+-2.5
+4.0
+-1.4
+-2.1
+-1.9
+
+13.6
+-6.7
+-10.8
+-8.1
+-2.7
+4.9
+3.4
+-4.1
+
+(Annual percentage change)
+Broad money (M2)
+Money
+Currency in circulation
+Demand deposits
+Quasi-money
+Savings deposits
+Time deposits
+Foreign currency deposits
+Credit to the private sector (in nominal terms)
+Credit to the private sector (in real terms)
+
+2.3
+-3.6
+-11.1
+0.8
+3.2
+6.6
+13.0
+-5.7
+-0.8
+-3.3
+
+6.4
+12.9
+4.4
+17.3
+5.4
+9.5
+4.3
+0.6
+-2.4
+-4.2
+
+6.9
+11.0
+5.9
+13.4
+6.2
+7.8
+-5.9
+11.8
+4.3
+1.4
+
+22.1
+25.4
+11.7
+31.2
+21.6
+15.8
+40.8
+19.0
+8.9
+7.1
+
+4.3
+-1.9
+11.8
+-6.9
+5.5
+11.9
+-9.9
+6.8
+7.5
+1.4
+
+12.8
+12.7
+10.5
+13.7
+12.8
+10.9
+2.6
+21.2
+11.8
+3.6
+
+14.1
+14.1
+14.1
+14.1
+14.1
+7.0
+23.7
+18.7
+9.5
+5.3
+
+Memorandum items:
+Income velocity of money
+Income velocity of broad money
+Private sector credit/GDP (in percent)
+Foreign currency deposits/GDP (in percent)
+
+8.7
+1.2
+73.0
+25.4
+
+7.9
+1.1
+69.5
+24.9
+
+7.3
+1.1
+70.3
+27.0
+
+6.5
+1.0
+69.4
+29.2
+
+7.2
+1.0
+68.1
+28.4
+
+7.2
+1.0
+67.3
+30.4
+
+6.8
+1.0
+69.3
+34.0
+
+Sources: ECCB; and Fund staff estimates and projections.
+1/ Includes subsidiaries and affiliates and capital accounts.
+
+33
+Table 7. St Kitts and Nevis: Summary Medium-Term Projections, 2004–12
+(In percent of GDP, unless otherwise noted)
+
+2004
+
+2005
+
+Prel.
+2006
+
+2007
+
+2008
+
+Projections
+2009
+2010
+
+2011
+
+2012
+
+I. Baseline Scenario
+National accounts and prices
+Real GDP at factor cost (percent change)
+CPI inflation, end of period (percent change)
+Savings-investment balance
+Domestic expenditures
+Consumption
+Gross capital formation
+Net exports
+Gross national savings
+Savings-investment gap
+Central government accounts
+Total revenue and grants
+Tax revenue
+Nontax revenue, including capital revenue 1/
+Grants
+Expenditure and net lending
+Current
+Wages and salaries
+Goods and services 1/
+Interest
+Transfers
+Capital
+Net lending
+Current balance
+Primary balance
+Overall balance
+External financing
+Domestic financing
+Asset sales
+Statistical discrepenacy
+Financing gap
+Total public debt (end of period)
+Of which
+External debt
+
+7.3
+1.7
+
+4.4
+6.0
+
+4.0
+7.9
+
+3.3
+4.0
+
+3.5
+2.5
+
+2.7
+2.2
+
+2.3
+2.2
+
+2.0
+2.2
+
+2.0
+2.2
+
+112.0
+68.2
+43.8
+-12.0
+23.6
+20.2
+
+116.1
+73.7
+42.4
+-16.1
+19.8
+22.6
+0.0
+
+123.1
+69.1
+54.0
+-23.1
+25.0
+29.0
+0.0
+
+125.7
+75.7
+50.0
+-25.7
+19.0
+31.0
+0.0
+
+125.2
+75.2
+50.0
+-25.2
+19.8
+30.2
+0.0
+
+123.7
+73.7
+50.0
+-23.7
+21.7
+28.3
+0.0
+
+122.0
+74.0
+48.0
+-22.0
+21.7
+26.3
+0.0
+
+120.8
+72.8
+48.0
+-20.8
+23.3
+24.7
+0.0
+
+119.8
+71.8
+48.0
+-19.8
+24.5
+23.5
+0.0
+
+34.3
+26.2
+7.7
+0.4
+42.1
+34.9
+14.8
+8.9
+7.1
+4.1
+6.2
+1.1
+-1.0
+-0.8
+-7.9
+1.5
+8.7
+0.4
+-2.8
+0.0
+
+39.5
+29.2
+7.6
+2.7
+43.5
+36.9
+13.8
+9.7
+8.1
+5.3
+6.7
+0.0
+-0.1
+4.0
+-4.1
+-1.1
+11.9
+0.3
+-7.1
+0.0
+
+38.9
+27.9
+8.3
+2.7
+44.2
+36.0
+12.7
+9.5
+9.6
+4.1
+7.6
+0.7
+0.3
+4.3
+-5.3
+0.2
+9.6
+0.5
+-5.0
+0.0
+
+37.4
+27.8
+8.0
+1.5
+44.5
+35.3
+12.4
+9.3
+9.5
+4.2
+7.9
+1.3
+0.5
+2.4
+-7.1
+-0.9
+5.0
+3.0
+0.0
+0.0
+
+36.3
+27.4
+7.8
+1.1
+46.1
+35.5
+12.4
+9.4
+9.5
+4.2
+9.1
+1.5
+-0.3
+-0.2
+-9.8
+-0.9
+6.0
+1.0
+0.0
+3.7
+
+34.0
+27.5
+6.1
+0.4
+44.5
+34.0
+12.4
+7.3
+10.1
+4.3
+9.1
+1.5
+-0.4
+-0.5
+-10.5
+-1.8
+5.8
+1.0
+0.0
+5.5
+
+32.9
+28.0
+4.5
+0.4
+43.2
+32.6
+12.5
+5.3
+10.5
+4.3
+9.1
+1.5
+-0.1
+0.3
+-10.2
+-2.1
+5.7
+1.0
+0.0
+5.6
+
+33.4
+28.5
+4.5
+0.4
+43.7
+33.2
+12.5
+5.4
+11.0
+4.3
+9.1
+1.5
+-0.2
+0.6
+-10.3
+-2.3
+5.2
+1.0
+0.0
+6.4
+
+33.4
+28.5
+4.5
+0.3
+44.3
+33.7
+12.6
+5.5
+11.4
+4.3
+9.1
+1.5
+-0.7
+0.5
+-10.9
+-2.2
+5.5
+1.0
+0.0
+6.6
+
+195.0
+
+194.8
+
+184.6
+
+180.4
+
+181.9
+
+185.0
+
+189.1
+
+193.5
+
+198.6
+
+85.5
+
+77.0
+
+66.9
+
+60.1
+
+55.4
+
+49.8
+
+44.4
+
+39.2
+
+34.7
+
+II. Active Scenario
+National accounts and prices
+Real GDP growth (percent change)
+CPI inflation, end of period (percent change)
+Central government accounts
+Total revenue and grants
+Tax revenue
+Nontax revenue, including capital revenue 2/
+Grants
+Expenditure and net lending
+Current
+Wages and salaries
+Goods and services 2/
+Interest
+Transfers
+Capital
+Net lending
+Current balance
+Primary balance
+Overall balance
+External financing
+Domestic financing
+Asset sales
+Statistical discrepenacy
+Financing gap
+Total public debt (end of period)
+Of which
+External debt
+
+Total public debt with EU grants (end of period)
+
+7.3
+1.7
+
+4.4
+6.0
+
+4.0
+8.4
+
+3.3
+4.0
+
+4.0
+2.5
+
+4.1
+2.2
+
+4.1
+2.2
+
+4.2
+2.2
+
+4.2
+2.2
+
+34.3
+26.2
+7.7
+0.4
+42.1
+34.9
+14.8
+8.9
+7.1
+4.1
+6.2
+1.1
+-1.0
+-0.8
+-7.9
+1.5
+8.7
+0.4
+-2.8
+0.0
+
+39.5
+29.2
+7.6
+2.7
+43.5
+36.9
+13.8
+9.7
+8.1
+5.3
+6.7
+0.0
+-0.1
+4.0
+-4.1
+-1.1
+11.9
+0.3
+-7.1
+0.0
+
+38.9
+27.9
+8.3
+2.7
+44.2
+36.0
+12.7
+9.5
+9.6
+4.1
+7.6
+0.7
+0.3
+4.3
+-5.3
+0.2
+9.6
+0.5
+-5.0
+0.0
+
+37.4
+27.8
+8.0
+1.5
+44.5
+35.3
+12.4
+9.3
+9.5
+4.2
+7.9
+1.3
+0.5
+2.4
+-7.1
+-0.9
+5.0
+3.0
+0.0
+0.0
+
+35.3
+28.0
+6.2
+1.1
+38.1
+32.2
+11.9
+6.9
+9.1
+4.3
+5.9
+0.0
+2.0
+6.2
+-2.8
+1.5
+-1.6
+3.0
+0.0
+0.0
+
+33.4
+28.2
+4.7
+0.5
+35.3
+29.4
+11.6
+4.8
+8.7
+4.3
+5.9
+0.0
+3.5
+6.8
+-1.9
+0.2
+-1.3
+3.0
+0.0
+0.0
+
+34.5
+29.3
+4.7
+0.5
+34.7
+28.8
+11.3
+4.7
+8.2
+4.6
+5.9
+0.0
+5.2
+8.0
+-0.2
+-0.4
+-2.4
+3.0
+0.0
+0.0
+
+34.6
+29.4
+4.7
+0.4
+33.9
+28.0
+11.0
+4.7
+7.6
+4.8
+5.9
+0.0
+6.1
+8.2
+0.7
+-0.6
+-3.0
+3.0
+0.0
+0.0
+
+34.7
+29.5
+4.7
+0.4
+33.0
+27.1
+10.7
+4.6
+6.9
+4.9
+5.9
+0.0
+7.2
+8.6
+1.7
+-0.6
+-4.1
+3.0
+0.0
+0.0
+
+195.0
+
+194.8
+
+184.6
+
+180.4
+
+170.8
+
+160.3
+
+149.3
+
+137.9
+
+126.3
+
+85.5
+
+77.0
+
+66.9
+
+60.1
+
+57.5
+
+53.1
+
+48.5
+
+43.9
+
+40.0
+
+195.0
+
+194.8
+
+184.6
+
+180.4
+
+168.1
+
+155.0
+
+141.5
+
+124.3
+
+110.2
+
+Sources: St. Kitts and Nevis authorities; and Fund staff estimates and projections.
+1/ Asssumes that Electricity Department is corporatized and removed from central government accounts during 2009.
+2/ Asssumes that Electricity Department is corporatized and removed from central government accounts during 2008.
+3.4
+
+34
+
+Table 8. St. Kitts and Nevis: Indicators of External and Financial Vulnerability, 2001–07
+(12-month percentage change, unless otherwise stated)
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+Prel.
+2006
+
+Proj.
+2007
+
+6.9
+-3.5
+1.9
+5.8
+-32.0
+40.0
+
+9.7
+6.6
+0.2
+-7.6
+-39.1
+37.7
+
+-5.6
+-1.1
+0.2
+31.9
+-34.9
+31.0
+
+2.8
+-8.4
+-3.6
+36.2
+-20.2
+22.1
+
+-7.0
+15.2
+-5.9
+11.6
+-22.6
+12.6
+
+7.6
+17.8
+-5.7
+1.6
+-29.0
+28.8
+
+5.4
+7.7
+-0.6
+-2.0
+-31.0
+31.0
+
+25.7
+
+22.7
+
+20.9
+
+11.6
+
+19.5
+
+40.3
+
+29.4
+
+446.0
+19.1
+
+504.8
+20.2
+
+539.9
+19.8
+
+632.4
+20.5
+
+600.8
+17.9
+
+696.0
+18.6
+
+770.2
+18.6
+
+31.8
+65.3
+18.8
+
+51.1
+75.9
+21.0
+
+94.3
+88.5
+25.5
+
+61.3
+85.5
+26.2
+
+102.6
+77.0
+24.1
+
+115.7
+66.9
+25.1
+
+163.3
+60.1
+25.3
+
+7.4
+
+10.8
+
+12.1
+
+10.5
+
+10.3
+
+9.7
+
+8.7
+
+Nominal exchange rate (E.C. dollars per U.S. dollar, end period)
+Real effective exchange rate depreciation (-), end period 2/
+
+2.7
+1.8
+
+2.7
+-3.3
+
+2.7
+-3.9
+
+2.7
+-4.0
+
+2.7
+5.4
+
+2.7
+0.5
+
+2.7
+...
+
+Financial indicators
+Broad money
+Credit to the private sector
+Share of nonperforming assets to total assets of banks (percent)
+Provisions for loan losses/nonperforming assets (percent)
+Provisions for loan losses/total loans (percent)
+Gross government exposure/total assets (percent)
+Total loans/total deposits (percent)
+Net liquid assets/total deposits (percent)
+Foreign currency deposits/total deposits (percent)
+Liquid assets/total deposits (percent)
+Liquid assets/current liabilities (percent)
+Total capital/total assets (percent) 3/
+Total capital/risk weighted assets (percent) 3/
+Tier 1 capital/risk weighted assets (percent) 3/
+Ratio of bank’s before-tax profits to average assets (percent)
+
+2.3
+-0.8
+11.6
+30.5
+3.5
+28.4
+80.9
+32.2
+21.3
+38.5
+48.2
+11.1
+30.0
+23.8
+3.4
+
+6.4
+-2.4
+12.7
+27.2
+3.4
+25.8
+79.0
+34.2
+21.3
+41.7
+46.1
+14.8
+44.2
+40.0
+2.6
+
+6.9
+4.3
+8.6
+23.2
+2.0
+24.6
+71.7
+39.7
+20.9
+43.4
+55.6
+11.8
+33.7
+36.6
+2.4
+
+22.1
+8.9
+7.8
+17.0
+1.3
+28.9
+75.0
+33.1
+22.0
+37.3
+41.9
+11.7
+33.8
+30.0
+2.8
+
+4.3
+7.5
+6.1
+19.3
+1.2
+30.1
+80.4
+34.3
+21.1
+36.9
+49.3
+12.7
+45.1
+39.7
+3.1
+
+12.8
+11.8
+4.8
+24.3
+1.2
+29.6
+85.1
+33.8
+25.0
+35.2
+41.8
+13.2
+38.9
+35.0
+3.4
+
+14.1
+9.5
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+
+External indicators
+Merchandise exports
+Merchandise imports
+Terms of trade deterioration (-)
+Tourism earnings
+Current account balance (percent of GDP)
+Capital and financial account balance (percent of GDP) 1/
+Of which
+Foreign direct investment
+Gross international reserves of the ECCB
+In millions of U.S. dollars
+In percent of broad money
+Commercial banks’ net foreign assets (millions of U. S. dollars)
+External public debt (percent of GDP)
+External debt service (in percent of exports of goods and services)
+Of which
+Interest
+
+Sources: ECCB; Ministry of Finance; and Fund staff estimates.
+1/ Includes errors and omissions.
+2/ Estimated on the basis of weights given by the average trade share during 1999–2003.
+3/ For locally incorporated banks only.
+
+Pending
+The Ministry of Finance has requested assistance from the Canadian International
+Development Agency (CIDA) to finance the engagement of consultants. CIDA
+confirmed that it would fund the consultants and would send short-term consultants
+before the end of the year.
+Pending
+A draft document detailing the arrangements for the land sale was prepared and is
+to be finalized by the Ministry of Sustainable Development.
+Done
+The Ministry of Sustainable Development received CDB’s “no objection” to proceed
+with the finalization of the agreement. The contract with the consultants was signed
+and a copy was sent to CDB. Consultants are engaged with the project.
+
+Debt Management
+Consultants engaged to review the public debt to determine its features,
+characteristics and management arrangements, and to recommend
+arrangements for the comprehensive management and reporting of the public
+debt and for the integration of debt operations with budgetary management.
+
+Land Sales
+Transparent arrangements in place, acceptable to CDB, for the orderly sale at
+market prices of 1,200 acres of land earmarked for sale by the government, with
+the proceeds being used for reducing the public debt.
+
+Privatization
+Consultants engaged to complete the framework for the post-corporatization
+management and operations of the electricity utility.
+
+2/ Referring to only the St. Kitts Government and excluding the NIA.
+
+Sources: CDB; and the Ministry of Finance.
+1/ Two sources of funds will be used for the PBL: US$12 million from Ordinary Capital Resources (OCR) and US$8 million from Special Funds Resources (SFR). (i)
+The OCR portion is to be repaid in 20 years, inclusive of a grace period of five years, at a variable interest rate (reviewed semi-annually). The rate at end-2006 was
+6.25 percent per year. A commitment fee of 1 percent is also applied. If the CDB's Board of Directors agrees to establish an Interest Subsidization Fund (ISF), an
+interest subsidy of 2 percent could be applied. (ii) The SFR portion is to be repaid in 25 years, inclusive of a grace period of five years, at an interest rate of 2.5 percent
+per year.
+
+Done
+The Finance Administration Act formally went into effect on November 1, 2007. A
+letter from the Attorney General indicating that the FAA is in effect was received by
+CDB on November 29.
+
+Expenditure Management
+Enactment and bringing into force of new Finance Administration Act.
+
+• Done. As of June 28, 2007, the Inland Revenue Department completed 17.2
+percent of the total registered properties for property tax assessment.
+• Waived. The authorities sent a letter to CDB requesting that this condition be
+waived and technical assistance be provided. The CDB has approved the waiver
+and added this condition for the second disbursement of the PBL.
+
+Status
+Pending
+Fiscal data for January to September 2007 indicated a primary balance of EC$42.2
+million for the St. Kitts government.
+
+Conditions
+
+General Fiscal Policy
+• Maintenance or strengthening of existing fiscal policy arrangements to achieve
+and maintain sustainable fiscal and debt outturns;
+• Central Government primary balance not to fall below 3.5 percent of GDP 2/;
+• IMF to have no objections to fiscal policy stance and policy arrangements.
+Revenue Measures
+• Completion of valuation of at least 17 percent of total registered properties for
+property tax assessment.
+• Enactment and bringing into force of new Income Tax Act.
+
+Table 9. St. Kitts and Nevis: Status of Policy Conditions for the First Disbursement of PBL 1/
+(As of December 6, 2007)
+
+35
+
+1.0
+8.0
+6.5
+0.0
+1.5
+32.0
+20.2
+
+85.0
+0.3
+
+361.6
+
+23.2
+27.7
+20.2
+45.1
+65.3
+7.4
+7.4
+8.8
+-1.4
+0.0
+0.0
+0.0
+0.0
+0.0
+-4.4
+
+163.0
+75.9
+
+0.5
+7.2
+4.6
+0.0
+2.7
+-23.2
+5.9
+
+79.3
+0.3
+
+411.9
+
+18.5
+12.1
+5.9
+44.0
+49.9
+6.5
+6.5
+7.2
+-0.8
+0.0
+-0.2
+-0.2
+0.0
+0.0
+6.4
+
+181.5
+88.5
+
+2003
+
+7.6
+6.7
+4.2
+0.0
+2.4
+7.4
+5.0
+
+75.7
+0.3
+
+435.5
+
+13.5
+-1.3
+5.0
+44.8
+49.8
+-5.9
+-5.9
+6.7
+-12.6
+0.0
+-0.4
+-0.4
+0.0
+0.0
+14.8
+
+195.0
+85.5
+
+Actual
+2004
+
+4.8
+6.7
+2.0
+0.0
+4.7
+6.5
+0.2
+
+93.6
+0.4
+
+385.9
+
+-0.2
+-5.5
+0.2
+50.5
+50.6
+-5.3
+-5.3
+3.2
+-8.5
+0.0
+-0.3
+-0.3
+0.0
+0.0
+5.3
+
+194.8
+77.0
+
+2005
+
+6.4
+6.4
+0.1
+0.0
+6.3
+-6.0
+-2.6
+
+67.1
+0.3
+
+389.9
+
+-10.2
+-14.6
+-2.6
+47.3
+44.8
+-11.5
+-11.5
+-0.5
+-11.0
+0.0
+-0.5
+-0.5
+0.0
+0.0
+4.4
+
+184.6
+66.9
+
+2006
+
+2.7
+0.5
+1.9
+0.0
+1.5
+27.9
+6.5
+
+Standard
+Deviation
+
+Historical
+Average
+
+3.8
+7.1
+3.9
+0.0
+3.3
+10.4
+7.5
+
+10-Year
+
+10-Year
+
+Projections
+2009 2010
+2011
+
+3.5
+6.4
+3.9
+0.0
+2.5
+7.2
+-0.5
+
+74.5
+0.4
+
+406.7
+
+1.4
+-1.0
+-0.5
+44.7
+44.2
+0.6
+0.6
+6.5
+-5.9
+0.0
+-1.0
+-1.0
+0.0
+0.0
+2.4
+
+181.9
+55.4
+
+2.7
+6.6
+4.6
+0.0
+2.0
+-2.2
+-0.6
+
+76.6
+0.4
+
+432.9
+
+3.1
+1.6
+-0.6
+42.7
+42.1
+3.2
+3.2
+7.8
+-4.6
+0.0
+-1.0
+-1.0
+0.0
+0.0
+1.6
+
+185.0
+49.8
+
+2.3
+6.7
+5.2
+0.0
+1.5
+-2.3
+-1.4
+
+80.0
+0.5
+
+453.8
+
+4.1
+2.7
+-1.4
+41.7
+40.2
+5.1
+5.1
+9.2
+-4.0
+0.0
+-1.0
+-1.0
+0.0
+0.0
+1.4
+
+189.1
+44.4
+
+2.0
+6.8
+5.3
+0.0
+1.5
+2.3
+-1.8
+
+90.5
+0.6
+
+459.3
+
+4.4
+3.1
+-1.8
+42.1
+40.4
+5.8
+5.8
+9.5
+-3.7
+0.0
+-1.0
+-1.0
+0.0
+0.0
+1.3
+
+193.5
+39.2
+
+I. Baseline Projections
+
+2008
+
+180.4
+180.4
+180.4
+180.4
+180.4
+180.4
+
+180.4
+180.4
+
+183.5
+184.8
+185.1
+185.5
+210.8
+191.9
+
+189.3
+179.3
+
+188.4
+191.6
+191.6
+192.4
+214.5
+195.2
+
+197.4
+179.9
+
+194.2
+200.0
+199.0
+200.5
+219.4
+199.5
+
+205.2
+182.1
+
+200.6
+209.7
+207.0
+209.1
+224.7
+204.3
+
+213.1
+184.9
+
+207.8
+220.9
+215.7
+218.8
+230.8
+209.7
+
+221.2
+188.3
+
+2.0
+6.8
+5.3
+0.0
+1.5
+2.3
+-1.6
+
+95.2
+0.6
+
+471.9
+
+5.1
+3.5
+-1.6
+42.1
+40.5
+6.1
+6.1
+9.9
+-3.8
+0.0
+-1.0
+-1.0
+0.0
+0.0
+1.6
+
+198.6
+34.7
+
+2012
+
+II. Stress Tests for Public Debt Ratio
+
+3.3
+6.3
+3.3
+0.0
+3.0
+-1.5
+-3.1
+
+69.8
+0.4
+
+394.0
+
+-4.2
+-6.3
+-3.1
+45.8
+42.7
+-0.2
+-0.2
+5.5
+-5.7
+0.0
+-3.0
+-3.0
+0.0
+0.0
+2.2
+
+180.4
+60.1
+
+2007
+
+Sources: St. Kitts and Nevis authorities; and Fund staff estimates.
+1/ Assumes that key variables (real GDP growth, real interest rate, and other identified debt-creating flows) remain at the level of the last projection year.
+2/ Gross debt of central government and public enterprises.
+3/ Derived as [(r - p(1+g) - g + ae(1+r)]/(1+g+p+gp)) times previous period debt ratio, with r = interest rate; p = growth rate of GDP deflator; g = real GDP growth rate; a = share of foreign-currency
+denominated debt; and e = nominal exchange rate depreciation (measured by increase in local currency value of U.S. dollar).
+4/ The real interest rate contribution is derived from the denominator in footnote 3/ as r - π (1+g) and the real growth contribution as -g.
+5/ The exchange rate contribution is derived from the numerator in footnote 3/ as ae(1+r).
+6/ Defined as public sector deficit, plus amortization of medium and long-term public sector debt, plus short-term debt at end of previous period.
+7/ Derived as nominal interest expenditure divided by previous period debt stock.
+8/ The key variables include real GDP growth; real interest rate; and primary balance in percent of GDP.
+9/ Real depreciation is defined as nominal depreciation (measured by percentage fall in dollar value of local currency) minus domestic inflation (based on GDP deflator).
+
+B1. Real interest rate is at baseline plus one standard deviations
+B2. Real GDP growth is at baseline minus one-half standard deviation
+B3. Primary balance is at baseline minus one-half standard deviation
+B4. Combination of B1-B3 using one-quarter standard deviation shocks
+B5. One time 30 percent real depreciation in 2008 9/
+B6. 10 percent of GDP increase in other debt-creating flows in 2008
+
+B. Bound Tests
+
+A1. Key variables are at their historical averages in 2007–12 8/
+A2. No policy change (constant primary balance) in 2007–12
+
+A. Alternative Scenarios
+
+Real GDP growth (in percent)
+Average nominal interest rate on public debt (in percent) 7/
+Average real interest rate (nominal rate minus change in GDP deflator, in percent)
+Nominal appreciation (increase in US dollar value of local currency, in percent)
+Inflation rate (GDP deflator, in percent)
+Growth of real primary spending (deflated by GDP deflator, in percent)
+Primary deficit
+
+Key Macroeconomic and Fiscal Assumptions
+
+Gross financing need 6/
+In billions of U.S. dollars
+
+Public sector debt-to-revenue ratio 2/
+
+Change in public sector debt
+Identified debt-creating flows
+Primary deficit
+Revenue and grants
+Primary (noninterest) expenditure
+Automatic debt dynamics 3/
+Contribution from interest rate/growth differential 4/
+Of which: Contribution from real interest rate
+Of which: Contribution from real GDP growth
+Contribution from exchange rate depreciation 5/
+Other identified debt-creating flows
+Privatization receipts (negative)
+Recognition of implicit or contingent liabilities
+Other (specify, e.g., bank recapitalization)
+Residual, including asset changes
+
+Public sector debt 2/
+Of which : Foreign-currency denominated
+
+2002
+
+(In percent of GDP, unless otherwise indicated)
+
+Table 10. St. Kitts and Nevis: Public Sector Debt Sustainability Framework, Baseline, 2002–12
+
+7.5
+8.9
+5.8
+8.4
+6.3
+5.6
+
+-0.9
+4.9
+
+Debt-stabilizing
+primary
+balance 1/
+
+2.5
+6.6
+4.8
+0.0
+1.8
+1.5
+-1.2
+
+Projected
+Average
+
+Debt-stabilizing
+primary
+balance 1/
+5.3
+
+36
+
+176.8
+
+External debt-to-exports ratio (in percent)
+
+1.0
+0.0
+1.5
+7.5
+-1.5
+6.0
+-34.3
+24.6
+
+0.5
+0.0
+2.7
+7.8
+9.5
+-0.2
+-29.2
+20.8
+
+0.2
+48.1
+
+194.4
+
+12.6
+11.8
+29.2
+25.1
+45.5
+70.7
+-20.8
+3.4
+5.7
+-0.4
+-2.0
+0.8
+
+88.5
+
+2003
+
+7.6
+0.0
+2.4
+6.6
+17.5
+-5.5
+-14.9
+5.7
+
+0.1
+35.6
+
+176.3
+
+-3.0
+6.2
+14.9
+12.0
+48.5
+60.5
+-5.7
+-2.9
+5.3
+-6.1
+-2.1
+-9.2
+
+85.5
+
+Actual
+2004
+
+4.8
+0.0
+4.7
+6.6
+6.6
+14.7
+-17.5
+20.3
+
+0.2
+36.7
+
+163.3
+
+-8.5
+-5.2
+17.5
+16.1
+47.1
+63.3
+-20.3
+-2.4
+5.1
+-3.7
+-3.8
+-3.3
+
+77.0
+
+2005
+
+6.4
+0.0
+6.3
+6.6
+4.6
+19.2
+-24.6
+41.0
+
+0.2
+42.3
+
+153.2
+
+-10.1
+-20.9
+24.6
+23.1
+43.6
+66.8
+-41.0
+-4.4
+4.5
+-4.3
+-4.5
+10.7
+
+66.9
+
+2006
+
+3.8
+0.0
+3.3
+6.3
+5.6
+5.9
+-22.4
+22.4
+
+2.7
+0.0
+1.5
+1.2
+5.6
+9.5
+6.6
+12.0
+
+10-Year 10-Year
+Historical Standard
+Average Deviation
+
+2009
+
+3.5
+0.0
+2.5
+6.1
+6.5
+5.5
+-26.7
+30.0
+
+0.2
+43.1
+
+132.8
+
+-4.6
+-3.2
+26.7
+25.2
+41.7
+67.0
+-30.0
+0.0
+3.5
+-2.0
+-1.5
+-1.4
+
+55.4
+
+2.7
+0.0
+2.0
+6.1
+4.9
+2.4
+-25.1
+29.6
+
+0.2
+38.9
+
+119.0
+
+-5.6
+-3.8
+25.1
+23.7
+41.8
+65.5
+-29.6
+0.7
+3.2
+-1.4
+-1.1
+-1.9
+
+49.8
+
+2.3
+0.0
+1.5
+6.0
+5.2
+2.1
+-23.4
+28.8
+
+0.2
+35.9
+
+104.9
+
+-5.3
+-4.3
+23.4
+22.0
+42.4
+64.4
+-28.8
+1.1
+2.9
+-1.1
+-0.7
+-1.1
+
+44.4
+
+2.0
+0.0
+1.5
+6.0
+4.9
+2.5
+-22.1
+28.2
+
+0.2
+33.4
+
+91.3
+
+-5.2
+-5.0
+22.1
+20.8
+42.9
+63.7
+-28.2
+1.0
+2.6
+-0.9
+-0.7
+-0.2
+
+39.2
+
+Projections
+2010
+2011
+
+I. Baseline Projections
+
+2008
+
+60.1
+60.1
+60.1
+60.1
+60.1
+
+60.1
+
+55.8
+58.8
+58.7
+57.4
+69.2
+
+60.1
+
+50.4
+56.1
+56.4
+53.6
+59.6
+
+59.7
+
+45.4
+53.4
+54.5
+49.9
+51.1
+
+60.1
+
+40.5
+50.5
+52.8
+46.2
+43.4
+
+61.3
+
+36.2
+48.0
+51.9
+43.0
+38.0
+
+63.5
+
+2.0
+0.0
+1.5
+5.9
+5.0
+2.9
+-21.3
+27.6
+
+0.2
+31.1
+
+79.6
+
+-4.5
+-5.5
+21.3
+19.8
+43.5
+63.4
+-27.6
+0.9
+2.2
+-0.8
+-0.6
+0.9
+
+34.7
+
+2012
+
+II. Stress Tests for External Debt Ratio
+
+3.3
+0.0
+3.0
+6.1
+1.4
+7.2
+-27.2
+30.1
+
+0.2
+44.0
+
+144.5
+
+-6.8
+-3.1
+27.2
+25.7
+41.6
+67.3
+-30.1
+-0.2
+3.9
+-2.1
+-1.9
+-3.7
+
+60.1
+
+2007
+
+Sources: St. Kitts and Nevis authorities; and Fund staff estimates.
+1/ Long-run, constant balance that stabilizes the debt ratio assuming that key variables (real GDP growth, nominal interest rate, dollar deflator growth, and nondebt inflows in percent of GDP) remain
+at their levels of the last projection year.
+2/ Data on private debt stocks and flows are unavailable.
+3/ Derived as [r - g - r(1+g) + ea(1+r)]/(1+g+r+gr) times previous period debt stock, with r = nominal effective interest rate on external debt; r = change in domestic GDP deflator in U.S. dollar terms,
+g = real GDP growth rate, e = nominal appreciation (increase in dollar value of domestic currency), and a = share of domestic-currency denominated debt in total external debt.
+4/ The contribution from price and exchange rate changes is defined as [-r(1+g) + ea(1+r)]/(1+g+r+gr) times previous period debt stock. r increases with an appreciating domestic currency (e > 0)
+and rising inflation (based on GDP deflator).
+5/ Defined as current account deficit, plus amortization on medium- and long-term debt, plus short-term debt at end of previous period.
+6/ The key variables include real GDP growth; nominal interest rate; dollar deflator growth; and both noninterest current account and nondebt inflows in percent of GDP.
+
+B1. Nominal interest rate is at baseline plus one-half standard deviation
+B2. Real GDP growth is at baseline minus one-half standard deviations
+B3. Noninterest current account is at baseline minus one-half standard deviations
+B4. Combination of B1–B3 using 1/4 standard deviation shocks
+B5. One time 30 percent real depreciation in 2008
+
+B. Bound Tests
+
+A1. Key variables are at their historical averages in 2007–12 6/
+
+A. Alternative Scenarios
+
+Real GDP growth (in percent)
+Exchange rate appreciation (U.S. dollar value of local currency, change in percent)
+GDP deflator in U.S. dollars (change in percent)
+Nominal external interest rate (in percent)
+Growth of exports (U.S. dollar terms, in percent)
+Growth of imports (U.S. dollar terms, in percent)
+Current account balance, excluding interest payments
+Net nondebt creating capital inflows
+
+Key Macroeconomic Assumptions
+
+0.2
+49.7
+
+10.6
+12.9
+34.3
+30.1
+42.9
+73.0
+-24.6
+3.2
+4.8
+-0.7
+-0.9
+-2.2
+
+Change in external debt
+Identified external debt-creating flows
+Current account deficit, excluding interest payments
+Deficit in balance of goods and services
+Exports
+Imports
+Net non-debt creating capital inflows (negative)
+Automatic debt dynamics 3/
+Contribution from nominal interest rate
+Contribution from real GDP growth
+Contribution from price and exchange rate changes 4/
+Residual, incl. change in gross foreign assets
+
+Gross external financing need (in billions of US dollars) 5/
+in percent of GDP
+
+75.9
+
+External public debt 2/
+
+2002
+
+(In percent of GDP, unless otherwise indicated)
+
+Table 11. St. Kitts and Nevis: External Debt Sustainability Framework, Baseline, 2002–12
+
+-26.6
+-24.9
+-26.5
+-27.2
+-40.1
+
+-21.1
+
+2.5
+0.0
+1.8
+6.0
+5.3
+3.1
+-23.7
+28.9
+Debt-stabilizing
+noninterest
+current account 1/
+
+Projected
+Average
+
+Debt-stabilizing
+noninterest
+current account 1/
+-26.8
+
+37
+
+38
+
+INTERNATIONAL MONETARY FUND
+ST. KITTS AND NEVIS
+Staff Report for the 2007 Article IV Consultation—Informational Annex
+Prepared by the Western Hemisphere Department
+
+December 17, 2007
+
+Contents
+
+Page
+
+Appendices
+I.
+
+Fund Relations............................................................................................................. 39
+
+II.
+
+Relations with the World Bank Group ........................................................................ 42
+
+III.
+
+Relations with the Caribbean Development Bank ...................................................... 45
+
+IV.
+
+Statistical Issues ............................................................................................................... 47
+
+39
+Appendix I. St. Kitts and Nevis—Fund Relations
+(As of October 31, 2007)
+I.
+II.
+
+Membership Status: Joined August 15, 1984; Article VIII.
+General Resources Account:
+Quota
+Fund holdings of currency
+Reserve position in the Fund
+
+III.
+
+SDR Department:
+Holdings
+
+SDR Million
+8.90
+8.82
+0.08
+SDR Million
+0.00
+
+IV.
+
+Outstanding Purchases and Loans:
+
+None
+
+V.
+
+Latest Financial Arrangements:
+
+None
+
+VI.
+
+Projected Payments to Fund:
+
+None
+
+VII.
+
+Implementation of HIPC Initiative:
+
+Not Applicable
+
+VIII.
+
+Implementation of MDRI Assistance:
+
+Not Applicable
+
+IX.
+
+Exchange Arrangement:
+
+Percent of
+Quota
+100.00
+99.09
+0.92
+Percent of
+Allocation
+N/A
+
+St. Kitts and Nevis is a member of the Eastern Caribbean Central Bank (ECCB), which
+manages monetary policy and the exchange system for its eight members. The common
+currency, the Eastern Caribbean dollar, has been pegged to the U.S. dollar at the rate of
+EC$2.70 per U.S. dollar since July 1976. In practice the ECCB has operated like a quasicurrency board, maintaining foreign exchange backing of its currency and demand liabilities
+of close to 100 percent. St. Kitts and Nevis accepted the obligations of Article VIII,
+Sections 2, 3, and 4 in December 1984. The exchange system is free of restrictions on the
+making of payments and transfers for current international transactions.
+X.
+
+Safeguards Assessment:
+
+Under the Fund's safeguards assessment policy, the Eastern Caribbean Central Bank (ECCB),
+of which St. Kitts and Nevis is a participating government, is subject to a full safeguards
+
+40
+assessment under a four-year cycle. The most recent assessment was completed in July 2007
+and concluded that the ECCB continues to have appropriate control mechanisms in place,
+which have strengthened since the first safeguards assessment was completed in 2003. ECCB
+management places emphasis on good governance and sound controls, and has enhanced the
+bank’s transparency and accountability since the last assessment, including the publications
+of financial statements that comply with International Financial Reporting Standards. The
+assessment made some recommendations to sustain the ECCB’s safeguards framework going
+forward.
+XI.
+
+Last Article IV Consultation:
+
+St. Kitts and Nevis is on the standard 12-month consultation cycle. The last Article IV
+consultation was concluded by the Executive Board on January 17, 2007. The staff report is
+IMF Country Report No. 07/141, and the accompanying statistical appendix is IMF
+Country Report No. 07/142.
+XII.
+
+FSAP Participation, ROSCs, and OFC Assessment
+
+St. Kitts and Nevis participated in the regional ECCU FSAP conducted in September and
+October 2003. The Financial System Stability Assessment is available at
+www.imf.org/external/pubs/ft/scr/2004/cr04293.pdf. A review of St. Kitts and Nevis
+AML/CFT Assessment was conducted by a team of assessors representing the Caribbean
+Financial Action Taskforce (CFATF) in September 2003.
+XIII. Technical Assistance: (2005–Present)
+Since 2005, St. Kitts and Nevis has benefited from technical assistance in the areas of tax
+policy, tax administration, economic statistics, financial supervision and macroeconomic
+management, both from IMF headquarters and the Caribbean Regional Technical Assistance
+Centre (CARTAC).
+•
+
+Experts from CARTAC and the IMF’s Statistics Department (STA) advised the
+Central Statistics Office on improving the national accounts, and developing exportimport price indices.
+
+•
+
+Experts from CARTAC, the IMF’s Monetary and Capital Markets Department
+(MCM), and the IMF’s Legal Department (LEG) advised the authorities on
+strengthening financial regulation and supervision, including risk-based supervision.
+With assistance from the Office of the Superintendent of Financial Institutions in
+Canada (OSFI), experts from CARTAC have provided technical assistance to the
+ECCB on drafting the OECS Insurance Act. They have also, in conjunction with
+
+41
+LEG, provided technical assistance to the ECCB in finalizing the drafting of the
+OECS Money Services business Act.
+•
+
+Experts from CARTAC and MCM also provided technical assistance on public debt
+management framework.
+
+•
+
+Experts from CARTAC, the IMF’s Fiscal Affairs Department (FAD) and LEG
+provided assistance to improve cash management and tax administration—including
+collection enforcement. Experts from CARTAC have also provided assistance in
+Property Tax reform, in preparing to move the property tax base from rental value to
+market value, and in improving central government fiscal and debt data.
+
+•
+
+CARTAC and FAD have provided extensive assistance, through frequent expert
+visits, to sensitize politicians and technicians from the Ministry of Finance on the
+value-added tax (VAT). This provided a general explanation on VAT, a VAT
+sensitivity study, and the main steps in its introduction.
+
+•
+
+Experts from LEG provided assistance in tax legislation in the areas of VAT, Social
+Service Levy and Corporate Income Tax.
+
+•
+
+As part of the Stabilization and Adjustment Technical Assistance Program
+(SATAP), St. Kitts and Nevis have benefited from capacity building in
+macroeconomic analysis.
+
+42
+Appendix II. St. Kitts and Nevis: Relations with the World Bank Group
+(As of November 16, 2007)
+The World Bank’s Management presented to its Board the Eastern Caribbean Sub-Region
+Country Assistance Strategy (CAS), on September 13, 2005. The World Bank Group’s
+strategy for the four years covered by this CAS (FY 2006–09) supports the sub-region’s
+development agenda through two main pillars: (1) stimulating growth and improving
+competitiveness; and (2) reducing vulnerability, by promoting greater social inclusion and
+strengthening disaster risk management. Recognizing the Organization of the Eastern
+Caribbean States (OECS) countries’ weakened creditworthiness due to high debt ratios, Bank
+activities will focus on leveraging available donor grant financing. Following the
+recommendations of the 2005 growth and competitiveness study for the OECS, IBRD and
+IDA support would focus on providing technical and financial assistance for interventions to
+support the two main pillars. The CAS proposes new commitments of US$103.4 million for
+six borrowing member states of the OECS, including St. Kitts and Nevis. Planned IBRD
+lending to St. Kitts and Nevis amounts to US$10 million under the high-case lending
+scenario.
+A. Projects
+There are three active World Bank projects in St. Kitts and Nevis for commitment of
+approximately US$9.6 million of which US$4.3 million has been disbursed.
+The St. Kitts and Nevis Telecommunications and ICT Development Project, approved on
+May 12, 2005 for US$0.54 million, aims at improving the access, quality, and use of
+telecommunications and ICT services to achieve socioeconomic development in the OECS.
+The project has the following four components: Component 1) will strengthen the national
+and regional regulatory frameworks and promote additional competition in the
+telecommunications sector. Emphasis will be given to capacity building of Eastern Caribbean
+Telecommunications Authority (ECTEL) and the National Telecommunications Regulatory
+Commissions (NTRCs) by providing them with assistance to revise the regional and national
+sector legislation, and develop a modem interconnection regime. Component 2) will review
+current universal access policy, create related guidelines, and provide financial support to
+establish a Universal Service Fund (USF). Component 3) will improve growth and
+competitiveness in ICT-enabled services through utilization of broadband infrastructure.
+Component 4) will ensure management and administration of the overall project.
+The St. Kitts and Nevis Education Development Project was approved in June 2003 for
+US$5.0 million. The overall objective of this project is to build human capital which, in turn,
+will contribute to the diversification of the economy and more sustainable growth. This
+objective will be achieved by: (i) increasing equitable access to secondary education;
+(ii) improving the quality of the teaching and learning process, with more direct interventions
+at the school level and a focus on student-centered learning, and (iii) strengthening
+management of the sector and governance of schools.
+
+43
+
+The HIV/AIDS Prevention and Control Program, which was approved in January 2003
+for US$4.0 million, is funded under the Multi-Country APL for the Caribbean Region, with
+the following objectives: (i) curbing the spread of HIV/AIDS epidemic; (ii) reducing the
+morbidity and mortality attributed to HIV/AIDS; (iii) improving the quality of life for
+persons living with HIV/AIDS (PLWAs); and (iv) developing a sustainable organizational
+and institutional framework for managing the HIV/AIDS epidemic over the longer term.
+B. Economic and Sector Work
+Economic and Sector Work: The Bank has, over the past three years, completed a series of
+analytical work relating to public expenditure, fiscal and debt sustainability, growth and
+competitiveness, the financial sector, public sector management and social protection. The
+ongoing dissemination of these reports represents a key instrument for policy dialogue with
+the OECS governments including St. Kitts and Nevis.
+In addition, the OECS countries will benefit from ongoing and planned regional studies
+including: A Caribbean regional study (recently completed) on crime and violence focuses on
+the impact of crime on poverty, social cohesion, tourism, investment and migration; a
+planned pension reform study will take an in-depth look at social insurance programs in the
+Caribbean, focusing in particular on reforms to address the challenges of limited coverage,
+increasing dependency ratios and fiscal sustainability; a study on Air Transport
+Rationalization (recently completed) which inter alia, analyzes regional air transport route
+and classify their commercial viability, evaluate the current air service arrangements,
+examine the feasibility of entering into “open skies” arrangements, and assess the impact of
+direct and indirect taxation on competition and service; and a study on access to finance
+(recently completed) which examined the issues related to access to finance, particularly for
+small and medium enterprises in the OECS. The Bank is also finalizing a Policy Note on
+Project Fiduciary Management which is aimed at increasing the efficiency of project
+implementation in the OECS.
+
+44
+
+C. Financial Relations
+(In millions of U.S. dollars)
+Original
+Principal
+
+Operation
+TELECOMMUNICATIONS & ICT DEVELOPMENT
+PROJECT—ST. KITTS AND NEVIS
+EDUCATION REFORM PROJECT—ST. KITTS
+AND NEVIS
+HIV/AIDS PREVENTION AND CONTROL
+PROGRAM—ST. KITTS AND NEVIS
+
+Available
+
+Disbursed
+
+0.54
+
+0.38
+
+0.16
+
+5.0
+
+2.69
+
+2.31
+
+4.05
+9.58
+
+2.23
+5.30
+
+1.81
+4.28
+
+Disbursements and Debt Service (Fiscal Year Ending June 30)
+
+Total disbursements
+Repayments
+Net disbursements
+Interest and fees
+
+2000
+
+2001
+
+2002
+
+Actual
+2003
+
+2.88
+0.07
+2.82
+0.22
+
+1.38
+0.05
+1.32
+0.34
+
+1.90
+0.12
+1.78
+0.40
+
+4.12
+0..33
+3.79
+0.64
+
+NOTE: * DATA FOR JUNE 2007 TO NOVEMBER 2007.
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008*
+
+2.38
+0.67
+1.71
+0.60
+
+1.66
+0.89
+0.77
+0.65
+
+1.35
+1.18
+0.17
+0.67
+
+1.85
+1.75
+0.10
+0.76
+
+0.83
+0.82
+0.00
+0.18
+
+45
+Appendix III: St. Kitts and Nevis—Relations with the
+Caribbean Development Bank
+(As of September 30, 2007)
+The Caribbean Development Bank (CDB) has approved loans totalling US$165.8 million, of which
+US$46.7 million are undisbursed.
+A. Major Projects
+1.
+
+Basic Education Project—to assist GOSKN in the provision and maintenance of a more
+appropriate learning environment for a greater number of students in the system (including
+those with learning disabilities) who are pursuing basic education at primary and secondary
+schools; and enhancement of the education system in the areas of management, in particular,
+planning, data collection and analysis, student assessment, school management, curriculum
+development and pedagogy.
+
+2.
+
+West Basseterre By-Pass Road—to construct approximately 3.8 kilometres of road to relieve
+traffic congestion in the city of Basseterre. The proposed road runs to the north of Basseterre
+and along the boundary fence of the Robert L. Bradshaw International Airport.
+
+3.
+
+Second Power Project—consists of the installation of a generator of approximate size 2.5MW
+and ancillary switchgear and the establishment of an operations facility at the Nevis
+Electricity Company Limited (NEVLEC). The project will provide additional generating
+capacity to satisfy projected electricity demand and to replace existing engines that are past
+their useful life.
+
+4.
+
+Student Loan Scheme (Fifth Loan)—to assist the Development Bank of St Kitts and Nevis
+(DBSKN) in financing loans to students attending local, regional and extra-regional
+institutions for programmes in technical, vocational and academic studies.
+
+5.
+
+Child Development Project—to provide a comprehensive framework for addressing the care
+and protection of children and the reform of juvenile offenders. The project will enhance the
+life chances of children in St. Kitts and Nevis by improving their connectedness with the
+school system and providing rehabilitative care for those at risk and those who have
+committed offences.
+
+6.
+
+Natural Disaster Management Project—to contribute to the rehabilitation of economic
+infrastructure caused by hurricane Lenny. The project consists of rehabilitating 8.66 metres of
+sea defence structures with rock armouring and stone on geo-textile sheeting; reconstruction
+of a reinforced concrete ramp; and repairs to other infrastructure and public buildings. The
+project promotes the reduction of vulnerability to natural disasters through support for the
+development and adoption of mitigation policies, standards and practices.
+
+7.
+
+Policy-based Guarantee—to support a bond issue of up to EC$150 mn by the Government to
+refinance high cost debt thereby supporting ongoing macroeconomic reforms and structural
+
+46
+reforms in St. Kitts and Nevis. The refinancing would also improve the debt dynamics, thus
+lowering the time-path of the debt-to-GDP ratio.
+8.
+
+Policy-based Loan—is intended to support policy and institutional reforms while helping the
+Federal Government to improve debt dynamics by using the proceeds of the loan to replace
+some of its high-cost debt. The policy reforms are designed to improve public finance
+management, particularly budget management and revenue systems, and public enterprises
+governance systems to achieve fiscal and debt sustainability.
+
+B. Current Portfolio
+(In millions of U.S. dollars)
+Approved
+
+Undisbursed
+
+14.18
+
+3.10
+
+4.90
+
+1.84
+
+6.70
+
+3.50
+
+5.00
+
+0.80
+
+Second Power Project
+
+8.43
+
+8.43
+
+West Basseterre By-Pass Road
+
+7.56
+
+5.60
+
+Child Development Project
+Corporatisation of the Electricity
+Department
+Policy-Based Guarantee
+
+2.64
+
+2.64
+
+0.60
+
+0.60
+
+8.30
+
+8.30
+
+Policy-Based Loan
+
+20.0
+
+20.0
+
+Basic Education Project
+OECS Solid Waste Management
+Project
+Natural Disaster Management
+Project
+Student Loan Scheme (Fifth Loan)
+
+C. Loan Disbursement
+(In millions of U.S. dollars)
+2003
+
+2004
+
+2005
+
+2006
+
+20071
+
+Net Disbursement
+
+3.97
+
+4.08
+
+3.13
+
+4.32
+
+1.34
+
+Disbursement
+
+5.92
+
+6.48
+
+6.02
+
+7.38
+
+3.95
+
+Amortization
+
+1.95
+
+2.40
+
+2.89
+
+3.06
+
+2.61
+
+Interest and charges
+
+2.66
+
+2.80
+
+3.07
+
+3.35
+
+2.73
+
+Net resource flow
+
+1.31
+
+1.28
+
+0.06
+
+0.97
+
+-1.39
+
+1/ As of September 30, 2007.
+
+47
+Appendix IV. St. Kitts and Nevis: Statistical Issues
+Data provision is broadly adequate for surveillance, however significant shortcomings in data
+provision and data quality remain. St. Kitts and Nevis has been participating in the General
+Data Dissemination System (GDDS) since October 2000 and its metadata are posted on the
+Fund’s Dissemination Standards Bulletin Board (DSBB).
+A. Real Sector
+There are a number of deficiencies in the real sector statistics. GDP data by type of
+expenditure are not available at constant prices, while the data at current prices are not
+reliable due to weaknesses in estimating gross capital formation. Private final consumption
+expenditure is estimated as a residual. A new CPI with weights from the 2000 household
+survey has now been introduced. Monthly CPI data are reported regularly but with a long lag.
+Detailed data on tourism arrivals and expenditure have not been compiled since end-2001.
+No data are currently available on labor market developments. Results of the 2001 population
+census are still being analyzed.
+B. Public Finances
+Data on revenue, expenditure, and financing of the consolidated central government are made
+available to Fund staff on request. Commendable progress has recently been made in
+improving the quality and coverage of central government fiscal data, including on
+government debt. However, discrepancies between overall balance and available financing
+need to be resolved. It would be important to produce a set of fully integrated accounts for
+the central government on a regular basis. Also, it would be beneficial to institute a
+mechanism for the regular reporting of financial data on the rest of the public sector. Data for
+the budgetary central government published in IFS relate to 2003 and 2004; the most recent
+data on the central government published in the GFS Yearbook are for 2003.
+C. Balance of Payments and External Debt
+Estimates are currently provided on an annual basis by the Eastern Caribbean Central Bank
+(ECCB). The latest data published in IFS are for 2005. Incomplete provisional data have
+been produced for 2006 by the ECCB; these will be completed and finalized in early 2008.
+Data on external trade (especially exports) are not comprehensive, as they omit important
+categories of goods. Most components of the financial account also need improvement. It
+would be useful to reconcile the data on the public sector investment plan for external loans
+with the public external debt database. There are no data on private external debt.
+
+48
+D. Monetary and Financial Statistics
+The 2003 money and banking statistics mission indicated that enhanced institutional
+coverage, classification of financial instruments, and sectorization of economic units would
+facilitate identification of credit flows to different sectors of the economy and compilation of
+monetary aggregates. It recommended that the institutional coverage for other depository
+corporations be expanded to include credit unions, finance companies, and building societies,
+which also accept demand and other deposits. Further, the mission recommended broadening
+the coverage to include insurance companies, pension funds, development banks, and
+offshore institutions and foundations.
+In April 2007, a data ROSC mission assessed the monetary statistics with reference to the
+GDDS and the Data Quality Assessment Framework (DQAF, July 2003). It indicated that the
+quality of the ECCB and Eastern Caribbean Currency Union member countries’ monetary
+statistics has improved over recent years, and the monetary statistics are broadly adequate for
+macroeconomic analysis and policy design and monitoring. Nevertheless, the mission
+identified shortcomings that have the potential for detracting from accurate and timely
+analysis of economic and financial developments. In particular, the institutional coverage of
+the other depository corporations remains incomplete, as data for mortgage companies,
+finance companies, building societies, and credit unions—all of which accept deposits—are
+excluded. Also, accrued interest is not incorporated in the value of the interest-bearing assets
+and liabilities, and valuation adjustments are included in other liabilities. In addition, source
+data for the commercial banks do not provide the disaggregation recommended in the
+Monetary and Financial Statistics Manual. The authorities endorsed the mission’s
+recommendations and an action plan for enhancing the analytical usefulness of the monetary
+statistics.
+
+49
+
+St. Kitts and Nevis: Table of Common Indicators Required for Surveillance
+(As of November 30, 2007)
+Date of latest
+observation
+
+Date received
+
+Fixed Rate
+
+Frequency of
+6
+
+Frequency of
+6
+
+Frequency of
+publication
+
+Data
+
+Reporting
+
+n.a.
+
+n.a.
+
+n.a.
+
+n.a.
+
+09/07
+
+11/25/07
+
+M
+
+Q
+
+Q
+
+Reserve/Base Money
+
+09/07
+
+11/25/07
+
+M
+
+Q
+
+Q
+
+Broad Money
+
+09/07
+
+11/25/07
+
+M
+
+Q
+
+Q
+
+Central Bank Balance Sheet
+
+09/07
+
+11/25/07
+
+M
+
+Q
+
+Q
+
+Consolidated Balance Sheet of the Banking System
+
+09/07
+
+11/25/07
+
+M
+
+Q
+
+Q
+
+09/07
+
+11/25/07
+
+M
+
+Q
+
+Q
+
+10/07
+
+11/29/07
+
+M
+
+M
+
+M
+
+09/07
+
+11/7/07
+
+Q
+
+Q
+
+Q
+
+06/07
+
+09/28/07
+
+Q
+
+Q
+
+Q
+
+External Current Account Balance
+
+12/06
+
+3/16/07
+
+A
+
+A
+
+A
+
+Exports and Imports of Goods and Services
+
+12/06
+
+3/16/07
+
+M
+
+M
+
+Q
+
+GDP/GNP
+
+2006
+
+9/25/07
+
+A
+
+A
+
+A
+
+Gross External Debt
+
+06/07
+
+09/28/07
+
+A
+
+A
+
+A
+
+Exchange Rates
+International Reserve Assets and Reserve Liabilities
+of the Monetary Authorities
+
+Interest Rates
+
+1
+
+2
+
+Consumer Price Index
+Revenue, Expenditure, Balance and Composition of
+3
+
+Financing —General Government
+
+4
+
+Stocks of Central Government and Central
+5
+
+Government-Guaranteed Debt
+
+1
+
+Includes reserve assets pledged or otherwise encumbered as well as net derivative positions.
+Both market-based and officially-determined, including discount rates, money market rates, rates on treasury bills, notes and bonds.
+3
+Foreign, domestic bank, and domestic nonbank financing.
+4
+Central government only.
+5
+Including currency and maturity composition.
+6
+Daily (D), Weekly (W), Monthly (M), Quarterly (Q), Annually (A); Irregular (I); Not Available (NA).
+2
+
+6
+
+Statement by the IMF Staff Representative
+February 4, 2008
+Since the issuance of the staff report, the authorities revised slightly the 2006 fiscal data,
+granted a salary increase for government employees, and presented the 2008 budgets for
+St. Kitts and Nevis. The new information does not alter the thrust of the staff appraisal.
+1.
+The revised 2006 fiscal estimates indicate a primary surplus of 4.7 percent of
+GDP, compared to 4.3 percent in the staff report. The adjustment reflects the removal of
+some double-counting of capital expenditures.
+2.
+A 5 percent interim salary increase for government employees, retroactive from
+January 2007, was paid in December 2007.1 The cost is estimated at about EC$8 million
+(0.6 percent of GDP). Accordingly, staff has revised the 2007 primary surplus projection to
+1.9 percent of GDP, down from 2.4 percent in the staff report.
+3.
+The 2008 budgets imply an overall primary surplus of about 1 percent of GDP,
+compared with a small deficit in the staff’s baseline scenario. As before, the revised staff
+estimate is based on historical rates for capital expenditure implementation and grants. Key
+components of the budgets include:
+•
+
+No new taxes in 2008, while efforts to strengthen tax collection will continue. A
+decision on the introduction of a VAT will be made in 2008.
+
+•
+
+Savings arising from the PetroCaribe agreement2 are broadly offset by higher wages and
+capital expenditures.
+
+•
+
+As part of comprehensive civil service reform, a salary review is to be completed in
+2008, with a further retroactive payment if the final increase is higher than the interim.
+
+•
+
+Capital expenditures reflect ongoing and new road projects, Nevis airport expansion,
+projects to improve public utilities, and investments in health and education.
+
+•
+
+To mitigate the impact of rising prices, the government plans to limit retail margins on a
+basket of basic consumption items, reduce duties and taxes on some imported foods
+(already incorporated in the original baseline scenario), and cap the electricity fuel
+surcharge. However, the electricity department is envisaged to be corporatized by late
+2008.
+
+1
+
+A general salary increase had been built into the original baseline scenario for 2008, but not for 2007.
+
+2
+
+The first shipment of about 7,000 barrels of diesel fuel was received in December 2007.
+
+2
+St. Kitts and Nevis: Central Government Fiscal Operations, 2006-08
+Revised
+2006
+Actual
+
+Revised
+2007
+Proj.
+
+2008
+Staff Est.
+Revised Revised
+Baseline
+Active Budget Budget 1/
+
+(In millions of E.C.dollars)
+Total revenue and grants
+Current Revenue
+Capital revenue
+Grants
+
+520
+484
+0
+36
+
+532
+510
+0
+22
+
+548
+532
+0
+16
+
+534
+518
+0
+16
+
+654
+541
+44
+70
+
+557
+541
+0
+16
+
+Total expenditure and net lending
+Current expenditure
+Of which : interest
+Capital expenditure and net lending
+
+587
+482
+129
+105
+
+641
+511
+136
+130
+
+696
+537
+144
+159
+
+583
+493
+138
+89
+
+692
+518
+132
+174
+
+677
+518
+132
+159
+
+Overall balance
+Primary balance
+
+-66
+62
+
+-109
+26
+
+-149
+-4
+
+-48
+90
+
+-37
+95
+
+-120
+12
+
+(In percent of GDP)
+Total revenue and grants
+Current Revenue
+Capital revenue
+Grants
+
+38.9
+36.2
+0.0
+2.7
+
+37.4
+35.8
+0.0
+1.5
+
+36.3
+35.2
+0.0
+1.1
+
+35.3
+34.2
+0.0
+1.1
+
+41.9
+34.6
+2.8
+4.5
+
+35.6
+34.6
+0.0
+1.0
+
+Total expenditure and net lending
+Current expenditure
+Of which : interest
+Capital expenditure and net lending
+
+43.9
+36.1
+9.6
+7.8
+
+45.1
+35.9
+9.5
+9.1
+
+46.2
+35.6
+9.6
+10.5
+
+38.4
+32.5
+9.1
+5.9
+
+44.3
+33.1
+8.4
+11.1
+
+43.3
+33.1
+8.4
+10.2
+
+Overall balance
+Primary balance
+
+-5.0
+4.7
+
+-7.7
+1.9
+
+-9.8
+-0.3
+
+-3.2
+5.9
+
+-2.4
+6.1
+
+-7.7
+0.8
+
+Memorandum item
+Public sector debt (in percent of GDP)
+
+185
+
+181
+
+183
+
+172
+
+165
+
+n.a.
+
+Sources: St. Kitts and Nevis authorities; and Fund staff estimates.
+1/ As in the approved budgets, except for capital revenue, which has been reclassified as "below-theline" financing, and grants and capital expenditure and net lending, which are assumed to be in line with
+Fund staff baseline projections and historical implementation rates.
+
+Public Information Notice (PIN) No. 08/42
+FOR IMMEDIATE RELEASE
+April 1, 2008
+
+International Monetary Fund
+700 19th Street, NW
+Washington, D. C. 20431 USA
+
+IMF Executive Board Concludes 2007 Article IV Consultation
+with St. Kitts and Nevis
+On February 4, 2008, the Executive Board of the International Monetary Fund (IMF) concluded
+the Article IV consultation with St. Kitts and Nevis.1
+Background
+The closure in 2005 of the sugar industry—the historical mainstay of the economy—set the
+stage for a new economic course. Indeed, despite the closure, growth remained strong in
+2006, with output increasing by 4 percent, driven by tourism, construction, and
+communications. Some slowdown is expected for 2007, with growth projected at 3.3 percent.
+Medium-term prospects look promising, with a number of high-end foreign investment tourism
+projects in the pipeline.
+Large adjustments in retail fuel prices and a new fuel surcharge for electricity created a
+temporary inflation spike in 2006, but inflation has since decelerated as these one-off effects
+dissipated. Reflecting strong construction-related imports, the current account deficit increased
+to around 30 percent of GDP in 2006/07, but has been largely financed by tourism-related
+foreign direct investment (FDI).
+Considerable progress has been made in strengthening the fiscal accounts. The government
+achieved a sizable primary surplus in 2006 for the second year in a row. A buoyant economy,
+the electricity surcharge, strengthened tax administration, and wage restraint have contributed
+1
+
+Under Article IV of the IMF’s Articles of Agreement, the IMF holds bilateral discussions with
+members, usually every year. A staff team visits the country, collects economic and financial
+information, and discusses with officials the country’s economic developments and policies. On
+return to headquarters, the staff prepares a report, which forms the basis for discussion by the
+Executive Board. At the conclusion of the discussion, the Managing Director, as Chairman of the
+Board, summarizes the views of Executive Directors, and this summary is transmitted to the
+country’s authorities.
+
+2
+to this improvement. However, expenditure management remains a challenge. The primary
+surplus is projected to decline to 2 percent of GDP in 2007 (from around 4½ percent in 2006),
+largely because of a sharp increase in net lending in St. Kitts and a near-tripling of capital
+expenditure in Nevis, with major road projects underway.
+Despite the fiscal improvement, public debt remains high—at about 185 percent of GDP at
+end-2006—leaving little room for maneuver in the event of an adverse shock. Facing tightened
+external borrowing conditions, the government has relied mainly on domestic sources to meet
+its financing needs. There also continues to be insufficient financial information on public
+enterprises, whose share in public debt reached 38 percent by end-June 2007.
+Monetary and financial developments have been largely favorable, although the high and
+rising public sector exposure of the banking system is a concern. Credit to the private sector
+rebounded on the back of buoyant economic activity and, partly reflecting this, the
+nonperforming loans ratio declined. However, the banking system’s holdings of public debt had
+risen to 44 percent as of end-June 2007. The nonbank sector has been growing rapidly, while
+progress in establishing an appropriate supervisory and regulatory framework for this sector
+has been limited so far.
+Executive Board Assessment
+Executive Directors commended the authorities of St. Kitts and Nevis for their efforts to
+strengthen macroeconomic performance, with growth rebounding and fiscal balances
+improving markedly. Directors observed, however, that the country’s high public debt leaves
+little room for maneuver in the event of adverse shocks. Sustained fiscal consolidation, backed
+up with the development of a contingency plan to respond to economic shocks, would help
+mitigate the risks associated with the high debt stock.
+Directors welcomed the important steps that have been taken towards strengthening fiscal
+performance, including the improvement of tax administration and the adoption of an automatic
+pass-through of fuel prices. They encouraged the authorities to continue their efforts to
+achieve their medium-term fiscal goals and put debt on a solid downward trajectory.
+Expenditure restraint, including comprehensive civil service reform, will be key. Plans to
+broaden the tax base, improve the oversight and transparency of public enterprises and
+strengthen debt management capacity will also support these goals. Directors noted that
+public debt would remain elevated throughout the medium term, and encouraged the
+authorities to explore options for a more rapid debt reduction, including by accelerating the
+pace of asset sales, which could also promote private sector-led growth.
+Directors noted that the real effective exchange rate does appear broadly in line with
+fundamentals. Further fiscal consolidation would support external competitiveness and
+underpin the regional currency arrangement. Directors also encouraged the authorities to
+
+3
+accelerate the implementation of planned structural reforms aimed at improving the business
+climate and strengthening the economy’s flexibility and resilience. Directors noted that the
+country’s large external current account deficit, mainly financed by foreign direct investment,
+although likely to remain high over the medium term, could be expected to decline as
+investment in infrastructure and tourism projects taper off.
+Directors noted that financial sector risks need to be carefully monitored. They called for
+further progress in mitigating risks, including through enhancing supervision of vulnerable
+banks and reducing the large government exposure. They welcomed the authorities’ plan to
+establish a single regulatory unit for the nonbank financial sector.
+Directors also welcomed the progress made in improving the quality and coverage of fiscal
+data, and looked forward to similar progress in other areas.
+
+Public Information Notices (PINs) form part of the IMF's efforts to promote transparency of the IMF's
+views and analysis of economic developments and policies. With the consent of the country
+(or countries) concerned, PINs are issued after Executive Board discussions of Article IV consultations
+with member countries, of its surveillance of developments at the regional level, of post-program
+monitoring, and of ex post assessments of member countries with longer-term program engagements.
+PINs are also issued after Executive Board discussions of general policy matters, unless otherwise
+decided by the Executive Board in a particular case.
+
+4
+St. Kitts and Nevis: Selected Economic Indicators
+2003
+
+2004
+
+(Annual percentage change; unless otherwise specified)
+National income and prices
+Real GDP (factor cost)
+-1.2
+7.3
+Consumer prices, end-of-year
+2.9
+1.7
+Real effective exchange rate (end-of-period) 2/
+-3.9
+-4.0
+Banking system
+Net foreign assets 3/
+Net domestic assets 3/
+Of which
+Credit to public sector 3/
+Credit to private sector 3/
+Broad money
+Of which
+Money
+Quasi-money
+Weighted average deposit rate (in percent per year) 4/
+Weighted average lending rate (in percent per year) 4/
+
+2005
+
+Prel.
+2006
+
+Proj.
+2007
+
+Proj.1/
+2008
+
+4.4
+6.0
+5.4
+
+4.0
+7.9
+0.5
+
+3.3
+4.0
+...
+
+3.5
+2.5
+...
+
+13.6
+-6.7
+
+-5.7
+27.8
+
+8.4
+-4.1
+
+7.1
+5.7
+
+9.8
+4.3
+
+1.4
+4.7
+
+-10.8
+3.4
+6.9
+
+18.3
+6.8
+22.1
+
+9.2
+5.1
+4.3
+
+6.4
+8.2
+12.8
+
+4.2
+6.6
+14.1
+
+0.6
+4.0
+6.1
+
+11.0
+6.2
+4.1
+12.0
+
+25.4
+21.6
+3.6
+9.9
+
+-1.9
+5.5
+4.1
+9.7
+
+12.7
+12.8
+3.7
+9.4
+
+14.1
+14.1
+...
+...
+
+6.1
+6.1
+...
+...
+
+-1.4
+-9.0
+33.5
+42.5
+14.5
+-3.1
+0.2
+-2.6
+0.0
+181.5
+
+-0.8
+-7.9
+34.3
+42.1
+1.5
+8.7
+0.4
+-2.8
+0.0
+195.0
+
+4.0
+-4.1
+39.5
+43.5
+-1.1
+11.9
+0.3
+-7.1
+0.0
+194.8
+
+4.7
+-5.0
+38.9
+43.9
+0.2
+9.6
+0.5
+-5.4
+0.0
+184.6
+
+1.9
+-7.7
+37.4
+45.1
+-0.9
+5.6
+3.0
+0.0
+0.0
+181.0
+
+-0.3
+-9.8
+36.3
+46.2
+-0.9
+6.1
+1.0
+0.0
+3.6
+182.5
+
+119.4
+62.1
+
+121.2
+73.8
+
+117.2
+77.6
+
+112.6
+72.0
+
+110.3
+70.8
+
+112.8
+69.7
+
+-34.9
+-32.8
+7.7
+
+-20.2
+-25.6
+13.6
+
+-22.6
+-29.9
+13.7
+
+-29.0
+-32.2
+9.1
+
+-31.0
+-32.9
+7.2
+
+-30.2
+-32.7
+7.5
+
+20.8
+5.1
+34.7
+20.9
+88.5
+
+25.7
+4.6
+23.7
+11.6
+85.5
+
+26.1
+4.7
+21.1
+19.5
+77.0
+
+23.5
+4.1
+32.5
+40.3
+66.9
+
+21.6
+4.0
+31.0
+29.4
+60.1
+
+22.0
+4.0
+30.2
+29.4
+55.4
+
+24.1
+163.3
+
+25.1
+153.2
+
+25.3
+144.5
+
+25.7
+132.8
+
+(In percent of GDP)
+Public sector 5/
+Primary balance
+Overall balance
+Total revenue and grants
+Total expenditure and net lending
+Foreign financing
+Domestic financing
+Sale/purchase of assets
+Statistical discrepancy
+Financing gap
+Total public sector debt (end-of-period)
+Of which
+Central government
+Public enterprises 6/
+External sector
+External current account balance
+Trade balance
+Services, net
+Of which
+Tourism receipts
+Transfers, net
+Net capital inflow 7/
+FDI (net)
+External public debt (end-of-period)
+
+(In percent of exports of goods and nonfactor services)
+External public debt service
+External public debt (end-of-period)
+
+25.5
+194.4
+
+26.2
+176.3
+
+Sources: St. Kitts and Nevis authorities; and IMF staff estimates and projections.
+1/ Based on the baseline (current policy) scenario.
+2/ Weights given by the average trade share during 1999–2003. Depreciation (-).
+3/ In relation to broad money at the beginning of the period.
+4/ End of period. Weighted by the size of loans or deposits. There was a break in the series in June 2003.
+5/ Central government unless otherwise noted.
+6/ Including St. Kitts Sugar Manufacturing Corporation (SSMC).
+7/ Includes errors and omissions.
+
+

@@ -1,0 +1,3459 @@
+December 2010
+IMF Country Report No. 10/364
+
+© 2010 International Monetary Fund
+
+November 11, 2010
+September 24, 2010
+
+December 3,
+2010
+2010
+
+January 29, 2001
+January 29, 2001
+
+Barbados: 2010 Article IV Consultation—Selected Issues
+Under Article IV of the IMF’s Articles of Agreement, the IMF holds bilateral discussions with
+members, usually every year. In the context of the 2010 Article IV consultation with Barbados, the
+following document has been released:
+
+
+Selected Issues.
+
+The policy of publication of staff reports and other documents allows for the deletion of market-sensitive
+information.
+Copies of this report are available to the public from
+International Monetary Fund  Publication Services
+700 19th Street, N.W.  Washington, D.C. 20431
+Telephone: (202) 623-7430  Telefax: (202) 623-7201
+E-mail: publications@imf.org Internet: http://www.imf.org
+
+International Monetary Fund
+Washington, D.C.
+
+INTERNATIONAL MONETARY FUND
+BARBADOS
+Selected Issues
+Prepared by Marcello Estevão, Gamal El-Masry, Carla Macario, Lulu Shui (all WHD),
+John Ralyea (FIN)
+Approved by Western Hemisphere Department
+November 11, 2010
+
+Contents
+I.
+
+Page
+
+Barbados: Growth Dynamics ............................................................................................... 3
+A. Introduction and Background ................................................................................... 3
+B. Estimating Potential GDP Growth ............................................................................ 3
+C. Some Stylized Facts on Barbados’ Business Cycles ................................................ 5
+D. The Evolution of Capital, Labor, and Total Factor Productivity .............................. 5
+E. Conclusion and Policy Implications ......................................................................... 9
+Figures
+1. Potential Output Growth ........................................................................................... 11
+2. Capital and Labor Growth ........................................................................................ 12
+
+II.
+
+Barbados: External Stability ................................................................................................ 14
+A. Barbados Stylized Facts ............................................................................................ 14
+B. Assessment of Exchange Rate .................................................................................. 17
+C. Reserve Adequacy Assessment................................................................................. 22
+D. Policy Implications ................................................................................................... 26
+Boxes
+1. Macroeconomic Balance Approach .......................................................................... 19
+2. External Sustainability Approach ............................................................................. 20
+3. Equilibrium Real Exchange Rate (ERER) Estimation ............................................. 21
+4. An Insurance Model of the Optimal Reserves .......................................................... 27
+
+2
+III. Barbados’ Financial System in the Aftermath of the Global Crisis .................................... 29
+A. Introduction ............................................................................................................... 29
+B. The Impact of Global Crisis on the Soundness of Financial Institutions ................. 31
+C. Financial Supervision and Crisis Management ........................................................ 35
+D. Conclusions and Policy Recommendations .............................................................. 37
+Tables
+1. Financial Soundness Indicators of the Onshore Banking System ............................ 38
+2. Financial Sector Structure ......................................................................................... 39
+3. Onshore Banks and their Parent Institutions............................................................. 39
+4. Offshore Financial Institutions ................................................................................. 40
+5. Credit Union Indicators ............................................................................................ 40
+6. Mutual Funds––Total Assets under Management .................................................... 41
+7. BSE Main Indicators ................................................................................................. 41
+Figures
+1. The Financial Sector in Barbados and in the Region................................................ 30
+2. Financial Sector Indicators Compared to Peers in the Region ................................. 32
+Boxes
+1. The Demise of CLICO-Barbados ............................................................................. 34
+2. Status of Implementation of the 2008 FSAP-Update Recommendations ................. 36
+
+3
+I. BARBADOS: GROWTH DYNAMICS1
+A. Introduction and Background
+1.
+Lack of information about Barbados’ growth potential and its determinants has
+hampered the analysis of inflationary pressures and debt dynamics in the country.
+Accelerating inflation before the current recession broke out suggests that aggregate demand
+was running ahead of supply. However,
+120
+sticky inflation figures so far in 2010 raise
+Public Sector Debt
+(In percent of GDP, at end-March)
+the issue of the relative importance of
+100
+economic slack and commodity price shocks
+in determining the cost of living in Barbados. 80
+To shed light on the issue, measures of
+External debt
+60
+Barbados’ potential to produce goods and
+services are needed, so that cyclical pressures
+40
+on production resources can be separated
+Domestic debt
+from exogenous shocks. Moreover, the
+20
+public debt as a ratio of GDP has
+0
+experienced a marked spike in the past five
+1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010
+years. Looking ahead, sustainable debt
+Sources: Barbados authorities and IMF staf f estimates.
+accumulation will depend on trend growth
+rates in the country, which creates an urgent need for forward-looking estimates of Barbados’
+growth potential. This note attempts to close this information gap by using a growth
+accounting exercise to estimate potential growth and its main drivers.
+B. Estimating Potential GDP Growth
+2.
+Potential GDP in Barbados can be decomposed into three key determinants,
+using a production-function approach:2 (i) the capital stock; (ii) trend labor services; and
+(iii) trend total factor productivity (TFP). The notion of potential output calculated here is the
+maximum amount that can be produced without exerting excessive pressure on resource
+utilization. In order to estimate potential GDP, we first calculated TFP using the following
+equation, which assumes a simple Cobb-Douglas production function for the country:
+tfp = rgdp – α ks – (1- α) ℓ
+1
+2
+
+(1)
+
+This chapter was prepared by Gamal El-Masry and Lulu Shui.
+The methodology used in this chapter follows Estevão and Tsounta (2010).
+
+4
+All variables are in logarithm. The variable rgdp is Barbados’ real GDP, ks is the capital
+stock and ℓ is the employed population. Note that variables like the utilization of available
+labor (e.g. average hours of work) or available capital (e.g. number of production shifts) are
+not included in equation (1), as these data are not available for Barbados. The coefficient
+(1-α) refers to the share of labor income in total value added. Since Barbados does not
+publish the income side of the national accounts, after a robustness check using a band of 55
+to 70 percent (the usual range of values for different countries), we chose 65 percent for our
+final calculation.
+3.
+
+Once observed TFP is obtained, potential GDP can be calculated as:
+
+y* = α ks + (1- α) (1-u*) + (1- α) lfp* + (1- α) wap + tfp*
+
+(2)
+
+To add important policy nuances to the analysis, labor services used in the production
+process is decomposed into its main components in equation (2): u, the unemployment rate;
+lfp, the labor force participation rate; and wap, total working-age population. Variables with
+* are trend values obtained using the HP filter, with the usual smoothness parameter applied
+to annual series of λ=100. We use the actual capital and working-age population in the
+calculation for potential output, 3 as these variables cannot deviate from notional
+“equilibrium” values in the short term (unlike the unemployment rate and labor force
+participation), i.e., they are “sunk” variables. Results are not sensitive to using smoother
+versions of capital and working age population growth, though. Trend TFP is used in (2) to
+smooth out the known residual cyclicality in measured TFP and to capture the underlying
+rate of technological progress and managerial innovation in the country. This residual
+cyclicality is exacerbated in the case of Barbados by the lack of information on labor and
+capital use.4 The result of this decomposition is shown in Figures 1 and 2. In the following
+sections, we discuss Barbados’ cyclical developments of the last 25 years, including
+developments in the key determinants of potential output.
+3
+
+There is no statistical release with information on the stock of capital in Barbados. For that, we used
+investment data from the national accounts and calculated the capital stock according to the perpetual inventory
+model, assuming a depreciation rate of 5 percent per year. The calculations began with data for 1980 and
+assumed an initial stock of capital that was about four times the annual investment at that time.
+
+4
+
+In other country cases, information on the number of hours worked or number of work shifts would improve
+the measurement of actual hours of work and the intensity of capital utilization, respectively. In addition, for
+Barbados, there is some evidence from discussions with union representatives and employers, that in the context
+of the Social Partnership arrangements, firms are encouraged to hang on as long as possible to their work force,
+even as they reduce working hours. Likewise, it is not uncommon for companies to “take advantage” of lower
+tourist demand to close whole wings of hotel facilities for renovation, thus reducing the utilization of the capital
+stock in times of weaker demand.
+
+5
+C. Some Stylized Facts on Barbados’ Business Cycles
+4.
+Over the past 25 years, Barbados experienced three distinct business cycles. The
+deepest economic recession in recent memory occurred in the early 1990s, when the
+economy contracted by a cumulative 14 percent over three years. Following strong and
+concerted adjustment efforts during 1992-93, the economy rebounded vigorously, but it took
+four years to reach the output level that prevailed before the onset to the recession. The next
+recession, about 10 years later, was far less pronounced (with a drop from peak to trough of
+less than 3 percent), and the economy recovered much quicker. The current recession (started
+in late-2007) will likely lie between the two previous episodes in terms of depth and length.
+5.
+Barbados’ economic fortunes are closely linked to those of its key tourism
+markets. Past performance shows that, in general, a slowdown in U.K. and U.S economic
+growth is quickly transmitted to the Barbados economy and amplified many times over.5
+This was particularly valid for the 1991-92 and 2001 episodes, when growth barely dipped
+below zero in the two advanced economies, but triggered economic recessions in Barbados.
+However, the most recent global recession is somewhat different, particularly as output
+contracted more sharply in the United States and in the United Kingdom, while so far the
+timing and depth of the slump has
+8
+Real GDP growth (in percent)
+been more synchronized across the
+6
+three economies. This may bode ill
+4
+for Barbados, since the U.S. and U.K.
+2
+0
+recoveries are likely to be weaker
+-2
+than in previous slowdowns, and
+-4
+unemployment in these economies
+-6
+may persist at elevated levels for
+US
+UK
+Barbados
+-8
+many years to come, suggesting that
+1990
+1992
+1994
+1996
+1998
+2000
+2002
+2004
+2006
+2008
+2010
+Proj.
+the economic rebound in Barbados
+Sources: Central Bank of Barbados, WEO and IMF staf f estimates and projections.
+may be more anemic and prolonged
+than in previous episodes.
+D. The Evolution of Capital, Labor, and Total Factor Productivity
+6.
+Over the past 20 years, Barbados has seen its capital accumulate at a vigorous
+rate. Our estimates suggest that the capital stock has grown at the rate of about 6.5 percent
+over the past ten years. During that period, capital accumulation grew above its trend during
+5
+
+In this respect, the general phrase that “if the United States sneezes, then the Barbados economy catches a
+cold” appears to hold true for the past generation.
+
+6
+periods of economic upswings, and less forcefully during recessions. In that respect, the
+current recession is no exception. The observed lower investment during the current
+economic downturn is explained to a large degree by the sharp decline in FDI and a
+constrained public sector budget. As the demand for Barbados’ real estate has stagnated and
+inventories have built up, the profitability of new real estate projects has deteriorated.
+Similarly, weak demand for tourism services has forced facilities to operate below their
+capacity, providing a disincentive to investments in new tourism developments. Also, as the
+central government budget came under increasing pressure during the economic downturn,
+spending on capital projects was cut significantly. 6
+7.
+Labor usage posted significant growth in the last two decades, as unemployment
+rates declined and labor force participation increased, despite some deceleration in
+working-age population (Figure 1). While the working-age population grew at an annual
+average rate of 0.4 percent over the past 20 years, the labor force in Barbados grew by twice
+that rate (0.8 percent), as labor force participation increased considerably, particularly
+through the mid-2000s. However, from its peak of 70 percent in 2005, the labor force
+participation rate dropped to 66.9 percent at end-2009, reinforced by the onset of the
+recession, when potential workers withdrew from the labor force, discouraged by waning
+work opportunities and the reality of rising unemployment and longer job-search spells.7 The
+number of employed persons grew since 1990 by an even higher average rate of 1.1 percent
+per year, resulting in a significant decline in the unemployment rate, from over 24 percent at
+the height of the 1993 recession to less than 7½ percent in 2007. The current recession has
+partly reversed that trend, pushing unemployment to 10.7 percent in the first quarter of 2010.
+8.
+While growth in the last two decades had benefitted from increased use of
+production factors, total factor productivity has actually declined. Over the course of the
+past 20 years, TFP has declined, on average, by about 1-2 percent a year. During that period,
+TFP saw only brief, albeit small, positive growth, which coincided with peaks in real output
+growth, suggesting that those observations could have been caused by increased utilization of
+production factors, which are not controlled for in our calculations but only smoothed out by
+a statistical filter.
+
+6
+
+It is also possible that Barbados’ high debt is starting to adversely impact investment. In studying the impact of
+high public debt on long-run economic growth, Kumar and Woo (2010) estimated that a 10 percentage point
+increase in debt was associated with a decline in investment of 0.4 percentage points of GDP.
+
+7
+
+This drop was particularly severe among female wage earners, who saw their participation rate fall by
+3.4 percentage points (from 64.5 percent in 2005 to 61.1 percent at end-2009), compared to a 1.8 percentage
+reduction for their male counterparts (from 75.2 percent in 2005 to 73.4 percent at end-2009).
+
+7
+
+Annual Growth of Potential Output Components
+Potential Growth, % change
+
+1988-1997
+0.45
+
+1998-2007
+2.26
+
+2008
+1.87
+
+2009
+0.64
+
+Capital Stock, % change
+
+3.95
+
+7.11
+
+6.83
+
+3.65
+
+Labor Services
+NAIRU, % change
+NAIRU, percentage points
+
+-1.83
+17.67
+
+-5.51
+10.72
+
+-3.27
+8.23
+
+-3.14
+7.97
+
+TFP, % change
+
+-2.10
+
+-1.00
+
+-0.67
+
+-0.70
+
+Source: IMF staff calculations.
+
+Contribution to Potential Output Growth
+(in percent)
+1988-1997
+0.45
+
+1998-2007
+2.26
+
+2008
+1.87
+
+Capital Stock
+
+1.38
+
+2.49
+
+2.39
+
+1.28
+
+Labor Services
+NAIRU
+Labor force participation rate
+Working age population
+
+1.16
+0.24
+0.66
+0.26
+
+0.78
+0.48
+0.02
+0.28
+
+0.15
+0.20
+-0.23
+0.18
+
+0.07
+0.18
+-0.24
+0.12
+
+TFP
+
+-2.10
+
+-1.00
+
+-0.67
+
+-0.70
+
+Potential Growth, % change
+
+2009
+0.64
+
+Source: IMF staff calculations.
+
+9.
+Potential GDP is estimated to have grown at an annual rate of just over
+2 percent over the past 10 years. Actual GDP grew above its long-term potential during
+2005-07, when there were clear signs of overheating in the economy. The GDP boom was in
+great part powered by large public investment projects (e.g., a cricket stadium and roads) in
+the run-up to the Cricket World Cup in 2007, and other off-budget projects financed through
+public-private partnership arrangements (PPPs), such as a new prison. The unemployment
+rate dropped to 7.1 percent in Q4 of 2007, its lowest level in twenty years. High inflationary
+pressures during 2005-7 were masked by price controls on petroleum products, which were
+lifted in early 2008, leading to a burst in CPI inflation in that year. Absent these controls,
+average inflation would have been higher during 2005-07 and lower during 2008–09.
+
+8
+Growth and Contraction
+(Average percentage change, unless otherwise indicated)
+2005-07
+2008-09
+GDP
+Unemployment rate
+CPI inflation 1/
+Broad money
+Investment (in % of GDP)
+Of which : central government
+Imports
+
+3.8
+8.6
+5.8
+10.4
+16.0
+9.7
+8.9
+
+-2.5
+9.1
+5.9
+2.8
+13.2
+5.6
+-9.3
+
+1/ In 2008, inflation was boosted by a step adjustment in
+domestic petroleum prices.
+Sources: Barbados authorities and IMF staff estimates.
+
+10.
+Employment is less volatile than output. Over the past 20 years, employment levels
+have not varied as much as output has, partly in line with international evidence but also
+possibly reflecting social policies and priorities forged through the tripartite Social
+Partnership arrangement. One of the
+main objectives of the Social
+Barbados: Output and Unemployment Gaps, 1987-2009
+8
+Partnership consultations has been to
+6
+safeguard employment as a national
+4
+priority through agreement on
+2
+appropriate incomes policies. Thus,
+0
+over the period 1987-2009, the
+-2
+standard deviation of the output gap
+-4
+(defined as the difference between
+-6
+actual and potential output as a share
+Unemployment gap, SD 2.46
+-8
+of potential output) was 3.80,
+Output gap, SD 3.80
+compared with the standard deviation -10
+1987 1989 1991 1993 1995 1997 1999 2001 2003 2005 2007 2009
+for the unemployment gap (defined as
+Source: IMF staf f calculations.
+the difference between the
+unemployment rate and the non-accelerating inflation rate of unemployment, NAIRU, used
+in the calculation of potential output) of 2.46. That said, there are some signs that, as the
+current recession persists into a third year, financial pressures are mounting on employers
+and increasing the chance of more firings in the coming.8
+8
+
+As a case in point, the Central Bank of Barbados reported in its economic review for the third quarter of 2010
+that continued low demand in the construction sector has forced the only cement company on the island to lay
+off half of its workforce, albeit temporarily.
+
+9
+11.
+Capital controls do not appear to have affected potential output growth in a
+significant way. The Central Bank of Barbados (CBB) maintains capital controls that are
+aimed at protecting the country from volatile and destabilizing short-term movements. These
+include the requirement to register at the CBB large capital inflows, including FDIs, to
+facilitate the repatriation of profits and capital on liquidation or sale. While removing the
+capital controls on outflows could, in theory, increase the attractiveness of Barbados for FDI
+inflows (Ostry, 2010), in reality these controls, especially on outward flows, have been
+applied in a very liberal way in Barbados. There is, therefore, little evidence that they have
+hampered investment in viable projects. Another argument is that fewer controls on inflows
+could reduce the cost of capital for investment by allowing competition for the funding of
+projects, including for domestic investors (Edwards, 2002). While this may be true, it comes,
+however, at a high cost of exposing the country to more volatile debt financing flows and
+circumventing domestic monetary policies.
+E. Conclusion and Policy Implications
+12.
+The short-term recovery of the Barbados economy will critically depend on the
+rebound of demand for its
+1,400
+services in its traditional
+Real and Potential Growth
+(in millions of constant Barbados dollars)
+markets. Given that
+1,300
+unemployment in the United
+Potential GDP
+States and the United
+1,200
+Kingdom—Barbados’ most
+Actual GDP
+1,100
+important tourist source
+markets—are likely to remain at
+1,000
+elevated levels for the
+foreseeable future, it is expected
+900
+that the recovery in Barbados
+will also be weak and protracted.
+800
+2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016
+Proj. Proj. Proj. Proj. Proj. Proj. Proj.
+Accordingly, under staff’s
+Source: IMF staff estimates and projections.
+baseline projections, the output
+gap, which opened during 2008-10, is not expected to close completely over the medium
+term. We assume that the average potential growth rate for the next 5 years will be 2 percent,
+as investment rates will take a while to return to pre-crisis levels. We expect potential growth
+to go back to its long term rate of 2¼ percent after 2015.
+
+10
+13.
+However, over the medium-to-long term, potential output could be raised by
+policies that would diversify the economy and boost TFP growth:
+
+
+Barbados remains an attractive tourist destination. While demand from its
+traditional markets that are facing cyclical downturns has weakened, other emerging
+markets—hitherto untapped—offer new growth prospects. To this end, the authorities
+have identified Brazil and East Asia as growth opportunities. They have already
+introduced a weekly flight to São Paulo and are studying creative programs to attract
+tourists from the Far East for combined “Caribbean” experiences with neighboring
+islands.
+
+
+
+Efforts to boost TFP growth could include streamlining and increasing efficiency
+in government services. This would reduce the bureaucratic burden of doing
+business in Barbados and promote investment. The authorities could also review the
+country’s immigration policies to ensure that foreign investors are not discouraged
+from employing expatriate professional staff who would help introduce new knowhow and international best practices to the country. Finally, strategic investments,
+such as the privately funded underwater pipeline to pump natural gas from Trinidad
+and Tobago to Barbados, are steps in the right direction. This project has the promise
+of lowering the cost of electricity in Barbados, while reducing the carbon footprint of
+electricity generation.
+
+11
+Chapter I Figure 1. Barbados: Potential Output Growth
+
+5
+
+60
+
+62
+
+10
+
+64
+
+15
+
+66
+
+20
+
+68
+
+70
+
+Labor Force Participation Rate, in percent
+
+25
+
+Unemployment Rate, in percent
+
+1980
+
+1990
+
+Year
+Actual
+
+2000
+
+2010
+
+1980
+
+1990
+
+HP filtered
+
+Year
+Actual
+
+2010
+
+Captital Stock Growth, in percent
+
+0
+
+0
+
+.2
+
+5
+
+.4
+
+10
+
+.6
+
+15
+
+.8
+
+1
+
+20
+
+Working-Age Population Growth, in percent
+
+2000
+HP filtered
+
+1980
+
+1990
+
+Year
+Actual
+
+2000
+
+2010
+
+1980
+
+1990
+
+HP filtered
+
+Year
+Actual
+
+2010
+
+HP filtered
+
+-8
+
+-10
+
+-6
+
+-5
+
+-4
+
+-2
+
+0
+
+0
+
+5
+
+Potential GDP Growth, in percent
+
+2
+
+Total Factor Productivity Growth, in percent
+
+2000
+
+1980
+
+1990
+
+Year
+Actual
+
+2000
+
+2010
+
+1980
+
+HP filtered
+
+1990
+
+Year
+
+Real GDP Growth
+
+2010
+
+Potential GDP Growth
+
+Real GDP Percentage Deviation from Trend
+
+6.6
+
+-5
+
+6.7
+
+cyclical
+0
+
+6.8
+
+5
+
+6.9
+
+7
+
+10
+
+Log of Real GDP and Potential GDP
+
+2000
+
+1990
+
+Year
+
+Potential GDP
+HP filterd RGDP
+
+2000
+
+2010
+lrgdp
+
+-10
+
+1980
+
+1980
+
+1990
+
+Year
+
+2000
+
+2010
+
+12
+Chapter I Figure 2. Barbados: Capital and Labor Growth
+
+12
+
+Barbados: Capital to Labor Ratio, 1987-2009
+
+10
+8
+6
+4
+2
+0
+
+Barbados: Capital and Labor Level, 1978=100
+400
+350
+300
+250
+
+Capital Stock
+
+200
+150
+100
+50
+0
+
+Sources: Barbados authorities; and IMF staff calculations.
+
+Labor Employed
+
+13
+References
+Central Bank of Barbados, 2010a, Economic Review, March.
+–––––, 2010b, Economic Review, June.
+–––––, 2010c, Economic Review, September.
+–––––, 2010d, Economic and Financial Statistics, June.
+Edwards, Sebastian, 2002, “Capital Mobility, capital Controls, and Globalization in the
+Twenty-First Century,” The Annals of the American Academy of Political and Social
+Science, No. 597, Pages 261–270
+Estevão, Marcello and Evridiki Tsounta, 2010, “Canada’s Potential Growth: Another Victim
+of the Crisis?”, IMF Working Paper, No. 10/13, International Monetary Fund.
+International Monetary Fund, WEO Data Base.
+Kumar, Manmohan S. and Jaejoon Woo, 2010, “Public Debt and Growth,” IMF Working
+Paper, No. 10/174, International Monetary Fund.
+
+14
+II. BARBADOS: EXTERNAL STABILITY1
+
+This analysis of Barbados external stability assesses the appropriateness of the real effective
+exchange rate relative to economic fundamentals and the adequacy of foreign reserves.
+Subject to considerable uncertainty, Barbados external position is not likely to give rise to
+disruptive exchange rate adjustments. The real effective exchange rate, while somewhat
+overvalued, is close to its equilibrium level and reserves could be considered adequate,
+though barely. Nonetheless, as a small tourist-dependent economy with a fixed exchange rate
+and volatile capital inflows, Barbados could shore up its external sector through fiscal
+consolidation and structural reforms to raise sustainable growth rates.
+A. Barbados: Stylized Facts
+1.
+Barbados has a small, open, tourism-dependent economy with a fixed exchange
+rate. The tourism sector, which is geared toward a higher-end clientele, accounts for about
+50 percent of foreign exchange earnings and 40 percent of GDP. A track-record of more than
+thirty years and broad-based social consensus enhance the credibility of the currency peg to
+the U.S. dollar. Capital controls, particularly on residents, allow for some smoothing in
+capital flows but do not seem to insulate the economy enough to guarantee a significant role
+to monetary policy in determining real activity. Interest rate differentials with core
+economies may also play a role in smoothing capital movements. The economy is
+particularly vulnerable to economic downturns in its primary tourism markets (the United
+Kingdom, the United States, and Canada) and volatility in oil prices.
+2.
+Barbados also relies on external borrowing to maintain an international reserve
+cushion to support the pegged exchange rate.2 To date, an investment-grade credit rating
+has enabled Barbados to access international capital markets on reasonable terms. However,
+Barbados’ credit rating has deteriorated along with the public sector debt dynamics. Publicsector debt has risen to about 110 percent of GDP, while Barbados’ credit rating has dropped
+two notches to one level above junk status.3 Nonetheless, projected public-sector external
+debt is about 35 percent of GDP and has a smooth amortization profile.
+
+1
+
+Prepared by John Ralyea.
+
+2
+
+The authorities have issued US$320 million (8.8 percent of GDP) in external bonds within the last 15 months
+to keep reserves above four months of imports.
+
+3
+
+On October 22, 2010, Standard & Poor’s lowered Barbados credit rating to BBB- from BBB on rising
+government debt. This follows an earlier downgrade in June 2009 for the same reason.
+
+15
+3.
+Prior to the current downturn, the economy had under gone three relatively
+short periods of recession (1974-75, 1981-82, and 1990-92) interspersed with long
+periods of positive growth. A common trait of these downturns was that they were either
+preceded or accompanied by periods of relatively large fiscal deficits. These deficits
+triggered current account disequilibria (Boamah et al, 2009), made worse by developments in
+the external economy (oil shocks in the 1970s, aftermath of 9/11, and the 2007 global
+economic crisis).
+The Barbadian Dollar
+4.
+Barbados’ CPI-based real effective exchange rate has appreciated recently
+relative to its main tourism-competitor and client countries. The real effective exchange
+rate weighted is now about 15 percent above its 30-year historical average. The appreciation
+since 2007 is largely driven by disparities in inflation rates. While inflation in Barbados has
+come down considerably since a spike in late 2008, it remains somewhat elevated relative to
+many Caribbean countries and its primary tourism markets. The inflation level largely
+reflects public spending that pushed domestic absorption well above the economy’s output
+potential before the recent global economic crisis.
+120
+
+Barbados: Real Ef f ective Exchange Rate
+(Index: 2000 = 100)
+110
+
+Competitor -weighted 1/
+
+100
+
+Client-weighted 2/
+
+Jun-10
+
+Jan-10
+
+Aug-09
+
+Oct-08
+
+Mar-09
+
+May-08
+
+Jul-07
+
+Dec-07
+
+Feb-07
+
+Apr-06
+
+Sep-06
+
+Jun-05
+
+Nov-05
+
+Jan-05
+
+Aug-04
+
+Oct-03
+
+Mar-04
+
+May-03
+
+Jul-02
+
+Dec-02
+
+Feb-02
+
+Apr-01
+
+Sep-01
+
+Jun-00
+
+Nov-00
+
+80
+
+Jan-00
+
+90
+
+Source: INS
+1/ Weighted by primary tourism competitor countries: Belize, The Bahamas, Dominica,
+Greneda, Guyana, Jamaica, Mexico, St. Lucia, St. Vincent, Trinidad and Tobago.
+2 / Weighted by primary tourism client countries: Canada, Euro area, the U.K. and the U.S.
+
+16
+Barbados’s External Sector
+5.
+Barbados’ net capital inflows are volatile though they have been positive in each
+of the last six years. During this period, net flows have ranged from 6.3 percent of GDP to
+11.3. The peak in 2005 was fueled by public and private sector borrowing.
+Barbados: Capital Flows, 2002-10
+(In percent of GDP)
+Net capital inflows
+Public
+Private
+SDR allocation
+Errors and Omissions
+
+2005
+11.3
+3.4
+7.3
+0.0
+0.7
+
+2006
+6.3
+1.2
+4.4
+0.0
+0.7
+
+2007
+8.9
+-1.8
+9.7
+0.0
+1.0
+
+2008
+7.2
+-0.5
+8.1
+0.0
+-0.3
+
+2009
+7.1
+4.3
+1.3
+2.2
+-0.7
+
+2010E
+6.9
+4.6
+2.5
+0.0
+-0.1
+
+Sources: Central Bank of Barbados; Fund staff estimates
+
+6.
+Capital inflows have helped finance significant current account deficits and
+reserves have remained above three-months of imports over the last ten years. On net,
+inflows have supported an increase in international reserves since 2005. However, reflecting
+the volatility in capital inflows, reserves have been spent to help finance current account
+deficits in three of the last six years. After dipping in 2008 from the recent year-end peak of
+US$774 million in 2007, foreign reserves increased in 2009 thanks to the SDR allocations
+and bond placements (US$120 million).4 This increase is projected to be reversed in 2010,
+despite net new external bond debt issuance of US$100 million.
+Barbados: Capital Flows and Foreign Reserves, 2005-10
+(In percent of GDP)
+Net capital inflows
+= FX reserves (- = accumulation)
++ Current account balance
+
+2005
+11.3
+-0.6
+-10.7
+
+2006
+6.3
+0.5
+-6.9
+
+2007
+8.9
+-4.4
+-4.5
+
+2008
+7.2
+2.4
+-9.6
+
+2009
+7.2
+-1.7
+-5.5
+
+2010E
+6.9
+1.0
+-7.9
+
+Sources: Central Bank of Barbados; Fund staff estimates.
+
+4
+
+At end-December 2009, 30 percent of reserves were classified by the Central Bank of Barbados as government
+assets held in a sinking fund. The analysis of reserve adequacy that follows assumes that these reserves are
+liquid and readily available for balance of payments needs.
+
+17
+1,000
+
+10
+
+Barbados: Gross International Reserves 1/
+In millions of US$
+In months of imports (current year, right axis)
+
+800
+
+8
+
+600
+
+6
+
+400
+
+4
+
+200
+
+2
+
+0
+
+0
+
+Source: Central Bank of Barbados; IMF staf f calculations.
+1/ Data af ter 2010 are staf f projections.
+
+7.
+Under the baseline scenario in the accompanying staff report, Barbados’
+reserves are projected to fall continuously in nominal terms, absent significant new
+external public sector borrowing. The baseline assumes a gradual closing of the existing
+output gap. At the same time, the current account balance is projected to decline to around
+6.0 percent of GDP, between its 10-year and 15-year historical averages, and other
+components of the balance of payments gradually return toward their 10-year averages in
+terms of GDP. The projected fall in reserves at a time when current account ratios are
+stabilizing at long-run averages suggests a possible misalignment of the exchange rate or an
+unsustainable policy mix.
+B. Assessment of Exchange Rate
+Three approaches have been applied to assess the level of the Barbadian dollar relative to its
+medium-term equilibrium level. According to these approaches—and subject to significant
+statistical uncertainty—the real effective exchange rate for the Barbadian dollar is estimated
+to be only about 4 - 10 percent above its equilibrium level.
+Macroeconomic balance approach
+8.
+The macroeconomic balance approach indicates that Barbados’ real effective
+exchange rate is somewhat consistent with external and internal balance. The projected
+current account deficit in 2015 of 6.0 percent of GDP—considered to be the underlying
+current account balance—exceeds the equilibrium current account balance calculated under
+the macroeconomic balance approach by about two percentage points of GDP (Box 1). Using
+an elasticity of the current account to the real exchange rate of 0.3, this implies that the real
+effective exchange rate is about seven percent overvalued.
+
+18
+External Sustainability Approach
+9.
+The external sustainability approach points to an overvaluation. This approach
+focuses on the link between the external stock position and the flow current account position
+(Box 2). Under this approach, the assessment of the sustainable level of the current account
+deficit ultimately depends on the choice of the “sustainable” net foreign asset (NFA)
+position. However, data for Barbados NFA are not available. Instead, the NFA was
+calculated for 2009 as the sum of Barbados’s current account balances since 1978. The
+analysis suggests that stabilizing Barbados’s NFA at its end-2009 position (-70 percent of
+GDP) would require keeping the current account deficit at about 3.0 percent of GDP. Using
+the same elasticity of the current account to the real exchange as in macroeconomic balance
+approach, suggests that a real effective exchange rate depreciation of about ten percent would
+be necessary to improve Barbados’s underlying current account balance to its NFAstabilizing level.
+Equilibrium Real Exchange Rate Approach
+10.
+A third approach to assessing external stability risks is to estimate the
+equilibrium real exchange rate (ERER). The analysis of Barbados’ ERER is based on the
+CPI-based real effective exchange rate. It is assumed that the ERER is a function of a set of
+fundamentals and that a reduced form of this relationship could be estimated in a panel
+setting (Box 3). After a large depreciation following the 2001 recession, the real exchange
+rate has generally appreciated since 2004 and appears to have overshot the ERER in 2009 by
+about four percentage points.
+110
+
+Barbados: Equilibrium Real Ef f ective Exchange Rate
+105
+
+100
+
+Equilibrium real
+exchange rate
+
+95
+
+90
+
+Actual ef f ective real
+exchange rate
+------- 90 percent conf idence
+
+85
+1983 1985 1987 1989 1991 1993 1995 1997 1999 2001 2003 2005 2007 2009
+
+Source: INS; and Fund staf f calculations.
+
+19
+Chapter II Box 1. Macroeconomic Balance Approach1
+The macroeconomic balance (MB) approach to exchange rate assessments involves
+three steps. First, an equilibrium relationship between Barbados’s current account
+balances and a set of fundamentals is estimated via pooled least squares on panel data
+from 55 advanced and emerging market economies. Second, an equilibrium current
+account (CA norm) for Barbados is computed from this relationship as a function of the
+levels of fundamentals projected to prevail in the medium term. Third, the real
+exchange rate adjustment that would close the gap between the estimated CA norm and
+the underlying current account balance (i.e. stripped of any temporary factors or shocks
+such as output gaps) is computed.
+The CA norm for Barbados was estimated based on panel data estimates from Lee et al
+(2008). The main fundamentals that determine the CA norm are the fiscal and oil
+balances relative to GDP, demographic variables, and relative output and income
+variables.
+Barbados: Current account norm determination
+
+Constant
+Fiscal balance/GDP
+Old-age dependency relative to trading partners
+Population growth relative to trading partners
+Oil balance/GDP
+Per capita income relative to trading partners
+Output growth relative to U.S.
+Lagged current account/GDP
+CA Norm (% of GDP)
+
+CGER
+Coefficients
+-0.0029
+0.1893
+-0.1234
+-1.0285
+0.1688
+0.0196
+-0.1570
+0.3656
+
+2015
+-0.3
+-0.3
+0.1
+0.4
+-1.0
+-1.2
+-0.1
+-1.6
+-4.1
+
+Assuming that the trade balance is the only source of current account adjustment, the
+magnitude of the exchange rate adjustment needed to close the gap between the CA
+norm and the underlying current account is derived by applying the elasticity of the
+current account balance to the real exchange rate. The latter is computed as a difference
+of export and import elasticities weighted by Barbados’ export and import ratios to
+GDP. Using the export and import volume elasticities of (-0.71) and (0.92),
+respectively, derived in Lee et al (2008), the elasticity of the current account to the real
+exchange rate for Barbados was calculated to be -0.30.
+_________________________
+1
+Based on Lee et al (2008).
+
+20
+Chapter II Box 2. External Sustainability Approach1
+The external sustainability (ES) approach calculates the difference between the actual
+current account balance and the balance that would stabilize the NFA position of the
+country at some benchmark level. The approach relies on an intertemporal budget
+constraint which requires that the present value of future trade surpluses is sufficient to
+pay for the country’s outstanding external liabilities. One way to do this is to ensure that
+the size of net foreign assets is stabilized relative to the size of the economy.
+To this end, changes in net foreign assets (NFAt) are assumed to be due either to net
+financial flows or to changes in the valuation of outstanding assets and liabilities.
+Assuming that capital account transfers, errors and omissions, and net capital gains are
+zero:
+NFAt - NFAt-1 = CAt
+Expressing all variables as ratios to GDP, the current account that stabilizes the
+NFA/GDP ratio at nfa s is:
+g 
+ca s 
+nfa s
+1 g  
+where g is the growth rate of real GDP and  is the inflation rate.
+The NFA-stabilizing current account deficit for Barbados is 3.0 percent, based on
+following assumptions for the parameters in equation (2):
+
+
+nfas = -70%, the benchmark net foreign assets relative to GDP was estimated as
+the accumulated current account balances from 1978 through 2009 over estimated
+GDP for 2009.
+
+
+
+g = 2.5%, the projected average medium-term growth rate for Barbados.
+
+
+
+π = 1.9%, the projected medium-term consumer price inflation for the United
+States.
+
+Using the same elasticities as in the MB approach, any difference between NFAstabilizing current account balance and the underlying current account balance is
+translated into the real exchange rate adjustment that—over the medium term—would
+bring the current account balance in line with its NFA-stabilizing level.
+1
+
+Based on Lee et al (2008).
+
+21
+Chapter II Box 3. Equilibrium Real Exchange Rate (ERER) Estimation1
+The ERER estimation assumes that the long-run CPI-based real effective exchange rate is determined by a set of
+fundamentals. The model is estimated using autoregressive distributed lag and OLS-based panel corrected
+standard errors. For comparability purposes, the analysis is limited to a set of CARICOM and tourismdependent countries. 2 The equilibrium real exchange rate is assumed to be driven by the following
+fundamentals:
+
+
+Productivity differential. Per capita tourist arrivals as a share of per capita tourist arrivals in The
+Bahamas- the country in the region with the highest per capita tourist arrivals –is used as a measure of
+relative sector productivity. A positive coefficient on this variable reflects faster productivity growth in
+the tourism sector. The resulting higher wages in the tourism sector will put upward pressure on wages
+in the non-tradeables sector, leading to a real appreciation of the exchange rate according to the
+Balassa-Samuelson effect.
+
+
+
+Terms of trade. A positive coefficient on this variable suggests that higher terms of trade appreciate
+the real exchange rate, possibly through real income or wealth effects. The proxy used in the model is
+the movement in terms of trade of goods and services (TT) not explained by movements in the terms of
+trade in goods (TTG) only.
+
+
+
+Government consumption. A positive coefficient on this variable indicates that higher government
+consumption (scaled by GDP) is associated with appreciation of the ERER, perhaps reflecting that such
+consumption primarily falls on non-tradeables, thereby raising their price relative to tradeables.
+
+
+
+Net foreign assets. Theory predicts that debtor countries need a more depreciated real exchange rate to
+generate the trade surpluses necessary to service their external liabilities. A positive coefficient on this
+variable is consistent with theory.
+Barbados: Equilibrium Real Exchange Rate determination
+Estimation:
+Government Consumption
+TOTT
+Productivity
+Net foreign assets
+Constant
+Estimates of the ECM coeeficients
+Wald test
+Prob>X2
+N (Number of groups)
+
+SUR GLS
+Caricom
+
+SUR PCSE
+Caricom
+
+0.53**
+(2.02)
+0.1
+(1.57)
+0.06
+(0.68)
+0.03
+(1.39)
+4.56***
+(83.20)
+
+0.53**
+(2.15)
+0.1*
+(1.75)
+0.06
+(1.15)
+0.03
+(1.28)
+4.56***
+(116.62)
+
+-0.29***
+(-7.63)
+60.30
+0.00
+10
+
+-0.29***
+(-5.42)
+45.03
+0.00
+10
+
+Note: A *, **, *** indicate signficance at the 10, 5, 1 percent, respectively
+
+______________________________
+1
+
+This box is based on Pineda et al (2009).
+Tourism-dependent countries are defined as those where tourism exports exceed a threshold of 20 percent of
+total exports. Data limitations restricted the list to: Antigua and Barbuda, The Bahamas, Barbados, Belize,
+Cyprus, Dominica, Dominican Republic, Egypt, Fiji, Greece, Grenada, Jamaica, Jordan, St. Kitts and Nevis,
+Malta, St. Lucia, St. Vincent and the Grenadines, Mauritius, Samoa, Seychelles, and Vanuatu.
+2
+
+22
+C. Reserve Adequacy Assessment
+Barbados reserves provide a critical backstop for the currency peg and a buffer in the event
+of capital or current account shocks. Barbados reserves have averaged roughly 20 percent of
+GDP since 2000 and varied within a range of 19 percent to 23 percent of GDP. At face
+value, traditional and composite indicators suggest the current level of reserves may not be
+adequate. However, these indicators fail to account for liquid foreign bank assets that could
+cover non-resident deposit outflows at the time of a shock and the existence of capital
+controls. Conversely, reserves appear adequate when assessed against specific shocks and
+an insurance model. On balance, Barbados reserves appear adequate, but just barely further reserve accumulation is desirable.
+Reserve Adequacy Indicators
+11.
+Traditional reserve adequacy indicators for Barbados have improved recently,
+but reserves remain short of covering short-term external debt. As a ratio to broad
+money, reserves are around 20 percent, the upper value of a conventional range for this
+measure. The reserve coverage of short-term debt has increased almost 20 percentage points
+in the last two years, helped by external bond issuance and the 2009 SDR allocation, to 69
+percent. While short of the 100 percent Greenspan-Guidotti threshold, non-resident deposits
+comprise 61 percent of short-term debt. In the event of a deposit run, commercial banks’
+foreign assets, which exceeded their foreign liabilities by about US$300 million at end-April
+2010, could serve as a first line of defense. In addition, capital controls would likely slow
+deposit flight. This suggests that less than full reserve coverage of external short-term debt
+may be justified.
+Barbados: International Reserve Coverage 1/
+
+GIR in percent of
+Broad money (conventional threshold > 20 percent)
+Short-term external debt by remaining maturity (> 100 percent)
+
+2004-07
+Average
+
+2008
+
+2009
+
+2010
+
+24
+80
+
+21
+49
+
+23
+70
+
+20
+69
+
+Minimum composite reserve thresholds (US$ million)
+Wijnholds and Kapteyn (2001) 2/
+…
+1,337
+1,127
+1,127
+Lipschitz, Messmacher, and Mourmouras (2006) 3/
+…
+2,204
+1,914
+1,922
+Memorandum item
+GIR (US$ million)
+…
+678
+745
+707
+Sources: Central Bank of Barbados; Fund staff calculations.
+1/ Does not include external non-bank private-sector short-term debt due to lack of data. Also, 2010 projections are
+estimated based on commercial bank data as of April 2010.
+2/ Full coverage of external short-term debt on a remaining maturity basis (net of non-resident deposits) plus 20 percent of
+broad money.
+3/ Full coverage of foreign debt service, plus 10 percent of broad money, plus 20 percent of annual imports.
+
+12.
+Barbados reserves fall short of minimum composite reserve adequacy thresholds
+proposed by Wijnholds and Kapteyn (2001) and Lipschitz, Messmacher, and Mourmouras
+
+23
+(2006). Based on the first approach, thresholds are calculated as full coverage of short-term
+external debt on a remaining maturity basis (net of non-resident deposits) plus 20 percent of
+broad money. For Barbados, this yields a threshold of US$1,127 million for 2010, which
+exceeds projected reserves by almost US$420 million, equivalent to 10.6 percent of GDP.
+Based on the second approach, thresholds are calculated as full coverage of one-year forward
+foreign debt service, plus 10 percent of broad money, plus 20 percent of the following year’s
+imports. Barbados projected reserves in 2010 fall short of this composite threshold by almost
+US$1.2 billion (30.7 percent of GDP). Arguably, these composite thresholds are rather
+conservative measures of reserve adequacy, but, like the Greenspan-Guidotti rule, they point
+to the desirability of further reserve accumulation.
+Barbados-Specific Shocks
+13.
+Traditional measures and composite thresholds provide good rule-of-thumb
+metrics for reserve coverage, but they do not factor in Barbados-specific
+characteristics. As a small, open economy, Barbados is vulnerable to both current and
+capital account shocks. Aside from a sudden stop in capital flows, a combination of a shock
+to tourism and an oil price spike would generate the most serious drain on Barbados’
+reserves.
+
+
+The shock to tourism could result from a recession in Barbados’ primary tourist
+markets (United Kingdom, United States, and Canada), whose nationals account for
+90 percent of tourist arrivals into Barbados, or a major political/security event in
+those markets. Tourism arrivals and revenue fell significantly following the recent
+economic slowdowns in the United Kingdom and the United States and the 9/11
+terrorist attacks in 2001.
+15
+
+Barbados: Over-night Tourist Arrivals Growth
+(in percent, yoy)
+10
+
+5
+
+0
+
+-5
+
+-10
+1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010
+
+Source: Central Bank of Barbados; and Fund staf f calculations.
+
+24
+
+
+As for oil shocks, the oil price hikes in the mid-2000s added considerably to
+Barbados oil import bill.
+10
+
+8
+
+Barbados: Oil Imports to GDP
+(in percent)
+
+6
+
+4
+
+2
+
+0
+
+Source: WEO; and Fund staf f estimates.
+
+14.
+Barbados’ reserves are sufficient to weather a significant combination tourismoil price shock, though they would have to be replenished quickly to maintain
+confidence in the peg. Assuming reserves offset dollar-for-dollar the shocks to maintain the
+pre-shock value of non-oil imports, a one-time increase in the average annual international
+oil price by 25 percent to its peak reached in 2008 combined with a ten percent drop in
+tourist revenue, as occurred in 2009, would cut end-2010 reserves by about 50 percent,
+leaving US$347 million in reserves (equivalent to 1.8 months of imports) to support the peg.
+Optimal Reserves under an Insurance Model
+15.
+Barbados’ holdings of reserves provide significant benefits, but also entail costs.
+The reserves provide a buffer against external shocks and are critical to maintaining the
+currency peg. However, holding reserves means foregoing more profitable alternative
+investment opportunities. These benefits and costs are incorporated into a model developed
+by Jeanne (2007) (Box 4) to determine the optimal level of reserves for Barbados:
+
+
+Size of capital account shock. In the case of Barbados, the size of the sudden stop can
+be viewed as the sum of a) one-year forward public and private foreign debt service
+on long-term external debt; b) short-term external debt of the public and non-bank
+private sector; and c) short-term foreign currency debt of commercial banks.
+However, data limitations preclude the inclusion of the short-term external debt of the
+non-bank private sector. Using 2009 data, these assumptions yield a sudden stop size
+of 31 percent of GDP. This is slightly outside the range [0, 30] for this parameter
+used by Jeanne (2007) and conservative. Commercial banks’ liquid foreign assets
+
+25
+could partly cover the flight of commercial bank foreign currency deposits and capital
+controls limit the ability of residents to take capital abroad without prior approval.
+
+
+Cumulative output loss. The standard parameterization for such a loss is 10 percent of
+GDP. However, the analysis underlying the parameter stops short of considering the
+potential for a sudden stop to put pressure on the peg and induce a simultaneous
+exchange rate and/or banking sector crisis. An alternative scenario assumes a higher
+potential loss of 15 percent in the event of a triple crisis.
+
+
+
+Probability of a crisis. This parameter is set at 10 percent following the benchmark
+value used by Jeanne (2007).
+
+
+
+Cost of holding reserves. The opportunity cost of holding reserves is measured as the
+spread between the average interest rate Barbados pays on its external debt and the
+average interest rate Barbados earns on its reserves. Barbados reserves are primary
+held in deposit or money market accounts. The current interest rate on U.S. money
+market accounts for short-term deposits up to six months ranges from 0.25 – 0.50
+percent per annum; the average annual interest rate on Barbados’ external debt has
+ranged from 7 to 7.5 percent the last several years.5 Thus, a spread of about 7 percent
+is used as the proxy for the opportunity cost of holding reserves.
+
+
+
+Risk aversion. Following standard literature, the risk aversion parameter is set at 2.
+
+16.
+The results suggest that Barbados’s projected reserves at the end of 2010 are
+optimal for plausible parameterizations of the model. While the optimal level of reserves
+is subject to considerable uncertainty because it is sensitive to certain parameters that are
+difficult to measure, the model’s results are consistent with the shock-specific analysis. The
+insurance model indicates that actual reserves were well below optimal levels in 2007 and
+2008 after being above optimal levels in the preceding two years. The situation reversed
+when commercial banks repaid amounts owed to foreign banks using their own foreign assets
+in 2009, and now actual reserves exceed optimal reserves by a slight margin. However, the
+alternative scenario suggests that Barbados’s reserves may be insufficient to allow for
+smooth domestic absorption in the event of a triple crisis (sudden stop, banking, and foreign
+exchange).
+
+5
+
+The margin interest rate on long-term external debt is also in line with the average interest rate. In July,
+Barbados issued a US$200 million 12-year bond at a rate of 7.2 percent.
+
+26
+35
+30
+25
+
+40
+
+Barbados: Optimal Level of Reserves
+(In percent of GDP)
+
+Optimal reserves
+(baseline)
+
+35
+30
+
+Optimal reserves
+(alternative)
+
+25
+20
+20
+15
+15
+
+Actual reserves
+10
+
+10
+
+5
+
+5
+
+0
+
+0
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+Source: IMF staf f calculations
+
+D. Policy Implications
+17.
+Barbados reserves are adequate to cushion external shocks and maintain the
+peg, although pressures are building. Even though the real effective exchange rate can be
+considered close to its equilibrium value, it remains somewhat overvalued. At the same time,
+although reserves are adequate at present, they are projected to decline gradually over the
+medium term under the baseline scenario.
+18.
+Fiscal tightening, beyond the cyclical improvement anticipated in the baseline
+scenario, would improve the medium-term reserve dynamics. Fiscal measures to reduce
+the countries debt burden relative to GDP would have two benefits in terms of reserve
+accumulation. Lower fiscal deficits would ease aggregate demand pressures on the current
+account through the import channel reducing the foreign exchange outflows. In addition,
+improved public-sector debt dynamics would support Barbados’ investment-grade rating,
+allowing for additional borrowing, as needed, at reasonable interest rates to facilitate reserve
+accumulation. Finally, it could also be argued that better debt dynamics could improve
+potential investors’ perception of the long-run health of the economy inducing greater
+private-sector capital inflows.
+
+27
+
+Chapter II Box 4. An Insurance Model of the Optimal Reserves1
+The optimal level of reserves should weigh benefits of holding reserves against their
+costs. Jeanne (2007) adopts this approach and develops a model that features a small,
+open economy that is vulnerable to crisis, defined as a loss of access to external credit
+associated with a fall in output. The model shows a tradeoff between the crisis
+mitigation impact of holding reserves and their costs. In the model, the optimal level of
+reserves is derived by minimizing a loss function that equals the opportunity costs of
+reserves plus the expected welfare cost of a crisis,
+
+Loss  R  f R 
+where δ is the opportunity cost of holding reserves; R is the reserve holdings; π is the
+probability of a crisis or sudden stop; and f(.) is the welfare cost of a crisis, which is
+increasing in the size of the sudden stop and the output loss (L and ΔY). Assuming
+constant risk aversion (σ) and an exogenous probability of crisis, the optimal level of
+reserves is given by,
+
+     1 
+R  L  Y  1  1    .
+    
+That is, the optimal level of reserves rises with the size of the sudden stop, the output
+costs of a crisis, the probability of a sudden stop, and the degree of risk aversion and
+decreases with the cost of holding reserves.
+Based on an analysis of currency and capital account crisis in emerging markets dating
+back to 1980, and the standard values and range for risk aversion in the growth and real
+business cycle literature, Jeanne (2007) developed the following benchmark parameters:
+Benchmark Parameters for Insurance Model
+Size of sudden stop
+Probability of sudden stop
+Output loss
+Opportunity cost
+Risk aversion
+
+______________________
+Based on Jeanne (2007).
+
+1
+
+Baseline
+L = 0.1
+π = 0.1
+∆Y = 0.1
+δ = 0.03
+σ=2
+
+Range
+[0, 0.3]
+[0, 0.25]
+[0, 0.2]
+[0.01, 0.06]
+[1, 10]
+
+28
+References
+Boamah, D., K. Greenidge, and S. Mapp, 2009, “The Macroeconomic Impact of IMF-Supported
+Programmes in Small Open Economies: The Case of Barbados,” (Barbados: Central
+Bank of Barbados).
+Dehesa, M., E. Pineda, and W. Samuel, 2009, “Optimal Reserves in the Eastern Caribbean
+Currency Union,” IMF Working Paper 09/77 (Washington: International Monetary
+Fund).
+International Monetary Fund, 2008, CGER team: ‘How to apply CGER methodologies to nonCGER countries: a guide for desk economists’, unpublished (Washington: International
+Monetary Fund).
+–––––, 2009, “Barbados—Staff report for the 2009 Article IV Consultation,” (Washington:
+International Monetary Fund).
+Jeanne, O., and R. Ranciere, 2006, “The Optimal Level of International Reserves for Emerging
+Market Countries: Formulas and Applications”, IMF Working paper 06/229.
+Jeanne, O., 2007, “International Reserves in Emerging Market Countries: Too Much of a Good
+Thing?” Brooking Papers on Economic Activity, 1:2007.
+Lee J., G.M. Milesi-Ferretti, J. Ostry, A. Prati and L. Ricci, 2008, ‘Exchange Rate Assessments:
+CGER methodologies’ IMF Occasional Paper No. 261, (Washington: International
+Monetary Fund).
+Lipschitz, L., M. Messmacher, and A. Mourmouras, 2006, “Reserve Adequacy: Much higher
+than you thought?” Unpublished.
+Pineda, E., P. Cashin, and Y. Sun, 2009, “Assessing Exchange Rate Competitiveness in the
+Eastern Caribbean Currency Union’, IMF Working Paper 09/78 (Washington:
+International Monetary Fund).
+Standard & Poor’s, 2010, “Barbados,” (Ratings Direct on the Global Credit Portal: The
+McGraw-Hill Companies).
+Wijnholds, O.B., and A. Kapteyn, 2001, “Reserve Adequacy in Emerging Market Economies,”
+IMF Working Paper 01/143 (Washington: International Monetary Fund).
+
+29
+III.
+
+BARBADOS’ FINANCIAL SYSTEM IN THE AFTERMATH OF THE GLOBAL CRISIS1
+
+This chapter assesses Barbados’ financial system in the wake of the global crisis.2 While the
+financial system appears to have been broadly resilient up to now, preserving its soundness
+in an environment weakened by the recession requires strengthening the regulatory and
+supervisory framework. Commercial banks’ credit risk exposure to weak economic activity,
+particularly in the tourism sector, is the financial sector’s main vulnerability. The collapse of
+CLICO-Barbados is also discussed.
+A. Introduction
+1.
+The Barbadian financial system, which is dominated by Canadian banks, but also
+has numerous smaller onshore and offshore institutions, has been broadly resilient to the
+economic crisis. The onshore banking system is composed of 6 foreign banks (5 locally
+incorporated subsidiaries and one branch), with a key role for Canadian banks (76 percent of
+banks’ assets) and 2 Caribbean banks. The rest of the domestic financial system includes 35
+credit unions and 23 insurance companies. There are 50 offshore banks and a large number
+of offshore insurance companies, mainly concentrated on captive insurance. The structure of
+the financial system remains largely the same as at the time of the 2008 FSAP-Update. While
+asset growth has slowed down, the financial system has remained mostly sound because the
+practices that contributed to financial collapses in other regions, such as securitization and
+derivatives, did not take place in Barbados.3
+2.
+The collapse of CLICO-Barbados, however, is a significant event that weakens the
+financial system. The insurance sector faced a major crisis with the collapse of CLICOBarbados and BAICO, two local subsidiaries of the failed regional conglomerate
+CL Financial (Box 1). While the other main insurance companies appear to be operating well
+and are regularly reporting audited statements to the supervisory agency, CLICO and BAICO
+represent significant contingent liabilities for the fiscal accounts and raise questions about
+the supervision of the insurance sector, which could put at risk Barbados’ reputation as a
+desirable destination for financial services.
+
+1
+
+Prepared by Carla Macario. The information provided by the Central Bank of Barbados is gratefully
+acknowledged.
+
+2
+
+The FSAP-Update did a thorough assessment of Barbados’ financial system in early 2008.
+
+3
+
+Worrell (2010).
+
+30
+Chapter III Figure 1. The Financial Sector in Barbados and in the Region
+Barbados' financial sector makes the largest contribution
+to output among its peers...
+30
+
+25
+
+BHS
+
+Financial sector's contribution to GDP
+(in percent)
+
+...and it has a robust private sector credit.
+120
+
+BRB
+JAM
+
+100
+
+BHS
+BRB
+JAM
+TTO
+
+Credit to private sector as percent of GDP
+(in percent)
+
+TTO
+20
+
+80
+
+15
+
+60
+
+10
+
+40
+
+5
+
+20
+
+0
+
+0
+2000
+
+2005
+
+2007
+
+2005
+
+2009
+
+Mortgages are a key component of credit to the
+private sector
+120
+
+2006
+
+2007
+
+2008
+
+2009
+
+Credit growth has stalled due to the recession...
+15
+
+25
+
+Loan composition (in percent, 2009)
+20
+
+100
+
+Private Sector Credit and Real GDP Growth
+(in percent, yoy)
+
+12
+
+Private sector credit
+15
+
+9
+
+10
+
+6
+
+5
+
+3
+
+0
+
+0
+
+80
+Other
+
+60
+
+Consumer
+
+40
+
+Credit
+card
+Mortgage
+
+20
+
+0
+
+-3
+
+-10
+BRB
+BRB
+
+BHS
+
+JAM
+
+-6
+2000
+
+TTO 2/
+
+2002
+
+2004
+
+35
+
+2008
+
+2010 Proj.
+
+8
+
+Credit to private sector growth rate
+(in percent, yoy)
+
+7
+
+Barbados and US interest rates
+(in percent)
+BRB 3-month
+T-bill
+
+6
+
+25
+
+JAM
+TTO
+
+20
+
+2006
+
+Interest rates in Barbados have broadly moved with
+US interest rates
+
+as in the rest of the region.
+
+30
+
+Real GDP
+(right axis)
+
+-5
+
+5
+4
+
+15
+
+BHS
+
+10
+
+3
+
+BRB
+
+US Fed Funds
+rate
+
+2
+
+5
+
+US 3-month
+T-bill
+
+1
+
+0
+
+BRB
+minimum
+deposit rate
+
+0
+
+-5
+
+-1
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2005
+
+2006
+
+Sources: International Financial Statistics; National authorities; and Fund staf f estimates.
+1/ Regional comparators include The Bahamas, Jamaica, and Trinidad and Tobago.
+2// Inf ormation on credit card loans is not available.
+
+2007
+
+2008
+
+2009
+
+Sep-10
+
+31
+3.
+The financial system continues to play a critical role in the economy, but credit
+growth has stalled following the global crisis’ considerable impact on domestic activity.
+The financial sector’s contribution to GDP has continued to grow from about 20 percent in
+the early 2000s, and is high for the region. Since the onset of the global crisis, however,
+credit growth has slowed down considerably, as in other Caribbean countries (Figure 1).
+4.
+Looking forward, the main risk to the financial sector is a prolonged slowdown in
+the United States and in the United Kingdom. Weak economic activity and high
+unemployment in these countries, which are the main source of high-end tourism and real
+estate investment in Barbados, are the key downside risks to the financial sector. More
+sustained weakness in these economies would curtail domestic growth and further increase
+credit risk, both directly from tourism projects and indirectly through a more widespread
+weak economic activity.
+B. The Impact of the Global Crisis on the Soundness of Financial Institutions
+5.
+Banks remain sound, but are increasingly showing signs of strains from the weak
+domestic activity and the tourism slowdown.
+
+
+Assets are stable and capital adequacy ratios are considerably above the prudential
+threshold. Despite a slight increase in 2008, bank assets remained broadly stable between
+2007 and 2009, at about
+200
+Bahamas
+Commercial banks assets (percent of GDP)
+US$ 5¾ billion (145 percent
+Barbados
+180
+(in percent)
+Jamaica
+of GDP, which is high for
+160
+Trinidad and Tobago
+the region), with the
+140
+3 largest banks holding
+120
+about 70 percent of the
+100
+sector’s assets. Banks have
+80
+been broadly resilient to the
+60
+economic downturn, with
+40
+20
+capital adequacy ratios well
+above the regulatory
+2005
+2007
+2009
+threshold (8 percent of riskweighted assets).
+
+
+
+However, other prudential indicators have deteriorated in recent months, highlighting the
+exposure to weak economic activity, particularly in the tourism sector. Non-performing
+loans increased to almost 10 percent of total loans in June 2010, including from some
+large commercial loans, mainly from the tourism sector.
+
+32
+Chapter III Figure 2.Barbados: Financial Sector Indicators compared to Peers in the Region 1/
+Barbados' CARs are above the regulatory threshold, as
+is the case in the rest of the region...
+2006
+
+Capital Adequacy Ratio (percent)
+
+28
+
+...but non-performing loans have surged in
+recent months.
+12
+
+NPLs to Total Loan (percent)
+
+2007
+2008
+2009
+
+24
+
+2006
+2007
+
+10
+
+2008
+
+2010Q2
+
+Barbados' regulatory
+threshold
+
+20
+
+2009
+2010Q2
+
+8
+
+16
+
+6
+
+12
+4
+8
+2
+
+4
+0
+BHS
+
+BRB
+BRB
+
+0
+JAM
+
+TTO
+
+Provisions to NPLs are low...
+120
+
+100
+
+JAM
+
+TTO
+
+...and profitability has deteriorated.
+30
+
+Provisions to NPLs (percent)
+2006
+
+25
+
+2007
+2008
+
+80
+
+BRB
+BRB
+
+BHS
+
+2009
+
+Return on Equity (percent)
+2006
+2007
+2008
+2009
+2010Q1
+
+20
+
+2010Q1
+2010Q2
+
+60
+
+15
+
+40
+
+10
+
+20
+
+5
+
+0
+
+0
+BHS
+
+BRB
+BRB
+
+JAM
+
+TTO
+
+BHS
+
+Liquidity is stable,
+30
+
+25
+
+BRB
+BRB
+
+JAM
+
+TTO
+
+while real lending rates remain relatively high.
+15
+
+Liquid Assets to Total Assets (percent)
+
+12
+
+2006
+
+Average real lending rates
+(in percent)
+
+BHS
+BRB
+
+2007
+
+JAM
+
+2008
+
+20
+
+9
+
+2009
+
+TTO
+
+2010Q1
+
+6
+15
+3
+10
+0
+5
+
+-3
+
+0
+BHS
+
+BRB
+BRB
+
+JAM
+
+TTO
+
+-6
+2005
+
+2006
+
+2007
+
+2008
+
+Source: International Financial Statistics; National authorities; and Fund staf f estimates.
+1/ Regional comparators include The Bahamas, Jamaica, and Trinidad and Tobago.
+
+2009
+
+Sep-10
+
+33
+In addition, loss provisions remain low, as domestic requirements are lower than
+international standards.4 Liquidity remains stable, but profitability levels have declined
+since the onset of the crisis. Despite these developments, recent preliminary stress tests
+suggest that the banking system remains sound and that most banks could withstand
+further shocks while still remaining above the capital-adequacy threshold.5 These stress
+tests, however, do not allow a full risk assessment of the banking system since the data
+on commercial banks’ loan portfolio do not have enough detail about loan classification
+and provisioning.6
+Barbados: Financial Soundness Indicators, 2006-10 1/
+(In percent)
+Capital adequacy ratio 2/
+NPLs to total loans
+Provision for loan loss to total loans
+Return on equity
+Credit to the private sector, growth yoy
+Liquid assets to total assets 3/
+
+2006
+
+2007
+
+2008
+
+2009
+
+Jun-10
+
+14.4
+4.4
+1.5
+14.3
+13.2
+7.9
+
+16.4
+2.8
+1.5
+13.5
+6.4
+9.5
+
+16.1
+3.5
+2.2
+11.5
+11.1
+9.0
+
+17.5
+7.2
+3.3
+9.9
+1.4
+10.8
+
+18.0
+9.9
+1.5
+7.9
+1.7
+10.4
+
+Sources: Central Bank of Barbados; and Fund staff estimates.
+1/ Onshore banking system; data for December unless otherwise indicated.
+2/ Does not include local branches of foreign banks;
+3/ Includes all six banks.
+
+6.
+Credit unions have been resilient, but also show strains from the crisis, with high
+non-performing loans. Membership declined, by about 13 percent from 2007 to 2010,
+following the reductions in employment in the specific industries associated to the credit
+unions. Profits also weakened, with the return on equity declining from 19 percent to
+13 percent in the same period. Nevertheless, assets continued growing, although at a slower
+pace (from 14 percent in 2007 to 8 percent in 2010), to about US$ 674 million (17 percent of
+GDP) in 2010. The industry is highly concentrated, with the three largest credit unions
+holding almost 80 percent of assets. While the non-performing loan ratio is lower than in
+2007 (16.1 percent of total loans in 2010, 19.3 percent in 2007), it remains very high and
+provisions have deteriorated further (provisions for non-performing loans declined from
+2.2 percent of total loans in 2007 to 1.8 percent in 2010).
+7.
+The lack of information on the insurance sector hinders the assessment of the
+impact of the crisis. The information available (up to 2008) indicates that investment assets
+4
+
+The 2008 FSAP-Update recommended increasing provisioning requirements to align them to international
+standards.
+
+5
+
+The preliminary stress test done so far was based on migrating up to 100 percent of loans in a given
+classification category to the next lower one. Under this shock scenario, the capital adequacy ratio of individual
+banks fell by as much as 4 percentage points, but remained well above the regulatory 8-percent threshold. This
+test was carried out by an MCM technical assistance mission in September 2010—the first of two missions to
+support the central bank effort to revamp its stress-testing capabilities.
+
+6
+
+Monetary and Capital Markets Department, “Application of Stress-Testing Module Developed by the 2008
+FSAP Mission”, IMF, September 2010, Washington.
+
+34
+for domestic life insurance contracted by about 30 percent from 2007 to 2008, while
+domestic general insurance remained stable. In contrast, the offshore sector grew
+considerably in 2008 with net premiums and assets growing by about 60 percent and
+80 percent respectively. Remarkably, there are no available data for 2009.
+Box 1. The Demise of CLICO-Barbados
+The collapse of the regional conglomerate CL Financial had a significant impact on CLICO,
+the company’s subsidiary in Barbados. In 2008, the value of CL Financial’s assets plummeted,
+due in part to losses in real estate investments in Florida and in methanol production. In
+February 2009, following the onset of the CL Financial crisis in Trinidad and Tobago, the
+government of Barbados acknowledged difficulties in the domestic subsidiaries. CLICOBarbados, which had branches in several ECCU countries, had three key business lines: life
+insurance, general insurance, and mortgages. The mortgage line of business has been sold, while
+negotiations to sell the general insurance business are in train. In contrast, the life-insurance arm
+has sizeable net liabilities, as promises of high returns from the deposit-like annuities sold by the
+company far exceeded returns on assets. To provide liquidity, the central bank deposited US$5
+million into CLICO’s mortgage subsidiary and provided access to a special credit window, while
+an oversight committee was set up to conduct the resolution process. BAICO, another troubled
+insurance company linked to CL Financial, stopped operating although there is no publicly
+available information on potential statutory gaps.
+In October 2010, the government requested the appointment of a judicial manager for BAICO
+and will soon do the same for CLICO. At this time, the unaudited figures for CLICO indicate
+that the shortfall of the life insurance company is about BD$ 262 million (about 3.3 percent of
+GDP).
+The crisis highlights the weakness of insurance supervision. The collapse of both
+companies, together with regulatory forbearance, the lack of disclosure of the statutory fund
+shortfalls, and the lack of information to the public since the oversight committee was
+created, bring to the forefront the weakness of the insurance supervisory system, also
+responsible for supervising offshore companies. Barbados has a large offshore sector, and
+will need to bring insurance regulations in line with international best practices, to prevent
+reputational risks and a retrenchment of foreign companies from the country.
+
+35
+8.
+The global crisis contracted offshore financial institutions and their contribution to
+GDP and to fiscal revenues, and paralyzed the stock exchange. Offshore assets declined
+from 12 times GDP in 2007 to 10 times GDP in 2009, (from US$47 billion to
+US$39 billion), and the sector’s contribution to fiscal revenues declined. Concentration
+indicators, however, remained broadly stable, as the 4 largest offshore banks account for
+almost 70 percent of the sector’s assets and the 10 largest for almost 90 percent of assets. The
+sector employs about 1 percent of the country’s labor force. At the same time, activity in the
+stock exchange has been at a standstill, as trading declined from 7 percent of GDP in 2007 to
+less than ½ percent of GDP in 2009, and has declined further so far in 2010.
+9.
+The exposure of Barbados’ financial sector to cross-border risks is likely
+significant, but difficult to assess with the information available. The domestic banking
+sector has important cross-border linkages, albeit mostly with Canadian banks, which have
+remained sound despite the global financial crisis. In contrast, the collapse of Trinidad and
+Tobago’s CL Financial and of its subsidiaries in Barbados (e.g., CLICO-Barbados) and
+elsewhere, which had serious repercussions both domestically as well as in the ECCU
+countries, provides a clear example of the consequences of exposure to cross-sector and
+cross-border risks, and of the vulnerability arising from weak supervision. This crisis
+underscores the need for strengthening information on cross-border exposures and on
+conglomerate linkages.
+C. Financial Supervision and Crisis Management
+10.
+The supervision and regulation of the financial system continues to be mainly the
+responsibility of the ministry of finance and, through delegation, of the central bank and
+other entities. The Ministry of Finance (MoF) supervises most of the financial system,
+including the insurance sector. Through the delegation of the MoF, the central bank
+supervises commercial banks, Part III companies,7and offshore banks, while the Securities
+Commission supervises securities companies, mutual funds, and the stock exchange. Credit
+unions are supervised by the Registrar of Cooperatives and Friendly Societies in the Ministry
+of Commerce. The central bank is the lender of last resort and responsible for intervening
+and resolving financial institutions. In 2007, a deposit insurance scheme was established
+covering deposits up to BDS$ 25,000 (US$ 12,500).
+11.
+The regulatory and supervisory framework for the banking system is being
+strengthened. Reporting requirements have been intensified, as have on-site inspections. The
+central bank has set up a financial stability unit that will carry out quarterly stress tests, and
+an MOU with Canadian supervisors will facilitate cross-border coordination among
+regulators. Coordination across the Caribbean is also being enhanced through a regional
+college of regulators that will coordinate the consolidated supervision of a commercial bank
+7
+
+Trust and mortgage companies, finance companies, and merchant banks.
+
+36
+based in Barbados. In addition, the authorities are moving forward with changes in regulation
+and legislation to introduce some of the recommendations of the 2008 FSAP-Update (Box 2).
+12.
+The Financial Services Commission (FSC) is expected to begin operating in early
+2011. This commission—which would bring under one umbrella the supervision of
+insurance, credit unions, securities and international business and enhance staff capability—
+would facilitate consolidated supervision, particularly if it coordinates closely with the
+central bank.
+
+Box 2. Status of Implementation of the 2008 FSAP-Update Recommendations
+The 2008 FSAP-Update noted that several of the shortcomings identified during the 2002
+FSAP had been addressed. However, it noted that regulatory reforms were still needed to
+increase the flexibility and stability of the financial system, including the following key
+reforms:
+
+
+
+
+Establishing a clear legal framework for the consolidated supervision of banking
+groups and enhancing home/host cooperation;
+Updating the regulations on capital adequacy, asset classification, and loan-loss
+provisioning;
+Ensuring that the mandate and structure of the upcoming Financial Services
+Commission were adequate for the effective supervision of the nonbanking
+financial sector.
+
+At the time of the 2010 Article IV Consultation with Barbados, the authorities reported
+progress in the following areas:
+ Amendments are being drafted to strengthen the legal framework for consolidated
+supervision, and a MOU was finalized with the Canadian authorities (a critical step
+given the importance of Canadian banks in Barbados);
+ Amendments are being considered to upgrade asset classification and provisioning,
+and capital adequacy regulations will be updated in the future;
+ Amendments are also being considered to regulate related-party lending and large
+exposures limits, including for aggregate large exposure;
+ Legislation to establish the Financial Services Commission (FSC) has been
+approved by the Attorney General, in preparation for its submission to Parliament.
+
+37
+D.
+
+Conclusions and Policy Recommendations
+
+13.
+Barbados’ regulatory and supervisory framework needs to be strengthened to
+ensure that the financial system remains sound and contributes to the economic recovery.
+The financial system is still sound, despite the impact of the global crisis, but the
+deterioration of prudential indicators suggests rising vulnerabilities. Moreover, the
+deterioration is likely to intensify going forward. A stronger supervisory system, including
+more complete, detailed, and timely information requirements, is needed to monitor the
+system carefully and within an adequate timeframe. At this time, the information system does
+not appear to allow prompt supervisory action. The data on commercial banks’ loans, for
+example, is inadequate for a comprehensive assessment of the loan portfolio. To be effective,
+the recently established financial stability unit at the central bank needs more detailed
+information. Likewise, regulations that allow provisioning levels below international
+standards in commercial banks and credit unions need to be upgraded to best practices.
+Implementation of the main recommendations of the 2008 FSAP-Update would further
+strengthen the soundness and stability of the financial system.
+14.
+An early creation of the Financial Services Commission is critical for allowing
+stronger supervision of nonbank financial institutions. The planned commission, which
+would consolidate the supervision of onshore and offshore nonbank financial institutions,
+with upgraded staff capability, would allow a closer supervision, particularly of credit unions
+and insurance. The lack of updated information on the insurance sector is clearly a source of
+concern, particularly against the background of the collapse of CLICO and BAICO. Stronger
+supervision of the offshore sector would reduce vulnerabilities and enhance Barbados’
+reputation as a desirable location for financial services, which in turn would contribute to a
+recovery of growth. Close coordination between the commission and the central bank would
+allow expanding the perimeter of financial sector surveillance to ensure that the systemic
+risks posed by the financial system are addressed.
+15.
+A prompt and transparent resolution of CLICO-Barbados is critical for fostering
+confidence in financial sector supervision. The scarcity of information on the specific
+causes of the collapse and on the strategy to resolve these failed companies fosters
+uncertainty about financial sector supervision and about contingent fiscal liabilities.
+16.
+An assessment of cross-border risks requires building up regular information
+sources. While exposure to cross-border and conglomerate linkages is likely to be
+significant, it cannot be assessed at this time. The collapse of CL Financial highlights the
+importance of regional coordination for systematically gathering data on these linkages.8
+
+8
+
+Worrell (op cit).
+
+38
+
+Chapter III Table 1. Barbados: Financial Soundness Indicators of the Onshore Banking System
+
+Solvency indicators
+Capital adequacy ratio 1/
+Core capital adequacy ratio 1/ 2/
+Nonperforming loans net of provisions to capital
+Off-balance sheet obligations, percent of liabilities
+Liquidity indicators
+Loan to deposit ratio
+Demand deposits, percent of total deposits
+Liquid assets, percent of total assets 3/
+Credit risk indicators
+Total assets, annual growth rate
+Loans and advances, annual growth rate
+Total mortgage loans, percent of loans and advances
+Nonperforming loans, percent of total loans
+Provisions to nonperforming loans, percent of NPL
+Sectoral distribution of loans to total loans
+Agricultural
+Commercial
+Construction
+Consumer
+Industrial
+Tourism
+Others
+Foreign exchange risk indicators
+Share of foreign currency deposits in total deposits 4/
+Deposits in Foreign Exchange, percent of total deposits 5/
+Net foreign assets, percent of total assets
+Profitability indicators
+ROA
+ROE
+Annualized financial revenues to revenue-generating assets
+Profit before tax, percent of total assets
+Total noninterest expense, percent of total assets
+Spread between lending rate and deposit rate
+Operational efficiency
+Nonfinancial expenditure to total revenues
+Nonfinancial expenditure to total revenue-generating assets
+Memorandum Items:
+Banks' credit card loans to total loans
+Banks' consumer loans to total loans
+Banks' mortgage loans to total loans
+Banks' mortgage loans (BDS$ millions)
+Trust & mortgage companies ' mortgage loans (BDS$ millions)
+Banks' mortgage loans, growth rate
+Banks' credit cards loans, growth rate
+Banks' consumer installment credit, growth rate 6/
+
+Prel.
+2006
+2007
+2008
+2009
+Jun-10
+(in percent, unless otherwise indicated)
+14.4
+…
+18.0
+3.0
+
+16.4
+…
+5.0
+2.0
+
+16.1
+13.9
+5.0
+3.0
+
+17.5
+16.3
+21.0
+4.0
+
+18.0
+17.1
+18.6
+…
+
+63.0
+36.4
+7.9
+
+56.0
+36.6
+9.5
+
+64.0
+34.9
+9.0
+
+66.0
+36.6
+10.8
+
+64.0
+36.2
+10.4
+
+9.3
+15.5
+26.9
+4.4
+31.7
+
+25.2
+8.1
+28.6
+2.8
+52.4
+
+3.9
+11.9
+27.7
+3.5
+60.1
+
+-5.4
+2.7
+29.2
+7.2
+43.6
+
+5.3
+0.9
+30.7
+9.9
+15.2
+
+1
+17
+8
+46
+3
+11
+14
+
+1
+17
+7
+48
+2
+9
+16
+
+1
+18
+8
+46
+2
+9
+16
+
+1
+17
+8
+46
+2
+8
+18
+
+1
+20
+4
+47
+2
+9
+18
+
+5.1
+14.2
+5.5
+
+4.7
+18.9
+6.2
+
+3.6
+14.9
+3.3
+
+4.9
+13.4
+3.1
+
+5.2
+14.4
+5.3
+
+2.0
+14.3
+7.0
+2.4
+2.9
+5.8
+
+1.7
+13.5
+6.4
+1.9
+2.5
+5.8
+
+1.4
+11.5
+6.0
+1.8
+2.7
+6.2
+
+1.6
+9.9
+6.0
+2.0
+2.6
+7.0
+
+1.6
+7.9
+…
+2.1
+2.7
+7.0
+
+53.3
+3.7
+
+55.6
+3.5
+
+57.1
+4.1
+
+54.3
+3.6
+
+60.6
+1.9
+
+5.0
+13.0
+23.0
+1,089
+416
+27.0
+47.6
+20.0
+
+5.2
+11.0
+27.0
+1,401
+444
+29.0
+16.0
+-2.0
+
+5.1
+11.0
+28.0
+1,601
+475
+14.0
+14.0
+4.0
+
+5.3
+10.0
+29.0
+1,726
+476
+7.8
+6.0
+-6.0
+
+5.2
+10.0
+30.9
+1,875
+471
+9.1
+4.8
+-0.3
+
+Source: Central Bank of Barbados
+1/ Does not include branches of foreign banks.
+2/ Tier-I capital.
+3/ Sum of cash balances, due from Central Bank, due from other banks in Barbados and treasury bills.
+4/ Foreign currency deposits of residents to total domestic deposits.
+5/ Total foreign currency deposits to total deposits (Includes both resident and non-resident deposits in foreign currency).
+6/ Includes car loans, durable goods loans, home improvement loans and debt consolidation loans.
+
+39
+Chapter III Table 2. Barbados: Financial Sector Structure
+2006
+
+2007
+
+2008
+
+2009
+
+Prel.
+2010
+
+0
+0
+6
+2
+4
+
+0
+0
+6
+2
+4
+
+0
+0
+6
+2
+4
+
+0
+0
+6
+1
+5
+
+0
+0
+6
+1
+5
+
+37
+46
+
+37
+50
+
+35
+50
+
+35
+50
+
+35
+50
+
+Number of Institutions
+Banks
+Domestic private banks
+Public banks
+Foreign banks
+Branches
+Subsidiaries
+Non-bank Financial Institutions
+Credit unions
+Offshore banks
+
+(In percent of GDP, unless otherwise indicated)
+Assets
+Banks
+Share of the 3 largest banks, percent
+Branches
+Subsidiaries
+Nonbank financial institutions
+Credit unions
+Offshore banks 1/
+
+114
+70
+42
+71
+
+139
+72
+51
+88
+
+144
+73
+53
+91
+
+147
+70
+29
+119
+
+…
+…
+…
+…
+
+13
+1,093
+
+14
+1,152
+
+15
+1,081
+
+17
+1,067
+
+…
+…
+
+Source: Central Bank of Barbados
+1/ 2009 data refers to September 2009.
+
+Chapter III Table 3. Barbados: Onshore Banks and their Parent Institutions
+Affiliated Financial
+Conglomerate
+
+Headquarters
+
+CIBC
+
+Canada
+
+Barbados National Bank Inc. (BNB)
+
+Republic Bank of Trinidad and
+Tobago
+
+Trinidad and Tobago
+
+RBC Royal Bank of Canada (RBC)
+
+RBC Royal Bank of Canada
+
+Canada
+
+Scotiabank
+
+Canada
+
+Royal Bank of Trinidad and Tobago Bank (Barbados) Ltd.
+(RBTT)
+
+RBTT Financial Holdings Ltd.
+
+RBC Canada
+
+Butterfield Bank (Barbados) Ltd. (BBL)
+
+The Bank of N.T. Butterfield &
+Son Ltd.
+
+Bermuda
+
+Commercial Banks incorporated in Barbados
+First Caribbean International Bank (Barbados) Ltd (FCIBB) 1/
+
+Bank of Nova Scotia (BNS)
+
+Source: Central Bank of Barbados
+1/ FCIBB is owned by First Caribbean International Bank, a holding company that consolidates regional operations in Barbados.
+
+40
+Chapter III Table 4 . Barbados: Offshore Financial Institutions
+2006
+
+2007
+
+2008
+
+2009
+
+Number of Institutions
+Assets (In BDS$ million) 1/
+Share of the 4 largest offshore banks, percent
+Share of the 10 largest offshore banks, percent
+
+46
+84,932
+65
+91
+
+50
+93,035
+67
+90
+
+50
+86,190
+64
+88
+
+50
+77,636
+67
+88
+
+Liabilities (In BDS$ million) 1/
+
+59,135
+
+75,250
+
+68,782
+
+69,725
+
+II. Selected Indicators
+Government revenue from sector
+In BDS$ million
+in percent of total revenue
+
+115.8
+5
+
+94.8
+4
+
+59.6
+2
+
+…
+…
+
+Employment in the sector 1/
+in percent of total labor force
+
+1,114
+1
+
+1,178
+1
+
+1,216
+1
+
+1,069
+1
+
+Contribution of sector to GDP (in BDS$ million)
+
+196.4
+
+350.0
+
+375.9
+
+222.3
+
+1
+23
+
+1
+25
+
+1
+26
+
+1
+27
+
+I. Structure of the Offshore Sector
+
+Number of TIEAs signed
+N.B. Double Tax Treaties with Information Exchange clauses
+Source: Central Bank of Barbados
+1/ 2009 data refers to September 2009.
+
+Chapter III Table 5. Barbados: Credit Union Indicators
+2006
+
+2007
+
+2008
+
+2009
+
+2010 1/
+
+37
+144,539
+85
+
+37
+154,218
+85
+
+35
+148,604
+84
+
+35
+129,476
+83
+
+35
+134,100
+84
+
+Assets (In percent of GDP)
+Assets (3 largest credit unions, in percent)
+
+12.7
+70
+
+13.9
+71
+
+15.1
+71
+
+16.8
+73
+
+17.0
+78
+
+Loans (In percent of GDP)
+Loans (3 largest credit unions, in percent)
+
+10.1
+81
+
+10.8
+81
+
+12.1
+81
+
+13.4
+82
+
+13.3
+82
+
+I. Structure of the Credit Union Sector
+Number of Institutions
+Number of Members
+Share of the 3 largest credit unions, percent
+
+II. Selected Financial Soundness Indicators
+Solvency indicators
+Reserves to total Liabilities
+Liquidity indicators
+Loan to deposit ratio
+On-call deposits, percent of total deposits
+Liquid Assets to short-term liabilities
+Profitability indicator
+ROE
+Credit risk indicators
+Total assets, annual growth rate
+Loans, annual growth rate
+Total mortgage loans, percent of loans
+Nonperforming loans, percent of total loans
+Provisions for Nonperforming loans, percent of total loans
+Source: Central Bank of Barbados
+1/ Data to March 2010.
+
+(In percent, unless otherwise indicated)
+10
+
+9
+
+9
+
+9
+
+8
+
+96
+100
+11
+
+93
+100
+14
+
+96
+100
+9
+
+103
+100
+11
+
+112
+100
+9
+
+18
+
+19
+
+12
+
+13
+
+13
+
+12
+14
+38
+16.4
+2.3
+
+14
+11
+40
+19.3
+2.2
+
+7
+10
+34
+17.3
+1.8
+
+9
+8
+39
+17.3
+1.9
+
+8
+8
+43
+16.1
+1.8
+
+41
+Chapter III Table 6. Mutual Funds—Total Assets under Management 1/
+2006
+
+2007
+
+2008
+
+2009
+
+2010 2/
+
+12
+608
+5
+
+12
+673
+5
+
+12
+750
+5
+
+14
+782
+5
+
+17
+702
+9
+
+Number of mutual funds
+
+Net Assets (in BDS$ millions)
+Number of mutual fund administrators
+Source: Central Bank of Barbados
+1/ Data are for December unless otherwise indicated.
+2/ As of end July.
+
+Chapter III Table 7. BSE Main Indicators
+Number of listed companies—Total
+Number of listed companies—Regular market
+Number of listed companies—Junior market
+Number of cross listed companies
+Number of new issues
+Value of new issues (in BDS$ millions )
+Number of brokers
+Market Capitalization (in BDS$ millions)
+Market Capitalization (in percent of GDP)
+Total annual trading volume (millions of shares)
+Total annual trading value (in BDS$ millions)
+Annual turnover (in percent) 2/
+Source: BSE and Securities Commission
+1/ /Data to June 2010.
+2/ Total Trading Value/ Composite Market Capitalization.
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010 1/
+
+27
+26
+1
+7
+1
+405.7
+…
+20,516
+264.1
+12.9
+60.7
+0.3
+
+27
+26
+1
+6
+0
+…
+7
+18,858
+233.5
+155.3
+570.6
+3.0
+
+25
+24
+1
+5
+0
+…
+8
+13,649
+171.1
+71.9
+508.5
+3.7
+
+25
+24
+1
+5
+0
+…
+9
+11,702
+150.2
+7.5
+30.3
+0.3
+
+27
+24
+3
+4
+2
+7.5
+9
+10,672
+134.7
+3.0
+9.3
+0.1
+
+42
+References
+IMF, “Barbados: Financial System Stability Assessment-Update”, IMF Country
+Report No. 09/64, February 2009, Washington.
+Monetary and Capital Markets Department, “Application of Stress-Testing Module
+Developed by the 2008 FSAP Mission”, IMF, September 2010, Washington.
+Worrell, DeLisle, “Changes in the International Financial Architecture- Implications
+for the Caribbean”, IMF Annual Meetings, October 2010, Washington.
+
+

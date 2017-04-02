@@ -1,0 +1,10512 @@
+© 2010 International Monetary Fund
+xxxJanuary 29, 2001
+
+December 2010
+IMF Country Report No. 10/356
+January 28, 2009
+
+Republic of Latvia 2010 Article IV Consultation
+The following documents have been released and are included in this package:
+
+
+The 2010 Article IV Consultation staff report, prepared by a staff team of the IMF, following
+discussions that ended on June 4, 2010, with the officials of the Republic of Latvia on
+economic developments and policies. Based on information available at the time of these
+discussions, the staff report was completed on July 6, 2010. The views expressed in the staff
+report are those of the staff team and do not necessarily reflect the views of the Executive
+Board of the IMF.
+
+
+
+A supplement to the staff report
+
+
+
+A Public Information Notice (PIN).
+
+The document(s) listed below will be separately released.
+Letter of Intent sent to the IMF by the authorities of the Republic of Latvia*, **
+Technical Memorandum of Understanding*, **
+Informational Annex*
+*Also included in Staff Report
+**Published on July 5, 2010
+
+The policy of publication of staff reports and other documents allows for the deletion of market-sensitive
+information.
+Copies of this report are available to the public from
+International Monetary Fund  Publication Services
+700 19th Street, N.W.  Washington, D.C. 20431
+Telephone: (202) 623-7430  Telefax: (202) 623-7201
+E-mail: publications@imf.org Internet: http://www.imf.org
+
+International Monetary Fund
+Washington, D.C.
+
+INTERNATIONAL MONETARY FUND
+REPUBLIC OF LATVIA
+Staff Report for the 2010 Article IV Consultation
+Prepared by the European Department
+(In Consultation with Other Departments)
+Approved by Anne-Marie Gulde-Wolf and James Roaf
+July 6, 2010
+Article IV Consultation and Exchange Rate Regime: The last Article IV consultation was
+concluded by the Executive Board October 4, 2006 (Country Report No. 06/353). An FSAP
+update in 2007 as well as a supplement in 2008 were circulated to the Board but not discussed.
+Latvia operates a conventional peg of the lats to the euro at the rate of €1 = L0.702804 with a
+±1 percent band, and entered ERMII in April 2005. Latvia has accepted the obligations
+of Article VIII and maintains an exchange system free of restrictions except for some
+security-related restrictions and a partial deposit freeze on one bank. A proposal to extend the
+restriction related to the deposit freeze, with a view toward eventual removal, was approved in
+the context of the June report on delayed Article IV consultations.
+Stand-By Arrangement: The Executive Board approved an exceptional access SBA of
+SDR 1.52 billion (1,200 percent of quota or approximately €1.7 billion) on December 23, 2008
+(Country Report No. 09/3). The Second Review was completed February 17, 2010
+(Country Report No. 10/65), when the arrangement was extended until December 22, 2011.
+Discussions were held in Riga May 19 to June 4 2010. The mission met with Prime
+Minister Dombrovskis, Finance Minister Repše, and political leaders; Bank of Latvia
+Governor Rimšēvičs; Head of the Financial and Capital Market Commission Krūmane; senior
+officials in these institutions; social partners; and representatives of financial institutions.
+Staff: The staff team comprised Mark Griffiths (head), James John, Emilia Jurzyk,
+Magnus Saxegaard (all EUR), Alex Klemm (FAD), Michaela Erbenova (MCM), and
+Irena Asmundson (SPR). David Moore (Resident Representative) and Lone Christiansen (EUR)
+assisted the mission. Gundars Davidsons (OED) attended meetings. The team worked closely
+with staff of the European Commission, European Central Bank, World Bank, and the Swedish
+authorities.
+
+2
+Contents
+
+Page
+
+Executive Summary ...................................................................................................................4
+I. Background .............................................................................................................................5
+A. From Boom to Bust ...................................................................................................5
+B. Program Strategy .......................................................................................................6
+C. Stabilization and Recovery......................................................................................11
+II. Policy Discussions...............................................................................................................23
+A. Restoring Growth ....................................................................................................23
+B. Reducing Unemployment ........................................................................................24
+C. Completing the Fiscal Adjustment ..........................................................................28
+D. Improving Competitiveness through Internal Devaluation .....................................31
+E. Financial Stability....................................................................................................32
+F. Debt Restructuring ...................................................................................................35
+G. Structural Reform ....................................................................................................36
+III. Staff Appraisal ...................................................................................................................38
+Figures
+1.
+Accelerating Growth and Boom Years, 2000–08 ..........................................................8
+2.
+Deteriorating Competitiveness During the Boom, 2000–10..........................................9
+3.
+Onset of the Crisis and Stabilization, 2008–10............................................................10
+4.
+Real Sector, 2006–10 ...................................................................................................14
+5.
+Labor Markets and Inflation, 2006–10 ........................................................................15
+6.
+Competitiveness, 2001–10 ...........................................................................................16
+7.
+Balance of Payments, 2008–10 ....................................................................................17
+8.
+Fiscal Developments, 2005–12 ....................................................................................18
+9.
+International Reserves and Foreign Exchange Market Developments, 2008–10 ........19
+10.
+Banking Sector Developments, 2006–10 .....................................................................20
+11.
+Bank Credit, 2006–10 ..................................................................................................21
+12.
+Interest Rates and Euroization, 2006–10 .....................................................................22
+13.
+Labor Market During Recession, 2002–09 ..................................................................27
+14.
+Public Debt Sustainability: Bound Tests .....................................................................41
+15.
+External Debt Sustainability: Bound Tests ..................................................................42
+Boxes
+1.
+2.
+
+Effectiveness of Past IMF Advice Prior to the Crisis ....................................................6
+Regulatory Steps Strengthening The Financial Sector ................................................34
+
+3
+Tables
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+
+Selected Economic Indicators, 2007–10 ......................................................................43
+Macroeconomic Framework, 2008–15 ........................................................................44
+General Government Operations, 2009–12 .................................................................45
+Fiscal Balances and Debt, 2006–15 .............................................................................47
+Public Sector Debt Sustainability Framework, 2005–15 .............................................48
+Medium-Term Balance of Payments, 2007–15 ...........................................................49
+External Debt Dynamics, 2007–15 ..............................................................................51
+External Debt Sustainability Framework, 2005–15 .....................................................52
+Bank of Latvia Balance Sheet, 2006–11 ......................................................................53
+Monetary Survey, 2006–11 ..........................................................................................54
+Financial Soundness Indicators, 2007–10....................................................................55
+Selected Vulnerability Indicators, 2005–10 .................................................................56
+
+4
+EXECUTIVE SUMMARY
+Latvia’s severe downturn may now be bottoming out. After an 18 percent contraction
+in 2009 and substantial volatility due to the unwinding of an unsustainable credit boom, the
+global financial crisis, and local banking pressures, market conditions have calmed and
+quarterly growth is expected to pick up in the second half of 2010, with annual growth
+forecast to resume in 2011.
+Strong policy actions have supported stabilization and the authorities’ competitiveness
+strategy. Adjustment of 13 percent of GDP has counteracted massive fiscal deterioration due
+to the crisis and greatly enhanced the credibility of the authorities’ strategy, although some
+measures were low-quality and not sustainable. Deposits have recovered to pre-crisis levels
+and a sharp improvement in the current account as well as program support have
+strengthened international reserves and restored confidence in the quasi-currency board.
+Sharp wage adjustments and deflation have gone a long way toward addressing previously
+serious competitiveness problems, with further support from recent euro depreciation.
+Immediate risks are now much lower, but key challenges remain to strengthen the
+economy and enable euro adoption: boosting growth to reduce unemployment; accelerating
+the shift toward the tradable sector; undertaking substantial and durable further fiscal
+adjustment; ensuring that competitiveness is restored and maintained; and resolving the
+substantial private sector debt overhang that inhibits recovery.
+Talks focused on steps to address these challenges, with staff recommending:
+
+
+Training to match skills needs, improved education, and a lower tax wedge on labor
+(fiscal conditions permitting) to stop unemployment becoming entrenched.
+
+
+
+Spending measures to achieve large further fiscal adjustment—although revenue
+measures should also be prepared—and reforms to improve budget controls to make
+the adjustment sustainable, as well as a fiscal responsibility law to anchor future
+policies.
+
+
+
+Structural reforms to help address a remaining competitiveness gap and support
+higher growth and employment through stronger exports in the absence of other
+policy options.
+
+
+
+Tax and other changes to facilitate market-based debt restructuring.
+
+Despite substantial progress, risks remain. The new government will need to make a clear
+commitment to the strategy of enhancing competitiveness and fiscal adjustment to make it
+work. Sustained high unemployment would add to spending pressures, while not resolving
+bad loans and restoring financial sector health would also drag down growth. Failure to
+undertake structural reforms could undermine competitiveness under a fixed exchange rate.
+Additional risks include possible delays in euro adoption and spillovers from adverse
+developments in Western Europe.
+The authorities generally shared staff views, but were more optimistic on the
+medium-term recovery path, and believe that fewer fiscal measures would be needed to meet
+the Maastricht targets. With considerable real exchange rate adjustment having already
+occurred, the authorities were confident their strategy to rebuild competitiveness was
+working.
+
+5
+I. BACKGROUND
+A. From Boom to Bust1
+1.
+During the 2000s Latvia’s economy grew extremely rapidly, helped by capital
+inflows and expansionary macroeconomic policies. Growth averaged 7.5 percent in the
+first part of the decade, driven by structural reforms ahead of European Union (EU)
+accession. Following EU membership in 2004, growth accelerated into double digits
+(Figure 1). Increased confidence in the peg caused interest rates to fall, leading to a boom
+typical of exchange rate based stabilizations. Substantial inflows from Nordic parent banks
+into Latvia’s small economy fuelled rapid credit expansion, largely foreign currencydenominated, which financed increasing current account deficits. Investment primarily in
+non-tradables contributed to a dramatic real estate bubble. Though strong revenue growth
+pushed the budget into small surplus by 2007, between 2001 and 2007 government spending
+doubled in real terms.
+2.
+The boom proved unsustainable. Inflation increased, worsening competitiveness
+and turning real interest rates negative, which increased domestic demand, further fuelling
+the boom (Figure 2). Fund advice to tighten fiscal policy was largely ignored (Box 1). The
+Bank of Latvia (BoL) raised its refinancing rate largely in line with European Central Bank
+(ECB) changes, and increased reserve requirements in 2004 and 2005, but annual credit
+growth remained high. Latvia’s non-financial private sector debt rose rapidly from 35 percent
+of GDP in 2000 to 116 percent in 2007—in Europe an increase matched only by Iceland and
+Spain—and was a key source of vulnerability. The current account deficit rose to more
+than 20 percent of GDP in 2006 and 2007, increasing Latvia’s net external debt to 50 percent
+of GDP. Foreign banks, overexposed to the Baltics, started to slow lending in early 2007. By
+end-2007 GDP had started to fall, and then global prospects worsened.
+3.
+Financial sector vulnerabilities turned the slowdown into crisis (Figure 3,
+Table 1). Private sector deposits fell almost 10 percent between end-August and
+end-November. Post-Lehman, at first there were doubts over the health of Swedish banks,
+but the Swedish government’s announcement in September of a support package restored
+confidence. Then speculation over Parex Bank’s (the second largest bank, and largest
+domestically owned) ability to pay its syndicated loans caused a run on the bank: its deposits
+fell 25 percent creating a severe liquidity shortage, and necessitating a deposit freeze. The
+initial attempt to partially nationalize Parex was mishandled and deposits fell steeply until
+agreement on the SBA was announced on December 19. Aside from the turmoil in
+international markets, Latvian banks’ funding model (relying relatively more than
+neighboring countries on nonresident deposits and short-term syndicated loans) and lax
+1
+
+The December 2008 SBA request (Country Report No. 09/3) contains more detailed summaries of Latvia’s
+boom, the causes of the crisis, and financial sector developments and policy responses.
+
+6
+lending standards during the boom exacerbated its crisis. The BoL cut reserve requirements
+to increase banks’ liquidity, but customers converted withdrawals into foreign currency,
+draining international reserves. To prevent international reserve cover of base money from
+falling below 100 percent (potentially threatening the currency board), ensure sufficient
+funds to meet depositor withdrawals, and address a rapidly deteriorating fiscal position due to
+falling revenue and financial sector costs, in November 2008 the authorities approached the
+Fund and European Commission (EC) for emergency financial support.
+Box 1: Effectiveness of Past IMF Advice Prior to the Crisis
+In 2006, the Fund warned of risks from overheating and recommended a tighter fiscal stance
+including slower public wage growth, more effective real estate taxation to cool mortgage borrowing
+and moderate credit growth, strong banking supervision, and efforts to boost productivity and exports.
+The 2008 Article IV staff report, which was not discussed by the Board, also called for a tighter fiscal
+stance and steps to strengthen the tradable sector, while emphasizing the need for precautionary
+financial buffers and contingency planning.
+The authorities maintained a stimulative fiscal stance until late in the boom despite double-digit
+growth and inflation, although in 2007 they did expand real estate taxation and refrain from a
+generalized personal income tax cut. To slow rapid credit growth and inflation, the authorities in 2007
+required banks to grant loans only on the basis of legally reported income, required a 10 percent
+minimum down payment, and strengthened loan-to-value requirements to slow the rapid credit
+growth, but later reversed the last two measures. The authorities heeded advice to reinstate limits on
+banks’ net open position in euros in 2007, but did not follow recommendations to raise the minimum
+capital adequacy ratio. Most of the recommendations of the 2007 FSAP Update were implemented,
+except for creating a more favorable environment for out-of-court debt restructuring, and events
+showed that the authorities’ contingency planning was not sufficient to avoid serious challenges when
+banks came under pressure.
+
+B. Program Strategy
+4.
+Mindful of the fragile world economy, Fund staff considered a wide range of
+options to stabilize Latvia and stem the risk of contagion.2 Fund staff were ready to
+consider exchange rate depreciation, probably through step adjustment of the peg combined
+with full use of the ±15 percent margins allowed under ERMII (and the prospect of credible
+ECB intervention if these bands were tested), or through accelerated euro introduction at a
+depreciated rate, although this latter option was dismissed as inconsistent with the Maastricht
+Treaty. Depreciation would have boosted exports, allowed lower interest rates, and eased
+pressures on international reserves, although high pass-through could have led to rapid
+inflation and limited the competitiveness benefits. However, given the high share of foreign
+currency borrowing, depreciation would have immediately damaged household and corporate
+balance sheets. This could have resulted in increased private sector defaults, collapsing
+domestic demand and a deeper initial recession. The counter-argument is that these balance
+2
+
+The December 2008 Staff Report (Country Report No. 09/3), especially Boxes 1 and 2, has a more detailed
+discussion of program strategy and exchange rate options.
+
+7
+sheet effects would also happen eventually under internal devaluation, since falling wages
+and prices and rising unemployment would make it harder to service debts, but the process
+would take place over time, potentially allowing banks to adjust. Perhaps the strongest—and
+hardest to quantify—argument against depreciation was the risk it would encourage
+speculative attacks against other European countries with pegs. Post Lehman Brothers, the
+outcome of this could have been quite uncertain.
+5.
+Reflecting their view of the potential costs, the authorities insisted on basing the
+program strategy on maintaining the peg—a pillar of economic stability since 1994. The
+program is built on fiscal adjustment and internal devaluation—wage and price cuts and
+productivity boosting reforms—to improve competitiveness and reduce the current account
+deficit. Given the authorities’ strong preference for this approach, and substantial financial
+support from the EC and Nordic and other EU countries (Sweden, Denmark, Norway,
+Finland, Estonia, the Czech Republic, and Poland), the Fund supported the authorities’
+adjustment program (the World Bank and EBRD also provided assistance, financial and
+technical). An international support package of €7.5 billion (€3.1 billion from the EC,
+€1.7 billion Fund and €1.8 billion Nordics) was assembled and designed to be sufficiently
+large to convince markets the peg would stay.
+
+8
+Figure 1. Latvia: Accelerating Growth and Boom Years, 2000-08
+Growth accelerated in 2004 with EU accession.
+14
+
+70
+Real GDP growth (yoy percentage change)
+
+12
+
+2005-07 average
+
+Inf lows f rom f oreign banks contributed to a lending
+boom...
+Domestic credit growth
+(Excluding government, yoy percent change)
+
+60
+
+10
+50
+
+2000-04 average
+
+8
+6
+
+40
+
+4
+30
+
+2
+0
+
+20
+
+-2
+
+EU-27
+10
+
+EU-NMS
+
+-4
+
+Latvia
+-6
+2000 2001 2002 2003 2004 2005 2006 2007 2008
+
+100
+
+...with rapid credit growth concentrated in FX and
+mortgage lending.
+
+0
+2000 2001 2002 2003 2004 2005 2006 2007 2008
+
+25
+
+FX share of loans
+90
+
+Cyclically strong revenue kept def icits low while
+real spending shot up.
+Real spending (yoy percentage change)
+
+Mortgage share of loans
+20
+
+80
+70
+
+Fiscal balance (Percent of GDP)
+
+15
+
+60
+50
+
+10
+
+40
+5
+
+30
+20
+
+0
+
+10
+0
+2000
+
+-5
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+Sources: Latvian authorities; and IMF staf f calculations.
+
+2000 2001 2002 2003 2004 2005 2006 2007 2008
+
+9
+Figure 2. Latvia: Deteriorating Competitiveness During the Boom, 2000-10
+Inf lation accelerated...
+
+...real interest rates turned negative...
+
+18
+
+6
+HICP inflation, average (Yoy percent change)
+
+Real interest rates (Percent)
+
+16
+
+4
+
+14
+2
+12
+10
+
+0
+
+8
+
+-2
+
+6
+-4
+4
+-6
+
+2
+
+Corporate (Euro)
+Mortgages (Euro)
+
+0
+Jan-00
+
+Jan-02
+
+Jan-04
+
+Jan-06
+
+Jan-08
+
+-8
+Jan-04
+
+...competitiveness deteriorated...
+0
+
+160
+
+Jan-05
+
+Jan-06
+
+Jan-07
+
+Jan-08
+
+...and the current account def icit worsened to
+more than 20 percent of GDP.
+
+Real effective exchange rates (2005 = 100)
+150
+CPI-based
+
+-5
+
+PPI-based
+
+140
+
+ULC-based
+130
+
+-10
+
+120
+-15
+
+110
+
+100
+-20
+90
+Current account balance (Percent of GDP)
+80
+Jan-00
+
+-25
+Jan-02
+
+Jan-04
+
+Jan-06
+
+Jan-08
+
+Jan-10
+
+Sources: Latvian authorities; and IMF staf f calculations.
+
+2000 2001 2002 2003 2004 2005 2006 2007 2008
+
+10
+Figure 3. Latvia: Onset of the Crisis and Stabilization, 2008-10
+Loss of conf idence led to a steep drop in non-resident
+deposits, and a shif t into FX deposits by residents.
+4.5
+
+6
+
+Household and corporate deposits
+(Billions of lats)
+
+International reserves
+(Billions of euros)
+
+5
+
+Resident lats
+
+4.0
+
+Reserves f ell sharply in late 2008 and early 2009
+due to outf lows and speculation against the peg.
+
+Resident FX
+Non-resident (98% FX)
+4
+
+3.5
+3
+3.0
+2
+
+2.5
+
+1
+
+Gross international reserves
+Net international reserves
+
+2.0
+Jan-08
+
+Jul-08
+
+Jan-09
+
+Jul-09
+
+Interest rates and external swap spreads rose
+sharply amid uncertainty over Latvia's ability to
+sustain its exchange rate peg.
+
+1400
+
+Program
+announced
+
+Govt.
+resigns
+
+1200
+
+0
+Jan-08
+
+Jan-10
+
+Supplemental
+budget
+passed
+
+800
+
+Jan-09
+
+Jul-09
+
+Jan-10
+
+Growth plummeted as the credit bubble popped
+and the external environment weakened.
+35
+
+0
+
+30
+-5
+
+1000
+
+Jul-08
+
+-3.5
+-4.6
+
+25
+
+20
+
+5-year CDS
+spread (Basis
+points)
+
+-10
+
+-12.4
+
+600
+
+15
+
+400
+
+10
+
+200
+
+5
+
+-15
+
+-17.2
+-20
+-21.8
+
+Rigibor overnight
+rate (Percent, RHS)
+
+0
+Jan-08
+
+Jul-08
+
+Jan-09
+
+2008-09 Cumulative output loss
+0
+Jul-09
+
+Jan-10
+
+-25
+EU-27
+
+Sources: Latvian authorities; Bloomberg; and IMF staf f calculations.
+
+EU-NMS Lithuania
+
+Estonia
+
+Latvia
+
+11
+C. Stabilization and Recovery
+6.
+Though the fixed exchange rate strategy avoided the balance sheet effects of
+disorderly devaluation, the recession proved far steeper than envisaged at end-2008
+(Figure 4). Output fell 18 percent in 2009, the deepest recession in the world. Unemployment
+increased to 17 percent. These worse than expected outcomes were mirrored around the
+world, but they were magnified in Latvia (and the other Baltic countries) due to unwinding of
+the imbalances built up during the preceding boom.
+Latvia: Key Economic Indicators, 2008-10
+2008
+
+Real GDP (annual change, percent)
+Unemployment (LFS definition, percent)
+Inflation (HICP average, percent)
+Fiscal deficit (percent of GDP)
+Current account balance (percent of GDP)
+
+2009
+Forecast 1/
+
+Actual
+
+2010
+Projected
+
+-5.0
+9.0
+5.9
+-4.9
+-7.3
+
+-18.0
+17.3
+3.3
+-7.0
+9.4
+
+-3.5
+21.0
+-2.0
+-8.1
+8.2
+
+3.0
+
+2.2
+
+-0.6
+
+4.2
+
+0.9
+
+-0.2
+
+-4.1
+
+1.0
+
+-3.6
+
+0.5
+
+-14.1
+
+0.8
+
+2.8
+
+-2.0
+
+-14.8
+
+2.1
+
+-4.6
+7.8
+15.3
+-3.3
+-13.0
+
+Memorandum items:
+World output (annual change, percent)
+EU output (annual change, percent)
+
+2
+
+2
+
+Estonia output (annual change, percent)
+
+3
+
+Lithuania output (annual change, percent)
+
+4
+
+1
+
+Figures for Latvia correspond to the December 2008 SBA Request (EBS/08/155).
+
+2
+
+Forecast figures for 2009 correspond to the November 2008 WEO Update.
+
+3
+
+Forecast figures for 2009 correspond to the October 2008 WEO.
+
+4
+
+Forecast figures for 2009 correspond to the December 2008 Staff Visit Concluding Statement.
+
+7.
+
+The recession caused wage and price deflation:
+
+
+
+Wages fell 10 percent in 2009, led by the public sector (potentially large declines in
+undeclared “envelope” wages may mean the private sector wage drop is understated)
+(Figure 5).
+
+
+
+Consumer prices fell 1.4 percent during 2009 (end of period); excluding increases
+in VAT and excises, prices fell 6.5 percent.
+
+
+
+Lower prices and wages have improved competitiveness. Although nominal
+depreciations among trading partners meant the CPI based real effective exchange
+rate did not peak until February 2009, it has since depreciated by around 10 percent
+(Figures 2 and 6).
+
+12
+8.
+The deep recession and improved competitiveness pushed the current account
+into substantial surplus in 2009 and early 2010 (Figure 7, Table 6). Goods exports fell
+21 percent in 2009, in part because of lower export prices, but imports fell even more, by
+40 percent, due to collapsing domestic demand. A large part of the 9 percent of GDP current
+account surplus in 2009 reflects foreign banks writing off losses in Latvia—around 6 percent
+of GDP—that will likely prove transitory (these losses are recorded as positive for the
+income account although no funds are actually transferred; the net international investment
+position improves).
+9.
+Despite substantial international support, questions over Latvia’s ability to
+implement the program initially undermined attempts to restore confidence in the
+exchange rate peg. The government’s collapse in February 2009, followed by doubts over
+the successor government’s ability to deliver fiscal adjustment, weakened the lats within the
+narrow fluctuation band. Interbank interest rates increased to more than 30 percent, while the
+CDS peaked at 1200 basis points (Figures 3). Failure of a Treasury bill auction contributed to
+the panic. From end-2008 to end-June, non-resident deposits fell by about 32 percent;
+residents increased their foreign currency deposit share from 49 percent to 58 percent.
+International reserves fell to €2.8 billion. That said, even these sizeable outflows fell short of
+what had been allowed for when the program was originally designed.3
+10.
+Following passage of the 2009 supplementary budget in June (Figure 8, Table 3)
+and disbursement of additional international support, confidence improved markedly.
+Market volatility began to subside, and calmed even more in November and December
+following approval of the 2010 budget (which included an ambitious 4 percent of GDP fiscal
+adjustment). Deposits returned as current account surpluses and program disbursements
+increased international reserves, boosting confidence in the peg and in the financial system,
+and contributing to growth in broad money. Cash in circulation and banks’ lats liquidity have
+also increased (banks so far have been generally unwilling to lend this liquidity) and interest
+rates fell (Figure 12, Tables 9 and 10). Since October, the BoL has rarely had to intervene,
+and international reserves have increased to €5.5 billion (Figure 9). In early 2010, ratings
+agencies raised their outlook from negative to stable. At first Latvia seemed relatively
+insulated from the turbulence in Greece, but CDS rates have risen recently like other CEE
+countries, following increased international financial market tensions.
+11.
+The weak economy is putting pressure on the banking sector (Figures 10 and 11,
+Table 11). New overdue loans have stabilized, but non-performing loans and provisioning
+needs remain high. Banks have responded by pre-emptive recapitalization, raising the
+system-wide capital adequacy ratio to almost 15 percent.
+12.
+
+3
+
+Despite the deep recession, there are signs the economy is stabilizing:
+
+For more details, see the First Review Staff Report (Country Report No. 09/27).
+
+13
+
+
+The pace of output decline is slowing. In the first quarter of 2010, seasonally
+adjusted GDP seems to have leveled off, and the year-on-year decline has slowed to
+6 percent.
+
+
+
+Real sector indicators are turning. Apart from a setback at the end of last year,
+industrial production has been increasing since March 2009. Real estate prices have
+started to increase (after falling 70 percent from their peak). Retail sales have
+generally increased since December 2009. However, construction activity and sales of
+consumer durables continue to decline.
+
+13.
+Consistent with the authorities’ strategy to rebuild competitiveness, exports have
+started to pick up, increasing 17 percent year-on-year in the first quarter of 2010. Wood
+exports have been particularly strong.
+
+14
+
+Figure 4. Latvia: Real Sector, 2006-10
+
+40
+
+The sharp decline may be bottoming out with
+support f rom net exports.
+Contributions to year-on-year GDP growth
+(Percent)
+
+Construction and investment remain weak...
+30
+
+30
+
+20
+
+20
+
+10
+
+10
+
+0
+
+0
+
+-10
+
+-10
+
+-20
+
+-20
+
+Year-on-year growth (Percent)
+
+-30
+
+Net exports
+Gross capital formation
+Consumption
+
+-30
+
+-40
+
+GDP
+-40
+2006Q1
+
+2007Q1
+
+Gross fixed capital formation
+2008Q1
+
+-50
+2006Q1
+
+2009Q1
+
+...while retail sales have shown some increases
+but remain volatile...
+
+180
+
+Construction output
+
+Seasonally adjusted (2006 = 100)
+
+2007Q1
+
+2008Q1
+
+2009Q1
+
+…and industrial production is starting to recover,
+led by wood.
+
+115
+
+Seasonally adjusted (2006 = 100)
+
+110
+
+160
+
+105
+
+140
+
+100
+
+120
+
+95
+100
+90
+80
+85
+60
+
+80
+
+40
+
+75
+
+Retail sales
+20
+
+Manufacturing
+70
+
+New car registrations
+
+0
+Jan-06
+
+Jan-07
+
+Jan-08
+
+Industrial production
+
+Jan-09
+
+Jan-10
+
+65
+Jan-06
+
+Manufacturing of wood
+and wood products
+Jan-07
+
+Jan-08
+
+Sources: Latvian Central Statistical Bureau; Haver; and IMF staf f calculations.
+
+Jan-09
+
+Jan-10
+
+15
+Figure 5. Latvia: Labor Markets and Inflation, 2006-10
+Year-on-year def lation has set in.
+
+Steep unemployment rises may be leveling of f .
+25
+
+Unemployment rate, seasonally adjusted
+(Percent)
+
+25
+
+Inflation
+(Yoy percent change)
+
+20
+20
+15
+
+10
+
+15
+
+5
+10
+
+0
+
+-5
+5
+
+Core HICP
+Headline HICP
+Domestic PPI
+
+-10
+
+Registered
+Labor force survey (quarterly, interpolated)
+0
+Jan-06
+
+Jan-07
+
+Jan-08
+
+Jan-09
+
+Jan-10
+
+-15
+Jan-06
+
+Private jobs have been cut sharply...
+15
+
+Employment
+(Yoy percent change)
+
+10
+
+50
+
+Jan-07
+
+Jan-08
+
+Jan-09
+
+Jan-10
+
+...while wages have f allen, especially in the
+public sector.
+Average monthly gross wages
+(Yoy percent change)
+
+40
+
+5
+30
+0
+20
+
+-5
+
+10
+
+-10
+-15
+
+0
+
+-20
+-10
+-25
+-30
+
+-20
+
+Public sector
+
+Private sector
+
+Private sector
+-35
+2006Q1
+
+2007Q1
+
+2008Q1
+
+Public sector
+
+2009Q1
+
+-30
+2006Q1
+
+2007Q1
+
+2008Q1
+
+2009Q1
+
+Sources: Eurostat; Haver; Latvian Central Statistical Bureau; and IMF staf f calculations.
+
+2010Q1
+
+16
+Figure 6. Latvia: Competitiveness, 2001-10
+Af ter rising well above 5 year moving averages...
+140
+
+...REERs have f allen back toward average values.
+40
+
+Effective exchange rates (2006 = 100)
+130
+
+30
+
+120
+
+20
+
+110
+
+10
+
+100
+
+0
+
+90
+
+-10
+
+80
+
+Deviation from 5 year moving average REER
+(Percent)
+
+PPI
+
+-20
+ULC REER
+ULC REER, 5 year moving average
+
+70
+2001Q1
+
+210
+
+2003Q1
+
+2005Q1
+
+2007Q1
+
+2009Q1
+
+Unit labor costs rose more sharply in Latvia than
+other countries...
+
+CPI
+ULC (quarterly)
+
+-30
+Jan-01
+
+Jan-03
+
+Jan-05
+
+Jan-07
+
+Jan-09
+
+...as did wages, but both are now f alling.
+230
+Nominal wages and salaries: business economy,
+seasonally adjusted (2005Q1 = 100)
+
+Unit labor costs: total economy, seasonally adjusted
+(2005Q1 = 100)
+210
+
+190
+Latvia
+Germany
+Lithuania
+Estonia
+
+170
+
+190
+
+Latvia
+Germany
+Lithuania
+Estonia
+
+170
+150
+150
+130
+130
+
+110
+
+110
+
+90
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+90
+2005
+
+Sources: Bank of Latvia; Eurostat; and IMF staf f calculations.
+
+2006
+
+2007
+
+2008
+
+2009
+
+17
+Figure 7. Latvia: Balance of Payments, 2008-10
+Rising exports and much lower imports...
+
+... with wood exports being particularly strong...
+70
+
+1300
+
+Wood exports
+(Yoy percent change)
+
+Exports and imports of goods and services
+(Millions of euros)
+1200
+50
+1100
+30
+1000
+10
+
+900
+800
+
+-10
+700
+-30
+600
+500
+Jan-08
+
+500
+
+Exports of goods and services
+Imports of goods and services
+Jul-08
+
+Jan-09
+
+Jul-09
+
+Jan-10
+
+…have led to a sharp improvement in the
+current account.
+Current account
+(Millions of euros)
+
+400
+300
+
+-50
+Jan-08
+
+Jul-08
+
+Jan-09
+
+Jul-09
+
+Jan-10
+
+Financial account outf lows are continuing.
+600
+
+Capital and financial account
+(Net of program financing, millions of euros)
+
+400
+200
+
+200
+
+0
+
+100
+
+-200
+
+0
+-400
+-100
+-600
+-200
+Current transfers
+
+-300
+
+-800
+
+Income
+Goods and services
+
+-400
+
+-1000
+
+Current account
+-500
+Jan-08
+
+Jul-08
+
+Jan-09
+
+Jul-09
+
+Jan-10
+
+-1200
+Jan-08
+
+Other 1/
+Direct investment
+Capital transfers
+Capital and financial account
+Jul-08
+
+Jan-09
+
+Jul-09
+
+Sources: Bank of Latvia; and IMF staf f calculations.
+1/ Other is the sum of other investment and portf olio investment and derivatives.
+
+Jan-10
+
+18
+Figure 8. Latvia: Fiscal developments, 2005-12
+The positive fiscal balances achieved during the
+boom have deteriorated rapidly...
+2
+
+...driven by spending rigidities, as expenditures could
+not be reduced in line with the GDP contraction.
+42
+Revenue and expenditure (excluding EU f unds)
+(Percent of GDP)
+
+Fiscal balances
+(Percent of GDP)
+0
+
+40
+
+-2
+
+38
+
+-4
+
+36
+Primary
+balance
+
+-6
+
+-8
+
+Revenue
+
+34
+
+32
+
+Overall
+balance
+
+-10
+
+Expenditure
+
+30
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2005
+
+2010
+
+Thanks to a major consolidation effort the
+authorities managed to contain the deficit...
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+...but further significant measures are needed to
+fulfill the requirements for euro adoption.
+12
+
+25
+Baseline and actual
+(Percent of GDP)
+
+Baseline and target f iscal def icis
+(Percent of GDP)
+10
+
+Baseline
+def icit
+
+20
+
+Baseline
+
+8
+15
+6
+
+Measures
+
+EC limit
+
+10
+4
+
+5
+
+Actual / projected def icit
+
+0
+2008
+
+2
+
+0
+2009
+
+2010
+
+2009
+
+Sources: Latvian authorities; and IMF staff estimates and projections.
+
+2010
+
+2011
+
+2012
+
+19
+Figure 9. Latvia: International Reserves and FX Market Developments, 2008-10
+Reserves remain at comf ortable levels...
+6
+
+400
+
+International reserves, end of month
+(Billions of euros)
+
+...and there has been almost no net FX
+intervention since f all 2009.
+FX sales (Millions of euros)
+
+300
+
+5
+Gross international
+reserves
+
+4
+
+200
+100
+0
+
+3
+
+-100
+2
+
+Net international reserves
+
+-200
+-300
+
+1
+
+Bank of Latvia
+-400
+0
+
+NIR floor
+
+-1
+Jan-09
+
+Apr-09
+
+Treasury
+Net intervention
+
+-500
+
+Jul-09
+
+Oct-09 Jan-10
+
+Apr-10
+
+-600
+Jan-09
+
+Apr-09
+
+Jul-09
+
+Oct-09 Jan-10
+
+The exchange rate has remained well within the band.
+0.72
+Spot exchange rate (Lats per euro)
+
+0.71
+
+0.709832 (central parity + 1 percent)
+
+0.70
+0.702804 (central parity)
+0.695776 (central parity - 1 percent)
+
+0.69
+Jan-08
+
+Jul-08
+
+Jan-09
+
+Sources: Bank of Latvia; and Bloomberg.
+
+Jul-09
+
+Jan-10
+
+Apr-10
+
+20
+Figure 10. Latvia: Banking Sector Developments, 2006-10
+
+Overdue loan growth may be slowing, with provisions
+rising.
+35
+
+Banks are making large losses.
+15
+
+Overdue loans (Percent of total loans)
+More than 180 days
+91 - 180 days
+31 - 90 days
+Less than 30 days
+Loan loss provisions
+
+3
+
+Return on assets and capital adequacy ratio
+(Percent)
+
+14
+
+2
+
+25
+
+13
+
+1
+
+20
+
+12
+
+0
+
+15
+
+11
+
+-1
+
+10
+
+10
+
+-2
+
+5
+
+9
+
+30
+
+Capital adequacy ratio
+
+-3
+
+Return on assets (RHS)
+8
+Q1 2006
+
+0
+Jan-09
+
+July
+
+Jan-10
+
+Deposits have recovered to pre-crisis levels.
+
+Q1 2007
+
+Q1 2008
+
+Q1 2009
+
+-4
+Q1 2010
+
+Real estate prices appear to have stabilized after a
+steep fall.
+
+2000
+
+10
+
+Real estate prices (Euro per square meter)
+
+Total deposits (Billions of lats)
+9.8
+
+1800
+
+9.6
+
+1600
+
+9.4
+
+1400
+
+9.2
+
+1200
+
+9
+
+1000
+
+8.8
+
+800
+
+8.6
+
+600
+
+8.4
+
+400
+
+8.2
+
+200
+
+8
+Oct-08
+
+Jan-09
+
+Apr-09
+
+Jul-09
+
+Oct-09
+
+Jan-10
+
+Apr-10
+
+0
+Jan-06
+
+Jan-07
+
+Jan-08
+
+Jan-09
+
+Sources: FCMC; Bank of Latvia; Latvian Central Statistical Bureau; and IMF staff calculations.
+
+Jan-10
+
+21
+Figure 11. Latvia: Bank Credit, 2006-10
+The rate of credit contraction may be leveling off.
+
+Banks are repaying liabilities to foreign lenders.
+100
+
+12
+Foreign liabilities of MFIs
+(Billions of lats)
+
+Credit growth
+(Percent, annualized 3mma)
+
+Short term
+10
+
+80
+
+Long term
+
+8
+
+60
+
+6
+
+40
+
+Household credit
+
+Privatesector credit
+4
+
+20
+
+2
+
+0
+
+0
+Jan-08
+
+Jul-08
+
+Jan-09
+
+Jul-09
+
+-20
+Jan-06
+
+Jan-10
+
+Foreign banks drove the boom as well as the recent
+contraction in credit.
+20
+
+Jan-07
+
+Jan-08
+
+Jan-09
+
+Jan-10
+
+Real estate remains a large part of balance sheets
+after the boom.
+20
+
+Contributions to lending growth by group of banks
+(Percent)
+
+Loans (Billions of lats)
+Other
+Consumer lending
+
+15
+
+Comm. real estate
+Other
+
+15
+
+Household mortgages
+
+Locally owned
+Other west European
+Swedish
+
+10
+
+10
+5
+
+5
+0
+
+0
+
+-5
+2006
+
+2007
+
+2008
+
+2009
+
+Q1 2010
+
+Sources: Latvian Authorities; and IMF staff calculations.
+
+2006Q1
+
+2007Q1
+
+2008Q1
+
+2009Q1
+
+2010Q1
+
+22
+Figure 12. Latvia: Interest Rates and Euroization, 2006-10
+
+16
+
+Deposit and lending rates in euros have f allen in line with Euribor. Lats interest rates
+have been more volatile but have declined recently.
+35
+
+Household deposit rates (Percent)
+14
+
+Lending rates to households and non-financial
+corporates (Percent)
+
+30
+Lats
+
+Lats
+
+12
+
+25
+
+Euros
+
+Euros
+
+10
+20
+8
+15
+6
+10
+
+4
+
+5
+
+2
+0
+Jan-06
+
+Jan-07
+
+Jan-08
+
+Jan-09
+
+Jan-10
+
+Lats in circulation have begun to grow.
+
+0
+Jan-06
+
+Jan-08
+
+Jan-09
+
+Jan-10
+
+Interest rates have f allen while banks' liquidity
+has risen dramatically.
+
+800
+
+1.0
+
+Jan-07
+
+Lats in circulation
+(Billions)
+700
+
+Excess bank deposits at BoL, 30 day
+moving average (Millions of lats)
+RIGIBOR overnight (Percent, RHS)
+
+40
+35
+
+600
+
+0.9
+
+45
+
+30
+500
+25
+400
+
+0.8
+
+20
+300
+15
+200
+
+0.7
+
+10
+
+100
+0.6
+Jan-09 Apr-09
+
+Jul-09 Oct-09 Jan-10 Apr-10
+
+Source: Bank of Latvia.
+
+0
+Jan-09 Apr-09 Jul-09
+
+5
+0
+Oct-09 Jan-10 Apr-10
+
+23
+II. POLICY DISCUSSIONS
+14.
+The authorities face two main challenges: converting the recent economic
+stabilization into sustained economic recovery, and ensuring euro adoption by 2014, the
+program’s exit strategy. Discussions focused on:
+
+
+restoring growth and reducing unemployment;
+
+
+
+completing the fiscal adjustment to meet the Maastricht criteria and replace program
+support with market financing;
+
+
+
+success of the authorities’ strategy of wage and price cuts and productivity boosting
+reforms in addressing the competitiveness gap;
+
+
+
+resolving the private sector debt overhang to stimulate credit growth and domestic
+demand;
+
+
+
+structural reforms to improve competitiveness and raise potential growth.
+A. Restoring Growth
+
+15.
+Staff projects the economy will start to grow in the second half of 2010, but
+much slower than before the crisis, with the output gap closed slowly (Table 2).
+Continued contributions from net exports plus positive public and private consumption
+growth are expected to lead to a pickup in quarter-on-quarter growth in the second half of
+2010. In the last two years, potential growth has slowed markedly and the sharp GDP
+contraction has created a sizable
+output gap. Assuming unemployment 10000 RealGDP (million lats)
+projections
+falls to around 15 percent by 2015, but 9000
+not through migration, and that
+8000
+investment and total factor
+7000
+productivity growth are somewhat
+below pre-boom rates, potential
+6000
+growth would rise to 3–4 percent
+5000
+(half the pre-crisis rate) by 2015, but
+4000
+only average around 1 percent
+over 2010–15. This slow growth,
+3000
+HP (low smoothing)
+typical following financial crises,
+Real GDP
+2000
+implies a substantial permanent output
+Production f unction (low smoothing)
+loss. Reducing unemployment further, 1000
+Production f unction (high smoothing)
+to around 10 percent, could raise
+0
+1996
+1999
+2002
+2005
+2008
+2011
+2014
+growth by an additional 2–3 percent.
+
+24
+16.
+Inflation should remain subdued. Near-term inflation is rising faster than expected
+due to energy and food prices (including regulated prices), and euro depreciation. Deflation
+is projected to end in 2011, but the persistent output gap and continued fiscal consolidation
+keeps wage and price inflation well below euro area levels through 2015.
+17.
+Over the medium-term, growth shifts back towards domestic demand. Some of
+the recent substantial contribution of net exports to growth reflects temporary factors such as
+collapsing import demand. External demand is forecast to be weak with further downside risk
+from developments in Western Europe. But with fiscal policy likely to be contractionary, at
+least until the Maastricht targets are reached, stronger domestic demand will depend on banks
+increasing lending, including by converting excess liquidity into new credit growth.
+18.
+The current account—in large surplus in 2009 after years of deficits—is
+expected to decline gradually but remain in surplus. Within the current account, a rising
+trade surplus compensates for weakening transfers and factor incomes, with potential for
+significant growth in transportation-related services exports, exploiting Latvia’s EU
+connections and transit links with CIS countries (which streamlined customs procedures
+could enhance). Current account surpluses will be balanced by continuing gradual outflows
+from financial sector deleveraging. FDI not associated with financial sector recapitalizations
+is projected to remain weak, but could outperform with improvements in competitiveness and
+the business environment.
+19.
+Internal and external debt are expected to stabilize at lower levels. Current
+account surpluses, equity recapitalizations, and deleveraging by banks will help external debt
+decline (Figure 14, Tables 7 and 8). Fiscal adjustment will reverse the recent sharp rise in
+public debt, and if some program financing is foregone, Latvia’s public debt could remain
+below the Maastricht threshold of 60 percent of GDP (Figure 15, Tables 4 and 5).
+B. Reducing Unemployment
+20.
+The recession has pushed unemployment above 20 percent (Figure 13). When the
+program was launched, flexible labor markets were expected to moderate wages and improve
+competitiveness. Instead, the private sector has adjusted more through job losses than wage
+cuts, in part because the boom had left the economy with structural imbalances. Since
+late 2007, more than 200,000 jobs have been lost, about one-fifth of total employment
+pre-crisis. Construction employment has halved, contributing roughly one third of all job
+losses with male and less skilled workers hurt most; the resulting skills mismatch (new jobs
+are more likely in the traded goods sector) will likely increase the natural unemployment
+rate. Youth unemployment has increased to 43 percent, and long-term unemployment to
+32 percent of all unemployed. Despite the recession in Europe, migration has also increased,
+with 1 percent of Latvia’s population leaving since the end of 2007 (and anecdotal reports of
+higher outflows), which will help address unemployment, but could also reduce skilled
+
+25
+workers in Latvia. Unless unemployment falls quickly, there is a risk that hysteresis effects
+could raise the natural rate and make higher unemployment permanent.
+21.
+The government has taken emergency measures to cushion the impact. First, it
+has introduced active labor market schemes. The Workplace with Stipend (WWS) program,
+supported by the World Bank and EC, has provided jobs for those not receiving
+unemployment benefits. Through mid-May, around 19,000 jobs had been created, 35,000
+people had participated, and 53,000 were on the waiting list. Around half who participated
+were at risk of social exclusion (long-term unemployed, young, or ex-convicts). The low
+stipend (L100 or €140 per month) should provide sufficient incentive to seek other
+employment as soon as the labor market recovers. That a stipend below the minimum wage
+(L180 per month) has attracted so many job-seekers suggests the minimum wage could be a
+constraint on employment (though the bunching of wages around the minimum may reflect
+increasing use of additional envelope payments). The Ministry of Welfare is also providing
+skills training to the unemployed: participants receive a lower stipend than in the WWS
+program (70 lats per month). Second, it has extended the duration and coverage of
+unemployment benefits, but these are relatively low (falling to €65 per month after a few
+months) and terminate after nine months.
+22.
+Given constraints to expansionary macroeconomic policy, unemployment
+reduction will depend on structural reforms, though Latvia’s deficiencies are hard to
+pinpoint. Some survey data suggest labor market rigidities are a problem, but this does not
+square with the reality of sizeable job cuts. World Economic Forum rankings suggest
+relatively flexible labor markets, as illustrated by wage setting policies (low unionization),
+high correlation between pay and productivity, and high female participation.
+23.
+
+Discussions focused on structural reforms to boost employment:
+
+
+
+Unemployment benefits seem too low to be the problem. Consistent with World Bank
+advice, the mission suggested extending benefits given the likelihood unemployment
+will persist.
+
+
+
+To lower the tax wedge and protect take-home pay, any minimum wage cuts could be
+combined with labor tax cuts for the low-paid (who face a tax wedge of almost
+40 percent).
+
+
+
+In the short run, increasing domestic demand could help reduce unemployment before
+hysteresis sets in. Debt restructuring and strengthening the financial system to boost
+credit could help here, and could also facilitate new capital investment in tradables.
+
+
+
+For the longer term, the authorities need to focus on improving educational
+performance, where Latvia lags. The share of students graduating from science
+
+26
+departments is among the lowest in the EU. In spite of high unemployment, finding
+skilled labor in certain sectors (manufacturing) remains difficult.
+30
+28
+
+Students enrolled in science and engineering
+(percent of total students)
+
+600
+
+550
+
+26
+24
+
+500
+
+22
+450
+
+20
+18
+
+400
+
+16
+Latvia
+
+14
+
+350
+
+Estonia
+
+12
+
+Lithuania
+EU15
+
+10
+2000
+
+2002
+
+300
+2004
+
+2006
+
+Source: Eurostat and OECD
+
+PISA Ranking of 15 year old students
+Reading
+
+Mathematics
+
+Science
+
+27
+Figure 13: Labor Market During Recession, 2002-09
+...in particular among construction
+workers.
+
+Recession caused a rapid increase in
+unemployment...
+25
+
+14
+
+Unemployment rate, men age 15-24
+
+Unemployment rate and GDP growth in Latvia,
+seasonally adjusted (Percent)
+20
+
+Unemployment rate, men with secondary
+education
+Employment in construction
+
+12
+
+15
+10
+10
+8
+5
+6
+0
+4
+
+Real GDP growth
+
+-5
+
+Unemployment rate (Labor Force
+Survey)
+Registered unemployment
+
+-10
+
+-15
+2002Q1
+
+2004Q1
+
+2006Q1
+
+2008Q1
+
+2
+
+0
+2002Q1
+
+Long-term unemployment increased, surpassing
+other Baltic countries...
+9
+
+2006Q1
+
+2008Q1
+
+..and involuntary part-time employment grew.
+7
+
+Long-term unemployment,
+seasonally adjusted (Percent)
+8
+
+2004Q1
+
+Part-time employment, seasonally adjusted (Percent
+of working age population)
+
+6
+Other reasons
+
+7
+
+Involuntary
+5
+
+6
+4
+
+5
+4
+
+3
+
+3
+2
+Latvia
+Estonia
+Lithuania
+EU15
+
+2
+1
+0
+2002Q1
+
+2004Q1
+
+1
+
+2006Q1
+
+2008Q1
+
+0
+2002Q1
+
+Sources: Latvian authorities; Eurostat; and IMF staff calculations.
+
+2004Q1
+
+2006Q1
+
+2008Q1
+
+28
+C. Completing the Fiscal Adjustment
+24.
+Without fiscal measures, the deep recession would have raised Latvia’s budget
+deficit to unsustainably high levels. Lower tax revenues (especially corporate and indirect
+taxes), the denominator effect of huge falls in GDP on government expenditure ratios, higher
+spending on interest payments, and unemployment benefits and pensions would have
+increased the deficit to over 20 percent of GDP.
+25.
+To preserve debt sustainability, the authorities have taken around 13 percent of
+GDP in fiscal tightening measures during the program. Expenditure cuts have dominated
+the adjustment. The wage bill was cut by 4 percent of GDP (an average 30 percent wage cut
+for central government employees, though some workers such as teachers suffered more);
+pensions were initially cut by 10 percent (70 percent for working pensioners), though this
+was later reversed by the Constitutional Court; and investment was cut by 3 percent of GDP.
+Higher taxes raised around 2 percent of GDP. The personal income tax was increased by
+3 percentage points to 26 percent (reversing a 2 percent cut early in 2009); the tax-free
+personal income tax allowance was cut from L90 (€125) to L35 (€50) per month; VAT was
+increased from 18 to 21 percent, and the reduced rate increased from 5 to 10 percent.
+26.
+The scale of fiscal adjustment achieved in such a limited time is impressive, but
+designing quality measures proved challenging given the need for quick action. The
+government’s pension cut was ruled unconstitutional for violating pensioners’ legitimate
+expectations. The 70 percent cut for working pensioners was high, violated the principle of
+the notional defined contribution system, and some working pensioners lacked time to
+de-register from working to avoid the cut. Legislation governing the new withholding tax and
+taxes on the private use of company cars was unclear, implementation inconsistent, and
+revenue yields of company car taxation were one-fifth of expectations. In part because of the
+difficulty of reaching consensus across ministries run by different coalition partners, together
+with the Ministry of Finance’s (MoF) weak central authority, there has been excessive
+reliance on across-the-board cuts rather than removing unnecessary functions to find savings.
+Despite the later introduction of a wage grid, public sector pay cuts were uneven, with central
+government staff and teachers bearing the greatest burden, while local governments and
+especially state owned enterprises have reduced wages much less. Cuts in personal income
+tax allowances were highly regressive, pushing the adjustment burden largely onto the poor
+(when Latvia already has the highest inequality, as measured by the Gini coefficient, in the
+EU). Some of the cuts in investment and maintenance may not be sustainable and could
+increase future costs. Instead, structural spending reforms (and perhaps progressive income
+taxes) would have been preferable, but the authorities’ approach has yielded substantial
+savings in a short time, and held up better than expected.
+
+29
+40
+
+GINI Coefficient for EU 27 countries
+
+35
+30
+25
+20
+15
+10
+5
+
+SI
+SK
+SE
+CZ
+DK
+HU
+AT
+FI
+MT
+BE
+FR
+CY
+LU
+NL
+DE
+IE
+EE
+ES
+IT
+PL
+GR
+LT
+GB
+BG
+PT
+RO
+LATVIA
+
+0
+Source: Eurostat
+
+27.
+To meet the Maastricht deficit criteria by 2012, staff estimates a further
+6 percent of GDP in adjustment remains necessary:
+
+
+On unchanged policies, the deficit should increase to around 8½ percent of GDP
+in 2011 and 2012, with a further 6 percent of GDP in measures required to achieve
+the Maastricht target. The authorities argued for slightly lower adjustment pointing to
+strengthening revenue. Staff noted that higher unemployment and artificially low
+investment and maintenance outlays could increase spending risks.
+
+
+
+While continued adjustment might worsen the recession, delaying it would increase
+government debt (which private markets have been unwilling to finance), making the
+Maastricht criteria even harder to fulfill and undermining the euro adoption strategy.
+
+28.
+International experience suggests expenditure cuts, particularly current
+spending, generate more sustainable adjustment. Latvia’s deficit reflects higher spending,
+which since the early 2000s had increased by 13 percent of GDP (8 percent excluding EU
+funds-related spending). Much of this reflects constant nominal spending and declining GDP;
+but since there will likely be a permanent output loss, expenditure needs to adjust. The
+largest increase came in subsidies and transfers, which now comprise more than half of
+general government spending, especially pension costs which more than doubled
+between 2005 and 2010, when nominal GDP increased by only one-third.
+29.
+Though the authorities prefer to adjust entirely through expenditure cuts, they
+prepared a medium-term tax strategy which could also raise revenue. The strategy
+foresees abolishing reduced VAT rates, increasing residential real estate tax, and lowering
+the labor tax wedge when and if affordable. While the initial draft strategy was ambitious,
+subsequent revisions include restrictions that could curb its effectiveness (such as limiting the
+tax-to-GDP ratio to 30 percent, or ruling out increases in PIT, VAT and CIT rates). The
+
+30
+proposal for a single rate VAT would reflect best practice, but this year’s decision to cut
+hotel VAT is at odds with the strategy.
+30.
+Staff encouraged the authorities to develop structural fiscal reforms to ensure
+sustained adjustment. The MoF’s powers need strengthening to enforce fiscal discipline.
+Currently, the Cabinet of Ministers or groups of parliamentarians can propose tax cuts or
+spending increases without the finance minister’s consent, even if these increase the deficit.
+Latvia’s history of short-lived coalition governments makes this common. During the budget
+such amendments have to be deficit-neutral, but outside the budget there is no restriction,
+undermining the purpose of the annual budget and making it hard to ensure fiscal targets are
+met.
+31.
+The authorities largely agreed, but claimed that giving the finance minister veto
+rights on tax or spending proposals would require constitutional amendment. Staff
+recommended alternatives such as requiring appropriations increases, even outside the
+budget consideration period, be accompanied by offsets. Staff also recommended that all tax
+policy measures be assessed and approved by the MoF before submission to the cabinet. The
+authorities claimed that such a provision already existed, but staff noted this has not
+prevented tax measures from reaching the cabinet without proper evaluation.
+32.
+The authorities intend to include a fiscal rule in their planned Fiscal
+Responsibility Law to guide policy once the Maastricht criteria have been reached. One
+of the authorities’ proposals—balance the budget when growth equals potential and
+automatically allow deficits (require surpluses) when growth is lower (higher)—would likely
+achieve the goals of counter-cyclical and sustainable fiscal policies. The mission reiterated
+that, unless the finance minister’s powers were enhanced, or the rule made binding with
+higher status than other laws, this reform would have little impact. Especially as in Latvia,
+new laws supersede old, so there is a risk that new budget legislation would override a Fiscal
+Responsibility Law, although this would still impose a reputational cost.
+33.
+Fiscal control of state-owned enterprises needs to be improved. Latvia has many
+state-owned enterprises (SOE), controlled by various line ministries (run by different
+coalition parties) with limited MoF oversight. This hampers fiscal transparency and
+subjects the government to contingent risks. Many are not really enterprises, but should be
+considered government agencies or part of central government (e.g., the SOE responsible for
+roads). The mission advised the government to prepare a complete list of SOEs, including
+essential information on profits, subsidies, wages, employment, and dividend payments.
+Strategic analysis should then determine which SOEs could be brought back into the budget,
+and which could be considered for privatization. The Ministry of Economy (MoE) had
+already established a working group covering these issues.
+34.
+Tax laws need to be drafted more clearly and their application made more
+transparent. The mission recommended that the State Revenue Service publish tax rulings
+
+31
+promptly to reduce taxpayers’ uncertainties, publish answers to tax questions, and establish a
+provision for advance decisions on tax queries.
+D. Improving Competitiveness Through Internal Devaluation
+35.
+Latvia is pursuing an internal devaluation strategy to address competitiveness
+concerns. From 2005 to their peak in early 2009, the CPI- and PPI-based real effective
+exchange rates appreciated roughly 30 percent, while the ULC measure increased 50 percent.
+Starting in 2000, the appreciation is around 10 percentage points less, though still significant.
+These indicators plus large current account deficits pointed to substantial exchange rate
+overvaluation before the crisis. With considerable progress under the program—the current
+account has moved into surplus and real exchange rates have depreciated—it is appropriate
+to reassess competitiveness.
+36.
+Staff’s application of the CGER methodology yields a wide range of assessments
+of the competitiveness gap. The equilibrium real exchange rate (ERER) approach still
+points to a large competitiveness gap, with the main determinants productivity (which has
+deteriorated) and the amount of government consumption. The macro-balance (MB) and
+external sustainability (ES) approaches indicate slight undervaluation but results are highly
+sensitive to estimates of the output gap and other temporary factors used to construct the
+underlying current account. Other plausible assumptions for the output gap and underlying
+current account position would point to a remaining competitiveness gap.
+37.
+The BoL argued strongly against any suggestion of exchange rate overvaluation.
+Its interpretation of CGER methods even indicated slight undervaluation. For the ERER
+approach, choice of a shorter sample length yielded an overvaluation of only about
+10 percent. To correct for the exclusion of Latvia in the derivation of the original ERER
+coefficients, BoL staff also estimated a country-specific model. However, the results
+depended in part on Latvia having become relatively more closed since joining the EU, and a
+shorter data sample was used compared to staff estimates. For the MB and ES methods, the
+BoL’s preferred approaches to calculating the underlying current account deficit and on the
+output gap and crisis effects yielded large undervaluation.
+38.
+
+More qualitative indicators also present a mixed competitiveness assessment:
+
+
+
+Before the crisis a sizeable competitiveness gap had emerged. From the beginning
+of 2005 through end-2008, wages and prices increased roughly 120 and 40 percent,
+well above Estonia and Lithuania (Figure 6), and much higher than Germany, one of
+Latvia’s major trading partners and a key country for the euro, to which Latvia is
+pegged. Unit labor costs increased 93 percent, compared with around 50 percent in
+Lithuania and Estonia.
+
+
+
+Competitiveness indicators have since improved considerably. After peaking in
+early 2009 consumer and producer price-based real effective exchange rates have
+depreciated 10 percent. This may even understate the true improvement, since part of
+
+32
+the CPI increase comes from higher VAT, which exporters do not pay. Recent
+weakening of the euro—the nominal effective exchange rate has depreciated
+5 percent so far this year—has provided a further boost to competitiveness, as
+evidenced by stronger export growth to non-euro zone countries. And while consumer
+prices have increased in recent months, price pressures are concentrated in tradable
+sectors, with nontradable prices expected to decline further, suggesting that
+competitiveness is likely to continue improving.
+
+
+Unit labor cost real effective exchange rates have depreciated around 10 percent.
+The BoL argues that improvements in marginal unit labor costs are even greater,
+since unemployed workers will accept wages well below the average. But these
+workers may also have below average productivity and need retraining.
+
+
+
+The economy is rebalancing towards tradables. Market shares are improving and
+exports have increased strongly. Although Latvia’s share of EU trade fell in 2009, the
+BoL’s constant market share analysis suggests this reflected greater than average falls
+in partner-country demand and in demand for the types of exports Latvia produces;
+correcting for these, competitiveness improved.
+
+39.
+In staff’s view, even though there has been substantial improvement, there is still
+evidence of a small competitiveness gap of around 10 percent (based on end-2009 data).
+EC staff, acknowledging the very large uncertainty underlying misalignment estimates, shared
+the broad conclusion that a moderate competitiveness gap might still exist while noting that
+ongoing trends would reduce it further. While it is hard to draw definitive conclusions from
+CGER estimates, simpler approaches suggest that Latvia’s price level still seems high,
+including for its level of per capita GDP. Also, in staff’s view the 15 percent natural rate of
+unemployment implicit in the BoL’s calculations is undesirably high; reducing it will require
+further competitiveness improvements to expand and redirect output towards tradables. That
+said, staff accept that the profound structural changes in the Latvian economy render any
+numerical assessment of competitiveness especially uncertain. Arguably more important,
+there was clear evidence that competitiveness has improved considerably, and that further
+wage and price adjustment, together with structural reforms, have the potential to close the
+remaining competitiveness gap. The authorities’ commitment to their strategy to rebuild
+competitiveness is consistent with its quasi-currency board regime and supportive of
+achieving domestic and external stability. The recent record of rising exports, sustained
+current account surpluses, and reserve inflows have all improved confidence in this strategy
+and in the exchange rate peg.
+E. Financial Stability
+40.
+Rapid expansion of Latvia’s financial sector during the boom and reliance on
+wholesale external funding increased vulnerabilities. Commercial bank assets increased
+dramatically from 2001 to 2007, fuelled by sharp growth in banks’ foreign liabilities which
+
+33
+increased to 86 percent of GDP, accounting for nearly 60 percent of total liabilities. This
+exposed the financial sector to international shocks and funding pressures. Nordic banks led
+the lending boom, and supervisors were either unwilling or unable to coordinate and address
+the risks of too rapid credit growth. To compete, domestic banks relied heavily on short-term
+syndicated borrowing and non-resident deposits, which exposed them to confidence shocks.
+The run on Parex Bank in late 2008 and the government’s massive liquidity support and
+recapitalization illustrated Latvia’s vulnerabilities. Banking sector related fiscal costs could
+have been even larger but for recapitalizations of foreign subsidiaries by parent banks.
+41.
+The authorities have responded by introducing safeguards to minimize future
+financial system vulnerabilities (Box 2). Staff encouraged the FCMC to enforce these
+regulations and to continue active participation in EU discussions on the regulatory
+framework, liquidity, and capital requirements. Many of the qualitative aspects of the
+forthcoming liquidity risk management standards have already been put in place, but the
+authorities recognize the importance of banks’ securing stable funding over a range of
+maturities. The authorities support efforts to strengthen bank capital, but expressed concerns
+about potential changes that would increase volatility in banks’ own funds and erode quality
+and consistency of their capital bases. Since a leverage ratio is unlikely to be an effective
+counter-cyclical tool for Latvian banks, the authorities support the need to introduce
+counter-cyclical regulatory measures but are somewhat skeptical on a number of proposed
+buffers and their interoperability. While money laundering and terrorist financing
+vulnerabilities related to due diligence on non-resident customers and fit and proper
+requirements exist, the authorities appear committed to addressing them, as illustrated by the
+recent decision to intervene a bank and withdraw its license because its shareholders were not
+deemed fit and proper.
+
+34
+
+Box 2: Regulatory Steps Strengthening The Financial Sector
+Strengthened bank resolution framework: A bank resolution strategy was developed in
+August 2009 with assistance from the World Bank, and internal FCMC guidelines were introduced
+which specify prompt remedial action for troubled banks before regulatory thresholds are breached.
+At the same time, amendments to the Law on Credit Institutions and the FCMC Law in
+February 2009 significantly strengthened the FCMC’s ability to intervene troubled banks. Finally, the
+Law on Bank Takeovers—which came into effect in December 2008—sets out the framework that
+permits the government to take over banks if necessary.
+Emergency Liquidity Assistance: The BoL issued regulations in January 2009 to strengthen
+institutional arrangements for emergency liquidity support.
+The Deposit Guarantee Fund’s institutional framework and legal basis were strengthened to
+enhance the credibility of the guarantee while allowing the FCMC to increase insurance premiums
+after a payout to replenish the fund’s resources. The DGF also was transformed into an autonomous
+unit with dedicated staff.
+Credit and liquidity risk: In March 2009, the FCMC introduced revised regulations on asset
+classification and provisioning and issued new Pillar 2 Basel II regulations on the Capital Adequacy
+Assessment Process. Liquidity risk management and credit risk management regulations were revised
+in December 2009. The amended regulations on liquidity risk account for developments in
+international best practice, inter alia, by putting more emphasis on the management of funding risks
+arising from reliance on short-term wholesale funding and by specifying stress testing requirements
+and the criteria for determining the size of liquidity buffers. The regulations on credit risk clarify the
+methodology for determining acceptable credit risk levels and the requirements for managing
+concentration risk, stress testing, and contingency plans. A recent FCMC circular clarifies the
+prudential treatment of special entities set up by banks to manage seized property or other problem
+assets.
+Financial sector supervision has been strengthened by stronger cooperation between the BoL and
+the FCMC and reporting requirements have been improved by increasing the frequency and quality of
+reporting on restructured loans to enhance assessments of asset quality. At the same time, improved
+cooperation between the BoL and the FCMC—in particular in the area of stress testing—has
+strengthened the authorities’ understanding of macrofinancial risks and linkages.
+Cross-border cooperation with parent banks’ supervisors intensified through participation in
+supervisory colleges. Six group-specific Memoranda of Understanding on information exchange have
+been signed with home supervisors and one is in the pipeline. The Nordic-Baltic Agreement on
+cooperation on cross-border financial stability, crisis management and resolution was signed in
+late 2009. Amendments to the Law on Credit Institutions that were drafted to transpose provisions of
+the Capital Requirements Directive II and sent to banks for comments in May 2010 will further
+enhance home-host cooperation.
+
+35
+F. Debt Restructuring
+42.
+Unwinding of the credit boom has increased debt distress. NPLs—loans more
+than 90 days overdue—exceeded 18 percent of total loans in April, and are spreading from
+mortgages and real estate to more sectors. Although new overdue loans appear to be
+declining due to the improving economic environment and continued low euro interest rates,
+the stock of NPLs will likely remain high for several years in part because bankruptcy
+proceedings in Latvia average 3 years relative to 1.7 years in the OECD (World Bank Doing
+Business 2010).
+43.
+Latvia’s large debt stock could hinder growth. The debt overhang may constrain
+credit availability as banks increase loan-loss provisions, lose interest income, and tighten
+lending standards. The decline in asset prices reduces private consumption for households,
+and reduces collateral and hurts investment for corporates. This could cause a debt-deflation
+spiral.
+44.
+The authorities are attempting market-based approaches to debt restructuring.
+Drawing on World Bank and Fund assistance, the authorities have introduced guidelines for
+out-of-court restructuring and are improving the corporate and personal insolvency regimes.
+Eighteen percent of loans were reported as restructured in April 2010, more than double the
+amount at end-2008, while the amount of loans where banks are taking credit enforcement
+action, including foreclosing on collateral, invoking guarantees, and initiating insolvency
+proceedings has almost trebled. The full benefits of the reforms to the insolvency framework
+will only become evident once market participants and the legal system become familiar with
+the new framework. However, anecdotal evidence suggests voluntary restructurings
+generally do not reduce the net present value of outstanding debt, so there is a risk debt
+distress may recur. Conversely, legal protection (rehabilitation) and insolvency proceedings
+usually lead to a very high haircut for unsecured creditors who may then suffer financial
+distress.
+45.
+Staff argued further tax and legal changes would improve incentives for
+write-downs and reduce bankruptcy and foreclosure costs, thereby increasing recovery
+rates:
+
+
+Foreclosure auctions are currently cash-only, which limits the number of bidders,
+depresses real estate prices, and contributes to the gray economy. Allowing buyers to
+pledge purchased assets for a loan could increase bids and asset prices.
+
+
+
+Costs of foreclosures and bankruptcy proceedings are relatively high in Latvia—
+13 percent of insolvent estates compared to an 8 percent OECD average—due to
+lengthy court procedures and high fees for insolvency practitioners. Proposals to link
+administrators’ remuneration to recoveries (rather than hourly fees) should lower
+these costs, but may not go far enough.
+
+36
+
+
+The tax system discourages debt restructuring. Debt write-downs can increase banks’
+tax liabilities, since loan-loss provisions are tax deductible but write-offs are not,
+unless all legal means to recover the debt have been exhausted. The debtor’s gain is
+also taxable and rules for applying the tax are unclear. In addition, the 2 percent
+stamp duty creates an additional loss when real estate collateral is sold. Making losses
+deductible for banks, suspending temporarily personal income tax liability for
+write-offs, and eliminating stamp duty once fiscal space allows, could help promote
+debt restructuring and reduce the stock of NPLs. It would be important to avoid
+creating loopholes that would allow tax evasion.
+
+
+
+If these obstacles can be addressed, prospects for market-based restructuring in Latvia
+are good given the absence of debt securitization, the prevalence of single creditor
+structures, and relatively long maturities on most loans.
+G. Structural Reform
+
+46.
+Structural reforms are needed to restore growth and competitiveness. While the
+boom obscured the importance of productivity-enhancing measures, the recession increases
+their urgency, especially given the authorities’ strategy of fiscal consolidation and
+maintaining the peg.
+47.
+Business environment surveys suggest Latvia lags other Baltic and EU 27
+countries in some respects. However, the mixed results do not suggest obvious solutions:
+
+
+The World Economic Forum’s 2009–10 Global Competitiveness Report ranks Latvia
+68 out of 133 countries, well behind Estonia (35) and Lithuania (53), and 25th out of
+the EU 27. Latvia scores poorly on business sophistication and innovation. The labor
+market is partly efficient: wage-setting is among the most flexible in the world, but
+rigidity of employment scores poorly. Few businesses cited restrictive labor
+regulations as an obstacle to doing business, but did point to inefficient government
+bureaucracy.
+
+
+
+Latvia ranks well below Estonia, and slightly below Lithuania, in Transparency
+International’s 2009 Corruption Perceptions Index. Businesses frequently noted
+corruption, in particular links between business and politics, and politics and the
+judiciary, as a key obstacle to doing business.
+
+
+
+The MoE’s 2009 business survey cited tax rates most as an obstacle to doing
+business. Though this may reflect concerns about tax competition with neighbors,
+Latvia’s taxes are low by EU standards, and businesses had the same view during the
+low-tax boom years. There are widespread complaints of tax evasion (envelope wages
+are common), that this undermines trust in government and peoples’ tolerance of
+higher tax rates.
+
+37
+Global Competitiveness Index, EU Countries
+(2009-10 rankings, of 134 countries)
+80
+
+80
+
+70
+
+70
+
+60
+
+60
+
+50
+
+50
+
+40
+
+40
+
+30
+
+30
+
+20
+
+20
+
+10
+
+10
+
+0
+
+0
+
+Source: World Economic Forum.
+
+Corruption Perceptions Index, 2009
+(2009 Index Score, higher score indicates less corruption)
+10
+
+10
+
+8
+
+8
+
+6
+
+6
+
+4
+
+4
+
+2
+
+2
+
+0
+
+0
+
+Source: Transparency International.
+
+48.
+Stakeholder meetings also highlighted an unpredictable environment and
+governance shortcomings. Businesses argued for a more stable policy environment
+especially on taxes (but which have had to increase because of the crisis), but also noted
+difficulties in obtaining tax rulings. Business leaders and especially foreign investors pointed
+to governance problems, including protection of investor rights and need for extra payments
+when bidding for government contracts.
+49.
+The authorities saw the remaining business environment challenges as relatively
+limited. The MoE’s action plan seeks to simplify business start-up procedures and tax
+administration, promote e-government and create a one-stop agency for public services, and
+support microenterprises, including through simpler taxes. The government is also
+
+38
+developing a strategy to reduce the gray economy. While the action plan argued for applying
+reduced VAT rates to key industries, this conflicts with the MoF’s strategy of abolishing
+reduced VAT rates.
+III. STAFF APPRAISAL
+50.
+Latvia’s economy is showing signs of bottoming out. After substantial volatility
+and deep recession in 2009, market conditions have normalized. For 2010 a much smaller
+contraction is forecast, followed by sustained growth, although much slower than before the
+crisis, including because of substantial private sector indebtedness. Net exports have
+cushioned the dramatic decline in domestic demand, and the sharp current account
+improvement has strengthened international reserves and will reduce high external debt
+levels. While sizeable fiscal adjustment has slowed growth, the authorities have made
+progress toward a sustainable deficit level and the Maastricht criteria. Sharp wage
+adjustments and deflation have improved competitiveness, with a further benefit from recent
+euro depreciation.
+51.
+Policy efforts have supported stabilization. After initial missteps that heightened
+doubts about Latvia’s ability to implement its difficult competitiveness strategy and maintain
+the peg, strengthened program implementation, especially through a supplemental 2009
+budget and the 2010 budget, helped enhance confidence, including for depositors, and
+stabilize international reserves—a key program objective. These budgets helped counteract
+massive fiscal deterioration due to the effect of the crisis on GDP and revenue. While
+better-than-expected fiscal outcomes were achieved, a more deliberate approach, backed by
+structural reforms and less reliant on across-the-board cuts might have made for a more
+sustainable fiscal adjustment.
+52.
+Immediate risks are much lower than last year, but medium-term challenges
+remain en route to euro adoption. These include: boosting growth and reducing a very high
+level of unemployment; undertaking substantial and durable further fiscal adjustment;
+improving competitiveness; and structural reforms to support growth, employment, and
+competitiveness. Structural reforms and a strong fiscal stance are essential given the lack of
+alternative policy instruments under the fixed exchange rate, and to safeguard long-term
+flexibility and competitiveness once Latvia joins the euro area.
+53.
+The authorities need more creative approaches to reduce unemployment.
+Although labor markets appear flexible, and an emergency public works scheme has been
+quite successful, the needed structural shift away from construction and toward export
+industries will create skill mismatches, on top of potential de-skilling of the long-term
+unemployed. Sustained high unemployment is a clear risk. A smaller labor force would limit
+potential growth and reduce the tax base, while high long-term unemployment could increase
+social spending. With fiscal space limited, the authorities should, in addition to broader
+growth-oriented reforms, lower the tax wedge on labor and undertake educational reforms.
+
+39
+54.
+The authorities should focus on durable spending cuts, but revenue measures
+may also be required. With approximately 6 percent of GDP in further savings needed, staff
+encouraged early identification of high-quality measures, particularly on the expenditure
+side, given steep spending increases during the boom years and international experience on
+sustaining fiscal adjustment. Staff noted large past increases in pensions as well as subsidies
+and transfers, and welcomed efforts to reexamine the budget for additional savings. Given
+the scale of adjustment required, staff also encouraged preparation of tax measures and
+welcomed the authorities’ medium-term tax strategy of reducing VAT exemptions and
+increasing real estate taxation. This could raise revenue, improve collection efficiency, and
+reduce evasion.
+55.
+Staff encouraged broader consideration of fiscal issues and structural reforms to
+improve budgeting practices. Staff encouraged the authorities to consider whether Latvia
+wishes to be a relatively low-tax state, or a state that provides more generous benefits—a
+tradeoff made clear once the crisis undercut cyclically strong revenues. To improve fiscal
+policy formulation and implementation, staff recommended strengthening the MoF’s
+authority over the budget process, consideration of a fiscal rule to anchor policies after the
+Maastricht criterion is reached, rationalization of state-owned enterprises, and better and
+clearer tax administration to improve efficiency and compliance.
+56.
+The internal devaluation strategy has yielded substantial competitiveness
+improvements and enhanced confidence in the peg. While a precise assessment of the real
+exchange rate is difficult in the current circumstances, significant adjustment has already
+taken place to reduce over-valuation before the crisis. Rising exports, the large swing in the
+current account, and reserve inflows have increased confidence in the exchange rate peg and
+the internal devaluation strategy. Staff believe a modest competitiveness gap remains, but
+that the authorities can close this through further wage and price declines, and structural
+reforms.
+57.
+Staff welcomed efforts to strengthen regulation and supervision to improve
+financial stability, including reducing reliance on wholesale external funding. Steps to
+bring regulation and supervision in line with evolving international best practice and
+strengthen bank resolution procedures, emergency liquidity support, and management of
+credit and liquidity risk address key needs. Staff stressed ensuring compliance with
+regulations, adequate staffing and resources for the FCMC, and greater attention to maturity
+profiles and liquidity risks.
+58.
+Further steps are needed to facilitate private debt restructuring. These include
+making it easier to purchase assets at auctions, lowering costs of insolvency proceedings,
+speeding up insolvency and foreclosure procedures, and removing tax impediments
+discouraging banks from writing off bad loans or restructuring them.
+
+40
+59.
+With monetary and fiscal policy constrained by the fixed exchange rate and the
+need to reduce the deficit, growth depends on structural reform. Staff welcomed the
+authorities’ efforts to make government more efficient and to reduce the gray economy, but
+argued against using preferential VAT rates to stimulate sectors. Staff urged stronger
+procurement rules and action to address governance concerns.
+60.
+While economic and financial conditions are much improved, risks remain
+significant. Sizeable fiscal adjustment is still needed, but approaching elections have already
+led to expansionary measures. The new government will need to make a clear commitment to
+the strategy of enhancing competitiveness and fiscal adjustment, for it to succeed. High
+unemployment seems hard to address, and may necessitate increased social spending. Bad
+loans could inhibit lending and slow growth. And while substantial progress has been made
+so far to restore competitiveness, structural reforms are needed to enhance productivity given
+the fixed exchange rate constraint and the lack of fiscal space. Any delays in euro adoption
+would prolong exchange rate risk, while developments in Western Europe could create a less
+favorable external environment.
+61.
+It is expected that the next Article IV consultation with Latvia will be conducted
+in accordance with the decision on the consultation cycles for program countries.
+
+41
+Figure 14. Latvia: Public Debt Sustainability: Bound Tests 1/
+(Staff projections; Public debt in percent of GDP)
+Interest rate shock (in percent)
+
+Baseline and historical scenarios
+140
+
+140
+
+120
+
+120
+
+100
+
+100
+
+80
+
+80
+
+Baseline:
+
+4.4
+
+Scenario:
+
+8.1
+
+Historical:
+
+-1.2
+
+i-rate shock
+
+60
+
+60
+
+Baseline
+
+50
+
+41
+40
+
+40
+
+Baseline
+
+36
+
+Historical
+
+41
+
+20
+
+20
+0
+2005
+
+2007
+
+2009
+
+2011
+
+2013
+
+2015
+
+0
+2005
+
+140
+
+140
+
+120
+
+120
+
+Baseline:
+
+3.8
+
+Scenario:
+
+-0.8
+
+Historical:
+
+80
+
+Baseline
+
+2009
+
+2011
+
+2013
+
+41
+
+2015
+
+-1.4
+
+46
+
+40
+
+0
+2005
+
+140
+
+120
+
+120
+
+41
+PB shock
+
+2007
+
+100
+
+Combined
+shock
+
+2009
+
+2011
+
+Baseline
+
+contingent
+liabilities
+shock
+
+80
+53
+
+60
+40
+
+Historical:
+
+60
+
+140
+
+80
+
+0.3
+-0.7
+
+Baseline
+
+2013
+
+2015
+
+Real depreciation and contingent liabilities shocks 3/
+
+Combined shock 2/
+
+100
+
+Baseline:
+Scenario:
+
+75
+
+20
+
+2007
+
+2015
+
+80
+
+20
+0
+2005
+
+2013
+
+No policy change
+
+79
+
+40
+
+2011
+
+100
+
+4.8
+
+Growth
+shock
+
+60
+
+2009
+
+Primary balance shock (in percent of GDP) and
+no policy change scenario (constant primary balance)
+
+Growth shock (percent per year)
+
+100
+
+2007
+
+41
+
+20
+
+30 %
+depreciation
+
+56
+
+60
+
+51
+
+40
+
+41
+
+Baseline
+20
+
+0
+2005
+
+2007
+
+2009
+
+2011
+
+2013
+
+2015
+
+0
+2005
+
+2007
+
+2009
+
+2011
+
+2013
+
+2015
+
+Sources: International Monetary Fund, country desk data, and staf f estimates.
+1/ Shaded areas represent actual data. Individual shocks are permanent one-half standard deviation shocks. Figures in the boxes
+represent average projections f or the respective variables in the baseline and scenario being presented. Ten-year historical average f or
+the variable is also shown.
+2/ Permanent 1/4 standard deviation shocks applied to real interest rate, growth rate, and primary balance.
+3/ One-time real depreciation of 30 percent and 10 percent of GDP shock to contingent liabilities occur in 2010, with real depreciation
+def ined as nominal depreciation (measured by percentage f all in dollar value of local currency) minus domestic inf lation (based on GDP
+def lator).
+
+42
+Figure 15. Latvia: External Debt Sustainability: Bound Tests 1/
+(External debt in percent of GDP)
+Interest rate shock (in percent)
+
+Baseline and historical scenarios
+190
+
+Gross f inancing need under
+baseline (right scale)
+
+140
+
+170
+
+120
+Historical
+
+150
+
+122
+
+130
+Baseline
+
+100
+
+i-rate shock
+
+170
+150
+130
+
+114
+
+Baseline
+
+80
+110
+
+110
+107
+
+90
+
+60
+40
+
+70
+50
+2005
+
+190
+
+2007
+
+2009
+
+2011
+
+20
+2015
+
+2013
+
+107
+
+90
+70
+50
+2005
+
+2007
+
+2009
+
+Baseline:
+
+3.9
+
+Scenario:
+
+4.9
+
+Historical:
+
+3.8
+
+2011
+
+2013
+
+2015
+
+Non-interest current account shock
+(in percent of GDP)
+
+Growth shock (in percent per year)
+190
+
+190
+Growth
+shock
+
+170
+
+CA shock
+
+170
+143
+
+150
+
+150
+127
+
+Baseline
+
+130
+
+130
+
+107
+
+Baseline
+107
+
+110
+
+110
+90
+70
+
+Baseline:
+
+3.8
+
+Scenario:
+
+-0.8
+
+2007
+
+2009
+
+2011
+
+70
+
+4.8
+
+Historical:
+
+50
+2005
+
+90
+
+2013
+
+2015
+
+50
+2005
+
+Combined shock 2/
+
+2007
+
+2009
+
+Baseline:
+
+12.5
+
+Scenario:
+
+8.5
+
+Historical:
+
+-7.4
+
+2011
+
+2013
+
+2015
+
+Real depreciation shock 3/
+
+250
+
+250
+
+230
+
+230
+210
+
+210
+
+Combined
+shock
+
+190
+
+30 %
+
+190
+
+depreciation
+
+147
+
+170
+
+170
+138
+
+150
+130
+
+150
+130
+
+Baseline
+
+110
+
+110
+
+107
+
+90
+
+90
+
+70
+
+70
+
+50
+2005
+
+2007
+
+2009
+
+2011
+
+2013
+
+107
+
+Baseline
+
+2015
+
+50
+2005
+
+2007
+
+2009
+
+2011
+
+2013
+
+2015
+
+Sources: International Monetary Fund, Country desk data, and staff estimates.
+1/ Shaded areas represent actual data. Individual shocks are permanent one-half standard deviation shocks. Figures in
+the boxes represent average projections for the respective variables in the baseline and scenario being presented. Tenyear historical average for the variable is also shown.
+2/ Permanent 1/4 standard deviation shocks applied to real interest rate, growth rate, and current account balance.
+3/ One-time real depreciation of 30 percent occurs in 2010.
+
+43
+Table 1. Latvia: Selected Economic Indicators, 2007–10
+2007
+
+2008
+
+2009
+Second Rev.
+
+National accounts
+Real GDP
+Private consumption
+Public consumption
+Gross fixed investment
+Stockbuilding (contribution to growth)
+Exports of goods and services
+Imports of goods and services
+
+2010
+Actual
+
+Second Rev.
+
+Proj.
+
+(percentage change, unless otherwise indicated)
+-4.6
+-18.0
+-18.0
+-5.5
+-22.0
+-22.4
+1.5
+-9.0
+-9.2
+-15.6
+-34.0
+-37.7
+-3.7
+-3.5
+-3.1
+-1.3
+-17.5
+-13.9
+-13.6
+-35.0
+-34.2
+
+-4.0
+-10.0
+-9.0
+-10.0
+1.5
+1.5
+-9.9
+
+-3.5
+-9.0
+-10.0
+-10.0
+1.5
+5.0
+-6.2
+
+14.8
+21.0
+9,209
+
+16.3
+23.1
+10,187
+
+13.1
+18.6
+8,224
+
+13.2
+18.8
+8,334
+
+11.9
+17.0
+7,526
+
+12.2
+17.4
+7,712
+
+Savings and Investment
+Gross national savings (percent of GDP)
+Gross capital formation (percent of GDP)
+Private investment (percent of GDP)
+
+20.0
+40.4
+34.9
+
+20.0
+31.5
+26.4
+
+28.7
+18.7
+14.9
+
+30.8
+19.0
+15.2
+
+30.5
+18.9
+14.9
+
+30.2
+18.9
+14.4
+
+HICP inflation
+Period average
+End-period
+
+10.1
+14.0
+
+15.3
+10.4
+
+3.3
+-1.4
+
+3.3
+-1.4
+
+-3.7
+-3.3
+
+-2.0
+-0.5
+
+Labor market
+Unemployment rate (LFS definition; period average, percent)
+Real gross wages
+
+6.2
+19.7
+
+7.8
+4.4
+
+17.5
+-8.0
+
+17.3
+-6.8
+
+20.0
+-6.3
+
+21.0
+-7.9
+
+Nominal GDP (billions of lats)
+Nominal GDP (billions of euros)
+GDP per capita (euros)
+
+10.0
+14.8
+3.7
+7.5
+1.6
+10.0
+14.7
+
+Consolidated general government 1/
+Revenue
+Expenditure and net lending
+Basic fiscal balance
+
+(percent of GDP, unless otherwise indicated)
+36.2
+35.6
+0.6
+
+35.2
+38.5
+-3.3
+
+36.7
+44.8
+-8.1
+
+35.7
+42.7
+-7.0
+
+39.6
+48.2
+-8.6
+
+39.6
+47.8
+-8.1
+
+7.8
+
+17.0
+
+34.9
+
+32.4
+
+58.9
+
+43.4
+
+34.0
+3.6
+41.2
+
+11.8
+3.5
+41.5
+
+-5.3
+4.1
+48.4
+
+-6.6
+4.1
+49.3
+
+...
+...
+...
+
+…
+…
+…
+
+6.0
+6.8
+
+6.0
+13.3
+
+4.0
+2.7
+
+4.0
+2.7
+
+...
+...
+
+...
+...
+
+Gross official reserves (billions of euros)
+(In months of prospective imports)
+(percent of broad money and non-resident deposits)
+
+3.966
+3.7
+26.1
+
+3.697
+5.6
+27.7
+
+4.500
+7.6
+34.0
+
+4.805
+7.5
+37.2
+
+4.976
+8.1
+39.9
+
+5.319
+7.8
+37.4
+
+Current account balance
+Trade balance
+Exports of goods and services
+Imports of goods and services
+
+-22.3
+-23.9
+41.4
+-61.9
+
+-13.0
+-17.6
+41.6
+-55.2
+
+7.7
+-6.7
+41.6
+-41.7
+
+9.4
+-6.5
+41.9
+-42.3
+
+8.4
+-3.4
+46.3
+41.6
+
+8.2
+-3.3
+48.4
+-44.4
+
+Gross external debt
+Net external debt 2/
+
+127.7
+49.4
+
+128.0
+56.5
+
+159.9
+58.2
+
+154.7
+56.6
+
+180.0
+44.1
+
+161.1
+43.0
+
+0.513
+9.2
+100.1
+8.0
+
+0.478
+7.4
+111.4
+11.2
+
+0.5
+-5.4
+
+0.505
+-5.3
+117.9
+5.9
+
+...
+...
+...
+...
+
+...
+...
+...
+...
+
+General government gross debt
+Money and credit
+Credit to private sector (percentage change)
+Residents' FX deposits (billions of euros)
+Residents' FX deposits (percent of broad money)
+BoL refinancing rate (eop, percent, annualized)
+Money market rate (one month, eop, percent, annualized)
+Balance of payments
+
+Exchange rates
+Lats per U.S. dollar (average)
+(percent change, + denotes appreciation)
+REER (average; CPI based, 2000=100)
+(percent change, + denotes appreciation)
+Sources: Latvian authorities, Eurostat, and IMF staff estimates.
+
+1/ National definition. Includes economy-wide EU grants in revenue and expenditure.
+2/ Gross external debt minus gross external debt assets.
+
+44
+Table 2. Latvia. Macroeconomic Framework, 2008-15
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+Projections
+(percentage change, unless otherwise indicated)
+National accounts
+Real GDP
+Consumption
+Private consumption
+Public consumption
+Gross fixed capital formation
+Exports of goods and services
+Imports of goods and services
+Contributions to growth
+Domestic demand
+Net exports
+HICP inflation
+Period average
+End-period
+Labor market
+Unemployment rate (LFS definition; period average, percent
+Employment (period average, percent change)
+Real gross wages
+
+-4.6
+-4.4
+-5.5
+1.5
+-15.6
+-1.3
+-13.6
+
+-18.0
+-20.1
+-22.4
+-9.2
+-37.7
+-13.9
+-34.2
+
+-3.5
+-9.2
+-9.0
+-10.0
+-10.0
+5.0
+-6.2
+
+3.3
+0.8
+2.0
+-4.0
+4.9
+6.0
+3.0
+
+4.0
+2.3
+3.0
+-1.0
+5.7
+5.5
+4.0
+
+4.0
+3.7
+4.0
+2.5
+6.7
+5.5
+7.0
+
+4.0
+4.1
+4.5
+2.5
+5.5
+5.5
+7.0
+
+4.0
+4.2
+4.5
+2.5
+5.5
+5.5
+7.0
+
+-13.0
+8.5
+
+-32.4
+14.4
+
+-8.7
+5.2
+
+1.8
+1.6
+
+3.1
+0.9
+
+4.4
+-0.4
+
+4.5
+-0.5
+
+4.5
+-0.5
+
+15.3
+10.4
+
+3.3
+-1.4
+
+-2.0
+-0.5
+
+0.0
+0.3
+
+0.5
+0.7
+
+1.0
+1.1
+
+1.2
+1.3
+
+1.4
+1.4
+
+7.8
+0.1
+4.4
+
+17.3
+-11.4
+-6.8
+
+21.0
+-5.7
+-7.9
+
+19.2
+0.5
+-0.2
+
+17.9
+0.5
+1.3
+
+16.5
+0.5
+0.7
+
+15.5
+0.6
+1.2
+
+14.5
+0.6
+1.0
+
+(percent of GDP)
+Consolidated general government
+Revenues
+Expenditure
+Basic Balance
+Balance (including bank restructuring costs)
+Gross debt
+
+35.2
+38.5
+-3.3
+-7.5
+17.0
+
+35.7
+42.7
+-7.0
+-7.7
+32.4
+
+39.6
+47.8
+-8.1
+-11.7
+43.4
+
+36.8
+42.1
+-5.3
+-7.0
+50.4
+
+35.7
+38.1
+-2.3
+-2.3
+47.0
+
+34.1
+35.1
+-1.0
+-1.0
+43.9
+
+34.2
+34.7
+-0.5
+-0.5
+42.2
+
+33.9
+34.5
+-0.7
+-0.7
+40.8
+
+Saving and investment
+Domestic saving
+Private
+Public 1/
+Foreign saving 2/
+Investment
+Private
+Public
+
+20.0
+16.5
+3.5
+11.5
+31.5
+26.4
+5.1
+
+30.8
+32.8
+-2.0
+-11.8
+19.0
+15.2
+3.8
+
+30.2
+33.3
+-3.1
+-11.3
+18.9
+14.4
+4.5
+
+30.3
+30.7
+-0.4
+-10.3
+20.0
+15.8
+4.2
+
+30.9
+28.1
+2.8
+-10.2
+20.7
+16.7
+4.0
+
+32.0
+28.3
+3.8
+-10.4
+21.6
+18.1
+3.4
+
+32.4
+28.2
+4.2
+-10.3
+22.1
+18.7
+3.4
+
+32.4
+28.4
+4.0
+-9.9
+22.6
+19.2
+3.4
+
+-13.0
+-78.2
+128.0
+56.5
+
+9.4
+-81.3
+154.7
+56.6
+
+8.2
+-76.7
+161.1
+43.0
+
+7.3
+-64.2
+151.1
+27.8
+
+7.2
+-51.1
+144.8
+19.5
+
+7.3
+-38.2
+132.7
+6.6
+
+7.2
+-26.0
+120.1
+-5.5
+
+6.9
+-14.8
+106.8
+-16.5
+
+3.7
+16.3
+23.1
+
+4.8
+13.2
+18.8
+
+5.3
+12.2
+17.4
+
+5.2
+12.6
+17.9
+
+4.9
+13.2
+18.7
+
+4.7
+13.8
+19.7
+
+4.5
+14.5
+20.7
+
+4.0
+15.3
+21.8
+
+External sector
+Current account balance
+Net IIP
+Gross external debt
+Net external debt 3/
+Memorandum items:
+Gross official reserves (billions of euros)
+Nominal GDP (billions of lats)
+Nominal GDP (billions of euros)
+Sources: Latvian Authorities and IMF staff estimates.
+
+1/ Includes 2nd pillar contributions.
+2/ Defined as the sum of the current account deficit and capital transfers.
+3/ Gross external debt minus gross external debt assets.
+
+45
+Table 3. Latvia: General Government Operations, 2009-12
+2009
+
+2010
+Second Rev. Proj.
+
+2011
+
+2012
+Proj.
+
+(millions of lats)
+Total revenue and grants
+
+4,735
+
+4,717
+
+4,842
+
+4,623
+
+4,698
+
+3,515
+
+3,308
+
+3,335
+
+3,324
+
+3,363
+
+Direct Taxes
+Corporate Income Tax
+Personal Income Tax
+Social Security Contributions
+Real Estate and Property Taxes
+
+2,166
+197
+729
+1,167
+73
+
+2,098
+77
+831
+1,100
+91
+
+2,042
+98
+770
+1,086
+87
+
+2,002
+102
+775
+1,034
+91
+
+1,994
+102
+792
+1,004
+95
+
+Indirect Taxes
+VAT
+Excises
+Other indirect taxes
+
+1,349
+798
+504
+46
+
+1,209
+687
+483
+40
+
+1,294
+795
+459
+40
+
+1,322
+807
+475
+40
+
+1,370
+836
+493
+40
+
+Tax revenue
+
+Non Tax, self-earned and other revenue
+
+690
+
+584
+
+598
+
+508
+
+544
+
+EU and miscellaneous funds
+
+530
+
+825
+
+909
+
+791
+
+791
+
+5,662
+
+5,743
+
+5,836
+
+5,290
+
+5,007
+
+Total expenditure 1/
+Current expenditure
+
+5,231
+
+5,335
+
+5,359
+
+5,233
+
+5,330
+
+5,081
+1,337
+675
+2,884
+1,224
+668
+1,646
+1,082
+564
+13
+148
+36
+
+5,068
+1,170
+652
+2,931
+1,141
+642
+1,775
+1,230
+546
+14
+140
+175
+
+5,149
+1,182
+689
+3,026
+1,213
+777
+1,796
+1,235
+561
+17
+140
+112
+
+4,989
+1,182
+689
+2,872
+1,140
+704
+1,716
+1,195
+521
+17
+145
+100
+
+5,023
+1,182
+689
+2,900
+1,167
+731
+1,716
+1,195
+521
+17
+152
+100
+
+151
+
+267
+
+210
+
+244
+
+307
+
+430
+135
+
+409
+200
+
+477
+200
+
+477
+200
+
+477
+200
+
+0
+
+0
+
+0
+
+-420
+
+-800
+
+-927
+
+-1,026
+
+-994
+
+-667
+
+-309
+
+99
+
+932
+
+432
+
+217
+
+0
+
+Fiscal balance
+
+-1,026
+
+-1,958
+
+-1,426
+
+-884
+
+-309
+
+Financing (net)
+
+1,026
+
+1,958
+
+1,426
+
+884
+
+309
+
+Domestic financing
+Banking system
+Central Bank
+Commercial banks
+Nonbanks
+Privatization and other
+
+-976
+-1,010
+-654
+-356
+34
+0
+
+-185
+-185
+-505
+320
+0
+0
+
+425
+425
+425
+0
+0
+0
+
+-47
+-47
+-147
+100
+0
+0
+
+644
+644
+450
+194
+0
+0
+
+External financing
+Net borrowing (net)
+Exceptional financing
+Errors and omissions
+
+1,970
+195
+1,775
+32
+
+2,143
+253
+1,890
+0
+
+1,001
+70
+931
+0
+
+931
+250
+681
+0
+
+-336
+375
+-711
+0
+
+Memorandum items
+General government debt
+Primary basic balance
+EU spending
+Primary non-EU spending
+
+4,295
+-776
+803
+4,708
+
+7,019
+-760
+842
+4,635
+
+5,296
+-784
+977
+4,649
+
+6,328
+-423
+904
+4,142
+
+6,186
+-2
+…
+…
+
+Primary Current Expenditure
+Remuneration
+Goods and Services
+Subsidies and Transfers
+Subsidies to companies and institutions
+E.U. funds related subsidies
+Social Support
+Pensions
+Other
+International cooperation
+Payments to EU budget
+Net lending and other current expenditure
+Interest
+Capital expenditure
+E.U. funds related capital expenditure
+Measures to be identified
+Basic fiscal balance
+Bank restructuring costs
+
+46
+Table 3. Latvia: General Government Operations, 2009-12 (concluded)
+2009
+
+2010
+Second Rev. Proj.
+
+2011
+
+2012
+Proj.
+
+(percent of GDP)
+Total revenue and grants
+Tax revenue
+
+35.7
+
+39.6
+
+39.6
+
+36.8
+
+35.7
+
+26.5
+
+27.8
+
+27.3
+
+26.5
+
+25.6
+
+Direct Taxes
+Corporate Income Tax
+Personal Income Tax
+Social Security Contributions
+Real Estate and Property Taxes
+
+16.4
+1.5
+5.5
+8.8
+0.6
+
+17.6
+0.6
+7.0
+9.2
+0.8
+
+16.7
+0.8
+6.3
+8.9
+0.7
+
+15.9
+0.8
+6.2
+8.2
+0.7
+
+15.2
+0.8
+6.0
+7.6
+0.7
+
+Indirect Taxes
+VAT
+Excises
+Other indirect taxes
+
+10.2
+6.0
+3.8
+0.3
+
+10.1
+5.8
+4.1
+0.3
+
+10.6
+6.5
+3.8
+0.3
+
+10.5
+6.4
+3.8
+0.3
+
+10.4
+6.4
+3.8
+0.3
+
+5.2
+
+4.9
+
+4.9
+
+4.0
+
+4.1
+
+Non Tax, self-earned and other revenue
+EU and miscellaneous funds
+Total expenditure 1/
+Current expenditure
+Primary Current Expenditure
+Remuneration
+Goods and Services
+Subsidies and Transfers
+Subsidies to companies and institutions
+E.U. funds related subsidies
+Social Support
+Pensions
+Other
+International cooperation
+Payments to EU budget
+Net lending and other current expenditure
+Interest
+Capital expenditure
+E.U. funds related capital expenditure
+Measures to be identified
+Basic fiscal balance 2/
+Bank restructuring costs
+
+4.0
+
+6.9
+
+7.4
+
+6.3
+
+6.0
+
+42.7
+
+48.2
+
+47.8
+
+42.1
+
+38.1
+
+39.5
+38.4
+10.1
+5.1
+21.8
+9.2
+5.0
+12.4
+8.2
+4.3
+0.1
+1.1
+0.3
+
+44.8
+42.5
+9.8
+5.5
+24.6
+9.6
+5.4
+14.9
+10.3
+4.6
+0.1
+1.2
+1.5
+
+43.9
+42.2
+9.7
+5.6
+24.8
+9.9
+6.4
+14.7
+10.1
+4.6
+0.1
+1.1
+0.9
+
+41.7
+39.7
+9.4
+5.5
+22.9
+9.1
+5.6
+13.7
+9.5
+4.2
+0.1
+1.2
+0.8
+
+40.5
+38.2
+9.0
+5.2
+22.0
+8.9
+5.6
+13.0
+9.1
+4.0
+0.1
+1.2
+0.8
+
+1.1
+
+2.2
+
+1.7
+
+1.9
+
+2.3
+
+3.2
+1.0
+
+3.4
+1.7
+
+3.9
+1.6
+
+3.8
+1.6
+
+3.6
+1.5
+
+0.0
+
+0.0
+
+0.0
+
+-3.3
+
+-6.1
+
+-7.0
+
+-8.6
+
+-8.1
+
+-5.3
+
+-2.3
+
+0.7
+
+7.8
+
+3.5
+
+1.7
+
+0.0
+
+Fiscal balance
+
+-7.7
+
+-16.4
+
+-11.7
+
+-7.0
+
+-2.3
+
+Financing (net)
+
+7.5
+
+16.4
+
+11.7
+
+7.0
+
+2.3
+
+-7.4
+-7.6
+-4.9
+-2.7
+0.3
+0.0
+14.9
+1.5
+13.4
+0.2
+
+-1.5
+-1.5
+-4.2
+2.7
+0.0
+0.0
+18.0
+2.1
+15.9
+0.0
+
+3.5
+3.5
+3.5
+0.0
+0.0
+0.0
+8.2
+0.6
+7.6
+0.0
+
+-0.4
+-0.4
+-1.2
+0.8
+0.0
+0.0
+7.4
+2.0
+5.4
+0.0
+
+4.9
+4.9
+3.4
+1.5
+0.0
+0.0
+-2.6
+2.9
+-5.4
+0.0
+
+32.4
+-5.9
+13,244
+6.1
+35.5
+
+58.9
+-6.4
+11,918
+7.1
+38.9
+
+43.4
+-6.4
+12,213
+8.0
+38.1
+
+50.4
+-3.4
+12,563
+7.2
+33.0
+
+47.0
+0.0
+13,156
+…
+…
+
+Domestic financing
+Banking system
+Central Bank
+Commercial banks
+Nonbanks
+Privatization and other
+External financing
+Net borrowing (net)
+Exceptional financing
+Errors and omissions
+Memorandum items
+General government debt
+Primary basic balance
+Nominal GDP (In millions of lats)
+EU spending
+Primary non EU spending
+
+Sources: Latvian authorities and IMF staff estimates.
+1/ Total expenditure excludes net acquisition of financial assets and other bank restructuring costs
+2/ The ESA 95 deficit for 2009 is 9.0 percent of GDP due to: (i) unspent greenhouse gas trading revenues
+(0.7 percent of GDP), (ii) PPPs (0.6 percent of GDP), (iii) broader definition of general government (0.2
+percent of GDP), and (iv) accrual adjustments.
+
+47
+Table 4. Latvia: Fiscal balances and Debt, 2006-15
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+(percent of GDP)
+Fiscal balances
+Basic fiscal balance (excl. bank restructuring)
+
+-0.5
+
+0.6
+
+-3.3
+
+-7.0
+
+-8.1
+
+-5.3
+
+(i) plus net lending
+
+…
+
+0.0
+
+0.0
+
+0.3
+
+0.9
+
+0.8
+
+Basic fiscal balance, authorities' definition
+
+…
+
+0.6
+
+-3.3
+
+-6.7
+
+-7.2
+
+-4.5
+
+0.0
+
+0.0
+
+0.0
+
+1.2
+
+1.7
+
+1.5
+
+-2.3
+
+-1.0
+
+-0.5
+
+-0.7
+
+0.8
+
+0.8
+
+0.8
+
+0.8
+
+-1.6
+
+-0.2
+
+0.3
+
+0.1
+
+1.0
+
+0.4
+
+0.4
+
+0.4
+-1.1
+
+Alternative fiscal balances
+
+(ii) less gain from 2nd pillar contributions < 8%
+Fiscal balance, adjusted for pension diversion 1/
+
+-0.5
+
+0.6
+
+-3.3
+
+-8.2
+
+-9.8
+
+-6.8
+
+-3.3
+
+-1.4
+
+-0.9
+
+(iii) less revenues from EU
+
+2.3
+
+3.1
+
+2.6
+
+4.0
+
+7.4
+
+6.3
+
+6.0
+
+4.3
+
+4.2
+
+3.8
+
+plus EU-related spending
+
+4.1
+
+3.6
+
+4.2
+
+6.1
+
+8.0
+
+7.2
+
+7.1
+
+5.1
+
+5.0
+
+4.5
+
+Non-EU basic balance
+
+1.3
+
+1.1
+
+-1.8
+
+-4.9
+
+-7.6
+
+-4.4
+
+-1.3
+
+-0.2
+
+0.2
+
+0.0
+
+(iv) plus interest
+
+0.6
+
+0.3
+
+0.4
+
+1.1
+
+1.7
+
+1.9
+
+2.3
+
+2.3
+
+2.2
+
+2.3
+
+Primary basic balance
+
+0.1
+
+1.0
+
+-2.9
+
+-5.9
+
+-6.4
+
+-3.4
+
+0.0
+
+1.4
+
+1.7
+
+1.6
+
+(v) less bank restructuring costs
+
+0.0
+
+0.0
+
+4.1
+
+0.7
+
+3.5
+
+1.7
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+Overall balance
+
+-0.5
+
+0.6
+
+-7.5
+
+-7.7
+
+-11.7
+
+-7.0
+
+-2.3
+
+-1.0
+
+-0.5
+
+-0.7
+
+(vi) ESA definition 2/
+
+-0.5
+
+-0.3
+
+-4.1
+
+-9.0
+
+-8.5
+
+-6.0
+
+-3.0
+
+-1.6
+
+-1.1
+
+-1.3
+
+Public debt
+Gross debt
+
+9.9
+
+7.8
+
+17.0
+
+32.4
+
+43.4
+
+50.4
+
+47.0
+
+43.9
+
+42.2
+
+40.8
+
+of which foreign currency-denominated
+
+5.2
+
+4.4
+
+9.8
+
+25.3
+
+35.4
+
+41.8
+
+37.4
+
+33.7
+
+27.9
+
+19.8
+
+Net debt (debt less government deposits)
+
+7.4
+
+4.7
+
+13.1
+
+22.7
+
+36.3
+
+42.3
+
+42.7
+
+41.6
+
+40.1
+
+38.8
+
+Net debt if no more bank restructuring
+
+7.4
+
+4.7
+
+13.1
+
+22.7
+
+34.1
+
+38.5
+
+39.1
+
+38.2
+
+36.8
+
+35.6
+
+Sources: Latvian authorities and IMF staff estimates.
+1/ Definition used at First Review.
+2/ Statistically adjusted from cash to accrual, less net lending, plus other liabilities (e.g., PPPs).
+
+Table 5. Latvia: Public Sector Debt Sustainability Framework, 2005-2015
+(Staff projections; In percent of GDP, unless otherwise indicated)
+
+2005
+
+1 Baseline: Public sector debt 1/
+o/w foreign-currency denominated
+2 Change in public sector debt
+3 Identified debt-creating flows (4+7+12)
+4 Primary deficit
+5
+Revenue and grants
+6
+Primary (noninterest) expenditure
+7 Automatic debt dynamics 2/
+8
+Contribution from interest rate/growth differential 3/
+9
+Of which contribution from real interest rate
+10
+Of which contribution from real GDP growth
+11
+Contribution from exchange rate depreciation 4/
+12 Other identified debt-creating flows
+13
+Privatization receipts (negative)
+14
+Recognition of implicit or contingent liabilities
+15
+Bank restructuring
+16 Residual, including asset changes (2-3) 5/
+
+Gross financing need 6/
+in billions of U.S. dollars
+
+Actual
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+Projections
+2012
+2013
+
+2014
+
+2015
+
+11.8
+6.0
+
+9.9
+5.2
+
+7.8
+4.4
+
+17.0
+9.8
+
+32.4
+25.3
+
+43.4
+35.4
+
+50.4
+41.8
+
+47.0
+37.4
+
+43.9
+33.7
+
+42.2
+27.9
+
+40.8
+19.8
+
+-2.6
+-0.9
+0.7
+35.3
+36.0
+-1.7
+-2.0
+-0.7
+-1.3
+0.3
+0.1
+0.1
+0.0
+0.0
+-1.7
+
+-1.9
+-1.9
+-0.1
+36.1
+36.0
+-1.7
+-1.7
+-0.5
+-1.2
+0.0
+-0.1
+-0.1
+0.0
+0.0
+0.0
+
+-2.1
+-3.5
+-1.0
+36.2
+35.2
+-2.4
+-2.1
+-1.3
+-0.7
+-0.4
+-0.1
+-0.1
+0.0
+0.0
+1.4
+
+9.2
+6.3
+2.9
+35.2
+38.1
+-0.6
+-0.3
+-0.6
+0.3
+-0.3
+4.0
+-0.1
+0.0
+4.1
+2.9
+
+15.4
+12.4
+5.9
+35.7
+41.6
+5.8
+5.0
+1.3
+3.8
+0.7
+0.7
+0.0
+0.0
+0.7
+3.1
+
+10.9
+14.4
+6.4
+39.6
+46.1
+4.5
+4.5
+3.2
+1.2
+...
+3.5
+0.0
+0.0
+3.5
+-3.5
+
+7.0
+5.8
+3.3
+36.8
+40.1
+0.8
+0.8
+2.2
+-1.4
+...
+1.7
+0.0
+0.0
+1.7
+1.2
+
+-3.3
+0.1
+0.0
+35.7
+35.7
+0.1
+0.1
+2.0
+-1.9
+...
+0.0
+0.0
+0.0
+0.0
+-3.4
+
+-3.1
+-1.3
+-1.4
+34.1
+32.8
+0.1
+0.1
+1.8
+-1.8
+...
+0.0
+0.0
+0.0
+0.0
+-1.8
+
+-1.7
+-1.7
+-1.7
+34.2
+32.5
+0.1
+0.1
+1.7
+-1.7
+...
+0.0
+0.0
+0.0
+0.0
+0.0
+
+-1.4
+-1.4
+-1.6
+33.9
+32.2
+0.2
+0.2
+1.8
+-1.6
+...
+0.0
+0.0
+0.0
+0.0
+0.0
+
+33.3
+
+27.3
+
+21.4
+
+48.3
+
+90.7
+
+109.4
+
+136.9
+
+131.7
+
+128.7
+
+123.5
+
+120.5
+
+3.3
+0.5
+
+2.2
+0.4
+
+0.3
+0.1
+
+8.9
+2.9
+
+15.7
+4.2
+
+16.6
+4.0
+
+12.9
+3.2
+
+8.6
+2.2
+
+9.4
+2.5
+
+10.7
+3.0
+
+16.9
+5.0
+
+43.4
+43.4
+
+45.1
+54.1
+
+40.6
+57.2
+
+37.9
+62.0
+
+37.1
+68.6
+
+36.4
+75.4
+
+-3.5
+4.9
+9.4
+...
+-4.5
+6.9
+6.4
+36.3
+7.1
+5.1
+
+3.3
+4.7
+5.1
+...
+-0.5
+-10.0
+3.3
+42.3
+8.1
+7.5
+
+4.0
+4.8
+4.1
+...
+0.7
+-7.5
+0.0
+42.7
+4.3
+6.0
+
+4.0
+5.2
+4.2
+...
+1.1
+-4.7
+-1.4
+41.6
+2.3
+2.9
+
+4.0
+5.4
+4.2
+...
+1.2
+3.1
+-1.7
+40.1
+2.2
+2.4
+
+4.0
+5.8
+4.5
+...
+1.3
+3.2
+-1.6
+38.8
+2.0
+1.5
+
+Scenario with key variables at their historical averages 7/
+Scenario with no policy change (constant primary balance) in 2010-2015
+Key Macroeconomic and Fiscal Assumptions Underlying Baseline
+Real GDP growth (in percent)
+Average nominal interest rate on public debt (in percent) 8/
+Average real interest rate (nominal rate minus change in GDP deflator, in percent)
+Nominal appreciation (increase in US dollar value of local currency, in percent)
+Inflation rate (GDP deflator, in percent)
+Growth of real primary spending (deflated by GDP deflator, in percent)
+Primary deficit
+Net debt
+Deposits in central bank
+Deposits as a share of average montly financing need
+
+10.6
+4.9
+-5.2
+-4.3
+10.2
+15.6
+0.7
+11.0
+0.8
+2.8
+
+12.2
+5.9
+-4.0
+0.8
+9.9
+12.2
+-0.1
+9.4
+0.4
+2.4
+
+10.0
+4.7
+-15.6
+9.2
+20.3
+7.6
+-1.0
+6.6
+1.2
+54.8
+
+-4.6
+5.6
+-9.8
+7.4
+15.4
+3.3
+2.9
+13.1
+3.9
+5.3
+
+-18.0
+5.4
+6.2
+-5.3
+-0.7
+-10.5
+5.9
+22.7
+9.8
+7.4
+
+1/ General government.
+2/ Derived as [(r - (1+g - g + (1+r]/(1+g++g)) times previous period debt ratio, with r = interest rate;  = growth rate of GDP deflator; g = real GDP growth rate;  = share of foreign-currency
+denominated debt; and  = nominal exchange rate depreciation (measured by increase in local currency value of U.S. dollar).
+3/ The real interest rate contribution is derived from the denominator in footnote 2/ as r - π (1+g) and the real growth contribution as -g.
+4/ The exchange rate contribution is derived from the numerator in footnote 2/ as  (1+r).
+5/ For projections, this line includes exchange rate changes.
+6/ Defined as public sector deficit, plus amortization of medium and long-term public sector debt, plus short-term debt at end of previous period.
+7/ The key variables include real GDP growth; real interest rate; and primary balance in percent of GDP.
+8/ Derived as nominal interest expenditure divided by previous period debt stock.
+9/ Assumes that key variables (real GDP growth, real interest rate, and other identified debt-creating flows) remain at the level of the last projection year.
+
+Debt-stabilizing
+primary
+balance 9/
+0.3
+
+48
+
+Public sector debt-to-revenue ratio 1/
+
+2006
+
+-2.0
+0.6
+
+49
+Table 6. Latvia: Medium Term Balance of Payments, 2007−15
+2007
+
+2008
+
+2009
+2nd Rev.
+Actual
+
+-4,691
+
+-3,007
+
+1,431
+
+1,778
+
+2010
+
+2011
+
+2012
+2013
+Projections
+
+2014
+
+2015
+
+(millions of euros)
+Current account
+Trade balance (fob)
+
+1,420
+
+1,307
+
+1,355
+
+1,437
+
+1,485
+
+1,498
+
+-5,031
+
+-4,073
+
+-1,243
+
+-1,230
+
+-567
+
+-519
+
+-607
+
+-538
+
+-493
+
+-479
+
+Exports
+
+5,997
+
+6,527
+
+4,970
+
+5,160
+
+5,691
+
+6,097
+
+6,410
+
+6,798
+
+7,174
+
+7,536
+
+Imports
+
+11,028
+
+10,600
+
+6,212
+
+6,390
+
+6,258
+
+6,616
+
+7,017
+
+7,335
+
+7,668
+
+8,015
+
+730
+
+917
+
+1,221
+
+1,165
+
+1,260
+
+1,370
+
+1,424
+
+1,536
+
+1,638
+
+1,730
+
+Credit
+
+2,696
+
+3,087
+
+2,770
+
+2,739
+
+2,723
+
+2,934
+
+3,086
+
+3,273
+
+3,454
+
+3,628
+
+Debit
+
+1,966
+
+2,171
+
+1,548
+
+1,574
+
+1,463
+
+1,565
+
+1,662
+
+1,737
+
+1,816
+
+1,898
+
+-663
+
+-363
+
+851
+
+1,213
+
+81
+
+-351
+
+-398
+
+-447
+
+-488
+
+-581
+
+373
+
+372
+
+395
+
+398
+
+406
+
+362
+
+362
+
+362
+
+362
+
+362
+
+-1,037
+
+-735
+
+456
+
+815
+
+-326
+
+-713
+
+-761
+
+-809
+
+-850
+
+-943
+
+274
+
+512
+
+602
+
+630
+
+647
+
+807
+
+936
+
+885
+
+828
+
+828
+
+40
+
+34
+
+40
+
+175
+
+354
+
+354
+
+374
+
+295
+
+310
+
+310
+
+5,574
+
+2,015
+
+-3,167
+
+-3,232
+
+-2,357
+
+-2,160
+
+-1,300
+
+-1,148
+
+-351
+
+123
+
+410
+5,164
+1,428
+767
+-494
+12
+165
+4,065
+66
+-164.7
+230.7
+4,148
+-1,612
+5,759
+-207
+-2,566
+2,359
+59
+
+341
+1,674
+697
+286
+254
+210
+-71
+795
+-40
+27
+-67
+2,846
+-187
+3,033
+-1,993
+-130
+-1,863
+-18
+
+419
+-3,586
+170
+670.6
+134
+-21.4
+313
+-4,202
+-108
+23.4
+-131.8
+-1,998
+123.0
+-2120.9
+-2,108
+-1705.5
+-402.2
+12
+
+451
+-3,683
+68
+976
+287
+-3
+302
+-4,340
+-101
+102
+-202
+-2,252
+16
+-2,268
+-1,998
+-1,112
+-885
+10
+
+544
+-2,901
+364
+468
+199
+0
+-90
+-3,374
+-49
+-57
+8
+-1,875
+-500
+-1,375
+-1,450
+-662
+-788
+0
+
+542
+-2,701
+512
+340
+341
+341
+0
+-3,555
+12
+5
+8
+-2,159
+-854
+-1,305
+-1,408
+-649
+-760
+0
+
+550
+-1,850
+388
+485
+534
+534
+0
+-2,772
+-41
+-85
+44
+-1,504
+-789
+-714
+-1,227
+-600
+-627
+0
+
+617
+-1,765
+414
+500
+134
+134
+0
+-2,313
+26
+-92
+117
+-1,276
+-711
+-566
+-1,062
+-540
+-522
+0
+
+650
+-1,001
+442
+515
+528
+528
+0
+-1,971
+-31
+-82
+51
+-1,004
+-639
+-365
+-936
+-486
+-450
+0
+
+650
+-527
+448
+505
+600
+600
+0
+-1,575
+-25
+-79
+54
+-763
+-576
+-187
+-787
+-437
+-350
+0
+
+-168
+
+-414
+
+186
+
+61
+
+126
+
+0
+
+0
+
+0
+
+0
+
+0
+
+715
+
+-1,407
+
+-1,549
+
+-1,393
+
+-810
+
+-853
+
+55
+
+289
+
+1,135
+
+1,621
+
+-715
+-715
+…
+…
+…
+…
+…
+…
+
+1,407
+456
+591
+…
+…
+360
+…
+…
+
+1,549
+-765
+194
+…
+…
+2,120
+…
+…
+
+1,393
+-922
+194
+…
+…
+2,120
+…
+…
+
+810
+-515
+425
+425
+0
+900
+900
+0
+
+853
+148
+505
+505
+0
+200
+200
+0
+
+-55
+261
+-316
+0
+-316
+0
+0
+0
+
+-289
+185
+-474
+0
+-474
+0
+0
+0
+
+-1,135
+232
+-366
+0
+-366
+-1,000
+0
+-1,000
+
+-1,621
+463
+-355
+0
+-355
+-1,729
+0
+-1,729
+
+Services
+
+Income
+Compensation of employees
+Investment income
+Current transfers
+of which: EU (net)
+Capital and financial account
+Capital account
+Financial account
+Direct investment
+of which: equity capital
+Portfolio investment
+of which: general government
+Financial derivatives
+Other investment
+Trade credit
+Assets
+Liabilities
+Loans
+Assets
+Liabilities
+Currency and deposits
+Assets
+Liabilities
+Other
+Errors and omissions
+Overall balance
+Financing
+Change in reserve assets (+ denotes decline)
+IMF (net)
+Purchases
+Repurchases
+Other official financing (net)
+Disbursements
+Repayments
+Sources: Latvian authorities and IMF staff estimates.
+
+50
+
+Table 6. Latvia: Medium Term Balance of Payments, 2007−15 (concluded)
+2007
+
+2008
+
+2009
+2nd Rev.
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+Projections
+
+(percent of GDP, unless otherwise indicated)
+
+Memorandum items:
+Current account 1/
+
+2010
+Actual
+
+-22.3
+
+-13.0
+
+7.7
+
+9.4
+
+8.2
+
+7.3
+
+7.2
+
+7.3
+
+7.2
+
+6.9
+
+-23.9
+28.5
+52.5
+3.5
+-3.2
+1.8
+-4.9
+1.3
+0.2
+
+-17.6
+28.2
+45.8
+4.0
+-1.6
+1.6
+-3.2
+2.2
+0.1
+
+-6.7
+26.7
+33.4
+6.6
+4.6
+2.1
+2.5
+3.2
+0.2
+
+-6.5
+27.4
+33.9
+6.2
+6.4
+2.1
+4.3
+3.3
+0.9
+
+-3.3
+32.7
+36.0
+7.2
+0.5
+2.3
+-1.9
+3.7
+2.0
+
+-2.9
+34.1
+37.0
+7.7
+-2.0
+2.0
+-4.0
+4.5
+2.0
+
+-3.2
+34.2
+37.5
+7.6
+-2.1
+1.9
+-4.1
+5.0
+2.0
+
+-2.7
+34.6
+37.3
+7.8
+-2.3
+1.8
+-4.1
+4.5
+1.5
+
+-2.4
+34.7
+37.1
+7.9
+-2.4
+1.8
+-4.1
+4.0
+1.5
+
+-2.2
+34.6
+36.8
+7.9
+-2.7
+1.7
+-4.3
+3.8
+1.4
+
+6.8
+
+3.0
+
+0.9
+
+0.4
+
+2.1
+
+2.9
+
+2.1
+
+2.1
+
+2.1
+
+2.1
+
+24.5
+23.5
+13.2
+8.4
+
+10.6
+-1.7
+10.2
+12.0
+
+-29.6
+-42.6
+-7.0
+-6.5
+
+-17.8
+-37.6
+-4.5
+-2.7
+
+6.5
+-3.1
+1.2
+4.5
+
+7.3
+6.0
+1.0
+2.3
+
+5.1
+6.1
+1.0
+1.0
+
+6.1
+4.5
+1.0
+1.0
+
+5.5
+4.5
+1.0
+1.0
+
+5.0
+4.5
+1.0
+1.0
+
+Gross reserves (billions of euros)
+(in months of prospective imports)
+Reserve Cover 2/
+Short-term debt (percent of official reserves)
+
+4.0
+3.7
+23.8
+292.0
+
+3.7
+5.6
+23.7
+268.5
+
+4.5
+7.6
+67.3
+131.2
+
+4.8
+7.5
+80.9
+149.2
+
+5.3
+7.8
+80.7
+127.5
+
+5.2
+7.2
+72.3
+116.6
+
+4.9
+6.5
+72.3
+102.9
+
+4.7
+6.0
+74.4
+98.4
+
+4.5
+5.4
+66.7
+94.6
+
+4.0
+4.6
+56.8
+98.1
+
+Banks' short term liabilities (billions of euros)
+Total short-term debt (billions of euros)
+
+9.7
+11.6
+
+7.6
+9.9
+
+5.9
+7.5
+
+5.5
+7.2
+
+4.7
+6.8
+
+4.0
+6.0
+
+3.3
+5.1
+
+2.8
+4.6
+
+2.4
+4.3
+
+2.0
+4.0
+
+Reserves (percent of short-term external debt)
+
+34.2
+
+37.2
+
+59.8
+
+67.0
+
+78.4
+
+85.7
+
+97.2
+
+101.6
+
+105.7
+
+101.9
+
+Gross external debt (billions of euros)
+Medium and long term (billions of euros)
+Short term (billions of euros)
+Net external debt (billions of euros) 3/
+
+26.8
+15.2
+11.6
+10.4
+
+29.6
+19.7
+9.9
+13.1
+
+29.7
+22.2
+7.5
+10.8
+
+29.2
+22.0
+7.2
+10.7
+
+28.0
+21.2
+6.8
+7.5
+
+27.0
+21.0
+6.0
+5.0
+
+27.1
+22.0
+5.1
+3.7
+
+26.1
+21.5
+4.6
+1.3
+
+24.9
+20.6
+4.3
+-1.1
+
+23.3
+19.3
+4.0
+-3.6
+
+127.7
+72.6
+55.1
+49.4
+
+128.0
+85.1
+42.9
+56.5
+
+159.9
+119.5
+40.4
+58.2
+
+154.7
+116.7
+38.0
+56.6
+
+161.1
+122.0
+39.0
+43.0
+
+151.1
+117.3
+33.7
+27.8
+
+144.8
+117.8
+27.0
+19.5
+
+132.7
+109.1
+23.6
+6.6
+
+120.1
+99.6
+20.5
+-5.5
+
+106.8
+88.6
+18.1
+-16.5
+
+Nominal GDP (billions of euros)
+
+21.0
+
+23.1
+
+18.6
+
+18.8
+
+17.4
+
+17.9
+
+18.7
+
+19.7
+
+20.7
+
+21.8
+
+U.S. dollar per euro (period average)
+Lats per euro
+
+1.37
+0.70
+
+1.47
+0.70
+
+1.39
+0.70
+
+1.39
+0.70
+
+…
+0.70
+
+…
+0.70
+
+…
+0.70
+
+…
+0.70
+
+…
+0.70
+
+…
+0.70
+
+Trade balance (fob)
+Exports
+Imports
+Services
+Income
+Compensation of employees
+Investment income
+Current transfers
+of which: EU (net)
+Net FDI
+Export G&S growth (value, fob, percent change)
+Import G&S growth (value, fob, percent change)
+Export G&S price increase (percent change)
+Import G&S price increase (percent change)
+
+Gross external debt
+Medium and long term
+Short term
+Net external debt
+
+Sources: Latvian authorities and IMF staff estimates.
+1/ 2009 estimate of 2.8 percent of GDP if excluding provisioning by foreign banks for their non-performing loans.
+2/ Gross reserves in percent of banks' short-term liabilities and amortization minus the current account surplus.
+3/ Gross external debt minus gross external debt assets.
+
+51
+Table 7. Latvia: External Debt Dynamics, 2007-15
+2007
+
+2008
+
+2009
+
+2010
+
+26.8
+
+29.6
+
+29.2
+
+28.0
+
+1.1
+0.0
+1.0
+25.8
+18.2
+9.7
+8.4
+5.6
+1.8
+3.8
+2.0
+
+2.5
+0.5
+1.9
+27.1
+18.5
+7.6
+10.9
+6.1
+1.8
+4.3
+2.5
+
+4.8
+0.1
+4.6
+24.4
+15.5
+5.5
+10.0
+5.8
+1.5
+4.3
+3.1
+
+6.1
+0.1
+6.1
+21.9
+12.8
+5.2
+7.5
+5.7
+1.5
+4.2
+3.4
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+27.0
+
+27.1
+
+26.1
+
+24.9
+
+23.3
+
+7.2
+0.1
+7.1
+19.8
+10.6
+4.5
+6.1
+5.6
+1.5
+4.0
+3.7
+
+7.4
+0.1
+7.2
+19.7
+10.3
+3.3
+7.0
+5.5
+1.6
+3.9
+4.0
+
+7.0
+0.1
+6.9
+19.1
+9.2
+2.8
+6.4
+5.6
+1.7
+3.9
+4.3
+
+6.2
+0.1
+6.1
+18.7
+8.4
+2.4
+6.0
+5.7
+1.8
+3.9
+4.6
+
+4.7
+0.1
+4.6
+18.5
+7.8
+2.0
+5.8
+5.7
+1.8
+3.9
+5.0
+
+(billions of euros)
+Gross external debt
+Public
+Short term
+Long term
+Private
+Banks
+Short term
+Long term
+Corporate
+Short term
+Long term
+Other
+
+(percent of GDP)
+Gross external debt
+Public
+Short term
+Long term
+Private
+Banks
+Short term
+Long term
+Corporate
+Short term
+Long term
+Other
+
+127.7
+
+128.0
+
+154.7
+
+161.1
+
+151.1
+
+144.8
+
+132.7
+
+120.1
+
+106.8
+
+5.1
+0.2
+4.9
+122.6
+86.4
+46.4
+40.0
+26.7
+8.5
+18.2
+9.4
+
+10.8
+2.4
+8.4
+117.2
+80.2
+33.0
+47.2
+26.3
+7.6
+18.7
+10.8
+
+25.4
+0.7
+24.7
+129.3
+82.2
+29.2
+52.9
+30.7
+8.1
+22.7
+16.4
+
+35.3
+0.3
+35.0
+125.8
+73.4
+30.0
+43.4
+33.0
+8.7
+24.3
+19.4
+
+40.2
+0.3
+39.8
+110.9
+59.1
+24.9
+34.2
+31.1
+8.5
+22.7
+20.7
+
+39.4
+0.8
+38.7
+105.4
+55.0
+17.8
+37.2
+29.2
+8.4
+20.8
+21.1
+
+35.8
+0.7
+35.1
+97.0
+46.8
+14.3
+32.5
+28.4
+8.6
+19.8
+21.7
+
+30.0
+0.7
+29.3
+90.2
+40.4
+11.4
+29.0
+27.4
+8.5
+19.0
+22.4
+
+21.7
+0.6
+21.0
+85.1
+35.9
+9.2
+26.6
+26.3
+8.3
+18.0
+22.9
+
+13.5
+
+0.3
+
+26.7
+
+6.4
+
+-10.0
+
+-6.3
+
+-12.0
+
+-12.6
+
+-13.4
+
+41.4
+-27.9
+
+12.1
+-11.7
+
+-2.4
+29.1
+
+-6.7
+13.1
+
+-5.5
+-4.5
+
+0.5
+-6.8
+
+-5.0
+-7.0
+
+-6.0
+-6.6
+
+-7.3
+-6.1
+
+-0.8
+
+5.7
+
+14.6
+
+9.9
+
+4.9
+
+-0.7
+
+-3.6
+
+-5.8
+
+-8.3
+
+0.6
+-1.4
+
+6.2
+-0.5
+
+12.2
+2.5
+
+7.7
+2.1
+
+5.9
+-1.0
+
+1.1
+-1.8
+
+-1.7
+-1.9
+
+-4.0
+-1.8
+
+-6.8
+-1.5
+
+14.4
+
+-5.3
+
+12.1
+
+-3.5
+
+-14.9
+
+-5.5
+
+-8.4
+
+-6.8
+
+-5.1
+
+40.8
+-26.4
+
+5.9
+-11.3
+
+-14.6
+26.7
+
+-14.4
+10.9
+
+-11.4
+-3.5
+
+-0.5
+-5.0
+
+-3.3
+-5.1
+
+-2.0
+-4.8
+
+-0.5
+-4.5
+
+21.0
+
+23.1
+
+18.8
+
+17.4
+
+17.9
+
+18.7
+
+19.7
+
+20.7
+
+21.8
+
+(debt dynamics, change in debt to GDP ratio)
+Total Debt to GDP
+Due to change in debt
+Due to nominal GDP
+Public Debt to GDP
+Due to change in debt
+Due to nominal GDP
+Private Debt to GDP
+Due to change in debt
+Due to nominal GDP
+Memorandum items:
+Nominal GDP (billions of euros)
+
+Source: Latvian authorities and IMF staff estimates.
+
+Table 8. Latvia: External Debt Sustainability Framework, 2005-2015
+(In percent of GDP, unless otherwise indicated)
+
+2005
+
+1 Baseline: External debt
+
+2006
+
+Actual
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+Projections
+2013
+2014
+
+2015
+
+99.5
+
+114.2
+
+127.7
+
+128.0
+
+154.7
+
+161.1
+
+151.1
+
+144.8
+
+132.7
+
+120.1
+
+106.8
+
+10.3
+-3.8
+8.5
+15.2
+47.0
+62.2
+-3.6
+-8.6
+4.0
+-8.1
+-4.6
+14.1
+
+14.7
+-3.4
+17.4
+22.3
+44.0
+66.2
+-6.5
+-14.4
+5.1
+-9.8
+-9.7
+18.1
+
+13.5
+-19.5
+17.8
+20.5
+41.4
+61.9
+-6.7
+-30.5
+4.6
+-7.9
+-27.2
+33.0
+
+0.3
+-8.1
+11.1
+13.6
+41.6
+55.2
+-1.4
+-17.8
+1.9
+4.9
+-24.6
+8.4
+
+26.7
+32.2
+-10.7
+0.3
+41.9
+42.3
+3.6
+39.3
+1.3
+29.9
+8.1
+-5.5
+
+6.4
+-3.3
+-12.6
+-4.0
+48.4
+44.4
+-1.2
+10.6
+4.5
+6.2
+...
+9.6
+
+-10.0
+-14.2
+-13.1
+-4.8
+50.5
+45.8
+-1.5
+0.4
+5.8
+-5.4
+...
+4.2
+
+-6.3
+-14.2
+-13.1
+-4.4
+50.7
+46.4
+-1.1
+0.1
+5.9
+-5.8
+...
+7.9
+
+-12.0
+-13.9
+-12.8
+-5.1
+51.2
+46.1
+-1.1
+0.0
+5.5
+-5.5
+...
+1.9
+
+-12.6
+-13.3
+-12.2
+-5.5
+51.4
+45.8
+-1.0
+0.0
+5.0
+-5.1
+...
+0.7
+
+-13.4
+-12.3
+-11.3
+-5.7
+51.2
+45.5
+-0.9
+-0.1
+4.5
+-4.5
+...
+-1.0
+
+External debt-to-exports ratio (in percent)
+
+211.5
+
+259.6
+
+308.6
+
+308.1
+
+369.1
+
+332.7
+
+299.0
+
+285.4
+
+259.3
+
+233.9
+
+208.4
+
+Gross external financing need (in billions of US dollars) 4/
+in percent of GDP
+
+18.7
+116.4
+
+23.2
+116.5
+
+29.8
+103.3
+
+43.0
+126.2
+
+30.6
+116.5
+
+21.9
+96.5
+
+20.4
+89.7
+
+17.3
+73.2
+
+14.6
+58.9
+
+13.2
+50.9
+
+11.9
+43.8
+
+161.1
+
+148.9
+
+145.5
+
+137.8
+
+130.0
+
+121.9
+
+-3.5
+-10.2
+2.5
+0.1
+-8.9
+12.6
+1.2
+
+3.3
+-3.3
+3.6
+4.3
+2.9
+13.1
+1.5
+
+4.0
+0.2
+4.1
+4.6
+5.5
+13.1
+1.1
+
+4.0
+0.5
+4.0
+5.5
+4.0
+12.8
+1.1
+
+4.0
+0.6
+4.0
+5.0
+4.0
+12.2
+1.0
+
+4.0
+0.8
+3.9
+4.5
+4.0
+11.3
+0.9
+
+2 Change in external debt
+3 Identified external debt-creating flows (4+8+9)
+4
+Current account deficit, excluding interest payments
+5
+Deficit in balance of goods and services
+6
+Exports
+7
+Imports
+8
+Net non-debt creating capital inflows (negative)
+9
+Automatic debt dynamics 1/
+10
+Contribution from nominal interest rate
+11
+Contribution from real GDP growth
+12
+Contribution from price and exchange rate changes 2/
+13 Residual, incl. change in gross foreign assets (2-3) 3/
+
+10-Year
+
+10-Year
+
+Scenario with key variables at their historical averages 5/
+Key Macroeconomic Assumptions Underlying Baseline
+Real GDP growth (in percent)
+GDP deflator in US dollars (change in percent)
+Nominal external interest rate (in percent)
+Growth of exports (US dollar terms, in percent)
+Growth of imports (US dollar terms, in percent)
+Current account balance, excluding interest payments
+Net non-debt creating capital inflows
+
+10.6
+5.4
+5.3
+25.7
+21.9
+-8.5
+3.6
+
+12.2
+10.8
+6.4
+16.2
+32.4
+-17.4
+6.5
+
+10.0
+31.3
+5.8
+35.9
+34.9
+-17.8
+6.7
+
+-4.6
+23.9
+1.8
+18.8
+5.5
+-11.1
+1.4
+
+-18.0
+-6.0
+0.8
+-22.2
+-41.0
+10.7
+-3.6
+
+4.8
+9.5
+3.8
+15.4
+14.5
+-7.4
+3.1
+
+Standard
+Deviation
+
+-14.7
+
+52
+
+Historical
+Average
+
+Debt-stabilizing
+non-interest
+current account 6/
+-1.8
+
+9.2
+11.5
+2.1
+16.1
+22.7
+8.0
+2.9
+
+1/ Derived as [r - g - (1+g) + (1+r)]/(1+g++g) times previous period debt stock, with r = nominal effective interest rate on external debt; = change in domestic GDP deflator in US dollar terms, g = real GDP growth rate,
+ = nominal appreciation (increase in dollar value of domestic currency), and  = share of domestic-currency denominated debt in total external debt.
+2/ The contribution from price and exchange rate changes is defined as [-(1+g(1+r1+g++g) times previous period debt stock. increases with an appreciating domestic currency (> 0) and rising inflation (based on GDP deflator).
+3/ For projection, line includes the impact of price and exchange rate changes.
+4/ Defined as current account deficit, plus amortization on medium- and long-term debt, plus short-term debt at end of previous period.
+5/ The key variables include real GDP growth; nominal interest rate; dollar deflator growth; and both non-interest current account and non-debt inflows in percent of GDP.
+6/ Long-run, constant balance that stabilizes the debt ratio assuming that key variables (real GDP growth, nominal interest rate, dollar deflator growth, and non-debt inflows in percent of GDP) remain at their levels
+of the last projection year.
+
+53
+
+Table 9. Latvia: Bank of Latvia Balance Sheet, 2006-11
+(end-period; millions of lats, unless otherwise indicated)
+2006
+
+Net foreign assets (NFA)
+Net domestic assets (NDA)
+of which:
+Banks (net, excluding bank reserves with the BoL)
+General government (net)
+Capital and reserves
+Base money = NFA + NDA 1/
+of which, lats in circulation
+
+2007
+
+2008
+
+2009
+2010
+Actual Second Rev.
+
+Proj.
+
+2011
+Proj.
+
+2,414
+
+2,769
+
+2,333
+
+3,311
+
+3,649
+
+3,704
+
+3,601
+
+-166
+
+-298
+
+-221
+
+-1,666
+
+-1,925
+
+-1,891
+
+-1,732
+
+-44
+-50
+104
+
+7
+-171
+164
+
+637
+-638
+242
+
+-120
+-1,308
+270
+
+170
+-1,797
+314
+
+-758
+-855
+278
+
+-638
+-806
+288
+
+2,249
+1,074
+
+2,471
+1,049
+
+2,112
+1,018
+
+1,646
+788
+
+1,724
+772
+
+1,813
+917
+
+1,868
+1,016
+
+11.9
+10.2
+16.4
+
+-2.8
+3.0
+10.8
+
+(year-on-year growth rate, percent)
+NFA
+Base money
+Lats in circulation
+
+74.1
+66.5
+22.4
+
+14.7
+9.9
+-2.3
+
+-15.8
+-14.6
+-3.0
+
+42.0
+-22.1
+-22.6
+
+10.2
+4.7
+-2.1
+
+(contribution to year-on-year growth in base money, percent)
+Net foreign assets
+Net domestic assets
+Memorandum items:
+NFA/monetary base
+Reserve money/GDP
+Nominal GDP
+Source: Bank of Latvia and IMF staff estimates.
+1/ Excludes banks' deposits at deposit facility
+
+76.0
+-9.6
+
+15.8
+-5.9
+
+-17.7
+3.1
+
+46.4
+-68.4
+
+20.5
+-15.8
+
+23.9
+-13.7
+
+-5.7
+8.8
+
+107.4
+20.1
+11,172
+
+112.1
+16.7
+14,780
+
+110.5
+13.0
+16,274
+
+201.2
+12.4
+13,244
+
+211.7
+14.5
+11,918
+
+204.3
+14.8
+12,213
+
+192.7
+14.9
+12,563
+
+54
+Table 10. Latvia: Monetary Survey, 2006-11
+(end-period; billions of lats, unless otherwise indicated)
+2006
+
+2007
+
+2008
+
+2009
+2010
+Actual Second Rev.
+
+Proj.
+
+2011
+Proj.
+
+(at current exchange rates)
+Net foreign assets (NFA)
+Bank of Latvia
+Domestic money banks
+
+-2.6
+2.4
+-5.0
+
+-4.5
+2.8
+-7.3
+
+-5.9
+2.3
+-8.2
+
+-3.0
+3.3
+-6.3
+
+-1.9
+3.6
+-5.6
+
+-1.1
+3.7
+-4.8
+
+0.3
+3.6
+-3.3
+
+Net domestic assets (NDA)
+Domestic credit
+Credit to private sector
+Government, net
+Other Items, net
+
+8.1
+9.9
+9.8
+0.1
+-1.8
+
+10.7
+13.0
+13.1
+-0.1
+-2.4
+
+11.8
+14.3
+14.6
+-0.4
+-2.4
+
+8.8
+12.2
+13.7
+-1.5
+-3.4
+
+7.8
+11.6
+13.2
+-1.6
+-3.8
+
+8.1
+11.8
+12.9
+-1.1
+-3.7
+
+8.1
+11.9
+12.9
+-1.0
+-3.9
+
+5.5
+3.6
+1.0
+2.7
+1.9
+
+6.2
+3.6
+0.9
+2.7
+2.5
+
+5.9
+3.5
+0.9
+2.6
+2.5
+
+5.8
+3.0
+0.7
+2.3
+2.9
+
+5.8
+2.9
+0.7
+2.2
+2.9
+
+7.0
+3.8
+0.8
+3.0
+3.2
+
+8.4
+4.5
+0.9
+3.6
+3.9
+
+-5.5
+21.1
+31.6
+
+-0.3
+18.9
+19.2
+
+57.7
+51.7
+2.7
+105.9
+2.9
+12.2
+
+66.7
+51.9
+3.3
+102.7
+2.5
+12.6
+
+Broad money (M2 plus residents' foreign currency deposits)
+Domestic money supply (M2)
+Currency held by public
+Private deposits in lats
+Residents' foreign currency deposits
+
+(year-on-year growth rate, percent)
+Credit to private sector
+Broad money
+Private deposits in lats
+
+58.3
+37.5
+39.6
+
+34.0
+12.6
+3.0
+
+11.8
+-3.9
+-4.7
+
+-6.6
+-1.9
+-12.1
+
+-4.7
+-2.7
+-7.3
+
+(percent, unless otherwise indicated)
+Memorandum items:
+Broad money/GDP
+Residents' foreign currency deposits/total domestic deposits
+Broad money multiplier (broad money/reserve money)
+Private credit (percent of GDP)
+Non-resident deposits (billions of lats)
+Nominal GDP (billions of lats)
+Source: Bank of Latvia and IMF staff estimates.
+
+49.1
+41.2
+2.4
+87.5
+3.0
+11.2
+
+41.8
+48.2
+2.5
+88.7
+4.5
+14.8
+
+36.4
+48.6
+2.8
+90.0
+3.5
+16.3
+
+43.9
+55.6
+3.1
+103.3
+3.3
+13.2
+
+48.8
+56.9
+3.4
+111.0
+2.9
+11.9
+
+55
+Table 11. Latvia: Financial Soundness Indicators, 2007-2010
+(In percent, unless otherwise indicated)
+
+Commercial banks
+Capital Adequacy
+Regulatory capital to risk-weighted assets
+Regulatory Tier I capital to risk-weighted assets*
+Capital and reserves to assets
+Asset Quality
+Annual growth of bank loans
+Loans past due over 90 days
+Loans past due over 90 days net of loan loss provisions to capital
+Loan loss provisions to loans past due over 90 days
+Loan loss provisions to total loans
+Share of loans in total assets, banks dealing with residents 1/
+Share of loans in total assets, banks dealing with non-residents 1/
+Earnings and Profitability
+ROA (after tax)
+ROE (after tax)
+Net interest income to total income
+Noninterest expenses to total income
+Trading income to total income
+Personnel expenses to noninterest expenses
+Income from operations with non-residents to total income
+Banks dealing with residents 1/
+Banks dealing with non-residents 1/
+Liquidity
+Liquid assets to total assets
+Liquid assets to short term liabilities
+Customers deposits to (non-interbank) loans
+Sensitivity to Market Risk
+Net open positions in FX to capital 2/
+Net open positions in EUR to capital
+FX assets to total assets
+FX deposits to total deposits
+FX liabilities to total liabilities 2/
+FX loans to total loans 2/
+Nonfinancial Enterprises 3/
+Total debt to equity
+Return on equity
+Earnings to interest expenses
+Households
+Household debt to GDP
+Household debt service to GDP 4/
+Real Estate Markets
+Real estate prices annual growth rate 5/
+Residential real estate loans to total loans 6/
+Commercial real estate loans to total loans 6/
+Memorandum Items
+Number of banks dealing with residents 1/
+Number of banks dealing with non-residents 1/
+Assets of banks dealing with residents/Total banking system assets 1/
+Assets of banks dealing with non-residents/Total banking system assets 1/
+
+Dec-07
+
+Dec-08
+
+Mar-09
+
+June-09
+
+Sep-09
+
+Dec-09
+
+Mar-10
+
+11.1
+9.8
+7.9
+
+11.8
+10.5
+7.3
+
+11.4
+10.8
+7.5
+
+12.4
+10.2
+7.2
+
+13.6
+10.7
+7.1
+
+14.6
+11.5
+7.4
+
+14.2
+11.1
+7.3
+
+37.2
+0.8
+…
+…
+…
+80.4
+48.9
+
+11.2
+3.6
+13.6
+61.3
+2.2
+82.5
+51.7
+
+7.9
+7.1
+36.4
+48.0
+3.4
+82.4
+58.6
+
+0.2
+12.0
+60.6
+50.8
+6.1
+77.6
+57.4
+
+-5.4
+14.5
+66.6
+55.6
+8.1
+76.9
+57.6
+
+-7.0
+16.4
+67.6
+57.4
+9.4
+76.4
+52.4
+
+-7.5
+17.9
+69.9
+59.8
+10.7
+79.2
+54.5
+
+2.0
+24.3
+32.5
+32.3
+7.8
+31.5
+
+0.3
+4.6
+30.1
+47.5
+5.6
+21.3
+
+-0.9
+-11.2
+24.8
+68.2
+3.9
+13.2
+
+-3.2
+-38.1
+25.3
+104.1
+8.8
+8.8
+
+-3.6
+-42.1
+24.1
+112.0
+9.0
+8.4
+
+-3.5
+-41.6
+23.3
+114.5
+8.6
+8.5
+
+-2.5
+-29.8
+16.1
+105.9
+0.1
+10.0
+
+13.0
+49.2
+
+13.7
+48.0
+
+19.4
+44.9
+
+24.6
+48.9
+
+22.2
+46.6
+
+21.0
+44.8
+
+10.3
+46.3
+
+25.0
+55.7
+68.2
+
+21.6
+52.8
+58.8
+
+18.6
+48.0
+58.9
+
+18.8
+49.6
+57.8
+
+19.0
+54.4
+57.1
+
+21.1
+62.8
+61.9
+
+21.7
+62.8
+64.5
+
+5.4
+3.2
+79.7
+70.7
+81.7
+81.8
+
+6.3
+3.7
+80.5
+69.4
+81.1
+85.0
+
+3.1**
+2.6**
+82.1
+71.5
+81.8
+85.5
+
+3.5**
+2.2**
+83.4
+74.5
+84.1
+87.7
+
+4.2**
+3.2**
+83.4
+74.9
+84.3
+88.0
+
+4.1**
+3.0**
+82.7
+74.5
+83.8
+87.1
+
+3.8**
+3.1**
+81.5
+72.8
+82.8
+85.9
+
+202.0
+31.1
+496.7
+
+217.6
+14.4
+225.9
+
+175.6
+1.6
+117.8
+
+183.2
+4.1
+151.6
+
+191.4
+6.6
+168.6
+
+…
+…
+155.4
+
+…
+…
+…
+
+42.4
+2.5
+
+41.1
+2.7
+
+41.7
+2.7
+
+43.1
+2.7
+
+45.3
+2.6
+
+47.5
+2.5
+
+…
+…
+
+-7.3
+31.6
+17.8
+
+-37.1
+30.5
+19.5
+
+-52.0
+30.5
+19.4
+
+-59.2
+31.0
+19.7
+
+-52.4
+31.0
+20.0
+
+-39.6
+31.3
+19.9
+
+-10.8
+31.6
+19.1
+
+9
+14
+60.8
+39.2
+
+13
+13
+63.9
+36.1
+
+12
+14
+63.9
+36.1
+
+15
+11
+80.0
+20.0
+
+15
+11
+80.1
+19.9
+
+14
+12
+78.4
+21.6
+
+14
+12
+65.4
+34.6
+
+Source: CSB, BoL, FCMC, Latvian Leasing Association, staff calculations
+*Regulatory Tier 1 capital to risk weighted assets as from December 2009 is calculated as Tier 1 capital (including deduction)/risk-weighted assets
+**Excluding Parex Bank
+1/ Banks dealing with residents (non-residents) are defined as banks in which non-resident non-MFI deposits are below (above) 20 percent of their assets.
+2/ Including euro-denominated positions.
+3/ Data for 2009 is not annualized and not comparable to yearly figures due to different sample (for 3, 6, 9 and 12 months respectively ); ROE for 2009 based on quarterly data sample,
+not annualized
+4/ Interest payments only.
+5/ Prices of typical apartments in Riga. Source: Real estate company Latio
+6/ Loans to residents only to total loans (including loans to non-residents).
+
+56
+Table 12. Latvia: Selected Vulnerability Indicators, 2005–10
+Latest
+Observation
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010 1/
+
+10.6
+6.9
+4.4
+
+12.2
+6.6
+2.9
+
+10.0
+10.1
+6.8
+
+-4.6
+15.3
+13.3
+
+-18.0
+3.3
+2.7
+
+-6.0
+1.0
+1.3
+
+Q1, 2010
+Apr-10
+Jun-10
+
+20
+0.59
+0.56
+
+17
+0.53
+0.56
+
+56
+0.48
+0.51
+
+558
+0.52
+0.48
+
+368
+0.48
+0.50
+
+284
+0.57
+0.57
+
+Jun-10
+Jun-10
+Jun-10
+
+-12.5
+3.6
+25.7
+90.1
+2.4
+
+Pegged to the euro (+-1% band)
+-22.5
+-22.3
+-13.0
+9.4
+7.5
+6.8
+3.0
+0.4
+16.2
+35.9
+18.8
+-22.2
+92.7
+100.1
+111.4
+117.9
+4.5
+5.8
+5.0
+7.0
+
+8.5
+-1.5
+22.2
+107.5
+6.9
+
+Q1, 2010
+Q1, 2010
+Mar-10
+Mar-10
+May-10
+
+197.8
+31.5
+2.3
+99.5
+49.3
+93.3
+211.5
+3.8
+
+262.9
+43.0
+4.4
+114.2
+44.1
+94.8
+259.6
+6.6
+
+215.9
+34.2
+5.7
+127.7
+43.2
+96.0
+308.6
+8.8
+
+160.7
+37.2
+3.8
+128.0
+33.5
+83.1
+308.1
+11.8
+
+282.9
+67.0
+2.0
+154.7
+24.6
+73.0
+369.1
+6.3
+
+311.8
+83.0
+1.7
+162.1
+22.6
+66.3
+335.4
+4.8
+
+Q1, 2010
+Q1, 2010
+May-10
+Q1, 2010
+Q1, 2010
+Q1, 2010
+Q1, 2010
+Q1, 2010
+
+Public sector (PS) 3/
+Basic balance (excluding bank restructuring costs; percent of GDP)
+Primary basic balance (percent of GDP)
+Gross PS financing requirement (percent of GDP) 4/
+General government gross debt (percent of GDP)
+
+-1.3
+-0.7
+3.3
+11.8
+
+-0.5
+0.1
+2.2
+9.9
+
+0.6
+1.0
+0.3
+7.8
+
+-3.3
+-2.9
+8.9
+17.0
+
+-7.0
+-5.9
+15.7
+32.4
+
+-1.1
+-0.4
+16.6
+41.6
+
+Financial sector (FS) 5/
+Capital adequacy ratio (percent)
+Overdue loans (percent of total loans) 6/
+Provisions (percent of overdue loans)
+Return on average assets (percent)
+Return on equity (percent)
+Residents' FX deposits (percent of total resident deposits)
+FX loans to residents (percent of total loans to residents)
+Credit to private sector (percent change, year-on-year) 7/
+
+10.1
+…
+…
+2.1
+27.1
+39.9
+70.0
+63.6
+
+10.2
+0.5
+93.3
+2.1
+25.6
+40.3
+76.9
+58.3
+
+11.1
+0.8
+64.9
+2.0
+24.2
+46.8
+86.4
+34.0
+
+11.8
+3.6
+61.3
+0.3
+4.6
+47.1
+88.2
+11.8
+
+14.6
+16.4
+57.4
+-3.5
+-41.6
+59.6
+92.1
+-6.6
+
+14.2
+17.9
+59.8
+-2.5
+-29.8
+57.8
+92.1
+-7.2
+
+Memorandum item:
+Nominal GDP (billions of U.S. dollars)
+
+16.0
+
+19.9
+
+28.8
+
+34.0
+
+26.2
+
+5.6
+
+Key economic and market indicators
+Real GDP growth (y-o-y, percent)
+HICP inflation (period average, percent)
+Short-term (ST) interbank rate, 1-month RIGIBOR (eop, percent)
+Eurobond secondary market spread (bps, eop)
+Exchange rate (lats per U.S. dollar, eop)
+Exchange rate (lats per U.S. dollar, period average)
+External sector
+Exchange rate regime
+Current account balance (percent of GDP)
+Net FDI inflows (percent of GDP)
+Exports (percentage change of US$ value)
+Real effective exchange rate index (2000=100, period average)
+Gross international reserves (GIR, US$ billion)
+GIR in percent of ST debt at remaining maturity (RM) excluding nonresident deposits
+GIR in percent of ST debt at RM including banks' non-resident FX deposits
+Net international reserves (NIR, US$ billion)
+Total gross external debt (ED, percent of GDP)
+ST external debt (original maturity, percent of total ED)
+ED of domestic private sector (percent of total ED)
+Total gross external debt (percent of exports)
+Gross external financing requirement (US$ billion) 2/
+
+Sources: Latvian authorities and IMF staff calculations.
+1/
+2/
+3/
+4/
+5/
+6/
+7/
+
+Latest observations as indicated in the last column.
+Current account deficit plus amortization of external debt.
+Public sector covers general government.
+Overall balance plus debt amortization.
+Financial sector includes commercial banks.
+90-days overdue.
+Total loans less loans to the public sector and transit loans, provided to both residents and non-residents.
+
+Q1,
+Q1,
+Q1,
+Q1,
+
+2010
+2010
+2010
+2010
+
+Mar-10
+Mar-10
+Mar-10
+Mar-10
+Mar-10
+Mar-10
+May-10
+Apr-10
+
+Q1, 2010
+
+INTERNATIONAL MONETARY FUND
+REPUBLIC OF LATVIA
+Staff Report for the 2010 Article IV Consultation—Informational Annex
+Prepared by the European Department
+(In Consultation with Other Departments)
+Approved by Anne-Marie Gulde-Wolf and James Roaf
+July 6, 2010
+Contents
+Appendix
+I.
+Fund Relations……………………………………………………………….............2
+II.
+Statistical Issues……………………………………………………………………...5
+II.
+World Bank Relations……………………………………………………………......7
+
+2
+APPENDIX I. LATVIA: FUND RELATIONS
+(As of June 30, 2010)
+I.
+
+Membership Status: Joined May 19, 1992; Article VIII.
+
+II.
+
+General Resources Account:
+Quota
+Fund holdings of currency
+Reserve position in Fund
+
+SDR Million
+126.80
+1,019.00
+0.06
+
+Percent of Quota
+100.0
+803.63
+0.04
+
+III.
+
+SDR Department:
+Net cumulative allocation
+Holdings
+
+SDR Million
+120.82
+121.74
+
+Percent of Allocation
+100.00
+100.76
+
+IV.
+
+Outstanding Purchases and Loans:
+Standby Arrangement
+
+SDR Million
+892.24
+
+Percent of Quota
+703.66
+
+V.
+
+Latest Financial Arrangements:
+Type
+
+Approval Date
+
+Stand-by
+Stand-by
+Stand-by
+Stand-by
+VI.
+
+12/23/08
+04/20/01
+12/10/99
+10/10/97
+
+Expiration Date
+
+03/22/11
+12/19/02
+4/9/01
+4/9/99
+
+Amount
+Approved
+(SDR million)
+1,521.63
+33.0
+33.0
+33.0
+
+Amount Drawn
+(SDR million)
+892.24
+0.00
+0.00
+0.00
+
+Projected Obligations to the Fund:
+
+Principal
+Charges/interest
+Total
+
+2010
+0.00
+23.6
+23.6
+
+2011
+0.0
+35.9
+35.9
+
+2012
+290.0
+40.6
+330.6
+
+2013
+435.1
+30.3
+465.4
+
+2014
+336.0
+16.4
+352.4
+
+Exchange Arrangements:
+The currency of Latvia is the lats, which was introduced in March 1993 to replace the
+Latvian ruble. The exchange rate was pegged to the SDR from February 1994 to
+December 2004, within a ±1 percent band. On January 1, 2005, the lats was repegged to the
+euro at the rate € 1 = 0.702804 lats, and on April 29, 2005, Latvia entered ERMII,
+maintaining the previous band width. On June 30, 2010 the lats was equal to US$1.75.
+Latvia’s exchange system is free of restrictions on the making of payments and transfers for
+current international transactions. Latvia maintains security-related exchange restrictions
+pursuant to UN Security Council resolutions and EC Council regulations, which have been
+
+3
+notified to the Fund under Decision No. 144-(52/51), adopted August 14, 1952. Latvia also
+maintains a partial deposit freeze on Parex Bank, which gives rise to an exchange restriction.
+However, as it has been imposed for balance of payments reasons, is temporary and is
+nondiscriminatory, the Board has approved its retention until end-December 2010.
+Article IV Consultation:
+Latvia is on the 24-month consultation cycle.
+The 2006 Article IV staff report was issued on September 13, 2006 (Country
+Report No. 06/353). The last Article IV Board discussion took place on October 4, 2006.
+The Public Information Notice No. 06/113 was released on October 12, 2006.
+Safeguards Assessment:
+The safeguards assessment completed on July 8, 2009 concluded that the BoL operates
+robust internal audit and control systems. The assessment recommended clarifying the BoL
+and Treasury’s respective roles in holding, managing, and reporting to the Fund audited
+international reserves data. It also recommended amendments to the mandate of the BoL’s
+audit committee and improvements to the financial statements' disclosures. The authorities
+have already taken steps to implement some of these recommendations, notably by
+establishing a formal arrangement between the BoL and Treasury, revising the audit
+committee charter, and expanding the existing accounting framework.
+FSAP Participation and ROSCs:
+A joint World Bank-International Monetary Fund mission conducted an assessment of
+Latvia’s financial sector as part of the Financial Sector Assessment Program (FSAP) during
+February 14–28, 2001. The Financial Sector Stability Assessment (FSSA) report was
+discussed at the Board on January 18, 2002, together with the 2001 Article IV staff report
+(Country Report No. 02/10). An AML/CFT assessment mission took place during
+March 8-24, 2006, and the report was sent to the Board on May 23, 2007. A joint IMF-World
+Bank mission conducted an FSAP Update during February 27–March 9, 2007.
+ROSC Modules
+Standard/Code assessed
+Code of Good Practices on Fiscal Transparency
+Code of Good Practices on Transparency in Monetary and Financial Policies
+Basel Core Principles for Effective Banking Supervision
+CPSS Core Principles for Systemically Important Payment Systems
+IOSCO Objectives and Principles of Securities Regulation
+IAIS Core Principles
+OECD Corporate Governance Principles
+Data Module
+
+Issue date
+March 29, 2001
+January 2, 2002
+January 2, 2002
+January 2, 2002
+January 2, 2002
+January 2, 2002
+January 2, 2002
+June 23, 2004
+
+4
+Technical Assistance (2007–10):
+Dept.
+
+Project
+
+FAD
+FAD
+FAD
+MCM
+FAD
+
+Expenditure Policy
+Tax Policy
+Revenue Administration
+Bank Resolution
+Public Financial
+Management
+Debt restructuring
+
+Mission
+Mission
+Mission
+Mission
+Mission
+
+June 2007
+March 2008
+January 2009
+January 2009
+March 2009
+
+Ministry of Finance
+Ministry of Finance
+Ministry of Finance
+FCMC, Bank of Latvia
+Ministry of Finance
+
+Mission
+
+March 2009
+
+Legal Aspects of
+P&A Transactions
+Bank Intervention
+procedures and P&A
+Public Financial
+Management
+Revenue Administration
+Public Financial
+Management
+Cash Management
+Mortgage and Land
+Bank
+Deposit Insurance
+Liquidity Management
+Tax Policy
+Public Financial
+Management
+Stress Testing
+
+Mission
+
+Feb-March 2009
+
+Ministry of Finance,
+FCMC
+FCMC
+
+Mission
+
+March 2009
+
+FCMC
+
+Mission
+
+April-May 2009
+
+Ministry of Finance
+
+Mission
+Resident Advisor
+
+Ministry of Finance
+Ministry of Finance
+
+Mission
+Mission
+
+July 2009
+July 2009-June
+2010
+July-August 2009
+September 2009
+
+Ministry of Finance
+Ministry of Finance
+
+Mission
+Mission
+Mission
+Mission
+
+September 2009
+November 2009
+February 2010
+April 2010
+
+FCMC
+Bank of Latvia
+Ministry of Finance
+Ministry of Finance
+
+Mission
+
+June 2010
+
+Bank of Latvia
+
+MCM/
+LEG
+LEG
+MCM
+FAD
+FAD
+FAD
+FAD
+MCM
+MCM
+MCM
+FAD
+FAD
+MCM
+
+Action
+
+Timing
+
+Counterpart
+
+Resident Representative:
+Mr. David Moore was appointed Resident Representative effective from June 11, 2009.
+Fourth Amendment:
+Latvia accepted the Fourth Amendment of the Articles of Agreement on February 16, 2001.
+
+5
+APPENDIX II. LATVIA: STATISTICAL ISSUES
+LATVIA—STATISTICAL ISSUES APPENDIX
+As of June 22, 2010
+I. Assessment of Data Adequacy for Surveillance
+General: Data provision to the Fund is adequate for surveillance purposes.
+A data ROSC report published in June 2004 found that the national accounts, the consumer and producer
+price indices, government finance statistics (GFS), monetary and balance of payments statistics
+generally follow internationally accepted guidelines on concepts and definitions, scope, classification
+and sectorization, basis of recording, and valuation. The ROSC report pointed to the following areas to
+be strengthened: (a) the consumer price index (CPI) excludes the services of owner-occupied dwellings;
+(b) the Ministry of Finance should adopt the accrual standards of the Government Finance Statistics
+Manual 2001 (GFSM 2001) for expenditures and include all income and expenditure of the general
+government sector within the Treasury accounting and statistical system; (c) monetary statistics should
+provide for greater detail in the classification of the liabilities of depository corporations by subsectors
+of the general government. Moreover, there are discrepancies between the GDP estimates based on
+production and those based on expenditure, provisions for expected losses of foreign-owned banks are
+recorded in the balance of payments as a negative outflow, and cash data in the 2009 GFS Yearbook are
+provided up to 2008.
+National Accounts: The CSB compiles and publishes quarterly national accounts using the production
+and expenditure approaches on a regular and timely basis, largely following the 1993 System of National
+Accounts (SNA 1993) and the 1995 European System of Accounts (ESA 95). However, there are
+significant discrepancies between the GDP estimates based on production and those based on
+expenditure. The underlying data for the production approach are obtained primarily through a
+comprehensive survey of businesses and individuals, and are supplemented by data from labor force
+surveys and administrative sources. The CSB believes that the basic data understate economic activity,
+particularly in the private sector, and there is an ongoing effort to increase coverage. Meanwhile, official
+national accounts include an adjustment for under-recording. Additional data for the expenditure-based
+accounts are obtained from household budget surveys and other surveys from the State Treasury and
+ministries.
+Government finance statistics: The Fund staff is provided with monthly information on revenues,
+expenditures, and financing of the central and local governments and special budgets. With some
+limitations, the available information permits the compilation of consolidated accounts of the general
+government. The 2009 Government Finance Statistics Yearbook contains cash data in the GFSM 2001
+format up to 2008. Monthly central government and quarterly general government data are provided on a
+timely basis for International Financial Statistics.
+Monetary statistics: Monetary statistics should provide for greater detail in the classification of the
+liabilities of depository corporations by subsectors of the general government in line with international
+standards.
+II. Data Standards and Quality
+Participant in the IMF’s Special Data
+Data ROSC published in June 2004
+Dissemination Standard since November 1, 1996.
+III. Reporting to STA (Optional)
+The authorities are reporting data for the Fund’s International Financial Statistics, Government Finance
+Statistics Yearbook, the Direction of Trade Statistics, and the Balance of Payments Statistics Yearbook.
+
+LATVIA: TABLE OF COMMON INDICATORS REQUIRED FOR SURVEILLANCE
+(AS OF JUNE 23, 2010)
+Date of latest
+observation
+
+Date
+received
+
+Frequency of
+Data7
+
+Frequency of
+Reporting7
+
+Frequency of
+publication7
+
+Exchange Rates
+
+6/21/2010
+
+6/23/2010
+
+D
+
+D
+
+D
+
+International Reserve Assets and Reserve Liabilities of the
+Monetary Authorities1
+
+5/31/2010
+
+6/16/2010
+
+M
+
+M
+
+M
+
+Reserve/Base Money
+
+5/31/2010
+
+6/15/2010
+
+M
+
+M
+
+M
+
+Broad Money
+
+5/31/2010
+
+6/15/2010
+
+M
+
+M
+
+M
+
+Central Bank Balance Sheet
+
+5/31/2010
+
+6/16/2010
+
+M
+
+M
+
+M
+
+Consolidated Balance Sheet of the Banking System
+
+5/31/2010
+
+6/16/2010
+
+M
+
+M
+
+M
+
+Interest Rates
+
+2
+
+O, O, LO, O
+
+O, O, O, O, O
+
+6/20/2010
+
+M
+
+M
+
+M
+
+5/31/2010
+
+6/8/2010
+
+M
+
+M
+
+M
+
+O, LO, O, O
+
+O, O, O, O, O
+
+Revenue, Expenditure, Balance and Composition of
+Financing3 – General Government4
+
+4/30/2010
+
+5/19/2010
+
+M
+
+M
+
+M
+
+O, O, O, O
+
+O, O, O, O, O
+
+Revenue, Expenditure, Balance and Composition of
+Financing3– Central Government
+
+4/30/2010
+
+5/19/2010
+
+M
+
+M
+
+M
+
+Stocks of Central Government and Central GovernmentGuaranteed Debt5
+
+5/31/2010
+
+6/14/2010
+
+M
+
+M
+
+M
+
+External Current Account Balance
+
+4/31/2010
+
+6/14/2010
+
+M
+
+M
+
+M
+
+O, O, O, O
+
+O, O, O, O, O
+
+Exports and Imports of Goods and Services
+
+4/31/2010
+
+6/14/2010
+
+M
+
+M
+
+M
+
+GDP/GNP
+
+Q1 2010
+
+6/9/2010
+
+Q
+
+Q
+
+Q
+
+O, O, O, O
+
+O, LO, LO, LO, LO
+
+Q1 2010
+
+6/4/2010
+
+Q
+
+Q
+
+Q
+
+Q1 2010
+
+6/4/2010
+
+Q
+
+Q
+
+Q
+
+International Investment Position
+
+6
+
+6
+
+5/31/2010
+
+Consumer Price Index
+
+Gross External Debt
+
+1
+
+Memo Items:
+Data Quality – Methodological
+Data Quality – Accuracy and
+8
+soundness
+reliability9
+
+Any reserve assets that are pledged of otherwise encumbered should be specified separately. Also, data should comprise short-term liabilities linked to a foreign currency but settled by other means as well as the notional
+values of financial derivatives to pay and to receive foreign currency, including those linked to a foreign currency but settled by other means
+2
+Both market-based and officially-determined, including discount rates, money market rates, rates on treasury bills, notes and bonds.
+3
+Foreign, domestic bank, and domestic nonbank financing.
+4
+The general government consists of the central government (budgetary funds, extra budgetary funds, and social security funds) and state and local governments.
+5
+Including currency and maturity composition.
+6
+Includes external gross financial asset and liability position vis-à-vis nonresidents.
+7
+Daily (D), Weekly (W), Monthly (M), Quarterly (Q), Annually (A); Not Available (NA).
+8
+Reflects the assessment provided in the data ROSC published in July 2004, the findings of the mission that took place during September 2003 for the dataset corresponding to the variable in each row. The assessment
+indicates whether international standards concerning concepts and definitions, scope, classification/sectorization, and basis for recording are fully observed (O), largely observed (LO), largely not observed (LNO), or not
+observed (NO).
+9
+Same as footnote 8, except referring to international standards concerning source data, statistical techniques, assessment and validation of source data, assessment and validation of intermediate data and statistical
+outputs, and revision studies.
+
+7
+
+APPENDIX III. LATVIA: WORLD BANK RELATIONS
+(As of June 14, 2010)
+
+Title
+1. Bank
+Work
+Program
+
+2. Fund
+Work
+Program
+
+Products
+
+Provisional Timing of
+Missions
+
+Expected Delivery
+Date
+
+Special Development Policy
+Loan for Safety Net and
+Social Sector Reform
+1st tranche
+
+Approved by the Board on
+March 4, 2010
+
+2nd tranche
+
+4th Quarter of 2010
+
+December 2010
+
+Public Expenditure Review
+for Social Sectors and Public
+Administration
+
+March - May 2010
+
+Mid July 2010
+
+TA on expenditure
+rationalization, building on
+WB Public Expenditure
+Review
+
+August 2010
+
+September 2010
+
+TA on public financial
+management
+
+March 2011
+
+May 2011
+
+July 2010
+
+September 2010
+
+TA on tax administration
+
+INTERNATIONAL MONETARY FUND
+REPUBLIC OF LATVIA
+2010 Article IV Consultation, Third Review Under the Stand-By Arrangement and
+Financing Assurances Review, Request for Rephasing of Purchases Under the
+Arrangement, and Request for Waiver of Applicability of a Performance Criterion—
+Supplementary Information
+Prepared by the European Department
+(In Consultation with Other Departments)
+Approved by Anne-Marie Gulde-Wolf and James Roaf
+July 19, 2010
+1.
+This supplement provides additional information that has become available
+since circulation of the staff reports (SM/10/180 and EBS/10/138). It does not alter the
+thrust of the staff appraisals.
+2.
+Recent indicators continue to suggest that the economy is bottoming out.
+Industrial production increased 13.3 percent year-on-year in May, while exports grew
+35 percent. Imports are picking up too, rising 6 percent month-on-month and 11 percent since
+December. Registered unemployment fell to 15.7 percent in June, but the labor force survey
+measure remains at around 20 percent. Although year-on-year inflation still remains negative
+at -1.6 percent, prices have started to increase, with monthly core and overall HICP inflation
+of +0.4 percent in June.
+3.
+The end-June performance criteria on net international reserves net domestic
+assets, and public guarantees were met by wide margins. The continuous performance
+criteria on domestic and external arrears were also met.
+Quantitative Performance Criteria for which June Data are now Available
+(in millions of lats unless otherwise indicated)
+Program
+
+Adjusted
+
+Outcome
+
+-506
+
+-361
+
+1,415
+
+2,056
+
+1,911
+
+708
+
+836
+
+…
+
+389
+
+Ceiling on accumulation of general
+government domestic arrears
+
+40
+
+…
+
+15
+
+Ceiling on accumulation of general
+government external arrears
+
+0
+
+…
+
+0
+
+Floor on net international reserves
+(millions of euros)
+Ceiling on net domestic assets
+Ceiling on public guarantees
+
+2
+4.
+Preliminary data suggest the end-June fiscal targets are likely to be met. While
+final outturns for the general government and for relevant adjustors will not be available until
+after the Board meeting, the central government fiscal deficit for June (2 percent of GDP
+versus a program projection of 3.1 percent) is consistent with the target having been met.
+Revenues have been a little stronger and net lending somewhat lower than assumed in the
+budget.
+5.
+
+Progress has been mixed on structural benchmarks related to fiscal policy:
+
+
+
+The authorities met the benchmark on preparing a draft fiscal responsibility
+law, but important revisions should be made before the law is submitted. These
+include using a rolling three-year medium-term budgetary framework for the
+spending rule (rather than fixing expenditure ceilings four years ahead without scope
+for revision), and modifying the deficit rule to allow scope for more countercyclical
+fiscal policies while respecting the Stability and Growth Pact.
+
+
+
+The authorities have met the benchmark on pension reform by producing a
+strategy paper that offers a number of possible reforms to the pension system that
+would achieve cost savings and ensure the system’s sustainability.
+
+
+
+However, the benchmark on conducting a review of welfare benefits seems only
+to have been partially met. While full details are not yet available, the review seems
+only to identify one possible reform: making permanent the cut in maternity and
+paternity benefits to 80 percent of wages (from 100 percent in 2009). However, there
+is no intention to make permanent the other 2010 measures (e.g., reducing by
+50 percent benefits that exceed L11.5 per day, including for unemployment and
+parental benefits (care of the child in her first year)), and no identification of savings
+to pay for this additional cost.
+
+6.
+A parliamentary committee is considering delaying the introduction of a natural
+gas excise tax from July 2010 to January 2014, given the likely increase in heating prices
+next winter. Although the full year cost is limited (just under 0.1 percent of GDP), this would
+be inconsistent with an LOI commitment to avoid tax cuts in 2010, though this year’s deficit
+target would still be met.
+7.
+On July 15 the Bank of Latvia announced that it will lower rates on its deposit
+facility, cutting the 7-day rate from 1 percent to 0.5 percent and the overnight rate from
+0.5 percent to 0.375 percent. The changes will take effect on July 23. The Bank of Latvia
+believes this cut will help stimulate lending.
+8.
+The President’s veto has prompted improvements to proposed amendments to
+the insolvency law concerning household debtors (EBS/10/138, ¶23). The latest proposal
+would limit the use of an income-based repayment scheme to obtain a discharge from the
+remaining debt to natural persons with either relatively small debts (of up to L100,000) or
+
+3
+very limited repayment capacity. Those with larger debts or better repayment capacity would
+not be able to make use of this type of scheme, and would have to pay a proportion of their
+debt (e.g., 50 percent or 35 percent), after liquidation of their non-exempt assets, before
+being discharged from the remaining debt. A final vote by Parliament is not expected until
+after the Board meeting, but it seems that stakeholders broadly accept this compromise
+proposal, which should allow for other improvements to the insolvency law to go through.
+
+Public Information Notice (PIN) No. 10/104
+FOR IMMEDIATE RELEASE
+August 12, 2010
+
+International Monetary Fund
+700 19th Street, NW
+Washington, D. C. 20431 USA
+
+IMF Executive Board Concludes 2010 Article IV Consultation and
+Third Review of the Stand-By Arrangement with the Republic of
+Latvia
+On July 21, 2010, the Executive Board of the International Monetary Fund (IMF)
+concluded the 2010 Article IV consultation with the Republic of Latvia and completed the
+Third Review of the country’s performance under an economic program supported by a
+Stand-By Arrangement (SBA).1 Completion of the review makes available an amount
+equivalent to SDR 90 million (about €105.8 million or US$135.6 million), bringing total
+disbursements under the SBA to SDR 982 million (about €1.15 billion or
+US$1.48 billion).
+Background
+Latvia’s economy grew extremely rapidly for a number of years through 2007. Capital
+inflows, including from foreign parent banks, and expansionary macroeconomic policies
+pushed up growth, but also fueled unsustainable credit and housing bubbles, as well as
+a current account deficit above 20 percent of gross domestic product (GDP). The
+combination of these bubbles unwinding, the global financial crisis, and acute banking
+pressures in Latvia contributed to a crisis in late 2008 and eventually to an 18 percent
+output contraction in 2009—the largest in the world. In November 2008, with deposit
+withdrawals putting pressure on international reserves and the fiscal position
+
+1
+
+Under Article IV of the IMF's Articles of Agreement, the IMF holds bilateral discussions with
+members, usually every year. A staff team visits the country, collects economic and financial
+information, and discusses with officials the country's economic developments and policies.
+On return to headquarters, the staff prepares a report, which forms the basis for discussion
+by the Executive Board. At the conclusion of the discussion, the Managing Director, as
+Chairman of the Board, summarizes the views of Executive Directors, and this summary is
+transmitted to the country's authorities. An explanation of any qualifiers used in summings
+up can be found here: http://www.imf.org/external/np/sec/misc/qualifiers.htm.
+
+2
+deteriorating due to a steep drop in revenue as well as mounting banking costs, Latvia
+approached the Fund and European Commission for emergency financial support.
+Strengthened policy implementation since mid-2009, including sizeable fiscal
+adjustment, as well as financial and policy support from international program partners
+have helped stabilize Latvia’s economy and restore a measure of balance after the
+crisis. Domestic interest rates and external measures of risk have both come down
+dramatically since 2009. Deposits, which fell sharply early in the crisis, have returned to
+near pre-crisis levels, which along with a sharp improvement in the current account and
+international support have boosted foreign exchange reserves and restored confidence
+in Latvia’s exchange rate peg. While the country’s contraction has been especially
+steep, falling prices and wages have gone a long way toward addressing previous
+competitiveness problems. Policy actions in the past year have also helped insulate
+Latvia to a degree from recent turbulence in Western Europe
+Latvia’s economy appears to be bottoming out with positive annual growth expected to
+return in 2011. However, growth is forecast to remain well below pre-crisis levels in the
+medium term, and Latvia faces a number of challenges to entrench stability, raise
+growth, and meet the Maastricht criteria for euro adoption as quickly as possible—a key
+goal of the government. These challenges include: reducing very high unemployment,
+including by facilitating a shift toward the tradable sector; undertaking substantial
+additional fiscal adjustment; ensuring that competitiveness is restored and maintained;
+and resolving a large private sector debt overhang that will inhibit growth.
+Executive Board Assessment
+Executive Directors commended the authorities for undertaking difficult fiscal and
+financial sector reforms, which have helped stabilize the economy and contributed to a
+rebound after last year’s deep recession. Although near-term vulnerabilities have
+declined substantially, the recovery is still fragile and significant medium-term
+challenges remain toward the goal of euro adoption. Directors underscored the
+importance of sustained fiscal adjustment, restoration of financial sector health, and
+continued structural reforms aimed at reorienting growth toward the tradable sector,
+boosting employment and competitiveness, and improving the business environment.
+Directors emphasized that considerable fiscal adjustment is still needed, especially on
+the expenditure side, to preserve debt sustainability and lower the deficit in line with the
+Maastricht criteria. They encouraged the authorities to focus on high-quality measures
+and durable spending cuts, including by re-examining areas where spending had
+increased significantly in the past, and to improve control over state-owned enterprises.
+Given the required size of the adjustment, Directors welcomed the authorities’ mediumterm tax strategy, which identifies possible revenue measures, as well as the plans to
+tackle the gray economy. They supported efforts to improve budget practices and
+promote counter-cyclical policies, including through the planned fiscal responsibility law.
+Strengthening the authority of the Ministry of Finance would help improve policy
+formulation and implementation. It would also be important to maintain fiscal discipline
+and avoid further deviation from the consolidation strategy through the coming election
+period. Preparation of a menu of options would help achieve needed savings in the
+2011 budget.
+
+3
+
+Directors welcomed the substantial improvement in competitiveness since early 2009,
+attributable in part to the marked decline in unit labor costs. Additional wage and price
+adjustment, together with structural reforms, would help close any remaining
+competitiveness gap, further enhance confidence in the quasi-currency board exchange
+rate regime, and reorient the economy toward the export sector.
+Directors commended efforts to address Latvia’s high unemployment rate, notably a
+successful public works program. They encouraged further reforms to enhance
+productivity, a lower tax wedge on labor, and measures to address skill shortages and
+mismatches through training and vocational education.
+Directors welcomed the progress in strengthening financial sector regulation and
+supervision, bank resolution procedures, and credit and liquidity risk management rules.
+They emphasized the need to ensure that banks fully comply with regulations and
+maintain adequate provisioning against nonperforming loans. Given high levels of
+private sector debt, further steps would also be needed to facilitate market-based debt
+restructuring, streamline insolvency and foreclosure procedures and reduce costs, and
+address tax disincentives. Directors called for rapid action to restructure the two stateowned banks, including preparation of a restructuring plan for Mortgage and Land Bank.
+Public Information Notices (PINs) form part of the IMF's efforts to promote transparency of the IMF's
+views and analysis of economic developments and policies. With the consent of the country
+(or countries) concerned, PINs are issued after Executive Board discussions of Article IV consultations
+with member countries, of its surveillance of developments at the regional level, of post-program
+monitoring, and of ex post assessments of member countries with longer-term program engagements.
+PINs are also issued after Executive Board discussions of general policy matters, unless otherwise
+decided by the Executive Board in a particular case.
+
+4
+
+Latvia: Selected Economic Indicators, 2007–10
+2007
+
+2008
+
+2009
+
+2010
+Proj
+
+Real Economy
+Real GDP (percentage change)
+HICP inflation (percentage change, period average)
+Unemployment rate (LFS definition; period average,
+percent)
+Nominal GDP (billions of lats)
+
+Public Finance 1/
+Revenue
+Expenditure and net lending
+Basic fiscal balance
+General government gross debt
+
+10.0
+
+-4.6
+
+-18.0
+
+-3.5
+
+10.1
+
+15.3
+
+3.3
+
+-2.0
+
+6.2
+14.8
+
+7.8
+16.3
+
+17.3
+13.2
+
+21.0
+12.2
+
+(percent of GDP, unless indicated
+otherwise)
+36.2
+35.6
+0.6
+7.8
+
+35.2
+38.5
+-3.3
+17.0
+
+35.7
+42.7
+-7.0
+32.4
+
+39.6
+47.8
+-8.1
+43.4
+
+-23.9
+-22.3
+4.0
+127.7
+49.4
+
+-17.6
+-13.0
+3.7
+128.0
+56.5
+
+-6.5
+9.4
+4.8
+154.7
+56.6
+
+-3.3
+8.2
+5.3
+161.1
+43.0
+
+0.513
+0.703
+100.1
+8.0
+
+0.478
+0.703
+111.4
+11.2
+
+0.505
+0.703
+117.9
+5.9
+
+...
+...
+...
+...
+
+12.6
+34.0
+
+-3.9
+11.8
+
+-1.9
+-6.6
+
+…
+…
+
+6.0
+
+6.0
+
+4.0
+
+...
+
+6.8
+
+13.3
+
+2.7
+
+...
+
+Balance of payments
+Trade balance
+Current account balance
+Gross official reserves (billions of euros)
+Gross external debt
+Net external debt 2/
+Exchange rates
+Lats per U.S. dollar (average)
+Lats per euro (average)
+REER (INS, average; CPI based, 2000=100)
+(percent change, + denotes appreciation)
+Money and Credit
+Broad money (percentage change)
+Credit to private sector (percentage change)
+BoL refinancing rate (eop, percent, annualized)
+Money market rate (one month, eop, percent,
+annualized)
+
+Sources: Latvian authorities, Eurostat, and IMF staff estimates.
+1/ National definition. Includes economy-wide EU grants in revenue and expenditure.
+2/ Gross external debt minus gross external debt assets.
+
+

@@ -1,0 +1,10096 @@
+December 2007
+IMF Country Report No. 07/389
+
+© 2007 International Monetary Fund
+
+November 29, 2007
+
+December 17,
+2007
+2007
+
+October 16, 2007
+
+Bulgaria: 2007 Article IV Consultation—Staff Report; Public Information Notice on
+the Executive Board Discussion; and Statement by the Executive Director for Bulgaria
+Under Article IV of the IMF’s Articles of Agreement, the IMF holds bilateral discussions with
+members, usually every year. In the context of the 2007 Article IV consultation with Bulgaria, the
+following documents have been released and are included in this package:
+•
+
+The staff report for the 2007 Article IV consultation, prepared by a staff team of the IMF,
+following discussions that ended on October 16, 2007, with the officials of Bulgaria on
+economic developments and policies. Based on information available at the time of these
+discussions, the staff report was completed on November 29, 2007. The views expressed in
+the staff report are those of the staff team and do not necessarily reflect the views of the
+Executive Board of the IMF.
+
+•
+
+A Public Information Notice (PIN) summarizing the views of the Executive Board as
+expressed during its December 17, 2007 discussion of the staff report that concluded the
+Article IV consultation.
+
+•
+
+A statement by the Executive Director for Bulgaria.
+
+The document listed below has been or will be separately released.
+Selected Issues Paper
+The policy of publication of staff reports and other documents allows for the deletion of market-sensitive
+information.
+To assist the IMF in evaluating the publication policy, reader comments are invited and may be sent
+by e-mail to publicationpolicy@imf.org.
+Copies of this report are available to the public from
+International Monetary Fund • Publication Services
+700 19th Street, N.W. • Washington, D.C. 20431
+Telephone: (202) 623-7430 • Telefax: (202) 623-7201
+E-mail: publications@imf.org • Internet: http://www.imf.org
+Price: $18.00 a copy
+
+International Monetary Fund
+Washington, D.C.
+
+INTERNATIONAL MONETARY FUND
+BULGARIA
+Staff Report for the 2007 Article IV Consultation
+Prepared by the Staff Representatives for the 2007 Consultation with Bulgaria
+Approved by Juha Kähkönen and Matthew Fisher
+November 29, 2007
+
+Executive Summary
+Background: Driven by massive capital inflows, the current-account deficit could
+reach a record level of 20 percent of GDP in 2007. The external imbalance finances an
+investment boom; private consumption, reflecting restrained fiscal and incomes
+policies, has remained contained. Credit growth is also strong, but the largely foreignowned banking system seems well positioned to absorb adverse shocks. Headline
+inflation has picked up sharply, mainly reflecting non-core inflation shocks, but wage
+growth is also accelerating, owing to a tightening labor market. Pressures for large
+public-sector wage hikes threaten to add to labor cost and inflation pressures.
+Staff views: The main challenge is to maintain prudent fiscal and incomes policies to
+avoid procyclical demand impulses. A stronger push on long-delayed structural
+reforms, particularly reforms raising public sector efficiency, is also needed. Credit
+portfolios should be monitored carefully, as present boom conditions may mask
+underlying credit quality weaknesses. These policies should provide a solid basis for
+sustaining the currency-board arrangement and achieving Bulgaria’s medium-term
+ambition of accelerated real convergence and deeper EU integration, including through
+euro adoption. At the same time, failure to keep fiscal and incomes policies in line with
+the stringent requirements of the currency board could eventually result in a misaligned
+real exchange rate, likely entailing an abrupt external adjustment or a prolonged period
+of slow growth.
+The authorities’ views: The authorities broadly agreed with the staff’s diagnosis and
+policy proposals. They noted that they see no viable alternative to the currency board
+arrangement. Policies would therefore have to remain consistent with sustaining
+external competitiveness while increasing buffers against adverse shocks.
+
+2
+Contents
+
+Page
+
+Executive Summary ...................................................................................................................1
+Glossary .....................................................................................................................................4
+I. Overview ................................................................................................................................5
+II. Background ...........................................................................................................................6
+III. Policy Discussions .............................................................................................................20
+A. Outlook and External Stability Risks.....................................................................22
+B. Fiscal Policy ...........................................................................................................23
+C. Financial Sector Policies ........................................................................................26
+D. Structural Reforms .................................................................................................28
+IV. Staff Appraisal ...................................................................................................................28
+Boxes
+1. Bulgaria’s Reactions to IMF Advice .....................................................................................5
+2. Inputs for External Stability Risk Assessment.....................................................................12
+Figures
+1. Key Macroeconomic Forces at Work, 2002–07 ....................................................................7
+2. Bulgaria and Selected New Member States: Similarities and Differences
+in their Absorption Booms, 2004–06.................................................................................9
+3. Asset Price and Country Risk Developments, 2001–07 ......................................................10
+4. Bulgaria: Selected EU Countries: Financial Soundness Indicators .....................................15
+5. Global Credit Crunch Fears, Developments in High-Frequency Indicators........................16
+6. Labor Market Developments, 2002–07 ...............................................................................18
+7. Inflation, 2004–07................................................................................................................19
+8. Bulgaria: Selected EU Countries: Real Income Convergence, Labor Utilization
+Versus Labor Productivity, 2006 .....................................................................................21
+9. Macroeconomic Prospects Under Loose Fiscal and Incomes Policies, 2007–2012............24
+10. Bulgaria: Selected EU Countries: Indicators of Capital Market Development .................27
+Tables
+1. Selected Economic and Social Indicators, 2004–08 ............................................................31
+2. Real GDP by Expenditure Category and Implicit Deflators, 2004–08................................32
+3. Balance of Payments, 2005–2012........................................................................................33
+4. External Financial Assets and Liabilities, 2005–2012.........................................................34
+5a. General Government Operations and Balance Sheet, 2004–08 (In millions of leva)........35
+
+3
+5b. General Government Operations and Balance Sheet, 2004–08 (In percent of GDP)........36
+6. Monetary Accounts, 2005–2012..........................................................................................37
+7. Private Sector Credit Flows, 2003–07 .................................................................................38
+8. Financial Soundness Indicators, 2004–07............................................................................39
+9. Rankings of Selected Competitiveness and Structural Indicators .......................................40
+10a. Macroeconomic Framework, Baseline, 2005–2012.........................................................41
+10b. Macroeconomic Framework, Alternative Scenario, 2005–2012 .....................................42
+Appendices
+I. Debt Sustainability Analysis............................................................................................43
+II Relations with the Fund ...................................................................................................47
+III. IMF-World Bank Relations ............................................................................................49
+IV. Statistical Issues ..............................................................................................................53
+
+4
+GLOSSARY
+AML/CFT
+BNB
+CDS
+CPI
+EBRD
+EIU
+EMBI
+EUR
+FAD
+FDI
+FSAP
+GFS
+GIR
+GNFS
+GNI
+HICP
+HIPC
+IBRD
+IFC
+IFS
+IIP
+ILO
+LIBOR
+MCM
+MDRI
+MONEYVAL
+NMS
+NSI
+NSSI
+OED
+PB
+PDR
+PPI
+PPP
+REER
+ROSC
+SDDS
+SME
+STA
+
+Anti-Money Laundering and Combating the Financing of Terrorism
+Bulgarian National Bank
+Credit Default Swaps
+Consumer Price Index
+European Bank for Reconstruction and Development
+Economist Intelligence Unit
+Emerging Market Bond Index
+IMF European Department
+IMF Fiscal Department
+Foreign Direct Investment
+Financial Sector Assessment Program
+Government Finance Statistics
+Gross International Reserves
+Goods and Non-factor Services
+Gross National Income
+Harmonized Index of Consumer Prices
+Heavily-Indebted Poor Countries
+International Bank for Reconstruction and Development
+International Finance Corporation
+International Financial Statistics
+International Investment Position
+International Labor Organization
+London Interbank Offered Rate
+IMF Monetary and Capital Markets Department
+Multilateral Debt Relief Initiative
+Committee of Experts on the Evaluation of AML/CFT Measures
+New Member States
+National Statistical Institute
+National Social Security Institute
+Office of Executive Director
+Primary Balance
+IMF Policy Development and Review Department
+Producer Price Index
+Purchasing Power Parity
+Real Effective Exchange Rate
+Report on the Observance of Standards and Codes
+Special Data Dissemination Standard
+Small and Medium Enterprises
+IMF Statistics Department
+
+5
+I. OVERVIEW
+1.
+The first Article IV Consultation following EU accession took place amid
+growing concerns about Bulgaria’s external vulnerabilities. Bulgaria has achieved much
+since the 1996–97 financial collapse: a currency board linked to the euro has anchored
+stability-oriented fiscal and incomes policies; a largely foreign-owned modern banking
+sector has developed from scratch; and EU accession has triggered a sweeping upgrade of
+Bulgaria as an investment location. With Bulgaria’s economic policies broadly in line with
+Fund advice (Box 1), the reward has been robust, albeit not spectacular, catch-up growth.
+Accelerating sustainable real income convergence has to remain Bulgaria’s overriding
+longer-term policy priority. However, massive and unexpectedly protracted capital inflows
+have resulted in a soaring current-account deficit, raising more immediate concerns about
+internal and external stability prospects, concerns accentuated by a recent raft of reports and
+speeches belaboring the external vulnerabilities of high current-account deficit countries in
+emerging Europe in general and Bulgaria in particular.
+Bulgaria's overriding objective has to be real
+incom e convergence ...
+
+100
+
+40
+
+EU27 per capita GDP at PPP = 100
+80
+60
+
+Net capital inflow s (in percent of GDP)
+30
+
+2006
+1997
+
+… but soaring capital inflow s and external
+deficits are raising stability concerns.
+
+Current account deficit (in percent of GDP)
+
+20
+
+40
+10
+
+20
+
+0
+ov ni a
+ak
+Re
+H u p.
+ng
+ar
+y
+Es
+t
+o
+Cz
+ni
+ec
+a
+h
+Re
+Sl p .
+ov
+en
+ia
+
+ia
+
+ua
+
+2002
+
+2003
+
+2004
+
+Source: WEO.
+
+2005
+
+2006
+
+2007
+Proj.
+
+Sl
+
+th
+
+tv
+
+Source: Eurostat.
+
+Li
+
+nd
+
+La
+
+ia
+
+la
+
+an
+
+Po
+
+m
+
+Ro
+
+Bu
+l
+
+ga
+
+r ia
+
+0
+
+Box 1. Bulgaria’s Reactions to IMF Advice
+Since the establishment of the currency board in 1997, Bulgaria has had an excellent
+working relationship with the IMF. Policies have generally been consistent with IMF
+recommendations, as reflected in the successful completion of a series of Stand-By
+Arrangements. In particular, fiscal and incomes policies in recent years have responded
+prudently to the widening external deficit. However, structural reforms that require strong
+domestic consensus have tended to linger on the political backburner.
+
+6
+2.
+The Article IV discussions focused on key policy requirements to contain and
+manage Bulgaria’s external vulnerabilities and achieve deeper integration with the
+EU. Notwithstanding Bulgaria’s often fractious and volatile politics, all main political
+forces strongly and unequivocally support maintaining the currency board in the transition
+to euro adoption, and policy requirements were discussed with this perspective in mind.
+II. BACKGROUND
+3.
+Bulgaria’s already large external imbalance has continued to widen, and
+underlying price pressures have picked up, although the economy’s internal imbalance
+remains contained. Massive capital inflows, particularly foreign direct investment (FDI)
+flows, are at the root of an unexpectedly persistent absorption (domestic demand) boom.
+The widening gap between the economy’s absorption and GDP is reflected in a ballooning
+current-account deficit, projected to reach
+Bulgaria:
+about 20 percent of GDP in 2007 (Figure 1,
+Internal and External Balance, 2002-07
+(In percent of GDP)
+Tables 1-3).1 Net capital inflows in 2007 could
+14
+top 30 percent of GDP, far in excess of what is External imbalance 1/
+2007 Proj.
+12
+needed to finance the external deficit. In fact,
+10
+about one third of net capital inflows
+8
+2006
+during 2004–07 added to international
+6
+reserves (Table 4). Turning to the economy’s
+2005
+4
+internal balance, real GDP growth has
+2
+remained steady at just over 6 percent,
+Internal imbalance 2/
+0
+reflected in a still moderate output gap
+-6
+-4
+-2
+0
+2
+4
+6
+-2
+estimate. But with labor market conditions
+2004
+2003
+-4
+tightening, underlying wage and price
+2002 -6
+pressures have gradually picked up. In recent
+-8
+months, headline inflation, as measured by the Source: Fund staff estimates.
+1/ Actual current-account deficit minus estimated equilibrium
+Harmonized Index of Consumer Prices
+current-account deficit (see Box 2).
+2/ Percent deviation of actual from potential GDP (output gap).
+(HICP), surged into double digits, mainly
+owing to food- and energy-price shocks.
+4.
+Bulgaria’s absorption boom reflects largely a private investment boom. The
+changes in savings-investment balances during 2004–06 indicate that the foreign-savings
+influx has financed a boom in private investment. The private investment-GDP ratio surged
+well above its historical average, while the private consumption-GDP ratio remained close
+to average (Figure 1). Thus, private consumption has not been a driver of Bulgaria’s
+
+1
+
+With EU accession, collection of data on trade with EU countries shifted to the Intrastat System, a regime
+change that could have resulted in moderate downward bias in preliminary 2007 export data (Appendix IV).
+
+7
+Figure 1. Bulgaria: Key Macroeconomic Forces at Work, 2002–07
+
+35
+30
+
+Capital inflows are financing a surge in the
+external deficit, but also a large build-up in
+international reserves.
+
+While real GDP growth has been steady,
+domestic demand is booming ...
+
+Current account deficit (in percent of GDP)
+
+14
+
+GIR increase (in percent of GDP)
+
+12
+
+25
+
+Real domestic demand (percent change)
+Real GDP (percent change)
+
+10
+
+20
+
+8
+
+15
+
+6
+
+10
+
+4
+
+5
+
+2
+0
+
+0
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2002
+
+2007
+Proj.
+
+2004
+
+2005
+
+2006
+
+2007
+Proj.
+
+… while private consumption has remained
+subdued.
+
+… largely reflecting a private investment boom
+...
+25
+
+2003
+
+75
+
+Private consumption (in percent of GDP)
+
+Private investment (in percent of GDP)
+73
+
+20
+Average (2000-04)
+15
+
+71
+
+10
+
+69
+
+5
+
+67
+
+Average (2000-04)
+
+65
+
+0
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2002
+
+2007
+Proj.
+
+Financial balances in the private and government
+sectors have diverged.
+
+2004
+
+2005
+
+2006
+
+2007
+Proj.
+
+Inflation, while volatile, increasesingly reflects
+core inflation pressures.
+16
+
+10
+
+2003
+
+Sector financial balances (in percent of GDP)
+12
+0
+
+Headline inflation rate (HICP, percent)
+Core inflation (HICP, percent)
+Euro-area headline inflation rate
+
+8
+-10
+
+General government
+
+4
+
+Private sector
+-20
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+Proj.
+
+0
+2004M12004M72005M12005M72006M12006M72007M12007M7
+
+Sources: WEO; Eurostat; and Fund staff estimates and projections.
+
+8
+absorption boom, a conclusion also consistent with an only moderate pickup in imported
+consumer goods. Moreover, growing fiscal surpluses have accompanied the private sector’s
+widening financial deficits, indicating that fiscal policy was also not an absorption-boom
+driver (Table 5). While Bulgaria’s absorption boom shares similarities with recent trends in
+the Baltic countries and Romania, Bulgaria’s relatively favorable combination of large FDI
+inflows, low exposures of banks to mortgages, and prudent fiscal and incomes policies stands
+out (Figure 2).
+Bulgaria: Savings-Investment Balances, 2004–06
+In percent of GDP
+Gross national
+saving
+
++
+
+Foreign
+saving
+
+=
+
+Gross private
+investment
+
++
+
+Gross public
+investment
+
+2004
+2006
+
+16.5
+16.2
+
+6.6
+15.7
+
+19.3
+27.2
+
+3.8
+4.7
+
+Change 2004-06
+
+-0.3
+
+9.1
+
+7.9
+
+0.9
+
+Sources: Bulgarian authorities; and staff estimates.
+
+5.
+Bulgaria’s private investment boom likely reflects a one-off re-assessment of
+the country as an investment location.2 The currency board has locked in relatively low
+risk-free real interest rates, but these low rates can not fully explain the observed investment
+boom. Prices of financial and real assets—including sovereign bonds, equity, real estate—
+have skyrocketed only in
+The tradables sectors' investment share has held up well during
+1/
+recent years, roughly in
+the investment boom.
+45
+tandem with a sharp drop
+Acquisition of capital assets by sectors
+40
+(in percent of GDP, and percent of total investment)
+in Bulgaria’s country-risk
+35
+Nontradables sectors
+scores (Figure 3). With an 30
+Tradables sectors
+open capital account and
+25
+74.3 %
+international capital in
+20
+74.5 %
+74.1 %
+73.7
+search of yield as
+%
+15
+10
+backdrops, risk premia on
+5
+25.9 %
+25.7 %
+25.5 %
+Bulgarian investment
+26.3 %
+0
+projects seem to have
+2004
+2005
+2006
+2007 2/
+declined mainly for two
+Sources: NSI, and Fund staff calculations.
+reasons: (i) investors’
+1/ Tradables sectors include agriculture, fishing, mining, and manufacturing.
+2/ July 2006-June 2007.
+previous concerns about
+elevated macroeconomic risks were largely addressed by the sustained and successful
+operation of the currency board; and (ii), investors’ earlier concerns about microeconomic
+
+2
+
+See Selected Issues Chapter I “Bulgaria’s Investment Boom: Drivers and Payoffs.”
+
+9
+Figure 2. Bulgaria and Selected New Member States:
+Similarities and Differences in their Absorption Booms, 2004–06
+Current account deficits widened rapidly across
+absorption-boom countries …
+25
+
+… but in Bulgaria the current account deficits were
+more than fully covered by FDI inflows.
+250
+
+Current account deficit (in percent of GDP)
+Bulgaria
+Estonia
+Latvia
+Lithuania
+Romania
+
+20
+
+15
+
+FDI (in percent of current account deficit)
+Bulgaria
+Estonia
+Latvia
+Lithuania
+Romania
+
+200
+
+150
+
+10
+
+100
+
+5
+
+50
+
+0
+
+0
+2004
+
+2005
+
+2006
+
+2004
+
+2005
+
+2006
+
+… but in Bulgaria only a modest portion of credit
+was channeled into mortgages.
+
+Credit growth boomed in all countries …
+50
+
+80
+Bulgaria
+Estonia
+Latvia
+Lithuania
+Romania
+
+Annual credit growth
+(percent)
+60
+
+40
+
+Share of household mortgage lending in bank
+credit (percent)
+Bulgaria
+Estonia
+Latvia
+Lithuania
+Romania
+
+30
+40
+20
+20
+
+10
+
+0
+
+0
+2004
+
+2005
+
+2006
+
+2004
+
+Fiscal prudence was particularly pronounced in
+Bulgaria …
+6
+
+2006
+
+… supported by restrained public-sector wage
+increases.
+40
+
+Fiscal balance (in percent of GDP)
+
+3
+
+2005
+
+Public sector wage growth (percent)
+
+Bulgaria
+Estonia
+Latvia
+Lithuania
+Romania
+
+30
+
+Bulgaria
+Estonia
+Latvia
+Lithuania
+Romania
+
+20
+0
+10
+
+-3
+
+0
+2004
+
+2005
+
+2006
+
+2004
+
+Sources: National authorities; IFS; EMED; Haver; and Fund staff estimates.
+
+2005
+
+2006
+
+10
+Figure 3. Bulgaria: Asset Price and Country Risk Developments, 2001–07
+Bulgaria's sovereign bond spreads narrowed to
+levels close to those of other EU member
+1000
+
+Bulgaria's stock market performed among
+the best in the region …
+1800
+
+900
+
+1600
+
+800
+
+EMBI Global
+
+700
+
+EMBI Europe
+EMBI Bulgaria
+
+600
+
+EMBI Poland
+
+500
+
+1400
+1200
+1000
+
+Czech
+Republic
+Estonia
+Latvia
+Romania
+
+600
+
+300
+
+100
+
+200
+
+0
+
+0
+
+D
+ec
+-0
+Ju 1
+n0
+D 2
+ec
+-0
+Ju 2
+n0
+D 3
+ec
+-0
+Ju 3
+n0
+D 4
+ec
+-0
+Ju 4
+n0
+D 5
+ec
+-0
+Ju 5
+n0
+D 6
+ec
+-0
+Ju 6
+n07
+
+400
+
+D
+ec
+-0
+Ju 1
+n0
+D 2
+ec
+-0
+Ju 2
+n0
+D 3
+ec
+-0
+Ju 3
+n0
+D 4
+ec
+-0
+Ju 4
+n0
+D 5
+ec
+-0
+Ju 5
+n0
+D 6
+ec
+-0
+Ju 6
+n07
+
+200
+
+Bulgaria's country risk rating improved
+markedly in the run-up to EU accession.
+
+… and Bulgaria's real estate prices are also
+rising fast.
+
+350
+
+Bulgaria
+
+800
+
+400
+
+400
+
+Index, December 2001 =100
+
+60
+
+Index of apartment prices,
+annual average, 2003 = 100
+55
+
+300
+250
+
+2003
+
+2004
+
+2005
+
+2006
+
+EIU country risk scores for
+Bulgaria and other new EU
+member states (100 = high risk)
+
+50
+
+2007
+45
+
+200
+150
+
+40
+
+100
+35
+50
+
+Bulgaria
+NMS (excluding Bulgaria
+and Romania)
+
+Bulgaria
+
+Czech
+Republic
+
+Estonia
+
+Latvia
+
+20
+01
+Q
+20 1
+01
+Q
+20 4
+02
+Q
+20 3
+03
+Q
+20 2
+04
+Q
+20 1
+04
+Q
+20 4
+05
+Q
+20 3
+06
+Q
+20 2
+07
+Q
+20 1
+07
+Q
+4
+
+30
+
+0
+
+Sources: Bloomberg; Bulgarian authorities; Economist Intelligency Unit; Czech National
+Bank; Moody's; Statistics Estonia; and Latvia Real Estate Broker.
+
+11
+risks, particularly the security of property rights in the nontradables sectors, largely faded
+once EU accession was secured. In fact, recent FDI has been mainly absorbed by the
+nontradables sectors, raising concerns about Bulgaria’s export prospects. However,
+globalization has rendered the conventional distinction between tradables and nontradables
+sectors increasingly blurry. Moreover, the share of real investment—as opposed to FDI—in
+Bulgaria’s tradables sectors has remained broadly unchanged.
+
+Exchange rate disconnect
+
+Real effectve exchange rate (2003=100)
+
+6.
+The widening current-account deficit has not been accompanied by a
+significant loss of external competitiveness. The present external deficit clearly exceeds
+sustainable levels: staff estimates of Bulgaria’s equilibrium current-account deficit are
+centered around 8 percent of GDP,
+Bulgaria's ballooning current-account deficit has been
+accompanied by limited real appreciation.
+subject, however, to considerable
+margins of uncertainty (Box 2). At
+170
+the same time, real effective
+160
+exchange appreciation over recent
+150
+Standard relationship between
+years has been moderate when
+140
+current account and real exchange
+rate 1/
+benchmarked against conventional
+130
+120
+relationships between the exchange
+2007
+2006
+110
+rate and the current account.
+2005
+100
+2004
+2003
+Purchasing-power-parity and
+90
+dollar-wage comparisons across
+80
+70
+countries, as well as recent trends
+-20 -18 -16 -14 -12 -10 -8
+-6
+-4
+-2
+0
+in export market shares, also
+Current account balance (percent of GDP)
+Source: Fund staff estimates.
+1/ Based on standard elasticities for exports (-0.71) and imports (0.92) with respect to real
+suggest that Bulgaria’s prices and
+exchange rate changes.
+costs remain broadly competitive.
+Finally, regression-based estimates
+of the real equilibrium exchange rate also do not indicate signs of substantial overvaluation
+(Box 2).
+7.
+But Bulgaria’s net IIP is deteriorating fast. External financial liabilities have
+continued their steep upward climb in 2007,
+Bulgaria: Sectoral Currency Mismatches
+and the net IIP could deteriorate to about
+(In percent of GDP)
+65 percent of GDP (Table 4). However,
+30
+external liabilities represent mostly FDI and
+20
+long-term debt, with short-term debt more
+10
+than fully covered by international reserves.
+0
+Fiscal and monet ary authorit ies
+Nevertheless, the widening currency
+-10
+Households
+Corporates 1/
+mismatch position of nonfinancial
+-20
+Banks
+corporates (excluding intercompany loans)
+-30
+is a concern, as it reflects rapidly growing
+-40
+and at least partly unhedged corporate
+-50
+2002
+2003
+2004
+2005
+2006
+2007
+borrowing abroad.
+Sources: BNB; Fund staff estimates.
+1/ Excluding intercompany loans.
+
+August
+
+12
+Box 2. Bulgaria: Inputs for External Stability Risk Assessment 1/
+Staff estimates of the equilibrium current-account deficit center around 8 percent of GDP:
+•
+
+The macroeconomic balance approach, based on panel data for 38 industrial and transition
+countries for 1992–2006, suggests that Bulgaria’s current-account deficit norm is
+somewhat above 5 percent of GDP. However, this estimate is backward-looking and might
+underestimate the sustainable current-account deficit in a setting of globalized financial
+markets and EU convergence.
+
+•
+
+External sustainability considerations based on stabilizing the net international investment
+position (IIP) at a medium-term level of about 80 percent of GDP, but ignoring EU capital
+grants, point to a sustainable current-account deficit of about 8 percent of GDP.
+
+•
+
+Bulgaria is likely to receive EU capital grants amounting to about 2 percent of GDP, and
+the sustainable current-account deficit could be correspondingly higher as these grants will
+not add to Bulgaria’s external liabilities.
+
+Notwithstanding the presently large current-account deficit relative to equilibrium, the real
+effective exchange rate appears fairly valued (Box Figure):
+•
+
+Different measures of Bulgaria’s real effective exchange rate have all appreciated over
+recent years, but the pace of appreciation has been in line with experiences in other
+transition economies.
+
+•
+
+Purchasing-power-parity and dollar wage-cost comparisons in industry across countries
+also yield no strong evidence of overvaluation.
+
+•
+
+Estimates of the real equilibrium exchange rate (CPI based) as a function of relative
+productivity and the net foreign asset position during 1996–2006 indicate that the actual
+real exchange rate has appreciated largely in line with the estimated equilibrium real
+exchange rate.
+
+•
+
+Recent export volume growth (11 percent during 2004-06) remained solid, and export
+market shares have increased in all major export destinations. However, a constant market
+share analysis at SITC 1-digit product level indicates some erosion of competitiveness
+relative to other low- and middle-income countries during 2004–05, albeit coming on the
+back of large gains during 2001–03.
+
+__________
+1/ See Selected Issues Chapter II “An Assessment of Bulgaria’s External Stability Risks.”
+
+13
+Box 2 Figure. Bulgaria: Real Exchange Rate Developments
+Although real exchange rate measures
+have generally appreciated ...
+
+… estimates based on purchasing power
+parity do not indicate overvaluation ...
+
+150
+
+1.0
+
+140
+
+Log real exchange rate (Index, EU25=0)
+
+Bulgaria: Real Effective Exchange Rate,
+1999=100
+
+130
+120
+110
+100
+90
+REER, GDP deflato r
+
+80
+
+REER, CP I
+REER, ULC to tal eco no my
+
+70
+
+PPP-Based Real Exchange Rate,
+compared to other transition
+economies
+
+0.5
+
+0.0
+HUN
+
+CZE
+
+-0.5
+ROM
+
+-1.0
+
+B GR 2006
+UKR
+
+-1.5
+B GR 2002
+
+REER, ULC manufacturing
+
+-2.0
+2007Q2
+
+2006Q3
+
+2005Q4
+
+2005Q1
+
+2004Q2
+
+2003Q3
+
+2002Q4
+
+2002Q1
+
+2001Q2
+
+2000Q3
+
+1999Q4
+
+1999Q1
+
+60
+
+-2
+
+110
+
+0
+
+105
+
+HUN
+
+-1
+
+CZE
+ROM
+
+-2
+
+100
+B GR 2006
+
+Estimated equilibrium
+REER (1999=100)
+
+B GR 2002
+
+-3
+
+95
+
+-4
+-5
+
+Actual REER
+(1999=100)
+
+90
+-2
+
+-1
+
+0
+
+Log per capita GDP (Index, EU25=0)
+
+1
+
+19
+99
+M
+01
+20
+00
+M
+01
+20
+01
+M
+01
+20
+02
+M
+01
+20
+03
+M
+01
+20
+04
+M
+01
+20
+05
+M
+01
+20
+06
+M
+01
+
+Log (Dollar wage)(Index, EU25=0)
+
+Appreciation in the real exchange rate
+seems to largely reflect movements in
+the equilibrium rate.
+
+Dollar-Wage Real Exchange Rate,
+compared to other transition economies
+
+1
+
+0
+
+Log per capita GDP (Index, EU25=0)
+
+… and Bulgaria's dollar-wage cost
+indicator is broadly in line with its per
+capita income.
+2
+
+-1
+
+Sources: ILO; IFS; Eurostat; and Fund staff estimates.
+
+1
+
+14
+8.
+Domestic bank credit has started to boom again, but the banking sector
+maintains significant buffers against a credit-cycle downturn. Since administrative limits
+on bank credit lapsed at end-2006, credit growth has accelerated to over 50 percent
+(Tables 6-7). In response, in September 2007 the BNB raised reserve requirements from
+8 to 12 percent, noting that it would be ready to adopt additional measures to moderate credit
+growth if needed. Financial soundness indicators continue to suggest that the largely foreignowned banking sector remains well capitalized and profitable (Figure 4, Table 8).
+Nonperforming loan ratios remain low, though this partly reflects rapid loan portfolio
+growth. Moreover, banks’ exposures to the booming real estate market are still limited, as
+purchases by nonresidents have been the key market driver.
+9.
+Global credit fears have so far had moderate effects on Bulgaria. Since late July,
+sovereign-bond spreads and credit-default swap rates have widened, albeit from a very low
+base and mirroring developments in other vulnerable transition economies (Figure 5). Local
+interbank markets, which are small, have been volatile but followed trends in euro markets.
+
+Real GDP growth (percent)
+
+10.
+The private investment boom has provided surprisingly little boost to
+Bulgaria’s growth performance, but the growth payoff may be underestimated or come
+with delay.3 Official figures indicate steady GDP growth at about 6 percent over recent
+years, notwithstanding the sharp increases in the investment-GDP ratio. Some investments
+are unlikely to have significant growth payoff, particularly residential construction and
+investments needed to comply
+Bulgaria's booming investment – GDP ratio did
+with EU environmental and
+not boost growth.
+14
+safety standards. However, there
+Observations for EU New Member States, 2003–06
+12
+are also indications that growth
+effects could be underestimated
+10
+in official data, for example
+8
+BGR, 2004
+owing to underreported activity
+6
+BGR, 2006
+in the booming construction
+BGR, 2003
+BGR, 2005
+4
+sector. Finally, a large portion of
+2
+investment has gone into
+0
+replacing outdated capital
+15
+20
+25
+30
+35
+40
+equipment, and payoff from
+Gross Investm ent (In percent of GDP)
+replacement investments may
+Source: WEO.
+only accrue with a considerable
+lag.
+
+3
+
+See Selected Issues Chapter I “Bulgaria’s Investment Boom: Drivers and Payoffs.”
+
+15
+Figure 4. Selected EU Countries: Financial Soundness Indicators
+(In percent)
+Returns on banking assets in Bulgaria are
+among the highest in the region …
+
+Bulgaria's banks are well capitalized.
+20
+
+Risk w eighted capital adequacy ratio
+Minimum Capital
+Adequacy Ratio
+
+16
+12
+
+3.0
+
+Return on bank assets
+
+2.5
+2.0
+1.5
+
+8
+
+1.0
+
+4
+
+0.5
+
+0
+
+30
+
+… and the return on bank equity is at the
+high end of countries in the region.
+
+Bu
+lg
+ar
+ia
+La
+tv
+ia
+Po
+la
+nd
+H
+un
+ga
+ry
+R
+om
+an
+ia
+Li
+th
+ua
+C
+n
+ze
+ia
+ch
+R
+ep
+Es .
+to
+ni
+a
+Sl
+ov
+ak
+ia
+
+R
+
+om
+an
+ia
+Po
+la
+n
+Bu d
+lg
+ar
+ia
+Es
+to
+ni
+a
+Sl
+ov
+ak
+C
+ze
+i
+ch a
+R
+ep
+H
+un .
+ga
+ry
+Li
+th
+ua
+ni
+a
+La
+tv
+ia
+
+0.0
+
+10
+
+Return on bank equity
+25
+
+8
+
+20
+
+Non-performing loans are a modest
+share of total loans.
+Non-performing loans as a
+share of total loans
+
+6
+
+15
+4
+
+10
+
+0
+
+0
+
+35
+30
+
+Mortgages are growing rapidly but from a
+low base.
+Household mortgages
+(percent of GDP), 2006
+
+25
+20
+15
+
+Es
+to
+ni
+a
+La
+tv
+ia
+Li
+th
+ua
+n
+Bu i a
+lg
+ar
+ia
+H
+un
+ga
+ry
+Sl
+ov
+a
+C
+ki
+ze
+ch a
+R
+ep
+R
+.
+om
+an
+ia
+Po
+la
+nd
+
+2
+
+La
+tv
+ia
+Po
+la
+n
+Bu d
+lg
+ar
+ia
+H
+un
+ga
+ry
+Li
+th
+ua
+ni
+Es a
+to
+C
+ni
+ze
+ch a
+R
+e
+Sl p.
+ov
+ak
+ia
+R
+om
+an
+ia
+
+5
+
+250
+200
+
+Bank liquidity is similar to other countries in
+the region, except Romania.
+Liquid assets as share of
+short-term liabilities, 2006 1/
+
+150
+100
+
+10
+
+R
+om
+an
+Bu ia
+lg
+ar
+ia
+Po
+la
+Sl nd
+ov
+ak
+ia
+H
+un
+ga
+C
+ry
+ze
+ch
+R
+ep
+Li
+th .
+ua
+ni
+a
+La
+tv
+ia
+Es
+to
+ni
+a
+
+0
+
+50
+0
+
+Po
+la
+n
+Es d
+to
+n
+Bu i a
+lg
+a
+H ria
+un
+ga
+ry
+Li
+th
+ua
+ni
+a
+Sl
+ov
+ak
+ia
+La
+C
+ze tv ia
+ch
+R
+ep
+R
+om .
+an
+ia
+
+5
+
+Source: National authorities; IFS; Global Financial Stability Report.
+1/ Data for Poland and Czech Republic are 2005.
+
+16
+Figure 5. Bulgaria: Global Credit Crunch Fears,
+Developments in High-Frequency Indicators
+… and Bulgaria's credit default
+swaps rates have picked up.
+
+Bulgaria's sovereign bond spreads
+have widened modestly...
+200
+
+80
+(Basis points)
+
+Credit default sw aps (CDS) on 5-year
+sovereign bonds (Basis points)
+
+EMBI Bulgaria US$
+EMBI Hungary US$
+
+150
+
+Bulgaria
+
+EMBI Poland US$
+
+Hungary
+Poland
+
+EMBI Romania US$
+
+Romania
+
+60
+
+50
+
+20
+
+0
+
+0
+7/
+25
+/2
+8/ 007
+4/
+8/ 2 0
+14 07
+/
+8/ 200
+24 7
+/2
+9/ 007
+3/
+9/ 2 0
+13 07
+/
+9/ 200
+23 7
+/
+10 200
+/3 7
+10 / 2
+/1 00
+3 7
+10 /20
+/2 07
+3
+11 /200
+/2 7
+/2
+00
+7
+
+40
+
+7/
+25
+/2
+8/ 007
+4/
+8/ 2 00
+14 7
+/
+8/ 200
+24 7
+/2
+9/ 007
+3/
+9/ 2 00
+13 7
+/
+9/ 200
+23 7
+/2
+10 00
+/3 7
+10 / 20
+/1 07
+3
+10 /20
+/2 07
+3
+11 /200
+/2 7
+/2
+00
+7
+
+100
+
+Bulgaria’s euro interbank market follow
+international euro rates, but the spread
+between leva and euro rates has
+widened.
+4.8
+
+Valuations of banks with
+subsidiaries in Bulgaria have
+remained broadly stable.
+110
+
+(Percent)
+
+Index (7/25/2007=100)
+
+4.6
+4.4
+4.2
+
+100
+
+4.0
+3.8
+3.6
+90
+BGN overnight Sofia
+
+3.2
+
+Euro overnight Sofia
+
+3.0
+
+Euro overnight international (EONIA)
+
+7/
+25
+8/ / 07
+1
+8/ /0 7
+8/ 8/0
+1 7
+8/ 5/ 0
+22 7
+8/ / 0
+29 7
+9/ / 07
+9/ 5/0
+1 7
+9/ 2/ 0
+1 7
+9/ 9/ 0
+26 7
+10 / 0
+10 /3/ 7
+/ 0
+10 10 / 7
+/1 07
+10 7 /
+/ 0
+10 24 / 7
+/3 07
+11 1 /0
+11 /7/ 7
+/1 07
+4/
+07
+
+2.8
+
+Sources: BNB; and Bloomberg.
+
+OTP/Budapest index
+Unicredito/Milan index
+Piraeus Bank/Athens index
+80
+7/
+25
+/2
+00
+7
+8/
+8/
+20
+0
+8/
+22 7
+/2
+00
+7
+9/
+5/
+20
+0
+9/
+19 7
+/2
+00
+10
+7
+/3
+/2
+00
+10
+7
+/1
+7/
+20
+10
+07
+/3
+1/
+20
+11
+07
+/1
+4/
+20
+07
+
+3.4
+
+17
+11.
+Labor market slack is being eliminated at a rapid clip. Unemployment has
+plummeted, but Bulgaria’s employment rate remains relatively low (Figure 6). Public-sector
+employment has been cut back significantly, while private-sector employment has expanded
+considerably. Nominal wage growth, which was subdued in recent years, has accelerated
+across sectors, with the private sector in the lead.4
+12.
+Inflationary pressures are building up. Recent increases in headline HICP
+inflation reflect in large part one-off effects from the summer drought, EU accession on food
+prices, and higher global energy prices (Figure 7). Money growth has been restrained by de
+facto sterilization through the government’s build-up of a large fiscal reserve in the central
+bank (Table 6). But core inflation has picked up in response to rising labor cost, albeit at a
+much slower pace than headline inflation. Reflecting recent steady GDP growth, overall
+capacity pressures—as indicated by the small estimated output gap (some 1 percent
+in 2007)—remain still moderate.
+13.
+The fiscal policy stance has been broadly neutral over recent years. Since 2004,
+fiscal policy has achieved progressively larger surpluses, mainly as the result of unspent
+revenue windfalls associated with the absorption boom. Staff calculations of the hypothetical
+fiscal balance that would obtain when the economy returns to internal and external balance
+suggest that the present underlying fiscal position is likely close to balance. Thus, the
+budgeted fiscal surplus of ¾ percent of GDP for 2007 was based on highly conservative
+revenue projections (Table 5). Notwithstanding recent decisions to raise (effective October 1)
+pensions by an additional 10 percent and cut the social contribution rate by 3 percentage
+points, the surplus is likely to reach 3½ percent of GDP. Reflecting the prudent fiscal policy
+stance, Bulgaria’s general government balance sheet is strong, with gross public debt
+(about 20 percent of GDP) and other liabilities more than offset by the fiscal reserve and
+other assets.
+Bulgaria: General Government Operations, 2003–07
+In percent of GDP
+
+Revenue
+Expenditure
+Fiscal balance
+Conventional structural fiscal balance 1/
+Modified structural fiscal balance 2/
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+Proj.
+
+37.7
+37.9
+-0.2
+0.8
+0.7
+
+38.4
+36.7
+1.7
+2.2
+2.4
+
+39.8
+37.5
+2.3
+2.3
+1.5
+
+39.0
+35.5
+3.5
+3.3
+1.8
+
+40.5
+37.0
+3.5
+3.1
+0.7
+
+Sources: Ministry of Finance; and Fund staff estimates and projections.
+1/ Actual fiscal balance adjusted for the automatic effects of internal imbalance (output gap).
+2/ Actual fiscal balance adjusted for the automatic effects of both internal imbalance (output gap)
+and external imbalance (absorption gap) on fiscal position; see Selected Issues Chapter III.
+
+4
+
+However, Bulgaria’s labor market data need to be interpreted with caution as increases in both employment
+and wage growth could partly reflect a shrinking grey economy.
+
+18
+Figure 6. Bulgaria: Labor Market Developments, 2002–07
+… but, in 2006, the employment rate was still well below
+the average of Bulgaria's peers.
+
+Unemployment has dropped sharply …
+5000
+
+20
+
+80
+Employment rate (percent of population aged 15-64)
+
+Unemployment
+rate, right scale
+
+Labor force,
+thousands
+
+4000
+Unemployment,
+thousands
+
+15
+
+60
+
+10
+
+40
+
+3000
+5
+
+Employment,
+thousands
+
+20
+
+2004
+
+2005
+
+2006
+
+With cutbacks in the public sector, employment growth
+has been mainly driven by the private sector.
+
+La
+tv
+ia
+Es
+to
+ni
+a
+
+2003
+
+0
+2007
+Proj.
+
+Po
+la
+nd
+H
+un
+ga
+ry
+Bu
+lg
+ar
+Sl
+ia
+ov
+ak
+R
+ep
+.
+R
+om
+an
+ia
+Li
+th
+ua
+ni
+C
+a
+ze
+ch
+R
+ep
+.
+Sl
+ov
+en
+ia
+
+0
+2000
+2002
+
+Nominal wage growth in both public and private sector
+has accelerated.
+
+8
+Employment growth (percent)
+
+20
+
+Nominal wage growth (percent)
+
+4
+16
+0
+
+12
+
+-4
+
+Total
+
+Total
+
+8
+
+Public sector
+
+Public sector
+
+Private sector
+
+Private sector
+
+4
+
+-8
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2002
+
+2007
+Proj.
+
+2005
+
+2006
+
+2007
+Proj.
+
+9
+
+Employment growth, percent
+Total
+Tradables sectors
+Nontradables sectors
+
+6
+
+2004
+
+Labor productivity growth in the tradables sectors
+has been dynamic.
+
+Employment growth has been particularly buoyant
+in the nontradables sectors.
+8
+
+2003
+
+Labour productivity growth (percent)
+6
+
+4
+3
+2
+0
+
+0
+
+Total
+Tradables sectors
+Nontradables sectors
+
+-3
+
+-2
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+Proj.
+
+Sources: NSI; World Bank; and Fund staff estimates.
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+Proj.
+
+19
+Figure 7. Bulgaria: Inflation, 2004–07
+(Percentage change, y-o-y, unless otherwise indicated)
+Inflation has been volatile due to food and
+energy prices shocks ...
+25
+
+HICP inflation
+Food prices
+Energy
+
+20
+
+… and abrupt adjustments of
+administrative prices.
+25
+
+15
+
+15
+
+10
+
+10
+
+5
+
+5
+
+0
+
+0
+
+-5
+Jan-04
+
+Jan-05
+
+Jan-06
+
+Jan-07
+
+-5
+Jan-04
+
+Base money expansion has been slowed by
+growing government net claims.
+20
+16
+
+Cumulative contributions to base money grow th
+(Billions of leva)
+Base money
+Net Intl. reserves BNB
+
+12
+
+45
+
+Jan-05
+
+Jan-06
+
+Jan-07
+
+Broad money growth has remained
+relatively steady, in spite of sharp
+fluctuations in base money.
+
+40
+35
+30
+
+Net claims on govt.
+Net other
+
+8
+
+HICP inflation
+Administered prices
+
+20
+
+25
+20
+
+4
+
+15
+
+0
+
+Base money
+
+10
+
+Broad money
+
+-4
+
+5
+
+-8
+Jan-04
+
+0
+Jan-04
+
+Jan-05
+
+Jan-06
+
+Jan-07
+
+Cost pressures from wages are increasing ...
+12
+
+25
+HICP inflation
+Core
+Nominal w ages
+
+20
+
+Jan-05
+
+Jan-06
+
+Jan-07
+
+… and import price inflation picked up
+recently.
+
+8
+
+15
+4
+10
+0
+
+5
+
+HICP inflation
+Import prices
+
+0
+Jan-04
+
+Jan-05
+
+Jan-06
+
+Sources: BNB; and WEO.
+
+Jan-07
+
+-4
+2004Q1
+
+2005Q1
+
+2006Q1
+
+2007Q1
+
+20
+14.
+Tackling key structural reforms has proven difficult, given fragile party politics
+and entrenched special interests. Bulgaria’s scope for sustainable real convergence
+depends ultimately on raising the productivity of human and real resources (Figure 8).5
+Progress on structural reforms is at par with peers in areas where EU legislation tends to
+enforce regulatory homogeneity, including on price liberalization, trade, and the foreign
+exchange system (Table 9). However, where EU accession has provided only a weak reform
+anchor, progress has been slow:
+•
+
+The public sector’s efficiency is low, as reflected in indicators for corruption, red
+tape, quality of judiciary, education standards, and other performance measures.
+
+•
+
+Businesses face costly administrative burdens, particularly the still complex
+registration system.
+
+•
+
+Rigidities in the labor market hinder the reallocation of labor, particularly from lowto higher-productivity sectors, and there is a question whether the labor market could
+deliver the degree of wage flexibility needed to support the currency board under
+adverse shock scenarios.
+III. POLICY DISCUSSIONS
+
+15.
+Bulgaria’s challenge is to maintain policies that will facilitate restoring external
+balance without a crisis, preserve internal balance in the face of growing inflation
+pressures, and achieve more rapid convergence growth. The discussions focused on:
+•
+What is the appropriate fiscal and incomes policy framework in Bulgaria’s setting of
+an unsustainable absorption boom?
+•
+What financial-sector policies could help insure against a possible hard landing given
+rapid credit growth and external vulnerabilities, both in the short and medium terms?
+•
+What structural reforms could foster sustainable convergence growth and increase the
+economy’s robustness to external shocks, given the currency-board constraint on relative
+price adjustment?
+
+5
+
+World Bank (2007), Accelerating Bulgaria’s Convergence: The Challenge of Raising Productivity.
+
+21
+Figure 8. Selected EU Countries: Real Income Convergence,
+Labor Utilization Versus Labor Productivity, 2006
+(Percent deviation from EU27 average)
+Bulgaria's GDP per capita is one of the lowest in the EU.
+Slovenia
+Czech Rep.
+Estonia
+Hungary
+Slovak Rep.
+Lithuania
+Latvia
+Poland
+Romania
+Bulgaria
+-70
+
+-60
+
+-50
+
+-40
+
+-30
+
+-20
+
+-10
+
+0
+
+10
+
+20
+
+Catching up on labor utilization will not contribute much to achieving income convergence ... 1/
+Slovenia
+Czech Rep.
+Estonia
+Hungary
+Slovak Rep.
+Lithuania
+Latvia
+Poland
+Romania
+Bulgaria
+-70
+
+-60
+
+-50
+
+-40
+
+-30
+
+-20
+
+-10
+
+0
+
+10
+
+20
+
+… the key will be to catch up on labor productivity. 2/
+Slovenia
+Czech Rep.
+Estonia
+Hungary
+Slovak Rep.
+Lithuania
+Latvia
+Poland
+Romania
+Bulgaria
+-70
+
+-60
+
+-50
+
+-40
+
+-30
+
+-20
+
+Sources: Eurostat; and Fund staff calculations.
+1/ Employment as share of total population.
+2/ GDP per capita per employed person.
+
+-10
+
+0
+
+10
+
+20
+
+22
+A. Outlook and External Stability Risks
+16.
+There was agreement that a soft landing remains a viable baseline mediumterm scenario. In this baseline scenario, the external environment, including global growth,
+remains favorable, and capital inflows normalize as excess-return investment opportunities
+are exhausted, entailing sharply slowing investment spending and imports over the medium
+term (Table 10a). Absorption growth would gradually decline below GDP growth, lowering
+the current-account deficit to about 8 percent of GDP, broadly consistent with staff’s
+estimates of Bulgaria’s equilibrium current-account balance (Box 2). After the sharp increase
+this year, inflation is projected to recede gradually to some 3½ percent as the absorption
+boom dissipates, with lower inflation underpinned by stability-oriented fiscal and incomes
+policies, low import-price inflation, as well as steady progress on closing structural-reform
+gaps. External competitiveness would be preserved, with the real effective exchange rate
+appreciating in line with medium-term fundamentals, consistent with a sustainable currency
+board.
+17.
+But the economy would remain saddled with significant external balance-sheet
+vulnerabilities. The net IIP would deteriorate further, albeit at a slowing pace, stabilizing at
+some 80 percent of GDP by 2012 (Table 10a). Gross external debt would only stabilize at
+about 93 percent of GDP, requiring the medium-term current-account deficit excluding
+interest payments to shrink to some 4 percent of GDP (Appendix I). Such a legacy of high
+external indebtedness would markedly increase Bulgaria’s vulnerability to future adverse
+shocks, particularly if euro adoption were delayed beyond 2012. Moreover, the coverage of
+the current-account deficit by net FDI inflows is projected to decline to half its present level
+over the medium term, although coverage of short-term debt by international reserves would
+remain above 100 percent.
+18.
+Thus, staff cautioned that a soft landing may not necessarily materialize, even
+under prudent policies. Given already significant external balance-sheet vulnerabilities, if
+in addition the investment boom reflects irrational exuberance with respect to expected risks
+and returns, a possible correction of capital and credit flows could be sharp and sudden,
+mimicking a boom-bust cycle. The authorities noted that as long as policies remain prudent,
+Bulgaria’s vulnerabilities, including in the corporate sector, would be well matched by the
+large precautionary buffers built up in the balance sheets of the central bank, the government,
+and the banking system. The authorities also emphasized, and staff agreed, that the analytical
+and empirical understanding of what drives Bulgaria’s high external deficits remains
+imperfect, adding that gloomy snap judgments based on historical analogies, including
+the 1990s Asian crisis, could be quite misleading.
+19.
+There was agreement that a significant deviation from prudent fiscal and
+incomes policies could easily result in a misaligned real exchange rate, likely putting the
+currency board under stress. Under this alternative scenario, public-sector wages could be
+hiked well above productivity trends, in turn boosting private sector wages, and, with a lag,
+
+23
+social benefits, with the fiscal stance turning sharply expansionary (Table 10b, Figure 9).
+Rising labor cost would feed into higher domestic inflation, external cost and price
+competitiveness would deteriorate, undermining the tradables sectors’ ability to export and to
+compete with imports. A consumption-driven boom in nontradables activities could
+overcompensate for a slump in the tradables sectors, resulting in temporarily higher GDP
+growth. However, on the external side, the nominal exchange-rate constraint imposed by the
+currency board would result in a significantly overvalued real exchange rate. Such a scenario
+could either entail an abrupt external adjustment or a prolonged period of slow growth to
+restore external competitiveness.
+20.
+Early euro adoption remains the authorities’ umbrella objective. The immediate
+goal is joining ERM2, and, to facilitate this, the authorities noted that they are willing to
+provide firm and detailed policy commitments to their European partners. While the
+authorities aim to adopt the euro on a fast-track basis after ERM2 entry, they also recognized
+that the road to euro adoption could be prolonged and difficult, with the Maastricht Treaty’s
+low-inflation criterion presenting an especially formidable hurdle.
+B. Fiscal Policy
+21.
+The authorities are strongly committed to a fiscal framework that avoids
+procyclical policies and restructures the budget to accelerate real income convergence:
+•
+
+Fiscal balance targets: The strategy would be to maintain a broadly balanced
+structural fiscal position over the medium term. Staff noted that this would strike a
+good compromise between the fiscal prudence requirements of a currency board and
+Bulgaria’s unfavorable demographics on the one hand, and the large spending
+requirements of a lagging transition economy on the other.
+
+•
+
+Expenditure policies: The
+medium-term expenditureGDP ratio would be kept
+below 40 percent of GDP,
+well below spending levels
+of many EU peers. The
+public sector’s lagging
+efficiency calls for
+designing action plans for
+reviewing spending and
+programs in key budgetary
+sectors, notably education
+and health care. Moreover,
+with support from EU
+grants, the spending
+structure would be
+
+Bulgaria plans to keep its spending-GDP ratio below 40 percent of GDP.
+60
+General government spending (percent of GDP), 2006
+New EU Members
+
+55
+
+SWE
+FRA
+
+HUN
+ITA
+
+50
+45
+
+POL
+
+SVN
+CZE
+
+40
+BGR
+
+LVA
+SVK
+ROM
+LTU
+EST
+
+35
+
+AUT
+BEL FIN
+DEU NLD
+
+DNK
+
+GRC
+ESP
+IRL
+
+30
+0
+
+5,000
+
+Source: WEO.
+
+10,000 15,000 20,000 25,000 30,000 35,000 40,000 45,000
+GDP per capita (euros), 2006
+
+24
+Figure 9. Bulgaria: Macroeconomic Prospects Under Loose Fiscal and Incomes
+Policies, 2007–12 1/
+
+50
+
+In the alternative scenario, wage growth
+accelerates …
+Nominal wage growth (percent)
+
+… and fiscal policy is much looser …
+5
+4
+
+40
+
+Structural budget balance (percent of GDP)
+
+3
+Baseline scenario
+Alternative scenario
+
+30
+
+Baseline scenario
+Alternative scenario
+
+2
+1
+0
+
+20
+
+-1
+-2
+
+10
+
+-3
+-4
+
+0
+
+-5
+2007
+
+14
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+… as a result, inflation remains persistently
+high …
+Inflation (GDP deflator; percent)
+
+12
+
+2007
+
+150
+140
+
+10
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+… severely undermining external
+competitiveness over the medium-term.
+Real exchange rate (GDP deflator based REER,
+2007=100)
+
+130
+
+8
+120
+6
+110
+
+4
+Baseline scenario
+
+2
+
+Alternative scenario
+
+0
+
+90
+2007
+
+0
+-5
+
+Baseline scenario
+
+100
+
+Alternative scenario
+2008
+
+2009
+
+2010
+
+2011
+
+2007
+
+2012
+
+Current-account deficits remain
+unsustainably high …
+
+-40
+
+Current account balance
+(percent of GDP)
+
+2008
+
+2009
+
+2011
+
+2012
+
+… while the level of net external liabilities
+does not stabilize.
+Net international investment position
+(percent of GDP)
+
+Baseline scenario
+
+Baseline scenario
+
+-60
+
+Alternative scenario
+
+-10
+
+2010
+
+Alternative scenario
+
+-15
+-80
+-20
+-100
+
+-25
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+Source: Fund staff projections.
+1/ The alternative scenario assumes loose incomes and fiscal policies relative to the baseline scenario.
+Specifically, compared with the baseline, average norminal wage growth is about 14 percentage points higher
+during 2008–12, mainly driven by rapid wage increases in the public sector.
+
+25
+shifted toward public infrastructure and human capital formation to accelerate real
+convergence.
+•
+
+Revenue policies: The tax structure has already undergone a welcome shift toward
+indirect taxation. The authorities plan to continue to reduce direct tax rates,
+particularly on labor, while broadening tax bases to combat the grey economy and to
+increase further Bulgaria’s attractiveness as an investment location. Staff cautioned
+that the recent surge in the tax-GDP ratio is likely to prove temporary and noted that
+the recent steep cuts in social contribution rates already require substantial budget
+transfers to keep the pay-as-you-go pension system afloat.
+
+22.
+In line with this framework, staff urged the authorities to allow automatic fiscal
+stabilizers to operate fully during the remainder of 2007. With revenues potentially even
+more buoyant than presently projected, pressures to increase spending further should be
+resisted given rising inflationary pressures.
+23.
+Fiscal plans for 2008 envisage a broadly neutral stance, but sticking to this
+prudent stance could prove an uphill battle. The authorities noted that running large fiscal
+surpluses was increasingly seen as a sign of excessive fiscal austerity by many stakeholders
+given the country’s large social needs. Nevertheless, the 2008 draft budget approved by the
+cabinet projects a surplus of 3 percent of GDP, roughly in line with an unchanged fiscal
+stance. However, staff saw several risks and issues:
+•
+
+Wages: Following a protracted strike, teachers were granted a wage increase of about
+45 percent. Assuming there are no further public-sector strikes ending with similar
+hikes, average budget wages are still projected to increase by 16 percent. The
+authorities plan to limit the wage-bill impact of higher wages by stepping up cuts in
+public employment, but admitted that this could prove difficult.
+
+•
+
+Personal income tax: The draft 2008 budget envisages a flat 10 percent personal
+income tax (a 10 percent corporate tax rate is already in place), while eliminating
+most exemptions to broaden the tax base. Staff estimated the likely revenue loss to
+amount to some ½ percent of GDP and suggested compensating measures, including
+by raising real-estate taxation. However, the authorities believe that revenue losses
+will be smaller because the flat tax will help shrink the grey economy, and higher
+excises on tobacco and fuel will partly compensate for revenue losses.
+
+•
+
+Capital budget: The draft budget projects capital spending to rise to about 7 percent
+of GDP in 2008, up from 6 percent of GDP in 2007, financed by a similar increase in
+EU grants. Staff expressed concern that increased infrastructure spending could add
+undesirable demand impulses to an already overheated construction sector, but the
+authorities noted that there were early signs of slowing residential construction
+outside Sofia freeing up capacity.
+
+26
+24.
+The authorities highlighted substantial progress on improving fiscal
+transparency. The 2008 draft budget will be based on a single surplus target during budget
+preparation and authorization. Moreover, the previous practice of across-the-board spending
+sequestration depending on fiscal or external developments will be discontinued, and a
+contingency reserve will instead be included in the 2008 budget. Staff noted that it will be
+important to establish clear and transparent rules for the use of this contingency reserve.
+C. Financial Sector Policies
+25.
+There was agreement that administrative limits on bank credit growth had
+proven ineffective in slowing
+Credit controls on bank lending during 2005-06
+private-sector credit growth.6
+triggered a boom in nonbank lending.
+30
+While banks observed the
+Domestic private credit flow (in percent of GDP)
+administrative limits on lending
+25
+Credit
+during 2005–06, corporations and
+Nonbank lending
+20
+Controls
+households found alternative credit
+Bank lending
+sources, and overall credit extension
+15
+by the financial sector remained
+10
+brisk. The BNB noted that there
+5
+were strong a priori reasons
+suggesting that administrative credit
+0
+controls would prove ineffective
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+proj.
+given Bulgaria’s market-based
+Sources: Bulgarian authorities; and Fund staff
+financial sector and open capital
+estimates and projections.
+account.
+26.
+The authorities agreed that rapid bank credit growth warrants careful
+monitoring. The authorities envisage prudent implementation of Basel II, notably keeping
+the minimum capital-adequacy ratio at 12 percent, the highest ratio among new member
+states, and maintaining the standardized approach until sufficient data are available to allow
+fact-based internal ratings. However, bank credit growth was uncomfortably high, and may
+partly reflect the objective of large banks to maintain or expand market share. Against this
+backdrop, the authorities are re-evaluating banks’ internal risk-management systems. They
+have also strengthened cross-border cooperation with parent supervisors of foreign banks,
+and intended to become active participants in future EU financial stability coordination
+exercises.7
+
+6
+
+See Selected Issues Chapter IV “Bulgaria’s Credit Boom: After Credit Controls.”
+
+7
+
+An AML/CFT assessment by MONEYVAL is under way, with the final report expected in early-2008.
+
+27
+Figure 10. Selected EU Countries: Indicators of Capital Market Development
+… the government bond market remains
+sizable …
+
+Bulgaria's domestic corporate bond
+market is lagging …
+
+70
+
+14
+Outstanding domestic private debt securities, 2006
+(In percent of GDP)
+
+12
+
+Outstanding domestic government securities,
+2006 (In percent of GDP)
+
+60
+50
+
+10
+
+40
+
+8
+Financial
+Institutions
+
+70
+
+120
+
+60
+
+100
+
+Average = 89.4
+
+40
+
+60
+
+30
+
+Average = 31.1
+
+Hungary
+
+Czech Rep.
+
+Poland
+
+Slovak Rep.
+
+Lithuania
+
+Bulgaria
+
+Slovenia
+
+50
+
+80
+
+20
+
+20
+
+10
+
+Sources: BIS; Standard & Poor's; Bloomberg; WEO; and Fund staff calculations.
+
+Hungary
+
+Czech Rep.
+
+Poland
+
+Lithuania
+
+Estonia
+
+Bulgaria
+
+0
+Romania
+
+Italy
+Portugal
+Germany
+Austria
+Netherlands
+Spain
+Denmark
+Norway
+Belgium
+France
+Finland
+United Kingdom
+
+Slovak Rep.
+Latvia
+Romania
+Bulgaria
+Lithuania
+Czech Rep.
+Estonia
+Hungary
+Slovenia
+Poland
+
+0
+
+Slovenia
+
+40
+
+Turnover Ratios in New Member States Equity
+Markets, end-2006 (In percent)
+
+80
+
+140
+
+Romania
+
+Malta
+
+Hungary
+
+Estonia
+
+Czech Rep.
+
+Malta
+
+Slovak Rep.
+
+Market Capitalization in Europe, end-2006
+(In percent of GDP)
+
+90
+
+… but stock market turnover remains
+moderate.
+
+Latvia
+
+160
+
+… stock market capitalization is close to
+its peers …
+
+Slovak Rep.
+
+180
+
+Bulgaria
+
+0
+Latvia
+
+0
+Poland
+
+10
+
+Romania
+
+2
+
+Slovenia
+
+20
+
+Lithuania
+
+4
+
+Latvia
+
+30
+
+Corporations
+
+Estonia
+
+6
+
+28
+27.
+Capital market development faces significant local challenges. There is
+undoubtedly scope for expanding the role of local private debt and stock markets in
+financial intermediation (Figure 10). The key incentives for raising funds in the domestic
+capital market are reducing maturity mismatch and reliance on foreign funding in the
+banking sector. Though nonfinancial enterprises were not expected to become major local
+bond issuers in the short term, the recent rise in local initial public offerings indicates that
+they are increasingly turning to the stock market for capital. Against this backdrop, the
+authorities shared staff’s concern that a potentially large stock-market correction could be
+damaging for market development, given reputational costs and the adverse consequences
+for pension-fund performance.
+D. Structural Reforms
+28.
+Improving the business climate and enhancing wage and labor market
+flexibility were seen as priorities. A key step to improving the business climate will be the
+start-up of the electronic commercial register on January 1, 2008, and the authorities plan to
+further simplify licensing and permit systems. More progress on privatization, including of
+Bulgartabak Holding AD, and improving market competition, particularly in energy
+markets, were also priorities. In the labor market, limited intersectoral mobility in particular
+called for amending the overly prescriptive Labor Code to provide social partners with more
+flexibility to set wages, benefits, seniority bonuses, and overtime and part-time work.
+Improving incentives for education and training, as well as putting limits on the duration of
+social benefits to stimulate work effort, were seen as additional useful steps to improve
+labor-market functioning.
+IV. STAFF APPRAISAL
+29.
+At first sight, Bulgaria’s economy is performing quite well. Since 2003, against a
+backdrop of increasingly secure EU accession prospects and impressive macroeconomic
+stability gains, investment spending has boomed as investors sought to take advantage of
+Bulgaria’s improved economic fundamentals. Official data suggest that real GDP growth
+averaged about 6 percent during 2003–06, while unemployment dropped sharply.
+30.
+But Bulgaria’s policy makers are faced with several disquieting developments.
+The current-account deficit has ballooned to unprecedented levels. It will have to be
+reduced eventually, otherwise the country’s external net financial liabilities and payment
+obligations could increase to unsustainable levels. Moreover, the recent credit tensions in
+mature markets have highlighted the speed and scope at which financial markets can reassess risk premia, and Bulgaria is widely viewed as vulnerable to such re-assessments.
+Adding to external concerns, inflationary pressures are also on the rise, in large part
+reflecting one-off shocks, but also accelerating wage increases as labor market conditions
+have tightened. Finally, much needed but difficult structural reforms were put on the
+
+29
+backburner for too long, particularly reforms that would raise the public sector’s low
+efficiency.
+31.
+This challenging backdrop calls for maintaining a prudent policy framework
+while tackling difficult structural reforms. Fiscal and incomes policies should continue to
+avoid adding procyclical demand pressures that could widen internal and external
+imbalances, while retooling the spending and tax levers of the budget to accelerate real
+convergence and productivity growth, including through the efficient absorption of EU
+funds. Banking supervisors should closely monitor banks’ risk management and ensure that
+banks’ have sufficient buffers to absorb large adverse shocks. And long-delayed structural
+reforms are needed to raise the efficiency of available human and real resources, while
+providing incentives to add to available resources. These policies should also provide a
+strong basis for achieving Bulgaria’s ambition for deepening its EU integration, including
+by eventually adopting the euro.
+32.
+Prudent fiscal and incomes policies remain the authorities first line of defense.
+The authorities have accumulated an admirable record in allowing automatic fiscal
+stabilizers to feed through to large fiscal surpluses. But prudent fiscal and incomes policies
+need to be upheld to preserve the sustainability of the currency board, notwithstanding
+popular sentiments that present budget surpluses are excessive and that the public purse
+strings should be loosened to address high social expectations following EU accession.
+Therefore, the authorities’ intention to aim at a large budget surplus in 2008 is welcome.
+But it will also be important to maintain wage discipline in the public sector, and
+compensate already agreed large increases in public wages partly by stepping up reductions
+in public-sector employment. This would also help mitigate overheating pressures in the
+labor market. The envisaged steps to increase fiscal transparency in the 2008 budget are
+also welcome.
+33.
+Banking sector supervision and regulation is strong, and financial soundness
+indicators do not point to glaring weaknesses, but arrangements have yet to be tested
+by a credit-cycle downturn. Basel II capital-adequacy standards apply since January and
+should help encourage more risk-based management of credit portfolios. Moreover, with
+Bulgaria’s foreign banks increasingly centralizing their liquidity and risk management
+functions, cross-border cooperation with other supervisors needs to be strengthened further.
+Finally, Bulgaria’s active participation in future efforts to improve the EU’s cross-border
+crisis management arrangements is welcome.
+34.
+Notwithstanding major achievements, capital market regulation and
+supervision needs further strengthening to support sustainable market development.
+The authorities have adopted relevant EU directives and made significant efforts to increase
+transparency and financial disclosure standards. To reduce the potential for boom-bust
+cycles in local asset prices, the authorities should further increase efforts to enforce
+regulations, educate the public about stock market risks, and consider tighter listing
+
+30
+requirements in the local stock market. The planned FSAP update in 2008 should provide a
+good opportunity to take stock of the strengths and vulnerabilities of Bulgaria’s financial
+system.
+35.
+Several structural reform priorities should be addressed without delay. First,
+public-sector efficiency should be raised, starting by designing action plans for reviewing
+spending and programs in key budget sectors, notably education and health care. It would
+also be useful to introduce effective systems for monitoring and evaluating policy
+implementation in the public sector. As regards the labor market, measures to activate labor
+supply should include amendments to the Labor Code to provide more flexibility to social
+partners to negotiate the terms of work contracts. Finally, there is a need to improve the
+investment climate by lowering the cost of doing business.
+36.
+While Bulgaria’s statistical data are broadly adequate for surveillance, there
+are significant weaknesses. The sectoral flow-of-funds data for households and
+nonfinancial corporates are sketchy, impeding the understanding of vulnerabilities in these
+sectors. Bulgaria’s employment and wage data are also difficult to interpret, partly
+reflecting difficult-to-measure changes in the grey economy. And given the focus on
+Bulgaria’s widening external imbalance, clarification of uncertainties regarding the trade
+data that have emerged since EU accession would be desirable.
+37.
+It is proposed that the next Article IV consultation be held on the standard 12-month
+cycle.
+
+31
+Table 1. Bulgaria: Selected Economic and Social Indicators, 2004–08
+2004
+
+Output, prices, and labor market
+Real GDP
+Real domestic demand
+Consumer price index (HICP, average)
+Consumer price index (HICP, end of period)
+Employment
+Nominal wages
+Public sector wages
+Private sector wages
+
+6.6
+8.1
+6.1
+4.0
+2.6
+6.0
+7.1
+7.0
+
+General government finances
+Revenue
+Expenditure
+Fiscal balance
+Privatization proceeds
+External financing
+Domestic financing
+Gross public debt
+Financial net worth
+
+38.4
+36.7
+1.7
+3.0
+-1.6
+-3.2
+40.1
+8.8
+
+Money and credit
+Broad money (M3)
+Domestic credit
+
+23.1
+48.7
+
+2005
+
+(Annual percentage change)
+6.2
+6.1
+12.2
+12.5
+6.0
+7.4
+7.4
+6.1
+2.7
+2.4
+9.5
+9.4
+11.3
+9.1
+10.4
+10.0
+(In percent of GDP)
+39.8
+39.0
+37.5
+35.5
+2.3
+3.5
+3.4
+1.5
+-5.6
+-1.9
+0.0
+-3.1
+31.3
+24.7
+9.3
+11.8
+(Annual percentage change)
+23.9
+26.9
+32.4
+24.6
+
+Interest rates
+Euro, six-month LIBOR
+Interbank rate
+
+2006
+
+2007
+Proj.
+
+2008
+Proj.
+
+6.4
+11.0
+7.2
+9.5
+2.6
+18.9
+16.9
+21.4
+
+6.3
+5.4
+7.8
+4.9
+1.9
+17.6
+16.2
+18.8
+
+40.5
+37.0
+3.5
+0.5
+-0.5
+-3.5
+21.3
+13.8
+
+40.5
+37.0
+3.5
+0.6
+0.9
+-5.5
+20.2
+15.6
+
+28.5
+52.5
+
+24.3
+26.2
+
+4.0
+…
+
+4.1
+…
+
+(In percent)
+2.1
+2.6
+
+2.2
+2.0
+
+3.1
+2.7
+
+Lending rate
+
+8.8
+
+8.7
+
+8.9
+
+…
+
+…
+
+Real lending rate (HICP adjusted)
+
+2.6
+
+2.5
+
+1.4
+
+…
+
+…
+
+-20.2
+-26.2
+30.6
+14.6
+-64.7
+40.5
+87.6
+
+-18.5
+-25.5
+26.0
+9.6
+-72.7
+42.9
+92.7
+
+Balance of payments
+Current account balance
+Merchandise trade balance
+Capital and financial account balance
+Foreign direct investment balance
+International investment position
+Gross official reserves
+Gross external debt
+
+-6.6
+-14.9
+14.3
+7.9
+-30.8
+34.5
+63.8
+
+(In percent of GDP)
+-12.0
+-15.7
+-20.2
+-22.2
+15.1
+21.5
+17.7
+16.8
+-43.1
+-52.8
+33.7
+35.6
+69.0
+78.4
+
+Exchange rates
+Leva per euro
+Leva per U.S. dollar (end of period)
+Real effective exchange rate
+CPI based (percentage change)
+GDP deflator based (percentage change)
+
+Currency board peg to euro at lev 1.956 per euro
+1.46
+1.65
+1.48
+…
+5.0
+3.6
+
+0.6
+1.8
+
+4.3
+6.3
+
+Social Indicators (reference year in parentheses)
+Per capita GNI (Atlas method, 2006): US $3,990; Poverty rate (2001): 12.8 percent;
+Life expectancy at birth (2005): 72.6 years; Infant mortality per 1,000 live births (2005): 12;
+Income distribution (Gini index, 2003): 29.2; Primary education completion rate (2005): 98.3
+Sources: Bulgarian authorities; Fund staff estimates and projections; and World Development Indicators database.
+
+5.3
+6.3
+
+…
+5.7
+5.6
+
+32
+Table 2. Bulgaria: Real GDP by Expenditure Category
+and Implicit Deflators, 2004–08
+2004
+
+2005
+
+2006
+
+2007
+Proj.
+
+2008
+Proj.
+
+6.4
+11.0
+9.8
+18.1
+8.5
+8.4
+8.9
+19.7
+16.0
+36.9
+-8.0
+6.0
+11.0
+
+6.3
+5.4
+4.8
+8.6
+5.2
+5.7
+2.3
+6.4
+3.2
+18.8
+-1.3
+13.3
+9.8
+
+(Real growth rate, in percent)
+Real GDP
+Domestic demand
+Private demand 1/
+Public demand 1/
+Final consumption
+Private consumption
+Public consumption
+Gross investment
+Private investment 2/
+Public investment
+Net exports 3/
+Exports of goods and services
+Imports of goods and services
+
+6.6
+8.1
+8.2
+7.3
+5.5
+5.9
+3.8
+13.5
+12.6
+18.0
+-4.5
+12.7
+14.5
+
+6.2
+12.2
+12.5
+10.2
+5.5
+6.1
+2.5
+23.3
+21.4
+31.4
+-6.7
+8.5
+13.1
+
+6.1
+12.5
+14.0
+4.0
+6.7
+7.5
+2.4
+17.6
+20.0
+7.7
+-9.3
+9.0
+15.1
+
+(Contribution to real GDP growth, in percent)
+Domestic demand
+Private demand 1/
+Public demand 1/
+Final consumption
+Private consumption
+Public consumption
+Gross investment
+Private investment 2/
+Public investment
+Net exports 3/
+Exports of goods and services
+Imports of goods and services
+Statistical discrepancy
+
+9.7
+8.3
+1.4
+4.9
+4.4
+0.5
+4.7
+3.9
+0.8
+-4.5
+9.2
+-13.6
+1.4
+
+14.8
+12.8
+1.9
+4.9
+4.5
+0.4
+9.9
+8.3
+1.6
+-6.7
+6.5
+-13.2
+-1.8
+
+16.0
+15.2
+0.8
+5.9
+5.6
+0.3
+10.1
+9.6
+0.5
+-9.3
+7.0
+-16.2
+-0.7
+
+14.9
+11.5
+3.5
+7.5
+6.3
+1.2
+7.4
+5.1
+2.3
+-8.0
+4.8
+-12.8
+-0.6
+
+7.6
+5.8
+1.8
+4.7
+4.4
+0.3
+3.0
+1.4
+1.5
+-1.3
+10.6
+-11.9
+0.0
+
+(Percentage change in implicit deflators)
+GDP deflator
+Domestic demand
+Final consumption
+Private consumption
+Public consumption
+Gross investment
+Exports of goods and services
+Imports of goods and services
+
+5.1
+3.6
+4.4
+4.4
+4.8
+4.8
+6.4
+4.7
+
+3.8
+3.0
+5.0
+5.2
+5.1
+5.3
+7.3
+8.7
+
+8.1
+4.0
+5.5
+5.2
+8.2
+5.9
+11.9
+8.2
+
+8.0
+7.0
+7.2
+7.2
+7.2
+5.4
+2.9
+3.8
+
+Sources: National Statistical Institute (NSI); staff estimates and projections.
+1/ Private and public sector components based on staff calculations and not officially reported by the NSI.
+2/ Including inventories.
+3/ Contributions to GDP growth.
+
+7.5
+7.1
+7.8
+7.8
+7.8
+5.8
+1.9
+3.0
+
+33
+Table 3. Bulgaria: Balance of Payments, 2005–2012
+(In millions of euros, unless otherwise indicated)
+
+Current account balance
+Merchandise trade balance
+Exports (f.o.b.)
+Imports (f.o.b.)
+Services balance
+Exports of non-factor services
+Imports of non-factor services
+Income balance
+Receipts
+Payments
+Current transfer balance
+Capital and financial account balance
+Capital transfer balance
+Foreign direct investment balance
+Portfolio investment balance
+Other investment balance
+General government
+Domestic banks
+Other private sector
+Errors and omissions
+Overall balance
+Financing
+Gross international reserves (increase: -)
+Use of Fund credit, net
+Purchases
+Repurchases
+Memorandum items:
+Current account balance
+Foreign direct investment balance
+Merchandise trade balance
+Exports
+Imports
+Gross external financing requirement
+Terms of trade (merchandise)
+Merchandise export volume
+Merchandise import volume
+Merchandise export prices
+Merchandise import prices
+GDP
+
+2005
+
+2006
+
+2007
+Proj.
+
+2008
+Proj.
+
+2009
+Proj.
+
+2010
+Proj.
+
+2011
+Proj.
+
+2012
+Proj.
+
+-2,622
+-4,410
+9,466
+-13,876
+818
+3,564
+-2,746
+151
+1,218
+-1,067
+818
+
+-3,935
+-5,562
+12,012
+-17,574
+971
+4,143
+-3,172
+-6
+1,278
+-1,284
+662
+
+-5,817
+-7,549
+12,971
+-20,520
+1,268
+4,657
+-3,388
+-189
+1,638
+-1,827
+652
+
+-6,087
+-8,404
+14,941
+-23,345
+1,726
+5,418
+-3,692
+-313
+1,944
+-2,257
+904
+
+-5,681
+-8,407
+16,253
+-24,660
+2,313
+6,248
+-3,936
+-557
+2,230
+-2,787
+971
+
+-5,114
+-8,172
+18,124
+-26,296
+2,865
+7,109
+-4,244
+-607
+2,523
+-3,130
+800
+
+-4,679
+-8,230
+20,437
+-28,666
+3,454
+8,099
+-4,644
+-785
+2,835
+-3,620
+881
+
+-4,119
+-8,526
+23,103
+-31,629
+4,279
+9,222
+-4,944
+-845
+3,142
+-3,988
+974
+
+3,306
+209
+3,871
+-1,298
+1,104
+19
+-210
+1,295
+
+5,399
+180
+4,227
+114
+878
+-304
+-568
+1,750
+
+8,819
+387
+4,199
+-247
+4,480
+108
+2,900
+1,473
+
+8,568
+797
+3,156
+0
+4,614
+423
+-169
+4,360
+
+8,000
+905
+2,619
+0
+4,476
+463
+-130
+4,143
+
+6,883
+985
+2,079
+0
+3,820
+308
+-744
+4,256
+
+5,854
+988
+2,034
+0
+2,832
+11
+-100
+2,921
+
+4,821
+988
+1,983
+0
+1,850
+274
+-294
+1,871
+
+-579.8
+
+321.1
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+684
+
+1,786
+
+3,002
+
+2,481
+
+2,319
+
+1,769
+
+1,174
+
+702
+
+-684
+-324
+-359.5
+0.0
+-359.5
+
+-1,786
+-1,506
+-279.9
+0.0
+-279.9
+
+-3,002
+-2,747
+-254.8
+0.0
+-254.8
+
+-2,481
+-2,481
+0.0
+0.0
+0.0
+
+-2,319
+-2,319
+0.0
+0.0
+0.0
+
+-1,769
+-1,769
+0.0
+0.0
+0.0
+
+-1,174
+-1,174
+0.0
+0.0
+0.0
+
+-702
+-702
+0.0
+0.0
+0.0
+
+-12.0
+17.7
+-20.2
+43.3
+-63.4
+40.5
+
+-15.7
+16.8
+-22.2
+47.9
+-70.0
+40.2
+
+-20.2
+14.6
+-26.2
+45.0
+-71.1
+45.9
+
+(In percent of GDP)
+-18.5
+-15.5
+9.6
+7.2
+-25.5
+-23.0
+45.3
+44.5
+-70.8
+-67.5
+46.9
+48.3
+
+-12.7
+5.1
+-20.2
+44.9
+-65.1
+48.7
+
+-10.5
+4.5
+-18.4
+45.7
+-64.1
+48.4
+
+-8.3
+4.0
+-17.2
+46.6
+-63.8
+46.8
+
+-2.5
+10.5
+15.3
+7.3
+10.0
+
+3.5
+11.3
+15.0
+14.0
+10.1
+
+(Annual percentage change)
+-3.2
+-1.6
+2.0
+1.3
+8.5
+13.6
+11.1
+13.3
+13.5
+10.5
+10.0
+9.8
+-0.5
+1.4
+-2.1
+-1.6
+2.9
+3.0
+-3.9
+-2.9
+
+0.8
+14.0
+11.1
+-1.1
+-1.9
+
+0.3
+13.9
+11.5
+-0.8
+-1.1
+
+21,882
+
+25,100
+
+44,699
+
+49,542
+
+Sources: Bulgarian authorities; and Fund staff estimates and projections.
+
+28,849
+
+32,963
+
+36,543
+
+40,397
+
+34
+Table 4. Bulgaria: External Financial Assets and Liabilities, 2005–12
+(In millions of euro, unless otherwise indicated)
+2005
+
+2006
+
+2007
+Proj.
+
+2008
+Proj.
+
+2009
+Proj.
+
+2010
+Proj.
+
+2011
+Proj.
+
+2012
+Proj.
+
+International investment position
+
+-9,427
+
+-13,240
+
+-18,666
+
+-23,956
+
+-28,732
+
+-32,861
+
+-36,552
+
+-39,684
+
+Financial assets
+Foreign direct investment
+Portfolio investment
+Other investments
+Gross international reserves
+
+13,391
+154
+662
+5,205
+7,370
+
+16,880
+261
+879
+6,814
+8,926
+
+18,950
+562
+879
+5,836
+11,674
+
+21,962
+906
+879
+6,023
+14,154
+
+24,861
+1,287
+879
+6,222
+16,474
+
+27,261
+1,708
+879
+6,432
+18,243
+
+29,124
+2,175
+879
+6,653
+19,417
+
+30,578
+2,692
+879
+6,888
+20,120
+
+Financial liabilities
+Foreign direct investment
+Equity
+Intercompany debt
+Portfolio investment
+Loans
+BNB
+General government
+Banks
+Other sectors
+Other liabilities
+
+22,818
+11,499
+7,724
+3,775
+2,017
+6,712
+559.5
+2,172
+920
+3,061
+2,589
+
+30,120
+15,723
+10,335
+5,388
+2,343
+8,651
+258.9
+1,834
+1,312
+5,247
+3,403
+
+37,616
+20,223
+12,135
+8,088
+2,095
+11,895
+0.0
+1,942
+3,233
+6,720
+3,403
+
+45,918
+23,723
+14,585
+9,138
+2,095
+16,696
+0.0
+2,365
+3,252
+11,079
+3,403
+
+53,593
+26,723
+16,685
+10,038
+2,095
+21,371
+0.0
+2,828
+3,321
+15,222
+3,403
+
+60,122
+29,223
+18,435
+10,788
+2,095
+25,400
+0.0
+3,136
+2,787
+19,478
+3,403
+
+65,676
+31,723
+20,185
+11,538
+2,095
+28,455
+0.0
+3,147
+2,909
+22,399
+3,403
+
+70,261
+34,223
+21,935
+12,288
+2,095
+30,540
+0.0
+3,420
+2,849
+24,270
+3,403
+
+Memorandum items:
+GIR (in percent of GDP)
+GIR (in percent of short-term debt, at remaining maturity)
+GIR (in percent of short-term debt and FX deposits of banks)
+GIR (in months of next year's imports)
+NIR (in percent of GDP)
+Gross external debt (in percent of GDP)
+Public
+Private
+Short-term
+Long-term
+Gross external debt (in percent of exports of GNFS)
+Net international investment position (in percent of GDP)
+GDP
+
+33.7
+118.0
+54.4
+4.3
+31.2
+69.0
+23.6
+45.4
+17.2
+28.2
+115.8
+-43.1
+21,882
+
+35.6
+145.1
+57.4
+4.4
+34.6
+78.4
+17.9
+60.4
+24.0
+36.4
+121.8
+-52.8
+25,100
+
+40.5
+157.3
+57.5
+5.1
+35.3
+87.6
+14.6
+73.0
+28.9
+44.1
+143.3
+-64.7
+28,849
+
+42.9
+150.8
+...
+5.9
+36.0
+92.7
+14.1
+78.6
+32.0
+46.6
+150.1
+-72.7
+32,963
+
+45.1
+137.4
+...
+6.4
+36.8
+97.7
+13.9
+83.8
+34.7
+49.1
+158.7
+-78.6
+36,543
+
+45.2
+125.2
+...
+6.6
+36.1
+99.2
+13.2
+86.0
+35.6
+50.4
+158.9
+-81.3
+40,397
+
+43.4
+114.5
+...
+6.4
+33.9
+97.2
+11.8
+85.4
+35.6
+49.8
+152.2
+-81.8
+44,699
+
+40.6
+105.4
+...
+...
+30.7
+93.3
+11.3
+82.0
+34.1
+47.9
+143.0
+-80.1
+49,542
+
+Sources: BNB; NSI; and Fund staff estimates and projections.
+
+35
+Table 5a. Bulgaria: General Government Operations and Balance Sheet, 2004–08
+(In millions of leva)
+2004
+
+2005
+
+2006
+
+2007
+Budget
+
+2007
+Proj.
+
+2008
+Budget
+
+2008
+Proj.
+
+Revenue
+Taxes
+Taxes on profits
+Taxes on income
+Value-added taxes
+Excises
+Customs duties
+Social security contributions
+Other taxes
+Nontax revenues
+Grants
+
+14,918
+11,869
+973
+1,248
+3,891
+1,885
+292
+3,171
+409
+2,595
+455
+
+17,030
+13,579
+1,028
+1,249
+4,798
+2,188
+372
+3,505
+440
+2,935
+516
+
+19,140
+15,513
+1,334
+1,325
+5,824
+2,498
+455
+3,496
+582
+3,002
+625
+
+20,411
+16,583
+1,411
+1,446
+6,301
+3,173
+240
+3,601
+412
+2,740
+1,088
+
+22,851
+18,558
+1,790
+1,785
+6,983
+3,287
+194
+3,880
+638
+3,206
+1,087
+
+26,210
+21,117
+2,262
+2,190
+8,110
+3,798
+195
+3,817
+745
+3,193
+1,900
+
+26,100
+20,979
+2,045
+1,941
+8,031
+4,012
+204
+4,017
+729
+3,432
+1,689
+
+Expenditure
+Current expenditure
+Compensation of employees
+Maintenance and operations
+Interest
+Subsidies
+Contribution to EU budget
+Social benefits
+Pensions
+Unemployment
+Health care
+Other
+Other spending
+Capital expenditure
+Contingency
+
+14,249
+12,640
+2,381
+3,178
+697
+869
+…
+5,445
+3,457
+941
+778
+269
+71
+1,473
+219
+
+16,056
+13,569
+2,505
+3,475
+686
+870
+…
+5,987
+3,715
+1,032
+947
+293
+46
+2,039
+439
+
+17,416
+14,742
+2,773
+3,835
+640
+726
+...
+6,766
+4,149
+1,153
+1,185
+279
+2
+2,325
+293
+
+20,060
+16,957
+3,160
+4,035
+730
+937
+634
+7,425
+4,390
+1,393
+1,314
+328
+35
+2,797
+307
+
+20,871
+17,209
+3,471
+4,065
+677
+941
+634
+7,386
+4,498
+1,233
+1,354
+301
+35
+3,355
+307
+
+24,389
+19,437
+3,596
+4,776
+668
+1,343
+660
+8,341
+5,277
+1,578
+1,486
+0
+53
+4,258
+694
+
+23,831
+18,970
+3,513
+4,534
+671
+1,300
+660
+8,249
+5,235
+1,249
+1,436
+330
+43
+4,219
+642
+
+670
+
+974
+
+1,724
+
+351
+
+1,979
+
+1,821
+
+2,269
+
+Financing
+Privatization proceeds
+External
+Domestic
+
+-670
+1,180
+-622
+-1,228
+
+-974
+1,447
+-2,411
+-11
+
+-1,724
+738
+-933
+-1,530
+
+-351
+274
+-278
+-347
+
+-1,979
+274
+-278
+-1,975
+
+-1,821
+400
+588
+-2,809
+
+-2,269
+400
+906
+-3,575
+
+Financial assets
+Fiscal reserve
+Shares and other equity
+Other assets
+Financial liabilities
+Gross public debt
+Foreign
+Domestic
+Other liabilities
+Net financial worth
+
+20,790
+4,715
+7,605
+10,636
+17,391
+15,559
+12,878
+2,681
+1,832
+3,399
+
+18,954
+4,552
+6,783
+9,197
+14,982
+13,387
+10,544
+2,843
+1,595
+3,972
+
+19,442
+5,435
+6,171
+7,495
+13,647
+12,120
+9,164
+2,956
+1,527
+5,795
+
+…
+…
+…
+…
+…
+…
+…
+…
+…
+…
+
+21,289
+6,800
+6,000
+8,489
+13,515
+12,015
+8,719
+3,296
+1,500
+7,774
+
+…
+…
+…
+…
+…
+…
+…
+…
+…
+…
+
+24,544
+8,959
+6,856
+8,730
+14,501
+13,001
+9,343
+3,658
+1,500
+10,043
+
+Fiscal balance
+
+Sources: Ministry of Finance; Eurostat; and Fund staff projections.
+
+36
+Table 5b. Bulgaria: General Government Operations and Balance Sheet, 2004–08
+(In percent of GDP)
+2004
+
+2005
+
+2006
+
+2007
+Budget
+
+2007
+Proj.
+
+2008
+Budget
+
+2008
+Proj.
+
+Revenue
+Taxes
+Taxes on profits
+Taxes on income
+Value-added taxes
+Excises
+Customs duties
+Social security contributions
+Other taxes
+Nontax revenues
+Grants
+
+38.4
+30.6
+2.5
+3.2
+10.0
+4.9
+0.8
+8.2
+1.1
+6.7
+1.2
+
+39.8
+31.7
+2.4
+2.9
+11.2
+5.1
+0.9
+8.2
+1.0
+6.9
+1.2
+
+39.0
+31.6
+2.7
+2.7
+11.9
+5.1
+0.9
+7.1
+1.2
+6.1
+1.3
+
+39.9
+32.4
+2.8
+2.8
+12.3
+6.2
+0.5
+7.0
+0.8
+5.4
+2.1
+
+40.5
+32.9
+3.2
+3.2
+12.4
+5.8
+0.3
+6.9
+1.1
+5.7
+1.9
+
+42.5
+34.2
+3.7
+3.5
+13.1
+6.2
+0.3
+6.2
+1.2
+5.2
+3.1
+
+40.5
+32.5
+3.2
+3.0
+12.5
+6.2
+0.3
+6.2
+1.1
+5.3
+2.6
+
+Expenditure
+Current expenditure
+Compensation of employees
+Maintenance and operations
+Interest
+Subsidies
+Contribution to EU budget
+Social benefits
+Pension
+Pensions
+Health care
+Other
+Other spending
+Capital expenditure
+Contingency
+
+36.7
+32.6
+6.1
+8.2
+1.8
+2.2
+…
+14.0
+8.9
+2.4
+2.0
+0.7
+0.2
+3.8
+0.6
+
+37.5
+31.7
+5.9
+8.1
+1.6
+2.0
+…
+14.0
+8.7
+2.4
+2.2
+0.7
+0.1
+4.8
+1.0
+
+35.5
+30.0
+5.6
+7.8
+1.3
+1.5
+…
+13.8
+8.5
+2.3
+2.4
+0.6
+0.0
+4.7
+0.6
+
+39.2
+33.2
+6.2
+7.9
+1.4
+1.8
+1.2
+14.5
+8.6
+2.7
+2.6
+0.6
+0.1
+5.5
+0.6
+
+37.0
+30.5
+6.2
+7.2
+1.2
+1.7
+1.1
+13.1
+8.0
+2.2
+2.4
+0.5
+0.1
+5.9
+0.5
+
+39.5
+31.5
+5.8
+7.7
+1.1
+2.2
+1.1
+13.5
+8.6
+2.6
+2.4
+0.0
+0.1
+6.9
+1.1
+
+37.0
+29.4
+5.4
+7.0
+1.0
+2.0
+1.0
+12.8
+8.1
+1.9
+2.2
+0.5
+0.1
+6.5
+1.0
+
+1.7
+
+2.3
+
+3.5
+
+0.7
+
+3.5
+
+3.0
+
+3.5
+
+Financing
+Privatization proceeds
+External
+Domestic
+
+-1.7
+3.0
+-1.6
+-3.2
+
+-2.3
+3.4
+-5.6
+0.0
+
+-3.5
+1.5
+-1.9
+-3.1
+
+-0.7
+0.5
+-0.5
+-0.7
+
+-3.5
+0.5
+-0.5
+-3.5
+
+-3.0
+0.6
+1.0
+-4.6
+
+-3.5
+0.6
+0.9
+-5.5
+
+Financial assets
+Fiscal reserve
+Shares and other equity
+Other assets
+Financial liabilities
+Gross public debt
+Foreign
+Domestic
+Other liabilities
+Net financial worth
+
+53.6
+12.1
+19.6
+29.3
+44.8
+40.1
+33.2
+6.9
+4.7
+8.8
+
+44.3
+10.6
+15.8
+23.0
+35.0
+31.3
+24.6
+6.6
+3.7
+9.3
+
+39.6
+11.1
+12.6
+17.5
+27.8
+24.7
+18.7
+6.0
+3.1
+11.8
+
+…
+…
+…
+…
+…
+…
+…
+…
+…
+…
+
+37.7
+12.1
+10.6
+15.0
+24.1
+21.3
+14.6
+6.8
+2.7
+13.8
+
+…
+…
+…
+…
+…
+…
+…
+…
+…
+…
+
+38.1
+13.9
+10.6
+13.5
+16.4
+20.2
+14.5
+5.7
+2.3
+15.6
+
+2.2
+2.4
+-1.1
+-2.1
+38,823
+
+2.3
+1.5
+0.1
+3.7
+42,797
+
+3.3
+1.8
+0.5
+7.9
+49,091
+
+…
+…
+…
+…
+51,141
+
+3.1
+0.7
+1.0
+12.8
+56,424
+
+…
+…
+…
+…
+61,711
+
+3.0
+1.0
+1.4
+11.1
+64,470
+
+Fiscal balance
+
+Memorandum items:
+Conventional structural fiscal balance
+Modified structural fiscal balance 1/
+Output gap 2/
+Absorption gap 3/
+Nominal GDP (in millions of leva)
+
+Sources: Ministry of Finance; and Fund staff estimates and projections.
+1/ Actual fiscal balance adjusted for the automatic effects of both internal imbalance (output gap) and external imbalance
+(absorption gap) on fiscal position; see Selected Issues Chapter III.
+2/ Percentage deviation of actual from potential GDP.
+3/ Percentage deviation between actual absorption and the level of absorption consistent with external balance.
+
+37
+Table 6. Bulgaria: Monetary Accounts, 2005–12
+(In millions of leva, unless otherwise stated)
+
+Monetary Survey
+Net foreign assets
+Net foreign reserves (millions of euro)
+Net domestic assets
+Domestic credit
+General government
+Non-government
+Other items, net
+Broad money (M3)
+Currency outside banks
+Deposits
+Accounts of the Bulgarian National Bank
+Net foreign assets
+Net foreign reserves (millions of euro)
+Net domestic assets
+Net claims on government
+Claims on government
+Liabilities of government
+Net claims on economy
+Fixed assets and other items, net
+Base money
+Currency in circulation
+Banks reserves
+Deposit money banks
+Net foreign assets
+Gross foreign assets
+Gross foreign liabilities
+Net domestic assets
+Domestic credit
+Credit to government
+Credit to non-government
+
+2005
+Dec.
+
+2006
+Dec.
+
+2007
+Sept.
+
+2007
+Dec.
+Proj.
+
+2008
+Dec.
+Proj.
+
+2009
+Dec.
+Proj.
+
+2010
+Dec.
+Proj.
+
+2011
+Dec.
+Proj.
+
+2012
+Dec.
+Proj.
+
+13,221
+6,760
+12,039
+18,300
+-363
+18,663
+-6,261
+
+18,634
+9,528
+13,427
+21,091
+-2,165
+23,256
+-7,664
+
+19,860
+10,154
+18,373
+28,091
+-5,073
+33,164
+-9,718
+
+18,819
+9,622
+22,366
+31,325
+-4,140
+35,465
+-8,959
+
+24,001
+12,272
+27,206
+37,042
+-7,715
+44,757
+-9,836
+
+28,790
+14,720
+33,631
+44,442
+-10,207
+54,649
+-10,811
+
+33,706
+17,234
+40,832
+52,726
+-11,923
+64,649
+-11,894
+
+36,198
+18,508
+49,093
+62,192
+-12,930
+75,122
+-13,100
+
+38,146
+19,504
+58,751
+73,193
+-13,197
+86,391
+-14,443
+
+25,260
+5,396
+19,864
+
+32,061
+6,231
+25,831
+
+38,233
+6,931
+31,302
+
+41,185
+7,215
+33,970
+
+51,207
+8,059
+43,148
+
+62,421
+8,934
+53,487
+
+74,538
+9,827
+64,711
+
+85,291
+10,780
+74,511
+
+96,896
+11,817
+85,080
+
+13,343
+6,822
+-4,992
+-2,219
+1,094.4
+3,313
+-907
+-1,866
+
+16,976
+8,680
+-6,494
+-3,962
+506.3
+4,468
+-557
+-1,975
+
+22,881
+11,699
+-10,197
+-7,136
+0.0
+7,136
+-842
+-2,218
+
+22,832
+11,674
+-9,668
+-5,931
+...
+...
+-1,745
+-1,992
+
+27,684
+14,154
+-12,556
+-9,527
+...
+...
+-995
+-2,033
+
+32,220
+16,474
+-15,416
+-12,045
+...
+...
+-1,295
+-2,075
+
+35,680
+18,243
+-17,406
+-13,692
+...
+...
+-1,595
+-2,118
+
+37,977
+19,417
+-18,710
+-14,653
+...
+...
+-1,895
+-2,162
+
+39,350
+20,120
+-19,233
+-15,031
+...
+...
+-1,995
+-2,206
+
+8,351
+5,396
+2,956
+
+10,482
+6,231
+4,251
+
+12,684
+6,931
+5,753
+
+13,163
+7,215
+5,948
+
+15,128
+8,059
+7,069
+
+16,804
+8,934
+7,870
+
+18,275
+9,827
+8,448
+
+19,267
+10,780
+8,487
+
+20,118
+11,817
+8,301
+
+-122
+5,424
+5,546
+19,831
+20,443
+1,856
+18,587
+
+1,658
+8,268
+6,609
+24,667
+24,978
+1,797
+23,181
+
+-3,021
+6,110
+9,131
+34,869
+35,150
+2,063
+33,087
+
+-4,013
+6,355
+10,367
+37,481
+37,182
+1,791
+35,391
+
+-3,683
+6,721
+10,404
+47,303
+46,496
+1,812
+44,683
+
+-3,429
+7,109
+10,539
+57,351
+56,413
+1,839
+54,575
+
+-1,974
+7,519
+9,494
+67,125
+66,344
+1,769
+64,575
+
+-1,779
+7,953
+9,733
+76,789
+76,771
+1,723
+75,048
+
+-1,205
+8,412
+9,617
+87,102
+88,150
+1,833
+86,317
+
+18.3
+23.9
+32.4
+26.0
+24.0
+28.6
+
+25.5
+26.9
+24.6
+30.0
+27.2
+33.6
+
+32.9
+29.1
+55.9
+32.1
+30.3
+34.2
+
+25.6
+28.5
+52.5
+31.5
+29.7
+33.7
+
+3.0
+1.7
+
+3.1
+1.5
+
+3.0
+…
+
+42,797
+
+49,091
+
+…
+
+Annual percentage change
+
+Memorandum items:
+Base money
+Broad money
+Domestic credit
+Domestic deposits
+Domestic currency
+Foreign currency
+Money multiplier
+Velocity (M3)
+GDP (in millions of leva)
+
+Sources: Bulgarian National Bank, National Statistics Institute, and Fund staff estimates.
+
+11.1
+21.9
+22.1
+24.0
+22.9
+25.2
+
+8.8
+19.4
+18.3
+21.0
+19.9
+22.2
+
+5.4
+14.4
+16.2
+15.1
+14.1
+16.3
+
+4.4
+13.6
+15.0
+14.2
+13.1
+15.3
+
+3.1
+1.4
+
+14.9
+24.3
+26.2
+27.0
+25.9
+28.3
+Ratio
+3.4
+1.3
+
+3.7
+1.1
+
+4.1
+1.1
+
+4.4
+1.0
+
+4.8
+1.0
+
+56,424
+
+64,470
+
+71,472
+
+79,010
+
+87,423
+
+96,896
+
+38
+Table 7. Bulgaria: Private Sector Credit Flows, 2003–07
+(In percent of GDP)
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+Proj.
+
+Domestic private sector credit
+Non-financial corporations
+Lending by commercial banks, on balance sheet
+Overdraft
+Short-term loans (up to one year)
+Medium-term (maturity between one and five years)
+Long-term loans (maturity over five years)
+Overdue and restructured
+Loans sold by commercial banks
+Leasing companies 1/
+Corporate bonds
+Households
+Lending by commercial banks, on balance sheet
+Overdraft
+Consumer loans
+Mortgages
+Other household loans
+Loans sold by commercial banks
+Leasing companies
+Financing of domestic private sector credit
+Commercial banks
+Private deposits
+Government deposits
+BNB, net lending to commercial banks
+Foreign borrowing (net)
+Change in gross assets
+Change in gross liabilities
+Capital and reserves
+Other
+Purchases of bank loans by residents
+Purchases of bank loans by non-residents
+Leasing companies 1/
+Corporate bonds
+Memorandum items:
+Domestic private sector credit, stock
+Non-financial corporations
+Households
+Sources: BNB, NSI and staff calculations and projections.
+1/ Staff estimates for 2004 and 2005.
+
+9.1
+5.8
+5.3
+0.7
+0.1
+3.5
+1.0
+0.0
+…
+
+12.1
+7.3
+6.6
+1.3
+0.6
+2.3
+2.2
+-0.1
+…
+
+14.6
+8.2
+5.0
+1.2
+0.1
+1.6
+1.8
+0.0
+1.5
+
+17.7
+10.2
+4.6
+4.6
+-0.3
+-1.4
+1.2
+0.3
+3.6
+
+24.3
+15.0
+12.7
+…
+…
+…
+…
+…
+0.1
+
+…
+
+0.5
+
+1.5
+
+1.8
+
+2.0
+
+…
+3.2
+3.2
+0.2
+2.1
+0.5
+0.5
+…
+
+0.2
+4.8
+4.8
+0.4
+2.4
+1.5
+0.5
+…
+
+0.1
+6.4
+6.0
+0.7
+2.6
+2.3
+0.4
+0.0
+
+0.2
+7.5
+4.3
+0.6
+0.5
+3.0
+0.3
+3.0
+
+0.2
+9.3
+8.4
+…
+…
+…
+…
+0.7
+
+…
+
+…
+
+…
+
+0.2
+
+0.1
+
+9.1
+8.5
+5.3
+0.7
+-0.7
+4.1
+-2.3
+1.7
+1.0
+-1.8
+…
+…
+
+12.1
+11.4
+9.1
+-0.6
+-2.7
+4.8
+3.8
+8.7
+1.1
+-0.4
+…
+…
+
+14.6
+11.0
+11.1
+-0.8
+-1.2
+-0.6
+2.2
+1.6
+1.6
+0.9
+0.1
+1.4
+
+17.7
+8.9
+13.5
+0.1
+-2.6
+-3.6
+5.8
+2.2
+2.0
+-0.4
+2.9
+3.6
+
+24.3
+21.1
+12.7
+0.0
+-3.0
+10.1
+-3.4
+6.7
+1.9
+-0.5
+0.6
+0.2
+
+…
+
+0.5
+
+2.0
+
+2.0
+
+2.2
+
+0.1
+
+0.2
+
+0.1
+
+0.2
+
+0.2
+
+27.0
+19.8
+7.2
+
+36.2
+24.9
+11.3
+
+47.4
+30.8
+16.7
+
+59.1
+37.1
+22.0
+
+75.7
+47.3
+28.4
+
+39
+Table 8. Bulgaria: Financial Soundness Indicators, 2004–07
+(In percent)
+
+Core indicators
+Capital adequacy
+Capital to risk-weighted assets
+Tier 1 capital to risk-weighted assets
+Asset quality
+Nonperforming loans to total gross loans
+Nonperforming loans net of provisions to capital
+Large exposures to capital
+Earnings and profitability
+Return on assets
+Return on equity
+Net interest income to gross income
+Noninterest expense to gross income
+Personnel expense to total income
+Trading and fee income to total income
+Liquidity
+Liquid assets to total assets
+Liquid assets to short-term liabilities
+
+2004
+
+2005
+
+2006
+
+2007 1/
+
+16.6
+14.4
+
+15.3
+12.5
+
+14.5
+11.8
+
+14.4
+11.6
+
+2.0
+1.8
+129.8
+
+2.2
+2.9
+90.8
+
+2.2
+2.5
+87.3
+
+2.2
+2.4
+73.1
+
+2.1
+19.6
+68.1
+58.3
+21.4
+30.1
+
+2.0
+21.4
+68.5
+55.3
+19.5
+29.8
+
+2.2
+25.0
+69.4
+56.0
+18.8
+27.3
+
+2.2
+24.4
+71.4
+49.9
+18.1
+26.2
+
+30.1
+34.7
+
+28.7
+33.1
+
+31.0
+35.7
+
+24.9
+29.0
+
+10.2
+8.4
+36.7
+121.2
+48.2
+56.0
+-5.9
+
+7.4
+8.0
+35.3
+111.3
+47.8
+55.0
+-5.6
+
+7.3
+2.7
+33.7
+121.1
+45.6
+54.5
+…
+
+8.3
+3.7
+36.3
+109.9
+48.6
+56.7
+…
+
+Encouraged indicators
+Deposit-taking institutions
+Capital to assets
+Trading income to total income
+Personnel expenses to noninterest expenses
+Customer deposits to total (non-interbank) loans
+Foreign currency denominated loans to total loans
+Foreign currency denominated liabilities to total liabilities
+Net open foreign-exchange position
+Source: Bulgarian National Bank.
+1/ Data for 2007 as of end June.
+
+40
+Table 9. Bulgaria: Rankings of Selected Competitiveness and Structural Indicators 1/
+Bulgaria
+2005
+2006
+
+2007
+
+New EU members 2/
+2005
+2006
+2007
+
+Distance from other new
+EU members 2/
+2007 3/
+
+EBRD transition indicators
+Large scale privatization
+Small scale privatization
+Enterprise restructuring
+Price liberalization
+Trade and foreign exchange system
+Competition policy
+Banking reform
+Non-bank financial institutions
+Overall infrastructure reform
+
+79
+92
+85
+62
+100
+100
+62
+85
+54
+69
+
+80
+92
+92
+62
+100
+100
+62
+85
+62
+69
+
+80
+92
+92
+62
+100
+100
+62
+85
+62
+69
+
+84
+86
+98
+75
+99
+100
+70
+85
+72
+74
+
+85
+86
+98
+76
+99
+100
+72
+85
+74
+74
+
+85
+86
+98
+76
+99
+100
+73
+86
+76
+74
+
+-5
+6
+-6
+-14
+1
+0
+-11
+-2
+-14
+-4
+
+World Bank Doing Business survey
+Starting a business
+Dealing with licenses
+Employing workers
+Registering property
+Getting credit
+Protecting investors
+Paying taxes
+Trading across borders
+Enforcing contracts
+Closing a business
+
+…
+…
+…
+…
+…
+…
+…
+…
+…
+…
+
+50
+52
+67
+64
+89
+82
+30
+34
+49
+63
+
+43
+41
+68
+65
+93
+82
+50
+49
+49
+59
+
+…
+…
+…
+…
+…
+…
+…
+…
+…
+…
+
+62
+55
+39
+64
+83
+67
+48
+80
+75
+64
+
+61
+57
+38
+64
+81
+66
+49
+78
+75
+66
+
+-18
+-16
+30
+1
+12
+16
+1
+-28
+-27
+-7
+
+World Bank governance indicators
+Voice and accountability
+Political stability
+Government effectiveness
+Regulatory quality
+Rule of law
+Control of corruption
+
+55
+60
+54
+55
+63
+47
+50
+
+54
+61
+56
+53
+61
+47
+49
+
+…
+…
+…
+…
+…
+…
+…
+
+64
+68
+64
+65
+69
+60
+58
+
+64
+69
+64
+65
+69
+60
+58
+
+…
+…
+…
+…
+…
+…
+…
+
+-10
+-7
+-8
+-13
+-8
+-14
+-9
+
+Transparency international
+Corruption Perception Index
+
+40
+
+40
+
+41
+
+46
+
+49
+
+51
+
+-10
+
+Sources: EBRD; World Bank; Transparency International; and Fund staff calculations.
+1/ For comparability, all indices normalized so that they range from 0 (lowest) to 100 (best).
+2/ Average score of EU members that joined since May 2004 other than Bulgaria, Malta, and Cyprus.
+3/ 2006 figures for World Bank governance indicators.
+
+41
+Table 10a: Bulgaria: Macroeconomic Framework, Baseline, 2005–2012
+2005
+
+2006
+
+2007
+Proj.
+
+2008
+Proj.
+
+2009
+Proj.
+
+2010
+Proj.
+
+2011
+Proj.
+
+2012
+Proj.
+
+GDP and prices (annual percent change)
+Real GDP
+Real domestic demand
+GDP deflator
+Domestic demand deflator
+Consumer price index (HICP, average)
+Consumer price index (HICP, end of period)
+Nominal wages
+Public sector wages
+Private sector wages
+Real effective exchange rate, CPI based
+Real effective exchange rate, GDP deflator based
+
+6.2
+12.2
+3.8
+3.0
+6.0
+7.4
+9.5
+11.3
+10.4
+0.6
+1.8
+
+6.1
+12.5
+8.1
+4.0
+7.4
+6.1
+9.4
+9.1
+10.0
+4.3
+6.3
+
+6.4
+11.0
+8.0
+7.0
+7.2
+9.5
+18.9
+16.9
+21.4
+5.3
+6.3
+
+6.3
+5.4
+7.5
+7.1
+7.8
+4.9
+17.6
+16.2
+18.8
+5.7
+5.6
+
+6.0
+5.4
+4.6
+2.1
+4.5
+4.0
+9.7
+5.9
+11.8
+2.5
+2.7
+
+6.5
+4.9
+3.8
+2.2
+3.8
+3.6
+10.0
+6.0
+11.9
+1.9
+1.9
+
+6.7
+6.0
+3.7
+2.1
+3.6
+3.5
+10.7
+6.3
+12.6
+1.7
+1.8
+
+7.0
+6.4
+3.6
+2.2
+3.5
+3.5
+11.0
+6.4
+12.8
+1.6
+1.8
+
+Monetary aggregates (annual percent change)
+Broad money
+Domestic credit
+
+23.9
+32.4
+
+26.9
+24.6
+
+28.5
+52.5
+
+24.3
+26.2
+
+21.9
+22.1
+
+19.4
+18.3
+
+14.4
+16.2
+
+13.6
+15.0
+
+Saving and investment (in percent of GDP)
+Foreign saving
+Gross national saving
+Government
+Private
+Gross domestic investment
+Government
+Private
+
+12.0
+16.0
+7.0
+8.9
+28.0
+4.8
+23.2
+
+15.7
+16.2
+8.2
+8.0
+31.9
+4.7
+27.2
+
+20.2
+14.7
+9.5
+5.2
+34.8
+5.9
+28.9
+
+18.5
+15.7
+10.1
+5.6
+34.2
+6.5
+27.6
+
+15.5
+17.6
+8.8
+8.8
+33.1
+6.5
+26.6
+
+12.7
+18.9
+8.1
+10.8
+31.5
+6.5
+25.0
+
+10.5
+19.5
+7.8
+11.8
+30.0
+6.5
+23.5
+
+8.3
+20.3
+7.3
+13.0
+28.6
+6.5
+22.1
+
+General government (in percent of GDP)
+Revenue
+Expenditure
+Fiscal balance
+Gross public debt
+Net financial worth
+
+39.8
+37.5
+2.3
+31.3
+9.3
+
+39.0
+35.5
+3.5
+24.7
+11.8
+
+40.5
+37.0
+3.5
+21.3
+13.8
+
+40.5
+37.0
+3.5
+20.2
+15.6
+
+40.9
+38.6
+2.3
+20.2
+16.3
+
+40.0
+38.4
+1.6
+19.3
+16.4
+
+39.0
+37.8
+1.3
+18.1
+16.1
+
+38.9
+38.1
+0.8
+14.8
+15.3
+
+Balance of payments (in percent of GDP)
+Current account
+Trade balance
+Services balance
+Income balance
+Transfers balance
+Capital and financial account balance
+Foreign direct investment, balance
+
+-12.0
+-20.2
+3.7
+0.7
+3.7
+15.1
+17.7
+
+-15.7
+-22.2
+3.9
+0.0
+2.6
+21.5
+16.8
+
+-20.2
+-26.2
+4.4
+-0.7
+2.3
+30.6
+14.6
+
+-18.5
+-25.5
+5.2
+-0.9
+2.7
+26.0
+9.6
+
+-15.5
+-23.0
+6.3
+-1.5
+2.7
+21.9
+7.2
+
+-12.7
+-20.2
+7.1
+-1.5
+2.0
+17.0
+5.1
+
+-10.5
+-18.4
+7.7
+-1.8
+2.0
+13.1
+4.5
+
+-8.3
+-17.2
+8.6
+-1.7
+2.0
+9.7
+4.0
+
+7,370
+4.3
+-43.1
+69.0
+17.2
+10.5
+15.3
+-2.5
+42,797
+21,882
+
+8,926
+4.4
+-52.8
+78.4
+24.0
+11.3
+15.0
+3.5
+49,091
+25,100
+
+11,674
+5.1
+-64.7
+87.6
+28.9
+8.5
+13.5
+-3.2
+56,424
+28,849
+
+14,154
+5.9
+-72.7
+92.7
+32.0
+13.6
+10.5
+-1.6
+64,470
+32,963
+
+16,474
+6.4
+-78.6
+97.7
+34.7
+11.1
+10.0
+2.0
+71,472
+36,543
+
+18,243
+6.6
+-81.3
+99.2
+35.6
+13.3
+9.8
+1.3
+79,010
+40,397
+
+19,417
+6.4
+-81.8
+97.2
+35.6
+14.0
+11.1
+0.8
+87,423
+44,699
+
+20,120
+...
+-80.1
+93.3
+34.1
+13.9
+11.5
+0.3
+96,896
+49,542
+
+Memorandum items:
+Gross international reserves (in millions of euros)
+Gross international reserves (in months of next year's imports)
+International investment position (in percent of GDP)
+External debt (in percent of GDP)
+Short-term external debt (in percent of GDP)
+Export volume (percent change)
+Import volume (percent change)
+Terms of trade (percent change)
+Nominal GDP (in millions of leva)
+Nominal GDP (in millions of euros)
+
+Sources: Bulgarian authorities; and Fund staff estimates and projections.
+
+42
+Table 10b: Bulgaria: Macroeconomic Framework, Alternative Scenario, 2005–2012
+2005
+
+2006
+
+2007
+Proj.
+
+2008
+Proj.
+
+2009
+Proj.
+
+2010
+Proj.
+
+2011
+Proj.
+
+2012
+Proj.
+
+GDP and prices (annual percent change)
+Real GDP
+Real domestic demand
+GDP deflator
+Domestic demand deflator
+Consumer price index (HICP, average)
+Consumer price index (HICP, end of period)
+Nominal wages
+Public sector wages
+Private sector wages
+Real effective exchange rate, CPI based
+Real effective exchange rate, GDP deflator based
+
+6.2
+12.2
+3.8
+3.0
+6.0
+7.4
+9.5
+11.3
+10.4
+0.6
+1.8
+
+6.1
+12.5
+8.1
+4.0
+7.4
+6.1
+9.4
+9.1
+10.0
+4.3
+6.3
+
+6.4
+11.0
+8.0
+7.0
+7.2
+9.5
+18.9
+16.9
+21.4
+5.3
+6.3
+
+7.9
+9.0
+10.3
+9.1
+10.6
+8.0
+37.1
+44.0
+34.2
+8.4
+8.4
+
+8.1
+11.1
+8.2
+4.3
+8.1
+11.0
+24.1
+19.7
+26.8
+6.1
+6.3
+
+9.1
+11.5
+7.8
+4.5
+7.8
+7.8
+24.8
+19.8
+27.3
+5.8
+5.9
+
+7.9
+11.2
+7.3
+3.9
+7.2
+7.2
+23.7
+19.2
+25.7
+5.2
+5.3
+
+7.8
+10.9
+6.4
+3.4
+6.3
+6.3
+22.3
+18.3
+24.0
+4.4
+4.5
+
+Monetary aggregates (annual percent change)
+Broad money
+Domestic credit
+
+23.9
+32.4
+
+26.9
+24.6
+
+28.5
+52.5
+
+29.4
+31.4
+
+28.7
+28.9
+
+27.1
+25.9
+
+19.7
+23.7
+
+17.6
+17.0
+
+Saving and investment (in percent of GDP)
+Foreign saving
+Gross national saving
+Government
+Private
+Gross domestic investment
+Government
+Private
+
+12.0
+16.0
+7.0
+8.9
+28.0
+4.8
+23.2
+
+15.7
+16.2
+8.2
+8.0
+31.9
+4.7
+27.2
+
+20.2
+14.7
+9.5
+5.2
+34.8
+5.9
+28.9
+
+20.0
+14.2
+8.5
+5.7
+34.2
+6.6
+27.6
+
+19.7
+13.3
+7.9
+5.5
+33.0
+6.4
+26.6
+
+19.6
+12.1
+7.2
+4.9
+31.7
+6.4
+25.3
+
+20.2
+10.9
+6.2
+4.7
+31.1
+6.2
+24.9
+
+20.8
+9.7
+5.0
+4.7
+30.5
+6.2
+24.3
+
+General government (in percent of GDP)
+Revenue
+Expenditure
+Fiscal balance
+Gross public debt
+Net financial worth
+
+39.8
+37.5
+2.3
+31.3
+9.3
+
+39.0
+35.5
+3.5
+24.7
+11.8
+
+40.5
+37.0
+3.5
+21.3
+13.8
+
+41.7
+39.8
+1.9
+19.4
+13.5
+
+42.7
+41.2
+1.5
+18.3
+13.0
+
+42.9
+42.0
+0.8
+16.5
+11.9
+
+41.6
+41.6
+0.0
+14.8
+10.2
+
+41.5
+42.6
+-1.1
+11.7
+7.8
+
+Balance of payments (in percent of GDP)
+Current account
+Trade balance
+Services balance
+Income balance
+Transfers balance
+Capital and financial account balance
+Foreign direct investment, balance
+
+-12.0
+-20.2
+3.7
+0.7
+3.7
+15.1
+17.7
+
+-15.7
+-22.2
+3.9
+0.0
+2.6
+21.5
+16.8
+
+-20.2
+-26.2
+4.4
+-0.7
+2.3
+30.6
+14.6
+
+-20.0
+-25.8
+4.1
+-0.9
+2.6
+26.3
+9.2
+
+-19.7
+-24.2
+3.7
+-1.6
+2.4
+26.7
+6.4
+
+-19.6
+-22.7
+3.3
+-1.8
+1.6
+24.5
+4.2
+
+-20.2
+-22.1
+2.9
+-2.5
+1.5
+22.4
+3.5
+
+-20.8
+-21.7
+2.6
+-3.0
+1.4
+20.7
+2.9
+
+7,370
+4.3
+-43.1
+69.0
+17.2
+10.5
+15.3
+-2.5
+42,797
+21,882
+
+8,926
+4.4
+-52.8
+78.4
+24.0
+11.3
+15.0
+3.5
+49,091
+25,100
+
+11,674
+5.0
+-64.7
+87.7
+29.1
+8.5
+13.5
+-3.2
+56,424
+28,849
+
+13,837
+5.5
+-72.1
+92.1
+32.4
+12.5
+11.9
+-1.6
+67,122
+34,319
+
+16,674
+6.1
+-79.0
+99.4
+37.3
+9.6
+12.7
+2.0
+78,544
+40,159
+
+18,965
+6.2
+-84.7
+104.6
+40.9
+11.7
+13.2
+1.3
+92,399
+47,243
+
+20,191
+5.9
+-91.5
+109.2
+44.9
+12.5
+14.0
+0.8
+106,978
+54,697
+
+20,131
+...
+-99.0
+112.8
+47.1
+12.7
+13.4
+0.3
+122,718
+62,744
+
+Memorandum items:
+Gross international reserves (in millions of euros)
+Gross international reserves (in months of next year's imports)
+International investment position (in percent of GDP)
+External debt (in percent of GDP)
+Short-term external debt (in percent of GDP)
+Export volume (percent change)
+Import volume (percent change)
+Terms of trade (percent change)
+Nominal GDP (in millions of leva)
+Nominal GDP (in millions of euros)
+
+Sources: Bulgarian authorities; and Fund staff estimates and projections.
+
+6.1
+11.2
+3.0
+25.0
+25.8
+-13.9
+7.3
+
+…
+
+12.6
+40.1
+
+121.8
+
+9.4
+-2.1
+13.9
+-147.0
+64.4
+-82.7
+-7.3
+-8.7
+1.8
+-3.6
+-6.9
+11.6
+
+78.4
+
+6.4
+16.1
+3.3
+17.3
+23.9
+-18.1
+12.1
+
+87.6
+
+17.3
+44.4
+
+143.3
+
+9.2
+4.0
+18.1
+-144.0
+61.1
+-82.9
+-12.1
+-2.0
+2.1
+-4.1
+...
+5.2
+
+87.6
+
+2007
+
+6.3
+9.4
+3.4
+17.5
+15.1
+-15.9
+8.6
+
+85.9
+
+21.1
+46.5
+
+150.1
+
+5.2
+5.2
+15.9
+-143.8
+61.8
+-82.0
+-8.6
+-2.1
+2.6
+-4.7
+...
+0.0
+
+92.7
+
+2008
+
+6.0
+5.1
+3.8
+11.0
+6.2
+-12.4
+6.3
+
+81.9
+
+24.3
+48.2
+
+158.7
+
+5.0
+4.2
+12.4
+-139.8
+61.6
+-78.3
+-6.3
+-1.8
+3.2
+-5.0
+...
+0.8
+
+97.7
+
+2009
+
+6.5
+4.5
+4.2
+12.9
+7.5
+-9.0
+4.3
+
+76.0
+
+27.2
+48.5
+
+158.9
+
+1.5
+2.6
+9.0
+-138.1
+62.5
+-75.6
+-4.3
+-2.1
+3.7
+-5.7
+...
+-1.1
+
+99.2
+
+6.7
+4.6
+4.5
+14.1
+10.1
+-6.5
+3.8
+
+69.1
+
+30.1
+48.1
+
+152.2
+
+-2.0
+0.7
+6.5
+-138.4
+63.8
+-74.5
+-3.8
+-1.9
+4.0
+-6.0
+...
+-2.7
+
+97.2
+
+Projections
+2010
+2011
+
+7.0
+4.6
+4.6
+14.3
+10.8
+-4.3
+3.5
+
+62.6
+
+32.6
+46.5
+
+143.0
+
+-3.9
+-1.2
+4.3
+-139.1
+65.2
+-73.8
+-3.5
+-2.1
+4.0
+-6.1
+...
+-2.7
+
+93.3
+
+2012
+
+-10.1
+
+Debt-stabilizing
+non-interest
+current account 6/
+-9.5
+
+remain at their levels of the last projection year.
+
+6/ Long-run, constant balance that stabilizes the debt ratio assuming that key variables (real GDP growth, nominal interest rate, dollar deflator growth, and non-debt inflows in percent of GDP)
+
+5/ The key variables include real GDP growth; nominal interest rate; dollar deflator growth; and both non-interest current account and non-debt inflows in percent of GDP.
+
+4/ Defined as current account deficit, plus amortization on medium- and long-term debt, plus short-term debt at end of previous period.
+
+3/ For projection, line includes the impact of price and exchange rate changes.
+
+and rising inflation (based on GDP deflator).
+
+g = real GDP growth rate, e = nominal appreciation (increase in dollar value of domestic currency), and a = share of domestic-currency denominated debt in total external debt.
+2/ The contribution from price and exchange rate changes is defined as [-ρ(1+g) + εα(1+r)]/(1+g+ρ+gρ) times previous period debt stock. ρ increases with an appreciating domestic currency (ε > 0)
+
+1/ Derived as [r - g - r(1+g) + ea(1+r)]/(1+g+r+gr) times previous period debt stock, with r = nominal effective interest rate on external debt; r = change in domestic GDP deflator in US dollar terms,
+
+Sources: WEO; and Fund staff estimates and projections.
+
+Real GDP growth (in percent)
+GDP deflator in US dollars (change in percent)
+Nominal external interest rate (in percent)
+Growth of exports (US dollar terms, in percent)
+Growth of imports (US dollar terms, in percent)
+Current account balance, excluding interest payments
+Net non-debt creating capital inflows
+
+6.2
+3.4
+3.2
+16.1
+23.0
+-10.1
+5.9
+
+…
+
+Scenario with key variables at their historical averages 5/
+
+Key Macroeconomic Assumptions Underlying Baseline
+
+11.0
+40.5
+
+115.8
+
+5.2
+0.4
+10.1
+-135.5
+59.5
+-76.0
+-5.9
+-3.8
+1.9
+-3.6
+-2.1
+4.8
+
+69.0
+
+Gross external financing need (in billions of US dollars) 4/
+in percent of GDP
+
+External debt-to-exports ratio (in percent)
+
+2 Change in external debt
+3 Identified external debt-creating flows (4+8+9)
+4
+Current account deficit, excluding interest payments
+5
+Deficit in balance of goods and services
+6
+Exports
+7
+Imports
+8
+Net non-debt creating capital inflows (negative)
+9
+Automatic debt dynamics 1/
+10
+Contribution from nominal interest rate
+11
+Contribution from real GDP growth
+12
+Contribution from price and exchange rate changes 2/
+13 Residual, incl. change in gross foreign assets (2-3) 3/
+
+1 Baseline: External debt
+
+Actual
+2005
+2006
+
+(In percent of GDP, unless otherwise indicated)
+
+Bulgaria: External Debt Sustainability Framework, 2005–12
+
+43
+APPENDIX I: BULGARIA: DEBT SUSTAINABILITY
+
+44
+Bulgaria: External Debt Sustainability: Bound Tests 1/
+(External debt in percent of GDP)
+Baseline and historical scenarios
+
+Interest rate shock (in percent)
+
+110
+
+60
+
+100
+Historical
+
+90
+80
+
+93
+
+100
+50
+40
+
+Baseline
+
+110
+
+70
+
+90
+
+95
+93
+
+Baseline
+
+80
+70
+
+63
+
+60
+50
+
+Gross financing need
+under baseline
+(right scale)
+
+40
+30
+2002
+
+2004
+
+2006
+
+2008
+
+2010
+
+30
+20
+
+60
+50
+
+10
+2012
+
+30
+2002
+
+120
+
+110
+
+100
+
+100
+
+Grow th
+shock
+
+90
+
+Baseline 93
+
+4.1
+4.5
+
+Historical:
+
+4.0
+
+2004
+
+2006
+
+2008
+
+2010
+
+2012
+
+Non-interest current account shock
+(in percent of GDP)
+107
+
+110
+CA shock
+
+100
+90
+
+80
+
+93
+
+Baseline
+
+80
+
+70
+60
+50
+
+Baseline:
+
+6.5
+
+Scenario:
+
+4.7
+3.9
+
+Historical:
+
+40
+30
+2002
+
+Baseline:
+Scenario:
+
+40
+
+Growth shock (in percent per year)
+
+70
+
+Baseline:
+
+-8.9
+
+60
+
+Scenario:
+
+-12.0
+
+50
+
+Historical:
+
+-2.5
+
+40
+2004
+
+2006
+
+2008
+
+2010
+
+2012
+
+30
+2002
+
+Combined shock 2/
+110
+
+Baseline
+
+90
+
+2004
+
+2006
+
+93
+
+80
+
+150
+140
+
+60
+50
+40
+
+2006
+
+2008
+
+2010
+
+2012
+
+2010
+
+2012
+
+50
+40
+30
+2002
+
+126
+
+30 %
+depreciatio
+n
+
+130
+120
+110
+100
+90
+80
+70
+60
+
+70
+
+2004
+
+2008
+
+Real depreciation shock 3/
+104
+
+Combined
+shock
+
+100
+
+30
+2002
+
+i-rate
+shock
+
+93
+
+Baseline
+
+2004
+
+2006
+
+2008
+
+2010
+
+2012
+
+Sources: International Monetary Fund; country desk data; and staff estimates.
+1/ Shaded areas represent actual data. Individual shocks are permanent one-half standard
+deviation shocks. Figures in the boxes represent average projections for the respective variables
+in the baseline and scenario being presented. Ten-year historical average for the variable is also
+shown.
+2/ Permanent 1/4 standard deviation shocks applied to real interest rate, growth rate, and current
+account balance.
+3/ One-time real depreciation of 30 percent occurs in 2008.
+
+6.2
+4.4
+0.6
+-11.6
+3.8
+8.3
+-3.9
+
+...
+...
+
+7.0
+1.9
+
+78.6
+
+-8.8
+-2.6
+-3.9
+39.8
+35.9
+2.3
+-2.1
+0.2
+-2.3
+4.4
+-1.0
+-3.4
+2.4
+0.0
+-6.2
+
+31.3
+26.7
+
+6.1
+4.8
+-3.3
+11.4
+8.1
+0.9
+-4.8
+
+...
+...
+
+-0.2
+-0.1
+
+63.3
+
+-6.6
+-9.3
+-4.8
+39.0
+34.2
+-5.2
+-2.7
+-1.0
+-1.7
+-2.5
+0.7
+-1.5
+2.2
+0.0
+2.7
+
+24.7
+20.3
+
+6.4
+5.6
+-2.4
+...
+8.0
+11.5
+-4.7
+
+21.3
+21.3
+
+-0.6
+-0.2
+
+52.6
+
+-3.4
+-4.7
+-4.7
+40.5
+35.8
+-2.0
+-2.0
+-0.6
+-1.4
+...
+2.0
+-0.5
+2.5
+0.0
+1.3
+
+21.3
+17.6
+
+2007
+
+6.3
+5.6
+-1.9
+...
+7.5
+6.7
+-4.6
+
+22.1
+20.0
+
+-2.4
+-1.1
+
+49.8
+
+-1.1
+-4.3
+-4.6
+40.5
+35.9
+-1.6
+-1.6
+-0.4
+-1.2
+...
+1.9
+-0.3
+2.2
+0.0
+3.1
+
+20.2
+16.0
+
+2008
+
+6.0
+5.8
+1.2
+...
+4.6
+10.7
+-3.4
+
+22.1
+18.7
+
+-1.3
+-0.6
+
+49.3
+
+0.0
+-2.4
+-3.4
+40.9
+37.5
+-0.9
+-0.9
+0.2
+-1.1
+...
+1.9
+0.0
+1.9
+0.0
+2.3
+
+20.2
+14.7
+
+6.5
+5.5
+1.7
+...
+3.8
+6.2
+-2.6
+
+20.5
+15.7
+
+-0.6
+-0.3
+
+48.2
+
+-0.9
+-1.9
+-2.6
+40.0
+37.4
+-0.9
+-0.9
+0.3
+-1.2
+...
+1.6
+0.0
+1.6
+0.0
+1.0
+
+19.3
+13.0
+
+Projections
+2009
+2010
+
+6.7
+5.5
+1.8
+...
+3.7
+4.9
+-2.2
+
+18.3
+12.2
+
+-0.4
+-0.3
+
+46.3
+
+-1.2
+-1.8
+-2.2
+39.0
+36.8
+-0.9
+-0.9
+0.3
+-1.2
+...
+1.3
+0.0
+1.3
+0.0
+0.6
+
+18.1
+11.4
+
+2011
+
+7.0
+5.4
+1.8
+...
+3.6
+8.2
+-1.7
+
+13.2
+6.2
+
+0.2
+0.2
+
+38.1
+
+-3.3
+-1.5
+-1.7
+38.9
+37.2
+-0.9
+-0.9
+0.2
+-1.1
+...
+1.0
+0.0
+1.0
+0.0
+-1.7
+
+14.8
+9.8
+
+2012
+
+5/ For projections, this line includes exchange rate changes.
+6/ Defined as public sector deficit, plus amortization of medium and long-term public sector debt, plus short-term debt at end of previous period.
+7/ The key variables include real GDP growth; real interest rate; and primary balance in percent of GDP.
+8/ Derived as nominal interest expenditure divided by previous period debt stock.
+9/ Assumes that key variables (real GDP growth, real interest rate, and other identified debt-creating flows) remain at the level of the last projection year.
+
+4/ The exchange rate contribution is derived from the numerator in footnote 2/ as αε(1+r).
+
+3/ The real interest rate contribution is derived from the denominator in footnote 2/ as r - π (1+g) and the real growth contribution as -g.
+
+denominated debt; and ε = nominal exchange rate depreciation (measured by increase in local currency value of U.S. dollar).
+
+0.6
+0.7
+
+Debt-stabilizing
+primary
+balance 9/
+0.2
+
+1/ Indicate coverage of public sector, e.g., general government or nonfinancial public sector. Also whether net or gross debt is used.
+2/ Derived as [(r - π(1+g) - g + αε(1+r)]/(1+g+π+gπ)) times previous period debt ratio, with r = interest rate; π = growth rate of GDP deflator; g = real GDP growth rate; α = share of foreign-currency
+
+Sources: WEO; and Fund staff estimates and projections.
+
+Real GDP growth (in percent)
+Average nominal interest rate on public debt (in percent) 8/
+Average real interest rate (nominal rate minus change in GDP deflator, in percent)
+Nominal appreciation (increase in US dollar value of local currency, in percent)
+Inflation rate (GDP deflator, in percent)
+Growth of real primary spending (deflated by GDP deflator, in percent)
+Primary deficit
+
+Key Macroeconomic and Fiscal Assumptions Underlying Baseline
+
+Scenario with key variables at their historical averages 7/
+Scenario with no policy change (constant primary balance) in 2007-2012
+
+Gross financing need 6/
+in billions of U.S. dollars
+
+Public sector debt-to-revenue ratio 1/
+
+2 Change in public sector debt
+3 Identified debt-creating flows (4+7+12)
+4 Primary deficit
+5
+Revenue and grants
+6
+Primary (noninterest) expenditure
+7 Automatic debt dynamics 2/
+8
+Contribution from interest rate/growth differential 3/
+Of which contribution from real interest rate
+9
+Of which contribution from real GDP growth
+10
+11
+Contribution from exchange rate depreciation 4/
+12 Other identified debt-creating flows
+13
+Privatization receipts (negative)
+14
+Recognition of implicit or contingent liabilities
+15
+Other (specify, e.g. bank recapitalization)
+16 Residual, including asset changes (2-3) 5/
+
+1 Baseline: Public sector debt 1/
+Of which foreign-currency denominated
+
+Actual
+2005
+2006
+
+(In percent of GDP, unless otherwise indicated)
+
+Bulgaria: Public Sector Debt Sustainability Framework, 2005–12
+
+45
+
+46
+Bulgaria: Public Debt Sustainability: Bound Tests 1/
+(Public debt in percent of GDP)
+Interest rate shock (in percent)
+
+Baseline and historical scenarios
+80
+Gross financing need
+under baseline
+(right scale)
+
+70
+60
+
+8
+
+80
+
+7
+
+70
+
+6
+5
+
+50
+
+4
+
+40
+
+3
+
+30
+Baseline
+
+20
+
+15
+
+Historical 13
+
+10
+0
+2002
+
+2004
+
+2006
+
+2008
+
+2
+
+0.9
+1.8
+
+Historical: -0.3
+
+50
+40
+i-rate
+shock
+
+30
+
+1
+
+20
+
+0
+
+10
+
+-1
+2012
+
+2010
+
+60
+
+Baseline:
+Scenario:
+
+0
+2002
+
+16
+
+Baseline
+15
+2004
+
+2006
+
+2008
+
+2010
+
+2012
+
+Primary balance shock (in percent of GDP) and
+no policy change scenario (constant primary balance)
+
+Growth shock (in percent per year)
+
+80
+
+80
+70
+60
+
+Baseline:
+
+6.5
+
+Scenario:
+
+4.7
+
+Historical:
+
+3.9
+
+70
+60
+
+Baseline:
+
+2.9
+
+Scenario:
+
+2.2
+
+Historical:
+
+3.5
+
+50
+
+50
+40
+
+Grow th
+shock 26
+
+30
+20
+
+Baseline
+
+10
+0
+2002
+
+2004
+
+2006
+
+2008
+
+40
+30
+
+15
+
+2010
+
+2012
+
+0
+2002
+
+80
+
+70
+
+70
+
+60
+
+60
+
+50
+
+50
+
+40
+
+40
+Combined
+shock
+
+20
+Baseline
+
+0
+2002
+
+2004
+
+2006
+
+2008
+
+15
+
+No policy change
+2004
+
+2006
+
+2008
+
+6
+
+2010
+
+2012
+
+Real depreciation and contingent liabilities shocks 3/
+
+Combined shock 2/
+
+10
+
+18
+
+Baseline
+
+10
+
+80
+
+30
+
+PB shock
+
+20
+
+2010
+
+30 %
+depreciatio
+n
+
+co ntingent
+liabilities
+sho ck
+
+30
+18
+
+15
+
+2012
+
+23
+23
+
+20
+Baseline
+
+10
+0
+2002
+
+2004
+
+2006
+
+2008
+
+2010
+
+15
+
+2012
+
+Sources: International Monetary Fund; country desk data; and staff estimates.
+1/ Shaded areas represent actual data. Individual shocks are permanent one-half standard
+deviation shocks. Figures in the boxes represent average projections for the respective variables
+in the baseline and scenario being presented. Ten-year historical average for the variable is also
+shown.
+2/ Permanent 1/4 standard deviation shocks applied to real interest rate, growth rate, and primary
+balance.
+3/ One-time real depreciation of 30 percent and 10 percent of GDP shock to contingent liabilities
+occur in 2008, with real depreciation defined as nominal depreciation (measured by percentage
+fall in dollar value of local currency) minus domestic inflation (based on GDP deflator).
+
+47
+APPENDIX II: BULGARIA: FUND RELATIONS
+As of October 31, 2007
+Date and place of Article IV mission: October 4–16, 2007, in Sofia. The concluding
+statement of the mission was posted at www.imf.org on October 16, 2007.
+Country interlocutors: Prime Minister Stanishev, Minister of Finance Oresharski, Minister
+of Economy and Energy Dimitrov, Minister of Labor and Employment Maslarova, BNB
+Governor Iskrov, other senior officials, representatives of parliament, international
+organizations including the European Commission and European Central Bank, financial
+sector, and think tanks. Mr. Yotzov (OED) attended the discussions.
+IMF team: Messrs. Jaeger (head) and Herderschee, Ms. Zhou (all EUR), Ms. Rahman
+(PDR), Ms. Arvai (MCM), Mr. Fernandez-Ansola (Senior Regional Resident
+Representative), and Ms. Mihaylova (Resident Economist).
+Political developments: In recent local elections, a new party Citizens for Bulgaria’s
+European Development (GERB) performed strongly. Parliamentary elections are scheduled
+for 2009, but the GERB party has called for early parliamentary elections.
+Previous Article IV consultation: The previous consultation was concluded on
+August 2, 2006, and the reports were posted at www.imf.org on August 8, 2006.
+Data: Bulgaria subscribes to the SDDS, and economic data are adequate to conduct effective
+surveillance (Appendix III).
+Exchange rate arrangement: The currency of Bulgaria is the Bulgarian lev. Since
+July 1, 1997, the Bulgarian National Bank has operated a currency board arrangement. The
+peg currency is the euro at the rate of lev 1.95583 per €1. Bulgaria maintains an exchange
+system that is free of restrictions on the making of payments and transfers for current
+international transactions, except for restrictions that are maintained for security reasons and
+that have been notified to the Fund pursuant to Executive Board Decision No. 144-(52/51)
+
+I.
+II.
+
+III.
+
+Membership Status: Joined 09/25/1990;
+General Resources Account:
+Quota
+Fund holdings of currency
+Reserve position
+SDR Department:
+Holdings
+
+Article VIII
+SDR million
+640.20
+606.95
+33.28
+SDR million
+0.58
+
+%Quota
+100.00
+94.81
+5.20
+%Allocation
+N/A
+
+48
+
+IV.
+
+Outstanding Purchases and Loans: None.
+
+V.
+
+Latest Financial Arrangements:
+
+VI.
+
+Type
+Stand-by
+
+Date of
+arrangement
+08/06/2004
+
+Expiration
+date
+03/31/2007
+
+Amount approved
+(SDR million)
+100.00
+
+Amount drawn
+(SDR million)
+0.00
+
+Stand-by
+
+02/27/2002
+
+03/15/2004
+
+240.00
+
+240.00
+
+EFF
+
+09/25/1998
+
+09/24/2001
+
+627.62
+
+627.62
+
+Projected Payments to Fund: None.
+
+VII. Implementation of HIPC Initiative: Not Applicable.
+VIII. Implementation of Multilateral Debt Relief Initiative (MDRI): Not Applicable.
+
+49
+APPENDIX III. BULGARIA: IMF-WORLD BANK RELATIONS
+A. Partnership in Bulgaria’s Development Strategy
+1.
+The World Bank has been leading the policy dialogue in structural and institutional
+reforms aimed at Bulgaria’s successful EU integration and convergence. On June 13, 2006
+the Board of Directors discussed the Country Partnership Strategy (CPS) of the Bank which
+outlined the roadmap for the Bank’s country support for the period FY07-09. The strategic
+priorities of the CPS focus on: (i) productivity and employment; (ii) fiscal sustainability and
+absorption of EU funds; and (iii) social inclusion. In addition to the Bank’s ongoing lending
+operations in areas such as revenue administration, health, social investment and employment
+promotion, district heating, and environment, the CPS includes a three-year program of three
+development policy loans (DPLs) of up to US$150 million each that will support institutional
+reforms in the social sectors. In addition, the CPS program includes a pipeline of investment
+lending in road and municipal infrastructure, trade and transport facilitation for South East
+Europe, social inclusion, and regional development. The Bank continues to undertake
+diagnostics providing a solid base for policy dialogue and design and implementation of its
+lending operations in Bulgaria.
+B. IMF-World Bank Collaboration in Specific Areas
+2.
+The Bank has the lead on the dialogue on the core structural aspects of the reforms
+while the Fund has the lead on the dialogue on the macroeconomic, in particular fiscal and
+financial sector, aspects of the reforms. The IMF leads in the areas of macroeconomic
+stability, fiscal, income, and external sector policies, and its analyses serve as inputs into
+World Bank policy formulation and advice. The Bank and the Fund share responsibility in
+the financial sector, public expenditure management and budgeting, and tax administration.
+B.1.
+
+Areas of shared responsibility.
+
+3.
+Financial Sector. In late 2001, staff of the two institutions carried out a joint IMFWorld Bank Financial Sector Assessment Program (FSAP) for Bulgaria, providing a shared
+perspective on the development agenda of the country and on the prioritization and
+sequencing of reforms in the financial sector. Key findings of the FSAP have been used as
+conditionalities on financial sector policies under both the SBA and the PAL program. A
+follow-up to the FSAP was undertaken by Fund staff in the context of the 2004 Article IV
+consultation mission in March–April 2004 and an update is scheduled for 2008.
+4.
+Revenue Administration. Joint World Bank-IMF efforts led to the Revenue
+Administration Reform Project (€31.9 million), approved by the Bank’s Board in 2003,
+under which the new National Revenue Agency became operational on January 1, 2006,
+integrating collection of tax and social security revenues and establishing an economically
+efficient public revenue collection system that facilitates private sector development and
+complies with EU requirements.
+
+50
+5.
+Public Expenditure Management. The Bank has taken the lead in the dialogue on
+the efficiency and effectiveness of public expenditures and has outlined policy directions in
+the context of the Public Expenditure and Institutional Review1 of 2002, and the Public
+Finance Policy Review2 of 2006, and a forthcoming second Public Finance Policy Review.
+B.2. Areas where the World Bank leads and its analyses serve as inputs into the IMF
+policy formulation and advice.
+6.
+Education. The Bank has supported the government program in education. The first
+DPL, which was approved by the Bank’s Board in March 2007, supports the deepening of
+education reforms, in particular strengthening of the institutional capacity of the Ministry of
+Education and Sciences to assess the quality of education, and improve school governance
+and financing system. In addition, a second Public Finance Policy Review, that is currently
+being finalized, outlines options for reforms aimed at improving quality of vocational
+education and training as well as the quality of and access to tertiary education.
+7.
+Health. The Bank has supported the government program in health through two
+investment operations and the DPL program. The Bank’s first DPL focused on strengthening
+the financial sustainability of the national health insurance system and enhancing the
+efficiency of public spending on pharmaceuticals.
+8.
+Social protection programs. Social protection programs—pensions, labor market
+programs, social assistance, and short-term and family benefits—have a wide coverage
+among the population. The Bank’s first DPL supports an employment promotion program,
+which includes interventions to alter incentives both on the labor supply and the labor
+demand sides. To create additional incentives for job searching and lower reliance of ablebodied individuals on social welfare programs, the government will change eligibility criteria
+of some social assistance programs.
+9.
+The Bank has embarked on a multi-year poverty monitoring program aimed at
+assessing the impact of government policies and economic growth on the poor. This work
+will also provide a feedback loop so that policy adjustments can be made as appropriate to
+take account of findings. In addition, the Bank and government are preparing a Social
+
+1
+
+Bulgaria: Public Expenditure Issues and Directions for Reform, August 2002, The World
+Bank (Report No. 23979-BUL).
+2
+
+Bulgaria: Public Finance Policy Review – Leveraging EU Funds for Productivity and
+Growth, February 2006, The World Bank (Report No. 33992-BG).
+
+51
+Inclusion Loan aimed at addressing longer term constraints to social inclusion, and
+facilitating the government’s absorption of grants from the European Social Fund.
+C. The World Bank Group Strategy and Lending Operations
+10.
+The Country Partnership Strategy (CPS) for Bulgaria3, discussed by the Bank’s
+Board on June 13, 2006, focused on three main themes: (i) productivity and employment, (ii)
+fiscal sustainability and absorption of EU funds, and (iii) social inclusion.
+11.
+The World Bank’s assistance program in Bulgaria to date comprises 41 IBRD
+operations with a total original commitment of US$2,314 million equivalent, consisting
+of 13 adjustment loans (US$1,225.8 million), 21 investment projects (US$750.7 million), one
+debt reduction loan (US$125.0 million), four Bank-managed Global Environmental Fund
+(GEF) grants, and two Bank-managed Prototype Carbon Fund (PCF) operations. Of these 41
+operations, 29 have been completed, of which eleven have been partially cancelled during
+implementation, and 11 operations are currently under implementation (see Table 1 below).
+Table 1. Bulgaria – Active World Bank Operations (Net of Cancellations)
+Operation
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+
+Health Sector Reform
+Registration and Cadastre
+Wetlands Restoration and Pollution Reduction (GEF Grant)
+Social Investment and Employment Promotion
+Revenue Administration Reform Project
+District Heating Project
+District Heating Project (PCF)
+Energy Efficiency (GEF Grant)
+First Social Sectors Institutional Reform Development Policy Loan
+(SIR DPL 1)
+
+US$ million
+
+Board Date
+
+63.3
+30.0
+7.5
+50.0
+34.2
+34.2
+5.0
+10.0
+
+2000
+2001
+2002
+2002
+2003
+2003
+2003
+2005
+
+150.0
+
+2007
+
+10.
+
+Second Trade and Transport Facilitation in Southeast Europe (TTFSE 2)
+
+52.8
+
+2007
+
+11.
+
+Road Infrastructure Rehabilitation
+
+122.5
+
+2007
+
+12.
+Economic and Sector Work. The country diagnostic work recently completed by the
+Bank includes a Public Finance Policy Review focused on leveraging EU structural funds for
+productivity and growth. Various pieces of country diagnostic work are now being finalized.
+These include a second Public Finance Policy Review focusing on reforms in labor and
+
+3
+
+Memorandum of the President of the International Bank for Reconstruction and Development and the
+International Finance Corporation to the Executive Directors on a Country Assistance Strategy of the World
+Bank Group for Bulgaria, May 31, 2006.
+
+52
+product markets, education and R&D aimed to boost productivity and employment; a
+benchmarking study on product market regulation in Bulgaria compared with OECD
+countries; and a regulatory impact assessment study. In addition the following studies are
+under way: a justice sector expenditure review, programmatic poverty monitoring, and an
+investment climate assessment.
+13.
+IFC, as of July 2007, has 12 projects in its portfolio with total commitments of
+US$204 million for its own account and an additional US$60 syndicated from partner
+banks. In the financial sector, IFC has supported two specialized SME banks, established
+Bulgaria’s first micro lending bank, and has invested in a venture capital fund that also
+targets the SME sector. IFC has invested in a number of key manufacturing projects to
+support a cement plant modernization, the expansion and modernization of an electronic
+assembly facility, the rehabilitation and capacity increase of a wood panel production facility,
+revamping of a copper processing facility, and a project in retail sector to establish discount
+stores, hypermarkets and distribution centers in the country. As a good example of SouthSouth investments, IFC has committed about US$90 million to support post-privatization
+restructuring of a steel mill and two glass processing plants.
+Questions may be referred to Ms. Myla Taylor Williams (202-473-6997), or Ms. Stella Ilieva
+(3592-9697-251).
+
+53
+APPENDIX IV: BULGARIA: STATISTICAL ISSUES
+1.
+Data provision is adequate for surveillance purposes. In January 2003, an STA
+mission visited Bulgaria and prepared the data module of the Report on the Observance of
+Standards and Codes (ROSC). Later that year, Bulgaria moved from participation in the
+GDDS to SDDS subscription, marking a major step forward in the development of the
+country's statistical system.
+2.
+Despite a comprehensive database, some problems need to be addressed. Further
+improvements in national accounts are desirable, particularly in the coverage of the private
+sector, as well as in the balance of payments statistics, where frequent and substantial
+revisions have hampered economic analysis. In addition, work remains to be done to fully
+reconcile high frequency data on economic activity with quarterly and annual national
+accounts data. Moreover, to enhance assessments of economic developments and
+vulnerabilities, it would be desirable to develop sectoral flow-of-funds accounts for the
+household sector and, in particular, for the non-financial corporation sector, improve the
+quality of employment and wage data, and clarify uncertainties regarding trade data that have
+emerged since EU accession.
+Real sector
+3.
+The National Statistical Institute (NSI) is responsible for compiling national accounts,
+based on a system consistent with the System of National Accounts 1993 (SNA 1993) and the
+European System of Accounts 1995. GDP data by activity and expenditure categories are
+compiled and reconciled within an annual supply and use framework. However, government
+output and final consumption are estimated on a cash basis. In addition, published national
+accounts include current and capital accounts for the five main domestic sectors (general
+government, financial corporations, nonfinancial corporations, nonprofit institutions serving
+households, and households). Work is underway on compiling financial accounts and balance
+sheets.
+4.
+The NSI has compiled estimates of quarterly GDP by the production and expenditure
+approaches in current and constant prices since 1994. The preliminary data are disseminated
+80 days after the end of the reference quarter with final figures disseminated after
+approximately 5 quarters. Problems remain in the coverage of private sector activities as well
+as regarding constant price estimates of capital formation and external trade. However,
+significant progress has been made in the development of export and import deflators. The
+estimates at constant prices, which follow international standards, use chain-linked indices.
+5.
+On price data, the NSI produces a domestic consumer price index (CPI), a
+harmonized consumer price index (HICP) according to Eurostat methods, and a producer
+price index (PPI). All are updated monthly. The CPI series begins in 1995, the PPI in 2000
+and the HCPI in 2005 (for earlier years it is set equal to the CPI). The coverage of the CPIs
+was extended, although they still exclude some important sectors, mainly owner-occupied
+
+54
+housing and health and life insurance. Since 2004 financial services are included. The
+geographical coverage of the index is restricted to 27 urban areas which account for an
+estimated 65 percent of sales.
+6.
+The flow of customs data has improved significantly in recent years and a new system
+for processing customs records is near completion. The development of export and import
+unit value indices is progressing smoothly and additional support is expected from Eurostat
+in this area. The current indices are used as deflators for the import and export components of
+the national accounts. The Import and Export Division of the NSI meets monthly with the
+BNB to review data issues and ensure consistency between the NSI export and import data
+and the balance of payments data.
+7.
+The lack of comprehensive labor statistics hampers the assessment of developments
+in employment and wages, especially in the private sector, though there have been some
+recent improvements. Annual data are collected by the NSI, using a census of all
+establishments. The NSI also obtains current monthly estimates from a quarterly survey of
+establishments using all public enterprises and a sample of private employers that excludes
+establishments with less than five employees. The sample included 14,500 private employers
+out of approximately 142,000 qualifying private enterprises. The main shortcomings of these
+data include: (i) under-reporting of private sector wages; (ii) reporting of average gross
+earnings only, not wages for time worked and wages by occupation; and (iii) lack of
+coverage of the self-employed and employment in small firms. However, the National Social
+Security Institute (NSSI) administrative data are used to estimate wages by occupation and
+age and the number of self-employed and employment in small firms. The household budget
+survey could provide an alternative source of data for private sector wages. Regarding
+employment, the NSI household labor force survey is an alternative source of data, but
+improvements are needed to make it more consistent with the establishment survey,
+especially regarding agricultural employment. The survey is conducted four times a year.
+8.
+A Population Census was conducted in early 2001 and is a source for redesigning the
+household surveys conducted by the NSI, particularly the household budget survey and the
+labor force survey.
+Government finance
+9.
+In recent years, following the recommendations of a combined STA/FAD mission
+and within the framework of fiscal reporting requirements for EU accession, the authorities
+have made significant progress on implementing accrual accounting for government,
+budgetary and statistical systems. Consolidated data on central government operations are
+routinely reported for publication in the GFS Yearbook and in IFS. For the GFS
+Yearbook 2006, 2005 data for the general government sector and its subsectors were reported
+on a cash basis. The Ministry of Finance prepares data on the execution of the consolidated
+government budget on a monthly basis. These data do not conform to GFS standards and,
+
+55
+while not published in a bulletin format, they are posted on the Ministry of Finance’s
+website. The authorities have made progress in presenting data on a disaggregated basis,
+including expenditure by functional classification. In addition, a full economic classification
+of expenditure is now available, and the authorities have provided such data on an annual
+basis back to 1998.
+Money and banking statistics
+10.
+In 2002, the BNB began to harmonize progressively its data collection and
+compilation methods in line with the ECB’s framework for monetary statistics. The revised
+data for June 1995 and onward resulting from these efforts are published in IFS. Recent work
+in mid-2006 aimed at fully meeting the remaining ECB requirements beginning in
+February 2007, in accordance with 1995 ESA, the institutional coverage of monetary
+financial institutions includes money market funds. Consistency in the coverage of the
+BNB’s claims on banks (which included claims on liquidated banks) and the banks’
+liabilities to the BNB improved in January 2003 after the BNB wrote off most of the claims
+on the liquidated banks.
+Balance of payments
+11.
+Bulgaria reports monthly balance of payments and external debt data on a regular
+and timely basis, but data on reinvested earnings by foreign-owned companies are subject to
+large revisions due to incomplete responses on surveys used for preliminary estimates. In
+early 2006, the authorities revised the methodology for estimating trade-related
+transportation receipts and payments to align it more closely with actual costs. Since joining
+the EU in January 2007, the trade data with EU countries are being collected following the
+INTRASTAT system. The new system has created considerable data uncertainties as
+40 percent of those who reported trade data for the first half of the year reported a value of
+zero. The authorities therefore expect that some revisions in the 2007 trade data later in the
+year will be needed as more complete information becomes available.
+
+Sep 2007
+Sep 2007
+
+Central Bank Balance Sheet
+
+Consolidated Balance Sheet of the Banking System
+
+Sep 2007
+
+Sep 2007
+Sep 2007
+
+Stocks of General Government and General Government5
+Guaranteed Debt
+
+External Current Account Balance
+
+Exports and Imports of Goods and Services
+
+Gross External Debt
+
+Aug 2007
+
+2007 Q2 (Quarterly);
+2006 (Annual)
+
+Sep 2007
+
+Revenue, Expenditure, Balance and Composition of
+3
+4
+Financing – General Government
+
+GDP
+
+2006
+
+Oct 2007
+
+Revenue, Expenditure, Balance and Composition of
+3
+4
+Financing – General Government
+
+Consumer Price Index
+
+10/23/2007
+
+9/19/2007
+
+11/13/2007
+
+11/13/2007
+
+10/31/2007
+
+10/31/2007
+
+1/31/2007
+
+11/13/2007
+
+11/02/2007
+
+10/23/2007
+
+10/23/2007
+
+10/23/2007
+
+10/23/2007
+
+10/23/2007
+
+11/13/2007
+
+Date received
+
+M
+
+Q/A
+
+M
+
+M
+
+M
+
+M
+
+A
+
+M
+
+W and M
+
+M
+
+W/M
+
+W/M
+
+W/M
+
+M
+
+D and M
+
+Frequency
+of
+6
+data
+
+M
+
+Q/A
+
+M
+
+M
+
+M
+
+M
+
+A
+
+M
+
+W and M
+
+M
+
+W/M
+
+M
+
+M
+
+W
+
+D and M
+
+Frequency
+of
+6
+reporting
+
+M
+
+Q
+
+M
+
+M
+
+M
+
+M
+
+A
+
+M
+
+W and M
+
+M
+
+W and M
+
+W/M
+
+D and M
+
+D
+
+D and M
+
+Frequency of
+6
+publication
+
+O, LO, O, LO
+
+LNO, LO, O, LO
+
+O, LO, O, LO
+
+O, LO, O, O
+
+O, O, LO, LO
+
+O, O, O, O, O
+
+LNO, LNO, LNO, LO, LO
+
+LO, O, O, O, NO
+
+LO, LO, O, O, O
+
+O, O, O, O, O
+
+Data Quality Accuracy
+8
+and reliability
+
+Memo Items:
+Data Quality –
+7
+Methodological soundness
+
+2
+
+Includes reserve assets pledged or otherwise encumbered as well as net derivative positions.
+Both market-based and officially-determined, including discount rates, money market rates, rates on treasury bills, notes and bonds.
+3
+Foreign, domestic bank, and domestic nonbank financing.
+4
+On a gross cash basis. The general government consists of the central government (budgetary funds, extra budgetary funds, and social security funds) and local governments.
+5
+Including currency and maturity composition.
+6
+Daily (D); Weekly (W); Monthly (M); Quarterly (Q); Annually (A); Irregular (I); Not Available (NA).
+7
+Reflects the assessment provided in the data ROSC published in December 2003, which is based on the findings of the mission that took place during January 15-30, 2003 for the dataset corresponding to the variable in each row.
+The assessment indicates whether international standards concerning (respectively) concepts and definitions, scope, classification/sectorization, and basis for recording are fully observed (O), largely observed (LO), largely not
+observed (LNO), or not observed (NO).
+8
+Same as footnote 7, except referring to international standards concerning (respectively) source data, statistical techniques, assessment and validation of source data, assessment and validation of intermediate data and statistical
+outputs, and revision studies.
+
+1
+
+Sep 2007
+
+Broad Money
+
+Oct 2007
+
+Sep 2007
+
+Reserve/Base Money
+
+Interest Rates
+
+Sep 2007
+
+International Reserve Assets and Reserve Liabilities of the
+1
+Monetary Authorities
+
+2
+
+Nov 2007
+
+Exchange Rates
+
+Date of latest observation
+
+Table 1. Bulgaria: Common Indicators Required for Surveillance
+As of November 13, 2007
+
+56
+
+Statement by Age Bakker, Executive Director for Bulgaria
+and Victor Yotzov, Advisor to Executive Director
+December 17, 2007
+The Bulgarian authorities appreciate the continued constructive dialogue with the
+management and staff that has been extremely helpful over the last decade. Over that period,
+Bulgaria has implemented a comprehensive reform agenda and successfully completed
+several Fund-supported programs that helped the country to stabilize and make progress in
+the run-up to the EU accession. Decisive reforms and continued prudent macroeconomic
+policy eventually paid off – as of the beginning of 2007, Bulgaria is a full-fledged member of
+the EU.
+For the years to come, Bulgaria’s overriding policy priority remains speeding up real
+convergence and raising living standards. Notwithstanding the enormous progress made in
+this direction over the last years, important challenges remain as external imbalances proved
+persistent along with higher than expected inflationary pressures. Against this background,
+the authorities remain committed to achieving high and sustainable economic growth while
+maintaining a stable and predictable macroeconomic environment. With a view to the
+fulfillment of this objective, keeping public finances in check is regarded crucial. The
+government intends to keep running budget surpluses to help curb domestic demand as well
+as to moderate the external account imbalance.
+Recent developments
+The confidence inspired by the good economic performance over the last several
+years, as well as the recent accession to the EU, has continued to attract substantial amounts
+of capital inflows, mostly in the form of FDI. As a result, real GDP has accelerated in the
+first half of 2007 to 6.4 percent, led primarily by fixed capital investment and to a much
+lesser extent by private consumption. It is widely expected that this trend will hold
+throughout the year, and the previously expected growth rate of 6 percent for the year as a
+whole will most likely be exceeded. The current pattern of growth has been repeatedly
+observed over the last years. The private investment-to-GDP ratio has been surging, while
+the private consumption-to GDP ratio remains broadly stable, suggesting that consumption
+has not been the main driver of recent high growth rates. Such a conclusion is also supported
+by the structure of imports, that shows a growing share of investment goods and a broadly
+stable share of consumer goods.
+Inflation has picked up in 2007, reflecting to a large extent one-off factors caused by
+a severe summer draught that triggered a significant increase in food prices. This came on top
+of a more general increase in food prices that has been observed in other countries in the
+region and elsewhere, prompting a possible price correction. After the summer shock, during
+which CPI increased by almost 7 percent, conditions are now expected to return to normal,
+while the disinflationary momentum is expected to gain strength. Nevertheless, headline
+inflation in 2007 is expected to exceed earlier projections. Core inflation, however, has
+picked up at a significantly slower pace, reflecting a modest rise in labor cost and only
+limited overall capacity pressures.
+
+2
+
+On the back of strong growth, liberalized market conditions, and overall positive
+expectations, employment has been on an upward trend for the last couple of years.
+Accordingly, the unemployment rate has fallen (and continues to fall) considerably from
+about 20 percent in 2000 to less than 7 percent now. As parliament has recently passed
+amendments to the Labor Code to increase working time flexibility, it is expected that
+employment, which is still below the average of Bulgaria’s peers, will continue to rise.
+Buoyant economic growth, steady capital inflows, and a prudent fiscal policy with
+sizable surpluses over the last four years, resulted in a significant increase of the Fiscal
+Reserve Account. Accumulated reserves were used to buy back and retire all outstanding
+Brady bonds, to make early repurchases to all outstanding loans to the Fund, as well as to
+prepay a portion of World Bank loans. These prepayments have contributed to significantly
+lowering the external public debt ratio, which is expected to fall below 15 percent of GDP by
+the end 2007. Gross external debt, however, has been on the rise since 2003 as the private
+sector debt has begun to grow rapidly, in line with the investment boom that the country has
+been experiencing. This trend is expected to reverse in a couple of years, along with an
+overall moderation of capital inflows. Meanwhile, external debt indicators show that risks are
+fairly contained as short-term debt is fully covered by reserves. Moreover, a significant part
+of the private external debt (more than one third) is in fact inter-company debt owned to
+mother companies.
+External Sector
+Rapid catch-up economic growth is often, if not always, associated with strong
+private investment, exceeding – sometimes by far – private savings. Despite continued
+increase in public savings, the private sector’s saving-investment imbalance has translated
+into a sizable current account deficit. Exacerbated by high oil and other key commodity
+prices, in 2007 the external current account deficit may well reach 20 percent of GDP.
+The size of the deficit itself is high enough to raise concerns about external stability.
+While the authorities share the legitimacy of these concerns, there are a lot of uncertainties
+regarding the nature, the cause, and the implications of the external imbalance. Similar
+processes can be observed in other countries that recently joined the EU which are equally
+characterized by real income convergence, substantial amounts of EU grants, financial
+system deepening, high future income expectations, a declining risk premium, and the overall
+effects of globalization. The phenomenon of high and persistent current account deficits
+under such circumstances is a rather unique one, presenting the authorities (and the Fund)
+with the big challenge of how to react in such cases. The challenge becomes even larger
+when the authorities, given their monetary framework, have only limited tools to tackle the
+problem. In particular, this applies to the degree to which external imbalances, emanating
+from a private saving-investment imbalance, can be counterbalanced by moving and keeping
+the public finances in large imbalance as well.
+Notwithstanding all the difficulties and surrounding uncertainty, Bulgaria has taken
+up this challenge. The authorities are thankful to staff for the candid and constructive
+
+3
+dialogue on the matter during the Article IV mission. They especially appreciate the selected
+issues paper that provides good quality analyses and recommendations.
+Despite high current account deficits, competitiveness does not appear to have been
+hurt, as evidenced by the continued solid export growth and rising market shares. REER
+appreciation over the last years has been moderate when benchmarked against conventional
+relationships between the exchange rate and the current account deficit. As underscored by
+staff, purchasing power parity and dollar-wage comparisons across countries suggest that
+Bulgaria’s prices and production costs remain competitive – a suggestion also supported by
+regression-based estimates of the real equilibrium exchange rate. Moreover, official foreign
+reserves have been growing in line with the higher imports and the reserve coverage has
+remained broadly stable over the last couple of years. In general, the authorities and staff
+share the view that a one-off private investment boom is the main driver of the large current
+account deficit. Once this boom dissipates, the current account deficit is expected to start
+approaching its equilibrium levels under present policy settings.
+Although the soft-landing scenario is the likely one, the authorities have proved
+sensitive to external vulnerabilities. They have applied extremely prudent fiscal policies, and
+taken measures intended to restrain credit growth. When assessing the external imbalance
+though, full account must be taken of its context. Bulgaria’s catching-up shows the usual
+combination of a current account deficit financed by massive capital inflows. In itself this is
+precisely desirable, and policy is carefully attuned to keeping the catching-up process stable,
+while identifying and controlling its potential vulnerabilities.
+Fiscal policy
+Under a currency board arrangement, fiscal policy remains key to maintaining
+macroeconomic stability and reducing vulnerabilities. This said, the main challenge for the
+authorities is to strike the right balance between two competing objectives. On the one hand,
+maximization of EU funds’ utilization must be given priority, as it provides the country with
+the unique opportunity to speed-up real convergence, deepen EU integration, and
+substantially increase living standards in a relatively short period of time. On the other hand,
+the authorities do acknowledge the need to offset sustained private sector saving-investment
+imbalances. As the latter objective has become more important over the last years, the fiscal
+stance has strengthened remarkably and every year marks another record-high surplus. 2007
+will be no exception from this trend. By applying this policy, the authorities reaffirm their
+strong commitment to sound macroeconomic policies, acknowledging the paramount
+importance of a prudent fiscal stance in the context of the currency board arrangement.
+On the back of growing economic activity, increased employment, higher imports,
+and higher inflation, as well as due to improved tax collection, revenue in 2007 soared
+significantly above what was budgeted. The revenue windfall from the absorption boom,
+along with just a modest increase in expenditures, resulted in an unprecedented surplus that,
+according to the end-November data, was approaching 7 percent of GDP. Given the already
+strong fiscal position, both social partners and the private sector have expressed objections to
+such restrictive fiscal policy. There is marked pressure from academic circles, NGOs, and
+
+4
+various industry associations for lower tax rates while (on top of that) trade unions are
+strongly backing rising demands for wage increases.
+Against this background, the authorities have decided to use part of the revenue
+windfall and to step up the investment program in the most needed sectors. The bulk of the
+supplementary fiscal expenditures is mainly allocated for infrastructural projects like road
+construction and rehabilitation, and construction of water purification stations and sewerage
+systems. A big part relates to co-financing of EU-financed projects, and constitutes mostly
+advance payments for projects under the operational programs in the area of regional
+development, environment, rural development, and transport. Another significant part is
+allocated for building-up strategic oil-reserves and oil-storage facilities. Given the recent
+incidents of massive floods, funds were earmarked for river-bed corrections and preventing
+landslides. The authorities have taken the necessary steps to ensure the transparency of the
+extraordinary spending which was given high publicity within the country and was approved
+by parliament. The most important, however, is the fact that even after this extra spending,
+the overall budget surplus will again be higher than the 3.5 percent recorded in the previous
+year, and far beyond the 2 percent of GDP that was initially budgeted.
+With regard to the 2008 budget, the authorities are firmly committed to continuing
+with their prudent fiscal stance. The budget, which is still under consideration in parliament,
+envisages a surplus of at least 3 percent of GDP which is basically in line with an unchanged
+fiscal stance. With the new budget the authorities are introducing a flat 10 percent personal
+income tax along with a 10 percent corporate tax rate that is already in place since the
+beginning of 2007. In order to minimize the revenue loss, the authorities plan to eliminate
+most of the existing exemptions, thus broadening the tax base. It is the authorities’ belief that
+such a step will help shrink the grey economy, while higher excises on tobacco and fuel will
+compensate to a great extent for the revenue loss.
+The 2008 budget has already passed the first reading and is expected to be approved
+pretty soon. The authorities have undertaken another step in improving fiscal transparency by
+eliminating the previous practice of across-the-board spending sequestration and introducing
+a contingency reserve instead. As usual, the authorities are prepared to allow automatic fiscal
+stabilizers to operate by saving most of a possible revenue overperformance.
+Financial Sector
+Like in many other countries in the region, a rapid bank credit expansion has been
+observed over the last years. In many respects this was, and still is, a welcome development
+as it symbolizes growing financial intermediation. The pace of the bank credit growth,
+however, remained too high for too long which could be associated with an increase in
+macroeconomic vulnerabilities. It should be stressed, however, that the rapid bank credit
+growth is hardly surprising given the extremely low initial base, declining nominal interest
+rates, rising income expectations, and a stable, well capitalized, and highly profitable banking
+system. Moreover, in contrast to other countries with a similar pace of growth, the credit
+expansion in Bulgaria has been financed mostly by a strong increase in deposits instead of
+relying on foreign borrowing. All this suggests that the currently experienced rapid credit
+
+5
+growth is a healthy one, reflecting the overall strong economic performance – a suggestion
+also supported by the financial soundness indicators showing no signs of deterioration.
+No matter the mitigating factors, the authorities are fully cognizant of the
+macroeconomic and financial stability risks associated with rapid credit growth and are
+strongly committed to dealing with the situation. They have undertaken various measures in
+trying to moderate the pace of growth, including by enhancing information; strengthening the
+prudential and regulatory framework; and lowering liquidity by introducing administrative
+limits to bank credit growth. Unfortunately, all these measures proved insufficient and credit
+growth still remains high. In a repeated attempt to moderate the pace, the central bank raised
+the minimum reserve requirements from 8 to 12 percent in September, and signaled that it
+would be ready to adopt additional measures, including by further raising the reserve
+requirements, if needed.
+Finally, with regard to the ERM II, the authorities maintain their long stated position
+that they will seek to joining at the earliest possible date. They have started talks with their
+European partners and are ready to provide them with firm and detailed policy commitments.
+The authorities’ plan is to uphold the currency board arrangement at the existing exchange
+rate until Bulgaria joins the EMU. The Bulgarian government and the central bank have
+committed to unilaterally maintain a zero deviation of the exchange rate after Bulgaria joins
+the ERM II.
+
+Public Information Notice (PIN) No. 07/142
+FOR IMMEDIATE RELEASE
+December 19, 2007
+
+International Monetary Fund
+700 19th Street, NW
+Washington, D. C. 20431 USA
+
+IMF Executive Board Concludes 2007 Article IV Consultation with
+Bulgaria
+On December 14, 2007, the Executive Board of the International Monetary Fund (IMF)
+concluded the Article IV consultation with Bulgaria.1
+Background
+Bulgaria’s large external imbalance has continued to widen. Driven by massive capital inflows,
+particularly foreign direct investment (FDI) inflows, the current account deficit could reach a
+record level of 20 percent of GDP in 2007. While the present level of the current account deficit
+is clearly above sustainable levels, external competitiveness has remained adequate. But,
+underscoring growing external vulnerabilities, the net international investment position is
+projected to deteriorate to about 65 percent of GDP, while gross external debt could soar to
+about 88 percent of GDP. At the same time, accumulation of international reserves has
+continued at a rapid clip, with reserves likely to top 40 percent of GDP by end-2007.
+Real GDP growth in 2007 is likely to remain relatively steady at just over 6 percent, but
+underlying inflation pressures are building up. Investment spending has continued to boom,
+likely reflecting a one-off re-assessment of Bulgaria as an investment location. While FDI
+inflows have been mainly absorbed by nontradables sectors, the tradeables sectors share in
+real investment has held up well during the investment boom. Private consumption growth has
+remained relatively subdued over recent years, in part reflecting restrained fiscal and income
+1
+
+Under Article IV of the IMF's Articles of Agreement, the IMF holds bilateral discussions with
+members, usually every year. A staff team visits the country, collects economic and financial
+information, and discusses with officials the country's economic developments and policies. On
+return to headquarters, the staff prepares a report, which forms the basis for discussion by the
+Executive Board. At the conclusion of the discussion, the Managing Director, as Chairman of the
+Board, summarizes the views of Executive Directors, and this summary is transmitted to the
+country's authorities.
+
+2
+policies. Labor market conditions have tightened: unemployment declined sharply and wage
+pressures have picked up. In this setting, headline HICP inflation has increased sharply to over
+10 percent, mainly owing to food and energy price shocks. While underlying core inflation has
+also risen in response to higher labor cost, it has done so at a much slower pace than headline
+inflation.
+Since 2004, fiscal policy has achieved progressively larger fiscal surpluses, mainly as the
+result of unspent revenue windfalls associated with the domestic demand boom. The 2007
+fiscal surplus is projected to reach at least 3½ percent of GDP, while the underlying fiscal
+surplus position is significantly more moderate. Reflecting the prudent fiscal policy stance, the
+government’s balance sheet is strong, with gross public debt (about 20 percent of GDP) and
+other liabilities more than offset by a growing fiscal reserve and other assets.
+Bank credit has again started to expand rapidly after the administrative credit limits imposed
+during 2005-06 lapsed. With hindsight, the limits helped stimulate nonbank financial flows and
+did not much constrain overall private-sector credit. Banks remain well capitalized, partly
+reflecting the highest minimum capital adequacy ratio among the EU New Member States.
+Credit quality has been stable, as indicated by low nonperforming loan ratios, but this may
+partly reflect rapid loan portfolio growth.
+Bulgaria’s progress on structural reforms is at par in areas where EU legislation tends to
+enforce regulatory homogeneity. However, where EU accession has provided only a weak
+reform anchor, progress has been slow, including on raising the public sector’s low efficiency,
+reducing costly administrative burdens on businesses, and increasing labor market flexibility.
+Executive Board Assessment
+Executive Directors commended the authorities for their strong record of stability-oriented
+macroeconomic policies, which have contributed to steady GDP growth, progress in income
+convergence with other EU countries, and falling unemployment. In particular, Directors
+considered that fiscal and incomes policies have responded prudently so far to the widening
+current account deficit and the investment boom, which is being driven by large foreign direct
+investment inflows related to Bulgaria’s EU accession. Directors emphasized nevertheless
+that the current account deficit is unsustainable and will need to be reduced significantly over
+the medium term in order to contain external vulnerabilities. They also noted that, although
+competitiveness appears not to have been affected, domestic price pressures are rising, in
+large part because of region-wide increases in food and energy prices, but also because of
+accelerating wage increases as the labor market tightens.
+Directors considered that, assuming that a strong policy framework is sustained and the
+requirements of the currency board arrangement continue to be met, the current account
+deficit will gradually normalize to a more sustainable level over the medium term. In that
+
+3
+connection, there was strong support for the authorities’ strategy of maintaining the exchange
+rate peg until euro adoption. Directors advised the authorities to guard against a loss of
+external competitiveness, which could likely entail a severe external adjustment or a prolonged
+period of slow growth.
+Against this background, Directors commended the authorities for their commitment to
+maintain a fiscal framework that avoids procyclical fiscal impulses and supports sustainable
+convergence to EU income levels. They welcomed in particular the authorities’ intention to
+target a large budget surplus in 2008 consistent with avoiding a loosening of the fiscal stance.
+Several Directors observed that an even more restrictive fiscal policy may be needed to
+contain demand pressures effectively and limit downside risks. It will also be important to
+maintain wage discipline in the public sector by keeping wage increases in line with
+productivity growth. Directors welcomed the planned further reductions in public sector
+employment, which will also help mitigate labor market overheating. They called on the
+authorities to review carefully spending priorities in key budget sectors, notably education and
+health care, with external technical assistance, if needed. They concurred with the authorities’
+plans to increase fiscal transparency, including by discontinuing across-the-board spending
+sequestration.
+Directors agreed that Bulgaria’s banking sector remains well supervised and regulated and
+that, with buffers against a possible credit cycle downturn being well maintained, the adverse
+spillovers from the recent tremors in global credit markets have been moderate. They
+nevertheless encouraged the authorities to monitor banks’ risk management mechanisms
+closely, as bank credit growth has surged following the lapsing of administrative credit limits at
+the beginning of 2007. Directors considered that the predominance of subsidiaries of foreign
+banks in Bulgaria’s financial system calls for a further strengthening of cooperation with the
+supervisory authorities of the parent banks. They therefore welcomed the authorities’
+participation in efforts to improve the EU’s cross-border crisis management arrangement.
+Directors looked forward to the update in 2008 of Bulgaria’s FSAP.
+Directors encouraged the authorities to move forward decisively with much-needed structural
+reforms, in particular to raise public sector efficiency. They supported measures to promote
+labor market participation and adaptability, including by giving the social partners additional
+legal leeway to negotiate flexible work contracts. They welcomed the plans to activate the
+electronic commercial register on January 1, 2008 and to further simplify the licensing and
+permit systems, which would help lower the cost of doing business.
+Directors concluded that Bulgaria’s statistical data are broadly adequate for surveillance.
+Nevertheless, they encouraged further enhancements in employment, wage, and trade data.
+Moreover, compiling flow of funds for households and nonfinancial corporations would help
+deepen the understanding of sectoral vulnerabilities.
+
+4
+
+Public Information Notices (PINs) form part of the IMF's efforts to promote transparency of the IMF's
+views and analysis of economic developments and policies. With the consent of the country
+(or countries) concerned, PINs are issued after Executive Board discussions of Article IV consultations
+with member countries, of its surveillance of developments at the regional level, of post-program
+monitoring, and of ex post assessments of member countries with longer-term program engagements.
+PINs are also issued after Executive Board discussions of general policy matters, unless otherwise
+decided by the Executive Board in a particular case. The staff report (use the free Adobe Acrobat
+Reader to view this pdf file) for the 2007 Article IV Consultation with Bulgaria is also available.
+
+5
+
+Bulgaria: Selected Economic Indicators, 2002-07
+Output, prices, and labor market
+Real GDP
+Consumer price index (average)
+Consumer price index (end of period)
+Employment
+Public Finance
+General government overall balance
+Gross public debt
+Financial net worth
+Money and credit
+Broad money (M3)
+Credit claims on
+non-government sector
+Balance of payments
+Merchandise trade balance
+Current account balance
+Gross international reserves
+
+2002
+
+2003
+
+4.5
+5.8
+3.8
+0.2
+
+5.0
+2.3
+5.6
+3.0
+
+-0.8
+56.2
+-10.4
+
+-0.2
+48.1
+6.1
+
+11.9
+
+19.6
+
+44.0
+
+48.3
+
+-11.3
+-2.4
+27.6
+
+-13.7
+-5.5
+30.5
+
+Exchange rates
+Exchange rate regime
+Leva per euro
+Sources: Bulgarian authorities; and IMF staff estimates.
+1/ Projection.
+
+2004
+2005
+(Annual percentage change)
+6.6
+6.2
+6.1
+6.0
+4.0
+7.4
+2.6
+2.7
+
+2006
+
+2007 1/
+
+6.1
+7.4
+6.1
+2.4
+
+6.4
+7.2
+9.5
+2.6
+
+3.5
+24.7
+11.8
+
+3.5
+21.3
+13.8
+
+26.9
+
+28.5
+
+32.4
+
+24.6
+
+52.5
+
+(In percent of GDP)
+-14.9
+-20.2
+-6.6
+-12.0
+34.5
+33.7
+
+-22.2
+-15.7
+35.6
+
+-26.2
+-20.2
+40.5
+
+(In percent of GDP)
+1.7
+2.3
+40.1
+31.3
+8.8
+9.3
+(Annual percentage change)
+23.1
+23.9
+48.7
+
+Currency board arrangement
+Lev 1.956 per Euro
+
+

@@ -1,0 +1,6815 @@
+July 2010
+IMF Country Report No. 10/236
+
+© 2010 International Monetary Fund
+
+June 23, 2010
+April 18, 2010
+
+LOT
+2010
+
+June 23, 2010
+January 29, 2001
+
+Kuwait: 2010 Article IV Consultation—Staff Report and Public Information Notice on
+the Executive Board Discussion
+Under Article IV of the IMF’s Articles of Agreement, the IMF holds bilateral discussions with
+members, usually every year. In the context of the 2010 Article IV consultation with Kuwait, the
+following documents have been released and are included in this package:
+
+
+The staff report for the 2010 Article IV consultation, prepared by a staff team of the IMF,
+following discussions that ended on April 18, 2010, with the officials of Kuwait on economic
+developments and policies. Based on information available at the time of these discussions,
+the staff report was completed on July 1, 2010. The views expressed in the staff report are
+those of the staff team and do not necessarily reflect the views of the Executive Board of the
+IMF.
+
+
+
+A Public Information Notice (PIN).
+
+The document listed below has been or will be separately released.
+Financial Sector Stability Assessment
+Statistical Annex/Appendix
+The policy of publication of staff reports and other documents allows for the deletion of market-sensitive
+information.
+Copies of this report are available to the public from
+International Monetary Fund  Publication Services
+700 19th Street, N.W.  Washington, D.C. 20431
+Telephone: (202) 623-7430  Telefax: (202) 623-7201
+E-mail: publications@imf.org Internet: http://www.imf.org
+Price: $18.00 a copy
+
+International Monetary Fund
+Washington, D.C.
+
+INTERNATIONAL MONETARY FUND
+KUWAIT
+Staff Report for the 2010 Article IV Consultation
+Prepared by Staff Representatives for the 2010 Article IV Consultation with Kuwait
+Approved by Alfred Kammer and David Marston
+June 30, 2010
+
+
+Discussions: Held in Kuwait during April 7–18, 2010 with Mr. Khalifa Hamada,
+Undersecretary of Finance; Mr. Mohammad Y. Al-Hashel, Deputy Governor of the
+Central Bank of Kuwait (CBK); Mr. Abdulrahman Al-Anjari, Member of the
+Economic and Financial Committee of the National Assembly; other senior
+government officials; and private sector representatives. Mr. Shaalan (OED) also
+participated in some of the policy discussions.
+
+
+
+Team: Ms. Khamis (Head, MCD); Messrs. Cevik, Charap, Prasad, and Rodriguez
+(all MCD).
+
+
+
+Mission Focus: Short- and medium-term growth strategy, risks to the outlook—
+particularly for the financial sector, and the appropriate policy mix to sustain growth
+and macroeconomic and financial stability.
+
+
+
+Previous Consultation: Concluded on April 10, 2009. The staff report and the PIN
+of the Executive Board’s discussion is available at:
+http://www.imf.org/external/pubs/cat/longres.cfm?sk=22951.0.
+
+
+
+Exchange Arrangements: The exchange regime is classified as conventional peg to
+a basket. Kuwait has accepted the obligations of Article VIII, Sections 2, 3, and 4,
+and maintains an exchange system free of restrictions on payments and transfers of
+international transactions, other than certain security-related restrictions notified to
+the Fund pursuant to Decision 144-(52/51).
+
+
+
+Data: Data provision has some shortcomings, but is broadly adequate for
+surveillance. Further progress regarding quality and timeliness is needed, particularly
+in the national accounts.
+
+2
+Contents
+
+Page
+
+I. Context....................................................................................................................................3
+II. Economic Outlook.................................................................................................................8
+III. Risks to the Outlook and Vulnerabilities ...........................................................................10
+IV. Policy Issues ......................................................................................................................11
+A. Strategy for Sustained Economic Growth ...............................................................11
+B. Macroeconomic Policy Mix ....................................................................................13
+C. Ensuring Financial Sector Stability .........................................................................15
+D. Statistical Issues ......................................................................................................18
+V. Staff Appraisal ....................................................................................................................19
+Boxes
+1. Investment Companies—A Tale of Two Restructurings .......................................................9
+2. Vulnerabilities of the Nonfinancial Corporate Sector .........................................................12
+3. Fiscal Sustainability Analysis ..............................................................................................15
+4. Exchange Rate Assessment..................................................................................................16
+5. Priority Recommendations of the FSAP Update .................................................................18
+Text Table
+Financial and Corporate Sector Performance ............................................................................3
+Figures
+1. Economic Context ..................................................................................................................4
+2. Macro and Financial Developments in the GCC Countries...................................................5
+3. Financial Sector Conditions ...................................................................................................6
+4. Government Response to the Economic and Financial Developments .................................7
+5. Macroeconomic Outlook, 2009–11 .......................................................................................8
+6. Allocation of Banks’s Assets .................................................................................................8
+7. REER and NEER .................................................................................................................17
+Tables
+1. Selected Economic Indicators, 2004–11 ..............................................................................21
+2. Summary of Government Finance, 2004/05–2011/12 .........................................................22
+3. Summary Balance of Payments, 2004–11 ...........................................................................23
+4. Monetary Survey, 2004–11..................................................................................................24
+5. Illustrative Macroeconomic Baseline Scenario, 2005–15 ...................................................25
+6. Financial Soundness Indicators, 2006–09............................................................................26
+7. Vulnerability Indicators, 2004–09 .......................................................................................27
+Annex
+Announced Government Support in Response to the Crisis....................................................28
+
+3
+I. CONTEXT
+1.
+Kuwait’s economy was affected significantly by the global crisis. The impact hit
+Kuwait in the second half of 2008, through the decline in oil prices and production, and was
+further exacerbated by the intensification of liquidity shortages in global financial markets
+post-Lehman’s collapse. Oil market developments had a direct impact on government
+finances and external positions, but they also had an indirect impact on financial and
+corporate sector liquidity as the speculative capital inflows experienced in 2007 and early
+2008 reversed in the second half of 2008 and investor confidence declined. These
+developments triggered a steep fall in real estate and equity prices and weakened the
+financial system’s balance sheet.1
+2.
+Real GDP is estimated to have contracted by about 4½ percent in 2009—the
+weakest performance among GCC countries. Real oil GDP declined by more than
+11 percent, and real non-oil GDP is estimated to have remained flat, mainly reflecting weaker
+activity in the financial and construction sectors. Lower domestic demand and a 12 percent
+drop in import prices reduced average consumer price inflation to 4 percent. Equity prices
+continued to decline, money growth slowed, and credit growth plunged on account of lower
+demand and higher risk aversion by banks. Fiscal and external surpluses narrowed as oil
+revenues and investment income declined. The Kuwaiti dinar (KD) depreciated by about
+4 percent against the U.S. dollar (Figures 1 and 2).
+3.
+The financial sector, particularly investment companies (ICs), experienced
+funding pressures and deterioration in asset quality. ICs—with significant dependence on
+external financing, maturity mismatches,
+Text Table 1. Kuwait: Financial and Corporate
+and large exposures to equity and real
+Sector Performance, 2006–09 1/
+(In billions of U.S. dollars)
+estate markets—suffered considerable
+2006
+2007
+2008
+2009
+valuation losses in 2008–09 and faced
+Banks
+Assets
+90.7
+136.6
+155.5
+153.3
+difficulties rolling over their debts. Five
+Provisions
+-2.4
+-2.9
+-5.2
+-6.9
+ICs are known to have defaulted in
+Net profit
+1.1
+3.7
+1.2
+1.4
+Investment
+Sector
+2009–10. Banks’ nonperforming loan
+Assets
+26.7
+46.3
+47.6
+41.0
+(NPL) ratio doubled to 9.7 percent in 2009 Debt
+14.8
+27.3
+31.8
+28.2
+Gross revenue
+1.0
+1.1
+1.4
+1.0
+and profitability declined significantly in
+Net profit
+1.0
+5.1
+-2.5
+-1.3
+Other Corporate Sectors 2/
+2008–09 reflecting higher provisioning
+Assets
+48.9
+66.2
+78.0
+76.4
+and the large loss incurred by one bank in
+Debt
+20.3
+29.7
+39.7
+37.9
+Gross revenue
+18.7
+25.2
+33.6
+30.5
+2008. Profitability in the nonfinancial
+Net profit
+4.3
+5.7
+0.7
+1.8
+Source: Fund staff estimates based on published statements from Zawya.
+corporate sector also declined
+1/ Data reflects companies listed on the Kuwait Stock Exchange.
+substantially (Text Table 1 and Figure 3).
+2/ Food, industrial, insurance, real estate, and services.
+
+1
+
+Prices of apartments and commercial real estate nearly doubled during 2004–08. The rise in the price of
+residential real estate was more moderate, reflecting the high degree of state intervention in the sector.
+
+4
+Figure 1. Kuwait: Economic Context
+The global crisis affected Kuwait via trade and
+financial channels....
+
+GDP declined, led by a contraction in oil
+production...
+
+In billions) of U.S. dollars
+90
+80
+
+45
+
+Oil and gas exports
+(LHS)
+
+40
+
+70
+60
+50
+
+35
+Kuwait's liabilities to
+BIS banks (RHS)
+
+20
+15
+
+20
+
+10
+
+10
+
+5
+
+0
+
+0
+2005
+
+2006
+
+2007
+
+2008
+
+-10
+
+15
+10
+
+5
+
+5
+
+0
+
+0
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+16
+
+2009
+
+14
+
+Fiscal balance (% of GDP, excl.
+recapitalization of social sec.)
+
+60
+
+Current account balance (% of GDP)
+
+50
+
+2006
+
+2007
+
+2008
+
+2009
+
+50
+
+Stock Market Index (thousands, LHS)
+
+45
+
+Banks' credit to the private sector (% change, 40
+35
+RHS)
+
+12
+
+30
+
+11
+
+25
+
+10
+
+20
+
+9
+
+15
+
+8
+
+10
+
+7
+
+5
+
+6
+
+0
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+...and the real exchange rate
+depreciated.
+70
+
+120
+
+60
+
+115
+
+50
+40
+
+40
+
+2005
+
+13
+
+The fiscal and the current account
+surpluses narrowed...
+70
+
+-10
+
+-15
+
+15
+20
+
+10
+
+-5
+
+...credit growth plunged, and equity
+prices continued to fall.
+25
+
+15
+
+Real oil GDP growth (%)
+Real non-oil GDP growth (%)
+Real GDP growth (%)
+2004
+
+M2 growth (%)
+
+20
+
+0
+
+-5
+
+Inflation and money growth declined...
+
+CPI growth (%, average)
+
+5
+
+0
+
+2009
+
+25
+
+10
+
+5
+
+25
+
+30
+
+15
+
+10
+
+30
+
+40
+
+2004
+
+15
+
+110
+105
+
+REER (end of year,
+average 2000=100, LHS)
+
+3.75
+
+Nominal exchange rate
+(end of year, US$/KD,
+RHS)
+
+3.65
+
+3.70
+
+3.60
+
+100
+
+3.55
+
+95
+
+3.50
+
+30
+
+30
+
+20
+
+20
+
+90
+
+3.45
+
+10
+
+10
+
+85
+
+3.40
+
+0
+
+80
+
+0
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+Sources: Kuwait authorities; and Fund staf f estimates.
+
+3.35
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+5
+Figure 2. Macro and Financial Developments in the GCC Countries
+Real GDP Growth
+(Annual percentage change)
+
+30
+25
+
+2007
+
+2008
+
+30
+
+2009
+
+20
+
+15
+
+15
+
+10
+
+10
+
+5
+
+5
+
+0
+
+0
+
+-5
+
+-5
+
+10
+
+Oman
+
+Qatar
+
+Saudi
+Arabia
+
+2007
+
+8
+
+2008
+
+9
+8
+
+7
+
+7
+
+6
+
+6
+
+5
+
+5
+
+0
+
+0
+
+10
+
+0
+
+0
+
+-10
+
+-10
+
+-20
+
+-20
+-30
+
+3
+
+3
+
+2
+
+2
+
+-50
+
+1
+
+-60
+
+0
+
+-70
+
+65
+
+Bahrain
+Oman
+Saudi Arabia
+
+Kuwait
+Qatar
+U.A.E.
+
+75
+
+-40
+-50
+-60
+-70
+
+Oman
+
+Qatar
+
+Saudi
+Arabia
+
+U.A.E.
+
+200
+
+200
+
+150
+
+150
+
+65
+55
+
+45
+
+45
+
+35
+
+35
+
+25
+
+25
+
+15
+
+15
+
+5
+
+5
+-5
+Dec- Apr- Aug- Dec- Apr- Aug- Dec- Apr- Aug- Dec06 07 07 07 08 08 08 09 09 09
+
+2009
+
+Equity Markets
+(Index, Dec. 2006=100)
+
+55
+
+-5
+
+2008
+
+Bahrain Kuwait
+
+U.A.E.
+
+Credit to the Private Sector
+(Year-on-year growth)
+75
+
+U.A.E.
+
+10
+
+-40
+
+Saudi
+Arabia
+
+Saudi
+Arabia
+
+20
+
+-30
+
+Qatar
+
+Qatar
+
+20
+
+4
+
+Oman
+
+Oman
+
+Listed Banks' Profits
+(Annual percentage change)
+
+4
+
+Bahrain Kuwait
+
+-5
+
+-5
+
+5
+
+0
+
+15
+
+2009
+
+10
+
+5
+
+1
+
+2008
+
+Bahrain Kuwait
+
+10
+Latest
+
+2007
+
+10
+
+U.A.E.
+
+Nonperforming Loans
+(In percent of total loans)
+
+9
+
+15
+
+25
+
+20
+
+Bahrain Kuwait
+
+Inflation
+(Annual percentage change)
+
+100
+
+50
+
+Bahrain
+Kuwait
+Oman
+Qatar
+Saudi Arabia
+Dubai
+Abu Dhabi
+
+100
+
+50
+
+0
+0
+Dec- Apr- Aug- Dec- Apr- Aug- Dec- Apr- Aug- Dec06 07 07 07 08 08 08 09 09 09
+
+Sources: Bloomberg; Zawya; country authorities; and Fund staf f estimates.
+
+6
+Figure 3. Kuwait: Financial Sector Conditions
+Capitalization in the banking sector
+remains high despite rising NPLs and
+low profitability.
+25
+
+(In percent)
+
+ICs have a relatively high dependance
+on foreign financing...
+25
+
+NPLs
+20
+
+45
+
+CAR
+
+ROA
+
+20
+
+15
+
+15
+
+10
+
+10
+
+5
+
+5
+
+40
+
+20
+
+35
+
+19
+
+30
+
+18
+
+25
+
+17
+
+20
+
+16
+
+15
+10
+
+0
+
+0
+2007
+
+2008
+
+2009
+
+5
+
+(In percent of total assets)
+
+20
+19
+
+43
+
+18
+
+42
+
+17
+
+41
+
+16
+
+40
+
+15
+
+39
+
+14
+
+38
+
+13
+
+Foreign Assets
+
+36
+
+12
+Total Assets (KWD
+billions, RHS)
+
+2.0
+
+Dec- Apr- Aug- Dec- Apr- Aug- Dec07
+08
+08
+08
+09
+09
+09
+Source: Central Bank of Kuwait.
+
+13
+
+Aug- Dec09
+09
+
+2.0
+
+(In KD billions)
+
+1.5
+
+1.5
+
+Banks
+Investment Companies
+
+1.0
+
+Nonf inancial Corporates
+
+1.0
+
+0.5
+
+0.5
+
+0.0
+
+0.0
+
+-0.5
+
+-0.5
+
+11
+10 -1.0
+
+35
+
+Aug- Dec- Apr08
+08
+09
+
+14
+
+...and still incurring losses.
+
+44
+
+37
+
+15
+Financing f rom Local Banks
+Foreign Liabilities
+Own Funds
+Total Liabilities (KWD billions, RHS)
+Dec- Apr07
+08
+
+...are exposed to regional and global
+asset markets...
+45
+
+21
+
+(In percent of total liabilities)
+
+-1.0
+2007
+
+2008
+
+2009
+
+7
+4.
+A forceful early response by the authorities contributed to financial sector
+stability. Measures were extensive, ranging from liquidity support to the introduction of a
+financial stability law (Figure 4 and Annex 1). The CBK required banks to take precautionary
+provisioning and encouraged some to increase capital. Only one bank needed public funds for
+recapitalization. As of end-2009, the banking sector’s capital adequacy ratio (CAR) was at 18
+percent and all banks maintained CARs well above the regulatory minimum of 12 percent.
+Similarly, the leverage ratio stood at a comfortable level of 12 percent. Banking system
+liquidity was adequate, with liquid assets covering 35 percent of short-term liabilities,
+supported by public sector deposits. The overall open net foreign currency position was
+marginal. Nevertheless, the impact of government support measures on credit growth and
+non-oil activity was limited in light of the absence of fiscal stimulus and the limited utilization
+by borrowers and banks of guarantees provided for under the financial stability law.2
+Figure 4. Kuwait: Government Reponse to the Economic and
+Financial Developments
+It also lowered its discount rate, which
+is the benchmark rate for lending.
+
+The central bank reduced its intervention
+(absorption) rate; interbank rates stabilized.
+4.5
+
+(In percent per annum)
+
+4.5
+
+1-month Interbank
+Rate
+
+4.0
+3.5
+
+KWD 1-month
+Intervention
+(absorption) Rate
+
+3.0
+
+4.0
+3.5
+3.0
+
+2.5
+USD Fed Funds Rate
+
+2.5
+2.0
+
+2.0
+
+1.5
+
+1.5
+
+1.0
+
+1.0
+
+0.5
+
+0.5
+0.0
+
+0.0
+Dec- Apr-08 Aug- Dec- Apr-09 Aug- Dec07
+08
+08
+09
+09
+
+(In percent per annum)
+
+12
+
+12
+Banks' weighted average
+deposit rate
+10
+Banks' weighted average
+lending rate
+8
+KWD Discount Rate
+
+10
+8
+6
+
+6
+
+4
+
+4
+
+2
+
+2
+
+0
+
+0
+Dec- Apr- Aug- Dec- Apr- Aug- Dec07
+08
+08
+08
+09
+09
+09
+
+The authorities extended deposit guarantees, and public
+sector deposits in commercial banks doubled, which
+helped offset the decline in funding from nonresidents.
+45
+
+(KD billion)
+
+40
+
+45
+40
+
+35
+
+35
+
+30
+
+30
+25
+
+25
+Residents' deposits
+Nonresidents' deposits
+Government deposits
+
+20
+15
+
+20
+15
+
+10
+
+10
+
+5
+
+5
+0
+
+0
+Dec- Jan- Mar- May- Jul- Sep- Nov- Jan- Mar07
+09
+09
+09
+09
+09
+09
+10
+10
+Source: Central Bank of Kuwait.
+
+2
+
+The absence of a fiscal stimulus reflected the authorities’ perception that fiscal prudence was warranted in
+light of the sharp decline in revenues and the uncertainty surrounding oil price developments (IMF Country
+Report No. 09/152).
+
+8
+5.
+The relationship between the government and the National Assembly has
+improved but remains tense. In particular, the Assembly’s approval of a debt relief law—
+opposed by the government—could reignite tensions.
+II. ECONOMIC OUTLOOK
+6.
+The economic outlook is broadly positive. Real GDP is projected to increase by
+around 2 percent, with non-oil GDP growth of about 2½ percent—spurred by government
+spending in the context of the recently approved development plan (DP)—and oil GDP
+growth of about 1 percent. Inflation will remain at around 4 percent in 2010, primarily due to
+a moderation in rental rates, which is expected to offset the increase in imported inflation.
+The economy is projected to grow steadily over the medium term as the global recovery
+boosts the demand for oil and the government continues the DP’s implementation. The fiscal
+and current account balances are expected to remain stable in 2010–11 and improve in
+subsequent years, as oil receipts and investment income recover (Figure 5 and Table 5).
+Figure 5. Kuwait: Macroeconomic Outlook, 2009–11
+Real GDP Growth
+(Annual percentage change)
+
+40
+
+Fiscal and External Balances
+(In percent of GDP)
+
+4.6
+
+4
+
+4
+
+2
+
+2
+
+35
+
+0
+
+0
+
+30
+
+-2
+
+-2
+
+25
+
+4.0
+
+-4
+
+20
+
+3.8
+
+-6
+
+15
+
+3.6
+
+-8
+
+10
+
+3.4
+
+-10
+
+5
+
+3.2
+
+-12
+
+0
+
+-4
+Oil GDP
+
+-6
+
+Non-oil GDP
+
+-8
+
+Overall GDP
+
+-10
+-12
+2009
+
+2010
+
+2011
+
+Fiscal Balance
+External Balance
+Inflation (% change, RHS)
+
+4.4
+4.2
+
+3.0
+2009
+
+2010
+
+2011
+
+Sources: Country authorities; and Fund staf f estimates.
+
+7.
+The financial sector is expected to continue to face challenges in the immediate
+term. Bank loan concentration in the weak real estate sector, equities, and ICs are likely to
+result in higher NPLs in 2010 (Figure 6). Nevertheless, high CARs—which were supported
+by capital increases in some large
+Figure 6. Kuwait: Allocation of Banks' Credit Portfolio, 2009
+banks in 2009—and planned capital
+Other
+Real Estate
+7%
+injections by five banks in 2010
+26%
+should help maintain the sector’s
+Trade and
+stability. In light of their
+Industy
+15%
+vulnerabilities, challenges for ICs will
+be more extensive. The progress
+achieved so far on the restructuring of
+two large ICs is welcome, but it is
+Construction
+7%
+Total Personal
+necessary to speed up the
+Facilities
+NBFIs
+33%
+restructuring of the sector more
+12%
+Source: Central Bank of Kuwait.
+generally (Box 1).
+
+9
+Box 1. Kuwait: Investment Companies—A Tale of Two Restructurings
+Corporate debt restructuring has taken various forms in different countries. During the Asian crisis, key
+elements included government financial intervention, the establishment of state restructuring agencies, the
+implementation of legal and regulatory reforms, and out-of-court settlements. The current global financial
+crisis necessitated significant government support to the financial sector, particularly in light of substantial
+systemic cross-sectoral linkages.1
+The crisis management strategy in Kuwait included immediate measures to ensure macroeconomic and
+financial stability, followed by measures to support the corporate debt restructuring phase and economic
+growth. Macroeconomic and financial stability facilitated market-based debt restructuring of investment
+companies (ICs). The March 2009 Financial Stability Law (FSL) established an orderly and efficient
+mechanism for facilitating the timely restructuring of debt of solvent companies through legal protection,
+and facilitated access to sufficient financing to support an economic recovery.
+As of June 2010, five ICs had defaulted on their debt. Global Investment House (GIH), the largest IC,
+defaulted on the majority of its $3 billion debt; Investment Dar (ID) on its $100 million sukuk; Gulfinvest
+International on a U.A.E. dirham 200 million loan from the Abu Dhabi Commercial Bank; International
+Investment Group, on a payment for its $200 million Islamic bond; and Kuwait Finance and Investment
+Company (KFIC) restructured $495 million in debts owed to local and foreign lenders.
+The conclusion in late 2009 of a market-based debt restructuring agreement by GIH with 54 lending banks
+demonstrated a speedy and orderly debt restructuring process, with constructive facilitation by the CBK.
+The key terms of the GIH market-based restructuring included the full repayment of outstanding debt and
+an overhaul of the business model to ensure long-term viability. The specific terms of GIH restructuring
+encompassed the exchange of existing debt with secured new multi-currency, conventional, Islamic and
+bilateral facilities; a reduction in operational costs; orderly deleveraging of principal investment positions
+through transfers to a global macro fund and a domestic real estate fund; a strengthened focus on asset
+management and brokerage business; and enhanced corporate governance.
+ID has reached a debt standstill agreement with more than two-thirds of its creditor banks and investors
+pending a final agreement, which envisages the repayment of its obligations with an enforceable security
+package over a five-year period. ID has sought protection under the FSL to ensure a stay against litigation
+and execution of judgments against it from minority creditors until its restructuring plan is approved.
+As of May 2010, the restructuring of ICs involved no fiscal cost to the government, avoided contagion to
+the banking system, and ring-fenced fiduciary assets from the restructuring process. In light of the
+protracted insolvency procedures in Kuwait, creditors are likely to prefer restructuring rather than pressing
+for dissolution of ICs.
+_______________________
+1
+
+See Approaches to Corporate Debt Restructuring in the Wake of the Financial Crisis, IMF Staff Position Note,
+SPN/10/02, January 26, 2010.
+
+8.
+The authorities agreed that 2009 had been challenging and highlighted recent
+positive developments. They noted progress achieved in the restructuring of the two largest
+ICs, the increase in precautionary provisions by banks, and the large degree of liquidity in the
+banking system. Furthermore, they argued that the increase in the banking system’s NPLs
+was skewed by the results in two banks and that banks’ asset quality could improve with the
+envisaged economic recovery. There were some positive signs regarding credit expansion,
+with credit allocation going largely to households for installment loans rather than for equity
+purchases. They viewed the pace of ICs’ restructuring as reasonable and argued that
+problems were concentrated in only a few large companies.
+
+10
+III. RISKS TO THE OUTLOOK AND VULNERABILITIES
+9.
+The economic outlook largely depends on the pace of global recovery. Although
+Kuwait has the financial strength to smooth out the impact of short-term oil price fluctuations
+on its fiscal position, a weaker than expected global recovery and a decline in oil prices could
+impact regional and domestic asset markets, investor confidence, and government spending,
+leading to a worsening of the balance sheet of financial institutions. Additionally,
+deterioration in the regional economic or political environment might have an impact on
+investor confidence and Kuwaiti entities’ access to and pricing of international funding.3
+10.
+The outlook is also subject to domestic downside risks. The overarching risks
+would be associated with the inability of the government to meet the DP’s spending targets,
+particularly in light of capacity constraints and the under-spending of the capital budget in
+previous years. Notwithstanding the improvement in relations between the government and
+the National Assembly, as evident from the recent progress made on the legislative front,
+political gridlock could delay necessary reforms and impact implementation, and red tape
+and bureaucratic hurdles could discourage private sector participation. A slow recovery of
+the nonfinancial corporate sector could stretch their debt-service capacity and limit their
+ability to finance new investments. A further deterioration in the balance sheet of financial
+institutions or delays in the restructuring of ICs would protract banks’ risk aversion to
+lending, limit private sector financing for new projects, and constrain non-oil GDP growth.
+11.
+In the longer term, slow progress in the implementation of oil projects could
+constrain fiscal revenues. Kuwait has adequate excess oil production capacity in the
+medium term. Nevertheless, unless progress is made toward oil sector project
+implementation, protracted capacity constraints could have a significant impact on revenues
+in the long term.
+12.
+The authorities concurred with staff on downside risks to the outlook. In addition
+to high oil price volatility and oil dependency, they were concerned about geopolitical risks
+affecting confidence in the region. They also highlighted some domestic political risks—such
+as the passage of the debt relief law and the tensions related to the privatization law—that
+could affect the credit culture and the pace of structural reforms.
+Stress Tests
+13.
+Banking system stress tests conducted by the Financial Sector Assessment
+Program (FSAP) update indicate that the system could broadly withstand significant
+
+3
+
+Since only one government-related entity (the Gulf Investment Group, owned by the six GCC countries) has
+issued debt internationally, the impact would be largely related to private sector debt issuers.
+
+11
+shocks, although some banks could be vulnerable to a severe shock.4 Two adverse
+scenarios (intermediate and severe) were constructed involving a slowdown in the global
+economy that would lower oil revenues, reduce investor and consumer confidence, constrain
+access to credit, increase domestic interest rates, and depress asset prices. In turn, these
+would increase NPLs—up to 19 percent of total loans under the severe scenario—and result
+in bank losses. Recapitalization needed to restore banks’ regulatory CAR to 12 percent would
+be around 1.0 percent of GDP under the intermediate scenario, and 3.8 percent of GDP under
+the severe scenario. Vulnerability to interest rate and foreign exchange risks was limited.
+14.
+Stress tests of ICs point to their limited capacity to withstand adverse shocks.
+Under an assumption of 15–33 percent asset loss rates, three ICs (out of eleven) would lose
+all of their capital and seven ICs would have a capital-to-assets ratio below 10 percent. Under
+a more severe scenario, which assumes 20–66 percent loss rates, eight ICs would lose all
+their capital and only one IC would have a leverage ratio above 10 percent. Stress tests of
+nonfinancial corporations also point to some fragility in the real estate and industry sectors,
+particularly to increases in domestic interest rates and a revenue shock (Box 2).
+15.
+Spillovers from the Dubai debt developments have been limited so far. The
+banking sector has minimal direct exposure to Dubai real estate and entities. However,
+indirect exposure could arise through the exposure of ICs and real estate companies to Dubai.
+Single factor stress tests indicate that banks could be vulnerable to a deterioration in their real
+estate portfolios (including loans to real estate companies), but losses related to a
+deterioration in loans to ICs would be manageable.
+16.
+The authorities reiterated that the financial system was resilient. Additionally,
+four banks were in the process of increasing their capital further in 2010 and one bank has
+already increased its capital in early 2010. These will further enhance the resilience of the
+banking sector.
+IV. POLICY ISSUES
+A. Strategy for Sustained Economic Growth
+17.
+Swift financial sector measures have helped support financial and
+macroeconomic stability. Early action in the financial sector and continued vigilance by the
+authorities should also help restore healthy credit conditions and support non-oil economic
+activity. Nevertheless, in light of weak private sector balance sheets, fiscal stimulus will also
+be needed to support financial sector measures and revive non-oil economic growth.
+
+4
+
+At a request from the authorities, a mission visited Kuwait in March 2010 to undertake the FSAP update. The
+FSAP focused on assessing the overall financial system stability and identifying priorities to strengthen the
+regulatory framework in banking, investment companies, capital market, insurance, and real estate sectors. The
+mission also reviewed the crisis management, contingency planning and the resolution framework.
+
+12
+Box 2. Kuwait: Vulnerabilities of the Nonfinancial Corporate Sector
+This analysis focuses on the balance sheet of the 109 non-financial companies listed on the Kuwait Stock
+Exchange. The total assets of these firms were $75 billion (147 percent of non-oil GDP) as of the end of
+2009 and their total debt was $22 billion (43 percent of non-oil GDP). Net corporate profits increased to
+$1.8 billion in 2009, compared to $0.8 billion in 2008, while the combined cash holdings of nonfinancial firms stood at $5 billion (down marginally from $5.8 billion in 2008). The average debt-toequity ratio at end-2009 was 1.1 and short-term debt constituted 35 percent of the total debt stock.
+Nevertheless, the unprecedented pace of debt accumulation in the boom years—for example, the debt-toequity ratio doubled between 2006 and 2008— raises questions about the vulnerability of the nonfinancial corporate sector to financing constraints and a prolonged economic slowdown.
+Listed non-financial corporations as a whole appear to have adequate debt servicing capacity, with the
+ratio of total liabilities to total assets at 49.6 percent as of end 2009. Similarly, the interest coverage ratio
+(ICR)—defined as earnings before interest and taxes over interest payments—stood at 2.6 on an assetweighted basis, well above the threshold of 1 for debt distress. Nevertheless, out of 109 listed nonfinancial companies, 49 already had either operating losses or an ICR below 1 in 2009. Including cash
+balances, the ICR increases to 6.2, with only 25 non-financial companies with an ICR below 1.
+Interest Servicing Capacity of Corporates, 2009
+(In billions of U.S. dollars)
+Number of
+Firms
+Food
+Industrial
+Real Estate
+Services
+Total
+
+Total
+Assets
+
+Cash
+Reserves
+
+Total
+Short-term
+Liabilities
+Debt
+
+Total
+Debt
+
+ICR
+
+ICR
+with cash
+
+Average
+Rate
+
+6
+27
+30
+46
+
+2.7
+14.1
+17.7
+40.4
+
+0.2
+1.0
+0.6
+3.1
+
+0.9
+7.2
+8.6
+20.4
+
+0.3
+3.4
+1.0
+3.0
+
+0.5
+5.2
+4.4
+12.1
+
+4.1
+0.6
+1.3
+3.7
+
+8.5
+4.3
+3.6
+7.5
+
+9.4
+5.4
+6.2
+6.7
+
+109
+
+74.9
+
+5.0
+
+37.1
+
+7.7
+
+22.2
+
+2.6
+
+6.2
+
+6.4
+
+Source: Fund staff calculations based on company balance sheets.
+
+If short-term interest rates increase by 300 basis points, or if there is a negative income shock of
+25 percent, 31 listed non-financial firms could end up with an ICR below 1 (17 companies, if cash
+balances were included). Furthermore, in testing the tail risk, if monetary tightening leads to an increase
+of short-term interest rates by 500 basis points, 36 firms would have an ICR below 1 (18 companies, if
+cash balances were included). Some sectors, such as industrial and real estate, have more leveraged
+balance sheets and are therefore more sensitive to interest rate and income shocks. Overall, although
+cash reserves of companies provide a reasonable cushion for the time being, it would diminish if
+economic slowdown persists.
+
+18.
+Staff welcomes the thrust of the DP and the planned role of the private sector in
+its implementation. The DP provides the needed fiscal expansion to support recovery in the
+immediate term. It seeks to boost investment expenditures across the board, enhance the role
+of the private sector in the economy, and have positive spillover effects through higher
+healthcare and education spending. The government’s cost of the plan is estimated at
+$55 billion (about 56 percent of 2009 GDP), which is expected to be matched by the private
+sector through public-private-participation and the establishment of joint stock companies.
+Approximately $17 billion is budgeted to be spent by the general government in 2010/11,
+
+13
+half of which has been allocated in the central government’s budget. As a result, the adjusted
+non-oil fiscal deficit is projected to widen by 10 percentage points of non-oil GDP.5
+19.
+Implementation of the DP needs to be managed carefully. Implementation should
+take into account absorptive capacity and supply constraints. Spending should focus on social
+and key physical infrastructure projects, keeping in mind project viability, and excessive
+private sector leverage should be avoided. Successful implementation would require progress
+in structural reforms to create an enabling environment for private investment and financing.
+In this connection, initiatives to diversify financing channels, including corporate debt
+market development, should be pursued.
+20.
+Progress achieved in structural reforms is welcome, but significant challenges
+remain. The new Capital Markets (CMA) Law paves the way for the establishment of an
+independent capital market authority that will regulate the Kuwait Stock Exchange, supervise
+public and private subscriptions, and regulate and supervise acquisitions and mergers. The
+Law also grants broad regulatory and supervisory authority over ICs to the CMA. The new
+private sector labor law introduces sweeping changes to labor regulation, including allowing
+for the portability of expatriates’ work permits, and the recently approved privatization law
+opens up most activities to the private sector with the exclusion of the oil, gas, health, and
+education sectors. Amendments to the companies and tender laws are expected to be
+considered by parliament in the second half of 2010. Staff encourages an expeditious
+implementation of the new laws and cautions that a reversion to political gridlock could
+cause significant delays to additional necessary legislative reforms.
+21.
+The authorities acknowledged the need for further progress in structural
+reforms. They emphasized their commitment to enhance the environment for private sector
+investment and noted their intentions to initiate reforms in the education and health sectors to
+prepare Kuwaiti nationals for private sector employment. While they were aware of the need
+to diversify financing channels to corporates, they highlighted the failure of earlier efforts to
+stimulate private sector bond activity and noted that supportive market fundamentals are
+needed to complement initiatives by the authorities.
+B. Macroeconomic Policy Mix
+22.
+Expansionary capital expenditures are welcome. Planned expenditures in the
+context of the DP are essential to resume non-oil sector growth and are consistent with the
+government’s long-term economic diversification objectives. They should help strengthen
+investor confidence and private sector balance sheets, and revive non-oil economic growth.
+
+5
+
+The adjusted non-oil fiscal balance excludes investment income and the recapitalization of social security, and
+is calculated after the transfers to the Future Generations Fund.
+
+14
+23.
+The growth of current expenditures should be contained. Past conservative fiscal
+policies have allowed the accumulation of a sizeable stock of financial wealth and placed
+Kuwait in a good position to meet the challenges of economic diversification and
+intergenerational equity in the distribution of oil wealth. Nevertheless, government current
+expenditures have expanded rapidly in recent years, largely on account of increases in wages,
+subsidies, and transfers. In addition to contributing to an inefficient allocation of resources,6
+this trend could undermine long-term fiscal sustainability (Box 3). While an assessment of
+long-term sustainability of fiscal policy is highly sensitive to the parameters involved in the
+calculation, staff estimates suggest that the government’s non-oil deficit is somewhat above
+its long-term sustainable value, and this gap is projected to widen over time.7
+24.
+Monetary policy remains subject to the constraints associated with the exchange
+rate regime. In this context, the responsibility for ensuring adequate credit growth and
+maintaining financial stability if demand pressures were to reemerge will fall on
+macroprudential policies.8 A reemergence of inflationary pressures in the immediate term is
+not expected in the baseline scenario. During the past year, the CBK adjusted downward its
+policy rates on several occasions, in line with domestic credit conditions and U.S. interest
+rate reductions.
+25.
+The basket peg has served Kuwait well and remains an appropriate exchange rate
+regime in the run up to the GCC monetary union. Staff calculations using CGER-type
+analyses suggest that the real exchange rate is broadly in line with its fundamentals (Box 4).
+The regime provided some flexibility to the nominal and real exchange rate during 2007–09
+(Figure 7), which witnessed high volatility in oil prices.
+26.
+The authorities agreed with staff about the need to control current expenditures.
+They noted that the privatization program would contribute to this objective and the
+introduction of a personal income tax and a VAT system would also help reduce the non-oil
+deficit. They also emphasized that the pace of implementations of these measures would
+likely be gradual. On the macroeconomic policy mix, while monetary policy had played a
+key stabilizing role during the crisis, the authorities emphasized that fiscal policy was now
+needed to stimulate growth. They also argued that the basket peg provided sufficient
+monetary policy flexibility, as indicated by a sustained deviation of domestic interest rates
+from U.S. monetary cycle, including during 2008–10, both with respect to timing and the
+extent of interest rate reductions.
+6
+
+High levels of untargeted subsidies, such as those observed in Kuwait’s power sector, create an inefficient,
+high level of consumption. High levels of public sector wages—particularly if not tied to performance—weaken
+the incentives of Kuwaiti workers to acquire the skills needed for private sector employment.
+
+7
+8
+
+The authorities are in the process of establishing a macro-fiscal unit to support policy formulation.
+
+Kuwait has in place a loan-to-deposit prudential ratio. Maximum limits debt service/income ratios are also in
+place.
+
+15
+Box 3. Kuwait: Fiscal Sustainability Analysis
+The fiscal sustainability analysis suggests that Kuwait’s government expenditure path
+should be reduced in the medium-term to ensure long-term sustainability. In this
+exercise, long-term sustainability assumes intergenerational equity by assuming a constant
+real per capita government expenditure path that delivers a constant real per capita annuity
+after oil revenues are exhausted. In the baseline scenario, the non-oil fiscal balance for
+FY 2010/2011 is estimated to be approximately 3½ percentage points higher than its
+equilibrium value, and the gap is projected to reach approximately 7 percent by 2014/15.
+While the results are sensitive to
+the assumptions, they provide
+useful guidance.1 For instance,
+under an alternative set of
+assumptions, the gap in 2010/11
+would switch signs, indicating a
+non-oil deficit below its
+equilibrium value. Nevertheless,
+even under this scenario, fiscal
+sustainability would face
+challenges, as the non-oil deficit
+would have approximately
+reached its equilibrium value by
+2014/15.
+
+Government Non-oil Deficit to GDP
+60
+
+60
+
+50
+Actual/Projected
+
+Equilibrium
+(alternative assumptions)
+
+50
+
+40
+
+40
+
+30
+
+30
+Equilibrium
+(baseline assumptions)
+
+20
+
+20
+
+10
+
+10
+
+0
+
+0
+1994/95
+
+1997/98
+
+2000/01
+
+2003/04
+
+2006/07
+
+2009/10
+
+2012/13
+
+Sources: Ministry of Finance of Kuwait; and Fund staff estimates.
+
+________________
+1
+
+The baseline calculations assume long-term values of the real rate of return of assets, inflation, and population
+growth of Kuwaiti nationals of 4 percent, 2 percent, and 2 percent, respectively. Oil reserves are assumed to be
+depleted in 73 years and the oil price to reach 83 dollars per barrel in 2015 and remain constant in real terms
+thereafter. The alternative calculation assumes long-term population growth of 1.4 percent (as forecasted for the
+whole population [i.e., nationals and expatriates] by the 2008 United Nations World Population Prospects for the
+period 2010-50).
+
+C. Ensuring Financial Sector Stability
+27.
+Progress made so far on strengthening the financial system’s oversight
+framework is welcome. The CBK has issued comprehensive regulatory guidance addressing
+several weaknesses in banks’ risk management processes that came to light during the crisis
+and has begun moving towards a risk-based supervisory process. It has also begun the process
+of improving the oversight framework for ICs and has issued new regulations pertaining to
+leverage, liquidity, and foreign exposure.9 The intended establishment of a Financial Stability
+Department with an appropropriate mix of supervisory, financial market, and macroeconomic
+expertise would help address financial stability issues in a systematic manner.
+9
+
+The regulations were issued in mid-2010 to be effective by mid-2010.
+
+16
+Box 4. Kuwait: Exchange Rate Assessment
+A CGER-type analysis indicates that the Kuwaiti Dinar is in line with fundamentals, with all the
+misalignment values being very close to zero.
+The macrobalance (MB) approach suggests a slight overvaluation (less than ½ percent). Cross-country
+work (see below) suggests an equilibrium current account for Kuwait of 40.1 percent of GDP, which is
+slightly higher than the projected medium-term current account.
+The equilibrium real exchange rate (ERER) approach suggests an undervaluation of approximately
+3 percent. This approach indicates that the depreciation in the equilibrium real exchange rate resulting
+from recent developments (i.e., worsening in the terms of trade, decline in investment income, and
+increase in government expenditure) has been fully offset by the actual depreciation of the real exchange
+rate.
+The external sustainability (ES) approach suggests an undervaluation of around 2½ percent, as the
+current account surplus is slightly higher than what would be needed to guarantee intergenerational
+equity in the consumption of oil resources. This result is very sensitive to the assumed parameters as
+small declines in the assumed rate of return or increases in the projected population growth would result
+in an indication of some overvaluation (e.g., the equilibrium current account would decline to
+30¼ percent of GDP if—similarly to the stress tests in the fiscal sustainability analysis—population
+growth were 1.4 percent). Furthermore, the external sustainability approach does not take oil price
+uncertainty fully into account. For instance, Bems and de Carvalho Filho (2009, IMF WP/09/33)
+calculate that precautionary savings associated with oil price uncertainty could increase Kuwait’s
+equilibrium current account by about 5.6 percent of GDP.
+Kuwait: Exchange Rate Assessment 1/
+MB 2/
+
+ES 3/
+
+ERER 4/
+
+40.0
+40.1
+
+40.0
+38.7
+
+…
+
+Equilibrium current account (B)
+Difference (A-B)
+
+-0.1
+
+1.3
+
+…
+
+ER overvaluation(+)/undervaluation (-) (%)
+
+0.2
+
+-2.5
+
+-2.8
+
+Underlying current account (A) 5/
+
+…
+
+1/ Current account figures are in percent of GDP. Overvaluation calculations are
+in percent.
+2/ Macro balance approach. Uses the CGER coefficients as reestimated for oil
+exporters by Bems and de Carvalho Filho (2009b IMF WP/09/281).
+3/ External sustainability approach. The equilibrium current account delivers a constant
+real per capita annuity after oil exports are exhausted. These calculations assume:
+(i) a 64 percent recovery rate for oil reserves; (ii) price of Kuwait's oil reaching USD 83
+per barrel and staying constant in real terms after that; (ii) a 2 percent rate
+of population growth; (iv) a riskless real rate of return of 4 percent [as in Bems
+and de Carvalho Filho (2009a, IMF WP/09/33)] (v) a constant extraction rate at the
+projected 2015 level (2.84 mbd); and an initial financial wealth of $ 0.3 trillion.
+4/ Equilibrium real exchange rate approach. Based on a cointegration relationship
+between the real exchange rate and key fundamentals (terms of trade, investment
+income, and government expenditure). Assessment is for end-point WEO projection.
+5/ End-point (2015) WEO projection.
+
+17
+Figure 7. Kuwait: REER and NEER
+(April 2007=100)
+130
+125
+120
+
+REER
+GCC average (excl. Kuwait)
+Kuwait
+
+130 130
+125 125
+120 120
+
+NEER
+GCC average (excl. Kuwait)
+Kuwait
+
+130
+125
+120
+
+115
+
+115
+
+115
+
+115
+
+110
+
+110
+
+110
+
+110
+
+105
+
+105 105
+100 100
+
+105
+
+100
+95
+
+95
+
+95
+
+90
+Apr07
+Sources: Country authorities; and Fund staff estimates.
+
+90
+90
+Apr-07 Oct-07 Apr-08 Oct-08 Apr-09 Oct-09 Apr-10
+
+100
+95
+Oct07
+
+Apr08
+
+Oct08
+
+Apr09
+
+Oct09
+
+90
+Apr10
+
+28.
+Nevertheless, the financial system’s prudential and systemic oversight
+framework needs to be strengthened further. The recent introduction of a set of new
+regulations for ICs is welcome. Nevertheless, the oversight framework of ICs needs to be
+strengthened. In particular, while the implementation of the Capital Market Authority (CMA)
+Law would enhance securities regulation and supervision, there is a need for proper
+coordination between the three regulatory agencies—the CBK, CMA, and the Ministry of
+Commerce and Industry (MOCI). Regulatory overlaps and gaps should be closed to avoid
+regulatory arbitrage (Box 5).
+29.
+The household debt relief law is counterproductive to building an efficient
+financial culture. If promulgated, the proposed write-off of interest payments and debt
+restructuring for Kuwaiti nationals (Annex 1) would create moral hazard that would
+undermine the creation of a sound credit culture. It might also encourage banks to take riskier
+positions and households to assume higher debt. Targeted household debt relief could be
+implemented instead through the already existing Insolvency Fund. Fund size and terms of
+access could be modified, if needed.10 The authorities have stated their strong opposition to
+the household debt relief legislation.
+30.
+The crisis management and contingency planning system should be enhanced
+further. As part of an exit strategy from all support measures provided in the context of the
+crisis, the blanket guarantee introduced during the crisis should be replaced by an explicit
+deposit insurance system once conditions allow. The resolution framework should be
+upgraded by adopting a special resolution regime for failing financial institutions.
+31.
+The authorities are engaged to make their anti-money laundering and combating
+financing of terrorism (AML/CFT ) legislation conform to international standards. A
+draft law is expected to be considered by the National Assembly before the AML/CFT
+assessment scheduled to be conducted by the IMF in October 2010.
+10
+
+Country experiences can be found in Laeven, Luc and Thomas Laryea, 2009, Principles of Household Debt
+Relief , International Monetary Fund, available at: http://www.imf.org/external/pubs/ft/spn/2009/spn0915.pdf
+
+18
+Box 5. Kuwait: Priority Recommendations of the FSAP Update
+General. The CBK, the CMA, and Ministry of Commerce and Industry should (i) clarify at the outset
+their respective supervisory responsibilities and initiate a coordination process to ensure efficient
+oversight architecture; (ii) establish a financial stability unit responsible for macroprudential supervision;
+and (iii) develop an exit strategy from support measures to the financial system to be implemented once
+conditions allow.
+Banking supervision. The CBK should (i) perform periodic stress tests including for real estate and
+other sectors with credit concentration risk and review the supervisory assessment of banks’ treatment
+of risk concentrations in their Internal Capital Adequacy Assessment Process (ICAAP); (ii) lower the
+maximum exposure limits on related parties; (iii) enhance the legal framework to prohibit conflict of
+interest concerning related party transactions; (iv) complete the migration from compliance-based
+supervision to risk-based supervision; (v) continue strengthening the supervision capacity through
+further hiring and training; (vi) shorten the on-site supervision cycle; and (vii) organize a comprehensive
+ICAAP on-site examination.
+Investment companies. There is a strong case for strengthening regulations on (i) licensing (in
+particular “fit and proper” criteria); (ii) permissible activities; (iii) corporate governance, including
+requirements on internal organization, internal control, risk management, external auditors, and
+accountancy rules; and (iv) prudential limits on leverage and liquidity/maturity mismatch. Consideration
+could also be given to varying the minimum capital depending on the activities and risks assumed by
+supervised entities.
+Financial Safety Net Framework. Consideration should be given toward (i) putting in place a deposit
+insurance system that promotes market discipline; and (ii) improving the emergency liquidity assistance
+framework.
+Resolution Framework. Overhaul the bankruptcy framework for financial institutions to adequately
+handle bankruptcies of banks or other financial institutions.
+
+32.
+The authorities argued that financial sector stability was due to the strong
+oversight framework that was already in place. The authorities highlighted the resilience
+of the banking system and believed that the oversight framework for ICs was adequate.
+Nevertheless, they intended to strengthen the latter further by (i) delineating the
+responsibilities of the CBK and the CMA regarding ICs’ supervision; and (ii) developing a
+five-pronged regulatory prudential structure over ICs covering leverage, liquidity, foreign
+funding risks, risk management, and corporate governance. The authorities also noted that
+whereas the CBK continuously sought to enhance staffing quality, both qualitatively and
+quantitatively, existing staffing capacity was fully adequate to ensure the discharge of CBK
+responsibilities.
+D. Statistical Issues
+33.
+The authorities should continue their efforts to improve their statistical system.
+Staff welcomes recent progress to improve the timeliness of the CPI and the accuracy of
+external debt, foreign assets, and workers’ remittances data. Nevertheless, statistical data
+quality and timeliness continues to suffer from weaknesses, particularly with respect to
+national accounts and trade.
+
+19
+V. STAFF APPRAISAL
+34.
+The global financial crisis had a significant impact on Kuwait given its
+international trade and financial linkages. The impact was felt strongly in 2009 as real
+GDP contracted, asset prices declined, and fiscal and external surpluses narrowed. The
+financial and nonfinancial sectors witnessed a substantial fall in profitability, and five ICs
+defaulted in 2009–10. Credit growth slowed significantly. The financial system remained
+stable, underpinned by swift policy actions by the authorities, but credit growth and non-oil
+activity were subdued in light of the absence of fiscal stimulus and the limited utilization of
+guarantees provided for in the financial stability law.
+35.
+The economic outlook is broadly positive. The economy is expected to rebound in
+2010, and to grow steadily over the medium term as the global recovery boosts the demand
+for oil and the government implements the planned fiscal stimulus in the context of its fouryear DP, starting with an expansionary budget in 2010/11. The fiscal and current account
+balances are expected to remain stable in 2010–11 and improve in subsequent years, as oil
+receipts and investment income recover.
+36.
+The financial sector is expected to continue to face challenges in the immediate
+term. Rising NPLs and large concentrations in banks’ loan portfolio—particularly in real
+estate, ICs, and equities—are a source of concern. Nevertheless, aggregate financial soundness
+indicators show that the banking sector is well capitalized and highly liquid, which should help
+the system to remain stable. On the other hand, challenges facing ICs will be more extensive.
+37.
+The economic outcome for 2010 depends largely on government spending and
+the associated private investment. External risks to the outlook include a weaker than
+expected global recovery and a deterioration in the regional economic or political
+environment. The overarching domestic risks would be associated with the inability of the
+government to meet the spending targets set out in the DP. Political gridlock could delay
+necessary reforms and impact implementation, and bureaucratic hurdles could discourage
+private sector participation.
+38.
+Stress tests indicate that the banking system could reasonably withstand
+significant shocks, although some banks are vulnerable to a severe macroeconomic shock.
+Stress tests for ICs point to their limited capacity to withstand adverse shocks. Stress tests of
+listed nonfinancial corporations suggest vulnerability in real estate and industrial sector
+companies to a prolonged economic slowdown and financing constraints.
+39.
+The macro policy mix is adequate but growth of current expenditures should be
+contained. Increases in recent years in wages, subsidies, and transfers could undermine
+long-term fiscal sustainability and should be moderated. As monetary policy remains
+constrained by the exchange rate regime, macroprudential policies should ensure financial
+stability if a credit boom were to reemerge. The real exchange rate is broadly in line with
+fundamentals, and the current exchange rate regime remains appropriate in the run up to the
+GCC monetary union.
+
+20
+40.
+Successful implementation of the authorities’ growth agenda would require
+progress in structural reforms. In this context, the passage of recent key laws, namely the
+Capital Markets Law, the Labor Law, and the Privatization Law is welcome. The authorities
+should move ahead with an efficient implementation of these laws and the amendment of
+other key legislation, particularly the Companies and Tender Laws. DP implementation
+should take into account project viability, absorptive capacity, and supply constraints.
+41.
+The financial system’s oversight framework should be strengthened. Proper
+coordination should be ensured between the three regulatory agencies—the CBK, the CMA,
+and the MOCI, particulalry with regards to ICs; and the crisis management, contingency
+planning, and resolution frameworks should be enhanced. The authorities’ plans to introduce
+an enhanced regulatory prudential structure over ICs are welcome.
+42.
+If promulgated, the household debt relief law would undermine the financial
+culture. The law was passed by the National Assembly but rejected by the Amir. Targeted
+household debt relief could be implemented instead through the already existing Insolvency
+Fund.
+43.
+It is recommended that the next Article IV consultation take place on the
+standard 12-month cycle.
+
+21
+Table 1. Kuwait: Selected Economic Indicators, 2004–11
+
+Oil and gas sector
+Total oil and gas exports (in billions of U.S. dollars)
+Average oil export price (in U.S. dollars/barrel)
+Crude oil production (in millions of barrels/day)
+
+2004
+
+2005
+
+2006
+
+2007
+
+Prel.
+2008
+
+Est.
+2009
+
+2010
+
+2011
+
+26.7
+35.7
+2.29
+
+42.4
+50.6
+2.57
+
+53.2
+61.2
+2.64
+
+59.1
+70.4
+2.57
+
+82.6
+93.7
+2.68
+
+46.7
+58.2
+2.26
+
+56.5
+73.0
+2.29
+
+61.2
+75.4
+2.39
+
+Proj.
+
+(Annual percentage change, unless otherwise indicated)
+National accounts and prices
+Nominal GDP (market prices, in billions of Kuwaiti dinar)
+Nominal GDP (market prices, in billions of U.S. dollars)
+Real GDP (at factor cost)
+Real oil GDP
+Real non-oil GDP
+CPI inflation (average)
+Unemployment rate (Kuwaiti nationals)
+
+17.5
+59.4
+11.1
+8.7
+12.1
+1.3
+3.9
+
+23.6
+80.8
+10.4
+12.1
+10.6
+4.1
+3.8
+
+29.5
+101.6
+5.3
+2.8
+8.3
+3.1
+4.0
+
+32.6
+114.7
+4.6
+-2.6
+11.1
+5.5
+...
+
+39.8
+148.0
+5.6
+3.3
+6.5
+10.6
+...
+
+28.2
+98.4
+-4.4
+-11.4
+0.0
+4.0
+...
+
+33.1
+115.5
+1.9
+1.0
+2.5
+4.0
+...
+
+35.9
+125.1
+4.5
+4.5
+4.5
+3.4
+...
+
+16.8
+5.9
+10.9
+46.1
+41.3
+4.8
+29.3
+
+18.6
+6.2
+12.4
+48.8
+43.3
+5.5
+30.1
+
+61.9
+51.6
+10.4
+7.1
+45.8
+39.5
+6.3
+16.2
+-1.0
+-15.1
+-82.5
+6.6
+
+62.4
+51.5
+11.0
+7.8
+45.0
+38.8
+6.2
+17.4
+-2.1
+-15.3
+-81.5
+6.1
+
+(In percent of GDP at market prices)
+Investment and savings
+Investment
+Public
+Private 1/
+Gross national savings
+Public
+Private 1/
+Savings/investment balance
+
+15.0
+3.7
+11.3
+41.2
+36.6
+10.7
+26.2
+
+14.6
+3.0
+11.7
+51.8
+55.7
+1.1
+37.2
+
+15.9
+2.8
+13.1
+60.6
+60.2
+4.5
+44.6
+
+19.3
+3.3
+15.7
+56.1
+55.7
+2.2
+36.8
+
+18.9
+3.5
+15.4
+59.6
+47.5
+12.3
+40.7
+
+10.9
+5.4
+5.5
+40.0
+47.2
+-7.2
+29.1
+
+(In percent of GDP at market prices)
+Budgetary operations 2/
+Revenue
+Oil
+Non-oil, of which:
+Investment income
+Expenditures and net lending
+Current 3/
+Capital
+Balance
+Domestic financing
+External financing
+Non-oil balance (in percent of non-oil GDP) 4/
+Total gross debt (calendar year-end) 5/
+
+55.4
+42.9
+12.4
+9.0
+32.8
+28.6
+4.2
+22.6
+-5.7
+-16.9
+-61.0
+17.3
+
+75.6
+51.7
+23.9
+21.4
+27.2
+23.6
+3.6
+48.5
+-1.2
+-47.3
+-57.6
+11.8
+
+66.5
+48.0
+18.6
+15.7
+33.9
+29.9
+4.0
+32.6
+-2.8
+-29.9
+-58.8
+8.3
+
+68.6
+51.5
+17.1
+13.8
+27.9
+23.8
+4.1
+40.7
+-3.1
+-37.5
+-59.4
+6.7
+
+65.1
+53.4
+11.7
+8.8
+49.1
+44.6
+4.5
+16.0
+-4.6
+-11.4
+-77.8
+5.7
+
+58.1
+48.6
+9.5
+5.8
+40.1
+34.8
+5.2
+18.0
+-1.9
+-16.1
+-72.4
+7.7
+
+(Changes in percent of beginning broad money stock)
+Money and credit
+Net foreign assets 6/
+Claims on nongovernment sector
+Broad money
+Kuwaiti dinar 3-month deposit rate (year average; in percent)
+Stock market unweighted index (annual percent change) 7/
+
+10.3
+14.5
+12.1
+1.6
+33.8
+
+3.2
+17.6
+12.3
+2.9
+78.6
+
+12.5
+24.5
+21.7
+5.0
+-12.0
+
+1.1
+35.6
+19.3
+5.2
+24.7
+
+10.0
+19.2
+15.6
+3.3
+-38.0
+
+8.4
+7.0
+13.4
+1.4
+-10.0
+
+9.4
+8.3
+5.5
+0.9
+-0.2
+
+4.3
+13.1
+9.7
+1.2
+...
+
+61.3
+4.7
+24.5
+-19.2
+11.8
+33.8
+29.3
+...
+24.5
+8.5
+
+66.2
+5.0
+5.7
+-20.5
+6.9
+37.7
+30.1
+...
+25.9
+8.4
+
+...
+...
+...
+...
+
+...
+...
+...
+...
+
+(In billions of U.S. dollars, unless otherwise indicated)
+External sector
+Exports of goods
+Of which: non-oil exports
+Annual percentage change
+Imports of goods
+Annual percentage change
+Current account
+In percent of GDP
+External debt including private sector
+International reserve assets
+In months of imports of goods and services
+
+29.0
+2.3
+4.6
+-12.4
+25.5
+15.6
+26.2
+15.5
+7.3
+4.4
+
+45.3
+2.9
+22.9
+-15.1
+21.4
+30.1
+37.2
+20.2
+8.1
+4.1
+
+56.5
+3.3
+14.6
+-16.2
+7.9
+45.3
+44.6
+30.8
+11.8
+5.3
+
+62.6
+3.5
+6.4
+-19.1
+17.7
+42.2
+36.8
+57.5
+15.9
+5.9
+
+87.0
+4.4
+25.1
+-22.9
+20.0
+60.2
+40.7
+60.6
+16.7
+5.3
+
+50.5
+3.8
+-12.9
+-17.1
+-25.3
+28.7
+29.1
+57.5
+17.7
+6.9
+
+(Percentage change; unless otherwise noted)
+Memorandum items:
+Exchange rate (U.S. dollar per KD, period average)
+Nominal effective exchange rate (NEER, period average)
+Real effective exchange rate (REER, period average)
+Sovereign rating (S&P)
+
+3.39
+-4.0
+-5.2
+A+
+
+3.42
+0.5
+2.1
+A+
+
+3.45
+0.5
+0.9
+A+
+
+3.52
+-2.2
+0.3
+AA-
+
+Sources: Data provided by the authorities; and Fund staff estimates and projections.
+1/ Also includes government entities.
+2/ Kuwaiti fiscal year ending March 31, e.g. 2007 refers to fiscal year 2007/08.
+3/ In 2006/07 KD 2 billion was transferred to partly cover the actuarial deficit of the Public Pension Fund.
+In 2008/09, KD 5.5 were transferred. KD 1.1 billions are budgeted for each year from 2010/11 to 2014/15.
+4/ Excludes investment income and pension recapitalization, but includes transfers for FGF.
+5/ Excludes debt of Kuwait's SWF related to asset management operations.
+6/ Excludes SDRs and IMF reserve position.
+7/ Change in the KSE as of May 24, 2010 for 2010.
+
+3.72
+2.5
+8.4
+AA-
+
+3.48
+-3.5
+-0.5
+AA-
+
+22
+Table 2. Kuwait: Summary of Government Finance, 2004/05–2011/12 1/
+2004/05 2005/06 2006/07 2007/08
+
+Prel.
+Est. Budget
+Proj.
+2008/09 2009/10 2010/11 2010/11 2011/12
+
+(In billions of Kuwaiti Dinar)
+Total revenue
+Oil and gas
+Investment income and transfer of profits of
+public entities 2/
+Other current revenue 3/
+Capital revenue
+
+10.5
+8.2
+
+19.0
+13.0
+
+20.1
+14.5
+
+23.6
+17.7
+
+24.0
+19.7
+
+17.1
+14.3
+
+9.7
+8.6
+
+21.0
+17.4
+
+22.9
+18.9
+
+1.7
+0.6
+0.1
+
+5.4
+0.6
+0.0
+
+4.7
+0.9
+0.0
+
+4.7
+1.1
+0.0
+
+3.2
+1.1
+0.0
+
+1.7
+1.1
+0.0
+
+0.0
+1.1
+0.0
+
+2.4
+1.1
+0.0
+
+2.9
+1.1
+0.0
+
+Total expenditure
+Current
+Wages and salaries
+Goods and services 4/
+Interest on domestic debt 5/
+Transfers abroad
+Subsidies and transfers 6/ 7/
+Of which:
+Recapitalization of social security
+Current exp. excluding recapitalization of social security
+Capital
+Overall balance
+after transfer to FGF and excl. inv. income 8/
+excluding recapitalization of pension
+Non-oil balance
+after transfer to FGF and excl. inv. income 9/
+excluding recapitalization of pension
+
+6.2
+5.4
+1.9
+1.4
+0.1
+0.1
+1.9
+
+6.8
+5.9
+2.1
+1.4
+0.1
+0.2
+2.1
+
+10.3
+9.0
+2.5
+1.6
+0.1
+0.2
+4.7
+
+9.6
+8.2
+2.8
+1.8
+0.1
+0.4
+3.2
+
+18.1
+16.5
+3.4
+1.9
+0.1
+0.5
+10.6
+
+11.8
+10.3
+3.6
+2.0
+0.0
+0.3
+4.4
+
+16.2
+13.8
+4.0
+2.4
+...
+...
+7.3
+
+15.5
+13.4
+3.8
+2.8
+0.0
+0.3
+6.5
+
+16.5
+14.2
+4.0
+3.0
+0.0
+0.3
+6.9
+
+0.0
+5.4
+0.8
+4.3
+1.7
+1.7
+-3.9
+-5.7
+-5.7
+
+0.0
+5.9
+0.9
+12.1
+5.4
+5.4
+-0.8
+-6.2
+-6.2
+
+2.0
+7.0
+1.2
+9.9
+3.6
+5.6
+-4.6
+-9.5
+-7.5
+
+0.0
+8.2
+1.4
+14.0
+7.4
+7.4
+-3.7
+-8.6
+-8.6
+
+5.6
+10.8
+1.6
+5.9
+0.6
+6.2
+-13.8
+-17.1
+-11.5
+
+0.0
+10.3
+1.5
+5.3
+2.1
+2.1
+-9.0
+-10.8
+-10.8
+
+1.1
+12.7
+2.4
+5.5
+4.5
+5.6
+-3.2
+-3.3
+-2.2
+
+1.1
+12.3
+2.1
+5.5
+1.2
+2.3
+-12.0
+-14.5
+-13.4
+
+1.1
+13.1
+2.3
+6.4
+1.5
+2.6
+-12.5
+-15.5
+-14.4
+
+Financing
+Domestic (net)
+Banks
+Nonbanks
+External
+Reserve funds 10/
+
+-4.3
+-1.1
+-1.1
+0.0
+0.0
+-3.2
+
+-12.1
+-0.3
+-0.3
+0.0
+0.0
+-11.8
+
+-9.9
+-0.8
+-0.8
+0.0
+0.0
+-9.0
+
+-14.0
+-1.1
+-1.1
+0.0
+0.0
+-12.9
+
+-5.9
+-1.7
+-1.7
+0.0
+0.0
+-4.2
+
+-5.3
+-0.6
+-0.6
+0.0
+0.0
+-4.8
+
+-5.5
+...
+...
+...
+...
+...
+
+-5.5
+-0.3
+-0.3
+0.0
+0.0
+-5.1
+
+-6.4
+-0.8
+-0.8
+0.0
+0.0
+-5.6
+
+55.4
+42.9
+9.0
+3.1
+0.3
+32.8
+28.6
+10.2
+7.5
+9.8
+0.0
+28.6
+4.2
+22.6
+8.9
+8.9
+-20.3
+-29.7
+-29.7
+
+75.6
+51.7
+21.4
+2.4
+0.1
+27.2
+23.6
+8.5
+5.8
+8.3
+0.0
+23.6
+3.6
+48.5
+21.6
+21.6
+-3.2
+-24.9
+-24.9
+
+66.5
+48.0
+15.7
+2.8
+0.1
+33.9
+29.9
+8.2
+5.2
+15.6
+6.6
+23.3
+4.0
+32.6
+11.8
+18.5
+-15.4
+-31.3
+-24.7
+
+68.6
+51.5
+13.8
+3.3
+0.0
+27.9
+23.8
+8.1
+5.2
+9.2
+0.0
+23.8
+4.1
+40.7
+21.4
+21.4
+-10.9
+-25.0
+-25.0
+
+58.1
+48.6
+5.8
+3.7
+0.0
+40.1
+34.8
+12.1
+6.9
+14.8
+0.0
+34.8
+5.2
+18.0
+7.0
+7.0
+-30.5
+-36.7
+-36.7
+
+28.7
+25.5
+0.0
+3.3
+0.0
+47.9
+40.8
+12.0
+7.2
+21.6
+3.2
+37.6
+7.1
+-19.2
+-22.0
+-18.8
+-44.6
+-45.0
+-41.7
+
+61.9
+51.6
+7.1
+3.2
+0.0
+45.8
+39.5
+11.1
+8.2
+19.1
+3.2
+36.3
+6.3
+16.2
+3.6
+6.8
+-35.4
+-42.8
+-39.6
+
+62.4
+51.5
+7.8
+3.1
+0.1
+45.0
+38.8
+10.9
+8.1
+18.8
+3.0
+35.8
+6.2
+17.4
+4.1
+7.1
+-34.1
+-42.2
+-39.2
+
+113.7
+88.1
+18.5
+6.4
+0.6
+67.3
+58.7
+20.9
+15.3
+20.2
+0.0
+58.7
+8.6
+46.3
+18.3
+18.3
+-41.8
+-61.0
+-61.0
+
+175.0
+119.6
+49.5
+5.7
+0.2
+62.8
+54.5
+19.6
+13.3
+19.1
+0.0
+54.5
+8.3
+112.1
+50.1
+50.1
+-7.5
+-57.6
+-57.6
+
+158.4
+114.2
+37.3
+6.7
+0.1
+80.8
+71.2
+19.4
+12.4
+37.0
+15.7
+55.4
+9.6
+77.7
+28.2
+44.0
+-36.6
+-74.6
+-58.8
+
+163.1
+122.6
+32.7
+7.8
+0.1
+66.4
+56.6
+19.2
+12.3
+21.9
+0.0
+56.6
+9.8
+96.7
+51.0
+51.0
+-25.8
+-59.4
+-59.4
+
+162.5
+133.3
+21.9
+7.2
+0.0
+122.5
+111.3
+22.7
+12.9
+71.7
+38.1
+73.2
+11.1
+40.0
+4.1
+42.2
+-93.3
+-115.9
+-77.8
+
+114.6
+95.8
+11.5
+7.3
+0.1
+79.0
+68.7
+23.8
+13.5
+29.1
+0.0
+68.7
+10.3
+35.5
+13.8
+13.8
+-60.2
+-72.4
+-72.4
+
+59.9
+53.1
+0.0
+6.8
+0.0
+99.8
+85.0
+24.9
+15.0
+45.1
+6.7
+78.3
+14.8
+-39.9
+-45.9
+-39.2
+-93.0
+-93.7
+-87.0
+
+129.1
+107.4
+14.8
+6.7
+0.1
+95.4
+82.3
+23.2
+17.2
+39.8
+6.7
+75.6
+13.1
+33.7
+7.5
+14.2
+-73.8
+-89.2
+-82.5
+
+129.8
+107.0
+16.3
+6.4
+0.1
+93.6
+80.7
+22.6
+16.9
+39.2
+6.2
+74.5
+12.9
+36.2
+8.6
+14.8
+-70.8
+-87.7
+-81.5
+
+39.4
+
+53.3
+
+63.5
+
+76.2
+
+84.8
+
+61.9
+
+43.0
+
+73.6
+
+76.1
+
+(In percent of GDP)
+Revenue
+Oil and gas
+Investment income
+Other current revenue 3/
+Capital revenue
+Expenditure
+Current
+Wages and salaries
+Goods and noninterest services 4/
+Subsidies and transfers
+Of which: recapitalization of social security
+Current exp. excluding recapitalization of social security
+Capital
+Overall balance
+after transfer to FGF and excl. inv. income 8/
+excluding recapitalization of pension
+Non-oil balance
+after transfer to FGF and excl. inv. income 9/
+excluding recapitalization
+of pension
+(
+g
+
+)
+
+65.1
+53.4
+8.8
+2.9
+0.0
+49.1
+44.6
+9.1
+5.2
+28.7
+15.3
+29.3
+4.5
+16.0
+1.6
+16.9
+-37.4
+-46.4
+-31.2
+
+(In percent of non-oil GDP)
+Revenue
+Oil and gas
+Investment income
+Other current revenue 3/
+Capital revenue
+Expenditure
+Current
+Wages and salaries
+Goods and noninterest services 4/
+Subsidies and transfers
+Of which: recapitalization of social security
+Current exp. excluding recapitalization of social security
+Capital
+Overall balance
+after transfer to FGF and excl. inv. income 8/
+excluding recapitalization of pension
+Non-oil balance
+after transfer to FGF and excl. inv. income 9/
+excluding recapitalization of pension
+Memorandum items:
+Average oil export price (in U.S. dollar/barrel)
+
+Sources: Ministry of Finance; Central Bank of Kuwait; and Fund staff estimates and projections.
+1/ Coverage of budgetary operations includes the operation of the KIA. Data are on an accrual basis.
+2/ Excluded from the national budget presentation. Estimated by Fund staff.
+3/ Excludes revenues from utility tariffs (which are included in the national budget presentation), but includes UN
+(Iraq) compensations.
+4/ Includes other miscellaneous expenditures in FY 07/08 and 08/09.
+5/ Covers interest payments on the treasury bills and bonds, and on the DCP bonds. Only the latter is included in
+the national budget presentation.
+6/ In 2006/07 KD 2 billion was transferred to partly cover the actuarial deficit of the social security fund.
+In 2008/09, KD 5.5 were transferred. KD 1.1 billions are budgeted for each year from 2010/11 to 2014/15.
+7/ The 2006/07 budget reflects KD195 million on account of a KD 200 one off grant transfer to each Kuwaiti citizen.
+8/ By law 10 percent of all state revenues are transferred to the Future Generations Fund (FGF) on an annual basis and all
+reinvested. No assets can be withdrawn from the FGF unless sanctioned by law.
+9/ Equals overall balance minus oil revenues, investment income, and 10 percent of other current revenues and capital revenues.
+10/ The Future Generations Fund (FGF) and the General Reserve Fund (GRF).
+
+23
+Table 3. Kuwait: Summary Balance of Payments, 2004–11
+2004
+
+2005
+
+2006
+
+2007
+
+Prel.
+2008
+
+Prel.
+2009
+
+Proj.
+2010
+2011
+
+(In billions of U.S. dollars)
+Current account
+Goods (trade balance)
+Exports
+Oil exports
+Non-oil exports including re-exports 1/
+Of which: re-exports
+Imports
+Services
+Transportation
+Insurance
+Travel
+Other services
+Investment income
+Receipts
+General government 2/
+Other sectors 3/
+Payments
+General government
+Other
+Current transfers 4/
+
+15.6
+16.6
+29.0
+26.7
+2.3
+0.2
+-12.4
+-3.7
+-0.5
+0.0
+-3.5
+0.3
+5.2
+5.9
+4.4
+1.4
+-0.7
+0.0
+-0.7
+-2.5
+
+30.1
+30.2
+45.3
+42.4
+2.9
+0.2
+-15.1
+-3.9
+-0.4
+0.0
+-4.4
+0.9
+7.2
+8.0
+4.9
+3.2
+-0.8
+0.0
+-0.8
+-3.4
+
+45.3
+40.2
+56.5
+53.2
+3.3
+0.5
+-16.2
+-2.2
+0.2
+-0.1
+-5.4
+3.0
+11.0
+12.5
+7.1
+5.4
+-1.5
+0.0
+-1.5
+-3.7
+
+42.2
+43.4
+62.6
+59.1
+3.5
+0.5
+-19.1
+-3.2
+-0.1
+-0.1
+-6.4
+3.4
+12.4
+16.3
+9.4
+6.9
+-3.9
+0.0
+-3.9
+-10.5
+
+60.2
+64.0
+87.0
+82.6
+4.4
+0.6
+-22.9
+-3.8
+-0.6
+-0.1
+-7.3
+4.3
+10.7
+14.0
+9.4
+4.6
+-3.2
+0.0
+-3.2
+-10.7
+
+28.7
+33.4
+50.5
+46.7
+3.8
+0.5
+-17.1
+-2.3
+-0.3
+-0.1
+-7.2
+5.4
+7.7
+10.3
+7.6
+2.6
+-2.5
+-0.3
+-2.2
+-10.2
+
+33.8
+42.1
+61.3
+56.5
+4.7
+0.8
+-19.2
+-2.8
+-0.4
+-0.1
+-8.1
+5.7
+5.5
+6.6
+4.6
+2.0
+-1.1
+-0.3
+-0.8
+-11.0
+
+37.7
+45.7
+66.2
+61.2
+5.0
+0.8
+-20.5
+-3.0
+-0.4
+-0.1
+-8.6
+6.1
+6.9
+8.1
+5.9
+2.3
+-1.2
+-0.3
+-0.9
+-12.0
+
+Capital and financial account
+Capital account 5/
+Financial account
+Direct investment
+Abroad 6/
+In Kuwait
+Portfolio investment
+Other investment (net)
+
+-16.4
+0.3
+-16.8
+-2.6
+-2.6
+0.0
+-13.9
+-0.3
+
+-32.1
+0.7
+-32.8
+-4.9
+-5.1
+0.2
+-13.1
+-14.7
+
+-48.8
+0.7
+-49.6
+-8.1
+-8.2
+0.1
+-29.1
+-12.4
+
+-33.4
+1.5
+-34.9
+-9.7
+-9.8
+0.1
+-34.9
+9.7
+
+-49.6
+1.7
+-51.3
+-9.1
+-9.1
+0.0
+-28.1
+-14.1
+
+-24.5
+1.0
+-25.5
+-8.6
+-8.7
+0.1
+7.6
+-24.6
+
+-27.0
+1.1
+-28.0
+-2.1
+-2.2
+0.1
+-10.8
+-15.1
+
+-36.3
+1.1
+-37.4
+-11.3
+-11.3
+0.1
+-11.7
+-14.4
+
+Net errors and omissions 7/
+
+1.5
+
+2.7
+
+7.1
+
+-5.5
+
+-10.0
+
+-2.5
+
+0.0
+
+0.0
+
+Overall balance
+
+0.7
+
+0.7
+
+3.6
+
+3.3
+
+0.7
+
+1.7
+
+6.8
+
+1.4
+
+29.1
+-18.3
+7.9
+61.8
+-25.3
+17.7
+6.9
+
+29.3
+-19.7
+4.8
+75.3
+11.8
+24.5
+8.5
+
+30.1
+-18.8
+5.6
+77.5
+6.9
+25.9
+8.4
+
+(In percent of GDP)
+Memorandum items
+Current account/GDP (in percent)
+Current account (excl. oil)/GDP (in percent)
+Investment income/GDP (in percent)
+WEO oil price (dollars per barrel)
+Import growth (in percent)
+International reserve assets (in millions of U.S. dollars) 8/
+In months of imports of goods and services
+
+26.2
+-18.6
+8.7
+37.8
+25.5
+7.3
+4.4
+
+37.2
+-15.3
+8.9
+53.4
+21.4
+8.1
+4.1
+
+44.6
+-7.7
+10.8
+64.3
+7.9
+11.8
+5.3
+
+36.8
+-14.7
+10.8
+71.1
+17.7
+15.9
+5.9
+
+40.7
+-15.1
+7.3
+97.0
+20.0
+16.7
+5.3
+
+Sources: Central Bank of Kuwait; and Fund staff estimates.
+1/ Also includes unrecorded oil exports.
+2/ Kuwait Investment Authority, Kuwait Petroleum Corporation, Kuwait Fund for Arab Economic Development, Public Institute
+for Social Security, Kuwait Airways Corporation, and Bank of Savings and Credit.
+3/ CBK, local banks, investment companies, exchange companies, insurance companies, and the nonfinancial private sector.
+4/ From 2007, based on a new, more comprehensive methodology to estimate outward workers’ remittances.
+5/ Includes UN war compensation.
+6/ For 2010, includes a projection of the net inflow from the sale for $10.6 billion of a foreign asset owned by a Kuwaiti company.
+7/ Includes other unclassified private sector flows.
+8/ Includes SDRs and IMF reserve position.
+
+24
+Table 4. Kuwait: Monetary Survey, 2004–11
+2007
+
+2008
+
+2009
+
+Proj.
+2010
+
+End of period
+
+2004
+
+2005
+
+2006
+
+2011
+
+Foreign assets (net) 1/
+Central bank
+Local banks
+
+3,535
+2,165
+1,370
+
+3,904
+2,370
+1,534
+
+5,545
+3,416
+2,129
+
+5,718
+4,327
+1,392
+
+7,610
+4,510
+3,100
+
+9,443
+5,009
+4,435
+
+11,784
+6,965
+4,819
+
+12,914
+7,367
+5,547
+
+Domestic assets (net)
+Claims on government (net)
+Central bank (net)
+Claims
+Deposits
+Local banks (net)
+Claims
+Government debt bonds
+Public debt instruments
+Other claims
+Deposits
+
+8,120
+1,246
+-662
+0
+662
+1,908
+2,750
+604
+2,146
+0
+842
+
+9,182
+948
+-520
+15
+534
+1,467
+2,463
+378
+2,085
+0
+996
+
+10,375
+113
+-617
+0
+617
+731
+2,165
+176
+1,989
+0
+1,434
+
+13,269
+-968
+-920
+0
+920
+-47
+1,912
+0
+1,912
+0
+1,959
+
+14,341
+-2,675
+-1,124
+0
+1,124
+-1,550
+1,985
+0
+1,985
+0
+3,535
+
+15,453
+-3,229
+-1,165
+0
+1,165
+-2,064
+1,920
+0
+1,920
+0
+3,984
+
+14,492
+-3,575
+-1,157
+0
+1,157
+-2,417
+1,920
+0
+1,920
+0
+4,337
+
+15,914
+-4,331
+-1,312
+0
+1,312
+-3,019
+1,920
+0
+1,920
+0
+4,939
+
+10,886
+9,867
+1,019
+-4,011
+
+12,937
+11,827
+1,109
+-4,702
+
+16,148
+14,934
+1,215
+-5,886
+
+21,822
+20,139
+1,683
+-7,585
+
+25,460
+23,660
+1,800
+-8,444
+
+27,002
+25,105
+1,898
+-8,321
+
+29,078
+26,999
+2,079
+-11,011
+
+32,525
+30,161
+2,364
+-12,279
+
+11,655
+3,174
+8,481
+1,169
+
+13,086
+3,727
+9,359
+1,548
+
+15,921
+3,550
+12,370
+2,245
+
+18,987
+4,147
+14,841
+1,710
+
+21,950
+4,370
+17,580
+1,899
+
+24,896
+4,714
+20,182
+2,753
+
+26,276
+4,975
+21,301
+2,906
+
+28,828
+5,459
+23,370
+3,188
+
+Foreign assets (net)
+Central Bank
+Local banks
+
+43.5
+10.1
+175.4
+
+10.4
+9.5
+12.0
+
+42.0
+44.1
+38.8
+
+3.1
+26.6
+-34.6
+
+33.1
+4.2
+122.8
+
+24.1
+11.1
+43.1
+
+24.8
+39.1
+8.7
+
+9.6
+5.8
+15.1
+
+Domestic assets (net)
+Claims on Government (net)
+Claims on nongovernment sector
+Other items (net)
+
+2.3
+-46.4
+16.1
+-6.6
+
+13.1
+-24.0
+18.8
+-17.2
+
+13.0
+-88.0
+24.8
+-25.2
+
+27.9
+-953.4
+35.1
+-28.9
+
+8.1
+176.4
+16.7
+11.3
+
+7.8
+-20.7
+6.1
+1.5
+
+-6.2
+-10.7
+7.7
+-32.3
+
+9.8
+-21.2
+11.9
+-11.5
+
+Broad money
+Money
+Quasi money
+Of which: Foreign currency deposits
+
+12.1
+21.6
+8.9
+18.0
+
+12.3
+17.4
+10.4
+32.4
+
+21.7
+-4.8
+32.2
+45.0
+
+19.3
+16.8
+20.0
+-23.8
+
+15.6
+5.4
+18.5
+11.1
+
+13.4
+7.9
+14.8
+45.0
+
+5.5
+5.5
+5.5
+5.5
+
+9.7
+9.7
+9.7
+9.7
+
+Foreign assets (net)
+Central bank
+Local banks
+
+10.3
+1.9
+8.4
+
+3.2
+1.8
+1.4
+
+12.5
+8.0
+4.5
+
+1.1
+5.7
+-4.6
+
+10.0
+1.0
+9.0
+
+8.4
+2.3
+6.1
+
+9.4
+7.9
+1.5
+
+4.3
+1.5
+2.8
+
+1.8
+-10.4
+14.5
+-2.4
+
+9.1
+-2.6
+17.6
+-5.9
+
+9.1
+-6.4
+24.5
+-9.0
+
+18.2
+-6.8
+35.6
+-10.7
+
+5.6
+-9.0
+19.2
+-4.5
+
+5.1
+-2.5
+7.0
+0.6
+
+-3.9
+-1.4
+8.3
+-10.8
+
+5.4
+-2.9
+13.1
+-4.8
+
+12.1
+5.4
+6.6
+1.7
+
+12.3
+4.7
+7.5
+3.3
+
+21.7
+-1.4
+23.0
+5.3
+
+19.3
+3.7
+15.5
+-3.4
+
+15.6
+1.2
+14.4
+1.0
+
+13.4
+1.6
+11.9
+3.9
+
+5.5
+1.1
+4.5
+0.6
+
+9.7
+1.8
+7.9
+1.1
+
+76.4
+10.0
+115.0
+
+79.4
+11.8
+114.8
+
+76.4
+14.1
+121.3
+
+(In percent)
+75.5
+67.6
+9.0
+8.7
+138.8
+156.1
+
+58.7
+11.1
+165.5
+
+60.5
+11.1
+163.9
+
+59.9
+11.1
+168.5
+
+(In millions of KD)
+
+Claims on nongovernment sector
+Credit facilities
+Local investments
+Other items (net)
+Broad money 2/
+Money
+Quasi money
+Of which: Foreign currency deposits
+
+(Annual percentage change)
+
+(Change in percent of beginning of period broad money stock)
+
+Domestic assets (net)
+Claims on government (net)
+Claims on nongovernment sector
+Other items (net)
+Broad money
+Money
+Quasi money
+Of which: Foreign currency deposits
+Memorandum items:
+Non-oil GDP/M2
+Foreign currency deposits/M2
+Private credit/non-oil GDP
+
+Sources: Central Bank of Kuwait; and Fund staff estimates.
+1/ Excludes SDRs and IMF reserve position.
+2/ Excludes deposits with financial institutions which are marginal.
+
+25
+Table 5. Kuwait: Illustrative Macroeconomic Baseline Scenario, 2005–15
+2005
+
+2006
+
+2007
+
+Est.
+2008
+2009
+
+2010
+
+2011
+
+Projections
+2012
+2013
+
+2014
+
+2015
+
+41.9
+7.7
+8.6
+5.2
+4.4
+5.6
+79.9
+2.61
+2.9
+
+45.0
+7.5
+8.6
+5.3
+4.4
+5.8
+81.4
+2.72
+2.9
+
+48.5
+7.7
+8.6
+5.3
+4.2
+6.0
+83.5
+2.84
+2.7
+
+67.7
+50.9
+13.9
+43.5
+37.5
+6.0
+24.2
+7.5
+-78.6
+
+69.3
+50.5
+16.0
+42.8
+36.9
+5.9
+26.5
+7.5
+-77.0
+
+...
+...
+...
+...
+...
+...
+...
+...
+...
+
+...
+...
+...
+
+...
+...
+...
+
+...
+...
+...
+
+62.9
+48.6
+-29.0
+13.3
+37.4
+-11.1
+
+62.4
+48.2
+-29.1
+16.2
+39.7
+-8.4
+
+61.9
+47.9
+-28.9
+17.0
+40.0
+-7.9
+
+47.6
+18.2
+29.3
+18.6
+6.0
+12.6
+56.0
+48.5
+7.6
+
+48.1
+17.9
+30.2
+18.6
+5.9
+12.7
+58.3
+51.1
+7.2
+
+48.4
+17.5
+31.0
+18.6
+5.8
+12.8
+58.6
+53.3
+5.4
+
+(Percentage change, unless otherwise specified)
+Production and prices
+Nominal GDP (KD billions)
+Nominal GDP
+Nominal non-oil GDP
+Real GDP
+Real oil GDP
+Real non-oil GDP
+Kuwait crude export price (U.S. dollars per barrel)
+Crude oil output (millions of barrels per day)
+Consumer price index
+
+23.6
+34.7
+16.8
+10.4
+12.1
+10.6
+50.6
+2.57
+4.1
+
+29.5
+24.9
+17.0
+5.3
+2.8
+8.3
+61.2
+2.64
+3.1
+
+32.6
+10.6
+17.8
+4.6
+-2.6
+11.1
+70.4
+2.57
+5.5
+
+75.6
+51.7
+21.4
+27.2
+23.6
+3.6
+48.5
+21.6
+-57.6
+
+66.5
+48.0
+15.7
+33.9
+29.9
+4.0
+32.6
+18.5
+-58.8
+
+68.6
+51.5
+13.8
+27.9
+23.8
+4.1
+40.7
+21.4
+-59.4
+
+39.8
+22.1
+3.5
+5.6
+3.3
+6.5
+93.7
+2.68
+10.6
+
+28.2
+-29.0
+-1.4
+-4.4
+-11.4
+0.0
+58.2
+2.26
+4.0
+
+33.1
+17.3
+8.7
+1.9
+1.0
+2.5
+73.0
+2.29
+4.0
+
+35.9
+8.3
+8.6
+4.5
+4.5
+4.5
+75.4
+2.39
+3.4
+
+38.9
+8.4
+8.6
+5.0
+4.4
+5.4
+78.2
+2.50
+2.9
+
+(Percent of GDP, unless otherwise specified)
+Public finance 1/
+Revenue, of which :
+Oil and gas
+Investment income 2/
+Expenditure
+Current 3/
+Capital
+Fiscal balance (deficit -)
+Fiscal balance after transfer to FGF and excl. transfer to pension 4
+Nonoil balance/non-oil GDP excluding recapitalization of pension 5
+
+65.1
+53.4
+8.8
+49.1
+44.6
+4.5
+16.0
+16.9
+-77.8
+
+58.1
+48.6
+5.8
+40.1
+34.8
+5.2
+18.0
+7.0
+-72.4
+
+61.9
+51.6
+7.1
+45.8
+39.5
+6.3
+16.2
+6.8
+-82.5
+
+62.4
+51.5
+7.8
+45.0
+38.8
+6.2
+17.4
+7.1
+-81.5
+
+63.3
+51.4
+8.9
+44.2
+38.1
+6.1
+19.1
+7.5
+-80.3
+
+(Percent change, unless otherwise specified)
+Exchange rates
+Exchange rates (U.S. dollar per KD, period average)
+Nominal effective exchange rate
+Real effective exchange rate
+
+3.42
+0.5
+2.1
+
+3.45
+0.5
+0.9
+
+3.52
+-2.2
+0.3
+
+3.72
+2.5
+8.4
+
+3.48
+-3.5
+2.2
+
+...
+...
+...
+
+...
+...
+...
+
+...
+...
+...
+
+(Percent of GDP, unless otherwise specified)
+Balance of payments 6/
+Exports of goods and services excl. re-exports
+Of which : oil and refined products
+Imports of goods and services excl. re-exports
+Investment income (net)
+Current account
+Current account (excluding oil exports)
+
+61.0
+52.5
+-28.5
+8.9
+37.2
+-15.3
+
+62.2
+52.4
+-24.7
+10.8
+44.6
+-7.7
+
+61.8
+51.5
+-26.7
+10.8
+36.8
+-14.7
+
+65.1
+55.8
+-24.4
+7.3
+40.7
+-15.1
+
+61.0
+47.4
+-29.4
+7.9
+29.1
+-18.3
+
+64.1
+49.0
+-30.0
+4.8
+29.3
+-19.7
+
+63.8
+48.9
+-29.6
+5.6
+30.1
+-18.8
+
+63.4
+49.0
+-29.1
+7.0
+31.7
+-17.2
+
+(Percent of GDP, unless otherwise specified)
+Saving-investment balance
+Final consumption
+Government
+Private
+Gross domestic investment
+Government
+Private
+Savings
+Government Saving
+Private Savings
+
+47.9
+15.7
+32.2
+14.6
+3.0
+11.7
+56.8
+55.7
+1.1
+
+42.5
+13.9
+28.6
+15.9
+2.8
+13.1
+64.7
+60.2
+4.5
+
+43.7
+14.0
+29.7
+19.3
+3.6
+15.7
+58.0
+55.7
+2.2
+
+40.3
+12.6
+27.7
+18.9
+3.5
+15.4
+59.8
+47.5
+12.3
+
+57.5
+19.5
+38.1
+10.9
+5.4
+5.5
+40.0
+47.2
+-7.2
+
+49.2
+19.0
+30.1
+16.8
+5.9
+10.9
+46.1
+41.3
+4.8
+
+47.2
+19.1
+28.1
+18.6
+6.2
+12.4
+48.8
+43.3
+5.5
+
+47.1
+18.6
+28.5
+18.6
+6.1
+12.5
+50.3
+44.4
+5.9
+
+Sources: Kuwait authorities; IMF World Economic Outlook; and Fund staff estimates and projections.
+1/ Fiscal year ending March 31.
+2/ Includes profits of public enterprises.
+3/ In 2006/07 KD 2 billion was transferred to partly cover the actuarial deficit of the Public Pension Fund.
+In 2008/09, KD 5.5 were transferred. KD 1.1 billions are budgeted for each year from 2010/11 to 2014/15.
+4/ Excluding transfer to FGF and investment income
+5/ Equals overall balance minus oil revenues, investment income, and 10 percent of other current revenues and capital revenues plus pension transfer.
+6/ Staff estimates and projections, based mainly on balance of payment flow data and assuming return on foreign assets close to the LIBOR.
+
+26
+Table 6. Kuwait: Financial Soundness Indicators, 2006–09
+
+2006
+
+2007
+
+2008
+
+2009
+
+(In percent)
+
+Core Set:
+Regulatory capital to risk-weighted assets (All Banks) (Local & Foreign Branches) 1/
+Regulatory capital to risk-weighted assets (Conventional Banks) 1/
+Regulatory capital to risk-weighted assets (Islamic Banks) 1/
+
+21.2
+21.8
+19.9
+
+19.4
+18.4
+22.9
+
+17.1
+15.5
+21.8
+
+18.0
+18.9
+16.2
+
+Tier 1 capital to risk-weighted assets (All Banks) (Local & Foreign Branches) 1/
+Tier 1 capital to risk-weighted assets (Conventional Banks) 1/
+Tier 1 capital to risk-weighted assets (Islamic Banks) 1/
+
+18.6
+18.5
+19.4
+
+17.4
+15.9
+23.1
+
+15.8
+13.8
+22.4
+
+16.8
+16.9
+16.8
+
+Nonperforming loans net of provisions to capital
+Nonperforming loans to gross loans
+Nonperforming loans from before invasion
+Nonperforming loans since liberation
+
+14.3
+3.9
+1.2
+2.6
+
+11.4
+3.2
+0.8
+2.4
+
+26.0
+5.3
+0.6
+4.7
+
+45.7
+9.7
+0.6
+9.1
+
+Banks' return on average assets
+Banks' return on average equity
+Liquid assets to total assets
+Liquid assets to short-term liabilities
+Net open position in foreign exchange to capital and reserves
+
+3.7
+28.8
+35.8
+29.5
+-3.2
+
+3.6
+29.4
+33.3
+39.0
+0.6
+
+0.9
+7.7
+30.3
+36.4
+10.0
+
+0.8
+6.8
+26.1
+34.7
+10.0
+
+11.7
+8.6
+4.9
+3.7
+21.4
+21.8
+47.8
+
+12.6
+8.5
+5.5
+3.1
+24.3
+24.7
+48.2
+
+11.7
+7.6
+4.8
+2.8
+23.6
+23.1
+41.6
+
+12.1
+6.2
+2.8
+3.3
+20.6
+19.4
+38.5
+
+50.6
+103.7
+154.3
+35.1
+
+48.0
+111.3
+159.2
+35.1
+
+60.7
+129.7
+190.4
+31.9
+
+57.6
+134.7
+192.4
+37.2
+
+Encouraged Set:
+Capital to assets
+Weighted average lending rate 2/
+Weighted average deposits rate 2/
+Spread between weighted average lending and weighted average deposit rates 2/
+Foreign-currency-denominated assets to total assets
+Foreign-currency-denominated liabilities to total assets
+Loan provisions to nonperforming loans
+Ratio of banks' lending to banks' capital
+Stock market related
+Real estate 3/
+Total (stock market plus real estate)
+Investment companies' capital and reserves to total assets
+
+Sources: Central Bank of Kuwait; and Fund staff estimates.
+1/ Conventional banks adopted Basel II in 2005 while the capital adequacy ratio for Islamic banks continued to be calculated under
+Basel I up to the first quarter of 2009.
+2/ Includes Islamic financial companies since December 2008.
+3/ Includes only credit to developers (excludes credit to home buyers). Includes lending for projects guaranteed by the government.
+
+27
+
+Table 7. Kuwait: Vulnerability Indicators, 2004–09
+2004
+
+2005
+
+2006
+
+Prel.
+2007
+
+Proj.
+2008
+2009
+
+(In percent, unless otherwise indicated)
+External solvency indicators
+REER (CPI based, period average) 1/
+External debt including private sector (in billions of U.S. dollars)
+Short-term debt (original maturity; in billions of U.S. dollars) 2
+Medium- and long-term debt (in billions of U.S. dollars) 3/
+External debt/GDP 4/
+External debt/total exports of goods and services
+Short-term debt/total exports of goods and services
+External debt service/total exports of goods and services
+Public sector solvency indicators
+General government domestic debt/GDP 5/
+Interest payments/total revenue
+Distribution of the public domestic debt by holders
+Local commercial banks
+Other (including nongovernment public institutions)
+Oil revenue/total revenue
+External liquidity indicators
+CBK net foreign assets (in billions of U.S. dollars)
+CBK gross foreign assets (in billions of U.S. dollars) 6/
+In months of imports of goods and services
+Relative to short-term external debt
+Relative to M0
+Relative to M1
+Local banks' net foreign assets (in billions of U.S. dollars)
+Foreign assets
+Foreign liabilities
+Oil exports/total exports
+
+-5.2
+15.5
+7.5
+8.0
+26.0
+47.2
+22.8
+3.8
+
+2.1
+20.2
+9.8
+10.4
+25.0
+40.3
+19.5
+1.7
+
+0.9
+30.8
+14.9
+15.9
+30.4
+47.5
+23.0
+2.3
+
+0.3
+57.5
+27.9
+29.7
+50.2
+79.1
+38.3
+4.0
+
+8.4
+60.6
+29.4
+31.3
+40.9
+61.6
+29.8
+1.6
+
+-0.5
+57.5
+27.9
+29.7
+58.5
+93.0
+45.0
+7.6
+
+17.3
+0.8
+
+11.8
+0.5
+
+8.3
+0.5
+
+6.7
+0.4
+
+5.7
+0.3
+
+7.7
+0.3
+
+90.7
+9.3
+77.6
+
+88.4
+11.1
+69.8
+
+89.0
+11.0
+71.2
+
+87.7
+12.3
+74.5
+
+88.1
+11.9
+80.4
+
+87.7
+12.3
+83.1
+
+7.3
+7.5
+4.5
+99.5
+279.3
+69.2
+4.6
+10.8
+6.2
+92.0
+
+8.1
+8.5
+4.3
+86.7
+268.1
+66.5
+5.3
+13.0
+7.7
+93.7
+
+11.8
+12.3
+5.5
+82.3
+294.6
+100.0
+7.4
+18.1
+10.8
+94.2
+
+15.8
+16.4
+6.1
+58.8
+243.1
+107.9
+5.1
+28.0
+22.9
+94.4
+
+16.3
+16.7
+5.3
+57.0
+287.0
+105.6
+11.2
+31.9
+20.7
+95.0
+
+17.5
+17.7
+6.9
+63.5
+241.1
+107.7
+15.5
+25.6
+10.2
+92.5
+
+Sources: Central Bank of Kuwait; and Fund staff estimates.
+1/ Percentage changes in period's average.
+2/ Short-term data are obtained from the joint BIS-IMF-OECD-World Bank database.
+3/ Medium- and long-term debt is estimated as a residual.
+4/ Includes private sector's debt.
+5/ Treasury bills and bonds, and debt purchase bonds.
+6/ Excludes SDRs and IMF reserve position.
+
+28
+Annex I. Government Support Measures in 2008–10
+Government support measures to the financial and economic sectors included: (i) the
+extension of bank deposit guarantees; (ii) bank liquidity injections through central bank repo
+operations, swaps, direct collateralized placements, and government deposits at commercial
+banks; (iii) a reduction in repo and discount rates; (iv) direct placements of deposits and CBK
+foreign currency swaps; (v) a financial stability law that provides substantial financial sector
+guarantees and introduced an improved the legal framework to allow for an orderly
+restructuring of ICs; (vi) an easing of the prudential loan-to-deposit and liquidity ratios; and
+(vii) support of the Kuwaiti stock market through the establishment of stock market
+stabilization funds financed by government entities.
+Announced Government Support Measures, 2008-10
+Potential Support
+Type of support
+
+(In billions of U.S. dollars)
+
+Comments
+
+1. Bank capital injections
+
+0.42
+
+The total recapitalization of Gulf Bank was KD 376 million, of
+which 32 percent was bought by KIA.
+
+2. Stock market purchases
+
+5.25
+
+KIA, along with other government entities (including Kuwait
+Petroleum Corp and the Public Institution for Social Security),
+launched in Dec. 2008 a Fund of KD 1.5 billion for investment in
+the domestic stock market. As of April 2010, deployed funds
+amounted to 30 percent of allocated funds.
+
+3. Guarantees
+(i) Gurantees on bank lending to the economy and ICs
+
+…
+
+The Financial Stability Law was issued in March 2009 by an Amiri
+Decree and will continue to be in effect unless the parliament
+rejects it. The intention of the law is to support: (i) banking sector
+stability by providing full guarantees on banks’ provisioning
+shortfalls; (ii) credit growth by guaranteeing 50 percent of loans to
+the productive sectors of the economy, with a total allocated
+guarantees amount of about KD 2 billion over 2009-10; and (iii)
+viable ICs that face liquidity pressures by guaranteeing 50 percent
+of their new borrowing, in addition to introducing a bankruptcy
+protection clause, similar to Chapter 11 in the U.S., to allow for
+the their orderly restructuring. As of April 2010, only KD 87 million
+in loans have been extended under this provision, and only one IC
+has applied to utilize bankruptcy protection provisions. The
+banking sector has been fully provisioned and accordingly did not
+resort to government underprovisioning guarantees.
+
+(ii) Gurantees on bank deposits
+
+…
+
+In late 2008, full guarantees on customer deposits in local banks
+were established through a law.
+
+1.75
+
+A KD 500 million fund was created in July 2008 to help nationals
+whose repayment obligations represented more than half of their
+monthly salary.
+
+4. Debt relief to households
+(i) Insolvency Fund
+
+(ii) Debt Relief Law
+
+13.00
+
+Memorandum items:
+Nominal 2009 GDP
+
+98.4
+
+This law, which was approved by parliament in January 2010,
+requires the government to first write off all outstanding interest on
+personal and consumer loans taken out by Kuwaiti citizens from
+banks and ICs until Dec 14, 2009. Banks and ICs would then
+restructure the remaining debt in interest-free monthly
+installments that must not exceed 35 percent of the debtors'
+income. The repayment must be made over a period of at least 10
+years. The law was rejected by the Amir, but could become law if
+passed by a simple majority during the next session of paliament
+(October 2010).
+
+INTERNATIONAL MONETARY FUND
+KUWAIT
+2010 Article IV Consultation
+Informational Annex
+Prepared by the Middle East and Central Asia Department
+June 30, 2010
+Contents
+
+Page
+
+I. Fund Relations ........................................................................................................................2
+II. Relations with the World Bank Group ..................................................................................4
+III. Statistical Issues ...................................................................................................................7
+
+2
+ANNEX I. KUWAIT—FUND RELATIONS
+(As of April 30, 2010)
+I.
+
+Membership Status: Joined September 13, 1962
+Article VIII on April 5, 1963
+
+II.
+
+General Resources Account:
+Quota
+Fund holdings of currency
+Reserve position in Fund
+
+SDR Million
+1,381.10
+1,207.35
+173.77
+
+% Quota
+100.00
+87.42
+12.58
+
+III.
+
+SDR Department:
+Net cumulative allocation
+Holdings
+
+SDR Million
+1315.57
+1442.63
+
+% Allocation
+100.00
+109.66
+
+IV.
+
+Outstanding Purchases and Loans: None
+
+V.
+
+Financial Arrangements: None
+
+VI.
+
+Lending to the Fund and Grants:
+
+Kuwait has made a contribution to the PRGF-HIPC Trust in support of Fund’s concessional
+assistance to low-income countries. These include an interest-free deposit of SDR 4.2 million
+with a maturity at end-2018, and a grant contribution of SDR 0.1 million to the PRGF-HIPC
+Trust.
+VII.
+
+Exchange Rate Arrangement:
+
+Since May 2007, the Kuwaiti dinar has been pegged to an undisclosed currency basket,
+reverting to the exchange system before January 2003. Between January 1, 2003 and
+May 2007, the Kuwaiti dinar had been pegged to the U.S. dollar with a margin of 3.5 percent
+on either side around the parity exchange rate of 299.63 fils/U.S. dollar. On April 2, 2002
+Kuwait notified the Fund, under Decision 144-(52/51), of exchange restrictions it introduced
+in order to implement UN Security Council resolutions 1373 (2001), 1333 (2000) and 1267
+(1999).
+VIII. Article IV Consultations:
+The last Article IV consultation was completed by the Executive Board on April 10, 2009.
+The authorities decided to publish the report.
+
+3
+IX.
+
+FSAP Participation
+
+An FSAP Update was conducted in March 2010. It included an updated assessment f a
+selected number of Basel Core Principles. An FSSA report was discussed by the Executive
+Board along with the staff report for the 2010 Article IV consultation.
+X.
+
+Technical Assistance:
+
+STA
+STA
+FAD
+FAD
+MFD/LEG
+FAD
+STA
+STA
+XI.
+
+Seminar on GDDS
+National Accounts and Price Statistics
+Restructuring Budget Processes
+A Program for Tax Reform
+Bank Insolvency
+Macro Fiscal Unit
+External Sector Statistics
+External Sector Statistics
+
+Resident Representative:
+
+February 2000
+June 2001–June 2002
+January/February 2002
+December 2002
+October 2004
+February 2009
+February 2009
+December 2009
+
+None
+
+XII. Kuwait has consented to the quota increase under the Eleventh General Review of
+Quotas; it has accepted the Fourth Amendment of the Articles of Agreement.
+
+4
+ANNEX II. KUWAIT—RELATIONS WITH THE WORLD BANK GROUP
+(As of June 7, 2010)
+The World Bank and the Government of Kuwait are currently developing a new Country
+Partnership Strategy (CPS), to build on the previous CPS agreed on in 2007. The current CPS
+has already received a strong support from the government; it will address specific sector
+areas for which the Government needs Bank’s support within a multi-year strategic
+framework.
+Ongoing Activities—FY2010/11
+
+
+Governance TA – Phase II. This is a continuation of the Governance program that
+began in FY08 (Phase I completed in FY09.) The scope of the project included
+review and/or assistance in drafting legislation pertaining to conflict of interest, and
+asset and income disclosure by public officials; advice and guidance on the creation
+of a well-functioning anticorruption agency including legal and institutional
+framework; development of the agency’s strategic plan, operational manual and
+guidelines; and public awareness campaign. The project is currently close to
+completion.
+
+
+
+Economic Zones Development. The World Bank has been assisting the Foreign
+Direct Investment Bureau (KFIB) and the Public Authorities for Industry (PAI) in
+conducting assessment of the development opportunities for several economic and
+industrial zones in Kuwait. The Bank has procured consulting services for this
+purpose and is supervising consultants’ work. Master plans for a PAI site
+(Shadadiyah) have been delivered, along with engineering drawings for Shadadiya.
+KFIB has also asked for assistance with feasibility study for several other Economic
+Zones, as well as with the capacity building. The Bank is currently developing a
+proposal to accommodate the request.
+
+
+
+Public Expenditure and Financial Accountability Assessment (PEFA). The PEFA
+framework provided for a careful examination of a country’s public financial
+management practices by monitoring the quality of Public Finance Management
+work. This project also supported a significant capacity building effort so that future
+exercises can be conducted by Kuwaiti consultants, academics and NGOs. The
+project has been completed in FY10.
+
+
+
+Corporate Governance Banking Sector Review. The Government requested the
+ROSC – Corporate Governance, which entailed an evaluation of the corporate
+governance practices in the Kuwait banking sector. The Bank team had also been
+asked to evaluate a number of investment banks. The draft report has already been
+discussed with the Government, and the project is close to completion.
+Review of Spending Allocations. The Bank undertook an analytical desk review of
+the major components of public spending in Kuwait. The review used as inputs (1)
+the budget final accounts for the last six years (FY2003-2008 inclusive); (2) IMF staff
+reports and selected issues papers; (3) previous Bank technical assistance reports on
+
+
+
+5
+
+
+
+
+
+
+
+
+
+
+
+spending effectiveness in the education and health sectors in Kuwait; (4) the World
+Development Indicators database; and (5) the Bank’s report on education in the
+Middle East North Africa region. The full report was presented to and discussed with
+the MoF in March 2010.
+Assessment of the Financial Crisis Impact. Kuwait’s Ministry of Finance (MOF)
+has expressed interest in a World Bank assessment of the financial crisis’ impact on
+the following sectors: (i) financial; (ii) real estate; (iii) industrial; (iv) commercial; (v)
+construction; and (vi) services. After consulting with Central Bank of Kuwait on the
+scope of the work, the MOF officially requested the Crisis Work be done in two
+stages; starting with a quick analysis of the impact of the crisis on the above
+mentioned sectors, and leading to a deeper analysis of those sectors that are impacted
+the most.
+Education Sector TA. This technical assistance program in general education sector
+supports the Ministry of Education in the following three: improving the output of the
+education process, diversifying secondary education (Grades 10-12) and developing
+an education system for special needs and gifted students. This program builds on the
+Education Indicators and Assessment Project successfully completed in FY10, which
+over six years of its implementation involved publication of the annual Kuwait
+Education Indicators report, capacity building in policy relevant data analysis,
+implementation of the TIMSS and PIRLS, and other activities aimed at raising the
+awareness regarding the quality of education in Kuwait.
+Health Sector TA. To improve the performance of the Kuwaiti health system and to
+ensure that the health sector contributes to the ongoing restructuring of the Kuwaiti
+economy, the Ministry of Health (MOH) proposed work program covers a number of
+areas in the short & medium term, including: health finance, health service quality &
+standards (in partnership with UK NICE), communications within and outside the
+MOH, drug & medical supplies, and Health Management Information Systems
+(HMIS).
+Solid Waste Management. The objective of this activity was to assist Industrial
+Bank of Kuwait (IBK) in identifying market opportunities in the solid waste sector
+while proposing a country program for the upgrade of the existing solid waste
+management systems in Kuwait. More specifically, the Bank helped IBK to (i) better
+understand the current situation of the solid waste sector in Kuwait; (ii)
+identify/evaluate untapped business opportunities for the private sector in the solid
+waste area; and (iii) promote reforms in the solid waste sector that would lead to
+enhanced cost effectiveness of private sector participation, particularly in collection,
+sorting and recycling of waste. This project was completed in February 2010.
+Solid Waste Management II. Based on the reports delivered by the Bank team for
+the first Solid Waste Management project and the recommendations proposed, the
+Municipality of Kuwait City requested the Bank’s assistance in implementing four
+main recommendations: (i) preparation & implementation of a national priority
+project for the closure and rehabilitation of existing dumpsites, (ii) elaboration and
+
+6
+
+
+
+
+
+adoption of a solid waste master plan consistent with Kuwait Land-Use Master plan,
+to identify national policy & investment priorities for the solid waste sector, (iii)
+completion & harmonization of existing legal instruments, starting with a Solid Waste
+Law, and (iv) establishment of a municipal solid waste agency under the
+municipality’s authority.
+Public-Private Partnerships (PPP): Partnership Technical Bureau (PTB)
+Capacity Building. The objective of this activity was to assist the PTB in the
+implementation of the BOT (build-operate-transfer) Law 7, 2008. More specifically,
+the task team (i) prepared operating BOT guidelines in line with the new Kuwait law
+and international best practice; and (ii) assisted the PTB in becoming a fully
+operational body by recommending a suitable organizational structure as well as
+provided ad hoc support in preparing and finalizing documents, including:
+procurement documents for recruiting transaction advisors, Requests for Proposals.
+The first phase was completed in March 2010, and currently the project team has
+begun implementation of the second phase that will focus on the formal launch of the
+Kuwait PPP program (and the dissemination of the PPP guidebook), including
+preparation of a PPP policy note, the organization of a regional launch event;
+institutional and capacity development for PTB; and assistance in establishing a
+project development fund.
+Technical Assistance to the Central Agency for Information Technology (CAIT).
+In March 2009, CAIT asked the Bank’s assistance in three areas: establishing a
+monitoring and evaluating framework to monitor and evaluate Kuwait’s egovernment strategies; putting in place a policy framework to help CAIT identify and
+promote SMEs in the IT field; and producing a regulatory framework that would help
+guide CAIT in their outsourcing efforts through PPPs.
+
+7
+ANNEX III. KUWAIT—STATISTICAL ISSUES
+(As of May 28, 2010)
+Data provision has some shortcomings, but is broadly adequate for surveillance. There is
+scope for improved compilation of the national accounts and balance of payments statistics
+through better coordination among statistical agencies. Timelines, particularly for the
+national accounts, is an area of concern.
+National Accounts and Production
+Recent improvements of national accounts include: change of the base year for the constant
+price data to 2000 and the estimates of value added for subsidized goods and services of the
+public utilities sector through the use of input costs (the household expenditure survey was
+used previously). Continued progress, especially in the estimation of value added for the oil
+sector, requires the dedication of adequate resources and improved coordination between the
+Ministries of Planning, Oil, and Finance. STA has provided technical assistance to the
+Ministry of Planning to improve national accounts and price data. It would be useful if the
+Central Bank of Kuwait (CBK) would publish oil sector information in the Quarterly
+Statistical Bulletin pertaining to output, refining, domestic consumption, export price for
+crude and refined products and the domestic price of petroleum products. These data are
+available from the Ministry of Oil. Timeliness of the data needs to be improved. Recent
+delays in the production of price indexes have caused long delays in the production of real
+GDP data.
+Price Statistics
+CPI weights are based on the 1999–2000 household expenditure survey and were introduced
+into the index for a reference year of 2002. An improved monthly CPI based on a revised
+basket has been published in monthly CPI bulletins with about one-month lag. The wholesale
+price index (WPI) needs to be developed into a producer price index (PPI) which is
+consistent with the national accounts and includes all domestically produced goods,
+ex-factory, for the export and the domestic market. Timely and comprehensive labor force
+data are not available.
+Government Finance Statistics
+Annual GFS data are reported for publication in the Government Finance Statistics Yearbook
+(GFSY). The major components of its extrabudgetary revenues (investment income and
+transfers of profits of public institutions), extrabudgetary expenditures (interest on foreign
+debt and treasury paper), and financing operations conducted by two reserve funds are not
+reported. Data on investment income, and on interest on foreign debt and treasury paper,
+however, are usually provided to Article IV consultation missions.
+
+8
+The authorities have made some progress in fiscal data presentation, but the lack of a suitable
+classification of data on the execution of the budget remains a constraint on monitoring
+effectively fiscal developments during the year. The authorities’ presentation is not yet fully
+compliant with the GFSM 2001 guidance, but progress is being made in terms of creating a
+new chart of accounts and moving reporting to accrual basis.
+Data on the operations of the Public Institute for Social Security are not made available.
+Sharing of information between various government agencies could be improved. STA has
+indicated to the authorities that operations of the two reserve funds should be classified as
+part of government, as they perform activities for public policy purposes (management of
+debt and assets, and financing of the budget). To this end, reporting subannual GFS in the
+form of the Statement of Sources and Uses of Cash for the consolidated central government
+could be encouraged. The authorities have also been briefed on the IMF’s ongoing work to
+enhance the transparency of fiscal accounts and presentations detailed in the “Code of Good
+Practices on Fiscal Transparency” and were encouraged to adopt some of the practices
+recommended in the Code. The Public Expenditure Management (PEM) system could
+usefully be strengthened.
+Monetary and Financial Statistics
+The CBK reports monetary data to STA on a regular and timely basis. Monetary and
+financial statistics based on the Standardized Report Forms (SRFs) have been finalized and
+will be published in the April 2008 issue of the International Financial Statistics Supplement.
+CBK needs to work further to distinguish a number of investment companies that accept
+deposits from other investment companies that do not accept deposits. Investment companies
+that accept deposits should appropriately be classified as part of the depository corporations
+sector. In the current SRFs, all investment companies (including those that accept deposits)
+are classified as other financial corporations. However, the amount of deposits accepted by
+investment companies is considered as not significant. CBK staff attended a workshop on
+harmonizing monetary and financial statistics in the GCC region that was conducted by STA
+staff in Riyadh in July 2006
+Balance of Payments Statistics
+The CBK compiles and disseminates detailed annual data in accordance with the
+methodology of the BPM5—quarterly data are provided to Article IV consultation missions.
+However, data on capital flows of the nonfinancial private sector are limited, which has
+likely contributed to the “errors and omissions” item. To improve coverage for inward
+foreign direct investment, the CBK is making efforts to obtain more data by surveying direct
+investment enterprises. The Central Statistical Office (CSO), working with the CBK, plans to
+implement the IMF’s Coordinated Direct Investment Survey in 2010-2011. This initiative
+should improve foreign direct investment statistics. Enhancements have been made in the
+estimation of travel services and communication services, but further improvements are
+
+9
+needed in compilation practices and in the estimation of data on several service items and
+private transfers.
+A major step forward in 2007 was the dissemination of IIP data for 2001 onwards in STA
+publications. However, the information on IIP data made available to staff is incomplete as it
+excludes the external assets held by the general government due to domestic legal constraints
+on dissemination (however, loans granted by the Kuwaiti Fund for Arab Economic
+Development and general government trade credits are included).
+The CBK also participates in the Coordinated Portfolio Investment Survey (CPIS) with data
+reported for 2003 onwards. These data are for the financial sector acting as end-investors or
+as intermediaries on behalf of residents and do not include holdings of foreign securities held
+by government agencies, which comprise the bulk of Kuwait’s cross-border holdings.
+In 2009, STA provided TA on improving external accounts data. The CBK has made good
+progress since then, particularly in the substantial revisions to report forms, including the
+separate reporting of financial transactions in the BOP and other changes in volume in the
+international investment position. It has also made progress in the estimation of remittances
+data. Yet, major delays and data gaps remain. In particular, major government entities do not
+report quarterly data to the CBK in time to compile timely quarterly statistics. Trade data are
+compiled by the CSO annually and provided to the CBK with a time lag of well over one
+year. Furthermore, the response rate for the private nonfinancial sector is low.
+Data dissemination
+Kuwait is one of the first GDDS participants. However, most of its metadata, with the
+exception of the real sector and socio-demographic metadata, have not been updated since
+October 2002. The CBK maintains its own webpage where it provides the following data to
+the public: money and banking statistics; balance of payments statistics; trade balance
+statistics; exchange rate; GDP by sector and expenditure at current and constant prices;
+public finance statistics; CPI and WPI; and security market indicators. Similarly, the Ministry
+of Planning has a webpage where the CSO publishes data on national accounts, prices, and
+other related statistics. The Ministry of Finance webpage includes detailed data for actual and
+estimated budget operations. In addition, the Kuwait Stock Exchange webpage provides data
+on stock market indices, volume and value of securities traded, as well as privatization
+schedules and other related information.
+
+10
+TABLE OF COMMON INDICATORS REQUIRED FOR SURVEILLANCE
+Date of latest
+observation
+(For all dates
+in table,
+please use
+format
+(dd/mm/yy)
+
+Date
+received
+
+Frequency
+of
+7
+Data
+
+Frequency
+of
+Reporting
+
+Frequency
+of
+Publication
+7
+
+7
+
+Exchange Rates
+
+28/05/2010
+
+28/05/2010
+
+D
+
+D
+
+D
+
+International Reserve Assets and Reserve
+1
+Liabilities of the Monetary Authorities
+
+31/01/2010
+
+30/04/2010
+
+M
+
+M
+
+M
+
+Reserve/Base Money
+
+28/02/2010
+
+30/04/2010
+
+M
+
+M
+
+M
+
+Broad Money
+
+28/02/2010
+
+30/04/2010
+
+M
+
+M
+
+M
+
+Central Bank Balance Sheet
+
+28/02/2010
+
+30/04/2010
+
+M
+
+M
+
+M
+
+Consolidated Balance Sheet of the
+Banking System
+
+28/02/2010
+
+30/04/2010
+
+M
+
+M
+
+M
+
+31/12/2009
+
+30/04/2010
+
+M
+
+M
+
+M
+
+Consumer Price Index
+
+31/01/2008
+
+28/05/2010
+
+M
+
+M
+
+Q
+
+Revenue, Expenditure, Balance and
+3
+Composition of Financing – General
+4
+Government
+
+31/12/2008
+
+31/06/2009
+
+Q
+
+Q
+
+Q
+
+Stocks of Central Government and Central
+5
+Government-Guaranteed Debt
+
+31/03/2010
+
+28/05/2010
+
+Q
+
+Q
+
+Q
+
+External Current Account Balance
+
+31/12/2009
+
+07/04/2010
+
+Q
+
+Q
+
+Q
+
+Exports and Imports of Goods and
+Services
+
+31/12/2009
+
+07/04/2010
+
+Q
+
+Q
+
+Q
+
+GDP/GNP
+
+31/12/2008
+
+07/04/2010
+
+A
+
+A
+
+A
+
+Gross External Debt
+
+31/12/2008
+
+07/04/2010
+
+A
+
+A
+
+A
+
+31/12/2008
+
+12/02/2009
+
+A
+
+A
+
+A
+
+Interest Rates
+
+2
+
+International Investment Position
+
+6
+
+8
+
+Memo Items:
+Data Quality
+Data Quality
+Methodological
+Accuracy
+9
+and
+soundness
+10
+reliability
+
+Not published
+on Fund
+standards
+
+Not
+published on
+Fund
+standards
+
+1
+Any reserve assets that are pledged or otherwise encumbered should be specified separately. Also, data should comprise short-term liabilities linked
+to a foreign currency but settled by other means as well as the notional values of financial derivatives to pay and to receive foreign currency, including
+those linked to a foreign currency but settled by other means.
+2
+Both market-based and officially-determined, including discount rates, money market rates, rates on treasury bills, notes and bonds.
+3
+Foreign, domestic bank, and domestic nonbank financing.
+4
+The general government consists of the central government (budgetary funds, extra budgetary funds, and social security funds) and state and local
+governments.
+5
+Including currency and maturity composition.
+6
+Includes external gross financial asset and liability positions vis-à-vis nonresidents.
+7
+Daily (D); weekly (W); monthly (M); quarterly (Q); annually (A); irregular (I); and not available (NA).
+8
+These columns should only be included for countries for which Data ROSC (or a Substantive Update) has been published.
+9
+Reflects the assessment provided in the data ROSC or the Substantive Update (published on ..., and based on the findings of the mission that took place during...)
+for the dataset corresponding to the variable in each row. The assessment indicates whether international standards concerning concepts and definitions, scope,
+classification/sectorization, and basis for recording are fully observed (O); largely observed (LO); largely not observed (LNO); not observed (NO); and not
+available (NA).
+10
+Same as footnote 9, except referring to international standards concerning (respectively) source data, assessment of source data, statistical techniques,
+assessment and validation of intermediate data and statistical outputs, and revision studies.
+
+Public Information Notice (PIN) No. 10/93
+FOR IMMEDIATE RELEASE
+July 21, 2010
+
+International Monetary Fund
+700 19th Street, NW
+Washington, D. C. 20431 USA
+
+IMF Executive Board Concludes 2010 Article IV Consultation with
+Kuwait
+On July 16, 2010, the Executive Board of the International Monetary Fund (IMF) concluded the
+Article IV consultation with Kuwait on a lapse of time basis. Under the IMF’s lapse of time
+procedures, the Executive Board completes the Article IV consultations without convening
+formal discussions.1
+Background
+The 2010 consultation discussions were held against the backdrop of the global financial
+crisis, which has had an adverse impact on Kuwait via trade and financial channels. The oil
+sector was affected by a large contraction in global oil demand and a decline in oil prices,
+while the financial sector—with large foreign assets and liabilities—was affected by the
+tightening of global liquidity conditions and declining asset prices, both domestically and
+abroad.
+In 2009, real Gross Domestic Product (GDP) is estimated to have contracted by about 4½
+percent—the weakest performance among Gulf Cooperation Council (GCC) countries—on
+account of a decline in real oil GDP of more than 11 percent, and flat real non-oil GDP, mainly
+reflecting weaker activity in the financial and construction sectors.
+
+1
+
+Under Article IV of the IMF's Articles of Agreement, the IMF holds bilateral discussions with
+members, usually every year. A staff team visits the country, collects economic and financial
+information, and discusses with officials the country's economic developments and policies. On
+return to headquarters, the staff prepares a report, which forms the basis for discussion by the
+Executive Board. At the conclusion of the discussion, the Managing Director, as Chairman of the
+Board, summarizes the views of Executive Directors, and this summary is transmitted to the
+country's authorities. An explanation of any qualifiers used in summings up can be found here:
+http://www.imf.org/external/np/sec/misc/qualifiers.htm.
+
+2
+Lower domestic demand and a 12 percent drop in import prices reduced average consumer
+price inflation to 4 percent. Equity prices, money growth, and credit growth declined
+significantly. Fiscal and external surpluses narrowed as oil revenues and investment income
+fell. The Kuwaiti dinar (KD)—which is pegged to an undisclosed basket of major currencies—
+depreciated by about 4 percent against the U.S. dollar.
+The financial sector, particularly investment companies (ICs), experienced funding pressures
+and deterioration in asset quality. Five ICs are known to have defaulted in 2009–10 and banks’
+nonperforming loan (NPL) ratio doubled to 10 percent in 2009. Nevertheless, the sector
+appears stable, mainly due to swift actions by the authorities and its high capital adequacy
+ratio (CAR around 18 percent at end-2009). The authorities’ measures were extensive, ranging
+from liquidity support to banks to the introduction of a financial stability law.
+Executive Board Assessment
+In concluding the 2010 Article IV Consultation with Kuwait, Executive Directors endorsed
+staff’s appraisal, as follows:
+The global financial crisis had a significant impact on Kuwait given its international trade and
+financial linkages. The impact was felt strongly in 2009 as real GDP contracted, asset prices
+declined, and fiscal and external surpluses narrowed. The financial and non-financial sectors
+witnessed a substantial fall in profitability, and five ICs defaulted in 2009–10. Credit growth
+slowed significantly. The financial system remained stable, underpinned by swift policy actions
+by the authorities, but credit growth and non-oil activity were subdued in light of the absence of
+fiscal stimulus and the limited utilization of the financial stability law.
+The economic outlook is broadly positive. The economy is expected to rebound in 2010, and to
+grow steadily over the medium term as the global recovery boosts the demand for oil and the
+government implements its four-year development plan, starting with an expansionary budget
+in 2010/11. The fiscal and current account balances are expected to remain stable in 2010–11
+and improve in subsequent years, as oil receipts and investment income recover.
+The financial sector is expected to continue to face challenges in the immediate term. Rising
+NPLs and large concentrations in banks’ loan portfolio—particularly in real estate, ICs, and
+equities—are a source of concern. Nevertheless, aggregate financial soundness indicators show
+that the banking sector is well capitalized and highly liquid, which should help the system to
+remain stable. On the other hand, challenges facing ICs will be more extensive.
+The economic outcome for 2010 depends largely on government spending and the associated
+private investment. External risks to the outlook include a weaker than expected global
+recovery and a deterioration in the regional economic or political environment. The overarching
+domestic risks would be associated with the inability of the government to meet the spending
+targets set out in the development plan. Political gridlock could delay necessary reforms and
+impact implementation, and bureaucratic hurdles could discourage private sector participation.
+
+3
+Stress tests indicate that the banking system could reasonably withstand significant shocks,
+although some banks are vulnerable to a severe macroeconomic shock. Stress tests for ICs
+point to their limited capacity to withstand adverse shocks. Stress tests of listed nonfinancial
+corporations suggest vulnerability in real estate and industrial sector companies to a prolonged
+economic slowdown and financing constraints.
+The macro policy mix is adequate but growth of current expenditures should be contained.
+Increases in recent years in wages, subsidies, and transfers could undermine long-term fiscal
+sustainability and should be moderated. As monetary policy remains constrained by the
+exchange rate regime, macroprudential policies should ensure financial stability if inflationary
+pressures were to reemerge. The real exchange rate is broadly in line with fundamentals, and
+the current exchange rate regime remains appropriate in the run up to the GCC monetary
+union.
+Successful implementation of the authorities’ growth agenda would require progress in
+structural reforms. In this context, the passage of recent key laws, namely the Capital Markets
+Law, the Labor Law, and the Privatization Law is welcome. The authorities should move ahead
+with an efficient implementation of these laws and the amendment of other key legislation,
+particularly the Companies and Tender Laws. The implementation of the development plan
+should take into account project viability, absorptive capacity, and supply constraints.
+The financial system’s oversight framework should be strengthened. Proper coordination
+should be ensured between the three regulatory agencies—the Central Bank of Kuwait, the
+Capital Markets Authority, and the Ministry of Commerce and Industry, particulalry with
+regards to ICs; and the crisis management, contingency planning, and resolution frameworks
+should be enhanced. The authorities’ plans to introduce an enhanced regulatory prudential
+structure over ICs are welcome.
+If promulgated, the household debt relief law would undermine the financial culture. The law
+was passed by the National Assembly but rejected by the Amir. Targeted household debt relief
+could be implemented instead through the already existing Insolvency Fund.
+Public Information Notices (PINs) form part of the IMF's efforts to promote transparency of the IMF's
+views and analysis of economic developments and policies. With the consent of the country
+(or countries) concerned, PINs are issued after Executive Board discussions of Article IV consultations
+with member countries, of its surveillance of developments at the regional level, of post-program
+monitoring, and of ex post assessments of member countries with longer-term program engagements.
+PINs are also issued after Executive Board discussions of general policy matters, unless otherwise
+decided by the Executive Board in a particular case.
+
+4
+Kuwait: Selected Economic Indicators, 2004–11
+
+Oil and gas sector
+Total oil and gas exports (in billions of
+U.S. dollars)
+Average oil export price (in U.S.
+dollars/barrel)
+Crude oil production (in millions of
+barrels/day)
+
+2004
+
+2005
+
+2006
+
+2007
+
+Prel.
+2008
+
+Est.
+2009
+
+Proj.
+2010 2011
+
+26.7
+
+42.4
+
+53.2
+
+59.1
+
+82.6
+
+46.7
+
+56.5
+
+61.2
+
+35.7
+
+50.6
+
+61.2
+
+70.4
+
+93.7
+
+58.2
+
+73.0
+
+75.4
+
+2.29
+
+2.57
+
+2.64
+
+2.57
+
+2.68
+
+2.26
+
+2.29
+
+2.39
+
+(Annual percentage change, unless otherwise indicated)
+National accounts and prices
+Nominal GDP (market prices, in billions of
+Kuwaiti dinar)
+Nominal GDP (market prices, in billions of
+U.S. dollars)
+Real GDP (at factor cost)
+
+17.5
+
+23.6
+
+29.5
+
+32.6
+
+39.8
+
+28.2
+
+33.1
+
+35.9
+
+59.4
+11.1
+
+80.8
+10.4
+
+101.6
+5.3
+
+114.7
+4.6
+
+148.0
+5.6
+
+115.5
+1.9
+
+125.1
+4.5
+
+Real oil GDP
+Real non-oil GDP
+CPI inflation (average)
+Unemployment rate (Kuwaiti nationals)
+
+8.7
+12.1
+1.3
+3.9
+
+12.1
+10.6
+4.1
+3.8
+
+2.8
+8.3
+3.1
+4.0
+
+-2.6
+11.1
+5.5
+...
+
+3.3
+6.5
+10.6
+...
+
+98.4
+-4.4
+11.4
+0.0
+4.0
+...
+
+1.0
+2.5
+4.0
+...
+
+4.5
+4.5
+3.4
+...
+
+16.8
+5.9
+10.9
+46.1
+41.3
+4.8
+29.3
+
+18.6
+6.2
+12.4
+48.8
+43.3
+5.5
+30.1
+
+(In percent of GDP at market prices)
+Investment and savings
+Investment
+Public
+Private 1/
+Gross national savings
+Public
+Private 1/
+Savings/investment balance
+
+15.0
+3.7
+11.3
+41.2
+36.6
+10.7
+26.2
+
+14.6
+3.0
+11.7
+51.8
+55.7
+1.1
+37.2
+
+15.9
+2.8
+13.1
+60.6
+60.2
+4.5
+44.6
+
+19.3
+3.3
+15.7
+56.1
+55.7
+2.2
+36.8
+
+18.9
+3.5
+15.4
+59.6
+47.5
+12.3
+40.7
+
+10.9
+5.4
+5.5
+40.0
+47.2
+-7.2
+29.1
+
+(In percent of GDP at market prices)
+Budgetary operations 2/
+Revenue
+Oil
+Non-oil, of which:
+Investment income
+Expenditures and net lending
+Current 3/
+Capital
+Balance
+Domestic financing
+External financing
+Non-oil balance (in percent of non-oil
+GDP) 4/
+Total gross debt (calendar year-end) 5/
+
+55.4
+42.9
+12.4
+9.0
+32.8
+28.6
+4.2
+22.6
+-5.7
+16.9
+61.0
+17.3
+
+75.6
+51.7
+23.9
+21.4
+27.2
+23.6
+3.6
+48.5
+-1.2
+47.3
+57.6
+11.8
+
+66.5
+48.0
+18.6
+15.7
+33.9
+29.9
+4.0
+32.6
+-2.8
+
+68.6
+51.5
+17.1
+13.8
+27.9
+23.8
+4.1
+40.7
+-3.1
+
+65.1
+53.4
+11.7
+8.8
+49.1
+44.6
+4.5
+16.0
+-4.6
+
+-29.9
+
+-37.5
+
+-11.4
+
+-58.8
+8.3
+
+-59.4
+6.7
+
+-77.8
+5.7
+
+58.1
+48.6
+9.5
+5.8
+40.1
+34.8
+5.2
+18.0
+-1.9
+16.1
+72.4
+7.7
+
+61.9
+51.6
+10.4
+7.1
+45.8
+39.5
+6.3
+16.2
+-1.0
+
+62.4
+51.5
+11.0
+7.8
+45.0
+38.8
+6.2
+17.4
+-2.1
+
+-15.1
+
+-15.3
+
+-82.5
+6.6
+
+-81.5
+6.1
+
+(Changes in percent of beginning broad money stock)
+Money and credit
+Net foreign assets 6/
+
+10.3
+
+3.2
+
+12.5
+
+1.1
+
+10.0
+
+8.4
+
+9.4
+
+4.3
+
+5
+Claims on nongovernment sector
+Broad money
+Kuwaiti dinar 3-month deposit rate (year
+average; in percent)
+Stock market unweighted index (annual
+percent change) 7/
+External sector
+Exports of goods
+Of which: non-oil exports
+Annual percentage change
+Imports of goods
+Annual percentage change
+Current account
+In percent of GDP
+External debt including private sector
+International reserve assets
+In months of imports of goods and
+services
+Memorandum items:
+Exchange rate (U.S. dollar per KD, period
+average)
+Nominal effective exchange rate (NEER,
+period average)
+Real effective exchange rate (REER,
+period average)
+Sovereign rating (S&P)
+
+14.5
+12.1
+
+17.6
+12.3
+
+24.5
+21.7
+
+35.6
+19.3
+
+19.2
+15.6
+
+1.6
+
+2.9
+
+5.0
+
+5.2
+
+3.3
+
+29.0
+2.3
+
+45.3
+2.9
+
+56.5
+3.3
+
+62.6
+3.5
+
+87.0
+4.4
+
+4.6
+12.4
+
+22.9
+15.1
+
+14.6
+
+6.4
+
+25.1
+
+-16.2
+
+-19.1
+
+-22.9
+
+25.5
+15.6
+26.2
+15.5
+7.3
+
+21.4
+30.1
+37.2
+20.2
+8.1
+
+7.9
+45.3
+44.6
+30.8
+11.8
+
+17.7
+42.2
+36.8
+57.5
+15.9
+
+20.0
+60.2
+40.7
+60.6
+16.7
+
+7.0
+13.4
+
+8.3
+5.5
+
+13.1
+9.7
+
+1.4
+0.9
+1.2
+33.8 78.6 -12.0
+24.7 -38.0 10.0
+-0.2
+...
+(In billions of U.S. dollars, unless otherwise indicated)
+
+4.4
+
+50.5
+3.8
+12.9
+17.1
+25.3
+28.7
+29.1
+57.5
+17.7
+
+61.3
+4.7
+
+66.2
+5.0
+
+24.5
+
+5.7
+
+-19.2
+
+-20.5
+
+11.8
+33.8
+29.3
+...
+24.5
+
+6.9
+37.7
+30.1
+...
+25.9
+
+4.1
+5.3
+5.9
+5.3
+6.9
+8.5
+(Percentage change; unless otherwise noted)
+
+8.4
+
+3.39
+
+3.42
+
+3.45
+
+3.52
+
+3.72
+
+3.48
+
+...
+
+...
+
+-4.0
+
+0.5
+
+0.5
+
+-2.2
+
+2.5
+
+-3.5
+
+...
+
+...
+
+-5.2
+A+
+
+2.1
+A+
+
+0.9
+A+
+
+0.3
+AA-
+
+8.4
+AA-
+
+-0.5
+AA-
+
+...
+...
+
+...
+...
+
+Sources: Data provided by the authorities; and IMF staff estimates and projections.
+1/ Also includes government entities.
+2/ Kuwaiti fiscal year ending March 31, e.g. 2007 refers to fiscal year 2007/08.
+3/ In 2006/07 KD 2 billion was transferred to partly cover the actuarial deficit of the Public Pension Fund.
+In 2008/09, KD 5.5 were transferred. KD 1.1 billions are budgeted for each year from 2010/11–2014/15.
+4/ Excludes investment income and pension recapitalization, but includes transfers for FGF.
+5/ Excludes debt of Kuwait's SWF related to asset management operations.
+6/ Excludes SDRs and IMF reserve position.
+7/ Change in the KSE as of May 24, 2010 for 2010.
+
+

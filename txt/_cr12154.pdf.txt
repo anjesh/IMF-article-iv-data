@@ -1,0 +1,10255 @@
+IMF Country Report No. 12/154
+
+SWEDEN
+June 2012
+
+2012 ARTICLE IV CONSULTATION
+Under Article IV of the IMF’s Articles of Agreement, the IMF holds bilateral discussions with
+members, usually every year. In the context of the 2012 Article IV consultation with Sweden,
+the following documents have been released and are included in this package:
+
+
+
+Staff Report for the 2012 Article IV consultation, prepared by a staff team of the IMF,
+following discussions that ended on May 14, 2012, with the officials of Sweden on economic
+developments and policies. Based on information available at the time of these discussions,
+the staff report was completed on June 4, 2012. The views expressed in the staff report are
+those of the staff team and do not necessarily reflect the views of the Executive Board of the
+IMF.
+
+
+
+
+Informational Annex prepared by the IMF.
+
+
+
+Statement by the Executive Director for Sweden.
+
+Public Information Notice (PIN) summarizing the views of the Executive Board as
+expressed during its June 18, 2012 discussion of the staff report that concluded the Article IV
+consultation.
+
+The document listed below has been or will be separately released.
+
+Selected Issues Paper
+
+The policy of publication of staff reports and other documents allows for the deletion of
+market-sensitive information.
+Copies of this report are available to the public from
+International Monetary Fund  Publication Services
+700 19th Street, N.W.  Washington, D.C. 20431
+Telephone: (202) 623-7430  Telefax: (202) 623-7201
+E-mail: publications@imf.org Internet: http://www.imf.org
+Price: $18.00 a copy
+
+International Monetary Fund
+Washington, D.C.
+
+©2012 International Monetary Fund
+
+SWEDEN
+STAFF REPORT FOR THE 2012 ARTICLE IV CONSULTATION
+June 4, 2012
+
+KEY ISSUES
+Context. Sweden’s recovery from the global crisis has been spectacular but underlying
+growth has now slowed sharply, unemployment remains above pre-crisis levels and the
+outlook is clouded given weaknesses in European trading partners.
+Focus. Discussions centered on the economic policy mix to manage near-term risks and
+to buttress the resilience of Sweden’s outsized financial system.
+Financial stability. Staff emphasized the importance of, alongside Sweden’s
+commendable strive to adopt higher capital requirements than provided under Basel III,
+ensuring that supervisors are able to make effective use of "Pillar 2", strengthening
+early intervention and resolution powers of the supervisors, assessments (as for capital)
+of the adequacy of international liquidity standards for Sweden, extension of resolution
+planning to all major banks, and deepening regional supervisory coordination and crisis
+management under the Nordic-Baltic arrangements.
+Near-term macroeconomic policy mix. Given Sweden’s strong fiscal position
+automatic stabilizers are rightly left to operate unimpeded. And given tail risk of large
+jumps in public debt, this budget stance also retains appropriately large fiscal buffers.
+On the monetary side, policy should continue to be set according to the baseline
+scenario, as it can be adjusted rapidly if tail risks are realized. Macroprudential
+instruments should be deployed further if the housing market reflates once again.
+Medium-term policy frameworks. The framework of fiscal rules targeting 1 percent of
+GDP surplus over the cycle and nominal expenditure ceilings remain appropriate.
+However the tax structure could be more “growth friendly” and better targeted to
+vulnerable groups. The monetary framework also remains credible but could be
+improved by greater clarity on the Riksbank’s financial stability mandate as well as
+publication of market-rates-based forecasts.
+Structural reforms. With labor market entrants particularly exposed to European tail
+risks, steps being actively considered by the social partners to increase the
+accommodation of new entrants in employment contract structures are strongly
+supported. And in the housing sector, deregulation of rental market could reduce
+shortages and improve employment prospects, notably in the main cities.
+
+2012 ARTICLE IV REPORT
+
+Approved By
+
+SWEDEN
+
+Mahmood Pradhan and
+Taline Koranchelian
+
+Discussions took place in Stockholm May 3–14, 2012. The staff
+comprised of Mr. Doyle (head), Ms. Batini and Mr. Ishi (all EUR) and
+Ms. Jaramillo (FAD). Mr. Berger (EUR) joined the mission for two
+days. Mr. Holmberg (OEDNO) attended for the duration of the
+mission.
+
+CONTENTS
+KEY ISSUES _______________________________________________________________________________________ 1
+THE SETTING _____________________________________________________________________________________ 4
+THE IMPLICATIONS FOR POLICY _______________________________________________________________ 10
+A. Financial Stability ______________________________________________________________________________ 10
+B. Fiscal Policy Framework________________________________________________________________________ 13
+C. Monetary Policy and Framework ______________________________________________________________ 16
+D. Structural Reform Policy _______________________________________________________________________ 17
+THE AUTHORITIES' VIEWS _____________________________________________________________________ 18
+STAFF APPRAISAL_______________________________________________________________________________ 20
+TABLES
+1. Selected Economic Indicators, 2009–13________________________________________________________ 29
+2. Financial System Structure 2002–11 ___________________________________________________________ 30
+3. Financial Soundness Indicators: Banks, 2003–11 _______________________________________________ 31
+4. Financial Soundness Indicators: Non-Banks, 2003–10 _________________________________________ 32
+5. General Government Statement of Operations, 2007–15 ______________________________________ 33
+6. Public Sector Balance Sheet ___________________________________________________________________ 34
+7. Balance of Payments Accounts, 2006–17 ______________________________________________________ 35
+FIGURES
+1. Long View, 1997–12 ___________________________________________________________________________ 36
+2. The Short View, 2007–12 ______________________________________________________________________ 37
+3. Household Balance Sheets and Consumption, 2004–11 _______________________________________ 38
+4. Selected Financial Markets Indicators, 2008–12 _______________________________________________ 39
+5. Inflation and Monetary Policy, 2007–11 _______________________________________________________ 40
+6. Fiscal Developments ___________________________________________________________________________ 41
+7. Performance of the Swedish Banking System, 2007–12 _______________________________________ 42
+
+2
+
+INTERNATIONAL MONETARY FUND
+
+SWEDEN 2012 ARTICLE IV REPORT
+
+8. Non Bank Financial Sector, 2007–12 ___________________________________________________________ 43
+BOXES
+1. Should Sweden Be Concerned of Adverse Inward Spillovers from Europe ____________________ 23
+2. Fiscal Buffers: How Big Are They? How Big Should They Be? __________________________________ 24
+3. How Strong is the Pass-through from Repo Rates to Mortgage Rates in Sweden _____________ 25
+4. Competitiveness and the Equilibrium Real Exchange Rate_____________________________________ 26
+5. How Vulnerable Is Sweden’s Housing Market? ________________________________________________ 27
+6. Key Measures in the 2012 Budget Bill _________________________________________________________ 28
+ANNEX
+I. Medium-Term Public Debt Sustainability Analysis _____________________________________________ 44
+
+INTERNATIONAL MONETARY FUND
+
+3
+
+2012 ARTICLE IV REPORT
+
+SWEDEN
+
+THE SETTING
+1.
+Sweden’s macro financial performance over two decades has been strong: robust growth,
+low inflation, declining trend unemployment, and rising incomes, low government bond yields,
+and strong external positions. But there are vulnerabilities and concerns looking ahead.
+2.
+In particular, growth prospects in coming years in its major trading partners Germany,
+Norway, the United Kingdom, the United States and Denmark—are in question. In Advanced
+Europe, cyclical recovery appears to have already run its course and estimates of trend growth
+have been lowered from pre-crisis. And in the United States, the cyclical recovery is weaker than
+usual after recessions. And while there are upside risks associated with these global projections—
+notably progress towards a durable resolution in the Euro Area (EA)—the risks are largely to the
+downside: a possible sharp resurgence of strains in the EA; or/and a « lost decade » of growth
+there; and in either context, possible further oil supply shocks. And despite some improvement,
+the global financial system remains vulnerable (See the Risk Assessment Matrix). In this light, can
+Sweden’s strong performance continue?
+
+Sweden: Risk Assessment Matrix
+Up/down
+side
+Risks to the economic outlook
+• Strong intensification of euro area crisis
+• Slowdown of world growth
+↓
+
+Risk
+
+M
+
+Impact
+
+H
+
+• Disorderly default in one or several EA
+economies
+
+• Oil price hike
+
+Note: L, M, H denote low, medium and high.
+
+4
+
+INTERNATIONAL MONETARY FUND
+
+• Revisit pace of fiscal consolidation if
+domestic growth prospects weaken
+• Use monetary policy supportively
+
+• Support economic activity via fiscal and
+monetary stimuli
+↓
+
+L
+
+H
+
+↓
+
+M
+
+M
+
+• Sharp fall in Swedish house prices
+
+Risks to the financial sector
+• Exposure to and contagion from further
+escalation of financial stress in the euro area
+
+Policy response
+
+↓
+
+L
+
+M
+
+↓
+
+H
+
+H
+
+• Provide liquidity for the financial sector
+and public backstop as needed for bank
+recapitalization
+• Set monetary conditions to head off
+second round effects only
+• Ease monetary conditions
+• Inject liquidity if needed
+
+• Reduce vulnerabilities of the financial
+sector, provide public backstop
+
+SWEDEN
+
+2012 ARTICLE IV REPORT
+
+There are reasons for concern
+3.
+Sweden’s record has largely been achieved in the context of a buoyant global economy.
+Sweden is small and open, and so is highly exposed to its trading partners, notably Europe, which
+purchases some 70 percent of its exports of goods and services. Furthermore, the particular
+composition of Swedish exports—dominated by investment and intermediate goods—exposes it to
+the most cyclical components of demand in the European and global economies, which up to 2008,
+were in upswing. But trend and cyclical external prospects have weakened (Box 1). Furthermore, as
+an oil importer, global oil supply shocks matter (despite being an European Union leader on
+renewable energy), directly and—if oil shocks compound global weakness—indirectly.
+4.
+And Sweden features an outsized financial sector, some 5½ times GDP. Though direct
+exposure to the EA periphery is low, Sweden’s assets are dominated by claims on core EA and the
+Nordic-Baltic region, both of which are vulnerable to tail risk strains in the EA. And well over half of
+banking liabilities are wholesale, exposing Sweden directly to liquidity shocks in global financial
+markets (Box 1).
+5.
+Furthermore, even the strength of Sweden’s sovereign may be proving to be a mixed
+blessing—by causing appreciation of the krona. The fiscal rules targeting a 1 percent of GDP surplus
+across the cycle alongside multi-year nominal expenditure ceilings, all scrutinized by a stridently
+independent fiscal council, are long established and credible. And the downward trajectory for debt
+they imply is resilient to standard shocks (See Box 2 and the 2011 Selected Issue Paper). But this is
+attracting capital inflows. Though not yet to the extent of Japan or Switzerland, these inflows have
+recently taken the krona to historic highs vis-à-vis the dollar and euro, further curbing export
+prospects.
+And recent developments underscore the spillovers from the global economy
+6.
+As global demand recovered, Sweden grew by 6.1 percent in 2010 and 4 percent in 2011.
+And reflecting the small employment gap and a negative output gap (estimated by staff at around
+¾ percent for 2011), headline Consumer Price Index (CPI) has remained above the 2 percent target.
+But, as elsewhere in the region and Advanced Europe, momentum has weakened. After growing by
+a cumulative 2.1 in the first three quarters of 2011, Sweden's Q4 2011 GDP surprised markets on the
+downside by contracting1.0 percent in Q4, and then by growing 0.8 percent in Q1 2012.
+
+INTERNATIONAL MONETARY FUND
+
+5
+
+2012 ARTICLE IV REPORT
+
+SWEDEN
+
+Sweden: Near Term Economic Developments, 2009–11
+(Q/Q percent change, seasonally adjusted)
+
+2009
+
+2010
+
+2011
+
+Q1
+
+Q2
+
+Q3
+
+Q4 Annual
+
+Q1
+
+Q2
+
+Q3
+
+Q4 Annual
+
+Q1
+
+Q2
+
+Q3
+
+-2.4
+
+0.1
+
+0.0
+
+1.0
+
+-5.0
+
+2.1
+
+2.0
+
+1.6
+
+1.7
+
+5.9
+
+0.4
+
+1.1
+
+0.7
+
+-1.0
+
+4.0
+
+0.0
+1.1
+-7.8
+-5.9
+-8.2
+
+1.3
+-0.1
+-2.5
+-2.6
+-5.0
+
+0.4
+0.6
+-2.7
+0.0
+4.6
+
+0.4 -0.2
+0.3 2.0
+1.0 -14.8
+1.4 -12.4
+2.5 -14.1
+
+1.8
+0.2
+3.6
+4.1
+3.4
+
+-0.2
+0.8
+2.2
+4.6
+4.4
+
+1.8
+0.4
+4.5
+1.9
+4.1
+
+0.8
+0.9
+2.3
+4.3
+0.3
+
+3.6
+1.7
+6.9
+10.3
+12.2
+
+0.3
+0.3
+-0.5
+0.6
+3.0
+
+1.0
+0.5
+2.9
+1.1
+0.2
+
+-1.0
+0.2
+0.8
+2.7
+-0.2
+
+0.5
+0.1
+1.5
+-3.8
+-0.4
+
+2.0
+1.9
+7.0
+7.2
+6.4
+
+CPI
+GDP Deflator
+
+0.2
+-1.3
+
+1.1
+1.9
+
+0.3
+4.5
+
+0.7
+-4.4
+
+2.0
+2.0
+
+0.5
+-0.7
+
+0.3
+1.2
+
+-0.2
+4.8
+
+1.2
+-3.5
+
+1.9
+1.3
+
+0.0
+-1.6
+
+0.7
+1.9
+
+-0.3
+4.6
+
+0.5
+-4.5
+
+1.4
+0.9
+
+Nominal GDP
+
+-3.6
+
+2.0
+
+4.6
+
+-3.4
+
+-3.1
+
+1.4
+
+3.3
+
+6.5
+
+-1.8
+
+7.2
+
+-1.2
+
+3.0
+
+5.3
+
+-5.5
+
+4.9
+
+Real GDP
+Private Consumption
+Public Consumption
+Gross Fixed Capital Formatio
+Exports
+Imports
+
+Q4 Annual
+
+Sources: Statistics Sweden and IMF staff calculations.
+
+7.
+In particular, exports, which surged back in 2010, softened through 2011 (albeit with a
+similar volatile quarterly path as GDP in Q4 2011 and Q1 2012)—with high frequency indicators
+suggesting that this overall muted performance continues. Alongside, fixed investment has also
+eased from 2010. Though the level of private consumption has not fallen, its growth remains
+lackluster despite resilient employment and incomes into the early part of 2012—in part reflecting
+that unemployment remains elevated relative to the immediate pre-crisis period. Excluding 2008–09,
+household confidence is low historically, while household credit growth has slowed by over
+3 percentage points from a year earlier to 5½ percent. Declining wealth and a low confidence have
+led to further increases in household saving rates.
+8.
+At the same time, while both temporary and permanent employment increased in 2010, with
+permanent jobs numbers now significantly surpassing pre-crisis levels, job creation seems to have
+slowed. And both labor force participation and unemployment remain high (the latter at around
+7½ percent—some 1½ percentage points above 2008 levels). Within this, the proportion of young,
+older and long-term unemployed in total unemployment have all increased considerably relatively
+to pre-crisis, with flexibility—including via increasing use of temporary employment agencies—at a
+premium in hiring.
+9.
+These output and labor market trends have also affected fiscal developments. Strong growth
+in 2011 was reflected through automatic stabilizers in a strengthening of the overall balance in 2011
+by 0.2 of a percentage point of GDP, shifting to a small surplus of 0.1 percent from a deficit of
+0.1 percent GDP in 2010. In this context, the temporary fiscal stimulus measures were phased out,
+including support to municipalities and county councils and investments in infrastructure and
+training. This, combined with the ongoing effects of previous reforms (including the reduction in
+sick-leave payments), reduced expenditure by 1.1 percentage points of GDP.
+10.
+But the underlying fiscal stance remained supportive—notably reflecting the tax reduction
+for pensioners in 2011—with staff calculations suggesting that the 2011 outcome fell short of the
+1 percent structural surplus target by 0.8 percentage points. Data for the first months of 2012 show
+
+6
+
+INTERNATIONAL MONETARY FUND
+
+SWEDEN 2012 ARTICLE IV REPORT
+
+a slowdown in central government tax revenue compared to the previous year, indicating that
+economic slowdown in the last quarter of 2011 is already taking a toll on revenues.
+11.
+Meanwhile, demand for credit has held up. Corporate credit has recovered, albeit slowly,
+from the credit slump in the aftermath of the Great Recession. In the household sector, credit
+growth was very strong, but has decelerated to around 5 percent over the past year, reflecting in
+part the tightening of macroprudential regulations—such as LTV regulations, applying interest rate
+surcharges on loans above 85 percent of LTV.
+12.
+In 2011 inflation averaged around 3 percent but underlying inflation measured by the CPIF
+(that is the CPI with a fixed mortgage rate) was lower at 1.4 percent, while CPIF excluding energy
+was lower still averaging around 1 over the year. The annual rate of increase of the CPIF amounted
+to only ½ percent in December 2011—as the economy slowed and the krona gained strength. The
+gap between the various measures of inflation remains wide as mortgage rates have led the CPI to
+increase more rapidly than the CPIF.
+13.
+In line with these developments, following a series of steps between January and July 2011
+that brought the repo rate from 1.25 to 2 percent alongside various macro prudential actions to cool
+housing markets, the Riksbank paused in August-September as Europe sovereign debt market strains
+intensified. It then lowered the policy rate by 25 basis points both in December 2011 and February
+2012, reflecting the deteriorating external environment and benign inflation indicators. The passthrough of these actions to households’ mortgage rates has been less than complete, however
+(Box 3).
+14.
+In that context, inflation expectations remain anchored near the target, and inflation fell
+below 2 percent Jan-Mar 2012—while core inflation (measured by the CPIF excl. energy) has
+averaged 1.1 percent. Growth in unit labor costs has been low, although it picked up slightly in the
+second half of 2011, reflecting a pause in the upward trend in labor productivity since the recovery
+began.
+15.
+And conditions in Swedish banking markets have tracked the ebb and flow of those in
+European banking. Swedish banks’ risk-weighted capital ratios remain relatively high with negligible
+exposures to strained EA countries. In addition, earnings have increased—thanks to increased
+lending on the back of strong domestic growth—and loan losses have fallen to low levels—mainly
+reflecting an improved situation in the Baltic countries. As a result, access to international capital
+markets has remained secure.
+16.
+But as stresses again mounted in Europe, CDS spreads and expected default frequency
+measures rose. This was most notable for Nordea, the largest Swedish bank, reflecting its exposures
+to the region and core advanced Europe. And in May 2012, Moody’s downgraded the long-term
+debt ratings for Nordea and Handelsbanken by one notch to Aa3, in part reflecting their reliance on
+wholesale funding. Moreover, generally poor capital market conditions have hit non-bank financial
+institutions, such as insurance. The average solvency ratio of life insurance firms has fallen sharply
+since the middle of 2011, although its level remains around 8 times minimum requirements.
+
+INTERNATIONAL MONETARY FUND
+
+7
+
+2012 ARTICLE IV REPORT
+
+SWEDEN
+
+17.
+On the external side, with weakening global demand since mid 2011, Sweden’s trade surplus
+shrank to its narrowest in more than a year at the end of 2011—as exports of goods fell after the
+summer. Nevertheless, with imports of investment goods also weak, Sweden’s current account
+remains positive (in 2011 Q4 at 7.2 percent of GDP), albeit still weaker than 2007 levels. In part, this
+is because the positive net income contribution has increased following a rebound in returns on
+portfolio investment in Europe.
+18.
+In the financial accounts, capital inflows were concentrated into portfolio investment in
+government and corporate securities, balancing large but falling outflows through FDI and other
+investments. This shift seems to reflect growing uncertainty about Europe, strong confidence in
+Sweden’s macroeconomic policies, and ample global liquidity.
+19.
+These recent macrofinancial developments all underscore the importance of spillovers into
+Sweden. But developments in capital flows and hence in the krona underscore that indeed “this time
+may be different”. In particular, with portfolio inflows strong, the krona was little changed vis-à-vis
+the euro during the first four months of 2012, after strengthening 1.6 percent in 2011, a marked
+contrast to 2008–09 when the krona weakened sharply as external conditions softened. While
+apparently still in the neighborhood of levels suggested by medium-term fundamentals—but
+indeed possibly with room for further appreciation—the contrast to 2009 in the krona’s response to
+deteriorating external circumstances could not be more marked (Box 4).
+20.
+So continued weakness of activity is likely in 2012. Staff projects GDP growth to drop from
+4 percent in 2011 to 1 percent in 2012, then to rebound to 2 ⅓percent in 2013, broadly tracking
+projections for activity in Advanced Europe and somewhat more optimistic than the Riksbank’s
+projection and consensus (both around ½ percentage point less, but based on information prior to
+the release of the Q1 2012 National Accounts).
+21.
+Activity in 2012 is projected to be sustained by steady personal consumption (despite
+moderating house prices and some rise in unemployment, accommodative fiscal conditions,
+continued non-residential property investment, and strong international non-oil commodity prices).
+But net exports and business investment will remain sources of weakness, reflecting global demand
+and actions to tighten domestic bank regulations. Overall, the output gap is estimated at around
+zero in 2011 Q4, and under these projections, will open up again in 2012 (-0.4 percent), subduing
+core inflation.
+
+8
+
+INTERNATIONAL MONETARY FUND
+
+SWEDEN 2012 ARTICLE IV REPORT
+
+Sweden: Near Term Economic Developments, 2012-13
+
+(Q/Q percent change, seasonally adjusted)
+2012
+
+2013
+
+Q1
+
+Q2
+
+Q3
+
+Q4 Annual
+
+Q1
+
+Q2
+
+Q3
+
+Q4 Annual
+
+0.8
+
+0.0
+
+0.4
+
+0.5
+
+1.0
+
+0.7
+
+0.7
+
+0.7
+
+0.7
+
+2.3
+
+1.1
+0.0
+3.4
+1.1
+-0.4
+
+0.2
+0.2
+-2.5
+-0.1
+-0.3
+
+0.2
+0.3
+-0.5
+0.5
+-0.2
+
+0.2
+0.3
+0.1
+0.5
+-0.2
+
+1.5
+0.2
+3.5
+0.0
+-1.2
+
+0.5
+0.2
+1.5
+1.5
+1.5
+
+0.5
+0.2
+1.5
+1.5
+1.5
+
+0.5
+0.3
+1.5
+1.5
+1.5
+
+0.5
+0.2
+1.5
+1.5
+1.5
+
+1.6
+0.8
+3.0
+4.4
+3.5
+
+CPI
+GDP Deflator
+
+0.1
+-0.5
+
+0.5
+2.0
+
+0.5
+5.3
+
+0.5
+-3.6
+
+1.2
+1.9
+
+-0.1
+-1.5
+
+-0.1
+2.0
+
+-0.1
+5.3
+
+-0.1
+-3.6
+
+2.0
+2.0
+
+Nominal GDP
+
+0.2
+
+2.0
+
+5.7
+
+-3.1
+
+2.9
+
+-0.8
+
+2.7
+
+6.0
+
+-2.9
+
+4.4
+
+Real GDP
+Private Consumption
+Public Consumption
+Gross Fixed Capital Formatio
+Exports
+Imports
+
+Sources: Statistics Sweden and IMF staff calculations.
+
+22.
+For 2013, stronger European and global growth alongside continued momentum in
+consumption are projected to lift growth, closing the output gap again by end 2013. Inflation is
+expected to remain contained throughout the projection period thanks to a small and slowly-closing
+output gap.
+23.
+Potential growth is projected to recover gradually to around 2½ percent, after falling an
+estimated ¾ of a percentage point from the pre-crisis trend, owing to the sharp decline in
+investment in 2009. Thereafter, the catch-up for investment “lost” during the crisis is expected to
+raise potential growth further.
+24.
+But even apart from the strength of the krona, two elements in the domestic economy could
+amplify the impact of external slowdown and downside tail risk.
+
+
+First, price-to-income ratios in the housing market remain elevated, with staff estimates
+suggesting overvaluation in the region of 10 percent. Thus, domestic housing fragilities
+could amplify the macroeconomic effects of external developments (Box 5).
+
+
+
+Second, and despite some strengths—including the covered bond arrangements and the
+tier 1 capital ratios—the financial sector remains a concern. The system is large,
+concentrated, complex, and reliant on short-term wholesale funding. It also has significant
+domestic and regional exposure to real estate, with elevated level of household debt in
+Sweden (170 percent of disposable income), softening house prices, and a high share of
+interest-only mortgages. Furthermore, curbs in welfare insurance in recent years could make
+mortgage lending less secure than formerly. These fragilities could raise the prospect of
+increased credit losses in the event of a sustained regional recession.
+
+INTERNATIONAL MONETARY FUND
+
+9
+
+2012 ARTICLE IV REPORT
+
+SWEDEN
+
+THE IMPLICATIONS FOR POLICY
+25.
+The core issue is the extent to which policies should now be set to anticipate downside tail
+risks or the central slow-growth EA scenario. The former would call for aggressive further accrual of
+buffers now in fiscal and financial sector policies while the latter would call for an accommodative
+stance now.
+26.
+Policies have been set to address both near-term weakness and downside tail risks. In
+particular, in the financial sector, various steps have been taken to bolster resilience, with more
+underway. Alongside, the government budget remains firmly guided by its medium-term rules,
+thereby allowing stabilizers free rein to reflect the economic cycle. And with medium-term inflation
+expectations anchored at the target, the monetary policy stance remains accommodative with the
+policy rate negative in real terms. Both fiscal and monetary policy instruments have room to make
+decisive adjustments should tail risks materialize.
+
+A. Financial Stability
+27.
+Given the large size of the sector and its direct exposure to core EA countries, the financial
+sector represents a key contingent fiscal risk, given European tail risks. Efforts to contain the impact
+of these risks on Sweden are nested within the Basel III and broader EU initiatives, including CRD IV,
+while acknowledging that Swedish financial sector contingent risks may not be fully reflected in EUwide prescriptions.
+28.
+
+The system has a number of strengths:
+
+
+
+In domestic markets, historically low mortgage losses, limited buy-to-let markets, openended personal liability, and well-developed welfare and social security systems (albeit some
+erosion in recent years), all curtail risks of major credit losses.
+
+
+
+Externally, direct exposures to the most vulnerable peripheral countries are small, and
+market indicators also suggest small spillover risks arising from these countries.
+
+
+
+Furthermore, over the past few years, banks increased capital ratios including through rights
+issues, retained earnings, and reductions of higher risk assets. As of end March 2012, under
+the Basel II definition, core Tier 1 capital ratios range between 12 and 16 percent, and even
+under much stricter new Basel III definition, common equity Tier 1 capital ratios are
+estimated to be between 11 and 15 percent.
+
+
+
+And banks have strengthened overall liquidity—including as indicated by the Riksbank’s
+short-term liquidity measure—by increasing longer-term funding and liquid assets.
+
+
+
+A stability fund was established in 2008, and the Deposit Insurance System was reformed in
+July 2011 to be fully consistent with the revised EU Deposit Insurance Directive.
+
+10
+
+INTERNATIONAL MONETARY FUND
+
+SWEDEN 2012 ARTICLE IV REPORT
+
+And the 2008–09 crisis confirmed that the authorities’ crisis readiness is high.
+
+
+
+29.
+Nevertheless, given heightened European tail risks, recognition of large fiscal contingent
+liabilities, and lack of a common European backstop, the authorities have not rested, moving ahead
+of European norms in some areas. In particular, in November 2011, the financial regulator (FI)
+proposed that the common equity Tier 1 capital requirements for four major banks would be at least
+10 percent from the beginning of 2013, and 12 percent from the beginning of 2015. The move
+preceded the recent CRD IV consensus. Further, since July 2011, banks have been subject to new
+liquidity reporting requirements, which enable the authorities to monitor Basel III-type liquidity
+indicators. The next step planned is the introduction of the Liquidity Coverage Ratio (LCR)
+requirements in total currency position and for euro and US dollar currency positions separately in
+January 2013. Resources of the FI are being raised over the next few years, while legislative
+amendments have been made to clarify FI autonomy. And the Council for Cooperation on
+Macroprudential Policy (CCMP), comprising the Riksbank and the FI has been established to
+strengthen cooperation among supervisors and held its first meeting in February 2012. One of the
+CCMP’s tasks includes coordinating Sweden’s response to recommendations made by the ESRB and
+Basel committees.
+30.
+In this light, the authorities’ recent stress tests suggest that even under severe EA recession
+scenarios, banks would be able to maintain a 10 percent core Tier 1 capital ratio under the Basel II
+definition— although one bank’s common equity Tier 1 capital ratio could go under 10 percent
+under the Basel III definition. This coincides with the broadly reassuring assessment provided by the
+2011 FSAP Update.
+31.
+However, while standard stress tests reassure the resilience of the Swedish banking system,
+current European circumstances suggest that a shock beyond historical experience could not be
+disregarded. Furthermore, the comfort of high risk-weighted assets is qualified by the fallibility of
+the measure. Raw common equity ratios are as low as 4 percent for some banks, while risk weighted
+assets continue to fall to around 25 percent of total assets—among the lowest in Europe. Further,
+direct and indirect exposures to the core EA and associated tail risks are significant. And despite
+progress, banks liquidity risks remain substantial, due in part to reliance on short-term funding,
+including on their US dollar books. Likewise, household debt continues to rise and is now 1.7 times
+disposable income, as highlighted in the 2012 EC Alert Mechanism Report.
+32.
+Accordingly, further progress is needed urgently beyond simply focusing on capital ratios, to
+bolster financial system resilience:
+Strengthen bank capitalization further, specifically by raising risk weights
+
+
+High risk-weighted capital ratios in part reflect low risk weights for residential mortgages—
+reflecting Internal Rate Based (IRB) models. But these may overlook tail risks outside of
+historical experience, and so exaggerate resilience. Joint efforts by the regulators and the
+private sector to review the appropriateness of risk-weight calibration are underway. In this
+light, as a potential measure, imposing a regulatory floor on risks weights on residential
+
+INTERNATIONAL MONETARY FUND
+
+11
+
+2012 ARTICLE IV REPORT
+
+
+
+SWEDEN
+
+mortgages can be considered. More broadly, the appropriate use of IRB models should be
+under constant scrutiny by supervisors, and disclosure of methodology and assumptions can
+be further enhanced.
+
+Strengthen liquidity requirements
+
+
+A step following the planned introduction of the LCR regulation in 2013 includes preparation
+to introduce a Basel III net stable funding ratio (NSFR)-type measure in the medium term.
+Meanwhile, banks should continue to raise their NSFRs towards 100 percent and publish
+them. But the pace of balance sheet adjustments to meet the NSFR should be set in light of
+a review of their short-term impact on banks’ ability to collect deposits and issue longer
+debts and on the availability of “safe” assets under regulatory rules. In this regard, there are
+merits of reviewing the adequacy of Basel III liquidity standards for Sweden but any issues
+should be addressed in the context of ongoing international review of the Basel III
+standards.
+
+
+
+Going forward, the stability fund may be reformulated to introduce a risk-based contribution
+so that a bank taking a higher risk should bear appropriately higher contributions. This
+should discourage banks from risky activity. However, this should be coordinated with EUlevel initiatives.
+
+All these regulatory reform actions should be coordinated regionally
+
+
+All major Swedish banks operate extensively in the Nordic-Baltic region, with Swedish
+authorities as the home supervisor. Sweden’s approach to regulatory reform is most
+advanced in comparison with other regional supervisors. Thus, notably with respect to the
+EU, the practice of extensive prior consultation and coordination with other authorities
+should continue, especially when regulatory standards are set beyond the ex-ante agreed
+margins, to minimize unintended regulatory arbitrage and to anticipate consequence to
+other jurisdictions.
+
+And supervision intensity and crisis management needs to be further upgraded
+
+12
+
+
+
+If there are legal impediments to the FI’s authority to use Pillar II, these should be removed.
+
+
+
+In addition, as recommended in the 2011 FSAP Update, legal certainty related to the FI’s
+power to take corrective and remedial against a weak bank should be resolved, while a
+special resolution framework for non-systemic financial institutions should be established.
+
+
+
+With increased resources, the FI should further increase its accountability on resource uses.
+At the same time, a common understanding is needed that the additional resources should
+maybe used for FI’s financial stability mandate, rather than being driven into other areas
+including into the international regulatory reform agenda.
+
+INTERNATIONAL MONETARY FUND
+
+SWEDEN 2012 ARTICLE IV REPORT
+
+
+
+There are merits of formalizing the meeting procedures of the Domestic Standing Committee for
+crisis management, including by regularizing meeting schedule.
+
+
+
+On the cross-border side, various bilateral and regional Memoranda of Understanding (MOU)
+and EU-wide arrangements provide the basis for cooperation. Importantly, the 2010 Nordic-Baltic
+MOU provides the principles of burden sharing. However, this has not been tested. As
+recommended in 2011 FSAP Update, the authorities are developing a framework to assess how
+the burden-sharing principles work, especially taking account of fiscal positions of each country.
+In this light, “war games” could be conducted.
+
+
+
+But given that the existing cross border arrangements, mostly based on various MOUs, are not
+legally binding, more assurance is needed. And the ongoing efforts to establish “a resolution and
+recovery plan” for the largest Swedish banks can be extended to other major banks.
+
+Extension of the CCMP is needed
+
+
+Developing a macroprudential policy institution involves a learning-by-doing process. Given
+establishment of the CCMP, next steps include establishing a formal macroprudential authority,
+with a clear financial stability mandate, a set of authorized tools, and accountability obligations.
+The merits of including a mechanism to reflect regional perspectives are also worth considering.
+
+
+
+To the extent that the sum of these initiatives slows credit supply and growth, monetary policy
+should take it into account in the setting of the repo rate and fiscal policy should also
+accommodate it via automatic stabilizers (see below).
+Summary of the Performance and Operation of Swedish Four Major Banks
+(In percent unless otherwise indicated, end of period)
+Median of 44
+European and
+Nordea
+
+SEB
+
+Handelsbanken
+
+US banks
+
+Swedbank
+
+2009
+
+2010
+
+2011
+
+2009
+
+2010
+
+2011
+
+2009
+
+2010
+
+2011
+
+2009
+
+2010
+
+2011
+
+2011
+
+10.3
+11.4
+13.4
+4.1
+
+10.3
+11.4
+13.4
+4.0
+
+11.2
+12.2
+13.4
+3.8
+
+11.7
+13.9
+14.7
+4.0
+
+12.2
+14.2
+13.9
+4.3
+
+13.7
+15.9
+15.2
+4.2
+
+11.7
+14.2
+20.2
+3.5
+
+13.8
+16.5
+20.9
+3.6
+
+15.6
+18.4
+20.9
+3.4
+
+12.0
+13.5
+17.5
+4.3
+
+13.9
+15.2
+18.4
+4.6
+
+15.7
+17.2
+18.9
+4.4
+
+10.2
+12.3
+15.1
+…
+
+1.9
+0.9
+
+1.9
+0.9
+
+2.0
+1.1
+
+1.5
+0.5
+
+1.3
+0.5
+
+0.8
+0.3
+
+0.6
+0.2
+
+0.6
+0.2
+
+0.4
+0.2
+
+5.9
+2.9
+
+5.2
+2.5
+
+3.4
+1.7
+
+3.7
+…
+
+0.5
+11.4
+
+0.5
+11.5
+
+0.4
+10.6
+
+0.0
+1.2
+
+0.3
+6.9
+
+0.5
+10.8
+
+0.5
+13.1
+
+0.5
+13.0
+
+0.5
+13.8
+
+-0.6
+-12.7
+
+0.4
+8.2
+
+0.7
+12.2
+
+0.7
+8.4
+
+197.6
+17.0
+74.7
+
+198.7
+19.4
+71.9
+
+199.5
+22.1
+68.9
+
+148.3
+28.7
+55.4
+
+151.1
+69.4
+14.7
+
+137.7
+36.5
+49.0
+
+320.6
+3.2
+93.7
+
+322.5
+…
+…
+
+325.1
+…
+…
+
+269.9
+9.8
+82.1
+
+234.7
+11.8
+82.6
+
+236.9
+16.7
+76.3
+
+89.5
+…
+…
+
+173.5
+
+166.3
+
+185.1
+
+74.3
+
+65.4
+
+67.6
+
+68.4
+
+64.7
+
+70.3
+
+57.8
+
+51.5
+
+53.2
+
+…
+
+Capital
+Tier 1 core capital ratio to risk weighted assets 1/
+Tier 1 ratio to risk weighted assets 1/
+Total capital to risk weighted assets 1/
+Leverage (Tier 1 as a percent of total assets)
+Assets
+Gross impaired loans to total loans at amortized costs 2/
+Net impaired loans to total loans at amortized costs
+Earnings and profitability
+Return on assets
+Return on equity
+Liquidity
+Loans to customers deposits
+Deposits maturing less than 3 months to total deposits
+On demand deposits to total deposits
+Memorandum item:
+Total assets in percent of GDP
+
+Sources: Banks' annual reports, SNL Financial, and Fund staff calculations.
+1/ With the transition rules. Under the Basel II capital adequacy rules, Swedish banks are allowed to substantially reduce capital adequacy requirements due to their large mortgage portfolios.
+However, currently, the FSA applies transitional regulations, allowing banks to reduce capital requirements only in stages.
+2/ Data for SEB are gross impaired loans to total loans.
+
+B. Fiscal Policy Framework
+33.
+Given that output is close to potential, strong sovereign access to markets, alongside
+downside external risks and the modest deviation of the fiscal balance from its structural surplus
+
+INTERNATIONAL MONETARY FUND
+
+13
+
+2012 ARTICLE IV REPORT
+
+SWEDEN
+
+target, the appropriate setting for 2012 would be a mildly supportive stance anticipating a phased
+return to the structural surplus target thereafter. Along this trajectory, automatic stabilizers would
+operate in case of moderately weaker/stronger than anticipated activity, with scope to reset the
+structural fiscal trajectory as well if the global economy deviates markedly from projections.
+34.
+This fiscal stance would not only support near term activity in the face of downside risks, but
+also boost fiscal buffers by further lowering the public debt-to-GDP ratio in the central case. This
+would further increase the capacity of the Swedish economy to cope with a sharp and sustained
+shock by further increasing the likelihood that the sovereign could maintain market access even
+under severe adverse scenarios (See Box 2).
+35.
+This fiscal trajectory is planned by the authorities. For 2012, as a result of the deceleration of
+growth and new discretionary measures being introduced as part of the 2012 Budget Bill, thebudget
+balance is expected to remain at -0.3 percent of GDP in 2012. Revenues would remain subdued in
+line with weak employment and consumption trends. Expenditures would rise modestly, driven
+mainly by higher social benefits. The structural balance would on the authorities’ estimates fall to
+1.2 percent of GDP implying a stimulus of 0.2 percent of GDP. Based on staff estimates, the
+structural balance falls to -0.3 percent of potential GDP, implying a stimulus of 0.5 percent of
+potential GDP. The difference between staff and authorities’ estimates reflects different output gap
+estimates and different methodologies to calculate the structural balance.
+36.
+Alongside, they have increased the expenditure ceiling between 2014–15 by SEK 20 billion.
+With this, the expenditure ceiling is expected to increase by 1½ percent in nominal terms over the
+next four years, which would leave a budgetary margin of about 1 ½ percent of GDP, based on the
+authorities’ assumptions.
+37.
+Overall, the Budget Bill contains measures of about 0.4 percent of GDP, partly offset as some
+previous measures expire. Some of this relates to reforms enacted in 2011 which were reinforced by
+ancillary measures in Budget 2012. The main expansionary measures for 2012 are a lowering of the
+VAT rate for restaurant and catering services, extra funding for infrastructure investment and a
+package of active labor market measures (Box 6). Spending will continue to be reined in part due to
+the non-indexation of key expenditures, a further phasing out of temporary stimulus measures, a
+decline in unemployment expenditure as the economic recovery takes hold, and the effects of
+previous reforms (such as reforms of the sickness insurance system).
+
+14
+
+INTERNATIONAL MONETARY FUND
+
+SWEDEN 2012 ARTICLE IV REPORT
+
+Sweden: Medium-Term Fiscal Outlook
+(Percent of GDP)
+2011
+Prelim.
+
+SB
+
+Revenues
+Expenditures
+Net lending
+
+49.7
+49.6
+0.1
+
+50.1
+50.4
+-0.3
+
+49.5
+49.7
+-0.2
+
+49.7
+49.3
+0.3
+
+49.8
+49.2
+0.6
+
+49.4
+47.8
+1.6
+
+49.9
+48.4
+1.5
+
+49.5
+46.5
+3.0
+
+49.7
+47.5
+2.1
+
+49.3
+45.7
+3.7
+
+49.8
+47.2
+2.6
+
+Central government balance
+Pension system balance
+Local government balance
+
+-0.1
+0.5
+-0.3
+
+-0.3
+0.2
+-0.2
+
+-0.1
+0.2
+-0.2
+
+0.7
+-0.2
+-0.1
+
+0.9
+-0.2
+-0.1
+
+1.7
+0.0
+-0.1
+
+1.7
+0.0
+-0.1
+
+3.1
+0.0
+-0.1
+
+2.3
+0.0
+-0.1
+
+3.8
+-0.1
+-0.1
+
+2.8
+-0.1
+-0.1
+
+Structural balance (percent of potential GDP) 1/
+Structural balance (percent of potential GDP) 2/
+Output gap (percent of potential)
+Employment gap (percent of potential)
+
+0.2
+-0.3
+0.8
+-0.3
+
+…
+1.2
+-2.7
+…
+
+-0.3
+0.1
+-0.4
+0.6
+
+…
+1.6
+-2.1
+…
+
+0.5
+0.8
+-0.3
+0.3
+
+…
+2.1
+-0.9
+…
+
+1.5
+1.6
+-0.2
+0.1
+
+…
+3.2
+-0.4
+…
+
+2.1
+2.2
+-0.1
+0.1
+
+…
+3.7
+0.0
+…
+
+2.6
+2.6
+0.0
+0.0
+
+2012
+IMF
+
+SB
+
+2013
+IMF
+
+SB
+
+2014
+IMF
+
+SB
+
+2015
+IMF
+
+SB
+
+2016
+IMF
+
+Sources: Ministry of Finance and Fund staff calculations.
+Note: SB: 2012 Spring Bill.
+1/ Structural balance takes into account output and employment gaps.
+2/ Overall balance adjusted for the output gap, based on authorities' measure.
+
+38.
+Over the medium term, the authorities plan for revenues as a percentage of GDP to remain
+largely unchanged, with the fiscal balance strengthening to target due to a declining expenditure
+ratio—in line with the 4-year nominal spending ceilings. The overall balance would exceed 1 percent
+of GDP by 2014, and continue to strengthen further over the medium term.
+39.
+Alongside, the authorities have outlined a number of additional measures, contingent on the
+availability of fiscal space, that focus mainly on increasing labor supply and include further
+strengthening the “in-work” tax credit and further raising the lower threshold for the state income
+tax. They also propose reviewing corporate taxation, and tax cuts for pensioners.
+40.
+In this context, the tax structure can be further improved to support growth in the more
+challenging global context. Tax expenditures are considerable—including multiple VAT rates which
+significantly curb VAT collections despite one of the highest standard VAT rates in the OECD. With
+distributional concerns attenuated by strong Gini coefficient scores of 0.23 and the possibility of
+direct support to low-income households through targeted spending, a restructuring of the VAT
+could improve the efficiency of the tax system. The resulting additional VAT collections would create
+room to implement reforms that reduce further the overall wedge between employers’ gross pre tax
+labor costs and real take-home pay.
+41.
+Tax and expenditure measures aimed at supporting employment of vulnerable groups
+should be better targeted. Though it is too soon to measure the employment impact of recent
+reductions in employer social security contributions for young workers and of the VAT on
+restaurants, measures more specifically designed to affect workers with greater difficulties in
+entering the labor market would likely be more effective.
+42.
+Additional measures could be put in place to reduce the procyclicality of local governments’
+fiscal position. In view of the balanced budget rules at the local level, the authorities should consider
+
+INTERNATIONAL MONETARY FUND
+
+15
+
+2012 ARTICLE IV REPORT
+
+SWEDEN
+
+the merits of allowing them greater flexibility to establish and manage rainy-day contingency funds.
+This is particularly important if, under current policy, the structural surplus target rule for the central
+government is procyclical ex-post (with the actual structural surplus exceeding historically the
+1 percent target).
+43.
+More generally, adherence to the fiscal surplus target rule over the medium term remains
+fully appropriate. Absent shocks, the rule will keep debt on a downward trajectory, but this is
+unlikely—as simple extrapolation might suggest—to make the Swedish sovereign a net creditor.
+Instead, that trajectory will be disturbed by standard business cycle downturns, pushing debt back
+up, and may be further disturbed by tail risk shocks. As evident from the global crisis, several
+countries with large financial systems experienced leaps in public debt, both reflecting the impact of
+automatic stabilizers and direct financial sector support. With those tail risks still evident in Europe, it
+remains appropriate for Sweden to maintain a determined effort—as reflected in its surplus target
+rule—to build buffers to increase its ability to withstand such risks, until those risks are eliminated
+(See Box 2). The Fiscal Policy Council continues to play an effective role in promoting public
+awareness of fiscal issues. Further increases in its resources and its focus on sustainability would
+reinforce the credibility of the fiscal framework. These fiscal policy settings would also allow
+monetary policy to respond to possible external developments—easing if capital inflows continue
+alongside weak external demand, and tightening if activity and domestic inflationary pressures
+surge.
+
+C. Monetary Policy and Framework
+44.
+With the repo rate above the lower effective bound and a fully flexible exchange rate and
+the krona likely to depreciate in an adverse tail risk scenario, monetary policy instruments have
+room to make decisive adjustments should tail risks materialize. Monetary policy should thus
+continue to be set according to the baseline scenario.
+45.
+Under that baseline scenario, for now, given the benign inflation outlook, modest cost
+pressures and the prospect of a temporary slowdown in demand, the repo rate is appropriately set
+at 1½ percent. The rate path should, however, be adjusted to reflect the potential impact of stricter
+banking regulation and fiscal withdrawal as long as economic slack persist. Macroprudential
+instruments—e.g. tightening LTV rules further, adjusting risk-weighted assets, limiting loans’
+length—should be deployed further if the housing market reflates once again.
+46.
+The monetary and free floating exchange rate frameworks remain credible, as indicated by
+inflation expectations and recent reviews. However, persistent deviations of market forward rates
+(and survey expectations) from the projected official rate have occurred. Although inflation
+expectations have remained firmly anchored around the Riksbank’s medium-term target, continued
+credibility relies on markets believing the monetary authorities, to ensure an effective transmission
+of the short term policy rate to market rates, other asset prices, and the real economy. For these
+reasons, persistent and significant disbelief concerning the authorities’ projected policy rate outlook
+could, eventually impair the monetary transmission mechanism and, possibly, undermine broader
+credibility.
+
+16
+
+INTERNATIONAL MONETARY FUND
+
+SWEDEN 2012 ARTICLE IV REPORT
+
+47.
+To address this issue, the Riksbank could start publishing macroeconomic forecasts
+conditioned on market-implied domestic and foreign forward rates, in addition to forecasts
+conditioned on its preferred path for the policy rate, and keep the commitment to publish its
+expected policy rate path under review (See Chapter III of the Selected Issue Paper).
+48.
+Alongside, and in the context of initiatives to establish a macroprudential council, consensus
+on the mandate of the Riksbank with regard to asset prices and financial stability should be sought.
+And the Riksbank should raise its research efforts further in the area of equilibrium unemployment,
+including analysis of its composition, and of macrofinancial linkages as key inputs into policy rates
+setting.
+49.
+And while gross international reserves are 50.4 USD or 344.7 SEK billion, some 23 percent of
+imports, and 14.8 percent of short term external debt, the liquidity gap approach developed by staff
+last year suggests that there is a case to increase foreign exchange reserves now.1 In particular, the
+probability that reserves might be exhausted in the context of a tail risk event, such as default by
+one of the European sovereigns now under market pressure, has risen relative to that likelihood a
+year ago. Should this probability rise further, the authorities should match their efforts to boost
+resilience in other areas by raising reserve cover also.
+
+D. Structural Reform Policy
+50.
+Sweden’s extensive structural reforms since the early 1990s have boosted trend growth and
+employment, as well as strengthening resilience to shocks. Thus, increases in unemployment in
+2008–09 fell far short of expectations, and employment recovered promptly thereafter. And
+participation rates held up throughout, in contrast to a number of OECD countries.
+51.
+
+However there are areas of concern:
+
+
+
+The reforms could be better targeted at helping those particular groups of workers facing
+the most challenges, including workers with weak attachment to the labor market (for
+example, the reduction in payroll taxes for new entrants applies to the entire population of
+young potential workers, but only a fraction of these needs help in finding a job).
+
+
+
+Recent reforms also reduced the scope and resources for active labor market policies. But
+shortfalls in the effectiveness of these programs likely reflected their particular design—
+elsewhere, such as in Denmark, reforms have better focused these initiatives rather than
+curtailing them.
+
+52.
+In contrast to broad initiatives in other sectors, the Swedish housing market is substantially
+unreformed, notably the rental and sub-let markets which are subject to severe regulations. Given
+Sweden’s fast and ongoing urbanization trend, particularly toward the greater cities (Stockholm,
+1
+
+See the chapter in the Selected Issues Paper by Kotaro Ishi.
+
+INTERNATIONAL MONETARY FUND
+
+17
+
+2012 ARTICLE IV REPORT
+
+SWEDEN
+
+Gothenburg and Malmo), the lack of rental property on the market has been one key determinant of
+house price surges (and house price resilience) over the past years. In this light:
+
+
+Deregulation of rental markets could reduce shortages and improve employment prospects
+as well as skill shortages, particularly in the main cities, with likely impacts on potential
+output growth in the medium term;
+
+
+
+This would help to raise investment in residential property—where Sweden scores amongst
+the lowest in the EU. This will require initiatives at the local and central government level to
+raise the amount of land available for construction, in order to ensure that supply rises in
+line with fundamentals and to prevent a further acceleration in prices.
+
+THE AUTHORITIES' VIEWS
+53.
+The authorities agreed with the overall assessment of economic developments in Sweden
+and internationally, and the implications for policy including in the financial sector.
+54.
+More specifically, they noted concerns with the macrofinancial implications of high
+household debt, and in this context sought early strengthening of bank capital and various
+improvements in the macroprudential policy architecture. In addition, they emphasized need to
+build fiscal buffers further, while, in that context, also seeing scope for free application of automatic
+stabilizers in the near term. This stance, and the recent relaxation of monetary policy would support
+activity, with macroprudential measures in place to stabilize the housing market. Policymakers stand
+ready to adjust policy settings in the event of a major global shock.
+55.
+Within that overall agreement, however, some differences of emphasis from the staff were
+noted:
+Financial Sector Policies
+
+
+The authorities do not see strong evidence that the quality of new mortgage lending raises
+prudential concerns because borrowing households have sufficient capacity to repay debt
+even under macroeconomic stress scenarios, while more marginal borrowers are unlikely to
+have access to credit—so that, for instance, increases in temporary employment contracts in
+recent years would not materially affect overall risk of credit losses. Nevertheless, these
+matters would remain under close scrutiny.
+
+
+
+The authorities agreed with staff that the status quo of the macroprudential supervisory
+architecture is not satisfactory, but they noted that the proper role of the Ministry of Finance
+in any better structures remains open. While all agree that the Ministry should be
+deterministic in resolution and crisis management, and that it should not be responsible for
+making stability assessments and recommendations at other times, there is not yet
+agreement on where to draw the line between those two circumstances, nor on how that
+
+18
+
+INTERNATIONAL MONETARY FUND
+
+SWEDEN 2012 ARTICLE IV REPORT
+
+line should be drawn. The matter will be considered further in the "Government
+Investigation on Financial Crisis Prevention and Management Issues” (the Franzén
+Commission), though the authorities intend, in the meantime, to put the Consultation
+group2 on a more solid footing.
+
+
+The fiscal authorities emphasized need make progress to further reinforce financial sector
+stability but also cautioned that steps taken should not risk, inadvertently, causing disorderly
+adjustments in credit markets or financial institutions. In securing this balance, they inclined
+to proceed in a sequence, with initiatives phased according to the strength of economic
+conditions—accelerating in good times when markets could more easily absorb them, and
+being prudently paused otherwise.
+
+Fiscal Policy and Framework
+
+
+The authorities estimate a stronger underlying fiscal position than the staff for 2011–12. This
+reflects the authorities’ use of the OECD aggregate elasticity of 0.55, in contrast to the staff’s
+disaggregated adjustments using both output and employment gaps. Specifically, the fiscal
+authorities’ estimates of the cyclically adjusted balance in 2011–12 are 0.7 and 1.2 percent of
+potential GDP, respectively. Meanwhile, staff’s estimates are 0.1 percent of potential GDP for
+2011 and -0.4 percent of potential GDP for 2012.
+
+
+
+In contrast to staff's view that further stimulus in 2013 should be contingent on weaker than
+expected activity, the authorities indicated that they see scope, partly reflecting their
+estimate of the structural surplus, to implement discretionary measures in 2013, specifically
+to undertake greater investment spending.
+
+
+
+The authorities see recent measures to address youth unemployment, such as the reduction
+in employer social security contributions and the reduction of the rate of VAT on restaurants,
+as a way to increase the opportunities of young workers entering the labor market, while
+staff believes that better targeted measures would be more appropriate.
+
+Monetary Policy and Framework
+
+
+The authorities see the existence of a large and persistent wedge between their projected
+official rate and markets’ implied interest rate expectations as somewhat problematic, while
+emphasizing that measurements of implied expectations are inherently imprecise and
+uncertain. The wedge is not seen as harming the central bank’s credibility on the grounds
+that inflation expectations continue to remain anchored around the inflation target. They
+intend to continue publishing their own preferred policy paths, as it has served well as a
+communication tool.
+
+2
+
+The Consultation group was established in accordance with the Memorandum of Understanding signed in 2009 between the
+Government Offices (Ministry of Finance), Sveriges Riksbank, Finansinspektionen, and the Swedish National Debt Office regarding
+cooperation in the fields of financial stability and crisis management.
+
+INTERNATIONAL MONETARY FUND
+
+19
+
+2012 ARTICLE IV REPORT
+
+SWEDEN
+
+
+
+The current understanding in the majority on the MPC is that it is appropriate to take into
+consideration financial stability issues. This stance will be reviewed in the context of
+initiatives to establish a macroprudential council.
+
+
+
+The monetary authorities have participated in a domestic discussion on estimates of the
+long-run sustainable rate of unemployment. Further analysis will be made, even though the
+returns in terms of improved information for rate setting are seen as low.
+
+STAFF APPRAISAL
+56.
+Sweden has long secured strong growth, low inflation, declining government debt, rising
+incomes, and a strong external position. But trade and financial linkages mean that prospects are
+closely tied to those of Europe—reflected in the V-shaped passage through the Great Recession,
+and rising stresses in the banking system and declining underlying growth momentum since mid2011.
+57.
+Monetary and fiscal policies have responded well to this cycle, both tightening appropriately
+as output recovered in 2010–11 and easing in the latter parts of 2011. And on the structural side,
+various actions were launched in support of employment. Nonetheless, with exports likely soft,
+muted annual GDP growth is projected in 2012, albeit with activity regaining steam from mid-year,
+with European fragilities implying significant tail risks.
+58.
+Policies are well calibrated. In particular, the government budget remains firmly guided by its
+medium-term rules, thereby allowing automatic stabilizers to operate. And with medium-term
+inflation expectations anchored at the target, the monetary policy stance remains accommodative.
+And policies have room to make decisive adjustments should tail risks materialize.
+59.
+
+But the challenges are extensive.
+
+60.
+On the financial stability side, though direct exposures to strained Euro Area economies are
+negligible and risk-weighted bank capital is high, the financial system is large, directly exposed to
+Europe, highly concentrated, and reliant on wholesale funding, with low raw capital ratios.
+Furthermore, vulnerabilities are apparent in elevated household debt, the soft housing market, and
+employment and income uncertainties. While standard financial sector stress tests reassure, shocks
+could go well beyond the historical norms they assume.
+61.
+In this light, the EU-wide banking regulations under the Fourth Capital Requirements
+Directive will be key. Given the common floor, the particular risks in Sweden and the lack of a
+common European banking backstop argue for full use of the flexibility for national regulators given
+in that agreement to implement country-specific macroprudential policies.
+62.
+So the authorities rightly plan to raise capital requirements for the four major banks in steps
+in 2013 and 2015, augmented by needed increases in risk weights for mortgages, alongside tighter
+liquidity regulations and strengthened supervisory resources, focus, and coordination. In this
+
+20
+
+INTERNATIONAL MONETARY FUND
+
+SWEDEN 2012 ARTICLE IV REPORT
+
+context, the practice of extensive prior consultation and coordination with European partners should
+continue.
+63.
+But considerably more remains to be done. Additional steps include ensuring that
+supervisors are able to make effective use of "Pillar 2", and securing an appropriate application of
+the additional regulatory resources that have been provided. Other necessary steps include
+strengthening early intervention and resolution powers of the supervisors, assessments (as for
+capital) of the adequacy of international liquidity standards for Sweden, extension of resolution
+planning to all major banks, and deepening regional supervisory coordination and crisis
+management under the Nordic-Baltic arrangements. Establishment of a macroprudential authority is
+under consideration. It will be key to have clarity on the stability mandate, decision-making
+structure, tools, and accountability—all respecting the independence of the Riksbank and bank
+supervisors.
+64.
+On the fiscal side, output close to potential, strong access to market financing, risks tilted to
+the downside, and the credibility of the medium-term fiscal rules framework all call for and allow for
+the automatic stabilizers to operate unimpeded. And given tail risk of large jumps in public debt,
+this budget stance also retains appropriately large fiscal buffers.
+65.
+In this context, both the modest relaxation of the fiscal deficit in 2012 which leaves public
+debt on a downward trajectory, and the framework of rules targeting 1 percent of GDP surplus over
+the cycle and nominal expenditure ceilings are appropriate.
+66.
+In addition, the tax structure could be more “growth friendly”, notably via better-targeting of
+tax and expenditure measures. And actions to bolster further the Fiscal Policy Council—notably by
+further increasing its resources and its focus on sustainability—would reinforce the credibility of the
+fiscal framework.
+67.
+On the monetary side, the stance is appropriately accommodative given the benign inflation
+outlook, modest cost pressures, and a temporary slowdown in demand. Monetary policy should
+continue to be set according to the baseline scenario—offsetting any drag on activity emanating
+from prudential actions while slack in the economy remains. The stance of policy can be adjusted
+rapidly if tail risks are realized. Macroprudential instruments should be deployed further if the
+housing market reflates once again.
+68.
+The monetary and free floating exchange rate frameworks remain credible. However, given
+persistent deviations of market forward rates from the projected official rate, the Riksbank could
+also start publishing macroeconomic forecasts conditioned on market implied forward rates, and
+keep the commitment to publish its expected policy rate path under review. Alongside, consensus
+on the role of asset prices and financial stability in monetary policy objectives should be sought.
+69.
+And on structural reforms, with labor market entrants particularly exposed to European tail
+risks, steps being actively considered by the social partners to increase the accommodation of new
+entrants in employment contract structures are strongly supported. And in the housing sector,
+
+INTERNATIONAL MONETARY FUND
+
+21
+
+2012 ARTICLE IV REPORT
+
+SWEDEN
+
+deregulation of rental market could reduce shortages and improve employment prospects, notably
+in the main cities.
+70.
+cycle.
+
+22
+
+It is recommended that Sweden remains on the standard 12-month Article IV consultation
+
+INTERNATIONAL MONETARY FUND
+
+SWEDEN 2012 ARTICLE IV REPORT
+
+Box 1. Should Sweden Be Concerned of Adverse Inward Spillovers from Europe?
+So far Europe’s sovereign debt turmoil had modest financial and trade effects on Sweden. While Sweden’s stock
+and credit market volatility increased as the crisis erupted in the summer of 2011, corporate bond spreads have
+increased modestly since early September, and short-term funding markets have been largely unaffected, owing to
+the economy’s relatively strong fundamentals. In addition, government yields have declined benefiting from
+investors’ flight to quality. However, in the last quarter of 2011, Sweden’s trade account has been significantly
+impacted by the European crisis due to its considerable exposure to European trade.
+Going forward, a scenario of increased financial market stress in Europe, could trigger larger effects. With 70
+percent of Swedish total exports going to the EU, Sweden’s direct trade exposure is large. In addition, spillovers of
+Europe to the rest of the world may affect Sweden’s exports indirectly. Further developments could increase
+uncertainty of the global recovery, soften the EU demand for Swedish exports, and dampen global demand for
+commodities—which Sweden exports.
+Sweden: Exports to Europe
+(Percent of GDP, merchandise exports)
+2011
+European Union
+Euro area
+Greece
+Ireland
+Italy
+Portugal
+Spain
+United Kingdom
+
+19.3
+13.1
+0.1
+0.2
+0.9
+0.2
+0.6
+2.4
+
+Sources: IMF Direction of Trade Statistics and Fund staff calculations.
+
+Despite recent pressures in European banking markets, there have been no material dislocations in Swedish
+financial markets. Sweden’s banks’ total financial claims on peripheral European economies are modest as a share
+of assets and Tier-1 capital. Claims on smaller European economies (like Denmark and Finland) linked to the Euro
+Area as well as on larger European economies, including the U.K., are significantly larger, however.
+
+Sweden: Banks' Total Financial Claims on the Nordic-Baltic Region, 2011
+Billions of USD
+
+Percent of total assets
+
+Nordics
+Denmark
+Finland
+Norway
+
+180.9
+146.2
+129.9
+
+15.2
+12.2
+10.9
+
+Baltics
+Latvia
+Lithuania
+Estonia
+
+16.0
+15.7
+17.5
+
+1.3
+1.3
+1.5
+
+Sources: Bank of International Settlements, Haver Analytics, Statistics Sweden, and Fund staff's
+calculations.
+
+INTERNATIONAL MONETARY FUND
+
+23
+
+2012 ARTICLE IV REPORT
+
+SWEDEN
+
+Box 2. Fiscal Buffers: How Big Are They? How Big Should They Be?
+Fiscal buffers are adequate if the Swedish sovereign is able to maintain market access through and after a “large” shock.
+This critically depends on the impact on public debt of the shocks that could occur, and the threshold debt level at which
+market access is lost.
+In this regard, a useful exercise is to replicate the experience of countries severely affected by the global financial crisis, within
+the Swedish fiscal framework. Specifically, the exercise entails using as macroeconomic assumptions for the fiscal
+
+forecast the observed growth, employment, consumption, financial sector support, and real exchange rate
+developments of the United Kingdom, the United States, and Iceland since 2008. The main advantage of this approach
+is that the shock is plausible (and has in fact taken place elsewhere recently, in the contest of the global turmoil) and
+would allow each macroeconomic factor to respond in a distinct manner to the shock. This exercise does not assume any
+type of fiscal policy response, either to contain the decline in growth or to reverse the deterioration of the fiscal accounts.
+Table 1 shows the projections. If economic activity were to behave as it did in the United Kingdom and the United States,
+
+the fiscal deficit would deteriorate by about 3 percentage points of GDP, through a combination of lower revenues as
+consumption contracts, and higher expenditure in response to the decline in employment. Debt to GDP would rise to
+about 50 percent of GDP, including the cost of the banking sector support.
+In contrast, the impact of a shock like that faced by Iceland would be more severe. The fiscal balance would deteriorate by
+about 8½ percent of GDP, mainly due to a collapse in consumption and employment. In this case, debt to GDP would
+
+rise above 80 percent of GDP, including the financial sector support (assumed to be only half that of Iceland, in
+proportion to the size of Sweden’s financial sector).
+
+The second step in the analysis is to consider at what level of public debt Sweden risks losing market access. Determining such
+a threshold is difficult. Sweden’s experience during the 1990s crisis showed that the sovereign was able to retain market
+
+access with debt to GDP ratios close to 75 percent, but at a high cost. This suggests that debt ratios beyond this level
+could result in market pressures. Furthermore, under a tail scenario affecting Europe in coming years, this threshold
+could well be optimistic, as many countries would simultaneously be seeking to finance large borrowing requirements in
+
+the context of disorderly global financial markets.
+
+This analysis has clear implications for the authorities’ current policy stance. While Sweden would be able to
+accommodate a shock similar to that recently faced by the United Kingdom and the United States without losing market
+access, it is unlikely to be able to absorb a shock as large as seen in Iceland. In this light, the authorities’ preference to
+continue to build buffers is cautious, but given the scale of the impact of possible European tail risks, appropriately so.
+Sweden: Alternative Fiscal Shocks
+"United Kingdom" Shock
+2011
+2012
+2013
+2014
+
+Real GDP growth
+Consumption growth
+Employment growth
+Exchange rate depreciation
+
+4.0
+2.0
+2.2
+
+-1.1
+-0.7
+0.8
+16.4
+
+-4.4
+-2.6
+-1.5
+11.9
+
+2.1
+1.3
+0.1
+-3.7
+
+4.0
+2.0
+2.2
+
+Total revenues
+Total expenditures
+o/w interest payments
+Net lending
+
+49.7
+49.6
+1.2
+0.1
+
+50.0
+51.3
+1.3
+-1.3
+
+51.0
+54.5
+1.8
+-3.5
+
+50.4
+53.4
+2.1
+-3.0
+
+49.7
+49.6
+1.2
+0.1
+
+Banking sector bailout
+Debt
+Domestic currency
+Foreign currency
+
+Memorandum item
+Nominal GDP (SEK bn)
+
+6.8
+
+"United States" Shock
+2012
+2013
+2014
+
+2011
+
+"Iceland" Shock
+2012
+2013
+
+2014
+
+(In percent)
+-0.3
+-3.5
+0.0
+-1.1
+-0.5
+-3.8
+7.3
+-5.2
+
+3.0
+1.8
+-0.6
+-5.0
+
+4.0
+2.0
+2.2
+
+1.3
+-4.2
+0.9
+64.1
+
+-6.8
+-10.7
+-6.2
+20.1
+
+-4.0
+-1.4
+-0.2
+-6.2
+
+(In percent of GDP)
+49.6
+49.9
+50.9
+53.5
+1.3
+1.7
+-1.3
+-3.6
+
+48.9
+51.9
+1.9
+-3.0
+
+49.7
+49.6
+1.2
+0.1
+
+48.5
+50.0
+1.3
+-1.5
+
+47.8
+55.5
+2.5
+-7.7
+
+49.1
+58.4
+3.3
+-9.3
+
+5.3
+
+22.1
+
+38.4
+33.0
+5.4
+
+47.3
+41.0
+6.3
+
+52.8
+45.5
+7.2
+
+53.4
+46.8
+6.7
+
+38.4
+33.0
+5.4
+
+45.0
+39.3
+5.8
+
+49.0
+43.5
+5.5
+
+49.3
+44.3
+5.0
+
+38.4
+33.0
+5.4
+
+64.4
+55.7
+8.7
+
+77.2
+66.3
+10.9
+
+87.3
+76.9
+10.5
+
+3,492
+
+3,496
+
+3,413
+
+3,553
+
+3,492
+
+3,523
+
+3,471
+
+3,645
+
+3,492
+
+3,579
+
+3,407
+
+3,338
+
+Sources: IMF World Economic Outlook and Fund staff calculations
+
+24
+
+2011
+
+INTERNATIONAL MONETARY FUND
+
+SWEDEN 2012 ARTICLE IV REPORT
+
+Box 3. How Strong is the Pass-through from Repo Rates to Mortgage Rates in Sweden?
+As emphasized by analysis by the Riksbank in the February 2012 Monetary Policy Report, the pass-through
+of monetary policy impulses from the policy rate to mortgage rates has weakened according to various
+measurements over the past year. When assessed relative to before the crisis this phenomenon is milder but
+still not equaled in peer countries, with the exception of the United Kingdom.
+Prior to the crisis, mortgage pass-through, measured by the simple correlation coefficient between the repo
+rate and the effective interest rate on housing loans to households and NIPSHs, indicated that Sweden had a
+very strong transmission to long-term rates in this category of lending. The correlation coefficient of 0.99
+compares favorably with the U.K. (0.82) and well above that of the U.S. (0.67) and Germany (0.65).
+Since 2008Q1, the pass-through in Sweden (measured by the correlation coefficient between the policy and
+mortgage rates) has dropped marginally, though, according to this metric (to 0.96), even if it remains higher
+than that of any of the comparators.
+
+Mortgage Interest Rate Passthrough from Repo Rates
+United States
+
+Sweden
+
+Germany
+
+United Kingdom
+
+Before 2008After 2008 Before 2008After 2008 Before 2008After 2008 Before 2008After 2008
+Mortgage Rate Passthrough
+
+1
+
+0.99
+
+0.96
+
+0.67
+
+0.63
+
+0.65
+
+0.88
+
+0.82
+
+0.95
+
+Sources: Haver Analytics and Fund staff calculations.
+1
+
+Calculated as the correlation coefficient of the effective interest rate on housing loans to households and repo rates.
+
+INTERNATIONAL MONETARY FUND
+
+25
+
+2012 ARTICLE IV REPORT
+
+SWEDEN
+
+Box 4. Competitiveness and the Equilibrium Real Exchange Rate
+Since September 2008, the Swedish krona has fluctuated substantially, and the krona has now (end March
+2012) appreciated in real effective terms by over 25 percent since its trough in early 2009 (and by around
+30 percent against the euro).
+According to OECD PPP-measures of February 2012, the krona is at its highest level for 40 years.
+However, staff’s estimates based on the IMF’s new External Balance Assessment (EBA) methodology, suggest
+that the krona remains undervalued relative to its long-run equilibrium, broadly in line with the assessment
+arrived at using the IMF’s old CGER methodology using data up to Fall 2011.
+
+EBA Estimates
+April
+2012
+Macro Balance1
+Equilibrium RER
+External Stability
+
+2-4
+-5
+-25
+
+CGER Estimates
+
+Fall
+2011
+(in percent)
+-7
+-9
+-17
+
+Spring
+2012
+-14
+-10
+-25
+
+There are caveats to these results:
+1. Staff’s longstanding finding of undervaluation sits uneasily with the absence of distortions and no
+foreign exchange rate intervention for over a decade
+2. Pension and other social protection reforms—notably a phased shift to defined contributions pension
+scheme and a progressive shrinkage in transfers, like unemployment benefits—since the mid 1990s have
+raised household net saving—but these factors are not reflected in the CGER or EBA.
+3. While the EBA is based on a NFA of 20 percent of GDP, the cumulative sum of current account surpluses
+over the past decade suggests NFAs around 100 percent of GDP—qualifying Sweden as a financial centre.
+This would raise its CA/GDP norm in the EBA analysis.
+4. So great caution is needed when inferring krona misalignments based on the sustainability of the
+country’s NFA/GDP trajectory. Alongside other indicators the staff assessment is that the currency is
+competitive, although there are wide margins of uncertainty.
+In line with these considerations, the staff’s overall assessment is that Sweden’s structural current account is
+now around 2–4 percent higher than what suggested by medium-term fundamentals, which, in turn, have
+been strong relative to the Euro Area, including from wage moderation, and safe-haven flows.
+The strength of the external sector suggests an undervaluation. However this likely reflects some structural
+factors such as higher savings rates following the phased-in pension reform, which are unlikely to adjust
+quickly.
+1
+
+The range in the first cell captures differences in the cyclically-adjusted current account and the current account norm in the
+new EBA estimates.
+
+26
+
+INTERNATIONAL MONETARY FUND
+
+SWEDEN
+
+2012 ARTICLE IV REPORT
+
+Box 5. How Vulnerable Is Sweden’s Housing Market?
+The residential real estate cycle may have reached its long-predicted peak in Sweden. Housing starts halved
+over 2011 while the real prices dropped substantially in the second half of 2011 (-3.5 percent cumulatively)
+and remained flat in 2012 Q1 (q-o-q). The surge in late 2010 and early 2011, following the decline through
+2008, appears to have been due to buyers taking advantage of the low interest rate environment and to
+the abolition of the real estate tax in 2008 in favor of a municipal tax set at the lower of SEK 6,825 (around
+969 euros) or 0.75 percent of the property's assessed value. Indeed, in the two years to 2011 Q2, residential
+investment (+37 percent) took off
+Advanced Economies: Previous versus Current Housing Cycles
+again, contrary to more muted
+110
+110
+House Prices
+GDP
+developments during the previous
+(Index=100 at house price peak)
+(Index=100 at house price peak)
+recovery, offsetting the sharp drop in
+100
+new homebuilding experienced
+100
+during the global crisis.
+90
+
+Going forward, several factors may
+indicate further downward pressure
+on house prices. First,
+price-to-income and price-to-rent
+ratios remain 1.1 and 1.4 standard
+deviations respectively above
+historical averages. Second, staff’s
+model-based estimates from the
+Early Warning Exercise (EWE) and
+Vulnerability Exercise for Advanced
+Countries (VEA) suggest an
+overvaluation around 11–12 percent,
+exceeding the 10 percent threshold.
+(The EWE real estate model combines
+these three indicators to create a
+heat map for house price valuation.)
+Moreover, the predicted path of
+house prices based on WEO income
+projections suggests a decline of
+almost 5-6 percent through 2017.
+
+80
+90
+
+70
+
+Current cycle
+
+Current cycle
+
+Previous cycles
+
+Previous cycles
+
+Sweden - current cycle
+
+Sweden - current cycle
+
+60
+
+80
+-8
+
+110
+
+-6
+
+-4
+
+-2
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+14
+
+-8
+110
+
+Consumption
+(Index=100 at house price peak)
+
+-6
+
+-4
+
+-2
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+14
+
+8
+
+10
+
+12
+
+14
+
+Residential Investment
+(Index=100 at house price peak)
+
+100
+
+100
+90
+
+80
+90
+Current cycle
+
+Current cycle
+70
+
+Previous cycles
+
+Previous cycles
+
+Sweden - current cycle
+
+Sweden - current cycle
+
+80
+
+60
+-8
+
+-6
+
+-4
+
+-2
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+14
+
+-8
+
+-6
+
+-4
+
+-2
+
+0
+
+2
+
+4
+
+6
+
+Sources: OECD and Fund staff calculations.
+
+These indicators put Sweden among the advanced countries where a house price correction is most likely
+to take place. Yet, the point estimate for the house price disequilibrium (the difference between actual
+prices and estimated equilibrium or long-run prices) is not large by historical standards, and Sweden ranks
+only 9th among 22 advanced economies in the VEA sample in terms of potential overvaluation.
+Furthermore, other components of residential real estate vulnerability (namely, potential impact on GDP,
+household balance sheets, and mortgage market characteristics) remain moderate or low in Sweden,
+compared to other advanced economies. That said, with most mortgages being “rollover” mortgages with
+terms of at most five years, any future interest rate increases could put additional strains on already highly
+indebted households.
+
+INTERNATIONAL MONETARY FUND
+
+27
+
+2012 ARTICLE IV REPORT
+
+SWEDEN
+
+Box 6. Key Measures in the 2012 Budget Bill
+With ongoing global uncertainty, the 2012 Budget Bill announced the implementation of temporary
+measures that balance the need to address the slowdown in economic activity while keeping public finances
+in good order. These measures, some of which are temporary, are estimated at about 0.4 percent of GDP for
+2012 and 2013. The measures with the largest fiscal impact include:
+Lowering of VAT rate of restaurant and catering services: Reduction of the VAT rate from 25 percent to
+12 percent. This would bring it in line with the VAT rate on food and hotel services.
+Infrastructure investment: Temporary augmentation of funds for infrastructure maintenance and investments
+on road and railway networks, giving priority to the most economically important routes.
+Labor market measures: Structural measures to improve employment services and monitoring of job seeking
+activities, and more places in labor market programs for people at risk of long-term unemployment.
+Temporary increases in the number of employment training and work experience places, and in the number
+of places in vocational education.
+Tax measures of business and savings: Simplification of taxation of foreign experts, changes in the rules of
+closely held companies (3:12 rules), introduction of investment savings account, changes to the taxation of
+endowment insurance, and increase the deduction for research and development expenditure.
+
+28
+
+INTERNATIONAL MONETARY FUND
+
+SWEDEN 2012 ARTICLE IV REPORT
+
+Table 1. Sweden: Selected Economic Indicators, 2009—13
+Forecast
+2012
+2013
+
+2009
+
+2010
+
+2011
+
+-5.0
+-4.3
+2.0
+8.3
+
+5.9
+5.7
+1.9
+8.4
+
+4.0
+3.5
+1.4
+7.5
+
+1.0
+0.5
+1.2
+7.5
+
+2.3
+1.7
+2.0
+7.7
+
+23.5
+16.5
+-4.9
+
+25.5
+18.6
+-1.2
+
+26.6
+19.6
+0.8
+
+24.3
+17.2
+-0.4
+
+23.3
+15.7
+-0.3
+
+51.9
+52.9
+
+50.6
+50.6
+
+49.7
+49.6
+
+49.7
+50.0
+
+50.0
+49.5
+
+-0.8
+-0.8
+36.8
+
+0.0
+1.0
+36.6
+
+0.1
+0.2
+37.3
+
+-0.3
+-0.4
+37.6
+
+0.5
+0.4
+37.1
+
+8.2
+-1.3
+
+6.6
+4.7
+
+...
+...
+
+...
+...
+
+...
+...
+
+6.0
+
+7.4
+
+...
+
+...
+
+...
+
+Repo rate
+Three-month treasury bill rate
+Ten-year government bond yield
+
+0.3
+0.4
+3.3
+
+1.3
+0.5
+2.9
+
+...
+...
+...
+
+...
+...
+...
+
+...
+...
+...
+
+Balance of payments (in percent of GDP)
+Current account
+Trade balance
+
+7.0
+6.5
+
+6.9
+6.0
+
+7.0
+6.2
+
+7.1
+8.2
+
+7.6
+8.4
+
+-30.0
+44.0
+3.0
+
+-30.1
+45.9
+2.7
+
+-1.5
+53.1
+2.9
+
+-8.3
+51.3
+2.9
+
+-11.6
+51.4
+2.8
+
+Real economy (in percent change)
+Real GDP
+Domestic Demand
+CPI inflation
+Unemployment rate (in percent)
+Gross national saving (percent of GDP)
+Gross domestic investment (percent of GDP)
+Output Gap (as a percent of potential)
+Public finance (in percent of GDP)
+Total Revenues
+Total Expenditures
+Net lending
+Structural balance (as a percent of potential GDP)
+General government gross debt, official statistics
+Money and credit (12-month, percent change)
+M1
+M3
+Credit to non-bank public
+Interest rates (year average)
+
+Foreign Direct Investment, net
+International reserves (in billions of US dollars)
+Reserve cover (months of imports of goods and services)
+Exchange rate (period average, unless otherwise stated)
+Exchange rate regime
+Skr per U.S. dollar (January 10, 2012)
+Nominal effective rate (2000=100)
+Real effective rate (2000=100) 1/
+Fund Position (December 31, 2011)
+Holdings of currency (in percent of quota)
+Holdings of SDRs (in percent of allocation)
+Quota (in millions of SDRs)
+
+Free Floating Exchange Rate
+6.88
+90.7
+77.8
+
+97.8
+77.3
+
+...
+...
+
+...
+...
+
+...
+...
+
+72.11
+97.96
+2,395.5
+
+Sources: IMF Institute, Riksbank, Sweden Ministry of Finance, Thomson Reuters Datastream, and Fund staff calc
+1/ Based on relative unit labor costs in manufacturing.
+
+INTERNATIONAL MONETARY FUND
+
+29
+
+INTERNATIONAL MONETARY FUND
+
+Four Major Banks, consolidated
+Nordea
+Handelsbanken
+S.E.B
+Swedbank
+Total Top Four Banks
+Four major banks in Sweden 1/
+Banks
+Insurance companies
+Mortgage credit institutions
+Securities firms
+Other credit market companies
+Top four banks in Sweden
+Other Banks in Sweden
+Of which:
+Banks
+Savings banks
+Mortgage credit institutions
+Member bank
+Other credit market companies
+Total other banks in Sweden
+Nonbank credit institutions
+Insurance companies
+Life insurance
+Nonlife insurance 2/
+Pension funds
+Mutual funds 3/
+Other nonbank credit institutions
+Asset management firms
+Securities firms
+Total financial system
+of which : Total banking sector 4/
+Memorandum item:
+Foreign bank branches in Sweden
+Swedish bank branches in abroad
+Nominal GDP (in millions of SEK)
+
+1
+1
+1
+1
+4
+
+2,284,713
+1,277,514
+1,241,112
+957,503
+5,760,842
+
+24.9
+13.9
+13.5
+10.4
+62.7
+
+93.5
+52.3
+50.8
+39.2
+235.7
+
+4 2,780,140
+8
+297,262
+3
+945,606
+3
+1,181
+5
+107,520
+23 4,131,709
+
+30.3
+3.2
+10.3
+0.0
+1.2
+45.0
+
+27
+153,122
+77
+95,689
+11
+459,923
+2
+878
+63
+368,080
+180 1,077,692
+165 1,654,032
+38 1,289,888
+127
+364,144
+12
+80,251
+615
+565,102
+
+3,679,361
+1,859,382
+2,344,462
+1,607,984
+9,491,189
+
+24.9
+12.6
+15.9
+10.9
+64.3
+
+117.7
+59.5
+75.0
+51.4
+303.6
+
+113.8
+12.2
+38.7
+0.0
+4.4
+169.1
+
+4 6,079,039
+9
+529,765
+3 1,497,436
+3
+20,339
+9
+195,326
+28 8,321,905
+
+41.2
+3.6
+10.1
+0.1
+1.3
+56.4
+
+1.7
+1.0
+5.0
+0.0
+4.0
+11.7
+
+6.3
+3.9
+18.8
+0.0
+15.1
+44.1
+
+24
+404,711
+65
+146,450
+4
+315,522
+2
+1,246
+45
+587,840
+140 1,455,769
+
+18.0
+14.0
+4.0
+0.9
+6.2
+
+67.7
+52.8
+14.9
+3.3
+23.1
+
+247 2,226,389
+45 1,678,359
+202
+548,030
+15
+126,767
+793 1,416,210
+
+3,398
+45,500
+
+0.0
+0.5
+
+0.1
+1.9
+
+1,143 9,186,817
+6,838,534
+
+100.0
+74.4
+…
+…
+
+67
+100
+
+…
+…
+
+…
+…
+
+Sources: Financial Supervisory Authority, Riksbank, and Fund staff calculations.
+1/ Including branches in abroad.
+2/ Not including minor local companies
+3/ Market value of funds
+4/ Number of institutions is computed on unconsolidated basis.
+
+1
+1
+1
+1
+4
+
+5,212,530
+2,122,843
+2,308,227
+1,794,687
+11,438,287
+
+30.3
+12.3
+13.4
+10.4
+66.5
+
+167.8
+68.4
+74.3
+57.8
+368.3
+
+194.5
+16.9
+47.9
+0.7
+6.2
+266.2
+
+4 7,040,183
+8
+509,691
+3 1,899,919
+3
+30,242
+8
+235,297
+26 9,715,332
+
+40.9
+3.0
+11.0
+0.2
+1.4
+56.5
+
+2.7
+1.0
+2.1
+0.0
+4.0
+9.9
+
+12.9
+4.7
+10.1
+0.0
+18.8
+59.6
+
+30
+481,797
+53
+164,177
+4
+436,302
+2
+1,521
+43
+790,385
+132 1,874,182
+
+15.1
+11.4
+3.7
+0.9
+9.6
+
+71.2
+53.7
+17.5
+4.1
+45.3
+
+253 2,351,945
+43 1,782,371
+210
+569,574
+14
+105,567
+849 1,393,337
+
+8,160
+40,149
+
+0.1
+0.3
+
+0.3
+1.3
+
+375.9
+279.9
+
+1,407 14,764,633
+10,946,958
+
+100.0
+74.1
+
+…
+…
+2,443,630
+
+25
+753,482
+52 1,324,288
+
+5.1
+9.0
+
+82
+126
+
+1
+1
+1
+1
+4
+
+5,207,511
+2,153,530
+2,179,821
+1,715,681
+11,256,543
+
+30.0
+12.4
+12.6
+9.9
+64.9
+
+156.4
+64.7
+65.4
+51.5
+338.0
+
+226.7
+16.4
+61.2
+1.0
+7.6
+312.8
+
+4 5,464,340
+8
+544,463
+3 1,971,472
+3
+14,109
+8
+167,768
+26 8,162,152
+
+31.5
+3.1
+11.4
+0.1
+1.0
+47.1
+
+2.8
+1.0
+2.5
+0.0
+4.6
+10.9
+
+15.5
+5.3
+14.0
+0.0
+25.4
+60.3
+
+29
+546,619
+49
+147,512
+3
+338,789
+2
+1,621
+40
+722,164
+123 1,756,705
+
+13.7
+10.4
+3.3
+0.6
+8.1
+
+75.7
+57.4
+18.3
+3.4
+44.9
+
+254 2,536,287
+44 1,965,284
+210
+571,003
+13
+117,511
+896 1,635,074
+
+7,346
+28,895
+
+0.0
+0.2
+
+0.2
+0.9
+
+472.3
+350.2
+
+1,466 17,199,559
+13,312,469
+
+100.0
+77.4
+
+24.1
+42.4
+3,126,018
+
+24
+686,265
+55 1,411,402
+
+4.0
+8.2
+
+82
+132
+
+1
+1
+1
+1
+4
+
+6,382,811
+2,454,366
+2,362,653
+1,857,065
+13,056,895
+
+33.3
+12.8
+12.3
+9.7
+68.1
+
+182.8
+70.3
+67.6
+53.2
+373.9
+
+164.1
+16.3
+59.2
+0.4
+5.0
+245.1
+
+4 6,016,174
+8
+500,273
+3 2,098,457
+3
+14,112
+8
+170,213
+26 8,799,229
+
+31.4
+2.6
+11.0
+0.1
+0.9
+45.9
+
+172.3
+14.3
+60.1
+0.4
+4.9
+251.9
+
+3.2
+0.9
+2.0
+0.0
+4.2
+10.1
+
+16.4
+4.4
+10.2
+0.0
+21.7
+52.7
+
+29
+578,692
+50
+157,045
+3
+361,378
+2
+1,757
+39
+772,237
+123 1,871,109
+
+3.0
+0.8
+1.9
+0.0
+4.0
+9.8
+
+16.6
+4.5
+10.3
+0.1
+22.1
+53.6
+
+14.6
+11.3
+3.3
+0.7
+9.4
+
+76.2
+59.0
+17.1
+3.5
+49.1
+
+217 2,555,220
+40 1,987,109
+177
+568,111
+11
+123,277
+911 1,534,817
+
+13.3
+10.4
+3.0
+0.6
+8.0
+
+73.2
+56.9
+16.3
+3.5
+43.9
+
+7,662
+23,817
+
+0.0
+0.1
+
+0.2
+0.7
+
+…
+22,467
+
+…
+0.1
+
+…
+0.6
+
+553.8
+428.6
+
+1,502 17,333,599
+13,013,248
+
+100.0
+75.1
+
+520.4
+390.7
+
+1,395 19,163,785
+14,928,004
+
+100.0
+77.9
+
+548.7
+427.4
+
+22.1
+45.4
+3,105,790
+
+26
+760,045
+61 1,456,017
+
+4.4
+8.4
+
+23.7
+45.4
+3,330,581
+
+27
+789,061
+61 2,063,291
+
+4.1
+10.8
+
+24.6
+64.4
+3,492,471
+
+80
+132
+
+1
+1
+1
+1
+4
+
+…
+129
+
+SWEDEN
+2012
+ARTICLE
+2012IV
+ARTICLE
+REPORT
+IV REPORT
+SWEDEN
+
+30
+
+Table 2. Sweden: Financial System Structure, 2002–11
+2002
+2007
+2009
+2010
+2011
+Number of
+Total
+Percent of Percent of Number of
+Total
+Percent of Percent of Number of
+Total
+Percent of Percent of Number of
+Total
+Percent of Percent of Number of
+Total
+Percent of Percent of
+institutions assets (in
+total
+GDP
+institutions assets (in
+total
+GDP
+institutions assets (in
+total
+GDP
+institutions assets (in
+total
+GDP
+institutions assets (in
+total
+GDP
+millions of assets
+millions of assets
+millions of assets
+millions of assets
+millions of assets
+SEK)
+SEK)
+SEK)
+SEK)
+SEK)
+
+SWEDEN 2012 ARTICLE IV REPORT
+
+Table 3. Sweden: Financial Soundness Indicators: Banks, 2003–11
+(End of period, in percent)
+
+Capital Adequacy
+Regulatory capital to risk-weighted assets 1/
+of which : Four major banks 2/
+Regulatory Tier I capital to risk-weighted assets 1/
+of which: Four major banks 2/
+Regulatory common equity Tier I capital to risk-weighted assets
+of which: Four major banks 2/
+Capital as percent of assets (leverage ratio)
+of which: Four major banks 2/
+Asset quality and exposure
+Nonperforming loans to total gross loans
+of which : Four major banks 2/
+Nonperforming loans net of loan-loss provisions to capital
+of which: Four major banks 2/
+Loan-loss provisions to nonperforming loans
+of which: Four major banks 2/
+Distribution of MFI credit (percent) 4/
+Sweden
+Financial corporation
+Non financial corporations
+Public sector
+Households
+Outside Sweden
+Other EUs
+Rest of the world
+Large exposures as percent of tier 1 capital 3/
+of which : Four major banks 3/
+
+INTERNATIONAL MONETARY FUND
+
+Earnings and profitability
+Return on assets (net income as percent of average total assets)
+of which : Four major banks 2/
+Return on equity (Net income as percent of average equity capital)
+of which: Four major banks 2/
+Net interest income as percent of gross income
+of which: Four major banks 2/
+Trading income and foreign exchange gains (losses) to gross income
+of which: Four major banks 2/
+Personnel expenses as percent of noninterest expenses
+of which: Four major banks 2/
+Liquidity
+Liquid assets as percent of total assets
+of which : Four major banks 2/
+Liquid assets as percent of short-term liabilities
+of which: Four major banks 2/
+Customer deposits as a percent of total (non-interbank) loans
+of which: Four major banks 2/
+Noninterbank loans to noninterbank deposits
+of which: Four major banks 2/
+
+29
+
+Foreign exchange risk
+Foreign currency loans as percent of total loans
+Foreign currency assets as percent of total assets
+Foreign currency-denominated liabilities as percent of total liabilities
+Exposure to derivatives
+Gross asset position in derivatives as percent of Tier 1 capital
+Gross liability position in derivatives as percent of Tier 1 capital
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+10.5
+10.0
+8.0
+7.4
+…
+…
+5.1
+5.0
+
+10.6
+10.1
+8.3
+7.6
+…
+…
+4.8
+4.8
+
+10.5
+10.1
+7.7
+7.0
+…
+…
+4.8
+4.8
+
+10.5
+10.0
+7.8
+7.1
+…
+…
+4.8
+4.9
+
+10.2
+9.8
+7.5
+7.0
+…
+…
+4.7
+4.7
+
+10.7
+10.2
+8.1
+7.6
+…
+…
+4.6
+4.7
+
+13.0
+12.7
+10.9
+10.5
+…
+…
+5.0
+5.0
+
+12.6
+12.0
+11.0
+10.4
+…
+11.3
+4.8
+4.7
+
+12.2
+11.5
+11.3
+10.7
+…
+11.6
+4.1
+4.0
+
+2.0
+1.9
+11.9
+11.5
+49.4
+50.3
+
+1.2
+1.1
+4.8
+4.0
+66.2
+70.6
+
+0.9
+0.8
+3.1
+2.7
+69.7
+73.6
+
+0.8
+0.8
+4.3
+3.9
+56.1
+58.0
+
+0.6
+0.6
+3.4
+3.1
+58.3
+60.4
+
+1.1
+1.0
+7.4
+6.5
+49.1
+47.1
+
+2.0
+2.0
+10.7
+11.0
+55.4
+53.7
+
+1.9
+1.9
+9.9
+10.6
+44.3
+43.8
+
+1.6
+1.5
+9.5
+9.9
+41.3
+40.7
+
+87.3
+2.9
+38.0
+3.3
+43.1
+12.7
+6.1
+6.6
+26.4
+22.2
+
+86.2
+2.1
+36.0
+3.2
+44.9
+13.8
+6.9
+7.0
+11.1
+12.4
+
+83.8
+1.5
+35.0
+3.0
+44.3
+16.2
+7.3
+8.9
+17.5
+12.0
+
+82.2
+2.0
+33.2
+3.1
+43.8
+17.8
+8.4
+9.4
+18.3
+13.3
+
+81.5
+2.1
+34.1
+3.4
+41.9
+18.5
+8.7
+9.8
+13.4
+6.5
+
+79.1
+1.1
+33.9
+3.1
+41.0
+20.9
+11.0
+9.9
+34.1
+30.9
+
+80.1
+1.1
+31.4
+3.8
+43.8
+19.9
+9.4
+10.5
+12.3
+8.1
+
+81.3
+2.0
+31.0
+2.6
+45.7
+18.7
+9.5
+9.3
+40.1
+36.8
+
+80.9
+1.7
+31.1
+2.9
+45.2
+19.1
+9.5
+9.6
+37.2
+31.4
+
+0.6
+0.6
+12.5
+13.3
+64.4
+64.6
+3.0
+3.5
+54.0
+55.9
+
+0.7
+0.7
+15.9
+16.0
+58.9
+59.2
+5.1
+5.4
+53.7
+55.7
+
+0.8
+0.7
+18.1
+18.7
+52.4
+52.6
+9.6
+10.0
+56.0
+58.4
+
+0.8
+0.8
+19.9
+21.0
+49.2
+49.4
+10.5
+11.2
+57.4
+60.3
+
+0.8
+0.8
+18.5
+19.7
+52.4
+52.7
+8.3
+9.6
+57.1
+60.0
+
+0.5
+0.6
+12.7
+14.3
+55.2
+56.9
+8.6
+9.8
+55.0
+59.2
+
+0.3
+0.2
+13.0
+5.4
+56.8
+57.7
+11.7
+13.6
+53.2
+57.1
+
+0.4
+0.4
+9.8
+10.1
+52.7
+55.3
+11.6
+12.6
+52.6
+57.4
+
+0.5
+0.5
+10.6
+11.1
+54.4
+57.3
+9.4
+10.0
+53.6
+57.8
+
+4.4
+4.4
+29.3
+32.1
+50.6
+49.1
+142.6
+150.2
+
+5.2
+5.3
+30.6
+34.7
+52.6
+50.8
+130.8
+139.6
+
+5.0
+4.6
+31.6
+33.3
+50.2
+49.1
+137.4
+145.1
+
+5.0
+5.1
+32.1
+37.5
+53.8
+53.4
+135.7
+143.1
+
+5.0
+5.4
+34.1
+43.8
+51.4
+51.3
+139.8
+148.4
+
+4.0
+4.3
+23.6
+30.5
+46.1
+45.5
+139.6
+149.7
+
+6.3
+6.7
+43.6
+54.7
+47.1
+45.3
+144.8
+156.1
+
+4.8
+5.2
+44.4
+58.9
+47.8
+46.6
+155.0
+165.9
+
+6.2
+6.7
+66.7
+87.9
+49.8
+48.5
+153.8
+163.5
+
+18.7
+24.4
+32.6
+
+17.7
+27.2
+34.7
+
+20.9
+29.2
+36.0
+
+22.8
+29.3
+34.3
+
+25.4
+31.6
+33.9
+
+27.9
+33.0
+35.4
+
+27.3
+31.2
+29.8
+
+26.7
+31.4
+31.4
+
+27.9
+34.5
+35.1
+
+152.6
+168.2
+
+176.7
+188.5
+
+164.7
+165.2
+
+110.7
+117.3
+
+132.0
+136.1
+
+336.8
+320.7
+
+210.8
+198.9
+
+222.3
+217.9
+
+351.2
+335.2
+
+Sources: Financial Supervisory Authority, Riksbank, and Fund staff calculations.
+1/ From 2007, the calculation of capital base follows rules under Basel II.
+2/ On consolidated basis
+3/ From 2010 onward, exposures to credit institutions are included.
+4/ Non consolidated bases, and parent banks only. Monetary financial institutions include banks and housing credit institutions.
+
+INTERNATIONAL MONETARY FUND
+
+31
+
+2012 ARTICLE IV REPORT
+
+SWEDEN
+
+Table 4. Sweden: Financial Soundness Indicators: Non-Banks, 2003–11
+(End of period, in percent)
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+9.0
+6.5
+
+8.4
+5.1
+
+11.2
+7.7
+
+13.8
+8.5
+
+14.9
+9.5
+
+8.4
+6.8
+
+7.8
+7.7
+
+14.2
+10.6
+
+8.0
+10.6
+
+20.3
+21.1
+
+21.0
+23.9
+
+22.6
+35.2
+
+18.9
+16.8
+
+14.2
+-0.1
+
+-86.3
+-21.4
+
+45.3
+29.7
+
+20.3
+35.4
+
+-30.1
+3.5
+
+61.9
+123.3
+3.9
+
+64.6
+130.9
+3.6
+
+68.1
+139.6
+3.3
+
+71.2
+146.9
+3.9
+
+73.2
+152.2
+4.6
+
+79.1
+157.4
+5.3
+
+85.5
+159.6
+3.0
+
+83.8
+167.3
+3.5
+
+86.4
+170.7
+4.5
+
+53.9
+
+51.6
+
+54.0
+
+54.2
+
+60.8
+
+65.7
+
+65.1
+
+61.1
+
+62.2
+
+74.5
+
+70.5
+
+72.5
+
+69.4
+
+79.4
+
+92.6
+
+91.7
+
+85.6
+
+85.0
+
+29.8
+…
+
+17.6
+…
+
+32.6
+230.5
+
+23.6
+262.1
+
+-6.0
+257.1
+
+-42.0
+136.2
+
+46.7
+189.8
+
+23.1
+212.9
+
+-16.7
+166.9
+
+6.1
+0.7
+7.9
+
+10.0
+8.8
+9.4
+
+10.5
+9.1
+13.7
+
+10.5
+11.6
+7.6
+
+11.3
+15.6
+13.3
+
+-2.0
+-3.2
+-2.8
+
+7.1
+5.9
+12.2
+
+5.2
+7.0
+3.4
+
+3.4
+3.3
+5.5
+
+Insurance sector
+Solvency ratio (margin/required margin)
+Life insurance companies
+Non-life insurance companies
+Return on equity
+Life insurance companies
+Non-life insurance companies
+Households
+Household debt as percent of GDP
+Household debt as percent of disposable income
+Household interest expense as percent of disposable income
+Corporate sector
+Debt stock as percent of GDP (non-financial sector borrowing from
+financial sector)
+Total debt stock as percent of GDP
+Equity risk
+OM Stockholm Stock Exchange Index (annual percent change)
+Market capitalization in percent of GDP
+Real estate markets (prices; year on year percent change)
+One- or two dwelling buildings
+Greater Stockholm region
+Buildings for seasonal and secondary use
+Sources: Financial Supervisory Authority, Riksbank and Fund staff calculations.
+
+32
+
+INTERNATIONAL MONETARY FUND
+
+SWEDEN 2012 ARTICLE IV REPORT
+
+Table 5. Sweden: General Government Statement of Operations, 2007-17
+IMF Staff Projections
+2011
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+2011 Spring
+Budget
+Bill
+Prelim.
+
+2012
+2012
+2012 Spring
+Budget
+Bill
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+IMF
+
+(in billions of SEK)
+Revenue
+Tax revenue
+Taxes on income, profits, and capital gains
+Payable by individuals
+Payable by corporations
+General taxes on goods and services
+Social Contributions
+Other revenue
+Interest income
+Other revenue
+
+1,643
+1,180
+663
+545
+118
+517
+292
+171
+72
+98
+
+1,662
+1,210
+635
+542
+93
+575
+271
+181
+79
+102
+
+1,612
+1,188
+609
+517
+91
+580
+251
+172
+66
+107
+
+1,684
+1,236
+641
+528
+113
+595
+274
+174
+64
+111
+
+1,704
+1,252
+638
+526
+112
+614
+279
+173
+…
+…
+
+1,731
+1,269
+654
+533
+121
+616
+284
+178
+67
+111
+
+1,735
+1,299
+654
+534
+120
+645
+247
+190
+74
+116
+
+1,763
+1,285
+671
+548
+124
+614
+295
+183
+69
+114
+
+1,773
+1,332
+669
+553
+116
+663
+252
+190
+74
+115
+
+1,780
+1,330
+676
+552
+123
+654
+255
+195
+76
+119
+
+1,868
+1,393
+717
+588
+129
+675
+272
+204
+79
+124
+
+1,969
+1,465
+762
+626
+136
+703
+289
+214
+84
+131
+
+2,061
+1,532
+799
+657
+142
+732
+303
+225
+88
+138
+
+2,159
+1,604
+841
+692
+149
+763
+319
+235
+92
+144
+
+2,256
+1,676
+881
+725
+155
+795
+335
+246
+96
+150
+
+Expenditure
+Compensation of employees
+Intermediate consumption
+Interest payments
+Subsidies
+Grants
+Social benefits
+Net acquisition of nonfinancial assets
+
+1,531
+461
+337
+55
+44
+42
+502
+90
+
+1,592
+466
+369
+53
+46
+49
+513
+96
+
+1,642
+466
+394
+38
+47
+49
+546
+103
+
+1,686
+481
+410
+37
+50
+52
+547
+109
+
+1,718
+493
+421
+38
+69
+59
+531
+103
+
+1,718
+495
+422
+44
+49
+51
+541
+116
+
+1,731
+486
+442
+42
+52
+53
+544
+113
+
+1,764
+485
+451
+36
+69
+55
+553
+115
+
+1,783
+493
+459
+42
+51
+56
+567
+115
+
+1,786
+493
+459
+42
+51
+56
+569
+115
+
+1,845
+506
+474
+43
+51
+58
+594
+119
+
+1,910
+520
+491
+42
+52
+61
+615
+129
+
+1,971
+542
+505
+35
+53
+65
+629
+142
+
+2,045
+566
+516
+37
+54
+67
+656
+150
+
+2,125
+591
+539
+31
+56
+69
+685
+153
+
+Gross operating balance
+
+202
+
+165
+
+72
+
+107
+
+89
+
+129
+
+117
+
+114
+
+105
+
+109
+
+143
+
+188
+
+231
+
+264
+
+284
+
+Net lending / borrowing
+
+112
+
+69
+
+-30
+
+-2
+
+-14
+
+13
+
+4
+
+-1
+
+-10
+
+-6
+
+23
+
+59
+
+89
+
+114
+
+132
+
+Net financial worth, transactions
+Net acquisition of financial assets
+Net incurrence of liabilities
+
+128
+1
+-127
+
+74
+-67
+-142
+
+-34
+4
+38
+
+-13
+-6
+7
+
+…
+…
+…
+
+…
+…
+…
+
+4
+-6
+10
+
+…
+…
+…
+
+…
+…
+…
+
+-6
+-12
+7
+
+23
+18
+5
+
+59
+54
+5
+
+89
+84
+5
+
+114
+109
+5
+
+132
+127
+5
+
+Revenue
+Tax revenue
+Taxes on income, profits, and capital gains
+Payable by individuals
+Payable by corporations
+General taxes on goods and services
+Social Contributions
+Other revenue
+Interest income
+Other revenue
+
+52.5
+37.7
+21.2
+17.4
+3.8
+16.5
+9.3
+5.5
+2.3
+3.1
+
+51.9
+37.8
+19.8
+16.9
+2.9
+17.9
+8.4
+5.7
+2.5
+3.2
+
+51.9
+38.3
+19.6
+16.7
+2.9
+18.7
+8.1
+5.5
+2.1
+3.4
+
+50.6
+37.1
+19.3
+15.9
+3.4
+17.9
+8.2
+5.2
+1.9
+3.3
+
+49.4
+36.3
+18.5
+15.3
+3.3
+17.8
+8.1
+5.0
+…
+…
+
+50.1
+36.7
+18.9
+15.4
+3.5
+17.8
+8.2
+5.2
+2.0
+3.2
+
+49.7
+37.2
+18.7
+15.3
+3.4
+18.5
+7.1
+5.4
+2.1
+3.3
+
+50.1
+36.5
+19.1
+15.6
+3.5
+17.5
+8.4
+5.2
+2.0
+3.2
+
+50.1
+37.6
+18.9
+15.6
+3.3
+18.7
+7.1
+5.4
+2.1
+3.3
+
+49.5
+37.0
+18.8
+15.4
+3.4
+18.2
+7.1
+5.4
+2.1
+3.3
+
+49.8
+37.1
+19.1
+15.7
+3.4
+18.0
+7.2
+5.4
+2.1
+3.3
+
+49.9
+37.1
+19.3
+15.9
+3.4
+17.8
+7.3
+5.4
+2.1
+3.3
+
+49.7
+36.9
+19.3
+15.8
+3.4
+17.7
+7.3
+5.4
+2.1
+3.3
+
+49.8
+37.0
+19.4
+16.0
+3.4
+17.6
+7.4
+5.4
+2.1
+3.3
+
+49.9
+37.0
+19.5
+16.0
+3.4
+17.6
+7.4
+5.4
+2.1
+3.3
+
+Expenditure
+Compensation of employees
+Intermediate consumption
+Interest payments
+Subsidies
+Grants
+Social benefits
+Net acquisition of nonfinancial assets
+
+49.0
+14.7
+10.8
+1.8
+1.4
+1.4
+16.0
+2.9
+
+49.7
+14.6
+11.5
+1.6
+1.4
+1.5
+16.0
+3.0
+
+52.9
+15.0
+12.7
+1.2
+1.5
+1.6
+17.6
+3.3
+
+50.6
+14.4
+12.3
+1.1
+1.5
+1.6
+16.4
+3.3
+
+49.8
+14.3
+12.2
+1.1
+2.0
+1.7
+15.4
+3.0
+
+49.7
+14.3
+12.2
+1.3
+1.4
+1.5
+15.6
+3.4
+
+49.6
+13.9
+12.6
+1.2
+1.5
+1.5
+15.6
+3.2
+
+50.1
+13.8
+12.8
+1.0
+2.0
+1.6
+15.7
+3.3
+
+50.4
+13.9
+13.0
+1.2
+1.5
+1.6
+16.0
+3.2
+
+49.7
+13.7
+12.8
+1.2
+1.4
+1.6
+15.8
+3.2
+
+49.2
+13.5
+12.6
+1.1
+1.3
+1.5
+15.9
+3.2
+
+48.4
+13.2
+12.4
+1.1
+1.3
+1.5
+15.6
+3.3
+
+47.5
+13.1
+12.2
+0.9
+1.3
+1.6
+15.2
+3.4
+
+47.2
+13.1
+11.9
+0.8
+1.2
+1.5
+15.1
+3.5
+
+47.0
+13.1
+11.9
+0.7
+1.2
+1.5
+15.1
+3.4
+
+(in percent of GDP)
+
+Gross operating balance
+
+6.5
+
+5.2
+
+2.3
+
+3.2
+
+2.6
+
+3.7
+
+3.3
+
+3.3
+
+3.0
+
+3.0
+
+3.8
+
+4.8
+
+5.6
+
+6.1
+
+6.3
+
+Net lending / borrowing
+
+3.6
+
+2.2
+
+-1.0
+
+-0.1
+
+-0.4
+
+0.4
+
+0.1
+
+0.0
+
+-0.3
+
+-0.2
+
+0.6
+
+1.5
+
+2.1
+
+2.6
+
+2.9
+
+Net financial worth, transactions
+Net acquisition of financial assets
+Net incurrence of liabilities
+
+4.1
+0.0
+-4.1
+
+2.3
+-2.1
+-4.4
+
+-1.1
+0.1
+1.2
+
+-0.4
+-0.2
+0.2
+
+…
+…
+…
+
+…
+…
+…
+
+0.1
+-0.2
+0.3
+
+…
+…
+…
+
+…
+…
+…
+
+-0.2
+-0.3
+0.2
+
+0.6
+0.5
+0.1
+
+1.5
+1.4
+0.1
+
+2.1
+2.0
+0.1
+
+2.6
+2.5
+0.1
+
+2.9
+2.8
+0.1
+
+Structural Balance (percent of potential GDP) 1/
+Fiscal Impulse (expansionary +)
+
+2.2
+-0.2
+
+1.1
+1.1
+
+-0.8
+1.9
+
+1.0
+-1.8
+
+…
+…
+
+…
+…
+
+0.2
+0.9
+
+…
+…
+
+…
+…
+
+-0.3
+0.5
+
+0.5
+-0.8
+
+1.5
+-0.9
+
+2.1
+-0.7
+
+2.6
+-0.5
+
+2.9
+-0.3
+
+1.2
+1.3
+1.3
+
+1.4
+1.3
+1.2
+
+1.2
+1.0
+1.7
+
+0.8
+0.8
+0.6
+
+0.7
+1.9
+1.0
+
+0.8
+1.3
+1.4
+
+0.7
+0.5
+-0.3
+
+0.6
+0.7
+2.0
+
+0.6
+1.2
+1.2
+
+0.8
+0.5
+0.1
+
+1.0
+1.0
+0.8
+
+1.1
+1.4
+1.6
+
+1.1
+…
+2.2
+
+1.2
+…
+2.6
+
+1.1
+…
+2.9
+
+40.2
+3.4
+4.2
+0.6
+3,126
+
+38.8
+-0.8
+1.7
+1.7
+3,204
+
+42.6
+-5.0
+-4.9
+0.7
+3,106
+
+39.4
+5.9
+-1.2
+-2.2
+3,331
+
+37.1
+3.7
+-2.5
+…
+3,449
+
+36.8
+4.6
+-1.9
+…
+3,459
+
+38.4
+4.0
+0.8
+-0.3
+3,492
+
+36.2
+1.3
+-3.6
+…
+3,517
+
+37.7
+0.4
+-2.7
+…
+3,540
+
+37.5
+1.0
+-0.4
+0.6
+3,592
+
+35.3
+2.3
+-0.3
+0.3
+3,750
+
+32.0
+3.2
+-0.2
+0.1
+3,948
+
+28.4
+3.0
+-0.1
+0.1
+4,148
+
+24.5
+2.4
+0.0
+0.0
+4,332
+
+20.6
+2.4
+0.0
+0.0
+4,525
+
+Memorandum items:
+Compliance with fiscal rule
+Overall balance ten-year average
+Overall balance 7-year rolling average (±3 years)
+Structural balance (percent of potential GDP) 2/
+Gross Public Debt
+Real GDP growth (percent)
+Output gap (percent of potential)
+Employment gap (percent of potential)
+Nominal GDP (in billions of SEK)
+
+Sources: 2008, 2009, 2010, and 2011 Fiscal Policy Bills and Fund staff calculations.
+1/ Structural balance takes into account output and employment gaps.
+2/ Overall balance adjusted for the output gap, based on authorities' measure.
+
+INTERNATIONAL MONETARY FUND
+
+33
+
+2012 ARTICLE IV REPORT
+
+SWEDEN
+
+Table 6. Sweden: Public Sector Balance Sheet
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+(In billions of SEK)
+Assets
+Financial assets
+Stocks
+Other
+Capital stock net of depreciation
+
+2,750
+1,328
+692
+637
+1,421
+
+2,926
+1,439
+740
+698
+1,487
+
+3,190
+1,638
+880
+758
+1,552
+
+3,525
+1,873
+1,009
+865
+1,652
+
+3,704
+1,950
+1,036
+913
+1,754
+
+3,724
+1,835
+874
+960
+1,889
+
+3,966
+2,054
+1,022
+1,032
+1,913
+
+4,141
+2,142
+1,076
+1,066
+1,999
+
+4,299
+2,184
+1,043
+1,141
+2,114
+
+Liabilities
+Financial liabilities
+Gross debt
+Other
+Pension liabilities
+
+1,819
+1,445
+1,316
+129
+373
+
+1,887
+1,502
+1,339
+162
+385
+
+1,967
+1,576
+1,396
+180
+391
+
+1,898
+1,461
+1,333
+128
+436
+
+1,881
+1,403
+1,257
+146
+478
+
+1,923
+1,433
+1,243
+190
+489
+
+1,966
+1,445
+1,322
+122
+521
+
+1,958
+1,446
+1,313
+132
+512
+
+2,095
+1,542
+1,341
+201
+553
+
+931
+-117
+
+1,039
+-63
+
+1,223
+62
+
+1,628
+412
+
+1,823
+547
+
+1,801
+402
+
+2,000
+609
+
+2,184
+697
+
+2,204
+643
+
+Net worth
+Financial net worth
+
+(In percent of GDP)
+Assets
+Financial assets
+Stocks
+Other
+Capital stock net of depreciation
+
+108.1
+52.2
+27.2
+25.0
+55.9
+
+110.0
+54.1
+27.8
+26.2
+55.9
+
+115.2
+59.1
+31.8
+27.4
+56.1
+
+119.7
+63.6
+34.3
+29.4
+56.1
+
+118.5
+62.4
+33.2
+29.2
+56.1
+
+116.2
+57.3
+27.3
+30.0
+58.9
+
+127.7
+66.1
+32.9
+33.2
+61.6
+
+124.3
+64.3
+32.3
+32.0
+60.0
+
+123.1
+62.5
+29.9
+32.7
+60.5
+
+Liabilities
+Financial liabilities
+Gross debt
+Other
+Pension liabilities
+
+71.5
+56.8
+51.7
+5.1
+14.7
+
+70.9
+56.4
+50.3
+6.1
+14.5
+
+71.0
+56.9
+50.4
+6.5
+14.1
+
+64.4
+49.6
+45.3
+4.4
+14.8
+
+60.2
+44.9
+40.2
+4.7
+15.3
+
+60.0
+44.7
+38.8
+5.9
+15.3
+
+63.3
+46.5
+42.6
+3.9
+16.8
+
+58.8
+43.4
+39.4
+4.0
+15.4
+
+60.0
+44.1
+38.4
+5.7
+15.8
+
+Net worth
+Financial net worth
+
+36.6
+-4.6
+
+39.1
+-2.4
+
+44.2
+2.2
+
+55.3
+14.0
+
+58.3
+17.5
+
+56.2
+12.5
+
+64.4
+19.6
+
+65.6
+20.9
+
+63.1
+18.4
+
+Memorandum items:
+GDP (SEK billions)
+
+2,545
+
+2,661
+
+2,769
+
+2,944
+
+3,126
+
+3,204
+
+3,106
+
+3,331
+
+3,492
+
+Sources: Swedish authorities and Fund staff calculations.
+
+34
+
+INTERNATIONAL MONETARY FUND
+
+SWEDEN 2012 ARTICLE IV REPORT
+
+Table 7. Sweden: Balance of Payments Accounts, 2008-17
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+Projections
+2014
+2015
+
+2016
+
+2017
+
+(in SEK billions)
+Current Account Balance
+Trade Balance
+Exports of G&S
+Imports of G&S
+Factor income, net
+Current Transfers, net
+Financial Account Balance
+Investment Abroad
+o/w Reserves
+
+1
+
+Investment in Sweden 2
+
+281
+211
+1,670
+1,459
+112
+-42
+
+219
+203
+1,467
+1,264
+55
+-39
+
+229
+200
+1,624
+1,423
+69
+-46
+
+245
+215
+1,715
+1,500
+81
+-45
+
+255
+294
+1,727
+1,433
+2
+-41
+
+284
+316
+1,786
+1,470
+10
+-43
+
+301
+326
+1,880
+1,554
+20
+-45
+
+316
+329
+1,974
+1,644
+34
+-47
+
+316
+317
+2,031
+1,715
+49
+-49
+
+317
+305
+2,178
+1,873
+64
+-52
+
+155
+
+-82
+
+-260
+
+-224
+
+-293
+
+-298
+
+-321
+
+-351
+
+-361
+
+-365
+
+246
+4
+
+563
+-116
+
+280
+2
+
+-266
+-5
+
+-375
+0
+
+-411
+0
+
+-496
+0
+
+-699
+0
+
+-768
+0
+
+-789
+0
+
+-91
+
+-645
+
+-540
+
+42
+
+83
+
+113
+
+175
+
+348
+
+406
+
+425
+
+(in percent of GDP)
+Current Account Balance
+
+8.8
+
+7.0
+
+6.9
+
+7.0
+
+7.1
+
+7.6
+
+7.6
+
+7.6
+
+7.3
+
+7.0
+
+Trade Balance
+Exports of G&S
+Imports of G&S
+Factor income, net
+Current Transfers, net
+
+6.6
+52.1
+45.5
+3.5
+-1.3
+
+6.5
+47.2
+40.7
+1.8
+-1.3
+
+6.0
+48.7
+42.7
+2.1
+-1.4
+
+6.2
+49.1
+43.0
+2.3
+-1.3
+
+8.2
+48.1
+39.9
+0.1
+-1.1
+
+8.4
+47.6
+39.2
+0.3
+-1.1
+
+8.3
+47.6
+39.4
+0.5
+-1.1
+
+7.9
+47.6
+39.6
+0.8
+-1.1
+
+7.3
+46.9
+39.6
+1.1
+-1.1
+
+6.7
+48.1
+41.4
+1.4
+-1.1
+
+Financial Account Balance
+
+4.8
+
+-2.6
+
+-7.8
+
+-6.4
+
+-8.2
+
+-7.9
+
+-8.1
+
+-8.5
+
+-8.3
+
+-8.1
+
+7.7
+-6.4
+-3.2
+16.9
+0.4
+0.1
+
+18.1
+-6.4
+-4.5
+29.5
+3.2
+-3.7
+
+8.4
+-3.9
+-4.0
+23.0
+-6.8
+0.1
+
+-7.6
+-5.6
+-5.1
+7.8
+-4.6
+-0.1
+
+-10.5
+-6.6
+-5.7
+7.5
+-5.7
+0.0
+
+-10.9
+-7.1
+-5.6
+8.2
+-6.4
+0.0
+
+-12.6
+-7.1
+-6.0
+8.5
+-7.9
+0.0
+
+-16.8
+-7.1
+-6.0
+4.8
+-8.6
+0.0
+
+-17.7
+-7.1
+-4.6
+3.3
+-9.3
+0.0
+
+-17.4
+-7.6
+-3.1
+2.6
+-9.3
+0.0
+
+-2.8
+7.6
+-3.1
+-16.4
+9.0
+
+-20.8
+2.5
+20.2
+-30.2
+-13.2
+
+-16.2
+-0.3
+8.3
+-22.1
+-2.1
+
+1.2
+5.3
+7.6
+-14.2
+2.5
+
+2.3
+5.3
+7.6
+-13.1
+2.5
+
+3.0
+5.3
+7.6
+-12.4
+2.5
+
+4.4
+5.3
+7.6
+-11.0
+2.5
+
+8.4
+5.3
+7.6
+-7.0
+2.5
+
+9.4
+5.3
+7.6
+-6.0
+2.5
+
+9.4
+5.3
+7.6
+-6.0
+2.5
+
+-13.4
+
+-4.3
+
+1.2
+
+-0.8
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+Exports of G&S
+Value
+Volume
+Deflator
+
+5.3
+0.0
+5.4
+
+-12.2
+-11.4
+-0.8
+
+10.7
+9.8
+0.8
+
+5.7
+7.2
+-1.4
+
+0.7
+-4.0
+4.9
+
+3.4
+2.0
+1.4
+
+5.3
+5.0
+0.3
+
+5.0
+4.5
+0.4
+
+2.9
+4.0
+-1.0
+
+7.2
+3.9
+3.2
+
+Imports of G&S
+Value
+Volume
+Deflator
+
+7.3
+2.4
+4.7
+
+-13.4
+-13.4
+0.1
+
+12.7
+12.5
+0.1
+
+5.4
+5.8
+-0.4
+
+-4.5
+-5.3
+0.9
+
+2.5
+5.3
+-2.6
+
+5.7
+7.4
+-1.6
+
+5.8
+7.9
+-2.0
+
+4.3
+6.4
+-2.0
+
+9.2
+6.4
+2.7
+
+1
+
+Investment Abroad
+Direct Investment
+Portfolio Investment
+Financial Derivatives
+Other Investment
+Reserves
+Investment in Sweden 2
+Direct Investment
+Portfolio Investment
+Financial Derivatives
+Other Investment
+Errors and Omissions
+
+Sources: Statistics Sweden and Fund staff calculations.
+1
+
+Positive number indicates a decumulation of foreign assets.
+
+2
+
+Positive number indicates an accumulation of foreign assets.
+
+INTERNATIONAL MONETARY FUND
+
+35
+
+2012 ARTICLE IV REPORT
+
+SWEDEN
+
+Figure 1. Sweden: Long View, 1997–2012
+Real GDP and Real Disposable Income
+(Billions of Kronor)
+4000
+
+4000
+
+3500
+
+3500
+
+3000
+
+3000
+
+2500
+
+2500
+
+2000
+
+2000
+
+1500
+
+1500
+
+1000
+
+1000
+
+Real GDP
+
+500
+
+500
+
+Real HH Disposable Income
+
+12
+
+10
+
+10
+
+8
+
+8
+
+6
+
+6
+
+4
+
+4
+
+2
+
+2
+
+0
+
+0
+
+0
+
+Unemployment Rate 1/
+(Percent)
+12
+
+0
+1997
+
+1997 1999 2001 2003 2005 2007 2009 2011
+
+Inflation 1/
+(Percent change)
+4.0
+
+4.0
+
+3.5
+
+3.5
+
+3.0
+
+3.0
+Riksbank
+tolerance
+interval
+
+2.5
+
+2.5
+
+4
+
+1.0
+
+1.0
+
+3
+
+0.5
+
+0.5
+Headline
+Core
+
+-1.0
+1997
+
+2000
+
+2003
+
+2006
+
+2009
+
+1
+
+-0.5
+
+0
+
+2012
+
+1997
+
+2000
+
+2003
+
+2006
+
+2009
+
+9
+
+8
+
+8
+
+-5
+
+-5
+
+7
+
+7
+
+-10
+
+-10
+
+6
+
+6
+
+-15
+
+-15
+
+5
+
+5
+
+-20
+
+-20
+
+4
+
+4
+
+-25
+
+-25
+
+3
+
+3
+
+-30
+
+-30
+
+2
+
+2
+
+-35
+
+-35
+
+1
+
+1
+
+-40
+
+-40
+
+0
+
+0
+
+-45
+
+2001
+
+2003
+
+2005
+
+2007
+
+2009
+
+2011
+
+Net International Investment Position
+(Percent of GDP)
+0
+
+2012
+
+Current Account Balance
+(Percent of GDP)
+9
+
+1999
+
+INTERNATIONAL MONETARY FUND
+
+0
+
+-45
+1997
+
+Sources: Haver Analytics, Statistics Sweden, and Fund staff calculations.
+1/ As of February 2012.
+2/ As of March 2012.
+
+36
+
+2012
+
+2
+
+0.0
+-1.0
+
+2009
+
+5
+
+1.5
+
+0.0
+
+2006
+
+6
+
+2.0
+
+-0.5
+
+2003
+
+10-Year Government Bond Yield 2/
+(Percent, end of period)
+7
+
+1.5
+
+2.0
+
+2000
+
+1999
+
+2001
+
+2003
+
+2005
+
+2007
+
+2009
+
+SWEDEN 2012 ARTICLE IV REPORT
+
+Figure 2. Sweden: The Short View, 2007–12
+Real GDP and Unemployment Rate
+115
+Real GDP (Index: 100=2007Q1, left scale)
+113
+Unemployment rate (percent, right scale)
+111
+
+10
+9
+
+109
+107
+
+8
+
+105
+103
+
+7
+
+General Government Gross Debt
+(Percent of GDP)
+120
+
+120
+
+100
+
+100
+
+80
+
+80
+
+60
+
+60
+
+40
+
+101
+99
+
+6
+
+97
+95
+
+20
+0
+
+5
+2007
+
+2008
+
+2009
+
+2010
+
+2007
+
+2011
+
+Real Effective Exchange Rate
+(Index: 2005 = 100)
+105
+
+110
+105
+
+100
+
+100
+
+95
+
+95
+90
+
+90
+
+85
+
+85
+
+80
+
+80
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+40
+United States
+France
+Sweden
+
+2012
+
+2008
+
+United Kingdom
+Germany
+
+20
+0
+
+2009
+
+2010
+
+2011
+
+Inflation and Inflation Expectations
+(Y/Y percent change, s.a.)
+5
+
+5
+
+4
+
+4
+
+3
+
+3
+
+2
+
+2
+
+1
+
+1
+
+0
+
+0
+
+-1
+
+-1
+
+Inflation
+
+-2
+
+-2
+
+Inflation expectation, 1-year ahead
+
+-3
+
+-3
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+Sources: IMF Information Notice System, IMF World Economic Outlook, Prospera Research AB, Statistics Sweden, and Fund
+staff calculations.
+
+INTERNATIONAL MONETARY FUND
+
+37
+
+2012 ARTICLE IV REPORT
+
+SWEDEN
+
+Figure 3. Sweden: Household Balance Sheets and Consumption, 2004–11
+Private Consumption is falling behind Sweden's
+Northern neighbors...
+
+5
+
+Private Consumption
+(Percent change 2011/2010)
+
+4
+
+160
+5
+4
+
+100
+
+80
+
+80
+
+2
+
+1
+
+1
+
+60
+
+0
+
+0
+
+40
+
+-1
+
+20
+
+700
+600
+
+...while household wealth increased marginally...
+
+500
+
+2006
+
+700
+600
+500
+
+2010
+
+400
+
+60
+
+Retail sales volume
+New passenger car registrations
+Housing starts
+
+40
+20
+
+00Q1 01Q1 02Q1 03Q1 04Q1 05Q1 06Q1 07Q1
+
+Sweden Euro Area
+
+Household Financial Assets
+(Percent of disposable income)
+
+140
+
+100
+
+2
+
+Norway
+
+160
+
+120
+
+3
+
+Denmark Finland
+
+Consumer Confidence Indicators
+(Index 2005 = 100)
+
+120
+
+3
+
+-1
+
+400
+
+500
+
+...and financial wealth quickly bounced back after
+2008.
+
+500
+
+Asset Prices
+
+450
+
+450
+
+400
+
+400
+
+350
+
+350
+
+300
+
+300
+250
+
+300
+
+300
+
+250
+200
+
+200
+
+200
+
+200
+
+150
+
+150
+
+100
+
+100
+
+0
+
+0
+IRE
+
+PRT
+
+FIN
+
+NLD
+
+SWE
+
+GBR
+
+DNK
+
+Overall, the decline in net household wealth was
+small compared to peers.
+10
+
+Change in Household Net Wealth
+(Percent of disposable income)
+
+15
+
+350
+300
+
+IRE
+
+SWE
+
+USA
+
+FIN
+
+GBR
+
+ESP
+
+Household debt remains lower relative to
+Scandinavia but above some financially stressed
+countries.
+
+450
+
+Household Financial Liabilities
+(Percent of disposable income)
+1995
+
+400
+350
+
+2010
+
+300
+
+250
+
+250
+
+200
+
+200
+
+150
+
+150
+
+100
+
+100
+
+50
+
+50
+
+-40
+
+0
+
+DNK
+
+Sources: Eurostat; Haver Analytics; and IMF staff calculations.
+1/ Data for Ireland starts in 2001.
+
+INTERNATIONAL MONETARY FUND
+
+50
+
+-35
+
+-30
+
+-40
+
+450
+
+-5
+
+-25
+
+-30
+
+100
+0
+
+0
+
+-20
+Deterioration 2006-2010
+
+0
+
+5
+
+-15
+-20
+
+Stockholm Affarsvarlden (average,
+December 29, 1995=100)
+
+50
+
+400
+
+-10
+
+-10
+
+100
+
+2004 2005 2006 2007 2008 2009 2010 2011
+
+10
+
+0
+
+38
+
+140
+
+...alongside a slump in the housing sector...
+
+0
+PRT
+
+FIN
+
+GBR
+
+NLD IRE 1/ SWE
+
+DNK
+
+SWEDEN 2012 ARTICLE IV REPORT
+
+.
+
+Figure 4. Sweden: Selected Financial Markets Indicators, 2008–12
+Exchange rates have returned to pre-crisis levels...
+10
+
+...as have stock indices.
+15
+
+Exchange Rates
+
+5000
+
+Stock Indices
+
+4500
+
+500
+
+SEK/USD
+
+9
+
+600
+
+SEK/Euro (right scale)
+
+4000
+
+13
+
+3500
+
+400
+
+8
+11
+7
+
+3000
+
+300
+
+2500
+2000
+
+200
+
+1500
+
+9
+
+6
+
+OMX
+Euro Stoxx 50 (right scale)
+
+100
+
+5
+2008
+
+7
+2009
+
+2010
+
+2011
+
+2012
+
+6
+
+6
+10-Year Government Bond Yield
+
+5
+
+5
+
+4
+
+4
+
+3
+
+3
+
+2
+
+2
+Sweden
+Germany
+United States
+
+0
+2008
+
+1
+0
+
+2009
+
+2010
+
+2011
+
+500
+0
+
+2009
+
+2010
+
+2011
+
+2012
+
+...as have sovereign CDS spreads.
+
+Swedish sovereign bond yields remain low...
+
+1
+
+0
+2008
+
+1000
+
+2012
+
+However, risk premia in interbank markets have increased...
+450
+Spread of 3 month interbank rates
+400
+(basis points)
+350
+
+180
+160
+
+180
+
+5-Year CDS Spreads
+
+160
+Sweden
+
+140
+
+140
+
+Germany
+
+120
+
+120
+
+United States
+
+100
+
+100
+
+80
+
+80
+
+60
+
+60
+
+40
+
+40
+
+20
+
+20
+
+0
+2008
+
+0
+2009
+
+2010
+
+2011
+
+2012
+
+...as have risk premia in mortgage bond markets.
+4.0
+3.5
+
+Difference between mortgage bond yields and
+government bond yields (in percent)
+
+4.0
+3.5
+
+3.0
+
+3.0
+
+2.5
+
+2.5
+
+200
+
+2.0
+
+2.0
+
+150
+
+1.5
+
+1.5
+
+100
+
+1.0
+
+50
+
+0.5
+
+Sweden
+UK
+Euro area
+
+300
+250
+
+0
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+0.0
+2008
+
+1.0
+2 year bonds
+5 year bonds
+
+0.5
+0.0
+
+2009
+
+2010
+
+2011
+
+2012
+
+Sources: Haver Analytics, Thomson Reuters Datastream, and Fund staff calculations.
+
+INTERNATIONAL MONETARY FUND
+
+39
+
+2012 ARTICLE IV REPORT
+
+SWEDEN
+
+Figure 5. Sweden: Inflation and Monetary Policy, 2007–11
+Inflation continues to stay around the target...
+8
+6
+
+...while wages bounced back.
+8
+
+Inflation
+(Percent)
+
+6
+
+4
+
+4
+
+2
+
+2
+
+0
+
+0
+
+CPI
+CPIF (CPI adjusted for interest rates)
+
+-2
+
+-2
+
+Target
+
+-4
+2007
+
+2008
+
+-4
+2009
+
+2010
+
+2011
+
+3.0
+
+3.5
+
+2.5
+
+2.5
+
+2.0
+
+2.0
+
+1.5
+
+1.5
+
+1.0
+
+1.0
+
+0.5
+
+0.5
+
+Jul-07
+
+5 year
+Jan-09
+
+Jul-10
+
+0.0
+Jan-12
+
+...the policy stance accommodative...
+
+6
+5
+
+Real policy rates
+(Percent)
+
+4
+3
+2
+
+2
+
+2
+
+-3
+
+-3
+
+-8
+-13
+2007
+
+2008
+
+2009
+
+2010
+
+Policy rate
+Real policy rate
+
+120
+
+9
+
+Forecast on employment growth (left scale)
+Forecast on selling prices growth (left scale)
+Expected inflation within 12 months (right scale)
+
+20
+
+8
+7
+6
+5
+4
+3
+
+-30
+
+2
+1
+
+-80
+
+0
+Jan-07
+
+7
+
+5
+
+6
+
+4
+
+5
+
+3
+2
+
+0
+
+0
+
+-1
+
+-1
+
+-2
+
+-2
+Mar-07 Dec-07 Sep-08 Jun-09 Mar-10 Dec-10 Sep-11
+
+10
+
+Business Survey Results
+(Percent)
+
+70
+
+6
+
+1
+
+Jul-08
+
+Jan-10
+
+4
+
+Repo Rate Forecast
+(Percent)
+
+Jul-11
+
+7
+As of April 2012
+As of February 2012
+As of December 2011
+Actual
+
+6
+5
+4
+
+3
+
+3
+
+2
+
+2
+
+1
+
+1
+
+0
+
+0
+07Q1 08Q1 09Q1 10Q1 11Q1 12Q1 13Q1 14Q1
+
+Sources: Bloomberg, LP, Haver Analytics, Riksbank, Thomson Reuters Datastream; and Fund staff calculations.
+
+INTERNATIONAL MONETARY FUND
+
+-13
+2011
+
+...and now expected to remain so.
+
+1
+
+40
+
+-8
+
+All industries excl Construction
+Manufacturing
+
+3.0
+
+2 year
+
+7
+
+...with business sentiment soft...
+
+Inflation Expectations
+(Percent)
+
+0.0
+Jan-06
+
+12
+
+Wages
+(y/y percent change)
+
+7
+
+2012
+
+Medium-term inflation expectations remain
+around the target...
+
+3.5
+
+12
+
+SWEDEN 2012 ARTICLE IV REPORT
+
+Figure 6. Sweden: Fiscal Developments
+...supported by its strong fiscal position.
+
+Market confidence in Sweden remains solid...
+160
+120
+
+Ten-Year Govenrment Bond Yield Spread
+Over Bund (Basis points)
+
+160
+
+6
+
+120
+
+5
+
+3
+
+3
+
+2
+
+2
+
+1
+
+1
+
+-40
+
+0
+
+0
+
+-80
+Jan-12
+
+-1
+
+40
+
+40
+
+0
+
+0
+
+-80
+Dec-09
+
+May-10
+
+Oct-10
+
+Denmark
+Sweden
+Mar-11
+
+Aug-11
+
+Fiscal balances continue to recover...
+6
+5
+
+Overall and Structural Balance
+(Percent of potential of GDP)
+
+6
+5
+
+4
+
+4
+
+3
+
+3
+
+2
+
+2
+
+1
+
+1
+
+0
+
+0
+
+-1
+-2
+
+Overall balance
+Structural balance
+
+Expenditure ceiling
+
+2
+
+2
+0
+Revenue
+Expenditure
+
+-2
+-4
+
+2004 2005 2006 2007 2008 2009 2010 2011
+
+1150
+
+850
+
+750
+2004 2005 2006 2007 2008 2009 2010 2011
+
+4
+
+-4
+
+Expenditures under the ceiling
+750
+
+8
+
+4
+
+0
+
+...the structural balance dipped below surplus target.
+5
+Alternative Net Lending Indicators
+4
+(Percent of GDP)
+3
+
+5
+4
+3
+
+2
+
+2
+
+1
+
+1
+
+0
+
+0
+
+-1
+850
+
+10
+
+6
+
+-2
+
+950
+
+950
+
+Germany Sweden
+
+6
+
+-2
+
+1050
+
+1050
+
+Finland
+
+...with revenues outpacing expenditures.
+10
+Revenue and Expenditure Growth
+(Percent)
+8
+
+-1
+
+While spending remained well below the ceiling...
+Expenditure
+(Billions of SEK)
+
+-1
+Euro area Denmark
+
+2004 2005 2006 2007 2008 2009 2010 2011
+
+1150
+
+5
+4
+
+80
+
+-40
+
+6
+
+4
+
+80
+
+Finland
+Norway
+UK
+
+General Government Overall Deficit, 2011
+(Percent of GDP)
+
+-2
+-3
+-4
+-5
+
+Net lending 10-year av.
+Cycl. adj. 10-year av.
+Net lending 7-year moving av.
+Cycl. adj. 7-year moving av.
+Structural net lending
+
+-1
+-2
+-3
+-4
+-5
+
+2004 2005 2006 2007 2008 2009 2010 2011
+
+Sources: Bloomberg; IMF's World Economic Outlook database; and IMF staff calculations.
+
+INTERNATIONAL MONETARY FUND
+
+41
+
+2012 ARTICLE IV REPORT
+
+SWEDEN
+
+Figure 7. Performance of the Swedish Banking System, 2007－12
+
+5
+
+Non performing loan ratios and loan loss provisions
+have fallen...
+Non performing loans to total gross loans
+(In percent)
+
+4
+
+Loan losses
+(In billions of SEK)
+
+15
+
+Nonperforming loans to total gross loans
+
+3
+
+… mostly reflecting the improved asset quality in
+the Baltics.
+
+20
+
+Others
+Baltics
+Other Nordics
+
+Loan loss provisions to total loans
+
+10
+
+Sweden
+
+2
+5
+
+1
+
+0
+
+0
+-1
+2007
+
+2008
+
+2009
+
+2010
+
+-5
+2008Q32009Q12009Q32010Q12010Q32011Q12011Q3
+
+2011
+
+Banks' capital ratios have been strengthened, in
+part due to decreases in risk weight assets.
+60
+
+20
+Capital and risk weights
+(In percent)
+
+18
+16
+14
+12
+
+55
+
+RWAs to total assets(right scale)
+
+50
+
+Core Tier 1 capital to RWAs (left scale)
+
+45
+
+Tier 1 leverage ratio (left scale)
+
+10
+
+40
+
+8
+
+But Swedish banks have been adversely affected by
+recent market turmoil, as reflected in volatile equity
+prices...
+160
+140
+120
+100
+80
+
+35
+
+6
+
+60
+
+30
+
+4
+
+40
+
+25
+
+2
+
+20
+
+20
+
+0
+2007
+2008
+2009
+2010
+1/ The average ratios for four major banks.
+
+2011
+
+0
+Jan-08
+
+...worsened default probability...
+Moody's KMB expected default frequency
+(In percent)
+SEB
+
+3.0
+
+350
+
+Handelsbanken
+
+Jan-12
+
+SEB
+Nordea
+Handelsbanken
+Selected EU banks
+
+200
+
+Selected European banks
+
+1.5
+
+Jan-11
+
+CDS spreads on 5 year senior bonds
+(In basis points)
+Swedbank
+
+250
+
+Nordea
+
+2.0
+
+Jan-10
+
+300
+
+Swedbank
+
+2.5
+
+Jan-09
+
+...and CDS spreads.
+400
+
+3.5
+
+Swedbank
+SEB
+Nordea
+Handelsbanken
+
+Banks share prices
+(January 1, 2007 = 100)
+
+150
+
+1.0
+
+100
+
+0.5
+
+50
+
+0.0
+Jan-08
+
+Jan-09
+
+Jan-10
+
+Jan-11
+
+0
+Jan-08
+
+Jan-12
+
+Banks have strengthened liquidity positions.
+100
+90
+
+Riksbank LCRs
+(Survival days)
+
+80
+70
+
+December 2009
+December 2010
+September 2011
+
+50
+
+Jan-10
+
+Jan-11
+
+Jan-12
+
+...but reliance on wholesale funding remains
+substantial.
+6,000
+5,000
+4,000
+
+60
+
+Jan-09
+
+Banks' lending and deposits
+(In billions of SEK)
+Lending minus deposits
+Deposits
+Lending
+
+3,000
+
+40
+30
+
+2,000
+
+20
+1,000
+
+10
+0
+Handelsbanken Nordea
+
+SEB
+
+Swedbank
+
+0
+2002 2003 2004 2005 2006 2007 2008 2009 2010 2011
+
+Sources: Thomson Financial/Data Stream; Bloomberg; Banks' Annual Reports; and WEO.
+
+42
+
+INTERNATIONAL MONETARY FUND
+
+SWEDEN 2012 ARTICLE IV REPORT
+
+Figure 8. Sweden: Non Bank Financial Sector, 2007–12
+The value of life insurance company assets has
+weakened again…
+4,000
+Life Insurance Company Assets
+(Billions of SEK)
+3,500
+
+…as have solvency ratios.
+4,000
+3,500
+
+Others
+
+3,000
+
+Mutual funds
+
+2,500
+
+Bonds
+
+3,000
+
+Shares
+
+2,500
+
+2,000
+
+2,000
+
+1,500
+
+1,500
+
+1,000
+
+1,000
+
+500
+
+25
+
+20
+
+20
+
+15
+
+15
+
+10
+
+10
+
+5
+
+2007Q1
+
+2009Q1
+
+2011Q1
+
+50
+
+50
+Corporate Sector Debt
+(percent of GDP)
+
+Others
+Borrowings (domestic)
+Securities issuance (domestic)
+External borrowings
+
+30
+
+40
+30
+
+30
+
+20
+
+10
+
+10
+
+5
+
+0
+
+0
+
+0
+
+-10
+2009Q1
+
+2010Q1
+
+20
+
+15
+20
+
+2008Q1
+
+30
+Corporate Sector Debt in the Region
+(Y/Y percent change)
+
+25
+
+20
+
+-10
+2007Q1
+
+0
+
+…in Sweden, Finland, and Norway. But corporate borrowing
+demand remains weak in Denmark.
+
+Corporate sector debt has slowly recovered...
+
+40
+
+Non-life insurance companies
+
+0
+2007Q1 2007Q4 2008Q3 2009Q2 2010Q1 2010Q4 2011Q3
+
+0
+2005Q1
+
+5
+
+Life insurance companies
+
+500
+
+0
+2003Q1
+
+25
+
+Solvency Ratios
+(Margin / required margin)
+
+2011k1
+
+10
+
+10
+
+Sweden
+Denmark
+Finland
+Norway
+
+-5
+
+0
+
+-10
+
+-10
+2004 2004 2005 2006 2007 2008 2009 2010 2011
+
+Corporate default risks have again risen.
+
+In the household sector, the debt ratio has continued to rise.
+
+2.0
+
+180
+
+1.8
+1.6
+
+Moody's KMV Expected Default Frequency
+(Percent)
+Sweden
+
+1.4
+1.2
+
+Germany
+Denmark
+
+1.0
+0.8
+0.6
+
+160
+
+18
+16
+
+140
+
+14
+
+120
+
+12
+
+100
+
+10
+
+80
+
+8
+
+60
+
+6
+
+0.4
+
+40
+
+0.2
+
+20
+
+0.0
+2007 2007 2008 2008 2009 2009 2010 2010 2011 2011
+
+Households' Debt Ratio and Interest Ratio
+(Percent of disposable income)
+
+4
+Debt ratio (left scale)
+
+2
+
+Interest ratio (right scale)
+
+0
+
+0
+1990
+
+1994
+
+1998
+
+2002
+
+2006
+
+2010
+
+Sources: Riksbank; Statistics Sweden; and Haver.
+
+INTERNATIONAL MONETARY FUND
+
+43
+
+2012 ARTICLE IV REPORT
+
+SWEDEN
+
+ANNEX I. SWEDEN: MEDIUM-TERM PUBLIC DEBT
+SUSTAINABILITY ANALYSIS
+1.
+Sweden’s fiscal position is expected to remain strong in the baseline scenario. As
+economic activity strengthens over the medium term, in line with an improvement in world
+growth, consumption and employment are expected to recover fully. This would improve tax
+collections, raising the revenue to GDP ratio, although still below the pre-crisis level due to the
+implementation of tax cuts in the interim. Expenditures to GDP would decline gradually over the
+medium-term, in part as a result of previous reforms. As a result, Sweden’s overall balance would
+remain at a strong surplus of about 2½ percent of GDP over the medium term, bringing debt to
+GDP to 22 percent in 2017.
+2.
+However, macroeconomic risks remain, emanating mainly from ongoing uncertainty
+regarding global growth and developments in the euro area. Sweden’s exports depend critically
+on global demand for consumer durables, capital goods and inventories, and therefore are
+highly sensitive to global growth prospects. Continued strains in some euro area countries and
+banking systems, with potential spillovers to the core, could translate into significantly lower
+growth in Europe and the rest of the world, which would translate into weaker activity in Sweden
+and a deterioration of its fiscal position.
+3.
+Standard scenarios show that debt in Sweden would continue on a downward trend even
+under less favorable conditions. Figure 1 illustrates a series of scenarios, including a permanent
+½ standard-deviation shock to growth, interest rate and primary balance independently and a
+¼ standard deviation shock to the three combined, a one-time 30 percent depreciation of the
+REER, and a one-time 10 percent of GDP shock to contingent liabilities. Under all scenarios,
+public debt remains on a downward trend and the increase in the level of debt compared to the
+baseline is moderate. Under the worst case scenario, based on a shock to growth, gross debt
+would reach 35 percent of GDP in 2017, which would still be below the 38.4 percent of GDP
+observed in 2011.
+
+44
+
+INTERNATIONAL MONETARY FUND
+
+Annex I. Table. Sweden: Public Sector Debt Sustainability Framework, 2007-2017
+(In percent of GDP, unless otherwise indicated)
+
+2007
+
+2008
+
+Actual
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+Projections
+2014
+2015
+
+2016
+
+2017
+
+Baseline: Public sector debt 1/
+o/w foreign-currency denominated
+
+40.2
+3.2
+
+38.8
+2.5
+
+42.6
+5.0
+
+39.4
+4.7
+
+38.4
+3.4
+
+37.5
+3.4
+
+35.3
+3.2
+
+32.0
+2.9
+
+28.4
+2.5
+
+24.5
+2.2
+
+20.6
+1.8
+
+Change in public sector debt
+Identified debt-creating flows (4+7+12)
+Primary deficit
+Revenue and grants
+Primary (noninterest) expenditure
+Automatic debt dynamics 2/
+Contribution from interest rate/growth differential 3/
+Of which contribution from real interest rate
+Of which contribution from real GDP growth
+Contribution from exchange rate depreciation 4/
+Other identified debt-creating flows
+Privatization receipts (negative)
+Recognition of implicit or contingent liabilities
+Other (specify, e.g. bank recapitalization)
+Residual, including asset changes (2-3) 5/
+
+-5.0
+-6.4
+-5.3
+52.5
+47.2
+-1.1
+-0.9
+0.6
+-1.5
+-0.2
+0.0
+0.0
+0.0
+0.0
+1.4
+
+-1.4
+-2.3
+-3.8
+51.9
+48.0
+1.5
+0.7
+0.4
+0.3
+0.9
+0.0
+0.0
+0.0
+0.0
+0.9
+
+3.8
+1.9
+-0.2
+51.9
+51.6
+2.1
+2.5
+0.5
+2.0
+-0.3
+0.0
+0.0
+0.0
+0.0
+1.9
+
+-3.1
+-3.0
+-1.1
+50.6
+49.5
+-1.9
+-1.8
+0.6
+-2.3
+-0.2
+0.0
+0.0
+0.0
+0.0
+-0.1
+
+-1.0
+-2.4
+-1.3
+49.7
+48.4
+-1.1
+-0.6
+0.9
+-1.5
+-0.5
+0.0
+0.0
+0.0
+0.0
+1.4
+
+-0.9
+-0.9
+-1.0
+49.5
+48.5
+0.1
+0.1
+0.5
+-0.4
+...
+0.0
+0.0
+0.0
+0.0
+0.0
+
+-2.2
+-2.2
+-1.8
+49.8
+48.0
+-0.4
+-0.4
+0.4
+-0.8
+...
+0.0
+0.0
+0.0
+0.0
+0.0
+
+-3.3
+-3.3
+-2.6
+49.9
+47.3
+-0.7
+-0.7
+0.4
+-1.1
+...
+0.0
+0.0
+0.0
+0.0
+0.0
+
+-3.7
+-3.7
+-3.0
+49.7
+46.7
+-0.7
+-0.7
+0.2
+-0.9
+...
+0.0
+0.0
+0.0
+0.0
+0.0
+
+-3.8
+-3.8
+-3.5
+49.8
+46.4
+-0.4
+-0.4
+0.3
+-0.7
+...
+0.0
+0.0
+0.0
+0.0
+0.0
+
+-4.0
+-4.0
+-3.6
+49.9
+46.3
+-0.4
+-0.4
+0.2
+-0.6
+...
+0.0
+0.0
+0.0
+0.0
+0.0
+
+Public sector debt-to-revenue ratio 1/
+
+76.6
+
+74.8
+
+82.0
+
+78.0
+
+77.3
+
+75.7
+
+70.9
+
+64.3
+
+57.1
+
+49.2
+
+41.2
+
+Gross financing need 6/
+in billions of U.S. dollars
+
+15.3
+70.6
+
+13.9
+67.7
+
+15.5
+62.9
+
+15.5
+71.7
+
+13.6
+73.0
+
+13.0
+69.3
+
+11.7
+65.5
+
+10.0
+59.0
+
+8.3
+51.5
+
+6.7
+43.2
+
+5.1
+34.6
+
+37.5
+37.5
+
+35.0
+36.0
+
+32.5
+34.3
+
+30.0
+32.6
+
+27.5
+31.1
+
+25.0
+29.7
+
+1.0
+3.1
+1.2
+...
+1.9
+1.3
+-1.0
+
+2.3
+3.2
+1.2
+...
+2.0
+1.3
+-1.8
+
+3.2
+3.2
+1.2
+...
+2.0
+1.6
+-2.6
+
+3.0
+2.8
+0.8
+...
+2.0
+1.6
+-3.0
+
+2.4
+3.1
+1.1
+...
+2.0
+1.7
+-3.5
+
+2.4
+2.9
+0.9
+...
+2.0
+2.2
+-3.6
+
+Scenario with key variables at their historical averages 7/
+Scenario with no policy change (constant primary balance) in 2012-2017
+
+Debt-stabilizing
+primary
+balance 9/
+-0.3
+
+-0.1
+-0.4
+
+Key Macroeconomic and Fiscal Assumptions Underlying Baseline
+Real GDP growth (in percent)
+Average nominal interest rate on public debt (in percent) 8/
+Average real interest rate (nominal rate minus change in GDP deflator, in
+Nominal appreciation (increase in US dollar value of local currency, in per
+Inflation rate (GDP deflator, in percent)
+Growth of real primary spending (deflated by GDP deflator, in percent)
+Primary deficit
+
+3.4
+4.1
+1.5
+5.7
+2.6
+-0.4
+-5.3
+
+-0.8
+4.2
+0.9
+-19.3
+3.3
+1.0
+-3.8
+
+-5.0
+3.1
+1.1
+12.6
+2.0
+2.2
+-0.2
+
+5.9
+2.8
+1.5
+4.0
+1.3
+1.5
+-1.1
+
+4.0
+3.2
+2.3
+11.0
+0.9
+1.6
+-1.3
+
+2/ Derived as [(r - p(1+g) - g + ae(1+r)]/(1+g+p+gp)) times previous period debt ratio, with r = interest rate; p = growth rate of GDP deflator; g = real GDP growth rate; a = share of foreign-currency
+denominated debt; and e = nominal exchange rate depreciation (measured by increase in local currency value of U.S. dollar).
+3/ The real interest rate contribution is derived from the denominator in footnote 2/ as r - π (1+g) and the real growth contribution as -g.
+4/
+5/
+6/
+7/
+8/
+9/
+
+The exchange rate contribution is derived from the numerator in footnote 2/ as ae(1+r).
+For projections, this line includes exchange rate changes.
+Defined as public sector deficit, plus amortization of medium and long-term public sector debt, plus short-term debt at end of previous period.
+The key variables include real GDP growth; real interest rate; and primary balance in percent of GDP.
+Derived as nominal interest expenditure divided by previous period debt stock.
+Assumes that key variables (real GDP growth, real interest rate, and other identified debt-creating flows) remain at the level of the last projection year.
+
+45
+
+SWEDEN 2012 ARTICLE IV REPORT
+
+INTERNATIONAL MONETARY FUND
+
+1/ It covers gross debt of the general government
+
+2012 ARTICLE IV REPORT
+
+SWEDEN
+
+Annex I. Figure. Sweden: Public Debt Sustainability: Bound Tests 1/
+(Public debt in percent of GDP)
+Interest rate shock (in percent)
+
+Baseline and historical scenarios
+
+70
+
+30
+
+Gross financing
+need under
+baseline (rhs)
+
+60
+
+65
+25
+
+50
+
+20
+
+40
+
+Historical
+Baseline
+
+15
+
+30
+
+25
+
+10
+
+21
+
+20
+10
+2007
+
+70
+
+2009
+
+2011
+
+2013
+
+5
+
+0
+2017
+
+2015
+
+55
+
+Baseline:
+
+1.0
+
+Scenario:
+
+1.6
+
+Historical: 2.2
+
+45
+i-rate
+shock
+
+35
+Baseline
+
+25
+
+21
+21
+
+15
+2007
+
+2009
+
+2011
+
+2013
+
+2015
+
+2017
+
+Primary balance shock (in percent of GDP) and
+no policy change scenario (constant primary balance)
+
+Growth shock (in percent per
+year)
+
+70
+
+65
+
+Baseline:
+
+2.7
+
+65
+
+Baseline:
+
+2.9
+
+60
+
+Scenario:
+
+1.1
+
+60
+
+Scenario:
+
+2.0
+
+55
+
+Historical:
+
+2.4
+
+55
+
+Historical:
+
+2.4
+
+50
+
+50
+
+45
+
+45
+
+Growth
+shock
+
+40
+35
+
+34
+
+30
+25
+
+21
+
+15
+2007
+
+2009
+
+2011
+
+2013
+
+2015
+
+35
+30
+
+30
+
+Baseline
+
+25
+
+Baseline
+
+20
+
+No policy change
+
+40
+
+2017
+
+20
+15
+2007
+
+PB shock
+2009
+
+2011
+
+2013
+
+25
+21
+
+2015
+
+2017
+
+Real depreciation and contingent liabilities
+
+Combined shock 2/
+70
+
+70
+
+65
+
+65
+
+60
+
+60
+
+55
+
+55
+
+50
+
+50
+
+45
+
+contingent
+liabilities shock
+
+30 %
+depreciation
+
+45
+
+40
+
+40
+
+Combined
+shock
+
+35
+
+24
+
+30
+Baseline
+
+25
+
+21
+
+20
+15
+2007
+
+2009
+
+2011
+
+2013
+
+2015
+
+2017
+
+30
+
+35
+30
+
+22
+
+25
+
+Baseline
+
+20
+15
+2007
+
+2009
+
+2011
+
+2013
+
+2015
+
+21
+2017
+
+Sources: International Monetary Fund, country desk data, and IMF staff estimates.
+1/ Shaded areas represent actual data. Individual shocks are permanent one-half standard deviation shocks.
+Figures in the boxes represent average projections for the respective variables in the baseline and scenario being
+presented. Ten-year historical average for the variable is also shown.
+2/ Permanent 1/2 standard deviation shocks applied to real interest rate, growth rate, and primary balance.
+3/ One-time real depreciation of 30 percent and 10 percent of GDP shock to contingent liabilities occur in 2012,
+with real depreciation defined as nominal depreciation (measured by percentage fall in dollar value of local
+currency) minus domestic inflation (based on GDP deflator).
+
+46
+
+INTERNATIONAL MONETARY FUND
+
+SWEDEN
+STAFF REPORT FOR THE 2012 ARTICLE IV
+June 4, 2012
+
+CONSULTATION—INFORMATIONAL ANNEX
+Prepared By
+
+European Department
+
+CONTENTS
+
+FUND RELATIONS ________________________________________________________________________2
+
+2012 ARTICLE IV REPORT—INFORMATIONAL ANNEX
+
+SWEDEN
+
+FUND RELATIONS
+AS OF MAY 31, 2012
+
+I.
+
+Membership Status: Joined: August 31, 1951; Article VIII
+
+II.
+
+General Resources Account:
+
+Quota
+Fund holdings of currency (Exchange Rate)
+Reserve Tranche Position
+Lending to the Fund
+New Arrangements to Borrow
+III.
+
+SDR Million
+
+Percent
+Quota
+
+2,395.50
+1,671.90
+723.60
+
+100.00
+69.79
+30.21
+
+506.95
+
+SDR Department:
+
+Net cumulative allocation
+Holdings
+
+SDR Million
+
+Percent
+Allocation
+
+2,248.96
+2,181.31
+
+100.00
+96.99
+
+IV.
+
+Outstanding Purchases and Loans: None
+
+V.
+
+Latest Financial Arrangements:
+
+VI.
+
+Projected Payments to Fund1
+(SDR Million; based on existing use of resources and present holdings of SDRs):
+
+Principal
+Charges/Interest
+Total
+
+1
+
+None
+
+2012
+
+Forthcoming
+2013
+2014 2015
+
+2016
+
+0.07
+0.07
+
+0.12
+0.12
+
+0.12
+0.12
+
+0.12
+0.12
+
+0.12
+0.12
+
+When a member has overdue financial obligations outstanding for more than three months, the amount of
+such arrears will be shown in this section.
+
+2
+
+INTERNATIONAL MONETARY FUND
+
+SWEDEN 2012 ARTICLE IV REPORT—INFORMATIONAL ANNEX
+
+VII.
+Exchange Rate Arrangements: The Krona has been floating freely since November
+19, 1992. Sweden has accepted the obligations of Article VIII (sections 2(a), 3 and 4) and
+maintains an exchange system free of restrictions on payments and transfers for current
+international transactions, apart from those imposed for security reasons, as notified to the
+Fund by the Riksbank (EBD/06/79, June 23, 2006) in accordance with Executive Board Decision
+No. 144-(52/51).
+VIII.
+2012 Article IV Consultation: A staff team comprising P. Doyle (head, EUR), N. Batini,
+K. Ishi (all EUR) and Laura Jaramillo (FAD) visited Stockholm during May 3-14, 2012 to conduct
+the consultation discussions. Mr. Holmberg, Senior Advisor to Sweden’s Executive Director,
+also attended the mission.
+Outreach: The team met with the parliamentary Finance Committee, representatives of the
+private sector, the general labor union, representatives of the blue collar union, Swedish
+manufacturers, the Confederation of Swedish Enterprises, the four largest banks, think tanks,
+academics and the Fiscal Policy Council.
+Press conference: The mission held a press conference in the Riksbank after the concluding
+meeting.
+Publication: The staff report will be published.
+Last Article IV Consultation: Discussions for the 2011 Article IV consultation were held in
+Stockholm on May 19-June 1, 2011 and the staff report was issued on July 8, 2011 (IMF
+Country Report 11/171). The consultation was concluded by the Executive Board on July 13,
+2011.
+Financial Sector Assessment Program Update: Discussions for the 2011 FSAP Update were
+held in Stockholm in March 9-22, 2011. The Financial Sector Stability Assessment report was
+published on July 13, 2011 (IMF Country Reports 11/172).
+IX.
+
+Resident Representative: None
+
+INTERNATIONAL MONETARY FUND 3
+
+Public Information Notice (PIN) No. 12/63
+FOR IMMEDIATE RELEASE
+June 27, 2012
+
+International Monetary Fund
+700 19th Street, NW
+Washington, D. C. 20431 USA
+
+IMF Executive Board Concludes 2012 Article IV Consultation with
+Sweden
+On June 18, 2012, the Executive Board of the International Monetary Fund (IMF) concluded the
+Article IV consultation with Sweden. 1
+Background
+Sweden’s recovery from the global crisis was swift reflecting its strong position at the onset of
+the crisis, a supportive macro policy response, a flexible exchange rate, and robust demand for
+its exports from Germany, Asia, especially China, and other emerging markets as well. As
+global demand recovered, Sweden grew just under 6 percent in 2010 and 4 percent in 2011.
+And reflecting the small negative output gap (estimated by staff at around ¾ percent for 2011),
+headline Consumer Price Index (CPI) has remained above the 2 percent target.
+But, as elsewhere in the region and Advanced Europe, momentum has weakened. After
+growing by a cumulative 2.1 in the first three quarters of 2011, Sweden's GDP declined by
+0.1 percentage points on average in the subsequent two quarters (comprising a contraction of
+1.0 percent in Q4, and an expansion of 0.8 percent in Q1 2012).
+
+Under Article IV of the IMF's Articles of Agreement, the IMF holds bilateral discussions with
+members, usually every year. A staff team visits the country, collects economic and financial
+information, and discusses with officials the country's economic developments and policies. On
+return to headquarters, the staff prepares a report, which forms the basis for discussion by the
+Executive Board. At the conclusion of the discussion, the Managing Director, as Chairman of the
+Board, summarizes the views of Executive Directors, and this summary is transmitted to the
+country's authorities. An explanation of any qualifiers used in summings up can be found here:
+http://www.imf.org/external/np/sec/misc/qualifiers.htm.
+1
+
+2
+And though the level of private consumption has not fallen, its growth remains lackluster despite
+resilient employment and incomes into the early part of 2012—in part reflecting that
+unemployment remains elevated relative to the immediate pre-crisis period. Excluding 2008–09,
+household confidence is at its lowest since 1996, while household credit growth has slowed by
+over 3 percentage points from a year earlier to 5½ percent. Declining wealth and a low
+confidence have led to further increases in household saving rates. At the same time, while both
+temporary and permanent employment increased in 2010, with permanent jobs numbers now
+significantly surpassing pre-crisis levels, job creation seems to have slowed.
+Macroeconomic policies have been set to support growth. While the temporary fiscal stimulus
+measures adopted during the global financial crisis were phased out, including support to
+municipalities and county councils and investments in infrastructure and training, the underlying
+fiscal stance remained supportive—notably reflecting the tax reduction for pensioners in 2011—
+with staff calculations suggesting that the 2011 outcome fell short of the 1 percent structural
+surplus target by 0.8 percentage points. On the monetary policy side, faced with a benign
+inflation outlook and an appreciating krona, the Riksbank lowered the policy rate by 25 basis
+points both in December 2011 and February 2012, reflecting the deteriorating external
+environment.
+The economic outlook remains clouded, and the risks to growth are tilted to the downside. On
+staff projections, real GDP growth is expected to drop from 4 percent in 2011 to 1 percent in
+2012, then to rebound to 2 percent in 2013, broadly tracking projections for activity in Advanced
+Europe and somewhat more optimistic than the Riksbank’s projection and consensus (both
+around ½ percentage point less, but based on information prior to the release of the Q1 2012
+National Accounts). Key downside risks are a possible sharp resurgence of strains in the euro
+area; or/and a “lost decade” of growth there; and in either context, possible further oil supply
+shocks. In this context, international funding markets could also exhibit significant strains.
+Executive Board Assessment
+Executive Directors commended Sweden’s sustained strong macroeconomic performance,
+which has been underpinned by prudent policies and effective institutions. Nonetheless,
+Directors noted that significant downside risks weigh on the near–term outlook, and lingering
+vulnerabilities call for adaptive policymaking and further structural and financial reforms.
+They welcomed efforts to strengthen the macroprudential framework and financial sector
+oversight through tighter capital and liquidity requirements, and encouraged the authorities to
+further their cross border collaboration with regional banking regulators. More broadly, Directors
+underscored the importance of strengthening “Pillar 2” of the Basel supervisory framework, as
+well as bank resolution and crisis management arrangements. An accountable macroprudential
+authority with a clear stability mandate and decision making structure would also buttress
+macrofinancial stability.
+
+3
+They supported the planned modest relaxation of the fiscal stance this year in the context of
+rules targeting a structural fiscal surplus over the business cycle. They agreed that automatic
+stabilizers should be allowed to operate unimpeded as activity slows, but a number of Directors
+saw also scope for discretionary counter cyclical stimulus in 2013. Directors considered that
+better targeted tax and expenditure measures could make the planned medium term fiscal
+adjustment more “growth friendly,” and that the credibility of fiscal plans could be enhanced by
+greater authority of the Fiscal Policy Council.
+They considered the monetary stance appropriately accommodative, given the benign inflation
+outlook and the slack in the economy. Nonetheless, they encouraged the authorities to adapt
+policy flexibly as the conjuncture evolves. In particular, the monetary stance may need to be
+adjusted rapidly if external risks materialize, or macroprudential policies may need to be
+tightened further once the housing market reflates. Most Directors agreed that expanding the
+communication strategy with the publication of projections based on market interest rates could
+further boost the credibility of the monetary and exchange rate frameworks.
+They commended Sweden’s track record in implementing structural reforms to boost growth
+and employment. They welcomed efforts underway to improve the functioning of the labor
+market, in particular measures to increase the absorption of new entrants. Directors agreed that
+deregulation of the rental market could stimulate residential investment, reduce shortages, and
+improve employment prospects.
+
+Public Information Notices (PINs) form part of the IMF's efforts to promote transparency of the IMF's
+views and analysis of economic developments and policies. With the consent of the country
+(or countries) concerned, PINs are issued after Executive Board discussions of Article IV consultations
+with member countries, of its surveillance of developments at the regional level, of post-program
+monitoring, and of ex post assessments of member countries with longer-term program engagements.
+PINs are also issued after Executive Board discussions of general policy matters, unless otherwise
+decided by the Executive Board in a particular case. The staff report (use the free Adobe Acrobat
+Reader to view this pdf file) for the 2012 Article IV Consultation with Sweden is also available.
+
+4
+Sweden: Selected Economic and Social Indicators, 2006-2013
+Population: 9.4 million (2010)
+Literacy rate: 99.0 Poverty rate: n.a.
+Per capita GDP: 49,077 USD (2011)
+Key export markets: Germany, Norway, United Kingdom
+Main products and exports: Machinery, motor vehicles, paper products, pulp and wood
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+Projections
+2012 2013
+
+4.6
+3.9
+1.5
+7.0
+27.2
+18.7
+3.6
+
+3.4
+4.7
+1.7
+6.1
+29.6
+20.3
+4.2
+
+-0.8
+-0.1
+3.3
+6.2
+29.0
+20.2
+1.7
+
+-5.0
+-4.3
+2.0
+8.3
+23.5
+16.5
+-4.9
+
+5.9
+5.7
+1.9
+8.4
+25.5
+18.6
+-1.2
+
+4.0
+3.5
+1.4
+7.5
+26.6
+19.6
+0.8
+
+1.0
+0.5
+1.2
+7.5
+24.3
+17.2
+-0.4
+
+2.3
+1.7
+2.0
+7.7
+23.3
+15.7
+-0.3
+
+Public finance (in percent of GDP)
+Total Revenues
+Total Expenditures
+Net lending
+Structural balance (as a percent of potential GDP)
+General government gross debt, official statistics
+
+53.0
+50.8
+1.8
+1.7
+37.1
+
+52.5
+49.0
+3.1
+2.0
+35.0
+
+51.9
+49.7
+1.9
+1.0
+34.6
+
+51.9
+52.9
+-0.8
+-0.7
+36.8
+
+50.6
+50.6
+0.0
+1.0
+36.6
+
+49.7
+49.6
+0.1
+0.2
+37.3
+
+49.7
+50.0
+-0.3
+-0.4
+37.6
+
+50.0
+49.5
+0.5
+0.4
+37.1
+
+Money and credit (12-month, percent change)
+M1
+M3
+Credit to non-bank public
+
+11.5
+15.0
+14.3
+
+8.2
+18.5
+61.5
+
+6.5
+3.6
+10.7
+
+8.2
+-1.3
+6.0
+
+6.6
+4.7
+7.4
+
+...
+...
+...
+
+...
+...
+...
+
+...
+...
+...
+
+Interest rates (year average)
+Repo rate
+Three-month treasury bill rate
+Ten-year government bond yield
+
+3.0
+2.3
+3.7
+
+4.0
+3.5
+4.2
+
+2.0
+3.8
+3.9
+
+0.3
+0.4
+3.3
+
+1.3
+0.5
+2.9
+
+...
+...
+...
+
+...
+...
+...
+
+...
+...
+...
+
+Balance of payments (in percent of GDP)
+Current account
+Trade balance
+Foreign Direct Investment, net
+International reserves (in billions of US dollars)
+Reserve cover (months of imports of goods and services)
+
+8.4
+7.8
+4.3
+26.0
+2.0
+
+9.2
+7.2
+-16.2
+29.8
+1.8
+
+8.8
+6.6
+7.9
+36.2
+1.7
+
+7.0
+6.5
+-30.0
+44.0
+3.0
+
+6.9
+6.0
+-30.1
+45.9
+3.3
+
+7.0
+6.2
+-1.5
+53.1
+2.9
+
+7.1
+8.2
+-8.3
+51.3
+2.9
+
+7.6
+8.4
+-11.6
+51.4
+2.9
+
+99.2
+82.6
+
+Free Floating Exchange Rate
+7.19
+99.5
+101.3
+99.5
+90.7
+78.4
+81.9
+81.9
+77.8
+
+97.8
+77.3
+
+...
+...
+
+Real economy (in percent change)
+Real GDP
+Domestic Demand
+CPI inflation
+Unemployment rate (in percent)
+Gross national saving (percent of GDP)
+Gross domestic investment (percent of GDP)
+Output Gap (as a percent of potential)
+
+Exchange rate (period average, unless otherwise stated)
+Exchange rate regime
+Skr per U.S. dollar (June 9, 2012)
+Nominal effective rate (2000=100)
+Real effective rate (2000=100) 1/
+Fund Position (December 31, 2011)
+Holdings of currency (in percent of quota)
+Holdings of SDRs (in percent of allocation)
+Quota (in millions of SDRs)
+
+101.5
+87.3
+
+72.11
+97.96
+2,395.5
+
+Sources: Statistics Sweden, Riksbank, Ministry of Finance, Datastream, INS, and IMF staff estimates.
+
+Statement by Benny Anderson, Executive Director for Sweden
+and Martin Holmberg, Advisor to the Executive Director
+June 18, 2012
+
+The Swedish authorities would like to express their appreciation of staff’s comprehensive
+and in-depth analysis on the Swedish economy conducted during the 2012 Article IV
+consultation. Overall, the authorities agree with the main findings presented in the report.
+Short-term outlook and risks
+The authorities broadly share staff’s assessment of the economic developments in Sweden
+and internationally. After an unexpectedly large GDP fall at the end of 2011, there are some
+positive signs in the Swedish economy. GDP growth in the first quarter of 2012 amounted to
+0.8 percent. Consumption and investment growth are expected to continue to rise in the
+coming periods, but at a somewhat lower rate than normal. The labor market is expected to
+weaken temporarily, and resource utilization is lower than normal. Underlying inflation is
+currently low as a result of low cost pressures in recent years. Inflation is projected to
+increase gradually to 2 percent in the next few years. The repo rate remains at 1.5 percent and
+the Riksbank’s repo rate path indicates that it will remain at this low level for around a year.
+The authorities agree with staff that considerable uncertainties about the outlook remain. The
+situation in the euro area is fragile and sovereign debt problems could worsen. This would
+also have a negative impact on the Swedish economy. In such a situation, the repo-rate path
+may need to be lowered. At the same time, confidence in economic developments could
+return sooner than expected among households, companies, and financial markets. This
+would lead to higher domestic demand and to higher inflationary pressures, calling for a
+higher repo-rate path.
+Sweden’s public finances are sound. The Government has emphasized that the sovereign
+debt crisis in Europe means that there is still a need for strong safety margins in public
+finances. Over the past year, the growth in household indebtedness has continued to dampen
+due to the slow-down in the housing market, the rise in mortgage rates, and the introduction
+of loan-to-value regulation. Household debt is now expected to increase at a moderate rate in
+the coming period, albeit still slightly faster than households’ disposable incomes.
+Financial Stability
+The authorities concur with staff’s assessment that the main risks to financial stability in
+Sweden lie in the developments in the euro area. The Swedish banks’ direct exposures to the
+fiscally weak euro-area countries are small. However, given the banks’ large usage of shortterm wholesale funding, in particular in US dollars, the Swedish banks are vulnerable to
+market disruptions and liquidity risks. Financial stability could thus be affected from indirect
+
+2
+channels should the sovereign debt crisis in the euro area worsen. At the same time, Swedish
+banks are currently well capitalized from an international perspective, giving them an
+adequate cushion if risks were to materialize. According to the recent Riksbank stress tests,
+Swedish banks would only suffer a limited decline in capital ratios should a severe recession
+scenario develop. Moreover, the Swedish authorities have accelerated the implementation of
+Basel III capital requirements, and proposed higher capital requirements on the four largest
+banks. While the accelerated implementation of higher capital requirements is warranted,
+further macroprudential measures should be sequenced in a way that takes due account of
+economic conditions.
+The authorities are currently reviewing the capital adequacy requirement for mortgages in
+Sweden. This will probably lead to higher risk weights for Swedish mortgages, and
+consequently lower capital ratios, all else being equal. Nevertheless, the capital ratios are still
+expected to be adequate and meet the required levels.
+The authorities will also build upon the Swedish experience of early implementation of
+enhanced liquidity reporting by introducing LCR in all currencies, in aggregate, as well as in
+euro and USD separately, by 2013. In addition, the Riksbank recommends banks to reduce
+their structural liquidity risks and approach the minimum level of NSFR as well as improve
+the transparency on comparable key figures for public reporting on liquidity risks.
+The Pillar 2 mandate for the Swedish FSA (Finansinspektionen, FI) is expected to be
+widened through the introduction of CRR/CRD IV (article 99a). This will allow FI to require
+higher capital charges, not only for idiosyncratic risks but also for risks to the system, even if
+the preferred option is to do so through Pillar 1. FI is also in the process of developing a more
+transparent process for Pillar 2, where information will be publicly available.
+The argument that high house price-to-income levels present downward pressure on house
+prices going forward, needs further backing. The fact that the ratio is above historical average
+does not in itself imply that there is a long-term equilibrium below current levels. The priceto-rent ratio may be inappropriate as a measure of house price fundamentals due to the rent
+control regulation in Sweden.
+Regarding the suggestion to establish a formal macroprudential authority with a clear
+financial stability mandate, a set of authorized tools and accountability obligations, the
+Swedish authorities would like to note that an inquiry committee – the Government
+Investigation on Financial Crisis Prevention and Management Issues – is currently looking
+into these issues. Regarding the suggestion to consider regional perspectives, the authorities
+would like to note that this is well in line with the cooperation within the Nordic-Baltic
+Macroprudential Group that has been further developed during the recent financial crisis.
+
+3
+Recently, a process to enhance cross-border cooperation has been started. Specifically, in
+accordance with the FSB agenda, the work on a cross-border cooperation agreement on crisis
+management for Nordea, the only Swedish G-SIFI, has been initiated, involving the relevant
+authorities in Denmark, Finland, Norway, Sweden, Estonia, Latvia, Lithuania, and Poland.
+Cross-border cooperation is likely to be enhanced further and extended to other financial
+institutions with the implementation of the forthcoming EU Directive on recovery and
+resolution of credit institutions and investment firms.
+Fiscal Policy and Framework
+The authorities broadly agree with staff’s view of the Swedish fiscal position and the fiscal
+policy stance, even if our assessment of the structural saving ratio is somewhat higher at
+present. As is pointed out by staff, Sweden’s fiscal position is strong which makes it possible
+to continue to support output in the short term without jeopardizing long-run sustainability or
+the ability to respond properly, should a downside external risk materialize. Sound public
+finances are also a corner stone in the work to achieve full employment and greater welfare.
+The authorities welcome staff’s opinion on the importance of retaining appropriately large
+fiscal buffers. By following a responsible policy where the surplus target is maintained and
+the expenditure ceiling is not exceeded, at the same time as automatic stabilizers are allowed
+to work freely, economic growth is supported and a basis created which will enable Sweden
+to meet future challenges from a strong position. As staff rightly points out, there is still
+considerable risk of new waves of international economic and financial unrest. Maintaining
+adequate safety margins in the public finances in order to have sufficient resources to manage
+a possible intensified crisis is a priority in Swedish fiscal policy making.
+According to the Government’s assessment, some scope for reform will likely emerge in
+2013, and this will be compatible with a mildly supportive fiscal stance. Future reform efforts
+will primarily focus on structurally warranted measures that will strengthen Sweden’s longterm growth prospects by increasing employment, decreasing unemployment and improving
+the functioning of the economy. However, as staff points out, a number of risks remain
+which, if realized, may affect the economy negatively. Any reform ambition is therefore
+conditional on a sustainable scope for new measures.
+The authorities also agree with staff on the importance of a tax system which supports
+employment and growth. Full employment is a prerequisite for Sweden to remain a
+competitive country with long-term sustainable growth. Continuing to make jobs a priority in
+designing policy is of the utmost importance to the Government. To this end, a number of
+measures have been taken in the last few years, such as the introduction of an in-work tax
+credit and a reduction in social security contributions for young people. As staff points out,
+the Government views the reduction of the rate of VAT on restaurants as a way to increase
+the opportunities of young workers entering the labor market. This reform will be closely
+
+4
+evaluated both from a tax and an employment perspective. So far it has shown promising
+effects on both prices and sales in the restaurant sector.
+In line with staff recommendation, a proposal to reduce the risk for pro-cyclicality in local
+governments’ finances was recently presented. The proposal means that local governments
+will be allowed to build balancing reserves, which makes it possible to use a portion of their
+surplus from good times to cover deficits incurred as a result of a recession.
+Monetary Policy and Framework
+The authorities welcome staff’s assessment that the monetary and exchange rate framework
+remain credible. In the discussion of the monetary policy framework, staff notes the recent
+deviation of the interest expectations embedded in some asset prices from the Riksbank’s
+published interest path, arguing that this deviation could eventually impair the monetary
+transmission mechanism and potentially undermine credibility. We note that measuring
+markets’ interest rate expectations is difficult and any estimate imprecise and uncertain,
+especially in times of turbulence in asset markets. Inflation expectations, nevertheless,
+remain firmly anchored at around 2 percent and against that background, the difference
+between expectations estimated from asset prices and the Riksbank’s published path is not
+viewed as harming credibility. The Riksbank endeavors to ensure that its communication is
+open, factual, comprehensible and up-to-date. This makes it easier for economic agents to
+make sound economic decisions. It also makes it easier to evaluate monetary policy. In this
+context, publishing the interest rate path has served as an effective communication tool.
+Staff raises the issue of asset prices and financial stability in monetary policy decisions. In
+connection with every monetary policy decision, the Executive Board of the Riksbank makes
+an assessment of the repo-rate path needed for monetary policy to be well-balanced. A wellbalanced monetary policy is normally a question of finding an appropriate balance between
+stabilizing inflation around the inflation target and stabilizing the real economy. According to
+the Sveriges Riksbank Act, the Riksbank’s tasks also include promoting a safe and efficient
+payment system. Risks linked to developments in the financial markets are taken into account
+in the repo rate decisions. With regard to preventing an imbalance in asset prices and
+indebtedness, the most important factors, however, are effective regulation and supervision.
+Monetary policy only acts as a complement to these. In this context, the authorities look
+forward to the recommendations of the above-mentioned Government Investigation on
+Financial Crisis Prevention and Management Issues. However, regardless of the outcome of
+this investigation, it seems unlikely that monetary policy will not have a role in addressing
+financial stability issues going forward.
+Staff proposes that the Riksbank should raise its research efforts in the area of equilibrium
+unemployment. Continued and enhanced analysis will be conducted as part of the regular
+analysis.
+
+5
+Structural Reform Policy
+The authorities agree with staff that the structural reforms undertaken have boosted trend
+growth and employment. Staff also highlights some areas of concern, for example targeting
+of reforms towards groups with weak attachment to the labor market. The Government
+argues that broad and general reforms that increase incentives to work is the most effective
+way to improve labor market outcomes, including for groups with weak attachment to the
+labor market. But there are also extensive reforms undertaken directed towards vulnerable
+groups (including for example youth, immigrants, disabled and long-term unemployed).
+Hence, the general remark in the staff report concerning bad targeting seems somewhat
+misplaced. In general, there is a trade-off between simplicity and being able to pinpoint the
+most problematic groups. It is the Government’s view that the reduction in pay-roll taxes for
+youth increases employment among this group.
+In line with empirical evidence concerning active labor market policies (ALMPs), the
+Government has focused on job-search early in the unemployment spell, with access to
+training, education and subsidized jobs when necessary to enhance employment probabilities.
+Recently, a profiling system has been put in place which aims to identify those individuals
+who are in need of training early in the unemployment spell. It is the Government’s view that
+active labor market programs are organized in an effective way. During the crisis, and also
+recently, extra funds were allocated to maintain quality and effectiveness in the setup of
+ALMPs.
+Housing Policy
+The Government has in the Spring Budget for 2012 announced changes in the sub-let market
+for owner occupied dwellings. This is expected to both increase the volume of rental
+apartments, and the flexibility in the housing market, thus improving the situation in large
+cities and fast growing regions where demand for housing is strong.
+Also in the Spring Budget for 2012, the Government announced measures that are expected
+to increase the housing production. These include a prolongation of the time when rental
+apartments cannot be subject to a review of the rent in the “Rent and Tenancies Tribunal”,
+and an exemption from real estate tax for newly built houses during the first 15 years. There
+are also two ongoing investigations that look at the municipal land designation policy in
+order to improve the availability of land for housing. We note that the average number of
+persons in each apartment in Sweden is about 2.1 (slightly higher in for example Stockholm),
+which is quite low compared to the situation in peer economies.
+
+

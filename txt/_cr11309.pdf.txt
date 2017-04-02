@@ -1,0 +1,9142 @@
+October 2011
+IMF Country Report No. 11/309
+
+© 2011 International Monetary Fund
+
+September 21, 2011
+July 21, 2011
+
+October 7, 2011
+January 29, 2001
+2011
+October 4, 2011
+
+Indonesia: 2011 Article IV Consultation—Staff Report; Staff Statement; Public
+Information Notice on the Executive Board Discussion; and Statement by the Executive
+Director for Indonesia
+Under Article IV of the IMF’s Articles of Agreement, the IMF holds bilateral discussions with
+members, usually every year. In the context of the 2011 Article IV consultation with Indonesia, the
+following documents have been released and are included in this package:
+
+
+The staff report for the 2011 Article IV consultation, prepared by a staff team of the IMF,
+following discussions that ended on July 21, 2011, with the officials of Indonesia on
+economic developments and policies. Based on information available at the time of these
+discussions, the staff report was completed on September 21, 2011. The views expressed in
+the staff report are those of the staff team and do not necessarily reflect the views of the
+Executive Board of the IMF.
+
+
+
+A staff statement of October 7, 2011 updating information on recent developments.
+
+
+
+A Public Information Notice (PIN) summarizing the views of the Executive Board as
+expressed during its October 7, 2011 discussion of the staff report that concluded the
+Article IV consultation.
+
+
+
+A statement by the Executive Director for Indonesia.
+
+The document listed below has been or will be separately released.
+Selected Issues Paper
+The policy of publication of staff reports and other documents allows for the deletion of market-sensitive
+information.
+Copies of this report are available to the public from
+International Monetary Fund  Publication Services
+700 19th Street, N.W.  Washington, D.C. 20431
+Telephone: (202) 623-7430  Telefax: (202) 623-7201
+E-mail: publications@imf.org Internet: http://www.imf.org
+
+International Monetary Fund
+Washington, D.C.
+
+
+
+INDONESIA
+STAFF REPORT FOR THE 2011 ARTICLE IV CONSULTATION
+September 21, 2011
+
+KEY ISSUES
+Outlook: The size and strength of domestic demand, as well as large policy buffers,
+limit downside risks from deteriorating global conditions. Indeed, in the absence of a
+significant further deterioration in global conditions, the strength of domestic demand
+could lead to higher inflationary pressures in 2012. Ambitious medium term growth
+objectives are achievable if long standing issues related to infrastructure, the
+investment climate, and legislative reforms are addressed.
+Managing capital flows and exchange rate policy: Continued exchange rate
+flexibility will be important in managing volatile capital flows while the buildup in
+reserves over the past eighteen months should help buffer any deterioration of
+international financial conditions.
+Monetary policy: While immediate pressures on headline inflation have abated, core
+inflation is projected to rise later this year and into 2012 as credit growth and strong
+activity add to domestic demand. Bank Indonesia should be prepared to adjust its
+monetary policy stance to contain inflationary pressures and achieve its more
+ambitious inflation target in 2012, as long as global conditions do not deteriorate
+substantially.
+Fiscal policy: The fiscal deficit is projected to increase in 2011 due to increasing energy
+subsidies. In spite of recent reform measures to improve budget implementation,
+development spending in the first six months followed historical patterns of low
+execution. An overall lack of flexibility limits the scope for countercyclical fiscal policy.
+In the medium term, subsidy reform and increased revenue mobilization will be needed
+to provide the fiscal space necessary for higher public infrastructure investment and
+social expenditures.
+Financial policies: Current domestic financial conditions are benign. Some key
+recommendations of the 2010 FSAP have already been implemented. Additional
+measures should be taken, and prudential controls strengthened to limit possible risks
+arising from expanding bank lending. Passage of the Financial System Safety Net
+(FSSN) law would strengthen the legal foundation for crisis management.
+
+2011 ARTICLE IV REPORT
+
+Approved By
+Mahmood Pradhan
+and Aasim Husain
+
+INDONESIA
+
+Discussions took place in Jakarta during July 7−21, 2011. The team
+comprised Thomas Rumbaugh (head), Geoffrey Heenan, Sarah Zhou
+(all APD), Dora Benedek (FAD), Mali Chivakul (SPR), and Nancy
+Rawlings (MCM). Aida Budiman, Iss Hafid (both OED) and Milan
+Zavadjil (Senior Resident Representative) also participated in the
+discussions. The staff of the IMF office in Jakarta provided valuable
+assistance to the mission. The team met with Bank Indonesia Governor
+Darmin Nasution, Minister of Trade Mari Pangestu, Vice Minister of
+Finance Anny Ratnawati, other senior officials, and private sector
+representatives.
+
+CONTENTS
+CONTEXT __________________________________________________________________ 4
+RECENT DEVELOPMENTS: ROBUST GROWTH WITH SOME
+INFLATIONARY PRESSURES __________________________________________________ 5
+OUTLOOK AND RISKS ________________________________________________________ 9
+POLICY DISCUSSIONS ______________________________________________________
+A. Monetary and Exchange Rate Policy: Controlling Liquidity amid Sustained Inflows ______
+B. Fiscal Policy: Improving the Structure of the Budget ______________________________
+C. Financial Policies: Strengthening Safety Nets ___________________________________
+D. Trade and Development Policies _____________________________________________
+
+12
+12
+16
+18
+20
+
+STAFF APPRAISAL _________________________________________________________ 21
+BOXES
+1. Exchange Rate Assessment _________________________________________________ 7
+2. Estimating Potential Growth _________________________________________________ 11
+3. Policy Options for Reducing Excess Liquidity, Improving Money Market Operations
+and Money Market Development _____________________________________________ 15
+4. Revenue Mobilization ______________________________________________________ 17
+FIGURES
+1. Macroeconomic Developments and Outlook ____________________________________
+2. Business Activity Indicators _________________________________________________
+3. Inflation and Monetary Developments _________________________________________
+4. Financial Market Performance _______________________________________________
+5. Limited Spillovers from Rising Global Sovereign Risk Concerns _____________________
+6. Banking Indicators ________________________________________________________
+
+2
+
+INTERNATIONAL MONETARY FUND
+
+24
+25
+26
+27
+28
+29
+
+INDONESIA
+
+2011 ARTICLE IV REPORT
+
+TABLES
+1. Selected Economic Indicators, 2007–12 _______________________________________
+2. Balance of Payments, 2007–12 ______________________________________________
+3. Monetary Survey, 2007–11 _________________________________________________
+4. Summary of Central Government Operations, 2008–12 ___________________________
+5. Selected Vulnerability Indicators, 2006–11 _____________________________________
+6. Medium Term Macroeconomic Framework, 2009–16 _____________________________
+
+30
+31
+32
+33
+34
+35
+
+APPENDIXES
+I. Public and External Debt Sustainability ______________________________________________________ 36
+II. Transition to GFSM 2001 _____________________________________________________________________ 42
+
+INTERNATIONAL MONETARY FUND 3
+
+2011 ARTICLE IV REPORT
+
+INDONESIA
+
+CONTEXT
+1.
+The Indonesian economy proved
+resilient during the global financial crisis,
+and has since continued to grow at a robust
+rate. This resilience reflects the prudent
+macroeconomic policies pursued over the last
+decade. Both public and private indebtedness
+have fallen sharply, international reserves have
+been rebuilt, and inflation has been contained.
+Key banking system vulnerabilities have been
+reduced by improvements in financial
+regulation, and other structural reforms are
+continuing. Political stability and favorable
+demographic trends provide an opportunity
+for even stronger economic performance over
+the medium term.
+2.
+Despite the current strong
+fundamentals, the achievement of higher
+sustained and equitable growth remains
+challenging. Infrastructure bottlenecks could
+increasingly limit growth. More fiscal resources
+are needed to fund public infrastructure
+projects and social spending, and capital
+markets remain shallow.
+3.
+The joint IMF˗World Bank Financial
+Sector Assessment Program (FSAP),
+completed in 2010, found that the banking
+sector was resilient. The banking system had
+a large capital buffer, ample liquidity, and
+remained profitable even through the
+economic slowdown in 2009. Stress tests
+found that a limited number of banks were
+vulnerable to extreme liquidity shocks and a
+few large banks susceptible to concentration
+
+4
+
+INTERNATIONAL MONETARY FUND
+
+risk. Exchange rate and contagion risks were
+not major concerns. The FSAP also identified
+further reform areas to enhance financial
+sector resilience. Key reform priorities centered
+around strengthening the legal and
+governance framework for supervision,
+coordination of macro microprudential
+supervision and crisis management, securing
+BI’s financial independence, and developing
+capital markets.
+4.
+In concluding the 2010 Article IV
+consultation (August 27, 2010), the Fund
+commended the Indonesian authorities for
+their impressive policy performance, which
+successfully steered the economy through
+the global financial crisis. Directors
+commended Indonesia’s progress over the last
+decade in improving financial stability and
+welcomed the steps being taken by the
+authorities to further strengthen the resilience
+of the financial sector in line with the
+recommendations of the FSAP. Directors
+considered that maintaining exchange rate
+flexibility was an important part of the toolkit
+to manage the volatility of capital flows. They
+advised that BI should signal its readiness to
+respond to rising inflationary pressures to
+anchor inflation expectations within the target
+range. To reduce sterilization costs, Directors
+recommended the gradual conversion of the
+nonmarketable government bonds on BI’s
+balance sheet to marketable bonds, thereby
+also expanding BI’s operational toolkit.
+Directors endorsed the
+
+INDONESIA
+
+overall fiscal stance for 2010, but noted that
+further fiscal reforms would be necessary to
+support sustained high growth. Specifically,
+reducing energy subsidies would create
+
+2011 ARTICLE IV REPORT
+
+additional fiscal space for much needed
+infrastructure spending and transfer programs
+for the poor.
+
+RECENT DEVELOPMENTS: ROBUST GROWTH WITH
+SOME INFLATIONARY PRESSURES
+5.
+Indonesia’s macroeconomic
+performance remains very strong. Real GDP
+grew 6.5 percent y/y in the first half of the
+year, and growth has become more balanced,
+with investment adding to consumption and
+exports as the main engines of growth. The
+strength of domestic demand has been
+mirrored in the rapid expansion of the services
+sector, which has contributed about two thirds
+of total economic growth. Retail sales and
+consumer confidence remained robust in the
+second quarter while industrial production
+growth and business confidence also
+strengthened.
+6.
+Headline inflation has eased in
+recent months on slowing food price rises.
+At end˗2010, rising food prices had pushed CPI
+inflation to 7 percent y/y, exceeding BI’s
+4−6 percent target range. Headline inflation
+started to ease since February 2011, falling to
+Wholesale Prices and CPI Inflation
+(Year-on-year percent change)
+
+14
+12
+
+14
+
+Administered prices (contribution)
+Volatile food (contribution)
+
+12
+
+Core CPI (contribution)
+Headline CPI
+
+10
+
+10
+
+WPI excluding exports
+Paddy crops
+
+8
+
+8
+
+6
+
+6
+
+4
+
+4
+
+2
+
+2
+
+4.8 percent y/y in August. Food prices had
+been held down by good local harvests and
+increased rice imports, but rose in July August,
+reflecting seasonal demand during Ramadan.
+Core inflation rose steadily through 2010 and
+into 2011, reaching 5.2 percent in August.
+Producer price inflation and inflationary
+expectations remain elevated. Public sector
+wages are also expected to increase as a result
+of administrative reforms while private sector
+wage growth has also accelerated in the
+mining and agricultural sectors.
+7.
+The current account surplus has
+declined in line with strengthening
+domestic demand, but capital inflows have
+increased. Export revenues continue to rise,
+buoyed by higher commodity prices and
+strong regional growth. Strong portfolio
+inflows have continued this year, reflecting
+mainly large nonresident purchases of
+government bonds (SUNs) and, to a lesser
+extent, central bank bills (SBIs) and equities.
+The surge in gross portfolio inflows has
+averaged 2 percent of GDP per quarter since
+June 2009. As a result, over one˗third of SUNs
+and SBIs are now owned by nonresidents.
+Foreign direct investment inflows have also
+
+0
+
+0
+Dec-09
+
+Apr-10
+
+Aug-10
+
+Dec-10
+
+Apr-11
+
+Aug-11
+
+Sources: CEIC Data Co., Ltd.; and IMF staff calculations.
+
+INTERNATIONAL MONETARY FUND 5
+
+2011 ARTICLE IV REPORT
+
+INDONESIA
+
+picked up sharply this year, not only to the
+resources industry, but also to the manufacturing
+and retail sectors.
+
+2005=100
+
+measures to tighten policy, including raising
+reserve requirements on both local currency and
+foreign currency deposits. However, to stimulate
+transactions in the money market under the
+continuing large excess liquidity BI lowered the
+Balance of Payments
+(In billions of U.S. dollars)
+bottom of the interest rate corridor in
+15
+Current account balance
+Direct & other investment
+September 2011 by 50 bps to 5.25 percent while
+10
+Portfolio investment
+Reserves and related items
+keeping the policy rate unchanged. BI has also
+5
+been able to curtail foreign investor demand for
+0
+central bank bills (SBIs) by extending the holding
+period requirement on these securities from one
+-5
+month to six months, lengthening the maturity of
+-10
+SBI issues to nine months, and introducing longer
+-15
+maturity nontradable term deposits available only
+2007:Q1
+2008:Q1
+2009:Q1
+2010:Q1
+2011:Q1
+Sources: CEIC Data Co., Ltd.; and IMF staff calculations.
+to banks. Despite substantial sterilization efforts,
+liquidity has increased, and credit growth remains
+8.
+International reserves almost doubled
+high at 23.6 percent y/y in August, while bank
+since end˗2009, reaching $125 billion at
+lending surveys indicate that credit growth is
+end˗August 2011, while over the past six
+expected to remain at this rate through 2011.
+months, the rupiah has resumed its appreciation Lending growth has been strongest to the mining
+against the dollar. CGER estimates indicate that the sector but has also been broad based across
+real exchange rate appears to be broadly in line with investment and consumption. Since end˗June,
+fundamentals, with two of the three measures
+overnight money market rates have fallen by
+showing a slight undervaluation (Box 1).
+around 100 bps and are now 145 bps below the BI
+policy rate. More notably, the yield on BI’s open
+Key Exchange Rates
+140
+7,000
+market operations have fallen by around 150 bps.
+130
+Moreover, yields on short term treasury securities
+8,000
+120
+are now well below money market rates. Demand
+9,000
+110
+for these securities has been driven by foreign
+100
+10,000
+investors unable to purchase new SBIs, implying
+90
+expectations of further rupiah appreciation.
+11,000
+NEER (left scale)
+REER (left scale)
+
+70
+
+12,000
+
+Private Sector Credit Growth and Access to Credit
+
+Rupiah/US$ (right scale)
+
+60
+13,000
+Dec-07 Jun-08 Dec-08 Jun-09 Dec-09 Jun-10 Dec-10 Jun-11
+
+9.
+Since October 2010, Bank Indonesia (BI)
+has used a wide range of instruments to stem
+mounting inflationary pressures and strong
+foreign investor demand for its sterilization
+instruments. The central bank raised its policy
+rate by 25 bps to 6.75 percent in February 2011.
+Prior to this, the BI rate had been unchanged since
+August 2009. BI has also implemented other
+6
+
+INTERNATIONAL MONETARY FUND
+
+10
+
+40
+
+8
+
+Private sector credit
+growth (right scale)
+
+35
+Year-on-year percent change
+
+Source: IMF, International Financial Statistics.
+
+45
+
+Business access to credit
+(right scale)
+
+30
+
+6
+4
+2
+
+25
+
+Net balance (in percent)
+
+80
+
+20
+
+0
+
+15
+
+-2
+
+10
+
+-4
+
+5
+
+-6
+
+0
+Dec-07
+
+Jun-08
+
+Dec-08
+
+Jun-09
+
+Dec-09
+
+Jun-10
+
+Sources: CEIC Data Co., Ltd.; and IMF staff calculations.
+
+Dec-10
+
+-8
+Jun-11
+
+INDONESIA
+
+2011 ARTICLE IV REPORT
+
+Box 1. Indonesia: Exchange Rate Assessment
+After a large depreciation following the Lehman event in the fourth quarter of 2008, the real
+effective exchange rate (REER) returned to its pre crisis high by Q1 of 2010 and continued on an
+appreciating trend in 2011. The appreciation has been accompanied by strong export growth
+in 2010 and the first half of 2011. Although
+exports have been driven by buoyant
+World Market Penetration
+(In percent of total world imports)
+commodity prices, noncommodity goods
+1.6
+have also performed well, with y/y growth
+1.4
+1.2
+in manufacturing exports averaging about
+1.0
+30 percent. As a result, Indonesia’s world
+0.8
+market share has improved steadily during
+0.6
+the last two years.
+0.4
+0.2
+
+Indonesia
+
+Thailand
+
+Vietnam
+
+Philippines
+Malaysia
+The staff exchange rate assessment (CGER)
+0.0
+2005
+2006
+2007
+2008
+2009
+2010
+suggests that the REER is close to
+Source: IMF, Direction of Trade Statistics.
+equilibrium. The macro balance approach
+estimates Indonesia’s current account deficit norm in the medium term at 0.7 percent of GDP,
+close to the staff’s projection of a
+Indonesia: Real Exchange Rate Assessment
+medium˗term current account deficit of
+Percent Deviation from
+about 1 percent of GDP, implying that the
+Estimated Equilibrium
+REER is slightly overvalued. The other two
+Macro balance approach (MB) 1/
+4
+approaches, which compute the current
+External sustainability approach (ES) 1/
+-9
+ERER approach (ER), 2011 2/
+-4
+account position that would stabilize
+ERER approach (ER), 2016
+-6
+Indonesia’s net foreign assets at the 2010
+Memorandum items (in percent of GDP):
+Current account norm
+-0.7
+level of 35 percent of GDP (external
+NFA-stabilizing current account at 2010 level
+-2.5
+sustainability approach), and estimate
+Source: IMF staff estimates.
+equilibrium based on a regression analysis,
+1/ Based on April 2011 WEO projections.
+2/ Based on April 2011 REER value.
+suggest that the REER is slightly
+undervalued. However, on average, and
+taking into account the confidence interval, Indonesia’s REER is in line with its fundamentals.
+
+10.
+Capital inflows and robust economic
+growth have underpinned substantial gains
+in other financial markets. Despite the recent
+market correction, stocks have outperformed
+other bourses in the region, rising over
+4 percent year to date in U.S. dollar terms by
+mid˗September, with net inflows to equities of
+nearly $1.4 billion over the same period.
+Forward looking price/earnings estimates are
+closer to the high end of historical patterns but
+
+do not appear excessive. While there is
+anecdotal evidence of strong price increases
+for some high end residential segments and
+for industrial land, aggregate property price
+indices are only rising in line with CPI inflation.
+Strong growth prospects, solid debt and
+external fundamentals, and the potential for a
+ratings upgrade to investment status have
+caused external debt spreads to narrow. Since
+the start of the year, Indonesia’s sovereign
+INTERNATIONAL MONETARY FUND 7
+
+2011 ARTICLE IV REPORT
+
+INDONESIA
+
+ratings were upgraded to one notch below
+investment grade by Moody’s and Standard
+and Poors. Both Standard and Poors and Fitch
+have positive ratings outlooks.
+11.
+The moderate fiscal stimulus
+provided in 2009 was reduced in 2010.
+The 2010 central government budget deficit
+was 0.6 percent of GDP, well below the
+government’s revised budget deficit target of
+2.1 percent. The outturn reflected ongoing
+implementation problems, with capital
+expenditures 19 percent below the budget
+allocations. Revenue collection exceeded the
+budget target, buoyed by strong nominal GDP
+growth. Public debt to GDP fell to 27 percent,
+underscoring Indonesia’s strong fiscal position
+General Government Gross Debt
+(In percent of GDP)
+
+90
+
+90
+80
+
+2010
+
+80
+
+70
+
+Indonesia
+
+70
+
+60
+
+Emerging Asia 1/
+
+60
+
+50
+
+50
+
+40
+
+40
+
+30
+
+30
+
+20
+
+20
+
+2010
+
+2009
+
+2008
+
+2007
+
+2006
+
+2005
+
+2004
+
+2003
+
+2002
+
+2001
+
+Brazil
+
+Malaysia
+
+Thailand
+
+Philippines
+
+Turkey
+
+EM Asia
+
+Columbia
+
+South Africa
+
+0
+
+Peru
+
+10
+
+0
+
+Indonesia
+
+10
+
+Source: IMF, Fiscal Monitor, April 2011.
+1/ PPP GDP-weighted average.
+
+relative to its own historical performance and
+its emerging market peers. At end˗2010, the
+government reformed expenditure and
+
+8
+
+INTERNATIONAL MONETARY FUND
+
+budgeting procedures to improve execution,
+but this has not yet been reflected in increased
+spending. Spending units were provided
+greater flexibility to reallocate expenditures
+within their overall budget allocation. In
+addition, pilot performance˗based budgeting
+and medium˗term expenditure frameworks
+have been expanded to more line ministries to
+improve spending effectiveness.
+12.
+Indonesian banks continue to be
+profitable and generally well capitalized,
+consistent with the findings of the 2010
+FSAP. Capital adequacy ratios slipped
+1 percent between March 2010 and May 2011,
+mainly due to the introduction of the
+operational risk component of Basel II.
+However, the system remains well capitalized.
+The impact of completing the Basel II
+transition and moving towards Basel III is
+expected to be minimal. Asset quality is
+generally satisfactory, with the nonperforming
+loan ratio remaining below 3 percent, and the
+loan to deposit ratio edging upwards over the
+past year following a cyclical pickup in lending.
+Indonesia is in the process of addressing
+deficiencies in the framework for AML/CFT
+noted by the Financial Action Task Force
+(FATF), including passage of the AML/CFT Act
+in October 2010 and the Fund Transfer Act in
+March 2011.
+
+INDONESIA
+
+2011 ARTICLE IV REPORT
+
+OUTLOOK AND RISKS
+13.
+Immediate risks to economic
+stability are manageable. Staff projects
+growth to be sustained at 6.4 percent in 2011
+and 6.3 percent in 2012 despite the lower
+global growth projected in the
+September 2011 World Economic Outlook. The
+most likely risk is a reversal in portfolio inflows
+related to a sudden drop in foreign investor
+demand for government debt (such as a new
+round of risk aversion caused by spillovers
+from advanced economies). Foreign ownership
+in government rupiah debt is high at
+35 percent, but Indonesia is now in a better
+position to manage such an event with strong
+reserves and fiscal room (including substantial
+cash reserves). Public debt remains on a
+sustainable path and is expected to decrease
+to around 25 percent of GDP by end˗2011 (see
+Appendix I). A sharp rise in bond yields would
+affect the banking system through increases in
+funding costs, market losses, and loan defaults,
+but the banks’ current high profitability and
+capital positions should be sufficient to buffer
+these shocks. That said, the lack of a financial
+safety network is a major weakness and could
+allow an individual bank failure to become a
+systemic problem.
+14.
+The external outlook, however,
+remains highly uncertain. Indonesia is not
+immune to spillovers from a global financial
+shock that would lead to another recession in
+advanced economies. It could be affected
+through the trade, financial, and commodity
+price channel. On the trade side, the effect
+would mainly feed through commodity exports
+as Indonesia is less integrated in the regional
+supply chain for manufactured goods. In this
+regard, China’s demand and its policy
+
+response in such a shock scenario would be
+crucial to investors’ sentiment in Indonesia, as
+commodity exports to China have increased
+significantly in recent years. The financial
+channel is not expected to play a big role, as
+the private sector and banks are not
+dependent on foreign financing. While foreign
+currency borrowing has increased rapidly in
+the past year, it remains low relative to
+corporate balance sheets and to GDP.
+Indonesia’s relatively large domestic economy
+could prove resilient if consumption and
+domestic investment can carry the momentum
+even if FDI and commodity related investment
+slowed down significantly as part of an adverse
+global scenario.
+15.
+Market prices indicate that risks
+remain low but are sensitive to changes in
+global sentiment.1 Correlations between the
+European periphery’s and Indonesia’s financial
+assets have been low, compared to other G˗20
+emerging markets. In the recent bout of global
+risk aversion, CDS spreads and EMBI spreads
+have risen, but they remain below 2010 highs.
+In fact, Indonesia’s EMBI spreads have
+performed better than other large emerging
+markets. The stock market index has declined
+from a high level while domestic bond yields,
+as well as the rupiah, have returned to second
+quarter levels as of mid˗September (Figure 5).
+A ratings upgrade would substantially widen
+the foreign investor base and trigger inflows
+from funds that have mandates restricting
+them to investment grade assets, and this
+1
+
+For a more detailed discussion of financial spillovers
+to Indonesia, see Chapter IV of the accompanying
+selected issues papers.
+
+INTERNATIONAL MONETARY FUND 9
+
+2011 ARTICLE IV REPORT
+
+INDONESIA
+
+could push both local and global bond yields
+even lower.
+16.
+Over the medium term, staff
+projects growth to reach 7 percent,
+underpinned by both public and private
+sector investment, provided that the
+government’s ambitious infrastructure and
+structural reform agenda is implemented.
+The current account is projected to move to
+small deficits starting in 2012, due to robust
+investment demand and a trend decline in the
+terms of trade. Strong capital inflows—both
+FDI and portfolio investment—are expected to
+continue since planned structural reforms and
+infrastructure spending will expand private
+investment opportunities.
+17.
+The Government’s recently released
+Master Plan2 aims to make Indonesia one of
+the world’s largest economies by 2025. The
+first pillar of the plan is the development of six
+regional economic corridors through
+investments in sectors with high growth
+prospects and clear comparative advantages.
+This will be supported by the second and third
+pillars, namely improving connectivity and
+
+2
+
+Masterplan for the Acceleration and Expansion of
+
+Indonesia Economic Development 2011−2025.
+
+10
+
+INTERNATIONAL MONETARY FUND
+
+strengthening human resources and science
+and technology. The Master Plan targets
+investments of $468 billion over 2011−2025, of
+which 45 percent will be in infrastructure.
+One˗fifth of the total investment is expected to
+come from the government. The Master Plan’s
+assumptions for GDP growth and private
+investment, in particular, are very ambitious
+and will require a substantial acceleration in
+the reform agenda and increased political
+commitment to implementation.
+18.
+Indonesia’s growth path will depend
+on the success of the government’s reform
+program in accelerating public
+infrastructure projects and increasing
+human capital. A growth accounting
+framework (Box 2) suggests that if little further
+progress is made on infrastructure investment
+and other reforms, capital accumulation and
+total factor productivity growth could slow,
+and growth could be limited to 6 percent (or
+less) over the medium term. However,
+potential growth could reach 8 percent if more
+ambitious reforms are enacted, and spending
+on infrastructure is substantially increased.
+
+INDONESIA
+
+2011 ARTICLE IV REPORT
+
+Box 2. Indonesia: Estimating Potential Growth 1/
+Using growth accounting methods, Indonesia’s potential growth rate was estimated, and the change in
+output decomposed into the contributions of capital and labor and the efficiency with which the factors are
+combined. Estimating potential growth is highly dependent on the quality of the underlying data, and
+assumptions were necessary to calculate historical series for both capital and labor inputs.
+Prior to the Asian crisis (1991−1997), estimated potential growth was robust at 6.5 percent and
+predominantly input driven, specifically by capital accumulation. After becoming negative immediately after
+the Asian crisis, estimated potential growth recovered partly to 4 percent during 2001−2005, with
+productivity gains dominating during this period owing to institutional reforms and growth conducive
+policies. Since 2006, potential growth picked up to
+Indonesia: Potential GDP Growth Rate by Growth Accounting
+around 6 percent, again being driven by growth in
+(In percent)
+14
+14
+labor and capital inputs rather than by efficiency.
+Baseline
+12
+
+Indonesia’s potential growth rate in the baseline
+scenario is estimated to gradually rise to 7 percent,
+mostly reflecting the increase in capital
+accumulation and efficiency. For a downside
+scenario, if there were slow progress on
+infrastructure and other structural reforms, the
+growth rate would stagnate to about 6 percent.
+Raising Indonesia’s potential growth to 8 percent
+over the medium term would require substantial
+enhancements in capital and efficiency.
+
+Projection
+
+12
+
+10
+
+10
+
+8
+
+8
+
+6
+
+6
+
+4
+
+4
+
+2
+
+2
+
+0
+
+0
+
+-2
+
+-2
+
+-4
+-6
+
+TFP growth
+Labor input
+
+Capital input
+Potential growth
+
+-4
+-6
+
+1991 1993 1995 1997 1999 2001 2003 2005 2007 2009 2011 2013 2015
+Source: IMF staff calculations.
+
+Indonesia: Contribution to Potential Growth Under Three Scenarios, 2016
+
+For Indonesia to raise its growth potential, it will
+(In percent)
+need greater efforts to address longstanding
+Delayed
+Intensive
+constraints, including weaknesses in infrastructure
+Reform
+Baseline
+Reform
+and the need to raise overall efficiency. Ample
+Potential growth
+6.0
+7.2
+8.2
+investment is needed so that capital stock growth
+Capital services
+4.4
+5.2
+5.5
+can contribute to raising potential growth.
+Stock of capital
+4.1
+4.8
+5.2
+Capacity utilization
+0.3
+0.3
+0.3
+Supportive policies for infrastructure development,
+Labor services
+1.3
+1.4
+1.5
+such as a more effective fiscal policy through
+1-NAIRU
+0.2
+0.2
+0.3
+Labor force participation rate
+0.3
+0.3
+0.4
+improved budget execution, would be crucial to
+Average hours worked
+0.0
+0.0
+0.0
+this effort. Improvements in efficiency, or TFP, which
+Working age population
+0.8
+0.8
+0.8
+includes a wide range of country specific factors
+Total factor productivity
+0.2
+0.7
+1.1
+related to Indonesia’s business environment, will
+Sources: BPS; Haver Analytics; WEO database; and IMF staff estimates.
+further promote growth. Ongoing efforts in carrying
+out structural reforms, such as greater openness to
+trade and FDI, financial development, and reform of the regulatory framework can help enhance growth via
+closing technology gaps and increasing efficiency.
+___________________________________
+1/ For a more detailed discussion, see Chapter I of the accompanying selected issues papers.
+
+INTERNATIONAL MONETARY FUND 11
+
+2011 ARTICLE IV REPORT
+
+INDONESIA
+
+POLICY DISCUSSIONS
+A. Monetary and Exchange Rate Policy: Controlling Liquidity amid
+Sustained Inflows
+
+19.
+Headline inflation has eased in
+recent months as rice imports and the
+harvest have tempered food price increases,
+but upward pressure on core inflation is
+expected to remain. Excess liquidity remains
+high, wages and real credit growth are
+increasing, and the fiscal stance is expected to
+add stimulus in the second half of the year.
+The future path of food prices will play a major
+role in the evolution of inflation, but recent
+increases in rice stocks and plans to import
+rice limit the risk of a repeat of last year’s
+sharp spike in headline inflation. Nevertheless,
+as the output gap is estimated to have closed
+by 2011:Q3, core inflation is projected by staff
+to remain at 5 percent in 2011 and could
+increase further in 2012, assuming that
+planned reductions in energy subsidies take
+place. This would push headline inflation to
+around 6½ percent in 2012, well above BI’s
+target band of 4.5 ±1.0 percent.
+20.
+Under these circumstances, and
+given the lags in monetary policy
+transmission, BI will need to contain
+inflationary expectations and limit
+second˗round effects from energy price
+increases. Unless there is a substantial
+deterioration in the external environment,
+Indonesia’s growth momentum will remain
+solid and broadly based. Therefore, there is
+little risk that monetary policy tightening will
+cause an unintended economic downturn, and
+the current accommodative conditions will
+eventually need to be withdrawn. Keeping
+inflation within the target range will also
+increase the credibility of BI and help achieve a
+12
+
+INTERNATIONAL MONETARY FUND
+
+sustained reduction in inflation over the
+medium term. The current volatility
+surrounding the global economic outlook and
+market sentiment suggests that an increase in
+the policy rate can be delayed until the
+situation becomes clearer.
+21.
+Staff recommended that BI use all
+instruments at its disposal to constrain any
+rise in inflationary pressures and the pace
+of credit growth. A combination of policy rate
+increases, liquidity withdrawal (including
+through additional increases in reserve
+requirements), and further exchange rate
+appreciation would help broaden transmission
+channels and increase policy effectiveness.
+Complementary macroprudential measures
+could also be used to help manage
+macroeconomic risks stemming from rising
+credit growth. This broad approach would
+provide a strong signal of BI’s resolve to lower
+inflation, which will help it attain its more
+ambitious 2012 inflation target and its medium
+term commitment to lower inflation to
+3 percent. BI should also guide price
+expectations around planned energy price
+increases by providing projections of the direct
+effects on inflation of such measures ahead of
+time, and explicitly stating how much of the
+first round effects it will accommodate in its
+inflation target. Assuming that demand
+conditions remain robust, as in the baseline
+forecast, staff believes that increases in the real
+policy rates will be necessary and emphasized
+that timely action would help control
+expectations to limit the size of the eventual
+adjustment.
+
+INDONESIA
+
+22.
+Strengthening the transmission
+from BI’s monetary operations to liquidity
+conditions, interest rates, and ultimately
+domestic demand, is crucial to improving
+the effectiveness and credibility of
+monetary policy. Staff noted that, while BI
+had made significant improvements to its
+monetary operations and taken steps to
+encourage money market development,
+persistent excess liquidity and weak money
+market activity were dampening the impact of
+changes in BI policy on banks’ cost of funds.
+Improving the effectiveness of monetary
+operations will require a coordinated and
+
+to foreign investors. Although foreign
+investors have switched to T˗bills and shorter
+maturity government bonds, the available
+amount is smaller and trading thin. FDI inflows,
+however, are projected to increase further.
+These inflows have been broad˗based,
+attracted by Indonesia’s large consumer base,
+low labor costs, and profitable commodity
+projects. Given the strong prospects for
+Indonesia and the region, FDI inflows should
+become a larger and perhaps less volatile
+source of support for the capital account than
+portfolio inflows.
+Indonesia: FDI by Economic Sector, 2010−2011:Q1
+(In percent)
+
+Indonesia: Policy Rate, OMO Rates and Overnight Rate
+
+Others
+13%
+
+(In percent)
+7.5
+
+7.0
+
+7.5
+
+JIBOR (overnight)
+Policy rate
+BI deposit facility
+BI OMO rate (3-month term deposit)
+BI OMO rate (6-month term deposit)
+
+7.0
+
+6.5
+
+6.5
+
+6.0
+
+6.0
+
+5.5
+
+5.0
+Jun-09
+Dec-09
+Source: Bloomberg L.P.
+
+5.5
+
+5.0
+Jun-10
+
+Dec-10
+
+Jun-11
+
+sustained series of reforms aimed at absorbing
+excess liquidity, providing more consistent
+interest rate signals from monetary
+instruments, and improving money market
+functioning (Box 3). In this regard, staff advised
+that BI should be more proactive with its
+monetary operations to withdraw liquidity and
+bring the overnight interbank rate closer to the
+policy rate. Failing to do so could cause
+confusion in the market and for the wider
+public about the central bank’s policy
+intentions.
+23.
+Strong capital flows are projected to
+continue. Portfolio inflows are projected to
+slow down for the rest of 2011, as the 6 month
+holding period of SBIs imposed in May will
+limit the supply of these instruments available
+
+2011 ARTICLE IV REPORT
+
+Transportation
+and
+communication
+16%
+
+Manufacturing
+35%
+
+Mining
+18%
+
+Source: Bank Indonesia.
+
+Wholesale and
+retail trade
+18%
+
+24.
+With reserves at comfortable levels,
+staff supported BI’s stance to allow greater
+exchange rate flexibility in the face of
+strong inflows. Accordingly, there should be
+less emphasis on reserve accumulation going
+forward with intervention limited to
+dampening volatility of the exchange rate. In
+the authorities’ view, the rupiah’s recent
+appreciation has been in line with others in the
+region and has not hurt its price
+competitiveness. Staff concurred with the
+authorities that portfolio inflows could reverse,
+especially if the crisis in the Euro Area
+intensifies. The Indonesian authorities
+successfully rode out the Lehman Brothers
+shock through the appropriate use of reserves
+and exchange rate adjustment with limited
+impact on financial stability and the real
+economy, and they are now in an even
+INTERNATIONAL MONETARY FUND 13
+
+2011 ARTICLE IV REPORT
+
+INDONESIA
+
+stronger position to withstand a similar shock.
+The international reserve buffers and
+government cash reserves built in the last year
+could help alleviate pressure on the exchange
+rate and local bond markets if a sharp reversal
+were to occur. With the recent increase,
+reserves are now above existing adequacy
+metrics. The authorities and staff also
+concurred that while additional capital flow
+management measures remain part of the
+toolkit, they are not likely to be needed at this
+time.
+International Reserves, Risk-Weighted Metric and Traditional Metrics
+(In percent of GDP, latest) 1/
+55%
+
+Reserves
+3 months imports
+100% of STD
+20% of M2
+Risk-weighted metric
+
+50%
+45%
+40%
+35%
+30%
+25%
+20%
+15%
+10%
+5%
+0%
+Indonesia
+
+Thailand
+
+Philippines
+
+Malaysia
+
+Sources: IMF, International Financial Statistics; and IMF staff calculations.
+1/ Risk-weighted metric is based on Assessing Reserves Adequacy, IMF Policy Paper, 2011. Reserves and
+GDP data for Indonesia are as off Q1 2011. Other data are as off end-2010.
+
+25.
+Existing measures to influence
+portfolio flows have successfully shifted the
+composition of inflows away from BI’s
+sterilization instruments. The recent
+imposition of a six˗month holding period for
+SBIs will lead to some outflows during the rest
+of the year because foreign investors will be
+unable to roll over their existing holdings.
+Additional capital flow measures do not seem
+advisable given the need to further develop
+and deepen capital markets. The authorities
+have put in place a series of backstops for the
+bond market if outflows were to lead to undue
+volatility in bond yields and the exchange rate.
+These include a market stabilization
+mechanism that would be funded by a
+combination of budget resources, cash
+reserves, and balance sheets of state owned
+enterprises, and BI has announced it could
+14
+
+INTERNATIONAL MONETARY FUND
+
+conduct auctions to buy rupiah denominated
+government bonds in order to reduce
+excessive currency volatility. Staff advised that
+a flexible approach should be taken, in the
+context of the planned crisis management
+protocol, to implement these market support
+mechanisms so as to avoid providing implicit
+insurance by reducing potential volatility for
+foreign investors, which could end up
+attracting more inflows.
+26.
+Sterilization costs have been an
+increasing drain on the central bank’s
+financial resources, as its assets are mainly
+low yielding foreign reserves and
+noninterest bearing government securities.
+This has led to an ongoing erosion of BI’s
+capital base. The financial position of the
+central bank should be strengthened in the
+context of the government’s broader asset
+liability management program, including the
+exchange of the nonmarketable government
+debt held by BI for marketable securities,
+which could then be used for monetary
+operations and to support the development of
+both the money and government debt markets
+(Box 3).
+27.
+Authorities’ views: Bank Indonesia
+noted that the current pace of credit growth
+was not excessive. Credit to GDP, at
+28 percent, was low relative to other countries
+in the region, and the recent increase in
+lending was more heavily weighted to
+investment and working capital. This should
+ultimately reduce inflationary pressures by
+boosting productive capacity. While
+recognizing that there would be further
+pressures on inflation, BI felt that the upward
+pressure would be limited and could be
+managed by adjusting reserve requirements
+and tightening prudential controls. Bank
+Indonesia also agreed that money market
+development is a key priority and had taken
+
+INDONESIA
+
+2011 ARTICLE IV REPORT
+
+Box 3. Policy Options for Reducing Excess Liquidity, Improving Money Market Operations
+and Money Market Development1/
+The framework for monetary operations, the management of system liquidity by the central bank, and
+money market development are all interlinked, and all contribute to the effectiveness of monetary policy.
+In the case of Indonesia, structural excess liquidity, along with impediments to money market
+development, especially of repo and swap markets, need to be addressed if both monetary operations
+and market functioning are to improve.
+BI should use a combination of increased reserve requirements and a predictable calendar of longer tenor
+open market operations to provide a structural withdrawal of liquidity. Reserve requirements should be
+generally uniform across banks. The uneven distribution of liquidity among banks is better addressed by
+improving the incentives for surplus banks to provide liquidity to deficit banks.
+To increase the clarity regarding the intent of BI’s monetary operations, the structure of its open market
+operations could be simplified. Nontradable term deposits should be phased out because their illiquidity
+affects their pricing, complicates banks’ liquidity management, and impedes money market development.
+Instead, BI should expand its use of reverse repos to manage liquidity. Structural operations could be
+conducted using variable rate auctions on a regular calendar. Eventually these rates will serve as useful
+benchmarks and provide indications of market expectations regarding the policy rate.
+The capacity for further expansion of the interbank market is limited by the contraction in interbank credit
+limits since the global financial crisis, especially for smaller banks. This has lead to some segmentation in
+the money market. Measures to improve the infrastructure for interbank repo markets, including adoption
+of the new global master repurchase agreement, should be implemented. Expanded use of repos by BI
+should also provide more eligible collateral for interbank repos.
+Replacing the nonmarketable, noninterest bearing government debt currently held by BI with marketable
+debt is a key prerequisite for the reform program outlined above. This will supply the collateral needed by
+both BI and banks, improve BI’s policy credibility by providing it with the financial resources to expand its
+liquidity withdrawal, and support further development of the local government debt market.
+___________________________________
+1/ For a more detailed discussion, see Chapter II of the accompanying selected issues papers.
+
+several measures in the last few months,
+including strengthening the compilation and
+dissemination of interbank data and increasing
+the use of reverse repos for liquidity
+withdrawal. A new Global Master Repurchase
+Agreement, drafted in coordination with the
+Ministry of Finance (MOF), the securities
+industry regulators, and market
+
+participants, should be adopted by year end.
+Both BI and MOF agreed it was important to
+address the impact of sterilization costs on the
+central bank’s balance sheet and were
+discussing possible modalities for
+implementing the asset liability management
+agenda, including replacing the nonconvertible
+government debt held by BI.
+
+INTERNATIONAL MONETARY FUND 15
+
+2011 ARTICLE IV REPORT
+
+INDONESIA
+
+B. Fiscal Policy: Improving the Structure of the Budget
+28.
+The stance of fiscal policy has been a
+source of macroeconomic strength, but the
+postponement of subsidy reforms limits the
+flexibility to increase much needed
+infrastructure and social spending. Higher
+oil prices have pushed projected subsidy costs
+to 3.2 percent of GDP in 2011, compared with
+projected development expenditure of
+2.3 percent of GDP. Nevertheless, Staff project
+that the 2011 budget deficit will be 1.3 percent
+of GDP, compared with the proposed revised
+budget target of 2.1 of GDP, largely based on
+a historical pattern of under spending. In spite
+of recent reform measures to improve budget
+implementation, execution of spending in the
+first six months remained low.
+29.
+The limited flexibility of the budget
+constrains the use of fiscal policy for
+countercyclical purposes. This places a
+greater burden on monetary policy to respond
+to economic fluctuations. If economic growth
+were to falter (in response to a deterioration in
+global economic conditions, for example),
+there is considerable fiscal space to provide
+stimulus if needed. However, automatic
+stabilizers are small, and implementation
+capacity to expand discretionary spending in a
+timely manner is very limited. Alternatively, if
+economic developments remain robust, staff
+noted that any overperformance in revenue
+collections in 2011 could be used to reduce
+the overall deficit. For 2012, staff urged the
+authorities to improve the targeting of
+subsidies while increasing infrastructure
+spending.
+
+16
+
+INTERNATIONAL MONETARY FUND
+
+30.
+Staff stressed Indonesia’s own prior
+achievements in reducing energy subsidies,
+combined with expanding cash transfer
+programs to vulnerable groups. Indonesia
+successfully implemented such programs
+in 2005 and 2008. However, energy subsidies
+have risen in line with oil prices and now
+account for 18 percent of expenditures.
+Moreover, fast increasing domestic fuel
+demand, volatile oil prices and uncertainties in
+oil and gas production would pose risks to the
+budget going forward. Raising administrative
+fuel prices, and moving to a flexible pricing
+policy, would mean only temporary upward
+pressure on inflation if other policies are
+directed to limiting second round effects.
+Lower subsidies would help provide the
+necessary fiscal space for increasing
+infrastructure and social spending that would
+support higher economic growth.
+31.
+Raising the tax revenue ratio from
+its current low level (12 percent of GDP)
+will require not only improved tax
+administration, but also closing of
+exemptions and broadening the tax base.
+Tax efficiency is low relative to regional peers.
+Staff emphasized that tax administration
+reform should continue to focus on increasing
+tax compliance and improving auditing. Staff
+identified other areas of the income tax and
+the value added tax where base broadening
+could be achieved (Box 4).
+
+INDONESIA
+
+2011 ARTICLE IV REPORT
+
+Box 4. Indonesia: Revenue Mobilization 1/
+Indonesia faces the challenge of mobilizing revenue to provide space for poverty relief and
+infrastructure improvement. However, simply increasing revenue by further taxing compliant
+taxpayers can cause distortions and increase inequalities. Raising revenues in an increasingly
+globalized economy requires strengthening broad˗based taxes and improving tax compliance, and
+should lead to a more efficient and more equitable tax system that enhances economic growth.
+The tax revenue to GDP ratio in Indonesia is one of the lowest in the G˗20. Personal income tax
+revenues are as low as 1 percent of GDP, while value˗added tax and corporate income tax each raise
+about 4 percent of GDP.
+
+Brazil
+
+Russia
+
+Argentina
+
+Turkey
+
+South Africa
+
+Malaysia
+
+Chile
+
+Mexico
+
+China
+
+Thailand
+
+India
+
+Indonesia
+
+Philippines
+
+General Government Revenue, 2010
+While the number of personal income taxpayers
+(In percent of GDP)
+40.0
+multiplied in recent years, increasing compliance
+35.0
+of those already in the tax net still remains a
+30.0
+challenge. This requires further efforts in revenue
+25.0
+20.0
+administration. Tax efficiency is low by regional
+15.0
+standards. Overall tax effort—measured as the
+10.0
+ratio of actual tax revenue to estimated tax
+5.0
+0.0
+capacity—is around 54 percent. A realistic target
+range could be between the median for lower
+middle˗income and the median of upper
+Source: IMF, WEO database.
+middle˗income countries. These give a range of
+potential tax revenue of 13.4−16.4 percent of GDP in the medium term, which is a 2−5 percentage
+point improvement from current levels. This target would require both broadening tax bases and
+increasing tax compliance.
+
+The following measures could be considered to broaden the tax base over time:
+
+
+Limiting VAT exemptions: Many goods and services are exempt. Reducing the number of
+exemptions would expand the tax base and raise VAT revenues.
+
+
+
+Limiting tax holidays and corporate income tax exemptions: Many companies receive preferential
+treatment, such as investment tax allowances, accelerated depreciation, special tax rates for
+certain industries, etc. CIT revenues could be increased substantially by removing these
+inefficiencies. Tax holidays and exemptions should be targeted to a few well˗specified sectors,
+with clear and transparent criteria, and for a well˗defined preset period of time.
+
+
+
+Taxing fringe benefits: The personal income tax system is well designed and reasonably simple,
+including a widespread withholding of tax at source. However, fringe benefits remain exempt
+from personal income tax. Taxing this source of income could raise substantial additional
+revenues.
+
+___________________________________
+1/ For a more detailed discussion of tax mobilization issues, see Chapter III of the accompanying selected issues
+papers.
+
+INTERNATIONAL MONETARY FUND 17
+
+2011 ARTICLE IV REPORT
+
+INDONESIA
+
+32.
+Authorities’ views: The authorities
+noted that the delays in capital expenditures
+so far in 2011 were caused by recent changes
+to procurement procedures, which forced the
+reissuance of some tenders originally initiated
+in late˗2010, and they expect implementation
+to improve in coming months. There is
+widespread agreement among government
+officials and the public that fuel prices must be
+raised, but the decision remains a political one.
+There are plans to restrict fuel subsidies to
+
+private vehicles on Java, but significant
+implementation hurdles remain. In addition to
+continuing the tax administration reforms, the
+authorities also saw some scope to increase
+nontax revenues by raising dividend and
+royalty income. The authorities agreed that
+increasing revenues will be crucial for fiscal
+reform.
+
+C. Financial Policies: Strengthening Safety Nets
+33.
+Bank Indonesia has made progress
+towards the FSAP recommendation to
+establish a legally mandated Prompt
+Correction Action (PCA) mechanism that
+would improve its ability to resolve weak
+banks in a timely and transparent manner. BI
+has issued a new regulation on problem bank
+exit, which improves the existing framework by
+expanding the criteria to place a bank under
+“intensive” supervision, introducing a time limit
+for resolving weaknesses, and requiring a
+capital injection to exit from special
+surveillance. In addition, the authorities have
+requested technical assistance to guide further
+reforms. Further strengthening the regime will
+provide a critical line of defense in maintaining
+financial stability, particularly given the
+absence of a robust financial safety net.
+Additional steps could include amending the
+Banking Act to require early supervisory
+corrective actions based on capital adequacy
+and other indicators, tightening the rule for
+recognizing a failed bank and transferring the
+bank from special surveillance to the deposit
+insurance agency (LPS), and amending the LPS
+law to provide for a wider array of bank
+resolution tools.
+
+18
+
+INTERNATIONAL MONETARY FUND
+
+34.
+Over the past year, BI supervisors
+have focused on developing and
+implementing a new risk rating system for
+the banks. The new rating system, which is
+more forward˗looking and uses more
+qualitative methodology, is a landmark shift
+from the existing system. A regulation has
+been issued, training has commenced, and full
+implementation is on track for the
+January 2012 deadline. In connection with the
+new rating system, BI has issued a new fit and
+proper regulation and a regulation on
+implementing pillar I of Basel II. Government
+officials have been discussing changes in
+single ownership limits for banks as a way to
+improve governance. Since there are other
+tools available to address governance
+concerns, including fit and proper
+requirements for strategic ownership positions,
+staff noted that ownership limits could make it
+more difficult for banks to raise capital.
+35.
+Bank Indonesia supervisors have
+been making good use of their stress
+testing framework. Following on from work
+carried out during the FSAP, BI’s Financial
+System Stability Bureau conducts stress testing
+on a monthly basis and reports the results to
+the Board and informs the supervisors, who
+
+INDONESIA
+
+utilize the tool as a basis for discussions with
+the banks. As a result, and in anticipation of
+further credit growth, many banks have raised
+their capital levels. While the strong GDP
+growth outlook suggests vulnerabilities remain
+low, supervisors should be alert to aggressive
+growth strategies pursued by some banks and
+move forward on discussions to revise the loan
+classification standards. The staff
+recommended other macroprudential
+measures that could limit risks from rapid
+expansion of bank lending, including raising
+risk weights on the fastest growing sectors,
+such as consumer and foreign currency
+corporate lending, and adopting forward
+looking provisioning requirements. A small
+number of Indonesian banks are still
+vulnerable to interest rate shocks on their
+banking books; however, the most recent
+interest rate risk sensitivity analysis shows that
+these risks have declined further since the
+FSAP. The proposed law to establish an
+independent financial supervision agency (OJK)
+continues to stall, as details regarding the
+composition of the Board of Commissioners
+are being discussed in parliament. This
+longstanding issue was also addressed during
+the FSAP and a subsequent technical
+assistance mission. The FSAP stressed that
+there were significant risks to bank supervision
+being transferred out of BI and noted that
+close cooperation between BI and the OJK (if
+forthcoming) would be essential.3
+
+3
+
+2011 ARTICLE IV REPORT
+
+36.
+The adoption of the Financial
+System Safety Net (FSSN) law remains
+outstanding. As noted in the FSAP, the FSSN
+law would provide a legal foundation for crisis
+management and address certain issues, such
+as emergency lending. While the various
+financial sector regulatory agencies are
+proceeding with developing their individual
+crisis management protocols, passage of the
+FSSN remains critical to ensure that a legal
+basis exists for decisions that would need to
+be taken if a crisis were to occur. Other
+financial sector laws currently under review,
+such as the BI Act, the Banking Act, and the
+Capital Markets law, should be amended to
+provide a proper bank resolution framework
+and to ensure consistency with the FSSN law.
+37.
+Authorities’ views: The authorities
+expressed appreciation for the assistance
+provided during the FSAP to build capacity for
+stress testing, which has now been
+incorporated into BI’s surveillance function. In
+addition, there is widespread agreement that
+an FSSN law is important for safeguarding
+financial stability and managing crisis.
+However, efforts taken thus far to strengthen
+the financial safety net by introducing an exit
+policy regulation (PCA) were viewed by BI as
+providing an adequate mechanism to deal with
+any issues that might emerge at this time while
+efforts continue to adopt the FSSN.
+
+See IMF Country Report No. 10/288.
+
+INTERNATIONAL MONETARY FUND 19
+
+2011 ARTICLE IV REPORT
+
+INDONESIA
+
+D. Trade and Development Policies
+38.
+The government is pursuing a
+number of trade policy initiatives. Efforts are
+underway to make the decision making
+process for nontariff barriers more transparent
+and to improve the coordination between
+various government departments responsible
+for these measures. In the context of food
+security, Indonesia has improved its own
+procedures for importing rice and is using its
+position as the ASEAN Chair this year to
+promote regional rice reserves and trade
+protocols.
+39.
+The authorities expressed
+disappointment over the stalled Doha
+Round talks and hoped for more leadership
+by advanced economies in multilateral trade
+negotiations. They noted that Indonesia was
+now involved in bilateral trade discussions,
+mostly in the Asian region, and felt that the
+positive impact of these arrangements could
+be enhanced further if they were
+complemented by progress at the multilateral
+level.
+40.
+Capital market development is
+needed to diversify funding sources.
+Strengthening investor confidence will be an
+important factor in propelling the markets
+forward. To this end, and as noted in the
+MOF’s Master Plan, ensuring that high quality
+financial information is provided by market
+players should remain a top priority, and the
+transitioning to International Financial
+
+20
+
+INTERNATIONAL MONETARY FUND
+
+Reporting Standards is a positive move. This
+process will be aided by strengthening other
+infrastructure elements, such as the Capital
+Markets Law and increasing public awareness
+of products. Encouraging state owned
+enterprises to list on the domestic exchange
+and expanding the institutional investor base
+by supporting pension fund industry
+development would also assist in market
+development.
+41.
+The authorities were hopeful that a
+critical weight of reforms could be achieved
+in the next few months that would catalyze
+additional foreign direct investment.
+Passage of the Land Acquisition Act and the
+successful negotiation of two more major
+public private partnership infrastructure
+projects to complement a central Java power
+project, recently launched, would be critical.
+Overseas interest in investing in Indonesia was
+mostly coming from the Asian region but is
+now increasing from other regions as well.
+Investors have focused on labor intensive
+manufacturing, where there is some evidence
+that firms are shifting production to Indonesia,
+and on sectors serving a growing Indonesia
+consumer market, such as retail, personal care,
+and automobiles.
+
+INDONESIA
+
+2011 ARTICLE IV REPORT
+
+STAFF APPRAISAL
+42.
+Immediate outlook: Indonesian GDP
+growth is projected to remain robust at around
+6−6½ percent y/y in both 2011 and 2012.
+Increases in both foreign and domestic
+investment, including an anticipated increase
+in government infrastructure spending, are
+expected to offset lower growth contributions
+from net exports as import demand rises.
+Accelerating credit growth and an anticipated
+reduction in energy subsidies should push core
+inflation modestly higher this year and
+into 2012. Although the current account could
+move into deficit next year, the overall balance
+of payments will remain in surplus as capital
+inflows continue.
+43.
+Risks: A key risk to the near˗term
+outlook would be a further deterioration in
+growth for advanced economies, resulting
+from the continuing turmoil in Europe and
+budgetary issues in the United States. In
+addition to reduced global demand for
+Indonesian exports and lower commodity
+prices, this would cause a sharp increase in
+global risk aversion, which could lead to capital
+outflows from Indonesia. However, given
+strong fundamentals, and low dependence on
+external demand, the downside risks for
+Indonesia appear to be manageable.
+44.
+Continued exchange rate flexibility
+will be important in managing volatile
+capital flows, and the buildup in reserves over
+the past eighteen months will help buffer any
+deterioration of international financial
+conditions. While FDI inflows are expected to
+continue, portfolio inflows could reverse,
+especially if the crisis in the Euro Area
+
+intensifies. There are no signs of any
+misalignment in the exchange rate, and
+exports (including manufacturing) are strong.
+The current level of international reserves is
+adequate, including after taking into account
+foreign investor holdings of local currency
+government debt.
+45.
+Given rising domestic demand
+pressures and lags in monetary policy
+transmission, BI should be prepared to
+tighten its policy stance in the future to
+achieve its lower inflation target for 2012.
+Since current demand indicators are robust,
+the staff sees little risk of a policy˗induced
+slowdown in growth, assuming no major
+further deterioration in global prospects. To
+broaden policy transmission channels, BI
+should use a combination of policy rate
+increases, macroprudential measures and
+liquidity absorption to limit excessive domestic
+demand growth and control inflationary
+expectations, and focus its communications on
+its commitment to the inflation target.
+Macroprudential measures should be
+considered to reduce risks associated with
+accelerating credit growth. These could include
+raising risk weights on sectors with rapidly
+growing credit, such as consumer credit, and
+countercyclical capital and forward˗looking
+provisioning requirements.
+46.
+Persistent excess liquidity and the
+underdeveloped interbank market limit the
+effectiveness of monetary policy. BI’s
+operational framework should be adjusted to
+more effectively direct short˗term interbank
+rates towards its policy rate while promoting
+
+INTERNATIONAL MONETARY FUND 21
+
+2011 ARTICLE IV REPORT
+
+INDONESIA
+
+market development. Absorption of structural
+excess liquidity through a combination of
+reserve requirement increases and open
+market operations will be a key first step. The
+current uneven distribution of liquidity among
+banks should be addressed by improving
+money market functioning, including
+promoting the use of instruments that limit
+credit risk such as repos and swaps.
+47.
+The government should act quickly
+to strengthen BI’s financial resources by
+replacing nontradable noninterest˗bearing
+government debt currently held by BI with
+marketable securities, and replenishing its
+capital base. This would increase BI’s capacity
+to absorb liquidity inflows, contribute to
+money market development, and improve the
+credibility of BI’s commitment to low inflation.
+Further, it would contribute to the deepening
+of the market for government securities.
+48.
+To provide a legal foundation for
+crisis management, the adoption of the
+Financial System Safety Net (FSSN) law
+should be a top priority. The FSSN law would
+address crisis management issues, such as
+emergency lending and, while the various
+financial sector regulatory agencies are
+proceeding with developing their individual
+crisis management protocols, passage of the
+FSSN remains critical to ensure that a legal
+basis exists for decisions that would need to
+be taken if a crisis were to occur. Other
+financial sector laws should also be reviewed
+to ensure consistency with the FSSN law.
+49.
+The authorities’ efforts to
+strengthen supervisory oversight by
+developing a new risk˗based bank rating
+system are appropriate. The new system will
+require more qualitative judgment in assessing
+a bank’s safety and soundness and will expand
+
+22
+
+INTERNATIONAL MONETARY FUND
+
+the range of actions supervisors could take to
+address problems. The new supervisory
+risk˗based rating system for banks will also aid
+the introduction of a risk˗based premium
+deposit insurance system. A move to such a
+system from the existing flat˗rate premium
+scheme, potentially supported by additional
+capital for LPS, will help ensure that the
+deposit insurance scheme has sufficient
+resources.
+50.
+Fiscal developments are consistent
+with the government’s firm commitment to
+sustainability and strong public finances.
+However, increasing fuel subsidies are
+distorting the structure of the budget and
+increasing the deficit in 2011, providing a
+significant demand stimulus and increasing the
+burden on monetary policy. In the current
+outlook, any revenue collections in excess of
+the 2011 budget estimates should be saved so
+as to reduce the stimulus from fiscal policy. If
+there were to be a deterioration in the
+economic outlook, there is considerable fiscal
+space to provide stimulus, but the ability to do
+so in a timely manner is likely to be
+constrained by implementation capacity. The
+overall fiscal stance in 2012 should place
+further emphasis on infrastructure spending.
+To support these objectives, the government
+should implement its commitment to reduce,
+and better target, subsidies this year. The
+burgeoning cost of the current subsidy
+schemes limits the flexibility of fiscal policy and
+the ability to fund priority expenditures, as well
+as contributing to uncertainty regarding
+inflation and other macroeconomic outcomes.
+51.
+The medium term fiscal strategy
+should balance the authorities’ wish for
+further public debt consolidation with
+improving the effectiveness of fiscal policy
+to support growth. A lack of infrastructure
+
+INDONESIA
+
+remains one of the biggest constraints to
+boosting Indonesia’s growth potential.
+Significant improvements to the regulatory
+framework are needed to support
+infrastructure spending and PPP projects.
+Weak budget implementation is also an
+obstacle to higher public investment. Social
+safety nets should be better targeted towards
+vulnerable groups while increased, and more
+effective, education and health spending will
+be needed to promote improvements in
+human capital and generate more equitable
+
+2011 ARTICLE IV REPORT
+
+growth. To support these objectives, continued
+efforts are also needed to raise the tax revenue
+ratio from its current low level to provide
+greater fiscal space. Improving tax efficiency
+will require broadening tax bases through
+increasing tax compliance with revenue
+administration reforms and containing the use
+of tax incentives.
+52.
+It is proposed that the next Article IV
+consultation with Indonesia take place on the
+standard 12˗month cycle.
+
+INTERNATIONAL MONETARY FUND 23
+
+2011 ARTICLE IV REPORT
+
+INDONESIA
+
+Figure 1. Indonesia: Macroeconomic Developments and Outlook
+Following solid performance in 2010, GDP growth is
+expected to continue in 2011…
+
+… driven by domestic demand…
+
+…and supported by accelerating credit expansion.
+
+Export performance remains strong…
+
+…but buoyant growth in imports…
+
+…has led to a declining current account surplus.
+
+Import Growth
+
+(In percent, year-on-year)
+
+100
+
+Consumer goods
+Raw materials
+Capital goods
+
+80
+60
+40
+20
+0
+-20
+-40
+-60
+Jan-09
+
+Jul-09
+
+Jan-10
+
+Jul-10
+
+Jan-11
+
+Jul-11
+
+Sources: CEIC Data Co., Ltd.; and IMF staff calculations and estimates.
+
+24
+
+INTERNATIONAL MONETARY FUND
+
+INDONESIA
+
+2011 ARTICLE IV REPORT
+
+Figure 2. Indonesia: Business Activity Indicators
+Solid industrial production growth, rising capacity
+utilization,…
+
+… strong cement sales, and …
+
+… an upbeat outlook by business suggest further
+growth of investment demand.
+
+Rising retail sales growth…
+
+…along with continued strength of motor vehicle and
+motorcycle sales…
+
+…and rising consumer confidence—all point to resilient
+consumption.
+
+Sources: CEIC Data Co., Ltd.; Country authorities; and IMF staff calculations.
+
+INTERNATIONAL MONETARY FUND 25
+
+2011 ARTICLE IV REPORT
+
+INDONESIA
+
+Figure 3. Indonesia: Inflation and Monetary Developments
+Inflation started to ease in February 2011…
+
+…reflecting food price declines with prices in other
+categories, and the core CPI still edging up.
+Inflation Components
+
+(In percent, year-on-year)
+30
+
+Headline
+
+25
+
+Core
+Volatile food
+
+20
+
+Administrative price
+
+15
+10
+5
+0
+-5
+-10
+Jan-08
+
+High price expectations,…
+
+Jul-08
+
+Jan-09
+
+Jul-09
+
+Jan-10
+
+Jul-10
+
+Jan-11
+
+Jul-11
+
+… robust growth of money and credit aggregates, …
+Credit and Money Growth
+(In percent, year-on-year)
+
+40
+
+Credit
+
+35
+
+Base money (y/y 3-month m.a.)
+
+30
+25
+20
+15
+10
+5
+0
+-5
+-10
+Jan-08
+
+…and falling interest rates suggest that inflationary
+pressures could rise and that …
+
+Jul-08
+
+Jan-09
+
+(In percent per annum)
+15
+Base lending rate
+Time deposit rate 3-month
+
+13
+
+JIBOR 1-month
+
+12
+11
+10
+9
+8
+7
+6
+5
+Jan-08
+
+Jul-08
+
+Jan-09
+
+Jul-09
+
+Jan-10
+
+Jul-10
+
+Jan-11
+
+Jul-11
+
+Sources: CEIC Data Co., Ltd.; Indonesian authorities; and IMF staff calculations.
+
+26
+
+INTERNATIONAL MONETARY FUND
+
+Jan-10
+
+Jul-10
+
+Jan-11
+
+Jul-11
+
+… the current accommodative monetary stance may
+have to be tightened in the future.
+
+Interest Rates
+
+14
+
+Jul-09
+
+INDONESIA
+
+2011 ARTICLE IV REPORT
+
+Figure 4. Indonesia: Financial Market Performance
+Portfolio inflows continued in 2011, contributing to
+additional reserves accumulation,…
+Reserves and Cumulative Portfolio Inflows
+(In billions of U.S. dollar)
+
+Exchange Rates
+
+35
+30
+
+130
+
+Cumulative inflows since end-2007
+
+120
+
+International reserves (right scale)
+
+25
+20
+15
+10
+5
+0
+Jan-08
+
+Jan-09
+
+Jan-10
+
+…steady appreciation of the rupiah beyond pre crisis
+levels,…
+(National currency/U.S. dollar, January 2, 2007 = 100)
+70
+80
+
+110
+
+90
+
+100
+
+100
+
+90
+
+110
+
+80
+
+120
+
+70
+
+130
+
+60
+
+140
+
+50
+
+150
+Jan-08
+
+Jan-11
+
+…further falls in local currency bond yields,…
+
+Indonesia
+Philippines
+Thailand
+
+Jan-09
+
+Jan-10
+
+Jan-11
+
+… across all tenors as foreign investors sought both yield
+pickup and expected currency gains .
+
+Government Bonds Yield
+(In percent, 10-year bonds)
+22
+18
+
+Indonesia
+
+Philippines
+
+Thailand
+
+Asia (GBI-EM)
+
+14
+10
+6
+2
+Jan-08
+
+Jan-09
+
+Jan-10
+
+Jan-11
+
+Indonesia stocks outperformed the rest of the region…
+
+… and current high valuations are not excessive
+compared with recent trends and other Asian bourses.
+
+Sources: Bloomberg L.P.; CEIC Data Co., Ltd.; and IMF staff estimates.
+
+INTERNATIONAL MONETARY FUND 27
+
+2011 ARTICLE IV REPORT
+
+INDONESIA
+
+Figure 5. Indonesia: Limited Spillovers from Rising Global Sovereign Risk Concerns
+Despite the deterioration in global market sentiment,
+Indonesia’s stock market continues to outperform both
+core and other emerging markets…
+
+…while CDS spreads have remained relatively low,
+reflecting strong fundamentals.
+Five-year CDS Spreads
+(In basis points)
+300
+
+Indonesia
+
+EM Asia 1/
+
+Core Euro area 2/
+
+250
+200
+150
+100
+50
+
+1/ Thailand, Korea, Philippines, and Malaysia.
+2/ Germany, France, and Italy.
+
+0
+Jan-10
+
+External spreads have yet to reach the highs of May
+2010…
+
+May-10
+
+Sep-10
+
+Jan-11
+
+May-11
+
+Sep-11
+
+…and local bond yields have also remained relatively
+low.
+
+EMBI Spreads
+
+Domestic Government Bond Yields
+
+(In basis points)
+
+(In percent)
+
+350
+Indonesia
+
+EM Asia 1/
+
+Brazil, Russia, and Turkey average
+
+10
+
+2-year
+
+10-year
+
+5-year
+
+1-year
+
+300
+250
+
+8
+
+200
+150
+
+6
+
+100
+1/ Korea, Philippines, and Malaysia.
+50
+Jan-10
+May-10
+Sep-10
+
+Jan-11
+
+May-11
+
+Sep-11
+
+Exchange rate appreciation has slowed since May…
+
+4
+Jan-10
+
+May-10
+
+Sep-10
+
+Jan-11
+
+May-11
+
+Sep-11
+
+…and the recent global turmoil has had less impact on
+implied volatility for the rupiah.
+
+Exchange Rates
+
+Three-month FX Implied Volatility
+
+8000
+
+3-mo Forward IDR
+Spot Rp/US$
+3-mo IDR NDF
+NEER (RHS)
+
+8500
+
+100
+
+20
+18
+EM
+
+16
+
+96
+
+IDR
+
+PHP
+
+14
+12
+
+9000
+92
+
+10
+8
+
+9500
+
+6
+
+Jan-10
+
+May-10
+
+Sep-10
+
+Jan-11
+
+May-11
+
+88
+Sep-11
+
+4
+Jan-10
+
+May-10
+
+Sep-10
+
+Sources: Datastream, Thomson Financial; Bloomberg L.P.; and IMF staff calculations.
+
+28
+
+INTERNATIONAL MONETARY FUND
+
+Jan-11
+
+May-11
+
+Sep-11
+
+INDONESIA
+
+2011 ARTICLE IV REPORT
+
+Figure 6. Indonesia: Banking Indicators
+Banks remain profitable and well capitalized.
+
+Widening spreads have raised net interest margins.
+
+Net Interest Margin, Deposit and
+Lending Rates
+
+Commercial Bank Capitalization and
+Profitability
+4.0
+
+22
+CAR
+
+ROA (right scale)
+
+6.4
+6.2
+
+21
+
+18
+
+NIM
+3M deposit rate (right scale)
+Investment loan rate (right scale)
+
+16
+
+3.5
+
+14
+
+6
+
+20
+3.0
+
+12
+
+5.8
+
+19
+
+10
+2.5
+
+5.6
+8
+
+18
+2.0
+17
+
+6
+
+5.2
+
+4
+
+1.5
+
+16
+
+15
+Jan-08
+
+5.4
+
+5
+1.0
+Jan-09
+
+Jan-10
+
+Jan-11
+
+Loan quality remains good …
+
+4.8
+Jan-08
+
+2
+0
+Jan-09
+
+Jan-10
+
+Jan-11
+
+… but could deteriorate if the recent acceleration in
+credit growth leads to lower lending standards.
+
+Nonperforming Loans to Total Loans
+
+Credit Growth and New Loan Approval
+45
+
+4.5
+
+40
+
+4.0
+
+Monthly new loan approvals (percent of existing
+stock)
+Credit growth (y/y)
+
+35
+30
+
+3.5
+
+25
+20
+
+3.0
+15
+10
+
+2.5
+
+5
+
+2.0
+Jan-08
+
+Jan-09
+
+Jan-10
+
+Jan-11
+
+0
+Jan-08
+
+Jan-09
+
+Jan-10
+
+Jan-11
+
+Sources: Bloomberg L.P.; CEIC Data Co., Ltd.; and IMF staff estimates.
+
+INTERNATIONAL MONETARY FUND 29
+
+2011 ARTICLE IV REPORT
+
+INDONESIA
+
+Table 1. Indonesia: Selected Economic Indicators, 2007–12
+Nominal GDP (2010): Rp 6,423 trillion or US$707 billion
+Main exports (percent of total, 2010): mineral fuels (36), manufactured goods (23), machinery and transport equipment (13)
+GDP per capita (2010): US$2974
+Unemployment rate (Feb. 2011): 6.8 percent
+Poverty headcount ratio at national poverty line (2010): 13.3 percent of population
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+Proj.
+
+2012
+Proj.
+
+Real GDP (percent change)
+Domestic demand
+Of which:
+Private consumption
+Gross fixed investment
+Change in stocks 1/
+Net exports 1/
+Statistical discrepancy 1/
+
+6.3
+4.1
+
+6.0
+7.6
+
+4.6
+5.2
+
+6.1
+5.7
+
+6.4
+6.4
+
+6.3
+6.7
+
+5.0
+9.3
+-1.6
+0.6
+2.1
+
+5.3
+11.9
+0.1
+0.7
+-1.4
+
+4.9
+3.3
+-0.2
+1.2
+-1.2
+
+4.6
+8.5
+0.4
+0.8
+0.2
+
+4.9
+9.4
+0.1
+0.6
+0.0
+
+5.0
+10.5
+0.0
+0.3
+0.0
+
+Saving and investment (in percent of GDP)
+Gross investment 2/
+Gross national saving
+Foreign saving
+
+24.9
+27.3
+-2.4
+
+27.8
+27.8
+0.0
+
+31.0
+33.5
+-2.5
+
+32.5
+33.3
+-0.8
+
+32.9
+33.1
+-0.2
+
+34.4
+34.0
+0.4
+
+5.4
+6.0
+
+11.1
+9.8
+
+2.8
+4.8
+
+7.0
+5.1
+
+5.0
+5.7
+
+6.4
+6.5
+
+Public finances (in percent of GDP)
+Central government revenue
+Central government expenditure
+Central government balance
+Primary balance
+Central government debt
+
+17.9
+19.1
+-1.2
+0.8
+36.9
+
+19.8
+19.9
+-0.1
+1.7
+33.2
+
+15.1
+16.7
+-1.6
+0.1
+28.6
+
+15.8
+16.4
+-0.6
+0.8
+27.4
+
+16.4
+17.7
+-1.3
+0.1
+25.2
+
+15.9
+17.2
+-1.3
+0.1
+23.9
+
+Money and credit (12-month percent change; end of period)
+Rupiah M2
+Base money
+Private sector credit
+One-month interbank rate (period average)
+
+19.6
+27.8
+25.1
+8.5
+
+12.7
+-9.2
+30.9
+9.4
+
+13.8
+16.7
+8.2
+7.8
+
+16.5
+28.9
+22.2
+6.5
+
+...
+...
+...
+...
+
+...
+...
+...
+...
+
+Balance of payments (in billions of U.S. dollars)
+Oil and gas (net)
+Non-oil exports (f.o.b)
+Non-oil imports (f.o.b)
+Current account balance
+Foreign direct investment
+Overall balance
+
+5.7
+93.1
+-66.1
+10.5
+2.3
+12.7
+
+7.8
+107.9
+-92.8
+0.1
+3.4
+-1.9
+
+8.3
+99.0
+-73.5
+13.6
+1.9
+14.2
+
+3.2
+129.4
+-102.0
+5.6
+10.6
+30.3
+
+2.3
+159.1
+-128.4
+1.5
+11.6
+30.2
+
+1.2
+163.5
+-135.3
+-4.0
+11.2
+20.8
+
+Gross reserves
+In billions of U.S. dollars (end period)
+In months of imports
+As a percent of short-term debt 3/
+
+56.9
+4.7
+198.6
+
+51.6
+5.7
+178.5
+
+66.1
+5.2
+211.0
+
+96.2
+5.9
+226.5
+
+126.4
+7.4
+252.3
+
+147.2
+8.1
+276.5
+
+Total external debt
+In billions of U.S. dollars
+In percent of GDP
+
+133.6
+30.9
+
+155.0
+30.3
+
+172.8
+32.1
+
+202.4
+28.6
+
+216.1
+25.9
+
+230.0
+24.6
+
+Exchange rate (period average)
+Rupiah per U.S. dollar
+Nominal effective exchange rate ( 2005=100)
+
+9,141
+100.3
+
+9,699
+90.8
+
+10,390
+86.6
+
+9,090
+95.2
+
+...
+...
+
+...
+...
+
+Memorandum items:
+Oil production (thousands of barrels per day)
+Indonesian oil price (US$/bbl)
+Nominal GDP (in trillions of rupiah)
+Nominal GDP (in billions of U.S. dollars)
+
+899
+70.7
+3,951
+432
+
+927
+96.6
+4,949
+511
+
+960
+61.4
+5,604
+538
+
+954
+78.6
+6,423
+707
+
+945
+103.7
+7,223
+834
+
+945
+100.5
+8,175
+936
+
+Prices (12-month percent change)
+Consumer prices (end period)
+Consumer prices (period average)
+
+Sources: Data provided by the Indonesian authorities; and Fund staff estimates.
+1/ Contribution to GDP growth (percentage points).
+2/ Includes changes in stocks.
+3/ Short-term debt on a remaining maturity basis.
+
+30
+
+INTERNATIONAL MONETARY FUND
+
+INDONESIA
+
+2011 ARTICLE IV REPORT
+
+Table 2. Indonesia: Balance of Payments, 2007–12
+(In billions of U.S. dollars)
+2007
+Act.
+Current account
+
+2008
+Act.
+
+2009
+Act.
+
+2010
+Act.
+
+2011
+Proj.
+
+2012
+Proj.
+
+10.5
+
+0.1
+
+13.6
+
+5.6
+
+1.5
+
+-4.0
+
+Goods, net (trade balance)
+Exports, f.o.b.
+Of which: Oil and gas
+Non-oil and gas
+Imports, f.o.b.
+Of which: Oil and gas
+Non-oil and gas
+
+32.8
+118.0
+24.9
+93.1
+-85.3
+-19.2
+-66.1
+
+22.9
+139.6
+31.7
+107.9
+-116.7
+-23.9
+-92.8
+
+33.9
+119.5
+20.5
+99.0
+-85.6
+-12.1
+-73.5
+
+30.6
+158.1
+28.7
+129.4
+-127.4
+-25.4
+-102.0
+
+33.1
+198.4
+39.3
+159.1
+-165.3
+-36.9
+-128.4
+
+29.3
+203.1
+39.6
+163.5
+-173.8
+-38.5
+-135.3
+
+Services, net
+
+-11.8
+
+-13.0
+
+-9.7
+
+-9.3
+
+-11.7
+
+-12.1
+
+Income, net
+
+-15.5
+
+-15.2
+
+-15.1
+
+-20.3
+
+-24.6
+
+-26.1
+
+5.1
+
+5.4
+
+4.6
+
+4.6
+
+4.7
+
+4.9
+
+3.6
+
+-1.8
+
+3.5
+
+26.2
+
+28.6
+
+24.8
+
+Current transfers, net
+Capital and financial account
+Capital account
+
+0.5
+
+0.3
+
+0.1
+
+0.1
+
+0.1
+
+0.1
+
+3.0
+2.3
+-4.7
+6.9
+5.6
+-4.4
+10.0
+3.6
+6.4
+
+-2.1
+3.4
+-5.9
+9.3
+1.8
+-1.3
+3.1
+0.3
+2.7
+
+3.5
+1.9
+-2.9
+4.9
+10.3
+-0.1
+10.5
+0.8
+9.7
+
+26.1
+10.6
+-2.7
+13.3
+13.2
+-2.5
+15.7
+2.1
+13.6
+
+28.5
+11.6
+-2.8
+14.3
+12.8
+-0.5
+13.3
+1.5
+11.8
+
+24.7
+11.2
+-2.9
+14.1
+11.4
+-0.5
+11.9
+1.7
+10.2
+
+Other investment
+Nonfinancial public sector
+Banking sector
+
+-4.8
+-2.4
+0.1
+
+-7.3
+-1.4
+1.4
+
+-8.8
+-1.2
+0.7
+
+2.2
+-0.3
+-0.6
+
+4.1
+0.3
+0.7
+
+2.1
+0.0
+0.6
+
+Disbursements
+Repayments
+
+1.1
+-1.0
+
+2.5
+-1.1
+
+2.2
+-1.6
+
+1.9
+-2.5
+
+3.3
+-2.7
+
+3.4
+-2.8
+
+1.1
+-3.6
+
+2.8
+-10.1
+
+2.4
+-10.7
+
+0.9
+2.1
+
+2.7
+0.4
+
+3.5
+-2.1
+
+Total
+
+14.1
+
+-1.7
+
+17.1
+
+31.8
+
+30.2
+
+20.8
+
+Errors and omissions
+
+-1.4
+
+-0.2
+
+-3.0
+
+-1.5
+
+0.0
+
+0.0
+
+Financial account
+Direct investment, net
+Abroad, net
+In Indonesia (FDI), net
+Portfolio investment, net
+Assets, net
+Liabilities
+Equity securities
+Debt securities
+
+Corporate sector
+Other 1/
+
+Overall balance
+
+12.7
+
+-1.9
+
+14.2
+
+30.3
+
+30.2
+
+20.8
+
+-12.7
+
+1.9
+
+-14.2
+
+-30.3
+
+-30.2
+
+-20.8
+
+56.9
+4.7
+199
+157
+2.4
+0.7
+6.4
+6.7
+4.1
+81.0
+18.7
+6.9
+
+51.6
+5.7
+178
+143
+0.0
+2.6
+29.7
+4.3
+3.2
+89.5
+17.5
+6.5
+
+66.1
+5.2
+211
+159
+2.5
+7.0
+-14.3
+-7.1
+-5.8
+105.5
+19.6
+8.0
+
+96.2
+5.9
+226
+158
+0.8
+10.7
+24.8
+6.1
+3.8
+125.7
+17.8
+5.5
+
+126.4
+7.4
+252
+173
+0.2
+1.7
+12.6
+2.8
+2.3
+136.3
+16.3
+4.5
+
+147.2
+8.1
+277
+…
+-0.4
+8.2
+6.3
+-1.3
+-1.6
+146.4
+15.6
+4.8
+
+1/ Includes unrecorded capital flows and exceptional financing.
+2.3
+1.6
+2/ Denominator includes short-term debt at remaining maturity plus foreign holding of long-term government bonds in rupiah.
+3/ Includes nonfinancial state-owned enterprises.
+
+0.8
+
+Reserves and related items
+Memorandum items:
+Reserve assets position (eop)
+in months of imports of goods and services
+in percent of short-term debt at remaining maturity
+in percent of ST debt at RM and foreign holding of IDR debt 2/
+Current account (percent of GDP)
+Non-oil and gas exports, volume growth
+Non-oil and gas imports, volume growth
+Terms of trade, percent change (excluding oil)
+Terms of trade, percent change (including oil)
+Stock of nonfinancial public sector external debt 3/
+in percent of GDP
+Nonfinancial public sector debt service (percent of exports)
+Sources: Data provided by Bank Indonesia; and Fund staff estimates.
+
+INTERNATIONAL MONETARY FUND 31
+
+2011 ARTICLE IV REPORT
+
+INDONESIA
+
+Table 3. Indonesia: Monetary Survey, 2007–11
+(In trillions of rupiah, unless otherwise indicated, end of period)
+
+Bank Indonesia
+Net foreign assets
+Net domestic assets
+Net claims on central government
+Liquidity operations, net 1/
+Claims on other sectors 2/
+Other items, net
+Monetary base
+Monetary survey
+Net foreign assets
+Net domestic assets
+Net claims on central government
+Claims on other nonfinancial public sector
+Private sector credit
+Other items, net
+Broad money 3/
+Rupiah M2
+Currency in circulation
+Deposits
+Foreign currency deposits
+Memorandum items:
+Net international reserves (US$ billions)
+Money multiplier (rupiah M2)
+Base money velocity 4/
+Rupiah M2 velocity 4/
+Annual percentage change:
+Broad money
+Rupiah M2
+Monetary base
+Private sector credit
+
+2007
+
+2008
+
+2009
+
+2010
+
+Mar-11
+
+Apr-11
+
+May-11
+
+Jun-11
+
+Jul-11
+
+523.1
+-143.5
+257.5
+-232.3
+14.2
+-183.0
+379.6
+
+555.4
+-210.7
+176.9
+-155.1
+12.5
+-245.0
+344.7
+
+606.2
+-204.1
+210.0
+-205.9
+13.2
+-221.3
+402.1
+
+852.0
+-333.6
+187.4
+-432.6
+11.5
+-99.9
+518.4
+
+867.0
+-360.2
+134.6
+-450.9
+11.5
+-55.4
+506.8
+
+921.2
+-400.5
+81.9
+-432.8
+11.5
+-61.2
+520.7
+
+952.5
+-426.6
+51.9
+-437.5
+11.5
+-52.5
+525.9
+
+962.3
+-420.7
+55.4
+-423.0
+17.8
+-70.8
+541.6
+
+977.4
+-422.3
+58.6
+-437.7
+17.4
+-60.8
+555.0
+
+503.0
+1,146.7
+515.6
+40.6
+1,046.7
+-456.1
+1,649.7
+1,432.1
+183.0
+1,249.1
+214.1
+
+590.4
+1,305.5
+392.1
+48.9
+1,370.4
+-506.0
+1,895.8
+1,613.4
+209.7
+1,403.7
+279.1
+
+700.4
+1,441.0
+438.4
+67.6
+1,482.3
+-547.3
+2,141.4
+1,836.7
+226.0
+1,610.7
+301.1
+
+887.9
+1,583.3
+374.7
+101.0
+1,812.1
+-704.4
+2,471.2
+2,140.2
+260.2
+1,880.0
+321.9
+
+891.5
+1,559.8
+328.0
+93.5
+1,873.9
+-735.6
+2,451.4
+2,108.5
+241.6
+1,866.9
+334.9
+
+936.6
+1,497.9
+262.5
+90.9
+1,907.8
+-763.3
+2,434.5
+2,104.1
+252.0
+1,852.1
+321.9
+
+948.7
+1,526.6
+235.1
+89.5
+1,962.2
+-760.2
+2,475.3
+2,148.0
+254.1
+1,893.9
+317.7
+
+937.6
+1,585.2
+231.5
+97.0
+2,021.7
+-765.0
+2,522.8
+2,199.3
+261.5
+1,937.8
+313.3
+
+939.8
+1,624.8
+226.8
+100.4
+2,048.6
+-751.0
+2,564.6
+2,230.9
+275.4
+1,955.5
+323.2
+
+54.6
+3.8
+10.9
+2.9
+
+49.9
+4.7
+15.0
+3.2
+
+63.8
+4.6
+14.4
+3.2
+
+94.1
+4.1
+12.6
+3.1
+
+98.9
+4.2
+13.7
+3.3
+
+106.7
+4.0
+13.3
+3.3
+
+110.8
+4.1
+13.2
+2.8
+
+111.1
+4.1
+12.8
+2.8
+
+114.4
+4.0
+12.5
+3.8
+
+19.3
+19.6
+27.8
+25.1
+
+14.9
+12.7
+-9.2
+30.9
+
+13.0
+13.8
+16.7
+8.2
+
+15.4
+16.5
+28.9
+22.2
+
+16.1
+17.1
+35.4
+23.9
+
+15.0
+16.2
+35.1
+24.2
+
+15.5
+16.3
+34.2
+24.6
+
+13.1
+14.8
+34.9
+24.1
+
+15.6
+17.7
+35.7
+25.2
+
+Sources: IMF, International Financial Statistics ; and IMF staff estimates.
+1/ Net outstanding monetary instruments, including overnight deposits, term deposits, repurchase and reverse repurchase agreements,
+central bank securities (excluding those held by banks for reserves), and government securities held by Bank Indonesia for monetary
+policy purposes.
+2/ Includes claims on banks not related to monetary operations.
+3/ Includes securities classified as broad money.
+4/ Calculated using end-period quarterly GDP, annualized.
+
+32
+
+INTERNATIONAL MONETARY FUND
+
+INDONESIA
+
+2011 ARTICLE IV REPORT
+
+Table 4. Indonesia: Summary of Central Government Operations, 2008–12
+2008
+
+2009
+
+2010
+
+2011
+
+2011
+
+2011
+
+Act.
+
+Act.
+
+Act.
+
+Approved
+
+Prel.
+
+Staff
+
+2012
+Staff
+
+budget
+
+revised
+
+proj.
+
+proj.
+
+budget
+(In trillions of rupiah)
+Revenues and grants
+
+981.6
+
+848.8
+
+1,016.6
+
+1,104.9
+
+1,167.9
+
+1,182.9
+
+1,301.7
+
+Oil and gas revenues
+
+288.6
+
+175.8
+
+211.6
+
+204.9
+
+236.7
+
+285.1
+
+256.3
+
+Tax revenues
+Nontax revenues
+
+77.0
+209.7
+
+50.0
+125.8
+
+58.9
+152.7
+
+55.6
+149.3
+
+63.6
+173.2
+
+76.5
+208.5
+
+75.1
+181.2
+
+Non-oil and gas revenues
+
+690.7
+
+671.3
+
+802.2
+
+896.3
+
+926.6
+
+893.2
+
+1,044.6
+
+Tax revenues
+
+581.7
+
+569.9
+
+685.5
+
+794.7
+
+813.5
+
+781.0
+
+917.3
+
+Nontax revenues 1/
+
+109.0
+
+101.4
+
+116.6
+
+101.6
+
+113.1
+
+112.2
+
+127.3
+
+2.3
+
+1.7
+
+2.8
+
+3.7
+
+4.7
+
+4.7
+
+0.8
+1,411.1
+
+Grants
+Expenditure and net lending
+
+985.8
+
+937.3
+
+1,056.4
+
+1,229.5
+
+1,313.4
+
+1,277.1
+
+562.8
+
+479.0
+
+566.3
+
+637.4
+
+703.9
+
+715.0
+
+760.6
+
+Personnel
+
+112.8
+
+127.7
+
+147.8
+
+180.8
+
+183.9
+
+183.9
+
+215.7
+
+Subsidies
+Of which : energy subsidies
+
+275.3
+223.0
+
+138.1
+94.6
+
+214.0
+139.9
+
+187.6
+136.6
+
+244.5
+187.2
+
+288.3
+225.4
+
+253.3
+188.6
+
+Current expenditure
+
+Interest
+
+88.4
+
+93.7
+
+88.3
+
+115.2
+
+107.0
+
+101.1
+
+114.9
+
+Other
+
+86.3
+
+119.6
+
+116.2
+
+153.8
+
+168.5
+
+141.6
+
+176.7
+
+130.5
+
+149.7
+
+145.4
+
+199.1
+
+204.4
+
+164.8
+
+207.2
+
+292.4
+
+308.5
+
+344.7
+
+393.0
+
+405.1
+
+397.3
+
+443.3
+
+15.9
+
+Development expenditure 2/
+Transfers to regions
+
+(In percent of GDP)
+Revenues and grants
+Oil and gas revenues
+Non-oil and gas revenues
+Tax revenues
+Nontax revenues 1/
+Grants
+Expenditure and net lending
+
+19.8
+
+15.1
+
+15.8
+
+15.7
+
+16.6
+
+16.4
+
+5.8
+
+3.1
+
+3.3
+
+2.9
+
+3.4
+
+3.9
+
+3.1
+
+13.9
+11.7
+
+12.0
+10.2
+
+12.5
+10.7
+
+12.8
+11.3
+
+13.2
+11.6
+
+12.4
+10.8
+
+12.7
+11.2
+
+2.2
+
+1.8
+
+1.8
+
+1.4
+
+1.6
+
+1.6
+
+1.6
+
+0.0
+
+0.0
+
+0.0
+
+0.1
+
+0.1
+
+0.1
+
+0.0
+17.2
+
+19.9
+
+16.7
+
+16.4
+
+17.5
+
+18.7
+
+17.7
+
+11.4
+
+8.5
+
+8.8
+
+9.1
+
+10.0
+
+9.9
+
+9.3
+
+Personnel
+
+2.3
+
+2.3
+
+2.3
+
+2.6
+
+2.6
+
+2.5
+
+2.6
+
+Subsidies
+
+5.6
+
+2.5
+
+3.3
+
+2.7
+
+3.5
+
+4.0
+
+3.1
+
+4.5
+
+1.7
+
+2.2
+
+1.9
+
+2.7
+
+3.1
+
+2.3
+
+1.8
+1.7
+
+1.7
+2.1
+
+1.4
+1.8
+
+1.6
+2.2
+
+1.5
+2.4
+
+1.4
+2.0
+
+1.4
+2.2
+
+Current expenditure
+
+Of which : energy subsidies
+Interest
+Other
+Development expenditure 2/
+
+2.6
+
+2.7
+
+2.3
+
+2.8
+
+2.9
+
+2.3
+
+2.5
+
+Transfers to regions
+
+5.9
+
+5.5
+
+5.4
+
+5.6
+
+5.8
+
+5.5
+
+5.4
+
+-0.1
+
+-1.6
+
+-0.6
+
+-1.8
+
+-2.1
+
+-1.3
+
+-1.3
+
+0.1
+
+1.6
+
+0.6
+
+1.6
+
+2.2
+
+1.3
+
+1.3
+
+-0.4
+
+1.2
+
+0.4
+
+1.7
+
+2.2
+
+0.9
+
+0.7
+
+0.5
+
+0.3
+
+0.3
+
+0.0
+
+0.0
+
+0.4
+
+0.6
+
+1.7
+1.5
+
+0.1
+0.2
+
+0.8
+0.8
+
+-0.1
+…
+
+-0.5
+…
+
+0.1
+0.1
+
+0.1
+0.1
+
+33.2
+
+28.6
+
+27.4
+
+...
+
+...
+
+25.2
+
+23.9
+
+Overall balance
+Financing
+Domestic
+External
+Memorandum items:
+Primary balance
+Cyclically adjusted primary balance
+Central government debt
+
+Sources: Data provided by the Indonesian authorities; and Fund staff estimates.
+1/ From 2004 onwards, deposit insurance premia are treated as nontax revenues.
+2/ From 2005 onwards, comprises capital spending and social assistance spending.
+
+INTERNATIONAL MONETARY FUND 33
+
+2011 ARTICLE IV REPORT
+
+INDONESIA
+
+Table 5. Indonesia: Selected Vulnerability Indicators, 2006–11
+
+2006
+
+2007
+
+2008
+
+2009
+
+Latest
+2010 2011 1/ Observation
+
+Key economic and market indicators
+Real GDP growth (in percent)
+CPI inflation (in percent, end of period)
+Short-term (ST) interest rate (in percent) 2/
+Ten-year government bond yield (in percent)
+Indonesia EMBI spread (bps, end of period)
+Rupiah/US$ (end of period)
+
+5.5
+6.6
+9.5
+10.2
+153
+9,020
+
+6.3
+5.4
+7.9
+10.0
+275
+9,419
+
+6.0
+11.1
+11.4
+11.9
+381
+10,950
+
+4.6
+2.8
+6.7
+10.1
+230
+9,400
+
+6.1
+7.0
+6.3
+7.6
+183
+8,991
+
+6.4
+5.0
+6.3
+6.9
+223
+8,578
+
+Proj.
+Proj.
+Aug-11
+Aug-11
+Aug-11
+Aug-11
+
+External sector
+Current account balance (percent of GDP)
+Net FDI inflows (percent of GDP)
+Exports (percentage change of US$ value, GNFS)
+Real effective exchange rate (end period; 2005=100)
+Gross international reserves (GIR) in US$ billion
+GIR in percent of ST debt at remaining maturity (RM)
+Total gross external debt in percent of exports of GNFS
+Gross external financing requirement (US$ billion) 3/
+
+3.0
+0.6
+15.1
+116.6
+42.6
+203.0
+110.1
+32.8
+
+2.4
+0.5
+13.4
+109.4
+56.9
+198.6
+102.4
+33.6
+
+0.0
+0.7
+18.7
+102.4
+51.6
+178.5
+100.1
+59.1
+
+2.5
+0.4
+-14.0
+116.2
+66.1
+211.0
+129.7
+44.2
+
+0.8
+1.5
+31.2
+124.7
+96.2
+226.5
+115.8
+54.2
+
+0.2
+1.4
+23.5
+125.4
+124.6
+252.3
+100.1
+71.0
+
+Proj.
+Proj.
+Proj.
+Aug-11
+Aug-11
+Proj.
+Proj.
+Proj.
+
+-1.0
+1.4
+3.3
+40.4
+46.8
+13.8
+
+-1.2
+0.8
+3.7
+36.9
+1.6
+47.0
+12.4
+
+-0.1
+1.7
+2.1
+33.2
+3.0
+51.6
+9.2
+
+-1.6
+0.1
+3.5
+28.6
+4.0
+46.4
+9.4
+
+-0.6
+0.8
+2.6
+27.4
+3.7
+44.2
+8.6
+
+-1.3
+0.1
+2.6
+25.2
+4.2
+43.4
+8.3
+
+Proj.
+Proj.
+Proj.
+Proj.
+Proj.
+Proj.
+Proj.
+
+Capital adequacy ratio (in percent)
+
+17.8
+
+17.5
+
+17.1
+
+17.4
+
+17.6
+
+17.2
+
+Jul-11
+
+NPLs in percent of total loans
+FX deposits (in percent of total deposits)
+FX loans (in percent of total loans)
+Government debt held by FS ( percent of total FS assets)
+Total credit outstanding (annual percent change)
+
+6.0
+14.8
+19.7
+14.3
+14.0
+
+4.1
+14.6
+20.1
+13.0
+26.0
+
+3.2
+16.6
+18.5
+9.3
+30.8
+
+3.3
+15.7
+13.9
+9.0
+10.1
+
+2.6
+14.5
+14.6
+8.4
+23.3
+
+2.8
+13.9
+15.1
+7.7
+22.9
+
+Jul-11
+Jun-11
+Jun-11
+Jun-11
+Jun-11
+
+Public sector (PS) 4/
+Overall balance (percent of GDP)
+Primary balance (percent of GDP)
+Gross PS financing requirement (in percent of GDP) 5/
+Public sector gross debt (PSGD, in percent of GDP)
+Of which : Exposed to rollover risk (in percent of total PSGD) 6/
+Exposed to exchange rate risk (in percent of total PSGD) 7/
+Exposed to interest rate risk (in percent of total PSGD) 8/
+Financial sector (FS)
+
+1/ Staff estimates, projections, or latest available observations as indicated in the last column.
+2/ One-month Jakarta Interbank Offered Rate
+3/ Current account deficit plus amortization of external debt.
+4/ Public sector covers central government only.
+5/ Overall balance plus debt amortization.
+6/ Short-term debt and maturing medium- and long-term debt, domestic debt only.
+7/ Debt in foreign currency or linked to the exchange rate, domestic and external, excluding external debt on concessional terms.
+8/ Short-term debt and maturing medium- and long-term debt at variable interest rates for domestic debt. Information on external debt is
+not available.
+
+34
+
+INTERNATIONAL MONETARY FUND
+
+INDONESIA
+
+2011 ARTICLE IV REPORT
+
+Table 6. Indonesia: Medium-Term Macroeconomic Framework, 2009–16
+2009
+2010
+Act.
+
+2011
+
+2012
+
+2013
+2014
+Proj.
+
+2015
+
+2016
+
+Real GDP (percent change)
+Domestic demand
+Of which:
+Private consumption
+Gross fixed investment
+Change in stocks 1/
+Net exports 1/
+Statistical discrepancy 1/
+
+4.6
+5.2
+
+6.1
+5.7
+
+6.4
+6.4
+
+6.3
+6.7
+
+6.7
+7.0
+
+7.0
+7.3
+
+7.0
+7.6
+
+7.0
+7.6
+
+4.9
+3.3
+-0.2
+1.2
+-1.2
+
+4.6
+8.5
+0.4
+0.8
+0.2
+
+4.9
+9.4
+0.1
+0.6
+0.0
+
+5.0
+10.5
+0.0
+0.3
+0.0
+
+5.0
+11.7
+0.0
+0.4
+0.0
+
+5.1
+11.9
+0.0
+0.4
+0.0
+
+5.0
+11.9
+0.0
+0.1
+0.0
+
+5.0
+12.1
+0.0
+0.1
+0.0
+
+Saving and investment (in percent of GDP)
+Gross investment 2/
+Gross national saving
+Foreign saving (external current account balance)
+
+31.0
+33.5
+-2.5
+
+32.5
+33.3
+-0.8
+
+32.9
+33.1
+-0.2
+
+34.4
+34.0
+0.4
+
+35.9
+35.2
+0.6
+
+37.2
+36.3
+0.8
+
+38.5
+37.4
+1.1
+
+40.0
+38.7
+1.3
+
+2.8
+4.8
+
+7.0
+5.1
+
+5.0
+5.7
+
+6.4
+6.5
+
+5.5
+5.4
+
+5.2
+5.3
+
+4.5
+4.7
+
+4.3
+4.5
+
+Central government expenditure
+Central government balance
+Primary balance
+Central government debt
+
+15.1
+10.2
+16.7
+-1.6
+0.1
+28.6
+
+15.8
+10.7
+16.4
+-0.6
+0.8
+27.4
+
+16.4
+10.8
+17.7
+-1.3
+0.1
+25.2
+
+15.9
+11.2
+17.2
+-1.3
+0.1
+23.9
+
+16.0
+11.6
+17.2
+-1.2
+0.1
+22.6
+
+16.1
+11.9
+17.2
+-1.2
+0.1
+21.3
+
+16.3
+12.4
+17.5
+-1.2
+0.1
+20.1
+
+16.6
+13.0
+17.6
+-1.0
+0.3
+18.9
+
+Balance of payments (US$ billions)
+Oil and gas (net)
+Non-oil exports (f.o.b)
+Non-oil imports (f.o.b)
+Current account balance
+Direct foreign investment
+Overall balance
+
+8.3
+99.0
+-73.5
+13.6
+1.9
+14.2
+
+3.2
+129.4
+-102.0
+5.6
+10.6
+30.3
+
+2.3
+159.1
+-128.4
+1.5
+11.6
+30.2
+
+1.2
+163.5
+-135.3
+-4.0
+11.2
+20.8
+
+-1.1
+175.9
+-146.1
+-6.6
+12.3
+17.6
+
+-3.2
+188.0
+-156.6
+-9.4
+14.0
+17.9
+
+-5.6
+199.6
+-168.0
+-14.2
+15.6
+15.2
+
+-8.2
+214.7
+-181.7
+-18.1
+15.7
+11.6
+
+Gross reserves
+In billions of U.S. dollars (end period)
+In months of imports
+As a percent of short-term debt 3/
+
+66.1
+5.2
+211.0
+
+96.2
+5.9
+226.5
+
+126.4
+7.4
+252.3
+
+147.2
+8.1
+276.5
+
+164.8
+8.5
+296.6
+
+182.6
+8.8
+317.5
+
+197.8
+8.9
+329.1
+
+209.4
+8.8
+333.0
+
+Total external debt
+In billions of U.S. dollars
+In percent of GDP
+
+172.8
+32.1
+
+202.4
+28.6
+
+216.1
+25.9
+
+230.0
+24.6
+
+241.7
+23.4
+
+253.9
+22.3
+
+266.3
+21.3
+
+278.9
+20.2
+
+960
+61.4
+538
+
+954
+78.6
+707
+
+945
+103.7
+834
+
+945
+100.5
+936
+
+945
+100.0
+1,032
+
+945
+98.0
+1,137
+
+945
+97.0
+1,253
+
+945
+96.0
+1,382
+
+Prices (12-month percent change)
+Consumer prices (end period)
+Consumer prices (period average)
+Public finances (in percent of GDP)
+Central government revenue
+
+Tax revenues
+
+Memorandum items:
+Oil production (000bcpd)
+Indonesian oil price (US$/bbl)
+Nominal GDP (US$ billions)
+
+Sources: Data provided by the Indonesian authorities; and Fund staff estimates.
+1/ Contribution to GDP growth.
+2/ Includes changes in stocks.
+3/ Short-term debt on a remaining maturity basis.
+
+INTERNATIONAL MONETARY FUND 35
+
+2011 ARTICLE IV REPORT
+
+INDONESIA
+
+APPENDIX I: INDONESIA—PUBLIC AND EXTERNAL
+DEBT SUSTAINABILITY
+A. Public Debt
+Public sector debt has been declining as a
+share of GDP since 2000 despite the global
+shock in 2009. The ratio fell to a record low
+level of 27 percent in 2010 (Figure I.1) owing to
+prudent fiscal management, which led to
+primary fiscal surpluses averaging 1.6 percent
+of GDP per year in the last decade and a
+modest fiscal stimulus in response to the
+global shock in 2009. Lower interest rates and
+high real GDP growth also contributed to debt
+consolidation. Foreign currency debt (mostly
+to multilateral institutions) has fallen markedly
+to less than half of total debt, as the improved
+fiscal position facilitated government access to
+the domestic capital market.
+The baseline scenario projects a further
+moderate decline in public sector debt.
+Despite a larger fiscal deficit, public debt is
+likely to fall to about 25 percent of GDP
+in 2011, reflecting rupiah appreciation, falling
+interest rates, and robust economic growth. In
+the medium term, gradual fiscal adjustment—
+based on subsidy reduction and tax
+administration reforms and continued strong
+
+economic growth—will support a further
+decline in public debt to 21 percent of GDP
+by 2016. Such a strategy will ensure a primary
+balance near zero, but also accommodate
+extra resources for development spending.
+Public debt is sustainable and robust to
+macroeconomic and oil price shocks. All the
+standard stress tests suggest that the debt
+ratio is likely to remain modest even under
+shocks from contingent liabilities, sharp
+exchange rate movements, and higher interest
+rates (Figure I.1). Fiscal contingent liabilities
+amounting to 10 percent of GDP could raise
+public sector debt to 30 percent of GDP
+by 2016 (still below the 2008 level), while
+currency depreciation of 30 percent would
+raise the debt ratio to about 25 percent of
+GDP. An increase in real interest rates would
+have a smaller, but still sizeable, effect with the
+debt ratio reaching 23 percent by 2015. Other
+macroeconomic shocks have an even more
+limited impact.
+
+B. External Debt
+Indonesia’s external debt continues on a
+steady downward trend, after a temporary
+increase in 2009. Following a decade of a
+continuously improving external position, the
+sharp nominal depreciation of late 2008 and
+early 2009 temporarily led to an increase in the
+external debt to GDP ratio from 30 percent to
+32 percent. However, strong growth and the
+rapid turnaround in the exchange rate are
+
+36
+
+INTERNATIONAL MONETARY FUND
+
+quickly reversing this increase, with the ratio
+projected to decline to about 27 percent of
+GDP as early as end 2011 (Figure I.2).
+The baseline scenario projects external debt to
+continue on a declining path over the medium
+term, reaching 21 percent of GDP by 2016. A
+weakening current account balance—
+projected to reach about −1 percent of GDP
+
+INDONESIA
+
+by 2016—is expected to be more than offset
+by: (i) sustained high real GDP growth in the
+range of 6.5−7.0 percent per year;
+(ii) increasing nondebt creating (i.e., FDI) flows;
+and (iii) some further real appreciation. At
+−0.5 percent of GDP, the medium term
+noninterest current account balance would
+remain comfortably above the debt stabilizing
+level (−3.4 percent of GDP).
+
+2011 ARTICLE IV REPORT
+
+External sustainability is robust to most shocks.
+The external debt ratio is expected to follow a
+declining path and remain at manageable
+levels under all standardized shock scenarios.
+A one˗time 30 percent real exchange rate
+depreciation would have the largest impact,
+raising the debt ratio by 11 percentage points
+in 2012, and 9 percentage points over the
+baseline by 2016.
+
+INTERNATIONAL MONETARY FUND 37
+
+2011 ARTICLE IV REPORT
+
+INDONESIA
+
+Figure I.1. Indonesia: Public Debt Sustainability: Bound Tests 1/
+(Public debt in percent of GDP)
+Interest Rate Shock (in percent)
+
+Baseline and Historical Scenarios
+50
+
+9
+Gross financing need under
+baseline
+(right scale)
+
+40
+
+8
+7
+6
+
+30
+
+50
+
+Baseline
+
+Interest rate
+shock
+
+40
+30
+
+5
+
+20
+Historical
+10
+
+4
+3
+
+20
+Baseline: 1.5
+Scenario: 4.3
+Historical: -5.0
+
+10
+
+2
+
+0
+2007
+
+1
+2009
+
+2011
+
+2013
+
+2015
+
+0
+2007
+
+50
+
+2015
+
+PB
+shock
+
+40
+
+30
+
+Growth shock
+
+30
+
+20
+
+Baseline
+
+20
+
+10
+
+10
+
+2009
+
+2013
+
+50
+
+Baseline: 6.7
+Scenario: 6.2
+Historical: 4.9
+
+0
+2007
+
+2011
+
+Primary Balance Shock (in percent of GDP) and
+No Policy Change Scenario (constant primary balance)
+
+Growth Shock (in percent per year)
+
+40
+
+2009
+
+Baseline
+
+2011
+
+2013
+
+2015
+
+Baseline: 0.0
+NPC scenario: -0.5
+Historical: 2.0
+
+0
+2007
+
+Combined Shock 2/
+
+2009
+
+Baseline
+No policy change
+
+2011
+
+2013
+
+2015
+
+Real Depreciation and Contingent Liabilities Shocks 3/
+
+50
+
+50
+
+40
+
+40
+
+Contingent liabilities shock
+Combined shock
+
+30
+
+30
+
+20
+
+Baseline
+
+20
+
+Baseline
+30% depreciation
+
+10
+
+10
+0
+2007
+
+2009
+
+2011
+
+2013
+
+2015
+
+0
+2007
+
+2009
+
+2011
+
+2013
+
+2015
+
+Sources: International Monetary Fund; country desk data; and Fund staff estimates.
+1/ Shaded areas represent actual data. Individual shocks are permanent one-half standard deviation shocks. Figures in the boxes
+represent average projections for the respective variables in the baseline and scenario being presented. Ten-year historical average for
+2/ Permanent 1/4 standard deviation shocks applied to real interest rate, growth rate, and primary balance.
+3/ One-time real depreciation of 30 percent and 10 percent of GDP shock to contingent liabilities occur in 2009, with real depreciation
+defined as nominal depreciation (measured by percentage fall in dollar value of local currency) minus domestic inflation (based on GDP
+
+38
+
+INTERNATIONAL MONETARY FUND
+
+INDONESIA
+
+2011 ARTICLE IV REPORT
+
+Figure I.2. Indonesia: External Debt Sustainability: Bound Tests 1/
+(External debt, in percent of GDP)
+55
+45
+
+Baseline and Historical Scenarios
+
+25
+20
+
+Gross financing need
+under baseline
+
+Baseline
+
+35
+
+15
+
+Historical
+21
+
+25
+
+10
+
+15
+
+5
+
+5
+
+0
+
+-5
+2005
+
+55
+
+4
+
+-5
+2007
+
+2009
+
+2011
+
+2013
+
+2015
+
+40
+35
+
+22
+
+25
+Baseline
+
+20
+15
+2005
+
+2007
+
+2009
+
+2011
+
+2013
+
+35
+
+30
+25
+
+Baseline
+
+20
+2007
+
+2009
+
+2011
+
+2013
+
+2015
+
+15
+2005
+
+Combined Shock 2/
+55
+
+50
+
+50
+
+45
+
+45
+Combined
+shock
+
+35
+30
+
+Baseline
+
+Baseline
+
+20
+
+21
+
+25
+
+25
+
+2007
+
+2009
+
+2011
+
+21
+2007
+
+2009
+
+2011
+
+2013
+
+2015
+
+2013
+
+2015
+
+Real Depreciation Shock 3/
+30%
+depreciation
+
+40
+35
+
+30
+
+30
+
+Baseline
+
+25
+
+20
+
+27
+21
+
+25
+
+55
+
+40
+
+CA shock
+
+30
+22
+
+2015
+
+Baseline: 0.1
+Scenario: -1.4
+Historical: 4.9
+
+40
+
+Growth
+shock
+
+21
+
+Noninterest Current Account Shock
+(In percent of GDP)
+
+45
+
+35
+
+15
+2005
+
+i-rate shock
+
+30
+
+50
+
+Baseline: 5.3
+Scenario: 4.5
+Historical: 4.8
+
+40
+
+Baseline: 3.5
+Scenario: 4.0
+Historical: 3.5
+
+45
+
+55
+
+45
+
+Interest Rate Shock (in percent)
+
+50
+
+Growth Shock (in percent per year)
+
+50
+
+15
+2005
+
+55
+
+21
+
+20
+15
+2005
+
+2007
+
+2009
+
+2011
+
+2013
+
+2015
+
+Sources: International Monetary Fund; Country desk data; and Fund staff estimates.
+1/ Shaded areas represent actual data. Individual shocks are permanent one-half standard deviation shocks. Figures in
+the boxes represent average projections for the respective variables in the baseline and scenario being presented. Tenyear historical average for the variable is also shown.
+2/ Permanent 1/4 standard deviation shocks applied to real interest rate, grow th rate, and current account balance.
+3/ One-time real depreciation of 30 percent occurs in 2012.
+
+INTERNATIONAL MONETARY FUND 39
+
+40
+
+INTERNATIONAL MONETARY FUND
+5.0
+5.1
+-3.4
+-9.3
+8.6
+11.9
+-2.1
+
+2.6
+0.0
+
+289.1
+
+-4.7
+-5.5
+-2.1
+19.3
+17.2
+-2.0
+-4.7
+-2.1
+-2.7
+2.8
+-1.5
+-1.5
+0.0
+0.0
+0.8
+
+55.8
+28.7
+
+5.7
+5.3
+-9.1
+-5.5
+14.3
+0.2
+-3.1
+
+0.8
+0.0
+
+239.1
+
+-9.5
+-8.6
+-3.1
+19.4
+16.3
+-5.7
+-7.2
+-4.6
+-2.6
+1.4
+0.2
+0.0
+0.0
+0.2
+-0.9
+
+46.3
+24.0
+
+2005
+
+5.5
+6.1
+-7.9
+9.3
+14.1
+14.8
+-2.6
+
+2.2
+0.0
+
+198.7
+
+-5.9
+-9.8
+-2.6
+20.3
+17.8
+-7.2
+-5.5
+-3.4
+-2.1
+-1.8
+0.0
+0.0
+0.0
+0.0
+3.9
+
+40.4
+18.2
+
+2006
+
+6.3
+5.9
+-5.4
+-4.3
+11.3
+9.7
+-1.0
+
+3.5
+0.0
+
+191.0
+
+-3.6
+-4.5
+-1.0
+19.3
+18.3
+-3.5
+-4.2
+-2.1
+-2.1
+0.7
+0.0
+0.0
+0.0
+0.0
+0.9
+
+36.9
+16.5
+
+Actual
+2007
+
+6.1
+6.1
+-12.1
+-13.8
+18.2
+12.8
+-1.8
+
+2.1
+0.0
+
+156.2
+
+-3.6
+-5.3
+-1.8
+21.3
+19.5
+-3.5
+-5.7
+-3.9
+-1.8
+2.2
+0.0
+0.0
+0.0
+0.0
+1.6
+
+33.2
+17.1
+
+2008
+
+4.5
+5.7
+-2.7
+16.1
+8.4
+-11.1
+0.1
+
+3.7
+0.0
+
+173.6
+
+-4.6
+-4.3
+0.1
+16.5
+16.6
+-4.4
+-2.2
+-0.9
+-1.3
+-2.2
+0.0
+0.0
+0.0
+0.0
+-0.3
+
+28.6
+13.3
+
+2009
+
+6.1
+5.5
+-2.5
+4.6
+8.0
+8.0
+-0.2
+
+3.2
+0.0
+
+160.9
+
+-1.2
+-3.0
+-0.2
+17.1
+16.9
+-2.8
+-2.3
+-0.8
+-1.5
+-0.5
+0.0
+0.0
+0.0
+0.0
+1.8
+
+27.4
+12.1
+
+2010
+
+6.5
+5.8
+-0.5
+...
+6.2
+14.7
+0.6
+
+25.4
+25.4
+
+3.3
+0.0
+
+144.1
+
+-2.0
+-1.2
+0.6
+17.6
+18.2
+-1.8
+-1.8
+-0.2
+-1.6
+...
+0.0
+0.0
+0.0
+0.0
+-0.8
+
+25.4
+10.9
+
+2011
+
+6.5
+6.3
+-0.7
+...
+7.0
+3.0
+0.1
+
+21.5
+23.9
+
+2.9
+0.0
+
+137.4
+
+-1.3
+-1.7
+0.1
+17.5
+17.6
+-1.7
+-1.7
+-0.3
+-1.4
+...
+0.0
+0.0
+0.0
+0.0
+0.3
+
+24.1
+10.3
+
+2012
+
+6.7
+6.4
+0.8
+...
+5.6
+8.2
+0.1
+
+17.8
+22.6
+
+2.9
+0.0
+
+130.8
+
+-0.9
+-1.2
+0.1
+17.7
+17.8
+-1.3
+-1.3
+0.1
+-1.4
+...
+0.0
+0.0
+0.0
+0.0
+0.3
+
+23.1
+9.6
+
+2013
+
+7.0
+6.6
+1.2
+...
+5.4
+6.9
+0.1
+
+14.4
+21.4
+
+2.6
+0.0
+
+125.4
+
+-1.0
+-1.1
+0.1
+17.7
+17.8
+-1.3
+-1.3
+0.2
+-1.4
+...
+0.0
+0.0
+0.0
+0.0
+0.2
+
+22.2
+9.0
+
+7.0
+7.0
+2.1
+...
+4.9
+9.0
+0.2
+
+11.3
+20.4
+
+2.6
+0.0
+
+120.2
+
+-0.6
+-0.8
+0.2
+17.9
+18.1
+-1.0
+-1.0
+0.3
+-1.4
+...
+0.0
+0.0
+0.0
+0.0
+0.2
+
+21.5
+8.5
+
+Projections
+2014 2015
+
+7.0
+7.3
+2.4
+...
+4.9
+8.2
+0.1
+
+8.4
+19.5
+
+2.4
+0.0
+
+114.2
+
+-0.7
+-0.8
+0.1
+18.2
+18.3
+-1.0
+-1.0
+0.4
+-1.3
+...
+0.0
+0.0
+0.0
+0.0
+0.1
+
+20.8
+7.9
+
+2016
+
+-1.0
+-0.8
+
+-1.0
+
+Debt-stabilizing
+primary balance 9/
+
+1/ Coverage of public sector debt consists of the gross debt of the central government.
+2/ Derived as [(r - p(1+g) - g + ae(1+r)]/(1+g+p+gp)) times previous period debt ratio, with r = interest rate; p = growth rate of GDP deflator; g = real GDP growth rate; a = share of foreign-currency
+denominated debt; and e = nominal exchange rate depreciation (measured by increase in local currency value of U.S. dollar).
+3/ The real interest rate contribution is derived from the denominator in footnote 2/ as r - π (1+g) and the real growth contribution as -g.
+4/ The exchange rate contribution is derived from the numerator in footnote 2/ as ae(1+r).
+5/ For projections, this line includes exchange rate changes.
+6/ Defined as public sector deficit, plus amortization of medium and long-term public sector debt, plus short-term debt at end of previous period.
+7/ The key variables include real GDP growth; real interest rate; and primary balance in percent of GDP.
+8/ Derived as nominal interest expenditure divided by previous period debt stock.
+9/ Assumes that key variables (real GDP growth, real interest rate, and other identified debt-creating flows) remain at the level of the last projection year.
+
+Real GDP growth (in percent)
+Average nominal interest rate on public debt (in percent) 8/
+Average real interest rate (nominal rate minus change in GDP deflator, in percent)
+Nominal appreciation (increase in U.S. dollar value of local currency, in percent)
+Inflation rate (GDP deflator, in percent)
+Growth of real primary spending (deflated by GDP deflator, in percent)
+Primary deficit
+
+Key macroeconomic and fiscal assumptions underlying baseline
+
+Scenario with key variables at their historical averages 7/
+Scenario with no policy change (constant primary balance) in 2009–2014
+
+Gross financing need 6/
+In billions of U.S. dollars
+
+Public sector debt-to-revenue ratio 1/
+
+2 Change in public sector debt
+3 Identified debt-creating flows (4+7+12)
+4 Primary deficit
+5
+Revenue and grants
+6
+Primary (noninterest) expenditure
+7 Automatic debt dynamics 2/
+8
+Contribution from interest rate/growth differential 3/
+9
+Of which : contribution from real interest rate
+10
+Of which : contribution from real GDP growth
+11
+Contribution from exchange rate depreciation 4/
+12 Other identified debt-creating flows
+13
+Privatization receipts (negative)
+14
+Recognition of implicit or contingent liabilities
+15
+Other (specify, e.g., bank recapitalization)
+16 Residual, including asset changes (2–3) 5/
+
+1 Baseline: Public sector debt 1/
+Of which : foreign-currency denominated
+
+2004
+
+(In percent of GDP, unless otherwise indicated)
+
+Table I.1. Indonesia: Public Sector Debt Sustainability Framework, 2004–2016
+
+2011 ARTICLE IV REPORT
+INDONESIA
+
+5.7
+5.2
+3.5
+20.7
+28.0
+1.8
+1.6
+
+26.7
+9.3
+
+133.0
+
+-6.9
+-7.1
+-1.8
+-2.9
+35.0
+32.0
+-1.6
+-3.7
+1.7
+-2.7
+-2.7
+0.1
+
+46.5
+
+5.5
+20.8
+3.7
+15.1
+4.1
+4.3
+1.0
+
+32.8
+9.0
+
+113.5
+
+-10.6
+-14.0
+-4.3
+-5.4
+31.6
+26.1
+-1.0
+-8.7
+1.3
+-2.0
+-8.0
+3.4
+
+35.8
+
+2006
+
+6.3
+11.6
+3.4
+13.4
+15.0
+3.5
+1.5
+
+33.6
+7.8
+
+102.4
+
+-4.9
+-9.5
+-3.5
+-4.8
+30.2
+25.4
+-1.5
+-4.6
+1.0
+-1.9
+-3.7
+4.6
+
+30.9
+
+Actual
+2007
+
+6.0
+11.6
+3.4
+18.7
+32.3
+0.9
+0.7
+
+59.1
+11.6
+
+100.1
+
+-0.6
+-5.5
+-0.9
+-1.9
+30.3
+28.4
+-0.7
+-3.9
+0.9
+-1.6
+-3.2
+4.9
+
+30.3
+
+2008
+
+4.6
+0.7
+2.7
+-14.0
+-24.7
+3.3
+0.5
+
+44.2
+8.2
+
+129.7
+
+1.8
+-4.6
+-3.3
+-4.5
+24.7
+20.3
+-0.5
+-0.8
+0.8
+-1.3
+-0.2
+6.4
+
+32.1
+
+2009
+
+6.1
+23.7
+2.3
+31.2
+40.8
+1.4
+1.6
+
+28.6
+
+68.0
+9.6
+
+115.8
+
+-3.5
+-3.9
+-1.4
+-3.0
+24.7
+21.7
+-1.6
+-0.9
+0.6
+-1.5
+...
+0.5
+
+28.6
+
+2010
+
+6.4
+11.0
+1.9
+23.5
+26.7
+0.7
+1.6
+
+24.2
+
+82.0
+9.8
+
+100.1
+
+-2.7
+-3.3
+-0.7
+-2.6
+25.9
+23.3
+-1.6
+-1.1
+0.5
+-1.6
+...
+0.6
+
+25.9
+
+2011
+
+6.3
+5.6
+1.8
+2.6
+5.0
+0.0
+1.4
+
+19.1
+
+96.5
+10.3
+
+103.8
+
+-1.3
+-2.4
+0.0
+-1.8
+23.7
+21.8
+-1.4
+-1.0
+0.4
+-1.5
+...
+1.1
+
+24.6
+
+2012
+
+6.7
+3.3
+1.7
+6.0
+7.1
+-0.3
+1.4
+
+13.8
+
+103.8
+10.1
+
+102.9
+
+-1.1
+-2.2
+0.3
+-1.6
+22.8
+21.2
+-1.4
+-1.1
+0.4
+-1.5
+...
+1.1
+
+23.4
+
+2013
+
+7.0
+3.0
+1.8
+5.5
+6.4
+-0.5
+1.4
+
+8.7
+
+110.3
+9.7
+
+102.5
+
+-1.1
+-2.1
+0.5
+-1.3
+21.8
+20.5
+-1.4
+-1.1
+0.4
+-1.5
+...
+1.0
+
+22.3
+
+7.0
+3.0
+1.8
+5.0
+6.6
+-0.8
+1.5
+
+3.7
+
+119.1
+9.5
+
+102.3
+
+-1.1
+-1.7
+0.8
+-1.0
+20.8
+19.8
+-1.5
+-1.1
+0.4
+-1.4
+...
+0.7
+
+21.3
+
+Projections
+2014 2015
+
+7.0
+3.0
+2.5
+6.1
+7.2
+-0.8
+1.3
+
+-1.2
+
+127.8
+9.2
+
+101.0
+
+-1.1
+-1.4
+0.8
+-0.7
+20.0
+19.2
+-1.3
+-0.9
+0.5
+-1.3
+...
+0.3
+
+20.2
+
+2016
+
+-1.3
+
+-3.1
+
+Debt-stabilizing noninterest
+current account 6/
+
+1/ Derived as [r - g - r(1+g) + ea(1+r)]/(1+g+r+gr) times previous period debt stock, with r = nominal effective interest rate on external debt; r = change in domestic GDP deflator in U.S.
+dollar terms, g = real GDP growth rate, e = nominal appreciation (increase in dollar value of domestic currency), and a = share of domestic-currency denominated debt in total external debt.
+2/ The contribution from price and exchange rate changes is defined as [-r(1+g) + ea(1+r)]/(1+g+r+gr) times previous period debt stock. r increases with an appreciating domestic currency
+(e > 0) and rising inflation (based on GDP deflator).
+3/ For projection, line includes the impact of price and exchange rate changes.
+4/ Defined as current account deficit, plus amortization on medium- and long-term debt, plus short-term debt at end of previous period.
+5/ The key variables include real GDP growth; nominal interest rate; dollar deflator growth; and both noninterest current account and nondebt inflows in percent of GDP.
+6/ Long-run, constant balance that stabilizes the debt ratio assuming that key variables (real GDP growth, nominal interest rate, dollar deflator growth, and non-debt inflows in percent of
+GDP) remain at their levels of the last projection year.
+
+Real GDP growth (in percent)
+GDP deflator in U.S. dollars (change in percent)
+Nominal external interest rate (in percent)
+Growth of exports (U.S. dollar terms, in percent)
+Growth of imports (U.S. dollar terms, in percent)
+Current account balance, excluding interest payments
+Net nondebt creating capital inflows
+
+Key macroeconomic assumptions underlying baseline
+
+Scenario with key variables at their historical averages 5/
+
+Gross external financing need (in billions of U.S. dollars) 4/
+In percent of GDP
+
+External debt-to-exports ratio (in percent)
+
+2 Change in external debt
+3 Identified external debt-creating flows (4+8+9)
+4
+Current account deficit, excluding interest payments
+5
+Deficit in balance of goods and services
+6
+Exports
+7
+Imports
+8
+Net nondebt creating capital inflows (negative)
+9
+Automatic debt dynamics 1/
+10
+Contribution from nominal interest rate
+11
+Contribution from real GDP growth
+12
+Contribution from price and exchange rate changes 2/
+13 Residual, including change in gross foreign assets (2–3) 3/
+
+1 Baseline: External debt
+
+2005
+
+(In percent of GDP, unless otherwise indicated)
+
+Table I.2. Indonesia: External Debt Sustainability Framework, 2005–16
+
+INDONESIA
+2011 ARTICLE IV REPORT
+
+INTERNATIONAL MONETARY FUND 41
+
+2011 ARTICLE IV REPORT
+
+INDONESIA
+
+APPENDIX II: INDONESIA—TRANSITION TO
+GFSM 2001
+The presentation of central government
+operations in the main text of the staff report
+is currently compatible with the national
+presentation of the budget. The accounting of
+government operations in Indonesia is on a
+cash basis, covers only the central government
+and is, therefore, not fully compatible with the
+GFSM 2001 format. To ensure the
+comparability of IMF staff projections with the
+authorities’ forecast, the staff report table is in
+the same format as the budget presentation.
+However, to promote international
+comparability of government operations,
+preliminary data consolidated to the general
+government level in a GFSM 2001 compatible
+format is also presented in this appendix.
+
+42
+
+INTERNATIONAL MONETARY FUND
+
+The Indonesian authorities are in the process
+of moving to accrual accounting, and they are
+planning for full implementation by 2015.
+Although budget reporting by local
+governments is beginning to improve, it is still
+subject to long lags, does not follow GFS
+reporting standards, and does not have a
+homogenous classification of expenditures.
+The Ministry of Finance does not obtain
+comprehensive and timely information on
+borrowing and debt, making it difficult to
+monitor general government debt trends.
+Although the authorities are aware of these
+limitations and have plans to address them,
+they have not yet set a target date for moving
+to a consolidated general government
+presentation.
+
+INDONESIA
+
+2011 ARTICLE IV REPORT
+
+Table II.1. Indonesia: Summary of General Government Operations, 2005–2010
+(In trillions of rupiah)
+
+2005
+
+2006
+
+2007
+
+537.8
+346.8
+
+679.4
+409.1
+
+762.2 1,053.1
+491.4 658.7
+
+924.7 1,095.1
+619.9 744.4
+
+Taxes on income, profits, and capital gains
+
+175.3
+
+208.8
+
+238.7
+
+327.5
+
+317.6
+
+356.7
+
+Taxes on goods and services
+VAT and luxury taxes
+
+134.6
+101.3
+
+160.8
+123.0
+
+199.7
+155.0
+
+260.9
+209.6
+
+249.8
+193.1
+
+318.3
+252.1
+
+33.3
+
+37.8
+
+44.7
+
+51.3
+
+56.7
+
+66.2
+
+15.2
+21.7
+
+13.2
+26.2
+
+20.9
+32.2
+
+36.3
+34.0
+
+18.7
+33.9
+
+28.9
+40.6
+
+Grants
+Other revenue
+
+1.3
+189.7
+
+1.9
+268.5
+
+1.7
+269.1
+
+2.3
+392.1
+
+1.7
+303.1
+
+2.8
+347.9
+
+Total expenditure
+Expense
+
+520.3
+388.7
+
+671.8
+459.4
+
+803.0 1,053.2 1,023.4 1,173.4
+582.1 800.8 748.7 922.4
+
+124.3
+33.1
+
+158.1
+47.1
+
+211.3
+51.3
+
+261.3
+56.0
+
+295.8
+80.7
+
+346.4
+96.0
+
+Interest
+
+67.7
+
+79.0
+
+79.5
+
+88.4
+
+93.7
+
+88.3
+
+Fuel subsidies
+
+95.7
+
+64.2
+
+116.9
+
+223.0
+
+94.6
+
+139.9
+
+131.6
+
+212.5
+
+220.9
+
+252.4
+
+274.7
+
+251.0
+
+17.5
+
+7.5
+
+-40.9
+
+-0.1
+
+-98.7
+
+-78.3
+
+Net acquisition of financial assets
+Of which : policy lending
+
+41.2
+0.0
+
+22.6
+0.0
+
+-7.9
+0.0
+
+70.7
+0.0
+
+-8.6
+6.2
+
+9.4
+4.7
+
+Net incurrence of liabilities
+
+23.7
+
+15.1
+
+33.0
+
+70.9
+
+90.1
+
+87.6
+
+Revenue
+Taxes
+
+Excise
+Taxes on international trade and transactions
+Taxes not elsewhere classified
+
+2008
+
+2009
+
+2010
+
+Of which :
+Compensation of employees
+Purchases/use of goods and services
+
+Net acquisition of nonfinancial assets
+Net lending/borrowing
+
+Sources: Data provided by the Indonesian authorities; and Fund staff estimates.
+
+INTERNATIONAL MONETARY FUND 43
+
+INDONESIA
+STAFF REPORT FOR THE 2011 ARTICLE IV
+September 21, 2011
+
+CONSULTATION—INFORMATIONAL ANNEX
+Prepared By
+
+Asia and Pacific Department
+
+CONTENTS
+ANNEX I: FUND RELATIONS _____________________________________________ 2
+ANNEX II: WORLD BANK-IMF COLLABORATION ____________________________ 3
+ANNEX III: RELATIONS WITH THE ASIAN DEVELOPMENT BANK ______________ 6
+ANNEX IV: STATISTICAL ISSUES _________________________________________ 8
+
+2011 ARTICLE IV REPORT—INFORMATIONAL ANNEX
+
+INDONESIA
+
+ANNEX I: FUND RELATIONS
+(As of August 31, 2011)
+
+VII. Exchange Arrangements
+
+I. Membership Status: Joined February 21, 1967;
+
+The rupiah has floated since August 14, 1997.
+The market exchange rate was Rp 8,578 per
+U.S. dollar as of end˗August 2011. Indonesia
+has accepted the obligations of Article VIII,
+Sections 2, 3, and 4, and maintains an
+exchange system free of restrictions on
+payments and transfers for current
+international transactions.
+
+Article VIII
+
+II. General Resources Account
+SDR
+
+Percent of
+
+Millions
+
+Quota
+
+Quota
+
+2,079.30
+
+100.00
+
+Fund holdings of currency
+
+1,933.80
+
+93.00
+
+145.50
+
+7.00
+
+Reserve position in Fund
+
+VIII. Article IV Consultation
+
+III. SDR Department
+SDR
+
+Percent of
+
+Millions
+
+Allocation
+
+Net cumulative allocation
+
+1,980.44
+
+100.00
+
+Holdings
+
+1,761.69
+
+88.95
+
+The last Article IV consultation report (IMF
+Country Report No. 10/284) was discussed by
+the Executive Board on August 27, 2010.
+
+IV. Outstanding Purchases and Loans: None
+
+IX. Resident Representative
+
+V. Financial Arrangements
+
+Mr. Milan Zavadjil has been Senior Resident
+Representative since 2008.
+
+Type
+
+Amount
+
+Amount
+
+Approved
+
+Drawn
+
+Approval
+
+Expiration
+
+(SDR
+
+(SDR
+
+Date
+
+Date
+
+millions)
+
+millions)
+
+EFF
+
+02/04/00
+
+12/31/03
+
+3,638.00
+
+3,638.00
+
+EFF
+
+08/25/98
+
+02/04/00
+
+5,383.10
+
+3,797.70
+
+Stand by
+
+11/05/97
+
+08/25/98
+
+8,338.24
+
+3,669.12
+
+VI. Projected Payments to Fund (SDR millions;
+based on existing use of resources and present
+holdings of SDRs):
+Forthcoming
+2011 2012
+
+2013 2014 2015
+
+Principal
+Charges/interest
+Total
+
+2
+
+0. 22
+
+0.84
+
+0.84
+
+0.84
+
+0.84
+
+0.22
+
+0.84
+
+0.84
+
+0.84
+
+0.84
+
+INTERNATIONAL MONETARY FUND
+
+INDONESIA
+
+2011 ARTICLE IV REPORT—INFORMATIONAL ANNEX
+
+ANNEX II: WORLD BANK-IMF COLLABORATION
+(As of September 1, 2011)
+
+Background
+The working relationship between the IMF and
+the World Bank in Indonesia is acknowledged
+by both sides to be very strong with joint
+working programs in many areas and close
+
+coordination through frequent meetings
+between resident offices and with
+headquarters missions, including the Article IV
+consultation.
+
+Key Areas with Joint Programs
+Budget
+
+
+The reform agenda for budget and
+treasury remains a high priority for
+both institutions. The strategic
+framework for joint work is built into
+joint Bank/Fund budget missions.
+Currently, the Bank support is being
+provided through the GFMRAP
+program (recently restructured), trust
+funds and DPLs, with elements in
+support of (a) efficient treasury
+operations including accounting
+reforms, improved in˗year budget
+disbursement, and regulatory reform;
+(b) improved linkages between
+planning and budget preparation
+through the implementation of a
+medium term expenditure framework,
+and the enhancement of budget
+flexibility at the service delivery level;
+and (c) improved capacity for budget
+oversight through organizational
+reform. In addition to the Fund’s
+overall strategic guidance, the Fund
+team takes the lead in the
+development of the budget reform
+strategy, treasury single account, and
+
+cash planning. Moving forward this
+assignment of responsibilities is
+expected to continue.
+Taxation
+
+
+Taxation is a priority for the Fund and
+the Bank with improving tax revenues
+an important issue for both
+macroeconomic security and the
+investment climate. The Fund has a
+longstanding program of support for
+the tax department in Indonesia. This
+program has, in recent years, focused
+on tax policy and donor coordination,
+with donor coordination quite
+important given the size of support for
+a solid program of tax reform in
+Indonesia. The Bank involvement is
+now also quite large. Support for tax
+administration reform will largely be
+executed through the Program for
+Indonesian Tax Administration Reform
+program which is now being prepared.
+The participants will check with their
+respective colleagues but generally
+anticipate that the current division of
+labor will continue.
+
+INTERNATIONAL MONETARY FUND 3
+
+2011 ARTICLE IV REPORT—INFORMATIONAL ANNEX
+
+INDONESIA
+
+Asset Liability Management
+
+
+The Bank and Fund have been leading
+an effort to improve asset liability
+management, including at the Treasury
+and Debt Management Office of the
+Ministry of Finance and Bank
+Indonesia. We envision that the Bank
+and Fund team will continue to work
+together as needed.
+
+Financial Sector
+
+
+The Bank has focused on broad
+monitoring of the financial sector with
+special emphasis on issues that are
+important for the investment climate
+(as part of the Development Policy
+Loan series). The Bank has engaged
+more actively on nonbank financial
+sector policy and most recently on
+access to finance. The Fund has
+concentrated on the banking system
+per se, with emphasis on bank
+regulation and supervision. A joint
+Bank/Fund FSAP was completed last
+year that may lead to changed
+priorities and work programs going
+forward.
+
+Statistics
+
+
+4
+
+The Bank has a major program with
+the statistics agency that was launched
+in 2010. The program is being
+designed to focus on improvements in
+key statistical series that should
+improve the ability to understand the
+Indonesian economy, executed
+through an institution wide approach,
+i.e., including significant IT and
+personal/institutional reforms. There is
+a need for quick wins while the
+longer˗term reform plays out, and the
+Fund has indicated that it is prepared
+INTERNATIONAL MONETARY FUND
+
+to continue to assist in the area of
+government finance statistics.
+Macroeconomics
+
+
+The Fund continues to take the lead in
+macroeconomic areas, with the
+Article IV and other missions, staff
+reports and policy notes on arising
+issues, including the stance of fiscal,
+monetary, and exchange rate policies,
+the credibility and effectiveness of
+monetary policy, macrofinancial
+linkages, and how events in the global
+economy are likely to impact
+Indonesia. The Bank has also begun to
+play a larger role, including on
+macroeconomic monitoring and
+capacity building, and there is an
+ongoing need for close coordination
+with the Fund. The Bank team has been
+assisting the Ministry of Finance, Fiscal
+Policy Office, to improve
+macroeconomic monitoring and
+forecasting capacity. In addition, the
+Bank team has been working on longer
+term macro/fiscal capacity and
+forecasting with the planning agency.
+
+These threads of work are expected to be
+continued by both parties, and regular
+meeting(s) will explore other ways to improve
+existing synergies. These include keeping each
+other informed about ongoing work, and
+requests to each other in areas of interest and
+through periodic meetings. Issues being
+addressed include, for the Fund, the impact of
+structurally high inflation rates and associated
+higher volatility on real interest rates; and for
+the Bank, the link between macro/fiscal policy
+and real economic outcomes, potential
+growth, employment, and longstanding
+problems in the implementation and
+effectiveness of government spending.
+
+INDONESIA
+
+2011 ARTICLE IV REPORT—INFORMATIONAL ANNEX
+
+Indonesia: JMAP Implementation
+Title
+
+Products
+
+Provisional
+Timing of
+Missions
+
+Expected Delivery
+Date (tentative)
+
+A. Mutual Information on Relevant Work Programs
+Bank work
+program
+
+IMF work program
+
+Indonesia Economic Quarterly
+
+Launched in March
+and June 2011; next
+issues due September
+and December 2011
+
+World Bank follow up work
+related to WB/IMF Financial
+System Assessment Program
+missions (October 2009 and
+February/March 2010)
+
+Ongoing
+
+Development Policy Loan 8
+
+Winter 2011
+
+2011 Article IV mission
+
+July 2011
+
+Board discussion
+expected in
+September 2011
+
+Tax administration technical
+assistance
+
+July 2011
+
+Ongoing
+
+2012 Staff Visit
+
+January 2012
+
+2012 Article IV mission
+
+July 2012
+
+B. Request for Work Program Inputs
+Fund request to
+Bank
+
+Bank request to
+Fund
+
+Assessment of economic
+developments and structural
+policies
+
+Ongoing
+
+Information sharing
+
+Ongoing
+
+Assessment of macroeconomic
+developments and policies
+
+Ongoing
+
+Information sharing
+
+Ongoing
+
+Government Financial Statistics
+training
+
+June 2011
+
+C. Agreement on Joint Point Products and Missions
+Joint work
+program
+
+Asset liability management
+
+December 2010
+
+INTERNATIONAL MONETARY FUND 5
+
+2011 ARTICLE IV REPORT—INFORMATIONAL ANNEX
+
+INDONESIA
+
+ANNEX III: RELATIONS WITH THE ASIAN
+DEVELOPMENT BANK1
+(As of August 11, 2011)
+Asian Development Bank (ADB) cumulative
+loans to Indonesia reached $26.5 billion as of
+end˗December 2010. In 2009, the ADB
+approved a total of $2,184 million or
+16.5 percent of the total loans approved by the
+institution for the year. More than 90 percent
+of the loans approved in 2009 were provided
+through four policy based operations. Two
+loans supported the Government’s efforts to
+mitigate the effects of the global economic
+crisis. The remaining two continued to support
+the Government’s medium term term reform
+agenda in capital market development, the
+investment climate, public financial
+management, and poverty alleviation. 1
+ADB is preparing a Country Partnership
+Strategy with the Government of Indonesia to
+cover the period 2011−2015. The strategy will
+be aligned with the Government’s
+medium˗term development plan (RPJM)
+for 2010−2014 as well as the Masterplan for
+the Acceleration and Expansion of Indonesia
+Economic Development 2011−2015. It will
+
+1
+
+6
+
+Prepared by the ADB staff.
+
+INTERNATIONAL MONETARY FUND
+
+support the government’s objectives to
+achieve higher levels of sustainable growth
+and to foster social development. It is
+anticipated that assistance will be provided in
+the core areas identified in ADB’s Long Term
+Strategic Framework—transport, energy,
+financial sector, natural resource management,
+water supply and sanitation, and education.
+Support for good governance, gender equity,
+environmental sustainability and regional
+cooperation will be encouraged in all sectors
+where relevant. Special emphasis will be
+provided to assist the Government to
+implement its climate change action plan.
+Between 1967 and 2010, ADB provided
+504 Technical Assistance grants to Indonesia
+amounting to $282.9 million. The TA grants
+were financed from ADB’s Technical Assistance
+Special Fund, the Japan Special Fund, and
+other sources. Measured by cumulative TA
+approvals, Indonesia is the second largest
+recipient of TA support from the ADB.
+
+INDONESIA
+
+2011 ARTICLE IV REPORT—INFORMATIONAL ANNEX
+
+Table III.1. Sovereign and Nonsovereign Loan Approvals and Disbursements to Indonesia
+(In millions of U.S. dollars)
+
+Loan approvals
+Loan disbursement
+
+2004
+
+2005
+
+225.00
+
+1,145.69
+
+593.50
+
+1,014.99
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+784.80
+
+1,187.10
+
+1,085.00
+
+2,184.20
+
+785.00
+
+1,025.88
+
+1,136.30
+
+949.60
+
+739.30
+
+1,079.80
+
+Sources: Asian Development Bank, Annual Report (various editions), and ADB staff.
+
+Table III.2. Cumulative Lending to Indonesia
+(As of December 31, 2010)
+
+Sector
+
+Loans
+
+Amount
+
+(No.)
+
+(US$ millions)
+
+Percent 1/
+
+Agriculture and natural resources
+
+99
+
+4,047.00
+
+15.28
+
+Education
+
+32
+
+2,222.35
+
+8.39
+
+Energy
+
+32
+
+3,831.05
+
+14. 46
+
+Finance
+
+21
+
+3,826.10
+
+14.44
+
+Health and social protection
+
+13
+
+1,068.30
+
+4.03
+
+Industry and trade
+
+12
+
+645.70
+
+2.44
+
+Public sector management
+
+18
+
+4,567.22
+
+17.24
+
+Transport and ICT
+
+33
+
+2,713.86
+
+10.24
+
+Water supply and other municipal
+
+32
+
+1,984.74
+
+7.49
+
+Multisector
+
+16
+
+1,586.22
+
+5.99
+
+Total
+
+308
+
+26,492.54
+
+100.00
+
+Infrastructure and services
+
+Sources: Asian Development Bank, Indonesia Fact Sheet as of 31 December 2010; and ADB
+staff.
+1/ Total may not add up because of rounding.
+
+INTERNATIONAL MONETARY FUND 7
+
+2011 ARTICLE IV REPORT—INFORMATIONAL ANNEX
+
+INDONESIA
+
+ANNEX IV: STATISTICAL ISSUES
+I. Assessment of Data Adequacy for Surveillance
+General: Indonesia’s macroeconomic statistics are broadly adequate to conduct effective surveillance.
+National accounts: Quarterly GDP data are published in a timely manner for both expenditure and production sides.
+The annual national accounts have 2000 as the base year. The estimates are based on a limited set of indirect indicators
+of uncertain quality. Some sectors are influenced strongly by seasonality, and seasonally adjusted data are prepared but
+not published. In addition, no survey of nonfinancial services is prepared. The Fund has recommended: (i) development
+of a system to continuously update the census of businesses; (ii) introduction of comprehensive annual establishment
+surveys for nonfinancial services industries; (iii) publication of annual GDP estimates, including a time series of at least 20
+years; (iv) development of a set of annual supply and use tables (SUTS) starting from 2000; and (v) enhancing the
+convergence exercise on trade data between Bank Indonesia (BI) and Ministry of Finance (MOF).
+Price statistics: Price statistics are broadly adequate for surveillance.
+Government finance statistics: Available government finance data suffer from a number of weaknesses, in terms of
+classification, coverage, and timeliness. Data on the budget of the central government are available with a one month
+lag, but subnational (provincial and local) government data are available only with a lag of two years, and the quality of
+this data is variable. Problems in budget and accounting systems have been compounded by the recent decentralization
+initiatives, which have shifted substantial resources to the subnational governments. Substantial efforts are in train, and
+significant progress has been made to overcome these problems, ranging from the planned adoption of advanced
+accounting and statistical standards, to the introduction of best practice budget management processes, and the
+development of computerized financial management information systems.
+Against this background, the MOF and the Ministry of Home Affairs are committed to keeping the requirements of fiscal
+statistics at the forefront of ongoing fiscal reforms, so as to make better statistical monitoring one of the goals of the
+current efforts. The coverage and timeliness of public debt statistics is generally adequate. The new expenditure
+classification introduced in the 2005 budget, is generally consistent with the Government Finance Statistics Manual 2001
+(GFSM 2001) on functional codes and classification, although the data are compiled on a cash basis.
+The authorities have committed to adopting GFSM 2001 standards. To this end, the Fund staff has recommended in the
+short term: (i) establishment of a register of all extrabudgetary units; and (ii) inclusion of the economic codes consistent
+with the GFSM 2001 in the chart of accounts to ensure that general government units report all transactions and
+balances over which they exert control. Over the medium term, priority should be given to (i) establishing the underlying
+reporting arrangements necessary to obtain timely preliminary data for local government statistics; and (ii) developing
+GFSM 2001 operating statements, statements of sources and uses of cash, and partial balance sheets, all of which should
+be published on the MOF websites. Currently a system has been set up to allow for an automatic conversion of budget
+files to GFSM 2001 data; however, these data are yet to be published on the MOF website.
+
+8
+
+INTERNATIONAL MONETARY FUND
+
+INDONESIA
+
+2011 ARTICLE IV REPORT—INFORMATIONAL ANNEX
+
+Monetary statistics: Good quality monetary statistics are compiled by BI on a timely basis. With STA assistance,
+BI has developed an integrated database from which alternative presentations of monetary statistics can be
+drawn to meet the needs of BI and the Fund. To strengthen monetary statistics, STA missions have also
+recommended the expansion of the coverage of monetary statistics to include mutual funds. Additional
+challenges include timely revisions of published banking sector data after supervisory verification.
+Balance of payments: Trade data are affected by some significant shortcomings. While customs sources utilized
+by the BI are considered generally reliable, coverage of merchandise trade flows is insufficient. Also, when the
+online reporting system for exports and imports was introduced in 2004, the historical series were reconstructed
+only as far back as 2003. As a result, prior to 2003, balance of payments statistics are not entirely consistent with
+the national accounts estimates. Exports and imports volume data, and consequently trade deflator data, is
+incorrectly computed as aggregate indexes that do not weight sub category volumes by their economic value.
+For the capital and financial account, the methodological basis for the compilation of FDI data needs substantial
+improvement. Inflows are currently calculated based on loan disbursements to companies that have foreign
+equity using a fixed ratio to estimate equity inflows. Surveys conducted by BI to collect FDI data have a low
+response rate and the coverage of the directory of enterprises should be improved. Other areas that need
+improvement include the recording of trade credits and the asset data for portfolio investment and other
+investment transactions. The magnitude of the errors and omissions item has been significant at times and
+appears to be related to the methodology used, for instance, for unrecorded assets in the financial account.
+Financial transactions data have not been reconciled with changes in the International Investment Position (IIP).
+An annual IIP is compiled, but the underlying data are weak in several areas, notably for FDI, and published data
+should include a higher degree of disaggregation (only main items are reported). External debt statistics have
+improved considerably with the introduction of an External Debt Information System (EDIS) in 2002 and the
+recent initiative to publish monthly indicators. However, improvements are still needed with respect to
+components of private corporate sector data, particularly in distinguishing between scheduled and actual debt
+service, in estimating the accumulation/reduction of private sector payments arrears, and in estimating
+rescheduling and debt reductions received by the private sector from external creditors.
+
+II. Data Standards and Quality
+Subscriber to the Special Data Dissemination Standard
+
+Data ROSC completed in 2005.
+
+(SDDS) since September 1996, observing most of the
+SDDS requirements.
+
+INTERNATIONAL MONETARY FUND 9
+
+2011 ARTICLE IV REPORT—INFORMATIONAL ANNEX
+
+INDONESIA
+
+Indonesia: Table of Common Indicators Required for Surveillance
+(As of August 18, 2011)
+Date of
+Latest
+Observation
+
+Date
+Received
+
+Exchange rates
+
+8/18/11
+
+8/18/11
+
+International reserve assets and
+reserve liabilities of the monetary
+1
+authorities
+
+7/22/11
+
+8/18/11
+
+Reserve/base money
+
+6/11
+
+Broad money
+
+Frequency
+of
+6
+Data
+
+Frequency
+of
+6
+Reporting
+
+Frequency of
+6
+Publication
+
+D
+
+D
+
+W/M
+
+D
+
+M
+
+M
+
+8/11
+
+D
+
+D
+
+W/M
+
+6/11
+
+8/11
+
+M
+
+M
+
+M
+
+Central bank balance sheet
+
+7/11
+
+8/11
+
+M
+
+M
+
+M
+
+Consolidated balance sheet of the
+banking system
+
+6/11
+
+8/11
+
+M
+
+M
+
+M
+
+8/18/11
+
+8/18/11
+
+D
+
+D
+
+W/M
+
+Consumer price index
+
+7/11
+
+8/1/11
+
+M
+
+M
+
+M
+
+Revenue, expenditure, balance and
+3
+composition of financing –central
+government
+
+7/11
+
+8/11
+
+M
+
+M
+
+Mid year
+
+Stocks of central government and
+central government–guaranteed debt
+
+4/11
+
+7/11
+
+M
+
+M
+
+M
+
+External current account balance
+
+6/11
+
+8/11
+
+Q
+
+Q
+
+Q
+
+Exports and imports of goods and
+services
+
+6/11
+
+8/11
+
+M
+
+M
+
+M
+
+GDP/GNP
+
+6/11
+
+8/11
+
+Q
+
+Q
+
+Q
+
+4/11
+
+7//11
+
+M
+
+M
+
+M
+
+2009
+
+5/11
+
+A
+
+A
+
+A
+
+2
+
+Interest rates
+
+4
+
+Gross external debt
+
+International investment position
+
+5
+
+1
+
+Memorandum Items:
+Data Quality –
+Methodological
+7
+soundness
+
+Data Quality
+– Accuracy
+and
+8
+Reliability
+
+O, LO, O, O
+
+LO, O, O, LO,
+O
+
+LNO, LNO, LO,
+LNO
+
+LNO, LO, LO,
+LO, LNO
+
+LO, LO, LO, LO
+
+LO, O, LO, O,
+O
+
+LO, LO, O, LO
+
+LO, LO, LO,
+LO, LNO
+
+Includes reserve assets pledged or otherwise encumbered as well as net derivative positions.
+Both market based and officially determined, including discount rates, money market rates, rates on treasury bills, notes and bonds.
+3
+Foreign, domestic bank, and domestic nonbank financing.
+4
+Including currency and maturity composition.
+5
+Includes external gross financial assets and liability positions vis à vis non residents.
+6
+Daily (D); Weekly (W); Monthly (M); Quarterly (Q); Annually (A); NA: Not Available.
+7
+Reflects the assessment provided in the data ROSC published on July 20, 2005 (based on the findings of the mission that took place during
+March 28 April 11, 2005), for the dataset corresponding to the variable in each row. The assessment indicates whether international standards
+concerning concepts and definitions, scope, classification/sectorization, and basis for recording are fully observed (O); largely observed (LO); largely
+not observed (LNO); not observed (NO); and not available (NA).
+8
+Same as footnote 7, except referring to international standards concerning source data, assessment of source data, statistical techniques,
+assessment and validation of intermediate data and statistical outputs, and
+revision studies.
+2
+
+10
+
+INTERNATIONAL MONETARY FUND
+
+Statement by the IMF Staff Representative on Indonesia
+October 7, 2011
+The information below has become available following the issuance of the staff report. It
+does not alter the thrust of the staff appraisal.
+1.
+Similar to other emerging markets, Indonesian financial markets have recently been
+experiencing large sell-off pressures as concerns about advanced economies intensified (see
+chart). On the back of heavy foreign selling, the Jakarta equity index plunged by almost
+13 percent and Indonesia’s EMBI and CDS spreads rose 110-125 bps from end-August to
+October 3, in line with other emerging markets. At the same time, the rupiah has depreciated
+by about 4 percent against the U.S. dollar. Bank Indonesia (BI) intervened to stabilize the
+exchange rate and both BI and the government purchased government securities to support
+the bond market. Indonesian markets have recovered in the last week, with both bonds and
+the rupiah retracing most of their initial losses. Local 10-year government bond yields, for
+example, have fallen back to near their end-August levels, after rising 119 bps during
+September 9-22.
+2.
+Headline inflation eased to 4.6 percent y/y in September from 4.8 percent in August
+reflecting a larger-than-expected fall in food prices after Ramadan and base effects related to
+the timing of the holiday relative to last year. Core inflation has slowed to 4.9 percent y/y
+from 5.2 percent y/y in August. The trade surplus widened to US$3.8 billion in August, from
+US$1.2 billion the previous month. Exports (f.o.b.) grew 37.1 percent y/y, while import
+growth (c.i.f.) slowed to 23.7 percent y/y in August.
+3.
+On October 3, 2011, BI issued a new regulation requiring that export proceeds and
+external borrowing in the form of non revolving loan agreements and debt securities be
+received by domestic banks. However, there is no minimum period for which these funds
+need to be kept at a domestic bank, implying that firms are free to transfer them offshore
+immediately afterwards. The regulation will not take effect until January 2012, and there will
+be a one-year transition period.
+
+2
+
+Indonesia: Financial Market Performance during the Recent Global Turmoil
+While central bank intervention has supported the spot
+rupiah rate, offshore NDF markets remain stressed.
+
+External spreads have risen in line with other emerging
+markets.
+
+Foreign Exchange Rates
+
+External Bond and Credit Default Swap Spreads
+(basis points)
+
+9600
+Spot Rupiah per USD (left scale)
+
+8800
+
+450
+
+50
+
+1 Month NDF Rupiah per USD (left scale)
+
+400
+
+40
+
+1 Month NDF Implied Annual Yield (right scale)
+
+30
+20
+
+8400
+
+350
+Percent
+
+Rupiah/USD
+
+9200
+
+500
+
+60
+
+10
+8000
+
+0
+
+300
+250
+200
+150
+100
+50
+
+-10
+
+7600
+6/30/11
+
+7/31/11
+
+8/31/11
+
+Portfolio Inflows
+
+EM 5 Year CDS Spread Index
+
+Global EMBI Spread
+
+Indonesia EMBI Spread
+
+0
+6/30/11
+
+9/30/11
+
+Foreign investors have reduced their holdings of rupiahdenominated assets.
+
+Indonesia 5 year CDS Spread
+
+7/31/11
+
+8/31/11
+
+9/30/11
+
+Indonesian equity prices have fallen in recent weeks, but
+remain among the better performers in the region.
+Equity Market Indicies
+
+(Year to date, billions of US$)
+
+(End-June 2011 = 100)
+120
+
+7
+6
+
+110
+
+5
+100
+
+4
+3
+
+One-off private
+equity inflow
+
+90
+
+2
+80
+Equity
+
+0
+6/30/11
+
+Government securities
+7/31/11
+
+Jakarta Composite Index (Rupiah)
+Jakarta Composite Index (USD)
+MSCI Asia Ex. Japan (USD)
+
+8/31/11
+
+70
+6/30/11
+
+9/30/11
+
+After a sharp sell-off in mid-September, bond markets have
+recovered, supported by government and BI purchases.
+
+7/31/11
+
+8/31/11
+
+9/30/11
+
+There is little sign of rupiah liquidity problems in the
+banking system.
+Policy and Interbank Rates and Excess Liquidity
+
+Local Currency Government Bond Yields
+
+9
+
+(percent)
+10
+9
+
+8
+
+BI overnight deposit facility volume (right scale)
+Excess reserves (right scale)
+Overnight interbank call money rate
+BI policy rate
+BI overnight deposit facility rate
+
+120
+100
+80
+
+Percent
+
+8
+7
+6
+
+60
+
+7
+
+40
+5
+4
+3
+6/30/11
+
+6
+20
+1 Year
+
+5 year
+
+10 Year
+
+7/31/11
+
+20 Year
+8/31/11
+
+9/30/11
+
+Sources: CEIC Data Co., Bloomberg L.P.; and IMF staff calculations.
+
+5
+6/30/11
+
+0
+7/28/11
+
+8/25/11
+
+9/22/11
+
+Trillions of rupiah
+
+1
+
+Public Information Notice (PIN) No. 11/128
+FOR IMMEDIATE RELEASE
+October 21, 2011
+
+International Monetary Fund
+700 19th Street, NW
+Washington, D. C. 20431 USA
+
+IMF Executive Board Concludes 2011 Article IV Consultation with
+Indonesia
+On October 7, 2011, the Executive Board of the International Monetary Fund (IMF) concluded
+the Article IV consultation with Indonesia.1
+Background
+Continuing the impressive performance during the global financial crisis, Indonesia’s economy
+expanded 6.1 percent in 2010 and accelerated to 6.5 percent in the first half of 2011. Growth
+has also become more balanced, with investment adding to consumption and exports as the
+main engines of growth. In the absence of a significant further deterioration in global conditions,
+GDP growth is projected to remain robust at about 6−6.5 percent in both 2011 and 2012,
+increasingly driven by investment, which is offsetting a lower contribution from net exports.
+Headline inflation has eased in recent months on softening food prices, but upward pressure on
+core inflation is expected to continue. At end˗2010, rising food prices had pushed CPI inflation
+to 7 percent; exceeding Bank Indonesia’s (BI) 4−6 percent target range. Headline inflation
+started to ease since February 2011, falling to 4.6 percent in July, as good local harvests and
+increased rice imports helped hold down food prices. Core inflation rose steadily through 2010
+and into 2011, reaching 5.2 percent in August 2011. The future path of food prices will play a
+major role in the evolution of inflation. Nevertheless, a closing output gap, accelerating credit
+1
+
+Under Article IV of the IMF's Articles of Agreement, the IMF holds bilateral discussions with
+members, usually every year. A staff team visits the country, collects economic and financial
+information, and discusses with officials the country's economic developments and policies. On
+return to headquarters, the staff prepares a report, which forms the basis for discussion by the
+Executive Board. At the conclusion of the discussion, the Managing Director, as Chairman of the
+Board, summarizes the views of Executive Directors, and this summary is transmitted to the
+country's authorities. An explanation of any qualifiers used in summings up can be found here:
+http://www.imf.org/external/np/sec/misc/qualifiers.htm.
+
+2
+growth and elevated inflation expectations from an anticipated reduction in energy subsidies are
+projected to push core inflation higher in the second half of this year and into 2012.
+The current account surplus has declined, but capital inflows have increased. Exports have
+been robust, buoyed by higher commodity prices and growing demand from major emerging
+market partners. Imports are also rising rapidly, in line with strengthening domestic demand.
+Strong growth prospects, solid macroeconomic fundamentals, and the potential for a ratings
+upgrade to investment status have continually led to large portfolio inflows, boosting bond and
+equity prices to all time highs. Foreign direct investment inflows have picked up and become
+broader based, and should provide greater support for the balance of payments. International
+reserves have more than doubled from the 2008 level, increasing to $125 billion by end
+August 2011. The rupiah has appreciated about 5 percent against the dollar from end 2010 to
+end August 2011, and external debt spreads have narrowed.
+Indonesian banks continue to be profitable and are generally well capitalized. In line with the
+findings of the 2010 Financial Sector Assessment Program (FSAP), capital adequacy ratios
+remain high at 17.5 percent, and asset quality is satisfactory, with the nonperforming loan ratio
+at about 3 percent as of March 2011. BI has made progress towards the FSAP recommendation
+to establish a legally mandated Prompt Correction Action (PCA) mechanism, but the adoption of
+the Financial System Safety Net (FSSN) law remains outstanding.
+Since October 2010, BI has used a wide range of instruments to stem mounting inflationary
+pressures and strong foreign demand for its sterilization instruments. The central bank raised its
+policy rate by 25 basis points to 6.75 percent in February 2011, after holding it unchanged at a
+historical low of 6.5 percent since August 2009. Reserve requirements on both local currency
+and foreign currency deposits have also been raised. BI has successfully shifted the
+composition of inflows away from central bank bills (SBI) by extending the holding requirement,
+lengthening the maturity of issues, and introducing longer maturity nontradable term deposits
+available only to banks.
+The moderate fiscal stimulus provided in 2009 was reduced in 2010. The 2010 central
+government budget deficit was 0.6 percent of GDP, well below the government’s revised budget
+deficit target of 2.1 percent, reflecting ongoing problems in implementing spending programs.
+Public debt to GDP fell to 27 percent, one of the lowest among G20 countries. The overall
+budget deficit in 2011 is projected to increase slightly to about 1.25 percent of GDP, reflecting
+higher energy subsidies.
+Executive Board Assessment
+Executive Directors commended the authorities for cautious policymaking, which has
+underpinned a strong macroeconomic performance during the global crisis and a favorable
+growth outlook. Given Indonesia’s strong fundamentals, significant policy buffers, and vigorous
+domestic demand, Directors agreed that the risks from a deterioration in global economic
+
+3
+conditions appear to be manageable. Looking ahead, improved infrastructure, better targeted
+social spending, and deeper structural reforms will be crucial to lifting the long-term prospects
+for growth.
+While taking note of the authorities’ view that inflation may not be an immediate concern,
+Directors nonetheless considered that Bank Indonesia should be prepared to tighten monetary
+policy, in view of high credit growth and a planned reduction in energy subsidies. The timing of
+such move should, however, be mindful of global developments and the likely impact on capital
+flows. Directors suggested a combination of policy rate increases, macro-prudential measures,
+and liquidity absorption to tighten monetary conditions, and encouraged the central bank to
+focus its communications on its commitment to the inflation target.
+To improve the effectiveness of monetary policy, Directors suggested that the central bank’s
+operational framework be adjusted to link interbank rates to the policy rate more effectively
+while promoting money market development. Directors also recommended strengthening the
+central bank’s financial resources by increasing the share of marketable securities in its balance
+sheet and replenishing its capital base.
+Directors agreed that domestic financial conditions are generally sound. They welcomed the
+authorities’ progress in implementing the recommendations of the 2010 Financial Stability
+Assessment Program and efforts to reinforce supervisory oversight through a new risk-based
+bank rating system. In this regard, Directors noted that the adoption of the Financial System
+Safety Net law remains key to an improved framework for crisis management and resolution.
+Directors commended the authorities’ commitment to strong public finances and a prudent fiscal
+policy. They encouraged the authorities to phase out poorly targeted subsidies with a view to
+creating room in the 2012 budget for needed infrastructure and other priority expenditures.
+Noting that implementation constraints still hamper policy flexibility, they called for further
+improvements in budget execution and public financial management, as well as tax reforms that
+could create the budgetary space for high-priority social expenditures.
+Directors considered that further structural reforms are critical for higher potential growth and
+the achievement of the authorities’ longer-term development targets. In this regard, they
+recommended renewed efforts to improve regulation, strengthen governance, and bolster the
+business climate.
+
+4
+Public Information Notices (PINs) form part of the IMF's efforts to promote transparency of the IMF's
+views and analysis of economic developments and policies. With the consent of the country
+(or countries) concerned, PINs are issued after Executive Board discussions of Article IV consultations
+with member countries, of its surveillance of developments at the regional level, of post-program
+monitoring, and of ex post assessments of member countries with longer-term program engagements.
+PINs are also issued after Executive Board discussions of general policy matters, unless otherwise
+decided by the Executive Board in a particular case. The staff report (use the free Adobe Acrobat
+Reader to view this pdf file) for the 2011 Article IV Consultation with Indonesia is also available.
+
+5
+Indonesia: Selected Economic Indicators, 2007–12
+Nominal GDP (2010): Rp 6,423 trillion or US$707 billion
+Main exports (percent of total, 2010): mineral fuels (36), manufactured goods (23), machinery and transport equipment (13)
+GDP per capita (2010): US$2974
+Unemployment rate (Feb. 2011): 6.8 percent
+Poverty headcount ratio at national poverty line (2010): 13.3 percent of population
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+Proj.
+
+2012
+Proj.
+
+6.3
+4.1
+
+6.0
+7.6
+
+4.6
+5.2
+
+6.1
+5.7
+
+6.4
+6.4
+
+6.3
+6.7
+
+5.0
+9.3
+-1.6
+0.6
+2.1
+
+5.3
+11.9
+0.1
+0.7
+-1.4
+
+4.9
+3.3
+-0.2
+1.2
+-1.2
+
+4.6
+8.5
+0.4
+0.8
+0.2
+
+4.9
+9.4
+0.1
+0.6
+0.0
+
+5.0
+10.5
+0.0
+0.3
+0.0
+
+24.9
+27.3
+-2.4
+
+27.8
+27.8
+0.0
+
+31.0
+33.5
+-2.5
+
+32.5
+33.3
+-0.8
+
+32.9
+33.1
+-0.2
+
+34.4
+34.0
+0.4
+
+Prices (12-month percent change)
+Consumer prices (end period)
+Consumer prices (period average)
+
+5.4
+6.0
+
+11.1
+9.8
+
+2.8
+4.8
+
+7.0
+5.1
+
+5.0
+5.7
+
+6.4
+6.5
+
+Public finances (in percent of GDP)
+Central government revenue
+Central government expenditure
+Central government balance
+Primary balance
+Central government debt
+
+17.9
+19.1
+-1.2
+0.8
+36.9
+
+19.8
+19.9
+-0.1
+1.7
+33.2
+
+15.1
+16.7
+-1.6
+0.1
+28.6
+
+15.8
+16.4
+-0.6
+0.8
+27.4
+
+16.4
+17.7
+-1.3
+0.1
+25.2
+
+15.9
+17.2
+-1.3
+0.1
+23.9
+
+Money and credit (12-month percent change; end of period)
+Rupiah M2
+Base money
+Private sector credit
+One-month interbank rate (period average)
+
+19.6
+27.8
+25.1
+8.5
+
+12.7
+-9.2
+30.9
+9.4
+
+13.8
+16.7
+8.2
+7.8
+
+16.5
+28.9
+22.2
+6.5
+
+...
+...
+...
+...
+
+...
+...
+...
+...
+
+Balance of payments (in billions of U.S. dollars)
+Oil and gas (net)
+Non-oil exports (f.o.b)
+Non-oil imports (f.o.b)
+Current account balance
+Foreign direct investment
+Overall balance
+
+5.7
+93.1
+-66.1
+10.5
+2.3
+12.7
+
+7.8
+107.9
+-92.8
+0.1
+3.4
+-1.9
+
+8.3
+99.0
+-73.5
+13.6
+1.9
+14.2
+
+3.2
+129.4
+-102.0
+5.6
+10.6
+30.3
+
+2.3
+159.1
+-128.4
+1.5
+11.6
+30.2
+
+1.2
+163.5
+-135.3
+-4.0
+11.2
+20.8
+
+Gross reserves
+In billions of U.S. dollars (end period)
+In months of imports
+As a percent of short-term debt 3/
+
+56.9
+4.7
+198.6
+
+51.6
+5.7
+178.5
+
+66.1
+5.2
+211.0
+
+96.2
+5.9
+226.5
+
+126.4
+7.4
+252.3
+
+147.2
+8.1
+276.5
+
+Total external debt
+In billions of U.S. dollars
+In percent of GDP
+
+133.6
+30.9
+
+155.0
+30.3
+
+172.8
+32.1
+
+202.4
+28.6
+
+216.1
+25.9
+
+230.0
+24.6
+
+Exchange rate (period average)
+Rupiah per U.S. dollar
+
+9,141
+
+9,699
+
+10,390
+
+9,090
+
+...
+
+...
+
+100.3
+
+90.8
+
+86.6
+
+95.2
+
+...
+
+...
+
+899
+70.7
+3,951
+
+927
+96.6
+4,949
+
+960
+61.4
+5,604
+
+954
+78.6
+6,423
+
+945
+103.7
+7,223
+
+945
+100.5
+8,175
+
+432
+
+511
+
+538
+
+707
+
+834
+
+936
+
+Real GDP (percent change)
+Domestic demand
+Of which:
+Private consumption
+Gross fixed investment
+Change in stocks 1/
+Net exports 1/
+Statistical discrepancy 1/
+Saving and investment (in percent of GDP)
+Gross investment 2/
+Gross national saving
+Foreign saving
+
+Nominal effective exchange rate ( 2005=100)
+Memorandum items:
+Oil production (thousands of barrels per day)
+Indonesian oil price (US$/bbl)
+Nominal GDP (in trillions of rupiah)
+Nominal GDP (in billions of U.S. dollars)
+Sources: Data provided by the Indonesian authorities; and IMF staff estimates.
+1/ Contribution to GDP growth (percentage points).
+2/ Includes changes in stocks.
+3/ Short-term debt on a remaining maturity basis.
+
+Statement by Aida Budiman, Alternate Executive Director for Indonesia
+and Iss Savitri Hafid, Advisor
+October 7, 2011
+The Indonesian authorities would like to thank the IMF team for the fruitful dialogue during
+this year’s Article IV consultation and the useful inputs from the Staff Report and the
+Selected Issues paper. They welcome staff’s appraisal on the resiliency of the economy,
+garnered from adoption of prudent macroeconomic and financial measures, a series of
+structural reform policies, combined with a transition toward a more democratic and stable
+political system.
+Recent Economic Development and Outlook
+1.
+Despite the bleak prospect of the global economy which has intensified recently, the
+Indonesian economy continues to demonstrate an impressive progress as well as stability.
+The sources of economic growth have been more balanced as investment activity gains
+momentum, owing to stronger economic fundamentals and improved business climate.
+Government expenditure will continue to play an important role in providing stimulus to the
+economy, while at the same time preserving a prudent fiscal position. Nevertheless, the
+recent downward revision of global outlook has led the authorities to lower its GDP and
+inflation forecast, in particular for 2012. In 2011 and 2012, the GDP is forecasted to reach
+6.6% and 6.5%, respectively; while for the inflation rate is 4.9% and 5%, respectively.
+2.
+These developments have placed the economy on a better footing. The level of
+reserves has reached an all-time high, in which this position is sufficient to cover more than 7
+months of imports and external debt services of the Government. Furthermore, external debt
+has been on a steady downward path, including public debt, in line with the medium-term
+fiscal target to build up fiscal space. The composition of capital inflows has furthered
+improved as reflected by FDI flows surpassing net portfolio flows beginning second-half of
+this year. This change in the nature of inflows to more longer-term flows will further enhance
+the resilience of the economy. In addition, financial stability continues to be preserved, as
+reflected by the high level of capital adequacy ratio and the markedly lower level of NPL.
+Likewise, government bond price and stock market index are on a rising trend. Backed by
+sound fundamentals, the Rupiah exchange rate has been on an appreciating trend, alleviated
+the temporary pressures due to global sentiment triggered by uncertainty of the US and Euro
+area economic prospects. Taking into account favorable growth prospects, Indonesia’s credit
+rating has been upgraded to one notch below the investment grade by two rating agencies this
+year and one rating at the end of last year.
+3.
+The authorities are cognizant of the challenges that lie ahead and broadly agree with
+the staff’s assessment on the Indonesian economy. The authorities’ top priority is to sustain
+the growth momentum without compromising stability, while improving the quality of
+growth.
+
+2
+Monetary policy
+4.
+The objective of monetary policy is always to achieve and safeguard price stability.
+The policy responses toward inflationary pressures would need to be assessed carefully in
+view of the uncertainties in the global economy, massive capital inflows and the possibility
+of capital reversal, as well as gaps in market development. The policy rate remains a part of
+the policy tool-kit to maintain macroeconomic and financial stability, in addition to other
+monetary and macro-prudential policies, including continued efforts to strengthen monetary
+policy operation and promote financial deepening. While authorities acknowledge the
+possibility of higher inflation pressures in 20121, two important factors should be taken into
+consideration in formulating policy responses to inflation going forward. First, any
+adjustment in administered prices should be viewed as a one-time and temporary shock.
+Second, authorities are also concerned over the possibility of a more pronounced global
+economic slowdown, hence less pressure from commodity and oil price. Due to these two
+considerations, the authorities will focus their attention to limit any second-round effects of
+this adjustment to headline inflation. Authorities have successfully demonstrated their ability
+to achieve this during the episode of food price increase in 2010.
+5.
+Various indicators have been and will be closely monitored to ensure that price
+stability remains in check. To track demand side pressures, the decomposition of core
+inflation has been analyzed. The result shows that the current uptrend in core inflation has
+been mainly due to gold. Core inflation excluding gold as well as non-food core inflation
+excluding gold, are still in the low levels of 4.2% and 4% respectively, lower than core
+inflation of 5.2%. In addition, inflation expectation indicators also indicate a declining trend
+in public expectations for both for 2011 and 2012. Authorities will also ensure sufficient
+supply of food and its smooth distribution, while strengthening the communication strategy
+to ensure that public expectation is well-anchored. These efforts will be complemented by
+continued use of the exchange rate as an economic shock absorber, which so far has been
+effective in containing inflationary pressures and impact of capital flows.
+6.
+Expansion in credit growth is important to boost the economic capacity. Unlike the
+situation in 2009 where credit growth was dominated by consumption loan, the rapid credit
+growth in 2010 and 2011 has witnessed broad-based expansion, including in working capital
+and investment loans. Taking into account the share of credit, most funds are channeled to
+productive sectors which in turn will boost the economic capacity and address infrastructure
+bottlenecks.
+Fiscal Policy
+7.
+The authorities are firmly committed to ensuring fiscal sustainability as improving
+public finance management. This is of utmost importance in order to achieve the mediumterm fiscal strategy of attaining public debt consolidation and improving the quality of
+government expenditure. Public debt to GDP has steadily declined from 36.9% in 2007 and
+is targeted to fall to less than 24% at the end of 2011. On the revenue side, authorities
+continue their efforts to increase the tax revenue ratio, including through broadening tax base
+
+3
+and continuing administration reform agenda. Meanwhile, the improvement in the budget
+structure will be addressed through implementation of a gradual phase-out of subsidies,
+reallocation of spending towards infrastructure and alleviation of poverty and unemployment.
+To support these efforts, authorities are currently seeking TA programs that may help to
+design the blueprint and implementation strategy for strategic government projects.
+8.
+Efforts to adhere to good corporate governance in fiscal operation are in progress. To
+enhance the effectiveness and efficiency of budget management, the authorities are
+implementing a multi-year performance-based budgeting (PBB) and a medium-term
+expenditure framework (MTEF) in the period 2010-14. Further, a Presidential Decree on
+procurement was adopted in 2010 to maintain governance while aiming to streamline
+procurement-related regulations. However, owing to the transitional period and operational
+guidelines, the new regulation contributed to the current low execution of government
+spending. Realizing this condition, corrective actions have been taken, among others by
+introducing an incentive system to ministries and government institution that are capable of
+optimizing their budget by March 2011. In addition, the Ministry of Finance has delegated
+some authority for budget virement to Treasury regional offices and line ministries.
+Financial Sector Policy
+9.
+The authorities have sustained efforts to optimize the intermediary function of the
+financial system while continuously maintaining the financial stability. Indonesia has
+undertaken intensive financial sector reform and is in the stage of implementing the FSAP
+recommendations. In this regard, the authorities welcome TA programs to help address
+concerns in the priority sectors. Likewise, reforms in the banking sector, such as Basel II
+implementation and principle-based supervisory approach, have progressed according to the
+timeline. On the capital market side, the Bapepam-LK continues to implement the five-year
+development plan with five area for development, namely increasing accessible and efficient
+source of fund, improving ease of transaction, promoting a stable, resilient and liquid
+industry, enhancing fair and transparent regulatory framework which guarantees legal
+certainty, and promoting a credible, reliable international standard infrastructure.
+10.
+Despite the sound and solid banking condition, the authorities continue to strengthen
+the Crisis Management Framework. In view of the pending enactment of the Financial
+Stability Safety Net Law, a concerted effort has been made to establish a national crisis
+management protocol, and is in the progress of harmonizing this protocol among related
+agencies. In the banking sector, Bank Indonesia has revamped the system for individual
+banking and sharpened the Prompt Corrective Action measure with the introduction of Risk
+Based Bank Rating (RBBR) to preemptively determine bank supervisory status and exit
+policy. In terms of the government bond market, the Ministry of Finance and Bank Indonesia
+have taken a coordinated initiative to provide back-stop mechanism as it deems necessary, to
+avoid excessive volatility in the market. This initiative is considered important as bond price
+fluctuation has significant role in building up market expectations.
+
+4
+Structural reform
+11. Understanding the need to address the infrastructure bottlenecks, the government has
+strengthened the provision of government guarantees and direct contribution for
+infrastructure projects, as well as accelerated and streamlined the procurement process. A
+clear target for infrastructure development is set annually. The 2011 target is projects related
+to national food security, transportation connectivity, communications, energy security, water
+resource and flood management. Efforts towards achieving investment grade status are in
+progress. The authorities have intensified the engagement with investors by actively
+improving communication channels and data transparency. Based on the IIF’s 2011
+assessment, the Investors Relations Unit of Indonesia has been ranked first, together with a
+few other emerging market countries. This positive achievement is expected to contribute to
+increased longer-term financing from abroad, including those supporting the most needed
+infrastructure financing, and at better cost.
+To conclude, Indonesia has successfully weathered the deep global crisis in 2008 and
+registered continued notable economic growth. This progress is a result of intensive reform
+and prudent macroeconomic policies which lays a solid foundation to entail sustainable
+economic growth. In years to come, the authorities envisage to improve the quality of
+growth, aiming to bring more people out of poverty line so as to deliver equality in social
+welfare. Indonesia also resolves to play a greater role in cushioning a potential global
+economic slowdown, together with other EMDCs.
+
+

@@ -1,0 +1,2458 @@
+DMSDR1S-#5014256-v2-For_External_Publication_–
+_Guidance_Note_for_Surveillance_Under_Article_IV_Consultations.DOCX 2010 Article IV Report
+g
+
+GUIDANCE NOTE FOR SURVEILLANCE UNDER ARTICLE IV
+CONSULTATIONS
+October 10, 2012
+
+EXECUTIVE SUMMARY
+This note aims to provide country teams with broad guidance on bilateral and multilateral
+surveillance in the context of Article IV consultations. Except where specifically noted, staff
+are not expected to comprehensively cover all the issues raised here as in a checklist.
+Rather, selectivity is critical, bearing in mind the overall focus on both individual members’
+stability as well as the effective operation of the international monetary system—including
+through maintaining global economic and financial stability—and the need for improvement in
+five areas defined as operational priorities for surveillance—interconnections, risk assessments,
+financial stability, balance of payments stability and traction. The Financial Sector Surveillance
+Guidance Note should help to identify and prioritize financial stability concerns. While guidance
+on these priorities is provided here, there is of course scope for staff to innovate and push the
+analytical content beyond current practices. Staff should be mindful of the need for surveillance
+to be a collaborative process, candid, evenhanded, and pay due regard to countries’ specific
+circumstances. This guidance note will be revised on a regular basis in light of staff’s experience
+with the conduct of Article IV consultations under the Integrated Surveillance Decision.
+
+GUIDANCE NOTE FOR SURVEILLANCE UNDER ARTICLE IV CONSULTATIONS
+
+Approved By
+Siddharth Tiwari
+
+Prepared by the Strategy, Policy, and Review Department
+In consultation with other departments
+
+CONTENTS
+INTRODUCTION _________________________________________________________________________________ 5
+SCOPE OF SURVEILLANCE: FOCUS ON STABILITY _____________________________________________ 9
+OPERATIONAL PRIORITIES FOR SURVEILLANCE ______________________________________________ 12
+A. Interconnections ______________________________________________________________________________ 12
+B. Risk Assessment ______________________________________________________________________________ 17
+C. Financial Stability _____________________________________________________________________________ 19
+D. Balance of Payments Stability _________________________________________________________________ 24
+E. Traction _______________________________________________________________________________________ 31
+OTHER TOPICS _________________________________________________________________________________ 32
+A. Issues within the Mandate of Surveillance ____________________________________________________ 32
+B. Matters Related to Article VIII and XIV ________________________________________________________ 33
+COMMUNICATION _____________________________________________________________________________ 33
+SURVEILLANCE PROCESS AND REQUIREMENTS ______________________________________________ 35
+A. Article IV Consultation Cycles _________________________________________________________________ 35
+B. Consultations with Members of Currency Unions _____________________________________________ 37
+C. Process and Documentation __________________________________________________________________ 37
+FIGURE
+1. Structure of Balance of Payments Stability Assessment _______________________________________ 24
+BOXES
+1. Operational Priorities for Surveillance, 2011–14 ________________________________________________ 8
+2. Good Examples in Coverage of Spillovers and Cross-country Analyses _______________________ 13
+3. Good Examples in Risk Assessment ___________________________________________________________ 19
+4. Good Examples in Financial Stability Analysis _________________________________________________ 20
+5. Good Examples in Balance of Payments Stability Analysis _____________________________________ 25
+ANNEXES
+I. Legal Framework, Principles and Guidance for Fund Surveillance ______________________________ 40
+II. Formal Requirements in Article IV Staff Reports _______________________________________________ 45
+
+2
+
+INTERNATIONAL MONETARY FUND
+
+GUIDANCE NOTE FOR SURVEILLANCE UNDER ARTICLE IV CONSULTATIONS
+
+LIST OF ACRONYMS
+
+AML
+AREAER
+CA
+CFT
+CGER
+DSA
+EBA
+EPA
+EPE
+EREER
+ESR
+EWE
+EXR
+FAD
+FCL
+FM
+FSB
+FSAP
+FSSA
+FSSGN
+FTN
+GFSM
+GFSR
+G-RAM
+G-SIFIs
+ISD
+LOE
+LCFIs
+MB
+MTDS
+NEAP
+OFC
+PLL
+PSI
+PRGT
+PRS
+PRSP
+RAM
+REER
+REO
+
+Anti-Money Laundering
+Annual Report on Exchange Arrangements and Exchange Restrictions
+Current Account
+Combating Financing of Terrorism
+Consultative Group on Exchange Rates
+Debt Sustainability Analysis
+External Balance Assessment
+Ex-Post Assessment
+Ex-Post Evaluations of Exceptional Access Arrangements
+Equilibrium Real Effective Exchange Rate
+External Sector Report
+Early Warning Exercise
+External Relations Department
+Fiscal Affairs Department
+Flexible Credit Line
+Fiscal Monitor
+Financial Stability Board
+Financial Sector Assessment Program
+Financial System Stability Assessment
+Financial Sector Surveillance Guidance Note
+FSAP Technical Note
+Government Finance Statistics Manual
+Global Financial Stability Report
+Global Risk Assessment Matrix
+Global Systemically Important Financial Institutions
+Integrated Surveillance Decision
+Languages Other than English
+Large Complex Financial Institutions
+Macro-balance
+Medium-Term Debt Strategy
+Net External Asset Position
+Offshore Financial Center
+Precautionary and Liquidity Line
+Policy Support Instrument
+Poverty Reduction and Growth Trust
+Poverty Reduction Strategy
+Poverty Reduction Strategy Paper
+Risk Assessment Matrix
+Real Effective Exchange Rate
+Regional Economic Outlook
+
+INTERNATIONAL MONETARY FUND
+
+3
+
+GUIDANCE NOTE FOR SURVEILLANCE UNDER ARTICLE IV CONSULTATIONS
+
+ROSC
+SIFIs
+SIP
+TA
+TSR
+UFR
+VEA
+VEE
+VE-LIC
+WEO
+
+4
+
+Report on the Observance of Standards and Codes
+Systemically Important Financial Institutions
+Selected Issues Paper
+Technical Assistance
+Triennial Surveillance Review
+Use of Fund Resources
+Vulnerability Exercises for Advanced Economies
+Vulnerability Exercises for Emerging Markets
+Vulnerability Exercises for Low-Income Countries
+World Economic Outlook
+
+INTERNATIONAL MONETARY FUND
+
+GUIDANCE NOTE FOR SURVEILLANCE UNDER ARTICLE IV CONSULTATIONS
+
+INTRODUCTION
+Under the new Decision on Bilateral and Multilateral Surveillance (or Integrated Surveillance Decision
+(ISD)), Article IV consultations become a vehicle for both bilateral and multilateral surveillance.1
+Accordingly, in addition to assessing the contribution of members’ policies to their own domestic and
+balance of payments stability,2 Article IV consultations should cover potential or actual outward
+spillovers from members’ policies that may significantly influence the effective operation of the
+international monetary system, including by undermining global economic and financial stability
+(hereinafter “global stability”).3
+Outward spillovers are deemed to “significantly influence” the effective operation of the international
+monetary system (hereinafter “significant impact on global stability”), if by themselves, or in
+combination with spillovers from other members’ policies, or through their regional impact, they enter
+the macrofinancial policy considerations of members representing a significant portion of the global
+economy.
+Outward spillovers that may have a significant impact on global stability should be identified through
+an interdepartmental process and informed by feedback from the authorities of spillover recipient
+countries.
+Outward spillovers should be discussed, irrespective of the type of economic or financial policy from
+which they stem or the channels through which they transmit (balance of payments or non-balance of
+payments, e.g. contagion, market pricing).
+
+1
+
+The Executive Board adopted the ISD on July 18, 2012. The ISD will apply to all Article IV consultations that are
+completed by the Executive Board on or after January 18, 2013. Annex I provides a broad overview of the current
+legal framework for surveillance and members‘ obligations under Article IV. Information on the application of the
+guiding principles in the ISD is available at FAQs—Guiding Principles. The ISD also covers other aspects of
+surveillance which are outside the scope of this guidance note, including the conduct of multilateral consultations.
+2
+
+Domestic stability refers to orderly economic growth with reasonable price stability, with due regard to the
+circumstances of the relevant members, and orderly underlying economic and financial conditions and a monetary
+system that does not tend to produce erratic disruptions (see Article IV, Section 1). The term external stability was
+replaced by balance of payments stability in the ISD to ensure clarity that this concept refers to a country‘s own
+stability as opposed to systemic stability. However, there is no difference in the definition of the two terms.
+3
+
+A description of the legal basis and framework for surveillance is set out in Annex I.
+
+INTERNATIONAL MONETARY FUND
+
+5
+
+GUIDANCE NOTE FOR SURVEILLANCE UNDER ARTICLE IV CONSULTATIONS
+
+1.
+This note provides guidance to staff on the conduct of surveillance in the context of
+Article IV consultations, a core activity of the Fund.4 Surveillance involves the continuous
+monitoring of members‘ economic and financial policies and their impact on their own and global
+stability.5 During Article IV consultations, staff holds pointed discussions with country authorities on
+the economic situation, the authorities‘ policies and how these affect the country‘s stability, the role
+of potential or actual spillovers where relevant, and desirable policy adjustments. These discussions
+are then reported to the Fund‘s Executive Board for its consideration. The goal, through thorough
+analysis, candid discussions, and a peer-review mechanism, is to promote the stability of members‘
+economies, as well as the effective operation of the international monetary system, including
+through maintaining global stability.
+2.
+For effective surveillance (both bilateral and multilateral), the following qualities are
+essential and permeate all aspects of surveillance work:
+
+
+Collaboration. Surveillance is a collaborative process, based primarily on dialogue with
+country authorities and other stakeholders, and persuasion. While this dialogue should be a
+continuous process, particular value is seen in seeking country authorities‘ opinion on issues
+of interest to them before an Article IV consultation (for example on areas where crosscountry experience might be useful). In advising members on how to promote stability, staff
+should, to the extent possible, also take into account the member‘s other objectives,
+including domestic social and political policy objectives. Staff should also draw on the
+expertise of other international institutions as appropriate.
+
+
+
+Candor. Effective dialogue requires candor, both in discussions with the authorities and in
+staff reports, including about risks.
+
+
+
+Evenhandedness and regard to country circumstances. Surveillance must be evenhanded,
+whether economies are large or small, advanced or developing, and should pay due regard
+to countries‘ specific circumstances.
+
+
+
+Practicality. Staff‘s advice should be practical. It should be specific and take into account
+the authorities‘ implementation capacity.
+
+4
+
+This note replaces the Bilateral Surveillance Guidance Note of June 13, 2012. It emphasizes the directions from the
+2011 Triennial Surveillance Review (TSR) and its Operational Priorities, and from the ISD. With regard to the latter, it
+confirms the continued focus of surveillance on members‘ exchange rate policies while clarifying how the Fund can
+engage more effectively with members on their domestic economic and financial policies. The note also reflects and
+is part of the efforts undertaken to follow up on the 2011 IEO report on performance in the run-up to the financial
+and economic crisis.
+5
+
+Monitoring the impact of members‘ economic and financial policies on global stability—a necessary condition for
+the effective operation of the international monetary system—is a new focus for Article IV consultations, which have
+become a vehicle for both bilateral and multilateral surveillance under the ISD.
+
+6
+
+INTERNATIONAL MONETARY FUND
+
+GUIDANCE NOTE FOR SURVEILLANCE UNDER ARTICLE IV CONSULTATIONS
+
+
+
+Forward-looking. Staff reports and discussions should take a medium-term view, including
+a discussion of medium-term objectives and planned policies, as well as possible policy
+responses to the most relevant contingencies.6
+
+
+
+Multilateral perspective. Article IV consultations should discuss potential or actual
+spillovers as provided by the Integrated Surveillance Decision and draw from experience in
+other countries.
+
+
+
+Selectivity. While the Guidance Note presents the issues in a comprehensive manner, staff
+should not view it as a prescriptive list—reports should be focused and selective, except for
+certain issues that must routinely be covered (as specifically identified). Surveillance should
+focus on issues important for a country‘s own stability and global stability. Staff should use
+judgment in selecting the specific issues to cover in greater depth, and take a risk-based
+approach, leveraging the expertise of other institutions where appropriate. Guidance
+provided in Operational Priorities for Surveillance and Other Topics is intended to help staff
+in selecting topics. In terms of what to do less of, there is scope to cut back on issues that
+are not clearly at the core of the Fund‘s mandate and for fewer Selected Issues Papers (SIPs)
+focused solely on individual country issues (rather than with a cross-country perspective).
+
+
+
+Timeliness. To ensure that Article IV staff reports are up-to-date when discussed at the
+Board and subsequently published, staff should strive to minimize the time from the end of
+the discussions with the authorities to the Board discussions (it is expected that the lag
+should be within 65 days for most countries and three months for Poverty Reduction and
+Growth Trust (PRGT)-eligible countries).
+
+
+
+Follow up. To promote the candor and effectiveness of surveillance, country papers should
+follow up on past advice given in Article IV consultations and key FSAP recommendations
+and report on their implementation. In particular, in case the authorities did not follow past
+Fund advice, the reasons need to be reported.
+
+3.
+
+The note is organized around the following broad issues:
+
+
+
+Focus on stability. Stability is the organizing principle of surveillance. Article IV
+consultations should focus on the appropriate conduct of economic and financial policies
+pursued by members to promote present and prospective domestic and balance of
+payments stability as well as global stability. For the latter, Article IV consultation reports
+should discuss potential or actual spillovers from members‘ economic and financial policies
+that may significantly impact global stability, including alternative possible policy options
+that would minimize the adverse impact of spillovers on global stability. However, in the
+context of multilateral surveillance members will not be required to change their policies in
+the interest of global stability.
+
+
+
+Operational priorities. The 2011 Triennial Surveillance Review (TSR) found that the overall
+quality of bilateral surveillance is generally held in high regard. However, it also identified
+
+6
+
+For some issues, e.g. the macroeconomic impact of aging population, an even longer view may be appropriate.
+
+INTERNATIONAL MONETARY FUND
+
+7
+
+GUIDANCE NOTE FOR SURVEILLANCE UNDER ARTICLE IV CONSULTATIONS
+
+areas for improvement. The TSR (together with the 2011 IEO report) informed the
+operational priorities to guide surveillance for 2011–14 (Box 1). To help ensure progress on
+the five operational priorities, a substantial part of this Guidance Note is devoted to them.
+
+
+Other substantive issues. This note also covers other issues relevant to surveillance where
+specific guidance is available, as well as matters related to Article VIII and XIV consultations
+(relating to restrictions on the making of payments and transfers for current international
+transactions and multiple currency practices).
+
+
+
+Communication. Good communication including outreach is key to effective surveillance,
+including with the authorities (to help staff‘s advice get traction), the Executive Board (to
+support effective peer pressure), and the general public (to help gain support for necessary
+policy adjustments). Surveillance messages need to be clear, concise, focused on a few key
+points, as well as timely and strategically targeted.
+
+
+
+Process and formal requirements. Article IV consultations are underpinned by a number of
+procedures, rules, and requirements that are summarized in this note.
+Box 1. Operational Priorities for Surveillance, 2011–14
+IMF surveillance will be guided through 2014 by the following operational priorities:
+
+
+
+Interconnections. Bring a multilateral perspective to surveillance. Regularize spillover analysis and
+promote more cross-country work and thinking;
+
+
+
+Risk assessment. Ensure systematic coverage and in-depth discussion of risks in bilateral and
+multilateral surveillance. Deepen understanding of risk transmission channels and their policy
+implications;
+
+
+
+Financial stability. Adopt a strategic agenda for the Fund‘s financial sector surveillance. Take further
+steps to mainstream financial stability analysis in surveillance. Strengthen understanding of financial
+interconnectedness and continue to address data gaps;
+
+
+
+Balance of payments stability. Improve consistency and transparency of exchange rate analysis and
+ensure that discussions of balance of payments stability in staff reports extend beyond exchange rates;
+and
+
+
+
+Traction. Strengthen candor and evenhandedness of surveillance, ensure adequate coverage of macrocritical issues, and improve the effectiveness of communication. Encourage regular dialogue with
+members and engagement with other fora.
+
+Management and staff are responsible for delivering on these operational priorities, subject to members‘
+cooperation. A progress report on the implementation of the 2011 TSR will be sent to the Board in late 2012,
+and progress will be thoroughly assessed at the time of the next Triennial Surveillance Review.
+
+4.
+This note also serves as a portal to more detailed information. It is accessible in web
+format and is supplemented by the websites on financial sector surveillance and exchange rates and
+balance of payments stability, which provide more information, tools, examples of good practices,
+and fora for discussions on these issues. It will be revised on a regular basis in light of staff‘s
+experience with the conduct of Article IV consultations under the Integrated Surveillance Decision.
+
+8
+
+INTERNATIONAL MONETARY FUND
+
+GUIDANCE NOTE FOR SURVEILLANCE UNDER ARTICLE IV CONSULTATIONS
+
+SCOPE OF SURVEILLANCE: FOCUS ON STABILITY
+5.
+Stability is the organizing principle for surveillance. As a vehicle for the conduct of both
+bilateral and multilateral surveillance, Article IV consultations should focus on individual members‘
+own domestic and balance of payments stability as well as on global stability, which is typically a
+condition for the effective operation of the international monetary system (Annex I). The Principles
+for the Guidance of Members‘ Policies in the ISD provide guidance to members on the conduct of
+their exchange rate and domestic economic and financial policies, and the discharge of their related
+obligations (Annex I). In this context, the ISD acknowledges that in practice, it is difficult to attribute
+particular outcomes to specific policies, and it is the policy mix that ultimately affects a member‘s
+own stability and global stability.
+
+
+Individual countries’ own stability. Article IV consultations should for the purposes of
+bilateral surveillance focus on domestic and exchange rate policies of members that can
+influence members‘ present and prospective domestic and balance of payments stability,
+and discuss recommended adjustments. Staff should assess whether the members‘ exchange
+rate policies are promoting balance of payments stability and whether domestic economic
+and financial policies are promoting domestic stability. This would in all cases include an
+assessment of how exchange rates, fiscal, monetary, financial sector and structural policies
+and their interactions influence present or prospective domestic and balance of payments
+stability.7 Other policies, for example those that promote higher rates of potential growth,
+should be examined to the extent that they significantly influence domestic or balance of
+payments stability (this could include structural reforms aimed at boosting competitiveness
+for economies that are currently generating a poor growth dynamic burdened by high debt
+levels and limited policy choices). In cases where the link of these policies to stability is not
+self-evident, it needs to be explained (not just stated). Where a member is not promoting its
+own balance of payments or domestic stability, the potential or actual spillovers arising from
+the relevant polices of the member need to be examined regardless of the channels of
+transmission (see Section on Operational Priorities for Surveillance: A. Interconnections). The
+absence of potential or actual outward spillovers does not preclude a discussion of domestic
+and exchange rate policies that affect a country‘s own domestic and balance of payments
+stability. Macro-social issues (e.g., employment and income distribution) that pass the test of
+being critical to the assessment of macroeconomic stability should also be discussed in the
+report, drawing on the expertise of other institutions with relevant mandates (e.g. ILO, OECD,
+World Bank).
+
+7
+
+For help with the treatment of fiscal issues in surveillance, staff may refer to the Guidance Note on Presenting Fiscal
+Issues and FAD‘s Toolkit for Crisis Management. Staff reports issued after May 2011 should include presentations of
+the operations table and the financial balance sheet in the GFSM 2001 format—expanded, if needed, to include key
+aggregates in the authorities‘ presentation. Deviations from the GFSM 2001 methodology due to data availability
+should be flagged in footnotes. (For more details, see Government Finance Statistics to Strengthen Fiscal Analysis).
+
+INTERNATIONAL MONETARY FUND
+
+9
+
+GUIDANCE NOTE FOR SURVEILLANCE UNDER ARTICLE IV CONSULTATIONS
+
+Global stability. For the purposes of multilateral surveillance, Article IV consultations should
+also cover the actual or potential spillover effects of countries‘ economic and financial
+policies that have a significant impact on global stability, even if these policies do not
+undermine the country‘s own stability.8 Staff should discuss individual members‘ policies
+(including exchange rate, monetary, fiscal, financial, capital flow management, and structural
+policies) that may generate such spillovers, irrespective of the transmission channels of these
+spillovers. However, in the context of multilateral surveillance, members will not be required
+to change their policies in the interest of global stability.
+
+
+
+6.
+Staff reports should include a clear analysis and bottom line. All staff reports should
+include:
+
+
+Developments and outlook. A clear depiction of recent economic, financial, and where
+relevant for the economic analysis, political and social developments and policies and a
+candid analysis of the short- and medium-term outlook, including risks, vulnerabilities, and
+inward and outward spillovers, potential or actual, where applicable.9 The assessment should
+always include an evaluation of developments in the balance of payments.
+
+
+
+Policy discussion. A substantive policy discussion, candidly reflecting both the staff‘s and
+the authorities‘ views. Discussion should cover policies that affect a country‘s own stability as
+well as policies that may significantly impact global stability.
+
+
+
+Analysis and recommendations. A pointed summary of staff‘s analysis and policy
+recommendations in a staff appraisal.
+
+7.
+Article IV consultations must assess whether the member’s domestic economic and
+financial policies are promoting the member’s own domestic stability. In particular, missions
+should determine whether the member is observing Principle E set out in the ISD, which provides
+that members should seek to avoid domestic economic and financial policies that give rise to
+domestic instability.10 However, staff reports for Article IV consultations are not expected to provide
+an explicit compliance assessment unless a member is found to be noncompliant.
+Scope of surveillance in low-income countries
+8.
+The set of issues that could be potentially relevant for Article IV consultations in lowincome countries is generally broader than for other countries. Surveillance in low-income
+countries should, as in other countries, focus on whether policies are contributing to domestic and
+balance of payments stability (as described in paragraph 5), but the potential range of relevant
+8
+
+See Annex I.
+
+9
+
+The Fund (and the staff reports) may not ―advocate or promote, or pass judgment on the merits, of any political
+system,‖ but may take into account a member‘s political situation to judge the member‘s capacity to formulate and
+implement economic policies.
+10
+
+10
+
+See Annex I and FAQs—Guiding Principles.
+
+INTERNATIONAL MONETARY FUND
+
+GUIDANCE NOTE FOR SURVEILLANCE UNDER ARTICLE IV CONSULTATIONS
+
+issues that could be considered under an Article IV Report is often broader than for other countries.
+Although not expected to be frequent, these issues may also in some cases be relevant for non lowincome countries (e.g., Arab Transition countries).
+
+
+Issues that often arise and could be covered. These include:
+ general policies to support growth (e.g., policies to strengthen the business climate);
+ macroeconomic management of aid flows and management of natural resources;
+ financial sector reforms to promote financial deepening and to enhance the
+effectiveness of macroeconomic policies (e.g., to improve liquidity management and the
+transmission of monetary policy) or the economy‘s ability to absorb or respond to
+shocks (e.g., through the development of hedging instruments); and
+ macro-critical social issues (such as progress in poverty reduction, priority spending,
+employment, and income distribution).
+
+
+
+Issues that might occasionally be relevant and could be covered. These include sectoral
+policies to support growth; trade policy and regime; export diversification; and governance
+issues when these have a significant impact on macroeconomic stability and including
+through their impact on growth.
+
+Scope of surveillance in currency unions
+9.
+The scope of surveillance for members of a currency union is the same as for other
+members. For members of currency unions, the devolution of authority over a subset of economic
+policies to the union does not change individual members‘ obligations under the Articles of
+Agreement including with respect to surveillance and the provision of data to the Fund.11 For
+effective surveillance, it is also important for the Fund to have discussions with the regional
+institutions responsible for devolved policies. Such a discussion ensures that there is an adequate
+context for the bilateral discussion with individual members. Surveillance with the union should
+consider the possibility that vulnerabilities in individual members of a currency union may have
+implications for the domestic and balance of payments stability of the currency union as a whole.
+Staff‘s assessment of policies should be made both:
+
+
+In consultations held at the level of the union. Staff should assess to what extent
+economic and financial policies implemented at the level of the currency union (including
+exchange rate, monetary, fiscal, and financial sector policies) are promoting the union‘s
+domestic and balance of payments stability and global stability, as the case may be, and
+
+11
+
+See Fund Surveillance Over Members of Currency Unions and Biennial Review of the Implementation of the Fund‘s
+Surveillance and of the 1977 Surveillance Decision—Overview. See Annex I.
+
+INTERNATIONAL MONETARY FUND
+
+11
+
+GUIDANCE NOTE FOR SURVEILLANCE UNDER ARTICLE IV CONSULTATIONS
+
+advice on policy adjustments necessary for this purpose.12 An assessment of the union‘s real
+effective exchange rate should also be included.
+
+
+In consultations held at the level of the individual member. Surveillance should assess to
+what extent policies implemented at the level of the member are promoting the member‘s
+domestic and balance of payments stability and contributing to the stability of the union as
+a whole. Surveillance of individual members should always include an evaluation of
+developments in their own balance of payments and an assessment of their own real
+effective exchange rate, which can be cast in terms of either external competitiveness or the
+real exchange rate.13 Vulnerabilities of an individual member country that could pose risks to
+the stability of the currency union or to global stability should be flagged.
+
+
+
+Integrated analysis. In both cases, staff should consider the interactions between
+developments in individual countries and the union as a whole, and the global economy.
+
+Scope of surveillance in program cases
+10.
+Article IV staff reports and discussions for program countries should address the same
+issues as in other cases. Article IV consultations and reports should be used to reassess the
+contribution of policies to members‘ own and global stability independently of the program
+framework, and beyond the scope of program reviews. If an Ex-Post Assessment (EPA) or Ex-Post
+Evaluation of Exceptional Access Arrangement (EPE) has been carried out for a member since the
+last Article IV consultation, its results should feed into the discussion.
+
+OPERATIONAL PRIORITIES FOR SURVEILLANCE
+11.
+This section provides guidance on the five operational priorities. The issues and topics
+listed below are intended to help staff in the conduct of surveillance; their actual coverage, including
+in staff reports, should reflect staff‘s judgment on what issues are the most important for stability
+given the country circumstances.
+
+A. Interconnections
+12.
+The propagation of the crisis and subsequent tensions has underlined the case for
+surveillance to consider the impact of policies in one country on global stability. This includes:
+(i) assessing linkages and spillovers across sectors and across borders, as well as the policy
+implications; and (ii) drawing lessons from cross-country experiences taking into account the
+interplay of global, regional and country developments (see Box 2 for good examples).
+
+12
+
+Because in a currency union exchange rate policies are implemented at the level of the union, the principles for the
+guidance of members‘ exchange rate policies and the associated indicators (see Annex I and FAQs—Guiding
+Principles) will be assessed at the level of the union.
+13
+
+See also paragraph 45 and Consultation with Members of Currency Unions.
+
+12
+
+INTERNATIONAL MONETARY FUND
+
+GUIDANCE NOTE FOR SURVEILLANCE UNDER ARTICLE IV CONSULTATIONS
+
+Box 2. Good Examples in Coverage of Spillovers and Cross-country Analyses
+The coverage of spillovers varies greatly across countries. Good examples are available on SPR‘s website.
+Examples of reports with a substantial coverage of inward spillovers are the 2011 staff reports for Turkey
+(inward spillovers of trade and sovereign risk) and Jordan (trade linkages and business cycle links with the
+GCC and Emerging Asia). The 2010 report for Germany and 2012 report for Russia stand out for covering
+outward spillovers as well.
+
+
+
+Russia (2012). The report quantitatively analyzed spillovers from Russia to its fellow members of the
+Commonwealth of Independent States (CIS, Box 2). It showed that spillover risks to the CIS from Russia
+would be far higher than those from core Euro Area and comparable to those from the US.
+
+
+
+Germany (2010). The report discussed spillovers of Germany‘s discretionary fiscal policy into the Euro
+area (Box 6 and ¶44). As regards inward spillovers, it discussed the impact of changes to global trade
+and the foreign exposure of German banks (Box 8 and ¶s 6, 7, 42).
+
+Cross-country analyses
+Country authorities reported that they would like to see Article IV consultations drawing policy lessons from
+cross-country experience. The 2010 reports (reviewed for the 2011 TSR) on Cambodia, Cyprus, Finland, and
+Jordan draw policy conclusions from relevant cross-country experiences.
+
+
+
+Cambodia (2010). The report provided a cross-country analysis of the productivity of the VAT/tax system
+showing that there is significant scope to improve revenue mobilization, including by taking measures to
+bring the productivity of Cambodia‘s VAT to levels comparable with other Asian LICs (Box 1 and ¶s 10
+and 11).
+
+Macro-economic and financial linkages and spillovers across countries
+13.
+Surveillance should in all cases assess how a country is or might be affected by
+developments and policy actions in other countries (inward spillovers). Understanding inward
+spillovers is important both to assess their implications for the country‘s own domestic and balance
+of payments stability, and more broadly to inform the Fund‘s overall views on spillovers that may
+significantly impact global stability. Article IV consultations should cover inward spillovers from
+global developments (e.g., developments in major trading partners or commodity and asset
+markets) and advise recipient countries on how to mitigate the adverse impact of these spillovers on
+their economies. Whenever relevant, inward spillovers should also be part of discussions in countries
+with significant outward spillovers.
+14.
+
+Outward spillovers, potential or actual, need to be discussed in two cases:
+
+
+
+When a member is not promoting its own domestic or balance of payments stability.
+Article IV consultations should discuss all outward spillovers that arise or may arise from (i) a
+member‘s domestic policies where the member is not promoting its own domestic stability,
+or (ii) its exchange rate policies where the member is not promoting its own balance of
+payments stability. Relevant spillovers should be discussed irrespective of channels through
+which they transmit. Staff should recommend possible alternative policies that would ensure
+
+INTERNATIONAL MONETARY FUND
+
+13
+
+GUIDANCE NOTE FOR SURVEILLANCE UNDER ARTICLE IV CONSULTATIONS
+
+domestic or balance of payments stability, as the case may be, and reduce outward
+spillovers.
+
+
+When outward spillovers of a member country may have a ‖significant impact‖ on
+global stability. For members whose economic and financial policies are generating or may
+generate spillovers that may have a significant impact on global stability, Article IV
+consultations should also discuss the most significant potential or actual outward spillovers,
+even if the member is promoting its own domestic and balance of payments stability. These
+discussions should cover the policies that may generate or are generating these spillovers as
+well as the channels of transmission. In these cases, staff should suggest (but not require)
+country authorities to consider possible alternative policy options to minimize these
+spillovers, while continuing to promote the country‘s own stability.
+
+When a country is promoting its own domestic and balance of payments stability, its Article IV
+consultation does not need to discuss potential or actual outward spillovers, unless they may
+significantly impact global stability.
+15.
+Outward spillovers are deemed ―significant‖ if by themselves, or in combination with
+spillovers from other members’ policies, or through their regional impact, would enter the
+macrofinancial policy considerations of members representing a significant portion of the
+global economy. Examples of such spillovers potentially include policies implemented by countries
+that are systemically important,14 but also policies of countries that suffer from large vulnerabilities,
+which could trigger a systemic crisis in certain broader circumstances, either directly through trade
+and financial linkages with other countries or indirectly through market contagion. There are also
+many cases where policies of member countries may have a bearing on immediate neighbors or
+within and between tightly integrated regions, but where the broader spillovers are small, and do not
+warrant attention for policy settings in other parts of the world. There may be also policies of
+countries that suffer from large vulnerabilities that would not trigger a systemic crisis given the
+broader economic context. Such spillovers would not be considered significant, and would not
+require coverage in staff reports. The broad context should be an important factor in judging
+whether a spillover would be significant or not, and staff judgment should be applied in an
+evenhanded way.
+16.
+Staff’s judgment on the significance of actual or potential spillovers should be guided
+from all available resources. Judgment could be based on:
+
+
+discussions with the authorities of major recipient countries of spillovers. Such discussions
+could be conducted in the context of the Article IV consultations with these countries, or
+through informal means of engagement.
+
+14
+
+For instance, lax financial regulation coupled with loose monetary policy in a systemically-important country could
+fuel localized real estate bubbles, the bursting of which could have massive ripple effects across the globe.
+
+14
+
+INTERNATIONAL MONETARY FUND
+
+GUIDANCE NOTE FOR SURVEILLANCE UNDER ARTICLE IV CONSULTATIONS
+
+
+
+the results of multilateral surveillance exercises and products (e.g., global risk assessments,
+World Economic Outlook (WEO), Global Financial Stability Report (GFSR), Fiscal Monitor
+(FM), Pilot External Sector Report (ESR), Vulnerability Exercises, etc., as well as Spillover
+Reports and Financial Sector Assessment Programs (FSAP);
+
+
+
+information that signals the systemic importance of a country (e.g., G-20 countries, countries
+with mandatory financial stability assessments) or a spillover;
+
+
+
+available data sources and studies that estimate real and financial linkages across
+countries;15
+
+
+
+staff‘s analyses of inward spillovers for recipient countries; and
+
+
+
+inputs from country teams of major recipient countries of relevant spillovers as well as from
+functional departments at an early stage.
+
+Following country teams‘ proposals, interdepartmental policy consultation meetings will decide
+whether the proposed potential or actual outward spillovers should be covered in a country‘s Article
+IV consultation. If new information becomes available during a mission, interdepartmental
+consultations could take place to decide on the significance of the spillovers. The above guidance
+on the coverage of outward spillovers is a starting point: staff is encouraged to innovate in this area,
+and based on experience with the implementation of the ISD, this guidance note will be updated.
+17.
+The following questions can help staff think through these issues in both source and
+recipient countries:
+
+
+How are inward spillovers influenced by the global environment? Risks identified in the GFSR,
+the WEO, and the FM, or by developments in other countries, may be helpful. Where
+appropriate, mission teams should also leverage the findings of the Pilot ESR, Spillover
+Reports, Regional Economic Outlooks (REOs), vulnerabilities exercises, and the EWE.16
+
+
+
+How might inward spillovers transmit themselves to the domestic economy and affect
+stability? Given the challenges in gathering reliable data and analyzing different channels,
+rigorous quantitative analysis may be difficult in some cases. Nevertheless, even qualitatively
+tracing out these linkages can be helpful (see C. Financial Stability).
+
+
+
+What are the policy implications of the analysis of inward spillovers? Is the policy framework
+flexible enough to address these spillovers? What are the specific policy options to reduce
+
+15
+
+It is acknowledged that staff may face constraints with respect to data availability, particularly with respect to
+information on individual institutions for the purpose of spillover analysis. However, ongoing initiatives to fill existing
+gaps, such as the Data Gaps Initiative, are expected to help address these constraints. Staff may encourage countries
+to provide relevant institution-level data on a voluntary basis. Staff analysis could also be informed by analyzing data
+from the International Investment Position (IIP), the Coordinated Direct Investment Survey (CDIS), and the
+Coordinated Portfolio Investment Survey (CPIS).
+16
+
+Teams may use, in whole or in part, the PowerPoint presentations on the essential findings of the WEO and GFSR
+accessible from EXR‘s communications toolkit website.
+
+INTERNATIONAL MONETARY FUND
+
+15
+
+GUIDANCE NOTE FOR SURVEILLANCE UNDER ARTICLE IV CONSULTATIONS
+
+risks before they occur and to mitigate their impact if they materialize (see B. Risk
+Assessment)?
+
+
+For potential or actual outward spillovers, what are the transmission channels? An
+examination of the underlying drivers of critical balance of payment flows, as well as other
+factors (e.g., correlation with cross-border asset price movements or impact of source
+country growth changes on others) will help to identify the transmission channels.
+
+
+
+How significant are these outward spillovers? Given the direct and indirect channels of
+transmission, a quantitative assessment of outward spillovers is challenging. Nevertheless,
+outward spillovers can be judged to be significant if they could lead members representing a
+significant portion of the global economy to consider adjusting their macrofinancial policy
+stance to mitigate negative consequences on their economies. Examples of policies with
+significant outward spillovers include monetary easing or lax financial regulation in a
+systemically-important country, lose fiscal policy in a currency union, debt default in a
+country with strong cross-border linkages.
+
+
+
+What are the economic and financial policies that may generate these outward spillovers? For
+instance, is the monetary policy stance generating large capital outflows while preserving
+domestic credit growth at a sustainable level? Is lax financial regulation triggering asset price
+movements? Are capital flow management measures triggering outflows to other countries
+or retaliatory measures by other countries? Are structural issues depressing domestic
+demand (e.g., weak social safety net)?
+
+
+
+What are the policy implications of the analysis of outward spillovers? Are the policies that are
+generating outward spillovers affecting the country‘s own stability? What alternative policies
+could mitigate these spillovers without undermining the country‘s own stability?
+
+Discussions on spillovers with members
+18.
+For the purposes of the Fund‘s multilateral surveillance, members are encouraged to
+implement exchange rate and domestic economic and financial policies, that, in themselves or in
+combination with the policies of other members, are conducive to the effective operation of the
+international monetary system. When the actual or potential spillovers from a member‘s policies
+may significantly impact global stability, staff should suggest to the authorities possible alternative
+policy options to better promote global stability by minimizing these spillovers, while continuing to
+promote the country‘s own stability. However, the Fund cannot require a member to change its
+policies in the interest of global stability as long as its policies are promoting its own stability.
+Distilling lessons from cross-country experience
+19.
+Surveillance should focus on highlighting lessons from similar experiences in other
+countries, in support of clear and concrete policy conclusions. While this can include
+comparison with peers, quantitative analysis, and qualitative case studies, the TSR suggests that
+authorities place a particularly high value on the discussion of relevant policy experiences in other
+countries when assessing or making recommendations about their own economy. In addition,
+
+16
+
+INTERNATIONAL MONETARY FUND
+
+GUIDANCE NOTE FOR SURVEILLANCE UNDER ARTICLE IV CONSULTATIONS
+
+country teams should make maximum use of FM, GFSR, REOs, WEO, Pilot ESR, vulnerabilities
+exercises and the EWE‘s cross-country analyses in discussions with the authorities and, where useful,
+reference publicly available reports in the staff report. Functional departments should support this
+effort, including through collaborative cross-country policy work, the FAD repository of crosscountry experience on fiscal operations, and tools (such as on cyclical adjustment of fiscal balances
+and on multipliers), and through the review process.
+
+B. Risk Assessment
+20.
+The assessment of risks is important to provide members with early warning and to
+promote policy responses, for purposes of both prevention and contingency planning.17 While
+teams are best placed to think through idiosyncratic risks, the assessment should leverage the
+analysis of risks conducted at the multilateral or regional levels (WEO/GFSR/FM/REOs), and be
+guided by the global risk assessment matrix (G-RAM). Staff are also encouraged to seek input from
+the functional departments at an early stage (well ahead of the policy consultation meeting). Staff‘s
+dialogue with the authorities should include an explicit and thorough discussion which should also
+be reflected in the staff report. As part of this assessment, staff should consider:
+
+
+Risks to the baseline. Staff reports should discuss risks around the baseline scenario and
+policy implications. The report should set out the macroeconomic and financial sector risks
+and transmission channels, an assessment of their likelihood (e.g. high, medium, low), their
+potential impact—and staff recommendations for possible policy responses. Staff should
+consider policies both to reduce the probability that risks materialize or attenuate their
+effects (insurance) and to deal with the consequences should the risks materialize
+(contingency planning).
+
+
+
+Tail risks. Staff are also encouraged to explore tail risks—low-probability events with serious
+negative implications—even if their probability is unquantifiable. Although the authorities
+may be sensitive on these points, exploring tail risks with them is important, so as to draw
+their attention to the possible macroeconomic impact and discuss how to insure against
+them through adjustments in policies. In general, staff should ask themselves ―what if‖
+questions, while exercising judgment over which risks to highlight.
+
+21.
+
+Risk analysis should build on the following inputs where relevant:
+
+
+
+Vulnerability assessments, the EWE and other multilateral surveillance. A variety of
+quantitative and qualitative information inputs could be drawn upon including from the
+vulnerability exercises for advanced economies (VEA), emerging markets (VEE) and lowincome countries (VE-LIC) and the broader EWE, as well as the downside scenarios used in
+the WEO and the GFSR, and fiscal vulnerability indicators in the FM. Staff are encouraged to
+
+17
+
+The paper on Initial Lessons of the Crisis also discusses the importance of analyzing risks.
+
+INTERNATIONAL MONETARY FUND
+
+17
+
+GUIDANCE NOTE FOR SURVEILLANCE UNDER ARTICLE IV CONSULTATIONS
+
+present alternative scenarios (including using stress tests) and to use the balance sheet
+approach.
+
+
+Debt sustainability analysis (DSA). Article IV reports should undertake debt sustainability
+analysis (DSA) in line with relevant guidance for market-access (MAC) and low-income (LIC)
+countries and could draw upon the Medium-Term Debt Strategy where available. The
+framework for public debt sustainability analysis for MACs has been modernized and revised
+guidance to staff on implementing the new risk-based framework is forthcoming. While a
+reasonable level of standardization will be maintained, teams will be expected to customize
+their analysis including alternative scenarios. Teams will also be expected to use templates
+developed for these purposes. A good practice for the interim period would be to bring in
+relevant elements of the new framework into the DSA particularly for countries facing public
+debt vulnerabilities.18 More in-depth discussion of risks to debt structures (i.e. maturity,
+currency, interest rate composition, and investor base) may be warranted for particular high
+debt cases. The framework for LIC debt sustainability framework has also been reviewed.
+
+
+
+Medium-Term Debt Strategy (MTDS). For countries with an up-to-date MTDS, staff
+should explore the recommendations in the strategy and use them to explore the extent to
+which interest rate, maturity and exchange rate mismatches would increase debt and fiscal
+vulnerabilities.
+
+
+
+Global Risk Assessment Matrix. The G-RAM lists key global and regional risks, and
+associates a broad probability of realization to each (low-medium-high). The G-RAM is an
+internal staff document, which is discussed among departments and approved by
+Management, updated at least quarterly or as needed to provide an up-to-date consistent
+set of risks around the staff‘s baseline forecasts.
+
+
+
+Risk Assessment Matrix (RAM). Although not required, staff are encouraged to use a RAM
+similar to those already included in FSSAs as a focus point for the discussion of risks. The
+RAM provides a structured framework for analyzing risks and their possible impact and is
+now a standard feature of staff reports for Article IV consultations and Financial System
+Stability Assessment (FSSA).19 For Article IV reports, RAMs would cover global, regional, or
+country-specific macroeconomic and financial sector risks. RAMs reflect staff's views on the
+source of risks and overall level of concerns as of the time of discussions with the authorities,
+and attempt to ask and answer ―what if‖ questions and help: (i) identify key risks that could
+materially alter the baseline path discussed in staff reports (which is the scenario most likely
+to materialize in the view of IMF staff); (ii) assess the relative likelihood of realization of each
+(low-medium-high) risk listed—the staff‘s subjective assessment of the risks surrounding this
+baseline; and (iii) assess the economic impact should these risks materialize (low-mediumhigh). The design of the RAM is flexible and staff are encouraged to innovate (see Box 3
+
+18
+
+Elements of the new framework, such as assessment of realism of projections and customizing shocks, have been
+reflected in a few recent DSAs.
+19
+
+18
+
+See for instance Table 4 in the Philippines 2009 FSSA report as a good example of a standard RAM. See also Box 3.
+
+INTERNATIONAL MONETARY FUND
+
+GUIDANCE NOTE FOR SURVEILLANCE UNDER ARTICLE IV CONSULTATIONS
+
+which includes good examples from 2012 Reports). Nevertheless, to ensure consistency of
+global risks across Fund products, these should always be drawn from the G-RAM.
+Box 3. Good Examples in Risk Assessment
+The findings of the 2011 TSR suggest that focus on risks has improved in recent years. At the same time,
+more is needed to ensure systematic in-depth coverage of risks over time including in good times. Good
+examples are available on SPR‘s website. For instance, he 2011 staff reports for Norway, Qatar, and Turkey
+and 2012 reports for Italy and Brazil include discussions of risks using a RAM.
+Italy (2012). The staff report and the RAM discussed five risk scenarios: (i) strong intensification of the euro
+area crisis; (ii) deterioration of banks‘ asset quality; (iii) slow implementation of fiscal consolidation; (iv)
+insufficient structural reforms; and (v) sharp increases of oil prices. The RAM assesses the likelihood of each
+risk and its expected impact. The report also discusses a tail risk scenario of a significant increase in
+sovereign yields, its impact on Italy‘s fiscal outlook, and the resulting large spillovers to the euro zone and
+the global economy.
+Brazil (2012). The staff report and the RAM identified the intensifying crisis in Europe as the most prominent
+downside risk in the near term and discussed the potential spillover channels. Other risks include further
+euro area deleveraging, decline in commodity prices, and disorderly unwinding of the credit boom and
+collapse in real estate prices. The RAM identifies the potential sources of both upside and downside risks,
+assesses their likelihood and impact, and suggests possible policy responses should these risks materialize.
+Norway (2011). The staff report and the RAM discussed five potential risks—a collapse in property markets,
+intensification of Eurozone crisis and global double dip, the inability of banks to meet refinancing needs on
+foreign wholesale funding markets, a drop in oil prices, and rapid appreciation resulting from safe haven
+inflows. For each risk, the RAM assesses the likelihood of the risk and its expected impact if realized. The
+report also discusses the potential for a number of these risks to be realized simultaneously.
+Qatar (2011). The report and the RAM suggested that despite softening of global growth, the likelihood of a
+large and prolonged decline in hydrocarbon prices in the next three years is low, with a low to medium
+impact on the Qatari economy if the risk materialized. Other risks highlighted in the RAM include a
+worsening of global liquidity and financing conditions, financial contagion to sovereign risk, inflation risk,
+and fiscal risk. Qatar was the first country in the region where the findings of the RAM were reported in the
+media and it proved to be a useful communication tool with authorities.
+
+C. Financial Stability
+22.
+Financial sector surveillance is a key component of Article IV surveillance. The focus
+should be on financial stability, the cross-border transmission of risks and two-way linkages
+between the financial sector and the real economy. Article IV consultations should systematically
+incorporate such analysis as they are the Fund‘s primary instrument for surveillance of the financial
+sector in individual countries and an important tool for assessing global stability (see Box 4 for good
+examples). The IMF‘s Financial Surveillance Strategy can be used to guide topic priorities (pages 9 to
+12). Furthermore, the Strategy emphasizes the need for an integrated view of financial sector risks
+(including by drawing on salient analysis from multilateral surveillance products and the
+vulnerabilities exercises).
+
+INTERNATIONAL MONETARY FUND
+
+19
+
+GUIDANCE NOTE FOR SURVEILLANCE UNDER ARTICLE IV CONSULTATIONS
+
+Box 4. Good Examples in Financial Stability Analysis
+Stakeholders saw an improvement in the Fund‘s financial sector surveillance since the pre-crisis period (2011
+TSR). Nevertheless, better integration of macro and financial sector issues in surveillance, greater follow up
+and specificity of policy recommendations; greater capacity building through coordination of TA and FSAP;
+and bigger focus on LCFIs and filling data gaps, were suggested. Good examples are available on SPR‘s
+website. For instance:
+Spain (2012) discussed the risks arising from feedbacks between banking system distress and economic
+performance, in particular inter-reliance of banks and the sovereign. It draws on stress tests conducted in
+the context of the recent FSAP. It flagged risks of a large fiscal slippage and debt accumulation, which could
+be accelerated by higher-than-expected capital needs in the banking sector and intensified funding pressure
+on weak banks. The report emphasized the need for an upgrade of the banking supervision and crisis
+management resolution frameworks, based on the recent FSAP recommendations.
+Nepal (2011) assessed financial vulnerability and its implications for contingent fiscal cost and debt
+sustainability by drawing on cross-country experience. It relied on authorities‘ stress tests, and the mission‘s
+assessment of balance sheet and financial soundness indicators, evaluated against the economy‘s fiscal
+space and reserve buffers. The report recommended strengthening supervisory, regulatory and corporate
+governance environments and establishing a crisis management framework.
+Cameroon (2010) discussed the risks posed by excessive concentration of bank exposures and by inadequate
+supervisory standards. Remedial policy actions were recommended.
+Iceland (2010) thoroughly reviewed recent developments in the financial sector and progress on private debt
+restructuring. It highlighted three key medium-term challenges: (i) the need to generate conditions to grow
+out of the large post-crisis debt; (ii) adjustment measures to stabilize public debt; and (iii) the need to
+overhaul the policy framework. A selected issues paper looked at external debt sustainability and the nature
+of interest and exchange rate risks, focusing on the structure of corporate debt and sovereign risk. A
+contingent claims approach examined how variations in fiscal consolidation path, Icesave outcomes, and
+contingent liabilities from public enterprises might affect sovereign spreads.
+Korea (2010) discussed how the intensification of pressures in Greece had led to an increase in risk-premia
+for Korea-related exposures. Indirect risks to Korean banks, heavily reliant on wholesale funding, were noted
+and the potential knock-on effects on the corporate sector, given potentially large dollar-denominated
+rollover needs. Amending the inflation targeting framework to explicitly account for asset prices was
+discussed.
+Peru (2010) discussed the challenges posed by sustained large capital inflows and policy responses in a
+highly dollarized economy.
+
+23.
+The Financial Sector Assessment Program (FSAP) should underpin the more
+continuous surveillance of the financial sector in Article IV consultations.20 The FSAP provides
+20
+
+The FSAP, a joint IMF-World Bank initiative launched in 1999, undertakes comprehensive evaluations of countries‘
+financial systems at multi-year intervals. While Financial Stability Assessments for member countries with
+systemically-important financial sectors are mandatory and formally part of Article IV surveillance, FSAPs for other
+members constitute technical assistance provided by the Fund at the request of members on a voluntary basis and is
+not a surveillance activity. Following an FSAP, however, a Financial System Stability Assessment (FSSA) is normally
+submitted to the Board together with the Article IV staff report.
+
+20
+
+INTERNATIONAL MONETARY FUND
+
+GUIDANCE NOTE FOR SURVEILLANCE UNDER ARTICLE IV CONSULTATIONS
+
+comprehensive and in depth, but lower-frequency assessments. For 25 countries with systemicallyimportant financial sectors, financial stability assessments have become mandatory and are formally
+part of Article IV surveillance. When available, staff should draw on the FSAPs‘ analysis, in particular
+as reflected in the RAM, and integrate the findings into the Article IV staff report. Staff should also
+systematically follow up on the implementation of relevant FSAP findings and recommendations in
+Article IV staff reports in the years following an FSAP. To promote better integration and heightened
+prominence to financial surveillance issues and financial-real linkages, Article IV Executive Board
+meetings (and associated PINs) could include a dedicated discussion of FSSA issues, particularly for
+the systemically-important financial jurisdictions. When staff are of the view that a member‘s
+participation in the FSAP should be of high priority, staff should say so in the Article IV report,
+irrespective of the authorities‘ intentions.21
+24.
+Country teams should seek up-to-date information on the financial sector. This
+includes: (i) the size, structure, soundness/performance, and cross-border exposures of banks and
+non-bank financial institutions and financial markets, and characteristics of the investor base when
+relevant and (ii) institutional, regulatory, and policy frameworks both for crisis prevention and
+management (e.g., systemic liquidity arrangements, cross-border arrangements, and macroprudential framework).22
+25.
+Staff reports should present a clear analysis of financial stability and identify policy
+measures to address any related concern. The assessment of financial stability in Article IV
+consultations should focus on: (i) the stability of the system as a whole, not of individual institutions,
+unless they have systemic implications;23 and (ii) on potential or actual spillovers that may
+significantly impact global stability. It should pay particular attention to cross-border issues,
+including, where relevant and to the extent data are available, off-shore and off-balance-sheet (e.g.
+shadow banking) transactions.
+26.
+The analysis should be based on an assessment of financial sector risks and
+vulnerabilities and their potential impact on stability, subject to data availability. Staff should
+distinguish between potential risks to the financial system—events or developments that might
+trigger a crisis—and the underlying vulnerabilities that expose the system to such risks, and
+determine their likely two-way impact on and from the real economy (e.g., taking into consideration
+the possible implications of economic agents‘ balance sheets for financial stability, the inter-linkages
+between financial and sovereign balance sheets, and how restoring financial stability could impact
+21
+
+See the "Q&As for Mandatory Financial Stability Assessments" for details and Integrating Stability Assessments
+Under the Financial Sector Assessment Program into Article IV Surveillance (Supplements 1 and 3).
+22
+
+IMF, 2011. Macroprudential Policy—An Organizing Framework and Progress Report to the Group of Twenty—
+Macroprudential Policy Tools and Frameworks; Macroprudential Policy: What Instruments and How to Use Them,
+IMF WP/11/238; and Institutional Models for Macroprudential Policy IMF SDN/11/18.
+23
+
+Members have no obligation to provide information on individual institutions under Article VIII, Section 5, but
+many do provide this information. Please refer to the guidance note on transparency policy for the handling of
+confidential information and of highly market-sensitive material in staff reports as they are prepared for the Board
+and as they are published.
+
+INTERNATIONAL MONETARY FUND
+
+21
+
+GUIDANCE NOTE FOR SURVEILLANCE UNDER ARTICLE IV CONSULTATIONS
+
+growth and policy responsiveness). Staff should also analyze the implications of the risks and
+vulnerabilities of a country‘s financial sector on global stability, where relevant (see paragraph 15).
+This analysis should be informed by the extent to which a country is integrated either through its
+cross-border financial or real sector linkages or to the extent investors judge them to be of the same
+risk category.
+27.
+Staff reports should also identify if there are key data limitations that may impede
+financial stability analysis. Article IV reports should report these data limitations and evaluate the
+extent to which they hamper proper financial stability analysis with the help of relevant functional
+departments.
+28.
+The following questions (and the Financial Sector Surveillance Guidance Note) can be
+useful to help identify and prioritize financial stability concerns. For more detailed discussion of
+possible approaches, analytical tools, data sources, and ‗best practice‘ examples, please refer to the
+Financial Sector Surveillance Guidance Note (FSSGN) and the FSSGN website. See also Financial
+Sector and Bilateral Surveillance—Toward Further Integration. See also the Financial Surveillance
+Group‘s (FSG) cross-departmental website for material on discussion on topical issues and of
+mission relevance.24
+
+
+What are the main sources of risk? Emanating both from the financial system itself (including
+from the regulatory framework) and from the real economy, at home or abroad.
+
+
+
+What is the likelihood that the identified risks materialize? This judgment can be informed, for
+example, by estimates of probability of default or distress; the extent of asset price
+misalignments; concentrated exposures; and early warning models for assessing the
+likelihood of specific crisis events underlying the Fund‘s vulnerability exercises.
+
+
+
+What are the main vulnerabilities of the financial system and how would the system and the
+broader economy be affected by a particular risk event? The analysis could be guided by
+stress-test results, including scenario analyses.
+
+
+
+What are the cross-border implications of the vulnerabilities of the financial system? The
+analysis could be informed by the cross-border linkages of the financial system as well as
+other indirect linkages (e.g., real sector channels, market pricing and contagion).
+
+
+
+What policies are needed to address both domestic and cross-border concerns? Article IV
+reports should indicate, when relevant, staff‘s views on supervisory and regulatory policies,
+macroprudential policy, and priority areas for standards assessments (including views from
+Financial Stability Board (FSB) peer reviews).
+
+24
+
+There is no single, widely-accepted methodology for assessing financial stability. However, there is a broadly
+shared view among regulators on the range of issues that such assessments need to cover. These issues are
+discussed in more detail in the FSSGN (also, see the external Financial Stability Webpage for examples of approaches
+used by financial regulators in different countries to assess financial sector stability). The IMF‘s Financial Surveillance
+Strategy sets out a comprehensive agenda with respect to the current key priorities.
+
+22
+
+INTERNATIONAL MONETARY FUND
+
+GUIDANCE NOTE FOR SURVEILLANCE UNDER ARTICLE IV CONSULTATIONS
+
+
+
+Do the authorities have adequate safety net and crisis management capacity? Given the
+vulnerabilities arising from an interconnected world, particular attention could be paid to
+cross-border arrangements and resolution frameworks, taking into account the implications
+on global financial stability.
+
+29.
+The analysis of real-financial linkages should focus on whether the financial sector is a
+potential source or amplifier of instability. The following questions can help staff think through
+these issues:
+
+
+What are the critical channels of interaction between the macro-economy and financial
+markets and financial institutions (cross-border and across domestic sectors)? Data permitting,
+staff should seek to integrate balance-sheet effects and stress testing in macroeconomic
+scenarios to help assess the impact of the scenarios on financial solvency and viability and in
+turn the potential impact of financial balance sheets on sovereign balance sheets.
+
+
+
+How do changes in financial conditions affect economic activity across domestic sectors?
+Discuss whether prudential, supervisory and regulatory ―fault lines‖ have significant
+macroeconomic implications, (e.g. ramifications of subprime mortgage lending on
+consumers channeled through shadow entities linked to banks).
+
+
+
+How does the financial sector affect the conduct of macroeconomic policies? For example, the
+role of the financial sector in the monetary transmission mechanism and policies, the
+composition of the investor base and its implications for the public debt and its
+management, the risks of contingent liabilities and implications for fiscal and macroprudential policies, and cushions in monetary and fiscal policies to offset the adverse impact
+when financial sector risks materialize.
+
+
+
+How might problems in the financial sector potentially cause or amplify balance of payments
+instability? (For example, by triggering a reversal in capital flows and a balance of payments
+crisis).
+
+
+
+For countries with important financial sector links to other countries, what are the potential
+spillovers from financial sector developments and policies? For example, data permitting, an
+understanding of financial interconnections and cross-border exposures, including through
+global systemically-important financial institutions (GSIFIs) would be useful.25, 26
+
+Financial sector development
+30.
+Financial sector development issues should be covered in Article IV consultations when
+relevant for stability. Fostering financial development, while managing attendant risks, can help in
+25
+
+See Quarterly Report on Systemically-Important Financial Institutions (SIFIs), produced by the Monetary and
+Capital Markets Department (MCM).
+26
+
+IMF, 2010. Understanding Financial Interconnectedness and Supplementary Information; IMF, 2012. Enhancing
+Surveillance - Interconnectedness and Clusters.
+
+INTERNATIONAL MONETARY FUND
+
+23
+
+GUIDANCE NOTE FOR SURVEILLANCE UNDER ARTICLE IV CONSULTATIONS
+
+strengthening an economy‘s resilience and capacity to cope with shocks and can help support
+inclusive growth. Financial development matters for stability for example by strengthening the
+transmission channels of macroeconomic policy tools and by widening the range of policy options.
+Additionally, financial development can affect growth by increasing access to credit for productive
+sectors of the economy by reducing the cost of capital. Financial sector development is more likely
+to be relevant in low-income countries.27
+
+D. Balance of Payments Stability
+31.
+Balance of Payments stability is at the core of Article IV consultations. To ensure
+comprehensive coverage of the relevant issues, Article IV staff reports are expected to provide a
+clear assessment of: (i) the current account (CA) and the exchange rate level/competitiveness;
+(ii) developments arising from the capital and financial account that could lead to balance of
+payments instability for the member or its trading partners, including from the composition of
+inflows and balance sheet mismatches and intervention policies where relevant; and (iii) the crossborder spillovers from any of the above developments/policies that may significantly impact global
+stability (see Figure 1 and Box 5 for good examples). An assessment of balance of payments stability
+is broader than an assessment of the exchange rate, and of exchange rate policies. Nonetheless,
+exchange rate issues are a crucial part of surveillance, as the Articles give the Fund a unique
+responsibility in this area (see Annex I).
+Figure 1. Structure of Balance of Payments Stability Assessment
+
+27
+
+IMF, 2012. Enhancing Financial Sector Surveillance in Low-Income Countries—Financial Deepening and MacroStability, Overview, Background and Case Studies).
+
+24
+
+INTERNATIONAL MONETARY FUND
+
+GUIDANCE NOTE FOR SURVEILLANCE UNDER ARTICLE IV CONSULTATIONS
+
+Box 5. Good Examples in Balance of Payments Stability Analysis
+Considerable advances have been made in exchange rate assessments but more is needed to ensure that
+they go beyond a narrow discussion of the exchange rate level and are integrated more fully with overall
+policy discussions (2011 TSR). Good examples are available on SPR‘s website. For instance:
+Brazil (2012) presented a clear, broad and well-integrated assessment of external sector stability, and used
+estimates from both CGER and the new EBA approach. It discussed how domestic rebalancing by increasing
+private saving which could lower domestic interest rates, would help ease capital flow pressures that led to
+an overly-appreciated currency. The assessment also discussed structural reform measures that could help in
+domestic rebalancing. To help manage cyclical capital flow pressures, the report suggested the use of CFMs
+and exchange rate flexibility.
+Bangladesh (2011) presented a clear bottom line and compared Bangladesh‘s exchange rate with
+comparator countries. The analysis noted the importance of remittances. It provided both a remittanceadjusted estimate along with standard estimates under the macro-balance approach.
+Jordan (2010) had a clear bottom line and presented estimates from all three CGER methods. Other
+measures of external competitiveness were also discussed, including trends in exports of goods and services
+and tourism-based real effective exchange rates. A chart for the macro-balance approach showed the
+contributions of each fundamental variable to the current account norm.
+Croatia (2010) presented all three CGER methods. The main text discussed the balance sheet implications of
+exchange rate policy. Moreover, given constraints to more exchange rate flexibility, the report discussed
+issues related to structural competitiveness and other measures such as market shares, tourist arrivals, and
+unit labor costs, productivity, and wages.
+
+32.
+Assessments of balance of payments stability in staff reports and policy notes are
+expected to contain the following:28
+
+
+Clear bottom line and recommendations. Policy notes should include the staff‘s
+preliminary assessment, and staff reports should include a clear analysis and bottom line
+view (while mindful of the inherent analytical uncertainties and, where relevant, data
+limitations), of whether the current account and the exchange rate are broadly consistent
+with medium-term fundamentals and desirable policies. The assessment should be fully
+integrated into the broader assessment of stability and the overall policy mix, and support
+clear policy recommendations. When there are no prima facie concerns, the discussion can
+be brief.
+
+
+
+Exchange rate estimates. Numerical estimates should be included in staff reports (drawing
+from the Pilot ESR, the External Balance Assessment (EBA) where available, and Consultative
+Group on Exchange Rates (CGER) and/or CGER-type estimates), except for countries with
+
+28
+
+Additional guidance can be found on SPR‘s Exchange Rate and Balance of Payments Stability Assessment and RES‘
+CGER Exchange Rate Analysis websites and on the EBA methodology. Another useful resource is RES‘ How to Apply
+CGER Methodologies to Non-CGER Countries: a Guide for Desk Economists. Appendices I and II of ―Chapter I—
+Exchange Rate and External Stability Assessments‖ in the 2011 Triennial Surveillance Review—Staff Background
+Studies discuss the technical challenges for exchange rate analysis in non-CGER countries and recent developments
+in exchange rate analysis for CGER countries.
+
+INTERNATIONAL MONETARY FUND
+
+25
+
+GUIDANCE NOTE FOR SURVEILLANCE UNDER ARTICLE IV CONSULTATIONS
+
+serious data limitations, where the assessment may be largely qualitative. For countries in
+the EBA exercise, staff should form their assessment of the current account and exchange
+rate using all the available methodologies— EBA/CGER, their own estimates and judgment.
+For transparency purposes, staff are encouraged to report both estimates and the reasons
+for differences. For economies included in the Pilot ESR, staff should ensure that the
+assessments of balance of payments stability are consistent between the Article IV and Pilot
+ESR with each reflecting updates that have occurred over the time period since the previous
+assessment. Staff are encouraged to use the Article IV to elaborate on the balance of
+payments stability assessment provided in the Pilot ESR.
+
+
+Consistency and country-specific circumstances. Teams are encouraged to check for
+consistency in assessment over time by checking past assessments, while taking account of
+changing circumstances.
+
+
+
+Transparency. Information on key assumptions should be transparently provided. This
+would include: (i) the results of exchange rate assessments; (ii) what, if any, adjustments have
+been made to standard assessment methods (e.g., high remittance countries, aid recipients,
+oil exporter); and (iii) why, if relevant, the bottom line assessment diverges from what would
+be expected from the exchange rate estimates. Staff should also indicate uncertainties that
+may arise in the assessment.
+
+Elements of a balance of payments stability assessment
+The balance of payments stability assessment should include an analysis of exchange rates, the
+current account and capital and financial account including balance sheet mismatches, reserve and
+intervention policies. Based on this analysis, the assessment should also indicate whether instability
+in any of these elements could potentially lead to global instability, particularly for countries that are
+systemically-important, or have significant trade and financial linkages to other countries.
+Current account and exchange rate
+33.
+Staff should assess whether the current account and equivalently, the real effective
+exchange rate are broadly consistent with medium-term fundamentals and desirable policies.
+The current level of the real effective exchange rate (REER) should be compared to the level that
+would be consistent with the ―underlying‖ CA being in line with the medium-term fundamentals and
+desirable policies. The ―underlying‖ CA is the current account stripped of temporary factors, and
+assessed on the basis of the current REER and established non-exchange rate policies (those in
+place, as well as policies announced that are, to the best judgment of the team, likely to be
+implemented). The CA in line with medium-term fundamentals and desirable policies is one that
+leads the net external asset position to evolve in a manner consistent with the economy‘s structure
+and fundamentals and appropriate non-exchange rate policies relative to other countries, and
+subject to a multilateral consistency constraint. Note that even if the current account can be
+explained by fundamentals and existing policies, if the country has inappropriate macroeconomic
+policies, the current account could be found to be out of equilibrium (e.g., if fiscal policy is too
+loose, then the current account may be weaker than fundamentals and desirable policies suggest).
+
+26
+
+INTERNATIONAL MONETARY FUND
+
+GUIDANCE NOTE FOR SURVEILLANCE UNDER ARTICLE IV CONSULTATIONS
+
+34.
+If an under- or overvaluation is considered to be temporary, this should be made clear.
+This could happen, in particular, in the following cases: (i) if the current level of the REER is affected
+by temporary factors such as tight monetary policy; (ii) if the economy is considered to be in
+transition to a new long-run net external asset position, so that the current account is expected to
+be temporarily out of line with fundamentals; and (iii) if the authorities‘ established exchange rate
+policies would remove the under- or overvaluation over the medium term.
+35.
+Recognizing the inherent uncertainties in the analysis of equilibrium exchange rates,
+the assessments should draw on all pertinent information, including notably:
+
+
+The indicators in the ISD (see Annex I).
+
+
+
+Where relevant, assessments and other information provided by the EBA and the
+CGER. The ISD and both CGER and EBA use the same conceptual framework. Of the three
+methodologies for EBA/CGER, the current account approach (which compares the
+underlying CA with a measure of the CA consistent with medium-term fundamentals and
+desirable policies) can be most directly related to the framework of the ISD. The equilibrium
+real effective exchange rate (EREER) approach (which relates the REER directly to
+fundamentals) can provide helpful additional insights. The external sustainability approach
+additionally illustrates the balance of payments position consistent with stabilizing the net
+international investment position. Where available, EBA results are likely to provide useful
+input for assessing exchange rates under the ISD, including through the provision of
+multilaterally-consistent assessments. The EBA builds on CGER and additionally includes
+―policy gaps‖ which may help in explaining the policies that may need to be adjusted to
+reduce an imbalance.
+
+
+
+Other relevant information. This could include the evolution of the real effective exchange
+rate, purchasing power parity estimates, export and import trade shares, and structural
+competitiveness indicators, among others.29
+
+36.
+In countries with serious data limitations, the assessment may need to be largely
+qualitative. It may be based on a discussion of recent and prospective balance of payments
+developments, DSA, reserve adequacy, and other factors.
+Capital and Financial Account
+37.
+Staff should assess whether developments in the capital and financial account raise
+concerns about a member’s balance of payments instability. This may happen even when the
+current account and exchange rate levels do not raise concerns. First, temporary fluctuations in the
+capital account may cause liquidity problems, even if the current account is at a level consistent with
+medium-term fundamentals. Second, a country‘s external financing structure may create
+29
+
+Please note the labor component of the World Bank‘s Doing Business Indicators is being revised and should not be
+included in Staff Reports.
+
+INTERNATIONAL MONETARY FUND
+
+27
+
+GUIDANCE NOTE FOR SURVEILLANCE UNDER ARTICLE IV CONSULTATIONS
+
+vulnerabilities which could unwind abruptly. Frequent sources of such vulnerabilities are mismatches
+in the currency or maturity composition between asset and liability sides of external balance sheets,
+concentration risk, or reliance on short-term funding. In individual cases, concerns about instability
+emanating from the capital and financial account may well be much more important than any
+arising from an under- or overvalued exchange rate.
+38.
+Staff should also assess whether potential or actual spillover effects from
+developments in the capital and financial account and from capital flow management policies
+may significantly impact global stability. This may happen for instance when capital flow
+management policies implemented by a country to control potentially destabilizing capital inflows
+trigger retaliatory measures by other countries, and a proliferation of such measures could have
+significant global implications. Another example is when a country manipulates its exchange rate to
+gain competitive advantage over other members.
+39.
+The evaluation of developments in the capital and financial account should include an
+assessment of: the size and sustainability of capital flows, against the background of the member‘s
+reserves; the size and composition of external assets (other than reserves) and external liabilities;
+and the access to international capital markets. Work is underway to develop a balanced and flexible
+approach to managing capital flows to help countries reap the benefits of capital mobility while
+limiting the risks, and a series of papers has already been presented to the Board. The results will
+help the design of an approach to policies affecting capital flows.30
+Reserves and Intervention Policies
+40.
+The adequacy of reserves is often a critical element in the assessment of a member’s
+balance of payments stability and global stability. In analyzing the adequacy of reserves, staff
+should consider a range of approaches, while taking into account particular country characteristics
+and vulnerabilities. Going beyond the traditional reserve adequacy indicators such as ratios of
+reserves to imports, short-term external debt (remaining maturity), and broad money, staff are also
+encouraged to make use of the new metrics for emerging market and developing economies
+proposed in the IMF paper ―Assessing Reserve Adequacy,‖ while taking into account country-specific
+considerations. Staff are also encouraged, where relevant and feasible, to explore other approaches
+and indicators (such as ratio of reserves to gross external liabilities) and use scenario analysis to
+
+30
+
+See ―Recent Experiences in Managing Capital Inflows—Cross-Cutting Themes and Possible Policy Framework,‖
+February 2011, ―Recent Experiences in Managing Capital Inflows—Cross-Cutting Themes and Possible Policy
+Framework—Supplementary Information,‖ March 2011, ―The Multilateral Aspects of Policies Affecting Capital Flows,‖
+October 2011, and ―Liberalizing Capital Flows and Managing Outflows;‖ March 2012. The forthcoming paper ―The
+Liberalization and Management of Capital Flows: An Institutional View,‖ will articulate a comprehensive, flexible, and
+balanced institutional Fund view on cross-border capital flows and the policies that affect them.
+
+28
+
+INTERNATIONAL MONETARY FUND
+
+GUIDANCE NOTE FOR SURVEILLANCE UNDER ARTICLE IV CONSULTATIONS
+
+gauge the level of reserves needed to cushion the impact of a sudden stop in capital flows and
+other extreme balance of payments shocks.31
+41.
+Staff reports are expected to cover intervention activities to the extent they are
+important for a member’s balance of payments stability and/or global stability. Where
+relevant, coverage would normally entail a description of past intervention episodes stating their
+objectives and analyzing their effectiveness, including whether they were coupled with sterilization.
+Intervention includes outright purchases/sales of foreign exchange or foreign exchange derivatives
+by the central bank, the ministry of finance, or others working on behalf of these.32 Staff should
+assess in particular whether there are protracted large-scale interventions in one direction in the
+exchange market.
+42.
+The analysis and policy advice on intervention policies should be tailored to countryspecific circumstances and avoid an overly prescriptive approach. The assessment should be
+made against the background of the de facto exchange rate regime and the adequacy of the
+member‘s reserves. Staff‘s advice regarding the use of intervention to influence the exchange rate
+should be guided by the following: particularly that intervention should be used to counter
+disorderly conditions in the foreign exchange market, and should not be used to manipulate the
+exchange rate to gain an unfair competitive advantage, nor in such a way as to result in balance of
+payments instability (for instance, a significantly over- or undervalued exchange rate).
+Free Floaters, Currency Unions, and Dollarized Economies
+43.
+Staff should assess the real exchange rate level in all cases irrespective of the exchange
+rate regime. Thus such assessments should also be undertaken for members who have a freely
+floating exchange rate (and hence no exchange rate policies), and those who do not have their own
+national currencies.
+44.
+Under a floating exchange rate regime, as in other regimes, the real exchange rate can
+be under- or overvalued. This may happen as a result of non-exchange rate policies, as a result of
+other countries‘ policies affecting the exchange rate of the country at issue, or because of market
+imperfections such as a bubble (which may burst in a disorderly way). Thus, even fully marketdetermined exchange rates can result in disruptive adjustments.
+45.
+Currency unions. In currency unions, the real exchange rate and current account should be
+assessed both at the level of individual members and at the level of the union, and there should be
+an assessment of any vulnerabilities in individual members that may affect the stability of the union
+as a whole.
+
+31
+
+For additional information, see IMF Assessing Reserve Adequacy. See also Guidance Note for Fund Staff on the
+Treatment and Use of SDR Allocations (paragraph 18 in particular).
+32
+
+See ―Classification of Exchange Rate Arrangements‖.
+
+INTERNATIONAL MONETARY FUND
+
+29
+
+GUIDANCE NOTE FOR SURVEILLANCE UNDER ARTICLE IV CONSULTATIONS
+
+
+
+At the level of the member. Staff reports for individual members are expected to assess to
+what extent policies implemented at the level of the member are promoting the member‘s
+domestic balance of payments stability and contributing to the stability of the union as a
+whole. Reports should present an analysis of the country‘s real exchange rate and balance of
+payments. The discussion can be phrased in terms of external competitiveness or the real
+exchange rate, including whether the REER is over- or undervalued.
+
+
+
+Staff reports on individual members should not include statements suggesting that the
+nominal exchange rate is over- or undervalued (unless this is the case at the union level).
+
+
+
+If the real exchange rate of an individual member is found to be over- or undervalued, the
+staff report for that member should refer to whether the union exchange rate is considered
+to be over-or under-valued. This helps clarify why policy adjustment in the individual
+member is or is not recommended. If the misalignment at the member‘s level mirrors one at
+the union level, policy adjustment would be recommended at the union level. Otherwise,
+policy adjustment would be recommended at the level of the individual member.33
+
+
+
+Significant vulnerabilities apparent at the level of the member should be flagged in both the
+report of the individual member and in the report of the currency union.
+
+
+
+At the level of the union. Union-level staff reports are expected to provide a clear bottom
+line assessment of whether policy frameworks are adequate, the extent to which exchange
+rate policies and other policies implemented at the level of the union (e.g., monetary policy,
+fiscal policy frameworks and financial sector policies) are contributing to the union‘s stability
+and should include a bottom line assessment of the real exchange rate level, and associated
+exchange rate policies.
+
+46.
+Dollarized economies. For members that use the currency of another member as their sole
+legal tender (―dollarized economies‖), staff reports should still include a real exchange rate
+assessment. The exchange rate discussion can be phrased in terms of external competitiveness or
+the real exchange rate, and it should include a bottom line assessment including whether the REER
+is over- or undervalued. Where this is the case, the report needs to discuss the recommended
+adjustment in policies.
+47.
+Principles for the Guidance of Members’ Exchange Rate Policies – For all members that
+implement exchange rate policies, Article IV missions should assess whether the member is
+observing the principles for the guidance of members‘ exchange rate policies set out in the ISD.
+These principles are described in Annex I.34 However, staff reports for Article IV consultations are not
+expected to provide an explicit compliance assessment unless a member is found to be
+noncompliant.
+
+33
+
+See also paragraph 9 and B. Consultations with Members of Currency Unions.
+More detailed guidance on the interpretation and application of the principles is available at FAQs—Guiding
+Principles.
+34
+
+30
+
+INTERNATIONAL MONETARY FUND
+
+GUIDANCE NOTE FOR SURVEILLANCE UNDER ARTICLE IV CONSULTATIONS
+
+Coverage of exchange rate regimes in Article IV reports
+48.
+Staff reports should identify the de facto and de jure exchange rate regimes. The de
+facto exchange regime should be understood as a backward-looking description, as assessed by
+staff, of the approach followed de facto by the authorities in the conduct of exchange rate policies.
+The description should be as elaborate as necessary to enable the reader to understand how
+exchange rate policies have been conducted in practice, and should include a classification of the de
+facto regime using MCM‘s definitions and categories, as used in the Annual Report on Exchange
+Arrangements and Exchange Restrictions (AREAER).35 (This does not mean that the last classification
+published in the AREAER should necessarily be used, as staff will take a fresh look at the issue during
+the Article IV consultation process and explain any difference in classification). Staff reports should
+also specify the de jure regime—namely, the regime that the authorities have reported to the Fund
+and typically also the publicly announced regime—at least in the Appendix on Fund Relations. If the
+de facto and de jure regimes coincide, both can be referred to simply as ―the exchange rate regime.‖
+Where applicable, reports should discuss changes in the authorities‘ forward-looking policy
+intentions.
+49.
+Reports should also provide a view regarding the adequacy of the de facto regime for
+maintaining stability. Staff should examine the consistency of the exchange rate regime with the
+policy mix, which can be more important for balance of payments stability than the regime itself.
+This may include where relevant a discussion of the appropriateness of the fiscal stance, the
+monetary objectives, and the financial sector regulatory framework. Discussion of alternative
+regimes should reflect the authorities‘ views, and advice to alter the regime should take into account
+readiness and adequacy of the implementation capacity.
+
+E. Traction
+50.
+The ability to influence policy making—or traction―is the cornerstone of effective
+surveillance.36 Policy debate and changes are shaped by many factors, of which Fund surveillance is
+only one. Traction for the Fund can be understood to have two dimensions: the extent to which the
+authorities engage with the Fund on its analysis and recommendations and more broadly, the value
+Fund surveillance adds to the policy debate including all stakeholders that may also influence policy;
+and the extent to which Fund advice is reflected in policy action. To enhance traction, staff should
+ensure for all countries the candor and evenhandedness of reports, and should use outreach where
+appropriate to help reach a wide audience and influence the public debate.
+
+
+35
+36
+
+As part of this process, at an early stage in the cycle, staff are encouraged to exchange views
+with the authorities on analytical topics for discussion. This needs to be done without
+compromising staff‘s capacity—and obligation—to raise relevant and at times difficult
+issues.
+See Annex II for further details on the categories.
+This is particularly challenging for systemic countries (2011 TSR).
+
+INTERNATIONAL MONETARY FUND
+
+31
+
+GUIDANCE NOTE FOR SURVEILLANCE UNDER ARTICLE IV CONSULTATIONS
+
+
+
+Macro-social issues which pass the test of being critical to the assessment of
+macroeconomic stability should be discussed, drawing on the expertise of other institutions
+with relevant mandate (e.g., ILO, World Bank).
+
+Reports should include an assessment of the authorities‘ responses to staff‘s advice on key issues
+raised in previous Article IV discussions.
+
+OTHER TOPICS
+A. Issues within the Mandate of Surveillance
+51.
+Adequacy of data provision. Comprehensive, timely, and accurate data are critical for
+surveillance, and staff should be familiar with the Guidance Note on Data Provision to the Fund for
+Surveillance Purposes.37 Staff reports and Policy Notes are required to identify the adequacy of data
+provision for surveillance purposes in a Statistical Issues Appendix. When data provision has serious
+shortcomings that significantly hamper surveillance—including data deficiencies that hamper an
+assessment of financial stability—staff reports should discuss:
+
+
+Deficiencies. The nature of the deficiencies (coverage, quality, periodicity, timeliness or other
+aspects of data quality).
+
+
+
+Implications. The implications of the data shortcomings for the analysis, in particular policy
+conclusions that are subject to significant uncertainties.
+
+
+
+Remedial measures. In those cases where staff have had to construct key data based on
+limited information (either because of lack of, or long lags in, official data), specific and
+prioritized remedial measures, possibly including increased resources to ensure durable
+progress and proper assimilation of technical assistance.
+
+
+
+The extent of discussion of these issues would depend upon the extent of the shortcomings.
+
+52.
+Reports on the Observance of Standards and Codes (ROSCs).38 The Fund and the World
+Bank have endorsed 11 international standards and codes of good economic and financial practice
+in 12 policy areas; including anti-money laundering and combating the financing of terrorism (see
+guidance on AML/CFT). Staff should seek information on the observance of those standards that are
+relevant to country circumstances. Resources permitting, ROSCs, including those carried out in the
+context of FSAPs, are the preferred means of obtaining this information. The ROSCs‘ findings
+relevant for stability should inform surveillance and be discussed in Article IV documents. In
+addition, Article IV reports should indicate when relevant staff‘s views on priority areas for standard
+assessments, independently of the authorities‘ perceived willingness to volunteer for such ROSCs.
+
+37
+
+This note also provides guidance on dealing with possible breaches of Article VIII, Section 5.
+
+38
+
+ROSCs are a summary of detailed assessments of standards and codes.
+
+32
+
+INTERNATIONAL MONETARY FUND
+
+GUIDANCE NOTE FOR SURVEILLANCE UNDER ARTICLE IV CONSULTATIONS
+
+53.
+Trade issues. Coverage is only expected: (i) where serious trade distortions hamper
+prospects for stability; (ii) where balance of payments are vulnerable to trade developments; or
+(iii) in systemically-important countries when trade policies have substantial impact on others (see
+paragraph 13). The possible impact of trade restrictions in services (including financial services)
+should not be forgotten.
+54.
+Governance issues. When relevant for stability, staff should discuss governance issues and
+reforms with the authorities (see The Role of the IMF in Governance Issues).
+55.
+Political and social developments. Article IV reports should include information on
+political and social developments when they are relevant for analysis of economic policies.
+
+B. Matters Related to Article VIII and XIV
+56.
+Article VIII and XIV issues. The ISD provides that, in principle, Article IV consultations
+should include consultations under Articles VIII and XIV. For all Article IV consultations, staff reports
+should indicate when a member has in place exchange restrictions or multiple currency practices
+subject to Article VIII or that are maintained under the transitional arrangements of Article XIV,
+Section 2. If the member does maintain such restrictions or multiple currency practices that are
+subject to approval under Article VIII, Sections 2(a) and 3, the staff appraisal should include an
+explicit recommendation concerning Board approval of the restrictions.39 Missions should inform
+members that their failure to seek the Fund‘s approval or to notify the Fund for the imposition or
+the maintenance of exchange restrictions or multiple currency practices will result in a breach of
+their obligations. Staff should encourage members who have not yet done so to accept the
+obligations of Article VIII, Sections 2, 3, and 4, following the relevant guidance to provide such
+encouragement. In addition, the appendix on Fund Relations should note any exchange restrictions
+imposed for security reasons and required to be notified to the Fund under Decision No. 144(52/51).
+
+COMMUNICATION
+57.
+Communicating well and candidly with all relevant audiences is key to effective
+surveillance. The 2011 TSR underscored that surveillance messages need to be concise, focused on
+a few key points, as well as clear, timely, and strategically targeted. It also emphasized the need to
+communicate more boldly about risks, while recognizing—and accepting—that this will mean
+
+39
+
+The Fund approves the imposition or maintenance of exchange restrictions subject to Article VIII, Section 2(a)
+provided that the restrictions are imposed for balance of payments reasons, are not discriminatory, and that their use
+will be temporary while the member is seeking to eliminate the need for them. Restrictions imposed solely for the
+preservation of national or international security are subject to a different procedure: a member must notify the Fund
+of the imposition of such restrictions; following this notification, the restrictions are approved unless the Fund
+informs the member within 30 days that it is not satisfied that the restrictions are imposed solely for security reasons
+(see Decision No. 144-(52/51)). For multiple currency practices, the criteria for approval are specified in Decision No.
+6790-(81/43).
+
+INTERNATIONAL MONETARY FUND
+
+33
+
+GUIDANCE NOTE FOR SURVEILLANCE UNDER ARTICLE IV CONSULTATIONS
+
+sometimes being proven wrong. It is important to provide clear and candid messages without
+undermining confidence and triggering adverse market reaction.
+58.
+To strengthen communication, area departments are encouraged to develop outreach
+programs as part of mission planning and in active consultation with EXR.40 Outreach can play
+an important role in communicating and building support for the Fund‘s advice. To be effective,
+outreach should be tailored to match messages and medium to the target audience. In addition,
+Article IV press conferences at the end of missions and/or Board meetings should be routine, unless
+departments see specific reasons to hold off (e.g., the authorities do not consent). Staff—as
+―ambassadors of the Fund‖—should also aim to present the global and regional outlooks, and the
+main global messages of the Fund, to country authorities and to the public, as appropriate.
+59.
+Staff should encourage all members to publish Public Information Notices, Article IV
+consultation staff reports, and background documents.41 The Fund‘s transparency policy
+provides a framework for the publication of these documents, which is voluntary but presumed. The
+transparency policy allows for deletions and corrections that meet certain criteria. 42 It also gives
+authorities a ―right of reply.‖ Publication in languages other than English (LOE) is also encouraged as
+appropriate (see the Guidance Note on Translation of Documents for Publication in LOE).
+60.
+As part of the transparency policy framework, the following guidelines have been
+established:
+
+
+No sharing of draft reports. Staff should not share draft staff reports (or portions of
+reports) with country authorities or EDs, with the exception of some specific documents.43
+
+40
+
+EXR has prepared guidance on outreach with civil society, legislators, the media, and the general public, and is
+maintaining a communications toolkit to help staff in its outreach. The institution‘s willingness to engage and listen
+to the views of key external stakeholders will over time help in achieving better public understanding of Fund policies
+and programs. EXR has staff assigned to each department to serve as a liaison officer to facilitate effective
+communications (see link EXR Departmental Teams List).
+41
+
+The PIN consists of a background section with factual information on the economy of the member (including a
+table of economic indicators) and the final version of the Summing-Up with the deletion of the first sentence (which
+indicates the EDs‘ endorsement of the thrust of the staff appraisal) and the last sentence (on the consultation cycle).
+Where a report has been issued on a LOT basis the Executive Board Assessment is the Staff Appraisal. The first
+sentence of the PIN should read ― In concluding the [year] Article IV consultation with [country], Executive Directors
+endorsed staff‘s appraisal as follows:‖ The Executive Board‘s Assessment in the PIN should follow the staff appraisal
+verbatim, with the exception of changes to accommodate corrections or deletions permitted by the Fund‘s
+transparency policy.
+42
+
+To avoid undue delays in publication, the transparency policy specifies that requests for deletions and corrections
+are expected to be communicated to the Fund no later than two days before the Board meeting (or the date of
+lapse-of-time decision) takes place. See Guidance Note on Transparency Policy for details on which corrections and
+deletions are acceptable under the policy and for the procedures to be followed. Appendix II in the guidance note
+has a table with main deadlines in the publication process of Board documents.
+43
+
+Exceptions are drafts of mission concluding statements, selected issues papers, ROSC modules, EPA and EPE
+reports, FSAP aide-memoires and FTNs, OFC assessments aide-memoires, detailed assessments, and TA reports. If
+staff wishes to confirm in writing their understanding of the authorities‘ views, they may provide the authorities with
+a minute of the relevant meeting(s) for comment.
+
+34
+
+INTERNATIONAL MONETARY FUND
+
+GUIDANCE NOTE FOR SURVEILLANCE UNDER ARTICLE IV CONSULTATIONS
+
+
+
+No negotiated documents. Staff reports must not be negotiated with the authorities.
+
+
+
+Candid and comprehensive assessments. The authorities‘ publication intentions should
+not affect the candor and comprehensiveness of staff‘s papers.
+
+In addition, to avoid unnecessary difficulties with country authorities, staff are encouraged to:
+
+
+Accurately characterize counterparts’ views. The counterparts‘ views should be properly
+characterized as official views of authorities, views of institutions, or personal views.
+
+
+
+Avoid politically sensitive language. Staff should avoid formulations that may be
+considered insulting or divisive in the member country, though without shying away from
+candid assessments of relevant political economy issues.
+
+
+
+Avoid discussing publication intentions in staff reports. The publication intentions
+should be addressed only in the cover page issued by SEC for internal circulation.
+
+Where a member wishes to provide information for surveillance to the staff/management but not to
+the Executive Board, the staff should remind the authorities that, under the Fund‘s Articles of
+Agreement, the Board plays an important role in surveillance and the member should not purport to
+withhold from the Board any information that is required to be reported under Article VIII, Section 5
+or is otherwise necessary for the conduct of surveillance.
+
+SURVEILLANCE PROCESS AND REQUIREMENTS
+A. Article IV Consultation Cycles44
+61.
+Consultations for countries without an arrangement are normally expected annually.
+Consultations in countries that do not have an arrangement (other than FCL or PLL) or a PSI with the
+Fund are normally expected to take place annually (with a three-month grace period).45 The
+Executive Board may decide to place a member that is not under a Fund arrangement or a PSI on a
+longer cycle, not exceeding 24 months, unless the member: (i) is of systemic or regional importance;
+(ii) is perceived to be at risk, or is facing pressing policy issues of broad interest to the Fund
+membership; or (iii) has outstanding Fund credit exceeding 200 percent of quota. The Fund may
+only place a member on a longer cycle with its consent and after consulting with its Executive
+Director. To enhance the Fund‘s policy dialogue with a broad range of economic stakeholders,
+44
+
+This section reflects the new rules adopted by the Executive Board on September 28, 2010 (see Decision on Article
+IV Consultation Cycles (Decision No. 14747-(10/96))). Consultation cycles for individual members will be set based on
+these new rules at the time of completion of their first Article IV consultation following the adoption of the Decision
+or in the context of a Fund arrangement or a PSI.
+45
+
+The periodicity and ―deadlines‖ for the completion of individual consultations with members are expressed in
+terms of an ―expectation‖ rather than an obligation. Except where a member is automatically placed on the 12- or 24month cycle in the context of a Fund arrangement or PSI, the consultation cycle for members is established by the
+Executive Board at the conclusion of each Article IV consultation, or at the time of the last program or PSI review, or if
+necessary, on an ad-hoc basis. The 3-month grace period applies only to consultations that take place on the
+standard 12-month cycle.
+
+INTERNATIONAL MONETARY FUND
+
+35
+
+GUIDANCE NOTE FOR SURVEILLANCE UNDER ARTICLE IV CONSULTATIONS
+
+Article IV consultation cycles should be tailored to national policy timetables, such as budget cycles,
+to the extent feasible. When a member‘s Article IV consultation has been delayed by more than 12
+months, following the end of any applicable grace period for the conclusion of its Article IV
+consultation, formal steps to address prolonged delays are initiated (see Decision No. 15106-(12-21)
+February 29, 2012).46
+62.
+Members that are granted a Fund arrangement or a PSI, with the exception of FCL or
+PLL arrangements, are automatically placed on a 24-month consultation cycle.47 In cases where
+a program review under an arrangement is not completed by the date specified in the arrangement,
+the next Article IV consultation will be expected to be completed by the later of (i) 6 months after
+the date specified in the arrangement for completion of the review, and (ii) 12 months, plus the 3month grace period, after the date of completion of the previous Article IV consultation, unless a
+review is completed before the later of these dates, in which case the consultation reverts to a 24month cycle (i.e., will be expected to be completed within 24 months of the previous consultation).
+63.
+Remaining on a 24-month cycle. Members that have completed a Fund arrangement
+(other than FCL or PLL arrangements) by drawing all amounts or a PSI by completing all reviews may
+remain on the 24-month cycle if they do not meet any of the criteria described in paragraph 62
+above. At the time of the final review under the arrangement or PSI, staff should assess whether the
+consultation cycle should be shortened back to the standard 12-month cycle, based on the above
+criteria. When this is the case, the staff report for the final review should seek the Board‘s approval
+of such shortening of the cycle through a recommendation in the staff appraisal (to be reflected in
+the summing up).48 If an arrangement expires with undrawn amounts or is cancelled by the member,
+or if a PSI expires with uncompleted reviews, is terminated, or is cancelled by the member, the
+member will remain on the cycle it was on, unless the Board determines that a different cycle should
+apply (which could be done through an ad-hoc decision that the Board could consider on a lapseof-time basis).49
+64.
+Members that are granted an FCL or a PLL arrangement are automatically placed on
+the standard 12-month consultation cycle. For members that, prior to the approval of an
+arrangement were on a cycle longer than the standard 12 months, the first Article IV consultation
+following the approval of the arrangement is expected to be completed by the later of (i) six months
+following the approval of the arrangement, or (ii) 12 months plus a grace period of three months,
+46
+
+The formal steps to address serious delays are: (i) sending a letter from the Managing Director to a member with a
+delay more than 12 months; (ii) publishing a list of members with delays more than 18 months; and (iii) holding an
+informal session to brief the Board on the economy of a member with a delay of more than 18 months.
+47
+
+A calculator for Article IV consultation deadlines in program countries is available online.
+In case the Board decides to shorten the consultation cycle back to 12 months, the first Article IV consultation after
+the end of the Fund arrangement or a PSI should be concluded no later than 12 months (plus the 3-month grace
+period) after the date of completion of the previous Article IV consultation, or six months after the end of the
+arrangement or PSI, whichever is later.
+48
+
+49
+
+Such a decision could be adopted by the Executive Board based on a proposal by management made upon
+cancellation (termination) of the arrangement or PSI.
+
+36
+
+INTERNATIONAL MONETARY FUND
+
+GUIDANCE NOTE FOR SURVEILLANCE UNDER ARTICLE IV CONSULTATIONS
+
+after the date of completion of the previous Article IV consultation. At the end of an FCL or a PLL
+arrangement that member will remain on the 12-month cycle, unless the Executive Board
+determined that a different cycle should apply (which could be done through an ad-hoc decision
+that the Board could consider on a lapse-of-time basis).
+
+B. Consultations with Members of Currency Unions50
+65.
+
+Consultations for members of currency unions should comprise the following:51
+
+
+
+Individual members. The frequency of Article IV consultations for individual members is
+determined by individual country circumstances (e.g., whether or not they currently have a
+program or PSI in place).
+
+
+
+Discussions with regional institutions. Yearly staff discussions should be held with
+regional institutions responsible for common policies in the currency unions. The discussions
+are held separately from the discussions with the individual member countries of the
+currency unions, but are considered an integral part of the Article IV process for each
+member. These discussions focus on policies under the aegis of the regional institutions and,
+as relevant, other policies of regional importance.
+
+
+
+Reports and summing ups at the union level. An annual staff report on the discussions
+with the regional institutions is prepared followed by a Board discussion, which are both
+considered an integral part of the Article IV consultations with individual member countries.
+Each union level summing up should include language to the effect that the views expressed
+by Directors in that union level summing up will form part of their discussions in the context
+of the Article IV consultations for individual currency union members that take place before
+the next annual Board discussion for the currency union.
+
+
+
+Informal reports at the union level. A second round of staff discussion with the regional
+institutions and an informal report to the Board may be needed to provide adequate context
+for bilateral consultations with the currency union member countries that do not coincide
+broadly with the annual Board discussion on the currency union‘s policies.
+
+C. Process and Documentation
+66.
+The documentation requirements and review process for Article IV consultations are
+set out below. For more details on the latter, see ―Combined Guidelines for the Review Process‖ on
+the review process website. Also see the working with eReview website for country review work.
+
+
+50
+
+Policy Note. This note (3–4 pages, plus charts and tables) should be prepared ahead of the
+consultation to lay out the key diagnostics and proposed focus of the consultation and
+See also Scope of Surveillance: Focus on Stability and Risks and paragraph 45.
+
+51
+
+See Fund Surveillance Over Members of Currency Unions—Proposed Amendments to Existing Modalities for
+background and further details.
+
+INTERNATIONAL MONETARY FUND
+
+37
+
+GUIDANCE NOTE FOR SURVEILLANCE UNDER ARTICLE IV CONSULTATIONS
+
+policy advice. It should include background; macroeconomic outlook; policy line on key
+issues, including surveillance priorities; supportive charts and tables; and note any
+divergences of views among departments that arose from the policy consultation meeting
+(see below).
+
+
+Policy Consultation Meeting. This meeting between the area departments and reviewing
+departments should be held 2 to 3 weeks before the mission to discuss and agree on the
+content of the Policy Note, before it is sent to management for clearance.
+
+
+
+Board discussion. Article IV staff reports are expected to be discussed by the Executive
+Board within 65 days of the end of the discussions for countries other than PRGT-eligible
+members, and within three months for PRGT-eligible countries. These should be understood
+as outer limits as staff are expected to finalize staff reports as quickly as possible after the
+end of discussions with the authorities.
+
+Staff report requirements. The requirements for staff reports are listed in Annex II.
+
+
+Background documentation. Background documentation for Article IV staff reports may be
+produced, in the form of papers covering selected issues and statistical annexes, i.e.
+comprehensive sets of historical data tables. The choice of selected issues papers (SIPs)
+should be guided by their centrality to the discussion and each SIP should begin with a
+description of how the papers fit in the consultation discussions. There is scope to cut back
+from delving into issues that are not clearly at the core of the Fund‘s mandate and those
+solely on individual country issues (rather than with a cross-country perspective). Staff has
+great discretion on whether or not to produce comprehensive statistical annexes and is
+expected to make this decision in consultation with country authorities. Statistical annexes
+need not be produced when data are freely available from other sources, which is
+increasingly the case.
+
+
+
+Summing Up. With the exception of when Article IV reports are considered on a lapse-oftime basis (see below), the Executive Board‘s conclusion of an Article IV consultation will be
+reflected in a Chairman‘s Summing Up of the discussion, which will be communicated to the
+member concerned.
+
+
+
+Lapse-of-time procedure. The lapse-of-time (LOT) procedure will be proposed for Article IV
+consultations where the following conditions apply: (i) there are no acute or significant risks,
+or general policy issues requiring Board discussion; (ii) policies or circumstances are unlikely
+to have significant regional or global impact in the near term (i.e. within one year); (iii) in the
+event a parallel program review is being completed, it is also being completed on a LOT
+basis; and (iv) the use of Fund resources is not under discussion or anticipated. The LOT
+procedure should not be used when: (i) the last Article IV consultation was concluded on a
+LOT basis; (ii) more than 24 months have elapsed since Board discussion of an Article IV
+consultation; or (iii) the country is on a 24-month consultation cycle and has not been
+considered by the Executive Board under a program review in the preceding twelve months.
+On the basis of these eligibility criteria, the Managing Director, with the approval of the
+Executive Director for the member concerned, would propose completion of an Article IV
+
+38
+
+INTERNATIONAL MONETARY FUND
+
+GUIDANCE NOTE FOR SURVEILLANCE UNDER ARTICLE IV CONSULTATIONS
+
+consultation on a LOT basis at the time the staff paper is circulated to the Executive Board.
+The Executive Director for the member concerned may also propose the completion of an
+Article IV consultation by LOT no more than two business days after the staff paper is
+circulated to the Executive Board, and preferably as soon as possible after the staff paper is
+circulated.52
+
+
+Combining reports. There is usually scope for combining Article IV and UFR papers
+(requests and reviews), though some may prefer to follow a ―two-papers‖ approach. Under
+either approach, it is critical that the Article IV coverage remain comprehensive and deal with
+all relevant issues.
+
+
+
+Clustering. While recognizing there is often scheduling constraints, teams are encouraged
+to coordinate Article IV consultations to facilitate Board discussion of clusters of
+interconnected countries (e.g., countries tied together through financial, trade or other links
+or exposed to a common set of issues).
+
+67.
+Staff visits allow Fund staff to hold discussions with member countries on their
+economic developments and policies in between Article IV consultations. Interdepartmental
+review procedures for briefings ahead of staff visits apply if there is a change in policy line or
+economic circumstances. When these changes are substantial, a full review involving a policy note,
+any needed background materials, and a policy consultation meeting is required. For less substantial
+changes, the interdepartmental review could be conducted in a more streamlined way, for instance
+through informal meetings or by exchange of e-mails or of redlined suggestions, and potentially
+with a narrower set of reviewing departments. If country teams and SPR reviewers agree there is no
+change, a one-page brief is adequate and to be circulated for information only.
+68.
+Informal country matters sessions offer opportunities to inform the Board about
+significant developments between Article IV consultations. Where warranted, the Board may
+also be kept apprised of economic developments in a member and of staff‘s assessment of these
+developments through issuance of a report in between Article IV consultations (e.g., following a staff
+visit). Regular provision to creditors or donors of staff assessments of a member‘s policies can be
+done through assessment letters, which are issued upon request. Assessment letters should only be
+provided when an up-to-date PIN or Chairman‘s statement is not available.53
+
+52
+
+See Review of the Experience with the Board Practices Reform, May 16, 2012 and related decision of July 12, 2012.
+
+53
+
+Such assessments do not constitute an endorsement of the member‘s policy program or a statement that it meets
+a particular standard. Assessment letters are typically produced in response to requests from multilateral or bilateral
+donors or creditors, in particular the World Bank and other international financial institutions. In some instances, the
+request for an assessment letter may come directly from the member country that is approaching these entities for
+financial assistance. Generally, assessment letters should only be provided when the most recent PIN/Chairman‘s
+statement is more than six months old or when there has been a material change in the country‘s macroeconomic
+situation since its issuance. In cases where the most recent UFR review was concluded on a lapse of time and there is
+no Chairman‘s statement, an assessment letter can be prepared based on the report‘s staff appraisal.
+
+INTERNATIONAL MONETARY FUND
+
+39
+
+GUIDANCE NOTE FOR SURVEILLANCE UNDER ARTICLE IV CONSULTATIONS
+
+ANNEX I. LEGAL FRAMEWORK, PRINCIPLES AND GUIDANCE
+FOR FUND SURVEILLANCE
+LEGAL FRAMEWORK FOR FUND SURVEILLANCE
+Article IV of the IMF‘s Articles of Agreement provides the legal basis for the conduct of bilateral and
+multilateral surveillance by the Fund. The Decision on Bilateral and Multilateral Surveillance (or
+Integrated Surveillance Decision (―ISD‖), adopted by the Fund‘s Executive Board on July 18, 2012,
+establishes a comprehensive framework for integrating bilateral and multilateral surveillance and
+provides guidance for the Fund and the members in the conduct of surveillance.
+Bilateral Surveillance
+Article IV, Section 3(a) and (b) requires the Fund to oversee members‘ compliance with the
+obligations specified under Article IV, Section 1 and to exercise firm surveillance over members‘
+exchange rate policies (―bilateral surveillance‖). Article IV, Section 1 specifies members‘ substantive
+obligations in this regard. It establishes a general obligation that each member shall undertake to
+collaborate with the Fund and other members to assure orderly exchange arrangements and to
+promote a stable system of exchange rates. It also sets forth more specific obligations, including
+those relating to the conduct of domestic economic and financial policies by members (Article IV,
+Sections 1 (i)–(ii)), which are of a ―soft nature‖- where members are only required to exercise ―best
+efforts,‖ and those relating to the conduct of exchange rate policies by members (Article IV, Sections
+1 (iii)–(iv)), which are of a ―hard nature‖- where members are required to achieve results rather than
+just exercising best efforts.1 In addition to the substantive obligations, members also have
+procedural obligations to consult with the Fund, and to provide certain information deemed
+necessary by the Fund for carrying out its bilateral surveillance mandate.2
+Multilateral Surveillance
+Article IV, Section 3(a) also requires the Fund to oversee the international monetary system to
+ensure its effective operation (―multilateral surveillance‖). In contrast to bilateral surveillance, the
+Articles of Agreement do not establish any substantive policy obligations of members in connection
+with the Fund‘s multilateral surveillance mandate. Pursuant to the ISD, members are encouraged to
+1
+
+See ―The Fund‘s Mandate—The Legal Framework‖ (1/22/10), at paragraph 10; see also ―2011 Triennial Surveillance
+Review of the 2007 Surveillance Decision and the Broader Legal Framework for Surveillance‖ (8/29/11) at paragraph
+8.
+2
+
+Under Article VIII, Section 5, the Fund may require a member to report information it deems necessary for its
+activities, including surveillance. See ―Modernizing the Legal Framework for Surveillance – An Integrated Surveillance
+Decision,‖ (6/26/2012) at n. 12. While the Fund may rely on Article IV, Section 3(b) to require members to provide
+information necessary for its firm surveillance over members‘ exchange rate policies, the Fund has so far relied upon
+the general reporting obligation under Article VIII, Section 5 to request information to conduct surveillance. See ―The
+Fund‘s Mandate - The Legal Framework,‖ (1/22/10) at n. 8.
+
+40
+
+INTERNATIONAL MONETARY FUND
+
+GUIDANCE NOTE FOR SURVEILLANCE UNDER ARTICLE IV CONSULTATIONS
+
+implement exchange rate and domestic economic and financial policies that, in themselves or in
+combination with the policies of other members, are conducive to the effective operation of the
+international monetary system. They have, however, no obligation to change their domestic
+economic and financial policies that may give or are giving rise to spillovers that may have a
+significant impact on global stability, as long as they promote their own domestic or balance of
+payments stability. Members have, however, a procedural obligation to consult with the Fund and to
+provide relevant data so that the Fund can exercise its multilateral surveillance responsibilities.3
+Article IV of the Articles of Agreement, Sections 1 and 3
+Article IV, Section 1. General obligations of members
+Recognizing that the essential purpose of the international monetary system is to provide a framework that
+facilitates the exchange of goods, services, and capital among countries, and that sustains sound economic
+growth, and that a principal objective is the continuing development of the orderly underlying conditions
+that are necessary for financial and economic stability, each member undertakes to collaborate with the
+Fund and other members to assure orderly exchange arrangements and to promote a stable system of
+exchange rates. In particular, each member shall:
+(i) endeavor to direct its economic and financial policies toward the objective of fostering orderly
+economic growth with reasonable price stability, with due regard to its circumstances;
+(ii) seek to promote stability by fostering orderly underlying economic and financial conditions and
+a monetary system that does not tend to produce erratic disruptions;
+(iii) avoid manipulating exchange rates or the international monetary system in order to prevent
+effective balance of payments adjustment or to gain an unfair competitive advantage over other members;
+and
+(iv) follow exchange policies compatible with the undertakings under this Section.
+Article IV, Section 3. Surveillance over exchange arrangements
+(a) The Fund shall oversee the international monetary system in order to ensure its effective
+operation, and shall oversee the compliance of each member with its obligations under Section 1 of this
+Article.
+(b) In order to fulfill its functions under (a) above, the Fund shall exercise firm surveillance over the
+exchange rate policies of members, and shall adopt specific principles for the guidance of all members with
+respect to those policies. Each member shall provide the Fund with the information necessary for such
+surveillance, and, when requested by the Fund, shall consult with it on the member‘s exchange rate policies.
+The principles adopted by the Fund shall be consistent with cooperative arrangements by which members
+maintain the value of their currencies in relation to the value of the currency or currencies of other members,
+3
+
+See ―Modernizing the Legal Framework for Surveillance – An Integrated Surveillance Decision,‖ (06/26/2012) at
+paragraph 15 and n. 12. The Fund may, by Executive Board decision, require members (either all members or
+individual members) to provide information that it needs for multilateral surveillance, pursuant to Article VIII, Section
+5. See id. at n. 11; see also ―The Fund‘s Mandate - The Legal Framework‖ (1/22/10), at paragraph 25.
+
+INTERNATIONAL MONETARY FUND
+
+41
+
+GUIDANCE NOTE FOR SURVEILLANCE UNDER ARTICLE IV CONSULTATIONS
+
+as well as with other exchange arrangements of a member‘s choice consistent with the purposes of the Fund
+and Section 1 of this Article. These principles shall respect the domestic social and political policies of
+members, and in applying these principles the Fund shall pay due regard to the circumstances of members.
+
+PRINCIPLES AND GUIDANCE OF MEMBERS’ POLICIES
+Article IV Section 3(b) requires the Fund to adopt specific principles designed to give
+guidance to members in the conduct of their exchange rate policies in accordance with their
+obligations under Article IV, Section 1. Although not required to do so under the Articles of
+Agreement, the Fund may also adopt principles for the guidance of members with regard to the
+conduct of their domestic economic and financial policies.
+In light of this context, and recognizing that a member‘s overall mix of economic and financial
+policies including both exchange rate and domestic policies, contributes to the members‘ balance of
+payments and domestic stability and may impact the stability of the international monetary system,
+the ISD provides guidance to members with respect to the conduct of their exchange rate policies
+(Principles A to D) and also with regard to their domestic policies with the adoption of a new
+principle (Principle E). It also offers, for the purpose of multilateral surveillance, guidance that
+provides encouragement to members in the conduct of their economic and financial policies with a
+view to ensuring the effective operation of the international monetary system.
+
+Principles for the Guidance of Members’ Policies in Bilateral Surveillance
+Principles A through D are intended to provide guidance to members in the conduct of their
+exchange rate policies, and the new Principle E is intended to provide guidance to members in the
+conduct of their domestic economic and financial policies in accordance with their obligations under
+Article IV, Section 1. Among all five Principles, only Principle A sets forth an obligation of members
+as its language simply repeats the language of the corresponding obligation set out in Article IV,
+Section 1(iii). Principles B through E constitute recommendations rather than obligations of
+members, and a determination by the Fund that a member is not following one of these
+recommendations would not create a presumption that that member is in breach of its obligations
+under Article IV, Section 1. However, a member that follows all Principles would be deemed to be in
+compliance with its obligations under Article IV, Section 1. Thus, observance of the Principles would
+constitute a ―safe harbor‖ for members.
+Under the ISD, the Fund is required to apply these Principles evenhandedly and pay due regard to
+the circumstances of members. Members are presumed to be implementing policies that are
+consistent with these Principles and, in determining whether a member is observing these Principles,
+the Fund must give the member the benefit of any reasonable doubt. In circumstances where the
+Fund has determined that a member is implementing policies that are not consistent with these
+Principles and is informing the member as to what policy adjustments should be made to address
+this situation, the Fund is required to take into consideration the disruptive impact that excessively
+rapid adjustment would have on the member‘s economy.
+
+42
+
+INTERNATIONAL MONETARY FUND
+
+GUIDANCE NOTE FOR SURVEILLANCE UNDER ARTICLE IV CONSULTATIONS
+
+List of Principles:
+A. A member shall avoid manipulating exchange rates or the international monetary system in
+order to prevent effective balance of payments adjustment or to gain an unfair competitive
+advantage over other members.
+B. A member should intervene in the exchange market if necessary to counter disorderly
+conditions, which may be characterized inter alia by disruptive short-term movements in the
+exchange rate of its currency.
+C. Members should take into account in their intervention policies the interests of other members,
+including those of the countries in whose currencies they intervene.
+D. A member should avoid exchange rate policies that result in balance of payments instability.
+E. A member should seek to avoid domestic economic and financial policies that give rise to
+domestic instability.
+For the purposes of the Fund‘s surveillance over a member‘s observance of the Principles, the ISD
+also identifies certain developments (indicators) that would require thorough review and might
+indicate the need for discussion with a member. The indicators are only a ―filter‖, indicating the need
+for thorough review and discussions with a member; their triggering would not, in itself, lead to the
+conclusion that a member was not observing a Principle. The list is not intended to capture all
+developments that will be useful for Fund surveillance.
+List of Indicators:
+(i) protracted large-scale intervention in one direction in the exchange market;
+(ii) official or quasi-official borrowing that either is unsustainable or brings unduly high liquidity
+risks, or excessive and prolonged official or quasi-official accumulation of foreign assets, for balance
+of payments purposes;
+(iii) (a) the introduction, substantial intensification, or prolonged maintenance, for balance of
+payments purposes, of restrictions on, or incentives for, current transactions or payments, or (b) the
+introduction or substantial modification for balance of payments purposes of restrictions on, or
+incentives for, the inflow or outflow of capital;
+(iv) the pursuit, for balance of payments purposes, of monetary and other financial policies that
+provide abnormal encouragement or discouragement to capital flows;
+(v) fundamental exchange rate misalignment;
+(vi) large and prolonged current account deficits or surpluses; and
+(vii) large external sector vulnerabilities, including liquidity risks, arising from private capital flows.
+
+INTERNATIONAL MONETARY FUND
+
+43
+
+GUIDANCE NOTE FOR SURVEILLANCE UNDER ARTICLE IV CONSULTATIONS
+
+Guidance in Multilateral Surveillance
+In addition, the ISD provides guidance to Fund members with regard to the conduct of their
+exchange rate and domestic economic and financial policies in the context of multilateral
+surveillance. This guidance does not relate to members‘ compliance with their obligations under the
+Articles but provides a basis for policy discussions in the multilateral surveillance context on issues
+that go beyond members‘ obligations under Article IV Section 1. Recognizing that a member‘s
+policies may have a significant influence on other members and on global economic and financial
+stability, the ISD encourages members to implement exchange rate and domestic economic and
+financial policies that, in themselves or in combination with the policies of other members are
+conducive to the effective operation of the international monetary system.
+
+44
+
+INTERNATIONAL MONETARY FUND
+
+GUIDANCE NOTE FOR SURVEILLANCE UNDER ARTICLE IV CONSULTATIONS
+
+ANNEX II. FORMAL REQUIREMENTS IN ARTICLE IV STAFF
+REPORTS
+Article IV staff reports should always include the following elements (those marked with an asterisk
+can be included in the informational annexes):
+
+
+A classification of data adequacy for surveillance, as per the Guidance Note on Data Provision
+to the Fund for Surveillance Purpose, into adequate (A), broadly adequate (B), or significantly
+hampering surveillance (C) (see paragraph 51 for case C countries). If adequacy is considered (C),
+this should be discussed in the main text of the staff report.*
+
+
+
+A Statistical Issues Appendix and Table of Common Indicators Required for Surveillance
+(see the Guidance Note on Data Provision to the Fund for Surveillance Purpose, section II.D and
+attachments I and II).*
+
+
+
+A brief assessment of the authorities’ response to the policy recommendations on the key
+issues raised in previous Article IV consultations.
+
+
+
+An accurate description of the de facto exchange rate regime, along the following categories:
+no separate legal tender, currency board, conventional peg, stabilized arrangement, crawling
+peg, crawl-like arrangement, pegged exchange rate within horizontal bands, other managed
+arrangement, floating, and freely floating.*
+
+
+
+A reference to proposed consultation cycle.
+
+
+
+A reference to Article VIII and XIV status (see paragraph 56).
+
+
+
+Fund Relations Appendix, Bank-Fund Collaboration Appendix.*
+
+
+
+Staff reports for PRGT-eligible countries should include a table on the Millennium Development
+Goals.
+
+
+
+The background section of the Public Information Notice.
+
+
+
+The following are indicative word count limits for staff reports:1 5,000 words for stand-alone
+report for non-systemic countries and 8,000 words for stand-alone report for systemic countries.
+
+1
+
+Word count limits include everything except tables (contents, acronyms, data), figures, proposed decisions, and
+Debt Sustainability Assessments appendices. Also excluded are informational annexes (which, in the case of routine
+annexes to country papers are issued separately).
+
+INTERNATIONAL MONETARY FUND
+
+45
+
+

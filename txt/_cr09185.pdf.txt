@@ -1,0 +1,9954 @@
+© 2009 International Monetary Fund
+
+[Month, Day], 201
+
+June 2009
+IMF Country Report No. 09/185
+August 2, 2001
+
+Republic of Croatia: 2009 Article IV Consultation—Staff Report; Public Information
+Notice on the Executive Board Discussion; and Statement by the Executive Director for
+the Republic of Croatia
+Under Article IV of the IMF’s Articles of Agreement, the IMF holds bilateral discussions with
+members, usually every year. In the context of the 2009 Article IV consultation with the Republic of
+Croatia the following documents have been released and are included in this package:
+•
+
+The staff report for the 2009 Article IV consultation, prepared by a staff team of the IMF,
+following discussions that ended on April 7, 2009, with the officials of the Republic of
+Croatia on economic developments and policies. Based on information available at the time
+of these discussions, the staff report was completed on May 21, 2009. The views expressed in
+the staff report are those of the staff team and do not necessarily reflect the views of the
+Executive Board of the IMF.
+
+•
+
+A Public Information Notice (PIN) summarizing the views of the Executive Board as
+expressed during its June 2, 2009, discussion of the staff report that concluded the Article IV
+consultation.
+
+•
+
+A statement by the Executive Director for the Republic of Croatia.
+
+The policy of publication of staff reports and other documents allows for the deletion of market-sensitive
+information.
+Copies of this report are available to the public from
+International Monetary Fund • Publication Services
+700 19th Street, N.W. • Washington, D.C. 20431
+Telephone: (202) 623-7430 • Telefax: (202) 623-7201
+E-mail: publications@imf.org • Internet: http://www.imf.org
+
+International Monetary Fund
+Washington, D.C.
+
+INTERNATIONAL MONETARY FUND
+REPUBLIC OF CROATIA
+Staff Report for the 2009 Article IV Consultation
+Prepared by the Staff Representatives for the 2009 Consultation
+with the Republic of Croatia
+Approved by Poul M. Thomsen and Michele Shannon
+May 21, 2009
+
+Discussions. Zagreb, March 26 to April 7, 2009. The mission met with Prime Minister Sanader;
+Minister of Economy Polančec; Finance Minister Šuker; Croatian National Bank (CNB) Governor
+Rohatinski; other senior officials; and representatives of social partners, think tanks, and the
+private sector. A press conference was held at the end of the mission.
+Team: Messrs. Arvanitis (head), Atoyan, Jafarov (all EUR), Prokopenko (MCM), and Rother
+(SPR). Mr. Galac (OED) also joined the discussions.
+Consultation focus: The discussions focused on the impact of the global economic and financial
+turmoil on Croatia, and on policies needed to maintain financial and external stability and pave
+the way for sustained recovery.
+Policy advice. The staff report advocates: (i) a cautionary monetary policy stance until external
+pressures abate to support the authorities’ exchange rate strategy in this period of heightened
+uncertainty; (ii) spending restraint to achieve the budget target and alleviate pressures on domestic
+credit markets; (iii) careful monitoring of the banks’ credit portfolio, including through diagnostic
+reviews of banks, and preemptive measures to strengthen the banking system; (iv) continuing and
+further enhancing cooperation with foreign parent banks and their supervisors to ensure adequate
+external financing; (v) upgrading the framework for resolution of impaired assets; and
+(vi) advancing structural reforms to raise potential growth and reduce external imbalances.
+The authorities’ position: The authorities broadly shared the staff’s diagnosis and noted that
+financial stability was their key priority. There was broad agreement on the monetary framework
+and policy requirements, and the authorities noted steps taken to strengthen banking oversight and
+high frequency monitoring of banks. They also stressed their effort to contain the fiscal deficit in
+2008 and in 2009, including through spending cuts. Structural reforms remain an important policy
+objective.
+Exchange rate: De jure managed float with no predetermined path; de facto other managed float
+under the Fund’s classification. Croatia has accepted the obligations under Article VIII,
+Sections 2, 3, and 4, and maintains an exchange rate free of restrictions on payments and transfers
+for current international transactions.
+
+2
+Contents
+
+Page
+
+I. Context....................................................................................................................................4
+II. Balance Sheet Vulnerabilities and Strains ............................................................................5
+III. Competitiveness Concerns...................................................................................................8
+IV. Macro-Financial Challenges ..............................................................................................11
+A. External Funding and Financial Stability................................................................11
+B. Public Finances Under Pressure..............................................................................13
+C. Credit Constraints and Solvency Concerns.............................................................13
+V. Outlook................................................................................................................................15
+VI. Policy Discussions .............................................................................................................16
+A. Preserving Market Stability and Anchoring Expectations......................................16
+B. Preparing the Banking Sector for a Difficult Period Ahead....................................17
+C. Fiscal Discipline Remains Key ...............................................................................19
+D. Advancing Structural Reforms................................................................................21
+VII. Staff Appraisal..................................................................................................................21
+Figures
+1. Croatia: Macroeconomic Developments, 2004–08..............................................................24
+2. Croatia: Inflation and Wage Developments, 2001–09.........................................................25
+3. Croatia: External Sector Developments, 2008–08...............................................................26
+4. Croatia: Financial Market Conditions, 2000–09..................................................................27
+5. Croatia: Foreign Exchange Market, 2007–09......................................................................28
+6. Croatia: Credit Developments, 2001–08..............................................................................29
+7. Croatia: Banking Performance, 2008...................................................................................30
+8. Regional Comparison: Business Environment, 2008–09 ....................................................31
+9. Croatia: Public Debt Sustainability: Bound Tests ...............................................................42
+10. Croatia: External Debt Sustainability: Bound Tests ..........................................................44
+Tables
+1. Croatia: Key Macroeconomic Indicators, 2004–10 .............................................................32
+2. Croatia: Consolidated General Government Finances, 2004–10.........................................33
+3. Croatia: Monetary Accounts, 2007–09 ................................................................................35
+4. Croatia: Medium-Term Baseline Scenario, 2004–14 ..........................................................36
+5. Croatia: Balance of Payments, 2007–14..............................................................................37
+6. Croatia: External Financing Requirement ...........................................................................38
+7. Croatia: Indicators of External and Financial Vulnerability, 2004–09................................39
+8. Croatia: Financial Soundness Indicators, 2002–08..............................................................40
+9. Croatia: Public Sector Debt Sustainability Framework, 2004–14 .......................................41
+10. Croatia: External Debt Sustainability Framework, 2004–14.............................................43
+
+3
+Boxes
+1. Croatia’s Reaction to Past IMF Advice .................................................................................5
+2. Assessing Croatia’s Real Exchange Rate ............................................................................10
+3. Financial Measures in Response to the Crisis......................................................................12
+Appendix
+I. Main Recommendations of the 2007 FSAP Update.............................................................45
+
+4
+I. CONTEXT
+1.
+Strong capital flows and rapid credit growth in recent years helped Croatia
+reach high levels of prosperity, but also increased vulnerabilities. Annual GDP growth
+accelerated to 4–5 percent, per capita incomes advanced further toward the EU average, and
+unemployment declined to the lowest levels since Croatia’s independence (Table 1). But
+domestic and external imbalances also widened considerably. Rapid credit growth led to a
+significant debt build-up; prevalent foreign currency borrowing aggravated balance sheet
+vulnerabilities; and booming domestic demand led to surging trade deficits, moderated only
+partially by strong tourism earnings.
+2.
+Policies aimed to lessen the imbalances, but limitations soon became evident. A
+stable exchange rate helped keep inflation and inflation expectations low (notwithstanding a
+temporary blip in early 2008 due to the spike in food and energy prices) but was also
+conducive to unhedged foreign currency borrowing. The authorities aimed for a balanced
+budget by 2010–11, but the fiscal stance lacked sufficient force to ease demand pressures.
+Banking supervision and regulation were strengthened in 2007–08, but proved to be only
+partially effective in restraining the strong credit demand. The need for structural reforms
+was well acknowledged, but their implementation was slow (Box 1 discusses the authorities’
+reaction to past Fund advice).
+3.
+Croatia is now in the midst of a sharp adjustment, with external factors
+aggravating existing imbalances. Markedly lower private capital inflows and tight domestic
+credit conditions force domestic demand to contract while plummeting external demand
+exacerbates pressures on the tradable sector. Economic activity is decelerating fast, with
+manufacturing production, construction, and exports declining sharply (Figure 1).
+4.
+Risks to financial stability have increased. External vulnerabilities remain
+substantial, with a large stock of external debt and sizable external financing needs in 2009
+and 2010; concerns are mounting about the private sector’s ability to meet its obligations;
+and the financial sector is highly vulnerable to deteriorating cross border funding conditions
+and worsening credit portfolios.
+5.
+Thus far, a robust policy response has helped Croatia navigate the crisis
+relatively well. In the face of a fluid situation, a proactive and forceful monetary policy has
+succeeded in maintaining the orderly functioning of markets and averting destabilizing
+pressures on the kuna. A revised budget adopted in April provided a more realistic
+framework for 2009. However, downside risks are significant in the period ahead as the
+declining economy and financing constraints start to feed on each other.
+6.
+Against this background, this year’s Article IV consultation focused on ways to deal
+with the current challenges and help the economy to emerge more resilient from the crisis.
+
+5
+Box 1. Croatia’s Reaction to Past IMF Advice
+Croatia and the IMF have an excellent working relationship and a constructive policy dialogue.
+The authorities maintained a tightly managed exchange rate regime, in light of balance sheet
+exposures, and recognized the constraints this imposes on fiscal and structural policies to
+ensure adequate demand restraint and boost export growth and productivity. In this context, the
+headline general government budget balance was reduced in 2007–08, although budget revenue
+overperformance was partially spent, instead of saved as staff recommended. On financial
+sector policies, there was broad agreement on the need to strengthen prudential regulations to
+ensure adequate risk management in banks, but differences emerged on the nature of some
+administrative lending controls that staff advised against. The recommendations of the recent
+FSAP Update have been broadly implemented (Appendix I). On structural reforms, progress
+has been slow and Croatia still lags behind most other peer countries on business environment
+indicators. This said, the recently enacted health care reforms help relieve pressures and bring
+the system closer to sustainability.
+At the time of the 2008 Article IV Consultations (concluded on May 16, 2008), Executive
+Directors welcomed strong economic growth in recent years, accompanied by improvements in
+policies. They noted in particular, the reduction in the general government deficit and
+continued strengthening of financial supervision. Concerns focused mainly on rising external
+imbalances, pointing out to the need for continued policy efforts to mitigate resulting
+imbalances and create an environment conducive to sustained high growth.
+
+II. BALANCE SHEET VULNERABILITIES AND STRAINS
+7.
+Heavy overall indebtedness. The debt burden swelled during a period of easy access
+to domestic and foreign financing. Push and pull
+100
+factors played a role. A prolonged period of
+Croatia: Debt burden, end-2008
+economic expansion and prospects of EU accession 90 (percent of GDP)
+80
+reduced Croatia’s risk premium, pulling in large
+External debt
+Domestic fx debt
+70
+capital inflows, while the increased prospects of
+Domestic lc debt
+income convergence and easy access to domestic
+60
+47
+and foreign financing fueled domestic demand for
+50
+credit. At the same time, cyclical conditions in
+40
+1
+mature markets combined with technological
+30
+15
+26
+21
+innovations in the financial industry pushed
+20
+overwhelming capital flows to emerging Europe,
+11
+22
+10
+13
+12
+including to Croatia. Notwithstanding CNB’s
+8
+1
+0
+efforts to curb credit growth and external
+Non-financial
+Households
+Non-financial
+Banks
+corporates
+public
+borrowing through prudential and administrative
+measures, the corporate and household sectors
+accumulated quickly a heavy debt burden.1
+1
+
+Household debt as a share of GDP is one of the highest among CEE countries.
+
+6
+8.
+Large current account deficits and external debt. While a part of financial inflows
+was in the form of FDI, external borrowing increased rapidly. To some extent, this was an
+inadvertent side effect of measures to rein in domestic credit growth, as corporates switched
+increasingly to external borrowing. Much of the external flows went into consumption and
+nontradables (construction, real estate, and wholesale and retail trade), feeding into higher
+imports and a widening current account deficit. At 83 percent of GDP (200 percent of
+exports), total external debt is relatively large. More importantly, external liabilities maturing
+in 2009 amount to €13 billion (some 29 percent GDP) giving rise to liquidity risks in the
+current adverse financial environment.
+10
+
+Current Account Balance and External Debt, 2008
+(in percent of GDP)
+
+5
+
+RUS
+
+Accommodation
+and food service
+
+Current Account Balance
+
+0
+POL
+UKR
+EST
+ROM
+LIT
+
+11
+
+Wholesale and retail
+trade
+
+HUN
+
+TUR
+-10
+
+-15
+
+9
+
+Professional
+activities
+
+CZE
+-5
+
+External debt by economic activity
+(end-2008, percent of total)
+
+4
+
+Agriculture
+
+HRV
+
+12
+13
+
+Real estate
+LVA
+
+14
+
+Other
+
+SER
+-20
+
+15
+
+Manufacturing
+BGR
+
+-25
+
+22
+
+Construction
+-30
+50
+
+100
+External Debt
+
+150
+
+200
+
+9.
+Rapid credit growth, although more
+contained than in peer countries. Banks,
+mostly foreign owned, were instrumental in
+intermediating capital inflows. With easy
+access to external funding and ample capital
+injections from parent banks—to avoid
+regulatory costs on foreign borrowing—bank
+credit as a share of GDP increased steadily
+from 53 percent in 2002 to 77 percent in 2008.
+About half of the loans were distributed to the
+household sector. While bank loans to the
+corporate sector are sufficiently diversified,
+the share of manufacturing or exportenhancing sectors is relatively small.
+
+0
+
+60
+
+5
+
+10
+
+15
+
+20
+
+25
+
+Private Capital Inflows and Credit Growth, 2004-07
+(cumulative change, in percent of GDP)
+EST
+
+50
+
+LVA
+
+BGR
+40
+Change in Credit
+
+0
+
+LIT
+30
+BOS
+ROM
+
+HUN
+
+20
+RUS
+
+HRV
+CZE
+POL
+
+10
+
+0
+0
+
+20
+
+40
+60
+Net Private Capital Inflows
+
+80
+
+100
+
+10.
+Significant balance sheet exposures to exchange rate risk. Lower interest rates on
+foreign borrowing and foreign currency denominated loans became increasingly attractive for
+private sector borrowers, even if the private sector had no financial or natural hedges. About
+three quarters of corporate debt and 90 percent of household debt are external and foreign
+currency-denominated. Only a small fraction of bank loans (about 5 percent of household and
+9 percent of corporate loans) are hedged. To some extent, high euroization of financial assets
+mitigates these foreign currency exposures. In particular, large foreign currency deposits by
+
+7
+households reduce currency mismatches at the aggregate level, although there could still be
+mismatches at the individual level between borrowers and depositors. Net foreign currency
+liabilities of the nonfinancial corporates remain large at around 50 percent of GDP.
+70
+
+30
+FX Liabilities, end-2008 1/
+(percent of GDP)
+
+Liabilities of non-financial public sector
+
+60
+
+Croatia
+
+25
+
+Croatia: Net FX liabilities of Non-Financial Private Sector, end- 2008
+(percent of GDP)
+
+52
+
+Macedonia
+
+50
+
+20
+Bosnia
+
+Fixed
+
+15
+
+Corporates
+
+40
+
+Floating
+
+Lithuania
+Bulgaria
+
+Latvia
+
+30
+Estonia
+
+10
+
+20
+5
+
+Czech
+Republic
+
+Hungary
+Romania
+
+10
+
+0
+0
+
+50
+
+100
+
+0
+
+150
+
+-5
+Liabilities of non-financial private sector
+
+Households
+
+-2
+-10
+
+1/ Size of the ball represents net liabilities of non-financial private sector,
+ranging from 20 percent of GDP for Czech Republic to 93 percent of GDP for
+Estonia.
+
+Source: CNB, WEO, IFS, and staff estimates.
+
+11.
+Banks are well capitalized but vulnerable. At end-2008, the aggregate capital
+adequacy ratio of the banking sector was 14.5 percent (vs. the regulatory minimum of
+10 percent). This reflected the long-lasting preference of foreign parent banks to inject capital
+in their Croatian subsidiaries rather than to extend loans, which until recently were subject to
+high marginal reserve and foreign currency liquidity requirements. The level of
+nonperforming loans is relatively low (about 5 percent of total loans), with the
+nonperforming loans net of provisions standing at around 12 percent of the capital. These
+good indicators notwithstanding, banks are vulnerable to funding and credit risks.
+
+2
+
+100
+90
+
+90
+Croatia: Western European Banks' Claims, Q3-2008
+
+98 82
+
+80
+
+80
+
+70
+
+70
+
+in percent of total foreign claims
+on Croatia (LHS)
+
+60
+
+in percent of total claims of banks
+from foreign country (LHS)
+
+50
+
+in US$ billion (RHS)
+39
+
+40
+
+50
+40
+
+32
+
+30
+
+28 24
+
+30
+
+21 17
+
+20
+10
+
+60
+US$ billion
+
+Funding risk. While the loan-to-deposit
+ratio of Croatian banks of 113 percent
+compares favorably to that of other
+countries in the region, banks also
+became increasingly dependent on
+foreign funding. About one quarter of all
+bank liabilities is due to nonresidents
+(mainly to parent banks, concentrated in
+Italy, Austria, and Germany).2 This has
+increased their vulnerability to external
+developments and contagion risks, both
+
+percent
+
+•
+
+20
+
+14
+8
+
+5
+
+3
+
+7
+
+6
+
+2
+
+10
+0
+
+0
+European
+banks
+
+Italy
+
+Austria
+
+Germany
+
+Source: BIS databases and IMF staff estimates.
+
+As of end-2008, about 70 percent of the EUR 10 billion external bank debt was owed to parents.
+
+France
+
+8
+directly through their foreign funding needs and indirectly through conditions in their
+parent banks.
+Credit risk. Although bank balance sheet mismatches in foreign currencies or interest
+rate are small, the large currency and interest rate exposures of the private sector
+could translate into credit risk for banks. The results of the most recent stress tests
+conducted by the CNB reaffirm banks’ vulnerability to credit risk, particularly risks
+induced by an exchange rate depreciation.
+80
+
+General Government Gross Debt, end-2008
+
+70
+60
+50
+40
+
+NMS (average)
+
+30
+20
+10
+
+Source: Croatian authorities; IMF, World Economic Outlook
+database; and Fund staff estimations.
+
+III. COMPETITIVENESS CONCERNS
+13.
+A long period of nominal exchange rate stability accompanied by large trade
+deficits raise concerns about the adequacy of Croatia’s competitiveness. These are
+amplified by the recent strong depreciation of several competitor country currencies.
+14.
+The evidence on external competitiveness is mixed. On the one hand, the real
+exchange rate has appreciated only moderately over the past decade compared to other CEE
+countries. Moreover, standard IMF analysis suggests that the real exchange rate is not
+significantly misaligned (Box 2).3 However, the export sector has benefited little from the
+strong capital inflows (including FDI) experienced in recent years, and has been stifled by
+long-standing structural issues, an unfriendly business environment, and relatively high unit
+labor costs (Figure 2). Unlike in neighboring countries, the share of Croatia’s small and
+narrow export sector in GDP remained flat over the past decade, and Croatia’s share in world
+and EU imports has stagnated (Figure 3). As a result, growing imports responding to a
+consumption and inward-oriented investment boom, gave rise to large trade and current
+account deficits. Although the current environment is forcing a significant current account
+3
+
+For a more detailed discussion of longer-term trends in competitiveness, see Republic of Croatia—Staff
+Report for the 2008 Article IV Consultation (IMF Country Report 08/158, May 08); and Republic of Croatia—
+Selected Issues, (IMF Country Report 08/159, May 2008).
+
+Hungary
+
+Poland
+
+Croatia
+
+Czech
+
+Slovakia
+
+Slovenia
+
+Romania
+
+Latvia
+
+Bulgaria
+
+0
+Lithuania
+
+12.
+The public sector balance sheet is
+relatively robust, although less so than
+elsewhere in the region. At around 34 percent
+of GDP, the government’s total debt is
+moderate. About two thirds of this debt is in
+foreign currency. Including liabilities of
+HBOR, a state owned development bank, and
+state guarantees raises the total public debt to
+43 percent of GDP.
+
+Estonia
+
+•
+
+9
+adjustment (trade data for the first two months of 2009 suggest exports falling by 15 percent
+y-o-y and imports declining by a staggering 28 percent), a key challenge ahead is to improve
+tradable sector performance so that it can take up the slack from the nontradable economy.
+
+210
+
+135
+
+CEE Region: Real Effective Exchange Rates
+(2000=100)
+
+130
+
+CEE Region: Nominal Euro Exchange Rates
+(Sep 2008=100)
+Hungary
+
+190
+125
+
+Serbia
+170
+Bulgaria
+150
+
+Romania
+
+Croatia
+110
+
+Romania
+
+110
+105
+
+Croatia
+
+Slovenia
+
+70
+2000 2001 2002 2003 2004 2005 2006 2007 2008 2009
+Jan
+Jan
+Jan
+Jan
+Jan
+Jan
+Jan
+Jan
+Jan
+Jan
+Source: Fund staff calculations.
+
+Serbia
+
+115
+
+130
+
+90
+
+120
+
+100
+95
+Sep-08 Oct-08 Oct-08 Nov-08 Dec-08 Jan-09 Feb-09 Mar-09
+
+10
+
+Box 2. Assessing Croatia’s Real Exchange Rate
+Quantitative estimates of misalignment suggest that Croatia’s real exchange rate is close to its
+equilibrium, with most calculations indicating a modest overvaluation in the 2–3 percent range.
+These point estimates, however, need to be interpreted with caution given large uncertainty
+regarding structural changes and the pattern of capital flows in the years ahead.
+Macroeconomic balance approach. The current account ‘norm’ was estimated based on the
+CGER panel regression coefficients (Croatia is included in the sample used in the panel
+regression). The underlying current
+Table 1: Real Exchange Rate Assessment using CGER methodologies
+account balance assumes that output
+Table 1: Macroeconomic Balance Approach
+gaps in Croatia and trading partners
+Norm _CA
+Norm_NFA1
+Norm_NFA2
+close over the medium-term, and is
+Current account norm (in percent of GDP) 1/
+-2.7
+-2.8
+-2.5
+adjusted for the projected REER
+Underlying current account balance
+(in
+-3.5
+-3.5
+-3.5
+movement. Croatia’s ‘normal’ deficit is percent of GDP) 2/
+Current account elasticity to REER 3/
+-0.33
+-0.33
+-0.33
+about one percent of GDP below the
+Implied REER adjustment
+underlying current account balance,
+(in percent, "+" appreciation)
+-2.5
+-2.0
+-2.8
+implying an overvaluation of the
+1/ Current account norm corresponds to a CA level that is consistent with a specific set of economic fundamentals;
+"Norm_CA" and "Norm_NFA" are computed using the panel regression estimates for two model specifications,
+exchange rate of 2.5 percent.
+with lagged current account balance and initial NFA position, respectively.
+current account balance assumes that both domestic and foreign output gaps are closed
+Alternative measures for the norm that 2/andUnderlying
+is adjusted for the projected REER movement during 2009-2014.
+3/ CA elasticity to the RER is computed using the standard long-run exchange rate elasticities for imports (0.92)
+rely on Croatia’s NFA position rather
+and exports (- 0.71), as well as exports and imports of goods and services (in percent of GDP) over 2000-08.
+than its lagged current account balance
+as key fundamental do not change the picture qualitatively.
+External sustainability approach. The extent of exchange rate misalignment was assessed by
+(i) computing the difference
+Table 2: Benchmark NFA stabilizing CA balance (in percent of GDP)
+between the underlying
+Real GDP growth assumptions
+Implied REER change
+(baseline) 1/
+current account and the
+5.0
+Baseline 4.0
+3.0
+2.0
+current account that would
+NFA benchmarks
+-74 percent of GDP (Q3, 2008)
+-5.2
+-4.6
+-4.0
+-3.4
+3.3
+stabilize the NFA position of
+-65 percent of GDP (2004-08 average)
+-4.8
+-4.2
+-3.7
+-3.1
+2.1
+the country at some
+-34 percent of GDP (EM average)
+-2.5
+-2.2
+-1.9
+-1.6
+-3.8
+benchmark level; and
+1/ In percent, "+" implies appreciation.
+(ii) translating this difference into an exchange rate adjustment consistent with bringing the CA
+balance to its NFA-stabilizing level. Acknowledging the difficulties involved in determining an
+adequate NFA target with precision, the table above shows equilibrium current account balances
+for a variety of plausible levels conditional on the economy’s growth performance. The analysis
+suggests that even in the case of a very conservative NFA target of -34 percent of GDP, which is
+less than half of Croatia’s current NFA level, the degree of exchange rate overvaluation would
+remain below 5 percent.
+
+11
+IV. MACRO-FINANCIAL CHALLENGES
+15.
+The combination of adverse feedback loops between vulnerabilities, primarily in
+private balance sheets, deteriorating financial conditions and a weakening economy, give rise
+to a number of policy challenges in the period ahead.
+A. External Funding and Financial Stability
+16.
+While the impact of the global financial turbulence on Croatia was relatively
+limited in the first part of 2008, financial pressures intensified quickly in the second half
+of the year.
+•
+
+Financial asset prices became very volatile after October 2008, sovereign spreads shot
+up, and the Zagreb stock market plunged (Figure 4).
+
+•
+
+External financing conditions tightened and the strong inflow of private external debt
+came to an abrupt halt in late 2008.
+12,000
+
+10,000
+
+3,500
+
+Foreign
+liabilities
+
+3,000
+2,500
+
+8,000
+
+2,000
+Foreign assets
+
+1,500
+
+6,000
+
+1,000
+500
+
+4,000
+
+0
+Change in foreign
+assets, m/m
+(RHS)
+
+2,000
+
+-500
+-1,000
+Mar-09
+
+Jan-09
+
+Feb-09
+
+Dec-08
+
+Oct-08
+
+Nov-08
+
+Sep-08
+
+Jul-08
+
+Aug-08
+
+Jun-08
+
+Apr-08
+
+May-08
+
+-1,500
+Mar-08
+
+0
+Feb-08
+
+Financial market jitters, including
+uncertainties about the financial
+health of parent banks, escalated to a
+mini bank run in October. Domestic
+banks responded to these pressures
+by increasing their foreign financing
+and, since January, by drawing down
+their foreign assets, facilitated by
+regulatory changes.
+
+Jan-08
+
+•
+
+4,000
+
+Banks' foreign assets and liabilities
+(EUR, million)
+
+17.
+In the fragile post-October environment, monetary policy was geared to support
+financial stability and maintain a broadly stable kuna. The CNB addressed emerging
+liquidity shortages through active use of regulatory requirements and repo auctions, while it
+maintained policy rates (the repo auction rate) broadly stable at 6 percent (Box 3 for a list of
+measures). This together with intermittent intervention that resulted in a reserve loss of
+€0.9bn between September 2008 and March 2009 succeeded in stabilizing markets,
+strengthening confidence, and limiting the depreciation of the kuna against the euro
+(Figure 5). More recently, and particularly in late March and April, market sentiment started
+to show signs of improvement, spreads declined from their recent highs, and the exchange
+rate appreciated somewhat since March 2009.
+
+12
+18.
+Notwithstanding this welcome improvement, Croatia’s external financing needs
+are large and represent a key risk. Banks and 20 External financing need, 2009
+(euro billions)
+18
+the corporate sector need to meet significant
+16
+repayment obligations. Thus far, banks and
+14
+most large firms have been able to roll over
+maturing debt, albeit at a higher price than in
+12
+the pre-crisis environment. This indicates
+10
+continued willingness of foreign parent
+8
+institutions to maintain their exposure to
+6
+Croatia. But small and medium-sized
+4
+companies have found it increasingly difficult to 2
+raise new financing. For them, HBOR has
+0
+Total
+Corporates
+Banks
+Current
+Public sector
+started to offer a variety of working capital and
+account
+other facilities.
+Source: CNB, IMF staff estimates.
+Box 3. Financial Measures in Response to the Crisis
+•
+
+The amount of guaranteed bank deposit was increased from HRK 100,000 (€14,000) to
+HRK 400,000 (€56,000) in October 2008, after banks experienced a spate of household deposit
+withdrawals. In addition, the parliament authorized the government to increase the limit further
+if necessary. Together with adequate support from the CNB and parent banks, this measure
+helped stop and reverse deposit withdrawals.
+
+•
+
+The marginal reserve requirement on banks’ foreign borrowing was eliminated in
+October 2008. This facilitated attraction of new funds from parent banks abroad.
+
+•
+
+The general reserve requirement was reduced from 17 percent to 14 percent in December 2008,
+and the foreign currency liquidity ratio was lowered in three steps from 32 percent in May 2008
+to 20 percent, releasing liquidity in the system. In February, the CNB increased the limit on
+banks’ open foreign exchange position from 20 percent to 30 percent. The resulting increase in
+bank liquidity helped stabilize the foreign exchange market and improve domestic credit
+conditions, and facilitated a €750 million syndicated loan of six domestic banks to the
+government.
+
+•
+
+The CNB has tightly managed kuna liquidity through its weekly reverse repo transactions. In
+December 2008, the CNB increased the kuna share of allocation of reserve requirements on FX
+deposits from 50 percent to 75 percent to boost demand for kuna. These measures helped
+reduce selling pressure on the kuna, at the expense of increased volatility of interest rates on the
+interbank money market.
+
+•
+
+In November 2008, the CNB simplified rules for bank access to the emergency liquidity
+assistance. This provided a signaling effect on the capacity of the CNB to act quickly, even
+though this facility has not been used so far.
+
+•
+
+The government stepped up efforts to secure funds for the state development bank, HBOR,
+from international institutions to support exporters and SMEs.
+
+•
+
+The authorities impressed upon banks the importance of keeping their profits in Croatia.
+
+13
+B. Public Finances Under Pressure
+19.
+Revenues have been weakening rapidly and budget financing has turned
+increasingly difficult (Table 2).
+•
+
+While revenue was buoyant for most of 2008, this situation turned around in
+late-2008. Tax revenue, particularly VAT and excises, started to underperform
+reflecting collapsing trade volumes and softening economic activity. For 2008 as a
+General Government Operations
+whole, revenues fell short of
+-4.0
+Headline general government fiscal balance,
+the budget target by more
+-3.5
+Fiscal balance, broader measure 1/
+than 1 percentage points of
+Cyclically adjusted primary balance, broader definition 1/
+-3.0
+GDP.
+-2.5
+
+•
+
+In response, the authorities
+-2.0
+reduced cash spending in late -1.5
+2008, mainly on goods and
+-1.0
+services. But payment
+-0.5
+discipline also started to
+2006
+2007
+2008
+suffer, and the stock of
+Source: Croatian authorities; and Fund staff estimations.
+1/ Includes quasi-fiscal operations of HBOR and HAC, state-owned
+arrears increased to about
+development bank and road company, as well as the so-called
+½ percent of GDP at endrepayment of pensioners' debt.
+2008.4 Overall, the general
+government budget deficit declined to 0.9 percent of GDP, compared with the budget
+target of 1.1 percent of GDP.
+
+•
+
+Revenue underperformance continued in 2009. Budgetary pressures and lack of
+access to foreign financing forced the government to increase its domestic borrowing,
+increasingly in foreign currency.
+
+•
+
+The authorities initially adopted a general government deficit target of 0.9 percent of
+GDP for 2009, but the worsening economic outlook made the budget approved in late
+December 2008 increasingly untenable. A revised budget was approved in April (see
+discussion in ¶38).
+C. Credit Constraints and Solvency Concerns
+
+20.
+Domestic credit growth has held up, but headline numbers mask a significant
+shift in the structure of credit. Since December 2008, government borrowing has increased
+significantly, offsetting a steady retrenchment of lending to households (Table 3). Corporate
+borrowing has remained high, as corporates have increasingly shifted toward domestic
+sources of financing. In the absence of new foreign funding, bank competition for deposits
+
+4
+
+Most of the arrears relate to overdue payments for goods and services.
+
+14
+has increased. In March–April, interest rates on new deposits doubled to 6.5–7 percent from
+3.7 percent in September 2008.
+40
+
+40 20
+
+Real private sector credit
+(percent change, yoy)
+
+35
+
+35 18
+
+Emerging
+Europe
+
+30
+
+30
+25
+
+15
+
+15
+
+10
+
+10
+
+20
+
+Domestic
+credit
+
+Enterprises
+
+0
+-20
+
+2
+
+Government, RHS
+Mar-09
+
+Jan-09
+
+Feb-09
+
+Dec-08
+
+Oct-08
+
+Nov-08
+
+Sep-08
+
+Jul-08
+
+Aug-08
+
+Jun-08
+
+Apr-08
+
+-40
+May-08
+
+0
+Jan-08
+
+Nov-08
+
+Sep-08
+
+Jul-08
+
+May-08
+
+Mar-08
+
+Jan-08
+
+0
+Nov-07
+
+0
+Sep-07
+
+6
+
+Mar-08
+
+5
+
+Jul-07
+
+40
+
+8
+
+Feb-08
+
+5
+
+May-07
+
+60
+
+12
+
+4
+
+Croatia
+
+Jan-07
+
+80
+
+20 10
+
+Baltics
+
+Mar-07
+
+100
+
+Households
+
+16
+14
+
+25
+20
+
+120
+
+Croatia: Domestic credit
+(percentage change, y/y)
+
+21.
+Lending conditions are likely to become tighter. With increased public sector
+demand for credit, tightening lending standards, and higher risk aversion, credit constraints
+are likely to emerge. Corporates (households) are likely to experience pressures on both sides
+of their balance sheet as sales (income) come under pressures while the cost of funding has
+increased. The deepening recession and tightening of funding conditions will likely cause
+nonperforming loans to increase.
+22.
+The intensification of financial euroization is a reflection of higher risk
+perceptions. Foreign currency deposit now accounts for over 60 percent of all deposits, and
+almost all new lending in 2009 is linked to foreign currencies (Figure 6).
+Financial euroization is intensifying, with all new credit
+being euro-linked...
+100%
+90%
+
+...and bank deposits increasingly shifting towards foreign
+currency.
+25
+
+Loans in CHF
+Loans in USD
+
+80%
+
+Croatia: Growth in bank deposits
+(percent, y/y)
+
+20
+
+FX deposits
+(adj. for
+HRK/EUR)
+
+15
+
+70%
+
+10
+
+60%
+50%
+
+Total deposits
+
+5
+
+Loans in EUR
+
+0
+
+40%
+
+-5
+
+30%
+
+-10
+
+20%
+Loans in HRK
+
+10%
+
+Kuna deposits
+
+-15
+
+0%
+
+Mar-09
+
+Feb-09
+
+Jan-09
+
+Nov-08
+
+Dec-08
+
+Oct-08
+
+Sep-08
+
+Aug-08
+
+Jul-08
+
+Jun-08
+
+May-08
+
+Apr-08
+
+Mar-08
+
+Feb-08
+
+Jan-08
+
+Dec-08
+
+Jun-08
+
+Dec-07
+
+Jun-07
+
+Dec-06
+
+Jun-06
+
+Dec-05
+
+Jun-05
+
+Dec-04
+
+Jun-04
+
+Dec-03
+
+Jun-03
+
+Dec-02
+
+Jun-02
+
+Dec-01
+
+-20
+
+15
+V. OUTLOOK
+23.
+With the global environment and domestic conditions unsettled, projections are
+subject to an unusual high degree of uncertainty. Real GDP growth has been marked
+down to -3.5 percent for 2009 on the back of declining consumption and investment. As
+prospects for a recovery in Europe and normalization of financial markets are fragile, growth
+is expected to remain subdued in 2010 (0.3 percent), weighed down further by weak
+domestic demand conditions (Table 4). Inflation is projected remain low in the coming years
+(under 3 percent), in view of downward pressures on prices from the output gap.
+24.
+The current account deficit is projected to shrink considerably, but would still
+leave significant external financing needs, exceeding €16 billion in 2009 and €13 billion
+in 2010 (Tables 5–7).
+•
+
+Private capital inflows are projected to cover most of the external financing needs.
+These would decline sharply but remain positive, with (i) sizable FDI inflows
+reflecting mainly retained earnings of foreign banks and corporates; (ii) a moderate
+drawdown of bank foreign assets; and (iii) rollover of about 90 percent of maturing
+debt, reflecting recent experience and strong commitments from parent firms to
+maintain exposure to local subsidiaries and corporate clients. The public sector is
+assumed to place a eurobond and increase its access to financing from the World
+Bank, the European Investment Bank, and other multilaterals. External financing
+conditions would normalize in 2010. Under these assumptions, central bank reserves
+would fall by about €1.6 billion in 2009 and €0.6 billion in 2010.
+
+•
+
+Potential deviations from this path are possible, both on the upside but particularly on
+the downside if the ongoing global financial turmoil were to persist or deepen. An
+alternative scenario highlights the sensitivity of the outlook to changes in the behavior
+of Croatia’s foreign creditors. Assuming that banks could only rollover 85 percent
+and non-FDI corporates only 60 percent of their long-term debt (and 95 percent and
+80 percent of their respective short-term debt) in the remainder of the year (with
+assumptions for the current account and FDI unchanged), the loss of central bank
+reserves would increase to €2.5 billion in 2009, reducing the reserve cover of shortterm debt (by residual maturity) to about 60 percent.
+
+25.
+The authorities broadly agreed with the risk assessment in the staff’s analysis.
+Ministry of Finance officials considered that a softer growth downturn of about 2 percent
+could still be possible, based on expectations of stronger recovery in the second half of the
+year. CNB officials, however, were more pessimistic, concerned with downside risks, and
+expect a GDP contraction of 4 percent. Private sector forecasts ranged between -2 and
+-5 percent while the consensus forecast centered at -3 percent. The authorities considered the
+staff’s financing assumptions under the baseline and particularly under the alterative scenario
+to be overly pessimistic.
+
+16
+Lower capital accumulation will need to be compensated by higher TFP
+
+26.
+Over the medium-term,
+h
+Croatia: Contributions to real GDP growth
+growth is expected to resume, but is 5.0 (percent)
+unlikely to recover to the pre-crisis
+trend. With capital inflows and capital 4.0
+TFP, 1.2
+accumulation below their recent boom
+TFP, 1.2
+levels potential output is likely to stay 3.0
+Labor, 0.7
+below the pre-crisis levels even with a
+Labor, 0.5
+favorable contribution from total factor 2.0
+productivity. To achieve historical growth
+Capital, 2.6
+Capital, 2.1
+rates of 4–5 percent over the medium- 1.0
+term, the competitiveness of the
+0.0
+economy needs to improve
+2002-2008
+Medium term
+considerably.
+Source: CROSTAT, IMF staff estimates.
+VI. POLICY DISCUSSIONS
+
+27.
+Given the risks in the current juncture, discussions centered on policies to increase the
+resilience of the economy to the ongoing turmoil and reduce vulnerabilities.
+A. Preserving Market Stability and Anchoring Expectations
+28.
+Exchange rate and financial stability remain at the center of the authorities’
+policies. They view these two as interlinked and inseparable objectives. While some limited
+exchange rate flexibility has been allowed in recent months, the authorities are determined to
+avoid a sharp exchange rate depreciation that could lead to large balance sheet effects
+undermining financial stability and cause a sharp adjustment in inflation expectations. They
+are aware that the large current account deficits in recent years would need to be reduced to
+more sustainable levels. But they noted that fiscal consolidation to contain domestic
+absorption and structural reforms to improve export competitiveness and support shifting
+resources from the nontradable to the tradable sector can help deliver this adjustment.
+29.
+Staff acknowledged the difficult trade-offs involved in deciding on the exchange
+rate policy. On the one hand, the existing policy has provided a valuable nominal anchor,
+there is little evidence of a significant exchange rate misalignment, and a sharp depreciation
+could have large balance sheet effects. On the other hand, rising labor costs in combination
+with exchange rate depreciation in some neighboring countries risk eroding competitiveness,
+hampering growth potential, and widening imbalances in the future. Staff emphasized that
+the authorities’ exchange rate strategy would require securing adequate external financing
+and strong macroeconomic policies to bolster market confidence. In addition, crisis
+management should not detract from the urgent need to make swift progress with structural
+reforms.
+
+17
+30.
+In the near term, a cautious monetary policy would be required until balance of
+payment pressures abate. The CNB’s active liquidity management through repo auctions
+and Lombard loans and relaxation of reserve and liquidity requirements have helped alleviate
+tensions. But staff noted that the recent practice of setting the repo rate and rationing the
+amount auctioned has led to a nontransparent system and increased interbank market rate
+volatility. Staff and the authorities agreed that overall liquidity conditions in the banking
+system would need to remain tight, constrained by the need to reduce pressures on the kuna.
+Bolstering market confidence is key, including to help prevent further financial euroization.
+The latter increases currency risks, undermines the effectiveness of monetary policy, and
+limits policy options down the road. Staff viewed the recent increase in the kuna share of
+allocation of reserves requirements on FX deposits and lowering of the foreign currency
+liquidity ratio as steps in the right direction, providing stronger disincentives to further
+euroization.
+31.
+Tight liquidity conditions, increasing risk premia, and a more cautionary
+attitude by banks would likely constrain credit growth. So far, credit growth has been
+strong, but could slow down considerably in the period ahead. While the CNB reduced
+reserve requirements to ease banks’ lending constraints, the ability of monetary policy to
+respond to domestic credit conditions should be carefully weighed against exchange rate
+pressures. In this context, fiscal policy would need to be supportive of monetary policy
+objectives and the public sector’s borrowing needs should be contained to avoid crowding
+out private sector lending.
+B. Preparing the Banking Sector for a Difficult Period Ahead
+32.
+Aided by tight prudential requirements, banks entered the crisis with relatively
+strong profitability and capital positions. Strong prudential ratios, including high liquidity
+requirements and risk weighting for foreign currency lending, have generated a cushion for
+banks (Figure 7, Table 8).
+33.
+Although the banking sector has been resilient, it remains vulnerable to liquidity
+risks. The CNB has intensified its monitoring of liquidity and credit risks and is prepared to
+intervene, if necessary, in case of adverse liquidity shocks. Reserve requirements provide
+partial liquidity cover of banks’ liabilities and therefore some protection in the event of
+liquidity pressures. To expand policy space, the authorities have also simplified and
+enhanced access of banks to the CNB’s emergency liquidity assistance window.
+34.
+The authorities recognize the crucial importance of securing high roll-over rates
+on maturing external liabilities to reduce banks’ liquidity risk. To this end, they maintain
+close cooperation with foreign parent banks and their home supervisors. Through the first
+quarter of 2009, the roll-over rates on liabilities to parent banks have been around
+100 percent. But in the current unsettled environment, the prospects of smooth refinancing
+can not be assured, including because of regional spillovers, and, therefore, continued
+vigilance would be required.
+
+18
+35.
+The weak macroeconomic outlook requires preventive measures to strengthen
+the banking sector. The economy is in unchartered waters, with a dramatic downturn at a
+time when corporate and household leverage are at historic high levels. Banks credit
+portfolios are likely to weaken in the period ahead. The authorities have strengthened their
+stress testing capabilities and have updated these tests recently.5 However, the underlying
+assumptions still remain optimistic relative to the economic outlook. It would be important
+that the authorities undertake a diagnostic review of the financial condition of all individual
+Croatian banks, based on stress tests to identify banks which need to enhance their capital
+buffers. These should be required to present a viable program to increase their capital. To
+avoid a negative impact on credit growth, the capital increase should be achieved by further
+injections by shareholders. In this regard, staff welcomed the intention of the largest banks to
+restrict dividend payments.
+36.
+The authorities have taken steps to improve preparedness to manage a potential
+crisis. The CNB should continue to monitor closely bank risk management policies and
+lending standards, in order to be able to promptly address any emerging risks. At the same
+time, the framework for resolution of troubled assets should be upgraded. The authorities
+should proceed with the planned adoption of the new foreclosure law which would help
+speed up the resolution of bankruptcies. An efficient foreclosure framework, including
+through the introduction of private bailiffs, which is envisaged under this new law, would
+complement the voluntary restructuring of problem loans through refinancing and
+lengthening of maturities, as contemplated by banks as a first line of defense against the
+anticipated increase in distressed assets
+37.
+The planned formalization of the interagency coordination on crisis
+preparedness and management should be advanced. While many elements of Croatia’s
+contingency framework to deal with banks in distress are consistent with international best
+practices, there is no formalized mechanism for interagency coordination on crisis
+preparedness and management.6 A memorandum of understanding between various agencies
+dealing with financial stability issues (Ministry of Finance, CNB, HANFA, and deposit
+insurance fund) is currently under preparations, and is expected to be adopted shortly. As
+other countries’ experience shows, having an ex ante formalized mechanism for
+communication among authorities should facilitate effective action.
+
+5
+
+The most recent stress tests conducted by the CNB based on the end-September 2008 data show that banking
+sector resilience to macroeconomic shocks is strong. In a scenario of 2 percent decline in GDP and a 10 percent
+depreciation of the exchange rate, the nonperforming loan ratio would increase by 120 percent from its low
+base, but the capital adequacy ratio would fall by only 2.2 percentage points (see details in the CNB's Financial
+Stability Report, No 2, 2009).
+
+6
+
+Recent amendments to the laws on credit institutions and deposit insurance addressed a number of
+weaknesses. For example, the legal protection of the CNB was strengthened and the timeline for payments of
+insured deposits was shortened.
+
+19
+C. Fiscal Discipline Remains Key
+38.
+The revised budget adopted in
+April is targeting a general government
+budget deficit of 1.6 percent of GDP.
+Compared with the original budget,
+revenues are projected to decline by
+2.9 percentage points of GDP, mainly on
+account of lower VAT and social security
+contributions. Spending is set to decline by
+2.2 percentage points of GDP, through a
+wide range of spending cuts, including a
+freeze of salaries of civil servants and state
+employees.7
+
+Central Government: Differences between the Original and
+the Revised 2009 Budget Plans.
+(In millions of kunas)
+Revenue shortfall
+
+8,033
+
+Expendture savings
+Current
+Compensation of employees
+of which: salaries
+Use of goods and services
+Subsidies
+Grants
+Social benefits
+Other
+
+5,413
+4,798
+1,389
+1,029
+883
+318
+520
+709
+972
+
+Capital
+Difference
+
+615
+-2,620
+
+Sources: Croatian authorities; and Fund staff estimates.
+
+39.
+Staff agreed that the deficit target, which implies a cyclical tightening of
+1 percent of GDP in 2009, was broadly appropriate. Croatia’s vulnerable external
+position, tight domestic financing conditions, and the need to preserve space for crisis-related
+contingencies leave little room for a more accommodative stance.
+40.
+However, a more negative macro outlook than assumed in the budget would
+result in a higher deficit. Staff considered that the deficit could exceed 2.0 percent of GDP,
+and the discussions focused on risks to budget execution. In particular, the budget is
+optimistic in the VAT collection projections and the recent sharp decline in VAT revenues
+shows their sensitivity to the economic cycle. Social security contributions may also be lower
+than envisaged in the budget, reflecting the rapidly weakening economy. Broader tax
+collection efforts could also weaken in the downturn. On the other hand, pressure for more
+government spending is very strong. Staff urged the authorities to rein in spending
+commitments to achieve the budget deficit objective and avoid the re-emergence of public
+sector arrears, which can have damaging ripple effects throughout the economy, undermining
+payment discipline. In this context, staff welcomed the recent health sector reforms to
+improve cost recovery, including through income-tested increase in co-payments and premia,
+aimed at reducing the stock of overdue payments.
+41.
+To prevent a higher deficit, a strategy should be developed to: (i) contain a
+possible decline in taxpayers’ compliance, including by public enterprises, focusing on
+highest revenue risks and improving tax administration; and (ii) develop contingency
+measures that could be adopted quickly with a supplementary budget. Spending restraint
+should be the lynchpin of any adjustment since the expenditure-to-GDP ratio in Croatia is
+among the highest in the region, while the tax burden is among the heaviest, discouraging
+7
+
+The 6 percent annual wage increase granted in 2006 as part of a three-year agreement with the labor unions
+was suspended until GDP growth exceeds 2 percent for two consecutive quarters.
+
+20
+employment and labor force participation. Possible measures include curtailing subsidies;
+improving cost recovery for social services; containing the growth of privileged pensions;
+better targeting social benefits while protecting the most vulnerable; and scaling back the
+public investment program. The authorities noted recent improvements in tax collection and
+the increase in the assessment base for social welfare in line with previous staff advice. They
+argued that the introduction of tax identification numbers (TIN) and the ongoing upgrading
+of information technology at the tax administration office would further support tax efforts
+and help better target social benefits.
+42.
+The budget deficit should be financed without putting undue stress on the
+banking system. Staff estimates the gross financing requirement at about 11 percent of GDP,
+to which the borrowing requirement of public enterprises for quasi-fiscal operations would
+add another 2 percent of GDP. Of this, short-term treasury bills account for about 5 percent
+of GDP, which are rolled over as they mature. The February syndicated loan and a planned
+eurobond placement in May would cover about 3½ percent of GDP, leaving a residual
+borrowing need for the general government of about 2½ percent of GDP. To avoid crowding
+out private sector credit, the authorities should advance their efforts to increase absorption of
+EU and World Bank funds.
+43.
+The authorities agreed that a supplementary budget might be needed, but stated
+that it was too early to have another revision to the budget. They explained that they
+would pursue further expenditure cuts even without a supplementary budget to avoid a
+significant deviation from the budget balance, pointing to the experience in late 2008, when
+spending cuts more than offset the underperformance of revenues and reduced the budget
+deficit below the 2008 budget plan target.
+44.
+For 2010, there was agreement that the fiscal policy stance needs to be
+supportive of the overall policy framework and bolster the structural fiscal position.
+The authorities have not yet announced their specific intentions for 2010 given large
+uncertainties ahead. Staff’s baseline projections suggest that a (headline) deficit of
+2½ percent of GDP could be reached by a modest structural improvement. However, staff
+noted that structural reforms would be needed to put public debt back on a declining path and
+roll back the weight of the public sector in Croatia’s economy. Given the large share of
+entitlements in the budget, civil service reform and rationalization of the structure of
+government operations is urgently needed. In addition, the restructuring of loss-making SOEs
+should be advanced to reduce subsidies on a permanent basis. Finally, while the pension
+system needs to be reformed, staff urged the authorities to refrain from changing the second
+pillar of the pension system. This could have a devastating effect on already battered capital
+markets and erode investor confidence. Instead, staff recommended reforming the pay-asyou-go Pillar I of the pension system to ensure its sustainability in line with recommendation
+of the 2008 IMF report on expenditure rationalization.
+
+21
+D. Advancing Structural Reforms
+45.
+Staff and the authorities agreed about the need to accelerate structural reforms.
+In an environment of reduced capital inflows, productivity needs to improve to achieve
+growth rates in excess of 4 percent over the medium term as envisaged by the authorities.
+There was agreement that the emphasis needs to be given to judicial and administrative
+reforms and anti-corruption measures (key areas for strengthening the business environment),
+as well as restructuring and privatization of loss-making SOEs, and improving flexibility in
+labor markets (Figure 8). On the latter, staff recommended reforms to address incentive
+structures both on the (labor) supply and demand side, including measures to reduce
+significant labor supply disincentives (e.g., incentives for early retirement and very generous
+benefits for parts of the labor force); and measures to boost labor demand by reducing
+rigidities in the formal labor market, which are large by regional standards.8 On SOEs, staff
+welcomed the authorities’ intention to restructure and privatize the shipyards in 2009 and
+urged the authorities to accelerate the restructuring and final privatization of the subsidiaries
+of the railroad company and state assets held in the Privatization Fund.9
+VII. STAFF APPRAISAL
+46.
+Croatia’s recent solid growth performance has been disrupted by the worst
+global crisis in sixty years. Confronted with strong headwinds from the regional downturn
+and the still unsettled financial markets, domestic demand and trade flows are declining
+rapidly and labor markets have begun to soften. Growth is expected to decline by about
+3.5 percent in 2009, and to remain sluggish in 2010.
+47.
+In this fragile juncture, economic and financial stability hinges crucially on the
+maintenance of strong policies. Private sector indebtedness swelled during a period of
+ample liquidity, with a large part of the financing supporting consumption and nontradable
+sectors. Now, vulnerable private sector balance sheets and significant external financing
+needs pose risks and constrain policy flexibility. The authorities have the difficult task of
+facilitating an orderly private sector adjustment to more sustainable levels of current account
+deficit and debt, while cushioning the impact of the crisis. They are determined to keep the
+kuna broadly stable. In this period of heightened uncertainty, the current exchange regime
+provides a useful anchor. But it is also constraining other policies and limits policy space to
+cushion the downturn. Most importantly, it needs to be supported with adequate external
+financing, continuing efforts to limit the financing needs of the public sector, and a faster
+pace in implementing structural reforms to help the recovery and lessen future external
+imbalances.
+
+8
+
+While some progress has been made in increasing labor market flexibility, Croatia has unusually low
+participation and employment rates, as well as high rates of youth and long-term unemployment.
+
+9
+
+As of April 2009, the fund’s portfolio comprised 850 companies, in 87 of which the state is a majority owner.
+
+22
+48.
+Monetary policy has been supportive of external and financial stability. The
+policy stance has been tight, while the CNB’s liquidity management operations through repo
+auctions and loans and changes in the reserve and liquidity requirements have helped
+alleviate liquidity pressures. Cautionary policy should continue until external pressures abate.
+49.
+The authorities have rightly focused on ensuring adequate external financing.
+High debt rollovers are needed to protect bank and corporate balance sheets and thus support
+financial stability and a stable exchange rate. The CNB should continue to monitor banks’
+debt exposures and maintain already close cooperation with home supervisors of foreign
+parent banks. Going forward, rollover risks may become more pronounced particularly in the
+corporate sector, including public enterprises. In this regard, it would be important to track
+developments closely, using the CNB’s monitoring system to obtain relevant information on
+banks and their most important corporate clients.
+50.
+The financial sector needs vigilant supervision, larger capital buffers, and
+measures to strengthen the contingency framework to deal with banks in distress.
+Although bank solvency ratios remain satisfactory, the economic downturn will weaken bank
+credit quality and increase vulnerabilities. Staff encourages the authorities to undertake a
+diagnostic review of the financial conditions of all banks, and those with potential
+recapitalization needs should be asked to raise their capital buffers. The authorities should
+also proceed with upgrading the framework for resolution of troubled assets and the adoption
+of the new foreclosure law to speed up resolution of corporate and household bankruptcies.
+Many elements of the contingency framework are consistent with international best practice.
+However, the authorities should proceed quickly to adopt a memorandum of understanding
+on crisis preparedness and management coordination between various agencies dealing with
+financial stability issues to facilitate an effective response if needed.
+51.
+A strong fiscal policy is key to weathering the crisis. The revised budget deficit
+target is appropriate under current circumstances. A cyclical tightening was necessary in
+view of tight external conditions and the risk of government financing crowding out lending
+to the private sector. Were the creditworthiness of the government to come into question, risk
+premia would increase, financing conditions would worsen, and pressures on the currency
+would intensify. To achieve the current fiscal target and avoid the re-emergence of public
+sector arrears, the authorities will need to rein in spending commitments, including through a
+supplementary budget; and develop a strategy to contain a possible decline in taxpayers’
+compliance. The financial situation of public enterprises should be carefully monitored to
+reduce risks from contingent liabilities.
+52.
+A credible fiscal position is needed to ensure medium-term sustainability and
+maintain market confidence. Reducing budget rigidities and rationalizing public spending
+while improving the quality of public services will go a long way toward durably scaling
+back the weight of the government in the economy. There is room in 2009 for starting with a
+civil service reform, and rationalization of the structure of government operations. Other
+desirable measures include improving cost recovery for social services, advancing the
+restructuring of loss making SOE to reduce subsidies, streamlining social spending by
+
+23
+making use of the recently adopted tax identification numbers, and reforming the first pillar
+of the pension system to help ensure its sustainability.
+53.
+Crisis management should not detract from the need to tackle long standing
+structural shortcomings. The economy needs to emerge from the current juncture more
+resilient and dynamic. To help raise potential growth and narrow the current account deficits,
+faster and deeper reforms are needed to reorient the economy towards the tradable sector.
+This involves notably raising labor productivity and improving the business environment.
+The privatization of loss making SOEs also needs to be completed swiftly. In this regard, the
+restructuring and privatization of the shipyards in 2009 would send a strong signal to
+investors, support ongoing EU accession negotiations, and help contain the significant drain
+on the public resources.
+54.
+
+It is proposed to hold the next Article IV Consultation on a 12-month cycle.
+
+24
+
+Figure 1. Croatia: Macroeconomic Developments, 2004–08
+Growth slowed sharply in late 2008...
+10.0
+8.0
+
+…on the back of weakening domestic demand...
+22.0
+
+Real GDP
+(Y-o-y percent change)
+
+20.0
+18.0
+16.0
+14.0
+
+6.0
+
+Croatia
+NMS-10 average
+
+0.0
+-2.0
+2004q1
+
+2005q1
+
+2006q1
+
+2007q1
+
+Consumption
+Investment
+
+12.0
+10.0
+8.0
+6.0
+4.0
+2.0
+
+4.0
+2.0
+
+Real Consumption and Investment
+(Y-o-y percent change)
+
+0.0
+-2.0
+-4.0
+2004q1
+
+2008q1
+
+2.0
+
+Merchandise Trade
+(Y-o-y percent change)
+
+50
+
+2006q1
+
+2007q1
+
+2008q1
+
+The contribution of net exports to GDP
+remains negative.
+
+and collapsing external demand.
+70
+
+2005q1
+
+Exports
+
+1.5
+
+Contribution to GDP Growth
+(In percent)
+
+Imports
+30
+
+1.0
+
+10
+
+0.5
+
+-10
+
+0.0
+
+Real net exports
+
+-0.5
+
+-30
+
+-1.0
+Jan-09
+
+Aug-08
+
+Mar-08
+
+Oct-07
+
+May-07
+
+Dec-06
+
+Jul-06
+
+Feb-06
+
+Sep-05
+
+Apr-05
+
+Nov-04
+
+Jun-04
+
+-50
+
+-1.5
+2004q1 2004q4 2005q3 2006q2 2007q1 2007q4 2008q
+
+…and retail sales are plummeting.
+
+Industrial production...
+15.0
+
+20.0
+
+10.0
+
+15.0
+
+5.0
+
+10.0
+
+0.0
+
+5.0
+
+Croatia
+
+-5.0
+
+NMS-10 average
+
+0.0
+
+Real Industrial Production
+(Y-o-y percent change, swda)
+
+-10.0
+
+Real Retail Trade
+Volume
+
+-5.0
+
+-15.0
+
+Source: Haver; and Fund staff estimations.
+
+Dec-08
+
+Dec-07
+
+Dec-06
+
+Dec-05
+
+Dec-04
+
+Dec-03
+
+Feb-09
+
+Aug-08
+
+Feb-08
+
+Aug-07
+
+Feb-07
+
+Aug-06
+
+Feb-06
+
+Aug-05
+
+Feb-05
+
+Aug-04
+
+Feb-04
+
+-10.0
+
+25
+Figure 2. Croatia: Inflation and Wage Developments, 2001–09
+(Year-on-year percentage changes)
+…reflecting declining energy and food prices and
+softening demand.
+
+Consumer price increases have moderated...
+10
+
+10
+
+8
+
+8
+
+CPI
+Core CPI
+
+80
+
+80
+
+60
+
+60
+
+40
+
+40
+
+20
+
+20
+
+0
+
+0
+
+6
+
+6
+
+4
+
+4
+
+2
+
+2
+
+-20
+
+-20
+0
+
+0
+
+-2
+2001
+
+-2
+2002 2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008 2009
+
+-60
+2006
+
+Real wage increases have been contained...
+
+140
+
+Gross nominal wages
+
+8
+
+Gross real wages
+
+6
+
+6
+
+-60
+2007
+
+2008
+
+2009
+
+150
+
+3-month moving average
+
+8
+
+-40
+
+…and unit labor costs have increased less
+than some peer countries.
+10
+
+10
+
+World crude oil prices (in euros) 1/
+Croatia’s retail energy prices
+Food prices
+
+-40
+
+4
+
+4
+
+2
+
+2
+
+150
+Unit labor costs
+(In euros; index, 2000=100)
+
+140
+
+130
+
+130
+
+120
+
+120
+
+110
+
+110
+
+100
+
+100
+
+90
+
+90
+
+80
+
+Croatia
+
+80
+
+Czech Rep.
+
+0
+
+0
+
+70
+60
+
+Hungary
+Poland
+
+70
+60
+
+Slovenia
+
+-2
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+-2
+2009
+
+50
+2000 2001 2002 2003 2004 2005 2006 2007 2008
+
+Sources: Croatian authorities; and Fund staff calculations.
+1/ Based on oil prices in euros, converted from the simple average of three spot prices (Dated Brent, West Texas Intermediate, and
+the Dubai Fateh, US$ per barrel).
+
+50
+
+26
+Figure 3. Croatia: External Sector Developments, 2000-08
+In Croatia, capital inflows were not associated with strong
+export growth over 2004-08...
+
+...and FDI, often a key source of knowledge transfer, went into
+inward-looking sectors.
+
+30
+
+Inward FDI flows, receiving sectors
+(avg. sectoral shares over 2004-2008 period)
+
+Average capital inflows to GDP
+
+Bulgaria
+25
+20
+Estonia
+
+15
+10
+
+Croatia
+
+Financial intermediation
+Real estate
+Refined pretroleum
+Wholesale trade
+Retail trade
+Oil & gas extraction
+Hotels & restaurants
+Other
+
+Serbia
+
+Latvia
+
+Romania
+Lithuania
+
+Bosnia
+
+Hungary
+
+Slovakia
+
+5
+Slovenia
+
+Czech
+
+Total
+
+0
+10
+
+15
+20
+25
+Average export growth
+
+44
+8
+8
+6
+5
+5
+3
+21
+
+30
+
+100
+
+Source: Croatian National Bank.
+
+Competitiveness indicators flag structural issues relative to
+Croatia's peers.
+
+Export market share has held steady...
+250
+
+--Croatia ranks 106th out of 181 countries in the World
+Bank's 2009 Doing Business Report.
+
+230
+
+250
+Export market share (world), 2000=100
+
+210
+
+--In the region, it scores lower than Bulgaria (45th),
+Romania (47th), Macedonia (71st), Czech Republic
+(75th), Poland (76th), Belarus (85th), Albania (86th),
+Montenegro (90th), and Serbia (94th).
+
+210
+
+Croatia
+Czech Republic
+Hungary
+Slovenia
+Slovak Republic
+
+190
+170
+
+--Key problem areas are employing workers, obtaining
+construction permits, and protecting investors.
+
+230
+
+190
+170
+
+150
+
+150
+
+130
+
+130
+
+110
+
+110
+
+90
+
+90
+2000
+
+…and the export sector did not increase its weight in the
+economy, despite favorable external conditions.
+
+2002
+
+2004
+
+2006
+
+2008
+
+Strong tourism receipt have been key to mitigate a
+strongly negative trade balance.
+25
+
+Slovenia
+
+20
+
+Slovakia
+
+Tourism
+
+In percent of GDP
+
+15
+
+Serbia
+
+Exports
+(In percent of GDP)
+
+Romania
+
+10
+5
+
+Hungary
+
+0
+-5
+
+Czech
+Croatia
+
+2000/04
+
+-10
+
+2004/08
+
+-15
+
+Bulgaria
+
+-20
+
+Bosnia
+
+-25
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+Trade deficit
+2000
+
+2002
+
+2004
+
+2006
+
+Sources: Croatian National Bank; World Bank Doing Business; and IMF staff calculations.
+
+2008
+
+27
+
+Figure 4. Croatia: Financial Market Conditions, 2000–09
+(In basis points)
+Like in other emerging market economies, bond spreads and CDS spreads jumped in October.
+800
+
+900
+
+Bond spreads
+EMBI Croatia
+
+700
+
+800
+
+EMBI Global
+600
+
+800
+
+700
+
+EMBI Europe
+
+Bulgaria
+
+600
+
+Hungary
+
+500
+
+500
+
+Romania
+
+400
+
+Turkey
+
+400
+300
+
+700
+
+Croatia
+
+600
+
+EU
+negotiations
+started
+
+500
+
+900
+
+CDS spreads
+
+400
+
+300
+
+300
+
+200
+
+200
+
+100
+
+100
+
+100
+
+0
+
+0
+
+Apr-09
+
+Apr-08
+
+Apr-07
+
+0
+Apr-06
+
+0
+
+Apr-09
+
+Jan-09
+
+Jul-08
+
+Oct-08
+
+Apr-08
+
+Jul-07
+
+Jan-08
+
+8
+
+6
+
+6
+ECB policy rate
+
+4
+
+4
+
+2
+
+2
+
+0
+
+0
+
+Sources: Croatian National Bank; Haver Analytics; and JP Morgan/Bloomberg.
+
+Mar-09
+
+0.2
+
+Apr-05
+
+Oct-07
+
+FX-indexed
+credits
+
+Sep-05
+
+1,000
+
+Apr-04
+
+10
+
+Mar-05
+
+0.4
+
+Apr-03
+
+10
+8
+
+2,000
+
+12
+
+Sep-08
+
+EU negotiations
+started
+
+Apr-02
+
+14
+
+Mar-06
+
+0.6
+
+16
+
+Kuna
+credits
+
+12
+
+MSCI Eastern Europe
+3,000
+
+18
+
+14
+
+Mar-08
+
+0.8
+
+MSCI EM Free
+
+16
+
+Zagreb overnight
+money market
+(kuna, monthly
+average)
+
+Sep-07
+
+MSCI World Europe
+
+Apr-01
+
+Apr-07
+
+20
+
+Bank lending rates
+
+18
+1
+
+Crobex Index, Croatia
+
+Apr-00
+
+Oct-06
+
+20
+
+Mar-07
+
+1.2
+
+Stock price indices
+
+Sep-06
+
+6,000
+
+4,000
+
+Jan-07
+
+Interbank rates have become very volatile, and banks’ retail
+lending interest rates have increased.
+
+After booming in 2006–07, stock prices
+collapsed in 2008-09.
+
+5,000
+
+Jul-06
+
+0
+Apr-06
+
+Apr-09
+
+Apr-08
+
+Apr-07
+
+Apr-06
+
+Apr-05
+
+Apr-04
+
+Apr-03
+
+Apr-02
+
+Apr-01
+
+Apr-00
+
+200
+
+28
+
+Figure 5. Croatia: Foreign Exchange Market, 2007-09
+Notwithstanding pressure, the exchange rate has
+been relatively stable.
+120
+
+The spread between kuna and foreign
+currency deposits has widened.
+14
+
+Exchange rate against euro
+(6/30/2008 = 100)
+
+Deposit rates
+(in percent)
+
+12
+
+110
+
+Rates on kuna deposits
+10
+
+Rates on fx linked deposits
+
+100
+8
+90
+6
+80
+4
+
+Croatia
+Poland
+Romania
+Serbia
+
+70
+
+2
+
+The CNB intervened directly to prop up
+the value of the kuna...
+
+Jan-09
+
+Feb-09
+
+Dec-08
+
+Oct-08
+
+Nov-08
+
+Sep-08
+
+Jul-08
+
+Aug-08
+
+Jun-08
+
+Apr-08
+
+May-08
+
+Mar-08
+
+Jan-08
+
+Feb-08
+
+Dec-07
+
+Apr-09
+
+Mar-09
+
+Feb-09
+
+Jan-09
+
+Dec-08
+
+Nov-08
+
+Oct-08
+
+Sep-08
+
+Aug-08
+
+Jul-08
+
+0
+Jun-08
+
+60
+
+… and reserves declined.
+12.0
+
+400
+
+CNB FX Interventions
+300 (monthly volumes in
+millions of euros)
+
+GIR and NIR
+(billions of euros)
+11.0
+
+200
+10.0
+
+100
+0
+
+9.0
+
+-100
+8.0
+-200
+7.0
+
+-300
+
+CNB gross international reserves
+
+Purchased from banks
+
+CNB net international reserves
+
+Sold to banks
+
+-400
+
+Source: Bloomberg; and CNB.
+
+Feb-09
+Mar-09
+
+Jan-09
+
+Nov-08
+Dec-08
+
+Sep-08
+Oct-08
+
+Aug-08
+
+Jun-08
+Jul-08
+
+Apr-08
+May-08
+
+Feb-08
+Mar-08
+
+Jan-08
+
+Dec-07
+
+Jul-08
+
+Jan-09
+
+Jan-08
+
+Jul-07
+
+Jan-07
+
+Jul-06
+
+Jan-06
+
+Jul-05
+
+Jan-05
+
+Jul-04
+
+Jan-04
+
+Jul-03
+
+Jan-03
+
+6.0
+
+29
+Figure 6. Croatia: Credit Developments, 2001–08
+…particularly affecting non-tradable sector.
+
+Credit growth started to slow...
+40
+
+40
+
+140
+
+120
+30
+
+30
+
+120
+
+Other non tradeables
+Real estate, construction and mortgages
+Tradeables
+
+100
+
+100
+
+80
+
+80
+
+60
+
+60
+
+40
+
+40
+
+20
+
+20
+
+0
+
+0
+
+20
+
+20
+
+Euroization is high...
+FX loans, in percent of total loans, 2007
+
+90
+
+100
+
+100
+
+90
+
+90
+
+Bosnia
+
+Hungary
+
+Romania
+
+Macedonia
+
+Bulgaria
+
+Czech Rep.
+
+Estonia
+
+Lithuania
+
+Croatia
+
+0
+0
+2001 2002 2003 2004 2005 2006 2007 2008 2009
+
+Latvia
+
+10
+
+10
+
+100
+
+140
+
+Distribution of bank loans, end-2008
+(percent)
+
+Bank credit growth
+(Y-o-y, percent change)
+
+…and started to increase again following declines in
+recent years.
+FX deposits, share of total deposits
+
+100
+90
+
+FX loans, share of total loans
+
+30
+
+20
+
+20
+
+20
+
+10
+
+10
+
+10
+
+10
+
+0
+
+0
+0
+
+0
+
+Sources: Croatian National Bank; the accompanying Financial Sector Stability Assessment Update; and Fund staff
+calculations.
+1/ Total credit to households and nonfinancial enterprises (excluding public enterprises), including domestic credit by banks
+and leasing companies, and direct borrowing from abroad.
+
+2008
+
+30
+
+20
+
+2007
+
+30
+
+2006
+
+30
+
+2005
+
+40
+
+2004
+
+40
+
+2003
+
+40
+
+2002
+
+40
+
+2001
+
+50
+
+2000
+
+50
+
+1999
+
+50
+
+Russia
+
+50
+
+Czech Rep.
+
+60
+
+Poland
+
+60
+
+Bulgaria
+
+60
+
+Ukraine
+
+60
+
+Romania
+
+70
+
+Hungary
+
+70
+
+Lithuania
+
+70
+
+Croatia
+
+70
+
+Serbia
+
+80
+
+Bosnia
+
+80
+
+Latvia
+
+80
+
+Estonia
+
+80
+
+Source: GFSR.
+1/ Latest data available in 2008.
+
+0.5
+5
+
+0.0
+0
+
+Slovenia
+
+10
+
+Slovak Republic
+
+1.0
+
+Romania
+
+Bank return on
+assets
+
+Poland
+
+15
+
+Lithuania
+
+1.5
+
+Latvia
+
+20
+Slovenia
+
+Slovak Republic
+
+Romania
+
+Poland
+
+Lithuania
+
+Latvia
+
+Hungary
+
+Estonia
+
+Czech Republic
+
+Bank regulatory capital to riskweighted assets
+
+Hungary
+
+2.0
+
+Estonia
+
+2.5
+
+Czech Republic
+
+10
+Croatia
+
+13
+
+Croatia
+
+16
+
+Bulgaria
+
+Slovenia
+
+Slovak Republic
+
+Romania
+
+Poland
+
+Lithuania
+
+Latvia
+
+19
+
+Bulgaria
+
+Slovenia
+
+Slovak Republic
+
+Romania
+
+Poland
+
+Lithuania
+
+Latvia
+
+Hungary
+
+Estonia
+
+Czech Republic
+
+Croatia
+
+Bulgaria
+
+18
+
+Hungary
+
+Estonia
+
+Czech Republic
+
+Croatia
+
+Bulgaria
+
+30
+
+Figure 7. Croatia: Banking Performance, 2008 1/
+
+Backward looking performance indicators suggest that the banking system is generally healthy.
+12
+
+Bank nonperforming loans to
+total loans
+
+17
+10
+
+8
+
+15
+
+14
+6
+
+4
+
+12
+
+11
+2
+
+0
+
+25
+
+Bank return on
+equity
+
+31
+
+Figure 8. Regional Comparison: Business Environment, 2008–09
+Croatia performs below the average of its peers in central and eastern Europe in various cross-country
+rankings of business environment indicators.
+22
+
+Estonia
+Lithuania
+
+28
+
+Latvia
+
+29
+
+World Bank, 2009
+Doing Business
+(181 countries)
+
+54
+
+Slovenia
+
+71
+
+Macedonia, FYR
+
+53
+
+Latvia
+
+54
+
+Croatia
+
+61
+
+Hungary
+
+62
+
+Czech Rep.
+
+75
+
+Montenegro
+
+Poland
+
+76
+
+Romania
+
+86
+
+Albania
+
+106
+119
+
+29
+34
+
+Lithuania
+Estonia
+
+60
+
+80
+
+100
+
+120
+
+140
+
+Poland
+
+68
+
+Slovakia
+
+36
+37
+
+Hungary
+
+44
+
+Latvia
+
+45
+
+Serbia
+
+Albania
+
+82
+94
+
+116
+
+Croatia
+
+125
+
+Bosnia and Herz.
+
+109
+
+Serbia
+
+123
+
+134
+
+Bosnia and Herz.
+
+64
+
+47
+
+NMS-8 average
+
+27
+20
+
+78
+
+Montenegro
+
+107
+
+Macedonia, FYR
+
+0
+
+68
+
+Poland
+
+100
+
+NMS-8 average
+
+65
+
+Macedonia, FYR
+
+92
+
+Bulgaria
+
+37
+
+EU-16 average
+
+40
+
+60
+
+80
+
+100
+
+120
+
+140
+
+Sources: World Bank; World Economic Forum; Heritage Foundation.
+1/ No ranking available for Cyprus and Malta.
+
+120
+
+62
+
+Slovenia
+
+90
+
+Montenegro
+
+100
+
+56
+
+Romania
+
+83
+
+Latvia
+
+80
+
+Heritage Foundation, 2009
+Economic Freedom
+(179 countries)
+
+30
+
+Albania
+
+78
+
+Romania
+
+60
+
+13
+
+Bulgaria
+
+72
+
+Croatia
+
+40
+
+Czech Rep.
+
+62
+
+Hungary
+
+20
+
+Lithuania
+
+53
+
+EU-16 average
+
+30
+0
+
+Estonia
+
+World Economic Forum, 2008-09
+Business Sophistication
+(134 countries)
+49
+50
+
+Slovakia
+
+108
+53
+
+EU-16 average
+
+40
+
+Slovenia
+
+107
+
+NMS-8 average
+
+39
+
+Czech Rep.
+
+89
+
+Albania
+
+45
+
+20
+
+85
+
+Bosnia and Herz.
+
+Bosnia and Herz.
+
+0
+
+76
+
+Macedonia, FYR
+
+Croatia
+
+EU-16 average 1/
+
+68
+
+Serbia
+
+94
+
+Serbia
+
+65
+
+Bulgaria
+
+90
+
+Montenegro
+
+NMS-8 average
+
+46
+
+Poland
+
+47
+
+Romania
+
+World Economic Forum, 2008-09
+Global Competitiveness
+(134 countries)
+42
+44
+
+Slovakia
+
+45
+
+Bulgaria
+
+33
+
+Lithuania
+
+41
+
+Hungary
+
+32
+
+Slovenia
+
+36
+
+Slovakia
+
+Estonia
+Czech Rep.
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+140
+
+160
+
+32
+
+Table 1. Croatia: Key Macroeconomic Indicators, 2004–10 1/
+2004
+
+2005
+
+2006
+
+Output, unemployment, and prices
+Real GDP
+Unemployment (labor force survey, in percent)
+CPI inflation (average)
+
+4.2
+13.8
+2.0
+
+4.2
+12.7
+3.3
+
+4.7
+11.1
+3.2
+
+Saving and investment
+Domestic investment
+Of which: fixed capital formation
+Domestic saving
+Government
+Nongovernment
+
+27.7
+24.6
+23.4
+2.2
+21.1
+
+28.0
+24.6
+22.5
+2.3
+20.2
+
+29.8
+26.1
+22.9
+2.9
+20.0
+
+Government sector 2/
+General government revenue 2/
+General government expenditure 2/
+General government balance 2/
+General government balance (broad definition) 2/ 3/
+HBOR balance (net of budget transfers)
+Cyclically adjusted primary balance 2/
+General government debt
+
+39.7
+43.1
+-3.4
+-3.4
+-0.4
+-1.6
+37.9
+
+39.2
+42.1
+-2.8
+-2.8
+-0.1
+-0.9
+38.4
+
+39.6
+41.4
+-1.8
+-2.6
+-0.2
+0.0
+35.9
+
+Money and credit
+Bank credit to the nongovernment sector
+Broad money
+
+14.0
+8.6
+
+17.4
+10.5
+
+Interest rates 4/
+Average kuna deposit rate (unindexed)
+Average kuna credit rate (unindexed)
+Average credit rate, foreign currency-indexed loans
+
+1.9
+11.7
+7.4
+
+1.7
+11.2
+6.7
+
+1.7
+9.9
+6.3
+
+-1,434
+-4.4
+2,603
+43
+
+-1,976
+-5.5
+3,924
+822
+
+-2,715
+-6.9
+5,083
+1,412
+
+6,436
+108
+4.4
+5,026
+24.4
+70.0
+33.0
+
+7,438
+85
+4.5
+5,604
+27.2
+72.1
+37.7
+
+Balance of payments
+Current account balance
+(In percent of GDP)
+Capital and financial account
+Overall balance
+Debt and reserves
+Gross official reserves
+In percent of short-term debt (by residual maturity)
+In months of following year's imports of goods and NFS
+Net international reserves
+External debt service to exports ratio (in percent)
+Total external debt (in percent of GDP)
+Net external debt 5/
+
+2007
+
+2008
+Prel.
+
+2009
+Proj.
+
+2010
+Proj.
+
+2.4
+8.4
+6.1
+
+-3.5
+11.0
+2.5
+
+0.3
+11.3
+2.8
+
+30.5
+26.2
+22.9
+3.8
+19.2
+
+32.4
+27.6
+23.0
+2.9
+20.0
+
+30.1
+24.0
+23.3
+1.4
+22.0
+
+28.3
+23.4
+24.0
+1.6
+22.3
+
+40.7
+42.0
+-1.2
+-2.3
+-0.6
+0.0
+33.2
+
+39.8
+40.7
+-0.9
+-1.1
+-0.7
+0.4
+33.5
+
+39.5
+41.7
+-2.1
+-2.4
+-1.0
+1.1
+36.7
+
+39.6
+42.0
+-2.4
+-2.6
+-1.0
+1.3
+38.5
+
+10.6
+4.3
+
+...
+...
+
+...
+...
+
+2.8
+10.1
+7.5
+
+…
+…
+…
+
+…
+…
+…
+
+-4,454
+-9.4
+5,304
+-330
+
+-2,909
+-6.5
+2,247
+-1,612
+
+-1,843
+-4.1
+2,195
+-648
+
+7,509
+68
+4.3
+6,413
+50.5
+85.4
+48.8
+
+6,860
+55
+3.7
+5,765
+38.1
+85.3
+48.7
+
+(Percent change)
+5.5
+9.6
+2.9
+
+(In percent of GDP)
+
+(End of period; change in percent)
+23.1
+18.0
+
+15.0
+18.3
+
+(Period average; in percent)
+2.3
+9.3
+6.3
+
+(In millions of euros)
+-3,237
+-7.6
+4,861
+722
+
+(End of period; in millions of euros)
+8,725
+88
+4.9
+6,464
+37.5
+74.9
+38.8
+
+9,307
+109
+4.7
+7,349
+37.8
+77.6
+41.1
+
+9,121
+69
+5.3
+8,020
+34.3
+83.0
+46.4
+
+Sources: Croatian authorities, and Fund staff estimates.
+1/ National account data for 1995-2008 were revised in 2009. Under the new ESA95 methodology, revised data include estimates for
+the "gray economy," imputed dwelling rates, and financial intermediate services indirectly measured (FISIM). Revised nominal GDP figure for 2008
+is about 14 percent higher than the previous estimate.
+2/ ESA 95 presentation. Operations of HAC, a state-oned road company, were excluded from the coverage of the general government in 2008.
+3/ Includes “pensioners’ debt” repayments.
+4/ Weighted average, all maturities. Foreign currency-indexed loans are indexed mainly to euros.
+5/ Net of official reserves and commercial bank foreign assets.
+
+33
+
+Table 2. Croatia: Consolidated General Government Finances, 2004–10 1/
+(In millions of kuna; ESA 95 presentation)
+
+Revenue
+Taxes
+Taxes on income, profits, and capital gains
+Payable by individuals
+Payable by corporations and other enterprises
+Taxes on property
+Taxes on goods and services
+VAT
+Excises
+Taxes on international trade and transactions
+Other taxes
+Social security contributions
+Other revenue and grants
+Grants
+Other revenues
+Capital revenue
+Total expenditure
+
+2004
+
+2005
+
+2006
+
+97,405
+56,396
+12,135
+7,735
+4,400
+732
+41,582
+29,865
+10,619
+1,591
+355
+29,478
+10,668
+14
+10,654
+863
+
+103,712
+60,500
+13,397
+7,825
+5,572
+764
+44,393
+32,243
+10,917
+1,563
+384
+31,301
+11,048
+28
+11,020
+863
+
+113,503
+66,768
+15,972
+8,813
+7,159
+962
+47,894
+34,932
+11,565
+1,588
+351
+33,877
+11,572
+197
+11,375
+1,286
+
+2007
+
+2008
+Prel.
+
+2009
+Original
+budget
+
+2009
+Revised
+budget
+
+2009
+IMF staff
+projections
+
+2010
+Proj.
+
+128,020
+73,392
+18,762
+9,938
+8,825
+1,155
+51,491
+37,748
+12,169
+1,641
+342
+37,203
+16,120
+446
+15,674
+1,304
+
+136,143
+76,313
+21,132
+10,567
+10,565
+1,180
+52,083
+41,308
+8,949
+1,901
+18
+40,703
+17,911
+1,024
+16,887
+1,215
+
+144,519
+80,344
+21,328
+10,943
+10,385
+1,242
+55,810
+44,438
+9,416
+1,946
+18
+43,033
+19,927
+1,141
+18,785
+1,216
+
+134,635
+74,442
+20,796
+10,557
+10,240
+1,239
+50,436
+40,442
+8,686
+1,953
+18
+40,771
+18,214
+1,035
+17,179
+1,208
+
+133,087
+73,487
+20,638
+10,398
+10,240
+1,066
+49,914
+39,398
+8,686
+1,852
+18
+40,178
+18,214
+1,035
+17,179
+1,208
+
+136,714
+76,047
+21,099
+10,606
+10,493
+1,211
+51,782
+41,187
+8,723
+1,938
+18
+41,162
+18,271
+771
+17,501
+1,233
+
+105,815
+
+111,185
+
+118,655
+
+131,934
+
+139,132
+
+147,334
+
+140,062
+
+140,312
+
+144,973
+
+Current expenditures
+Compensation of employees
+Use of goods and services
+Interest
+Subsidies
+Grants
+Social benefits
+Other expense
+
+95,279
+25,518
+10,144
+4,535
+5,736
+975
+41,034
+7,338
+
+101,137
+26,677
+11,311
+5,105
+5,999
+1,392
+42,468
+8,183
+
+108,293
+28,212
+13,700
+5,478
+6,562
+1,428
+44,824
+8,088
+
+119,614
+31,112
+15,825
+5,554
+7,504
+1,702
+48,731
+9,186
+
+129,891
+24,998
+17,321
+5,639
+8,028
+2,348
+60,774
+10,783
+
+137,535
+26,997
+18,260
+5,876
+8,076
+2,124
+65,283
+10,919
+
+131,037
+25,495
+16,563
+5,869
+7,782
+1,254
+64,573
+9,501
+
+131,287
+25,495
+16,563
+6,119
+7,782
+1,254
+64,573
+9,501
+
+134,873
+26,770
+16,969
+6,617
+7,472
+2,281
+65,929
+8,834
+
+Capital expenditure
+
+10,537
+
+10,049
+
+10,362
+
+12,319
+
+9,241
+
+9,799
+
+9,025
+
+9,025
+
+10,100
+
+-8,410
+
+-7,473
+
+-5,152
+
+-3,913
+
+-2,989
+
+-2,815
+
+-5,427
+
+-7,225
+
+-8,259
+
+Overall balance/Net lending 2/
+Repayment of “pensioners’ debt”
+
+…
+
+…
+
+2,398
+
+3,345
+
+942
+
+816
+
+816
+
+816
+
+816
+
+-8,410
+
+-7,473
+
+-7,549
+
+-7,258
+
+-3,930
+
+-3,631
+
+-6,243
+
+-8,041
+
+-9,075
+
+8,410
+
+7,473
+
+7,549
+
+7,258
+
+3,930
+
+3,631
+
+6,243
+
+8,041
+
+9,075
+
+1,211
+
+1,384
+
+4,114
+
+3,042
+
+913
+
+513
+
+0
+
+0
+
+379
+
+External financing
+Disbursements
+Amortization
+
+3,870
+8,706
+-4,836
+
+-4,397
+1,600
+-5,997
+
+-3,483
+2,724
+-6,207
+
+62
+4,734
+-4,672
+
+-943
+2,578
+-3,521
+
+-179
+7,028
+-7,207
+
+-2,331
+7,028
+-9,359
+
+-2,331
+7,028
+-9,359
+
+-1,183
+6,005
+-7,188
+
+Domestic financing
+
+3,330
+
+10,487
+
+6,918
+
+4,155
+
+3,960
+
+3,298
+
+8,573
+
+10,371
+
+9,879
+
+-3,875
+
+-2,368
+
+326
+
+1,641
+
+2,650
+
+3,061
+
+443
+
+-1,105
+
+-1,642
+
+Financing requirement
+Financing
+Privatization and disposal of fixed assets
+
+Memorandum item:
+Primary balance
+Sources: Ministry of Finance; and Fund staff estimates.
+
+1/ Operations of HAC, a road fund, was excluded from the coverage of the general government in 2008.
+2/ Excluding “pensioners’ debt” repayments; including accumulation of arrears in “use of goods and services.”
+
+34
+Table 2. Croatia: Consolidated General Government Finances, 2004–10 (concl.) 1/
+(In percent of GDP; ESA 95 presentation)
+
+Revenue
+Taxes
+Taxes on income, profits, and capital gains
+Payable by individuals
+Payable by corporations and other enterprises
+Taxes on goods and services
+VAT
+Excises
+Taxes on international trade and transactions
+Other taxes
+Social security contributions
+Other revenue and grants
+Capital revenue
+Total expenditure
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+Prel.
+
+2009
+Original
+Budget
+
+2009
+Revised
+Budget
+
+2009
+IMF staff
+proj.
+
+2010
+Proj.
+
+39.7
+23.0
+4.9
+3.2
+1.8
+16.9
+12.2
+4.3
+0.6
+0.1
+12.0
+4.3
+0.4
+
+39.2
+22.9
+5.1
+3.0
+2.1
+16.8
+12.2
+4.1
+0.6
+0.1
+11.8
+4.2
+0.3
+
+39.6
+23.3
+5.6
+3.1
+2.5
+16.7
+12.2
+4.0
+0.6
+0.1
+11.8
+4.0
+0.4
+
+40.7
+23.4
+6.0
+3.2
+2.8
+16.4
+12.0
+3.9
+0.5
+0.1
+11.8
+5.1
+0.4
+
+39.8
+22.3
+6.2
+3.1
+3.1
+15.2
+12.1
+2.6
+0.6
+0.0
+11.9
+5.2
+0.4
+
+42.9
+23.9
+6.3
+3.3
+3.1
+16.6
+13.2
+2.8
+0.6
+0.0
+12.8
+5.9
+0.4
+
+40.0
+22.1
+6.2
+3.1
+3.0
+15.0
+12.0
+2.6
+0.6
+0.0
+12.1
+5.4
+0.4
+
+39.5
+21.8
+6.1
+3.1
+3.0
+14.8
+11.7
+2.6
+0.6
+0.0
+11.9
+5.4
+0.4
+
+39.6
+22.0
+6.1
+3.1
+3.0
+15.0
+11.9
+2.5
+0.6
+0.0
+11.9
+5.3
+0.4
+
+43.1
+
+42.1
+
+41.4
+
+42.0
+
+40.7
+
+43.8
+
+41.6
+
+41.7
+
+42.0
+
+38.8
+10.4
+4.1
+1.8
+2.3
+0.4
+16.7
+3.0
+
+38.3
+10.1
+4.3
+1.9
+2.3
+0.5
+16.1
+3.1
+
+37.8
+9.9
+4.8
+1.9
+2.3
+0.5
+15.7
+2.8
+
+38.1
+9.9
+5.0
+1.8
+2.4
+0.5
+15.5
+2.9
+
+38.0
+7.3
+5.1
+1.6
+2.3
+0.7
+17.8
+3.2
+
+40.9
+8.0
+5.4
+1.7
+2.4
+0.6
+19.4
+3.2
+
+38.9
+7.6
+4.9
+1.7
+2.3
+0.4
+19.2
+2.8
+
+39.0
+7.6
+4.9
+1.8
+2.3
+0.4
+19.2
+2.8
+
+39.1
+7.8
+4.9
+1.9
+2.2
+0.7
+19.1
+2.6
+
+4.3
+
+3.8
+
+3.6
+
+3.9
+
+2.7
+
+2.9
+
+2.7
+
+2.7
+
+2.9
+
+-3.4
+…
+
+-2.8
+…
+
+-1.8
+0.8
+
+-1.2
+1.1
+
+-0.9
+0.3
+
+-0.8
+0.2
+
+-1.6
+0.2
+
+-2.1
+0.2
+
+-2.4
+0.2
+
+3.4
+
+2.8
+
+2.6
+
+2.3
+
+1.1
+
+1.1
+
+1.9
+
+2.4
+
+2.6
+
+0.5
+
+0.5
+
+2.3
+
+1.1
+
+0.5
+
+0.2
+
+0.0
+
+0.0
+
+0.1
+
+External financing
+Disbursements
+Amortization
+
+1.6
+3.5
+-2.0
+
+-1.7
+0.6
+-2.3
+
+-1.2
+1.0
+-2.2
+
+-0.1
+-0.1
+0.0
+
+-0.3
+0.8
+-1.0
+
+-0.1
+2.1
+-2.1
+
+-0.7
+2.1
+-2.8
+
+-0.7
+2.1
+-2.8
+
+-0.3
+1.7
+-2.1
+
+Domestic financing
+
+1.4
+
+4.0
+
+1.6
+
+1.3
+
+0.9
+
+1.0
+
+2.5
+
+3.1
+
+2.9
+
+-1.6
+-1.6
+-0.4
+
+-0.9
+-0.9
+-0.1
+
+0.1
+0.0
+-0.2
+
+0.5
+0.0
+-0.6
+
+-3.8
+37.9
+8.4
+
+-2.9
+38.4
+5.4
+
+-2.8
+35.9
+5.5
+
+-2.9
+33.2
+4.7
+
+0.8
+0.4
+-0.7
+-0.9
+-2.7
+33.5
+6.0
+
+0.9
+0.7
+-1.0
+-0.9
+-3.0
+36.7
+6.0
+
+0.1
+1.5
+-1.0
+-0.9
+-3.8
+36.7
+6.8
+
+-0.3
+1.1
+-1.0
+-0.9
+-4.3
+36.7
+6.8
+
+-0.5
+1.3
+-1.0
+-0.9
+-4.5
+38.5
+7.2
+
+Current expenditures
+Compensation of employees
+Use of goods and services
+Interest
+Subsidies
+Grants
+Social benefits
+Other expense
+Capital expenditure
+Overall balance 2/
+Repayment of “pensioners’ debt”
+Financing
+Privatization and disposal of fixed assets
+
+Memorandum items:
+Primary balance
+Cyclically adjusted primary balance
+HBOR balance (net of budget transfers)
+HAC 1/
+Broader measure of fiscal balance 3/
+General government debt
+General government guarantees and arrears
+Sources: Ministry of Finance; and Fund staff estimates.
+
+1/ Operations of HAC, a road fund, was excluded from the coverage of the general government in 2008.
+2/ Excluding “pensioners’ debt” repayments; including accumulation of arrears in “use of goods and services.”
+3/ Includes repayments of “pensioners’ debt” and the balances of HBOR and HAC (net of budget transfers).
+
+35
+Table 3. Croatia: Monetary Accounts, 2007–09
+(End-period; in millions of kuna unless otherwise stated)
+2007
+
+2008
+Q1
+
+2008
+Q2
+
+2008
+Q3
+
+2008
+Q4
+
+2009
+Q1
+
+49,447
+6,750
+
+43,547
+6,001
+
+45,360
+6,260
+
+54,773
+7,706
+
+41,739
+5,699
+
+26,544
+3,559
+
+68,161
+9,305
+
+71,405
+9,840
+
+72,022
+9,939
+
+69,705
+9,807
+
+66,789
+9,119
+
+66,128
+8,868
+
+-18,714
+-2,555
+
+-27,858
+-3,839
+
+-26,662
+-3,679
+
+-14,932
+-2,101
+
+-25,049
+-3,420
+
+-39,584
+-5,308
+
+Net Domestic Assets
+Domestic credit (CNB definition) 1/
+Claims on government, net 2/
+Claims on other domestic sectors 3/
+Other items (net)
+
+166,376
+226,076
+14,118
+208,688
+-59,701
+
+168,073
+231,040
+14,716
+212,998
+-62,967
+
+170,687
+234,626
+13,079
+218,206
+-63,939
+
+172,079
+239,395
+13,054
+222,544
+-67,316
+
+183,279
+232,777
+20,475
+230,905
+-49,498
+
+192,083
+232,480
+28,504
+232,862
+-40,397
+
+Broad Money
+Narrow Money
+Currency outside banks
+Demand deposits
+Quasi Money
+Kuna-denominated
+Foreign currency-denominated
+
+215,822
+57,878
+16,007
+41,871
+157,944
+54,854
+103,090
+
+211,620
+52,807
+15,337
+37,471
+158,813
+54,052
+104,761
+
+216,047
+54,400
+16,909
+37,492
+161,646
+52,968
+108,678
+
+226,852
+53,677
+16,556
+37,121
+173,175
+55,238
+117,938
+
+225,018
+55,222
+17,051
+38,171
+169,796
+52,601
+117,195
+
+218,627
+46,637
+15,826
+30,810
+171,990
+49,125
+122,865
+
+Net Foreign Assets
+Of which: Banks' reserves in foreign currency
+Net International Reserves
+
+68,161
+14,257
+53,830
+
+71,405
+17,001
+54,362
+
+72,022
+16,829
+55,172
+
+69,705
+13,314
+56,385
+
+66,789
+8,008
+58,745
+
+66,128
+4,582
+61,539
+
+Net Domestic Assets
+Of which: Claims on government (net)
+Claims on banks
+Of which: open market operations
+Claims on other domestic sectors
+Other items (net)
+
+-1,951
+-198
+4,178
+2,815
+68
+-5,999
+
+-4,371
+-308
+1,538
+1,524
+68
+-5,669
+
+-3,957
+-596
+1,667
+1,652
+65
+-5,094
+
+-6,561
+-441
+14
+0
+65
+-6,199
+
+-8,982
+-205
+14
+0
+64
+-8,855
+
+-8,775
+-383
+1,397
+1,359
+64
+-9,853
+
+Base Money
+Currency
+Deposits
+Of which: Settlement accounts
+Statutory reserves in kuna 4/
+Statutory reserves in foreign currency
+
+66,210
+16,007
+50,202
+7,554
+24,267
+14,257
+
+67,034
+15,337
+51,698
+8,914
+22,624
+17,001
+
+68,064
+16,909
+51,156
+7,509
+22,981
+16,829
+
+63,144
+16,556
+46,587
+6,559
+23,092
+13,314
+
+57,807
+17,051
+40,756
+9,520
+19,223
+8,008
+
+57,352
+15,826
+41,526
+9,308
+24,080
+4,582
+
+Reserve Money (CNB definition) 5/
+
+51,924
+
+49,978
+
+51,174
+
+49,771
+
+49,743
+
+52,718
+
+0.87
+3.26
+68.7
+47.8
+66.4
+8.7
+
+0.79
+3.16
+65.7
+49.5
+66.2
+7.2
+
+0.80
+3.17
+65.5
+50.3
+66.1
+6.3
+
+0.85
+3.59
+67.1
+52.0
+65.9
+6.6
+
+0.96
+3.89
+65.8
+52.1
+67.5
+6.5
+
+0.81
+3.81
+64.1
+56.2
+68.3
+5.8
+
+Monetary Survey
+Net Foreign Assets
+(In millions of euros)
+Croatian National Bank
+(In millions of euros)
+Deposit money banks
+(In millions of euros)
+
+Balance Sheet of the Croatian National Bank
+
+Memorandum items:
+Narrow money multiplier
+Broad money multiplier
+Broad money (in percent of GDP)
+Foreign currency in percent of broad money
+Credit to other domestic sectors: stock (in percent of GDP)
+Credit to other domestic sectors: 12-month flow (in percent of GDP)
+Sources: Croatian National Bank; and Fund staff estimates.
+
+1/ Comprises net claims on central government, gross claims on local government, and claims on other domestic sectors.
+2/ Comprises claims on central government and funds, and local government and funds, net of their deposits in the banking
+system. Central government funds include the Croatian Bank for Reconstruction and Development (HBOR).
+3/ Comprises claims on households, enterprises, other banking institutions (housing savings banks, savings and loan
+cooperatives, and investment funds), and other financial institutions.
+4/ From 2007, includes obligatory CNB bills.
+5/ Excludes statutory reserves in foreign currency.
+
+245,550
+32,759
+
+70.0
+33.0
+
+7.9
+2.0
+
+20.2
+-40.7
+
+-4.4
+
+264,367
+35,725
+
+72.1
+37.7
+
+11.0
+3.6
+
+20.2
+-41.3
+
+-5.5
+
+39.2
+42.1
+-2.8
+38.4
+
+28.0
+24.6
+22.5
+2.3
+20.2
+
+4.2
+3.6
+4.4
+4.9
+7.3
+3.3
+
+2005
+
+286,341
+39,102
+
+74.9
+38.8
+
+13.0
+6.5
+
+21.6
+-43.0
+
+-6.9
+
+39.6
+41.4
+-1.8
+35.9
+
+29.8
+26.1
+22.9
+2.9
+20.0
+
+4.7
+3.2
+3.5
+10.9
+13.7
+3.2
+
+2006
+
+314,223
+42,833
+
+77.6
+41.1
+
+11.3
+8.1
+
+21.5
+-43.5
+
+-7.6
+
+40.7
+42.0
+-1.2
+33.2
+
+30.5
+26.2
+22.9
+3.8
+19.2
+
+5.5
+5.6
+6.2
+6.5
+6.7
+2.9
+
+2007
+
+342,158
+47,370
+
+83.0
+46.4
+
+11.2
+5.9
+
+20.6
+-43.5
+
+-9.4
+
+39.8
+40.6
+-0.8
+33.5
+
+336,649
+44,767
+
+85.4
+48.8
+
+5.0
+4.0
+
+19.6
+-39.5
+
+-6.5
+
+39.5
+41.7
+-2.1
+36.7
+
+344,910
+45,086
+
+85.3
+48.7
+
+4.9
+4.3
+
+20.5
+-39.9
+
+-4.1
+
+39.6
+42.0
+-2.4
+38.5
+
+28.3
+23.4
+24.0
+1.6
+22.3
+
+(In percent of GDP)
+32.4
+30.1
+27.6
+24.0
+23.0
+23.3
+2.9
+1.4
+20.0
+22.0
+
+Proj.
+
+2010
+
+0.3
+0.2
+0.0
+-0.7
+-1.9
+2.8
+
+Proj.
+
+Prel.
+(Percent change)
+2.4
+-3.5
+1.1
+-4.0
+0.8
+-4.5
+8.2
+-15.1
+12.7
+-15.7
+6.1
+2.5
+
+2009
+
+2008
+
+363,254
+47,484
+
+83.4
+46.9
+
+7.9
+5.4
+
+20.7
+-40.2
+
+-4.4
+
+39.9
+41.4
+-1.5
+38.5
+
+28.2
+23.6
+23.7
+2.5
+21.2
+
+2.5
+2.4
+2.4
+3.5
+4.0
+2.8
+
+Proj.
+
+2011
+
+389,118
+50,865
+
+81.1
+44.6
+
+9.3
+6.0
+
+20.7
+-40.0
+
+-4.9
+
+39.7
+40.6
+-0.9
+37.2
+
+29.1
+24.2
+24.0
+3.2
+20.8
+
+4.0
+3.1
+3.0
+6.2
+6.5
+2.8
+
+Proj.
+
+2012
+
+416,823
+54,487
+
+78.9
+42.3
+
+9.4
+6.2
+
+20.8
+-40.0
+
+-5.0
+
+39.8
+39.8
+0.0
+35.1
+
+29.1
+24.8
+24.0
+4.0
+20.0
+
+4.0
+3.8
+3.9
+6.6
+7.0
+3.0
+
+Proj.
+
+2013
+
+Sources: Central Statistics Bureau; Croatian National Bank; Ministry of Finance; and Fund staff estimates.
+1/ National account statistics for 1995-2008 were revised in 2009. Under the new ESA95 methodology, revised data include estimates for the "gray economy,"
+imputed dwelling rates, and financial intermediate services indirectly measured (FISIM). On average, revised nominal GDP figures are 15.6 percent higher
+than the previous estimates.
+2/ Assumes an increase in total factor productivity and potential growth as EU accession approaches.
+3/ ESA 95 presentation.
+4/ Excludes repayments of “pensioners’ debt.”
+
+Memorandum items:
+Nominal GDP (in millions of kuna)
+Nominal GDP (in millions of euros)
+
+Gross external debt
+Net external debt
+
+Capital and financial account
+Of which: FDI
+
+Exports f.o.b.
+Imports f.o.b.
+
+Current account balance
+
+Balance of payments
+
+Revenue
+Expenditure 4/
+Balance 4/
+Government debt
+
+39.7
+43.1
+-3.4
+37.9
+
+27.7
+24.6
+23.4
+2.2
+21.1
+
+Saving and investment
+Domestic investment
+Of which: fixed capital formation
+Domestic saving
+Government
+Nongovernment
+
+General government finances 3/
+
+4.2
+3.9
+4.3
+5.0
+8.8
+2.0
+
+Real sector
+Real GDP 2/
+Consumption, total
+Of which: private
+Gross fixed capital formation, total
+Of which: private
+CPI inflation (average)
+
+2004
+
+Table 4. Croatia: Medium-Term Baseline Scenario, 2004–14 1/
+
+446,501
+58,366
+
+76.5
+40.0
+
+9.5
+6.5
+
+21.1
+-40.0
+
+-4.5
+
+39.6
+39.1
+0.5
+32.7
+
+29.1
+25.5
+24.5
+4.4
+20.1
+
+4.0
+3.8
+3.9
+6.7
+7.0
+3.0
+
+Proj.
+
+2014
+
+36
+
+37
+Table 5. Croatia: Balance of Payments, 2007–14
+(In millions of euros, unless otherwise indicated)
+
+2007
+
+Current account
+Merchandise trade balance
+Exports f.o.b.
+Imports f.o.b.
+Services and income
+Transportation
+Travel
+Other services
+Compensation of employees
+Interest and investment income
+Current transfers
+Capital and financial account
+Capital account
+Financial account
+Direct investment
+Portfolio investment
+Medium- and long-term loans
+Assets
+Liabilities
+Disbursements
+Amortization
+Other flows 1/
+Net errors and omissions 2/
+Overall balance
+Financing
+Gross reserves (-= increase)
+Memorandum items:
+Current account (in percent of GDP)
+Export volume growth (excl. ships)
+Import volume growth
+Gross official reserves
+in months of following year's imports of goods and NFS
+Outstanding debt
+External debt to GDP ratio 3/
+External debt in percent of exports of goods and NFS
+Short-term debt by residual maturity (in percent of GIR)
+External debt service
+GDP (millions of euros)
+GDP (millions of kuna)
+
+2008
+Prel.
+
+2009
+Proj.
+
+2010
+Proj.
+
+2011
+Proj.
+
+2012
+Proj.
+
+2013
+Proj.
+
+2014
+Proj.
+
+-3,237
+
+-4,454
+
+-2,909
+
+-1,843
+
+-2,084
+
+-2,505
+
+-2,710
+
+-2,617
+
+-9,434
+9,193
+-18,626
+
+-10,866
+9,743
+-20,610
+
+-8,919
+8,773
+-17,692
+
+-8,721
+9,253
+-17,974
+
+-9,251
+9,814
+-19,065
+
+-9,837
+10,529
+-20,367
+
+-10,444
+11,344
+-21,788
+
+-11,080
+12,295
+-23,375
+
+5,154
+488
+6,035
+-257
+494
+-1,606
+1,043
+
+5,372
+509
+6,687
+-234
+564
+-2,154
+1,040
+
+4,941
+487
+6,035
+-282
+475
+-1,774
+1,068
+
+5,728
+537
+6,411
+-235
+502
+-1,487
+1,149
+
+5,917
+570
+6,868
+-250
+536
+-1,808
+1,250
+
+5,973
+614
+7,243
+-260
+569
+-2,194
+1,360
+
+6,256
+667
+7,686
+-266
+606
+-2,437
+1,478
+
+6,857
+731
+8,197
+-267
+649
+-2,454
+1,606
+
+4,861
+35
+4,827
+3,483
+-3
+2,718
+3
+2,715
+7,700
+-4,985
+
+5,304
+32
+5,272
+2,811
+-555
+2,900
+-64
+2,965
+7,640
+-4,676
+
+2,247
+35
+2,212
+1,793
+-28
+-938
+0
+-938
+5,545
+-6,483
+
+2,195
+35
+2,160
+1,934
+0
+226
+0
+226
+5,299
+-5,073
+
+3,760
+35
+3,725
+2,565
+261
+870
+0
+870
+6,816
+-5,947
+
+4,729
+35
+4,694
+3,030
+163
+1,446
+0
+1,446
+7,568
+-6,122
+
+5,140
+35
+5,105
+3,395
+114
+1,464
+0
+1,464
+7,162
+-5,697
+
+5,521
+36
+5,485
+3,805
+114
+1,460
+0
+1,460
+7,112
+-5,652
+
+-1,374
+
+114
+
+1,384
+
+0
+
+29
+
+55
+
+131
+
+106
+
+-903
+
+-1,180
+
+-950
+
+-1,000
+
+-1,050
+
+-1,100
+
+-1,150
+
+-1,200
+
+722
+
+-330
+
+-1,612
+
+-648
+
+626
+
+1,124
+
+1,280
+
+1,704
+
+-722
+-722
+
+330
+330
+
+1,612
+1,612
+
+648
+648
+
+-626
+-626
+
+-1,124
+-1,124
+
+-1,280
+-1,280
+
+-1,704
+-1,704
+
+-7.6
+-9.4
+-6.5
+-4.1
+-4.4
+-4.9
+-5.0
+-4.5
+7.6
+0.1
+-5.1
+2.5
+4.1
+5.8
+6.4
+6.8
+9.3
+4.0
+-9.3
+-2.5
+3.8
+5.2
+5.5
+5.6
+9,307
+9,121
+7,509
+6,860
+7,487
+8,611
+9,891
+11,595
+4.7
+5.3
+4.3
+3.7
+3.8
+4.1
+4.1
+4.1
+33,253
+39,300
+38,221
+38,446
+39,607
+41,270
+42,980
+44,660
+78
+83
+85
+85
+83
+81
+79
+77
+182
+198
+213
+203
+197
+192
+187
+180
+91
+144
+146
+182
+155
+130
+113
+96
+-6,909
+-6,801
+-9,061
+-7,206
+-8,729
+-7,802
+-7,522
+-7,875
+42,833
+47,370
+44,767
+45,086
+47,484
+50,865
+54,487
+58,366
+314,223 342,158 336,649 344,910 363,254 389,118 416,823 446,501
+
+Sources: Croatian National Bank; and Fund staff estimates.
+1/ Short-term debt flows, trade credit, and currency and deposits.
+2/ Errors and omissions are explicitly projected to reflect persistent unrecorded capital outflows.
+3/ Including inter-company loans.
+
+38
+
+Table 6. Croatia: External Financing Requirement, 2007-10
+(In millions of euros; unless otherwise indicated)
+
+Financing requirements
+Current account deficit
+Amortization on MLT debt (exist.+new)
+Public
+Private
+Banks 2/
+Non-banks 3/
+Repayment of short-term debt
+Public
+Private
+Banks
+Non-banks
+
+Financing sources
+Capital transfers
+FDI, net
+Disbursements on bonds and MLT loans
+Public
+Private
+Banks
+Non-banks
+Short-term financing
+Public
+Private
+Banks 1/
+Non-banks 2/
+Other flows
+Gross International Reserves (- = increase)
+Financing gap
+
+2007
+
+2008
+
+2009
+
+2010
+
+-13,688
+-3,237
+-5,698
+-940
+-4758
+-1,879
+-2,879
+-4,753
+0
+-4,753
+-2,885
+-1,869
+
+-13,131
+-4,454
+-5,412
+-776
+-4636
+-914
+-3,722
+-3,265
+-1
+-3,264
+-2,361
+-903
+
+-16,552
+-2,909
+-8,296
+-1,101
+-7,195
+-1,654
+-5,541
+-5,347
+-38
+-5,309
+-3,793
+-1,515
+
+-13,578
+-1,843
+-6,498
+-743
+-5,755
+-1,599
+-4,155
+-5,237
+-36
+-5,201
+-3,791
+-1,410
+
+13,688
+35
+3,483
+8,673
+824
+7,848
+1,249
+6,599
+4,871
+0
+4,871
+2,244
+2,627
+-2,652
+-722
+
+13,131
+32
+2,811
+8,170
+633
+7,538
+636
+6,901
+4,848
+33
+4,815
+3,634
+1,181
+-3,061
+330
+
+16,552
+35
+1,793
+7,293
+1,150
+6,143
+1,545
+4,598
+5,269
+36
+5,233
+3,791
+1,442
+550
+1,612
+
+13,578
+35
+1,934
+6,724
+1,014
+5,709
+1,581
+4,128
+5,237
+36
+5,201
+3,791
+1,410
+-1,000
+648
+
+0
+
+0
+
+0
+
+0
+
+-7.6
+9,307
+4.7
+109
+42,833
+
+-9.4
+9,121
+5.3
+69
+47,370
+
+-6.5
+7,509
+4.3
+68
+44,767
+
+-4.1
+6,860
+3.7
+55
+45,086
+
+Memorandum items
+Current account deficit (in % of GDP)
+Gross official reserves (EUR bn)
+in months of imports
+in percent of ST debt by residual maturity
+GDP (EUR bn)
+Sources: Croatian National Bank; and Fund staff estimates.
+1/ Includes longer-term currency and deposits.
+2/ Includes longer-term trade credits.
+
+39
+Table 7. Croatia: Indicators of External and Financial Vulnerability, 2004–09
+(In percent, unless otherwise indicated)
+2004
+
+2005
+
+2006
+
+2007
+
+Latest
+Value
+
+Date
+
+External indicators
+Real effective exchange rate (using consumer prices) 1/, 2000=100
+Exports of goods and services (volumes, percentage change, yoy) 2/
+Imports of goods and services (volumes, percentage change, yoy) 2/
+
+107.6
+5.4
+4.7
+
+109.7
+3.7
+3.9
+
+112.0
+6.5
+7.4
+
+113.0
+4.3
+6.5
+
+114.7
+1.7
+3.6
+
+Mar-09
+Q4 -08
+Q4 -08
+
+-1,434
+-4.4
+7.9
+
+-1,976
+-5.5
+11.0
+
+-2,715
+-6.9
+13.0
+
+-3,237
+-7.6
+11.3
+
+-4,454
+-9.4
+11.2
+
+Q4 -08
+Q4 -08
+Q4 -08
+
+6,436
+35.3
+145.5
+4.8
+47.2
+
+7,438
+35.5
+135.8
+5.1
+47.7
+
+8,725
+35.1
+138.3
+5.3
+53.8
+
+9,307
+31.6
+131.3
+5.2
+52.3
+
+8,869.5
+30.3
+125.5
+4.9
+50.1
+
+Mar-09
+Mar-09
+Mar-09
+Mar-09
+Mar-09
+
+CNB net international reserves (NIR; millions of euros)
+CNB NIR in months of current year's imports of goods and NFS
+
+5,026
+3.7
+
+5,604
+3.8
+
+6,464
+4.0
+
+7,349
+4.1
+
+8020.4
+4.1
+
+Dec-08
+Dec-08
+
+Short-term debt (by residual maturity, in percent of NIR)
+Short-term debt and current account deficit net of FDI (in percent of NIR)
+
+118.1
+132.0
+
+155.9
+158.7
+
+153.8
+150.0
+
+115.8
+138.2
+
+164.7
+178.7
+
+Dec-08
+Dec-08
+
+70.0
+24.4
+
+72.1
+27.2
+
+74.9
+37.5
+
+77.6
+37.8
+
+83.0
+34.3
+
+Q4 -08
+Q4 -08
+
+General government debt in percent of GDP
+Domestic in percent of GDP
+Foreign in percent of GDP
+
+37.9
+17.4
+20.5
+
+38.4
+21.2
+17.2
+
+35.9
+21.3
+14.5
+
+33.2
+20.6
+12.6
+
+33.5
+21.6
+11.9
+
+Dec-08
+Dec-08
+Dec-08
+
+Broad money (M4, percentage change, yoy)
+Claims on other domestic sectors (change, yoy)
+
+8.6
+14.0
+
+10.5
+17.4
+
+18.0
+23.1
+
+18.3
+15.0
+
+3.3
+9.3
+
+Mar-09
+Mar-09
+
+Current account deficit (millions of euros) 3/
+Current account deficit in percent of GDP 3/
+Capital and financial account in percent of GDP 3/
+Gross
+Gross
+Gross
+Gross
+Gross
+
+official reserves (millions of euros)
+official reserves in percent of broad money (M4)
+official reserves in percent of reserve money
+official reserves in months of current year's imports of goods and NFS
+usable international reserves in percent of domestic FX deposits
+
+Total external debt, percent of GDP
+External debt service to export ratio 3/
+Financial indicators
+
+Short-term interest rate (in percent, e.o.p.)
+Stock market CROBEX index (1000 at July 1, 1997), e.o.p.
+Zagreb Stock Exchange, capitalization (stocks, percent of GDP)
+Bond yield spreads (EMBI Global, e.o.p.)
+Debt ratings: Moody’s:
+Government bonds, foreign currency
+Government bonds, domestic currency
+Foreign debt ratings
+Fitch: Local currency LT
+Fitch: Foreign currency LT
+Standard and Poor’s: Local currency LT
+Standard and Poor’s: Foreign currency LT
+Banking system:
+Regulatory capital to risk-weighted assets
+Nonperforming loans to total loans
+Loan-loss provisions to non-performing loans
+Net open foreign exchange position to capital
+Foreign currency deposits to total deposits 4/
+Foreign currency loans to total loans 4/
+
+4.8
+
+3.0
+
+2.8
+
+6.0
+
+17.9
+
+Feb-09
+
+1,565
+35
+
+1,998
+44
+
+3,211
+70
+
+5,239
+125
+
+1,594
+50
+
+4/30/09
+Apr 2009
+
+42
+
+36
+
+40
+
+94
+
+408
+
+4/29/09
+
+Baa3
+Baa1
+
+Baa3
+Baa1
+
+Baa3
+Baa1
+
+Baa3
+Baa1
+
+Baa3
+Baa3
+
+Apr-09
+Apr-09
+
+BBB+
+BBBBBB+
+BBB
+
+BBB+
+BBBBBB+
+BBB
+
+BBB+
+BBBBBB+
+BBB
+
+BBB+
+BBBBBB+
+BBB
+
+BBB+
+BBBBBB
+BBB
+
+Mar-09
+Mar-09
+Mar-09
+Mar-09
+
+16.0
+7.5
+62.3
+18.2
+74.2
+76.7
+
+15.2
+6.2
+60.0
+7.4
+73.1
+78.5
+
+14.4
+5.2
+56.8
+2.6
+64.6
+69.6
+
+16.9
+4.8
+54.4
+4.3
+57.2
+59.8
+
+14.5
+4.8
+49.6
+1.5
+59.7
+65.4
+
+Q4 -08
+Q4 -08
+Q4 -08
+Q4 -08
+Q4 -08
+Q4 -08
+
+Sources: Croatian National Bank; Ministry of Finance; Central Bureau of Statistics; Bloomberg; MediaScan; and Fund staff estimates.
+1/ An increase in the index reflects an appreciation; annual averages through 2007.
+2/ National accounts concept.
+3/ Sum of four quarters to the latest observation.
+4/ Including foreign currency-linked deposits and loans.
+
+40
+Table 8. Croatia: Financial Soundness Indicators, 2002–08
+(Banks, in percent, unless otherwise indicated)
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+17.4
+15.2
+19.6
+10.2
+
+16.5
+14.1
+22.6
+8.9
+
+16.0
+13.7
+19.0
+7.5
+
+15.2
+13.5
+16.7
+6.2
+
+14.4
+13.3
+14.0
+5.2
+
+16.9
+16.6
+11.3
+4.8
+
+14.5
+14.2
+12.3
+4.8
+
+45.0
+44.5
+10.5
+1.6
+13.7
+56.3
+72.9
+17.6
+57.8
+...
+
+41.0
+47.8
+11.2
+1.6
+14.1
+58.9
+72.7
+18.7
+66.8
+24.7
+
+39.5
+49.9
+10.6
+1.7
+16.1
+56.6
+68.0
+16.1
+62.0
+18.2
+
+38.5
+49.7
+11.7
+1.6
+15.1
+57.9
+66.7
+11.5
+42.1
+7.4
+
+40.0
+49.4
+10.7
+1.5
+12.7
+60.7
+70.7
+12.6
+47.0
+2.6
+
+38.5
+50.7
+10.8
+1.6
+10.9
+60.5
+68.9
+12.7
+49.3
+4.3
+
+38.2
+49.7
+12.1
+1.6
+10.1
+59.9
+65.0
+11.6
+51.6
+1.5
+
+9.5
+151.3
+
+8.9
+128.4
+
+8.6
+161.4
+
+9.0
+122.6
+
+10.3
+77.0
+
+12.5
+58.4
+
+13.5
+48.5
+
+99.5
+0.5
+...
+...
+43.7
+33.9
+11.0
+5.5
+80.9
+75.8
+76.0
+...
+
+99.6
+0.4
+...
+...
+41.1
+32.5
+10.1
+5.0
+87.0
+70.9
+76.1
+...
+
+99.8
+0.2
+0.8
+1.2
+43.4
+32.7
+9.9
+4.2
+92.2
+76.7
+78.1
+0.3
+
+99.7
+0.3
+0.6
+1.0
+42.1
+34.1
+9.5
+3.8
+101.1
+78.5
+78.8
+0.2
+
+99.5
+0.5
+0.9
+0.7
+43.4
+33.8
+8.2
+3.3
+107.6
+69.6
+78.0
+0.1
+
+99.3
+0.7
+0.6
+0.9
+44.5
+34.4
+7.0
+3.2
+105.6
+59.8
+73.6
+0.2
+
+99.2
+0.8
+0.2
+3.2
+40.1
+36.1
+7.2
+3.8
+113.9
+65.4
+75.7
+0.0
+
+Other Financial Corporations (OFCs)
+OFCs’ assets to total financial system assets
+OFCs’ assets to GDP
+
+15.0
+14.0
+
+16.6
+17.1
+
+18.6
+20.8
+
+21.3
+26.1
+
+23.6
+32.3
+
+26.0
+38.6
+
+21.8
+30.1
+
+Nonfinancial Corporations 5/
+Total debt to equity
+Return on equity
+Net foreign exchange exposure to equity
+
+44.5
+3.6
+8.9
+
+40.9
+1.8
+10.0
+
+45.9
+2.7
+10.9
+
+49.3
+4.4
+12.4
+
+43.4
+5.2
+11.1
+
+50.6
+5.8
+9.6
+
+…
+…
+…
+
+Households
+Bank loans to households to GDP
+Household debt service (interest) payments to income 6/
+
+19.7
+4.6
+
+23.2
+6.1
+
+25.5
+6.0
+
+28.6
+6.1
+
+32.4
+5.2
+
+34.9
+5.5
+
+35.8
+6.1
+
+Real Estate Markets
+Residential real estate prices (annual percentage increase)
+Residential real estate loans to total loans
+
+...
+13.0
+
+...
+15.0
+
+...
+16.8
+
+...
+17.9
+
+17.5
+19.5
+
+9.0
+20.7
+
+5.8
+21.1
+
+Core Set
+Regulatory capital to risk-weighted assets
+Regulatory Tier I capital to risk-weighted assets
+Nonperforming loans net of loan-loss provisions to capital
+Nonperforming loans to total gross loans 1/
+Sectoral distribution of loans to total loans
+Nonfinancial corporations
+Households
+Other sectors
+Return on assets
+Return on equity
+Net interest income to gross income
+Noninterest expenses to gross income
+Liquid assets to total assets 2/
+Liquid assets to short-term liabilities 2/
+Net open position in foreign exchange to capital
+Encouraged Set
+Deposit Takers 3/
+Capital to assets
+Large exposures to capital
+Geographical distribution of loans to total loans
+Residents
+Nonresidents
+Gross asset position in derivatives to capital
+Gross liability position in derivatives to capital
+Noninterest income to total income
+Personnel expenses to noninterest expenses
+Spread between domestic lending and deposit rates
+Spread between foreign exchange lending and deposit rates
+Noninterbank loans to noninterbank deposits
+Foreign currency-denominated loans to total loans 4/
+Foreign currency-denominated liabilities to total liabilities 4/
+Net open position in equities to capital
+
+Source: Croatian National Bank.
+1/ Assets include gross loans, interbank loans, investment portfolio of banks, total interest income, total off-balance sheet claims.
+2/ Liquid assets are on a net basis. They include deposits at banks and at the central bank, short-term government and central bank paper,
+and overnight loans extended; less required reserve funds, central bank loans received, and overnight loans received. The sharp decline in
+liquidity in 2005 coincided with the start of reverse repo operations by the CNB that gave banks market-based access to liquidity when needed.
+3/ Commercial banks only. End-year FSIs, based on audited annual financial statements, can differ slightly from quarterly data.
+4/ Includes kuna-denominated instruments linked to foreign currencies.
+5/ Based on unconsolidated audited financial statements following IAS; not in line with the IMF FSI Compilation Guide.
+6/ 2008 data corresponds to the third quarter.
+
+95.5
+
+Public sector debt-to-revenue ratio 1/
+
+90.5
+
+-2.5
+-2.2
+-0.1
+39.6
+39.5
+-1.2
+-1.0
+0.6
+-1.7
+-0.1
+-1.0
+-1.4
+0.5
+0.0
+-0.3
+
+35.9
+28.9
+
+Actual
+2006
+
+81.5
+
+-2.7
+-2.5
+-0.5
+40.7
+40.2
+-1.5
+-1.4
+0.4
+-1.8
+-0.1
+-0.5
+-1.0
+0.5
+0.0
+-0.2
+
+33.2
+26.4
+
+2007
+
+84.2
+
+0.3
+-1.5
+-0.8
+39.8
+39.0
+-1.1
+-1.1
+-0.3
+-0.7
+0.0
+0.3
+-0.3
+0.6
+0.0
+1.8
+
+33.5
+24.0
+
+2008
+
+4.2
+5.6
+1.8
+-0.3
+3.8
+-0.1
+1.6
+
+4.2
+5.5
+2.2
+4.0
+3.3
+1.4
+0.9
+
+4.7
+5.4
+2.0
+0.4
+3.4
+3.2
+-0.1
+
+5.5
+5.4
+1.4
+0.3
+4.0
+7.3
+-0.5
+
+2.4
+5.4
+-1.0
+0.0
+6.4
+-0.7
+-0.8
+
+97.2
+
+1.9
+1.9
+0.5
+39.6
+40.1
+1.0
+1.0
+1.1
+-0.1
+...
+0.4
+-0.1
+0.5
+0.0
+0.0
+
+38.5
+22.8
+
+2010
+
+96.4
+
+-0.1
+-0.1
+-0.3
+39.9
+39.6
+-0.1
+-0.1
+0.8
+-0.9
+...
+0.4
+-0.1
+0.5
+0.0
+0.0
+
+38.5
+20.4
+
+93.5
+
+-1.3
+-1.3
+-0.8
+39.7
+39.0
+-0.9
+-0.9
+0.5
+-1.4
+...
+0.4
+-0.1
+0.5
+0.0
+0.0
+
+37.2
+20.1
+
+Projections
+2011
+2012
+
+88.2
+
+-2.1
+-2.1
+-1.6
+39.8
+38.2
+-0.9
+-0.9
+0.5
+-1.4
+...
+0.4
+-0.1
+0.5
+0.0
+0.0
+
+35.1
+19.9
+
+2013
+
+82.6
+
+-2.4
+-2.4
+-2.1
+39.6
+37.6
+-0.8
+-0.8
+0.6
+-1.3
+...
+0.4
+-0.1
+0.5
+0.0
+0.0
+
+32.7
+18.6
+
+2014
+
+-3.5
+5.3
+3.3
+...
+2.0
+-1.4
+0.3
+
+36.7
+36.7
+
+0.3
+5.4
+3.2
+...
+2.2
+0.9
+0.5
+
+38.4
+38.7
+
+2.5
+5.0
+2.2
+...
+2.7
+1.3
+-0.3
+
+40.0
+39.3
+
+4.0
+4.6
+1.6
+...
+3.0
+2.3
+-0.8
+
+41.7
+39.1
+
+4.0
+4.6
+1.6
+...
+3.0
+2.0
+-1.6
+
+43.3
+38.9
+
+4.0
+4.8
+1.8
+...
+3.0
+2.2
+-2.1
+
+45.0
+38.8
+
+11.0
+10.9
+10.5
+7.4
+6.2
+6.3
+4915.9 4925.4 4970.0 3750.8 3368.7 3650.3
+
+92.8
+
+3.2
+3.2
+0.3
+39.5
+39.9
+2.4
+2.4
+1.2
+1.2
+...
+0.5
+0.0
+0.5
+0.0
+0.0
+
+36.7
+23.7
+
+2009
+
+1/ Indicate coverage of public sector, e.g., general government or nonfinancial public sector. Also whether net or gross debt is used.
+2/ Derived as [(r - π(1+g) - g + αε(1+r)]/(1+g+π+gπ)) times previous period debt ratio, with r = interest rate; π = growth rate of GDP deflator; g = real GDP growth rate; α = share of foreign-currency
+denominated debt; and ε = nominal exchange rate depreciation (measured by increase in local currency value of U.S. dollar).
+3/ The real interest rate contribution is derived from the denominator in footnote 2/ as r - π (1+g) and the real growth contribution as -g.
+4/ The exchange rate contribution is derived from the numerator in footnote 2/ as αε(1+r).
+5/ For projections, this line includes exchange rate changes.
+6/ Defined as public sector deficit, plus amortization of medium and long-term public sector debt, plus short-term debt at end of previous period.
+7/ The key variables include real GDP growth; real interest rate; and primary balance in percent of GDP.
+8/ Derived as nominal interest expenditure divided by previous period debt stock.
+9/ Assumes that key variables (real GDP growth, real interest rate, and other identified debt-creating flows) remain at the level of the last projection year.
+
+Real GDP growth (in percent)
+Average nominal interest rate on public debt (in percent) 8/
+Average real interest rate (nominal rate minus change in GDP deflator, in percent)
+Nominal appreciation (increase in US dollar value of local currency, in percent)
+Inflation rate (GDP deflator, in percent)
+Growth of real primary spending (deflated by GDP deflator, in percent)
+Primary deficit
+
+Key Macroeconomic and Fiscal Assumptions Underlying Baseline
+
+Scenario with key variables at their historical averages 7/
+Scenario with no policy change (constant primary balance) in 2009-2014
+
+97.8
+
+0.5
+-1.2
+0.9
+39.2
+40.1
+-2.0
+-0.8
+0.7
+-1.5
+-1.2
+-0.1
+-0.5
+0.4
+0.0
+1.7
+
+38.4
+31.4
+
+2005
+
+12.4
+11.7
+9.8
+8.7
+7.0
+4048.4 4174.0 3832.1 3718.2 3312.1
+
+2.1
+1.4
+1.6
+39.7
+41.2
+-0.8
+-0.9
+0.6
+-1.4
+0.1
+0.6
+-0.5
+1.1
+0.0
+0.7
+
+Change in public sector debt
+Identified debt-creating flows (4+7+12)
+Primary deficit
+Revenue and grants
+Primary (noninterest) expenditure
+Automatic debt dynamics 2/
+Contribution from interest rate/growth differential 3/
+Of which contribution from real interest rate
+Of which contribution from real GDP growth
+Contribution from exchange rate depreciation 4/
+Other identified debt-creating flows
+Privatization receipts (negative)
+Recognition of implicit or contingent liabilities
+Other (specify, e.g. bank recapitalization)
+Residual, including asset changes (2-3) 5/
+
+Gross financing need 6/
+in billions of U.S. dollars
+
+37.9
+32.2
+
+Baseline: Public sector debt 1/
+o/w foreign-currency denominated
+
+2004
+
+Table 9. Croatia: Public Sector Debt Sustainability Framework, 2004-14
+(In percent of GDP, unless otherwise indicated)
+
+-0.5
+-0.4
+
+Debt-stabilizing
+primary
+balance 9/
+-0.3
+
+41
+
+42
+Figure 9. Croatia: Public Debt Sustainability: Bound Tests 1/
+(Public debt in percent of GDP)
+Interest rate shock (in percent)
+
+Baseline and historical scenarios
+15
+
+60
+Gross financing need under
+baseline
+(right scale)
+
+55
+
+13
+
+50
+Historical 45
+
+45
+
+11
+
+60
+55
+
+Baseline:
+
+2.1
+
+Scenario:
+
+2.6
+
+Historical:
+
+50
+45
+
+9
+40
+
+7
+33
+
+30
+25
+2004
+
+2006
+
+2008
+
+2010
+
+34
+
+Baseline
+
+35
+
+33
+
+30
+25
+2004
+
+2006
+
+2008
+
+2010
+
+2012
+
+2014
+
+Primary balance shock (in percent of GDP) and
+no policy change scenario (constant primary balance)
+
+Growth shock (in percent per year)
+
+60
+
+5
+
+3
+2014
+
+2012
+
+Interest
+rate shock
+
+40
+
+Baseline
+
+35
+
+1.7
+
+60
+
+55
+50
+
+Baseline:
+
+3.0
+
+Scenario:
+
+1.9
+
+Historical:
+
+3.7
+
+Growth
+shock
+
+45
+40
+
+Baseline:
+
+0.8
+
+55
+
+Scenario:
+
+-0.2
+
+50
+
+Historical:
+
+-2.1
+
+PB shock
+
+45
+41
+
+39
+
+40
+
+35
+
+Baseline
+
+33
+
+30
+
+38
+
+35
+
+Baseline
+
+30
+
+25
+2004
+
+2006
+
+2008
+
+2010
+
+2012
+
+2014
+
+25
+2004
+
+60
+
+55
+
+55
+
+50
+
+50
+
+37
+Baseline
+
+35
+30
+
+2006
+
+2008
+
+2010
+
+2010
+
+2012
+
+2014
+
+2012
+
+30 %
+depreciation
+
+Contingent
+liabilities
+shock
+
+40
+
+Baseline
+
+35
+33
+
+25
+2004
+
+2008
+
+45
+
+Combined
+shock
+
+40
+
+2006
+
+Real depreciation and contingent liabilities shocks 3/
+
+Combined shock 2/
+60
+
+45
+
+33
+
+No policy change
+
+2014
+
+43
+42
+33
+
+30
+25
+2004
+
+2006
+
+2008
+
+2010
+
+2012
+
+2014
+
+Sources: International Monetary Fund, country desk data, and staff estimates.
+1/ Shaded areas represent actual data. Individual shocks are permanent one-half standard deviation shocks. Figures in the
+boxes represent average projections for the respective variables in the baseline and scenario being presented. Ten-year
+historical average for the variable is also shown.
+2/ Permanent 1/4 standard deviation shocks applied to real interest rate, growth rate, and primary balance.
+3/ One-time real depreciation of 30 percent and 10 percent of GDP shock to contingent liabilities occur in 2009, with real
+depreciation defined as nominal depreciation (measured by percentage fall in dollar value of local currency) minus domestic
+inflation (based on GDP deflator).
+
+4.2
+4.7
+3.9
+8.4
+6.7
+-2.0
+2.0
+
+5.7
+17.5
+
+4.2
+4.7
+3.7
+7.2
+7.9
+-3.1
+3.6
+
+7.9
+22.1
+
+168.6
+
+2.1
+-3.9
+3.1
+6.2
+42.8
+48.9
+-3.6
+-3.4
+2.4
+-2.7
+-3.1
+5.9
+
+72.1
+
+2005
+
+4.7
+4.5
+4.0
+11.3
+12.4
+-4.3
+6.6
+
+11.4
+29.3
+
+172.3
+
+2.8
+-5.9
+4.3
+6.8
+43.5
+50.2
+-6.6
+-3.6
+2.7
+-3.1
+-3.1
+8.7
+
+74.9
+
+Actual
+2006
+
+5.5
+3.9
+4.7
+7.6
+9.4
+-4.3
+8.1
+
+13.2
+30.8
+
+181.8
+
+2.8
+-7.1
+4.3
+7.4
+42.7
+50.1
+-8.1
+-3.3
+3.2
+-3.7
+-2.8
+9.9
+
+77.6
+
+2007
+
+2.4
+8.0
+4.7
+8.5
+10.5
+-6.1
+5.9
+
+13.0
+27.4
+
+198.1
+
+5.3
+-4.0
+6.1
+8.2
+41.9
+50.1
+-5.9
+-4.2
+3.3
+-1.7
+-5.8
+9.3
+
+83.0
+
+2008
+
+-3.5
+-2.0
+3.0
+-9.6
+-13.2
+-3.8
+4.0
+
+85.4
+
+16.1
+36.0
+
+213.1
+
+2.4
+5.6
+3.8
+6.0
+40.1
+46.0
+-4.0
+5.8
+2.7
+3.1
+...
+-3.2
+
+85.4
+
+2009
+
+0.3
+0.5
+3.9
+5.5
+1.6
+-0.7
+4.3
+
+81.9
+
+12.8
+28.4
+
+203.1
+
+-0.1
+-0.4
+0.7
+4.5
+42.0
+46.4
+-4.3
+3.1
+3.3
+-0.2
+...
+0.3
+
+85.3
+
+2010
+
+2.5
+2.7
+4.0
+6.4
+6.0
+-1.2
+5.4
+
+81.1
+
+14.6
+30.7
+
+196.7
+
+-1.9
+-3.0
+1.2
+4.3
+42.4
+46.8
+-5.4
+1.2
+3.2
+-2.0
+...
+1.2
+
+83.4
+
+2011
+
+4.0
+3.0
+3.8
+6.7
+6.8
+-2.0
+6.0
+
+81.0
+
+14.1
+27.7
+
+192.2
+
+-2.3
+-4.1
+2.0
+4.4
+42.2
+46.6
+-6.0
+-0.2
+2.9
+-3.1
+...
+1.9
+
+81.1
+
+4.0
+3.0
+3.9
+7.2
+7.0
+-2.0
+6.2
+
+81.0
+
+13.9
+25.5
+
+186.7
+
+-2.3
+-4.3
+2.0
+4.3
+42.2
+46.6
+-6.2
+-0.1
+3.0
+-3.0
+...
+2.0
+
+78.9
+
+4.0
+3.0
+3.5
+7.8
+7.3
+-1.9
+6.5
+
+81.5
+
+14.3
+24.5
+
+180.1
+
+-2.4
+-5.0
+1.9
+4.1
+42.5
+46.6
+-6.5
+-0.4
+2.5
+-2.9
+...
+2.6
+
+76.5
+
+Projections
+2012
+2013
+2014
+
+-7.2
+
+Debt-stabilizing
+non-interest
+current account 6/
+-9.1
+
+1/ Derived as [r - g - ρ(1+g) + εα(1+r)]/(1+g+ρ+gρ) times previous period debt stock, with r = nominal effective interest rate on external debt; ρ = change in domestic GDP deflator in US dollar terms, g = real GDP growth ra
+ε = nominal appreciation (increase in dollar value of domestic currency), and α = share of domestic-currency denominated debt in total external debt.
+2/ The contribution from price and exchange rate changes is defined as [-ρ(1+g) + εα(1+r)]/(1+g+ρ+gρ) times previous period debt stock. ρ increases with an appreciating domestic currency (ε > 0) and rising inflation (base
+3/ For projection, line includes the impact of price and exchange rate changes.
+4/ Defined as current account deficit, plus amortization on medium- and long-term debt, plus short-term debt at end of previous period. Excludes LT trade credit and movements in LT currency and deposits.
+5/ The key variables include real GDP growth; nominal interest rate; dollar deflator growth; and both non-interest current account and non-debt inflows in percent of GDP.
+6/ Long-run, constant balance that stabilizes the debt ratio assuming that key variables (real GDP growth, nominal interest rate, dollar deflator growth, and non-debt inflows in percent of GDP) remain at their levels
+of the last projection year.
+
+Real GDP growth (in percent)
+GDP deflator in Euro (change in percent)
+Nominal external interest rate (in percent)
+Growth of exports (Euro terms, in percent)
+Growth of imports (Euro terms, in percent)
+Current account balance, excluding interest payments
+Net non-debt creating capital inflows
+
+Key Macroeconomic Assumptions Underlying Baseline
+
+Scenario with key variables at their historical averages 5/
+
+Gross external financing need (in billions of Euros) 4/
+in percent of GDP
+
+161.0
+
+3.8
+-3.2
+2.0
+6.0
+43.5
+49.4
+-2.0
+-3.2
+2.4
+-2.6
+-3.0
+7.0
+
+Change in external debt
+Identified external debt-creating flows (4+8+9)
+Current account deficit, excluding interest payments
+Deficit in balance of goods and services
+Exports
+Imports
+Net non-debt creating capital inflows (negative)
+Automatic debt dynamics 1/
+Contribution from nominal interest rate
+Contribution from real GDP growth
+Contribution from price and exchange rate changes 2/
+Residual, incl. change in gross foreign assets (2-3) 3/
+
+External debt-to-exports ratio (in percent)
+
+70.0
+
+Baseline: External debt
+
+2004
+
+Table 10. Croatia: External Debt Sustainability Framework, 2004-14
+(In percent of GDP, unless otherwise indicated)
+
+43
+
+44
+Figure 10. Croatia: External Debt Sustainability: Bound Tests 1/
+(External debt in percent of GDP)
+Interest rate shock (in percent)
+
+Baseline and historical scenarios
+120
+
+Gross financing need
+under baseline
+(right scale)
+
+110
+100
+
+Baseline
+
+Historical
+
+90
+
+81
+
+80
+
+120
+
+38
+
+110
+
+34
+
+100
+
+30
+
+90
+
+26
+
+80
+
+22
+
+70
+
+18
+
+60
+
+60
+50
+
+14
+
+2006
+
+2008
+
+2010
+
+10
+2014
+
+2012
+
+Growth shock (in percent per year)
+
+77
+
+50
+40
+2004
+
+120
+
+120
+
+110
+
+110
+
+2006
+
+2008
+
+Baseline:
+
+3.8
+
+Scenario:
+
+4.4
+
+Historical:
+
+5.0
+
+2010
+
+2012
+
+2014
+
+Non-interest current account shock
+(in percent of GDP)
+
+100
+
+100
+
+Growth
+shock
+
+90
+
+90
+80
+
+80
+Baseline
+
+70
+60
+50
+40
+2004
+
+i-rate shock
+79
+
+Baseline
+
+77
+
+70
+
+40
+2004
+
+42
+
+2006
+
+2008
+
+77
+
+Baseline:
+
+3.0
+
+Scenario:
+
+1.9
+
+Historical:
+
+3.7
+
+2010
+
+2012
+
+CA shock
+Baseline
+
+70
+60
+50
+
+2014
+
+40
+2004
+
+Combined shock 2/
+140
+
+120
+
+81
+
+80
+77
+
+Baseline:
+
+-1.6
+
+Scenario:
+
+-2.6
+-3.2
+
+Historical:
+2006
+
+2008
+
+2010
+
+2012
+
+2014
+
+Real depreciation shock 3/
+
+130
+
+110
+
+120
+
+100
+
+Combined
+shock
+
+90
+80
+
+Baseline
+
+70
+
+30%
+depreciation
+
+110
+82
+
+107
+
+100
+90
+
+77
+
+80
+
+Baseline
+
+70
+
+60
+
+77
+
+60
+
+50
+
+50
+
+40
+2004
+
+2006
+
+2008
+
+2010
+
+2012
+
+2014
+
+40
+2004
+
+2006
+
+2008
+
+2010
+
+2012
+
+2014
+
+Sources: International Monetary Fund, Country desk data, and staff estimates.
+1/ Shaded areas represent actual data. Individual shocks are permanent one-half standard deviation shocks.
+Figures in the boxes represent average projections for the respective variables in the baseline and scenario
+being presented. Ten-year historical average for the variable is also shown.
+2/ Permanent 1/4 standard deviation shocks applied to real interest rate, growth rate, and current account
+balance.
+3/ One-time real depreciation of 30 percent occurs in 2010.
+
+45
+Appendix I. Main Recommendations of the 2007 FSAP Update
+Measures
+Financial sector stability
+Carefully plan the transition from administrative measures, with the
+objective of eliminating negative side effects while maintaining
+financial stability
+
+Continue to monitor closely and frequently banks’ risk management
+practices and lending standards and take appropriate measures to
+address emerging risks
+Strengthen stress testing analyses and regularly use in monitoring
+risks and assessing financial stability
+Reduce fiscal and other incentives to the extent they stimulate
+particular types of bank loans
+Continue efforts to raise risk awareness of banks, borrowers, and
+stock market investors
+Expand the coverage of the credit registry to include non-banking
+institutions
+Contingency planning
+Establish formal communications with monetary and supervisory
+authorities of the parent banks on issues of crisis management
+Adopt the law on deposit insurance consistent with the EU
+framework and design of an effective bank resolution mechanism,
+with clarity as to the legal framework and roles and responsibilities
+of all the parties involved in bank resolution and restructuring
+process
+Liquidity and risk management
+Broaden the range of eligible collateral for central bank lending to
+help reduce segmentation in the interbank money market
+Develop hedging markets/instruments to facilitate management of
+interest and FX risks
+Nonbank financial sector and cross-sector risks
+Build comprehensive data and monitoring processes (investor
+composition, trading trends and composition, automated early
+warning system for suspicious trades), and map ownership
+structures of conglomerates, and clarify the roles for their
+supervision
+Improve regulatory capacity to monitor and enforce financial
+accounting standards and market disclosure
+Increase pension funds’ permissible investments in foreign
+securities
+Pursue plans to increase the level of contribution and further
+privatize the pension fund system
+Enhance supervisory capacity to migrate to Solvency II risk based
+standards for insurance companies
+
+Status
+Ongoing. Several requirements
+(marginal reserve requirement,
+special reserve requirement) were
+eliminated, reserve requirement was
+reduced.
+Ongoing. A lending survey is
+periodically produced by the CNB.
+Stress tests are used in monitoring
+risks.
+No action. This has become a less
+pressing issue in the current
+environment of credit slowdown.
+Ongoing.
+Done.
+
+There is no formal communication
+mechanism, but periodic discussions
+take place.
+Amendments to the deposit insurance
+law were passed in October 2008,
+and a new deposit insurance law is
+planned for adoption later in 2009.
+
+No action. The authorities are of the
+view that this could lead to pressures
+on the FX market.
+Ongoing.
+
+Work is under way.
+
+Ongoing.
+No action.
+No action.
+Resources of the nonbank
+supervisory agency were expanded.
+
+INTERNATIONAL MONETARY FUND
+REPUBLIC OF CROATIA
+Staff Report for the 2009 Article IV Consultation—Informational Annex
+Prepared by the European Department
+(In consultation with other departments)
+
+May 21, 2009
+
+Contents
+
+Page
+
+I. Fund Relations........................................................................................................................2
+II. Statistical Issues ....................................................................................................................6
+III. World Bank Relations........................................................................................................10
+
+2
+Annex I. Croatia: Fund Relations
+(as of April 30, 2009)
+
+I.
+
+Membership Status: Joined December 14, 1992; Article VIII.
+
+II.
+
+General Resources Account:
+
+Quota
+Fund holdings of currency
+Reserve position in Fund
+III.
+
+SDR million
+365.10
+364.94
+0.16
+
+% Quota
+100.00
+99.96
+0.04
+
+SDR million
+44.21
+0.04
+
+% Allocation
+100.0
+0.09
+
+SDR Department:
+
+Net cumulative allocation
+Holdings
+IV.
+
+Outstanding Purchases and Loans:
+
+V.
+
+Financial Arrangements:
+
+Type
+Stand-By
+Stand-By
+Stand-By
+EFF
+
+Approval
+Date
+8/04/2004
+2/03/2003
+3/19/2001
+3/12/1997
+
+None
+
+Expiration
+Date
+11/15/2006
+4/02/2004
+5/18/2002
+3/11/2000
+
+Amount
+Approved
+(SDR million)
+99.00
+105.88
+200.00
+353.16
+
+Amount
+Drawn
+(SDR million)
+0.00
+0.00
+0.00
+28.78
+
+3
+VI.
+
+Projected Obligations to Fund (SDR million; based on present holdings of
+SDRs):1
+
+Principal
+Charges/Interest
+Total
+VII.
+
+2009
+
+Forthcoming
+2010 2011 2012
+
+2013
+
+0.15
+0.15
+
+0.19
+0.19
+
+0.19
+0.19
+
+0.19
+0.19
+
+0.19
+0.19
+
+Exchange Rate Arrangement:
+In December 1991, Croatia left the Yugoslav dinar area and adopted the Croatian
+dinar as its sole legal tender. The Croatian dinar was replaced by the Croatian kuna
+on May 30, 1994. The exchange rate of the kuna is determined by supply and
+demand in the interbank market, with tight management by the CNB. Croatia’s de
+facto exchange rate arrangement is classified as “other managed arrangement”
+from January 1, 2009. The CNB transacts only in euros, U.S. dollars, and SDRs.
+On May 19, 2009 the official exchange rate was kuna 7.379325 per euro (middle
+rate).
+
+VIII.
+
+Exchange Restrictions:
+Croatia has accepted the obligations of Article VIII, Section 2–4 and maintains an
+exchange system that is free of restrictions on payments and transfers for current
+international transactions, except for restrictions that Croatia maintains solely for
+the preservation of national or international security that have been notified to the
+Fund pursuant to Executive Board Decision 144(52/51).
+
+IX.
+
+Article IV Consultation:
+The previous Article IV consultation with Croatia was concluded on May 9, 2008
+(IMF Country Reports Nos. 08/158 and 08/159 available at:
+http://www.imf.org/external/country/hrv/index.htm). Croatia is on the 12-month
+consultation cycle.
+
+1
+
+On December 27, 2002 Croatia made an early repurchase in respect of the entire amount of Fund credit
+outstanding. The charges shown below are net charges and assessments by the SDR Department.
+
+4
+X.
+
+FSAP:
+An FSAP Update mission took place in October–November 2007. The FSSA
+Update was published (IMF Country Report No. 160 available
+http://www.imf.org/external/country/hrv/index.htm).
+The original FSAP was concluded with the completion of the 2002 Article IV
+consultation on August 5, 2002 on the basis of missions that took place in April
+2001 and September 2001. The FSSA was published (IMF Country Report
+No. 02/180).
+
+XI.
+
+Technical Assistance 2000–09:2
+
+Department Timing
+FAD
+April 2000
+May 2000
+September 2001
+March 2002
+September 2003–
+March 2004
+May 2004
+April 2005
+
+STA
+
+2
+
+February–March 2007
+April 2007
+January–February 2008
+March 2000
+September 2000
+October 2000
+April 2001
+March 2002
+October 2002
+September 2006
+
+Purpose
+Implementation of Single Treasury Account
+Tax Policy
+Fiscal Decentralization
+Accounting and Budgetary Classification (with
+STA)
+A Resident Advisor on Fiscal Reporting
+Fiscal ROSC
+Review of Indirect Tax Performance and Tax
+Administration
+Revenue Administration (with World Bank)
+Public-Private Partnerships
+Short-Term Expenditure Rationalization
+Quarterly National Accounts
+Balance of Payments
+Quarterly National Accounts
+Monetary Statistics
+Accounting and Budgetary Classification (FAD)
+Government Finance Statistics
+Monetary and Financial Statistics
+
+Technical assistance during 1992–99 is listed in Annex I of IMF Country Report No. 03/27.
+
+5
+MCM
+
+May–June 2000
+
+March–April 2001
+December 2001
+April 2003
+February 2004
+January 2007–continuing
+XII.
+
+Coordination between CNB and the Ministry of
+Finance, Central Bank Law, Banking Law, and
+Money and Securities Markets
+Central Bank Accounting
+Monetary Policy Instruments
+Stress Testing and Foreign Exchange Reserve
+Management
+Monetary Policy Instruments
+Macroeconomic Modeling and Forecasting
+
+Resident Representative: The post closed in June 2007.
+
+6
+
+Annex II. Croatia: Statistical Issues
+1.
+Data provision is broadly adequate for effective surveillance, though some
+improvements would be desirable. While remedial action has been taken to improve data
+coverage and reliability in most cases, progress in some instances has been impeded by
+insufficient resources and issues regarding coordination among government agencies. Croatia
+subscribes to the Special Data Dissemination Standard.
+A. National Accounts
+2.
+The national accounts have undergone substantial improvements in the last few years.
+The Central Bureau of Statistics (CBS) publishes constant and current price data compiled in
+accordance with the 1995 ESA. Quarterly GDP estimates are disseminated at current prices
+and at constant (2000) prices for the main categories of expenditure and main industry
+groupings. Nonetheless, shortcomings remain. Significant discrepancies exist between
+expenditure-based and value-added-based GDP data, stemming from: (i) problems of
+coordination between the CBS and the Croatian National Bank (CNB) in reconciling tourism
+receipts estimates; (ii) incomplete coverage of unincorporated businesses and the selfemployed (farmers, traders, and craftsmen); (iii) inadequate data for measuring changes in
+inventories; (iv) incomplete coverage of the informal sector; and (v) a lack of quarterly data
+for the seasonally volatile agricultural sector. Other shortcomings include: (i) inadequate
+conversion of government finance statistics from a cash to an accrual basis; (ii) inadequate
+price deflators; and (iii) late publication of annual data, which show large differences with
+quarterly data.
+B. Prices
+3.
+The CBS produces a monthly consumer price index, with expenditure weights
+(updated every five years) derived from a 2005 Household Budget Survey. Between
+rebasing, the weights are price-updated annually to December of the previous year. Data are
+collected at different time periods in the month for different product groups but in all cases
+between the thirteenth and the twenty-first day of each month. The indices are released
+around the fifteenth day of the following month. The price collection is confined to nine
+towns, but the weights are based on a sample of households in the whole country. A
+harmonized index of consumer prices (HICP) is also calculated in line with Eurostat
+methodology, but is not released for the time being to avoid confusion. A core CPI is also
+calculated based on a methodology developed by the CNB. The CBS also releases a monthly
+producer price index (PPI), usually on the eighth day of the following month. The weighting
+system of the PPI is based on the 2000 Annual Report of Industry and is changed every five
+years, while weights are partially corrected every year.
+C. Wages and Employment
+4.
+The CBS produces data on average net and gross earnings per person and
+employment by sector. Earning data include bonuses, sick pay, and meal allowances, and are
+
+7
+based on monthly surveys covering 70 percent of workers in permanent employment in each
+industrial category. They do not cover a significant part of the working population, including
+persons employed in trade and crafts, contract workers, farmers, and the military and police.
+5.
+The number of registered unemployed overstates the actual level of unemployment. A
+preliminary Labor Force Survey, which meets ILO standards, was conducted for the first
+time in 1996 on 7,200 households. The sample was subsequently expanded and the survey is
+now being conducted on a regular basis. The CBS released semi-annual results from 1998,
+and began releasing quarterly results in 2007 with a lag of about four months. The difference
+between the survey-based unemployment rate and that based on the registered unemployed
+has recently been reduced.
+D. Government Finance Statistics
+6.
+The authorities have started presenting budget plans based on the ESA 95 framework,
+but government finance statistics produced on a monthly basis on the GFSM framework
+(GFS) have been available in the Monthly Statistical Review of the Ministry of Finance
+(MoF). Data normally come with a lag of 30 days, but recently the lag has been much longer:
+the latest observation is from November 2008. While preliminary data were provided to the
+mission, the publication of final data would reduce uncertainties around the fiscal policy
+stance. Revenue data are reliable, and expenditure data on a cash basis are available
+according to GFS classifications (economic and functional) for the central budget and the
+budgetary funds. The data on central government financing in the MoF reports are not
+reconciled with those in the CNB’s monetary survey and balance of payments data, with
+substantial discrepancies owing partly to different methodologies and definitions of
+government. Following the recommendations of the October 2002 GFS mission, a task force,
+comprising staff from the MoF, CNB, and CBS was formed to reconcile central government
+financing data produced by these institutions; after a slow start.
+7.
+The detailed data on domestic public bonds published in the Monthly Statistical
+Review are now augmented by a central government debt table in the CNB Monthly Bulletin,
+which also reports stocks of central government guaranteed debt. The MoF prepared a
+database with government guarantees in July 2003 that has been used to monitor
+developments in the stock and flows of guarantees.
+8.
+Data on the operations of local governments and consolidated general government are
+available only on a quarterly basis and usually with a lag of 30 days. Recently, the lag has
+been much longer, and no data have been available for the period after the second quarter of
+2008. Again, while preliminary data were provided to the mission, the publication of final
+data would reduce uncertainties around the fiscal policy stance. Local government data are
+partial as they include the operations of the 53 largest municipalities. Annual cash data
+through 2007 for the general government and its subsectors are published in the 2008 GFS
+Yearbook. Up-to-date monthly data for the budgetary central government were reported for
+publication in the IFS until November 2008. All data for the GFS Yearbook and IFS have
+been reported in the GFSM 2001 framework.
+
+8
+E. Monetary Data
+9.
+Compilation of monetary statistics published by the CNB is consistent with the
+recommendations of the IMF’s 2000 Monetary and Financial Statistics Manual (MFSM).
+Data on the monetary survey, including separate records for deposit money banks and the
+balance sheet of the CNB, are published monthly with four- and two-week lags, respectively.
+The CNB is planning to extend its statistical framework to balance sheet information of
+investment funds and insurance companies. In March 2002, the CNB started collecting
+financial information (balance sheets and investment structure) from investment and pension
+funds; the data are not yet published, but used for internal purposes. According to the CNB,
+the inclusion of other financial corporations in monetary statistics depends on the
+harmonization process of the monetary statistics with the statistical reporting requirements of
+the European Central Bank. In November 2006, the CNB reported monetary data in the
+format of Standardized Report Forms for December 2001 to the present. These data accord
+with the concepts and definitions in MFSM and were published, along with the corresponding
+metadata, in IFS and the IFS Supplement on Monetary and Financial Statistics.
+F. External Sector Statistics
+10.
+Quarterly balance of payments data are compiled broadly in accordance with the fifth
+edition of the IMF’s Balance of Payments Manual. Data are generally available with a lag of
+two months and are subject to substantial revisions in subsequent releases; trade data are
+available with a lag of one month and data on international reserves are available the next
+day on request. Travel survey methodologies were modified in 2002, 2004, and again
+in 2005, while the method for estimating the cost of insurance and freight was modified in
+early 2004. The most recent modification of tourism revenue contributed to an upward
+revision of the current account deficit for 2004 equivalent to 0.7 percent of GDP. Net errors
+and omissions have ranged from 2½ to 3¾ percent of GDP since 2003, and are negative. The
+coverage and quality of portfolio investment data are reasonably complete and accurate.
+11.
+A large part of external debt was contracted prior to the dissolution of the former
+Socialist Federal Republic of Yugoslavia and Croatia’s share was agreed with Paris and
+London Club creditors in 1995 and 1998, respectively. The CNB compiles external debt data
+according to the requirements of External Debt Statistics: Guide for Compilers and
+Users, 2003, and began disseminating external debt data in the second quarter of 2003. The
+inclusion of hybrid and subordinated debt instruments, repos, late interest, and interest
+accruals and arrears has caused an upward adjustment in the external debt series compared to
+previously released data. Quarterly data on the international investment position are available
+on the CNB website up to 2008:Q4.
+
+9
+Croatia: Table of Common Indicators Required for Surveillance
+(as of May 20, 2009)
+Date of latest
+observation
+
+Date
+received
+
+Frequency
+of
+data 6/
+
+Frequency
+of
+reporting 6/
+
+of publication
+6/
+
+5/19/09
+
+5/19/09
+
+D and M
+
+D and M
+
+D and M
+
+International Reserve Assets and Reserve
+Liabilities of the Monetary Authorities 1/
+
+Mar 2009
+
+4/15/09
+
+M
+
+M
+
+M
+
+Reserve/Base Money
+
+Mar 2009
+
+4/30/09
+
+M
+
+M
+
+M
+
+Broad Money
+
+Mar 2009
+
+4/30/09
+
+M
+
+M
+
+M
+
+Central Bank Balance Sheet
+
+Mar 2009
+
+4/30/09
+
+M
+
+M
+
+M
+
+Consolidated Balance Sheet of the Banking
+System
+
+Mar 2009
+
+4/30/09
+
+M
+
+M
+
+M
+
+Interest Rates 2/
+
+Mar 2009
+
+4/30/09
+
+M
+
+M
+
+M
+
+Consumer Price Index
+
+Mar 2009
+
+4/30/09
+
+M
+
+M
+
+M
+
+Revenue, Expenditure, Balance and
+Composition of Financing 3/—General
+Government 4/
+
+2008:Q2
+
+9/16/08
+
+Q
+
+Q
+
+Q
+
+Revenue, Expenditure, Balance and
+Composition of Financing 3/– Central
+Government
+
+Nov 2008
+
+2/2/09
+
+M
+
+M
+
+M
+
+Stocks of Central Government and Central
+Government-Guaranteed Debt 5/
+
+Dec 2008
+
+3/26/09
+
+M
+
+M
+
+M
+
+External Current Account Balance
+
+2008:Q4
+
+3/31/09
+
+Q
+
+Q
+
+Q
+
+Exports and Imports of Goods and Services
+
+Mar 2009
+
+4/30/09
+
+Q
+
+Q
+
+Q
+
+GDP/GNP
+
+2008:Q4
+
+3/31/09
+
+Q
+
+Q
+
+Q
+
+Gross External Debt
+
+Feb 2009
+
+4/30/09
+
+M
+
+M
+
+M
+
+International Investment Position
+
+2008:Q4
+
+3/31/09
+
+Q
+
+Q
+
+Q
+
+Exchange Rates
+
+Frequency
+
+1/ Reserve assets that are pledged of otherwise encumbered are specified separately. Data comprise shortterm liabilities linked to a foreign currency but settled by other means as well as the notional values of
+financial derivatives to pay and to receive foreign currency, including those linked to a foreign currency but
+settled by other means.
+2/ Both market-based and officially-determined, including discount rates, money market rates,
+rates on treasury bills, notes and bonds.
+3/ Foreign, domestic bank, and domestic nonbank financing.
+4/ The general government consists of the central government (budgetary funds, extra budgetary
+funds, and social security funds) and state and local governments.
+5/ Including currency and maturity composition.
+6/ Daily (D), Weekly (W), Monthly (M), Quarterly (Q), Annually (A), Irregular (I); Not Available
+(NA).
+
+10
+Annex III. Croatia: World Bank Relations
+1.
+The World Bank’s Board endorsed the Country Partnership Strategy (CPS) for Croatia
+for FY09–12 in September 2008, just before the full onset of the global financial crisis. The
+goal of the CPS is to support the completion of Croatia’s EU accession process, the rapid
+convergence of its income level with that of current EU member states in a fiscally, socially
+and environmentally sustainable fashion. This overarching goal is in line with the
+Government’s priorities expressed in various government programs. In pursuing this goal,
+the Bank Group program aims at contributing in the following four areas:
+•
+•
+•
+•
+
+sustaining macroeconomic stability;
+strengthening private sector-led growth and accelerating convergence with the EU;
+improving the quality and efficiency in the social sectors; and
+increasing the sustainability of long-term development.
+
+2.
+The EU accession agenda remains a cross-cutting theme in the design and
+implementation of the Bank Group program. In the selection and design of operations,
+primary consideration is given to the assessment of proposed projects’ support of Croatia’s
+EU accession agenda. In the case of social sectors not covered under the EU acquis,
+consideration is also given to how projects complement the EU accession efforts. Project
+components that enhance Croatia’s capacity to absorb EU funds, especially following the
+accession, have high priority.
+3.
+The CPS envisages an indicative base-case lending envelope of about US$1.0–
+1.4 billion for investment operations over the four-year period. The CPS also includes an
+upside scenario, with possible development policy lending amounting to some US$1.4–
+1.8 billion. The lending program will be based on and complemented by analytical work,
+particularly in the areas of public expenditure reform, governance, investment climate, and
+climate change.
+4.
+In FY09, the Bank’s Board has already approved three loans exceeding
+US$240 million, for the continuation of the Rijeka gateway and coastal cities pollution
+control programs, and for the improvement of emergency medical services, as well as a GEF
+grant. At the request of the authorities, to help mitigate the impact of the global economic
+crisis and provide funding for the private sector, the Bank has agreed to prepare a credit line
+of about EUR100 million for exporters, through HBOR, the Croatian development bank, and
+commercial banks. Other projects under preparation focus on judicial reforms, disaster risk
+management and mitigation, port development, irrigation, and education. This program might
+be adjusted, if necessary, to help address the consequences of the global economic downturn.
+5.
+Currently, the World Bank finances 18 operations in a wide range of sectors with a
+combined loan amount of close to US$1.1 billion. IFC’s portfolio amounts to about
+US$340 million, and MIGA guarantees exceed US$40 million.
+
+Public Information Notice (PIN) No. 09/77
+FOR IMMEDIATE RELEASE
+June 15, 2009
+
+International Monetary Fund
+700 19th Street, NW
+Washington, D. C. 20431 USA
+
+IMF Executive Board Concludes 2009 Article IV Consultation with the
+Republic of Croatia
+On June 2, 2009, the Executive Board of the International Monetary Fund (IMF) concluded the
+Article IV consultation with the Republic of Croatia. 1
+Background
+The global crisis brought an end to Croatia’s multi-year economic expansion. After reaching
+5.5 percent in 2007, GDP growth decelerated to 2.4 percent in 2008 and the downdraft
+intensified further in the first months of 2009. Domestic demand and exports started to contract
+on the back of sharply diminished capital inflows and deepening recession in the EU and other
+regional trading partners. For the year as a whole, staff projects real GDP to decline by 3½
+percent. Weighed down by weak domestic and external conditions, GDP is expected to grow
+only slightly in 2010.
+The crisis exposed underlying vulnerabilities in Croatia’s economy. As elsewhere in the region,
+the high growth rates relied on an unsustainable credit boom, facilitated by easy access to
+domestic and foreign financing, notwithstanding prudential and other credit measures taken by
+the authorities to curb credit growth. External debt reached high levels, with banks and
+corporates increasingly dependent on foreign funding. At the same time, domestic debt also
+swelled rapidly, predominantly in foreign currencies and mostly by unhedged borrowers.
+
+1
+
+Under Article IV of the IMF's Articles of Agreement, the IMF holds bilateral discussions with
+members, usually every year. A staff team visits the country, collects economic and financial
+information, and discusses with officials the country's economic developments and policies. On
+return to headquarters, the staff prepares a report, which forms the basis for discussion by the
+Executive Board. At the conclusion of the discussion, the Managing Director, as Chairman of the
+Board, summarizes the views of Executive Directors, and this summary is transmitted to the
+country's authorities.
+
+2
+Croatia is now in the midst of a sharp adjustment. A robust policy response has helped Croatia
+navigate the crisis relatively well, but downside risks remain significant. While the external
+imbalances are receding from the previous high levels, the adverse economic and financial
+conditions feed on each other, amplifying the downturn, reducing access to much needed
+external financing to cover sizable external liabilities maturing in 2009–10, and eroding the
+private sector’s debt servicing capacity. While banks have comfortable cushions from relatively
+strong profitability and capital positions, the vulnerability of the domestic financial sector to
+external funding and credit risks has increased.
+In response, the Central Bank of Croatia (CNB) has taken a number of measures to maintain
+the orderly functioning of markets, avert destabilizing pressures on the kuna, and help address
+the fallout of the crisis on the financial system. In particular, the CNB addressed liquidity
+shortages through active use of regulatory requirements, repo auctions, and intermittent
+foreign currency intervention. It maintained close cooperation with foreign banks to secure
+adequate external funding and reduce banks’ liquidity risk. And it strengthened the oversight
+and monitoring of the banking system and upgraded stress test exercises. While these
+measures succeeded in stabilizing markets and preparing the banking system for the
+challenges ahead, heightened uncertainty has fueled deposit and loan euroization.
+Fiscal policy has been under pressure. Revenues, especially VAT and excises, started to
+underperform in late 2008, reflecting sharply lower trade volumes and declining economic
+activity. In response, the government reduced cash spending on goods and services, limiting
+the 2008 general government deficit to 0.9 percent of GDP. Based on a wide range of
+spending cuts, including a freeze of salaries, the revised budget for 2009 aims for a deficit of
+1.6 percent of GDP, entailing a cyclical tightening. However, the fiscal deficit is likely to widen
+to above 2 percent in 2009 due to a further deterioration of macroeconomic conditions. The
+government’s domestic borrowing has recently risen sharply, with the government increasingly
+competing for resources with the private sector in the current tight credit environment.
+Structural reforms remain an important policy objective and key to help the economy emerge
+from the current crisis more resilient and dynamic. However, recent progress has been slow,
+and Croatia still lags other central and eastern European countries on business environment
+indicators.
+Executive Board Assessment
+Executive Directors noted that, along with other countries in the region, Croatia has been
+severely affected by the global economic downturn and the continuing strains in financial
+markets. Real GDP is expected to contract this year—for the first time since 1999. Sharply
+lower capital inflows have triggered a correction in the external imbalances built up in recent
+years, but they also amplify pressures on the private sector in view of its relatively large debt
+overhang and sizable external financing needs.
+Directors commended the authorities for the timely and well-targeted policy response, which
+has helped to maintain market confidence and mitigate the initial impact of the crisis. Monetary
+policy, including through liquidity operations and changes in reserve and liquidity requirements,
+
+3
+has helped to alleviate liquidity pressures on banks and supported a broadly stable exchange
+rate. Directors took note of the staff’s assessment that the real effective exchange rate is
+broadly in line with fundamentals, and considered that, in the current uncertain juncture, the
+authorities’ exchange rate policy has helped anchor macroeconomic stability, particularly in the
+presence of large balance-sheet exposures to currency risk. At the same time, the exchange
+rate strategy limits policy options to cushion the downturn, and a cautionary monetary policy
+will need to be continued until external pressures abate. Moreover, this exchange rate policy
+also requires adequate external financing and support from prudent fiscal and financial sector
+policies, as well as faster implementation of structural reforms to bolster competitiveness.
+Attention to competitiveness issues was seen as important especially in view of recent strong
+depreciations of several competitor country currencies.
+Directors supported the authorities’ efforts to secure adequate external financing. They
+underlined the need for continued monitoring of banks’ liquidity positions and close
+cooperation between domestic banks and their foreign parent banks, as well as between home
+and host supervisors. Directors welcomed the rollover arrangements in the banking sector,
+but cautioned that rollover risks in the corporate sector are particularly pronounced, underlining
+the importance of tracking developments closely.
+The banking sector remains resilient, with relatively strong profitability and capital positions,
+aided by prudent regulatory requirements. However, loan quality could suffer as the recession
+deepens and financing conditions tighten. Directors encouraged the authorities to undertake a
+diagnostic review of the financial conditions of all banks, and to require those with potential
+recapitalization needs to raise capital buffers. The framework for resolution of troubled assets
+could also be upgraded, including through a swift adoption of the new foreclosure law. While
+many elements of Croatia’s contingency framework to deal with banks in distress are
+consistent with international best practice, Directors saw scope for improving interagency
+coordination on crisis preparedness and management.
+Directors considered the cyclical tightening envisaged in the revised 2009 budget appropriate
+in light of the tight financing conditions. They welcomed the recent eurobond issue, which
+signals investor confidence in the authorities’ policies and helps reduce the government’s
+domestic financing needs. However, in view of the downside risks to revenue collection,
+spending commitments should be reined in, and a strategy should be developed to contain a
+possible decline in taxpayers’ compliance and to avoid the re-emergence of public sector
+arrears. Looking forward, Directors stressed the importance of rationalizing public spending
+without unduly compromising the delivery of public services. They welcomed the authorities’
+actions to improve public financial management, and encouraged stepped up efforts to
+modernize the civil service, improve cost recovery for social services, reduce subsidies, and
+better target social spending.
+Accelerating structural reforms is crucial to raise productivity growth, boost Croatia’s growth
+potential, and facilitate real adjustment by reorienting resources towards the tradable sector.
+Directors stressed the importance of further improving the business environment, advancing
+labor market flexibility, and swiftly completing the restructuring and privatization of loss-making
+state-owned enterprises.
+
+4
+
+Public Information Notices (PINs) form part of the IMF's efforts to promote transparency of the IMF's
+views and analysis of economic developments and policies. With the consent of the country
+(or countries) concerned, PINs are issued after Executive Board discussions of Article IV consultations
+with member countries, of its surveillance of developments at the regional level, of post-program
+monitoring, and of ex post assessments of member countries with longer-term program engagements.
+PINs are also issued after Executive Board discussions of general policy matters, unless otherwise
+decided by the Executive Board in a particular case. The staff report (use the free Adobe Acrobat
+Reader to view this pdf file) for the 2009 Article IV Consultation with Croatia is also available.
+
+5
+Republic of Croatia: Selected Economic Indicators 1/
+2004 2005 2006
+Output, unemployment, and prices
+Real GDP
+CPI inflation (average)
+
+2007
+
+2008
+Prel.
+
+2009
+Proj.
+
+2.4
+6.1
+
+-3.5
+2.5
+
+(In percent of GDP)
+29.8
+30.5
+32.4
+22.9
+22.9
+23.0
+2.9
+3.8
+2.9
+20.0
+19.2
+20.0
+
+30.1
+23.3
+1.4
+22.0
+
+(Percent change)
+4.7
+5.5
+3.2
+2.9
+
+4.2
+2.0
+
+4.2
+3.3
+
+Saving and investment
+Domestic investment
+Domestic saving
+Government
+Nongovernment
+
+27.7
+23.4
+2.2
+21.1
+
+28.0
+22.5
+2.3
+20.2
+
+Government sector 2/
+General government revenue 2/
+General government expenditure 2/
+General government balance 2/
+General government balance (broad definition) 2/ 3/
+HBOR balance (net of budget transfers)
+Cyclically adjusted primary balance 2/
+General government debt
+
+39.7
+43.1
+-3.4
+-3.4
+-0.4
+-1.6
+37.9
+
+39.2
+42.1
+-2.8
+-2.8
+-0.1
+-0.9
+38.4
+
+Money and credit
+Bank credit to the nongovernment sector
+Broad money
+
+14.0
+8.6
+
+(End of period; change in percent)
+17.4
+23.1
+15.0
+10.6
+10.5
+18.0
+18.3
+4.3
+
+1,434
+-4.4
+2,603
+43
+
+(In millions of euros)
+1,976 2,715 3,237 4,454
+-5.5
+-6.9
+-7.6
+-9.4
+3,924 5,083 4,861 5,304
+822 1,412
+722
+-330
+
+Balance of payments
+Current account balance
+(In percent of GDP)
+Capital and financial account
+Overall balance
+
+39.6
+41.4
+-1.8
+-2.6
+-0.2
+0.0
+35.9
+
+40.7
+42.0
+-1.2
+-2.3
+-0.6
+0.0
+33.2
+
+39.8
+40.7
+-0.9
+-1.1
+-0.7
+0.4
+33.5
+
+39.5
+41.7
+-2.1
+-2.4
+-1.0
+1.1
+36.7
+…
+…
+
+-2,909
+-6.5
+2,247
+-1,612
+
+Debt and reserves
+Gross official reserves 4/
+6,436 7,438 8,725 9,307 9,121
+8,870
+In percent of short-term debt (by residual maturity) 4/
+108
+85
+88
+109
+69
+81
+In months of following year's imports of goods and NFS
+4/
+4.4
+4.5
+4.9
+4.7
+5.3
+5.1
+Net international reserves
+5,026 5,604 6,464 7,349 8,020
+8,252
+External debt service to exports ratio (in percent)
+24.4
+27.2
+37.5
+37.8
+34.3
+50.5
+Total external debt (in percent of GDP)
+70.0
+72.1
+74.9
+77.6
+83.0
+85.4
+Net external debt 5/
+33.0
+37.7
+38.8
+41.1
+46.4
+48.8
+Sources: Croatian authorities, and IMF staff estimates.
+1/ National account data for 1995-2008 were revised in 2009. Under the new ESA95 methodology, revised
+data include estimates for the "gray economy," imputed dwelling rates, and financial intermediate services
+indirectly measured (FISIM). Revised nominal GDP figure for 2008 is about 14 percent higher than the
+previous estimate.
+2/ ESA 95 presentation. Operations of HAC, a state-oned road company, were excluded from the coverage
+of the general government in 2008.
+3/ Includes “pensioners’ debt” repayments.
+4/ Data for 2009 corresponds to end-March.
+5/ Net of official reserves and commercial bank foreign assets.
+
+Statement by Age Bakker, Executive Director for the Republic of Croatia
+and Tomislav Galac, Advisor to the Executive Director
+June 2, 2009
+Croatia’s first priority for the past several years has been implementation of far-reaching
+administrative, social, and economic reforms aimed at benefiting optimally from the
+country’s ongoing European integration. This process has been progressing well in the areas
+of trade and investment for a number of years, while political integration reached its first
+milestone with Croatia becoming a full member of NATO in April 2009. The authorities are
+working arduously to complete the remaining legislative reforms in the context of the
+ongoing EU accession negotiations by the end of this year, and prepare for their future
+practical implementation.
+The Croatian authorities value their continuing cooperation with the International Monetary
+Fund. They had constructive and fruitful discussions with the team led by Mr. Arvanitis
+during the 2009 Article IV Consultations with the Republic of Croatia. The authorities
+welcome the thorough staff analysis and broadly agree with the staff assessment.
+Economic performance and outlook
+The global financial and economic crisis has begun to affect Croatia since the last quarter of
+2008. A short-lived drop in bank deposits, a spike in market measures of sovereign credit
+risk, and sudden depreciation pressures occurred soon after the Lehman Brothers collapse, as
+a consequence of a negative shock to depositors’ and investors’ confidence. The extent and
+potential negative effects of these events were successfully curbed by an array of swift and
+decisive official measures, as also highlighted by staff.
+The spillovers in the real sector were relatively limited in 2008, although the drop in private
+consumption in the fourth quarter did lower the average growth for the year to just 2.4
+percent (compared to 5.5 percent in 2007). Also, the surge in global commodity prices earlier
+in the year pushed the average CPI inflation to 6.1 percent, its highest level in a decade. At
+the same time, the slow but persistent deterioration of Croatia’s long-standing external
+imbalances continued, with the current account deficit increasing to 9.4 percent, and external
+debt reaching 82.9 percent of GDP by the end of the year. The fiscal policy response to these
+developments was timely and appropriate, as confirmed by staff, and the general government
+deficit accounted for 0.9 percent of GDP in 2008.
+High frequency indicators point to a significant further deterioration of growth prospects for
+2009, as investments and exports are being hit hard, in addition to the continued weakness in
+private consumption. Moreover, public consumption and investment will have to be curbed,
+as the current financing conditions leave little, if any, room for countercyclical policies. In
+the baseline, it can be expected that the GDP will drop between 3 and 4 percent in real terms,
+while the trend decline in unemployment will be reversed. At the same time, in the short run,
+inflation presents a secondary concern while the goods trade deficit should decline. These
+projections are still subject to an unusual degree of uncertainty, as they hinge upon external
+factors that will determine the important tourist revenues and the availability and cost of
+
+2
+external financing in the period ahead, both critical for covering the balance of payments
+needs.
+Fiscal policy
+The authorities have successfully pursued fiscal consolidation over the last several years: the
+general government deficit has declined from 3.4 percent of GDP in 2004, to 0.9 percent by
+2008, and the public debt-to-GDP ratio declined from 37.9 to 33.5 in this period. However,
+the authorities recognize that a more aggressive curbing of current expenditures is needed to
+achieve both the short-term goal of a balanced budget by 2011, and the medium-term aim of
+reducing the role of the government in the economy and solidifying the sustainability of
+public finances. Their commitment to these goals has been reaffirmed in April of 2009, when
+the revised budget involving wide-ranging spending cuts was adopted, aiming for a general
+government deficit of 1.6 percent of GDP in 2009.
+The revised budget involves a sizable reduction of current expenditures, including a rollback
+of the recent increase in public employees’ wages. At the same time, it provides for
+unchanged or modestly larger expenditures related to the most vulnerable social categories,
+and to corporate sectors particularly hard hit by the crisis. The authorities contend and staff
+agrees that the revised budget strikes the right balance between the limited fiscal space and
+the need to protect the vulnerable and support the hardest hit parts of the economy.
+Moreover, the authorities also committed to undertaking a combination of additional
+spending cuts, postponements, and budget revisions if the underlying fundamentals
+deteriorate further.
+Looking forward, the planned medium-term fiscal consolidation will be further supported by
+a number of legislative and administrative measures implemented during the past year or
+being implemented now, to improve the public finance management framework. The new
+budget law was adopted, providing for a three-year, rolling budget framework, and
+implementation of sophisticated safeguards against fiscal risks. The personal (tax)
+identification number has been in use since January to assist in better targeting social benefits
+and combating corruption, tax evasion, and money laundering. A comprehensive social
+healthcare reform with the aim of partial cost-recovery has been successfully launched. And,
+the authorities have also committed to reviewing the effectiveness of the implemented
+pension system reforms after 2011 in providing a sound basis for the long-term financial
+sustainability of social pensions, an important goal advocated by staff.
+Monetary policy
+Monetary policy has been for years aimed at maintaining broad nominal exchange rate
+stability - a policy that has served the small, open, and highly euroized Croatian economy
+well. While holding a tight rein on consumer price inflation, since 2003 the Croatian National
+Bank (CNB) has also focused on proactively mitigating external vulnerabilities. In the
+absence of a well-functioning interest rate channel, the CNB has resorted to a number of
+direct, counter-cyclical monetary and prudential measures. Overall, the measures
+implemented produced considerable results in the period 2003-2008, with bank credit growth
+
+3
+in Croatia markedly lower than in the peer countries. Moreover, the measures significantly
+reduced the degree of financial euroization and provided incentives for most banks to raise
+additional capital and liquidity buffers. As a consequence, the financial system entered the
+global financial crisis from a position of strength.
+The CNB’s response to the first wave of the global financial collapse has been to secure the
+bank liquidity while at the same time preserving the stability of the nominal exchange rate.
+The marginal reserve requirement on foreign borrowings has been abolished, the foreign
+currency liquid reserves requirement has been reduced, and the general reserve requirement
+has been lowered and modified, altogether significantly increasing the banks’ foreign
+currency liquidity. At the same time domestic currency liquidity has been held appropriately
+tight through judicious use of the discount window and regular weekly repo operations with
+banks. By the end of April, as market confidence returned, both the nominal exchange rate
+and short-term interest rates related to the repo rate stabilized.
+Looking forward, the CNB intends to continue with the policy of tightly managing the
+kuna/euro nominal exchange rate, to preserve confidence in the financial system, curb the
+systematic balance sheet risks, and prevent imported inflation and inflation expectations from
+creeping back. The central bank also stands ready to act swiftly in case of further deposit
+outflows or profit repatriations that would undermine the capital positions of systemically
+important banks. Provided that the recent stabilization of the exchange rate and interest rates
+persists, and that inflation remains on a downward path, the CNB will weigh its short-term
+focus on financial stabilization against the risk of a credit crunch, as suggested by staff. In
+this regard, the central bank will also seek support from the fiscal policy in avoiding the
+crowding out of the private sector from the domestic financial market by the government. In
+this regard, the government has already met the key benchmark on May 27th when it
+successfully placed its first Eurobond issue in over five years.
+The authorities fully agree with staff that this choice of monetary policy presupposes a strong
+adjustment in the fiscal and private non-financial sectors in the short run, supported by a
+faster implementation of structural reforms to increase public confidence in the financial
+system in the short run and increase the competitiveness of the economy in the medium term.
+Likewise, the authorities welcome the staff’s assessment that Croatia’s long-standing
+external imbalances also reflect structural deficiencies, especially in the tradable sector,
+while there is no compelling evidence of real exchange rate misalignment.
+Structural reforms
+Significant progress has been achieved in reforms aimed at improving the overall business
+environment: 1) the administrative capacity and the role of the Competition Agency has been
+strengthened; 2) electronic registers of national regulations, non-tax government revenues,
+and recipients of social benefits and state aid have been or are being established; and 3) the
+company registration procedures have been further simplified. Most notably, further progress
+in reducing the backlog of court cases has been achieved, and a judicial reform strategy for
+the period 2008-2011 was adopted aimed at raising the overall quality and speed of judicial
+
+4
+procedures. Related to this, a new anti-corruption strategy was adopted, and the number of
+high-profile cases investigated and prosecuted increased rapidly.
+Regrettably, the global financial crisis has negatively impacted the pace of the privatization
+process of large loss-making SOEs in the railways and shipbuilding sectors. Nevertheless, the
+authorities are working diligently to meet their stated goal of exiting from the ownership
+structure of the remaining enterprises in these two sectors by the end of 2009. The
+government is also examining the modalities for privatization of the remaining companies
+still in the state portfolio.
+Overall, in spite of the large number of complex and comprehensive structural reforms that
+have been implemented during the past year or are being implemented during 2009, their full
+impact on the economy will only be felt with a lag. Thus, the authorities would like to
+caution against reliance on synthetic indicators of the business environment for assessing the
+recent progress on structural reforms in Croatia.
+
+

@@ -1,0 +1,9059 @@
+IMF Country Report No. 12/208
+
+JAPAN
+August 2012
+
+2012 ARTICLE IV CONSULTATION
+Under Article IV of the IMF’s Articles of Agreement, the IMF holds bilateral discussions with
+members, usually every year. In the context of the 2012 Article IV consultation with Japan, the
+following documents have been released and are included in this package:
+
+
+
+Staff Report for the 2012 Article IV consultation, prepared by a staff team of the IMF,
+following discussions that ended on June 12, 2012, with the officials of Japan on economic
+developments and policies. Based on information available at the time of these discussions,
+the staff report was completed on July 10, 2012. The views expressed in the staff report are
+those of the staff team and do not necessarily reflect the views of the Executive Board of the
+IMF.
+
+
+
+
+Informational Annex prepared by the IMF.
+
+Public Information Notice (PIN) summarizing the views of the Executive Board as
+expressed during its July 25, 2012 discussion of the staff report that concluded the Article IV
+consultation.
+The documents listed below have been or will be separately released.
+
+Financial Sector Stability Assessment
+Selected Issues Paper
+
+The policy of publication of staff reports and other documents allows for the deletion of
+market-sensitive information.
+Copies of this report are available to the public from
+International Monetary Fund  Publication Services
+700 19th Street, N.W.  Washington, D.C. 20431
+Telephone: (202) 623-7430  Telefax: (202) 623-7201
+E-mail: publications@imf.org Internet: http://www.imf.org
+
+International Monetary Fund
+Washington, D.C.
+
+©2012 International Monetary Fund
+
+JAPAN
+STAFF REPORT FOR THE 2012 ARTICLE IV CONSULTATION
+July 10, 2012
+
+KEY ISSUES
+The Japanese economy is experiencing a domestic-led recovery, but the balance of
+risks to the outlook is to the downside. Despite the cooling of the external
+environment, growth is expected to reach almost 2½ percent in 2012 underpinned by
+reconstruction spending and a pickup in private consumption. However, risks to the
+outlook have shifted to the downside because of concerns about the turmoil in Europe
+and the possibility of a sharper-than-expected slowdown in China.
+Addressing the longer-term challenges posed by Japan’s very high public debt,
+rapidly aging population, low growth, and deflation will require a broad set of
+reforms. Key elements of a comprehensive policy package include:
+ Securing fiscal consolidation. A fiscal adjustment of 10 percent of GDP over the next
+decade is necessary to put the public-debt to GDP ratio firmly on a downward path. The
+authorities’ planned increase in the consumption tax is a crucial step and would
+demonstrate a commitment to fiscal reform. The planned increase, however, goes only
+part of the way towards achieving this goal, and further consolidation is needed.
+Consolidation should be designed to mitigate the near-term impact on growth, and
+improve incentives to work and invest.
+ Raising potential growth. Higher growth is essential to create more jobs, help reduce
+public debt and improve resilience to shocks. Far-reaching reforms could raise activity by
+removing barriers to employment of female and old-aged workers; boosting immigration;
+deregulating the agriculture, electricity, and service sectors; and increasing the availability
+of risk capital.
+ Exiting deflation. Further easing of monetary policy would accelerate achievement of
+the Bank of Japan’s new inflation goal of 1 percent. Enhanced communication of the
+policy stance and framework would help achieve the goal. Monetary policy also needs the
+support of structural reforms to boost confidence and raise domestic demand.
+ Maintaining financial sector stability. While the Financial System Stability
+Assessment (FSSA) finds that important steps have been taken to strengthen the financial
+system since the 2003 Financial Sector Assessment Program (FSAP) assessment, it
+recommends enhancing the monitoring of systemic risks, including from financial
+institutions’ exposure to Japanese Government Bonds (JGBs) and equities. The authorities
+could strengthen their prudential framework, including by tightening banks’ large
+exposure lending limits, raising capital requirements for domestic-oriented banks,
+strengthening the solvency assessment for insurers, and improving the resolution
+framework for nonbank financial institutions.
+
+2012 ARTICLE IV STAFF REPORT
+
+Approved By
+Jerry Schiff and
+Tamim Bayoumi
+
+JAPAN
+
+Discussions took place in Tokyo from May 30-June 12, 2012. The staff team
+comprised J. Schiff (head), R. Brooks, S. Danninger, P. Berkmen, W. Lam,
+K. Tokuoka (all APD), and C. Steinberg (OAP). U. Das (MCM) and R.Teja (SPR) also
+participated in part of the mission. Mr. Lipton joined the final discussions and met
+with Finance Minister Azumi, BoJ Governor Shirakawa, and Minister of State for
+Economic and Fiscal Policy Furukawa. Messrs Furusawa and Shimoda (OED)
+participated in the discussions. The mission was assisted by OAP staff.
+
+CONTENTS
+BACKGROUND AND CONTEXT__________________________________________________________________________ 3
+RECOVERING FROM RECENT SHOCKS __________________________________________________________________ 3
+A. Recent Developments ____________________________________________________________________________ 3
+B. Outlook and Risks ________________________________________________________________________________ 5
+POLICY DISCUSSIONS ___________________________________________________________________________________ 8
+C. Regaining Fiscal Sustainability ____________________________________________________________________ 8
+D. Structural Reforms to Raise Growth _____________________________________________________________ 14
+E. Defeating Deflation ______________________________________________________________________________ 17
+F. Responding to a Downside Scenario_____________________________________________________________ 19
+G. Assessing External Stability ______________________________________________________________________ 19
+H. Securing Financial Stability ______________________________________________________________________ 21
+STAFF APPRAISAL ______________________________________________________________________________________ 26
+
+TABLES
+1. Japan Selected Economic Indicators, 2007-13 ___________________________________________________ 28
+2. Japan Balance of Payments, 2006-11 ____________________________________________________________ 29
+3. Japan External and Financial Indicators, 2007-12 ________________________________________________ 30
+4. Japan Medium-Term Projections, 2010-17 ______________________________________________________ 31
+5. Japan General Government Operations, 2006-13 ________________________________________________ 32
+6. Japan: Financial Soundness Indicators for Deposit-taking Institutions: All Banks ________________ 33
+FIGURES
+1. Real Sector Developments ________________________________________________________________________ 4
+2. Financial Market Developments __________________________________________________________________ 6
+3. Fiscal Policy _______________________________________________________________________________________ 9
+4. Structural Reforms _______________________________________________________________________________ 15
+5. External Sector Developments ___________________________________________________________________ 20
+6. Financial Soundness Indicators __________________________________________________________________ 22
+BOXES
+1. What is the Outlook for Electricity Supply _________________________________________________________ 7
+2. Risks from a Sharp Increase in Government Bond Yields ________________________________________ 10
+3. Intergenerational Implications of Fiscal Consolidation in Japan _________________________________ 13
+4. Potential Spillovers from the European Debt Crisis ______________________________________________ 23
+APPENDIXES
+I. Japan: Risk Assessment Matrix _________________________________________________________________ 34
+II. Japan: Public Sector Debt Sustainability Analysis ______________________________________________ 35
+III. Japan: External Sector Assessment ____________________________________________________________ 38
+IV. Japan: Main Recommendations of the 2011 Article IV Consultation __________________________ 39
+
+2
+
+INTERNATIONAL MONETARY FUND
+
+JAPAN
+
+2012 ARTICLE IV STAFF REPORT
+
+BACKGROUND AND CONTEXT
+1.
+The Japanese economy has shown
+remarkable resilience and adaptability in
+the aftermath of the March 2011 Great East
+Japan earthquake. In addition to the
+devastating human toll and destruction,
+businesses and households had to grapple
+with disruptions to supply-chains and a
+reduction in electricity supply. All 54 nuclear
+power plants—that supply about ¼ of Japan’s
+electric power—were shut down for safety
+inspection since the disaster. One plant has
+recently been reopened and another is set to
+reopen in coming weeks. Severe floods in
+Thailand in late 2011 further weighed on the
+recovery and affected Japan’s export sector
+through supply linkages.
+2.
+Decisive action helped limit the
+economic effects of these shocks. A
+comprehensive reconstruction package was
+approved by government, supply chains were
+
+repaired within a few months, and impressive
+efforts to conserve electricity limited the
+disruption from the closure of nuclear power
+plants.
+3.
+Beyond the short-term need to sustain
+the recovery, Japan faces a number of
+serious and interrelated longer term
+challenges. Reducing the public debt burden
+is a top priority, but this task is complicated by
+low growth, persistent deflation, and a rapidly
+aging population. The government’s plan to
+raise the consumption tax is a crucial step
+towards fiscal sustainability, but further
+consolidation will be needed, accompanied by
+structural measures to raise growth and
+greater efforts to defeat deflation. This year’s
+Article IV consultation focused on how to
+address these challenges by undertaking a
+comprehensive effort to take advantage of
+synergies among policies.
+
+RECOVERING FROM RECENT SHOCKS
+A. Recent Developments
+4.
+Growth accelerated sharply in early
+2012, helped primarily by domestic factors.
+After contracting by ¾ percent in 2011
+because of the earthquake and Thai floods,
+real GDP grew at a brisk pace of 4¾ percent
+(s.a.a.r.) in the first quarter of this year (text
+figure, Figure 1, Table 1). Growth was boosted
+by reconstruction spending, a pickup in
+consumer spending (helped by government
+subsidies
+for
+environmentally
+friendly
+automobiles) and inventory rebuilding after the
+disruptions to the supply chain last year.
+Private investment, however, declined in early
+2012, following two quarters of recovery, with
+business sentiment affected by rising
+uncertainty over the global outlook, particularly
+in the export-oriented manufacturing sector.
+5.
+Core inflation, excluding food and
+energy, remained negative. At -0.6 percent in
+May (y/y) core inflation was near the highest
+level seen since the depth of the global
+financial crisis in early 2009. Headline inflation
+has moved into positive territory, reaching
+
+0.2 percent in May (y/y), partly as a result of
+higher fresh food prices.
+Contributions to GDP growth in Q1 2012
+(Seasonally adjusted annualized quarterly growth rate)
+GDP growth (saar)
+Private consumption
+Public spending
+Private investment
+Stockbuilding
+Net exports
+-2
+
+-1
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+Source: IMF staff estimates.
+
+6.
+Job growth remained sluggish.
+Employment grew by about 1/3 percent in the
+year to April 2012, but employment was still
+about 3 percent below 2007 levels. The
+unemployment
+rate
+fluctuated
+around
+4½ percent over the past year, but the
+improvement in the ratio of job openings to
+applications suggests that employment may
+pick up gradually in the near term. Real
+employee compensation remained relatively
+flat over the past year.
+INTERNATIONAL MONETARY FUND 3
+
+2012 ARTICLE IV STAFF REPORT
+
+JAPAN
+
+Figure 1. Real Sector Developments
+...led by strong consumption, supported by temporary
+subsidies for environmentally-friendly automobiles.
+
+The earthquake and Thai floods affected activity in 2011,
+but real GDP rebounded strongly in the first quarter of
+2012.
+Real GDP Growth Measures
+
+Consumption Indicators
+
+(In Percent)
+9
+4-Qtr Moving Avg Y/Y Growth
+6
+Q/Q Growth, SAAR
+
+9
+
+3
+
+0
+
+0
+
+-3
+
+-3
+
+-6
+
+-6
+
+-9
+
+-9
+Great East Japan
+Earthquake
+
+Mar-09
+
+290
+
+Mar-10
+
+Mar-11
+
+Great East Japan
+Earthquake
+
+30
+
+-15
+Mar-08
+
+40
+
+Mar-12
+
+Source: Haver Analytics
+
+270
+
+Consumer Confidence Index
+
+-12
+
+-15
+Mar-07
+
+310
+
+6
+
+3
+
+-12
+
+50
+
+20
+Mar-07
+
+Real Average HH Expenditures (RHS)
+Mar-08
+
+Mar-09
+
+Mar-10
+
+Mar-11
+
+250
+Mar-12
+
+Source: Haver Analytics.
+
+Exports and industrial production have recovered from the
+earthquake’s disruption, but are still below 2007 levels.
+
+Investment is picking up, driven by public reconstruction
+spending. Private investment, however, remains well below
+2007 levels.
+Real Gross Fixed Investment
+
+Economic Activity
+
+(Index Number, 2005 = 100)
+110
+
+110
+Great East Japan Earthquake
+
+(Seasonally Adusted, 2005=100)
+140
+Real Industrial Production
+Exports Volume
+
+100
+
+100
+
+120
+
+90
+
+90
+
+100
+
+80
+
+80
+
+80
+
+Private Investment
+70
+Mar-05
+
+Mar-06
+
+Mar-07
+
+Mar-08
+
+Great East Japan
+Earthquake
+
+Public Investment
+Mar-09
+
+Mar-10
+
+Mar-11
+
+70
+Mar-12
+
+60
+Mar-07
+
+Source: Haver Analytics
+
+Mar-08
+
+Mar-09
+
+Mar-10
+
+Mar-11
+
+Mar-12
+
+Source: Haver Analytics.
+
+Headline inflation has picked up recently, partly reflecting
+higher fresh food prices, with core inflation (excluding food
+and energy) remaining in negative territory.
+
+The unemployment rate has fluctuated around 4½ percent
+over the past year, but an increase in job offers signals a
+gradual improvement in labor market conditions.
+Labor Market Indicators
+
+120
+
+Job Openings to Applications Ratio
+
+6
+
+Year-on-Year Inflation
+(In percent)
+3
+
+3
+Headline
+
+Unemloyement Rate
+
+2
+
+100
+5
+80
+4
+
+Core (excl. food and energy)
+
+2
+
+Core (excl. fresh food)
+1
+
+1
+
+0
+
+0
+
+-1
+
+-1
+
+-2
+
+-2
+
+60
+
+3
+
+40
+May-07
+
+May-08
+
+May-09
+
+May-10
+
+Sources: Nomura
+
+4
+
+INTERNATIONAL MONETARY FUND
+
+May-11
+
+May-12
+
+-3
+May-08
+
+May-09
+
+May-10
+
+Source: CEIC database and IMF staff estimates.
+
+May-11
+
+-3
+May-12
+
+JAPAN
+
+7.
+The trade balance moved into deficit
+in 2011. Exports were disrupted because of
+the earthquake, Thai floods, weak global
+demand, and an appreciation of the yen (text
+figure, Tables 2 and 3). At the same time,
+imports continued to rise, driven by
+reconstruction spending and higher energy
+costs partly as a result of the closure of the
+nuclear power plants. As a result, the deficit
+widened to about 1 percent of GDP in the
+fourth quarter of 2011, and Japan recorded its
+first annual trade deficit since 1980. The trade
+deficit remained at around 1 percent of GDP in
+early 2012. The current account, however, was
+still in surplus—at 1½-2 percent of GDP in
+2011 and early 2012—thanks to a stable
+income stream from large net foreign assets.
+Trade balance
+(In Billion Yen, SA)
+1000
+
+Trade Balance (LHS)
+
+Exports
+
+Imports
+
+7500
+
+750
+
+7000
+
+500
+
+6500
+
+250
+
+6000
+
+0
+
+5500
+
+-250
+
+5000
+
+-500
+
+4500
+
+-750
+
+4000
+
+-1000
+3500
+May-08 Nov-08 May-09 Nov-09 May-10 Nov-10 May-11 Nov-11 May-12
+Source: CEIC and IMF staff estimates.
+
+8.
+The recent turmoil in Europe has led
+to a flight to safety and impacted Japanese
+financial markets. Since mid-2011, equity
+prices have declined by about 10 percent and
+yields on 10-year JGBs have fallen to near
+historic lows of 80-85 basis points (Figure 2).
+Over the same period, the yen has appreciated
+by about 6 percent in nominal effective terms,
+and appears moderately overvalued (see
+section G).
+
+higher energy costs from the shift to thermal
+electricity generation and conservation efforts
+over the summer are projected to detract
+about ¼ percentage point from growth. The
+recovery is forecast to slow in 2013 to 1½
+percent, as reconstruction winds down. Over
+the medium-term, growth is expected to
+converge to staff’s estimated potential rate of
+1 percent (Table 4).
+10.
+Inflation is forecast to remain near
+zero over the next two years. The still wide
+output gap (about 3 percent of GDP in early
+2012) is expected to narrow only gradually and
+not close until 2015/16. As a result, core
+inflation (excluding food and energy prices) is
+projected to rise slowly and turn slightly
+positive by mid-2013. The projected decline in
+commodity prices will likely keep headline
+inflation near zero over the same period. Staff
+forecast inflation to rise gradually over the
+medium-term and reach 1 percent by 2017.
+11.
+Risks to the outlook have shifted
+decidedly to the downside (Appendix 1). An
+escalation of the European turmoil or a
+sharper-than-expected slowing of the Chinese
+economy would hurt Japanese exports and
+growth. 1 Moreover, an intensification of the
+flight to safety in financial markets could
+further appreciate the yen, worsen the trade
+balance, and depress equity prices and
+business and consumer confidence. With the
+closure of almost all nuclear power plants, an
+unusually hot summer could disrupt economic
+Contributions to Annual GDP Growth
+(In Percent)
+6
+
+6
+Projection
+
+B. Outlook and Risks
+9.
+Growth in 2012 is likely to be driven
+by reconstruction. Real GDP is expected to
+expand by almost 2½ percent in 2012
+supported by public reconstruction spending
+of around 1½ percent of GDP and robust
+consumer demand. Weak external demand,
+especially in Europe, will weigh on the recovery
+of exports and private investment. Moreover,
+
+2012 ARTICLE IV STAFF REPORT
+
+4
+
+4
+
+2
+
+2
+
+0
+
+0
+
+-2
+
+Real GDP growth
+Net Exports
+Public demand
+Private consumption
+Business investment
+
+-4
+-6
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+-2
+-4
+-6
+
+2014
+
+Sources: Cabinet Office of Japan and IMF staff estimates.
+
+1
+
+See Spillover Report (2012) for analysis of a sharperthan-expected slowing of China’s economy.
+
+INTERNATIONAL MONETARY FUND 5
+
+2012 ARTICLE IV STAFF REPORT
+
+JAPAN
+
+Figure 2. Financial Market Developments
+The yen appreciated in nominal effective terms, driven by
+safe haven inflows.
+Yen NEER and Nikkei VIX
+
+Long-term government bond yields have fallen markedly as
+the European debt crisis intensified,…
+10-Year Sovereign Bond Yields
+
+125
+
+85
+
+(In percent)
+5
+
+2.0
+
+NEER (LHS)
+
+Germany
+
+VIX (RHS)
+100
+
+60
+
+75
+
+US
+
+Japan (RHS)
+
+4
+
+1.5
+
+3
+
+1.0
+
+2
+
+0.5
+
+35
+
+50
+Jan-05 Jan-06 Jan-07
+Source: Bloomberg
+
+10
+Jan-08
+
+Jan-09
+
+Jan-10
+
+Jan-11
+
+Jan-12
+
+1
+Jun-09
+
+Dec-09
+
+Jun-10
+
+Dec-10
+
+Jun-11
+
+0.0
+Jun-12
+
+Dec-11
+
+Source: Haver Analytics
+
+… while equity prices have also fallen.
+
+But overall financing conditions remain accommodative,
+although conditions for SMEs remain tight.
+
+Equity Market Index
+
+Corporate Financial Conditions, by Corporate Size
+
+1000
+
+(Percentage points)
+30
+
+30
+
+TOPIX
+
+Easing
+
+20
+
+900
+
+20
+
+10
+
+10
+
+0
+
+0
+
+800
+-10
+Introduction of Comprehensive
+Monetary Easing
+Great East Japan Earthquake
+
+700
+Jun-09
+Dec-09
+Jun-10
+Dec-10
+Jun-11
+Dec-11
+Jun-12
+Note: Vertical lines refer to BOJ expansions of the asset purchase program.
+Source: Bloomberg.
+
+activity (Box 1). This risk would be mitigated,
+however, by conservation efforts already being
+taken. On the upside, a stronger-thanexpected recovery in Japanese consumer and
+business sentiment would lift domestic
+demand.
+12.
+Over the medium-term, the key
+downside risks are the possibility of a
+prolonged global economic downturn and
+limited progress on structural reforms in
+Japan. If these risks materialize, Japan could
+continue to suffer from low growth and
+deflation, a toxic mix that would worsen public
+debt dynamics substantially. The debt
+sustainability analysis (Appendix II) suggests
+that severe shocks to growth, inflation and real
+interest rates, coupled with limited fiscal
+adjustment, could see public net debt rise to
+over 300 percent of GDP by 2030.
+6
+
+INTERNATIONAL MONETARY FUND
+
+-10
+
+Tightening
+
+All Enterprises
+
+-20
+
+-20
+
+Large corporations
+Small and medium-sized corporations
+
+-30
+
+-30
+
+Mar-04
+
+Mar-05
+
+Mar-06
+
+Mar-07
+
+Mar-08
+
+Mar-09
+
+Mar-10
+
+Mar-11
+
+Mar-12
+
+Source: BOJ Tankan Survey
+
+Japan: Near-Term Projections
+2010
+2011
+2012
+2013
+(Calendar Year, Growth Rate)
+Real GDP
+Total domestic demand
+Net exports (contribution)
+CPI inflation (average)
+Current account balance (% of GDP)
+Gen. Govt. primary balance (% of GDP)
+Gross Debt (% of GDP)
+
+4.4
+2.7
+1.7
+-0.7
+3.7
+-8.7
+215.3
+
+-0.7
+0.1
+-0.8
+-0.3
+2.0
+-9.2
+229.9
+
+2.4
+3.0
+-0.5
+0.2
+2.2
+-8.8
+234.5
+
+1.5
+1.5
+0.0
+0.0
+2.7
+-7.4
+240.0
+
+Source: IMF staff estimates.
+
+The Authorities’ Views
+13.
+The authorities broadly agreed with
+staff’s assessment, and expressed particular
+concern about the possibility of a further
+rise of the yen. While they considered that
+the direct effects of a slowdown in Europe
+would be manageable, they were more
+worried about the knock-on effects to China. If
+this was combined with a further appreciation
+of the yen, it would hurt the profitability of
+
+JAPAN
+
+2012 ARTICLE IV STAFF REPORT
+
+Box 1. What is the Outlook for Electricity Supply?1
+Electricity supply problems appear to have
+lessened. As a result of the the nuclear disaster last year,
+all 54 reactors—accounting for one-quarter of total
+electricity supply—were shut down for safety
+inspections. Despite the lower supply capacity, electricity
+problems this year are expected to be less severe than
+last summer. This is because the economically important
+Kanto region around Tokyo (accounting for 40 percent
+of Japan’s GDP), has sufficient capacity to meet demand
+due to an expansion of thermal power power plants, an
+increase in tariffs, and continued conservation efforts.
+
+Japan: Summer 2012 Projected Peak Electricity
+Supply/Demand Balance 1/
+Surplus (>3% above peak
+demand)
+Surplus (0-3% above peak
+demand)
+Shortage (below peak demand)
+
+restrictions on businesses, encouraged transfers from
+surplus regions, and enhanced conservation efforts. The
+recent re-opening of one nuclear reactor and the
+planned reopening of another plant in coming weeks
+will help fill much of the possible shortfall in Kansai.
+Staff estimates real GDP growth in 2012 could be ¼
+percentage point slower as a result of the energy
+problems. Lower consumption and productivity,
+combined with higher energy costs from the switch to
+thermal electricity generation, could suppress activity.
+Moreover, investment in energy-intensive sectors could
+decline as production costs rise. Higher fuel imports will
+also weigh on the trade balance and increase Japan’s
+vulnerability to world energy price shocks (text figure).
+Value of Mineral Fuel Imports
+
+(In Billion Yen)
+3000
+2500
+2000
+1500
+1000
+500
+
+Kansai Region
+Sources: National Policy Unit (Japanese government); staff estimates
+1/ Peak supply and demand are measured at the peak moment during the summer.
+
+The situation is, however, more uncertain in the
+Kansai region, where dependence on nuclear energy
+is high (text figure). The region accounts for 16 percent
+of GDP and drew half of its electricity needs from
+nuclear power in recent years. To ward off any potential
+shortfalls the government has imposed demand
+1
+
+Prepared by Kiichi Tokuoka and Pelin Berkmen.
+
+Japan’s tradables sector and slow the broader
+economic recovery. They noted that the
+outlook for electricity supply had improved
+with the recent decision to re-open two
+nuclear power plants.
+14.
+The BoJ expects a stronger pick-up
+of inflation than staff. While the BoJ’s and
+staff’s growth projections are similar, their
+estimate of the output gap in early 2012 is
+smaller and they expect greater upward price
+pressure than staff as the output gap closes in
+
+Petroleum
+
+Petroleum Products
+
+LNG
+
+LPG
+
+Coal
+
+0
+Mar-04 Mar-05 Mar-06 Mar-07 Mar-08 Mar-09 Mar-10 Mar-11 Mar-12
+
+Over the longer horizon, developing alternative
+energy sources would help reduce vulnerabilities.
+The government will publish a new energy plan over the
+summer, which could include some deregulation of the
+electricity sector to encourage more regional trading of
+supply to address shortages. Moreover, targeted
+subsidies and an increase in the carbon tax could give
+corporates an incentive to conserve energy and increase
+production of alternative energies.
+
+coming years. 2 Also, the BoJ assumes that
+commodity prices are likely to rise moderately
+because of increased demand for food and
+energy in relatively fast-growing emerging
+economies. Therefore, the BOJ expects it will
+likely be not too long before inflation reaches
+1 percent under current policy settings.
+2
+
+The difference in the output gap estimates in early 2012
+reflects staff’s higher potential growth (almost 1½ percent
+per annum) prior to the crisis compared with the BoJ’s
+estimate of about 1 percent. Staff analysis suggests that
+narrowing the negative output gap by 1 percentage point of
+GDP would raise the inflation rate by almost ¼ percent. The
+authorities indicated that they estimate the effect to be
+higher, but did not provide a precise figure.
+
+INTERNATIONAL MONETARY FUND 7
+
+2012 ARTICLE IV STAFF REPORT
+
+JAPAN
+
+POLICY DISCUSSIONS
+Total Budget Reconstruction Spending
+
+C. Regaining Fiscal Sustainability
+
+(Central government basis, in percent of GDP)
+
+15.
+Japan’s fiscal problems are deep
+rooted. Net public debt has increased nearly
+ten-fold over the last two decades to more
+than 125 percent of GDP. As a result of
+population aging, social security spending has
+risen rapidly, while persistently weak growth
+and deflation have depressed tax revenues
+(text figure, Figure 3). Growth in other
+spending has been relatively slow, with capital
+spending having fallen substantially.
+General Government Expenditure
+25
+Capital spending
+Interest payments
+
+20
+
+Social Security
+Other
+
+15
+
+15
+
+10
+
+10
+
+5
+
+5
+
+0
+
+1990
+
+1993
+
+1996
+
+1999
+
+2002
+
+2005
+
+2008
+
+2011
+
+0
+
+Source: IMF WEO database
+
+16.
+Fiscal vulnerabilities are substantial.
+Japan’s net public debt is higher than in
+almost all other advanced countries, and unlike
+in many other advanced countries is projected
+to rise further. Even a relatively small increase
+in the sovereign risk premium would make
+fiscal consolidation more difficult, pose
+challenges to financial institutions, harm
+growth prospects in Japan, and could spill over
+to global risk premia and growth (Box 2). In
+this regard, Europe’s recent experience offers a
+cautionary tale. Once market confidence is lost,
+regaining it becomes very difficult. At the same
+time, a large adjustment without growth is
+extremely difficult to implement given
+economic
+and
+political
+constraints,
+highlighting the need for forceful structural
+reforms.
+
+8
+
+Public investment
+
+4
+
+Transfers to local governments
+3
+
+Financial measures (e.g., SME support)
+
+3
+
+Income support for household
+2
+
+Contingency reserves
+
+2
+
+Other 1/
+1
+
+1
+
+0
+
+0
+Kobe Earthquake (1995) 2/
+
+Great East Japan Earthquake (2011)
+
+1/ Includes employment support and compensation for Fukushima nuclear accident.
+2/ No breakdown available
+
+Source: Japanese authorities; IMF staff estimates.
+
+Policy Issues and Staff’s Views
+
+(In percent of GDP)
+25
+
+20
+
+4
+
+INTERNATIONAL MONETARY FUND
+
+17.
+Japan’s fiscal deficit is set to
+increase in 2012, which staff considered
+appropriate to support reconstruction and
+the broader recovery. Capital and current
+reconstruction
+spending
+equivalent
+to
+1½ percent of GDP in 2012 (as part of a multiyear reconstruction package of 4 percent of
+GDP) will widen the fiscal deficit to about
+10 percent of GDP in 2012, while the structural
+primary deficit will rise slightly to 7½ percent
+of GDP (text figure, Table 5).
+18.
+Staff welcomed the authorities’
+intention to raise the consumption tax as
+part of its consolidation plan. The Lower
+House of the Diet has approved a tax bill that
+would increase the consumption tax to 8
+percent in April 2014 and 10 percent in
+October 2015. The Upper House is now
+considering the bill. Passage of the tax
+legislation is crucial to demonstrate a
+commitment to fiscal reform and sustain
+investor confidence. Staff estimate that the
+authorities’
+current
+consolidation
+plan,
+including the increase in the consumption tax,
+withdrawal of the financial crisis stimulus, and
+curbs to non-social security spending would
+achieve a 5 percent of GDP adjustment and
+reduce the primary deficit to 2½ percent of
+GDP by 2020.
+
+JAPAN
+
+2012 ARTICLE IV STAFF REPORT
+
+Figure 3. Fiscal Policy
+While social security benefits have been rising rapidly…
+
+…non-social security spending has remained the lowest
+among OECD economies.
+
+Japan: Social Security Benefits
+
+OECD1/: Spending excluding Social Security and Interest 2/
+25
+
+Pensions
+Medical Care
+Elderly care
+Other
+Total social security benefits
+
+20
+
+15
+
+20
+
+15
+
+10
+
+10
+
+5
+
+5
+
+(In percent of GDP, 2010)
+60
+
+60
+
+50
+
+50
+
+40
+
+40
+
+30
+
+30
+
+20
+
+20
+
+10
+
+10
+
+0
+
+0
+
+Israel
+Sweden
+Finland
+Ireland
+Slovenia
+Australia
+United Kingdom
+Canada
+Euro Area
+Netherlands
+Norway
+Portugal
+Hungary
+Spain
+Czech Republic
+United States
+Poland
+Belgium
+France
+Germany
+Slovak Republic
+Austria
+Luxembourg
+Turkey
+Greece
+New Zealand
+Chile
+Switzerland
+Japan
+
+(In percent of GDP)
+25
+
+0
+
+0
+FY1995
+
+FY2000
+
+FY2005
+
+FY2010
+
+1/ OECD countries with missing data (e.g., Italy) are not reported here.
+2/ General government basis.
+Source: IMF WEO database.
+
+Source: Ministry of Health, Labor and Welfare (Japanese Government); staff estimates
+
+Social security spending has contributed to large deficits
+and pushed up Japan’s debt level …
+
+… to almost the highest level, relative to GDP, for advanced
+economies .
+Selected Advanced Economies: General Government Net Debt (2010)
+
+Japan: General Government Net Debt 1/
+
+(In percent of GDP)
+
+(In percent of GDP)
+150
+
+150
+
+100
+
+100
+
+Source: Cabinet Office and IMF staff estimates.
+
+In the absence of fiscal adjustment, net public debt is
+projected to rise further unlike other advanced economies.
+WEO Baseline Projections for General Government Net Debt
+
+200
+175
+
+150
+
+150
+
+125
+
+125
+
+100
+
+100
+
+75
+
+75
+
+50
+
+50
+2013
+
+2014
+
+2015
+
+50
+
+0
+
+0
+
+-50
+
+-50
+
+-100
+
+-100
+
+-150
+
+-150
+
+-200
+
+-200
+
+2016
+
+2017
+
+Revenue reform is crucial as Japan’s tax revenue is relatively
+low.
+General Government Tax Revenue (2010)
+
+1/
+
+(In percent of GDP)
+200
+Japan 2/
+G7 average (ex. Japan and Italy)
+175
+European periphery average 3/
+
+2012
+
+100
+
+50
+
+Source: IMF Fiscal Monitor (April 2012)
+1/ Net debt is defined as gross debt minus financial assets.
+2/ Gross debt for Greece due to data limitation.
+
+1/ Net debt is defined as gross debt minus financial assets.
+
+2011
+
+150
+
+100
+
+2012
+
+2010
+
+2005
+
+0
+2000
+
+0
+1995
+
+50
+
+1990
+
+50
+
+150
+
+Greece 2/
+Japan
+Italy
+Portugal
+Belgium
+Ireland
+France
+United States
+United Kingdom
+Israel
+Iceland
+Germany
+Austria
+Spain
+Korea
+Canada
+Netherlands
+Switzerland
+Australia
+New Zealand
+Denmark
+Sweden
+Finland
+Norway
+
+FY1990
+
+(In percent of GDP)
+
+35
+
+35
+Corporate Income Tax
+30
+
+Personal Income Tax
+
+30
+
+25
+
+Consumption Tax
+
+25
+
+Other
+20
+
+20
+
+15
+
+15
+
+10
+
+10
+
+5
+
+5
+
+Source: IMF WEO database (April 2012)
+1/ Net debt is defined as gross debt minus financial assets.
+2/ Not reflecting the consumption tax increases planned by the government.
+3/ Greece, Ireland, Italy, Portugal and Spain. Greece's debt is on a gross basis, due to data limitations.
+
+0
+
+0
+Japan
+
+US
+
+UK
+
+France
+
+Germany
+
+Source: OECD; IMF WEO database
+
+INTERNATIONAL MONETARY FUND 9
+
+2012 ARTICLE IV STAFF REPORT
+
+JAPAN
+
+Box 2. Risks from a Sharp Increase in Government Bond Yields1
+Despite the rise in public debt, JGB yields have
+remained low and stable. The low yields are
+attributable to an increase in risk aversion following the
+global financial crisis and deflation. Ownership of JGBs is
+dominated by domestic investors, who hold more than
+90 percent of the outstanding stock and, in recent years,
+have preferred to hold assets that are perceived as lowrisk, such as JGBs and bank deposits. Banks have, in turn,
+held a growing share of their assets in JGBs, given
+limited demand for credit. While these factors are
+expected to persist for some time, the market’s
+willingness and capacity to absorb new government
+debt will diminish as population aging reduces saving
+and the corporate sector’s risk appetite improves (see
+WP/11/292). Without significant policy adjustment,
+outstanding gross general government debt could reach
+250 percent of GDP over the medium term. The stock
+would likely exceed household savings in 5-10 years,
+suggesting a need to turn more to the corporate sector
+and foreign investors.
+Even a moderate rise in yields would leave the fiscal
+position extremely vulnerable. If JGB yields rose by
+100 bps over the next 5 years, the long-term net public
+debt-to-GDP ratio would remain high at 150 percent of
+GDP, even after a 10 percentage points of GDP
+adjustment in the structural fiscal balance. Failure to
+implement a credible fiscal consolidation plan could
+lead to sovereign downgrades and trigger similar
+actions for financial institutions, which could eventually
+erode confidence in the JGB market (text table).
+Japan Long-term Sovereign Ratings
+Ratings
+Moody's
+S&P
+Fitch
+R&I
+
+Ratings Outlook effective since
+Aa3
+Stable
+Aug-11
+AA- Negative
+Feb-11
+A+
+Negative
+May-12
+AA+
+Stable
+Dec-11
+
+Source: Bloomberg; as of May 2012.
+1
+
+Prepared by Raphael Lam.
+
+19.
+Staff noted, however, that more
+needs to be done to reduce debt. In the
+absence of further adjustment, beyond the
+authorities’ current plan, the public debt-toGDP ratio would continue to rise. The
+authorities’ fiscal strategy recognizes the need
+for further adjustment but no concrete policy
+proposals, beyond current plans, have been
+put forward as yet. Staff advised an additional
+5 percent of GDP adjustment to achieve an
+overall fiscal consolidation of 10 percent of
+GDP over the next decade. This would achieve
+10
+
+INTERNATIONAL MONETARY FUND
+
+The IMF’s recent FSSA points out that growing risks
+to fiscal sustainability have heightened concerns
+about possible feedback to financial stability. The
+JGB holdings of banks have risen substantially and
+more than doubled since the global financial crisis (text
+figure). Should a sharp rise of government bond yields
+coincide with a broader growth shock (e.g., a global
+downturn), financial stability might be challenged. In
+such a scenario, asset prices would fall further and
+borrowing costs rise, leading to a deterioration of
+credit quality and a worse outcome for growth.
+Banks' Assets on the Public Sector
+
+(In percent of GDP)
+100%
+
+80%
+
+2007
+
+2008
+
+2009
+
+2010
+
+60%
+
+40%
+
+20%
+
+0%
+Japan
+UK
+US
+France
+Germany
+Sources: Respective countries' central banks; Haver Analytics.
+
+Italy
+
+A sustained rise of government bond yields could
+lower global output through a spillover to global
+risk premia. Spillover analysis (see separate
+background paper for the Spillover Report) shows that
+a sharp rise in government bond yields could reduce
+Japan’s output by 6-10 percent after 10 years, relative
+to the baseline, depending on the extent of contagion
+to global risk premia. The impact on global output
+would be modest if the rise in Japanese government
+bond yields was contained in Japan. However, if global
+risk premia rose more substantially, in line with
+estimates based on historical correlations, output could
+fall by up to 1 percent in the United States and about
+2-3 percent in Emerging Asia and the Euro area.
+
+a primary surplus of about 3 percent of GDP by
+the early 2020s and put the public-debt-toGDP ratio on a clear downward path. Staff
+recommended that about half the adjustment
+come from additional expenditure restraint of
+2½ percent of GDP over the next decade, by
+curbing growth in nominal spending. In
+addition, adopting a clear timeframe for
+further revenue increases beyond 2015 to
+achieve the remaining adjustment would
+bolster confidence in public finances.
+
+JAPAN
+
+21.
+Careful design of consolidation
+measures could reduce the negative impact
+on growth. Building on the proposed
+consumption tax increase, staff advised a
+broad range of reforms to contain social
+security spending and improve incentives to
+work and invest. While the design of an
+appropriate fiscal package would need to take
+a pragmatic approach, some elements could
+include the following, many of which have
+already been debated publicly (text table,
+shaded column):
+- Increasing the consumption tax to a uniform
+rate of at least 15 percent, closer to the
+average for OECD countries (text figure), as
+it is a stable source of revenue in an aging
+society, one of the least distortionary taxes,
+and easy to administer.
+- Cutting the corporate tax rate further,
+beyond the
+planned reduction to
+35 percent in 2015, to improve incentives to
+invest.
+- Broadening the personal income tax base to
+raise revenue and improve work incentives,
+including by reducing the exemption for
+
+OECD Economies: Standard VAT Rate (2010)
+
+(In percent)
+30
+
+30
+
+25
+
+25
+
+20
+
+OECD Average 1/
+
+20
+
+15
+
+15
+
+10
+
+10
+
+5
+
+5
+
+0
+
+0
+
+Japan
+Canada
+Switzerland
+Australia
+Korea
+New Zealand
+Luxembourg
+Mexico
+Spain
+United Kingdom
+Unweighted ave.
+Turkey
+Chile
+Germany
+Greece
+Netherlands
+Slovak Republic
+France
+Austria
+Czech Republic
+Italy
+Portugal
+Belgium
+Ireland
+Finland
+Poland
+Denmark
+Hungary
+Norway
+Sweden
+Iceland
+
+20.
+The consolidation recommended by
+staff would have a negative impact on real
+GDP growth of about ½ percent annually in
+the short-term. 3 The pace of consolidation
+over the next 5-6 years under the staff’s
+proposal is quicker than in most advanced
+countries, which is needed to stabilize the
+debt-to-GDP ratio given Japan’s large public
+debt. Importantly, a commitment to fiscal
+reform through pre-announced increases in
+the consumption tax, could bring forward
+household spending, limiting the near-term
+impact of the tax increase. However, if the
+consolidation was coupled with structural
+reforms to support growth, it could boost
+confidence and help raise private consumption
+and investment over the longer-term.
+
+2012 ARTICLE IV STAFF REPORT
+
+Source: OECD.
+1/ Average of OECD countries which have adopted VAT.
+
+pension income and eliminating the tax
+deduction for dependent spouses.
+- Reducing social security spending, including
+by raising the pension retirement age to 67,
+collecting contributions from dependent
+spouses, and clawing back benefits from
+wealthy retirees. 4 Some of these savings
+could help fund a reduction in payroll taxes.
+22.
+Fiscal reforms would also need to
+address equity concerns. Staff analysis
+suggests that an increase in the consumption
+tax and pension reforms would be fairer than
+other measures in addressing the large
+inequities between young and old generations
+and that a delay in enacting fiscal reforms
+would only serve to worsen intergenerational
+equity (Box 3). Targeted transfers to lowerincome households could also be introduced
+to address concerns about the regressive
+nature of the consumption tax, rather than
+adopting multiple tax rates that would reduce
+its efficiency in raising revenue. The
+introduction of a uniform tax identification
+number could help raise revenue from highincome earners and better target transfers.
+23.
+The payoff of these reforms in the
+form of a lower public-debt-to-GDP ratio
+could be sizeable. By steadily improving the
+fiscal balance over the course of a decade, staff
+project net public debt to stabilize at around
+4
+
+3
+
+Based on simulations of the Global Integrated
+Monetary and Fiscal (GIMF) model incorporating an
+increase in investment and consumption, assuming
+confidence is boosted as a result of consolidation. See
+IMF Country Report 11/183.
+
+Unlike in many other countries, dependent spouses
+of employees are eligible for pension benefits, even
+though they make no contributions. See Selected
+Issues Paper “Options for Pension Reform in Japan” by
+Kenichiro Kashiwase, Masahiro Nozaki, and Kiichi
+Tokuoka (2012).
+
+INTERNATIONAL MONETARY FUND 11
+
+2012 ARTICLE IV STAFF REPORT
+
+JAPAN
+
+150 percent of GDP by mid decade and then
+fall gradually to 125 percent of GDP by 2030
+(text chart, policy adjustment scenario). The
+benefits would be larger in an upside scenario,
+similar to the authorities’ Growth Strategy
+scenario, in which forceful structural reforms
+together with increased confidence in fiscal
+sustainability are assumed to lead to higher
+real growth and inflation, and a depreciation of
+the yen toward its medium-term equilibrium.5
+This would push down the net public-debt-toGDP ratio to around 115 percent of GDP by
+2030.
+
+Japan: Net Public Debt 1/
+
+(In percent of GDP)
+225
+
+225
+Staff estimates of authorities' current plan2/
+
+200
+
+175
+
+150
+
+150
+
+125
+
+Upside
+
+125
+
+scenario3/, 4/
+
+100
+
+100
+
+75
+
+75
+2005
+
+2010
+
+2015
+
+2020
+
+2025
+
+(Excluding Reconstruction Spending, in Percentage Points of GDP)
+
+Staff Estimates
+of Authorities'
+Current
+Plan
+10.0
+
+Adjustment Options
+
+15.0
+
+15.0
+
+18.0
+
+Fiscal Policy
+Revenue
+Increase consumption tax
+
+2.5
+
+Cut corporate tax further 2/
+Broaden personal income tax base
+
+5.0
+
+5.0
+
+6.5
+
+-0.5 /3
+
+-0.75 /4
+
+-0.5 /3
+
+0.5
+
+0.75
+
+0.5
+
+Eliminate preferential tax treatment for pension benefit
+income
+Collect contributions from dependent spouses of workers
+covered by the Employees' Pension Insurance
+
+¼ /5
+¼ /5
+
+Reduce pension payroll tax
+
+-0.5
+
+Introduce carbon tax /6
+
+✔
+
+✔
+
+✔
+
+✔
+
+Raise inheritance/gift tax
+
+✔
+
+✔
+
+✔
+
+✔
+
+Expenditure
+Withdraw financial crisis fiscal stimulus
+
+1.0
+
+1.0
+
+1.0
+
+1.0
+
+Curb growth rate of nominal non-social security spending
+(excluding interest payments)
+
+1.5
+
+2.5 /7
+
+2.5 /7
+
+2.5 /7
+
+1.0
+
+1.0
+
+¼ 5/
+¼ 5/
+
+¼ 5/
+¼ 5/
+
+10.0
+
+10.0
+
+Limit annual nominal growth in non-pension social
+security spending at 1-1½ percent
+Raise pension eligibility age to 67 or higher
+Reduce benefits for wealthy retirees
+Total Savings
+
+5.0
+
+10.0
+
+1/ Without 10 percentage points of GDP adjustment, spending in percent of GDP is projected stay at about the same level betw een 2011 and 2020.
+This means that even without 10 percentage points of GDP adjustment, nonsocial security spending (in percent of GDP) is projected to decline
+slightly, given gradual increases in social security spending.
+2/ The government has already decided to reduce the effective corporate tax rate to 35 percent by FY2015 from 40 percent in FY2011.
+3/ Cut the effective rate to around 30-35 percent.
+4/ Cut the effective rate to around 25-30 percent.
+5/ Low er bound estimate in the accompanying Selected Issues Paper "Options for Pension Reform in Japan."
+6/ The fiscal savings are assumed to be around 0.1 percentage points of GDP or lower. The savings are assumed to be spent on ene
+7/ Freezing expenditure in nominal terms can produce this size of savings.
+
+5
+
+See IMF Country Report 11/183.
+
+12
+
+INTERNATIONAL MONETARY FUND
+
+2030
+
+Sources: Cabinet Office; and staff estimates and projections.
+1/ Net debt of the general government including the social security fund.
+2/ Consumption tax increases to 8 percent in 2014 and 10 percent in 2015 are assumed.
+3/ Assumes a 10 percentage points of GDP improvement (authorities' current plan +5.0 points) in the structural
+primary balance between end-2011 and 2020.
+4/ Upside scenario assumes higher long-term growth rates of real GDP (2 percent) and
+GDP deflator (1½ percent).
+
+Options for Fiscal Policy Adjustment between end-2011 and 2020 1/
+
+Consumption Tax Rate
+(In percent, currently at 5 percent)
+
+200
+
+Policy adjustment scenario3/
+
+175
+
+JAPAN
+
+2012 ARTICLE IV STAFF REPORT
+
+Box 3. Intergenerational Implications of Fiscal Consolidation in Japan1
+Intergenerational resource inequality in Japan is
+significant. The Cabinet Office estimated that based on
+government policy in 2003, the present discounted
+value (PDV) of the lifetime net burden (defined as any
+payment to the government minus any services and
+transfers from the government) for future generations
+would be 50 million yen per household (about 10 times
+household annual disposable income), and 100 million
+yen heavier than for those aged 60 years or older.
+Fiscal
+consolidation
+generally
+worsens
+intergenerational inequality further from current
+levels. A fiscal adjustment typically aggravates
+intergenerational resource imbalances as the young
+would feel the decline in net benefits (as a result of an
+adjustment) for a longer period. However, this does not
+imply that a fiscal adjustment would make young and
+future generations worse off because lack of fiscal
+consolidation would eventually lead to an increase in
+interest rates and lower pension benefits, which would
+lower output and reduce welfare substantially.
+Simulation
+analysis
+using
+an
+overlapping
+generations (OLG) model shows that a fiscal
+adjustment of 10 percentage points of GDP would
+raise the lifetime net burden substantially for young
+generations, but minimally for older generations.
+For those aged 20–29, the net PDV burden from a
+10 percentage point consolidation would be as much as
+400 percent of current per household wage income
+before taxes, with the total net burden reaching
+1600 percent combined with the burden implied by
+policy as of 2003 (text figure). Those aged 70 or higher,
+however, would remain beneficiaries under the
+government
+transfer system even
+with the
+10 percentage point consolidation.
+OLG Simulation: Overall Lifetime Net Burden
+
+(Present discounted value, in percent of current income, per-household, before-tax)
+2000
+1500
+
+2000
+Net burden due to policy as of 2003 1/
+Burden due to 10 point fiscal adjustment
+
+1000
+Total net burden
+
+500
+0
+
+-1000
+
+ Including social security spending reforms in a
+
+consolidation package could help correct the
+large intergenerational imbalance. This is because
+older generations would have to bear the
+immediate burden of these reforms. For example, if
+a 1.5 percentage point of GDP adjustment (out of 10
+points above) comes from social security spending
+reforms (e.g., a targeted reduction in pension
+benefits), that would reduce the burden for young
+generations by 15 percent of current household
+wage income (before taxes) relative to a scenario
+without social security spending reforms. However,
+relying excessively on social security spending
+reforms could have serious welfare implications for
+seniors. This argues for combining social security
+spending reforms and revenue measures in a
+consolidation package.
+
+ Delaying fiscal adjustment could be costly and
+
+worsen intergenerational resource inequality. For
+example, delaying fiscal consolidation by 3 years
+would require larger fiscal consolidation eventually
+and raise the PDV lifetime burden for those
+currently 20-29 years of age by 15-20 percentage
+points of the current per household wage income
+(before taxes). However, such a delay would reduce
+the burden for older generations relative to a nodelay scenario (text figure). This highlights the
+political
+difficulty
+of
+implementing
+fiscal
+consolidation early as the share of old-aged people
+is growing.
+
+Added Burden from Delaying Consolidation & Population Share
+
+-1500
+
+Actual population share in 2012 (in percent of total population
+aged 20 or higher, right-hand scale)
+
+10
+
+40
+
+1000
+
+20
+
+5
+
+0
+
+0
+
+500
+
+-1000
+
+-1500
+20-29
+30-39
+40-49
+50-59
+60-69
+70-79
+Sources: Cabinet Office; staff calculation
+1/ Recalculated in 2012 PDV terms, using Cabinet Office's estimates as of 2003.
+
+-5
+
+-20
+
+-500
+Current Age
+
+15
+
+60
+
+1500
+
+0
+
+-500
+
+A key question, therefore, is how to implement
+needed fiscal consolidation while minimizing the
+deterioration in intergenerational inequality. In this
+regard, OLG simulations highlight the following:
+
+-40
+
+Additional burden by delaying consolidation by 3 yrs
+(PDV, in % of current (year T) per capita before tax wage,
+left-hand scale)
+
+-10
+-15
+
+-60
+20-24 25-29 30-34 35-39 40-44 45-49 50-54 55-59 60-64 65-69 70-74 75-79 80-
+
+Source: Japanese government and IMF staff calculations.
+
+________________________
+1
+
+Prepared by Kiichi Tokuoka. For technical details see
+forthcoming IMF Working Paper K. Tokuoka
+“Intergenerational Implications of Fiscal Consolidation in
+Japan.”
+
+INTERNATIONAL MONETARY FUND 13
+
+2012 ARTICLE IV STAFF REPORT
+
+JAPAN
+
+24.
+To sustain a decade-long adjustment,
+a more robust fiscal framework could
+improve discipline and enhance public
+understanding of the needed reforms.
+Various options include adopting a mediumterm budget framework with a strict overall
+spending limit and ministry-by-ministry
+spending targets, while restricting the use of
+supplementary budgets. Greater disclosure of
+tax expenditures would also increase
+transparency. Once fiscal consolidation is on
+track, the authorities could also consider
+adopting a legally-binding fiscal rule that
+could target a primary surplus.
+Authorities’ Views
+25.
+The
+authorities
+stressed
+their
+commitment to fiscal consolidation and see
+the doubling of the consumption tax rate as
+a critical first step. They broadly agreed with
+staff advice on the need for further
+consolidation beyond current plans. They
+emphasized that their fiscal strategy is to halve
+the primary deficit by FY2015 and achieve a
+primary surplus by FY2020 at the latest, to
+reduce the public debt-to-GDP ratio over time.
+26.
+The authorities noted that they are
+working toward concrete proposals to
+achieve
+this
+adjustment,
+and
+are
+considering a number of options including
+some of those raised by staff. They were
+cognizant of the need to address equity
+concerns both between generations and for
+low-income households. In this regard, they
+acknowledged the importance of social
+security reforms, especially to the public
+pension. On the revenue side, before
+considering a further reform in corporate
+taxes, they wished first to examine such factors
+as the impact of the corporate tax cut started
+in FY2012 and international competitive
+conditions.
+27.
+They saw the current fiscal
+framework as effective in maintaining
+discipline. The authorities stated that rigid
+ministry-by-ministry medium-term spending
+limits could weaken budget flexibility, and
+referred to their experience with the 1997
+
+14
+
+INTERNATIONAL MONETARY FUND
+
+Fiscal Structural Reform Act, that included
+limits by major spending category and was
+suspended following the banking crisis. They
+emphasized that their current rolling threeyear expenditure framework, with caps on
+non-interest primary spending, was effective in
+containing spending while allowing flexible
+resource
+allocation
+across
+expenditure
+categories.
+
+D. Structural Reforms to Raise
+Growth
+28.
+Higher growth is essential to create
+more jobs, reduce public debt and improve
+resilience to shocks. While Japan had one of
+the highest rates of productivity growth
+among advanced economies over the past
+decade, a decline in the working age
+population and weak investment slowed
+overall growth (Figure 4). Looking ahead, this
+demographic effect will continue as the
+population is expected to age quicker than in
+most other countries (text figure).
+Working-age Population Change (1950-2050)
+
+(Index, 1950=100)
+250
+Forecast
+DEU
+FRA
+200
+JPN
+GBR
+USA
+150
+
+100
+
+250
+
+200
+
+150
+
+100
+
+50
+50
+1950 1960 1970 1980 1990 2000 2010 2020 2030 2040 2050
+Source: UN.
+
+29.
+International evidence shows that
+bold and comprehensive reforms can
+succeed in raising growth substantially. A
+small number of advanced countries were able
+to raise their potential growth rate on a
+sustained basis by 1 percent (text table). In
+several cases, the growth acceleration followed
+a difficult economic period. Reforms were
+often broad based and included increasing the
+flexibility of the labor market, deregulating
+product markets and services, and opening up
+to foreign competition.
+
+JAPAN
+
+2012 ARTICLE IV STAFF REPORT
+
+Figure 4. Structural Reforms
+But the scope for raising labor participation is high as both
+female labor force participation and immigration are low
+relative to the OECD.
+
+Despite low overall GDP growth over the last decade,
+productivity gains have been strong.
+Total Factor Productivty Growth
+
+Immigration and Female Labor Participation
+
+(In percent; period average)
+1.5
+
+(In percent)
+
+2000-07
+
+30
+
+2000-11
+
+AUS
+
+25
+Share of Foreign Labor
+
+1.0
+0.5
+0.0
+-0.5
+
+20
+
+CHE
+
+15
+10
+
+GRE
+
+FRA
+
+CZE
+
+5
+KOR
+HGR
+
+0
+
+-1.0
+
+USA
+AUT
+DEU
+GBR
+
+ESP
+
+NOR
+DNK
+FIN
+CAN
+
+JPN
+
+SLV
+
+-5
+50
+Source: OECD, and staff estimates.
+
+The annual potential growth rate could rise by about
+¼ percentage points if Japan was to raise the female
+labor participation ratio to the G-7 average, …
+(In trillion yen)
+660
+
+620
+
+Baseline
+With G7 FLP ratio
+
+580
+
+With Northern Europe FLP ratio
+
+65
+
+70
+
+75
+
+80
+
+Female Labor Participation
+
+building on progress made over the last decade.
+
+660
+
+Forecast
+
+580
+
+60
+
+… and further reduce the administrative burden for firms,
+
+Real GDP: Policy Scenario with Higher Female Participation
+
+620
+
+55
+
+Source: OECD.
+
+540
+
+540
+
+500
+
+500
+
+460
+
+460
+
+420
+
+420
+
+Product Market Regulation in Advanced Economies
+(Restrictiveness indicator)
+3
+
+1998
+
+2008
+
+2.5
+2
+1.5
+1
+0.5
+0
+
+1990
+
+1995
+
+2000
+
+2005
+
+2010
+
+2015
+
+2020
+
+2025
+
+2030
+
+Source: WEO and IMF staff estimates.
+
+Public credit guarantees are widely used, but have likely
+weakened credit risk assessment, discouraged
+restructuring of nonviable SMEs, and limited startups.
+
+Japan Germany
+
+Italy
+
+France
+
+Korea
+
+Availability of risk-based capital (e.g., venture capital funds)
+is very limited in Japan.
+
+SME Loans and Credit Guarantees
+
+(In Trillion Yen unless otherwise stated)
+50
+SME credit guarantee
+Special or emergency credit guarantees
+45
+Nonperforming loans as percentage of gross loans outstanding (RHS)
+
+United United Canada
+Kingdom States
+Source: OECD
+
+12
+10
+
+Selected Advanced Economies: Venture Capital Investment
+(In percent of GDP)
+0.8
+0.7
+0.6
+
+40
+
+8
+
+35
+
+6
+
+30
+
+4
+
+25
+
+2
+
+Seed/Start-up
+
+0.5
+
+Expansion
+
+0.4
+0.3
+
+20
+
+0
+1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010
+
+Source: SME Agency, METI, BOJ, and Iichiro and Koji (2006).
+
+0.2
+0.1
+0.0
+Israel
+
+United United
+Kingdom States
+
+OECD
+(27)
+
+France
+
+Italy
+
+Canada Germany Japan
+
+Source: OECD (2008).
+
+INTERNATIONAL MONETARY FUND 15
+
+2012 ARTICLE IV STAFF REPORT
+
+JAPAN
+
+facilitated by introducing a uniform regular
+employment contract which phases in
+employment
+protection.
+Increased
+immigration could boost the labor force
+and thereby raise growth. It may also have
+an impact on inflation, including by raising
+the demand for housing. The recently
+introduced immigration “points-based”
+system provides highly skilled foreign
+professionals with preferential immigration
+treatment and could be broadened to
+include lower-skilled immigrants to meet
+labor shortages in sectors such as longterm care for the old-aged and childcare,
+which would also facilitate greater female
+labor force participation.
+
+Durable Potential Growth Rate Increases 1/
+Potential growth
+Decade
+Initially
+End of decade
+Canada
+1988-98
+2.9
+3.9
+Finland
+1987-97
+2.1
+3.2
+Netherlands
+1982-92
+1.2
+2.9
+New Zealand
+1985-95
+1.9
+3.4
+Sweden
+1989-99
+1.7
+3.5
+Source WEO, 1/ advanced economies only and defined
+as a growth rate increase by 1 percentage point over one
+decade sustained for 5 years.
+
+30.
+In Japan, a far-reaching package of
+reforms would be needed to achieve the
+authorities’ goal of raising long-term GDP
+growth to 2 percent. 6 Achieving such an
+improvement in potential growth will be
+challenging, in particular because Japan has
+worse demographic headwinds than other
+countries. Nonetheless, there is some “lowhanging fruit” in the labor market. Increasing
+Japan’s female labor participation rates to the
+G-7 average, raising old-age employment in
+line with Japan’s long life expectancy, and
+boosting the low level of immigration could
+raise potential growth by a much as
+½ percentage point (Figure 5).
+Policy Issues and Staff’s Views
+31.
+Reforms should focus on the most
+important constraints to growth. These
+include the decline in the labor supply with
+aging, low female labor force participation,
+domestic sector regulations, and limited
+availability of risk capital (text figure). A
+package of structural policies should include
+the following measures, many of which are
+currently under consideration:
+ Increasing the labor force. Female and oldaged employment could be encouraged by
+further expanding childcare facilities
+(including
+through
+deregulation)
+eliminating
+the
+tax
+deduction
+for
+dependent spouses, 7 and raising the
+retirement age to above 65 years. Labor
+market mobility and fairness could be
+6
+
+Selected Issues Paper “Japan’s Growth Challenge” by
+Stephan Danninger and Chad Steinberg (2012).
+7
+The tax deduction for dependent spouses with
+annual income of less than 1.03 million yen
+(US$13,500) is a disincentive for spouses to increase
+their earnings beyond this level.
+
+16
+
+INTERNATIONAL MONETARY FUND
+
+ Raising productivity further and encouraging
+investment. Productivity in domestic sectors
+could be increased by easing regulations
+that limit the development of services, such
+as health and old-age care, and by
+reforming the electricity and agricultural
+sectors.
+While
+Japan
+is
+becoming
+increasingly integrated with Asia, it could
+do more to tap into regional growth
+momentum. This could include encouraging
+FDI to help strengthen competitiveness and
+aid specialization in high value products.8
+Importantly, the authorities’ plan to pursue
+high-quality free trade agreements with key
+
+8
+
+See Spillover Report on “Japan’s Outward FDI” by
+Stephan Danninger (2012).
+
+JAPAN
+
+Asian and European trading partners and
+join the Trans Pacific Partnership could be
+a catalyst for regional integration and
+reforms in services and agriculture. At the
+same time, wider multilateral trade
+agreements should continue to be
+pursued.
+ Improving financial intermediation. While
+credit conditions are accommodative at
+present, structural impediments limit
+funding for startups and dynamic small
+and medium-sized enterprises (SMEs),
+which can be a particularly important
+source of growth and new jobs. Scaling
+down government-backed guarantees for
+SME loans as the recovery takes hold,
+phasing out the temporary SME Financing
+Facilitation Act by March 2013, and
+reducing the role of the government in
+channeling credit (including by fully
+privatizing Japan Post) would ensure a
+level playing field and could improve the
+availability of risk capital. The availability of
+such financing could also be improved by
+encouraging use of asset-based lending,
+including for inventories and accounts
+receivable. With further reform and
+financial strengthening, public pension
+funds could also become an additional
+source of investment capital as in some
+other countries. In addition, consideration
+could be given to refocusing the public
+asset management company to advance
+SME restructuring.9
+Authorities’ Views
+32.
+The authorities recognized that
+structural reforms were vital to lift
+potential growth, but noted that the
+challenge may be more daunting than in
+other countries. Rapid population aging
+implied a trend decline in labor inputs, while
+productivity growth was already very high,
+limiting the scope for further improvements.
+9
+
+See Selected Issues “Financial Policies to Support
+Growth” by Raphael Lam and Jongsoon Shin (2012).
+
+2012 ARTICLE IV STAFF REPORT
+
+The government’s Growth Strategy already
+includes some measures to increase the labor
+force by encouraging higher participation of
+women, the young, and the aged. But officials
+agreed that further measures were needed to
+boost growth, including by promoting
+employment of highly-skilled foreigners,
+restructuring SMEs, and deregulating some
+protected sectors, such as healthcare,
+childcare, electricity, and agriculture. While
+the authorities believed that financial sector
+reforms could lead to a more efficient
+allocation of capital, such reforms alone
+would not raise growth much at present as
+credit demand was low.
+
+E. Defeating Deflation
+33.
+Japan’s history of deflation partly
+explains its weak growth and worsening
+debt dynamics. Mild deflation for over a
+decade has contributed to lower private
+investment and consumption by sustaining
+high real interest rates and raising real levels
+of debt. In addition, deflation has reduced tax
+revenue, and made it more difficult to contain
+real spending, which led to a rise in public
+debt-to-GDP. An exit from deflation is
+therefore essential to support the recovery
+and to facilitate fiscal consolidation.
+Policy Issues and Staff’s Views
+34.
+Staff emphasized that forceful
+monetary easing should be a key element
+of a comprehensive package of policies
+needed to defeat deflation. As the
+effectiveness of monetary policy is blunted by
+an already very flat yield curve, structural
+reforms will also be important to boost
+confidence, raise domestic demand, and
+thereby accelerate the closing of the output
+gap. At the same time, strong action to
+achieve fiscal consolidation over the mediumterm could help ease the way for additional
+monetary accommodation.
+35.
+Staff welcomed recent measures
+taken by the Bank of Japan (BoJ) to
+combat deflation. The adoption in February
+
+INTERNATIONAL MONETARY FUND 17
+
+2012 ARTICLE IV STAFF REPORT
+
+JAPAN
+
+of a medium to long-term price stability goal
+of 1 percent has helped clarify the objective of
+monetary policy. In addition, the BoJ
+expanded its Asset Purchase Program by ¥15
+trillion this year in two steps and extended the
+maturity of JGB purchases from 1–2 years to
+1–3 years (text chart, text table). Together with
+earlier commitments this is a sizeable
+monetary expansion, totaling about 5 percent
+of GDP over the next year.
+Central Bank Balance Sheets
+
+(In percent of nominal GDP1\)
+35
+BoE
+
+ECB
+
+BoJ
+
+35
+
+Fed
+
+25
+
+25
+
+15
+
+15
+
+5
+Mar-02
+
+Mar-04
+
+Mar-06
+
+Mar-08
+
+Mar-10
+
+5
+Mar-12
+
+1\ 2012Q1 Euro Area GDP projection based on WEO.
+Source: BoJ, Haver, WEO, and Eurostat.
+
+Bank of Japan Monetary Easing
+(In trillions of Yen)
+Asset purchases
+
+Target
+Amount
+
+Outstanding
+Amount 1/
+
+In Percent
+of Target
+Amount
+
+40.0
+
+17.9
+
+JGBs
+
+29.0
+
+9.8
+
+44.8
+33.9
+
+T-Bills
+
+4.5
+
+3.0
+
+67.6
+
+Commercial papers
+
+2.1
+
+1.7
+
+81.3
+
+Corporate bonds
+
+2.9
+
+2.2
+
+74.3
+
+Exchange-traded funds (ETFs)
+
+1.6
+
+1.1
+
+69.3
+
+Japan real estate investment trusts (J-REITs)
+
+0.1
+
+0.1
+
+71.3
+
+30.0
+
+33.3
+
+-
+
+70.0
+
+51.3
+
+73.3
+
+Fixed-rate funds-supplying operation against
+pooled collateral
+Total
+Source: BoJ.
+1/ As of end-May 2012.
+
+36.
+Nevertheless, staff project inflation
+to remain below the inflation goal for an
+extended period. Even after accounting for
+the recent easing, staff forecast inflation to
+rise only to ½ percent in 2014 because of the
+negative output gap, and to reach the goal of
+1 percent by 2017. In addition, the much
+needed fiscal consolidation would likely
+dampen domestic demand in the near term,
+pulling down core inflation. Heightened
+uncertainty about the global outlook also
+raises concerns about the likelihood of
+achieving the inflation goal in coming years.
+37.
+Staff advised further monetary
+easing. Notwithstanding the current difficult
+environment for designing and implementing
+monetary policy, additional effective easing
+could be delivered. The asset purchase
+
+18
+
+INTERNATIONAL MONETARY FUND
+
+program could be expanded substantially
+beyond current plans to increase the
+likelihood of achieving the 1 percent inflation
+goal by end-2014, under staff’s baseline
+economic outlook.10 This would help reduce
+lending rates further. Moreover, such easing
+could also raise inflation expectations and
+help depreciate the exchange rate, which
+would be important channels given the
+current low interest rate environment that
+blunts the effectiveness of monetary policy.
+Extending
+the
+maturity
+of
+Japanese
+Government Bond (JGB) purchases beyond
+3 years could help reduce medium-term
+lending rates further. In addition, purchases of
+private assets, including corporate bonds,
+equities, and highly-rated securitized SME
+loans, could stimulate activity by boosting
+asset prices.
+38.
+The BoJ could consider some
+enhancements to its communication to
+increase the effectiveness of monetary
+policy. The BoJ could extend its inflation
+forecast to 3 years or beyond to better guide
+expectations. To underline its commitment to
+achieving the inflation goal, the BoJ could
+clarify further that it would be prepared to
+react effectively to changes in its baseline
+economic outlook. In addition, the BoJ could
+emphasize that the current inflation goal of
+1 percent is not considered a ceiling, and that
+a higher inflation rate could be allowed when
+food and energy prices rise temporarily or the
+consumption tax rate is increased. Once
+inflation gets closer to 1 percent, the BoJ
+could consider an increase in the inflation
+goal to create a larger buffer against
+deflationary shocks.
+Authorities’ Views
+39.
+The BoJ agreed that the recovery
+was in train and believed that the current
+policy stance was appropriate. They
+emphasized that with their powerful easing of
+10
+
+Based on impulse response functions obtained
+from a structural VAR. See “Bank of Japan’s
+Quantitative and Credit Easing: Are They Now More
+Effective?” (WP 12/2).
+
+JAPAN
+
+monetary policy, including sizable asset
+purchases, it will be likely not too long before
+inflation reaches 1 percent in their baseline
+outlook. The BoJ noted that monetary policy
+alone
+cannot
+defeat
+deflation,
+and
+emphasized that a combination of structural
+reforms and powerful monetary easing would
+contribute to raising growth and inflation
+expectations, under the low interest rate
+environment. The BoJ also cautioned that
+further purchases of JGBs and other types of
+financial assets would expose their balance
+sheet to risk. Moreover, in the absence of
+fiscal reforms further increases in JGB
+purchases could be viewed as monetization of
+the fiscal deficit and push interest rates up.
+40.
+The
+BoJ
+emphasized
+the
+effectiveness of their communication. They
+noted that the clarification of their goal in
+February and the Governor’s recent speeches
+had been effective in guiding market
+expectations. The BoJ explained that its
+medium- to long-term inflation goal will be
+regularly reviewed and going forward the BoJ
+could consider raising its goal, as structural
+reforms to strengthen growth potential
+proceed, though such consideration depends
+on how fast these reforms make progress. In
+addition, they stressed that they would look
+through temporary factors, such as an
+increase of the consumption tax rate, when
+assessing whether the policy stance was
+appropriate to achieve the medium-term
+inflation goal.
+41.
+The authorities shared staff’s view
+that structural reforms are important to
+defeat deflation. In that regard, a recently
+established ministerial council laid out priority
+areas for policies to combat deflation
+including through regulatory and structural
+reforms.
+
+F. Responding to a Downside
+Scenario
+
+42.
+If the outlook for growth worsens
+sharply in the near term, staff noted that
+further easing of monetary policy would be
+advisable, beyond that recommended in
+
+2012 ARTICLE IV STAFF REPORT
+
+the baseline scenario. Fiscal policy could also
+play a role, although it is constrained by the
+limited fiscal space. While maintaining the
+medium-term
+fiscal
+target,
+automatic
+stabilizers could be allowed to work and in
+case of a severe downturn small and targeted
+fiscal measures could be introduced, as long
+as JGB yields remain low. However, staff
+stressed that it would not be advisable to
+delay legislation of the increase in the
+consumption tax given its importance as a
+signal of commitment to consolidation. If
+financial markets were disrupted by
+heightened global turmoil, the authorities
+could consider providing additional liquidity
+together with other tailored actions to
+address market disruptions.
+The Authorities’ Views
+43.
+The authorities broadly agreed with
+staff’s advice. They emphasized that their
+commitment to fiscal reform over the
+medium-term was an essential stabilizing
+factor that would provide markets with
+confidence during a downturn. The BoJ
+agreed that further easing of monetary policy
+could play a role if the outlook for growth
+worsened sharply.
+
+G. Assessing External Stability
+44.
+Japan’s current account surplus
+remains sizeable, while the yen has
+appreciated significantly. The current
+account surplus has narrowed from almost 5
+percent of GDP in 2007, prior to the global
+financial crisis, and is expected to be around
+2¼ percent of GDP in 2012 (Figure 5). The yen
+has appreciated in real effective terms by
+27 percent since the Lehman event in late
+2008, initially due to an unwinding of carry
+trades and later as a result of safe haven flows
+during periods of global financial distress.
+45.
+The authorities intervened during the
+past year to counter volatility in exchange
+rates. The intervention in Oct/Nov 2011 was
+sizable (at about US$120 billion) and increased
+foreign exchange reserves (excluding gold) to
+US$1,258 billion by end-2012, in response to
+
+INTERNATIONAL MONETARY FUND 19
+
+2012 ARTICLE IV STAFF REPORT
+
+JAPAN
+
+Figure 5. External Sector Developments
+Japan’s current account surplus declined to 2 percent of GDP in
+2011, because of a worsening of the trade balance as a result of
+the earthquake, Thai floods, and yen appreciation.
+
+Net foreign assets, however, are sizeable …
+
+Current Account
+
+Net International Invesment Position
+
+(In percent of GDP)
+6
+
+6
+
+5
+
+5
+
+4
+
+4
+
+3
+
+3
+
+2
+
+2
+
+1
+
+1
+
+30
+
+0
+
+0
+
+20
+
+-1
+
+-1
+Goods Trade Balance
+
+-2
+
+Services Trade Balance
+
+Income
+
+-3
+Mar-00
+
+Mar-02
+
+-2
+
+Current Account Balance
+Mar-04
+
+Mar-06
+
+Mar-08
+
+Mar-10
+
+-3
+Mar-12
+
+Source: Haver.
+
+…and therefore, the investment income surplus (3 percent of GDP
+in 2011) is expected to remain large, particularly given higher
+returns on assets than on liabilities.
+Estimated Rate of Return on External Assets and Liabilities
+8
+
+Return on assets held abroad
+
+7
+
+Return on liabilities to foreigners
+
+6
+
+Differential of returns on assets and liabilities
+
+60
+
+Direct Investment
+
+Portfolio Investment
+
+Reserve Assets
+
+Net Foreign Assets
+
+Other Investment
+
+50
+40
+
+10
+0
+-10
+Mar-04
+Mar-06
+Mar-08
+Source: Haver Analytics Japan database.
+
+Mar-10
+
+Mar-12
+
+Safe-haven portfolio inflows kept the yen at a high level in 2011,…
+
+Net Capital Flows
+
+(In percent)
+8
+
+(In percent of GDP)
+70
+
+(In percent of GDP)
+8
+
+7
+
+6
+
+6
+
+4
+
+5
+
+5
+
+4
+
+4
+
+3
+
+3
+
+8
+
+Direct Investment
+Portfolio Investment
+Other Investment
+Financial Account incl. reserve assets
+Financial Account exc. reserve assets
+
+6
+4
+
+2
+
+2
+
+0
+
+0
+
+-2
+
+-2
+
+2011
+
+2010
+
+2009
+
+2008
+
+2007
+
+2006
+
+2005
+
+-8
+
+2004
+
+-6
+
+-8
+
+2003
+
+-6
+
+2002
+
+0
+2001
+
+0
+2000
+
+-4
+
+1999
+
+-4
+
+1998
+
+1
+1997
+
+2
+
+1
+1996
+
+2
+
+Source: BoJ, Deutsche Bank, and staff estimates.
+1/ Rate of return estimated by each category of investment income divided by corresponding
+stock levels obtained from international investment positions.
+
+…and as a result of increased volatility, the authorities intervened
+three times during 2011, …
+
+-10
+
+-10
+
+2007
+2008
+2009
+Source: Nomura, IMF staff estimates.
+
+2010
+
+… which unwound some noncommercial trades on long yen positions
+in early 2012.
+
+Chicago Mercantile Exchange: Yen Trading Position
+
+Foreign Exchange Intervention Operations
+
+60
+
+(In Trillion Yen)
+9
+
+Net long Yen positions of noncommercial traders (Yen billions; RH)
+70
+
+Yen per Dollar (inverted; LH)
+
+8
+
+2000
+1500
+1000
+
+80
+
+7
+6
+
+500
+
+90
+
+0
+
+5
+
+-500
+
+100
+
+4
+3
+
+-1000
+
+110
+
+-1500
+
+2
+
+120
+
+1
+0
+May-98
+
+May-00
+
+May-02
+
+May-04
+
+May-06
+
+May-08
+
+Source: Haver.
+
+20
+
+2011
+
+INTERNATIONAL MONETARY FUND
+
+May-10
+
+May-12
+
+130
+May-04
+
+-2000
+
+May-06
+
+Source: Bloomberg
+
+May-08
+
+May-10
+
+-2500
+May-12
+
+JAPAN
+
+a sharp appreciation of the yen as investors
+sought a safe haven. Staff advised that Japan,
+like other advanced economies, should allow
+the market to determine the exchange rate,
+although intervention could be used to
+counter volatile or disorderly market
+conditions.
+46.
+Japan’s external position appears
+moderately weaker than that consistent
+with underlying fundamentals. The current
+account has averaged about 3 percent of GDP
+over the last decade and is expected to
+remain around 2 percent of GDP over the
+medium-term, as population aging begins to
+reduce private saving. After taking into
+account desirable fiscal consolidation and
+structural policies, the current account’s
+normal level (“the norm”) is estimated by staff
+to be around 3 to 4 percent of GDP, leaving
+the gap between the current level and the
+norm at around 1 to 2 percent of GDP
+(Appendix III). This implies that the current
+account position is moderately weaker than
+suggested by the fundamentals (i.e, that the
+yen is moderately overvalued from a mediumterm perspective).
+47.
+Assessing the current level of the
+exchange rate against long-run averages
+also suggests that the yen is moderately
+overvalued. While the real effective exchange
+rate (REER), measured using relative consumer
+prices, is close to its 20-year average, it is
+about 10-15 percent more appreciated than
+
+2012 ARTICLE IV STAFF REPORT
+
+the 20-year average of the REER when
+measured using relative unit labor costs (text
+figure).
+Japan: Real Effective Exchange Rate
+
+(Index, 2000=100)
+180
+
+180
+
+160
+
+160
+
+140
+
+140
+
+120
+
+120
+
+100
+
+100
+
+80
+
+REER (CPI based)
+REER (ULC based)
+REER Average (CPI based, 1990-2012)
+REER average (ULC based, 1990-2012)
+
+60
+40
+May-80
+
+May-84
+
+May-88
+
+May-92
+
+May-96
+
+May-00
+
+May-04
+
+May-08
+
+80
+60
+40
+
+May-12
+
+Source: IMF INS database and staff estimates
+
+Authorities’ Views
+48.
+The authorities expressed concern
+about the yen’s volatility and disorderly
+movements caused by speculation. They
+agreed with staff that the yen was overvalued,
+but believed that the overvaluation was
+“substantial” rather than “moderate.” They
+noted that safe-haven capital inflows had
+likely led to an over-shooting of the exchange
+rate. They emphasized that the REER had
+appreciated sharply since the fall of 2008,
+including a strengthening by about 40–
+60 percent against the Euro and the Korean
+won in real terms. In addition, they pointed
+out that the economy faces the burden of
+recovery from the severe earthquake, a
+challenging fiscal situation, and a shift of the
+trade balance into deficit.
+
+H. Securing Financial Stability
+49.
+The financial system has weathered
+recent shocks well, although strains from
+the European debt crisis have risen. The
+earthquake and spillovers from the Thai floods
+led to significant economic disruptions but
+had only a limited effect on financial stability.
+Rising dollar funding costs in late 2011 were
+contained through coordinated central bank
+action, but costs have risen again in recent
+weeks as a result of uncertainty in Europe
+(Figure 6). Direct exposures of Japanese
+financial institutions to peripheral European
+
+countries are small (less than 1 percent of
+banks’ total assets), but indirect exposures
+through financial ties to core European
+countries are significant (Box 4).
+
+Policy Issues and Staff’s Views
+50.
+The FSSA found that important
+steps were taken to strengthen the
+financial system since the last assessment
+in 2003. Financial regulation and supervision
+have been effective in encouraging the large
+
+INTERNATIONAL MONETARY FUND 21
+
+2012 ARTICLE IV STAFF REPORT
+
+JAPAN
+
+Figure 6. Financial Soundness Indicators
+U.S. dollar funding costs in Japan increased in late 2011
+due to heightened concerns over the European debt
+situation, but receded after coordinated action by major
+central banks. More recently, funding costs have edged up.
+USD Funding Cost in Japan
+
+Consolidated Foreign Claims for Japanese Banks
+
+(In percent)
+1.7
+1.4
+
+Japanese banks’ direct exposures to peripheral European
+countries are limited. They have expanded overseas, which
+partly offset the deleveraging of European banks in the
+region.
+(In Trillion US dollars)
+
+3
+Implied USD interest rate from fx swaps (3-month)
+
+European periphery 1\
+
+USD LIBOR rate (3-month)
+
+Core Europe 2\
+
+Interest rate on USD funds-supplying operations by BOJ
+
+3
+
+US
+2
+
+1.1
+
+Asia
+
+2
+
+0.8
+1
+
+1
+
+0
+
+0
+
+0.5
+0.2
+May-10 Aug-10 Nov-10 Feb-11 May-11 Aug-11 Nov-11 Feb-12 May-12
+Source: Bloomberg and staff estimates.
+1/ Interest rates on the USD funds-supplying operations are calaculated as USD OIS + 100bp
+until Nov, 29 2011 and OIS rate + 50 bp afterwards.
+
+NPLs have fallen since the early 2000s, and have
+remained stable despite the global financial crisis, though
+the NPLs for smaller regional and shinkin banks are still
+high.
+
+(In percent)
+1.0
+
+(In percent of total gross loans)
+12
+
+City banks (i.e., largest major banks)
+Large Regional Banks (Tier 1)
+Small Regional Banks (Tier 2)
+Shinkin Banks
+
+8
+
+Banks’ profitability recovered from the crisis, but remains
+around half the levels of the mid-2000s.
+
+Japanese Banks: Return on Assets
+
+Japanese Banks: Non-performing Loans
+
+10
+
+Mar-05 Dec-05 Sep-06 Jun-07 Mar-08 Dec-08 Sep-09 Jun-10 Mar-11 Dec-11
+1\ Greece, Ireland, Italy, Portugal, Spain
+2\ Germany, France, UK, Switzerland
+Source: BIS.
+
+0.5
+
+6
+
+0.0
+
+4
+
+-0.5
+
+2
+0
+Mar-01
+
+Mar-03
+
+Mar-05
+
+Mar-07
+
+Mar-09
+
+Mar-11
+
+Source: FSA.
+1/ Data for FY2011 are not available yet.
+
+Average Maturity of Bond Holdings in Banks
+
+Mar-09
+
+Mar-11
+
+Major banks also enhanced their capital positions by issuing
+equity and retaining earnings since the Lehman crisis, in
+preparation for the Basel III requirement.
+
+Regional banks
+
+City banks (i.e., largest major banks)
+
+12
+
+Large Regional Banks (Tier 1)
+Small Regional Banks (Tier 2)
+
+10
+
+3.0
+
+8
+
+2.5
+
+6
+
+Mar-04
+
+Mar-06
+
+Mar-08
+
+Source: BoJ.
+1/ Latest data are as of end-December 2011.
+
+22
+
+Mar-07
+
+(In percent of risk-weighted assets)
+14
+
+3.5
+
+2.0
+Mar-02
+
+Mar-05
+
+Japanese Banks: Tier 1 Capital Ratio
+
+(In number of years)
+4.5
+
+Major banks
+
+Mar-03
+
+Source: FSA
+
+Major banks have limited their interest rate risk by
+holding short maturities of JGBs, but regional banks are
+more exposed to interest rate risk.
+
+4.0
+
+-1.0
+Mar-01
+
+City banks (largest major banks)
+Large Regional Banks (Tier 1)
+Small Regional Banks (Tier 2)
+Shinkin Banks
+
+INTERNATIONAL MONETARY FUND
+
+Mar-10
+
+Dec-11
+
+4
+Mar-01
+Source: FSA.
+
+Mar-03
+
+Mar-05
+
+Mar-07
+
+Mar-09
+
+Mar-11
+
+JAPAN
+
+2012 ARTICLE IV STAFF REPORT
+
+Box 4. Potential Financial Spillovers from the European Debt Crisis1
+A key downside risk for Japan, and Asia more
+broadly, is an escalation of the Euro area
+debt crisis. So far, deleveraging by European
+banks has been orderly with only a modest
+impact on credit conditions in Japan and the
+region. Nonetheless, spillovers could intensify if
+European banks come under pressure to reduce
+their balance sheets to cope with high rollover
+needs, weak economic growth, and the need to
+strengthen their capital base (GFSR and REO
+2012).
+The FSSA highlighted several financial
+spillover channels, including losses from
+overseas exposures and funding pressures:
+ Losses from overseas exposures of Japanese
+financial institutions are likely to be limited, if
+the crisis is contained to the peripheral
+European countries. Japanese banks hold
+about 12 percent of their assets as foreign
+claims, of which about ¼ are on Europe. The
+majority of banks’ claims on Europe are on the
+nonfinancial sector (about 60 percent) in core
+countries. While insurance companies invest
+about 15–20 percent of their assets in foreign
+securities, direct exposures to peripheral
+European countries have been unwound and
+the amount was negligible as of end-2011.
+ The risks to the financial system in Japan,
+however, would be more severe if the
+European crisis impacted U.S. and U.K banks
+or hit the claims on the nonfinancial sector in
+core European countries. Assuming sizeable
+credit and funding shocks (100 percent of loss
+given default and 50 percent discount on
+asset liquidation) on cross-border banking
+claims and no policy response by country
+authorities, such shocks would impair
+substantially the tier 1 capital of Japanese
+banks, based on network analysis prepared for
+the FSAP update. Market distress correlation
+measures also point to a rise of spillover risks
+between Japanese financial institutions and
+
+1
+
+Prepared by Raphael Lam.
+
+systemic U.S. and European
+institutions during crisis periods.
+
+financial
+
+ U.S. dollar funding conditions are likely to
+remain favorable for Japanese banks owing
+to their large holdings of collateral needed
+to access central bank facilities. However,
+Japanese securities firms will need to
+manage carefully their day-to-day dollar
+liquidity because of their reliance on
+wholesale market funding. In addition, some
+foreign banks in Japan (especially European)
+might face difficulties in meeting both their
+yen and dollar funding needs locally, as was
+observed in 2008-09.
+The FSAP stress tests also assessed the impact
+of a global recession scenario that could be
+triggered by an intensification of the European
+crisis. The tests suggest that, in the near term,
+Japanese banks and insurers have the capacity to
+withstand a severe global growth shock and losses
+from foreign exposures. The banking sector
+solvency tests, however, did not account for risks
+from large exposures or the impact of adjusting
+various support measures to SMEs. Moreover,
+stress tests, by their nature, are partial analyses
+and more severe tail risk scenarios, with feedback
+from fiscal-financial sector linkages, could be
+more detrimental to financial stability than
+suggested by the tests.
+On the upside, an orderly deleveraging by
+European banks is providing opportunities for
+Japanese financial institutions. They have been
+expanding overseas, especially in the region, in
+the face of weak domestic demand and the strong
+yen. Cross-border exposures of Japanese banks
+and insurance companies are rising (having
+doubled since 2004 to reach US$2.7 trillion as of
+December 2011 for banks), though are still
+relatively low compared to U.S. and European
+counterparts. An increasing role of Japanese
+financial institutions in the region could help
+mitigate the impact of a retreat of European
+banks, particularly on syndicated loans and trade
+finance.
+
+INTERNATIONAL MONETARY FUND 23
+
+2012 ARTICLE IV STAFF REPORT
+
+JAPAN
+
+banks to strengthen their capital positions and
+building the resilience of insurers to shocks.
+Moreover, Japan has a high level of
+compliance
+with
+international
+core
+principles.11
+51.
+Nevertheless, financial institutions’
+low core profitability and large holdings of
+JGBs and equities raise some concerns
+about financial stability. The FSAP stress
+tests suggest that in the near term banks and
+insurers would be resilient to severe economic
+stress and moderate market shocks. However,
+the key challenges banks face are to raise
+profitability in a low growth environment,
+while managing risk associated with their JGB
+and equity holdings. Specifically:
+ Despite the improvement in banks’ net
+income during FY2011 as a result of large
+trading gains, core profitability remains low,
+with an average return on assets of only
+0.3 percent due to a narrowing of the
+interest margin (Table 6). This limits their
+capacity to rebuild capital buffers after a
+shock. Banks’ nonperforming loans ratio has
+stayed low (at 3 percent of total loans in
+early 2011), but the BoJ estimates that this
+could rise by about 1 percentage point if
+SMEs with restructured loans fail to improve
+their business conditions.12
+ Interest rate risk has increased since the
+global financial crisis (text figure). Banks’
+holdings of JGBs have grown to about onefifth of their assets, most of which are
+available-for-sale securities (that are marked
+to market prices) in the banking book.
+Major banks that comprise over 40 percent
+of total bank assets (text figure) have
+contained their interest rate risk by holding
+short maturities, averaging 2½ years. If
+11
+
+The core principles assessed included the Basel
+Core Principles for banks, Insurance Core Principles
+(ICP) for insurance companies, and International
+Organization of Securities Commissions (IOSCO)
+Principles and Objectives.
+12
+The SME Financing Facilitation Act introduced in
+2009 was accompanied by a change in FSA’s
+guidelines that relaxed the requirements for
+classifying restructured loans as “normal,” thereby
+understating the underlying credit risks.
+
+24
+
+INTERNATIONAL MONETARY FUND
+
+Banking System in Japan
+
+(In percent of total assets of deposit-taking institutions as of March 2011)
+15%
+
+City banks (classifed as major banks)
+Trust banks, credit cooperatives, and
+others
+Large regional banks (tier 1)
+
+3%
+42%
+
+6%
+
+Small regional banks (tier 2)
+Foreign banks
+
+23%
+
+Shinkin banks
+
+11%
+
+Sources: Bank of Japan, Japanese Bankers' Association, and Credit Cooperatives.
+1/ The three megabanks comprise the majority of city bank assets.
+
+interest rates rise by 1 percentage point
+across all maturities, major banks’ exposure
+to interest rate risk would be about 10
+percent of Tier 1 capital (text figure).
+Regional banks, however, hold longer
+maturity JGBs and their interest rate risk
+would be about 1/3 of their Tier 1 capital in
+such a scenario. In the unlikely event of a
+prolonged growth shock, combined with a
+sharp rise in government bond yields,
+financial stability might be challenged.
+Interest Rate Risk in the Banking System 1/
+
+(100 basis point value; in percent of tier-1 capital)
+35
+30
+
+Major banks
+
+Regional banks
+
+25
+20
+15
+10
+5
+0
+FY2000
+
+FY2002
+
+FY2004
+
+FY2006
+
+FY2008
+
+FY2010
+
+Source: Bank of Japan.
+1/ The interest rate risk based on 100 basis point value in the banking book, assuming interest
+rates of all maturities would rise simultaneously by 1 percentage point. The latest data are as of
+end-December 2011.
+
+ Market risk from equities has declined but
+is still sizable. Equity holdings by banks
+(almost 40 percent of total capital) and
+non-life insurers (20 percent of assets)
+imply that they would face substantial
+losses if stock prices fell sharply.
+ Looking forward, the expansion of financial
+institutions overseas, while welcome, would
+present challenges to supervisors in
+monitoring cross-border exposures.
+52.
+The authorities intend to implement
+Basel III for internationally-active banks.
+The FSAP update estimates that applying
+
+JAPAN
+
+immediately and in full the Basel III capital
+definition for these banks, while keeping the
+Basel II definition of RWA, would reduce their
+Tier 1 capital ratios by about 2¼ percentage
+points (from 12¾ percent in March 2011
+under Basel II). Applying more prudent risk
+weights (in line with the Basel III phase-in as of
+September 2011) would further reduce the
+ratio by about 1 percentage point for the
+three mega banks. The ratio would still be
+above the Basel III minimum requirement that
+will rise to 6 percent by 2015.
+53.
+The FSSA recommended a number
+of measures to improve the monitoring of
+systemic risks and strengthen further the
+financial stability framework, which require
+timely attention and implementation. The
+main recommendations, which are covered in
+detail in the FSSA, are summarized below:
+ Risk monitoring. Thematic risk assessments
+could be put in place to monitor financial
+institutions’ readiness to manage systemic
+risks. The BoJ and Financial Services Agency
+(FSA)
+could
+consider
+formalizing
+arrangements to intensify their information
+sharing and oversight of systemically
+relevant financial institutions, markets and
+infrastructure. In addition, the recent
+increase in cross-border activities by some
+Japanese financial institutions requires
+deeper collaboration between the FSA and
+foreign supervisory authorities (for example
+through an active use of Memoranda of
+Understanding).
+ Prudential framework. The authorities could
+tighten large exposure limits on lending by
+banks and raise capital requirements for
+domestic-oriented banks. 13 These banks
+could be encouraged to improve their
+13
+
+The domestic-oriented banks (mostly regional and
+shinkin banks) account for about 40 percent of bank
+assets and are currently subject to a capital
+requirement of 4 percent of risk-weighted assets,
+lower than their internationally-active peers. As of
+June 2012, there is no plan to subject these banks to
+Basel III requirements.
+
+2012 ARTICLE IV STAFF REPORT
+
+profitability so as to enhance their growth
+supporting role and build their resilience to
+shocks.
+For
+insurers,
+the
+solvency
+assessment needs to be based on an
+economic valuation by taking into account
+the full time horizon of insurance contracts
+(rather than just up to 10 years as required
+under current regulations). In addition, steps
+are needed to strengthen the supervision of
+private pension funds, including by
+requiring participants’ representation on the
+boards of corporate pension plans and
+establishing a mandatory guarantee fund for
+defined benefit pensions.
+ Crisis resolution. Improvements in the crisis
+resolution framework should be explored to
+ensure orderly resolution for systemicallyimportant nonbank financial institutions.
+ Global regulatory reform agenda. The FSA
+should review the adequacy of its skills and
+resources given the workload involved in
+implementing the global regulatory reform
+agenda.
+Authorities’ Views
+54.
+The authorities welcomed the main
+findings of the FSSA and broadly agreed
+with most recommendations. They noted
+that they continue to monitor risks closely to
+ensure financial stability, and continue to carry
+out inspections and stress tests. These tests
+include a rise in interest rates, although they
+consider the risk of a sharp rise in government
+bond yields to be remote. In the face of
+overseas expansion by financial institutions,
+the FSA also monitors closely cross-border
+activities and the risks financial institutions
+assume, and intends to develop closer ties
+with supervisory agencies in the region. The
+authorities also noted the potential adverse
+impact on financial markets of some global
+regulatory reforms. For instance, the
+extraterritorial application of the Volcker rule
+might lead to the withdrawal of foreign
+institutions from market-making activities in
+Japan and adversely affect liquidity and
+pricing in the JGB market.
+
+INTERNATIONAL MONETARY FUND 25
+
+2012 ARTICLE IV STAFF REPORT
+
+JAPAN
+
+55.
+The
+authorities
+considered
+supervision and financial sector regulation
+to be effective and strive to improve their
+activities. Several initiatives are underway in
+areas highlighted by the FSSA, including the
+implementation of the new rules on Basel III
+beginning in FY2013 in line with the timeline
+announced by the G-20, and a review of the
+large exposure limits by Japan’s Financial
+System Council.14 They stated that the FSA
+and the BoJ attach utmost importance to close
+communication and coordination, and in
+practice exchange information and discuss
+regularly and frequently, and believed that
+current practice is effective and most efficient
+in dealing with financial stability issues flexibly.
+The FSA was comfortable with the soundness
+of domestic-oriented banks at present, but
+
+will consider any further action, if and when
+necessary. The FSA encouraged these financial
+institutions to continuously improve their
+capital
+positions
+through
+enhanced
+profitability and risk management, making use
+of the Early Warning System and off-site
+monitoring. In recent years, the FSA has
+continued to increase its workforce and
+budget despite an overall reduction in
+government personnel and budget. Further
+increases may need to be contemplated, while
+efforts should be made to rationalize work
+and improve overall efficiency. The authorities
+were committed to working with the Financial
+Stability Board on resolution regimes, and
+address issues in an orderly manner, taking
+into account discussions in the international
+fora.
+
+STAFF APPRAISAL
+56.
+Japan’s economy is set to recover
+despite a worsening of the global outlook.
+Reconstruction activity is likely to offset
+headwinds
+from
+a
+fragile
+external
+environment. Risks to this outlook are tilted to
+the downside and primarily stem from the
+possibility of an escalation of turmoil in Europe
+and a sharper-than-expected slowing of the
+Chinese economy. The risk of electricity
+shortages from closure of most nuclear power
+plants appears manageable.
+57.
+Reducing the public debt burden
+will require fiscal adjustment of 10 percent
+of GDP over a decade. Passage of legislation
+to double the consumption tax rate to
+10 percent by 2015 is a crucial step and would
+demonstrate a commitment to fiscal reform.
+Putting the public-debt-to-GDP ratio on a
+clear downward path, however, will require an
+additional 5 percent of GDP adjustment.
+58.
+This adjustment should be designed
+to limit any adverse impact on growth and
+14
+
+The Financial System Council is an advisory body
+established under the FSA, comprising academics and
+professionals.
+26
+
+INTERNATIONAL MONETARY FUND
+
+equity. In particular, raising the consumption
+tax would be less distortionary and fairer than
+other taxes in addressing intergenerational
+inequities. It would also provide room to cut
+more distortionary taxes such as the corporate
+tax. In addition, incentives to work could be
+increased by eliminating the tax deduction for
+dependent spouses and raising the pension
+retirement age. At the same time, targeted
+transfers to lower-income households could
+be introduced to address concerns about the
+regressive nature of the consumption tax.
+Delaying fiscal adjustment could be costly and
+would serve to worsen intergenerational equity.
+59.
+Speedy implementation of farreaching structural reforms is essential to
+raise growth. Given Japan’s rapidly aging
+population, reforms should focus on increasing
+the labor force by raising incentives for women
+and the old-aged to work and by boosting
+immigration. Productivity in domestic sectors
+could be increased by easing regulations.
+Additionally, Japan could tap into regional
+growth momentum further by entering highquality free trade agreements with key trading
+partners,
+including
+the
+Trans
+Pacific
+Partnership. Finally, financial intermediation
+could be improved by reducing the role of the
+
+JAPAN
+
+government in channeling credit and by
+increasing the availability of risk capital.
+60.
+Further monetary easing should be a
+key element of a comprehensive package of
+policies needed to defeat deflation.
+Additional effective easing could be delivered
+by expanding the BoJ’s asset purchase
+program substantially beyond current plans, to
+accelerate achievement of the 1 percent
+inflation goal. In addition, communication
+could be enhanced by emphasizing that the
+inflation goal is not considered a ceiling, and
+that a higher inflation rate could be allowed in
+response to temporary price shocks.
+61.
+If the outlook for growth worsens
+sharply, further easing of monetary policy
+would
+be
+advisable
+beyond
+that
+recommended in the baseline scenario.
+Fiscal policy could also play a role through
+automatic stabilizers, although it is constrained
+by the limited fiscal space. It would not be
+advisable to delay legislation of the increase in
+the consumption tax.
+62.
+Japan’s external position appears
+moderately weaker than that consistent
+with medium term fundamentals. Following
+a sizable appreciation of the yen since the
+onset of the global financial crisis and a
+
+2012 ARTICLE IV STAFF REPORT
+
+narrowing of the current account surplus to
+2 percent of GDP in 2011, the yen now appears
+moderately overvalued from a medium-term
+perspective.
+63.
+The financial system is stable and
+could
+be
+further
+strengthened
+by
+improving the monitoring of systemic risks
+and bolstering the financial stability
+framework. In this context, the FSSA
+recommendations focus on three main areas.
+Risk monitoring could be enhanced by putting
+in place thematic risk assessments, especially
+with regard to financial institutions’ sizable
+holding of JGBs and equities. The prudential
+framework could be improved, including by
+tightening large exposure limits on lending by
+banks, raising capital requirements for
+domestic-oriented banks, and basing the
+solvency assessment on a more refined
+economic valuation for insurers. There is also
+room for improving the crisis resolution
+framework to ensure orderly resolution for
+systemically-important
+nonbank
+financial
+institutions.
+64.
+It is recommended that the next
+Article IV consultation take place on the
+standard 12-month cycle.
+
+INTERNATIONAL MONETARY FUND 27
+
+2012 ARTICLE IV STAFF REPORT
+
+JAPAN
+
+Table 1. Japan: Selected Economic Indicators, 2007–13
+Nominal GDP: US$ 5,867 billion (2011)
+Population: 127.8 million (2011)
+GDP per capita: US$ 45,900 (2011)
+Quota: SDR 15,628.5 million
+Proj.
+2012
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+Growth (percent change) 1/
+Real GDP
+Domestic demand
+Private consumption
+Residential investment
+Business investment
+Government consumption
+Public investment
+Stockbuilding 2/
+Net exports 2/
+Exports of goods and services
+Imports of goods and services
+
+2.2
+1.1
+0.9
+-9.8
+4.9
+1.1
+-5.9
+0.3
+1.1
+8.7
+2.3
+
+-1.0
+-1.3
+-0.9
+-6.6
+-2.6
+-0.1
+-7.4
+0.2
+0.2
+1.4
+0.3
+
+-5.5
+-4.0
+-0.7
+-16.6
+-14.3
+2.3
+7.0
+-1.6
+-1.5
+-24.2
+-15.7
+
+4.4
+2.7
+2.6
+-4.2
+0.5
+2.1
+0.4
+0.8
+1.7
+24.2
+11.1
+
+-0.7
+0.1
+0.1
+5.4
+1.1
+1.9
+-3.6
+-0.5
+-0.8
+-0.1
+5.9
+
+2.4
+3.0
+2.7
+0.7
+3.2
+2.0
+6.3
+0.2
+-0.5
+3.1
+7.4
+
+1.5
+1.5
+1.7
+1.5
+4.8
+-0.5
+-12.5
+0.5
+0.0
+5.0
+5.7
+
+Inflation (annual average)
+CPI
+GDP deflator
+
+0.1
+-0.9
+
+1.4
+-1.3
+
+-1.3
+-0.5
+
+-0.7
+-2.1
+
+-0.3
+-2.1
+
+0.2
+-0.1
+
+0.0
+-0.1
+
+3.8
+
+4.0
+
+5.1
+
+5.1
+
+4.6
+
+4.5
+
+4.4
+
+31.2
+33.3
+-2.1
+-2.1
+183.0
+
+31.6
+35.7
+-4.1
+-3.8
+191.8
+
+29.6
+40.0
+-10.4
+-9.9
+210.2
+
+29.6
+39.0
+-9.4
+-8.7
+215.3
+
+30.6
+40.7
+-10.1
+-9.2
+229.9
+
+30.9
+40.9
+-9.9
+-8.8
+234.5
+
+31.4
+39.9
+-8.6
+-7.4
+240.0
+
+Money and credit (percent change, end-period)
+Base money
+M2 (period average)
+Domestic credit
+Bank lending
+
+0.4
+2.1
+-2.3
+0.7
+
+1.8
+1.8
+1.6
+4.6
+
+5.2
+3.1
+0.4
+-0.9
+
+7.0
+2.3
+1.3
+-1.8
+
+13.5
+3.2
+0.8
+0.7
+
+...
+...
+...
+...
+
+...
+...
+...
+...
+
+Interest rate
+Overnight call rate, uncollateralized (end-period)
+Three-month CD rate (annual average)
+Official discount rate (end-period)
+
+0.46
+0.51
+0.75
+
+0.10
+0.51
+0.30
+
+0.09
+0.33
+0.30
+
+0.1
+0.3
+0.3
+
+0.1
+0.3
+0.3
+
+...
+...
+...
+
+...
+...
+...
+
+212.2
+4.9
+105.1
+2.4
+678.4
+573.3
+130.1
+
+159.8
+3.3
+38.4
+0.8
+746.5
+708.0
+190.6
+
+146.6
+2.9
+43.4
+0.9
+545.3
+501.9
+99.9
+
+204.0
+3.7
+91.0
+1.7
+730.1
+639.1
+134.3
+
+119.2
+2.0
+-20.5
+-0.3
+787.2
+807.7
+185.0
+
+130.3
+2.2
+-10.2
+-0.2
+807.4
+817.6
+227.8
+
+167.0
+2.7
+35.1
+0.6
+830.0
+795.0
+233.7
+
+-1.2
+-2.1
+36.5
+
+-2.2
+-9.6
+30.8
+
+-1.2
+19.5
+27.3
+
+-1.1
+-3.3
+44.3
+
+-2.0
+-7.9
+177.0
+
+-1.3
+3.9
+...
+
+-1.3
+7.0
+...
+
+Total reserves minus gold (in billions of US$)
+
+952.8
+
+1009.4
+
+1022.2
+
+1096.2
+
+1258.2
+
+...
+
+...
+
+Exchange rates (annual average)
+Yen/dollar rate
+Yen/euro rate
+Real effective exchange rate 3/
+Real effective exchange rate (CPI-based)
+
+117.8
+161.4
+83.6
+83.2
+
+103.4
+152.1
+93.7
+90.1
+
+93.6
+130.3
+110.5
+101.5
+
+87.8
+116.5
+118.2
+102.7
+
+79.8
+111.0
+126.2
+104.4
+
+...
+...
+...
+...
+
+...
+...
+...
+...
+
+Unemployment rate (annual average)
+Government (percent of GDP)
+General government
+Revenue
+Expenditure
+Balance
+Primary Balance
+Public Debt, gross
+
+Balance of payments (in billions of US$)
+Current account balance
+Percent of GDP
+Trade balance
+Percent of GDP
+Exports of goods, f.o.b.
+Imports of goods, f.o.b.
+Oil imports (trade basis)
+FDI, net (percent of GDP)
+Terms of trade (percent change)
+Change in reserves
+
+Sources: Global Insight, Nomura database; IMF, Competitiveness Indicators System; and Fund staff estimates and projections
+as of Feb 21, 2012.
+1/ Annual growth rates and contributions are calculated from seasonally adjusted data.
+2/ Contribution to GDP growth.
+3/ Based on normalized unit labor costs; 2000=100.
+
+28
+
+INTERNATIONAL MONETARY FUND
+
+2013
+
+JAPAN
+
+2012 ARTICLE IV STAFF REPORT
+
+Table 2. Japan: Balance of Payments, 2006-11
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+204.0
+91.0
+730.1
+639.1
+113.1
+-16.1
+141.5
+-12.4
+
+119.2
+-20.5
+787.2
+807.7
+139.8
+-22.2
+175.9
+-13.8
+
+3.7
+1.7
+2.1
+-0.3
+2.6
+-0.2
+
+2.0
+-0.3
+2.4
+-0.4
+3.0
+-0.2
+
+(In billions of U.S. dollars)
+Current account
+Trade balance
+Exports
+Imports
+Invisibles
+Nonfactor services
+Investment income
+Net transfers
+
+171.0
+81.1
+615.7
+534.6
+89.9
+-18.2
+118.8
+-10.7
+
+212.2
+105.1
+678.4
+573.3
+107.1
+-21.2
+139.9
+-11.6
+
+159.8
+38.4
+746.5
+708.0
+121.4
+-20.8
+155.3
+-13.1
+
+146.6
+43.4
+545.3
+501.9
+103.2
+-20.4
+135.9
+-12.3
+
+(In percent of GDP)
+Current account
+Trade balance
+Invisibles
+Nonfactor services
+Investment income
+Net transfers
+
+3.9
+1.9
+2.1
+-0.4
+2.7
+-0.2
+
+4.9
+2.4
+2.5
+-0.5
+3.2
+-0.3
+
+3.3
+0.8
+2.5
+-0.4
+3.2
+-0.3
+
+2.9
+0.9
+2.0
+-0.4
+2.7
+-0.2
+
+(In billions of U.S. dollars)
+Capital account
+
+-4.7
+
+-4.1
+
+-5.6
+
+-5.0
+
+-5.0
+
+0.4
+
+-134.7
+
+-224.3
+
+-204.6
+
+-158.2
+
+-174.7
+
+-94.9
+
+Direct investment, net
+Direct investment abroad
+Foreign direct investment in Japan
+
+-56.7
+-50.2
+-6.4
+
+-51.7
+-73.7
+22.0
+
+-106.2
+-130.9
+24.7
+
+-62.5
+-74.2
+11.7
+
+-58.8
+-57.3
+-1.5
+
+-117.5
+-115.7
+-1.8
+
+Portfolio investment, net
+Of which: Official
+Inflows
+Outflows
+
+127.4
+104.6
+-71.8
+199.2
+
+68.3
+177.5
+-127.2
+195.4
+
+-298.7
+-27.2
+-191.8
+-106.8
+
+-217.5
+-77.0
+-161.4
+-56.1
+
+-153.8
+79.0
+-264.6
+110.8
+
+155.4
+-23.3
+-106.6
+262.0
+
+-173.4
+-24.8
+57.6
+-231.0
+
+-204.4
+0.4
+-65.9
+-138.5
+
+231.0
+111.5
+420.4
+-189.4
+
+149.1
+-119.4
+535.8
+-386.7
+
+82.2
+-26.7
+274.7
+-192.5
+
+44.2
+0.0
+146.1
+-101.9
+
+-32.0
+
+-36.5
+
+-30.8
+
+-27.3
+
+-44.3
+
+-177.0
+
+-31.6
+
+16.2
+
+50.3
+
+16.6
+
+-24.3
+
+-24.7
+
+4357.4
+42.4
+7.0
+
+4358.6
+48.8
+6.8
+
+4854.3
+45.0
+6.3
+
+5038.8
+56.5
+5.0
+
+5500.0
+52.2
+4.7
+
+5874.4
+54.0
+5.4
+
+Financial account
+
+Other investment, net
+Of which: Official
+Inflows
+Outflows
+Reserve assets
+Errors and omissions, net
+Memorandum items :
+Nominal GDP (US$ billion)
+Net foreign assets (NFA)/GDP
+Return on NFA (In percent)
+
+Sources: Global Insight, Nomura database, Haver Analytics; and Fund staff estimates.
+
+INTERNATIONAL MONETARY FUND 29
+
+2012 ARTICLE IV STAFF REPORT
+
+JAPAN
+
+Table 3. Japan: External and Financial Indicators, 2007-12
+(In percent of GDP, unless otherwise indicated)
+
+External indicators
+Real exports of goods and services (percent change) 1/
+Real imports of goods and services (percent change) 1/
+Terms of trade (percent change) 1/
+Current account balance 2/
+Capital and financial account balance
+Of which :
+Inward portfolio investment
+Inward direct investment
+Other investment (net)
+Total reserves minus gold (US$ billion)
+In months of imports of goods and services
+Broad money (M2 + CDs) to reserves ratio
+Foreign assets of Other Depository Corporations (US$ billion)
+Foreign liabilities of Other Depository Corporations (US$ billion)
+Net international investment position (US$ billion)
+Of which :
+External loan liabilities
+External public sector debt (gross) 3/
+External loan liabilities to exports ratio
+External interest payments to exports (in percent) 4/
+Nominal effective exchange rate (percent change, period avg)
+Financial market indicators
+General government gross debt
+Interest rates (percent, end-year)
+3-month General collateral repo rate 5/
+3-month General collateral repo rate, real 5/
+3-month interest rate spread vis-à-vis U.S.
+Stock market index (TOPIX, percent change, end-year) 6/
+Banking sector risk indicators
+Total loans to assets (in percent)
+Total loans to deposits (in percent)
+Share of real estate sector in total lending (in percent)
+Share of nonperforming loans in total loans
+(In percent, end-March) 7/
+Total capital ratio (in percent, end-March) 7/
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+Latest
+2012
+
+8.7
+2.3
+-2.1
+4.9
+-4.5
+
+1.4
+0.3
+-9.6
+3.3
+-4.2
+
+-24.2
+-15.7
+19.5
+2.9
+-2.9
+
+24.2
+11.1
+-3.3
+3.7
+-2.7
+
+-0.1
+5.9
+-7.9
+2.0
+1.1
+
+1.0
+6.6
+-4.7
+1.5
+-2.4
+
+4.5
+0.5
+-4.8
+
+-2.2
+0.5
+4.3
+
+-1.1
+0.2
+2.8
+
+2.0
+0.0
+1.3
+
+4.5
+0.0
+0.5
+
+-0.3
+0.0
+4.9
+
+952.8
+16.3
+0.6
+1540.4
+765.9
+2129.4
+
+1009.4
+14.3
+0.7
+1861.3
+1077.9
+2188.9
+
+1022.2
+19.8
+0.8
+1876.7
+1231.9
+2855.5
+
+1096.2
+16.6
+0.8
+2113.2
+1344.0
+2876.2
+
+1258.2
+15.9
+0.9
+2330.2
+1425.0
+3188.5
+
+1259.3
+…
+0.8
+…
+…
+…
+
+721.1
+581.0
+
+739.9
+620.6
+
+873.7
+640.2
+
+1038.8
+752.4
+
+1233.8
+1094.7
+
+…
+…
+
+0.9
+2.5
+-5.3
+
+0.9
+1.9
+11.7
+
+1.4
+1.6
+14.4
+
+1.2
+0.9
+4.4
+
+1.4
+0.8
+5.8
+
+…
+…
+7.4
+
+183.0
+
+191.8
+
+210.2
+
+215.3
+
+229.9
+
+…
+
+0.60
+-0.10
+-2.48
+-12.2
+
+0.22
+-0.18
+0.18
+-41.8
+
+0.13
+0.72
+0.06
+5.6
+
+0.12
+0.41
+-0.03
+-1.0
+
+0.11
+-0.19
+0.09
+-18.9
+
+0.11
+0.00
+0.09
+-4.8
+
+53.8
+75.5
+19.2
+
+53.2
+77.5
+19.0
+
+53.2
+74.6
+20.6
+
+51.3
+72.1
+20.8
+
+49.8
+70.6
+20.6
+
+49.4
+69.8
+...
+
+3.1
+12.6
+
+2.9
+12.0
+
+2.8
+12.6
+
+2.9
+13.6
+
+2.9
+14.1
+
+…
+…
+
+Sources: Global Insight, Nomura Database; IMF, International Financial Statistics; Fitch IBCA; and Fund staff estimates.
+1/ 2012 number is year on year change for the first quarter.
+2/ 2012 number is the seasonally adjusted first quarter data.
+3/ Public sector debt securities and other loan liabilities.
+4/ Other investment income, debit.
+5/ 3-month Tokyo repo rate since October 2007.
+6/ Twelve-month percent change for the latest figure.
+7/ All deposit taking institutions. Aggregated based on individual banks' unconsolidated data.
+
+30
+
+INTERNATIONAL MONETARY FUND
+
+JAPAN
+
+2012 ARTICLE IV STAFF REPORT
+
+Table 4. Japan: Medium-Term Projections, 2010-17
+(Percentage change from the previous period, unless otherwise indicated)
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+4.5
+2.7
+2.0
+
+-0.7
+0.1
+-0.8
+
+2.4
+3.0
+-0.5
+
+1.5
+1.5
+0.0
+
+1.5
+1.4
+0.1
+
+1.2
+1.1
+0.1
+
+1.1
+1.0
+0.1
+
+1.1
+1.0
+0.1
+
+Unemployment rate (percent)
+CPI inflation
+Core Inflation (excluding food and energy)
+Output gap
+
+5.1
+-0.7
+-1.2
+-3.6
+
+4.6
+-0.3
+-1.0
+-4.5
+
+4.5
+0.2
+-0.3
+-2.6
+
+4.4
+0.0
+0.1
+-1.7
+
+4.3
+0.5
+0.5
+-0.8
+
+4.2
+0.7
+0.7
+-0.3
+
+4.1
+0.8
+0.8
+0.0
+
+4.0
+1.0
+1.0
+0.1
+
+Overall fiscal balance 1/
+Primary balance 1/
+
+-9.4
+-8.7
+
+-10.1
+-9.2
+
+-9.9
+-8.8
+
+-8.6
+-7.4
+
+-7.8
+-6.4
+
+-7.5
+-5.8
+
+-7.5
+-5.5
+
+-7.4
+-5.1
+
+215.2
+112.8
+
+229.8
+126.7
+
+234.5
+134.4
+
+240.0
+141.9
+
+244.4
+148.2
+
+248.6
+154.1
+
+252.4
+159.7
+
+255.7
+164.7
+
+3.7
+
+2.0
+
+2.2
+
+2.7
+
+2.6
+
+2.3
+
+2.1
+
+1.9
+
+National Savings 1/
+Private
+Public
+
+23.5
+25.5
+-2.0
+
+21.9
+24.6
+-2.7
+
+22.4
+24.7
+-2.3
+
+23.2
+24.8
+-1.6
+
+23.2
+24.2
+-1.0
+
+22.9
+23.8
+-0.9
+
+22.6
+23.5
+-1.0
+
+22.4
+23.4
+-1.0
+
+National Investment 1/
+Private
+Public
+
+19.8
+15.2
+4.6
+
+19.9
+15.3
+4.7
+
+20.3
+15.5
+4.8
+
+20.4
+16.3
+4.2
+
+20.5
+16.5
+4.0
+
+20.6
+16.7
+3.8
+
+20.5
+16.8
+3.7
+
+20.4
+16.9
+3.6
+
+Real GDP
+Total domestic demand
+Net exports (contribution)
+
+General Government Debt 1/
+Gross
+Net
+External Current Account Balance 1/
+
+Sources: Global Insight, Nomura database; and Fund staff estimates.
+1/ In percent of GDP.
+
+INTERNATIONAL MONETARY FUND 31
+
+2012 ARTICLE IV STAFF REPORT
+
+JAPAN
+
+Table 5. Japan: General Government Operations, 2006–13 1/
+(In percent of GDP)
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+Est.
+
+2012
+Proj.
+
+2013
+Proj.
+
+Total revenue
+Taxes 2/
+Social security contributions
+Grants
+Other revenue
+o/w Interest income
+
+30.8
+17.7
+10.9
+0.0
+2.3
+1.9
+
+31.2
+18.0
+11.0
+0.0
+2.3
+2.0
+
+31.6
+18.1
+11.5
+0.0
+2.1
+1.8
+
+29.6
+15.9
+11.8
+0.0
+1.9
+1.7
+
+29.6
+16.1
+11.9
+0.0
+1.7
+1.5
+
+30.6
+16.8
+12.2
+0.0
+1.5
+1.3
+
+30.9
+17.3
+12.2
+0.0
+1.4
+1.1
+
+31.4
+17.6
+12.4
+0.0
+1.4
+1.1
+
+Total expenditure
+Expense
+Compensation of employees
+Use of goods and services
+Consumption of fixed capital
+Interest
+Grants
+Social security benefits
+Other expense
+
+34.5
+33.2
+6.2
+3.3
+2.8
+1.8
+0.1
+16.4
+2.7
+
+33.3
+33.3
+6.1
+3.3
+2.8
+1.9
+0.1
+16.6
+2.6
+
+35.7
+34.6
+6.2
+3.2
+2.9
+2.0
+0.1
+17.4
+2.7
+
+40.0
+38.4
+6.4
+3.7
+3.1
+2.0
+0.1
+19.5
+3.6
+
+39.0
+38.0
+6.2
+3.7
+3.0
+2.0
+0.1
+19.7
+3.3
+
+40.7
+39.8
+…
+…
+3.0
+2.2
+…
+20.7
+…
+
+40.9
+39.9
+…
+…
+3.0
+2.2
+…
+20.6
+…
+
+39.9
+39.6
+…
+…
+3.0
+2.3
+…
+20.7
+…
+
+Net acquisition of nonfinancial assets
+Acquisitions of nonfinancial assets
+o/w Public investment
+o/w Land acquisition
+Consumption of fixed capital (-)
+
+1.3
+4.0
+3.3
+0.4
+-2.8
+
+0.0
+2.7
+3.1
+0.4
+-2.8
+
+1.1
+4.0
+3.0
+0.4
+-2.9
+
+1.6
+4.6
+3.4
+0.4
+-3.1
+
+1.0
+4.0
+3.3
+0.4
+-3.0
+
+0.9
+3.9
+3.4
+0.4
+-3.0
+
+1.0
+3.9
+3.6
+0.4
+-3.0
+
+0.3
+3.3
+3.0
+0.3
+-3.0
+
+Net lending/borrowing (overall balance)
+Primary balance
+Excluding social security fund
+Structural balance
+Structural primary balance
+
+-3.7
+-3.7
+-2.9
+-3.5
+-3.6
+
+-2.1
+-2.1
+-1.1
+-2.2
+-2.2
+
+-4.1
+-3.8
+-2.7
+-3.5
+-3.3
+
+-10.4
+-9.9
+-8.1
+-7.4
+-6.9
+
+-9.4
+-8.7
+-7.1
+-7.9
+-7.2
+
+-10.1
+-9.2
+-7.3
+-8.2
+-7.2
+
+-9.9
+-8.8
+-6.9
+-8.8
+-7.7
+
+-8.6
+-7.4
+-5.3
+-7.9
+-6.7
+
+3.7
+1.7
+2.0
+
+2.1
+3.5
+-1.4
+
+4.1
+1.1
+3.0
+
+10.4
+10.1
+0.3
+
+9.4
+10.0
+-0.6
+
+10.1
+…
+…
+
+9.9
+…
+…
+
+8.6
+…
+…
+
+186.0
+81.0
+
+183.0
+80.5
+
+191.8
+95.3
+
+210.2
+106.2
+
+215.2
+112.8
+
+229.8
+126.7
+
+234.5
+134.4
+
+240.0
+141.9
+
+Net worth
+Nonfinancial assets
+Fixed assets (excluding land)
+Land
+Other
+Net financial worth
+
+30.5
+111.5
+84.7
+26.6
+0.3
+-81.0
+
+33.2
+113.7
+86.8
+26.5
+0.4
+-80.5
+
+21.7
+117.0
+90.2
+26.5
+0.2
+-95.3
+
+15.8
+122.0
+94.6
+27.0
+0.4
+-106.2
+
+7.5
+120.2
+93.9
+26.0
+0.4
+-112.8
+
+…
+…
+…
+…
+…
+…
+
+…
+…
+…
+…
+…
+…
+
+…
+…
+…
+…
+…
+…
+
+Financial assets
+Currency and deposits
+Loans
+Securities other than shares
+Shares and other equities
+o/w shares
+Financial derivatives
+Other financial assets
+
+105.0
+24.4
+6.6
+24.8
+19.8
+6.1
+0.0
+29.3
+
+102.5
+20.7
+5.0
+25.1
+22.5
+8.9
+0.0
+29.2
+
+96.5
+17.9
+4.2
+28.1
+19.9
+6.4
+0.0
+26.4
+
+104.1
+17.0
+6.0
+26.8
+22.8
+8.1
+0.0
+31.4
+
+102.5
+16.4
+6.6
+26.5
+23.7
+9.4
+0.0
+29.2
+
+…
+…
+…
+…
+…
+…
+…
+…
+
+…
+…
+…
+…
+…
+…
+…
+…
+
+…
+…
+…
+…
+…
+…
+…
+…
+
+Liabilities
+Loans
+Securities other than shares
+Equities
+Financial derivatives
+Other liabilities
+
+186.0
+37.2
+136.4
+4.7
+0.0
+7.6
+
+183.0
+34.8
+137.3
+4.4
+0.0
+6.5
+
+191.8
+34.3
+146.3
+4.6
+0.0
+6.7
+
+210.2
+36.0
+161.5
+4.9
+0.0
+7.9
+
+215.2
+34.4
+170.1
+4.7
+0.0
+6.0
+
+…
+…
+…
+…
+…
+…
+
+…
+…
+…
+…
+…
+…
+
+…
+…
+…
+…
+…
+…
+
+Memorandum items :
+Nominal GDP (FY, trillion yen)
+Nominal GDP (CY, trillion yen)
+
+509.1
+506.7
+
+513.0
+513.0
+
+489.5
+501.2
+
+473.9
+471.1
+
+479.5
+481.8
+
+469.9
+468.4
+
+482.1
+479.4
+
+488.4
+486.3
+
+Financing
+Net issuance of debt securities
+Other
+Stock positions 3/
+Debt
+Gross 4/
+Net
+
+Source: Cabinet office; Fund staff estimates and projections.
+1/ No consumption tax increases are assumed.
+2/ Including fines.
+3/ Market value basis.
+4/ Nonconsolidated basis.
+
+32
+
+INTERNATIONAL MONETARY FUND
+
+JAPAN
+
+2012 ARTICLE IV STAFF REPORT
+
+Table 6. Japan: Financial Soundness Indicators for Deposit-taking Institutions: All Banks 1/
+2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2011
+Mar. Mar. Mar Mar Mar Mar Mar Mar Mar Mar Mar Sep
+(In percent)
+Capital adequacy
+Total capital ratio 2/
+NPL net of provisions/capital 2/
+Asset quality
+Nonperforming loans (NPL) to total
+loans ratio 2/
+Sectoral distribution of loans 3/
+Residents
+Deposit-takers
+Central bank
+Other financial corporations
+General government
+Nonfinancial corporations
+Other domestic sectors
+Nonresidents
+
+10.5
+41
+
+10.5
+51
+
+10.9
+43
+
+11.2
+33
+
+11.6
+24
+
+11.5
+18
+
+12.6
+17
+
+12.0
+16
+
+12.6
+16
+
+13.6
+16
+
+14.1
+16
+
+…
+…
+
+6.7
+
+8.7
+
+7.8
+
+6.3
+
+4.6
+
+3.5
+
+3.1
+
+2.9
+
+2.8
+
+2.9
+
+2.9
+
+…
+
+…
+…
+…
+…
+…
+…
+…
+…
+
+93
+6
+0
+12
+4
+41
+31
+7
+
+94
+7
+0
+13
+4
+38
+32
+6
+
+95
+7
+0
+14
+5
+35
+33
+5
+
+94
+7
+0
+13
+6
+34
+35
+6
+
+94
+7
+0
+12
+6
+33
+35
+6
+
+93
+8
+0
+12
+6
+32
+34
+7
+
+93
+7
+0
+12
+6
+33
+34
+7
+
+94
+7
+0
+11
+7
+36
+34
+6
+
+95
+8
+0
+11
+7
+34
+35
+5
+
+94
+8
+0
+10
+8
+33
+35
+6
+
+94
+8
+0
+11
+8
+33
+34
+6
+
+-0.1
+-2.1
+1.9
+76
+61
+49
+
+0.2
+4.6
+1.8
+77
+62
+46
+
+0.5
+13.1
+1.8
+70
+56
+46
+
+0.4
+10.1
+1.7
+70
+59
+44
+
+0.2
+5.8
+1.7
+75
+64
+43
+
+-0.2
+-5.2
+1.7
+97
+84
+45
+
+0.2
+5.0
+1.6
+76
+65
+48
+
+0.3
+6.3
+1.6
+73
+65
+48
+
+0.3
+6.7
+1.5
+72
+65
+…
+
+Earnings and profitability
+Return on assets
+Return on equity
+Interest margin
+Net interest income/gross income
+Noninterest expenses/gross income
+Personnel cost/operating cost
+
+0.0
+-0.8
+1.8
+73
+59
+50
+
+Liquidity
+Liquid assets/total assets
+Liquid assets/short-term liabilities
+Loan/deposit
+
+13
+44
+71
+
+14
+37
+64
+
+18
+40
+64
+
+19
+44
+66
+
+20
+44
+66
+
+18
+39
+63
+
+16
+36
+64
+
+16
+36
+66
+
+16
+38
+66
+
+20
+47
+69
+
+21
+48
+69
+
+22
+50
+70
+
+Other
+Capital/total assets 4/
+Risk-weighted assets/total assets
+Equity exposures/Capital 4/
+Gross derivative asset/capital
+Gross derivative liability/capital
+
+4.6
+44
+105
+35
+33
+
+4.2
+40
+100
+36
+34
+
+4.3
+39
+77
+44
+41
+
+4.2
+38
+83
+34
+30
+
+4.4
+38
+75
+29
+26
+
+4.3
+37
+79
+28
+28
+
+4.6
+37
+75
+28
+28
+
+4.2
+35
+65
+59
+53
+
+3.6
+29
+56
+95
+88
+
+4.4
+32
+49
+61
+56
+
+4.7
+33
+42
+53
+49
+
+4.7
+…
+38
+60
+54
+
+10.5
+6.5
+26.6
+
+11.1
+7.0
+17.9
+
+11.6
+7.3
+13.4
+
+12.2
+8.0
+12.0
+
+11.6
+8.1
+11.4
+
+11.8
+8.1
+12.0
+
+14.1
+10.5
+11.7
+
+14.9
+11.5
+11.5
+
+15.4
+12.0
+11.6
+
+5.8
+-0.1
+-3.0
+98.5
+
+4
+0.2
+4.9
+88.2
+
+2.9
+0.5
+15.1
+89.1
+
+2.5
+0.4
+11.4
+84.6
+
+2.4
+0.3
+6.7
+73.5
+
+2.4
+-0.2
+-5.7
+63.5
+
+2.5
+0.2
+5.5
+54.9
+
+2.4
+0.3
+6.9
+48.0
+
+2.4
+0.3
+7.3
+42.7
+
+-0.6 -0.6
+-12.1 -13.9
+1.8
+1.9
+103 113
+80
+90
+49
+49
+
+Indicators for city and regional (tier 1 and 2) banks
+Total capital ratio
+11.1 10.5 9.5
+Tier 1 capital ratio
+7.0
+6.4
+5.8
+NPL net of provisions/capital 2/
+33.6 43.2 35.3
+Nonperforming loans to total loans ratio
+2/
+6.3
+8.4
+7.4
+Return on assets
+-0.1 -0.6 -0.6
+Return on equity
+-1.2 -13.9 -16.4
+Equity exposures/capital 4/
+120.9 117.3 93.4
+
+Sources: Japanese authorities and IMF staff calculations.
+1/ Including city banks, regional banks and shinkin banks (consolidated basis for banking groups).
+2/ Aggregated based on individual banks' unconsolidated data.
+3/ Include the figures of Credit Cooperatives and National Federation.
+4/ Capital defined as net assets on the balance sheet.
+
+INTERNATIONAL MONETARY FUND 33
+
+2012 ARTICLE IV STAFF REPORT
+
+JAPAN
+
+Appendix I. Japan: Risk Assessment Matrix
+Main Sources
+of Risks
+1. Financial Turmoil
+in Europe,
+
+Overall Level of Concern
+Likelihood (Over next one
+to three years)
+High/Medium
+An escalation of the European
+turmoil combined with an
+intensification of the flight to
+safety in financial markets.
+
+Impact and Policy Response
+High
+Exports would decline owing to weak global demand and
+appreciation, depressing equity prices and business and
+consumer confidence and lowering growth. A decline in
+equity prices would raise market risk for banks and non-life
+insurers. Dollar funding pressure could increase if the
+turmoil spreads to other regions.
+Policy response: Further easing of monetary policy would be
+advisable. Fiscal policy could also play a role through
+automatic stabilizers, although it is constrained by the
+limited fiscal space. It would not be advisable to delay
+legislation of the increase in the consumption tax.
+
+2. A Hard Landing in
+China
+
+3. Increase in
+Energy Costs and
+Electricity
+Shortages
+
+4. Sharp rise in JGB
+Yields
+
+Low
+
+High
+
+A sharper-than-expected
+slowing of the Chinese
+economy.
+Medium
+Due to turmoil in the Middle
+East, disrupting oil supplies; or
+an unusually hot summer,
+increasing
+peak
+electricity
+demand; or nuclear plants
+remaining closed for an
+extended period.
+
+Similar to the above.
+
+Low
+Due
+to
+difficulties
+with
+implementing a credible fiscal
+consolidation
+plan;
+or
+continued
+slow
+economic
+growth and no progress on
+structural reforms; or aging
+reducing private saving and the
+current account surplus over
+the longer term.
+
+High
+A sharp increase in government bond yields would pose a
+threat to fiscal sustainability. Given the large stock of debt,
+even a modest rise in the interest rate-growth differential
+from near historic lows (0 percent in 2012) could significantly
+worsen debt dynamics and undermine market confidence,
+reduce economic growth and worsen deflation. A more
+severe tail risk scenario with feedback from fiscal-financial
+sector linkages, could be more detrimental to financial
+stability, including due to the large JGB holdings by financial
+institutions, and potentially add to government liabilities.
+
+Medium
+Higher energy imports and costs would reduce production,
+weaken the trade balance, hurt investor confidence and
+increase the chances of a JGB shock. Potential growth could
+be adversely affected by an extended closure of the nuclear
+plants.
+Policy response: Allow full pass-through of energy costs to
+electricity prices. Medium-term vulnerabilities could be
+reduced by encouraging alternative energy sources.
+
+Policy response: Reinforce fiscal consolidation to regain
+market confidence. The BoJ could also step in to address
+temporary market volatility.
+5. Protracted
+Growth Slowdown
+and Deflationary
+Pressures
+
+Medium
+Possibly due to prolonged
+global economic downturn and
+limited progress on structural
+reforms to boost growth.
+
+Medium
+Real GDP growth well below the baseline outlook and
+continued deflation would worsen debt dynamics.
+
+6. Faster Recovery
+
+Medium
+A faster than expected recovery
+in Japanese consumer and
+business sentiment would lift
+domestic demand.
+
+Medium
+The output gap could close earlier than projected and
+inflation could reach the BoJ’s goal faster, improving public
+debt dynamics.
+Policy response: Front loading fiscal consolidation to capture
+the long-term benefits.
+
+34
+
+INTERNATIONAL MONETARY FUND
+
+Policy response: Speedy implementation of structural
+reforms, supported by aggressive monetary policy easing
+and fiscal consolidation in a growth friendly way.
+
+JAPAN
+
+2012 ARTICLE IV STAFF REPORT
+
+Appendix II. Japan: Public Sector Debt Sustainability Analysis
+This appendix presents four scenarios: i) a no adjustment scenario; ii) the authorities’ current plan (staff
+estiamte); iii) a policy adjustment scenario that would reduce the net-public-debt-to-GDP ratio to
+125 percent (215 percent of GDP on a gross debt basis) by 2030; and iv) an upside scenario that could
+see net public debt reduced to 115 pecent of GDP (205 percent of GDP on a gross debt basis) by 2030.
+Baseline Macroeconomic Assumptions. Both real GDP growth and the inflation rate are assumed to
+converge to 1 percent over the long term. As a result, nominal GDP growth is around 2 percent per year
+over the next 10 years. The nominal interest rate growth differential is assumed to converge to 1 percent
+(pre-crisis average since 2000) over the long run. Consequently, the average nominal interest rate is
+assumed to rise to 3 percent (compared to about 1 percent currently) over the long run.
+No Adjustment Scenario. Without staff’s recommended adjustment, net debt (defined here as general
+government net debt, including the social security fund) would rise to about 245 percent of GDP
+(335 percent of GDP on a gross debt basis) by 2030. The no-adjustment scenario assumes expiration of
+enacted stimulus (1 percent of GDP), a modest expenditure adjustment (1½ percent of GDP), and
+unchanged tax policy (no increase in the consumption tax) between end-2011 and 2020, which altogether
+improves the structural primary balance by 2½ percent of GDP over the next decade.
+Authorities’ Current Plan. The authorities plan to
+raise the consumption tax rate to 8 percent in 2014
+and then 10 percent in 2015. This, together with the
+expenditure adjustments outlined above, is
+estimated to improve the structural primary balance
+by 5 percent of GDP over the next decade. However,
+the net public-debt-to-GDP ratio would fail to
+stabilize and rise to around 200 percent of GDP (290
+percent of GDP on a gross debt basis) by 2030.
+
+Japan: Net Public Debt 1/
+(In percent of GDP)
+
+250
+
+250
+No adjustment scenario2/
+
+225
+200
+
+225
+
+Staff estimates of authorities' current plan3/
+
+200
+175
+
+175
+
+150
+
+150
+125
+
+125
+
+Policy adjustment scenario4/
+
+100
+
+100
+
+75
+
+75
+2005
+
+2010
+
+2015
+
+2020
+
+2025
+
+2030
+
+Sources: Cabinet Office; and staff estimates and projections.
+1/ Net debt of the general government including the social security fund.
+2/ No consumption tax increases are assumed.
+3/ Consumption tax increases to 8 percent in 2014 and 10 percent in 2015 are assumed.
+4/ Policy adjustment scenario assumes a 10 percentage points of GDP improvement (authorities' current
+proposal +5.0 points) in the structural primary between end-2011 and 2020.
+
+Policy Adjustment Scenario. Achieving debt
+sustainability will require that Japan stabilize and put
+its public-debt-to-GDP ratio firmly on a downward
+path. To achieve this goal, the policy adjustment scenario assumes a 10 percent of GDP improvement of
+the structural primary balance over the next decade (between end-2011 and 2020).1 This comprises a
+withdrawal of the fiscal stimulus undertaken in response to the financial crisis (1 percent of GDP) plus
+additional policy measures of 9 percent of GDP, of which 5 percentage points are assumed to come from
+a gradual rise in the consumption tax starting in 20142 and 4 percentage points from other reforms (e.g.,
+curbing the growth rate of nominal nonsocial security spending, limiting growth in social security
+spending).
+Sensitivity Analysis. The debt sustainability results are sensitive to macroeconomic assumptions. In
+particular, a higher interest rate growth differential (than the baseline of 1 percent) would lead to a faster
+pace of debt accumulation (see Table A1). However, even with a higher differential of 2 percent, the netpublic-debt-to-GDP ratio would still decline over the longer term in the Policy Adjustment scenario.
+Depending on the size of the interest rate growth differential, returning the net-public-debt-to-GDP ratio
+to its pre-crisis level by 2030 would require an adjustment of between 13–15½ percent of GDP.
+1
+
+Beyond 2020, the social security balance (defined as social security premiums minus benefits) is likely to worsen. To
+maintain the 10 percentage point improvement in 2021 and after, a further adjustment would be needed.
+2
+More specifically, the adjustment scenario assumes a consumption tax increase by 10 percentage points cumulatively
+(3 percentage points in 2014, 2 percentage points in 2015, 3 percentage points in 2016, and 2 percentage points in
+2017).
+
+INTERNATIONAL MONETARY FUND 35
+
+2012 ARTICLE IV STAFF REPORT
+
+JAPAN
+
+Stochastic simulations with shocks to growth, inflation, and interest rates also show that debt dynamics
+are sensitive to macroeconomics shocks (Figure A1). In case of severe macroeconomic shocks, the publicdebt-to-GDP ratio would continue to rise even under the staff’s policy adjustment scenario. However,
+implementation of staff’s suggested policy adjustment would prevent debt from exploding in most cases
+(Figure 1, right).
+Table A1. Sensitivity Analysis of Debt Sustainability
+(In percent of GDP)
+Nominal
+Interest Rate
+Structural Primary
+Growth Differential
+Balance
+over the Long
+Improvement
+Term
+Bet end-2011 and 2020
+(in percent)
+Net debt
+No adjustment scenario
+
+2010
+
+2011
+
+2012
+
+2015
+
+2020
+
+2030
+
+1.0 (baseline)
+2.0
+4.0
+
+2.5
+2.5
+2.5
+
+113
+113
+113
+
+127
+127
+127
+
+134
+134
+134
+
+154
+154
+154
+
+179
+181
+187
+
+245
+266
+318
+
+Authorities' current plan
+
+1.0 (baseline)
+2.0
+4.0
+
+5.0
+5.0
+5.0
+
+113
+113
+113
+
+127
+127
+127
+
+134
+134
+134
+
+151
+151
+151
+
+164
+166
+171
+
+202
+220
+266
+
+Policy adjustment scenario
+
+1.0 (baseline)
+2.0
+4.0
+
+10.0
+10.0
+10.0
+
+113
+113
+113
+
+127
+127
+127
+
+134
+134
+134
+
+148
+148
+148
+
+140
+142
+146
+
+124
+137
+172
+
+Target pre-crisis (2007) level in 2030
+
+1.0 (baseline)
+2.0
+4.0
+
+13.3
+14.0
+15.5
+
+113
+113
+113
+
+127
+127
+127
+
+133
+133
+133
+
+145
+145
+143
+
+132
+130
+127
+
+80
+80
+80
+
+1.0 (baseline)
+2.0
+4.0
+
+2.5
+2.5
+2.5
+
+215
+215
+215
+
+230
+230
+230
+
+234
+234
+234
+
+249
+249
+249
+
+269
+271
+277
+
+335
+356
+408
+
+Authorities' current plan
+
+1.0 (baseline)
+2.0
+4.0
+
+5.0
+5.0
+5.0
+
+215
+215
+215
+
+230
+230
+230
+
+234
+234
+234
+
+246
+246
+246
+
+254
+256
+261
+
+292
+310
+356
+
+Policy adjustment scenario
+
+1.0 (baseline)
+2.0
+4.0
+
+10.0
+10.0
+10.0
+
+215
+215
+215
+
+230
+230
+230
+
+234
+234
+234
+
+243
+243
+243
+
+230
+232
+236
+
+214
+227
+262
+
+Target pre-crisis (2007) level in 2030
+
+1.0 (baseline)
+2.0
+4.0
+
+13.3
+14.0
+15.5
+
+215
+215
+215
+
+230
+230
+230
+
+233
+233
+233
+
+240
+239
+238
+
+222
+220
+217
+
+170
+170
+170
+
+Gross debt
+No adjustment scenario
+
+Source: Cabinet Office, and staff estimates.
+
+Figure A1. Stochastic Simulations with Shocks to Growth, Inflation and Interest Rates
+Japan: Net Public Debt under Policy Adj Scenario
+
+Japan: Net Public Debt under No Adj Scenario
+
+(In percent of GDP)
+
+(In percent of GDP)
+
+400
+
+400
+
+Median with shocks
+
+350
+
+350
+
+300
+
+10th percentile with shocks
+
+300
+
+300
+
+10th percentile with shocks
+
+300
+
+250
+
+75th percentile with shocks
+
+250
+
+250
+
+25th percentile with shocks
+
+250
+
+90th percentile with shocks
+
+200
+
+200
+
+150
+
+150
+
+150
+
+150
+
+100
+
+100
+
+100
+
+100
+
+50
+
+50
+
+50
+
+50
+
+Sources: Cabinet Office; and staff estimates and projections
+1/ Net public debt of the general government including the social security fund.
+2/ No consumption tax increases are assumed.
+3/ Parameters for shocks to growth, inflation and interest rates and their covariance are estimated using
+data between 2000-11.
+
+36
+
+INTERNATIONAL MONETARY FUND
+
+350
+
+Median with shocks
+
+75th percentile with shocks
+
+200
+
+2030
+
+2025
+
+90th percentile with shocks
+
+2020
+
+2030
+
+2025
+
+2020
+
+2012
+
+2011
+
+200
+
+2015
+
+25th percentile with shocks
+
+400
+Policy adjustment scenario without shocks
+
+2015
+
+350
+
+2012
+
+No adj scenario without shocks
+
+2011
+
+400
+
+Sources: Cabinet Office; and staff estimates and projections
+1/ Net public debt of the general government including the social security fund.
+2/ Policy adjustment scenario assumes a 10 percent of GDP improvement (7.5 percent of GDP relative to
+no adjustment scenario) of the structural primary balance between end-2011 and 2020.
+3/ Parameters for shocks to growth, inflation and interest rates and their covariance are estimated using
+data between 2000-11.
+
+JAPAN
+
+2012 ARTICLE IV STAFF REPORT
+
+Contingent Liabilities. The debt position looks worse once contingent liabilities are taken into account.
+Including government guaranteed bonds, broader general government net debt would be about 10
+percentage points of GDP higher than otherwise. Including contingent liabilities associated with TEPCO
+(Tokyo Electric Power Company)3 and regional banks would have a modest impact on debt figures (1-3
+percentage points).
+Table A2. Net Public Debt excluding/including Contingent Liabilities
+(In percent of GDP)
+Nominal
+Interest Rate
+Growth Differential
+over the Long Term
+(in percent)
+
+2010
+
+2012
+
+2015
+
+2020
+
+2030
+
+1.0 (baseline)
+
+113
+
+134
+
+154
+
+179
+
+245
+
+Including government guaranteed bonds
+
+1.0 (baseline)
+
+122
+
+144
+
+164
+
+188
+
+254
+
+Including government guaranteed bonds, and contingent
+liabilities related to TEPCO and regional banks 1/
+
+1.0 (baseline)
+2.0
+4.0
+
+123
+
+146
+
+166
+
+191
+
+257
+
+123
+
+146
+
+166
+
+194
+
+279
+
+123
+
+146
+
+166
+
+199
+
+333
+
+No adjustment scenario
+Excluding contingent liabilities
+
+Policy adjustment scenario
+Excluding contingent liabilities
+
+1.0 (baseline)
+
+113
+
+134
+
+148
+
+140
+
+124
+
+Including government guaranteed bonds
+
+1.0 (baseline)
+
+122
+
+144
+
+158
+
+149
+
+133
+
+Including government guaranteed bonds, and contingent
+liabilities related to TEPCO and regional banks 1/
+
+1.0 (baseline)
+2.0
+4.0
+
+123
+
+146
+
+160
+
+152
+
+136
+
+123
+
+146
+
+160
+
+154
+
+150
+
+123
+
+146
+
+160
+
+159
+
+189
+
+Source: Cabinet Office, Ministry of Finance, staff estimates
+1/ Contingent liabilities associated with TEPCO and regional banks are assumed at 1.9 percent of GDP (9 trillion yen) and 0.75
+percent of GDP, respectively. The latter is based on the maximum capital injection estimated in the 2012 FSAP update.
+
+Upside Scenario. An upside scenario with higher real growth and inflation highlights the benefits of
+higher nominal growth for debt dynamics.4 Under the upside scenario, the net-public-debt-to-GDP ratio
+would decline to 115 percent of GDP (205 percent of GDP on a gross debt basis) by 2030—10 points
+lower than under the baseline macroeconomic assumptions. Higher nominal GDP growth would continue
+to reduce the debt ratio thanks to a higher denominator (nominal GDP) until the average nominal interest
+rate catches up, and help reduce spending (in percent of GDP).
+This scenario does not imply that a higher inflation rate alone could reduce the debt-to-GDP ratio
+substantially. An increase in the inflation rate by 5 percentage points (relative to the baseline assumption)
+could reduce the debt ratio at most by around 15 percentage points over the long run. This is because the
+average nominal interest rate would catch up quickly within several years (the average debt maturity is
+about 6 years). An even higher inflation rate (e.g., 10 percentage points or higher) could be damaging to
+real economic activity.
+
+3
+
+TEPCO’s Fukushima Daiichi nuclear plant was hit by tsunami, which followed the March 2011 earthquake. TEPCO is
+liable for compensation for residents who lived in the neighborhood of the plant. Compensation and related costs
+paid directly by the government (¼ percent of GDP) are included in the scenario excluding contingent liabilities.
+Maximum support to TEPCO of 1.9 percent of GDP (9 trillion yen) including a capital injection through the Nuclear
+Damage Liability Facilitation Fund is counted as contingent liabilities.
+4
+The upside scenario assumes higher long-term growth rates of real GDP (2 percent) and GDP deflator (1½ percent).
+
+INTERNATIONAL MONETARY FUND 37
+
+2012 ARTICLE IV STAFF REPORT
+
+JAPAN
+
+Appendix III. Assessment of Japan’s External Sector
+Staff’s external sector evaluation concludes that the exchange rate is moderately overvalued from a
+medium-term perspective. This assessment is based on the following considerations:
+ Current account. Japan’s current account surplus declined to 2 percent of GDP in 2011 (1½ percent in
+cyclically-adjusted terms), because of a worsening of the trade balance as a result of external shocks
+(earthquake, Thai floods, and yen appreciation). The current account is likely to improve in the near term,
+but weaken over the medium term as private saving declines due to population aging, assuming
+limited fiscal consolidation as in staff’s baseline forecast. The investment income account surplus (3
+percent of GDP in 2011) is expected to remain sizable, supported by large net foreign assets (NFA) and
+higher returns on assets than on liabilities. The current account has averaged about 3 percent of GDP
+over the last decade and is expected to remain around 2 percent of GDP over the medium term without
+policy adjustment.
+The cyclically adjusted current account is estimated to be 1–2 percent of GDP weaker than the value
+implied by fundamentals and desirable policies. After taking into account desirable fiscal consolidation
+and structural policies, the current account consistent with fundamentals is estimated to be around 3 to
+4 percent of GDP.
+ Real exchange rate. The yen strengthened steadily throughout 2011, and has appreciated by about
+27 percent in real terms since the Lehman collapse by February 2012, initially due to unwinding of the
+carry trades and later due to safe haven flows. A part of the appreciation in 2011 was reversed in early
+2012, helped by greater stability in global markets and monetary easing. Although from end- of the
+reference period to end-May, Japan’s real effective exchange rate has risen again by about 4 percent.
+On balance, the real exchange is estimated to be moderately overvalued (around 0 to 10 percent)
+relative to medium-term fundamentals. The real effective exchange rate in March 2012 is close to its 20year average, using the relative consumer prices measure. However, using the relative unit labor cost
+measure, the REER is about 10–15 percent higher than its 20-year average. This result is consistent with
+the fact that Japan has been losing export market share since the mid-1990s, while its main competitors
+have kept or increased their share, which suggests some overvaluation. Nevertheless, comparing the
+exchange rate at present to the average of the past two decades may be misleading since it is highly
+likely that current fundamentals of the Japanese economy are not as strong as its average level over the
+last two decades due to population aging, significant increases in public debt and other factors.
+ Capital account flows and measures. An important part of the capital flows in the mid-to late 2000s
+was the yen carry trade and it’s unwinding after the Lehman shock. In addition, during 2010 and 2011
+net capital inflows were fueled by safe haven effects into short-term government bills and money
+market instruments. Japan has an open capital account. Safe haven flows imply limited vulnerabilities to
+global financial instability.
+ FX intervention and reserves. Reserves are much higher than other reserve asset issuers (about
+20 percent of GDP) largely on legacy accumulation. The level of the yen is market determined. Isolated
+foreign exchange market interventions during safe haven flows appear to have reduced short-term
+exchange market volatility, while having ambiguous effects on the exchange rate level.
+ Foreign asset and liability position. The net foreign asset position has risen from about 35 percent of
+GDP ten years ago to over 50 percent of GDP in 2011. Modest further accumulation is expected to result
+from current account surpluses over the next five years. But the ratio is likely to stabilize given a trend
+decline in the current account surplus because aging will reduce saving. Most assets and liabilities are
+portfolio equity and debt securities, rather than foreign direct investment. Vulnerabilities are limited as
+Japan’s positive net position generates sizable investment income (that averaged about 3 percent of
+GDP in the past five years) and offset the goods trade deficit.
+
+38
+
+INTERNATIONAL MONETARY FUND
+
+JAPAN
+
+2012 ARTICLE IV STAFF REPORT
+
+Appendix IV. Japan: Main Recommendations of the 2011 Article IV Consultation
+Fund Recommendations
+Fiscal Policy:
+Timely passage of an additional and more sizeable
+supplementary budget, focused on revitalizing the
+earthquake affected regions.
+
+Commitment to fiscal reform to bring down public debt over
+the medium term, including:
+ a comprehensive tax reform, with a gradual increase in
+the consumption tax over several years, yielding 5 percent
+of GDP.
+ freezing central government contributions to the public
+pension system in nominal terms, including by raising the
+pension retirement age, freezing nonsocial security
+spending in nominal terms, and introducing an income
+cap on social transfers.
+ introduce a taxpayer identification system to allow for a
+more effective targeting of social transfers.
+Monetary Policy:
+Further monetary easing to guard against deflation risks,
+through purchases of longer maturity JGBs (3 years and
+above).
+Additional purchases of private assets, including corporate
+bonds, commercial paper, ETFs, and securitized SME loans.
+Extend some of the BoJ’s loan facilities.
+
+Financial Sector Policy:
+Withdraw emergency support measures for SMEs loans to
+limit moral hazard risks and encourage proper risk
+management towards SMEs, once the recovery is underway.
+Encourage banks to monitor market risks closely and
+continue to reduce their equity holding.
+Promote more risk-based (as opposed to collateral-based)
+lending and consolidation or restructuring of weak regional
+banks.
+Privatize Japan Post.
+Growth Strategy
+Boost employment through improving access to childcare by
+easing the approval process for new facilities, raising the
+mandatory retirement age, and introducing a new, more
+flexible labor contract that gradually increases employment
+protection.
+Raise productivity through regional integration by joining the
+Trans-Pacific Partnership Agreement (TPP).
+Promoting startups and restructuring SMEs by shortening the
+time limit on public credit guarantees and giving some
+preference for guarantees given to businesses in new
+growth areas, and establishing asset management
+companies to purchase distressed loans.
+
+Policy Actions
+The government passed supplementary budgets in 2011
+to finance reconstruction spending, totaling 4 percent of
+GDP, about 2/3 of which is to be financed by temporary
+tax measures and 1/3 by expenditure reduction and non
+tax revenues.
+The government plans to double the consumption tax
+rate to 10 percent by 2015 and submitted a tax reform bill
+to the Diet at end March 2012. The bill was passed in the
+Lower House of the Diet in late June 2012.
+The government decided last year to cut the corporate
+tax rate by 5 percentage points to 35 percent in FY2012,
+though the special corporate tax for reconstruction is
+added on to the rate until FY2014.
+The government submitted a bill on the Social Security
+and Tax Number System to the diet last February.
+
+The BoJ adopted a medium to long-run price stability
+goal of 1 percent for the time being and expanded its
+Asset Purchase Program by ¥ 30 trillion (6% GDP) since
+July 2011 to ¥70 trillion. The BoJ expanded private asset
+purchases and the duration of the targeted JGBs (from 1–
+2 years to 1–3 years). In addition, the BOJ extended its
+loan facility to “Strengthen the Foundations of Growth,”
+and introduced a special facility covering earthquake
+related regions.
+Measures on SME Financing facilitation were extended
+one year, and special credit guarantees remain in place.
+The FSA is focusing on strengthening risk management to
+boost bank profitability.
+The BoJ set up a new line of credit for asset-based
+lending to encourage such lending.
+The government intends to keep a one-third share in
+Japan Post Holdings while selling the remaining twothirds as soon as possible.
+The authorities plan to improve childcare services,
+including by increasing childcare centers and providing
+public financial support to small-scale childcare services.
+They also highlighted job training and matching efforts to
+raise employment of the young and elderly.
+The authorities announced their intention to enter into
+consultations toward participating in the TPP
+negotiations.
+SME restructuring. The authorities were generally
+supportive of reforming the credit guarantee system.
+However, altering the system would be difficult given the
+need to promote reconstruction. They also supported
+establishing asset management companies to facilitate
+bank-led restructuring of earthquake related distressed
+loans, but would first need to evaluate the scale of the
+distressed loan problem.
+INTERNATIONAL MONETARY FUND 39
+
+JAPAN
+July 10, 2012
+
+STAFF REPORT FOR THE 2012 ARTICLE IV
+CONSULTATION—INFORMATIONAL ANNEX
+Prepared By
+
+Asia and Pacific Department
+(In consultation with other departments)
+
+CONTENTS
+I. STATISTICAL ISSUES _________________________________________________________________2
+II. FUND RELATIONS ____________________________________________________________________4
+
+2012 ARTICLE IV REPORT—INFORMATIONAL ANNEX
+
+JAPAN
+
+ANNEX I. STATISTICAL ISSUES
+1.
+Statistical Issues: Economic and
+financial data provided to the Fund are
+considered adequate for surveillance purposes.
+Japan subscribes to the Special Data
+Dissemination Standard (SDDS) and meets the
+SDDS specifications for the coverage,
+periodicity, and timeliness of data. The
+Japanese authorities hosted a data module
+mission for a Report on the Observance of
+Standards and Codes (data ROSC) in
+September 12–28, 2005. The Report on
+Observance of Standards and Codes - Data
+Module, Response by the Authorities, and
+Detailed Assessments Using the Data Quality
+Assessment Framework (DQAF) were published
+March 17, 2006 and are available at
+
+http://www.imf.org/external/pubs/ft/scr/20
+06/cr06115.pdf
+
+2
+
+INTERNATIONAL MONETARY FUND
+
+Japan: Table of Common Indicators Required for Surveillance (as of June 20, 2012)
+Date of
+Latest
+Observation
+
+Date
+Received
+
+Frequency of
+6
+Data
+
+Frequency of
+6
+Reporting
+
+Frequency of
+6
+Publication
+
+June 2012
+
+June 2012
+
+D
+
+D
+
+D
+
+International Reserve Assets and Reserve Liabilities of the
+1
+Monetary Authorities
+
+6/10/2012
+
+6/12/2012
+
+Every 10 days
+
+Every 10 days
+
+Every 10 days
+
+Reserve/Base Money
+
+May 2012
+
+June 2012
+
+M
+
+M
+
+M
+
+Broad Money
+
+May 2012
+
+June 2012
+
+M
+
+M
+
+M
+
+2012 Q1
+
+June 2012
+
+Q
+
+Q
+
+Q
+
+6/10/2012
+
+6/12/2012
+
+Every 10 days
+
+Every 10 days
+
+Every 10 days
+
+Apr 2012
+
+June 2012
+
+M
+
+M
+
+M
+
+Interest Rates
+
+June 2012
+
+June 2012
+
+D
+
+D
+
+D
+
+Consumer Price Index
+
+April 2012
+
+May 2012
+
+M
+
+M
+
+M
+
+Revenue, Expenditure, Balance and Composition of
+3
+4
+Financing – General Government
+
+2010
+
+Jan 2012
+
+A
+
+A
+
+A
+
+Revenue, Expenditure, Balance and Composition of
+3
+Financing – Central Government
+
+2010
+
+Jan 2012
+
+A
+
+A
+
+A
+
+Stocks of Central Government and Central Government5
+Guaranteed Debt
+
+Mar 2012
+
+May 2012
+
+Q
+
+Q
+
+Q
+
+External Current Account Balance
+
+Apr 2012
+
+June 2012
+
+M
+
+M
+
+M
+
+Exports and Imports of Goods and Services
+
+Apr 2012
+
+June 2012
+
+M
+
+M
+
+M
+
+GDP/GNP
+
+2012 Q1
+
+Jun 2012
+
+Q
+
+Q
+
+Q
+
+Mar 2012
+
+June 2012
+
+Q
+
+Q
+
+Q
+
+International Investment Position
+Central Bank Balance Sheet
+Consolidated Balance Sheet of the Banking System
+2
+
+1
+
+O, O, O, O, O
+
+O, LO, O, O
+
+O, O, LO, O, O
+
+O, LNO, O, O
+
+LO, O, O, O, LO
+
+O, O, LO, O
+
+LO, O, O, O, O
+
+O, O, O, O,
+
+LO, LO, O, O, LNO
+
+3
+
+Includes reserve assets pledged or otherwise encumbered as well as net derivative positions.
+2
+Both market-based and officially-determined, including discount rates, money market rates, rates on treasury bills, notes and bonds.
+3
+Foreign, domestic bank, and domestic nonbank financing.
+4
+The general government consists of the central government (budgetary funds, extra budgetary funds, and social security funds) and state and local governments.
+5
+Including currency and maturity composition.
+6
+Daily (D); weekly (W); monthly (M); quarterly (Q); annually (A); irregular (I); and not available (NA).
+7
+Reflects the assessment provided in the data ROSC or the Substantive Update (published on May 17, 2006, and based on the findings of the mission that took place during September 2005) for
+the dataset corresponding to the variable in each row. The assessment indicates whether international standards concerning concepts and definitions, scope, classification/sectorization, and
+basis for recording are fully observed (O); largely observed (LO); largely not observed (LNO); not observed (NO); and not available (NA).
+8
+Same as footnote 7, except referring to international standards concerning (respectively) source data and its assessment, statistical techniques, assessment and validation of intermediate data
+and statistical outputs, and revision studies
+
+JAPAN
+
+INTERNATIONAL MONETARY FUND
+
+Gross External Debt
+
+LO, LO, LO, LO
+
+2012 ARTICLE IV REPORT—INFORMATIONALANNEX
+
+Exchange Rates
+
+Memo Items:
+Data Quality –
+Data Quality –
+Methodological
+Accuracy and
+7
+8
+soundness
+reliability
+
+2012 ARTICLE IV REPORT—INFORMATIONAL ANNEX
+
+JAPAN
+
+II. FUND RELATIONS
+(As of May 31, 2012)
+I.
+
+Membership Status: Joined 8/13/1952;
+Article VIII
+
+II.
+
+General Resources Account:
+SDR Million
+
+% Quota
+
+Quota
+
+15,628.50
+
+100.00
+
+Fund holdings of currency
+
+12,920.74
+
+82.67
+
+Reserve Tranche Position
+
+2,708.15
+
+17.33
+
+Lending to the Fund
+New Arrangements to Borrow
+
+7,454.01
+
+III. SDR Department:
+SDR Million
+
+%Allocation
+
+Net cumulative allocation
+
+12,284.97
+
+100.00
+
+Holdings
+
+12,903.57
+
+105.04
+
+IV. Outstanding Purchases and Loans:
+None
+V.
+
+Latest Financial Arrangements:
+None
+
+VI. Projected Obligations to Fund1:
+(SDR Million; Based on Existing Use of Resources
+and Present Holdings of SDRs):
+Forthcoming
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+Principal
+Charges/Interest
+
+0.14
+
+0.14
+
+0.14
+
+0.14
+
+Total
+
+0.14
+
+0.14
+
+0.14
+
+0.14
+
+1/
+
+When a member has overdue financial obligations
+outstanding for more than three months, the amount of such
+arrears will be shown in this section.
+
+VII. Exchange Rate Arrangement:
+Japan maintains a free floating exchange rate
+regime. Since the 2011 Article IV consultation,
+Japan has intervened on two occasions: first on
+
+4
+
+INTERNATIONAL MONETARY FUND
+
+August 4, 2011, by purchasing 4.5 trillion yen
+worth of U.S. dollars, and second between
+October 31 and November 4, 2011 by
+purchasing 9.1 trillion yen worth of U.S. dollars.
+The Ministry of Finance publishes foreign
+exchange intervention information on its
+website.The exchange system is free of
+restrictions on the making of payments and
+transfers for current international transactions,
+with the exceptions of restrictions imposed
+solely for the preservation of national or
+international security that have been notified
+to the Fund pursuant to Executive Board
+Decision No. 144-(52/51).
+VIII.
+Anti-Money Laundering and
+Combating the Financing of Terrorism
+(AML/CFT) Framework. Japan underwent an
+assessment of its AML/CFT framework against
+the AML/CFT standard by the Financial Action
+Task Force (FATF) and the Asia/Pacific Group
+(APG) in 2008. The mutual evaluation report
+highlights significant deficiencies, notably with
+respect to customer due diligence
+requirements, the criminalization of terrorist
+financing and the freezing of terrorist assets.
+Japan reported to the FATF in 2010, 2011 and
+2012 that measures are being taken to address
+some of the deficiencies identified in its 2008
+mutual evaluation report.
+IX. Article IV Consultation:
+The 2011 Article IV consultation discussions
+were held during May 30–June 8, 2011; the
+Executive Board discussed the Staff Report
+(IMF Country Report No. 11/181 and
+concluded the consultation on July 13, 2011.
+The concluding statement, staff report, staff
+supplement, selected issues paper, and PIN
+were all published.
+
+Public Information Notice (PIN) No. 12/92
+FOR IMMEDIATE RELEASE
+August 1, 2012
+
+International Monetary Fund
+700 19th Street, NW
+Washington, D. C. 20431 USA
+
+IMF Executive Board Concludes 2012 Article IV Consultation
+with Japan
+On July 25, 2012, the Executive Board of the International Monetary Fund (IMF) concluded the
+Article IV consultation with Japan.1
+Background
+The Japanese economy has shown remarkable resilience and adaptability in the aftermath of
+the March 2011 Great East Japan earthquake. In addition to the devastating human toll and
+destruction, businesses and households had to grapple with disruptions to supply-chains,
+reductions in electricity supply, and spillovers from severe floods in Thailand in late 2011, which
+impacted Japan’s export sector.
+Real GDP contracted by ¾ percent in 2011, because of the earthquake and Thai floods, but a
+recovery is now underway. Real GDP grew at a brisk pace of 4¾ percent (seasonally adjusted
+annual rate) in the first quarter boosted by reconstruction spending, a pickup in private
+consumption, and inventory rebuilding. Headline inflation was negative at -0.2 percent (year-onyear) in June and core inflation, excluding food and energy, was also negative at -0.6 percent
+(year-on year).
+
+1
+
+Under Article IV of the IMF's Articles of Agreement, the IMF holds bilateral discussions with
+members, usually every year. A staff team visits the country, collects economic and financial
+information, and discusses with officials the country's economic developments and policies. On
+return to headquarters, the staff prepares a report, which forms the basis for discussion by the
+Executive Board. At the conclusion of the discussion, the Managing Director, as Chairman of the
+Board, summarizes the views of Executive Directors, and this summary is transmitted to the
+country's authorities. An explanation of any qualifiers used in summings up can be found here:
+http://www.imf.org/external/np/sec/misc/qualifiers.htm.
+
+2
+The trade balance moved into deficit in 2011 (1/3 percent of GDP), the first annual deficit
+recorded since 1980. Exports were impacted by the supply chain disruptions, weak global
+demand and an appreciation of the yen. At the same time, imports have risen, driven by
+reconstruction spending and higher energy costs following the closure of most nuclear power
+plants. The trade balance remained in deficit in early 2012, but the current account balance
+continued to record a surplus of about 1½–2 percent of GDP in 2011 and early 2012, because
+of sizable investment income earnings.
+The recent turmoil in Europe has led to a flight to safety and impacted Japanese financial
+markets. Since mid-2011, equity prices have declined by about 15 percent and yields on 10year Japanese Government Bonds (JGBs) have fallen to near historic lows of 70-80 basis
+points. Over the same period, the yen has appreciated by about 8 percent in nominal effective
+terms.
+The Japanese economy is expected to expand by almost 2½ percent in 2012 helped by
+substantial public reconstruction spending of around 1½ percent of GDP and recovering
+consumer demand. Weak external demand is likely to weigh on exports and private investment.
+The recovery is forecast to slow in 2013 to 1½ percent, as reconstruction winds down. Over the
+medium-term, growth is expected to converge to around 1 percent as Japan’s aging population
+slows potential growth.
+Japan’s fiscal deficit is set to increase to about 10 percent of GDP in 2012, while the structural
+primary deficit will rise slightly to 7½ percent of GDP. In an important step toward medium-term
+fiscal consolidation, the Lower House of the Diet approved a tax bill in late June that would
+increase the consumption tax to 8 percent in April 2014 and 10 percent in October 2015. The
+Upper House is now considering the bill. If implemented and added to already planned
+expenditure measures, the overall reduction in the structural fiscal deficit would be about
+5 percent of GDP over the next decade.
+The Bank of Japan’s (BoJ) recent actions strengthened its policy framework and supported the
+recovery. The adoption in February of a medium to long-term price stability goal of 1 percent
+has helped clarify the objective of monetary policy. In addition, the BoJ expanded its Asset
+Purchase Program by ¥15 trillion this year in two steps and extended the maturity of JGB
+purchases from 1–2 years to 1–3 years. Together with earlier commitments this is a sizeable
+monetary expansion, totaling about 5 percent of GDP over the next year.
+The Financial Sector Assessment Program (FSAP) update found that important steps have
+been taken to strengthen the financial system since the last assessment in 2003. In particular,
+financial regulation and supervision has been effective in encouraging the large banks and
+insurance companies to strengthen their capital positions and resilience to shocks. As a result,
+while the global financial crisis, earthquake and spillovers from the Thai floods led to significant
+economic disruptions, the impact on financial stability was limited.
+
+3
+Looking ahead, the FSAP stress tests suggest that in the near term banks and insurers would
+be resilient to severe economic distress and moderate market shocks. However, the key
+challenges financial institutions face in safeguarding financial stability are to raise profitability in
+a low growth environment, while managing risk associated with their JGB and equity holdings.
+Executive Board Assessment
+Executive Directors noted that, despite a worsening of the global outlook, the Japanese
+economy is recovering, helped by reconstruction activity and private consumption. Directors
+saw risks to the outlook tilted to the downside and primarily stemming from the possibility of a
+further escalation of the crisis in Europe and a sharper than expected slowing of the Chinese
+economy. Directors agreed that, beyond the short term, the main challenge is to reduce the
+public debt burden in an environment of low growth and address continued deflation and the
+impact of a rapidly aging population.
+Directors stressed that reducing the public debt burden is a key policy priority and requires
+sustained fiscal consolidation over the next decade. They welcomed passage by the Lower
+House of the Diet of legislation to double the consumption tax rate to 10 percent by 2015, and
+agreed that targeted transfers to lower income groups could be considered to address the
+regressive nature of the tax. Directors also noted that additional fiscal consolidation measures,
+designed so as to limit any adverse impact on growth, would be needed beyond 2015 to put the
+public debt ratio firmly on a downward path. Of particular importance will be pension reform to
+contain social security spending while balancing inter generational equity.
+Directors underscored the importance of speedy implementation of far reaching structural
+reforms to raise growth. Given the rapidly aging population, policies aimed at increasing
+employment of women and older workers and facilitating immigration could have a large payoff.
+Directors also saw scope for productivity improvements by easing regulation of the agriculture
+and services sectors. Participation in additional free trade agreements would also help in this
+regard.
+Directors commended the Bank of Japan for the conduct of monetary policy during the past
+year and the adoption of a 1 percent inflation goal. They generally supported further monetary
+easing as part of a comprehensive package of policies to defeat deflation, particularly if the
+growth outlook worsens, while acknowledging that the effectiveness of further easing is limited
+in the very low interest rate environment. Directors also underscored the importance of
+improved communication of policy intentions.
+Directors took note of staff’s view that Japan’s external position is moderately weaker than that
+consistent with medium term fundamentals and desirable policies. They considered that Japan
+should continue to allow the exchange rate to be market determined, although intervention
+could be used to counter volatile or disorderly market conditions.
+
+4
+Directors agreed with the findings of the recent Financial Sector Stability Assessment Update.
+They noted that the financial system is stable and resilient to severe economic stress and
+moderate market shocks. However, banks’ low profitability and large holdings of Japanese
+government securities raise some concerns and should be monitored closely.
+To safeguard financial sector stability, Directors saw scope to strengthen further systemic risk
+monitoring and to improve the prudential framework, including by tightening large exposure
+limits on bank lending, raising capital requirements for domestic oriented banks, and basing the
+assessment of insurance companies’ solvency on a more refined economic valuation. Directors
+also saw room to strengthen the crisis resolution framework for systemically important nonbank
+financial institutions. Directors encouraged reforms to promote more market based credit
+intermediation, including through a reduced role of government, to enhance the role of the
+financial sector in supporting growth.
+Public Information Notices (PINs) form part of the IMF's efforts to promote transparency of the IMF's
+views and analysis of economic developments and policies. With the consent of the country
+(or countries) concerned, PINs are issued after Executive Board discussions of Article IV consultations
+with member countries, of its surveillance of developments at the regional level, of post-program
+monitoring, and of ex post assessments of member countries with longer-term program engagements.
+PINs are also issued after Executive Board discussions of general policy matters, unless otherwise
+decided by the Executive Board in a particular case. The staff report (use the free Adobe Acrobat
+Reader to view this pdf file) for the 2012 Article IV Consultation with Japan is also available.
+
+5
+
+Japan: Selected Economic Indicators, 2007–13
+
+Nominal GDP: US$ 5,867 billion (2011)
+Population: 127.8 million (2011)
+GDP per capita: US$ 45,900 (2011)
+Quota: SDR 15,628.5 million
+
+Growth (percent change) 1/
+Real GDP
+Domestic demand
+Private consumption
+Residential investment
+Business investment
+Government consumption
+Public investment
+Stockbuilding 2/
+Net exports 2/
+Exports of goods and services
+Imports of goods and services
+Inflation (annual average)
+CPI
+GDP deflator
+Unemployment rate (annual average)
+Government (percent of GDP)
+General government
+Revenue
+Expenditure
+Balance
+Primary Balance
+Public Debt, gross
+Money and credit (percent change, end-period)
+Base money
+M2 (period average)
+Domestic credit
+Bank lending
+Interest rate
+Overnight call rate, uncollateralized (end-period)
+Three-month CD rate (annual average)
+Official discount rate (end-period)
+Balance of payments (in billions of US$)
+Current account balance
+Percent of GDP
+Trade balance
+Percent of GDP
+Exports of goods, f.o.b.
+Imports of goods, f.o.b.
+Oil imports (trade basis)
+FDI, net (percent of GDP)
+Terms of trade (percent change)
+Change in reserves
+Total reserves minus gold (in billions of US$)
+Exchange rates (annual average)
+Yen/dollar rate
+Yen/euro rate
+Real effective exchange rate 3/
+Real effective exchange rate (CPI-based)
+
+Proj.
+2012
+2013
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2.2
+1.1
+0.9
+-9.8
+4.9
+1.1
+-5.9
+0.3
+1.1
+8.7
+2.3
+
+-1.0
+-1.3
+-0.9
+-6.6
+-2.6
+-0.1
+-7.4
+0.2
+0.2
+1.4
+0.3
+
+-5.5
+-4.0
+-0.7
+-16.6
+-14.3
+2.3
+7.0
+-1.6
+-1.5
+-24.2
+-15.7
+
+4.4
+2.7
+2.6
+-4.2
+0.5
+2.1
+0.4
+0.8
+1.7
+24.2
+11.1
+
+-0.7
+0.1
+0.1
+5.4
+1.1
+1.9
+-3.6
+-0.5
+-0.8
+-0.1
+5.9
+
+2.4
+3.0
+2.7
+0.7
+3.2
+2.0
+6.3
+0.2
+-0.5
+3.1
+7.4
+
+1.5
+1.5
+1.7
+1.5
+4.8
+-0.5
+-12.5
+0.5
+0.0
+5.0
+5.7
+
+0.1
+-0.9
+3.8
+
+1.4
+-1.3
+4.0
+
+-1.3
+-0.5
+5.1
+
+-0.7
+-2.1
+5.1
+
+-0.3
+-2.1
+4.6
+
+0.2
+-0.1
+4.5
+
+0.0
+-0.1
+4.4
+
+31.2
+33.3
+-2.1
+-2.1
+183.0
+
+31.6
+35.7
+-4.1
+-3.8
+191.8
+
+29.6
+40.0
+-10.4
+-9.9
+210.2
+
+29.6
+39.0
+-9.4
+-8.7
+215.3
+
+30.6
+40.7
+-10.1
+-9.2
+229.9
+
+30.9
+40.9
+-9.9
+-8.8
+234.5
+
+31.4
+39.9
+-8.6
+-7.4
+240.0
+
+0.4
+2.1
+-2.3
+0.7
+
+1.8
+1.8
+1.6
+4.6
+
+5.2
+3.1
+0.4
+-0.9
+
+7.0
+2.3
+1.3
+-1.8
+
+13.5
+3.2
+0.8
+0.7
+
+...
+...
+...
+...
+
+...
+...
+...
+...
+
+0.46
+0.51
+0.75
+
+0.10
+0.51
+0.30
+
+0.09
+0.33
+0.30
+
+0.1
+0.3
+0.3
+
+0.1
+0.3
+0.3
+
+...
+...
+...
+
+...
+...
+...
+
+212.2
+4.9
+105.1
+2.4
+678.4
+573.3
+130.1
+-1.2
+-2.1
+36.5
+952.8
+
+159.8
+3.3
+38.4
+0.8
+746.5
+708.0
+190.6
+-2.2
+-9.6
+30.8
+1009.4
+
+146.6
+2.9
+43.4
+0.9
+545.3
+501.9
+99.9
+-1.2
+19.5
+27.3
+1022.2
+
+204.0
+3.7
+91.0
+1.7
+730.1
+639.1
+134.3
+-1.1
+-3.3
+44.3
+1096.2
+
+119.2
+2.0
+-20.5
+-0.3
+787.2
+807.7
+185.0
+-2.0
+-7.9
+177.0
+1258.2
+
+130.3
+2.2
+-10.2
+-0.2
+807.4
+817.6
+227.8
+-1.3
+3.9
+...
+...
+
+167.0
+2.7
+35.1
+0.6
+830.0
+795.0
+233.7
+-1.3
+7.0
+...
+...
+
+117.8
+161.4
+83.6
+83.2
+
+103.4
+152.1
+93.7
+90.1
+
+93.6
+130.3
+110.5
+101.5
+
+87.8
+116.5
+118.2
+102.7
+
+79.8
+111.0
+126.2
+104.4
+
+...
+...
+...
+...
+
+...
+...
+...
+...
+
+Sources: Global Insight, Nomura database; IMF, Competitiveness Indicators System; and IMF staff estimates and projections as of Feb 21, 2012.
+1/ Annual growth rates and contributions are calculated from seasonally adjusted data.
+2/ Contribution to GDP growth.
+3/ Based on normalized unit labor costs; 2000=100.
+
+

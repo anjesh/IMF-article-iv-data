@@ -1,0 +1,5385 @@
+© 2012 International Monetary Fund
+
+Januaryxdfg 29, 2001
+January 29, 2001
+
+July 2012
+IMF Country Report No. 12/182
+January 29, 2001 January 29, 2001
+January 29, 2001
+
+Euro Area Policies: 2012 Article IV Consultation—Selected Issues Paper
+This selected issues paper on euro area was prepared by a staff team of the International Monetary
+Fund as background documentation for the periodic consultation with officials at EU institutions. It is
+based on the information available at the time it was completed on July 3, 2012. The views expressed
+in this document are those of the staff team and do not necessarily reflect the views of the government
+of the euro area or the Executive Board of the IMF.
+The policy of publication of staff reports and other documents by the IMF allows for the deletion of
+market-sensitive information.
+Copies of this report are available to the public from
+International Monetary Fund  Publication Services
+700 19th Street, N.W.  Washington, D.C. 20431
+Telephone: (202) 623-7430  Telefax: (202) 623-7201
+E-mail: publications@imf.org Internet: http://www.imf.org
+
+International Monetary Fund
+Washington, D.C.
+
+INTERNATIONAL MONETARY FUND
+EURO AREA POLICIES
+Selected Issues
+Prepared by Helge Berger, Fabian Bornhorst, Esther Perez Ruiz, Thierry Tressel and Nico
+Valckx (all EUR), Marialuz Moreno Badia, Jimmy McHugh, and Tigran Poghosyan (all FAD)
+Derek Anderson, Manmohan Singh, Stephen Snudden, and Kenichi Ueda (all RES),
+and Francis Vitek (SPR).
+Approved by the European Department
+July 3, 2012
+Contents
+I. The Eurozone Crisis and the Sovereign-Bank Nexus: The Case for a Eurozone Banking
+Union....................................................................................................................................3
+A. Introduction ....................................................................................................................3
+B. The Eurozone Crisis (July 2011–June 2012) .................................................................5
+C. Downward Spirals at the National Level .......................................................................8
+D. Financial Fragmentation of the EMU ..........................................................................11
+E. Main Elements of a Eurozone Banking Union ............................................................13
+F. Conclusions ..................................................................................................................15
+Figure 1. Banking and Sovereign Stress ....................................................................................6
+Boxes
+1. Sources of Banking Stress July 2011–June 2012 ..........................................................17
+2. Event Study: Bankia and Spanish Sovereign Borrowing Costs ....................................18
+II. Fiscal Integration in the Euro Area ....................................................................................19
+A. The Case for Fiscal Integration in the Euro Area ........................................................19
+B. What Makes Currency Areas Viable? .........................................................................23
+C. What Are the Options for the Euro Area? ...................................................................27
+D. Conclusions ..................................................................................................................30
+E. References ....................................................................................................................30
+Table 1. Proposals for Common Euro Area Sovereign Debt: Main Features..........................32
+Figures
+1. Labor Mobility in the Euro Area Is Low .......................................................................20
+2. Private Capital Flows Have Reversed ...........................................................................21
+3. Had Countries Complied with Medium Term Objectives (MTO).................................22
+
+2
+4. Euro Area Banks Are as Large as Their U.S. Counterparts, but Lack a Common
+Financial Sector Backstop .............................................................................................23
+5. Elements of Fiscal Integration .......................................................................................24
+6. Dimensions of Fiscal Integration ...................................................................................26
+Box 1. Risk Sharing and Redistribution ..................................................................................25
+III.
+A.
+B.
+C.
+D.
+E.
+
+Fiscal Consolidation under the SGP: Some Illustrative Simulations 34
+Introduction ..................................................................................................................34
+A Characterization of SGP Regimes............................................................................36
+The Output Effects from Fiscal Consolidation under the SGP ....................................39
+Policy Perspectives: How Can the Output Loss from Additional Fiscal
+Consolidation Be Mitigated? .......................................................................................45
+References ....................................................................................................................46
+
+Tables
+1. EU Fiscal Rules from Maastricht to the Fiscal Compact...............................................36
+2. EDP Deadlines ...............................................................................................................37
+3. Assumptions Underlying SGP Simulations ...................................................................41
+Figures
+1. Recent EU Fiscal Governance Reforms ........................................................................35
+2. Translating SGP Regulations into a Fiscal Shock .........................................................38
+3. Output Effects from SPG Rules: Myopia and Growth-friendly Consolidation .............43
+4. Comparing Output Losses across Scenarios ..................................................................44
+IV. Possible Subordination Effects of Eurosystem Bond Purchases .......................................47
+A. Introduction ..................................................................................................................47
+B. Empirical Evidence on ECB Subordination Risk ........................................................49
+C. Theoretical Approaches to Quantifying Subordination Risks .....................................50
+D. Conclusions ..................................................................................................................54
+E. References ....................................................................................................................55
+Figures
+1. SPM Interventions .........................................................................................................48
+2. Event Study Analysis of ECB Subordination on Bond Yields and CDS Spreads. ........50
+3. Two Cases for Original Price.........................................................................................50
+4. Bond Prices and SMP Determinants ..............................................................................51
+5. Role of SMP Purchases in a CDS Model ......................................................................53
+Annex. Valuation of Sovereign Bonds with ECB Senior Creditor Status ...............................56
+
+3
+I.
+
+THE EUROZONE CRISIS AND THE SOVEREIGN-BANK NEXUS: THE CASE FOR A
+EUROZONE BANKING UNION1
+
+This paper argues that the creation of a common Eurozone financial stability architecture is
+an immediate priority to restore the viability of the Economic and Monetary Union. A
+Banking Union will prevent further financial fragmentation of the euro area, and will help
+end the adverse downward spirals between sovereigns, banks and the real economy at play
+in periphery countries. The Banking Union should have three main elements: a eurozone
+deposit guarantee scheme, a eurozone resolution authority and a eurozone supervisory
+authority. Many European authorities have called for the establishment of a “Banking
+Union” to help restore financial stability and restart growth in the eurozone. The June 29
+agreement of the EU Summit to present proposals for a single supervisory mechanism and,
+contingent on its implementation, allow direct recapitalization of banks by the ESM
+represents an important step forward towards a Banking Union.
+A.
+
+Introduction
+
+1.
+The euro area crisis has revealed the weaknesses of a framework where
+responsibility for financial stability remains national. Faced by two related shocks after
+the Summer of 2011 (a funding shock affecting large euro area banks; and stress affecting
+weak sovereigns), the eurozone financial system has fragmented away from being area-wide
+to being re-focused on national markets. The intra-euro area capital flight has created deintegrating forces in sovereign bond markets, interbank markets and lending and deposit
+markets, thereby reversing the long-standing process of European financial integration that
+was stimulated by the creation of the euro. This reversal has contributed to impair the
+transmission of monetary policy in the eurozone. Meanwhile, downward spirals between
+sovereigns, banks and the real economy are stronger than ever in the periphery. As a result,
+national-based policies are increasingly precluded and collective solutions are becoming
+necessary.
+2.
+The creation of a “Banking Union” is critical for the viability of the Economic
+and Monetary Union. It will help break the adverse feed-back loops between sovereigns,
+banks and the real economy by creating an institutional framework that provides common
+backstops to restructure failed banks and enhance confidence in safety nets. Taking steps
+towards a Banking Union will contribute in ending the ongoing financial fragmentation of
+the euro area by reducing incentives to cut cross-border exposures. In the medium-term, it
+will help minimize the probability of bank failures and the cost of resolution borne by taxpayers.
+
+1
+
+Prepared by Thierry Tressel (EURAE). We are grateful to the ECB and the EU Commission DG ECFIN for
+useful comments during the seminars held respectively on May 30th in Frankfurt and on June 1st in Brussels.
+
+4
+3.
+The IMF has long argued that the EU needs a centralized financial stability
+architecture. It was predicated on the need to keep pace with the rapid increase in the size of
+European banks and with the integration of financial markets in Europe where cross-border
+contagion can be substantial.2 It was also seen as a way to effectively address the
+coordination and burden sharing issues arising when dealing with cross-border banks. This
+centralized framework was envisaged to encompass a common resolution authority with a
+common backstop, a common deposit guarantee scheme and a common supervisory
+authority. Establishing such an architecture is even more important for the euro area where
+(i) economic and financial integration is deeper than in the broader EU; (ii) downward spirals
+between sovereigns and banks are stronger than elsewhere; and where (iii) monetary policy
+is impaired by financial fragmentation.
+4.
+After the 2008 crisis, the EU took significant steps towards developing a supranational supervisory structure, but ultimate responsibility remained at the national
+level. Following the recommendations of the de Larosiere Report, the EU introduced
+elements of an EU supervisory structure by establishing the European Supervisory
+Authorities – the European Banking Authority, the European Securities and Markets
+Authority, and the European Insurance and Occupational Pensions Authority –, and the
+European Systemic Risk Board as the EU macroprudential oversight body.3 However, the
+new agencies have limited powers and resources, which implies that ultimate competence
+remains at the national level. The recent roadmap outlined by the European Council
+addresses these shortcomings by calling for the establishment of a full EU Banking Union.
+The outcome of the June 29 EU Summit is an important step forward by announcing an
+agreement on proposals for the establishment of a single supervisory mechanism and, when
+this mechanism is in place, on allowing the ESM to directly recapitalize banks.4
+5.
+The paper is organized as follows. Section B presents a narrative of the various
+stages of the banking and sovereign crisis since the Summer of 2011. Section C characterizes
+the downward spirals at play in periphery euro area countries. Section D describes the
+process of financial de-integration within the euro area. Section E outlines the main elements
+of a Banking Union that would help break the adverse sovereign-bank feed-back loops and
+would end the financial de-integration of the eurozone. Section F concludes.
+
+2
+
+See for instance Fonteyne, W., Bossu, W., Cortavarria-Checkley, L., Giustiniani, A., Gullo, A., Hardy, D., and
+S. Kerr, 2010, “Crisis Management and Resolution for a European Banking System”, IMF WP 10/70.
+3
+De Larosiere, Jacques and co-authors (2009), “Report of the High-Level Group on Financial Supervision in the
+EU”, European Commission.
+4
+“Towards a Genuine Economic and Monetary Union” – Report by President of the European Council June 26,
+2012. And: “Euro Area Summit Statement”, June 29, 2012.
+
+5
+B.
+
+The Eurozone Crisis (July 2011–June 2012)
+
+Stages of the crisis
+6.
+Initial shock: the eurozone crisis escalated in the Summer of 2011 when
+wholesale funding markets for European banks began to freeze, and sovereign
+borrowing costs of Italy and Spain began to rise significantly. The Euribor-OIS spread an
+indicator of counterparty risk in unsecured interbank markets, rose sharply in August and
+remained at high levels, reaching about half the
+140
+140
+10 Largest US Prime MMF Exposures to Banks
+level following the collapse of Lehman Brothers.
+France
+(Billions US$)
+120
+120
+Germany
+It only fell substantially after the reopening of the
+Italy
+100
+100
+Netherlands
+US$ swap line and the first allotment of the 3
+Spain
+Switzerland
+80
+80
+year LTRO by the ECB. From June 2011
+UK
+onwards, US investors started to reassess
+60
+60
+exposures to large euro area banks, causing a
+40
+40
+sharp increase in the cost of US$-euro basis
+20
+20
+swaps. The US$ funding shock was particularly
+0
+0
+large for the French banks which lost about US$
+1 1 1 1
+1 1 1 1
+1 1 1
+2 2 2 2
+-1
+-1
+-1 -1
+-1
+-1 -1
+-1
+-1 -1 -1
+-1
+-1 -1 -1
+l
+y
+r
+r
+r
+t
+c
+v
+n
+p
+n
+b ra
+g
+b
+a p
+p a
+u Ju u e cO o e a
+e
+e
+F
+F
+100 billion of funding from the 10 largest US
+M A M J
+M A
+A S
+N D J
+MMF between June and December of 2011
+Source: Fitch ratings
+(Figure 1 and text figure).
+7.
+Contagion across markets: good collateral became scarce as funding demand
+focused on secured markets. Large European banks highly dependent on wholesale funding
+substituted short-term secured borrowing (repos) for unsecured borrowing, raising the
+demand for good quality collateral. At the same
+20
+Change in Net Exposures to Peripheral
+time, the worsening sovereign crisis eroded the
+10 Sovereigns, December 2010 - September 2011
+value of the collateral posted in private
+(Billions of euros)
+0
+transactions as government bond yields rose,
+while margin requirements increased following
+-10
+ratings downgrades. Through these channels,
+-20
+sovereign stress affected the ability of banks to
+-30
+access secured funding markets. The ECB
+core EA banks 1/
+-40
+unconventional liquidity provision alleviated
+UK banks
+-50
+Italian and Spanish banks
+funding stress in secured markets and reduced
+-60
+net demand for private sector funding, but
+Italy & Spain
+Greece, Ireland & Portugal
+collateral used for repo financing still remains
+Sources: EBA July 2011 stress tests ; and EBA recapitalization exercise.
+1/ "Core EA" includes Austria, Belgium, France, Germany and the
+significantly more expensive in June 2012 than
+Netherlands.
+it was in July of 2011 (Figure 1).
+
+6
+Figure 1. Banking and Sovereign Stress
+Counterparty risk increased in interbank
+market...
+250
+
+250
+
+Euribor-OIS Spread
+(Basis points)
+
+200
+
+causing funding stress...
+
+200
+
+Dec 21st
+LTRO allotment
+
+750
+
+5-Year Bank CDS Spreads
+(Basis points)
+BNP Paribas
+
+650
+
+December
+LTRO
+
+Credit Agricole
+Societe Generale
+550
+
+150
+
+650
+
+Commerzbank
+
+150
+
+Deutsche Bank
+Unicredit
+
+450
+100
+
+850
+
+Banco Santander
+
+100
+
+450
+
+Barclays
+Bank of America
+
+350
+
+Citigroup
+50
+
+50
+
+Mizuho Financial Group
+250
+
+0
+
+2 weeks
+3 months
+
+-50
+2007
+
+1 month
+6 months
+
+0
+
+-50
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+Difference ( 3 months euro repo - Euribor)
+(Percentage points)
+
+0
+
+-0.2
+
+-0.2
+
+-0.4
+
+-0.4
+
+-0.6
+
+-0.6
+
+-0.8
+
+-0.8
+
+-1
+
+-1
+
+-1.2
+
+-1.2
+
+-1.4
+
+-1.4
+
+-1.6
+
+-1.6
+
+-1.8
+
+-1.8
+
+-2
+2006
+
+-2
+2007
+
+2008
+
+2009
+
+2010
+
+150
+
+50
+Dec-10
+
+50
+Mar-11
+
+Jun-11
+
+Sep-11
+
+Dec-11
+
+Mar-12
+
+while Italian and Spanish sovereign stress
+increased.
+
+spreading to secured repo markets...
+
+0
+
+250
+
+2011
+
+Sources: Datastream ; Bloomberg L.P.; and IMF staff calculations.
+
+1600
+
+5-Year Sovereign CDS spreads
+(Basis points)
+
+4000
+
+Dec 21st LTRO
+1400
+1200
+1000
+
+3500
+Ireland
+Italy
+Portugal
+Spain
+Greece (right scale)
+
+3000
+2500
+
+800
+
+2000
+
+600
+
+1500
+
+400
+
+1000
+
+200
+
+500
+
+0
+Jan-10
+
+0
+Jul-10
+
+Jan-11
+
+Jul-11
+
+Jan-12
+
+7
+8.
+Deleveraging: European banks reassessed
+their exposures to the Italian and Spanish
+sovereigns. According to EBA data, large European
+banks sold off more than €80 billion of bonds of
+periphery sovereigns during January-September
+2011.5 In the EBA sample, core euro area banks
+were the largest sellers of Italian and Spanish
+sovereign bonds while Italian and Spanish banks
+were the largest sellers of sovereign bonds of the
+program countries.
+
+50
+40
+
+50
+
+Average Monthly Change in Bank
+Exposures to the Domestic Sovereign
+(Billions euros)
+
+40
+
+core EA 1/
+
+30
+
+30
+
+GIP
+
+20
+
+20
+
+ITA+ESP
+
+10
+
+10
+
+0
+
+0
+
+10
+
+-10
+2009
+
+2010
+
+2011
+
+Jan-March
+2012
+
+Source: IMF, International Financial Statistics database.
+9.
+ECB intervention: the long-term
+1/ Core EA includes Austria, Belgium, Finland, France, Germany,
+refinancing operations of the ECB and the US$
+and Netherlands
+swap lines stabilized funding markets. They also contributed to temporarily reducing
+sovereign stress. However, the stabilization of bond yields was achieved by increasing the
+sovereign exposures of Spanish and Italian banks, setting the stage for stronger adverse loops
+between weak sovereigns and domestic banks.
+
+10.
+Sovereign-bank nexus intensifying in
+Spain. Two series of events have taken place. First,
+the government announcement on March 02 that the
+previously agreed SGP fiscal targets were not
+attainable, and downgrades of the sovereign took
+place in April 23, June 07 and 13. Second, the takeover and bailout of Bankia raised uncertainties
+about the extent of real estate losses and concerns
+about the impact on the sovereign balance sheet.
+Meanwhile, a group of banks were downgraded.
+
+Holders of Spanish Central Government
+Debt
+(Billions of euros)
+
+240
+220
+
+240
+220
+
+200
+
+200
+
+180
+
+180
+
+160
+
+160
+Domestic banks
+
+140
+120
+
+140
+
+Non-residents (excl. ECB)
+1
+-1
+y
+a
+M
+
+1
+-1
+n
+Ju
+
+1
+-1
+l
+u
+J
+
+1
+-1
+g
+u
+A
+
+1
+-1
+p
+e
+S
+
+1
+-1
+tc
+O
+
+1
+-1
+v
+o
+N
+
+1
+-1
+c
+e
+D
+
+2
+-1
+n
+Ja
+
+2
+-1
+b
+e
+F
+
+120
+2
+-1
+r
+a
+M
+
+Source: Bank of Spain.
+
+Impact of ECB interventions: determinants of banking stress before and after the LTROs
+11.
+Before the first LTRO, bank-specific stress was mainly explained by: (i)
+sovereign exposures to Italy or Spain, or (ii) dependence on wholesale funding and large
+activities in derivatives markets. Empirical analysis shows that, before the first LTRO,
+banking stress –measured either by stock price returns or CDS spreads adjusted for market
+movements—moved positively with stress affecting the Italian and Spanish sovereigns in
+proportion to exposures to each sovereign. This co-movement was economically significant
+for the very exposed banks, which were mostly domestic banks. When market uncertainty
+and volatility increased, banking stress was also high for banks that are very active in
+5
+
+EBA July 2011 stress tests and EBA recapitalization exercise (November 2011).
+
+8
+Derivatives assets Net exposures to Net exposures to Weekly decline in
+& liab
+Italy
+Spain
+stock price
+
+derivatives’ markets or more reliant on
+wholesale funding – all mostly core euro
+area banks, (Box 1).
+
+0
+-2
+-4
+-6
+
+12.
+After the first LTRO, Spanish and
+-8
+Italian banks with larger exposures to
+-10
+their sovereign underperformed their
+peers, independently of sovereign bond
+-12
+yields or CDS spreads movements.
+-14
+Reliance on wholesale funding or activities
+in derivatives’ markets were no longer
+significant causes of banking stress. This
+suggests that the provision of long-term
+liquidity by the ECB and significant purchases
+of sovereign bonds by domestic banks has only
+moderately reduced the link between sovereign
+and bank performance in Spain and Italy, and
+that concerns about banks in these two
+countries has not abated.6
+
+75th percentile
+
+Period: July - December 2011
+
+2%
+
+Period: January - June 2012
+
+0%
+
+Derivatives assets &
+liab
+
+Net exposures to
+Italy
+
+Net exposures to
+Spain
+
+Weekly decline in
+stock price
+
+-2%
+
+75th percentile
+-4%
+
+90th percentile
+75th percentile
+
+-6%
+90th percentile
+
+-8%
+
+Note: Panel regressions of weekly percent change in bank stock price or CDS spreads adjusted for mean market return on
+bank characteristics interacted with sovereign yields and volatility measures (VIX) or wholesale funding stress (Euribor-OIS spread).
+The impact is estimated at the 90th percentile of the distribution of the percent change in VIX, the percent change
+in Italy government bond yields, and the percent change in Spain government bond yields interacted respectively
+with (all in deviations from their 25th percentiles) the sum of derivative assets and liabilities to total asset ratio,
+net exposures to Italian sovereign to common equity ratio,
+net exposures to the Spanish sovereign to common equity ratio. The benchmarks are the 75th and 90th percentage of the weekly
+decline in bank stock prices. Period: January-June 2012.
+Source: IMF staff
+
+Downward Spirals at the National Level
+
+13.
+Because many European banks are large but remain
+the responsibility of the home authority, this contingent
+liability can jeopardize the sovereign balance sheet.7 The
+Irish and Spanish crises are examples of bank bailouts that
+turned out to be “Pyrrhic victories” for their sovereigns. These
+two countries extended large financial support and the impact
+on public debt has so far amounted to more than 40 percent and
+about 20 percent of GDP respectively since 2008. In addition to
+the direct impact of financial support on public debt, banking
+crisis also substantially raise the borrowing costs of the
+sovereign. Acharya et al. (2012) show that higher bank CDS
+spreads before a bailout resulted in higher government CDS
+
+6
+
+90th percentile
+
+Note: Panel regressions of weekly percent change in bank stock price or CDS spreads adjusted for mean market return on
+bank characteristics interacted with sovereign yields and volatility measures (VIX) or wholesale funding stress (Euribor-OIS spread).
+The impact is estimated at the 90th percentile of the distribution of the percent change in VIX, the percent change
+in Italy government bond yields, and the percent change in Spain government bond yields interacted respectively
+with (all in deviations from their 25th percentiles) the sum of derivative assets and liabilities to total asset ratio,
+net exposures to Italian sovereign to common equity ratio,
+net exposures to the Spanish sovereign to common equity ratio. The benchmarks are the 75th and 90th percentage of the weekly
+decline in bank stock prices. Period: July-December 2011.
+Source: IMF staff
+
+‐10%
+
+C.
+
+75th percentile
+
+90th percentile
+
+Financial Sector Support 2008-11
+(percent of 2011 GDP)
+Belgium
+
+7.0
+
+Ireland
+
+41.2
+
+Germany
+
+12.2
+
+Greece
+
+6.1
+
+Netherlands
+
+14.1
+
+Spain 1/
+United Kingdom
+
+19.5
+
+United States
+
+5.3
+
+6.8
+
+Sources: Fiscal Monitor; Spain FSAP;
+and IMF staff estimates.
+1/ Includes actual use of debt
+guarantees, asset purchases and capital
+support from the FROB as of March
+2012 and the ESM/EFSF loan
+announced on June 9th.
+
+The second period includes the announcements that Spain would not meet the previously agreed EU fiscal
+targets (March 02, 2012) and the take-over and bailout of Bankia-BFA (May-June 2012).
+7
+See 2012 Spillover Report: Financial Spillovers from Euro Area and UK Globally Systemically Important
+Banks.
+
+9
+spreads after the announcement of the bailouts.8 An event study of the Bankia bailout
+suggests that such dynamics are currently at play in Spain: announcements related to the
+take-over and recapitalization of Bankia by the Spanish government suggest a likely link
+with the increase in the borrowing costs of the sovereign around each event (Box 2).
+14.
+Weak sovereigns also damage the balance sheet of domestic banks. Three main
+channels are at play. First, as a result of home bias in portfolio decisions, domestic banks
+usually have large exposures to domestic sovereign debt. Hence, sovereign risks directly
+impact the market value of bank assets.9 Second, weak sovereigns can lose their ability to
+honor their financial safety net obligations. This can adversely impact domestic banks
+through: (i) the loss of the implicit (or explicit) sovereign guarantee;10 (ii) reduced deposit
+confidence as domestic guarantee schemes (which are usually not pre-funded)) become less
+credible. Third, the decline in the collateral value of sovereign bonds (as yields increase or as
+higher margin requirements are applied after ratings downgrades) reduces the ability of
+domestic banks to access secured funding or euro-system liquidity.11
+15.
+Banking stress adversely
+damages the real economy by
+raising the cost of credit. Banks
+under stress may curtail credit supply
+and raise lending rates to strengthen
+capital buffers and increase internally
+generated funds. Similarly, weak
+economic performance and fragile
+balance sheets of non-bank sectors of
+the economy also affect bank
+profitability as demand for new loans
+falls, non-performing loans rise, and
+deposit growth slows-down. To
+estimate the relative importance of
+
+5
+4.5
+t)
+n
+e
+cr
+e 4
+p
+n
+i(
+C
+F 3.5
+N
+to
+s
+n 3
+a
+o
+l
+w
+e
+n2.5
+n
+o
+s
+e
+t
+a
+trs 2
+e
+r
+e
+t
+In1.5
+
+5
+
+Euro Zone: Monthly Interest rates and Banking
+Stress, 2010-12
+(Germany, France, Italy and Spain)
+
+4.5
+4
+
+DEU
+DEU 2011
+DEU 2012
+ESP
+ESP 2011
+ESP 2012
+ITA
+ITA 2011
+ITA 2012
+FRA
+
+3.5
+3
+2.5
+2
+1.5
+
+0
+
+100
+
+200
+300
+400
+500
+600
+Average bank CDS spreads (basis points.)
+
+700
+
+Sources: Europoean Central Bank; Bloomberg L.P.; and IMF staff calculations.
+8
+
+Acharya, V., Drechsler, I., and P. Schnabl, 2012, “A Tale of Two Overhangs: The Nexus of Financial Sector
+and Sovereign Credit Risk”, Banque de France Financial Stability Review, April 2012. See also Gerlach, S.,
+Schulz, A., and G. Wolff, 2010, “Banking and Sovereign Risk in the Euro Area”, CEPR Discussion Paper 7833.
+9
+The impact on the balance sheet may exceed the decline in the market value of government bonds, as restoring
+market confidence may require banks to build higher buffers against total exposures. For this reason, the EBA
+recapitalization exercise requested that European banks hold buffers against marked-to-market, available for
+sale and held to maturity exposures to weak sovereigns.
+10
+For instance, the May 18th 2012 downgrade of 16 Spanish banks (including the 3 largest banks) by Moody’s
+cited the deteriorating Spanish economy and the reduced creditworthiness of the government as motivation for
+the downgrade.
+11
+Acharya and al. (2012) also show that higher government CDS was associated with higher bank CDS for
+given bank ratings, and cite the example of Santander which experienced higher borrowing costs as the value of
+the sovereign implicit guarantee deteriorated in 2010.
+
+10
+these factors, we run a panel regression of monthly lending rates in the four largest euro area
+countries on average monthly bank CDS spreads (averaged by country), consensus forecasts
+of real GDP growth (to account for general macroeconomic factors) and country fixed
+effects, covering the period between 2010 and March 2012.12 The estimate suggests that a
+150 bps increase in bank CDS spreads is associated with an increase in lending rates of 0.6
+percentage points and 0.4 percentage points respectively for loans to non-financial
+corporations and mortgage loans.13 This econometric association suggests that bank funding
+stress can have substantial effects on loan pricing and credit supply.
+16.
+Weak sovereigns and a deteriorating macroeconomic outlook tend to reinforce
+each other. In absence of fiscal risk sharing, a weak sovereign cannot implement
+countercyclical fiscal policies when the economy is slowing down and may have to
+consolidate in a downturn to restore confidence and lower debt levels. 14 In the process,
+economic growth may be further weakened by the resulting compression of domestic
+demand. Ambiguity of financial investors’ beliefs about the link between growth and fiscal
+consolidation could make adjustment even more arduous.15
+17.
+Adverse feedback loops are stronger in a monetary union than elsewhere. These
+adverse feed-back loops are amplified by the
+6
+6
+REER Decomposition
+4
+absence of a domestic exchange rate that could 4
+(Percent change; 2008 Q3 - 2012 Q1)
+2
+2
+buffer the impact of intra-euro area sudden
+0
+0
+stops on the borrowing costs of sovereigns,
+-2
+-2
+and that would help compensate the adverse
+-4
+-4
+impact of fiscal efforts on domestic demand
+-6
+-6
+compression by an exchange rate depreciation
+-8
+-8
+stimulating exports. Moreover, sovereign
+10
+-10
+borrowing costs can rapidly spiral out if
+NEER
+12
+-12
+market anticipations turn out pessimistic,
+14
+-14
+Relative CPI
+making fiscal adjustment more difficult to
+16
+-16
+achieve unless the monetary authority signals
+18
+-18
+l
+s
+yl
+y
+n
+a
+e
+d
+a
+i
+ir
+m
+d
+c
+n
+ce
+n
+16
+a
+a
+u
+g
+t
+n
+e
+a
+i
+t
+n
+a
+I
+p
+s
+l
+the possibility of future loosening.
+e
+a
+g
+tu
+la
+r
+S
+u
+l
+r
+r
+r
+rm
+re
+A
+
+e
+B
+
+F
+
+e
+G
+
+G
+
+I
+
+e
+h
+t
+e
+N
+
+o
+P
+
+Source: IMF, Information Notice System database.
+
+12
+
+Consensus forecasts are measured for the current year.
+As a comparison during 2010, bank CDS spreads in Spain and Italy rose by between 150 and 200 bps while
+lending rates to non-financial corporations increased by respectively 0.5 and 0.8 percentage points.
+14
+See “Fiscal Consolidation Under the SGP: Some Illustrative Simulations”, 2012 Selected Issues Paper.
+15
+“2011 in Review: Four Hard Truths”, Olivier Blanchard, IMF direct, Dec. 21 2011.
+16
+Jeanne, O., 2012, “Fiscal Challenges to Monetary Dominance in the Euro Area: A Theoretical Perspective”,
+Banque de France, Financial Stability Review April 2012.
+13
+
+11
+D.
+
+Financial Fragmentation of the EMU
+
+18.
+Before the start of the crisis, the eurozone had achieved a very high degree of
+18
+financial integration. The clearest evidence is the
+10-year Government Bond Spreads
+16
+vis-a-vis Germany
+strong compression of sovereign bond yields
+(Percentage points)
+14
+observed at that time. Between 01/2002 and
+12
+12/2007, the spread between Greek sovereign
+10
+Ireland
+bonds and German bunds oscillated between 8 and
+Italy
+8
+Portugal
+37 bps. Meanwhile, before the crisis, the current
+Spain
+6
+Greece (right scale)
+account deficits of peripheral countries were almost
+4
+2
+entirely financed by private capital flows
+0
+originating from within the eurozone, thus allowing
+17
+-2
+net foreign liabilities to accumulate.
+1995 1997 1999 2001 2003 2005 2007 2009 2011
+19.
+Before the crisis, sovereign risks of
+periphery country were de facto shared between
+core euro area and domestic investors. In
+peripheral euro area countries, other euro area
+residents were the main holders of public debt
+together with domestic residents, thus creating de
+facto some risk sharing of sovereign risk within the
+EMU. For example, at the end of 2010, more than 75
+percent of the foreign-held Spanish sovereign debt
+was still held by euro area residents.
+20.
+During the crisis, sovereign bond markets
+were the most deeply affected by the withdrawals
+of intra-euro area cross-border capital flows. As a
+result sovereign cross- border risk sharing diminished
+while the divergence of sovereign yields impeded the
+interest rate channel of monetary policy. In 2011 and
+in Q1 of 2012, bond markets experienced a
+withdrawal of intra-euro area cross-border capital of
+€240 billion, a 24 percent reduction since end 2010),
+closely followed by intra-euro area interbank markets
+(where a sharp reduction of cross-border claims of
+€190 billion occurred in Q4 of 2011 and Q1 of 2012).
+The historical rise of non-residents holdings of euro
+area sovereign debt was, therefore,
+17
+
+40
+35
+30
+25
+20
+15
+10
+5
+0
+-5
+
+Sources: Bloomberg L.P.; and IMF staff calculations.
+Share of Foreign-Held Debt Securities Held
+within the Euro Area, 2010
+(Percent)
+
+100
+
+100
+
+held by other EA countries
+
+80
+
+80
+
+held by UK residents
+
+60
+
+60
+
+40
+
+40
+
+20
+
+20
+
+0
+
+ia
+trs
+u
+A
+
+m
+u
+i
+g
+l
+e
+B
+
+e
+c
+n
+a
+rF
+
+d
+n
+la
+in
+F
+
+y
+n
+a
+m
+r
+e
+G
+
+s
+d
+n
+la
+r
+e
+h
+t
+e
+N
+
+e
+c
+e
+e
+r
+G
+
+ly
+a
+It
+
+l
+a
+g
+u
+tr
+o
+P
+
+0
+
+in
+a
+p
+S
+
+Source: IMF, Coordinated Portfolio Investment Survey.
+
+200
+100
+
+Change in EA MFI cross-border claims
+(Billions of euros; 2011 and Q1 of 2012)
+
+200
+100
+0
+
+0
+
+-100
+
+-100
+
+-200
+
+-200
+Claims on MFI (excl. shares)
+-300
+-400
+
+-300
+
+Claims on non-MFI (loans)
+Claims on non-MFI (securities excl. shares)
+
+-400
+
+Shares and MMF
+-500
+
+-500
+On EA countries
+
+On other EU
+countries
+
+On non-EU
+countries
+
+Source: ECB, cross-border positions of EA MFI, excl ESCB.
+Note: Changes in cross-border claims not adjusted for potential
+valuation effects.
+
+See evidence reported in Chen, R., G.M. Milesi-Ferretti and T. Tressel (2012), “External Imbalances in the
+Euro Area”, forthcoming IMF WP.
+
+12
+sharply reversed. For example, at the end of 2011, non-residents held respectively 34 percent
+and 33 percent of the sovereign debt of Italy and Spain, down from 44 percent and 48 percent
+at the end of 2009.
+90
+
+90
+
+70
+
+Public Debt of EA countries Held by Non80
+Residents
+(Percent)
+70
+
+60
+
+60
+
+50
+
+50
+
+40
+
+40
+
+80
+
+30
+
+median
+
+30
+
+20
+
+min
+
+20
+
+10
+
+max
+
+10
+
+0
+
+0
+1991199319951997 1999200120032005 20072009 2011
+Sources: IMF, World Economic Outlook database; and
+International Investment Position statistics.
+
+21.
+The increased cross-country dispersion of lending rates has weakened the
+allocation of capital at the eurozone level and
+9
+Dispersion of Interest Rates on New Loans to Nonhas disrupted the bank lending channel of
+Financial Corporations
+monetary policy. The dispersion of lending rates
+8
+(Percentage points)
+Portugal
+Portugal
+has increased substantially since the start of the
+7
+Greece
+Portugal Ireland
+financial crisis in 2008. For example, the spread
+Portugal
+Germany
+Greece Spain
+Italy
+6
+Ireland
+on lending rates to non-financial corporations
+France
+Germany
+Spain
+Austria
+Italy
+Spain
+between Spain and Germany increased from 6 bps 5
+Portugal Ireland
+Italy
+Greece
+France
+Austria
+Spain Ireland
+in August 2008 to 43 bps in January 2011 and to
+4
+Germany
+France France
+Spain
+Germany
+France Italy Germany
+187 bps in April 2012. As a result, firms face
+Ireland
+Italy
+3
+AustriaAustria
+increasingly different credit supply conditions
+Austria
+Jan-07
+Apr-12
+2
+across countries irrespective of their own
+Dec-09
+Apr-11
+Jun-08
+profitability. The bank lending channel of
+1
+May-05 Oct-06 Feb-08
+Jul-09 Nov-10 Apr-12 Aug-13
+monetary policy also operates less well in
+Source: European Central Bank.
+countries under stress. While the lowest lending
+rates responded to changes in the policy rate, the highest lending rates moved in opposite
+direction while tracking banking stress relatively well (as documented in section C).
+22.
+The de-integration of interbank markets is further disrupting monetary policy.
+Overnight EONIA volumes have steadily declined since the start of the euro area crisis at the
+time of the first Greece bailout in May 2010. EONIA average daily volumes are down to €20
+billion at the end of May 2012 from €40 billion at the end of 2010 indicating continued
+strains in unsecured markets. In the meantime, overnight bank deposits at the ECB have risen
+
+13
+to about €750 billion from less than €200 billion in
+June 2011. Interbank markets have become
+increasingly segmented along national borders and
+the ECB is intermediating capital across national
+borders. While net borrowing from the eurosystem
+has remained high for the 3 program countries and
+has sharply increased for Italian and Spanish banks,
+Dutch and German banks continued to accumulate
+large net claims on the eurosystem. Hence, private
+markets have been replaced by fixed rate full
+allotment of liquidity by the ECB.
+23.
+Insured deposits are declining in several
+periphery countries, which adds to instability
+concerns. Since end-2009, the cumulative decline in
+the stock of insured deposits has reached €86 billion
+in the three program countries. In Spain, Between
+July 2011 and April 2012, insured deposits
+(households and non-financial corporations) declined
+by €55 billion.
+
+600
+
+600
+
+Net Claims of Eurosystem on
+Depository Institutions
+(Billions euros)
+
+500
+400
+
+500
+400
+
+300
+
+300
+
+200
+
+200
+
+100
+
+100
+0
+
+0
+Belgium
+France
+GIP
+Italy+Spain
+
+-100
+-200
+-300
+-400
+
+8
+-0
+n
+Ja
+
+8
+0
+-r
+p
+A
+
+8
+-0
+l
+u
+J
+
+8
+-0
+tc
+O
+
+9
+-0
+n
+Ja
+
+9
+0
+-r
+p
+A
+
+9
+-0
+l
+u
+J
+
+Finland
+Germany
+Netherlands
+
+-100
+-200
+-300
+
+9
+-0
+tc
+O
+
+0
+-1
+n
+Ja
+
+0
+1
+-r
+p
+A
+
+0
+-1
+l
+u
+J
+
+0
+-1
+tc
+O
+
+1
+-1
+n
+Ja
+
+1
+1
+-r
+p
+A
+
+1
+-1
+l
+u
+J
+
+1
+-1
+tc
+O
+
+2
+1
+-r
+p
+A
+
+-400
+
+Source: IMF, International Financial Statistics database.
+800
+700
+600
+
+800
+
+Cumulative Deposit Flows Since January 1, 2008
+(Billions of euros; households + non-financial
+700
+corporations)
+600
+
+France and Germany
+
+500
+
+500
+
+400
+
+400
+
+300
+
+300
+
+Italy and Spain
+
+200
+
+200
+
+100
+
+100
+
+0
+-100
+
+0
+
+Greece, Ireland, and Portugal
+8
+0
+n
+a
+J
+
+8
+-0
+r
+p
+A
+
+8
+0
+lJu
+
+8
+0
+t-c
+O
+
+9
+0
+n
+a
+J
+
+9
+-0
+r
+p
+A
+
+9
+0
+lJu
+
+9
+0
+t-c
+O
+
+0
+1
+n
+a
+J
+
+0
+-1
+r
+p
+A
+
+0
+1
+lJu
+
+0
+1
+t-c
+O
+
+1
+1
+n
+a
+J
+
+1
+-1
+r
+p
+A
+
+1
+1
+lJu
+
+1
+1
+t-c
+O
+
+Source: European Central Bank.
+
+E.
+
+2
+-1
+n
+Ja
+
+Main Elements of a Eurozone Banking Union
+
+24.
+Establishing a banking union will strengthen the viability of the EMU by
+delinking financial intermediation from the strength of the sovereign and by ending
+financial fragmentation. It will help ensure financial stability by severing the feed-back
+loops at play between sovereigns and their domestic banks. A banking union will also create
+strong incentives to restore financial integration within the monetary union. Solid crossborder banking activities would help re-start growth by ensuring that healthy eurozone firms
+can obtain credit from financial institutions, regardless of the strength of their sovereign. Last
+but not least, a banking union, by stabilizing financial systems, will help ensure a smoother
+transmission of monetary policy in weak countries.
+25.
+A common deposit insurance scheme with collective and credible backing by all
+member countries should be established. Deposits are flowing out of Greece, but there are
+concerns that deposit outflows could occur in other peripheral countries. The purpose is to
+help delink banks and sovereigns where the latter cannot honor their safety net obligations.
+
+2
+1
+n
+a
+J
+
+2
+-1
+r
+p
+A
+
+-100
+
+14
+Since national DGS are not pre-funded, weak sovereigns cannot credibly insure non-bank
+private deposits. Moreover, national DGS, even if they were pre-funded, cannot reassure
+agents that their savings are protected in euros.
+26.
+The European DGS could work as follows. The announcement should include a
+clear timetable for the establishment of the DGS. The deposit insurance should apply to all
+financial institutions, as restricting membership to only a subset of banks could risk
+accelerating deposit withdrawals or shifts of deposits across banks. Ultimately, the scheme
+should be partially pre-funded by a levy on the industry. But to be effective immediately, it
+should have access to additional funding such as a credit line from the euro-system (similar
+to the lines of credit of the FDIC with the Federal Reserve), or be backstopped by a common
+pool of government resources – such as the ESM/EFSF or the possibility to issue a limited
+amount of joint and several guaranty bills. The deposit insurance scheme should be
+consistent with the best practices laid out in the 2010 EU Commission proposal to harmonize
+national deposit guarantee schemes in the EU, including in term of coverage ratio, payout
+speed, financing and cooperation and cross-lending with other EU deposit insurance, and
+with the recently released Directive for an EU framework for the recovery and resolution of
+credit institutions.18
+27.
+A centralized bank resolution agency with common financing would urgently
+help achieve more efficient bank restructuring without threatening the sovereign
+balance sheet. As observed in Ireland and Spain, weak sovereigns may not have the ability
+to backstop their financial system on their own, which may affect ability to achieve costeffective wind-down of banks. Such detrimental feed-back loops must be broken. When
+common resources are relied-upon, a central authority should be in charge of the
+restructuring. A centralized solution would also help achieve efficient cross-border
+cooperation when cross-border banks fail, by encouraging ex ante rather than ex post burden
+sharing arrangements. As with the deposit insurance scheme, the resolution authority should
+be backed by a common fund financed by an industry levy, and should have recourse to a
+common pool of government-provided resources or a liquidity backstop from the ECB. In
+this regard, to delink sovereign debt from bank restructuring costs, the EFSF/ESM facilities
+should urgently be empowered with sufficient flexibility to directly recapitalize banks of
+member states. To facilitate orderly wind-down of failing institutions, the powers of the
+resolution authority should be consistent with the EC framework establishing strong and
+harmonized resolution regime for credit institutions in the EU, including powers to bail-in
+unsecured creditors to achieve burden sharing and powers emphasizing preparedness and
+prevention.
+
+18
+
+Proposal for a Directive of the European Parliament and of the Council establishing a framework for the
+recovery and resolution of credit institutions and investment firms (June 6th, 2012).
+
+15
+28.
+A supra-national supervisory regime for large banks should support the
+establishment of common backstops. A general principle for institutional design is that
+financing and monitoring responsibilities should be aligned. 19 Having a common supervisor
+would help align incentives with the common good rather than with the objectives of
+“national champions”. Because of concerns about ring-fencing, different national priorities,
+or a desire to protect home champions, national authorities have had incentives to refrain
+from sharing information and cooperate in time of crisis. A supra-national approach would
+help solve these coordination problems within the monetary union and the broader EU. This
+would foster financial stability and help forestall further financial fragmentation. The
+European Commission will present proposals for a single supervisory mechanism later in the
+year. Several models can be envisaged.20 The ECB could play the role of eurozone
+supervisory authority for all banks, balancing concerns related to its LOLR role and the need
+to maintain monetary policy independence, and with some delegation of tasks to national
+entities. An alternative model is a two-tier system in which the ECB or another body would
+supervise large or systemic European banks while smaller, local banks would remain under
+the oversight of national authorities.
+29.
+While other EU countries should be able to join, the banking union is urgent for
+the euro area. Capital flight has dramatic consequences in a monetary union. Deposits move
+easily with a currency area, and a Deposit Guarantee Scheme covering all euro area
+depository institutions would help reassure retail depositors that their savings are safe across
+the EMU. Along similar lines, a euro area bank resolution authority would help prevent the
+strong bank-sovereign feedback loops to take hold within the currency union. The ECB could
+play the role of common supervisor, and could be given explicit responsibility for financial
+stability and full lender of last resort functions, thereby aligning these roles and eliminating
+bank-sovereign linkages also present in the ECB’s current Emergency Liquidity Assistance
+(ELA) scheme. The framework of the Banking Union should allow other EU countries to
+opt-in and be consistent with the elements of a financial stability framework and regulations
+established at the EU level.
+F.
+
+Conclusions
+
+The eurozone architecture must be completed by creating a Banking Union. A
+Banking Union would help delink sovereigns from their banks and would provide incentives
+to various players to end the financial fragmentation of the eurozone. The Banking Union has
+three main elements: a deposit guarantee scheme backstopped by common resources, a
+resolution authority with access to a common fund and a supervisory authority. While a
+30.
+
+19
+
+Tirole, Jean, “The euro crisis: some reflexions on institutional reforms”, Financial Stability Review, Banque
+de France, April 2012.
+20
+See for instance Pisani-Ferry, J., Sapir, A., Veron, N., and G. Wolff, 2012, “What Kind of European Banking
+Union?”, June 2012, Bruegel Institute.
+
+16
+Banking Union could operate without fiscal union, it will perform more effectively when
+elements of a fiscal union providing a clearer framework for fiscal transfers are also in place.
+The banking union is first and foremost a necessity for the euro area, but should be opened to
+other EU countries.
+31.
+On June 29, the European authorities took important steps forward by agreeing
+to pursue a key element of a Banking Union and changes in the use of the EFSF/ESM
+resources. The European Commission will present proposals for the establishment of a
+single supervisory mechanism that would involve the ECB, and, contingent on the the single
+supervisor being in place, allowing the ESM to directly recapitalize banks. However, as the
+EU Council is asked only to consider the proposals of the EU Commission by the end of
+2012, the timing and speed of implementation of these proposals are yet to be clarified.
+32.
+Although the main elements the Banking Union are well identified, many key
+details and the path towards the new architecture remain to be clarified. First, the pros
+and cons of various possible models of a Banking Union must be weighted carefully to
+ensure convergence on the most effective financial stability architecture. Second, a clear
+roadmap towards the full institutional set-up must be prepared, with a clear understanding of
+transitional and sequencing issues. In this respect, a fast implementation of EU Directives
+and regulations (such as the bank resolution Directive and the CRDIV/CRR) would provide
+the initial building block of the new framework, while the ESM/EFSF should urgently be
+made flexible enough to allow direct equity injections into banks. Third, the path towards the
+Banking Union cannot be dissociated from the current crisis response; choices in term of
+banking stability are not independent from other dimensions, including those related to a
+fiscal union. Fourth, it is essential to identify the aspects of the reform process that will have
+the largest impact on market sentiment in the short-term. Fifth, the EU dimension remains
+critical and any steps at the euro area level must be consistent with EU directives and
+regulations and will require interacting with or reinforcing existing EU institutions (the
+ESAs, the ESRB). Sixth, while the Banking Union will centralize powers and financing
+responsibility, the subsidiarity principle will apply to determine the future role of national
+authorities and their interaction with the supra-national institutions.
+
+17
+Box 1. Sources of Banking Stress July 2011 –June 2012
+A panel regression analysis sheds light on the co-movements between bank and sovereign stress since July
+2011. The sample contains weekly stock prices and CDS spreads of 58 banks between July 2011 and June 8th
+2012, and is split in pre and post-LTRO. The sample of banks contains listed European banks which participated
+in the 2011 EBA stress tests, while exposures are from the EBA recapitalization exercise. The main econometric
+
+y it    X it    ExpiS    ExpiS  p St    Z i  qt   it , where y it is
+the weekly stock return or percent change in CDS spreads for bank i during week t net of the average market
+return, X it is a vector of bank characteristics, Exp iS is exposure of bank i to sovereign S in percent of
+specification is as follows:
+
+common equity,
+
+p St is the weekly percent change in 10 year government bond yield or 5 year CDS spread,
+
+Z i is either the wholesale funding ratio of total derivative assets and liabilities in percent of total assets, and
+qt is either the percent change in the VIX or in the 3 month euribor-OIS spread.
+Before the LTRO, CDS spreads and equity returns of European banks co-moved positively with the stress
+experienced by the Italian and Spanish sovereigns, in proportion of their exposures. Banks more exposed
+to the Italian and Spanish sovereigns experienced
+140
+140
+higher declines in stock prices (respectively higher
+Bank stock prices
+(100 = Dec 31st 2010)
+increase in CDS spreads) when bond yields
+120
+120
+July 21st
+Dec 21st
+(respectively sovereign CDS spreads) soared. This
+EU Summit
+LTRO
+100
+100
+co-movement was economically significant mostly
+for domestic banks with very large exposures to
+80
+80
+their sovereign. Whereas weekly stock price
+BNP Paribas
+Societe Generale
+declined by 2 percentage point between July and
+60
+60
+Commerzbank
+Deutsche Bank
+end December on average, the impact of the median
+Unicredit
+40
+40
+weekly increase in Italian bond yields on weekly
+Banco Santander
+Barclays
+stock prices was economically significant (about 1
+Bank of America
+20
+20
+Citigroup
+percentage points weekly) only for the top 10
+Mizuho Financial Group
+Credit Agricole
+percent banks with the largest exposures to the
+0
+0
+Dec-10
+Mar-11
+Jun-11
+Sep-11
+Dec-11
+Mar-12
+Italian sovereign. Similar conclusions hold for
+Source: Bloomberg L.P.
+exposures to the Spanish sovereign.
+Before the LTRO, banking stress also appeared higher for core EA banks very active in derivative
+markets. Banks with higher derivative assets and liabilities experienced significantly higher stress in equity
+markets when volatility soared between July and the end of 2011. The top 10 percent banks with the largest
+activities in derivative markets experienced, at the mean change in the VIX, higher declines in weekly stock
+price of about 2 percent on average before the LTRO. After the LTRO, as funding and derivative market
+stabilized, these dimensions had insignificant impact on banking stress.
+After the first LTRO, large exposures to the Italian and Spanish sovereign became indicators of bank
+stress, irrespective of yields of CDS spreads movements for their sovereigns. Banks with the top 10 percent
+largest exposures to the Italian and Spanish sovereigns (e.g. domestic banks) underperformed their peers in
+equity markets by 3-4 percentage points weekly. Portuguese bank equity prices also started to commove with
+domestic government bond yields. Surprisingly, equity market stress of banks with larger exposures to the
+Spanish (or Greek) sovereign started to commove negatively with stress in government bond markets, perhaps
+because higher initial exposures reflected higher losses through the PSI (Greece) or increased purchased of
+Spanish government bonds by domestic banks already highly exposed. Higher activity in derivative markets or
+higher reliance on wholesale funding was no longer a source of stress.
+
+18
+Box 2. Event Study: Bankia and Spanish Sovereign Borrowing Costs
+The take-over of Bankia by the Spanish government provides a unique opportunity to assess the link from
+bank to sovereign balance sheet. Bankia was established in December 2010 by the merger of seven savings
+banks, and was initially owned by the holding company Banco Financiero y de Ahorros (BFA). In July 2011,
+Bankia went public through an IPO of about €4 billion of shares. As of end 2011, BFA-Bankia was the fourth
+largest banks in Spain with total assets of about 30 percent of GDP and the largest holder of real estate assets.
+On May 7th 2012, Bankia Chairman Rodrigo de Rato stepped down while the government announced the takeover of Bankia. On May 10th, the government converted its €4.5 billion of preferred shares in Bankia’s parent
+BFA into voting shares, thus obtaining a controlling stake in Bankia. On May 25th, it was reported that Bankia
+had negotiated a further €19 billion injection. Spain had become the new focal point of the euro area banking21
+sovereign crisis. Following the publication of the FSAP of the Spanish financial system, the Eurogroup
+announced on June 9th its willingness to commit financial support to the Spanish government through an
+EFSF/ESM loan of up to €100 billion for the
+recapitalization of financial institutions.
+113
+113
+The event study suggests that the Bankia episode
+had a clear negative impact on the Spanish sovereign
+borrowing costs. Focusing on windows of ±4 days
+before and after each of the four events abovementioned, we find that sovereign borrowing costs (on
+10 year government bonds) rose on average by 40 bps,
+while spreads on 5 year sovereign CDS contracts rose
+22
+by 37 bps on average. This evidence suggests that
+concerns about the fiscal cost of bailing-out a large
+financial institution adversely affected the borrowing
+costs of the Spanish government, possibly because of
+the anticipated impact on the debt dynamics.
+
+10-Year Spanish Government Bond Yields
+(100 = event date)
+
+111
+
+111
+
+Chairman de Rato steps down
+
+109
+107
+
+Preferred shares conversion
+Moody's downgrades
+Spain FSAP / eurogroup
+
+105
+
+€19 billion bailout
+
+109
+107
+105
+
+103
+
+103
+
+101
+
+101
+
+99
+
+99
+
+97
+
+97
+
+95
+
+95
+
+93
+
+93
+-4
+
+-3
+
+-2
+
+-1
+
+0
+
+1
+
+2
+
+3
+
+4
+
+Sources: Bloomberg L.P.; and IMF staff calculations.
+An alternative hypothesis for the increase in the
+23
+sovereign borrowing costs during these events does not appear to be supported by the data. A
+deteriorating macroeconomic outlook could explain the increase in sovereign borrowing costs. Such a slower
+moving concern could affect the sovereign directly (through the primary fiscal balance) and indirectly through
+banks’ health. Two pieces of evidence provide limited support that the outlook explained the increase in yields
+or CDS spreads during these events. First, during the month of April before the need to support Bankia became
+headlines, the average increase of the sovereign yields (respectively CDS spreads) during similar windows of 9
+days was “only” of 10 bps (respectively 15 bps). Second, on May 18th, Moody’s announced the downgrade of
+the 3 largest Spanish banks (Santander, BBVA and La Caixa) by three-notches, and argued it was justified by
+the deteriorating Spanish economy and the reduced creditworthiness of the government. The downgrade had no
+visible impact on sovereign yields or on sovereign CDS spreads within 4 days of the announcement.
+
+21
+
+See for instance Christopher Bjork (25 May 2012). "Spain to Inject €19 Billion into Bankia, Troubled Lender
+Says". The Wall Street Journal.
+22
+There was however no increase in CDS spreads following the announcement of the Eurogroup loan. This
+could be expected since the loan by itself does not worsen the debt dynamics.
+23
+Other events during the period considered included various press reports of deposit flights, rumors of the
+audits of Bankia, sovereign downgrades in April and June, and financial sector reforms announced on May 11.
+The study does not control for concerns about elections in Greece.
+
+19
+
+II.
+
+FISCAL INTEGRATION IN THE EURO AREA1
+
+More fiscal integration with stronger governance and more risk sharing can reduce the
+threat that economic shocks in one country endanger the euro area as a whole. The example
+of other currency areas suggests that transfers, centralized provision of public goods, or
+common financial stability backstops can be effective tools to mitigate regional shocks. But
+risk sharing needs to be anchored in a powerful governance framework that provides for
+better coordination of fiscal policies and limits moral hazard. The starting point of the euro
+area is unique, but a clear roadmap towards a fuller fiscal and financial union could anchor
+expectations. A limited and scalable introduction of common debt with appropriate
+governance safeguards could support the creation of a banking union and signal a strong
+intermediate commitment to a fuller fiscal union.
+A.
+
+The Case for Fiscal Integration in the Euro Area
+
+Adjustment under a common currency
+1.
+In a common currency area, the burden of adjustment to idiosyncratic shocks
+falls on factor mobility, price flexibility, and supporting financial and fiscal policies.
+The literature (e.g., Mundell 1961, Kenen 1969) identifies labor and capital mobility, as well
+as price and wage flexibility as key characteristics for an optimal currency area. Absent
+exchange rate adjustments, internal flexibility is necessary to absorb economic shocks.
+2.
+Sharing fiscal risks and protecting against negative fiscal externalities are
+valuable where economic adjustment to country-specific shocks is less than perfect.
+Where labor mobility is low, intra-area capital flows are volatile, and structural rigidities are
+impeding price adjustment and reallocation of resources, fiscal and financial policies will
+have to take on some of the adjustment burden. Risk sharing2 tools can limit the impact of
+regional shocks and help prevent contagion, and, if accompanied with appropriate
+governance arrangements, can also safeguard against excessive debt taking of regions.
+Where does the euro area stand?
+3.
+Limited labor mobility in the euro area impedes adjustment to idiosyncratic
+shocks. If workers move in response to differences in wages and job opportunities, they
+reduce disparities in unemployment rates and real wages across regions (see, e.g., World
+Bank 2010; Sharpe et al., 2007). However, while there is some evidence that labor mobility
+in the euro area has increased in response to the crisis, it remains fairly limited. Only about 1
+1
+
+Prepared by Helge Berger (EUR), Fabian Bornhorst (EUR), Esther Perez-Ruiz (EUR), Jimmy McHugh (FAD),
+and Tigran Poghosyan (FAD).
+2
+In this context, risk sharing broadly includes those risks stemming from short term idiosyncratic real and
+financial shocks as well as those associated with financial instability and slow structural adjustment.
+
+20
+percent of the working age population changes residence within their country in a given year,
+and even less move between euro area countries. This compares to about 3 percent in the US,
+2 percent in Australia, and slightly less than 2 percent in Canada (Figure 1). Obstacles to
+labor mobility within the euro area include cultural and language barriers, distortions in
+housing markets, limits to the portability of pensions, and, more generally, the absence of a
+cross country social safety net.
+Figure 1. Labor Mobility in the Euro Area Is Low
+3.5
+
+20
+
+Labor Mobility
+
+(Annualized share of working age population
+that has moved, 2000-05)
+
+3.0
+
+Labor Mobility and Unemployment
+Rates in EU Member States, 1995–2006
+
+18
+
+SVK
+
+16
+
+2.5
+
+14
+
+2.0
+
+12
+
+1.5
+
+10
+
+1.0
+
+8
+
+BGR
+
+ESP
+
+ITA
+
+ROM
+HUN
+
+4
+
+EU15 2/
+
+EU27 2/
+
+EU27 1/
+
+CAN
+
+EU15 1/
+
+AUS
+
+JPN
+
+USA
+
+0.0
+
+FIN
+
+GRC
+
+6
+
+0.5
+
+POL
+
+CZE
+PRT
+AUT
+
+DEU
+BEL
+
+SWE
+NLD
+
+LUX
+
+2
+
+FRA
+IRL
+
+GBR
+
+0
+0
+
+0.5
+
+1
+
+Sources: WEO; European Commission; Bonin et al. 2008; and Staff estimates.
+1/ Mobility within countries.
+2/ Mobility between countries.
+
+1.5
+
+2
+
+2.5
+
+4.
+Capital moves freely across the euro area, but is susceptible to sudden swings
+that challenge financial stability. Free flowing capital can facilitate real convergence in a
+common monetary area, and promotes the deepening of financial markets. At the inception of
+the Economic and Monetary Union (EMU), the perceived absence of sovereign risk
+contributed to rapid financial integration. Cross border credit increased rapidly with capital
+flowing mainly from the core to the periphery. It was widely considered that the common
+currency increased integration of financial markets, which would help smooth asymmetrical
+shocks. But the vulnerabilities that rapid financial integration could harbor were overlooked,
+as hopes of a “stronger and fitter” banking sector (ECB, 1999) did not materialize. By 2008,
+however, financial integration reversed its course. Cross border investment positions
+unwound quickly, core countries became recipients of net private capital flows (Figure 2),
+and the cross border interbank market became impaired, posing challenges for financial
+stability.
+
+21
+Figure 2. Private Capital Flows Have Reversed
+400
+
+200
+
+300
+
+-100
+
+-200
+
+-200
+
+50
+
+0
+
+-300
+
+-100
+
+-400
+
+-200
+
+2011Q4
+
+2010Q4
+
+2009Q4
+
+2008Q4
+
+2005Q4
+
+-400
+
+2007Q4
+
+-300
+
+2006Q4
+
+Change in target claims (+ increase)
+Capital flows ex target ( + outflow)
+Current account
+
+100
+0
+Change in target claims (+ increase)
+Capital flows ex target ( + outflow)
+Current account
+
+-50
+-100
+-150
+
+2011Q4
+
+-100
+
+150
+
+100
+
+2010Q4
+
+0
+
+250
+200
+
+2009Q4
+
+0
+
+300
+
+200
+
+2008Q4
+
+100
+
+350
+
+Current and Capital Account of
+Germany, Finland, and The Netherlands
+(Billions of euros, rolling 4 quarter sum)
+
+2007Q4
+
+100
+
+300
+
+2006Q4
+
+200
+
+Current and Capital Account of
+Greece, Ireland, Italy, Portugal and Spain
+(Billions of euros, rolling 4 quarter sum)
+
+2005Q4
+
+300
+
+Sources: Haver Analytics; IFS; and IMF staff calculations.
+
+5.
+The lack of a common backstop for financial system stability generates adverse
+feedback loops between the financial sector and sovereigns and fuels contagion.3 Absent
+strong common regulation, supervision, resolution powers, and deposit insurance, all
+supported by sufficient supra-national backstops, the integrated financial market makes
+banking problems hard to prevent and contain. Given the size of national banking systems,
+the resulting problems can overwhelm the fiscal capacity of individual sovereigns. At the
+same time, banks have significant exposures to their sovereigns. Consequently, the sharp rise
+in some sovereign risk premia, often coming on top of rapidly deteriorating macroeconomic
+conditions, further fuels contagion.
+6.
+Wage and price flexibility in the euro area is limited, slowing the correction of
+macroeconomic imbalances. Such flexibility is important to guide the reallocation of
+resources in the event of idiosyncratic shocks. The euro area saw rapid convergence in
+nominal interest rates since the mid-1990s, but price levels in the periphery picked up more
+rapidly than in the core. This kept real interest rates at very low levels and fuelled demand in
+periphery countries. Meanwhile, real convergence lagged behind as wage increases outpaced
+productivity gains, contributing to large competitiveness gaps and growing current account
+imbalances (see, among others, Mongelli and Wyplosz, 2009). Even after the crisis began,
+with few exceptions (e.g., Ireland), prices and wages have not responded strongly to
+deteriorating macroeconomic conditions, often because of prevalent labor market rigidities
+(Jaumotte and Morsy, 2012 and Lebrun and Perez, 2011), contributing to a lengthy and
+costly adjustment process.
+
+3
+
+See The Eurozone Crisis and the Sovereign-Bank Nexus: The Case for a Eurozone Banking Union, Euro Area
+2012 Article IV Consultation: Selected Issues.
+
+22
+Insufficient risk sharing and governance
+7.
+With market adjustment slow or incomplete, weak fiscal governance and lack of
+fiscal risk sharing are particularly costly. The EU budget is small and was not designed as
+a risk sharing tool. As a consequence, it provided little help to crisis-hit countries.4 At the
+same time, the Stability and Growth Pact (SGP) failed to encourage the creation of sufficient
+fiscal space.5 Estimates suggest that strict adherence to structural targets during 2000-07
+would have reduced debt by about 7 percent of GDP by 2007, all other things being equal
+(Figure 3). As a result, with neither sufficient national buffers nor common backstops
+available, shocks hitting any one member country could grow into a problem affecting all of
+the area.
+Figure 3. Had Countries Complied with the Medium Term Objectives (MTO)... 1/
+... and debt would have been lower
+
+...structural balances would have been higher...
+1.0
+0.5
+
+75
+Structural Balance
+(Percent of GDP)
+
+Public Debt
+(Percent of GDP)
+
+73
+71
+
+0.0
+
+69
+
+-0.5
+
+67
+
+-1.0
+
+65
+
+-1.5
+
+63
+61
+
+-2.0
+-2.5
+
+WEO
+
+59
+
+Compliant with MTO
+
+WEO
+
+57
+
+Compliant with MTO
+
+-3.0
+
+55
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+Sources: WEO; and IMF staff calculations.
+1/ Medium Term Objectives are country specific objectives set under the preventive arm of the Stability and
+Growth Pact (SGP).
+
+8.
+In sum, the euro area can be characterized as an area with incomplete internal
+adjustment mechanisms and insufficient policy coordination. In particular, the absence of
+common fiscal and financial policy tools could not compensate for low factor mobility, high
+nominal rigidity and poor fiscal coordination. And while the crisis brought the introduction of
+ex-post risk sharing facilities, resort to EFSM/EFSF/ESM is an economically and politically
+costly way of mutualizing risks after their realization that so far has failed to deliver lasting
+improvements in confidence and financial conditions.
+
+4
+
+The EU budget collects contributions from and allocates funds to member states according to rules, for
+example, the EU common agriculture and cohesion policies (from the expenditure side) and the current system
+of contributions based on the VAT and GNI resources (on the revenue side). The allocation principles in the
+common EU budget reflect primarily regional and redistribute concerns, not necessarily fiscal risk sharing.
+5
+Much of this was recognized early on. See Bornhorst and others (2012) for a review of the early literature on
+the euro area. For example, Bordo and Jonung (1999) review the formation of currency areas and conclude that,
+more often than not, political considerations explain the introduction of common currencies before the economic
+criteria for an optimal currency area fulfilled.
+
+23
+B.
+
+What Makes Currency Areas Viable?
+
+9.
+Among all the preconditions for a viable currency union, which ones have
+proved most critical elsewhere? Existing currency areas feature a high degree of fiscal and
+financial integration, often with strong governance requirements and formalized mechanisms
+of ex-ante insurance against fiscal and financial risks that prevent contagion. The question is
+which are essential institutional features that would be worth examining from an euro area
+perspective.6
+Fiscal risk sharing
+10.
+Common backstops for the financial system enhance financial stability. Such
+frameworks usually include area-wide supervision as well as deposit insurance and
+resolution frameworks with a common backstop. Besides multiplying the strength of regional
+backstops, centralized backstops also prevent the emergence of (negative) links between
+banks and sovereigns. In the U.S., for example, the banking sector is distributed
+heterogeneously across states, but the Federal Deposit Insurance Corporation (FDIC) insures
+deposits regardless of the state of registration, and acts to resolve banks countrywide
+(Figure 4).
+Figure 4. Euro Area Banks Are as Large as Their US Counterparts,
+but Lack a Common Financial Sector Backstop
+2500
+
+3000
+
+United States: Assets of MFIs
+(Percent of GDP)
+
+2500
+
+500
+
+500
+
+0
+
+0
+
+Delaware
+
+1000
+
+Massachusetts
+
+1000
+
+New York
+
+1500
+
+Pennsylvania
+
+1500
+
+California
+
+2000
+
+Alaska
+
+2000
+
+Sources: BEA; FDIC; ECB; Eurostat and IMF staff calculations.
+
+Euro Area: Assets of MFIs
+(Percent of GDP)
+
+Slovakia
+Estonia
+Slovenia
+Greece
+Italy
+Finland
+Germany
+Belgium
+Spain
+Portugal
+Austria
+Netherlands
+France
+Cyprus
+Malta
+Ireland
+Luxembourg
+
+3000
+
+11.
+Risk sharing mechanisms help smooth the impact of macroeconomic shocks.
+These mechanisms typically include tax sharing arrangements and transfers from the central
+to regional government, and feature in unitary as well as federal states.
+
+
+6
+
+While the institutional arrangements can differ, these transfers typically respond to
+cyclical developments at the regional level, providing insurance against idiosyncratic
+shocks as well as to income differences across regions (Figure 5).
+
+For related discussions see, among others, Bordo et al. (2011) and Henning and Kessler (2012).
+
+24
+
+
+Staff analysis finds that, on average, a 1 percent increase in a region’s output gap can
+lead to an increase in central government transfers offsetting between 5 and 20
+percent of the income shock (Box 1). This is consistent with past findings that risk
+sharing could smooth about 10 to 20 percent of regional income shocks (Melitz and
+Zumer, 2002; von Hagen, 2007).
+
+
+
+Such risk sharing can occur at different frequencies. Indeed, transfer for risk sharing
+purposes might be difficult to disentangle from “redistributive” transfers aimed at
+mitigating income differentials: what may look like an attempt to equalize incomes
+across regions could be the sharing of fiscal risks resulting from slow-moving
+technological and structural change or gradual shifts in the global environment.7
+
+12.
+In many currency areas, centrally provided goods and services act as an
+additional insurance against risks. In addition to potential economies of scale, the central
+provision and financing of public goods and services also entails an element of fiscal risk
+sharing. This is because during a downturn a region’s relative tax contribution to finance a
+centrally provided public good or service will fall, while the benefits from these goods and
+services remain unchanged. Even though the degree of centralization varies reflecting
+differences in preferences or historical and political developments (Figure 5), central
+government spending is a significant share of general government in a number of countries.
+Figure 5. Elements of Fiscal Integration
+Gross Transfers
+
+120
+
+(2005-2007 average, percent of subnational GDP)
+
+100
+
+Max
+
+25
+
+Median
+
+20
+
+Share of Central Government Expenditure in
+General Government Expenditure
+(Percent, by function, consolidated, 2005-10 average)
+Belgium
+Germany
+
+80
+
+Min
+
+15
+
+60
+
+10
+
+Spain
+
+France
+
+Italy
+
+Netherlands
+
+Sweden
+
+United Kingdom
+
+Switzerland
+
+Average
+
+40
+
+5
+
+20
+
+7
+
+Environment
+protection
+
+Sources: Eurostat; Gracia et al, 2012; and IMF staff calculations.
+Note: Excludes tax sharing arrangements.
+1/ For EU, spending of EU budget, data for 2008.
+2/ Excludes region of Nunavut which receives 77 percent of GDP in gross transfers.
+
+Health
+
+0
+
+Social
+protection
+
+China
+
+Canada2/
+
+Australia
+
+USA
+
+Mexico
+
+Brazil
+
+EU1/
+
+0
+
+Education
+
+30
+
+140
+
+Public order
+and safety
+
+35
+
+Gross Transfers from Central Government
+to Subnational Governments
+
+Defence
+
+40
+
+Central Provision of Public Goods
+
+For example, within Germany’s fiscal equalization scheme some Länder have been net beneficiaries for many
+decades before becoming net contributors and vice versa, reflecting for the most part structural change.
+
+25
+
+Box 1. Risk Sharing and Redistribution
+To assess the potential importance of fiscal risk-sharing through transfers within existing currency areas, this
+analysis examines the extent to which central government transfers in large federations act as a regional
+stabilization mechanism. The approach adopts the empirical framework by Rodden and Wibbels (2010) and
+focuses on gross transfers from the central government. It excludes tax sharing arrangements or other tools of risk
+sharing such as the central provision of public goods or services.
+A panel regression is estimated for a sample of six federations, namely Australia, Brazil, Canada, China, Mexico
+and the United States. The dependent variable is transfers from the central government to sub-national or regional
+budgets, expressed as a ratio of state GDP. Two explanatory variables are considered:
+
+ CGtransfers 
+
+  1 * GDPpcit   2 * GDPgapit   i   it
+GDP  it
+
+where i and t indices denote regions and time, respectively, GDPpc is real per capita GDP, GDPgap is the output
+gap, α are regional fixed effects, and  is an error term. Negative and significant coefficients for 1 and 2
+quantify the relative weight of each of the factors driving fiscal policy decisions.
+In all countries, transfers respond significantly to a variation in the regional output gap, offsetting between 5 and
+20 percent of cyclical fluctuations. The hypothesis that gross transfers respond to the level of per capita income in
+regions is, however, only supported in a couple of federations.
+Figure B1. Regression Results
+0.2
+Australia
+Real per capita GDP
+Output gap
+
+Constant
+
+Obs
+R-squared
+States
+
+Brazil
+
+Canada
+
+China
+
+Mexico
+
+USA
+
+0.18
+
+-2.04
+
+-2.74
+
+6.91***
+
+-0.02
+
+3.83***
+
+(0.02)
+
+(-1.16)
+
+(-0.51)
+
+(8.44)
+
+(-0.03)
+
+(3.53)
+
+-0.14***
+
+-0.13***
+
+-0.12**
+
+-0.18***
+
+-0.04**
+
+-0.09***
+
+(-5.06)
+
+(-7.79)
+
+(-3.02)
+
+(-4.33)
+
+(-2.51)
+
+(-7.12)
+
+9.00**
+
+-23.45
+
+4.00
+
+-51.32***
+
+7.13
+
+-7.85**
+
+(2.86)
+
+(-0.83)
+
+(0.23)
+
+(-7.41)
+
+(0.67)
+
+(-2.42)
+
+98
+
+390
+
+192
+
+419
+
+248
+
+672
+
+0.34
+
+0.24
+
+0.02
+
+0.44
+
+0.02
+
+0.21
+
+8
+
+26
+
+13
+
+30
+
+31
+
+48
+
+Risk Sharing in Selected Federations
+
+0.1
+
+0
+China Australia Brazil
+
+Canada
+
+USA
+
+Mexico
+
+Source: Gracia et al. (2012).
+Notes: The estimations are performed using the fixed effects estimator. *, **, and *** denote significance at the 10, 5,
+and 1 percent levels, respectively. The chart shows the percentage change in federal transfers to state GDP in response
+to a 1 percentage point decline in a state’s output gap.
+
+Strong governance
+13.
+Strong governance helps other currency areas overcome moral hazard. Risk
+pooling naturally involves moral hazard and many currency areas complement fiscal risk
+sharing with governance frameworks that limit regional fiscal sovereignty and encourage
+fiscal behavior in accordance with commonly agreed standards.
+
+26
+
+
+A common element of fiscal integration is a center with area-wide tax authority. For
+example, where public goods are provided centrally, the center usually has some
+national tax authority over all regions.
+
+
+
+Where transfers are a significant part of regional income, the center often has the
+right to intervene more directly in the regions’ public finances.
+
+
+
+Many federations use legally enforceable fiscal rules to ensure that regional fiscal
+positions are sustainable (e.g., balanced budget rules for states in U.S., the debt brake
+rule for Germany’s Länder).
+
+14.
+Risk sharing does not presume no-bailout. Bailout arrangements for subnational or
+regional entities differ widely across currency areas: they can be formalized, occur ad-hoc, or
+be explicitly banned (e.g., no-bailout clauses). Where bailout arrangements exist, their
+deployment combines a loss of regional fiscal sovereignty in return for resources from the
+center. In other settings, bailout mechanisms are absent. But where no-bailout clauses exist,
+they are enforced against a background of effective risk sharing that ensures regional risks
+are mitigated (e.g., through transfers and a common financial sector backstop) and a
+minimum provision of (centrally provided) public goods and services.
+15.
+In sum, fiscal integration in other currency areas tends to combine risk sharing
+and governance. Federal and unitary states take different positions along these two
+dimensions. In unitary states (e.g., France, U.K.) revenue and expenditure policies are
+determined mostly centrally for the entire territory and, as a consequence, a high degree of
+fiscal risk is shared. Thus, for regions, external governance is high (or fiscal sovereignty is
+low). By contrast, federation states (e.g., Germany, Switzerland, and the U.S.) are
+characterized by a somewhat lower degree of both risk sharing and delegation to the central
+government. Even lower degrees of risk sharing and external governance exist among
+confederations where the currency is not common, such as European Union or the
+Commonwealth of Independent States (see Figure 6 for a stylized illustration).
+Figure 6. Dimensions of Fiscal Integration
+
+27
+C.
+
+What Are the Options for the Euro Area?
+
+General considerations
+16.
+There are various approaches to designing fiscal integration. One approach would
+follow the subsidiary principle and allocate all fiscal functions to the central level for which
+the benefits in terms of economies of scale and positive externalities outweigh the costs. This
+would have to be matched by adequate financing and democratic accountability.
+
+
+Functions: A key central function would involve preserving economic stability
+following idiosyncratic shocks, primarily by insuring regions against fiscal risks, and
+providing a common backstop of the financial system.
+
+
+
+Financing: A sufficiently sized central budget could match specific expenditure
+programs with centrally controlled sources of taxation or other revenue. Extrabudgetary solutions could be used to finance specific central functions, for example
+in the financial sector. Common borrowing could be used to support any of these
+functions but could also offer ways of horizontal risk sharing between regions.
+
+
+
+Accountability and governance: With fiscal devolution to the center, democratic
+accountability would ensure that taxpayers have leverage on policy decisions. At the
+same time, with moral hazard being part of any insurance or risk-sharing mechanism,
+strong governance safeguards are needed at the regional level.
+
+17.
+Making EMU a more viable currency will require more integration, even if
+convergence towards long term solutions can only happen with time. The starting point
+of the euro area is unique. The crisis has revealed powerful diverging forces, and while
+policymakers have responded with bold measures, the viability of the euro area is still being
+tested. While no readymade blueprint exists, a credible roadmap toward a robust monetary
+union will have to include intermediate progress toward risk sharing and a substantial
+reorientation of sovereignty.
+Intermediate steps toward risk sharing
+18.
+An effective immediate step towards greater risk sharing would be to provide a
+common fiscal backstop for a banking union.8 Such a backstop, which could take the form
+of common debt (see below), would resolve many of the exacerbating factors of the crisis:
+among other things, it would help break the adverse feedback loops between banks and
+sovereigns and prevent further financial market fragmentation. To align incentives,
+delegation of responsibilities (e.g., for deposit insurance or bank resolution) would have to
+
+8
+
+For a full discussion, see The Eurozone Crisis and the Sovereign-Bank Nexus: The Case for a Eurozone
+Banking Union, Euro Area 2012 Article IV Consultation: Selected Issues Paper.
+
+28
+go hand in hand with delegation of oversight (e.g., supervision and resolution) to designated
+common institutions.
+19.
+Common borrowing could provide such a backstop, ensure market access for
+sovereigns under stress, and create safe assets for the banking sector. One option would
+be the introduction of limited and scalable Eurobonds. Among the many proposals discussed
+(see Table 1 in the Appendix) two are worth particular attention. One temporary approach is
+to make countries responsible for their own future fiscal policies, using common borrowing
+only to cover a certain amount of legacy debt, and reestablishing market discipline in the
+longer term (e.g., the mutualization of debt in excess of 60 percent of GDP as in the
+European Redemption Fund proposal). Another approach is to start with limited common
+borrowing (e.g., Eurobills) that could be scaled up in the future. Alternatively, extrabudgetary approaches, for example borrowing for specific purposes, either through
+established institutions (e.g., the European Investment Bank) or new projects (“project
+bonds”) could also be considered. However, their benefits are limited because of the small
+size and low degree of risk sharing they offer.
+20.
+Eurobills and the Debt Redemption Fund go some way in overcoming
+implementation hurdles associated with changes in national and European law.
+Common debt issuance can be designed in different ways (see e.g., IMF, 2012), but typically
+involves far-reaching changes to the current political and legal arrangements in the euro area.
+Against this background, proposals such as those of Hellwig and Philippon (2011) and the
+German Council of Economic Experts (2011) can be implemented more expeditiously, and
+could be a powerful vehicle to build trust:
+
+
+Eurobills would be joint and several liability instruments with maturity of less than
+one year, covering up to 10 percent of each country’s own GDP. Participating
+countries would be unconstrained for long maturities, making Eurobills politically
+palatable for strong creditors. Participation could be made conditional on meeting
+fiscal targets. Based on mutual trust, Eurobills could be scaled up and/or their
+maturity lengthened.
+
+
+
+The Debt Redemption Fund implies the gradual transfer of debt exceeding 60 percent
+of GDP into a fund for which EMU members would be jointly and severally liable.
+Participating countries would repay its transferred debts within a total of 25 years.
+The participation in the fund would be conditional on a debt reduction plan and the
+adoption of structural reforms. To ensure creditworthiness countries would be
+required to deposit collateral and earmark part of the tax revenues for fulfilling
+payment obligations.
+
+29
+The need for more governance
+21.
+Regardless of the specific options chosen, the roadmap towards more fiscal
+integration would also need to spell out the governance requirements. Partial schemes of
+common borrowing are one safeguard against moral hazard. Other possibilities are collateral
+mechanisms and stronger centralized governance.
+
+
+Partial Eurobonds: Tranching under partial Eurobond schemes could mean that
+countries enjoy lower average borrowing costs, while incurring higher marginal
+borrowing costs when issuing beyond the common debt framework. This feature of
+Eurobonds would make it easier to service outstanding debt and at the same time
+create incentives to reduce debt, and mitigate moral hazard.9 Restricting common
+debt issuances to short maturities and making participation conditional on fiscal
+behavior would strengthen incentives not to deviate from agreed consolidation plans
+debt because debt would have to be rolled over frequently.
+
+
+
+Collateral mechanisms: Common borrowing in existing federations is often backed
+by a federal government with capacity to levy taxes, reassuring investors that debt
+will be paid back. By contrast, Eurobonds, along the lines discussed above, would
+have no single treasury to back them—at least in the near future. To overcome the
+lack of joint fiscal support, participants should commit collateral to guarantee future
+payments. Present assets and/or future revenues could be used as collateral. Specific
+(surcharges on) taxes or assets (e.g., currency and gold reserves) could be pledged for
+that purpose.
+
+
+
+Central governance: Recent reforms make stricter oversight of national policies
+possible.10 Options to further strengthen governance include: time-bound
+commitments to improve fiscal transparency; the obligation of periodically publishing
+comprehensive fiscal risk assessments; time-bound commitments to improve
+budgetary practices, including top-down budgeting, moving to accrual accounting
+and conducting regular spending reviews; and the consent to annual auditing of
+public accounts conducted by independent parties.
+
+9
+
+It has been argued that Eurobonds are one application of the Modigliani-Miller theorem, which says that the
+value of a firm is not affected by the way its liabilities are structured, limiting the gains to be realized by
+common debt. However, if joint and several guarantees succeed in shielding countries from being pushed into a
+bad equilibrium, the underlying risk of participants would decline.
+10
+Fiscal governance is being upgraded since 2011 around the “six pack”, the Fiscal Compact, and the “two
+pack” (see Fiscal Consolidation under the SGP: Some Illustrative Simulations, Euro Area 2012 Article IV
+Consultation: Selected Issues).
+
+30
+D.
+
+Conclusions
+
+22.
+A more viable EMU involves more fiscal and financial integration. In view of low
+labor mobility and volatile capital flows, the euro area needs to embrace fiscal and financial
+policies that entail a higher level of risk sharing to respond more effectively to idiosyncratic
+regional shocks. Greater fiscal integration would help centralize macroeconomic and
+financial stabilization, provide ex ante insurance against risks, and this would also signal
+strong commitment to making EMU a closer union.
+23.
+Although getting to the endpoint of fiscal integration will take time, intermediate
+steps should be considered. The limited but scalable introduction of common debt, with
+appropriate governance safeguards would help break the adverse feedback loop between
+banks and sovereigns, support the development of a banking union, and be a step towards a
+closer fiscal union.
+E.
+
+References
+
+Bonin, H., W. Eichhorst, C. Florman, M. O. Hansen, L. Skiöld, J. Stuhler, K. Tatsiramos, H.
+Thomasen, K. F. Zimmermann (2008): “Geographic Mobility in the European Union:
+Optimising its Economic and Social Benefits”, IZA Research Report No. 19.
+Boonstra, Wim W. (2005): “Towards a better Stability Pact”, Intereconomics, 40, (1), p. 4–9.
+Boonstra, Wim W. (2010): “Breaking Up the Eurozone: Blessing or Disaster”, Rabobank
+Working Paper, 2010/1.
+Bordo, Micahel D., Agnieszka Markiewicz and Lars Jonung (2011), “A fiscal union for the
+euro: some lessons from history”, NBER Working Paper No. 17380.
+Bordo, Michael D. and Lars Jonung (1999), “The future of EMU: what does the history of
+the monetary unions tell us?” NBER Working Paper No. 7365.
+Bornhorst, Fabian, Ashoka Mody and Franziska Ohnesorg (2012): The Eurozone: A Crisis
+Foretold, IMF Working Paper (forthcoming).
+Brunnermeier, Markus K, Luis Garicano, Philip R Lane, Marco Pagano, Ricardo Reis, Tano
+Santos, Stijn Van Nieuwerburgh, and Dimitri Vayanos (2011), “European Safe Bonds:
+ESBies,” Euro-nomics.com
+Delpla, Jacques and Jakob von Weizsäcker (2010), “The Blue Bond Proposal”, Bruegel
+Policy Brief 420
+European Central Bank (1999), “Possible Effect of EMU on the EU Banking System in the
+Medium to Long Term,” Frankfurt: ECB.
+German Council of Economic Experts (2011) “Euro area in crisis” chapter 3 of the annual
+report 2011/2012, available at www.sachverstaendigenrat-wirtschaft.de/
+
+31
+Gracia, Borja, Jimmy McHugh and Tigran Poghosyan (2012) "The Impact of the Crisis and
+the Policy Response at the sub national government level” (forthcoming)
+von Hagen, Juergen (2007): “Achieving Economic Stabilization by Sharing Risk within
+Countries”, in Boadway, Robin and Anwar Shah (eds): Intergovernmental Fiscal
+Transfers: Principles and Practice, The World Bank, Washington D.C.
+Hellwig, Christian and Thomas Philippon (2011): “Eurobills, not eurobonds”, VoxEU.org,
+http://www.voxeu.org/index.php?q=node/7375, December 2.
+Henning, C. Randall and Martin Kessler (2012), “Fiscal Federalism: US History for
+Architects of Europe's Fiscal Union”, Peterson Institute for International Economics
+Working Paper, No. 2012-1.
+International Monetary Fund (2012): Global Financial Stability Report: The Quest for
+Lasting Stability, April 2012, .Washington D.C.
+Jaumotte, Florence and Hanan Morsy (2012): “Determinants of Inflation in the Euro Area:
+The Role of Labor and Product Market Institutions”, IMF Working Paper 12/37.
+Kenen, Peter (1969), “The theory of optimum currency areas: An eclectic view” in R.
+Mundell and A. Swoboda, editors (1969), “Monetary problems of the international
+economy,” The University of Chicago Press, Chicago, 1969, pp. 41-60.
+Lebrun, Igor and Esther Pérez, 2011, “Real Unit Labor Costs Differentials in EMU: How
+Big, How Benign and How Reversible?,” IMF Working Papers No. 11/109.
+Melitz, Jacques and Frederic Zumer (2002): “Regional redistribution and stabilization by the
+center in Canada, France, the UK and the US: A reassessment and new tests” Journal of
+Public Economics, 86(2), p. 263-286.
+Mongelli, Francesco Paolo and Charles Wyplosz (2009) “The Euro at Ten: Unfulfilled
+Threats and Unexpected Challenges”, in Bartosz Mackowiak, Francesco Paolo
+Mongelli, Gilles Noblet and Frank Smets (eds), The Euro at Ten – Lessons and
+Challenges, European Central Bank.
+Mundell, Robert A. (1961) A Theory of Optimum Currency Areas, American Economic
+Review, 51 (4), pp. 657-665
+Rodden, Jonathan and Erik Wibbels (2010): Fiscal Decentralization and the Business Cycle,
+Economics and Politics, 22(1), p. 37-67.
+Sharpe, Andrew and Jean-François Arsenaut, and Daniel Ershov, 2007, “The impact of
+interprovincial migration in aggregate output and labor productivity in Canada, 1987005,” CSL research report, 2007-12, Center for the Study of Living Standards, Ontario.
+World Bank (2010) “Labor Markets, Job Creation, and Economic Growth, ” Report
+supported by the Multidonor Trust Fund, World Bank, Washington DC.
+
+Table 1: Proposals for Common Euro Area Sovereign Debt: Main Features
+Eurobills
+
+European Redemption Pact
+
+Blue/Red Proposal
+
+ESBies
+
+Hellwigh/ Philippon (2011)
+
+German Council of Economic
+Experts (2011)
+
+Delpla / Von Weizsäcker (2010)
+
+Brunnermeier et al. (2011)
+
+Stability Bonds
+European Commission Green paper
+Full joint and several
+liability (JSL)
+
+Concept
+
+Gradual transfer of debt
+exceeding 60 percent of GDP
+into fund alongside payment
+obligations such that each
+country repays its transferred
+debts within 25 years
+
+Blue bonds are JSL; red bonds
+are any national debt beyond
+a country’s blue bond
+allocation
+
+Securitization of existing
+sovereign debt into a safe
+tranche (€3.8 trillion) and a
+risky tranche (€1.7 trillion);
+new securities are not JSL
+
+Reduce liquidity risk premia;
+sever the banking-sovereign
+feedback loop
+
+Serve as bridge to a long-term
+stability structure ensuring
+adherence to FC and SGP,
+create safe asset by issuing
+own bonds covering the
+participating countries’
+refinancing requirements
+during roll-in phase.
+
+Achieving both higher and
+lower yields at the same time.
+Higher yields are early signal
+to irresponsible fiscal
+behavior. Lower yields
+desirable to reduce the cost of
+debt for taxpayers
+
+Create a large pool of safe
+assets ; sever the banking
+sovereign-feedback loop;
+stabilize and diversify capital
+flows
+
+Eurobills are senior to other
+debts
+
+Unspecified
+
+Blue bonds are senior to red
+bonds; red bonds take the hit
+of default
+Open-ended commitment
+
+Safe tranche is senior; risky
+Only one class of bonds
+tranche takes the hit of
+available in the market
+default
+Non open-ended commitment Open-ended
+commitment
+Up to 60 percent of Euro Area 100 percent of Euro
+GDP. The weight of each
+Area GDP
+country's debt is equal to its
+share in the Eurozone's GDP.
+Some adjustment to sovereign
+risk could be considered
+
+Senior to national debt Senior to national debt
+
+No treaty change
+
+Treaty change
+
+No Treaty change
+
+Treaty change
+
+European redemption fund to
+issue debt covering financing
+needs of participating
+countries up to cap
+
+A debt agency buy on the
+An independent stability
+secondary market sovereign
+council (ISC) allocates bond
+debt
+quota, countries issue
+themselves; allocations
+proposed by ISC are voted on
+by natinal parliaments
+
+All non-program Euro Area
+countries
+Market determined rates
+
+Voluntary, but opting out is a All Euro Area countries
+bad signal
+Market determined rates
+Market determined rates
+
+Non open-ended commitment Self unwinding when debt is
+redeemed (20-25 years)
+Up to 10 percent of Euro Area Debt of EMU countries
+JSL up to 60 percent of each
+GDP (= US Treasury billsshare exceeding 60 percent of GDP, country's GDP, national debt
+in of US GDP)
+around EUR 2.3 trillion.
+for the remainder
+
+Funding degree
+
+Authors' perspective on No Treaty change
+the legality
+A joint debt management
+office (DMO) allocates bond
+quota and issues Eurobills
+Institutional set-up
+
+Participation
+Calculation of rates
+
+All Euro Area countries
+Market determined rates
+
+Stability bonds
+underpinned by prorata guarantee partially
+replace national
+issuance; ESM is kept
+as a separte issuer for
+emergency financing
+
+(To varying degrees depending on the scheme)
+Alleviate liquidity constraints of distress sovereigns; reduce liquidity risk
+premia; assure high quality collateral for financial institutions; promote
+international role of the €
+
+Treaty change
+
+Open-ended
+Open-ended
+commitment
+commitment
+Quotas linked to policy Unspecified
+compliance. No optimal
+calibration suggested
+
+No Treaty change
+
+While countries could issue SBs on a decentralised basis, creating a single
+euro-area DMO would be more efficient. On who would play this role, it
+is suggested (i) a new DMO could be created; (ii) the EFSF/ESM could
+become a full-scale DMO; (iii) the EC acts as DMO
+All Euro Area countries All Euro Area countries All Euro Area countries
+While yields on SBs would be market-based, funding costs might be
+
+32
+
+32
+Life span
+
+Euro Area sovereign
+JSL bonds replace a
+debt is fully covered by limited portion of
+JSL bonds
+national issuance
+
+Several liability
+
+Eurobills JSL with maturity of
+less than one year; countries
+give up their right to issue
+short term debt; Scale up
+and/or lengthen maturity
+later to evolve into Eurobonds
+
+Principal objectives
+
+Seniority
+
+Partial joint and several
+liability (JSL)
+
+Table 1: Proposals for Common Euro Area Sovereign Debt: Main Features
+(concluded)
+Eurobills
+
+European Redemption Pact
+
+Blue/Red Proposal
+
+ESBies
+
+Hellwigh/ Philippon (2011)
+
+German Council of Economic
+Experts (2011)
+
+Delpla / Von Weizsäcker (2010)
+
+Brunnermeier et al. (2011)
+
+Stability Bonds
+European Commission Green paper
+Full joint and several
+liability (JSL)
+
+No quantification provided
+
+Likely gains
+
+Costs
+
+Eurobills only take over short Bonds issued by the DRF
+would be comparable to
+end of market. No further
+Bunds in terms of liquidity
+quantification provided
+and default risk, but there
+would be no currency risk left.
+Germany’s refinancing costs
+would thus rise to between
+2.5-3 percent.
+Unspecified
+ECB not meant to buy
+Eurobills. If it does, countries
+must repurchase them within
+one quarter
+Short maturity means credible Low due to governance
+seniority and easy monitoring safeguards
+
+Moral hazard
+
+Participation in Eurobills
+emissions is conditional on
+budgetary discipline
+Conditionality
+
+Continued participation in the
+fund conditional
+implementing debt reduction
+plan.
+
+Eurobills phased in as soon as Roll in phase is part of the
+DMO is created
+design
+Transition to new
+regime
+
+No quantification provided
+
+Based on conservative
+assumptions, default of the
+safe trance unlikely. ESBies
+would thus command a yield
+similar to German bonds;
+junior tranche would yield
+about 6 percent
+
+Large reduction in
+liquidity premium; no
+estimates provided
+
+Medium reduction in
+liquidity premium; no
+estimates provided
+
+Several liability
+
+Lower liquidity effect;
+no estimates provided
+
+Strong shift of benefits Smaller shift of benefits No impact across
+Even AAA rated countries
+countries
+from higher to lower
+from higher to lower
+could gain substantial
+rated countries
+amounts from these liquidity rated countries
+improvements. No
+quantification provided.
+
+Unlike blue bonds, red bonds ECB accepts safe tranche as
+are not accepted by ECB as
+collateral
+collateral
+
+ECB accepts SBs as collateral
+
+The bligation to introduce
+CACs for red bonds facilitates
+orderly defaults, increases the
+marginal cost of public
+borrowing, and enhances
+fiscal discipline
+
+With ESBies, the guarantee is High
+provided by the pool of
+bonds, not by any future fiscal
+revenues as with Eurobonds.
+Moral hazard does not apply
+
+Medium, but coupled Low, but stronger
+with market incentives market incentives for
+for fiscal discipline
+fiscal discipline
+
+Countries with credible fiscal
+policies are allowed to
+borrow up to the full 60
+percent of GDP; weaker fiscal
+performers borrow a lower
+proportion of GDP in blue
+Bonds
+All the legacy government
+debt is senior to the red debt
+but junior to the blue debt.
+Legacy debt would be
+gradually replaced by the blue
+and red tranches. The
+transition should in effect be
+completed after a decade
+
+Unlike Eurobonds, ESBies to Increased surveillance and instrusiveness in the design of national fiscal
+not require tight fiscal policy policies; seniority of debt service over any other spending; failing
+coordination among countries countries could be put under some form of "administration"
+
+A target of issuing 60 percent Both accelerated and gradual phase-in are possible. Accelerated schemes
+of Euro-Area GDP would be
+allow for quick materialization of benefits but pose higher risk to market
+reached via monthly issues
+disruption
+over 5 years
+
+33
+
+ECB's role
+
+30 basis point reduction in the
+Financing costs can be
+expected to fall within a range liquidity premium
+of around 2.5-3 percent. But
+higher yields also seem
+possible given market
+uncertainty at present.
+
+Partial joint and several
+liability (JSL)
+
+34
+III.
+
+FISCAL CONSOLIDATION UNDER THE SGP: SOME ILLUSTRATIVE SIMULATIONS1
+A.
+
+Introduction
+
+1.
+The Stability and Growth Pact (SGP) continues to be at the core of European
+Union (EU) fiscal governance (Figure 1). The SGP was put in place in Maastricht to avoid
+excessive deficits and debt levels. However, fiscal slippages during the first decade of the
+Economic and Monetary Union (EMU) led to high vulnerabilities during the crisis (Perez,
+2011). To remedy past flaws, EU fiscal governance is being upgraded around a number of
+reforms focusing on intertwined objectives. These include tighter national enforcement of
+EU fiscal rules (implementation of the Directive on national fiscal frameworks under the
+“six-pack” and automatic correction mechanisms under the “Fiscal Compact”); expanded
+surveillance over internal and external imbalances (through the Excessive Imbalances
+Procedure introduced under the “six-pack”); and enhanced EU oversight of national
+budgetary processes (“two-pack”). Underpinned by these complementary processes, the SGP
+occupies a central role in the EU fiscal framework.
+2.
+Both the scale and speed of consolidation in EMU countries are influenced by
+SGP rules. Bringing debt ratios down to safer levels will require a sustained period of
+adjustment. The key question is whether the pace of consolidation driven by the SGP is
+appropriate in the face of a weak outlook.
+3.
+This paper quantifies the output effects from fiscal consolidation implied by the
+SGP. To this aim, we propose a conceptual framework in three steps. First, we take the April
+2012 WEO as our baseline for fiscal consolidation.2 Second, we quantify the gap between
+fiscal plans under this baseline and the SGP targets (in structural terms) keeping GDP at
+WEO levels (i.e. no multiplier effects are at play). Third, using the IMF’s dynamic stochastic
+general equilibrium model—the Global Integrated Monetary and Fiscal model (GIMF)—we
+simulate the output effects of that fiscal shock. In short:
+Step 1: We choose as baseline scenario the April 2012 WEO.
+Step 2: We quantify the fiscal shock as
+Sbt , SGP
+Sbt ,WEO
+t 
+
+GDPt ,WEO GDPt ,WEO
+1
+
+Prepared by Derek Anderson (RES), Marialuz Moreno Badia (FAD), Esther Perez Ruiz (EUR), Stephen Snudden (RES),
+and Francis Vitek (SPR). We are grateful for comments from DG ECFIN staff during the seminar held in Brussels, June 4,
+2012.
+2
+The shock and simulation results presented in this paper take into account the fiscal plans adopted or specified in sufficient
+detail at the time of the elaboration of the April 2012 WEO forecasts. Since then, some countries have announced additional
+measures.
+
+35
+where  t represents the change in the structural balance (Sb) to GDP ratio relative to the
+fiscal consolidation path projected in the WEO, for a given GDP (at WEO values).
+Step 3: Shock our model economy with  t and quantify the output decline
+GDPt , SGP  GDPt ,WEO when multiplier effects are at work.
+4.
+The rest of this paper is organized as follows. Building on EU legislation and
+discussions with the European Commission (EC) during the 2012 Article IV Consultation,
+Section B outlines the order of prevalence between the various SGP benchmarks and
+quantifies fiscal consolidation needs relative to the April 2012 WEO. Section C subsequently
+presents the associated output loss under different sets of assumptions. From the different
+scenarios, it is evident that the effects of fiscal consolidation depend largely on the
+composition and credibility of fiscal packages, as well as the ability of monetary policy to
+cushion the fiscal tightening. We therefore conclude with a number of policy
+recommendations (Section D).
+Figure 1. Recent EU Fiscal Governance Reforms
+
+SGP
+Rules 1/
+Fiscal Compact
+Budgetary devices for the
+correction of past fiscal
+slippages (e.g. debt
+brakes) 2/
+
+Note: 1/ Procedures currently in place; 2/ Expected entry into force is autumn 2012 for the two pack; January
+2013 for the Directive on National Fiscal Frameworks; and January 2014 for the automatic correction mechanisms
+mandated by the Fiscal Compact.
+
+36
+B.
+
+A Characterization of SGP Regimes
+
+5.
+Since its introduction in Maastricht, the SGP system has become increasingly
+complex (Table 1). Countries are: required to converge to the 60 percent of GDP debt
+benchmark; prohibited from breaching the 3 percent of GDP deficit threshold; and mandated
+to improve the structural deficit to GDP ratio at an average rate of 0.5 percent per year. In
+addition, government spending is constrained to grow in line with trend GDP. This raises the
+question of the order of prevalence between the existing rules, complicating the task of
+quantifying the fiscal shock implied by the SGP.
+6.
+To disentangle the order of prevalence between rules, we assume the strictest
+criteria apply. EU regulations and discussions with the EC suggest that where there is an
+overlap between rules, countries would be subject to the strictest benchmark. This rules out
+the possibility of over-determination and makes it possible to calculate SGP consolidation
+paths in an unambiguous manner.
+
+Table
+1. EU
+Fiscal
+Maastrichttotothe
+theFiscal
+Fiscal
+Compact
+Table
+1. EU
+FiscalRules
+Rules from
+from Maastricht
+Compact
+Type
+
+Maastricht (SGP.1)
+
+Debt Rule
+
+Debt/GDP is reduced to
+below 60%
+
+Deficit Rule
+
+Deficit/GDP below 3 % at
+any t
+
+Structural
+
+Medium-term budget
+
+Balanced
+Budget Rule
+
+positions of "close to
+balance or in surplus"
+
+2005 Reform (SGP.2)
+
+2011 "Six Pack" Reform
+(SGP.3)
+
+Yearly reduction in
+Debt/GDP equal to 1/20th
+of distance between
+current level and target
+
+Structural deficit/GDP to
+remain below 1 %
+
+… below 0.5 %
+Primary expenditure (exc.
+
+Expenditure Rule
+
+Fiscal Compact
+
+unemployment benefits
+and tax discretionary
+increases) grows less than
+medium-term GDP growth
+
+Sources: Staff, based on the EU treaty, SGP secondary legislation and the Fiscal Compact intergovernmental treaty.
+
+37
+7.
+Over the WEO horizon, we assume compliance with the rules follows a threestage process. All fiscal commitments, independently of their nature, are translated into
+deviations from the WEO in terms of the structural deficit to GDP ratio.3 Two regime
+switches operate during the WEO projection period, from the overall to the structural deficit
+benchmark; and from the latter to the debt reduction criterion. The relevant fiscal regimes
+can be summarized as follows:
+
+
+EDP phase. Countries currently under Excessive Deficit Procedures (EDP) are
+expected to deliver structural adjustments needed to
+Table 2. EDP Deadlines
+meet the 3 percent of GDP deficit target by the
+requested deadlines (between 2012 and 2015, see
+2012
+Belgium, Cyprus, Italy
+Table 2).
+
+
+
+Grace period. An exemption from the 1/20th debt
+Germany,
+reduction rule will apply over the three-year period 2013
+Netherlands,
+following the closure of the EDP. During this period,
+Portugal, Spain
+countries are expected to improve structural
+2014
+Greece
+balances by at least 0.5 percent of GDP each year
+2015
+Ireland
+until they reach their respective medium-term
+Source: European Commission.
+objectives (MTOs).4
+
+
+
+1/20th debt benchmark. Three years after exiting the EDP, structural balances will
+improve by 0.5 percent of GDP per year or more, if so required by the 1/20th debt
+benchmark. This benchmark ensures an annual pace of debt reduction no less than 5
+percent of the gap between the observed debt level and the 60 percent of GDP target.
+EU authorities will first verify compliance with the debt rule in a backward-looking
+manner and then in a forward-looking manner for countries breaching the first
+criterion (Figure 2).
+
+3
+
+Austria, France,
+
+We keep GDP at WEO levels and use OECD budgetary semi-elasticities to break down the overall deficit into
+the structural and cyclical components.
+4
+MTOs are country-specific and updated each 3 to 4 years. Current MTOs are 0.5 for Belgium, Finland, and
+Luxembourg; 0 for Austria, Cyprus, Estonia, Greece, France, Italy, Malta, and Spain; -0.5 for Germany, Ireland,
+Netherlands, Portugal, and Slovak Republic; and -1 for Slovenia.
+
+38
+Figure 2. Translating SGP Regulations into a Fiscal Shock
+Fiscal Regimes under the SGP
+
+Change in Structural Balance 5/
+(Percent of GDP, deviations from April 2012 WEO baseline)
+4.0
+3.5
+
+Low Debt
+
+High Debt
+
+3.0
+Cum 2013-17
+
+2.5
+
+Cum 2012-13
+
+Cum 2012-17
+
+2.0
+1.5
+1.0
+0.5
+0.0
+-0.5
+ESP ITA PRT GRC IRL
+
+BEL
+
+EA
+
+CYP EST DEU FRA FIN MLT AUS NLD LUX SLV SLK
+
+Sources: IMF, April 2012 WEO; SGP regulations; and Staff calculations.
+
+1/ The benchmark is given by Bt/Yt=60+(0.95/3)*(Bt;-1/Yt-1-60)+ ((0.95^2)/3)*(Bt;-2/Yt-2-60)+((0.95^3)/3)*(Bt;-3/Yt-3-60).
+2/ The formula specified in 1/ is applied to projected debt-to-GDP ratio up to t+i+3+2.
+3/ The “adjusted debt measure" is given by B t Y t  B t   C t  j Y t  3  1  Y t * ,j  , with C the cyclical budget and
+0
+0
+Y* the growth rate of nominal potential GDP.
+4/ To place a country under EDP, the report assesses risk factors such as the structure of debt, implicit liabilities
+related to ageing, or private indebtedness.
+5/ The High Debt group comprises Belgium, Greece, Ireland, Italy, Portugal and Spain. The Low Debt group includes
+the rest of Euro area countries.
+2
+
+2
+
+39
+8.
+Overall, planned fiscal efforts in the EA fall significantly short of SGP
+requirements. For the euro area as a whole, the additional consolidation amounts to 1
+percent of GDP over 2012-17, nearly half of which would be frontloaded over 2012-13
+(Figure 2). For the analysis here, we split euro area countries into two blocs: those countries
+with acute fiscal sustainability issues (high-debt5 or HD), comprising Greece, Ireland, Italy,
+Portugal, Spain and Belgium, and those countries with less acute fiscal sustainability issues
+(low-debt or LD), comprising the rest of the euro area. Additional consolidation needs in the
+HD bloc (at around 2.2 percent of GDP over the WEO horizon) are five times as large as in
+the LD bloc (at 0.4 percent of GDP over 2012-17). Across countries, the additional fiscal
+effort is the highest in Spain, mainly as a result of requirements under the EDP. In contrast,
+Germany, Cyprus and Estonia have no additional adjustment as the WEO path is consistently
+more demanding than requirements under the SGP. Among the larger euro area countries,
+additional consolidation is particularly frontloaded in Spain and the Netherlands.
+C.
+
+The Output Effects from Fiscal Consolidation under the SGP
+
+Assumptions
+9.
+The impact of fiscal tightening on economic activity will depend on the
+underlying simulation assumptions. First, the composition of the fiscal adjustment makes a
+big difference, with multipliers being typically larger for spending-based consolidations.
+Second, the monetary policy reaction function is an important factor as multipliers are higher
+when interest rates are constrained by the zero lower bound. Finally, the credibility of fiscal
+packages also affects multipliers through anticipation of the future benefits of consolidation.
+This last effect may be substantial in some cases.
+10.
+In practice, however, there is considerable uncertainty surrounding these
+assumptions. Information on the composition of the adjustment on a country basis is not
+readily available and it is difficult to predict over which time horizon monetary policy in the
+euro area will be constrained by the zero lower bound. Also, governments’ credibility in
+delivering fiscal commitments is at stake and risk-premium effects are inherently difficult to
+quantify when spreads are very volatile and an increasing number of countries face punitive
+yields.
+11.
+Faced with these uncertainties we carry out a number of illustrative simulations.
+These are intended to illustrate the possible response of the economy under three different
+scenarios rather than aiming at an accurate representation of the economic reality (Table 3):
+
+
+5
+
+Scenario 1: Myopia and growth-friendly consolidation. Under this scenario, the
+consolidation package is tilted towards measures that have strong effects on
+
+For the purposes of the simulation the high-debt group includes countries with debt projected to be above 85
+percent of GDP by 2017.
+
+40
+households’ current disposable income, but little negative impact on factor supply
+and potential output. We further assume fiscal plans are not credible per se, but rather
+that credibility needs to be established by action. In particular, agents do not perceive
+the government’s commitment toward consolidation as permanent but rather expect
+measures to revert back to baseline levels in each period. However, they change their
+beliefs ex post, once they verify past fiscal measures remain in place. This is meant to
+portray an economy where, due to a general lack of confidence in the future, agents
+base their decisions on short-term considerations. With regards to monetary policy,
+the zero-interest floor is assumed to bind over the 2012-17 period. To gauge the
+magnitude of spillovers, we run two variants of this scenario featuring joint and
+stand-alone consolidation (i.e. undertaken by the HD or LD groups separately).
+
+
+Scenario 2: Credibility and growth-friendly consolidation. The assumptions mimic
+scenario 1 except that agents are not myopic, i.e. changes in the structural balance are
+perceived as permanent as of the year of implementation. As a result, agents
+incorporate the long-term benefits of the consolidation already undertaken (lower real
+interest rates and future debt service costs) in their expectations. However, fiscal
+changes are not anticipated and do not affect behavior until they actually occur (i.e.,
+absence of full Ricardian equivalence).
+
+
+
+Scenario 3: Credibility and growth-unfriendly consolidation: A variant of scenario 2,
+this is intended to illustrate the sensitivity of the results to the composition of the
+fiscal consolidation, with a package biased towards high-multiplier measures. In
+particular, fiscal efforts are switched (i) from consumption to corporate taxes; (ii)
+from government consumption to public investment; and (iii) from general transfers
+to transfers targeted to households with a high marginal propensity to consume. As
+empirical evidence shows (see, e.g., OECD, 2010 and the references therein),
+corporate taxes have the highest distortionary effects amongst revenue measures; on
+the other hand, government investment shrinks potential output and cuts in targeted
+transfers reduce the income of households whose marginal propensity to consume is
+equal to one.
+
+Table 3. Assumptions Underlying SGP Simulations
+Assumptions
+
+Explanation
+
+Scenario 1: Myopia
+and growth-friendly
+
+Scenario 1A: As per
+scenario 1 plus ZIF
+
+consolidation
+
+Scenario 1B: As per
+scenario 1B plus joint
+
+Scenario 2: Credibility
+and growth-friendly
+
+Scenario 3: Credibility
+and growth-unfriendly
+
+consolidation
+
+consolidation
+
+consolidation
+
+Composition of adjusmtent
+1/ Growth-friendly consolidation
+
+1/4 transfers, 1/3 government consumption, 1/4
+
+X
+
+X
+
+X
+
+X
+
+labor income tax, 1/6 consumption tax
+2/ Growth-unfriendly consolidation 1/4 targeted transfers, 1/3 government investment,
+1/4 labor income, 1/6 corporate tax
+Spillovers
+3/ Joint consolidation
+
+High Debt and Low Debt groups jointly consolidate
+
+4/ Individual consolidation
+
+Only one of the blocs consolidates (Euro area
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+calculated by simple addition disregarding spillovers)
+Monetary policy reaction
+5/ Interest rates unconstrained by
+
+Unconstrained reaction of nominal interest rates
+
+zero interest floor (ZIF)
+6/ Interest rates constrained by ZIF Nominal interest rates unchanged over first 5 years
+Credibility of fiscal plans
+7/ Myopia
+
+Agents do not perceive as permanent the
+government’s commitment toward consolidation;
+
+X
+X
+
+41
+
+they only change their beliefs ex post, once they
+verify past fiscal measures remain in place
+8/ Partial Ricardian behavior
+
+Changes in the structural balance are perceived as
+permanent as of the year of implementation
+
+Source: Staff.
+
+42
+Simulation tools and Output Effects from Additional Fiscal Consolidation
+12.
+The simulations are conducted for the two euro area country groupings with the
+GIMF model. 6 The analysis uses a general equilibrium framework applying a six region
+version of GIMF, with the euro area split into the HD and LD blocs, the US, Japan, emerging
+Asia, and a bloc encompassing the rest of the world. GIMF models both liquidity constrained
+and finite-planning horizon households. This provides non-neutrality in both spending- and
+revenue-based measures, which makes the model particularly appropriate to analyze the
+stabilization role of fiscal policy in the short term.
+39
+
+13.
+Country-specific effects are examined using the G35 model.7 The G35 model is an
+estimated structural macroeconometric model of the world economy, disaggregated into 35
+national economies, including 11 euro area countries.8 Within this framework, each economy
+is represented by interconnected real, external, monetary, fiscal, and financial sectors.
+Spillovers are transmitted across economies via trade, financial, and commodity price
+linkages.
+40
+
+41
+
+14.
+Even with a growth-friendly consolidation package, the output effects are sizable
+(Figure 3). Under scenario 1, output in the euro area is 1 percent lower than baseline by
+2017. This implies a cumulative output loss of 3½ percent throughout 2012-17. The fairly
+large multiplier stems from negative spillovers (around 40 percent of the loss) and the
+inability of monetary authorities to ease the policy rate (20 percent of the loss). As expected,
+the HD bloc experiences the largest losses—1.4 percent of GDP by 2017 (cumulatively 5
+percent over 2012-17)—mainly reflecting the scale of the additional fiscal adjustment
+required. On the other hand, losses among the LD bloc of 0.8 percent by 2017 (cumulatively
+3 percent over 2012-17) are largely caused by spillovers from the HD bloc (given their
+relatively high propensity to import from the LD countries).
+15.
+The aggregate results conceal considerable cross-country heterogeneity. Due to
+contractions in domestic demand, cumulative output losses are highest in Spain (at around 10
+percent), closely followed by Portugal (at almost 8 percent), largely caused by substantial
+spillovers from fiscal tightening in its neighboring country. Negative spillovers are also
+sizable in small open economies like Belgium, Finland and Ireland. Somewhat surprisingly,
+Greece experiences positive spillovers from fiscal adjustment in other euro area countries.
+This is because a joint consolidation in the euro area reduces the world demand for
+commodities and improves Greece’s terms of trade. As Greece is a relatively closed
+
+6
+
+For further details on this model, see Kumhof and others (2010).
+For further details, see Vitek (2012).
+8
+The list comprises Austria, Belgium, Finland, France, Germany, Greece, Ireland, Italy, Netherlands, Portugal,
+and Spain.
+7
+
+43
+economy, this improvement in the terms of trade outweighs the reduction in its external
+demand, yielding a positive net spillover.
+Figure 3. Output Effects from SGP Rules: Myopia and Growth-friendly Consolidation
+Euro Area: Loss in GDP
+(Percent Deviations from WEO, 2012-17)
+0.0
+
+0.0
+
+Unilateral
+Consolidation
+
+High Debt: Loss in GDP 1/
+(Percent Deviations from WEO, 2012-17)
+
+Unilateral
+Consolidation
+
+-0.4
+
+-0.4
+
+ZIF
+-0.8
+Unilateral C.+ no ZIF
+-0.8
+
+ZIF
+
+Spillovers
+
+Unilateral C.+ no ZIF
+
+Unilateral C.+ ZIF
+
+Joint C.+ ZIF
+
+Joint C.+ ZIF
+
+-1.2
+2011
+
+2012
+
+2013
+
+Spillovers
+
+Unilateral C.+ ZIF
+
+-1.2
+
+2014
+
+2015
+
+2016
+
+2017
+
+-1.6
+2011
+
+Low Debt: Loss in GDP 1/
+(Percent Deviations from WEO, 2012-17)
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+Cumulative Output Losses in Selected
+Countries, 2012-17(Percent)
+
+0.0
+
+12.0
+
+Unilateral
+Consolidation
+
+10.0
+
+ZIF
+
+Unilateral C.+ZIF
+Spillovers
+
+8.0
+
+-0.4
+
+6.0
+
+Spillovers
+
+4.0
+
+Unilateral C.+ no ZIF
+-0.8
+
+2.0
+
+Unilateral C.+ ZIF
+
+0.0
+
+Joint C.+ ZIF
+-1.2
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+-2.0
+ESP PRT NLD ITA FRA BEL FIN AUT IRL DEU GRC
+
+Sources: IMF, April 2012 WEO; and Staff simulations carried out with GIMF (first three charts) and G35 (fourth chart) models.
+1/ The High Debt bloc comprises Belgium, Greece, Ireland, Italy, Portugal and Spain. The Low Debt bloc includes the rest of
+Euro area countries.
+
+44
+16.
+Multiplier effects dramatically change with credibility and fiscal composition
+assumptions (Figure 4). With myopia (scenario 1), private households and firms are so
+concerned with the short-term impact of fiscal retrenchment that they neglect the positive
+income effects arising from future lower tax liabilities when making their consumption,
+employment and investment choices. For a given composition of adjustment and the zero
+lower bound constraint, the 2017 GDP loss in the euro area is considerably reduced if fiscal
+plans are credible (scenario 2), falling from 1 percent to 0.3 percent of GDP. On the other
+hand, the multiplier effect is more than doubled when consolidation remains credible but
+becomes growth-unfriendly (scenario 3). In this case, the 2017 GDP loss in the euro area
+relative to the WEO amounts to 0.8 percent, against 0.3 under credible but growth-friendly
+consolidation. Cumulative losses in the euro area throughout 2012-17 amount to -1.5 percent
+under scenario 2 and -3.1percent under scenario 3.
+17.
+The output decline might be higher than implied by our simulations because of
+the current state of the economy. Recent empirical work suggests that fiscal multipliers are
+larger when there is excess capacity (see, for example, Batini et al, 2012; and Baum et al,
+2012). This could arise from tighter credit constraints, the need to repair balance sheets, and
+higher precautionary savings.
+
+Figure 4. Comparing Output Losses across Scenarios
+(Percent Deviations from WEO, 2017)
+Myopia and growthfriendly
+consolidation
+
+Credibility and
+growth-friendly
+consolidation
+
+Credibility and
+growth-unfriendly
+consolidation
+
+0
+-0.2
+-0.4
+-0.6
+-0.8
+-1
+-1.2
+
+Low Debt
+
+-1.4
+
+Euro area
+
+-1.6
+
+High Debt
+
+Sources: IMF, April 2012 WEO; and Staff simulations carried out
+with the GIMF model.
+1/ High debt comprises the following countries in the Euro area:
+Belgium, Greece, Ireland, Italy, Portugal and Spain. Low debt
+includes the rest of Euro area countries
+
+45
+D.
+
+Policy Perspectives: How Can the Output Loss from Additional Fiscal
+Consolidation Be Mitigated?
+
+18.
+The SGP rules should be applied flexibly to accommodate unexpected events.
+The appropriate pace of consolidation should depend on the state of public finances and
+growth, and the monetary policy stance. Given uncertainties surrounding these
+developments, consolidation strategies that adjust for new information can be welfare
+improving. In this context, the recent shift of focus towards structural targets under the SGP
+is very appropriate.
+19.
+Where financing conditions permit, the pace of fiscal consolidation should take
+into account the current adverse conditions. With limited scope for monetary policy to
+mitigate output losses from fiscal tightening, negative output gaps, and joint consolidation
+efforts, multipliers are likely to be larger than normal. Furthermore, multipliers might
+increase with the size of consolidation.9 Hence, in the current context, to the extent that
+market financing remains available at reasonable rates, adjustment should occur at a steady
+pace defined in cyclically-adjusted terms and should avoid heavy front-loading.
+42
+
+20.
+The composition of fiscal adjustment should be tilted towards growth-friendly
+measures. Where adjustment needs are very large, countries will have to act both on the
+revenue and spending side. However, given the high spending levels prevailing in many
+European countries, consolidation should focus on the spending side, targeting in particular
+those areas where multipliers are low or where spending is most inefficient.
+21.
+Reforms that underpin credibility are essential to limit output losses from fiscal
+tightening. Our findings suggest that, by raising agents’ expectations about the positive
+(future) income effects of consolidation, credible policies can reduce multipliers in the short
+term and act as a substitute for heavy frontloading. Anchoring adjustment in well-specified
+medium-term plans is key. A responsible implementation of automatic correction
+mechanisms under the Fiscal Compact will be important to safeguard durable fiscal efforts.
+22.
+Finally, monetary policy should accommodate the consolidation. The simulations
+suggest significant output losses if monetary policy does not provide support. When the zero
+bound is binding or if conventional interest rate cuts are less effective than normal, this
+implies unconventional monetary policy stimulus may be needed.
+
+9
+
+See Stehn and others (2011), Erceg and Linde (2010).
+
+46
+E.
+
+References
+
+Batini, N., G. Callegari and G. Melina, 2012, “Successful Austerity in the United States,
+Europe and Japan,” IMF Working Paper forthcoming (Washington: International
+Monetary Fund).
+Baum, A., M. Poplawski-Ribeiro, and A. Weber, 2012, “Fiscal Multipliers and the State of
+the Economy,” IMF Working Paper forthcoming (Washington: International
+Monetary Fund).
+Carlson, S., J. Hatzius, S.J, Stehn, and D. Wilson, 2011, “The Speed Limit of Fiscal
+Consolidation”, GS Global Economics Paper No. 207, August 2011.
+Erceg, Christopher J., and J. Lindé, 2010, “Asymmetric Shocks in a Currency Union with
+Monetary and Fiscal Handcuffs,” NBER Chapters, in: NBER International Seminar
+on Macroeconomics 2010, pages 95-135 National Bureau of Economic Research, Inc.
+Kumhof, Michael, D.Laxton, D. Muir and S. Mursula, 2010, “The Global Integrated
+Monetary and Fiscal Model (GIMF)—Theoretical Structure,” IMF Working Paper
+10/34 (Washington: International Monetary Fund).
+OECD, 2010, “Tax Policy Reform and Economic Growth”, OECD Tax Policy Studies, No.
+20.
+Pérez, Esther, 2011, "Strengthening Governance in the Euro Area" IMF, Euro Area Policies,
+Selected Issues Paper, 2011.
+Vitek, Francis, 2012, “Policy Analysis and Forecasting in the World Economy: A Panel
+Unobserved Components Approach,” IMF Working Paper 12/149 (Washington:
+International Monetary Fund).
+
+47
+IV.
+
+POSSIBLE SUBORDINATION EFFECTS OF EUROSYSTEM BOND PURCHASES1
+A.
+
+Introduction
+
+1.
+The debt restructuring in Greece in February-March 2012 effectively extended
+senior creditor status to Eurosystem bond purchases. By mid-February 2012, the ECB
+and Eurosystem central banks (henceforth ECB) swapped their Greek bonds acquired under
+the Securities Market Program (SMP) for new bonds of identical structure and nominal
+value, with different serial numbers. This provided the ECB an exemption from the
+subsequent private sector debt swap under so-called private sector involvement (PSI),
+effected through retroactive collective action clauses.2 By swapping its debt purchases in
+advance of the PSI announcement, the ECB effectively received preferential (i.e., senior)
+creditor status on its Greek bond holdings.3
+2.
+According to the ECB, this exemption from PSI was “special” because its bond
+market interventions were undertaken solely for monetary policy purposes. Treating Greece
+as a special case may imply that the subordination of private debt holders will not be
+repeated in other contexts. At the same time, the ECB has cautioned against incurring losses
+on the SMP, which could –in an extreme case– require recapitalization of the central bank
+and result in reduced financial independence.
+3.
+Currently, a key question is whether the SMP has become less effective after the
+Greek PSI exemption–or even earlier–due to subordination risk. This treatment of the
+ECB may effectively have reshaped the seniority structure of all official holdings of
+sovereign bonds. From a market risk-return perspective, this implied a possible mispricing
+of many euro area bond markets leaving future SMP beneficiaries subject to rating
+downgrades as ECB interventions reduce the private investor base and increase losses in the
+event of restructuring. Anecdotal market evidence indeed confirms that the impact of SMP
+purchases has become controversial, although this may already have been priced in prior to
+the Greek debt exchange in February 2012. Indeed, after the euro area summit of heads of
+state and government on July 21, 2011, when PSI for Greece was first announced,
+
+1
+
+Prepared by Nico Valckx (EUR), Kenichi Ueda, Manmohan Singh (both RES). Comments from Tommaso
+Mancini-Griffoli and Christian Mulder (both MCM) and ECB counterparts are gratefully acknowledged.
+2
+The PSI invited Greek debt holders to exchange their existing holdings for new debt at a face amount of 31.5
+percent and cash-equivalent EFSF notes with a 2-year maturity at 15 percent of the face amount. In contrast, the
+ECB received the full face (par) value of the Greek bonds which it had purchased in the markets at a discount on
+the face value (about €40bn versus €55bn face value) and would also benefit from future coupon payments on
+these new bonds.
+3
+In addition, also Greek bonds purchased by Eurosystem central banks for investment purposes and European
+Investment Bank holdings were exempt from PSI.
+
+48
+subordination effects were already under consideration.4
+4.
+At the same time, while the SMP helped to temporarily reduce stress in
+government bond markets, due to the limited scale/time horizon of its effective use, it
+did not appear fully effective (see Figure 1).
+Figure 1
+Especially after its launch in May-June 2010
+25
+SMP Interventions, Bond Volatility and EUR Risk
+and after reactivation in August 2011,
+20
+Weekly SMP purchases
+interventions were sizeable and helped stem
+GIIPS bond volatility
+the rise in periphery yields and the escalation
+Scaled EUR Risk (rhs)
+15
+of bond market volatility. Purchases amounted
+to €36bn and €21bn in the first two months of
+10
+the program but dropped to less than a few
+billion afterwards. However, as purchases
+5
+were scaled back, volatility and broad euro
+0
+area financial market risks increased again and
+0 0 0
+1 1 1
+0 1 1
+1 2 2 2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+-y
+-y
+-l
+-v
+-r
+-l
+-v
+p
+n
+p
+n ra ya
+SMP interventions were scaled up again in
+a Ju e
+a
+a Ju e
+o a
+o
+a
+S
+S
+N J
+M
+N J
+M M
+November-December 2010. Similarly, as
+25
+sovereign market stresses increased again over
+SMP Interventions and Periphery Yields
+Weekly SMP (bn euro)
+the summer of 2011, the reactivation of the
+20
+GIIPS bond yield (average, rhs)
+SMP in August and September 2011 with
+GIIPS bond yield (weighted, rhs)
+purchases of €51bn and €37bn led to a
+15
+reduction in broad market stresses. However,
+as stress in periphery debt markets re-emerged, 10
+SMP purchases increased again to €40bn in
+November 2011 before the ECB adopted other
+5
+measures to help (periphery) banks in need of
+0
+funding.
+0 0 0
+2
+0 1 1 1
+1 1 1
+2 2
+1
+-y
+a
+M
+
+1
+-l
+u
+J
+
+1
+p
+e
+S
+
+1
+-v
+o
+N
+
+1
+n
+a
+J
+
+1
+-r
+a
+M
+
+1
+-y
+a
+M
+
+1
+-l
+u
+J
+
+1
+p
+e
+S
+
+1
+-v
+o
+N
+
+1
+n
+a
+J
+
+1
+-r
+a
+M
+
+1
+-y
+a
+M
+
+2.5
+2.0
+1.5
+1.0
+0.5
+0.0
+
+16
+14
+12
+10
+8
+6
+4
+2
+0
+
+5.
+This paper looks at various ways to
+Sources: Bloomberg; and IMF staff calculations.
+quantify the extent of subordination arising
+Notes: Bond yields refer to 10-year benchmark yields.
+from ECB debt purchases. It first looks at
+Weighted series take government debt as weights. Bond
+volatility follows a GARCH(1,1). Scaled EUR risk is the
+illustrative empirical evidence, aimed at
+principal component score of 13 euro area interbank market
+documenting developments in government
+spreads, corporate CDS spreads, euro area equity risk
+premium, SovX and EMBIG CDS, and euro exchange rate
+bond prices and CDS risk premia around/after
+implied volatility.
+the ECB debt swap. Next, it looks at
+theoretical models to quantify and illustrate the potential effect of subordination on bond
+4
+
+ECB President Trichet stated in an interview in the Süddeutsche Zeitung on July 22, 2011 on PSI: “It goes
+without saying that the governments will have to redeem their bonds that are on the balance sheet of the
+Eurosystem without any change. Of course, being part of the official sector, we will not be participating in the
+voluntary private sector involvement mentioned on Thursday as regards Greece.”
+http://www.ecb.int/press/key/date/2011/html/sp110722_1.en.html
+
+49
+prices and CDSs. Finally, the paper offers some tentative policy conclusions. The main
+finding is that the impact of ECB seniority is primarily related to perceived probability of
+default and the proportion of outstanding debt already in the hands of the central bank.
+Moreover, credibility of SMP interventions matters.
+B.
+
+Empirical Evidence on ECB Subordination Risk
+
+6.
+Insufficient data make it difficult to quantify the subordination risk from ECB
+debt purchases directly. ECB debt purchases under the SMP were largely put on hold after
+the PSI exemption. Only one SMP intervention took place afterwards, in the week of March
+5-9, 2012 for an amount of €27 million, the fifth-smallest intervention since the start of SMP
+purchases in May 2010, based on weekly Eurosystem financial statements. Hence, there is
+insufficient quantitative evidence to establish empirically the relation between subordination
+risk from ECB debt purchases and sovereign yields.
+7.
+However, an event study analysis of ECB news on its senior status can provide
+some gauge of subordination risk.5 In this context, innovations in bond yields and CDS
+premia in the days surrounding the July 22, 2011 ECB statement (see footnote 4) and the
+ECB debt swap on February 16, 2012 are examined. Following MacKinlay (1997),
+standardized cumulative abnormal yields and CDS spreads are estimated (in first
+differences). The underlying model is ΔYi = ai+bi ΔYLCH + ciΔSovX and ΔCDS = di+eiΔSovX,
+where Yi denotes the government bond yield in country i, CDS is the sovereign credit default
+swap spread, YLCH is the LCH Clearnet benchmark 10-year yield on AAA countries and
+SovX is the SovX Western Europe CDS index. Standardization makes it easier to compare
+cumulative abnormal yields/spreads. The models are estimated using 70 daily observations
+with data up until one month ahead of the event, in order to avoid coefficient bias due to the
+events.
+8.
+The results show little impact of the ECB debt swap on periphery yields, but the
+initial PSI announcement and the ECB’s non-participation did have substantial shortterm negative effects. The market effect of the ECB, as a large creditor, shifting to a
+preferred debtor status, did not seem significant when evaluated around the time of the debt
+swap announcement (Figure 2). However, this appears to reflect the fact that this may have
+been anticipated and priced in by the market already. Indeed, longer-dated periphery bond
+yields and CDS default risk premia seem to have risen unexpectedly following President
+5
+
+In addition, one could analyze the spread between subordinated and senior bank debt CDS premia, given the
+close co-movement between bank CDSs and sovereign CDSs, as a proxy for sovereign subordination risk. This
+would shows that the introduction of PSI under the draft ESM Treaty in November 2010 and its effective use in
+Greece as agreed in July 2011 and reaffirmed in October 2011 raised subordination substantially, more so than
+the actual ECB debt swap in February 2012. However, this spread may be confounded by bank-specific
+conditions (e.g., shares of subordinated debt) and country-specific legal considerations (related to bail-in and
+resolution regimes; currently under discussion by the European Commission (EC, 2011 and 2012).
+
+50
+Trichet’s public statement that the ECB would not be participating in the voluntary Greek
+PSI on July 22, 2011 – one day after an important euro area summit had agreed on modalities
+of additional support for Greece (including PSI) and on greater flexibility of EFSF loans to
+the other program countries. In the days ahead of the summit, bond yields and CDS default
+risk premia had come down substantially, but this was reversed after the ECB’s statement –
+although it cannot be excluded that markets may have been disappointed by some other
+summit-related news (for instance, the realization that size of the EFSF was not increased
+and large implementation risks).
+Figure 2. Event Study Analysis of ECB Subordination on Bond Yields and CDS Spreads
+0
+)
+d
+e
+zi
+d
+ra
+d-1
+n
+a
+ts
+(
+s
+d
+le-2
+iy
+la
+m
+r -3
+o
+n
+b
+a
+e
+vi
+ta-4
+l
+u
+m
+u
+C
+-5
+
+10y Periphery Bond Yields
+
+July 22, 2011
+Feb 16, 2012
+
+-5 -4 -3 -2 -1 0 1 2 3 4 5
+
+) 6
+d
+ze
+i
+d
+ra
+d4
+n
+a
+ts
+(
+s
+d
+l 2
+e
+iy
+la
+rm0
+o
+n
+b
+a
+e
+vi
+ta-2
+l
+u
+m
+u
+C
+-4
+
+2y Periphery Bond Yields
+
+July 22, 2011
+Feb 16, 2012
+
+-5 -4 -3 -2 -1 0
+
+1 2
+
+3
+
+) 2
+d
+e
+zi
+d
+ra 1
+d
+n
+ta
+s(
+s 0
+d
+le
+yil
+a-1
+rm
+o
+n
+b
+a-2
+e
+vi
+ta
+l -3
+u
+m
+u
+C
+-4
+
+4 5
+
+5y Periphery CDS Spreads
+
+July 22, 2011
+Feb 16, 2012
+-5 -4 -3 -2 -1 0 1 2 3 4
+
+5
+
+Sources: Bloomberg; and IMF staff calculations.
+Note: Periphery is an aggregation of Spain, Italy, and Portugal. Scales are standard normal, i.e., values exceeding +/-1.96 are statistically significant at the 5
+percent level.
+
+C.
+
+Theoretical Approaches to Quantifying Subordination Risks
+
+9.
+It is possible to incorporate the subordination effect in a closed-form bond price
+model or in a reduced form CDS model. In both models, the subordination effect depends
+on three factors: probability of default, loss given default (one minus recovery rate), and the
+share of ECB bond holdings.
+Sovereign bonds–closed form model
+Figure 3. Two Cases for Original Price q=60 (ECB Share=50%)
+
+10.
+ECB seniority matters when the
+recovery rate is not close to zero or to
+100 percent. For example, suppose a
+country’s debt trades at 60 cents to par
+before establishment of the ECB’s senior
+creditor status (Figure 3). This could
+reflect market estimates of 40 percent
+default probability with 100 percent loss
+given default (i.e., zero recovery value)
+and 60 percent (non-default) probability
+
+Source: IMF staff calculations.
+
+51
+of full repayment. In this case (case I), seniority does not matter because upon default, no
+single bond holder is repaid. However, a pre-announcement price of 60 cents is also
+consistent with another case: 80 percent default probability with 50 percent recovery (case
+II). In this case, seniority matters. For example, if the ECB’s share is 50 percent, the ECB
+can recover all its claims at face value because the country will repay first 50 percent of the
+total debt to senior creditors. For the ECB, the ex post (shadow) price of the bond becomes
+the full value. For private bond holders, the defaulted
+Figure 4. Bond Prices and SMP Determinants
+country will not have anything left to repay after the
+1.0
+Probability of Default and Price
+repayment to the ECB. The ex post market price of
+0.9
+0.8
+bond reflect this ex post zero recovery and will be
+0.7
+traded at 20 cents since there is still a 20 percent
+0.6
+e 0.5
+c
+probability of non-default with full repayment of 100.
+ri
+P 0.4
+The annex develops this model more formally.
+Original
+0.3
+11.
+The net impact of subordination thus
+depends on three major factors:
+
+
+
+
+
+6
+
+Probability of default (PD). This increases
+linearly with the subordination effect, i.e., the
+difference between the original price and ex
+post price (after subordination). Figure 4 (top
+panel) plots this effect over various default
+probabilities for a range of ECB debt market
+shares. Evidently, the larger the ECB market
+share, b, the lower the market price ex post for
+any given PD.
+Loss given default (LGD). If large, then
+having the senior status does not translate into
+a large advantage. Also, for a small loss given
+default, senior status is not valued much since
+even junior creditors could recover a large
+portion of the face value. The overall effect—
+the difference between the original price and
+ex post price—is thus not monotonic. Figure 4
+(middle panel) illustrates this effect for an 80
+percent default probability and various ECB
+market shares over various LGD values.
+6
+
+The ECB share. As long as the SMP’s share
+
+0.2
+0.1
+0.0
+
+Ex post (b=.2)
+Ex post (b=.5)
+Ex post (b=.8)
+
+0.0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1.0
+Probability of default
+1.0
+0.9
+
+Original LGD and Price
+Original
+Ex post (b=.2)
+Ex post (b=.5)
+Ex post (b=.8)
+
+0.8
+0.7
+0.6
+0.5
+e
+icr0.4
+P
+0.3
+0.2
+0.1
+0.0
+
+0.0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1.0
+Loss given default
+
+1.0
+
+ECB's Share and Price
+
+0.8
+
+Original
+Ex post
+
+0.6
+
+e
+icr
+P0.4
+
+0.2
+0.0
+0.0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1.0
+ECB market share
+
+Source: IMF staff calculations.
+
+Note that this is not an independent third factor-but rather an attribute of loss given default: the higher the ECB
+share, the lower the recovery rate (or higher LGD) for private bond holders.
+
+52
+is small relative to the original recovery rate, even with the ECB expecting full
+repayment, the loss on private sector holdings will be limited. Therefore, the
+difference between the original price and the ex post price will be small. In contrast,
+when the ECB holds a large share relative to the recovery rate, the ECB’s senior
+status will lower the ex post recovery rate for the private sector dramatically. Figure 4
+(lower panel) shows that this effect is monotonic but not linear. In particular, when
+the ECB’s share is larger than the original recovery rate, there is a kink, above which
+private bond holders will not receive anything ex post in bad states of nature. Note
+that what is important in pricing the bonds is the expectation of the ECB’s share
+including future SMP. Increases in the expected ECB share (or related uncertainty)
+can create further negative effects.
+12.
+
+SMP purchases thus have two main effects on bond prices and yields:
+
+
+
+Raising subordination risk. The rise in yields for distressed sovereigns at the time of
+announcement of a debt swap (in favor of the ECB) reflects a net expected transfer of
+value from private bond holders to the ECB. This subordination will also undermine
+the effects of any future SMP purchases because sovereigns will face higher issuance
+cost on any bonds not purchased by the ECB.
+
+
+
+Improving liquidity. To the extent that the SMP improves liquidity conditions, it
+would reduce the probability of default and hence increase the value of residual
+bonds. This happens when the ECB provides vital liquidity to the market, and
+ultimately to peripheral governments. Investors would be reassured that the ECB is
+willing to smooth out temporary liquidity shocks. Also, a lower interest rate could
+decrease the default probability by improving debt sustainability. This beneficial
+effect would be enhanced by a credible and clearly communicated SMP intervention
+strategy.
+
+Therefore, the net impact of the subordination versus the liquidity support effect on bond
+prices is ex ante ambiguous.
+CDS–reduced form model
+13.
+Along the same lines, CDS pricing implicitly reflects liquidity and seniority
+effects. CDS and bonds should be perfectly cointegrated, as they are assets with exactly the
+same cash flow and thus the same price.7 At the same time, the CDS model allows
+illustrating the role of SMP interventions somewhat differently and illustrates the role of
+credibility in SMP interventions (although this is also implicit in bond prices). More
+specifically:
+7
+
+Note, however, that the CDS-bond basis may widen due to credit tightness or relative margin requirements
+(see, e.g., Garleanu and Pedersen (2011)).
+
+53
+
+
+Liquidity effect. Starting from a standard CDS pricing formula, SMP interventions –
+by lowering sovereign yields, assuming the intervention is credible and sustained (see
+below) – reduce the cumulative probability of default (PD), which has a non-linear
+(but less than proportional) impact on CDS spreads:
+CDS = LGD x (1 – (1- PD)1/n)
+where n denotes the number of periods
+Figure 5. Role of SMP Purchases in a CDS Model
+(years). In the subsequent analysis, we
+LGD Rises Faster as SMP Holdings and
+abstract from real world versus risk-neutral
+Debt/GDP
+Debt Restructuring Needs Increase
+100%
+drops by
+PDs, which is analyzed elsewhere.8
+90%
+0
+
+
+
+Subordination risk. Due to perceived
+senior creditor status, SMP purchases may
+increase private sector loss given default
+(LGD) and possibly offset the lower
+probability of default.
+
+14.
+LGD for private bondholders increases
+with debt restructuring needs and the size of
+ECB holdings. Intuitively, in case of a debt
+restructuring, the LGD will depend on how much
+debt/GDP reduction is needed (ΔD/GDP) and on
+the participation rate. Using this fact, official
+sector holdings have a non-linear impact on
+expected private sector loss given default/haircut.9
+If the ECB is expected to be exempt from PSI, as
+in Greece, a higher ECB share of debt holdings, b,
+will increase the private sector haircut or LGD.
+
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+SMP debt share
+1200
+
+CDS Spreads for Given PD and SMP Share
+
+1000
+)s 800
+p
+(b
+d600
+a
+e
+r
+sp
+S 400
+D
+C
+
+PD
+
+200
+0
+0
+
+20
+
+40
+
+60
+
+80
+
+SMP debt share
+
+Source: IMF staff calculations.
+
+Combining these elements gives:
+
+LGD = (ΔD/GDP)/(1- b)
+This makes it clear that the negative effect of SMP purchases rises progressively with an
+increase in debt as it entails larger haircuts (see top panel of Figure 5).
+Substitution in the previous equation yields
+CDS = (ΔD/GDP)/(1- b) x (1 – (1- PD)1/n)
+This shows that an increase in the share of SMP purchases b increases CDS spreads but more
+strongly so when CDS prices are already high (i.e, when PD is more elevated) and to a
+8
+
+Note that the use of PDs abstract from the debate on real world versus risk neutral probabilities. As shown in
+Bilal and Singh (2012), there may be substantial differences between the two.
+9
+This point is also made in Lin and Mutkin (2012).
+
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+
+54
+limited extent when CDS premia are low, i.e., only when default or restructuring fears come
+into play (see lower panel of Figure 5). When putting this in a dynamic context (although not
+explicitly done in this model), the beneficial effect of SMP interventions can be shown to
+hinge on the ECB’s credibility of its SMP intervention strategy: subordination may lead to
+self-fulfilling default dynamics (upward shift of the PD line), if, similar to models of
+currency crises, the central bank’s purchases are not able to offset the increased private
+sector loss given default owing to the ECB subordination effect. This may occur when the
+ECB is not able to lower spreads (or yields) which would otherwise help improve debt
+sustainability and contribute to lowering the PD (or at least keep the PD unchanged).
+D.
+
+Conclusions
+
+15.
+This SIP illustrates that the SMP may have a subordination effect, but this effect
+will be important only at the margin-as was the case in Greece- and depends on the
+program’s credibility. The rise in yields for the most distressed sovereigns at the time of
+announcement of the ECB’s exemption from the Greek PSI reflected a net expected transfer
+of value from private sovereign bond holders to the ECB. This de facto subordination may
+undermine future SMP interventions because sovereigns may face higher issuance cost on
+any bonds not purchased by the ECB. As shown theoretically, this subordination effect
+depends on three factors: probability of default, loss given default and the share of ECB bond
+holdings. At low default probability levels, when LGD is relatively low and the debt market
+share of SMP is not too high, subordination risk plays a limited role. This is also borne out
+by the analysis in a CDS model, where further SMP interventions have a negative effect only
+when adjustment needs are very high or CDS spreads are already extremely high. The latter
+also helps to illustrate the importance of the ECB’s credibility on the SMP: if it is low, SMP
+interventions may be unable to stop self-fulfilling debt default dynamics. This may occur
+when the ECB is not able to reduce sovereign spreads or yields, which would otherwise
+support debt sustainability and be conducive to lowering the PD.
+16.
+Should anything be done to accommodate market fears about subordination by
+SMP purchases? SMP subordination currently does not seem to play a large role in pricing
+and markets. However, in principle it is possible to attenuate market fears about SMP
+subordination (beyond what is captured in our stylized models) by transferring some of the
+benefits for the ECB back to private sector bond holders.
+
+55
+E.
+
+References
+
+Bilal, Mohsan and M. Singh, 2012, “CDS Spreads in European Periphery: Some Technical
+Issues to Consider”, IMF Working Paper 12/77 (March).
+Lin, Elaine and Lawrence Mutkin, 2012, “SMP subordination is overstated”, European
+Interest Rate Strategist, Morgan Stanley, (April).
+European Commission, 2011, “Technical Details of a Possible EU Framework for Bank
+Recovery and Resolution,” DG Internal Market and Services Working Document,
+January 6 (Luxembourg)
+________ (2012), Proposal for a Directive of the European Parliament and of the Council
+Establishing a Framework for the Recovery and Resolution of Credit Institutions and
+Investment Firms, June 6
+Garleanu, Nicolae and Lasse Heje Pedersen, 2011, Margin-Based Asset Pricing and
+Deviations from the Law of One Price, The Review of Financial Studies, 24(6), 19802022
+MacKinley, 1997, Event studies in economics and finance, Journal of Economic Literature
+
+56
+Annex. Valuation of Sovereign Bonds with ECB Senior Creditor Status
+Ex ante: ECB pari passu with private bond holders
+Suppose a country’s debt is trading at 60 cents on the euro (q0). This, for instance, could
+reflect market estimates of 80 percent default probability (PD) with 50 percent loss given
+default (LGD, i.e., upon default, the country can repay half of the total face value of bonds).
+The overall discount is 40 percent, beyond the risk-free discount, which is assumed to be
+zero. This means that, if the total face value F is 100 million euro, then the total market value
+V0 is 60 million euro. These relationships can be captured by the following simple valuation
+equation:
+V0 = (1 – PD*LGD)*F,
+and the price that trades at is q0 = V0 / F.
+Assume that the ECB’s share is b percent of the total outstanding. Then, b percent of the
+market value is held by the ECB and the rest is by the private sector. The values of ECB’s
+holding VE0 and the private sector’s VP0 are
+VE0 = b*V0,
+VP0 = V0 – VE0,
+
+and
+respectively.
+
+For example, if the ECB holds 20 percent, the value of ECB’s holding is just 20 percent of
+the original market valuation V0. The price (q0) is unchanged to any level of b.
+
+Ex-post: ECB as senior creditor
+What if the ECB becomes a senior creditor? As shown below, the effect on existing debt
+depends on the share (b) of the ECB. Note, however, that what is important is the expectation
+of b from the future SMP. And, uncertainty about b can create further distress.
+When the ECB was shielded from the Greek bond exchange, private sector’s claims suddenly
+became subordinated. This lowered the value of bonds left in the hands of the private sector.
+Amid expectations that the senior status would be granted to the ECB regarding other Euroarea government bonds, their prices should also fall (i.e., yields went up). The degree of price
+decline varies with three factors: the probability of default PD, the loss given default LGD,
+and the ECB’s holding share of the outstanding bonds b.
+The reason why ECB’s claim depends on its holding share is that its b percent holdings of
+bonds are now repaid before the private sector’s claim. The private sector’s claim is only the
+residual:
+VP1 = V0 – VE1.
+If its face value claim is less than what the country can repay, the ECB’s claim would be
+fully guaranteed; that is, its’ loss given default (LGDE1) would be zero. Otherwise, the ECB
+would take all the repayments although it only owns b percent of total outstanding.
+
+57
+LGDE1 = 0 ,
+= 1 – (1 – LGD)/ b,
+
+if b (1 – LGD).
+otherwise.
+
+The ECB’s holding is theoretically valued at VE1 by using the loss given default that the ECB
+faces:
+VE1 = (1 – PD*LGDE1)*b*F.
+And, the (shadow) price that the ECB faces is
+qE1 = 1 – PD*LGDE1.
+The price that the private sector pays is now changed to the ratio of their valuation to the face
+value of the bonds that they possess,
+qP1 = VP1 / (1 – b)F.
+
+

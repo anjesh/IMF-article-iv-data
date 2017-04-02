@@ -1,0 +1,7195 @@
+© 2009 International Monetary Fund
+
+April 2009
+IMF Country Report No. 09/131
+
+Lebanon: 2009 Article IV Consultation and Assessment of Performance Under the
+Program Supported by Emergency Post-Conflict Assistance—Staff Report; Public
+Information Notice on the Executive Board Discussion; and Statement by the Executive
+Director for Lebanon
+Under Article IV of the IMF’s Articles of Agreement, the IMF holds bilateral discussions with
+members, usually every year. In the context of a combined discussion of the 2009 Article IV
+consultation with Lebanon and the assessment of performance under the program supported by the
+emergency post-conflict assistance, the following documents have been released and are included in
+this package:
+•
+
+The staff report for the combined 2009 Article IV Consultation and Assessment of
+Performance Under the Program Supported by Emergency Post-Conflict Assistance, prepared
+by a staff team of the IMF, following discussions that ended on March 5, 2009, with the
+officials of Lebanon on economic developments and policies. Based on information available
+at the time of these discussions, the staff report was completed on March 31, 2009. The views
+expressed in the staff report are those of the staff team and do not necessarily reflect the
+views of the Executive Board of the IMF.
+
+•
+
+A Public Information Notice (PIN), summarizing the views of the Executive Board as
+expressed during its April 15, 2009, discussion of the staff report on issues related to the
+Article IV consultation and the IMF arrangement, respectively.
+
+•
+
+A statement by the Executive Director for Lebanon.
+
+The policy of publication of staff reports and other documents allows for the deletion of market-sensitive
+information.
+Copies of this report are available to the public from
+International Monetary Fund • Publication Services
+700 19th Street, N.W. • Washington, D.C. 20431
+Telephone: (202) 623-7430 • Telefax: (202) 623-7201
+E-mail: publications@imf.org • Internet: http://www.imf.org
+
+International Monetary Fund
+Washington, D.C.
+
+INTERNATIONAL MONETARY FUND
+LEBANON
+Staff Report for the 2009 Article IV Consultation and Assessment of Performance
+Under the Program Supported by Emergency Post-Conflict Assistance
+Prepared by Middle East and Central Asia Department
+(In consultation with other departments)
+Approved by Ratna Sahay and Ranil Salgado
+March 31, 2009
+•
+
+Team: Mr. Fanizza (head), Mr. Gardner (Senior Resident Representative), Messrs. Finger and
+Sdralevich (all MCD), Lopez Murphy (FAD) and Weisfeld (SPR).
+
+•
+
+Mission dates: February 19–March 5, 2009.
+
+•
+
+Counterparts: central bank governor; ministers of finance, economy and trade, labor,
+telecommunications, tourism, and energy; members of parliament and political parties, the
+Banking Control Commission (BCC), senior government officials, and representatives of the
+banking sector, the business community, and donor countries.
+
+•
+
+Communication: The mission held a closing press conference together with the minister
+of finance (http://www.imf.org/external/np/sec/pr/2009/pr0963.htm).
+
+•
+
+Use of Fund Resources: Two drawings under Emergency Post-Conflict Assistance (EPCA) in
+April 2007 (25 percent of quota or SDR 50.75 million) and in November 2008 (12.5 percent of
+quota or SDR 25.375 million).
+
+•
+
+2007 Article IV consultation: concluded by the Executive Board on October 3, 2007
+(http://www.imf.org/external/pubs/cat/longres.cfm?sk=21510.0).
+
+•
+
+Article VIII: Lebanon has accepted the obligations of Article VIII, Sections 2, 3, and 4 in 1993
+and maintains an exchange system free of restrictions on the making of payments and transfers
+for current international transactions. The exchange rate regime is a conventional pegged
+arrangement, with the Lebanese pound kept around a mid-point parity of LL 1,507.5 per
+U.S. dollar since October 1999.
+
+•
+
+Lebanon participates in the General Data Dissemination Standards. The fiscal ROSC was
+published May 16, 2005, and the last FSAP update was concluded in 2001.
+
+•
+
+This report reflects information through March 20, 2009.
+
+2
+Contents
+
+Page
+
+Executive Summary...................................................................................................................4
+I. Introduction ............................................................................................................................5
+II. Navigating the Crisis.............................................................................................................7
+III. Authorities’ Policies for 2009............................................................................................11
+A. Maintaining a Strong Reserve Buffer in Times of Uncertainty ..............................13
+B. Containing the Government’s Financing Needs and Reducing Debt .....................14
+C. Strengthening the Banking Sector...........................................................................18
+IV. Medium-Term Plans to Tackle Vulnerabilities .................................................................18
+V. Other Issues.........................................................................................................................22
+VI. Staff Appraisal ...................................................................................................................22
+Boxes
+1. Performance Under EPCA and Implementation of Past Fund Advice ..............................6
+2. The Lebanese Banking Sector in the Face of the Global Crisis ........................................9
+3. Remittances in Lebanon...................................................................................................10
+4. Lebanon and the GCC......................................................................................................11
+5. Deposit Growth................................................................................................................12
+6. Social Safety Nets in Lebanon.........................................................................................16
+7. Shock Scenarios for Debt Sustainability Analysis...........................................................20
+Text Figures
+International Reserves........................................................................................................5
+Eurobond and Credit Default Swap Spreads .....................................................................5
+Commercial Bank Deposits ...............................................................................................7
+Deposit Dollarization and Interest Rate Spread.................................................................7
+Government Debt and Fiscal Deficit .................................................................................7
+Contribution to Headline CPI Inflation..............................................................................8
+GDP Growth and Coincident Activity Indicator, 2005–08 ...............................................8
+Exchange Rate Developments .........................................................................................14
+Government FX Debt Service..........................................................................................17
+Text Tables
+Real Exchange Rate Overvaluation Estimates Using CGER Approaches ......................13
+Gross Financing Needs and Sources, 2008–09................................................................17
+Paris III Aid......................................................................................................................19
+Projected Yield from the Authorities’ Fiscal Measures, 2010–14...................................19
+
+3
+Figure
+1. Public Debt Sustainability, 2004–14..................................................................................21
+Tables
+1. Selected Economic Indicators, 2006–14............................................................................26
+2. Central Government Overall Deficit and Financing, 2006–14
+(In billions of Lebanese pounds)........................................................................................27
+3. Central Government Overall Deficit and Financing, 2006–14
+(In percent of GDP) ...........................................................................................................28
+4. Government Debt, 2006–14...............................................................................................29
+5. Monetary Survey, 2006–09................................................................................................30
+6. Balance of Payments, 2006–14..........................................................................................31
+7. Banking Sector Financial Soundness Indicators, 2006–08................................................32
+8. Public Sector Debt Sustainability Framework, 2006–14...................................................33
+9. Indicators of Financial and External Vulnerability, 2006–09............................................34
+10. External Financing Requirements and Sources, 2006–10 .................................................35
+11. Indicators of Capacity to Repay the Fund, 2006–14..........................................................36
+12. Monitorable Actions, December 2008–June 2009.............................................................37
+13. Quantitative Indicative Targets Under the Program Supported by
+Emergency Post-Conflict Assistance, December 2008–June 2009 ...................................38
+
+4
+EXECUTIVE SUMMARY
+Impact of the crisis
+Despite its large vulnerabilities, Lebanon has so far weathered the global financial crisis and
+succeeded in maintaining financial stability, raising international reserves, and reducing
+public debt in 2008. The economy achieved record growth, and Eurobond spreads are now
+lower than the emerging market average. Fund engagement in Lebanon through the EPCA
+(which was broadly on track at end-December) has contributed to this performance. Lower
+global liquidity and the world economic downturn, particularly in the Gulf, will likely affect
+Lebanon in 2009, with lower growth and deposit inflows.
+Policy discussions
+Lebanon’s economy and financial system face three key risks: a larger-than-expected impact
+of the global recession and slowdown in the Gulf; more difficult-than-anticipated
+government financing; and political and security shocks, particularly in coincidence with the
+June elections. To address these risks, the authorities intend to:
+•
+
+Further accumulate reserves to preserve confidence through a sufficiently high
+interest rate differential between domestic currency and foreign currency rates;
+
+•
+
+Maintain the debt-to-GDP ratio constant to protect fiscal achievements and
+allowing the 2009 financing needs to be met from the market, while addressing the
+potential social needs arising from the effects of the global recession;
+
+•
+
+Step up their vigilance over the banking sector, as banks could be hit by a
+stronger-than-expected fall in deposit growth or a worsening in loan quality.
+
+The Paris III agenda will remain the anchor for medium-term plans focusing on continued
+fiscal consolidation mainly through revenue measures, such as an increase in VAT rate, and
+the reduction in the large losses at Electricité du Liban (EdL). In addition, the telecom
+privatization would boost private sector activity and further reduce the debt.
+Staff appraisal
+•
+
+Staff agrees with the authorities’ view of the risks in 2009, particularly in light of
+their possible combined effect, which warrant the preparation of contingency plans;
+
+•
+
+Monetary and exchange rate policy is broadly appropriate, but, given the downside
+risks, staff recommended a tighter fiscal stance in 2009 to keep unchanged financing
+requirements and ensure continued debt reduction;
+
+•
+
+Restarting the medium-term Paris III agenda should be priority after the elections.
+
+5
+I. INTRODUCTION
+1.
+Despite its large vulnerabilities, Lebanon has so far weathered the global
+financial crisis. Lebanon’s public debt-to-GDP ratio remains among the highest in the world.
+Its banking system, with assets of more than three times nominal GDP, is highly exposed to
+the sovereign, and dependent on deposit inflows from nonresidents. Moreover, the country
+lies at the crossroads of regional and international political tensions. Despite these
+challenges, Lebanon has managed to maintain financial stability since the global crisis
+erupted in September 2008. There have been no pressures on the peg so far, and the
+Banque du Liban (BdL) has continued to accumulate international reserves at a swift pace.
+Deposit inflows took a short breather after the Lehman failure, but have resumed at a rapid
+pace since then, and deposit dollarization has declined steadily. Eurobond and Credit Default
+Swap (CDS) spreads are now below the emerging market average, and the banking system
+has withstood the global financial crisis.
+
+25
+20
+
+1400
+
+Lebanon: International Reserves
+(In billions of US dollars)
+
+1200
+1000
+
+15
+
+Lebanon: Eurobond and Credit Default Sw ap Spreads
+(In basis points)
+EM B IG Lebano n
+EM B IG Co mpo site
+
+800
+
+CDS Lebano n
+
+10
+600
+
+5
+
+400
+
+0
+-5
+Jan-05
+
+200
+
+Gross reserves excld. gold
+Net foreign exchange position
+Sep-05
+
+May-06
+
+Jan-07
+
+Sep-07
+
+May-08
+
+Jan-09
+
+0
+Jan-08 Mar-08 May-08 Jul-08 Sep-08 Nov-08 Jan-09 Mar-09
+
+2.
+The improved political and security situation has been crucial to this outcome.
+The Doha agreement in May 2008 put an end to the armed fighting between supporters of the
+majority and minority coalitions, and opened the way to the formation of a unity government
+to take the country to the June 2009 general elections.
+3.
+Fund engagement in Lebanon through the EPCA policy has contributed to
+the economy’s resilience. The authorities’ macroeconomic policies have been supported
+by the international community—most notably at the Paris III donor conference in
+January 2007—and by the Fund, through a quarterly monitoring framework and two
+drawings under the Emergency Post-Conflict Assistance policy, in April 2007 and
+November 2008.
+
+6
+Box 1. Performance Under EPCA and Implementation of Past Fund Advice
+The end-December 2008 quantitative indicative targets have been met, but there are
+some slippages in structural policies. The primary balance excluding grants and net
+government borrowing from the BdL have comfortably met the respective targets, and gross
+international reserves of the BdL have exceeded the target by $1.8 billion (around 10 percent of
+reserves). Lower oil prices have reduced the pressure to adjust electricity tariffs (though
+electricity subsidies remain significant), resulting in the non-observance of the corresponding
+end-December monitorable action. In January 2009, the BdL established an investment
+committee and prepared formal guidelines for foreign reserve management (end-December
+monitorable action).
+The authorities also reported progress toward achieving the end-March monitorable
+actions. In part due to the worse international financial conditions, telecom privatization has
+been postponed, and the associated monitorable action to launch the request for applications will
+not be met. The draft Global Income Tax bill will be submitted to the Council of Ministers by
+end-March and soon thereafter to Parliament, likely implying a minor delay in the corresponding
+monitorable action. The BdL has already adopted the policies for the selection, appointment, and
+rotation of external auditors (end-June monitorable action).
+Economic policy since the Paris III conference has been broadly in line with the Fund’s
+policy advice. The Paris III medium-term economic and reform program was developed in close
+consultation with staff. While the planned fiscal consolidation and structural reforms have
+repeatedly been postponed due to the difficult security situation and the worsening of the
+political tensions between the government and the opposition, the Paris III program remains the
+anchor for medium-term policy objectives. Implementation of the program supported by the first
+drawing under EPCA was successful despite slippages in structural policies. The Fund has
+supported the authorities’ view that the peg remains instrumental in maintaining financial
+stability.
+
+4.
+
+Policy discussions focused on the authorities’ objectives:
+
+•
+
+In the near term, safeguarding the recent progress, in particular with regard to
+international reserve accumulation and fiscal consolidation, and preparing the
+economy to withstand the impact of a deepening global economic and financial crisis;
+
+•
+
+In the medium term, relaunching the Paris III agenda, and in particular sustained
+debt reduction and structural reform.
+
+7
+II. NAVIGATING THE CRISIS
+5.
+The authorities’ policies in 2008 put Lebanon in a position to weather the first
+round impact of the crisis:
+•
+
+Monetary and exchange rate policy aimed at building up international reserves.
+To this end, the BdL allowed a growing deposit interest rate differential in favor of
+the local currency in order to maintain confidence in the Lebanese financial system,
+attract deposit inflows, and promote a de-dollarization of deposits.
+85
+
+20 6
+
+Lebanon: Commercial Bank Deposits
+
+80
+Lebanon: Deposit Dollarization and Interest Rate
+Spread
+
+18
+
+80
+
+16
+14
+
+75
+
+5
+
+78
+76
+
+4
+
+74
+
+12
+
+72
+
+10 3
+70
+
+6
+Level in billio ns o f U.S.
+do llars, left axis
+
+65
+
+Y-o -y gro wth in percent,
+right axis
+
+60
+Jan-07
+
+•
+
+Jun-07
+
+Nov-07
+
+Apr-08
+
+Sep-08
+
+4
+
+2
+
+68
+66
+
+1
+
+Do llarizatio n, right axis
+
+2
+
+0
+Feb-09
+
+Fiscal policy capitalized on the 2008
+growth dividend to achieve further
+reduction in public debt. Revenues
+increased, following the unprogrammed
+reintroduction of the gasoline excises,
+made politically more acceptable by
+lower oil prices. 1 The primary fiscal
+balance (excluding grants) reached
+0.5 percent of GDP in 2008, helping
+the public debt decrease from 168 to
+162 percent of GDP in the course of the
+year.
+
+1
+
+70
+
+8
+
+64
+
+Depo sit rate spread (LL minus $ ), left axis
+
+0
+Jan-07 May-07 Sep-07
+
+15
+14
+
+62
+Jan-08 May-08 Sep-08
+
+Jan-09
+
+Lebanon: Government Debt and Fiscal Deficit
+(In Percent of GDP)
+
+13
+
+185
+180
+175
+
+12
+11
+
+170
+
+10
+165
+
+9
+8
+7
+6
+5
+2005
+
+160
+Government debt, right axis
+
+155
+
+Overall fiscal deficit, left axis
+2007
+
+In January 2009, the authorities fixed the excise level at fixed at LL470 and uncapped the price of gasoline.
+
+150
+2009
+
+8
+6.
+Given the improved political
+and macroeconomic situation,
+Lebanon achieved record growth in
+2008. With a pick-up in activity in the
+second half of the year driven by
+construction and tourism, real GDP
+achieved a growth of more than 8 percent
+for the year. In line with international
+prices, inflation declined to 4 percent in
+January 2009. Despite a strong export
+performance (26 percent growth in
+2008), high oil prices and strong
+domestic demand pushed the current
+account deficit to over 11 percent in 2008.
+
+16
+
+16
+
+Contribution to Headline CPI Inflation
+(y-o-y, in percent)
+
+14
+
+14
+
+12
+
+Food and beverages
+
+12
+
+10
+
+Transportation and
+telecommunications
+Other
+
+10
+
+8
+
+8
+
+6
+
+6
+
+4
+
+4
+
+2
+
+2
+
+0
+
+0
+
+-2
+Jan-06
+
+Jul-06
+
+Jan-07
+
+Jul-07
+
+Jan-08
+
+Jul-08
+
+-2
+Jan-09
+
+Lebanon: GDP Growth and Coincident Activity Indicator, 2005–08
+220
+
+25
+Coincident indicator
+(LHS)
+
+200
+
+20
+15
+10
+
+180
+
+5
+160
+
+0
+-5
+
+GDP growth (in
+percent, RHS)
+
+140
+
+-10
+
+120
+
+-15
+2005Q1
+
+2005Q3
+
+2006Q1
+
+2006Q3
+
+2007Q1
+
+2007Q3
+
+2008Q1
+
+2008Q3
+
+7.
+However, the worsening international macroeconomic outlook will affect
+Lebanon in 2009. The authorities expect lower global liquidity and the world economic
+downturn, particularly in the Gulf, to affect remittances, tourism, foreign direct and portfolio
+investment, as well as deposit inflows. Thus, growth is likely to slow to 3 percent this year
+from over 8 percent in 2008, and deposit growth is expected to decline to 10 percent from
+15 percent in 2008. Inflation will remain low, in line with international price trends. Lower
+oil prices will reduce the current account deficit, even though the capital account will likely
+weaken due to lower investment flows.
+
+9
+Box 2. The Lebanese Banking Sector in the Face of the Global Crisis
+Banks have so far been little affected by the global financial crisis.
+•
+
+While commercial bank assets amount to 324 percent to GDP, one of the highest ratios among
+emerging markets, banks source around 90 percent of their non-equity funding from deposits,
+which has served them well as global
+wholesale funding dried up. The
+90
+Non-deposit funding
+relationship-based banking system and the
+80 (percent of liabilities)
+Iceland
+large Lebanese diaspora support a solid
+Latvia
+70
+U.K.
+deposit base that has proven resilient in
+60
+Bahrain
+the past even when faced with large
+50
+HKG1/
+domestic shocks. Banks also maintain
+Singapore
+40 Ukraine
+large liquidity buffers, with a 50 percent
+Jordan
+30
+U.A.E.
+ratio of liquid assets to short-term
+Pakistan
+20
+Lebanon
+Egypt
+liabilities (including deposits).
+Total assets
+10
+
+•
+
+0
+Banks have also been largely insulated
+0
+200
+400
+600
+800
+from financial losses on their assets. High
+So urces : Lebanes e autho rities , IFS, and Fund s taff
+1/ China,P .R.:Ho ng Ko ng
+exposure to the sovereign and new growth
+opportunities in the region
+Ukraine
+have ensured bank
+profitability and reduced the
+UAE
+need to search for yield in the
+Lebanon
+high-risk market segments at
+China, P.R.: Hong Kong
+the heart of the global crisis.
+Bahrain
+Moreover, prudent bank
+regulation strongly
+Iceland
+Interest margin,
+discouraged exposure to
+percentage points
+Singapore
+structured products and
+Return on assets,
+UK
+limited the banks’ exposure to
+percent
+real estate speculation. While
+1
+2
+3
+4
+5
+6
+Source: Bankscope 0
+Lebanese banks maintain
+large liquid foreign assets, they did not suffer significant losses (equivalent to less than
+1 percent of core capital) following the failure of Lehman and the troubles of regional banks
+in Kuwait and the UAE.
+
+Morocco
+
+(percent of GDP)
+
+Banks suffer, however, from long-standing structural vulnerabilities. Commercial bank assets
+are concentrated on the sovereign, which accounts for 55 percent of assets. Moreover, banks carry
+a substantial maturity mismatch from funding their lending operations largely from short-term
+deposits, and a significant indirect currency exposure from foreign exchange lending to unhedged
+clients. Looking forward, the fall in the stock market (which at end-February had lost 26 percent
+year-on-year), the end of the housing boom, and the projected economic slowdown more generally
+could lead to an increase in non-performing loans (from 3.1 percent at end-2008), including from
+regional operations. However, stress tests carried out by the Banking Control Commission (BCC)
+have shown that banks could easily absorb a hypothetical increase in non-performing loans by
+50 percent, to levels experienced after the 2006 war with Israel.
+
+10
+Box 3. Remittances in Lebanon
+Remittances to Lebanon are among the highest in the world. Reflecting both a rising global trend
+in remittances and the size of the Lebanese diaspora, gross remittances inflows have grown to an
+estimated 20 percent of GDP in 2008, placing the country among the largest recipients of remittances
+as a share of GDP in the world. With remittances outflows estimated at 8 percent of GDP, net
+remittances inflows amounted to 12 percent of GDP.
+Top Ten Recipients of Gross Remittances, 2007
+(In percent of GDP )
+50
+45
+40
+35
+30
+25
+20
+15
+10
+5
+0
+
+El
+Salvador
+
+Kyrgyz
+Republic
+
+Jordan
+
+Moldova
+
+Haiti
+
+Honduras
+
+Lebanon
+
+Guyana
+
+Tonga
+
+Tajikistan
+
+Gross
+Net
+
+The continuing global economic downturn is likely to lead to a marked decline in remittances.
+Some 54 percent of remittances to Lebanon originate in the Gulf Cooperation Council (GCC) and
+another 16 percent in Australia, the US, and Canada. The projected decline in GDP growth in these
+countries in 2009 is estimated to bring about a fall in gross and net remittances inflows of up to
+12 percent (2.4 percent of GDP) and 25 percent (3 percent of GDP) respectively in 2009.
+
+11
+Box 4. Lebanon and the GCC
+There are strong economic links between Lebanon and the GCC:
+•
+
+Remittances from Lebanese living in the GCC amount to around half of total gross
+remittances to Lebanon. Anecdotal evidence and data on past migration flows suggest that up
+to 400,000 Lebanese are living in the Gulf, in large part well-educated professionals.
+
+•
+
+The GCC countries are Lebanese exports’
+largest market, with a share of 24 percent in
+2007.
+
+•
+
+•
+
+Tourists from the GCC are a significant
+fraction of total tourists to Lebanon. In 2008,
+they bought 48 percent of total hotel nights
+(excluding Lebanese nationals). GCC nationals
+also spend proportionately more than tourists
+from other countries.
+
+45
+40
+
+Share of GCC Imports and Exports
+(In percent)
+
+35
+
+Exports to GCC in percent of total exports
+
+30
+
+Imports from GCC in percent of total imports
+
+25
+20
+15
+10
+
+Direct investment flows from the GCC have
+5
+accounted for around 60 percent of total FDI to
+0
+Lebanon over the period 2002–07, more than
+1995A1 1997A1 1999A1 2001A1 2003A1 2005A1 2007A1
+half of which has been in real estate. Lebanon
+receives around one-third of all GCC investments to MENA countries. In addition, Gulf investors
+are thought to hold a large number of the high-value deposits at Lebanese banks.
+
+III. AUTHORITIES’ POLICIES FOR 2009 2
+8.
+The authorities see three key risks for the Lebanese economy and financial
+system, which present considerable challenges to Lebanon, particularly if they materialize at
+the same time:
+•
+
+First, the global recession and slowdown in the Gulf—even if cushioned by fiscal
+expansion—will affect capital flows and economic activity in Lebanon. While a soft
+landing in Lebanon remains the most likely outcome, there is a significant downside
+risk to domestic activity.
+
+•
+
+Second, government financing may become more difficult than anticipated if the
+fiscal stance is loosened, interest rates on government debt rise, or deposit inflows
+slow down.
+
+•
+
+Third, Lebanon remains exposed to political and security shocks, particularly in the
+run up to the elections.
+
+The authorities aim at minimizing the possible impact of these risks by further increasing the
+international reserve buffer, reducing fiscal vulnerabilities, containing financing needs, and
+strengthening the banking sector this year.
+2
+
+Staff’s views are given in Section VI.
+
+12
+Box 5. Deposit Growth
+Deposit growth remains the highest vulnerability to maintaining financial stability in
+Lebanon. The country’s large fiscal deficits have been financed to a substantial degree by
+domestic banks, which source their lending capacity largely from deposit growth. A severe
+slowdown in deposit growth could hence impede government market financing.
+Deposit growth has recently picked up markedly. Since the end of the civil war in 1990,
+annual deposit growth never fell below 4 percent even in the face of marked domestic shocks
+such as the near-debt crisis in 2002, the political turmoil after the assassination of former
+Prime Minister Rafik Hariri in 2005, and the 2006 war with Israel and ensuing domestic
+political deadlock (shaded areas in the figure below). During these crises, there were short-lived
+outflows that were quickly recovered. Since mid-2008, deposit growth has picked up
+considerably and, after a brief slowdown in the aftermath of the Lehman failure, reached
+15.6 percent in December 2008.
+A large share of deposit inflows comes from abroad, including the Gulf region. As a regional
+financial center, the Lebanese banking system sources a substantial share of its deposits from
+abroad. While reliable statistics are not available, anecdotal evidence points to the growing
+importance of the GCC, a popular destination for emigrants and migrant workers during the
+recent oil boom (see Box 4). Industrial countries, such as the United States, Canada, and
+Australia, also host a substantial share of the Lebanese diaspora and are an important source of
+Lebanese non-resident deposits (see Box 3).
+Nonetheless, domestic factors appear to have a stronger bearing on deposit growth than
+trends in the Gulf. Since the mid 1990s, deposit growth has moved broadly in line with the
+interest differential between local currency and U.S. dollar-denominated deposits (left panel),
+except during episodes of domestic shocks. However, deposit growth appears also to be
+increasingly correlated to the economic cycle in the GCC (right panel).
+16
+
+40
+
+14
+
+35
+
+12
+
+30
+
+25
+
+10
+
+25
+
+20
+
+8
+
+20
+
+15
+
+6
+
+15
+
+10
+
+4
+
+10
+
+5
+
+2
+
+5
+
+40
+35
+30
+
+(percent yoy)
+
+(percentage points)
+Deposit growth
+Interest differential (rhs)
+
+Correlation: 0.51
+0
+0
+1994 1996 1998 2000 2002 2004 2006 2008
+
+(percent yoy)
+
+(percent yoy)
+Deposit growth
+GCC Real GDP growth (rhs)
+
+15
+
+10
+
+5
+
+0
+
+Correlation: -0.27
+0
+-5
+1994 1996 1998 2000 2002 2004 2006 2008
+
+13
+A. Maintaining a Strong Reserve Buffer in Times of Uncertainty
+9.
+The BdL aims at further accumulating reserves to preserve confidence. To this
+end, the BdL intends to support deposit growth by keeping the interest rate differential
+between domestic currency and foreign currency rates at the current level. 3 The authorities
+acknowledge that the policy of reserve accumulation is ultimately costly for the government,
+the private sector, and the BdL balance sheet. Following the elections, they would consider a
+further reduction in domestic currency interest rates only if deposit growth holds up at a
+comfortable pace.
+10.
+The BdL continues to be of the view that maintaining the peg will serve as the
+lynchpin for Lebanon’s financial stability. This is essential given the currency mismatches
+deriving from both widespread deposit dollarization and the government’s high debt and debt
+service obligations in foreign currency. In the authorities’ view, the lack of pressures on the
+peg throughout 2008 and the beginning of 2009 constitutes further evidence of the
+appropriateness of the
+Lebanon: Real Exchange Rate Overvaluation Estimates Using CGER Approaches
+exchange rate regime.
+CGER Parameters 1/
+MCD Parameters 2/
+Looking ahead, the
+Macrobalance approach 3/
+authorities do not believe
+-5.3
+-7.4
+Norm
+that the projected slowdown
+Underlying
+Steady state
+Underlying
+Steady state
+in exports, tourism,
+Current account
+-5.8
+-7.9
+-5.8
+-7.9
+remittances, and capital
+Overvaluation
+1.2
+6.3
+-10.8
+3.3
+flows will endanger the
+0.7
+2.0
+External sustainability approach 4/
+targeted build-up of
+Min
+Max
+Equilibrium
+real
+exchange
+rate
+5/
+-12.1
+3.1
+international reserves within
+the context of the peg in
+1/ Using CGER parameters and a current account elasticity of 0.4 (see IMF Country Report No. 07/382 for a description
+the application of the exercise to Lebanon).
+2009, given a much reduced 2/ofUsing
+parameters calculated for MCD oil-importing countries and a Lebanon-specific current account elasticity of 0.15.
+parametrization, compares the norms with a) underlying 2008 current account stripped of temporary factors
+oil import bill and still large 3/andForb)each
+steady state (2014) current account.
+nonresident deposit inflows. 4/ Derived from the net external asset position-stabilizing current account.
+5/ Range of estimates obtained using different model specifications.
+They agree with the staff’s
+assessment that the real
+effective exchange rate is not out of line with fundamentals, although the recent strength of
+the U.S. dollar has led to the appreciation of the Lebanese pound in real effective terms
+(9 percent since last August).
+
+3
+
+The BdL’s key liquidity instrument is the 5-year LL Certificate of Deposit.
+
+14
+180
+
+190
+
+Lebanon: Exchange Rate Developments
+(Index, January 1995 = 100) 1/
+160
+
+170
+NEER (left-axis)
+REER (left-axis)
+
+150
+
+120
+
+130
+
+110
+
+140
+
+EURO/US$ (rightaxis)
+
+100
+
+80
+
+90
+
+1/ Increase indicates appreciation.
+60
+70
+1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009
+
+B. Containing the Government’s Financing Needs and Reducing Debt
+11.
+The authorities believe that, with the slowing down of economic activity, the
+process of fiscal consolidation cannot continue this year as planned. In principle, the
+authorities agree that domestic and external risks warrant an aggressive stance toward
+reducing the public debt. However, they believe that, right now, fiscal consolidation
+imperatives should be weighed against the potential social needs arising from the effects of
+the global recession and the political pressures generated by the forthcoming elections.
+12.
+The authorities see the 2009 draft budget as a reasonable compromise between
+these objectives. The budget envisages the primary balance (before grants) to fall to zero
+from 0.5 percent of GDP in 2008. The overall fiscal deficit would increase to 12.3 percent of
+GDP, 2.3 percentage points higher than 2008. The gross debt-to-GDP ratio would remain at
+162 percent. Fiscal space has opened up this year with the reintroduction of gasoline excises
+and the reduced need for budgetary transfers to Electricité du Liban (EdL) arising from lower
+fuel costs. With delayed privatization of the mobile phone companies, the expected loss in
+non-tax revenue in the second half of the year will not take place. In addition, the budget
+includes the revenue measures envisaged under EPCA: increase in interest income tax, 4
+removal of VAT refunds from exempted activities, imposition of rental charges on seashore
+valuations, and capital gains tax on an exceptional revaluation of assets, (these measures
+would yield 0.6 percent of GDP). These additional resources would finance increased
+
+4
+
+The draft budget law does not immediately introduce the interest tax rate, but grants the Cabinet the power to
+do so.
+
+15
+spending in wages and salaries (+2.1 percent of GDP over 2008), a part of which related to
+enhancing security, and higher capital expenditures (+1.2 percent of GDP). 5
+13.
+The government is preparing an anti-crisis action package. The authorities bank
+on the planned wage increases and one-off payments to public sector employees to boost real
+incomes and prop up consumption at a time when external demand might be flagging. But, to
+further counter the effect of the crisis, the authorities also prepared a draft anti-crisis plan that
+includes an acceleration and reprioritization of infrastructure spending by the Council for
+Development and Reconstruction, an expansion of interest subsidies for LL-denominated
+bank lending to the corporate sector, various measures to improve the business climate, and
+incentive programs to support job creation. The plan has not yet been fully costed, but the
+authorities believe that it is unlikely to have a significant impact on the overall fiscal stance.
+14.
+Budget implementation will be prudent. The implementation of the draft budget
+would still allow the authorities to meet the EPCA fiscal targets for March and June 2009. In
+case of revenue shortfall or expenditure overruns, the authorities are ready to consider
+additional measures to maintain the debt-to-GDP ratio constant. Should the budget fail to be
+approved, a significant portion of spending would be based on the 2005 budget (the last to be
+passed by parliament) and thus more easily contained, possibly bringing savings of up to
+0.6 percent of GDP compared to the draft budget.
+
+5
+
+The wage bill is projected to increase by 2.1 percentage points of GDP in 2009. Of this increase,
+0.9 percentage points derive from the full annual impact of the wage increase approved in September 2008. The
+remaining 1.2 percentage points result from: a) one-off retroactive payments dating back to 1996-98 (0.65
+points), b) an increase in the public sector grade scale (0.2 points), c) hiring of additional teachers, security
+personnel and contractual public workers not subject to the public sector hiring freeze (0.3 points), and d) a
+special allowance to the army (0.05 points).
+
+16
+Box 6. Social Safety Nets in Lebanon
+Poverty in Lebanon is high. According to the UNDP, 28 percent and 8 percent of the
+population in 2004-05 could be considered respectively poor and very poor. Poverty is
+concentrated outside Beirut, in the North and in the South of the country. The Gini coefficient, at
+0.37, was close to the MENA average; the bottom 20 percent of the population accounted for
+7 percent of consumption, while the top 20 percent accounted for 43 percent of consumption.
+Social spending in Lebanon is high, but its share specifically allocated to poor households
+(i.e., safety nets) is small. While spending in education, health, pensions and social assistance
+accounted approximately for 30 percent of primary expenditures in 2007, social assistance was
+less than 20 percent of this amount. Significant budgetary resources are used for electricity
+subsidies (transfers to EDL), which absorbed 23 percent of primary spending in 2008 but mainly
+benefit the top income bracket customers, who consume more electricity per capita.
+The effectiveness of safety nets is undermined by the lack of coordination between the
+various providers. Most of the benefits financed through the Ministry of Social Affairs (MoSA)
+are provided by a range of welfare institutions and non-governmental organizations contracted by
+the MoSA, resulting in extensive overlaps and administrative waste.
+The government developed in 2007 a Social Action Plan (SAP) to reduce poverty, improve
+social indicators, and achieve the Millennium Development Goals. The SAP contains a
+medium-term strategy to introduce safety net programs such as: i) cash transfers to the very poor
+households; ii) school feeding, books, stationery, and transportation facilities to students living in
+poor locations; and iii) free hospitalization for all households under the poverty line.
+The MoSA, in conjunction with the World Bank, is now working on a National Targeting
+Program (NTP). One of the main goals of the NTP is to develop a credible and reliable
+database, enabling an objective assessment of households’ welfare so as to more effectively
+target safety net programs. A pilot is now being conducted in three low-income districts, with the
+objective of extending it gradually to the national level.
+
+17
+
+Dec-09
+
+Nov-09
+
+Oct-09
+
+Sep-09
+
+Aug-09
+
+Jul-09
+
+Jun-09
+
+May-09
+
+Apr-09
+
+Mar-09
+
+Feb-09
+
+Jan-09
+
+15.
+Despite the likely slowdown
+1000
+in deposit growth, the authorities
+Lebanon: Government FX Debt Service
+900
+expect to meet the 2009 financing
+(In millions of U.S. dollars)
+800
+needs from the market. A peak in
+debt service swells the government’s
+700
+Rolled over in March 2009
+gross financing needs in 2009 to
+exchange
+600
+Debt service (net of rollover)
+LL 21.9 trillion, of which the foreign
+500
+currency share is LL 8.5 trillion
+400
+(US$5.6 billion). Nevertheless, the
+300
+authorities believe that domestic
+200
+commercial banks will be able to
+100
+finance these needs through treasury
+0
+bills and Eurobonds (of which banks
+are the main holders), even if there is
+little rollover by international
+investors. The authorities were encouraged by the successful completion in March 2009 of an
+Eurobond exchange which rolled over $1.9 billion in maturities coming due later in the year
+(implying a rollover rate of 83 percent) and provided new cash for around $440 million, with
+yields ranging from 7.5–9 percent for the
+Lebanon: Gross Financing Needs and Sources, 2008–09
+new instruments depending on maturity. The
+2008
+2009
+exchange should be sufficient to bridge the
+(in billions of Lebanese pounds)
+financing needs until after the June elections,
+Gross financing needs
+20,260
+21,859 when the authorities plan to issue new
+Overall fiscal deficit
+4,300
+5,791 Eurobonds to roll over maturing instruments
+Amortization
+15,960
+16,068
+and raise new borrowing, provided that the
+Gross financing sources
+20,260
+21,859 latter is authorized by parliament through the
+Domestic currency
+16,515
+14,552 budget law or separate legislation.
+Eurobond
+3,381
+6,071
+Domestic banks
+1,453
+5,710 Throughout the year, external financing will
+Other
+1,928
+361 also be forthcoming from donors, mostly in
+Concessional borrowing
+364
+1,235
+the context of the Paris III commitments. In
+Memo items (in percent):
+order to protect the foreign exchange buffer,
+Eurobond rollover rate
+92
+149
+Domestic banks
+61
+238 the government will avoid to the extent
+Other
+152
+21 possible relying on central bank financing.
+16.
+The authorities are considering contingency plans in case financing difficulties
+materialize. A discussion of stress tests developed by staff highlighted that the authorities’
+financing plans are highly dependent on deposit growth, and underlined the importance of
+preparing contingency plans. Should deposit growth slow to critical levels, the authorities
+will consider a policy response that would include: (i) higher interest rates; (ii) a temporarily
+lower accumulation of international reserves; (iii) further fiscal adjustment, such as
+compression of discretionary spending, additional increases in excises and/or bringing
+forward the VAT hike now slated for 2010; and (iv) efforts to mobilize additional donor
+support.
+
+18
+C. Strengthening the Banking Sector
+17.
+The authorities are stepping up their vigilance over the banking sector. The
+authorities believe that the banking system is in a good position to address a
+stronger-than-expected fall in deposit growth, or a significant worsening in loan quality—in
+Lebanon or in the regional operations—under the stress of the slowdown in the real
+economy. Nevertheless, the BCC has strengthened reporting requirements on domestic and
+foreign operations, carried out stress tests for the banking system and intensified on-site
+inspections specifically aimed at assessing the impact of the global financial turbulence. To
+further increase the already high capitalization of banks, the BdL has recently recommended
+limiting dividend payments to 25 percent of 2008 profits. Finally, the BdL, in coordination
+with the government and the BCC, has prepared draft legislation for the creation of the
+regulatory authority for financial markets, which are currently supervised jointly by the BdL
+and the BCC.
+18.
+In the authorities’ view, the current banking resolution framework provides for
+a flexible response capability. The authorities recently enacted a revised bank merger law,
+which enables the BdL to deal preemptively with troubled banks. The law, in line with past
+practice, is designed to prevent to the extent possible bank failures, relying on mergers and
+takeovers by sounder banks rather than outright bankruptcy. The authorities also developed
+plans to reform the deposit insurance fund, the coverage of which, at just over $3000 per
+depositor, is clearly inadequate. However, given the advantage of maintaining regulatory
+stability at this time, they intend to proceed with this reform after international financial
+conditions improve.
+IV. MEDIUM-TERM PLANS TO TACKLE VULNERABILITIES
+19.
+There is broad agreement across the political spectrum that reducing the high
+public debt-to-GDP ratio and launching structural reforms are the key medium-term
+priorities. The outcome of the June 2009 elections is uncertain. However, the authorities’
+view of the Paris III agenda as the anchor for medium-term plans is likely to be shared by
+any future government. On that basis, medium-term fiscal tightening would mainly rely on
+the already planned gradual increase in the VAT rate from 10 to 15 percent, the introduction
+of the Global Income Tax, and cuts in non-essential expenditures. Further savings would
+come from tackling the large losses at EdL—a key priority—since, despite the fall in
+international oil prices, current electricity tariffs still imply a significant untargeted subsidy,
+underscoring the need for a tariff revision. The authorities also see as a priority the launch of
+the privatization of the mobile phone providers as soon as market conditions allow, thus
+boosting private sector activity and reducing the debt.
+20.
+Timely and flexible disbursement of Paris III pledges is another important
+element of the authorities’ strategy. While progress has been made in the disbursement of
+these pledges, disbursements have fallen short of expectations partly because of political and
+security conditions and longer than expected negotiations. Furthermore, given the relatively
+
+19
+insufficient share of budget support in the total, disbursements have not been fully aligned
+with the goal of debt reduction.
+Lebanon: Paris III Aid
+(In millions of U.S. dollars)
+Of Which: New Grants and Loans to Government
+
+Total
+Pledges 1/
+Total
+
+Pledges
+Of Which:
+Budget
+Support
+Total
+
+7,565
+
+5,018
+
+Multilateral
+
+3,978
+
+Bilateral
+
+3,587
+…
+
+Memorandum item:
+Other grants and loans 2/
+
+Oct–Dec 2008
+Jan 2007–Sep
+2008 Received
+
+EPCA
+Prog.
+
+Received
+
+2009 Proj.
+
+2007–09
+Total
+
+2,327
+
+933
+
+172
+
+20
+
+685
+
+1,639
+
+2,213
+
+835
+
+161
+
+107
+
+20
+
+320
+
+500
+
+2,805
+
+1,492
+
+773
+
+65
+
+0
+
+366
+
+1,138
+
+…
+
+…
+
+428
+
+93
+
+70
+
+268
+
+766
+
+Sources: Lebanese authorities, and Fund staff estimates.
+1/ Pledges for support to Lebanon through the government, the private sector, United Nations organizations and civil society organizations.
+2/ Not Paris III-related: support related to reconstruction after the 2006 war with Israel, reconstruction of surrounding areas of the
+Nahr El-Bared refugee camp, and various project grants and loans.
+
+21.
+Several structural fiscal reforms are under preparation. Parliament approved the
+tax procedure code at end 2008, even though several associated regulations are still pending.
+A cash management unit was legally created by end 2008 and is implementing a pilot on
+monthly payment forecasts with three line ministries. The draft Global Income Tax bill
+should be submitted to the Council of Ministers and Parliament in the coming months. The
+authorities are in the early stages of restructuring the tax administration. Finally, the Treasury
+Single Account legislation is under examination in parliament.
+
+Lebanon: Projected Yield from the Authorities' Fiscal Measures: 2010–14
+Implementation
+Risk 2/
+
+3.9
+2.2
+0.8
+0.6
+0.3
+
+Medium
+Medium
+Low
+Low
+
+High
+Medium
+High
+Unknown
+
+0.0
+0.0
+0.0
+
+3.0
+0.2
+2.8
+
+Low
+Medium
+
+Medium
+High
+
+0.0
+0.0
+0.0
+0.0
+
+-0.1
+0.0
+0.0
+0.0
+
+1.5
+3.2
+0.1
+-1.8
+
+Medium
+n.a.
+n.a.
+
+High
+n.a.
+n.a.
+
+1.6
+
+0.1
+
+5.5
+
+n.a.
+
+n.a.
+
+2011
+
+4.5
+
+0.6
+
+Revenue
+Increase in the VAT rate (from 10 to 15 percent)
+Introduction of the global income tax
+Increase in gasoline excises to their pre-capping level
+Taxation of seashore properties (penalties)
+
+1.6
+0.8
+0.3
+0.3
+0.3
+
+0.5
+0.0
+0.3
+0.2
+0.0
+
+0.2
+0.0
+0.2
+0.0
+0.0
+
+1.6
+1.5
+0.0
+0.0
+0.0
+
+0.0
+0.0
+0.0
+0.0
+0.0
+
+Expenditure
+Cuts in non-essential spending
+Reduction in EdL losses
+
+2.9
+0.1
+2.8
+
+0.1
+0.1
+0.0
+
+0.0
+0.0
+0.0
+
+0.0
+0.0
+0.0
+
+Other developments 3/
+Revenue loss due to privatization
+WTO accession (costs)
+Other 4/
+
+1.6
+2.0
+0.1
+-0.5
+
+0.9
+1.2
+0.0
+-0.3
+
+-1.0
+0.0
+0.0
+-1.0
+
+Change in primary balance (excluding grants)
+
+2.9
+
+-0.4
+
+1.3
+
+Fiscal measures
+
+2012
+
+Technical
+Risk 1/
+
+2010
+
+2013
+
+2014
+
+Gain
+
+(In percent of GDP)
+0.2
+1.6
+0.0
+
+Sources: IMF staff projections. Figures may not add up due to rounding.
+1/ Refers to the technical risk (e.g., simulations based on inadequate data, etc.) in achieving the expected yield.
+2/ Refers mainly to political risk.
+3/ Positive values indicate loss of revenue or higher spending.
+4/ Includes increases in capital spending; and settlement of past NSSF dues.
+
+6.9
+
+20
+
+Box 7. Lebanon: Shock Scenarios for Debt Sustainability Analysis
+Even with an ambitious debt reduction strategy, Lebanon will remain vulnerable to shocks for
+many years. With full implementation of the strategy, primary surpluses (excluding grants) could
+reach over 5 percent of GDP over the medium term, and with this, government debt could decline
+to around 136 percent of GDP by 2014. However, this scenario is ambitious, and substantial risks to
+the downside remain: higher interest rates, lower economic growth, or delays in policy
+implementation could imply a renewed increase in the debt-to-GDP ratio.
+Panel 1: The baseline scenario—implementation of Paris III reform measures.
+Panel 2: A permanent increase in the real interest rate of 220 basis points (i.e., one-half standard
+deviation from its past distribution) relative to the baseline.
+Panel 3: A permanent decrease in real GDP growth of 1.6 percentage points (i.e., one-half of the
+standard deviation from its past distribution).
+Panel 4: Limited implementation of the fiscal reforms that would halve the yield from the fiscal
+reform package during 2010–14. This implies that the primary surplus would converge to
+about 3.0 percent of GDP in 2014 (baseline: 5.8 percent).
+Panel 5: Failure to implement a fiscal consolidation process keeping a nil primary balance in 2009
+and in the medium term; medium-term growth assumed one percentage point lower than
+in the baseline.
+Panel 6: No privatization—since privatization essentially brings forward the income stream from
+the privatized companies, the scenarios with and without privatization converge to the
+same debt ratio in the long run. However, this abstracts from the negative impact that
+abandoning privatization plans would have on growth and, possibly, interest rates.
+
+21
+Figure 1. Lebanon: Public Debt Sustainability, 2004–14
+(Public debt in percent of GDP)
+Panel 1: Baseline Scenario
+200
+
+200
+
+180
+
+180
+
+160
+
+160
+
+100
+
+80
+
+80
+2006
+
+2008
+
+2010
+
+i-rate
+shock
+
+120
+
+Baseline
+
+100
+
+2012
+
+2014
+
+60
+2004
+
+Panel 3: Growth Shock 1/
+(In percent per year)
+
+Baseline
+
+136
+
+Baseline:
+Shock:
+Historical:
+2006
+
+2008
+
+5.8
+8.0
+8.0
+
+2010
+
+2012
+
+2014
+
+Panel 4: Primary Balance Shock 2/
+(In percent of GDP)
+200
+
+200
+Growth
+shock
+
+180
+
+180
+158
+
+Hist.
+
+160
+
+160
+Hist.
+
+140
+
+137
+
+100
+
+Baseline:
+Shock:
+
+80
+
+Historical:
+2006
+
+2008
+
+2010
+
+4.0
+2.4
+4.0
+2012
+
+2014
+
+100
+
+Baseline:
+
+80
+
+Shock:
+Historical:
+
+60
+2004
+
+Panel 5: No Fiscal Consolidation 3/
+
+142
+136
+
+PB shock
+
+120
+
+Baseline
+
+145
+
+Baseline
+
+140
+
+136
+
+120
+
+2006
+
+2008
+
+3.7
+2.1
+0.6
+
+2010
+
+2012
+
+2014
+
+Panel 6: No Privatization 4/
+200
+
+200
+
+No fiscal
+consolidation
+
+180
+
+190
+
+180
+No privatization
+160
+
+160
+140
+
+136
+
+100
+
+80
+
+80
+
+2008
+
+2010
+
+2012
+
+2014
+
+Baseline
+
+120
+
+100
+
+2006
+
+146
+
+140
+
+Baseline
+
+120
+
+60
+2004
+
+157
+
+140
+
+120
+
+60
+2004
+
+Hist.
+136
+
+140
+
+60
+2004
+
+Panel 2: Real Interest Rate Shock 1/
+(In percent)
+
+60
+2004
+
+2006
+
+2008
+
+2010
+
+136
+
+2012
+
+2014
+
+Sources: International Monetary Fund, country desk data, and staff estimates.
+1/ Growth and interest rate shocks are permanent one-half standard deviation shocks. Figures in the boxes
+represent average projections for the respective variables in the baseline scenario and shock scenario; historical
+refers to 10-year averages.
+2/ The planned revenue and expenditures reforms generate less than half of the estimated yield of the baseline
+scenario. This leads to a primary surplus of 3 percent of GDP by 2014.
+3/ Nil primary balance in 2009 and in the medium term, no privatization, and medium term growth assumed one
+percentage point lower than in the baseline.
+4/ No privatization in the projected period. Assumes no adverse dynamic impact of no privatization.
+
+22
+22.
+The authorities recognize the need to strengthen the BdL’s balance sheet over
+the medium term. The planned fiscal consolidation, together with de-dollarization, will
+allow a lowering of interest rates and help strengthen the BdL’s balance sheet. Privatization
+of the assets held by the central bank once market conditions permit will also help its
+financial balance, while contributing to the government’s growth agenda.
+V. OTHER ISSUES
+23.
+The mission discussed technical assistance (TA) needs and the new charging
+policy. The mission stressed that the Fund stands ready to provide assistance particularly in
+the areas of public financial management, tax administration, banking regulation/supervision,
+Anti-Money Laundering (AML) and Combating the Financing of Terrorism (CFT), central
+bank reforms, and statistical issues (below). The authorities expressed interest in a possible
+FSAP update in the course of 2009.
+24.
+The authorities are reinforcing their AML/CFT framework. In order to
+implement the Special Recommendations of the Financial Action Task Force (FATF), the
+authorities are improving the existing AML legislation, which would now also cover CFT.
+The amendments increase the powers of Lebanon’s Special Investigative Commission, an
+independent financial intelligence unit with judicial status charged with implementing AML,
+and stiffen the penalties for AML breaches. Lebanon is currently undergoing an AML/CFT
+assessment by MENAFATF (a FATF-style regional body).
+25.
+The authorities are improving their statistical systems, but significant data
+problems remain. With support from INSEE, they are improving the quality of GDP data
+and the timeliness of their dissemination, recently publishing national accounts to 2007. In
+2008, they have also launched an improved CPI index with the help of TA from the Fund.
+However, statistical provision in other areas (balance of payments, employment, wage and
+social indicators) remains seriously deficient. The authorities agree that improvement in
+statistical systems are essential to support economic analysis and policy making, and the next
+government is expected to increase investment in statistical resources.
+VI. STAFF APPRAISAL
+26.
+Achievements: The resilience of the Lebanese economy in the midst of the ongoing
+global crisis demonstrates the benefits of macroeconomic policy discipline under the EPCA
+and strict oversight on the financial sector. International reserves have hit a record high. The
+banking sector has not come under stress. Lebanese Eurobonds have outperformed the
+emerging market average. So far, there are not clear signs of slowdown in economic activity.
+Thus, Lebanon has been insulated from the global deleveraging process that has hit those
+financial systems flushed with high-risk structured products or with a risky funding structure.
+
+23
+27.
+The EPCA: The quarterly monitoring framework set up in the context of the two
+drawings under EPCA has proved to be an effective tool to support the authorities’ efforts to
+preserve macroeconomic and financial stability despite the difficult domestic political
+conditions and the increasingly challenging external environment. The authorities deserve
+merit for having met all quantitative targets with substantial margins. However, while
+slippages in the structural reform agenda reflect the domestic and international environment,
+a swift implementation of the reform agenda after the elections is necessary to make inroads
+toward reducing Lebanon’s vulnerabilities.
+28.
+Challenges and risks: These successes do not leave scope for complacency. The
+deepening global recession and the dysfunctional international credit markets make it even
+more urgent for Lebanon to address its still high vulnerabilities. Short-term policies will need
+to be geared toward reducing the possible impact from the downward risks to the outlook by
+safeguarding the recent progress toward debt sustainability and a stronger external position.
+The possible confluence of domestic political uncertainty, regional instability, and the
+faltering global economic conditions constitute the main risk. Therefore, both monetary and
+fiscal policies need to be prudent, and financial supervision vigilant. Proactive contingency
+planning should also top the policy agenda.
+29.
+Monetary and exchange rate policies: Monetary policy needs to continue to
+safeguard the peg, a prerequisite for financial stability given the large currency mismatches
+of the government, corporate, and household sectors, and the government’s high debt and
+debt service obligations in foreign currency. Staff estimates suggest that the real exchange
+rate remains broadly in line with fundamentals. Given the various risks, staff agrees with the
+authorities that there is not much scope for lowering interest rates in the near term. This
+cautious approach should last at least until the elections to attract deposit inflows, foster dedollarization, and buttress the international-reserve buffer to insure against a confidence
+backlash.
+30.
+Fiscal stance: Lebanon’s high debt level does not leave scope for countercyclical
+action. The moderate loosening in the fiscal stance in the 2009 draft budget will bring to a
+halt the recent decline in the debt-to-GDP ratio, substantially widen the government overall
+deficit, and could complicate government financing in case downside risks to the scenario
+materialize. Thus, staff believe that a primary surplus of close to 2 percent of GDP would be
+desirable, to preserve the trend toward debt reduction and maintain an unchanged overall
+financing requirements in 2009. While the current political circumstances, the likely
+slowdown in economic growth, and the soaring wage bill could make it difficult to attain this
+target, staff believe that strict expenditure restraint in the run up to the elections and the
+implementation of the Paris III fiscal policy package thereafter should aim at achieving a
+significantly higher primary balance than envisaged by the draft budget. Staff, therefore,
+recommends that any revenue over-performance be saved and any shortfall in capital
+spending be preserved.
+
+24
+31.
+Fiscal rigidities: The spending increase for wages and salaries is likely to absorb the
+fiscal space created by the drop in international oil prices and the welcome reintroduction of
+the gasoline excise in 2009. While the increase reflects in part the realization of contingent
+liabilities and unsustainable wage compression in the past, it adds a substantial budgetary
+rigidity and raises fiscal risk. Much of this increase will be permanent, whereas part of the
+fiscal space gained through reduced transfers to EdL depends on highly volatile oil prices. A
+targeted redirecting of expenditures would help meet the authorities’ social objectives much
+more efficiently than generalized wage increases. Careful phasing of expenditures is also
+needed to meet the fiscal targets under EPCA.
+32.
+Contingency planning for government financing: The seizure in international
+capital markets and wider fiscal deficit will increase the burden on domestic banks to provide
+government financing, at a time of a slowdown in deposit growth. Staff agrees that under
+prudent assumptions banks should be able to provide sufficient financing, even in the
+absence of funding from international investors. Nevertheless, contingency planning remains
+essential to face the risk that election-related political uncertainty and a prolonged global
+recession could translate into a more substantial drop in deposit inflows. Staff and the
+authorities agree that the appropriate response would include a combination of fiscal
+adjustment, a lower pace of reserve accumulation, higher interest rates, and possibly
+additional use of Fund resources.
+33.
+Banking sector: The specific funding and asset structure of banks, backed by
+effective banking supervision and regulation, have shielded the Lebanese banking system
+from exposure to global liquidity shortages, structured products, and real estate. Looking
+forward, continued vigilance is needed, since banks may still be affected by the global
+financial crisis, and the slowdown in growth in Lebanon and in the region could raise nonperforming loans, although provisioning and capitalization remain sizeable. The authorities’
+heightened focus on the bank resolution framework, including through the implementation of
+the merger law, is welcome, as it would help address potential negative effects of the global
+financial crisis on Lebanese banks.
+34.
+The Paris III agenda: The proximity of the general elections and the global financial
+crisis has delayed implementation of key structural reforms that supported the debt reduction
+objectives of the Paris III agenda. There are three top priorities. First, the energy sector
+absorbs an unacceptably high amount of budgetary resources, and dampens Lebanon’s
+growth and productivity potential because of its inefficiencies. Despite the drop in
+international prices, current tariffs imply a significant untargeted subsidy that needs to be
+eliminated. Second, proceeding with the planned privatization of the mobile phone providers
+as soon as market conditions allow could go a long way toward promoting private sector
+growth and reducing debt-related vulnerabilities. Third, a gradual increase in the VAT rate to
+15 percent would be needed to bring primary surpluses to levels that would approach debt
+sustainability over the medium term. Implementing these measures may prove to be difficult,
+but remains necessary to move towards sustainability. However, even under full
+
+25
+implementation of the Paris III agenda, vulnerabilities would decline only gradually and
+significant risks would persist for many years.
+35.
+Donor disbursements: Timely and flexible disbursement of the Paris III pledges is a
+key component of the debt reduction strategy. Unfortunately, disbursements have fallen short
+of expectations. Progress on the Paris III agenda, on which much of the pledges were
+conditioned, should help accelerate disbursements. Staff supports the authorities’ request that
+donors provide as much budgetary support as possible.
+36.
+BdL balance sheet: The decline in international interest rates has highlighted the cost
+of maintaining high domestic interest rates to attract inflows and increase reserves. Action is
+needed to strengthen the BdL balance sheet. Staff believes the BdL should consider shifting
+from issuing higher-yielding securities toward using its large T-bill portfolio as the main tool
+for sterilizing excess liquidity. This would lower sterilization costs for the BdL and support
+fiscal discipline by making the cost of government financing more transparent. Over time a
+stronger fiscal position and reduced dollarization will also help strengthen the BdL balance
+sheet.
+37.
+Data issues: The authorities have improved significantly GDP and CPI statistics.
+However, data insufficiencies still hamper the analysis of real and external sector
+developments. High-level commitment by the next government and by the BdL is needed to
+address these shortcomings through a comprehensive strategy to strengthen statistics.
+38.
+It is proposed that the next Article IV consultation be held on the standard 12-month
+cycle.
+
+22.4
+
+-5.6
+199
+11,353
+7
+32
+30
+21.9
+
+2009
+Proj.
+
+2010
+Proj.
+
+24.8
+0.9
+34.6
+-9.9
+1.6
+0.7
+162
+
+21.4
+1.7
+19.8
+10.1
+-8.2
+18.3
+
+20.5
+2.4
+18.0
+10.4
+-8.2
+18.7
+23.4
+0.2
+34.0
+-10.7
+2.8
+2.6
+144
+
+(In percent of GDP)
+25.2
+24.4
+0.4
+0.4
+37.5
+34.2
+-12.3
+-9.8
+0.5
+3.3
+0.0
+3.0
+162
+146
+
+4.0
+3.0
+2.6
+3.2
+
+2011
+Proj.
+
+(In percent of GDP)
+21.1
+23.5
+2.9
+2.7
+18.2
+20.8
+10.5
+13.5
+-9.4
+-7.0
+20.0
+20.5
+
+(Annual percentage change)
+8.5
+3.0
+4.0
+6.5
+5.0
+2.0
+6.4
+3.9
+2.9
+10.8
+3.6
+2.1
+
+2008
+Est.
+
+25.0
+
+28.9
+
+31.3
+
+33.2
+
+35.6
+
+(In percent of GDP, unless otherwise indicated)
+-11.4
+-10.5
+-10.0
+-10.0
+191
+182
+181
+186
+18,769
+20,866
+24,312
+25,391
+8
+8
+9
+9
+40
+44
+47
+44
+43
+47
+50
+48
+28.2
+28.4
+30.1
+28.8
+
+(Annual percentage change, unless otherwise indicated)
+10.9
+15.5
+10.0
+10.0
+9.0
+0.4
+0.4
+0.4
+0.3
+0.3
+
+24.4
+1.4
+35.3
+-10.9
+1.7
+0.3
+168
+
+27.4
+2.4
+25.0
+20.3
+-8.5
+28.8
+
+7.5
+3.8
+6.0
+4.1
+
+2007
+Act.
+
+-7.1
+194
+11,496
+5
+30
+27
+19.7
+
+Sources: Lebanese authorities; and Fund staff estimates.
+1/ Defined as currency in circulation plus resident and non-resident deposits.
+2/ Short-term debt on a remaining maturity basis.
+
+Memorandum item:
+Nominal GDP (in billions of U.S. dollars)
+
+External sector
+Current account including official transfers
+Total external debt
+Gross reserves (in millions of U.S. dollars)
+In months of next year imports of goods and services
+In percent of short-term external debt 2/
+In percent of banking system foreign currency deposits
+In percent of total banking system deposits
+
+6.4
+0.4
+
+25.1
+2.9
+35.5
+-10.4
+2.6
+-0.4
+180
+
+Public finances (cash basis)
+Revenue (including grants)
+of which: grants
+Expenditure
+Budget balance (including grants)
+Primary balance (including grants)
+Primary balance (excluding grants)
+Total government debt
+
+Monetary sector
+Broad money 1/
+Velocity of broad money (level)
+
+22.7
+2.5
+20.2
+17.1
+-7.8
+24.9
+
+0.6
+2.0
+7.2
+5.6
+
+Investment and saving
+Gross capital formation
+Government
+Nongovernment
+Gross national savings
+Government
+Nongovernment
+
+Output and prices
+Real GDP (market price)
+GDP deflator
+Consumer prices (end-of- period)
+Consumer prices (period average)
+
+2006
+Act.
+
+Table 1. Lebanon: Selected Economic Indicators, 2006–14
+
+37.9
+
+-9.6
+194
+27,148
+9
+42
+47
+28.3
+
+9.0
+0.3
+
+23.8
+0.2
+32.5
+-8.7
+4.1
+3.8
+144
+
+22.5
+2.5
+20.0
+12.9
+-6.2
+19.1
+
+4.5
+1.9
+2.6
+2.0
+
+2012
+Proj.
+
+40.4
+
+-8.9
+194
+29,322
+9
+42
+46
+28.0
+
+9.0
+0.3
+
+25.3
+0.3
+31.4
+-6.1
+5.7
+5.4
+141
+
+32.1
+2.6
+29.5
+23.2
+-3.4
+26.7
+
+4.5
+2.1
+2.1
+2.2
+
+2013
+Proj.
+
+43.1
+
+-7.9
+194
+32,376
+9
+44
+47
+28.3
+
+9.0
+0.3
+
+25.3
+0.3
+29.3
+-4.0
+5.8
+5.5
+136
+
+29.8
+2.6
+27.2
+21.9
+-1.4
+23.3
+
+4.5
+2.2
+2.2
+2.2
+
+2014
+Proj.
+
+26
+
+27
+Table 2. Lebanon: Central Government Overall Deficit and Financing: 2006–14
+2006
+Year
+Act.
+
+2007
+Year
+Act.
+
+2008
+Year
+Prel.
+
+2009
+Year
+Proj.
+
+2010
+Year
+Proj.
+
+2011
+Year
+Proj.
+
+2012
+Year
+Proj.
+
+2013
+Year
+Proj.
+
+2014
+Year
+Proj.
+
+(In billions of Lebanese pounds, unless otherwise indicated)
+Revenue and grants
+Revenue
+Tax revenue
+Taxes on income and profits
+Taxes on property
+Taxes on domestic goods and services
+Of which: VAT revenues
+Taxes on international trade 1/
+Other taxes
+Nontax revenue
+Entrepreneurial and property income
+Administrative fees and charges
+Other nontax revenue
+Other treasury revenue
+Grants
+
+8,486
+7,490
+4,922
+1,166
+579
+1,844
+1,659
+1,074
+259
+2,219
+1,702
+426
+91
+349
+996
+
+9,221
+8,696
+5,581
+1,307
+532
+2,224
+2,003
+1,247
+271
+2,648
+2,141
+421
+86
+467
+525
+
+10,799
+10,412
+7,241
+1,622
+786
+2,895
+2,584
+1,588
+350
+2,613
+2,028
+484
+101
+558
+387
+
+11,912
+11,711
+8,239
+1,894
+702
+3,082
+2,758
+2,193
+368
+2,999
+2,407
+474
+118
+473
+201
+
+12,217
+12,019
+9,215
+2,074
+878
+3,604
+3,304
+2,269
+390
+2,302
+1,535
+503
+264
+502
+198
+
+12,521
+12,401
+10,209
+2,559
+940
+3,838
+3,517
+2,454
+418
+1,654
+982
+539
+134
+537
+121
+
+13,588
+13,452
+11,113
+3,031
+1,001
+4,071
+3,728
+2,565
+445
+1,778
+1,062
+573
+143
+561
+136
+
+15,434
+15,277
+12,780
+3,249
+1,068
+5,282
+4,917
+2,705
+475
+1,911
+1,147
+612
+152
+586
+157
+
+16,443
+16,261
+13,591
+3,456
+1,140
+5,632
+5,242
+2,855
+507
+2,058
+1,242
+653
+163
+613
+182
+
+12,289
+7,051
+3,307
+1,137
+2,607
+140
+87
+878
+507
+136
+995
+4,381
+2,368
+2,013
+857
+446
+411
+
+13,291
+7,657
+3,583
+1,182
+2,892
+198
+84
+828
+952
+612
+830
+4,732
+2,515
+2,217
+903
+442
+461
+
+15,159
+9,451
+4,027
+2,315
+3,109
+273
+106
+657
+746
+282
+1,327
+4,979
+2,847
+2,132
+729
+425
+304
+
+17703
+10,355
+5,340
+1,754
+3,261
+267
+112
+853
+825
+244
+1,204
+6,003
+3,648
+2,355
+1,345
+895
+450
+
+17106
+9,168
+5,653
+465
+3,050
+273
+114
+799
+586
+0
+1,278
+6,565
+4,268
+2,297
+1,373
+900
+473
+
+18253
+9,708
+6,043
+506
+3,159
+281
+118
+828
+603
+0
+1,329
+7,233
+4,766
+2,467
+1,311
+805
+506
+
+18548
+9,821
+6,018
+537
+3,266
+287
+120
+855
+615
+0
+1,388
+7,284
+4,844
+2,440
+1,444
+907
+537
+
+19126
+10,385
+6,431
+573
+3,381
+293
+123
+886
+627
+0
+1,451
+7,140
+5,101
+2,039
+1,602
+1,029
+573
+
+19067
+10,988
+6,875
+612
+3,501
+300
+126
+919
+640
+1
+1,516
+6,368
+4,988
+1,380
+1,712
+1,100
+612
+
+-3,803
+578
+
+-4,070
+662
+
+-4,360
+619
+
+-5,791
+212
+
+-4,889
+1,675
+
+-5,731
+1,502
+
+-4,960
+2,324
+
+-3,692
+3,448
+
+-2,624
+3,743
+
+293
+
+-34
+
+60
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+Overall balance (cash basis)
+Primary balance (cash basis)
+
+-3,510
+871
+
+-4,104
+627
+
+-4,300
+679
+
+-5,791
+212
+
+-4,889
+1,675
+
+-5,731
+1,502
+
+-4,960
+2,324
+
+-3,692
+3,448
+
+-2,624
+3,743
+
+Net financing
+Banking system
+Deposits
+Treasury Bills
+Eurobonds
+Government institutions
+Other creditors
+Tbills
+Eurobonds
+Concessional Loans
+Foreign Bonds
+Net change in arrears
+Exceptional financing 6/
+Change in accrued interest
+Valuation adjustment
+
+3,510
+1,935
+1,022
+267
+646
+867
+1,094
+-63
+1,052
+105
+0
+0
+0
+-196
+-190
+
+4,104
+-1,173
+-511
+-141
+-521
+1,483
+1,728
+-138
+1,179
+686
+0
+0
+2,380
+-45
+-268
+
+4,300
+3,232
+-3,034
+7,210
+-944
+266
+987
+166
+662
+159
+0
+0
+0
+-267
+82
+
+5,791
+6,596
+300
+2,981
+3,316
+472
+-1,277
+-579
+-1,333
+634
+0
+0
+0
+0
+0
+
+4,889
+-3,829
+-50
+149
+-3,929
+401
+146
+2,191
+-1,700
+73
+-419
+0
+8,172
+0
+0
+
+5,731
+3,431
+-50
+4,568
+-1,087
+429
+215
+643
+-470
+43
+0
+0
+1,657
+0
+0
+
+4,960
+4,203
+-50
+4,476
+-223
+457
+300
+593
+-96
+-196
+0
+0
+0
+0
+0
+
+3,692
+3,280
+-50
+4,609
+-1,279
+487
+-75
+594
+-553
+-116
+0
+0
+0
+0
+0
+
+2,624
+2,762
+-50
+2,886
+-74
+520
+-658
+-631
+-32
+6
+-1
+0
+0
+0
+0
+
+-418
+60,851
+30,647
+
+137
+63,364
+31,991
+
+232
+70,874
+31,868
+
+11
+76,365
+34,485
+
+1,478
+73,132
+28,511
+
+1,381
+77,256
+26,996
+
+2,188
+82,267
+26,480
+
+3,291
+86,009
+24,532
+
+3,562
+88,683
+24,431
+
+Total expenditures
+Current primary expenditure
+Wages, salaries and pensions
+Transfers to EDL 2/
+Other current
+Materials and supplies
+External services
+Transfers 3/ 4/
+Other
+Of which: housing compensation
+Other treasury outflows 5/
+Interest payments
+Domestic currency debt
+Foreign currency debt
+Capital expenditure
+Domestically financed
+Foreign financed
+Overall balance (checks issued)
+Primary balance (checks issued)
+Statistical discrepancy/float
+
+Memorandum items:
+Primary balance on a checks issued basis (excluding grants)
+Total government debt
+Of which: foreign denominated debt
+
+Sources: Lebanese authorities; and Fund staff estimates and calculations.
+1/ Includes domestic excises, which are collected at customs and are classified as taxes on international trade.
+2/ Excludes principal and interest payments paid on behalf of EdL.
+3/ From 2005 onward includes additional transfers to the social security funds (NSSF) to clear the stock of arrears.
+4/ Includes $275 million for telecom settlements (2006 and 2007).
+5/ Includes transfers to municipalities.
+6/ Debt cancellation and Banque du Liban revaluation of gold in 2007 and projected privatization proceeds in 2010-11.
+
+28
+
+Table 3. Lebanon: Central Government Overall Deficit and Financing: 2006–14
+2006
+Year
+Act.
+
+2007
+Year
+Act.
+
+2008
+Year
+Prel.
+
+2009
+Year
+Proj.
+
+2010
+Year
+Proj.
+
+2011
+Year
+Proj.
+
+2012
+Year
+Proj.
+
+2013
+Year
+Proj.
+
+2014
+Year
+Proj.
+
+(In percent of GDP, unless otherwise indicated)
+Revenue and grants
+Revenue
+Tax revenue
+Taxes on income and profits
+Taxes on property
+Taxes on domestic goods and services
+Of which: VAT revenues
+Taxes on international trade 1/
+Other taxes
+Nontax revenue
+Entrepreneurial and property income
+Administrative fees and charges
+Other nontax revenue
+Other treasury revenue
+Grants
+
+25.1
+22.1
+14.6
+3.4
+1.7
+5.5
+4.9
+3.2
+0.8
+6.6
+5.0
+1.3
+0.3
+1.0
+2.9
+
+24.4
+23.0
+14.8
+3.5
+1.4
+5.9
+5.3
+3.3
+0.7
+7.0
+5.7
+1.1
+0.2
+1.2
+1.4
+
+24.8
+23.9
+16.6
+3.7
+1.8
+6.6
+5.9
+3.6
+0.8
+6.0
+4.6
+1.1
+0.2
+1.3
+0.9
+
+25.2
+24.8
+17.5
+4.0
+1.5
+6.5
+5.8
+4.6
+0.8
+6.4
+5.1
+1.0
+0.3
+1.0
+0.4
+
+24.4
+24.0
+18.4
+4.1
+1.8
+7.2
+6.6
+4.5
+0.8
+4.6
+3.1
+1.0
+0.5
+1.0
+0.4
+
+23.4
+23.1
+19.0
+4.8
+1.8
+7.2
+6.6
+4.6
+0.8
+3.1
+1.8
+1.0
+0.3
+1.0
+0.2
+
+23.8
+23.6
+19.5
+5.3
+1.8
+7.1
+6.5
+4.5
+0.8
+3.1
+1.9
+1.0
+0.3
+1.0
+0.2
+
+25.3
+25.1
+21.0
+5.3
+1.8
+8.7
+8.1
+4.4
+0.8
+3.1
+1.9
+1.0
+0.3
+1.0
+0.3
+
+25.3
+25.0
+20.9
+5.3
+1.8
+8.7
+8.1
+4.4
+0.8
+3.2
+1.9
+1.0
+0.3
+0.9
+0.3
+
+Total expenditures
+Current primary expenditure
+Wages, salaries and pensions
+
+36.3
+20.8
+9.8
+
+35.2
+20.3
+9.5
+
+34.7
+21.7
+9.2
+
+37.5
+21.9
+11.3
+
+34.2
+18.3
+11.3
+
+34.0
+18.1
+11.3
+
+32.5
+17.2
+10.5
+
+31.4
+17.0
+10.6
+
+29.3
+16.9
+10.6
+
+3.4
+7.7
+0.4
+0.3
+2.6
+1.5
+0.4
+2.9
+13.0
+7.0
+6.0
+2.5
+1.3
+1.2
+
+3.1
+7.7
+0.5
+0.2
+2.2
+2.5
+1.6
+2.2
+12.5
+6.7
+5.9
+2.4
+1.2
+1.2
+
+5.3
+7.1
+0.6
+0.2
+1.5
+1.7
+0.6
+3.0
+11.4
+6.5
+4.9
+1.7
+1.0
+0.7
+
+3.7
+6.9
+0.6
+0.2
+1.8
+1.7
+0.5
+2.6
+12.7
+7.7
+5.0
+2.9
+1.9
+1.0
+
+0.9
+6.1
+0.5
+0.2
+1.6
+1.2
+0.0
+2.6
+13.1
+8.5
+4.6
+2.7
+1.8
+0.9
+
+0.9
+5.9
+0.5
+0.2
+1.5
+1.1
+0.0
+2.5
+13.5
+8.9
+4.6
+2.4
+1.5
+0.9
+
+0.9
+5.7
+0.5
+0.2
+1.5
+1.1
+0.0
+2.4
+12.8
+8.5
+4.3
+2.5
+1.6
+0.9
+
+0.9
+5.6
+0.5
+0.2
+1.5
+1.0
+0.0
+2.4
+11.7
+8.4
+3.3
+2.6
+1.7
+0.9
+
+0.9
+5.4
+0.5
+0.2
+1.4
+1.0
+0.0
+2.3
+9.8
+7.7
+2.1
+2.6
+1.7
+0.9
+
+-11.2
+1.7
+
+-10.8
+1.8
+
+-10.0
+1.4
+
+-12.3
+0.5
+
+-9.8
+3.3
+
+-10.7
+2.8
+
+-8.7
+4.1
+
+-6.1
+5.7
+
+-4.0
+5.8
+
+Transfers to EDL 2/
+Other current
+Materials and supplies
+External services
+Transfers 3/ 4/
+Other
+Of which: housing compensation
+Other treasury outflows 5/
+Interest payments
+Domestic currency debt
+Foreign currency debt
+Capital expenditure
+Domestically financed
+Foreign financed
+Overall balance (checks issued)
+Primary balance (checks issued)
+Statistical discrepancy/float
+
+0.9
+
+-0.1
+
+0.1
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+Overall balance (cash basis)
+Primary balance (cash basis)
+
+-10.4
+2.6
+
+-10.9
+1.7
+
+-9.9
+1.6
+
+-12.3
+0.5
+
+-9.8
+3.3
+
+-10.7
+2.8
+
+-8.7
+4.1
+
+-6.1
+5.7
+
+-4.0
+5.8
+
+Net financing
+Banking system
+Government institutions
+Other creditors
+Net change in arrears
+Exceptional financing 6/
+Change in accrued interest
+Valuation adjustment
+
+10.4
+5.7
+2.6
+3.2
+0.0
+0.0
+-0.6
+-0.6
+
+10.9
+-3.1
+3.9
+4.6
+0.0
+6.3
+-0.1
+-0.7
+
+9.9
+7.4
+0.6
+2.3
+0.0
+0.0
+-0.6
+0.2
+
+12.3
+14.0
+1.0
+-2.7
+0.0
+0.0
+0.0
+0.0
+
+9.8
+-7.6
+0.8
+0.3
+0.0
+16.3
+0.0
+0.0
+
+10.7
+6.4
+0.8
+0.4
+0.0
+3.1
+0.0
+0.0
+
+8.7
+7.4
+0.8
+0.5
+0.0
+0.0
+0.0
+0.0
+
+6.1
+5.4
+0.8
+-0.1
+0.0
+0.0
+0.0
+0.0
+
+4.0
+4.2
+0.8
+-1.0
+0.0
+0.0
+0.0
+0.0
+
+-1.2
+33,824
+180
+50
+
+0.4
+37,754
+168
+50
+
+0.5
+43,626
+162
+45
+
+0.0
+47,181
+162
+45
+
+3.0
+50,065
+146
+39
+
+2.6
+53,615
+144
+35
+
+3.8
+57,074
+144
+32
+
+5.4
+60,908
+141
+29
+
+5.5
+65,030
+136
+28
+
+Memorandum items:
+Primary balance on a checks issued basis (excluding grants)
+Nominal GDP (Annual and in billions of LL)
+Total government debt (in percent of GDP)
+Of which: foreign denominated debt (in percent of gross debt)
+
+Sources: Lebanese authorities; and Fund staff estimates and calculations.
+1/ Includes domestic excises, which are collected at customs and are classified as taxes on international trade.
+2/ Excludes principal and interest payments paid on behalf of EdL.
+3/ From 2005 onward includes additional transfers to the social security funds (NSSF) to clear the stock of arrears.
+4/ Includes $275 million for telecom settlements (2006 and 2007).
+5/ Includes transfers to municipalities.
+6/ Debt cancellation and Banque du Liban revaluation of gold in 2007 and projected privatization proceeds in 2010-11.
+
+29
+Table 4. Lebanon: Government Debt, 2006–14 1/
+2006
+Year
+Act.
+
+2007
+Year
+Act.
+
+2008
+Year
+Act.
+
+39,278
+
+40,606
+
+43,576
+
+2009
+Year
+Proj.
+
+2010
+Year
+Proj.
+
+2011
+Year
+Proj.
+
+2012
+Year
+Proj.
+
+2013
+Year
+Proj.
+
+2014
+Year
+Proj.
+
+47,942
+
+51,232
+
+53,681
+
+55,422
+
+(In millions of U.S. dollars)
+Net debt 2/
+Gross debt by holder
+Banking system
+Treasury bills
+Other domestic loans
+Eurobonds
+Nonbanks
+Treasury bills
+Government institutions 3/
+Other
+Eurobonds
+Concessional loans
+Foreign currency Tbonds
+Government deposits
+
+40,365
+29,405
+16,963
+334
+12,108
+10,961
+2,739
+2,198
+541
+5,432
+2,512
+278
+
+42,033
+28,942
+16,870
+310
+11,762
+13,090
+3,631
+3,181
+450
+6,214
+2,967
+278
+
+47,014
+33,093
+21,652
+304
+11,136
+13,922
+3,918
+3,358
+560
+6,653
+3,073
+278
+
+1,087
+
+1,426
+
+3,439
+
+47,417
+
+45,239
+
+50,656
+37,269
+23,630
+304
+13,335
+13,387
+3,847
+3,671
+176
+5,769
+3,493
+278
+
+48,512
+34,762
+23,729
+304
+10,729
+13,750
+5,566
+3,937
+1,629
+4,642
+3,542
+0
+
+51,248
+37,071
+26,759
+304
+10,008
+14,177
+6,277
+4,221
+2,056
+4,330
+3,570
+0
+
+54,572
+39,893
+29,728
+304
+9,860
+14,679
+6,973
+4,524
+2,449
+4,266
+3,440
+0
+
+57,054
+42,102
+32,786
+304
+9,011
+14,952
+7,691
+4,847
+2,843
+3,899
+3,363
+0
+
+58,828
+43,967
+34,700
+304
+8,962
+14,861
+7,617
+5,192
+2,425
+3,877
+3,367
+(1)
+
+3,240
+
+3,273
+
+3,306
+
+3,339
+
+3,372
+
+3,406
+
+(in percent of GDP)
+Net debt 2/
+
+175
+
+162
+
+151
+
+152
+
+136
+
+135
+
+135
+
+133
+
+128
+
+Gross debt by holder
+Banking system
+Treasury bills
+Other domestic loans
+Eurobonds
+Nonbanks
+Treasury bills
+Government Institutions 3/
+Other
+Eurobonds
+Concessional loans
+Foreign currency Tbonds
+
+180
+131
+76
+1
+54
+49
+12
+10
+2
+24
+11
+1
+
+168
+116
+67
+1
+47
+52
+14
+13
+2
+25
+12
+1
+
+162
+114
+75
+1
+38
+48
+14
+12
+2
+23
+11
+1
+
+162
+119
+75
+1
+43
+43
+12
+12
+1
+18
+11
+1
+
+146
+105
+71
+1
+32
+41
+17
+12
+5
+14
+11
+0
+
+144
+104
+75
+1
+28
+40
+18
+12
+6
+12
+10
+0
+
+144
+105
+79
+1
+26
+39
+18
+12
+6
+11
+9
+0
+
+141
+104
+81
+1
+22
+37
+19
+12
+7
+10
+8
+0
+
+136
+102
+80
+1
+21
+34
+18
+12
+6
+9
+8
+0
+
+5
+
+6
+
+12
+
+10
+
+10
+
+9
+
+9
+
+8
+
+8
+
+33,824
+50
+
+37,754
+50
+
+43,626
+45
+
+47,181
+45
+
+50,065
+39
+
+53,615
+35
+
+57,074
+32
+
+60,908
+29
+
+65,030
+28
+
+Government deposits
+Memorandum items:
+Nominal GDP
+Foeign currency debt ( in percent of gross debt)
+
+Sources: Lebanese authorities; and Fund staff estimates and calculations.
+1/ Includes all debt contracted by the treasury on behalf of the central government and public agencies other than the
+Banque du Liban; accrued interest; and Banque du Liban lending to Electricite du Liban. Excludes possible government
+arrears to the private sector.
+2/ Defined as gross debt less government deposits.
+3/ Denominated in domestic currency; mainly to the National Social Security Fund, and the National Deposit Insurance Fund.
+
+30
+
+Table 5. Lebanon: Monetary Survey, 2006–09
+2006
+Year
+Act.
+
+2007
+Year
+Act.
+
+2008
+Year
+Act.
+
+2009
+Year
+Proj.
+
+(In billions of Lebanese pounds)
+Net foreign assets
+Banque du Liban
+Commercial banks
+Net domestic assets
+Net claims on public sector
+of which: Net claims on government
+Banque du Liban
+Commercial banks
+Claims on private sector
+Other items (net)
+Broad money (M5) 1/
+In Lebanese pounds
+Currency in circulation
+Deposits in Lebanese pounds
+Deposits in foreign currency
+
+43,556
+23,047
+20,510
+
+50,650
+25,538
+25,112
+
+59,272
+36,927
+22,344
+
+60,754
+40,860
+19,894
+
+50,822
+38,981
+40,871
+9,678
+31,193
+23,371
+-11,530
+
+54,004
+38,661
+39,955
+7,531
+32,423
+27,059
+-11,715
+
+61,590
+41,397
+42,751
+4,437
+38,314
+32,056
+-11,863
+
+72,194
+47,721
+49,347
+4,737
+44,610
+35,266
+-10,794
+
+94,378
+24,159
+1,809
+22,350
+70,219
+
+104,655
+25,535
+1,929
+23,606
+79,119
+
+120,862
+38,692
+2,175
+36,517
+82,170
+
+132,948
+47,710
+2,392
+45,318
+85,238
+
+(Year-on-year percent change)
+Net foreign assets
+
+15.1
+
+3.9
+
+17.0
+
+2.5
+
+Net domestic assets
+Net claims on public sector
+Claims on private sector
+Broad money (M5) 1/
+In Lebanese pounds
+Deposits in foreign currency
+
+-0.1
+5.7
+-5.7
+6.4
+-5.3
+11.1
+
+6.3
+-0.8
+15.8
+10.9
+5.7
+12.7
+
+14.0
+7.1
+18.5
+15.5
+51.5
+3.9
+
+17.2
+15.3
+10.0
+10.0
+23.3
+3.7
+
+Memorandum items:
+(In billions of Lebanese pounds, except where otherwise indicated)
+Banque du Liban:
+Net foreign exchange position 2/
+Foreign assets
+Foreign currency liabilities
+Net foreign exchange position, in millions of U.S. dollars 2/
+Claims on public sector (net)
+Claims on commercial banks
+Reserve money
+Gross international reserves (excluding gold), in millions of U.S. dollars 3/
+in percent of banking system foreign currency deposits
+in percent of total banking system deposits
+Share of foreign currency deposits in total private sector deposits (in percent)
+
+3,465
+
+4,528
+
+12,383
+
+16,137
+
+26,321
+
+29,300
+
+40,809
+
+44,670
+
+22,856
+2,299
+9,367
+-3,796
+7,227
+11,353
+30.1
+21.9
+
+24,773
+3,003
+7,400
+-2,467
+7,919
+11,496
+26.5
+19.7
+
+28,426
+8,214
+4,415
+-6,689
+9,430
+18,769
+42.8
+28.2
+
+28,533
+10,704
+4,442
+-10,094
+11,368
+20,865
+46.5
+28.4
+
+76.2
+
+77.4
+
+69.6
+
+65.6
+
+Sources: Banque du Liban; and Fund staff estimates and projections.
+1/ Broad money (M5) is defined as M3 (currency + resident deposits) + non-resident deposits.
+2/ Defined by currency (not by residency), as official foreign currency assets, including gold and SDR, less foreign currency liabilities.
+Liabilities include the exceptional deposits by GCC governments, but exclude liabilities to the government of Lebanon and other official creditors.
+3/ Defined as all official foreign currency assets, less encumbered foreign assets.
+
+31
+Table 6. Lebanon: Balance of Payments, 2006–14
+Gaps are NOT closed !
+
+2006
+Est.
+
+2007
+Est.
+
+2008
+Prel.
+
+2009
+Proj.
+
+2010
+Proj.
+
+2011
+Proj.
+
+2012
+Proj.
+
+2013
+Proj.
+
+2014
+Proj.
+
+(In millions of U.S. dollars, unless otherwise indicated)
+Current account (excl. official transfers)
+Goods (net)
+Exports, f.o.b.
+Imports, f.o.b.
+Services (net)
+Income (net)
+Of which: interest on government debt
+Current transfers (net) 1/
+
+-1,538
+-6,138
+3,207
+-9,345
+3,022
+-1,200
+-457
+2,778
+
+-1,979
+-7,850
+4,077
+-11,926
+3,197
+-782
+-536
+3,455
+
+-3,421
+-11,166
+5,149
+-16,315
+5,805
+-1,565
+-599
+3,505
+
+-3,360
+-10,077
+5,406
+-15,483
+5,670
+-1,598
+-492
+2,644
+
+-3,422
+-10,581
+5,893
+-16,474
+6,316
+-2,059
+-575
+2,902
+
+-3,583
+-11,046
+6,482
+-17,529
+7,004
+-2,699
+-582
+3,158
+
+-3,647
+-11,543
+7,195
+-18,738
+7,706
+-3,264
+-572
+3,454
+
+-3,621
+-12,271
+8,023
+-20,293
+8,383
+-3,399
+-510
+3,665
+
+-3,438
+-12,992
+8,985
+-21,978
+9,109
+-3,484
+-411
+3,929
+
+Capital and financial account
+Capital transfers (net)
+Direct investment (net) 2/
+Portfolio investment, loans, other capital
+Government (net) 3/
+BdL 4/
+Of which: IMF repurchases
+Banks (net) 5/
+Foreign assets of banks 6/
+Non-resident deposits 5/
+Non-bank private sector (net)
+
+1,926
+1,340
+2,669
+-2,084
+666
+1,507
+0
+-1,421
+-2,491
+1,071
+-2,836
+
+495
+590
+1,996
+-2,091
+-225
+246
+0
+-2,394
+-3,053
+659
+282
+
+6,997
+124
+2,050
+4,823
+-369
+40
+0
+4,820
+1,836
+2,985
+332
+
+4,621
+64
+1,728
+2,830
+-1,348
+-48
+0
+3,591
+1,625
+1,966
+634
+
+6,580
+37
+4,586
+1,958
+-299
+-69
+-19
+-393
+-1,658
+1,266
+2,719
+
+4,422
+59
+2,612
+1,752
+-294
+-189
+-39
+324
+-929
+1,253
+1,910
+
+5,280
+67
+2,303
+2,910
+-158
+-111
+-39
+-94
+-1,459
+1,366
+3,273
+
+5,652
+79
+2,575
+2,999
+-312
+-92
+-20
+-501
+-1,990
+1,489
+3,904
+
+6,349
+79
+2,873
+3,397
+-518
+-72
+0
+-367
+-1,990
+1,623
+4,355
+
+Errors and omissions
+
+1,080
+
+955
+
+3,119
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+Overall balance
+
+1,467
+
+-529
+
+6,695
+
+1,261
+
+3,158
+
+839
+
+1,632
+
+2,032
+
+2,910
+
+-1,467
+-1,742
+275
+275
+0
+0
+
+529
+-143
+672
+195
+400
+77
+
+-6,695
+-7,273
+578
+133
+406
+40
+
+-1,261
+-2,096
+835
+70
+765
+0
+
+-3,158
+-3,446
+288
+94
+194
+0
+
+-839
+-1,079
+240
+21
+218
+0
+
+-1,632
+-1,757
+125
+23
+102
+0
+
+-2,032
+-2,174
+143
+26
+117
+0
+
+-2,910
+-3,053
+143
+26
+117
+0
+
+-1,264
+
+-1,784
+
+-3,288
+
+-3,290
+
+-3,328
+
+-3,562
+
+-3,624
+
+-3,595
+
+-3,413
+
+-5.6
+-6.9
+11,353
+198.9
+35.9
+22,437
+
+-7.1
+-7.9
+11,496
+194.1
+35.3
+25,044
+
+-11.4
+-11.8
+18,769
+190.8
+30.2
+28,939
+
+-10.5
+-10.7
+20,865
+182.1
+26.0
+31,298
+
+-10.0
+-10.3
+24,312
+181.4
+24.2
+33,210
+
+-10.0
+-10.1
+25,390
+185.9
+22.4
+35,566
+
+-9.6
+-9.6
+27,148
+194.2
+20.9
+37,860
+
+-8.9
+-9.0
+29,322
+194.1
+19.1
+40,403
+
+-7.9
+-8.0
+32,375
+194.2
+17.1
+43,138
+
+Financing
+Official reserves (- increase)
+Exceptional financing
+Budgetary grants
+Budgetary loans 7/
+IMF purchases
+Memorandum items:
+Current account (incl. official transfers)
+Current account balance (in percent of GDP)
+Including official transfers
+Excluding official transfers
+Gross official reserves (excl. gold, year-end) 8/
+External debt (year-end; in percent of GDP) 9/
+Government external debt (in percent of GDP)
+GDP
+
+Sources: Lebanese authorities; BIS; and IMF staff estimates and projections.
+1/ Excluding official budgetary transfers.
+2/ Projections for 2010 include sizeable inflows related to privatization in the telecommunications sector.
+3/ Excluding budgetary loan disbursements.
+4/ Change in the foreign liabilities of the BdL, excluding IMF purchases.
+5/ Differs from banks' reported data, to include estimated deposit flows by Lebanese nationals living abroad but classified as residents.
+6/ Net of non-deposit foreign liabilities.
+7/ Including disbursements of non-war/non-Paris III related project loans.
+8/ Excludes Eurobonds and encumbered reserves.
+9/ Includes all banking deposits held by non-residents, including estimated deposits of Lebanese nationals living abroad but classified as residents.
+
+32
+Table 7. Lebanon: Banking Sector Financial Soundness Indicators, 2006–08
+2006
+
+2007
+
+2008
+
+(In percent, unless otherwise indicated)
+78,855
+
+88,853
+
+101,862
+
+Capital
+Capital adequacy ratio 1/ 2/
+Capital to asset ratio
+
+25.0
+9.1
+
+12.5
+8.9
+
+11.8
+7.8
+
+Asset quality
+Net problem loans/net total loans
+Provisions against problem loans/problem loans
+Total provisions/problem loans
+
+6.8
+54.4
+72.4
+
+4.7
+56.9
+76.8
+
+3.1
+61.0
+85.6
+
+Asset concentration
+Share of claims on government
+Of which: T-bills
+Of which: Eurobonds
+Share of claims on BdL
+Of which: Certificates of Deposit
+Share of claims on private sector
+Share of claims on nonresidents
+Of which: foreign banks
+Net foreign currency assets as percent of capital
+
+27.9
+13.4
+14.4
+27.0
+11.7
+20.6
+18.8
+16.5
+15.5
+
+26.1
+12.6
+13.5
+24.7
+9.0
+21.6
+20.9
+17.7
+18.4
+
+27.0
+15.9
+11.0
+27.8
+12.1
+22.3
+16.3
+12.1
+20.7
+
+Earnings
+Average return on assets (post tax)
+Average return on equity (post tax)
+Net interest margin
+
+0.9
+10.1
+2.0
+
+1.0
+12.1
+2.0
+
+1.1
+14.0
+2.0
+
+Liquidity
+Net liquid assets/total assets
+Net liquid assets/short-term liabilities
+Private sector deposits/assets
+Nonresident deposits/assets
+
+42.9
+51.0
+69.1
+12.6
+
+40.3
+47.9
+70.1
+11.7
+
+42.2
+50.1
+70.3
+12.2
+
+Other indicators 3/
+Change in assets (12 month, in percent)
+Change in private sector credit (12 month, in percent)
+Change in deposits (12 month, in percent)
+FC deposits/total deposits
+FC loans/total loans
+FC loans/GDP
+
+7.2
+7.3
+6.5
+75.9
+87.1
+64.0
+
+12.7
+23.6
+10.8
+77.0
+87.5
+73.6
+
+14.6
+22.1
+15.6
+69.2
+87.6
+75.7
+
+Memorandum items:
+LL deposit rate (average)
+LL loan rate (average)
+FC deposit rate (average)
+FC loan rate (average)
+Government's 3-year T-bill rate (marginal)
+Government's Eurobond rate (marginal)
+Spread over 5-year U.S. note
+
+7.5
+10.3
+4.4
+8.5
+9.5
+7.5
+2.8
+
+7.5
+10.3
+4.9
+8.3
+9.5
+8.9
+4.5
+
+7.3
+10.0
+3.7
+7.5
+9.4
+9.0
+6.2
+
+22,437
+
+25,044
+
+28,939
+
+Assets (in millions of U.S. dollars)
+
+GDP (in millions of U.S. dollars)
+
+Sources: Banque du Liban, Banking Control Commission and staff estimates.
+1/ From 2007: based on Basel II risk weights.
+2/ 2008 value: as of June 2008 (latest available).
+3/ FC and LL stand for "foreign currency" and "Lebanese pound," respectively.
+
+178.7
+178.7
+
+0.6
+7.6
+5.7
+0.0
+1.9
+15.4
+-1.7
+
+717.1
+
+4.2
+6.9
+-1.7
+25.1
+23.4
+8.6
+8.6
+9.7
+-1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+-2.8
+
+179.9
+89.4
+
+178.1
+178.1
+
+7.5
+7.8
+3.9
+0.0
+3.8
+4.2
+-1.8
+
+687.2
+
+-12.1
+-14.3
+-1.8
+24.4
+22.7
+-6.2
+-6.2
+5.9
+-12.1
+0.0
+-6.3
+0.0
+0.0
+-6.3
+2.2
+
+167.8
+83.6
+
+Actual
+2007
+
+172.8
+172.8
+
+8.5
+7.9
+1.4
+0.0
+6.5
+11.7
+-1.4
+
+656.3
+
+-5.4
+-12.6
+-1.4
+24.8
+23.3
+-11.2
+-11.2
+1.2
+-12.3
+0.0
+0.0
+0.0
+0.0
+0.0
+7.2
+
+162.5
+72.1
+
+2008
+
+172.4
+177.1
+
+3.0
+8.5
+3.5
+...
+5.0
+9.5
+-0.5
+
+641.0
+
+-0.6
+0.0
+-0.5
+25.2
+24.8
+0.5
+0.5
+5.0
+-4.5
+...
+0.0
+0.0
+0.0
+0.0
+-0.6
+
+161.9
+72.2
+
+2009
+
+153.5
+163.4
+
+4.0
+8.6
+6.6
+...
+2.0
+-11.7
+-3.3
+
+598.6
+
+-15.8
+-15.9
+-3.3
+24.4
+21.1
+3.8
+3.8
+9.9
+-6.1
+...
+-16.3
+-16.3
+0.0
+0.0
+0.1
+
+146.1
+56.9
+
+2010
+
+145.8
+160.9
+
+4.0
+9.9
+6.9
+...
+3.0
+1.5
+-2.8
+
+617.0
+
+-2.0
+-2.1
+-2.8
+23.4
+20.6
+3.8
+3.8
+9.3
+-5.5
+...
+-3.1
+-3.1
+0.0
+0.0
+0.1
+
+144.1
+50.4
+
+141.3
+161.8
+
+4.5
+9.4
+7.6
+...
+1.9
+0.3
+-4.1
+
+605.4
+
+0.0
+0.0
+-4.1
+23.8
+19.7
+4.0
+4.0
+10.1
+-6.1
+...
+0.0
+0.0
+0.0
+0.0
+0.1
+
+144.1
+46.4
+
+Projections
+2011
+2012
+
+136.6
+162.5
+
+4.5
+8.7
+6.6
+...
+2.1
+4.2
+-5.7
+
+557.3
+
+-2.9
+-3.0
+-5.7
+25.3
+19.7
+2.6
+2.6
+8.7
+-6.1
+...
+0.0
+0.0
+0.0
+0.0
+0.1
+
+141.2
+40.3
+
+2013
+
+133.9
+165.2
+
+4.0
+6.2
+4.0
+...
+2.2
+3.7
+-5.8
+
+539.3
+
+-4.8
+-5.9
+-5.8
+25.3
+19.5
+-0.1
+-0.1
+5.2
+-5.3
+...
+0.0
+0.0
+0.0
+0.0
+1.0
+
+136.4
+37.6
+
+2014
+
+Debt-Stabilizing
+Primary
+Balance 7/
+-0.1
+
+Sources: Lebanese authorities; and Fund staff projections.
+1/ Central government gross debt.
+2/ Derived as [(r - p(1+g) - g + ae(1+r)]/(1+g+p+gp)) times previous period debt ratio, with r = interest rate; p = growth rate of GDP deflator; g = real GDP growth rate; a = share of foreign-currency
+denominated debt; and e = nominal exchange rate depreciation (measured by increase in local currency value of U.S. dollar).
+3/ The real interest rate contribution is derived from the denominator in footnote 2/ as r - π (1+g) and the real growth contribution as -g.
+4/ The exchange rate contribution is derived from the numerator in footnote 2/ as ae(1+r).
+5/ For projections, this line includes exchange rate changes.
+6/ Derived as nominal interest expenditure divided by previous period debt stock.
+7/ Assumes that key variables (real GDP growth, real interest rate, and other identified debt-creating flows) remain at the level of the last projection year.
+8/ This path assumes that, from 2009 onwards, real GDP growth is set at its 10-year average level while the primary fiscal balance and real interest rates are the same as in the baseline scenario.
+9/ This path assumes that, from 2009 onwards, real interest rate and real GDP growth are set at their 10-year average level while the primary fiscal balance is the same as in the baseline scenario.
+
+Public sector debt based on historical GDP growth data 8/
+Public sector debt based on historical data 9/
+
+Memorandum items:
+
+Real GDP growth (in percent)
+Average nominal interest rate on public debt (in percent) 6/
+Average real interest rate (nominal rate minus change in GDP deflator, in percent)
+Nominal appreciation (increase in U.S. dollar value of local currency, in percent)
+Inflation rate (GDP deflator, in percent)
+Growth of real primary spending (deflated by GDP deflator, in percent)
+Primary deficit
+
+Key Macroeconomic and Fiscal Assumptions Underlying Baseline
+
+Public sector debt-to-revenue ratio 1/
+
+Change in public sector debt
+Identified debt-creating flows
+Primary deficit
+Revenue and grants
+Primary (noninterest) expenditure
+Automatic debt dynamics 2/
+Contribution from interest rate/growth differential 3/
+Of which: contribution from real interest rate
+Of which: contribution from real GDP growth
+Contribution from exchange rate depreciation 4/
+Other identified debt-creating flows
+Privatization receipts (negative)
+Recognition of implicit or contingent liabilities
+Other (Paris II and III assistance)
+Residual, including asset changes 5/
+
+Baseline: Public sector debt 1/
+Of which: foreign-currency denominated
+
+2006
+
+(In percent of GDP, unless otherwise indicated)
+
+Table 8. Lebanon: Public Sector Debt Sustainability Framework, 2006–14
+
+33
+
+34
+Table 9. Lebanon: Indicators of Financial and External Vulnerability, 2006–09
+2006
+Act.
+
+2007
+Act.
+
+2008
+Est.
+
+2009
+Proj.
+
+Monetary and financial indicators
+Broad money, M5
+Annual percentage change
+Private sector credit (annual percentage change)
+
+62,606
+6.4
+-5.7
+
+69,423
+10.9
+15.8
+
+80,174
+15.5
+18.5
+
+88,191
+10.0
+10.0
+
+Public finance indicators
+Overall fiscal balance
+In percent of GDP
+In percent of government revenue
+Interest payments on debt
+In percent of GDP
+In percent of government revenue
+Nominal GDP
+Government revenue
+
+-2,523
+-11.2
+-44.8
+2,906
+13.0
+51.6
+22,437
+5,631
+
+-2,700
+-10.8
+-44.1
+3,139
+12.5
+51.3
+25,044
+6,119
+
+-2,892
+-10.0
+-40.4
+3,303
+11.4
+46.1
+28,939
+7,166
+
+-3,841
+-12.3
+-48.6
+3,982
+12.7
+50.4
+31,298
+7,905
+
+6.8
+72.4
+25.0
+69.1
+
+4.7
+76.8
+12.5
+71.7
+
+3.1
+85.6
+11.8
+73.5
+
+…
+…
+…
+74.7
+
+Debt indicators
+Gross public debt
+In percent of government revenue
+In percent of GDP
+Of which: foreign currency
+In percent of GDP
+Gross public debt held by the market
+In percent of GDP
+External debt 1/
+In percent of GDP
+External public debt (central government and Banque du Liban)
+In percent of GDP
+Short-term external public debt 2/
+Short-term foreign currency public debt 2/
+Short-term external debt 1/ 2/
+Short-term foreign currency debt 2/ 3/
+Total foreign currency deposits (resident and non-resident) 1/
+
+40,365
+716.8
+179.9
+20,330
+90.6
+27,871
+124.2
+44,617
+198.9
+10,222
+45.6
+1,455
+2,039
+35,850
+54,268
+46,319
+
+42,033
+687.0
+167.8
+21,221
+84.7
+29,206
+116.6
+48,600
+194.1
+11,347
+45.3
+1,421
+2,777
+38,674
+62,984
+52,099
+
+47,014
+656.1
+162.5
+21,140
+73.0
+33,993
+117.5
+55,216
+190.8
+11,306
+39.1
+2,445
+3,111
+46,355
+69,067
+54,175
+
+50,656
+640.8
+161.9
+22,876
+73.1
+…
+…
+56,995
+182.1
+10,676
+34.1
+1,624
+5,281
+47,943
+73,737
+56,232
+
+International reserves
+Gross official reserves 4/
+In percent of short-term external debt
+Gross official reserves and commercial banks' foreign assets
+In percent of short-term external debt
+In percent of short-term foreign currency debt 3/
+
+11,353
+32
+27,768
+77
+51
+
+11,496
+30
+32,205
+83
+51
+
+18,769
+40
+37,896
+82
+55
+
+20,866
+44
+38,367
+80
+52
+
+External current account indicators
+Merchandise exports, f.o.b.
+Annual percentage change
+Merchandise imports, f.o.b.
+Annual percentage change
+External current account balance
+In percent of GDP
+In percent of exports of goods and services
+
+3,207
+40.8
+9,345
+11.3
+-1,264
+-5.6
+-9.2
+
+4,077
+27.1
+11,926
+27.6
+-1,784
+-7.1
+-11.1
+
+5,149
+26.3
+16,315
+36.8
+-3,288
+-11.4
+-14.4
+
+5,406
+5.0
+15,483
+-5.1
+-3,290
+-10.5
+-13.8
+
+(In millions of U.S. dollars, unless otherwise indicated)
+
+Banking-sector indicators
+Problem loans (in percent of total loans, net of provisions and unearned interest)
+Provisions against problem loans (in percent of problem loans)
+Capital adequacy ratio
+Credit to the private sector (in percent of GDP)
+
+Sources: Lebanese authorities; Bank for International Settlements; and Fund staff estimates and projections.
+1/ Includes estimates for public debt and banking deposits held by non-residents, and non-resident claims on the nonfinancial sector.
+2/ On a remaining maturity basis (scheduled amortization over the next year).
+3/ Short-term foreign currency debt of the public sector and the banking sector plus external debt of the nonbank sector.
+4/ Excludes gold and encumbered assets.
+
+35
+
+Table 10. Lebanon: External Financing Requirements and Sources, 2006–10
+2006
+Act.
+
+2007
+Act.
+
+2008
+Prel.
+
+2009
+Proj.
+
+2010
+Proj.
+
+(In millions of U.S. dollars)
+Gross financing requirements
+External current account balance 1/
+Government debt amortization
+Non-resident deposits
+Repayment of arrears
+Gross reserves accumulation (- increase)
+IMF repurchases
+Available financing
+Capital transfers (net)
+Foreign direct investment (net)
+Portfolio investment, loans, other capital
+Government (excl. budget loans)
+Banque du Liban (liabilities, net) 2/
+Commercial Banks
+Non-resident deposits
+Other (net)
+Non-bank private sector (net)
+Errors and omissions
+Financing gap
+Exceptional financing
+Exceptional grants to government
+Exceptional loans to government
+IMF purchases (net)
+Residual financing gap
+
+-32,004
+-1,538
+-1,308
+-27,415
+0
+-1,742
+0
+
+-32,063
+-1,979
+-1,455
+-28,486
+0
+-143
+0
+
+-41,259
+-3,421
+-1,421
+-29,145
+0
+-7,273
+0
+
+-40,031
+-3,360
+-2,445
+-32,129
+0
+-2,096
+0
+
+-42,587
+-3,422
+-1,624
+-34,095
+0
+-3,446
+0
+
+31,729
+1,340
+2,669
+26,640
+1,974
+1,507
+25,995
+28,486
+-2,491
+-2,836
+1,080
+
+31,391
+590
+1,996
+27,850
+1,230
+246
+26,092
+29,145
+-3,053
+282
+955
+
+40,681
+124
+2,050
+35,388
+1,052
+40
+33,965
+32,129
+1,836
+332
+3,119
+
+39,195
+64
+1,728
+37,404
+1,097
+-48
+35,720
+34,095
+1,625
+634
+0
+
+42,319
+37
+4,586
+37,697
+1,325
+-50
+33,702
+35,361
+-1,658
+2,719
+0
+
+-275
+
+-672
+
+-578
+
+-835
+
+-269
+
+275
+275
+0
+0
+
+672
+195
+400
+77
+
+578
+133
+406
+40
+
+835
+70
+765
+0
+
+269
+94
+194
+-19
+
+0
+
+0
+
+0
+
+0
+
+0
+
+Sources: Lebanese authorities; BIS; and IMF staff estimates and projections.
+1/ Excluding official transfers.
+2/ Excluding IMF.
+
+50.8
+77.7
+25.0
+0.3
+0.7
+
+1.5
+2.4
+0.0
+0.1
+0.8
+0.0
+
+2007
+Act.
+
+16,005
+1,991
+203
+311
+11,496
+
+Sources: Lebanese authorities; and IMF staff estimates and calculations.
+
+13,711
+1,765
+203
+299
+11,353
+
+0.0
+0.0
+0.0
+0.0
+0.0
+
+Fund credit outstanding
+In millions of SDRs
+In millions of U.S. dollars
+In percent of quota
+In percent of GDP
+In percent of gross official reserves
+
+Memorandum items:
+Exports of goods and NFS (in millions of US$)
+Government external debt service (in millions of US$)
+Quota (in millions of SDRs)
+Quota (in millions of US$)
+Gross official reserves (in millions of US$)
+
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+
+Fund repurchases and charges
+In millions of SDRs
+In millions of U.S. dollars
+In percent of exports and goods and NFS
+In percent of government external debt service
+In percent of quota
+In percent of gross official reserves
+
+2006
+Act.
+
+22,838
+2,020
+203
+321
+18,769
+
+76.1
+119.8
+37.5
+0.4
+0.6
+
+2.1
+3.2
+0.0
+0.2
+1.0
+0.0
+
+2008
+Est.
+
+23,929
+2,937
+203
+308
+20,865
+
+76.1
+114.7
+37.5
+0.4
+0.5
+
+1.3
+2.0
+0.0
+0.1
+0.6
+0.0
+
+2009
+Proj.
+
+25,847
+2,199
+203
+309
+24,312
+
+63.4
+96.7
+31.3
+0.3
+0.4
+
+13.9
+21.2
+0.1
+1.0
+6.8
+0.1
+
+2010
+Proj.
+
+28,091
+2,069
+203
+310
+25,390
+
+38.1
+58.2
+18.7
+0.2
+0.2
+
+26.2
+40.1
+0.1
+1.9
+12.9
+0.2
+
+2011
+Proj.
+
+Table 11. Lebanon: Indicators of Capacity to Repay the Fund, 2006-14
+
+30,449
+2,134
+203
+312
+27,148
+
+12.7
+19.5
+6.3
+0.1
+0.1
+
+25.8
+39.6
+0.1
+1.9
+12.7
+0.1
+
+2012
+Proj.
+
+32,998
+2,037
+203
+313
+29,322
+
+0.0
+0.0
+0.0
+0.0
+0.0
+
+12.8
+19.8
+0.1
+1.0
+6.3
+0.1
+
+2013
+Proj.
+
+35,809
+2,352
+203
+314
+32,375
+
+0.0
+0.0
+0.0
+0.0
+0.0
+
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+
+2014
+Proj.
+
+36
+
+37
+Table 12. Lebanon: Monitorable Actions, December 2008–June 2009
+Measure
+
+Target Date
+
+Implementation
+
+Fiscal
+Submit to parliament the Global Income Tax draft law
+
+End-March 2009
+
+Establish a Treasury Single Account
+
+End-June 2009
+
+Banque du Liban
+Establish an investment committee and draft formal
+guidelines for foreign reserve management.
+
+End-December 2008
+
+Done on
+January 28,
+2009.
+
+Adopt formal policies for the selection, appointment, and
+rotation of the BdL’s external auditors.
+
+End-June 2009
+
+Done on
+January 28,
+2009.
+
+End-December 2008
+
+Not met.
+
+End-March 2009
+
+Privatization has
+been postponed
+due to
+unfavorable
+international
+capital markets.
+
+Power sector
+Revise electricity tariff structure consistent with program
+objectives.
+Privatization
+Issue a Request for Application in participating in the
+process of acquiring the licenses and assets of the two
+mobile telephone companies (MIC1 and MIC2).
+
+Gross reserves of the Banque du Liban (stocks) 2/
+
+0
+
+0
+
+5,984
+
+135
+
+24,509
+
+Adj. Prog.
+
+997
+1,022
+1,155
+387
+187
+0
+…
+
+0
+
+0
+
+4,428
+
+292
+
+26,793
+
+Est.
+
+766
+222
+1,187
+39
+39
+0
+415
+
+0
+
+0
+
+5,700
+
+-346
+
+24,867
+
+Prog.
+
+Mar
+
+1/ At program (end-December 2007) exchange rates.
+2/ In millions of U.S. dollars. Defined as Banque du Liban’s foreign exchange deposits abroad, foreign exchange holdings (including SDRs), gold and holdings
+of liquid foreign currency-denominated securities, less encumbered foreign assets.
+
+Source: Lebanese authorities.
+
+1,046
+1,304
+1,187
+522
+242
+0
+...
+
+0
+
+V. Accumulation of external arrears by the government and the Banque du Liban
+(cumulative flows, continuous)
+
+Memorandum items:
+Outstanding letters of credit contracted by Electricité du Liban (stock, millions of U.S. dollars)
+Disbursements of official grants and loans to government (cumulative flows)
+Banque du Liban's holdings of Republic of Lebanon Eurobonds (stock)
+Disbursements of grants to the government (cumulative flows)
+Of which: disbursements of project grants (cumulative flows)
+Transfers of gold valuation gains from Banque du Liban to government (cumulative flows)
+Projection of revenue from companies slated for privatization (cumulative flows)
+
+0
+
+5,905
+
+79
+
+24,718
+
+IV. Accumulation of government gross arrears (cumulative flows, continuous)
+
+III. Government net borrowing from the Banque du Liban (stocks)
+
+II. Primary balance of the government, before grants (cumulative flows)
+
+I.
+
+Prog.
+
+2008
+Sep
+
+Dec
+
+733
+365
+1,187
+113
+56
+0
+830
+
+0
+
+0
+
+5,700
+
+314
+
+25,436
+
+777
+822
+1,187
+186
+73
+0
+909
+
+0
+
+0
+
+4,469
+
+157
+
+27,818
+
+777
+1,431
+1,187
+237
+90
+0
+988
+
+0
+
+0
+
+4,388
+
+283
+
+29,049
+
+Prog. EPCA Proj. EPCA Proj.
+
+Jun
+
+2009
+
+Table 13. Lebanon: Quantitative Indicative Targets Under the Program Supported by Emergency Post-Conflict Assistance, December 2008–June 2009
+(In billions of Lebanese pounds unless otherwise indicated; end-of-period) 1/
+
+38
+
+INTERNATIONAL MONETARY FUND
+LEBANON
+Staff Report for the 2009 Article IV Consultation and
+Assessment of Performance Under the Program Supported by
+Emergency Post-Conflict Assistance—Informational Annex
+Prepared by Middle East and Central Asia Department
+March 31, 2009
+
+Contents
+
+Page
+
+Annexes
+I. Fund Relations ...................................................................................................................2
+II. World Bank-IMF Collaboration.........................................................................................5
+III. Statistical Issues .................................................................................................................7
+
+2
+Annex I. Lebanon: Fund Relations
+(As of February 28, 2009)
+I.
+
+Membership Status: Joined 04/14/47; Article VIII (07/01/93).
+
+II.
+
+General Resources Account:
+Quota
+Fund holdings of currency
+Reserve position in Fund
+
+SDR Million
+203.00
+260.29
+18.83
+
+Percent of Quota
+100.00
+128.22
+9.28
+
+III.
+
+SDR Department:
+Net cumulative allocation
+Holdings
+
+SDR Million
+4.39
+21.61
+
+Percent of Allocation
+100.00
+491.97
+
+IV.
+
+Outstanding Purchases and Loans:
+Post-Conflict Emergency Assistance
+
+SDR Million
+76.13
+
+Percent of Quota
+37.50
+
+V.
+
+Latest Financial Arrangements:
+
+None
+
+VI.
+
+Projected Obligations to Fund:
+(SDR Million; based on existing use of resources and present holdings of SDRs):
+Forthcoming
+2009
+Principal
+
+2010
+
+2011
+
+2012
+
+2013
+
+12.69
+
+25.38
+
+25.38
+
+12.69
+
+Charges/Interest
+
+0.91
+
+1.17
+
+0.83
+
+0.40
+
+0.13
+
+Total
+
+0.91
+
+13.86
+
+26.21
+
+25.77
+
+12.82
+
+VII.
+
+Implementation of HIPC Initiative:
+
+Not Applicable
+
+VIII.
+
+Implementation of Multilateral Debt Relief Initiative (MDRI): Not Applicable
+
+IX.
+
+Safeguards Assessment:
+Pursuant to Fund policy, the Banque du Liban (BdL) was subject to a full safeguards
+assessment in conjunction with the first Emergency Post-Conflict Assistance (EPCA).
+The safeguards assessment report, which was completed on March 10, 2008,
+recommended several specific measures for enhancing the BdL’s financial reporting,
+audit, and control procedures, and the authorities have outlined steps to follow up on
+these recommendations. The report also suggested an update of the central bank law.
+An update safeguards assessment is currently under way in the context of the second
+EPCA.
+
+3
+
+Nonfinancial Relations
+X.
+
+Exchange Arrangement
+The Lebanese pound is a conventional peg. Since October 1999, the BdL
+has intervened to keep the pound around a mid-point parity of LL 1,507.5 per $1,
+with a bid-ask spread of LL+/-6.5.
+
+XI.
+
+Article IV Consultation
+The 2007 Article IV consultation was concluded by the Executive Board on
+October 3, 2007 (IMF Country Report No. 07/382).
+
+XII.
+
+Financial Sector Assessment Program
+Lebanon participated in the Financial Sector Assessment Program in 1999, and the
+related report was presented to the Executive Board at the time of the Article IV
+consultation. A Financial System Stability Assessment update was conducted in 2001,
+and the related report similarly presented to the Executive Board at the time of the
+Article IV consultation.
+
+XIII.
+
+Technical Assistance
+
+Fiscal area—FAD has provided advice on introducing the VAT, reforming customs tariffs
+and income taxes, strengthening tax and customs administration, improving public
+expenditure management, and consolidating fiscal accounts. A fiscal ROSC report was
+published in May 2005. Considerable needs remain in tax policy, tax administration, budget
+preparation, fiscal management, and public accounting and reporting. Technical assistance
+missions in 2005 primarily dealt with (i) the consolidation of fiscal accounts, and (ii) public
+liquidity management. In October 2006, a multi-sector mission provided advice on fiscal
+reform priorities after the conflict with Israel. In November 2007, a FAD mission provided
+advice for reforming subsidies and restoring gasoline excises. During 2007 and early 2008,
+FAD and the Middle East Technical Assistance Center (METAC) also provided targeted
+follow-up support to ongoing initiatives in both tax administration and public financial
+management (e.g., tax audit program. Treasury Single Account, and cash management).
+Financial area—Over the past few years, the now Monetary and Capital Markets
+Department has provided technical assistance in the areas of the payments system and
+vulnerability indicators. The related missions undertook an assessment of compliance with
+Core Principles for Systemically Important Payments Systems, advised on developing
+systems to improve efficiency and liquidity management in public sector payments and
+receipts, and assisted in the elaboration of a framework for collecting and analyzing
+macro-prudential indicators to develop capacity to monitor systemic financial sector
+vulnerabilities. Progress in implementing IMF recommendations has been limited. In 2006, a
+mission conducted an assessment of banking sector soundness, including a stress-test
+exercise, with a view to developing a strategy for banking sector consolidation.
+
+4
+
+Statistical area—The Statistics Department has provided technical assistance in national
+accounts, price and balance of payments statistics. There is no official producer price index
+(PPI); and balance of payments data remain incomplete. During 2007, several missions on
+the consumer price index (CPI) were undertaken through the METAC. As a result, in
+March 2008 a new monthly country-wide CPI was launched. A METAC-STA mission in
+October–November 2008 has provided assistance on national accounts statistics and
+economic surveys. In March 2008, a METAC mission provided technical assistance on
+balance of payments and international investment position statistics. Nevertheless, statistical
+gaps remain substantial, particularly in the areas of national accounts, price statistics, and the
+balance of payments. Stronger political commitment to filling these gaps is needed in order
+for further technical assistance to be effective.
+
+5
+
+Annex II. Lebanon: World Bank-IMF Collaboration
+Joint-Management Action Plan Implementation Table, FY 2010
+As of March 13, 2009
+Title
+
+Products
+
+Provisional Timing of
+Missions
+
+Expected
+Delivery Date
+
+A. Mutual Information on Relevant Work Programs
+Bank work
+program in
+next 12
+months
+
+Country Assistance
+Strategy
+
+Board Discussion:
+03/23/2010
+
+Social Impact Analysis for
+Electricity and Water
+Sectors
+
+Technical discussions
+held with relevant
+counterparts in February
+2009.
+
+Final report to
+Government by April
+2009.
+
+Survey-Based Investment
+Climate Assessment (ICA)
+Update
+
+ICA update ongoing.
+
+Draft report to
+Government in the
+second half of 2009.
+
+Emergency Fiscal
+Management Reform
+Implementation Support
+(budget, debt and aid
+management reforms)
+
+Project Launch Mission in
+March 2009.
+
+Implementation
+through September
+2011.
+
+Statistics TA (social
+statistics, statistical
+master plan)
+
+Ongoing technical
+assistance on poverty
+analysis and social
+statistics.
+
+Implementation
+through FY10.
+
+Sector work on social
+safety net, gender, health,
+energy, water and
+environment
+
+Work will be ongoing
+throughout FY10. Over
+the coming period, areas
+of focus are: pensions;
+labor market reform;
+technical assistance for
+LNG and energy
+efficiency; and continued
+engagement in education,
+health, water and
+environment sectors.
+
+FY09–FY10
+
+6
+
+Title
+IMF work
+program
+
+Products
+
+Provisional Timing of
+Missions
+
+Expected
+Delivery Date
+
+Article IV consultations
+
+February–March 2009
+
+April 2009
+
+Review of performance
+under EPCA
+Staff visit for review of
+performance under EPCA
+Staff visit for review of
+performance under EPCA
+Article IV consultations
+Technical assistance
+missions on:
+- Public financial
+management
+- Revenue administration
+- Central bank accounting
+- Cross border bank
+supervision
+
+February–March 2009
+
+April 2009
+
+May 2009
+
+June 2009
+
+September 2009
+
+October 2009
+
+February 2009
+
+April 2009
+
+B. Requests for Work Program Inputs
+Fund
+requests
+to Bank
+Bank
+requests
+to Fund
+
+- Update on energy sector
+reform
+- Update on social safety
+net
+Assessment of
+macroeconomic policies
+and prospects
+
+As needed
+
+Semiannual (and on ad
+hoc basis if requested)
+
+Following Article IV
+and staff visits
+
+C. Agreement on Joint Products and Missions
+Joint
+products
+
+FSAP Update (tentative)
+
+October 2009
+
+December–January
+2009
+
+7
+
+ANNEX III. LEBANON—STATISTICAL ISSUES
+As of March 12, 2009
+I. Assessment of Data Adequacy for Surveillance
+General: Data provision has serious shortcomings that significantly hamper surveillance. In particular,
+there are serious issues in the compilation of the national accounts, employment, general government
+and the rest of the nonfinancial public sector, and balance of payments.
+National Accounts: The national accounts data are weak. Despite technical assistance from the
+French National Institute of Statistics and Economic Studies, the Central Administration of Statistics
+(CAS) still does not have the capacity to produce national accounts statistics in line with accepted
+international standards. National accounts (now up to 2007) are instead produced in the Prime
+Minister’s office. STA is assisting the authorities to produce national accounts estimates based on a
+comprehensive data collection program and the 2004 economic survey.
+Price statistics: Since May 2008, CAS compiles and disseminates a monthly Consumer Price Index
+(CPI) following international accepted methodology. The CPI is disseminated within three weeks after
+the end of the reference month. Geographical coverage is expanded to include all areas in Lebanon
+(a previous CAS index was based on prices collected from Beirut and its suburbs).
+Government finance statistics: Fiscal statistics are weak. Published monthly data on the central
+government budgetary accounts are not comprehensive, omit certain transfers, financing data, and
+foreign-financed capital expenditure, and do not cover arrears. Certain (treasury) spending is only
+identified ex-post, and its economic classification with a lag. However, these items are provided to the
+staff in the context of surveillance activities. Government finance statistics are on a cash basis, with a
+modified cash cash-basis for budgetary expenditure data, corresponding to the issue of payment
+orders. In addition, there are no data on the widespread quasi-fiscal activities conducted by public
+corporations.
+Monetary and financial statistics: Monetary statistics are adequate. At the same time,
+sectoralization of institutional units and classification of financial instruments in the data reported to
+STA fall significantly short of what is needed for compilation of Standardized Report Forms (SRFs).
+The lack of a reliable classification of deposits by residency complicates the balance of payments
+analysis. The reporting of monetary data to STA is irregular and occurs with a three- to four-month
+lag.
+Balance of payments: The balance of payments statistics are weak. The data reflect deficiencies in
+the current account (unrecorded exports, underestimation of private sector services and workers’
+remittances), the capital account (grants), and the financial account (equity investment in the nonbank
+private sector, and corporate borrowing abroad). Coverage of foreign direct investment transactions
+remains limited. Lack of effective interagency cooperation, and staff constraints at both Banque du
+Liban (BDL) and CAS are among the main factors impeding progress.
+
+II. Data Standards and Quality
+Participant in the General Data Dissemination
+System since January 2003. Metadata and the
+plans for improving the real and fiscal statistics
+need to be updated.
+
+No data ROSC is available.
+
+8
+
+Lebanon: Table of Common Indicators Required for Surveillance
+As of March 12, 2009
+Date of latest
+observation
+
+Date
+received
+
+Frequency of
+Data6
+
+Frequency of
+Reporting6
+
+Frequency of
+publication6
+
+Exchange Rates
+
+03/11/09
+
+03/12/09
+
+D
+
+D
+
+D
+
+International Reserve Assets and
+Reserve Liabilities of the Monetary
+Authorities1
+
+01/2009
+
+02/2009
+
+M
+
+M
+
+M
+
+Reserve/Base Money
+
+01/2009
+
+02/2009
+
+M
+
+M
+
+M
+
+Broad Money
+
+01/2009
+
+03/2009
+
+M
+
+M
+
+M
+
+Central Bank Balance Sheet
+
+01/2009
+
+02/2009
+
+M
+
+M
+
+M
+
+Consolidated Balance Sheet of the
+Banking System
+
+01/2009
+
+03/2009
+
+M
+
+M
+
+M
+
+Interest Rates2
+
+12/2008
+
+02/2009
+
+M
+
+M
+
+M
+
+Consumer Price Index
+
+01/2009
+
+02/2009
+
+M
+
+M
+
+M
+
+Revenue, Expenditure, Balance and
+Composition of Financing3– Central
+Government
+
+12/2008
+
+02/2009
+
+M
+
+M
+
+M
+
+Stocks of Central Government and
+Central Government-Guaranteed Debt5
+
+12/2008
+
+02/2009
+
+M
+
+M
+
+M
+
+External Current Account Balance
+
+Q3/2008
+
+01/2009
+
+Q
+
+Q
+
+Q
+
+Exports and Imports of Goods and
+Services
+
+Q3/2008
+
+01/2009
+
+Q
+
+Q
+
+Q
+
+2007
+
+11/2008
+
+A
+
+A
+
+A
+
+12/2008
+
+02/2009
+
+M
+
+M
+
+M
+
+Revenue, Expenditure, Balance and
+Composition of Financing3 – General
+Government4
+
+GDP/GNP
+Gross External Debt
+International Investment Position
+1
+
+Includes reserve assets pledged or otherwise encumbered as well as net derivative positions.
+Both market-based and officially-determined, including discount rates, money market rates, rates on treasury bills, notes and
+bonds.
+3
+Foreign, domestic bank, and domestic nonbank financing.
+4
+The general government consists of the central government (budgetary funds, extra budgetary funds, and social security
+funds) and state and local governments.
+5
+Including currency and maturity composition.
+6
+Includes external gross financial asset and liability positions vis-à-vis nonresidents.
+6
+Daily (D); Weekly (W); Monthly (M); Quarterly (Q); Annually (A); Irregular (I); or Not Available (NA).
+2
+
+Public Information Notice (PIN) No. 09/49
+FOR IMMEDIATE RELEASE
+April 17, 2009
+
+International Monetary Fund
+700 19th Street, NW
+Washington, D. C. 20431 USA
+
+IMF Executive Board Concludes
+2009 Article IV Consultation with Lebanon
+On April 15, 2009, the Executive Board of the International Monetary Fund (IMF) concluded the
+Article IV consultation with Lebanon.1
+Background
+The Lebanese financial system has so far weathered the global financial crisis. Deposit inflows
+decelerated briefly in the aftermath of the Lehman Brothers bankruptcy, but have resumed at a
+rapid pace since then, and deposit dollarization has been declining steadily. Consequently, the
+Bank of Lebanon (BdL) has continued to accumulate international reserves at a swift pace.
+Eurobond spreads have come down markedly since spiking following the Lehman bankruptcy,
+and are now below the emerging market average. Helped by strict financial oversight, the
+domestic financial system has had very little exposure to distressed financial products or
+markets and remains liquid.
+Despite its vulnerabilities, the Lebanese economy has shown a remarkable macroeconomic
+performance. Lebanon’s public debt-to-GDP ratio remains very high, its large banking system is
+highly exposed to the sovereign and dependent on nonresident deposit inflows, and the country
+lies at the crossroads of regional political tensions. Nonetheless, Lebanon has achieved a
+strong macroeconomic performance, helped by prudent policies and an improvement of the
+1
+
+Under Article IV of the IMF's Articles of Agreement, the IMF holds bilateral discussions with
+members, usually every year. A staff team visits the country, collects economic and financial
+information, and discusses with officials the country's economic developments and policies. On
+return to headquarters, the staff prepares a report, which forms the basis for discussion by the
+Executive Board. At the conclusion of the discussion, the Managing Director, as Chairman of the
+Board, summarizes the views of Executive Directors, and this summary is transmitted to the
+country's authorities.
+
+2
+political and security situation after the May 2008 Doha agreement. Real GDP growth exceeded
+8 percent in 2008. CPI inflation dropped to 4 percent in January 2009, down from the double
+digits briefly reached last summer in the wake of soaring international food and fuel prices. With
+a primary fiscal balance of 0.5 percent of GDP, the debt-to-GDP ratio declined by 6 percentage
+points to 162 percent of GDP in 2008. All end-December quantitative targets under the
+Emergency Post-Conflict Assistance -supported program were met with substantial margins.
+The global recession and tight international capital markets weigh on the economic and financial
+outlook. Lower global liquidity and economic growth, particularly in the Gulf, are likely to affect
+merchandise exports, tourism, remittances, foreign direct and portfolio investment, and deposit
+inflows. Economic growth in Lebanon is likely to slow to 3 percent this year, and deposit growth
+could decline to about 10 percent from over 15 percent in 2008. Nonetheless, helped by a
+reduced oil import bill and ongoing deposit dedollarization, international reserves are likely to
+increase further. Inflation will likely remain low, in line with international price trends.
+Executive Board Assessment
+Executive Directors welcomed the remarkable resilience of the Lebanese economy in the face
+of the global financial crisis, and commended the authorities for their macroeconomic policy
+discipline and strict oversight of the financial system. Their implementation of the program
+supported by EPCA has contributed to a strong economic and financial performance and a
+reduction in the government debt-to-GDP ratio.
+Directors considered that the deepening global recession, unsettled international credit markets,
+and Lebanon’s exposure to regional spillovers underscore the importance of making further
+progress in addressing Lebanon’s macroeconomic and financial vulnerabilities. Near-term
+policies should aim at mitigating downside risks by safeguarding the recent progress made
+toward achieving debt sustainability and strengthening the external position. This will involve
+continued prudent fiscal and monetary policies, vigilant financial supervision, proactive
+contingency planning, and a resumption of the Paris III reform policy agenda to reduce
+structural vulnerabilities.
+Directors supported the authorities’ monetary policy aimed at safeguarding the exchange rate
+peg and facilitating a further buildup of international reserves. The large currency mismatches in
+the debt held by the governmental, corporate, and household sectors, along with the high level
+of government foreign currency debt and debt-service obligations, underscore the central role
+played by the peg in maintaining financial stability. Given heightened near-term risks, Directors
+agreed that there is little scope for lowering interest rates over the coming months. They took
+note of the staff assessment that the real effective exchange rate of the Lebanese pound
+appears to be broadly in line with fundamentals.
+Directors cautioned that Lebanon's still very-high level of government debt and the need to
+support the exchange rate peg leave little room for countercyclical fiscal policy. A number of
+Directors encouraged the authorities to aim for a higher primary fiscal surplus than implied in
+the draft budget to reduce the debt burden, while a few others saw the planned pause in fiscal
+
+3
+consolidation as justified by the slowdown in economic activity. Directors recommended that
+any revenue overperformance or capital spending shortfall in the 2009 budget be saved. They
+were encouraged by the authorities' assurance that implementation of the 2009 budget will be
+prudent, and their readiness to consider additional measures if needed to maintain the
+government debt-to-GDP ratio unchanged, and ensure government financing in the event of a
+shortfall in deposit inflows.
+Directors welcomed the reintroduction of gasoline excise taxes, which will help bolster the
+revenue position. They considered that carefully targeting social expenditures would lead to a
+more efficient allocation of public resources and achieve social and development objectives
+better than generalized public sector wage increases.
+Directors were encouraged by the resilience and profitability of the banking sector in the face of
+the global crisis. They commended the authorities for their prudent regulation and supervision of
+the sector, and the progress they have made in strengthening the bank resolution framework. At
+the same time, banks’ large exposure to the sovereign, maturity mismatches, and the still-high
+degree of dollarization constitute vulnerabilities. Directors therefore stressed the need for
+continued vigilance in bank regulation and supervision.
+Directors considered that progress on structural reforms under the Paris III reform agenda,
+especially in the energy sector, will warrant heightened attention in the period ahead. This
+should include a revision of electricity tariffs to ensure cost recovery, which will boost Lebanon’s
+growth potential and reduce a large drain on budgetary resources. The privatization of the
+mobile telecommunications providers as soon as market conditions allow would promote private
+sector growth and reduce debt-related vulnerabilities. Directors underscored that fiscal reforms,
+including an increase in the VAT, will be needed to achieve the desired sizeable primary fiscal
+surplus in the medium term. They stressed the importance of timely and full disbursement of
+donor commitments to support Lebanon’s reform agenda, including through the provision of
+budgetary support.
+
+Public Information Notices (PINs) form part of the IMF's efforts to promote transparency of the IMF's
+views and analysis of economic developments and policies. With the consent of the country
+(or countries) concerned, PINs are issued after Executive Board discussions of Article IV consultations
+with member countries, of its surveillance of developments at the regional level, of post-program
+monitoring, and of ex post assessments of member countries with longer-term program engagements.
+PINs are also issued after Executive Board discussions of general policy matters, unless otherwise
+decided by the Executive Board in a particular case.
+
+Statement by Shakour Shaalan, Executive Director for Lebanon
+April 15, 2009
+1.
+On behalf of the Lebanese authorities, I would like to express my appreciation to
+staff, Management, and the Executive Board for their continued constructive engagement
+with Lebanon. The authorities appreciated the helpful discussions with staff during the
+mission, which focused on preserving financial and economic stability in the near term, while
+pursuing the Paris III objectives of continued debt reduction and structural reforms over the
+medium term.
+Recent Developments and Outlook
+2.
+Lebanon’s economy has thus far shown significant resilience to the ongoing global
+financial and economic crisis. Underpinned by sound macroeconomic policies and an
+improved political and security environment, real GDP growth exceeded 8 percent in 2008,
+driven by construction and tourism. Inflation declined to 4 percent in January 2009, after
+having reached double digits last summer on account of high international food and fuel
+prices. Moreover, the authorities made further progress toward fiscal consolidation, with a
+realization of a primary fiscal surplus of 0.5 percent of GDP and a lowering of the
+debt-to-GDP ratio by 6 percentage points to 162 percent in 2008. At the same time, deposit
+inflows continued to increase at a rapid pace after decelerating briefly following the Lehman
+Brothers bankruptcy, deposit dollarization declined steadily, and the Banque du Liban (BdL)
+continued to rapidly accumulate international reserves. Against this background, all
+end-December 2008 quantitative targets under the Emergency Post-Conflict Assistance
+(EPCA)-supported program were met with substantial margins. Implementation of the
+structural reform agenda was slow, however, reflecting the approach of the general elections
+set for June this year, as well as a difficult international environment for privatization.
+3.
+Notwithstanding this remarkable performance, a worsening of the global financial
+and economic outlook, particularly in the Gulf, will adversely weigh on Lebanon’s economic
+prospects for 2009, in terms of lower receipts from tourism, remittances, foreign direct and
+portfolio investment, and deposit inflows. The authorities are well aware of the potential
+risks stemming from a slowdown in deposit growth, as domestic banks contribute to a large
+extent to financing the country’s fiscal deficits. Accordingly, the authorities’ policy
+objectives in the near term are to minimize the possible impact of the aforementioned risks
+by further building international reserves, safeguarding fiscal achievements, containing
+financing needs, and strengthening the banking sector. They remain fully committed to the
+objectives of the EPCA, which provides macroeconomic and financial discipline to their
+policy framework while anchoring progress towards structural reforms. They also remain
+committed to the implementation of the Paris III reform agenda over the medium term,
+particularly in the areas of fiscal consolidation, the privatization of the telecommunications
+sector, and the reform of the energy sector. At the same time, continued strong international
+
+2
+support remains essential to help Lebanon reduce its economic vulnerabilities. In particular,
+it is important that donors fully carry through their financial commitments made at the
+Paris III conference, in a timely fashion. The authorities continue to actively seek flexibility
+from donors to convert project loans pledges into budgetary support to further reduce the
+debt burden. They appreciate the support shown by the Fund in this regard.
+Monetary and Exchange Rate Policies
+4.
+The monetary policy framework has helped maintain confidence in the Lebanese
+financial system. The exchange rate peg continues to serve the economy well by providing a
+firm anchor to financial stability. It has proved crucial in this regard, given balance sheet
+risks related to widespread dollarization and the government’s high foreign currency debt
+servicing obligations. The authorities agree with staff’s assessment that the real exchange
+rate remains broadly in line with fundamentals.
+5.
+Mindful of continued strains in the global financial outlook, the BdL aims at further
+strengthening its international reserves buffer to preserve confidence and support deposit
+growth. This would be achieved by maintaining the interest rate differential between
+domestic currency and foreign currency rates at the current level. Admittedly, given the
+decline in international interest rates, the policy of reserve accumulation entails a high cost
+for the BdL balance sheet. Once more stable and predictable market conditions prevail, the
+central bank should be in a better position to consider a further reduction in domestic
+currency interest rates when deposit growth stabilizes at a comfortable pace. Going forward,
+fiscal adjustment and improved confidence in the economy would help reduce dollarization,
+which would facilitate a further build-up of net international reserves and strengthen the
+BdL’s income position.
+Fiscal Policy and Reforms
+6.
+The budget for 2009 has been framed against the background of an expected
+slowdown in economic activity and the associated potential increase in social needs.
+Accordingly, the draft budget (expected to be submitted to Parliament in the near future)
+envisages a balanced primary account and a gross debt-to-GDP ratio that remains constant at
+162 percent. Fiscal space is being created through the reintroduction of gasoline excises, the
+reduced need for budgetary transfers to Electricité du Liban resulting from lower fuel costs,
+the delayed privatization of the mobile phone companies, and the implementation of revenue
+measures envisaged under EPCA. These additional resources would help finance the increase
+in spending on wages and salaries that has been approved last year, as well as much needed
+higher capital expenditures. The authorities are fully committed to the EPCA’s fiscal targets.
+Accordingly, implementation of the 2009 budget will be prudent, and the authorities stand
+ready to consider additional measures if needed to achieve the budgetary objectives. The
+authorities have also prepared a contingency anti-crisis plan aimed at boosting economic
+activity, with minimal effects on the fiscal balance.
+
+3
+7.
+Important progress has been made in the area of budgetary reforms. Parliament
+approved the tax procedure code at end-2008. A cash management unit was also established,
+and is undertaking a pilot project on monthly payment forecasts with three line ministries.
+The draft Global Income Tax law should be submitted to the Council of Ministers and
+Parliament in the coming months. The restructuring of the tax administration has been
+initiated, and the Treasury Single Account legislation is under examination in Parliament.
+8.
+Despite the likely slowdown in deposit growth, the authorities expect to meet
+the 2009 financing needs from the market. However, should the approach of the elections or
+a protracted global recession lead to a critical drop in deposit inflows, the authorities stand
+ready to respond appropriately with a combination of measures, including fiscal adjustment,
+a lower pace of reserve accumulation, higher interest rates, and possibly additional use of
+Fund resources.
+Financial Sector
+9.
+Effective regulation and supervision, coupled with a deposit-based funding structure,
+have shielded the domestic financial sector from exposure to international financial risks, and
+thus from the effects of the global financial crisis. Nevertheless, in the wake of the crisis, the
+Banking Control Commission (BCC) has strengthened reporting requirements on domestic
+and foreign operations, carried out stress tests for the banking system, and intensified on-site
+inspections. Moreover, the BdL has recently recommended limiting dividend payments to
+25 percent of 2008 profits in order to further enhance the already high bank capitalization.
+Finally, the authorities have prepared a draft legislation for the creation of the regulatory
+authority for financial markets. They further reinforced the banking resolution framework
+with the adoption of a revised bank merger law aimed at preventing to the extent possible
+bank failures by encouraging mergers and takeovers by sounder banks instead. Plans to
+reform the deposit insurance fund are also underway.
+
+

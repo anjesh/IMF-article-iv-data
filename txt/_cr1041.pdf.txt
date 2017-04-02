@@ -1,0 +1,5342 @@
+February 2010
+IMF Country Report No. 10/41
+
+© 2010 International Monetary Fund
+
+February 10, 2010
+February 8, 2010
+
+8, 2010
+2009
+
+February 10, 2010
+January 29, 2001
+
+Qatar: 2009 Article IV Consultation—Staff Report; and Public Information Notice
+Under Article IV of the IMF’s Articles of Agreement, the IMF holds bilateral discussions with
+members, usually every year. In the context of the 2009 Article IV consultation with Qatar, the
+following documents have been released and are included in this package:
+•
+
+The staff report for the 2009 Article IV consultation, prepared by a staff team of the IMF,
+following discussions that ended on November 22, 2009, with the officials of Qatar on
+economic developments and policies. Based on information available at the time of these
+discussions, the staff report was completed on January 22, 2010. The views expressed in the
+staff report are those of the staff team and do not necessarily reflect the views of the
+Executive Board of the IMF.
+
+•
+
+A Public Information Notice (PIN) summarizing the views of the Executive Board.
+
+The document listed below will be separately released.
+Statistical Annex/Appendix
+The policy of publication of staff reports and other documents allows for the deletion of market-sensitive
+information.
+Copies of this report are available to the public from
+International Monetary Fund • Publication Services
+700 19th Street, N.W. • Washington, D.C. 20431
+Telephone: (202) 623-7430 • Telefax: (202) 623-7201
+E-mail: publications@imf.org Internet: http://www.imf.org
+
+International Monetary Fund
+Washington, D.C.
+
+INTERNATIONAL MONETARY FUND
+QATAR
+Staff Report for the 2009 Article IV Consultation
+Prepared by the Middle East and Central Asia Department
+(In Consultation with Other Departments)
+Approved by Juan Carlos Di Tata and David Marston
+January 22, 2010
+
+
+Discussions: November 10–23, 2009.
+
+
+
+Team: Messrs. Prasad (Head), Kumah, Williams, and Espinoza (all MCD).
+Mr. Senhadji (MCD) participated in the policy discussions.
+
+
+
+Meetings: The mission met with the Minister of Economy and Finance; the
+Governor of the Qatar Central Bank (QCB); the Chairman and Chief
+Executive Officer of the Qatar Financial Center (QFC); other senior
+government and central bank officials; and representatives of the private
+sector.
+
+
+
+Exchange arrangement: Peg to the U.S. dollar. Qatar is an Article VIII
+country, but maintains security-related exchange restrictions that have been
+notified to the Fund.
+
+
+
+Past surveillance: The authorities and the Fund have generally agreed on
+policy priorities. The 2008 Article IV consultation was concluded on January
+21, 2009; PIN available at
+http://www.imf.org/external/np/sec/pn/2009/pn0909.htm.
+
+
+
+Economic statistics: Broadly adequate for surveillance; can improve data
+frequency, timeliness, and coverage. General Data Dissemination System
+(GDDS) participant since December 30, 2005.
+
+2
+Contents
+
+Page
+
+Executive Summary ...................................................................................................................3
+I. Current Economic Developments ...........................................................................................4
+II. Medium-Term Economic Outlook and Risks .......................................................................5
+III. Policy Discussions ...............................................................................................................8
+A. Financial Sector Stability ..........................................................................................8
+B. Macroeconomic Policy Mix ....................................................................................13
+C. Potential Risks to the Growth Strategy ...................................................................15
+D. Financial Sector Development ................................................................................16
+E. Monetary Union.......................................................................................................17
+F. Other Structural Reforms .........................................................................................17
+G. Data Compilation and Transparency.......................................................................17
+IV. Staff Appraisal ...................................................................................................................18
+Boxes
+1. Banking Sector Stress Test ..................................................................................................11
+2. The Effects of Macro-shocks on Credit Risk in GCC Banks ..............................................12
+3. Exchange Rate Assessment..................................................................................................14
+4. Qatar’s Corporate Sector Debt Stress Test ..........................................................................16
+Figures
+1. Inflation Dynamics, 2006–09.................................................................................................4
+2. Recent Economic Developments ...........................................................................................6
+3. Money and Banking Developments .......................................................................................7
+4. Financial Market Indicators ...................................................................................................9
+5. Credit Default Swaps. Sept. 10, 2008–Dec. 8, 2009..............................................................9
+6. Qatar: External Liabilities ....................................................................................................15
+Tables
+1. Selected Macroeconomic Indicators, 2005–10 ....................................................................20
+2a. Summary of Government Finance, 2005/06–2009/10 .......................................................21
+2b. Summary of Government Finance, 2005/06–2009/10 .......................................................22
+3. Depository Corporations Survey, 2005–10..........................................................................23
+4. Balance of Payments, 2005–10 ............................................................................................24
+5. Vulnerability Indicators, 2003–08 .......................................................................................25
+6. Medium-Term Baseline Scenario, 2006–14 ........................................................................26
+Attachment
+Draft Public Information Notice ..............................................................................................27
+
+3
+EXECUTIVE SUMMARY
+There was a broad concurrence of views between the staff and the authorities on financial
+sector issues, the macroeconomic policy mix, and medium-term growth and risks.
+Background
+The underlying strength of the economy—derived from Qatar’s hydrocarbon revenues—and
+timely and decisive intervention by the government in the banking system helped limit the
+impact of the global crisis and maintain financial stability.
+The authorities:
+
+
+Are committed to preserving financial stability through further intervention in the
+banking system, if needed. The central bank has initiated a comprehensive review of
+its prudential regulations and monetary policy instruments.
+
+
+
+Indicated that the available fiscal space would be used prudently to limit potential
+aggregate demand pressures.
+
+
+
+Are monitoring the timing, issuance, duration and pricing of external debt through a
+high-level Ministerial Committee.
+
+
+
+Emphasized their commitment to establishing a single financial services regulator.
+
+
+
+Consider the peg to the U.S. dollar in the period leading up to the Gulf Cooperation
+Council (GCC) Monetary Union as appropriate.
+
+
+
+Indicated that Qatari banks’ exposures to Dubai World are not significant and are
+manageable without causing any serious impact on banks’ capital.
+
+Staff recommendations:
+
+
+Implement sound risk management practices to ensure banks do not rebuild
+excessively risky asset portfolios.
+
+
+
+Ensure that government interventions do not unduly exacerbate the moral hazard
+problem or diminish incentives for improvements in risk management by banks.
+
+
+
+Rely on a prudent use of fiscal space and macro-prudential instruments, in the
+context of the peg, for limiting the risk of asset bubbles and inflation.
+
+
+
+Manage a potential overheating of the economy through a careful prioritization of
+investment projects.
+
+
+
+Monitor and manage external debt by the establishment of a formal debt entity.
+
+
+
+Strengthen capacity to provide comprehensive international investment position
+(IIP) data.
+
+4
+I. CURRENT ECONOMIC DEVELOPMENTS1
+1.
+Qatar’s economy continued its impressive performance in 2009, despite the
+global financial crisis.
+
+1
+
+
+
+Overall real GDP is expected to grow by 9 percent in 2009, owing to a 10 percent
+growth in the hydrocarbon sector (despite technical delays in liquefied natural gas
+(LNG) production) and an 8 percent growth in the nonhydrocarbon sector
+underpinned by investment.
+
+
+
+A sharp fall in domestic rents has led to deflation in 2009. Consumer prices are
+projected to decline by
+5½ percent in 2009, the
+sharpest deflation among
+the GCC countries.2 This
+decline reflects a large
+decrease in domestic rents
+and falling international
+prices for food and raw
+materials. The sharp
+deflation is the result of
+both positive supply shocks
+(increase in housing
+supply; reduction in import prices) and slowing demand, although domestic activity
+is supporting prices of non-tradable goods.3
+
+
+
+Although broad money and credit growth decelerated sharply in 2009,4 credit
+expanded between end–2008 and October 2009 across sectors—industry, real estate
+and construction, and consumption—and private sector deposits grew at an
+annualized rate of 30 percent during the same period.
+
+
+
+Fiscal policy continues to support growth, as development expenditures are
+projected to increase by 14.7 percent in FY 2009/10, notwithstanding
+re-prioritization of some government projects. The overall fiscal surplus is projected
+at 11.8 percent of GDP in FY 2009/10, mainly reflecting the transfer of high
+investment income earned by public enterprises in 2008. The external current
+account is expected to record a surplus of 15.7 percent of GDP in 2009.
+
+See charts in Figures 1–3.
+
+2
+
+The extent of deflation might be overestimated, as the measurement of rents (which account for approximately
+30 percent of the consumption basket) is skewed towards new contracts. Since new contracts have witnessed
+sharp falls in rents at the beginning of the year, the fall in average rents is likely to be less pronounced.
+3
+
+Recent information on credit growth, net inflows of immigrants, corporate profitability and investment
+activity suggests a pickup in demand, which may help dampen the price deflation.
+4
+
+This includes the effects of the exchange of some real estate credit for cash and government bonds and the
+substitution of credit with bonds by one major bank.
+
+5
+
+
+The banking system is well capitalized and profitable. Nonperforming loans (NPLs)
+are among the lowest in the GCC (2.0 percent at end-September 2009), reflecting
+both prudent regulation and government support to banks in the course of the year.
+Banking Sector Performance
+Total Banking System
+Q3 2009
+2008
+2007
+
+Assets
+
+Conventional banks
+Q3 2009
+2008
+2007
+
+(U.S. Dollar Billion)
+77.7
+77.6
+57.8
+
+Islamic Banks
+Q3 2009
+2008
+
+2007
+
+98.6
+
+95.0
+
+69.2
+
+19.7
+
+17.4
+
+11.4
+
+…
+…
+…
+
+…
+…
+…
+
+…
+…
+…
+
+1.3
+…
+1.0
+
+1.5
+…
+1.5
+
+1.0
+…
+1.1
+
+…
+0.7
+0.3
+
+…
+0.5
+0.7
+
+…
+0.4
+0.7
+
+Provisions
+
+0.25
+
+0.14
+
+0.06
+
+0.19
+
+0.13
+
+0.05
+
+0.05
+
+0.02
+
+0.02
+
+Net Profits
+
+2.11
+
+2.72
+
+2.23
+
+1.56
+
+1.85
+
+1.41
+
+0.55
+
+0.84
+
+0.80
+
+Net Interest Income
+Income from Islamic Activities
+Other income (including investment income)
+
+Sources: Zawya balance sheets; and Fund staff calculations.
+
+II. MEDIUM-TERM ECONOMIC OUTLOOK AND RISKS5
+2.
+The growth outlook remains strong. A cornerstone of Qatar’s strategy is a
+commitment to diversify the economy by building related industries around the full LNG
+value-chain and linking upstream, midstream, and downstream components (including by
+acquiring ships and building ports). Nonhydrocarbon real GDP is expected to record doubledigit growth over the medium term, buoyed by continued strong activity in services and a
+pick up in manufacturing and construction. Hydrocarbon output is expected to grow at
+25 percent in 2010 and 13 percent in 2011–12 as LNG production peaks at 78 million tonnes
+by 2012.6 Staff expects average annual inflation of 4 percent over the medium term,
+assuming that the public and the private sectors implement their planned infrastructure
+investments.
+3.
+The fiscal and external accounts will show surpluses over the medium term.
+Strong revenue growth from the increase in LNG production to capacity will create
+additional fiscal space, with the annual average fiscal surplus estimated at around
+12½ percent of GDP in 2010–14. Government expenditures are projected to increase in line
+with GDP, averaging 29 percent of GDP in 2010–14, with capital spending of around
+11 percent of GDP. The nonhydrocarbon fiscal balance (as percent of nonhydrocarbon GDP)
+will decline over the medium term, mainly reflecting continued large transfers of investment
+income to the budget from public enterprises. The current account surplus is expected to
+stabilize at an annual average of 31 percent of GDP in 2010–14, as imports, which soared
+during the boom years, would grow at a more moderate rate.
+
+5
+6
+
+All projections are based on the IMF’s August 31, 2009, World Economic Outlook (WEO) baseline.
+
+Qatar’s production of gas-related products—condensates, propane and butane—will also grow steadily as
+LNG production reaches full capacity and specific Gas-to-Liquid projects come on stream. By 2013, production
+of condensates will reach 750,000 barrels per day.
+
+6
+Figure 2. Qatar: Recent Economic Developments
+Real GDP growth was lower in 2009 but remains
+high...
+30
+
+30
+Real Hydrocarbon and
+Non-Hydrocarbon Growth, 2004–09
+(percentage change)
+
+25
+
+15
+
+15
+
+10
+
+10
+
+5
+
+5
+
+0
+
+0
+Qatar Hydrocarbon
+Qatar Non-hydrocarbon
+GCC Hydrocarbon
+GCC Non-hydrocarbon
+
+2004
+
+2005
+
+2006
+
+2007
+
+-5
+-10
+2008
+
+10
+
+Contribution to Inflation, 2003Q1–09Q3
+(in percent)
+
+8
+
+50
+
+LNG (mn. tons per year)
+Public Investment
+Private Investment
+
+40
+
+40
+
+30
+
+30
+
+20
+
+20
+
+10
+
+10
+
+0
+
+0
+
+2009
+
+2004
+
+Falling rents have pulled inflation to negative
+territory...
+
+60
+
+Public and Private Investment, 2004–09
+(in percent of GDP)
+
+50
+20
+
+-10
+
+60
+
+25
+
+20
+
+-5
+
+…driven by a combination of LNG production and
+public and private investment.
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+…however, decline in non-rent, non-tradable inflation
+since Q1 2009 has slowed.
+10
+
+30
+
+8
+
+24
+
+6
+
+6
+
+4
+
+4
+
+Inflation, 2003Q1–09Q3
+(annual percentage change)
+Non-tradables
+
+18
+Non-rent
+
+12
+2
+
+2
+
+0
+
+0
+
+6
+
+Other
+Rent, Fuel & Power
+Food, Beverages & Tobacco
+
+-2
+-4
+
+-2
+
+-6
+2003Q1
+
+2004Q3
+
+2006Q1
+
+2007Q3
+
+-4
+
+-6
+
+-6
+
+-12
+2003Q1
+
+2009Q1
+
+There has been some recent
+depreciation of the REER.
+
+2004Q3
+
+140
+Effective Exchange Rates, 2004–09
+(index, 2000=100)
+
+50
+
+120
+REER
+
+110
+
+110
+
+100
+
+100
+
+90
+
+90
+
+80
+
+80
+
+70
+
+70
+Mar-06
+
+Apr-07
+
+May-08
+
+2009Q1
+
+Current Account Balance
+Fiscal Balance
+GCC Current Account Balance
+GCC Fiscal Balance
+
+40
+
+120
+
+Feb-05
+
+2007Q3
+
+Fiscal and Current Account Balances,
+2004–09 (in percent of GDP)
+
+130
+
+NEER
+
+Jan-04
+
+2006Q1
+
+Fiscal and current account balances recorded lower
+surpluses.
+
+140
+130
+
+0
+
+Jun-09
+
+50
+
+40
+
+30
+
+30
+
+20
+
+20
+
+10
+
+10
+
+0
+
+0
+2004
+
+2005
+
+2006
+
+Sources: National authorities; and Fund staff calculations and projections.
+
+2007
+
+2008
+
+2009
+
+7
+Figure 3. Qatar: Money and Banking Developments
+Private sector deposits started growing in 2009...
+180
+160
+
+Commercial Bank Deposits, 2007–09
+(QR billions)
+
+…broad money and private credit growth remain
+subdued.
+
+180
+
+70
+
+160
+
+60
+
+60
+
+140
+
+50
+
+50
+
+40
+
+40
+
+30
+
+30
+
+Qatar: Monetary Growth, 2004–09
+(annual percentage change)
+
+70
+
+Private Sector
+
+140
+
+Public Sector
+
+120
+
+120
+
+100
+
+100
+
+80
+
+80
+
+60
+
+60
+
+40
+
+40
+
+20
+
+20
+Broad Money
+
+10
+
+10
+
+Credit to Private Sector
+
+0
+Jul-07
+
+Jan-08
+
+Jul-08
+
+2005
+
+2006
+
+2007
+
+2008
+
+Jan-09
+
+Asset quality has deteriorated, though the average
+CAR is high and NPLs are low...
+30
+
+0
+2004
+
+10
+
+Return on Assets and Equity, 2003–08
+(in percent)
+
+2009
+Latest
+
+... banks continued to record lower profits.
+35.0
+
+5.0
+
+Return on Assets and Equity, 2003–08
+(in percent)
+
+32.5
+
+25
+
+4.5
+
+8
+
+CAR (LHS)
+
+30.0
+20
+
+NPLs (% of total
+loans)
+
+4.0
+6
+
+27.5
+
+15
+
+3.5
+4
+
+25.0
+
+10
+
+3.0
+22.5
+2
+
+5
+
+20.0
+
+2.5
+
+Return on equity (LHS)
+
+Return on assets
+
+0
+
+0
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+17.5
+
+2.0
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+Sources: National authorities; and Global Financial Stability Report (GFSR).
+
+Risks to the Outlook. The main risks to the economic outlook include a disruption in Qatar
+Petroleum’s supply of LNG due to unexpected delays in the construction of gas trains, a large
+negative demand shock from a prolonged global recession, persistent low hydrocarbon
+prices, and a further large decline in real estate prices.7 A persistent downturn in the domestic
+economy could adversely affect the outlook for credit risk. Staff’s analyses show that
+7
+
+According to some private sector estimates, real estate prices in Qatar have fallen by 15 to 30 percent since
+the onset of the global financial crisis in August 2008. Although real estate prices in Qatar seem to have
+stabilized, loans to contractors and real estate constituted 22 percent of total domestic credit of banks at endOctober 2009, posing some potential risks. Moreover, the building and construction sector contributes to
+15 percent of real non-hydrocarbon growth.
+
+8
+worsening macroeconomic conditions (for instance, a fall by 5 percentage points in
+nonhydrocarbon growth and an increase in interest rates of 300 basis points, maintained over
+three years) could increase NPLs to the high levels observed in the early part of the decade
+(Box 2). Although corporate sector leverage is currently not a concern, the potential impact
+of future changes in international interest rates or country spreads on corporate balance
+sheets needs to be monitored closely. Additional unexpected adverse financial developments
+in the region, particularly in Dubai, could impact negatively on global investor sentiment
+toward GCC countries
+III. POLICY DISCUSSIONS
+The policy discussions focused on (i) the impact and policy implications of recent
+government intervention in the banking system; (ii) the macroeconomic policy mix
+(iii) medium-term growth prospects and their potential to cause overheating of the economy;
+and (iv) vulnerabilities that might arise from the accumulation of external debt.
+A. Financial Sector Stability
+4.
+The authorities’ preemptive intervention in the banking sector was large.
+Official intervention in 2009 reached about 6½ percent of GDP, mainly in the form of
+(i) capital injections in banks by the Qatar Investment Authority (QIA) at 5 percent of their
+enhanced share capital (around $1 billion);8 (ii) purchase of the equity investment portfolio
+of banks (up to $2 billion) by the government;9 (iii) purchase of the real estate portfolio of
+banks (up to $4 billion) by the government in the context of falling real estate prices.10 The
+authorities intervened with the objectives of (i) providing liquidity to banks, restoring
+confidence, and signaling the government’s commitment to support the banking system; and
+(ii) containing financial risks and maintaining the stability of the local banking system.
+
+8
+
+A second round of capital injections of 5 percent is scheduled before end-December 2009, in line with earlier
+announcements.
+9
+
+The investment portfolios were purchased at the marked-to-market values held by banks.
+
+10
+
+The real estate portfolios were purchased at the values at which they were held in the books of banks net of
+provisions.
+
+9
+Figure 4 . Qatar: Financial Market Indicators
+Banks' excess reserves have
+returned to pre-crisis levels.
+40
+
+Bank Excess Reserves, 2007–09
+(QR billions)
+
+35
+
+Interbank interest rates have stabilized.
+40
+
+8
+
+35
+
+7
+
+8
+
+Interbank Rates, 2008–09
+(in percent)
+
+7
+Overnight
+
+30
+
+30
+
+6
+
+25
+
+25
+
+5
+
+20
+
+20
+
+4
+
+4
+
+15
+
+15
+
+3
+
+3
+
+10
+
+10
+
+2
+
+2
+
+5
+
+1
+
+1
+
+0
+
+0
+
+5
+
+Req. reserves
+Local Bank Deposits and CDs
+
+0
+Jul-07
+
+Jan-08
+
+Jul-08
+
+Jan-09
+
+Jul-09
+
+Jul-07
+
+1-month
+3-months
+
+6
+5
+
+0
+
+Feb-08
+
+Sep-08
+
+Apr-09
+
+Sources: National authorities; and Fund staff calculations and projections.
+
+5.
+The equity injections and the asset purchases further improved the resilience of
+the banking system. Market
+Figure 5. Credit Default Swaps, Sept. 10, 2008–Dec. 8, 2009
+reaction to the intervention was
+(In basis points)
+400
+120
+favorable; tail risks have declined
+Government
+CDS Spread
+announced plan to
+purchase banks'
+and banks now have room to lend. 350
+Qatar Exchange Index
+100
+investment portfolio
+(RHS)
+300
+Staff’s calculations show that the
+Government issued
+sovereign bond
+80
+combined capital adequacy ratio
+250
+(CAR) for the eight major listed
+200
+60
+banks improved from 16½ percent
+Government issued
+150
+40
+sovereign bond
+to 18½ percent after the
+Government
+QIA announces
+purchased real
+100
+plan to
+estate portfolio of
+intervention. Staff’s stress tests
+purchase
+banks
+20
+banks' equity
+50
+(Box 1) confirmed the authorities’
+0
+0
+view that the interventions further
+Sep-08
+Nov-08
+Feb-09
+May-09
+Jul-09
+Oct-09
+strengthened the ability of the
+Sources: Bloomberg; and Markit.
+banking system to withstand
+future credit and market shocks.
+6.
+The authorities have announced a clear exit plan for the asset purchase from
+11
+banks. The management of the purchased portfolio has been vested with the Governor of
+the Central Bank, assisted by a committee. Nevertheless, the option for banks to repurchase
+
+11
+
+Banks can repurchase the investments within a period of 5 years at the same price at which they were sold,
+and the real estate loans at the original sale price after a period of 3 years.
+
+10
+the portfolio at a later stage created an implicit subsidy from the government.12 The risks to
+the exit plan can come from contingent losses on the government that would be realized if the
+valuations fall further, but these losses do not appear likely. There are no immediate plans to
+unwind the QIA’s equity holdings in banks.
+7.
+The authorities are monitoring closely other financial risks. Post-intervention,
+QCB has restricted banks from taking on new exposures in equity and real estate, a measure
+supported by staff. Off-balance sheet risks seem contained as they are mostly in
+collateralized credit lines. The authorities indicated that the exposures of Qatari banks to
+Dubai World are insignificant and manageable, and would not cause any serious impact on
+banks’ capital.13 The central bank is monitoring cross-border and cross-sectoral exposures.
+Staff recommended updating and testing the resolution frameworks for financial institutions
+as well as the cross-border and cross-supervisory frameworks. Recent developments in Dubai
+underscore the need to review and clarify insolvency/arbitration frameworks as well as the
+enforceability of contracts and foreign judgments in local courts, particularly since Qatar is
+embarking on higher external borrowing.
+
+12
+
+Staff estimates the value of the implicit subsidy for the investment portfolio to be in the range of $0.4 billion
+and $0.8 billion. The value of the subsidy for the real estate portfolio is estimated to be between $0.6 billion and
+$1.1 billion, depending on the assumptions of historical volatility and the discount rate.
+13
+
+Available information indicates that Qatar National Bank (QNB) has a 23.8 percent stake in the U.A.E.-based
+Commercial Bank International ($0.3 billion) but has no direct exposure to Dubai World; Commercial Bank of
+Qatar has 40 percent stake in United Arab Bank ($0.2 billion), but has no exposure to Dubai World; Doha Bank
+has a branch in Dubai; Qatar Islamic Bank has a $15 million exposure to Dubai World through a Sukuk (0.7
+percent of capital); and Qatar International Islamic Bank has no exposure to Dubai World.
+
+11
+
+Box 1. Banking Sector Stress Test
+Assumptions: The assets of the eight Qatari listed banks are disaggregated into three components, viz., (i) risky
+loans (comprising loans to the private sector, including one-half of consumer loans); (ii) risky market portfolios
+(comprising all portfolio investments in the available-for-sale category); and (iii) all other assets (loans to the
+government, and one-half of consumer loans), which are not shocked in the stress test. 1
+Scenarios: The resilience of the banking system and the potential recapitalization needs are assessed in eight
+scenarios combining increasingly high NPLs and increasingly large market valuation losses. The different NPL
+calibrations can be matched with macroeconomic shocks using the NPL model presented in Box 2.
+Results: Based on banks’ balance sheets at end-December 2008 before the authorities’ intervention, three banks
+would have suffered losses, pulling their respective CARs below the regulatory requirement of 10 percent as soon
+as NPLs reached 10 percent. Five banks out of 8 would have needed recapitalization in the worst case scenario.
+Recapitalization needs for the overall banking system would have ranged between $0.2 billion and $2.5 billion.
+Capital Adequacy Ratio of the Banking System Before Intervention
+NPLs
+Initial CAR= 16.5
+
+5 percent
+
+10 percent
+
+Market down by 25 percent
+New banking system CAR
+Number of banks below regulatory CAR
+Recapitalization needs (in billions of U.S. dollars)
+
+15 percent
+
+20 percent
+
+14.1
+1
+0.0
+
+12.7
+3
+0.2
+
+11.2
+3
+0.9
+
+9.7
+4
+1.7
+
+Market down by 50 percent
+New banking system CAR
+Number of banks below regulatory CAR
+Recapitalization needs (in billions of U.S. dollars)
+
+12.9
+3
+0.2
+
+11.5
+3
+0.8
+
+10.0
+4
+1.5
+
+8.5
+5
+2.5
+
+The total intervention of the authorities, including capital injections and purchases of assets up to September 2009
+amounted to about $6.5 billion, which had the effect of increasing liquidity, decreasing risk-weighted assets, and
+providing a greater capital cushion against credit and market risks, as evidenced by the results of the stress test
+after intervention. A 10 percent increase in NPLs would now pull only one bank below the regulatory CAR.
+Recapitalization needs remain below $1 billion in the worst scenario, in which 3 banks would need additional
+capital.
+Capital Adequacy Ratio of the Banking System After Intervention
+NPLs
+Initial CAR= 18.5
+
+5 percent
+
+10 percent
+
+15 percent
+
+20 percent
+
+Market down by 25 percent
+New banking system CAR
+Number of banks below regulatory CAR
+Recapitalization needs (in billions of U.S. dollars)
+
+16.5
+0
+0.0
+
+15.2
+1
+0.1
+
+13.8
+2
+0.2
+
+12.4
+3
+0.6
+
+Market down by 50 percent
+New banking system CAR
+Number of banks below regulatory CAR
+Recapitalization needs (in billions of U.S. dollars)
+
+14.8
+1
+0.0
+
+14.4
+2
+0.1
+
+13.0
+2
+0.3
+
+11.6
+3
+0.9
+
+_______________________
+1/ Risky loans are assumed to suffer from NPLs, rising from 1 percentage point to 20 percentage points above the
+baseline (with a Loss Given Default ratio at 0.75), and the value of risky portfolio assets is shocked with losses up
+to 50 percent.
+
+12
+
+Box 2. The Effects of Macro-shocks on Credit Risk in GCC Banks
+The global crisis exposed the vulnerabilities of the banks in the GCC countries to varying degrees, although at an
+aggregate level, the banking system had a sufficient capital cushion to absorb potential losses. NPLs are
+currently at healthy levels in the GCC banking system; Qatar’s NPL ratio is among the lowest in the region.
+The positive macroeconomic
+NPL Ratios of Banks 1998–2008
+environment in the years
+preceding the global crisis
+Bahrain Kuwait Oman Qatar Saudi Arabia UAE
+was conducive to favorable
+26
+15
+16
+9
+20
+32
+financial positions and lower Number of Banks
+NPL ratio in 2008 (unweighted) 2.9
+5.5
+1.2
+1.7
+1.4
+2.4
+NPLs of banks.
+NPL ratio (1995–2008)
+Nevertheless, a downturn in
+25th percentile
+2.1
+3.4
+3.5
+1.3
+1.7
+1.7
+the Gulf economies could
+Median
+5.9
+6.7
+6.5
+3.1
+3.1
+4.3
+adversely affect the outlook
+75th percentile
+14.8
+12.5
+11.3
+11.5
+7.3
+9.6
+for credit risk.
+Source: Bankscope and staff calculations
+
+Risks remain for banks around the world as the second round feedback effects from the real sector materialize—
+the GCC banking system being no exception. Credit risk increases as macroeconomic conditions deteriorate and
+interest payments rise, a result found in many credit risk models (see for instance IMF, 2006). 1 The potential for
+changing macroeconomic conditions to impact adversely the credit portfolio of banks in the GCC, and
+particularly in Qatar, is therefore a relevant issue that deserves investigation.
+In the GCC, according to a dynamic panel estimated for 1995–2008 using data on 113 banks, the NPL ratio
+worsens as economic growth becomes lower and interest rates increase, as specified by the following equation. 2
+ΔNPL = 0.94 ΔNPL-1 - 0.18 Δ Non-oil real GDP growth + 0.3 Δ interest rate on loans-1
+(7.4)
+(-2.1)
+(2.5)
+No. obs. = 671; R2 = 0.64
+The model implies that the cumulative effect of macro-shocks over a three-year horizon could be significant.
+A slowdown in real non-hydrocarbon growth (for instance, from 9 percent to 4 percent for Qatar) maintained
+for three years would have the potential to increase the NPL ratio by 3 percentage points. Similarly, an
+increase in interest rates (by, say, 3 percentage points) sustained over three years would worsen the NPL ratio
+of banks by another 3 percentage points. Individual banks could suffer higher losses depending on their credit
+levels.
+_________________________
+1
+Spain: Financial Sector Assessment Program – Technical Note – Stress Testing Methodology and Results, IMF
+Country Report No. 06/216, June 2006.
+2
+
+All variables are expressed in percentage points. The regression controls for the firm-level lagged
+expenses/asset ratio. The other firm-level variables were not found to be significant (logarithm of equity, total
+capital ratio, margin on interest, lagged credit growth).The model was estimated using System GMM (Blundell
+and Bond, 1998) and the number of instruments was limited using the Holtz-Eakin, Newey, and Rosen (1988)
+method and instrument lags limited to 4. The macroeconomic variables were considered as strictly exogenous,
+while the lagged bank-level variables were specified as predetermined. The usual specification tests (ArellanoBond AR1 and AR2 and Sargan/Hansen tests) confirm that the instrumentation procedure is appropriate. The
+results were robust to changes in the sample size. Since GMM does not provide an R 2, the R2 shown here is that
+of the very similar OLS estimate.
+
+13
+8.
+The authorities are taking several steps to improve the regulatory framework
+for banks. QCB has initiated a comprehensive review of its prudential regulations and
+monetary policy instruments, complementing ongoing global regulatory reforms. Setting up
+of a risk monitoring department in QCB is under consideration. The authorities are
+establishing a credit bureau, which should enhance credit monitoring by banks and the
+central bank.
+9.
+In the context of risk management, staff suggested that the authorities review the
+effectiveness of their crisis management measures. A common challenge is how to design
+policy packages that enhance the stability of the financial system while minimizing moral
+hazard and ensuring a good risk management culture in banks. Staff recommended
+specifying rules for bank interventions triggered by objective criteria, i.e. a prompt corrective
+action framework. This would help avoid regulatory forbearance and ensure that banks
+address emerging problems quickly. The authorities agreed with staff that the instruments
+used for intervention should not be counterproductive to fostering a good risk management
+culture in banks.
+B. Macroeconomic Policy Mix
+Since monetary policy is constrained by the peg, the burden of macroeconomic management
+will fall on fiscal policy and macroprudential instruments.
+10.
+Monetary policy. Although monetary policy independence is constrained by the peg,
+the authorities have been able to maintain high interest rates—predicated on the objectives of
+containing inflation and preventing the extension of bad loans—since September 2008,
+without attracting speculative inflows. Staff cautioned that as investors reevaluate global
+risks, Qatar could attract speculative inflows. QCB indicated that it was monitoring inflows
+carefully and was ready to adjust interest rates if needed, while managing credit growth with
+its macroprudential instruments. Staff indicated that there is scope for improving liquidity
+management through liquidity forecasting and fine-tuning of the operations of the Qatar
+Money Rates (QMR) facility.
+11.
+Fiscal policy. The authorities confirmed that while no ongoing government projects
+had been cancelled, they had re-assessed their development expenditure plans for the future,
+keeping in view the country’s absorptive capacity as well as the cost and availability of raw
+materials and other inputs. They signaled their intention to contain spending at a moderate
+level to stave off demand pressures, even if hydrocarbon and nonhydrocarbon revenues
+increase rapidly. Staff emphasized that the government should continue investing in carefully
+prioritized and sequenced infrastructure projects in order to anticipate and prevent supply
+bottlenecks, and crowd in the private sector.14
+
+14
+
+Staff’s fiscal sustainability exercise, which assumes a constant per capita consumption, indicates space for
+further spending. Although these findings are sensitive to the assumptions used, Qatar’s vast oil and gas
+(Continued)
+
+14
+12.
+Exchange rate policy. The authorities reiterated that the Qatari riyal would continue
+to be pegged to the U.S. dollar for the time being, although various arrangements could be
+explored after the formation of the GCC monetary union. Staff supported the authorities’
+decision. The authorities concurred with the staff’s exchange rate assessment (Box 3).
+Results from the equilibrium exchange rate approach suggest that the Qatari riyal is broadly
+in line with fundamentals. The other two CGER-type approaches suggest some
+undervaluation of the riyal, which—given the projected trajectory for oil prices and fiscal
+policies—is projected to narrow over the medium term.
+Box 3. Exchange Rate Assessment
+Qatar—Equilibrium Real Exchange Rate Assessment, 1980–2008
+130.0
+
+40.00
+
+120.0
+30.00
+
+Actual REER
+110.0
+
+Estimated REER
+20.00
+
+90.0
+10.00
+80.0
+70.0
+
+Percent
+
+100.0
+
+0.00
+
+60.0
+
+Estimated REER overvaluation (+) (rhs)
+
+Under the external sustainability approach (ESA), the projected
+current account surplus is above its ―norm‖ based on a constant real per
+capita annuity, suggesting room for further spending. 3
+
+-10.00
+
+2008
+
+2006
+
+2004
+
+2002
+
+2000
+
+1998
+
+1996
+
+-20.00
+1994
+
+1990
+
+1988
+
+1986
+
+1984
+
+1982
+
+1980
+
+An assessment based on the
+50.0
+macroeconomic balance (MB)
+40.0
+approach,1 using panel estimators for
+the GCC countries, indicates that the
+current account surplus is above its
+―norm.‖ The current futures market trajectory for oil prices and
+medium-term fiscal policies, however, indicate a projected narrowing of
+the gap over the medium term. 2
+
+1992
+
+Indices (2000=100)
+
+The equilibrium exchange rate
+approach suggests that the Qatari
+riyal is broadly in line with the
+economic fundamentals. Although
+high domestic inflation during 2003–08
+appreciated the REER, high oil prices
+coupled with increasing government
+spending (as returns from the oil and
+gas revenues were invested) during the
+same period also appreciated the
+equilibrium REER.
+
+Results from the MB and ES Approaches
+(In percent of GDP)
+
+Projected CA
+
+2008
+2014
+
+33
+28
+
+Current Account Norms
+MB
+ES
+
+25
+23
+
+26
+15
+
+Source: IMF staff estimates and projections.
+
+_______________________
+1
+
+The variables used in the estimation include the fiscal balance, the initial level of net foreign assets, gross foreign direct
+investment, oil prices, income relative to trading partners, real per capita GDP growth, population growth, and age
+dependency.
+2
+
+Oil prices rose from about $70 per barrel in August 2007 to $147 per barrel in July 2008, before falling to $90 per barrel in
+mid-September 2008 and further to under $60 per barrel in mid-November 2008; oil prices averaged $97.0 per barrel in
+2008, compared with $71.1 in 2007. The summer 2009 vintage of the IMF’s WEO projections foresee a decline to $61.5 per
+barrel in 2009 to be followed by a gradual rebound to just under $85 per barrel.
+3
+
+Under the same assumptions used for the fiscal sustainability exercise.
+
+reserves in the context of prudence in spending indicates that a contrary result would require a drastic swing in
+these assumptions. The key parameters were calibrated as follows: (a) 27 billion barrels of oil reserves and
+18.7 billion tons of gas reserves; (b) an initial government debt level of $6.1 billion; (c) 1.5 percent decrease in
+oil production each year, and no growth in gas production each year, after 2013; (d) annual average per capita
+growth in real non-oil GDP of 3.5 percent in the long term; (e) an increase in the non-oil GDP deflator of
+3.5 percent; and (f) a nominal rate of return on external assets at 8 percent per annum.
+
+15
+C. Potential Risks to the Growth Strategy
+Potential risks to the growth strategy arise from overheating and from the possible impact of
+future increases in interest rates on the external debt, unless carefully managed.
+13.
+The authorities and staff agreed on the need to manage a potential overheating
+of the economy over the medium term. The global financial crisis has mitigated the supply
+bottleneck problems that the country had been facing. The real estate sector (predominantly
+government-owned) is expected to face a situation of excess supply in both freehold and
+rentals until early 2011. Nevertheless, with increasing global commodity prices and a
+possible depreciation of the U.S. dollar, inflationary pressures could resume. In this context,
+a careful prioritization of infrastructure projects would mitigate the emergence of supply
+shortages and cost-push inflation. The authorities reiterated their intention to channel
+investments into ports, airports, education, and health.
+14.
+The rising external debt needs to be monitored and managed carefully. The
+authorities have decided to increase external borrowing by $25 billion in 2009/10. In 2009,
+the government raised $10 billion through sovereign issuances, with the objectives of
+creating a sovereign benchmark yield curve and financing hydrocarbon investments, and
+toward meeting any contingency. A number of corporates also borrowed externally.15 A
+ministerial-level committee decides the amount and conditions for external borrowing of the
+government and government-owned corporates. The committee has an informal limit of an
+external debt-to-GDP ratio of 30 percent for the government, and of 45 percent including
+government owned companies.
+
+Figure 6. Qatar: External Liabilities
+… but total short-term debt (including banks)
+coverage is adequate.
+
+External nonbank liabilities have increased...
+25
+Non-bank External Liabilities
+(in percent of GDP), 2003–09
+
+60
+50
+
+60
+50
+
+Non-bank debt
+
+40
+
+30
+
+30
+
+20
+
+20
+
+10
+
+10
+
+0
+
+0
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+25
+
+20
+
+Qatar - ST debt
+
+Non-bank debt service (in %
+of exports)
+
+40
+
+20
+
+Cross-border Deposits with BIS Banks and Short-term
+Debt of BIS Banks
+(in billion U.S.$), 2003–09
+
+2008
+
+2009
+
+15
+
+15
+
+Qatar - Deposits
+
+10
+
+10
+
+5
+
+5
+
+0
+Mar-03
+
+0
+Sep-04
+
+Mar-06
+
+Sep-07
+
+Mar-09
+
+Sources: National authorities; BIS Consolidated Banking Statistics; and Fund staff calculations.
+
+15
+
+Ras Laffan, Qatar Airways, Qatar Petroleum and ExxonMobil, Qtel, Qatari Diar, and the Commercial Bank
+of Qatar raised nearly $12 billion in the form of syndicated loans and bond issuances.
+
+16
+15.
+Since the growth strategy depends on investment financed through significant
+debt, any potential debt servicing problems could raise costs, dry up financing, impact
+banks, and slowdown growth. Although debt servicing does not pose vulnerabilities at
+present for the major listed companies (Box 4), corporate balance sheets could face some
+stress if international interest rates or country spreads increase substantially before profits
+from large investments materialize. Staff conveyed its view that Qatar would benefit from
+establishing a formal institutional structure for the development of a medium-term debt
+management strategy.
+Box 4. Qatar’s Corporate Sector Debt Stress Test
+The corporate financial link is important in Qatar. The total assets of the top 29 listed companies amounted to
+$67 billion (65½ percent of 2008 GDP and 60 percent of bank assets) at end-June 2009, with a total debt of
+$25 billion.1 Corporate leverage is within reasonable limits, with a debt-equity ratio of less than 1.5.
+Nevertheless, debt concentration is high, with the top 5 corporates accounting for 90 percent of total corporate
+debt and the top 9 accounting for 96 percent.2 Their combined RoA and RoE at end-2008 were 8 percent and
+18 percent, respectively.
+The current debt servicing capacity of the corporates is comfortable. The combined cash holdings of the
+corporates at end-June, 2009 were adequate
+Stress-Test Results on the Non-Financial Corporate Sector
+to cover interest payments in the short run,
+even if interest rates were to increase
+Baseline
+Income Shock
+abruptly. The interest coverage ratio
+Jun-09
++300 bps
+25 percent
+(ICR)—defined as earnings before interest
+Share
+of
+Debt
+with
+ICR
+and taxes over interest expenses, which
+< 1 in Total Debt of Companies
+0.2
+30.1
+26
+measures the debt servicing capacity for a
+Share of number of companies with ICR
+firm over the medium term — for most
+< 1 in Total Debt of Companies
+10
+25
+20
+firms, also remained well above the
+Source: Fund staff calculations based on corporate balance sheets from Zawya
+threshold of 1 considered as debt distressed.
+The potential impact of future interest rate and income shocks on the health of Qatar’s corporate sector balance
+sheets was assessed. The interest rate shock was calibrated as a 300 bps increase in the domestic interest rates,
+while the earnings shock was assumed at (-) 25 percent. The share of debt owed by companies with insufficient
+earnings for debt service could increase under a scenario of sustained increase in interest rates, assuming no
+increase in revenues, as shown in the Table above.
+ICR does not necessarily account for all the resources that the corporates have to meet debt servicing. They
+could resort to borrowing outside the banking sector, sell assets, raise funds from shareholders, draw down
+reserves, or have other income. Corporates that have borrowed on fixed terms from Qatari banks would not be
+affected. Similarly, corporates that have hedged floating interest loans may not face debt distress.
+
+________________________
+1
+
+According to the Bank for International Settlements (BIS), total cross border loans from BIS reporting banks to nonbanks at
+end-June 2009 amounted to $36 billion.
+2
+
+Much of this debt is to external creditors.
+
+D. Financial Sector Development
+16.
+Further progress has been made in the transition to a single integrated financial
+regulator—the Financial Regulatory Authority. Staff agreed that a single regulator for the
+financial system would be effective for Qatar and recommended close coordination between
+the existing regulators during the transition period in order to cover regulatory gaps. It also
+
+17
+reiterated the suggestion that a formal mechanism be put in place for the QFC to report during
+the transition to the QCB on the financial statistics of QFC-licensed institutions.
+E. Monetary Union
+17.
+Qatar remains committed to participating in the GCC monetary union and has
+signed the monetary agreement. Nevertheless, the authorities believe that it will be difficult
+to establish the GCC Monetary Union in 2010, in light of the preparations needed to adopt a
+common currency by year-end. The main tasks ahead include the development of an
+appropriate monetary policy framework and a common system of payments and settlements,
+as well as the establishment of mechanisms for cross-border payments and liquidity transfers
+in the common currency. On the fiscal side, setting up a common accounting framework and
+adequate budgetary procedures are the main priorities.
+F. Other Structural Reforms
+18.
+The authorities are focusing on structural reforms to boost competitiveness.
+They have amended the tax law to lower the corporate tax rate for foreign companies
+operating in the non hydrocarbon sectors from 35 percent to 10 percent with effect from
+January 1, 2010. They also continue to follow developments towards the introduction of a
+GCC-wide value-added tax (VAT). Following the recommendations of a study projecting an
+actuarial deficit in pensions by 2041, a high-level committee is also reviewing the social
+insurance law to strengthen its long-term sustainability.
+19.
+Staff commended the authorities’ policy of progressively phasing out energy
+subsidies in the manufacturing sector. Pricing of inputs at market prices should provide
+incentives to the manufacturing sector to focus on the most profitable areas, while
+maximizing energy sales receipts for Qatar Petroleum.
+20.
+Regarding financial markets, the authorities could benefit from developing a
+domestic sovereign benchmark yield curve. This would facilitate long-term borrowing by
+banks in domestic currency and improve efficiency in the pricing of financial products,
+thereby diversifying overall financial risks.
+G. Data Compilation and Transparency
+21.
+Given the increasing integration with the global economy and the proposed GCC
+Monetary Union, efforts to improve the quality of macroeconomic statistics should be
+intensified. Staff underscored the need to start publishing official real GDP data as soon as
+possible. Building on the progress made since joining the GDDS in 2005, priority should also
+be given to enhancing the timeliness and availability of data on public sector operations, and
+to improving coordination across agencies. Staff welcomed the progress made regarding
+provision of elements of the IIP data, and encouraged the authorities to compile and provide
+comprehensive IIP data to the Fund, an important element to improve the effectiveness of the
+
+18
+surveillance process.16 The authorities recognize the difficulties involved and have signaled
+their interest in Technical Assistance (TA) to improve the balance of payments financial
+account, which will form the basis for providing comprehensive IIP data to the Fund.
+IV. STAFF APPRAISAL
+22.
+The impact of the global crisis on Qatar has been limited, owing in part to the
+underlying strength of the economy, and supportive macroeconomic and macro-prudential
+policies, and timely and decisive intervention in the banking system. Moreover, the impact of
+the recent events in Dubai on Qatar’s banking system appears to be limited at this point.
+23.
+Qatar continues to be the fastest growing economy in the GCC. Looking forward,
+the economy is expected to continue growing at a rapid pace in the near future, driven by a
+strong expansion in LNG production (and related industries) and by investments aimed at
+economic diversification. Potential risks to the growth strategy arising from overheating
+would need to be monitored through careful sequencing and prioritization of investments.
+The possible impact of future increases in interest rates on external debt would need to be
+closely monitored and managed. A prudent use of the available fiscal space should also be an
+integral part of the authorities’ strategy to contain aggregate demand.
+24.
+Staff supports the authorities’ timely intervention in the financial sector. The
+government’s intervention in the banking system has improved liquidity, provided room for
+lending, and increased the system’s resilience. Going forward, it is important to prevent
+banks from rebuilding excessively risky asset portfolios by ensuring that government
+interventions do not unduly exacerbate the moral hazard problem or diminish incentives for
+improvements in risk management in banks. A balanced portfolio needs to be achieved
+through sound risk management practices and adequate supervision. The QCB should
+continue to build-up capacity in this area.
+25.
+The evolving regional and global financial risks should continue to be monitored
+closely. To evaluate any potential weaknesses and ensure timely responses, the central bank
+should continue to conduct regular stress tests of commercial banks. Establishing a prompt
+corrective action framework would also help avoid regulatory forbearance and ensure that
+banks address emerging problems quickly. It is also important to periodically update the
+resolution frameworks for financial institutions as well as the cross-border and crosssupervisory frameworks.
+26.
+An adequate monetary-fiscal policy mix is critical in ensuring macroeconomic
+stability, and could be combined with macro-prudential tools to manage credit growth.
+In this connection, a resurgence of capital inflows could present policy challenges in the
+16
+
+Staff’s estimate suggests that Qatar’s net IIP, excluding unknown foreign financial claims and liabilities of
+the private sector is of the order of $70 billion.
+
+19
+future. With limited policy flexibility in the context of the peg to the U.S. dollar, and the
+need to continue to invest in infrastructure to support sustainable growth, macro-prudential
+instruments will remain the main tool for limiting the risk of asset bubbles.
+27.
+The authorities’ intention to establish a unified regulator of financial services in
+the near future is welcomed. An effective monitoring is needed to close regulatory gaps
+during the transition period and establish appropriate procedures to deal promptly with the
+issues that may arise as a result of increased market competition.
+28.
+The authorities could consider establishing a debt management entity to develop
+a debt strategy in the context of the overall economic policy. They should also press ahead
+with their plans to develop a domestic sovereign benchmark yield curve. This would
+facilitate long-term borrowing by banks and corporates in domestic currency and improve the
+efficiency in pricing of financial products, which would contribute to diversifying overall
+financial risks.
+29.
+Staff supports the authorities’ decision to maintain the peg to the U.S. dollar
+until the establishment of the GCC monetary union. Staff’s assessment shows that the real
+effective exchange rate is broadly in line with fundamentals.
+30.
+It is recommended that Qatar remain on the standard 12-month Article IV
+consultation cycle.
+
+20
+
+Table 1. Qatar: Selected Macroeconomic Indicators, 2005–10
+(Quota: SDR 263.80 million)
+(Population: 1.2 million, mid-2009 estimate)
+(Per capita income: $76,000, 2009 estimates)
+
+2005
+
+2006
+
+2007
+
+Est.
+2008
+
+Proj.
+2009
+
+Proj.
+2010
+
+154,565
+92,071
+42,463
+53,333
+33.8
+9.2
+6.0
+13.1
+
+207,183
+118,707
+56,918
+67,922
+34.0
+15.0
+10.7
+19.9
+
+258,590
+146,143
+71,041
+76,374
+24.8
+13.7
+12.9
+14.5
+
+365,482
+222,127
+100,407
+91,478
+41.3
+15.8
+17.1
+14.5
+
+301,599
+150,490
+82,857
+68,008
+-17.5
+9.0
+10.0
+8.0
+
+396,545
+227,951
+108,941
+80,556
+31.5
+18.5
+25.2
+11.5
+
+760
+21.2
+51.69
+8.8
+
+803
+24.7
+62.93
+11.8
+
+839
+25.2
+70.02
+13.8
+
+855
+31.5
+95.52
+15.0
+
+800
+39.0
+60.57
+-5.5
+
+824
+58.1
+75.31
+1.0
+
+National income, production, and prices
+Nominal GDP (in million Qatari riyals)
+Nominal hydrocarbon GDP (in million Qatari riyals)
+Nominal GDP (in million U.S. dollars)
+Nominal GDP per capita (in U.S. dollars)
+Nominal GDP growth (in percent per annum)
+Real GDP growth (in percent per annum)
+Hydrocarbon 1/
+Nonhydrocarbon
+Crude oil output (in thousand barrels per day)
+LNG production (in million tons per year)
+Oil export price (in U.S. dollars per barrel)
+CPI period average
+Public finance
+Total revenue
+Hydrocarbon revenue
+Other revenue
+Total expenditure and net lending
+Current expenditure
+Capital expenditure (including net lending)
+Overall fiscal balance
+Excluding hydrocarbon revenue
+Nonhydrocarbon fiscal balance in percent of nonhydrocarbon GDP
+
+(In percent of GDP on fiscal year basis) 2/
+39.2
+27.7
+11.5
+30.3
+19.5
+10.7
+8.9
+-18.8
+-45.6
+
+39.1
+25.2
+13.9
+30.5
+22.6
+7.9
+8.6
+-16.6
+-38.7
+
+44.6
+50.3
+36.8
+60.0
+34.9
+63.5
+
+38.0
+28.1
+52.8
+45.7
+44.0
+45.9
+
+Money and credit
+Broad money
+Net foreign assets
+Net domestic assets
+Domestic credit
+Claims on public enterprises
+Claims on private sector
+
+Central bank reserves, gross
+In months of imports of goods and services 3/
+
+40.3
+22.9
+17.4
+28.3
+18.8
+9.5
+12.0
+-10.8
+-26.1
+
+46.1
+19.5
+26.6
+34.3
+22.6
+11.7
+11.8
+-7.7
+-16.1
+
+39.7
+21.6
+18.2
+31.0
+19.3
+11.7
+8.8
+-12.8
+-30.2
+
+16.4
+-8.3
+24.8
+-0.5
+-28.0
+7.0
+
+11.6
+51.4
+1.0
+14.7
+31.5
+11.6
+
+(Annual change in percent)
+
+External sector
+Trade balance
+Exports
+Of which: Crude oil and refined petroleum products
+LNG and related exports
+Other
+Imports
+Current account
+In percent of GDP
+
+41.3
+24.8
+16.5
+29.7
+17.8
+11.8
+11.6
+-13.2
+-31.4
+
+39.5
+0.3
+88.6
+66.1
+198.1
+51.3
+
+19.7
+-20.5
+47.0
+48.7
+77.1
+42.4
+
+(In million U.S. dollars, unless otherwise stated)
+17,058
+26,122
+14,122
+8,738
+3,261
+-9,064
+14,100
+33.2
+
+20,272
+35,083
+17,840
+13,360
+3,883
+-14,811
+16,113
+28.3
+
+24,413
+44,237
+21,178
+18,710
+4,349
+-19,824
+21,823
+30.7
+
+39,272
+64,407
+28,092
+30,808
+5,507
+-25,135
+33,138
+33.0
+
+21,625
+45,355
+17,202
+23,615
+4,538
+-23,729
+12,997
+15.7
+
+35,419
+67,131
+25,182
+35,503
+6,445
+-31,712
+24,726
+22.7
+
+4,572
+2.5
+
+5,416
+2.4
+
+9,753
+3.4
+
+9,837
+3.4
+
+19,244
+5.1
+
+20,847
+4.9
+
+(In million U.S. dollars, unless otherwise stated)
+Total external debt (excluding banks)
+In percent of GDP
+Government external debt
+In percent of GDP
+Debt service (excluding banks, in percent of GDP)
+Memorandum Items:
+Exchange rates (riyal/U.S. dollars)
+Real effective exchange rate (percent change, 2000=100)
+Credit rating (Moody's investor services)
+Stock market index (cumulative growth, 2001=100)
+
+14,989
+35.3
+3,743
+8.8
+4.9
+
+19,486
+34.2
+3,333
+5.9
+4.7
+
+24,771
+34.9
+2,871
+4.0
+7.6
+
+35,430
+35.3
+6,126
+6.1
+5.1
+
+50,863
+61.4
+13,734
+16.6
+11.0
+
+67,424
+61.9
+15,737
+14.4
+4.9
+
+3.64
+6.9
+A1
+653
+
+3.64
+8.1
+Aa2
+422
+
+3.64
+3.1
+Aa2
+566
+
+3.64
+3.6
+Aa2
+407
+
+3.64
+13.5
+Aa3
+411
+
+3.64
+...
+...
+...
+
+Sources: Data provided by the authorities; and IMF staff estimates and projections.
+1/ Staff estimates; include crude oil, LNG, propane, butane, and condensate.
+2/ Fiscal year begins in April.
+3/ Next 12 months.
+
+21
+Table 2a. Qatar: Summary of Government Finance, 2005/06–2009/10 1/
+(In million Qatari riyals)
+
+2005/06
+
+2006/07
+
+2007/08
+
+Est.
+2008/09
+
+Budget
+2009/10
+
+Total revenue
+Hydrocarbon revenue
+Oil related
+LNG related revenue
+LNG (royalties)
+Contingency
+Other revenue
+Investment income from public enterprises 2/
+Corporate tax revenue
+Other nontax revenue
+
+65,685
+46,381
+40,235
+6,146
+6,146
+0
+19,304
+14,234
+434
+4,636
+
+86,062
+55,429
+48,181
+7,248
+7,248
+0
+30,634
+20,702
+4,562
+5,370
+
+117,790
+70,748
+60,050
+10,698
+10,698
+0
+47,042
+30,343
+8,939
+7,760
+
+140,947
+80,009
+61,245
+18,764
+18,764
+0
+60,938
+33,271
+14,629
+13,038
+
+88,694
+42,235
+28,719
+13,516
+13,516
+0
+46,459
+25,820
+9,052
+11,587
+
+149,885
+63,412
+50,326
+13,087
+13,087
+0
+86,473
+53,740
+20,218
+12,516
+
+Total expenditure
+Current
+Wages and salaries
+Total interest payments
+Interest on domestic debt
+Interest on foreign debt
+Foreign grants
+Goods and services /3
+Other current expenditures 4/
+Development expenditure
+
+50,768
+32,755
+6,657
+1,898
+835
+1,063
+449
+22,738
+1,013
+18,013
+
+67,147
+49,751
+12,993
+2,006
+865
+1,141
+1,978
+31,661
+1,113
+17,396
+
+84,728
+50,923
+14,875
+1,850
+765
+1,085
+1,448
+26,368
+6,382
+33,805
+
+98,855
+65,721
+18,779
+1,579
+455
+1,124
+354
+39,738
+5,271
+33,134
+
+94,499
+56,573
+21,957
+2,460
+744
+1,716
+378
+27,623
+4,155
+37,926
+
+111,486
+73,486
+21,957
+2,460
+744
+1,716
+378
+42,051
+6,641
+38,000
+
+Overall balance
+Nonhydrocarbon fiscal balance
+
+14,917
+-31,464
+
+18,915
+-36,514
+
+33,062
+-37,686
+
+42,092
+-37,917
+
+-5,805
+-61,556
+
+38,399
+-25,013
+
+Financing
+Domestic financing (net) 5/
+Central bank (net)
+Transfer to QCB
+Commercial banks (net) 5/
+Claims on government
+Government deposits
+Domestic non-banks
+Foreign financing (net)
+Government foreign assets (increase -) 6/
+External borrowing (net)
+Drawing
+Repayment
+
+-14,917
+-4,420
+137
+-1,820
+-2,736
+-2,438
+299
+0
+-10,497
+-9,582
+-915
+0
+915
+
+-18,915
+-5,143
+-376
+0
+-4,767
+-2,501
+2,265
+0
+-13,772
+-12,087
+-1,685
+0
+1,685
+
+-33,062
+-3,982
+0
+-1,000
+-2,982
+1,433
+4,415
+0
+-29,080
+-27,395
+-1,685
+0
+1,685
+
+-42,092
+12,017
+0
+-1,000
+13,017
+15,634
+2,618
+0
+-54,109
+-70,470
+16,362
+17,909
+1,547
+
+5,805
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+
+-38,399
+42,449
+0
+-1,000
+43,449
+37,967
+-5,482
+0
+-80,848
+-112,320
+31,472
+36,400
+4,928
+
+32,930
+-13,451
+29,850
+12,699
+17,151
+8,902
+
+36,311
+-19,118
+27,398
+11,014
+16,384
+7,973
+
+66,867
+-3,881
+24,238
+9,330
+14,909
+3,856
+
+75,226
+-4,783
+56,234
+25,691
+30,543
+15,075
+
+32,121
+-10,114
+...
+...
+...
+...
+
+76,399
+12,987
+125,673
+57,163
+68,510
+50,425
+
+3.0
+
+3.3
+
+2.4
+
+1.9
+
+...
+
+4.4
+
+167,719
+
+220,035
+
+285,313
+
+349,511
+
+325,336
+
+325,336
+
+Memorandum items:
+Current balance 7/
+Current nonhydrocarbon balance 8/
+Total government debt
+Government external debt
+Government gross domestic debt
+Government net domestic debt
+(net of deposits)
+External debt service/total
+revenue (in percent)
+Nominal GDP (on a fiscal year basis)
+
+Proj.
+
+22
+Table 2b. Qatar: Summary of Government Finance, 2005/06–2009/10 1/
+(In percent of GDP)
+
+2005/06 2006/07
+
+2007/08
+
+Est.
+2008/09
+
+Budget
+Proj.
+2009/10
+
+Total revenue
+Hydrocarbon revenue
+Oil and gas (excluding LNG-related royalties)
+LNG-related royalties
+Other revenue
+Investment income from public enterprises 2/
+Corporate tax revenue
+Other nontax revenue
+
+39.2
+27.7
+24.0
+3.7
+11.5
+8.5
+0.3
+2.8
+
+39.1
+25.2
+28.7
+4.3
+13.9
+9.4
+2.1
+2.4
+
+41.3
+24.8
+35.8
+6.4
+16.5
+10.6
+3.1
+2.7
+
+40.3
+22.9
+36.5
+11.2
+17.4
+9.5
+4.2
+3.7
+
+27.3
+13.0
+17.1
+8.1
+14.3
+7.9
+2.8
+3.6
+
+46.1
+19.5
+30.0
+7.8
+26.6
+16.5
+6.2
+3.8
+
+Total expenditure
+Current
+Wages and salaries
+Total interest payments
+Interest on domestic debt
+Interest on foreign debt
+Foreign grants
+Goods and services 3/
+Other current expenditures 4/
+Development expenditure
+
+30.3
+19.5
+4.0
+1.1
+0.5
+0.6
+0.3
+13.6
+0.6
+10.7
+
+30.5
+22.6
+5.9
+0.9
+0.4
+0.5
+0.9
+14.4
+0.5
+7.9
+
+29.7
+17.8
+5.2
+0.6
+0.3
+0.4
+0.5
+9.2
+2.2
+11.8
+
+28.3
+18.8
+5.4
+0.5
+0.1
+0.3
+0.1
+11.4
+1.5
+9.5
+
+29.0
+17.4
+6.7
+0.8
+0.2
+0.5
+0.1
+8.5
+1.3
+11.7
+
+34.3
+22.6
+6.7
+0.8
+0.2
+0.5
+0.1
+12.9
+2.0
+11.7
+
+8.9
+-18.8
+-45.6
+
+8.6
+-16.6
+-38.7
+
+11.6
+-13.2
+-31.4
+
+12.0
+-10.8
+-26.1
+
+-1.8
+-18.9
+...
+
+11.8
+-7.7
+-16.1
+
+Financing
+Domestic financing (net) 5/
+Central bank (net)
+Transfer to QCB
+Commercial banks (net) 5/
+Claims on government
+Government deposits
+Foreign financing (net)
+Government foreign assets (increase -) 6/
+External borrowing (net)
+
+-8.9
+-2.6
+0.1
+-1.1
+-1.6
+-1.5
+0.2
+-6.3
+-5.7
+-0.5
+
+-8.6
+-2.3
+-0.2
+0.0
+-2.2
+-1.1
+1.0
+-6.3
+-5.5
+-0.8
+
+-11.6
+-1.4
+0.0
+-0.4
+-1.0
+0.5
+1.5
+-10.2
+-9.6
+-0.6
+
+-12.0
+3.4
+0.0
+-0.3
+3.7
+4.5
+0.7
+-15.5
+-20.2
+4.7
+
+1.8
+...
+...
+...
+...
+...
+...
+...
+...
+...
+
+-11.8
+13.0
+0.0
+-0.3
+13.4
+11.7
+-1.7
+-24.9
+-34.5
+9.7
+
+Memorandum items:
+Current balance 7/
+Current nonhydrocarbon balance 8/
+Total government debt
+Government external debt
+Government gross domestic debt
+Government net domestic debt (net of deposits)
+
+19.6
+-8.0
+17.8
+7.6
+10.2
+5.3
+
+16.5
+-8.7
+12.5
+5.0
+7.4
+3.6
+
+23.4
+-1.4
+8.5
+3.3
+5.2
+1.4
+
+21.5
+-1.4
+16.1
+7.4
+8.7
+4.3
+
+9.9
+-3.1
+...
+...
+...
+...
+
+23.5
+4.0
+38.6
+17.6
+21.1
+15.5
+
+Overall balance
+Nonhydrocarbon fiscal balance
+Nonhydrocarbon fiscal balance (in percent
+of nonhydrocarbon GDP)
+
+Sources: Ministry of Economy and Finance; and IMF staff estimates and projections.
+1/ On a fiscal year basis, April–March. GDP is also converted into fiscal year basis.
+2/ Includes investment income of state-owned hydrocarbon enterprises.
+3/ Includes transfers to ministries and public enterprises less interest payments and grants.
+4/ Corresponds to Chapter III "Minor capital expenses" in the budget.
+5/ Information based on depository corporations survey.
+6/ Excludes direct transfers made to State Reserve Fund and Stabilization Fund from oil and gas revenue.
+7/ Total revenue minus current expenditure.
+8/ Total nonhydrocarbon revenue minus current expenditure.
+
+23
+Table 3. Qatar: Depository Corporations Survey, 2005–10
+2005
+
+2006
+
+2007
+
+2008
+
+Proj.
+2009
+
+Proj.
+2010
+
+(In million Qatari riyals)
+Net foreign assets
+QCB
+Assets 1/
+Liabilities
+Commercial banks
+Assets
+Liabilities
+Net domestic assets
+Claims on government (net)
+Claims 2/
+Deposits 3/
+Domestic credit
+Claims on public sector (net)
+Claims on public enterprises 4/
+Claims on private sector
+Other items (net)
+Broad money
+Money
+Currency in circulation
+Demand deposits
+Quasi-money
+Savings and time deposits
+Foreign currency deposits
+
+47,820
+16,580
+16,643
+63
+31,240
+41,648
+10,407
+
+61,250
+19,694
+19,715
+21
+41,557
+66,311
+24,754
+
+61,444
+34,747
+35,500
+753
+26,696
+88,961
+62,265
+
+48,869
+35,790
+35,808
+18
+13,079
+99,169
+86,089
+
+44,827
+70,028
+70,046
+18
+-25,201
+71,363
+96,564
+
+67,864
+75,864
+75,882
+18
+-8,000
+89,000
+97,000
+
+32,026
+8,265
+17,122
+8,857
+61,079
+14,496
+6,231
+54,847
+-37,317
+
+48,923
+3,728
+17,238
+13,510
+88,986
+12,702
+8,974
+80,012
+-43,791
+
+92,292
+-207
+13,822
+14,029
+147,840
+26,545
+26,752
+121,088
+-55,341
+
+135,630
+-2,259
+18,169
+20,429
+219,823
+45,124
+47,384
+172,439
+-81,933
+
+169,329
+54,679
+67,664
+12,986
+218,631
+88,793
+34,114
+184,517
+-103,981
+
+171,071
+59,579
+71,048
+11,469
+250,721
+104,432
+44,854
+205,867
+-139,228
+
+79,847
+25,657
+2,866
+22,791
+54,190
+29,354
+24,836
+
+110,173
+33,492
+3,959
+29,533
+76,681
+39,622
+37,059
+
+153,735
+40,737
+4,487
+36,250
+112,999
+64,349
+48,650
+
+184,005
+50,869
+5,368
+45,501
+133,136
+85,676
+47,459
+
+214,156
+53,636
+5,826
+47,810
+160,520
+136,379
+24,141
+
+238,935
+59,842
+9,237
+50,605
+179,093
+164,431
+14,662
+
+(Annual percent changes)
+Net foreign assets
+Net domestic assets
+Domestic credit
+Claims on public enterprises
+Claims on private sector
+Broad money
+Savings and time deposits
+Memorandum items:
+Net claims on public enterprises
+Velocity of broad money (to nonhydrocarbon GDP)
+
+50.3
+36.8
+60.0
+34.9
+63.5
+44.6
+28.6
+
+28.1
+52.8
+45.7
+44.0
+45.9
+38.0
+35.0
+
+0.3
+88.6
+66.1
+198.1
+51.3
+39.5
+62.4
+
+-20.5
+47.0
+48.7
+77.1
+42.4
+19.7
+33.1
+
+-8.3
+24.8
+-0.5
+-28.0
+7.0
+16.4
+59.2
+
+51.4
+1.0
+14.7
+31.5
+11.6
+11.6
+20.6
+
+-17,874
+0.78
+
+-20,834
+0.80
+
+-9,350
+0.73
+
+-9,038
+0.78
+
+-15,072
+0.71
+
+-19,816
+0.71
+
+Sources: Qatar Central Bank (QCB); and IMF staff estimates and projections.
+1/ Excludes QCB's foreign currency deposits with local commercial banks.
+2/ Includes government borrowing on behalf of public enterprises in 2001.
+3/ Includes foreign and local currency deposits.
+4/ Nonfinancial enterprises with government share.
+
+24
+
+Table 4. Qatar: Balance of Payments, 2005–10
+(In million U.S. dollars)
+
+2005
+
+2006
+
+2007
+
+Est.
+2008
+
+Proj.
+2009
+
+Proj.
+2010
+
+Current account
+In percent of GDP
+
+14,100
+33.2
+
+16,113
+28.3
+
+21,823
+30.7
+
+33,138
+33.0
+
+12,997
+15.7
+
+24,728
+22.7
+
+Trade balance
+Exports
+Hydrocarbon
+Crude oil
+LNG
+Propane, butane
+Condensates
+Refined petroleum products
+Non-hydrocarbon
+Petrochemicals
+Others
+Imports
+Non-LNG/QP goods
+LNG related
+QP project-related imports
+
+17,058
+26,122
+22,861
+12,843
+5,200
+781
+2,757
+1,279
+3,261
+1,958
+1,303
+-9,064
+-5,281
+-880
+-2,903
+
+20,272
+35,083
+31,200
+16,299
+8,471
+1,156
+3,733
+1,541
+3,883
+2,265
+1,618
+-14,811
+-7,476
+-2,956
+-4,378
+
+24,413
+44,237
+39,888
+19,181
+10,524
+1,617
+6,569
+1,997
+4,349
+2,385
+1,964
+-19,824
+-9,502
+-3,577
+-6,745
+
+39,272
+64,407
+58,900
+26,270
+17,640
+2,148
+11,020
+1,822
+5,507
+2,908
+2,599
+-25,135
+-12,114
+-4,364
+-8,658
+
+21,625
+45,355
+40,817
+15,821
+13,213
+1,563
+8,839
+1,381
+4,538
+2,081
+2,457
+-23,729
+-11,436
+-4,052
+-8,241
+
+35,419
+67,131
+60,685
+20,260
+24,663
+2,842
+7,998
+4,922
+6,445
+4,054
+2,391
+-31,712
+-12,759
+-2,494
+-16,459
+
+Services (net)
+Income (net)
+Receipts 1/
+Payments 2/
+Transfers (net)
+Of which: workers remittances
+
+-924
+542
+1,302
+-760
+-2,576
+-3,006
+
+-2,763
+2,341
+3,402
+-1,061
+-3,736
+-3,914
+
+-103
+1,298
+3,740
+-2,442
+-3,785
+-3,165
+
+-2,926
+1,805
+4,091
+-2,286
+-5,013
+-4,348
+
+-3,715
+404
+2,356
+-1,952
+-5,318
+-3,906
+
+-4,691
+-494
+2,161
+-2,656
+-5,506
+-3,973
+
+Capital account
+Financial account
+Direct Investment, net
+
+-753
+-6,582
+2,500
+
+-991
+-9,563
+3,500
+
+-1,131
+-16,448
+4,700
+
+-1,360
+-25,799
+4,107
+
+-1,522
+-2,069
+8,722
+
+-1,698
+-22,012
+6,334
+
+1,225
+-769
+1,994
+
+234
+-784
+1,018
+
+794
+-780
+1,574
+
+-137
+-1,248
+1,111
+
+254
+-1,248
+1,502
+
+1,066
+-1,248
+2,314
+
+-5,182
+-9,721
+382
+-10,102
+4,539
+
+-8,251
+-12,747
+428
+-13,175
+4,496
+
+-12,661
+-17,946
+575
+-18,521
+5,285
+
+-13,096
+-23,756
+1,730
+-25,486
+10,660
+
+-3,486
+-18,919
+-1,116
+-17,803
+15,433
+
+-8,365
+-24,926
+2,147
+-27,073
+16,561
+
+-3,201
+-1,924
+
+-2,834
+-2,212
+
+4,083
+-13,363
+
+3,741
+-20,414
+
+10,517
+-18,076
+
+-4,726
+-16,321
+
+Errors and omissions
+
+-5,568
+
+-4,703
+
+-108
+
+-5,694
+
+0
+
+0
+
+Overall balance
+Change in QCB net foreign assets
+
+1,196
+-1,196
+
+855
+-855
+
+4,136
+-4,136
+
+286
+-286
+
+9,406
+-9,406
+
+1,019
+-1,019
+
+Portfolio borrowing, net
+Assets
+Liabilities
+Other investment (net)
+Assets
+Trade credits
+Government external assets 3/
+Liabilities
+Commercial banks, net
+Other capital, net
+
+Sources: Qatar Central Bank; and IMF staff estimates and projections.
+1/ Includes staff estimates for QIA.
+2/ Includes staff estimates for commercial banks.
+3/ Estimates.
+
+25
+Table 5. Qatar: Vulnerability Indicators, 2003–08
+(In percent; unless otherwise indicated)
+
+External solvency indicators
+REER (CPI based - end of period)
+Total debt (in billion U.S. dollars, including commercial banks)
+Of which: LNG-related
+Total debt (in percent of GDP)
+Debt service/exports of goods and services
+Public sector solvency indicators
+Government gross domestic debt/GDP
+Government net domestic debt/GDP 1/
+Government external debt/GDP 2/
+Total debt service/total revenue
+Interest payments/total revenue
+Hydrocarbon revenue/total revenue
+External liquidity indicators (in million U.S. dollars)
+Central bank net reserves
+In months of imports
+Commercial banks net foreign assets (in million U.S. dollars)
+Foreign assets
+Foreign liabilities
+Crude oil exports/total exports
+Financial sector indicators
+Foreign currency deposits/total deposits
+Net domestic credit (percent change)
+Private sector credit (percent change)
+Net domestic credit/GDP
+Private credit/total assets of banks
+Market assessment/financial market indicators
+Stock market index (end of period)
+Moody's investor services
+Standard and Poor's 3/
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+Est.
+2008
+
+-5.7
+11.4
+2.6
+48.4
+28.3
+
+-0.2
+12.7
+2.4
+40.0
+14.1
+
+6.9
+17.8
+6.7
+42.0
+15.3
+
+8.1
+26.3
+10.9
+46.2
+14.8
+
+3.1
+41.9
+14.1
+58.9
+19.5
+
+3.6
+59.1
+17.1
+58.8
+28.2
+
+22.3
+32.9
+15.9
+11.9
+6.3
+64.3
+
+14.8
+20.6
+10.9
+8.7
+3.4
+66.0
+
+10.2
+14.0
+7.6
+8.0
+2.9
+70.6
+
+7.4
+9.2
+5.0
+7.2
+2.3
+64.4
+
+5.2
+5.1
+3.3
+3.0
+1.6
+60.1
+
+8.7
+11.2
+7.4
+2.2
+1.1
+56.8
+
+2,873
+4.1
+4,220
+5,348
+1,127
+55.4
+
+3,358
+3.2
+5,381
+7,625
+2,244
+51.2
+
+4,555
+2.5
+8,583
+11,442
+2,859
+54.1
+
+5,410
+2.4
+11,417
+18,217
+6,801
+50.9
+
+9,546
+3.3
+7,334
+24,440
+17,106
+47.9
+
+9,832
+3.4
+3,593
+27,244
+23,651
+43.6
+
+26.8
+5.3
+27.3
+48.6
+33.8
+
+30.5
+18.5
+30.4
+42.7
+36.5
+
+32.3
+40.5
+63.5
+44.9
+42.1
+
+34.9
+33.7
+45.9
+44.7
+42.2
+
+32.6
+59.2
+51.3
+57.1
+41.1
+
+26.6
+47.4
+42.4
+59.5
+42.9
+
+3,947
+A3
+A+
+
+6,494
+A3
+A+
+
+11,053
+A1
+A+
+
+7,133
+Aa2
+AA-
+
+9,580
+Aa2
+AA-
+
+6,886
+Aa2
+AA-
+
+Sources: Qatari authorities; Bloomberg; and IMF staff estimates and projections.
+1/ Net of government deposits with resident banks.
+2/ Fiscal year basis.
+3/ Long-term foreign currency rating.
+
+26
+Table 6. Qatar: Medium-Term Baseline Scenario, 2006–14
+(In million Qatari riyals, unless otherwise indicated)
+2006
+
+2007
+
+Est.
+2008
+
+2009
+
+2010
+
+Projections
+2011
+2012
+
+2013
+
+2014
+
+(Percent change, unless otherwise indicated)
+National income, production, and prices
+Nominal GDP (in million Qatari riyals)
+Real GDP
+Hydrocarbon 1/
+Nonhydrocarbon GDP
+Crude oil production, in thousand barrels per day
+LNG Production (in million tons)
+Qatar oil export price (in U.S. dollars per barrel)
+CPI period average
+Terms of trade
+
+207,183
+15.0
+10.7
+19.9
+803
+24.7
+62.9
+11.8
+4.3
+
+258,590
+13.7
+12.9
+14.5
+839
+25.2
+70.0
+13.8
+-1.3
+
+365,482
+15.8
+17.1
+14.5
+855
+31.5
+95.5
+15.0
+24.6
+
+301,599
+9.0
+10.0
+8.0
+800
+39.0
+60.6
+-5.5
+-23.8
+
+396,545
+18.5
+25.2
+11.5
+824
+58.1
+75.3
+1.0
+17.9
+
+470,340
+14.3
+17.2
+11.0
+900
+67.8
+78.3
+3.0
+0.6
+
+525,107
+9.2
+8.2
+10.5
+881
+77.9
+79.7
+4.0
+0.6
+
+566,825
+4.7
+0.4
+10.0
+844
+77.9
+81.7
+4.0
+1.3
+
+609,930
+4.9
+0.4
+10.0
+844
+77.9
+83.4
+4.0
+1.1
+
+206,983
+107,826
+99,157
+142,626
+87,220
+55,405
+64,357
+13.3
+-43,469
+-9.0
+-21.7
+119,475
+25.4
+0.8
+
+231,989
+108,673
+123,316
+153,460
+93,385
+60,075
+78,529
+14.7
+-30,143
+-5.6
+-13.1
+121,466
+23.1
+0.7
+
+243,765
+110,255
+133,510
+164,429
+100,932
+63,498
+79,335
+13.7
+-30,919
+-5.4
+-11.7
+123,996
+21.9
+0.7
+
+254,250
+110,916
+143,333
+176,208
+109,081
+67,127
+78,042
+12.5
+-32,874
+-5.3
+-10.9
+127,721
+20.9
+0.7
+
+49,038
+38.0
+55,224
+91,456
+31,362
+51,827
+8,266
+-36,231
+-1,247
+-20,407
+-14,578
+31.3
+10.7
+-2,694
+2,531
+-6,023
+1,261
+21,518
+4.5
+76,859
+59.5
+6,030
+5.8
+4.7
+
+50,298
+34.9
+53,159
+94,931
+31,013
+54,498
+9,420
+-41,772
+-935
+-24,030
+-16,807
+1.9
+13.9
+-2,291
+6,376
+-6,947
+1,122
+22,640
+4.1
+81,938
+56.8
+6,610
+6.1
+4.6
+
+50,403
+32.4
+51,021
+98,956
+31,367
+57,055
+10,534
+-47,935
+-623
+-28,025
+-19,287
+1.9
+13.6
+-2,070
+8,662
+-7,211
+1,567
+24,206
+3.9
+87,469
+56.2
+6,370
+5.6
+4.1
+
+47,076
+28.1
+46,039
+101,062
+31,106
+57,971
+11,985
+-55,022
+-623
+-32,261
+-22,138
+0.1
+13.8
+-1,409
+11,057
+-8,611
+2,004
+26,211
+3.7
+91,260
+54.5
+7,585
+6.4
+4.5
+
+36.1
+24.6
+74.0
+48.6
+
+35.1
+23.8
+69.9
+43.0
+
+34.8
+23.8
+67.2
+41.0
+
+34.7
+23.9
+62.8
+38.3
+
+(In million Qatari Riyals)
+Central government finances 2/
+Total revenue
+Hydrocarbon revenue
+Other revenue
+Total expenditure
+Current
+Capital
+Overall balance
+In percent of GDP
+Nonhydrocarbon balance
+In percent of GDP
+In percent of nonhydrocarbon GDP
+Government net debt 3/
+In percent of GDP
+External debt service (percent of total revenue)
+
+86,062
+55,429
+30,634
+67,147
+49,751
+17,396
+18,915
+8.6
+-36,514
+-16.6
+-38.7
+18,987
+9.2
+3.3
+
+117,790
+70,748
+47,042
+84,728
+50,923
+33,805
+33,062
+11.6
+-37,686
+-13.2
+-31.4
+13,186
+5.1
+2.4
+
+140,947
+80,009
+60,938
+98,855
+65,721
+33,134
+42,092
+12.0
+-37,917
+-10.8
+-26.1
+40,766
+11.2
+1.9
+
+149,885
+63,412
+86,473
+111,486
+73,486
+38,000
+38,399
+11.8
+-25,013
+-7.7
+-16.1
+107,587
+35.7
+4.4
+
+165,309
+89,550
+75,759
+128,557
+80,085
+48,472
+36,752
+8.9
+-52,798
+-12.7
+-30.2
+115,726
+29.2
+1.5
+
+(In million U.S. dollars, unless otherwise indicated)
+External sector
+Current account
+In percent of GDP
+Trade balance
+Exports
+Crude oil
+LNG
+Other exports
+Imports
+LNG related
+Project related imports
+Other imports
+Volume of exports (percent change)
+Volume of imports (percent change)
+Services, net
+Income, net
+Current transfers, net
+Overall balance
+Central bank reserves, net
+In months of imports of goods and services 4/
+Total external debt (excluding banks)
+Total external debt (excluding banks, in percent of GDP)
+Total external debt service (excluding banks)
+In percent of exports of goods and services
+In percent of GDP
+
+16,113
+28.3
+20,272
+35,083
+17,840
+13,360
+3,883
+-14,811
+-2,956
+-4,378
+-7,476
+15.3
+46.3
+-2,763
+2,341
+-3,736
+855
+5,410
+2.4
+19,486
+34.2
+2,686
+6.8
+4.7
+
+21,823
+30.7
+24,413
+44,237
+21,178
+18,710
+4,349
+-19,824
+-3,577
+-6,745
+-9,502
+15.7
+21.2
+-103
+1,298
+-3,785
+4,136
+9,546
+3.3
+24,771
+34.9
+5,370
+10.4
+7.6
+
+33,138
+33.0
+39,272
+64,407
+28,092
+30,808
+5,507
+-25,135
+-4,364
+-8,658
+-12,114
+9.6
+18.9
+-2,926
+1,805
+-5,013
+286
+9,832
+3.4
+35,430
+35.3
+5,117
+7.2
+5.1
+
+12,997
+15.7
+21,625
+45,355
+17,202
+23,615
+4,538
+-23,729
+-4,052
+-8,241
+-11,436
+5.8
+8.0
+-3,715
+404
+-5,318
+9,406
+19,238
+5.1
+50,863
+61.4
+9,167
+17.6
+11.1
+
+24,728
+22.7
+35,419
+67,131
+25,182
+35,503
+6,445
+-31,712
+-2,494
+-16,459
+-12,759
+21.6
+29.4
+-4,691
+-494
+-5,506
+1,019
+20,257
+4.7
+67,424
+61.9
+5,350
+7.0
+4.9
+
+(In percent of GDP)
+Saving-investment balance
+Gross investment
+Nongovernment sectors
+Gross national saving
+Nongovernment sectors
+
+36.5
+28.0
+64.8
+44.1
+
+Sources: Qatari authorities; and IMF staff estimates and projections.
+1/ Includes crude oil, LNG, propane, butane, and condensate.
+2/ Fiscal year basis, April–March.
+3/ Net of deposits in resident banks.
+4/ Next 12 months.
+
+37.7
+26.3
+68.5
+42.4
+
+33.6
+24.5
+66.6
+44.0
+
+42.0
+29.8
+57.7
+29.1
+
+37.1
+25.6
+59.8
+36.6
+
+INTERNATIONAL MONETARY FUND
+QATAR
+2009 Article IV Consultation
+Informational Annex
+Prepared by the Middle East and Central Asia Department
+January 22, 2010
+Contents
+
+Page
+
+I. Fund Relations ........................................................................................................................2
+II. Relations with the World Bank Group ..................................................................................4
+III. Statistical Issues ...................................................................................................................5
+
+2
+ANNEX I. QATAR: FUND RELATIONS
+(As of November 30, 2009)
+I.
+
+Membership Status: Joined 09/08/72; Article VIII, 06/04/73
+
+II.
+
+General Resources Account:
+
+Quota
+Fund holdings of currency
+Reserve position in Fund
+III.
+
+SDR Department:
+
+Net cumulative allocation
+Holdings
+IV.
+V.
+
+SDR million
+263.80
+212.48
+51.32
+
+Percent Quota
+100.00
+80.55
+19.45
+
+SDR million
+251.40
+268.11
+
+Percent Allocation
+100.00
+106.65
+
+Outstanding Purchases and Loans: None
+Projected Obligations to the Fund:
+(SDR Million; based on existing use of resources and present holdings of SDRs):
+Forthcoming
+2009
+Principal
+Charges/Interest
+Total
+
+2010
+
+2011
+
+2012
+
+2013
+
+0.02
+0.02
+
+0.02
+0.02
+
+0.02
+0.02
+
+0.02
+0.02
+
+VI.
+
+Implementation of HIPC Initiative: Not applicable
+
+VII.
+
+Safeguards Assessments: Not applicable
+
+VIII. Exchange Arrangements:
+The Qatari riyal has been pegged to the U.S. dollar at QR 3.64 = $1.00 since July 2002,
+following an unofficial peg that was in effect since June 1980. Qatar has accepted the
+obligations under Article VIII, Sections 2, 3, and 4(a) and maintains an exchange system that
+is free of restrictions on the making of payments and transfers for current international
+transactions. Qatar maintains exchange restrictions for security reasons, based on UN
+Security Council Resolutions, that have been notified to the Fund for approval under the
+procedures set forth in Executive Board Decision No. 144-(52/51).
+
+3
+IX.
+
+Article IV Consultation:
+
+The discussions for the previous Article IV consultation took place in Doha in November
+2008. The Staff Report and its supplement were discussed by the Executive Board on
+January 21, 2009. Qatar moved to a 12-month Article IV consultation cycle in 2007.
+X.
+
+FSAP Participation, ROSCs, and OFC Assessments:
+
+FSAP missions were conducted in January and May 2007. LEG conducted a detailed
+assessment of the Qatari anti-money laundering and combating the financing of terrorism
+(AML/CFT) framework against the Financial Action Task Force (FATF) 40+9
+Recommendations, in February 2007. The report was also presented to the Middle East &
+North Africa Financial Action Task Force (MENAFATF) and the FATF and adopted by
+these organizations as their own mutual evaluation at their respective plenary meetings of
+April 2008 and June 2008. The final report was published on the Fund website and a ROSC
+was circulated to the Executive Board for information in September 2008.
+XI.
+
+Technical Assistance:
+
+STA
+MAE
+MAE
+
+November/December 1994
+June 1995
+April 1997
+
+MAE
+
+September 1998/January 1999
+
+STA
+STA
+STA
+STA
+LEG
+STA
+LEG
+
+April 2000
+May 2001
+January 2005
+April 2006
+November 2006
+April 2007
+October 2009 (ongoing)
+
+XII.
+
+Resident Representative: None
+
+Multisector Statistics Mission
+Financial Sector Reform
+Reform of the Qatar Central
+Bank’s legal framework
+Introducing government bonds and
+treasury bills
+Real Sector Statistics
+Balance of Payments Statistics
+Multisector Statistics
+Government Finance Statistics
+AML/CFT Pre-assessment
+GDDS Assessment
+AML/CFT Long-Term Advisor
+Providing TA.
+
+4
+ANNEX II. QATAR: RELATIONS WITH THE WORLD BANK GROUP
+(As of December 7, 2009)
+Strategic Cooperation Program (SCP)
+The program of cooperation with Qatar is relatively recent and is based on ad hoc requests
+from the government for advisory services addressing strategic development issues. The first
+formal technical cooperation agreement was signed in April 2003 for a Public Transport
+Sector Reform study. A manpower planning exercise launched in 2003 with the support of
+the World Bank evolved in 2004 into a Labor Market Strategy for Qatar. The study was
+completed in June 2005 and could serve as a model for the GCC countries with similar labor
+issues. The project made a significant impact in Qatar and was widely publicized by the
+government.
+Ongoing Projects
+•
+
+Labor Market Strategy (LMS) Implementation
+
+The World Bank conducted a labor market survey to help identify the main characteristics of
+the labor market in Qatar, and prepared an LMS that included an assessment and analysis of
+the labor force and a review of labor laws, regulations, and other institutional factors
+affecting labor allocation and utilization. Currently, the Bank is assisting the government in
+the implementation of the study’s action plan.
+•
+
+Economic Diversification and Development in the GCC: Meeting the Challenges
+
+The World Bank is assisting the Government of Qatar to plan, prepare and conduct an
+international economic forum on economic diversification.
+Completed Projects
+•
+
+Knowledge Economy Strategy and Implementation Assistance (FY09)
+
+•
+
+Workshop on “Partnering for Value, Innovation and Job Creation: PPPs in the
+(FY06)
+
+•
+
+A macroeconomic modeling workshop (FY06)
+
+•
+
+Evaluation of Qatar’s Payments System (FY05)
+
+•
+
+Labor Market Strategy (FY04)
+
+•
+
+Investment Climate Workshop (FY04)
+
+•
+
+Public Transport Sector Study (FY03)
+
+GCC”
+
+5
+ANNEX III. QATAR: STATISTICAL ISSUES
+(As of December 9, 2009)
+I. ASSESSMENT OF DATA ADEQUACY FOR SURVEILLANCE
+General: Economic data are broadly adequate for surveillance but there is substantial scope
+for improving their frequency, timeliness and coverage. The most affected areas are the real
+gross domestic product (GDP), financial accounts of the balance of payment, and external
+debt statistics.
+National Accounts: Key aggregates are limited to quarterly estimates of GDP at current
+prices. The accuracy of data in the nonhydrocarbon sector is undermined by the lack of
+comprehensive source data. Qatar does not publish GDP at real prices.
+Price statistics: There have been some improvements in the compilation of the consumer
+price index (CPI). The authorities are now publishing monthly CPI data based on a
+reweighted and rebased (2006=100) basket, but the index remains deficient. The information
+related to domestic rents which form a sizeable share of the basketconstitutes only new
+rents, leading to overshooting of the index.
+Government finance statistics: Government budget and outcomes data should be presented
+according to Government Finance Statistics Manual 2001 (GFSM) guidelines, including
+greater detail on major expenditure and non-oil revenue categories. In addition, budget data
+should be rendered consistent with the data on public sector in the monetary survey and the
+balance of payments. Data on financing items in the budget are not up to date. Access to this
+information along with data on the budget outcome for previous fiscal years would enhance
+the basis for analysis. The country has a number of—largely commercial—public sector
+entities that should not be mixed with the central government accounts.
+The MOF is giving priority to the implementation of the recommendations of the GFSM with
+the objective of starting the dissemination of complete annual government finance tables.
+Monetary statistics: Monetary data for the Qatar Central Bank (QCB) and commercial
+banks are generally timely and of high quality. The QCB reports monetary data regularly to
+STA for publication in International Financial Statistics (IFS) on a monthly basis with a lag
+of about three weeks. Monthly and quarterly data are also published in the Quarterly
+Statistics Bulletin.
+Balance of Payments: QCB has made some progress in the compilation of balance of
+payments statistics. International Transactions Reporting System (ITRS) collection forms
+have been expanded and reporting forms for the major oil and gas companies and affiliates
+introduced to collect data on current account and financial account transactions. This system
+however has not yet stabilized. Glaring omissions remain in the balance of payments
+statistics, relating to the financial accounts. There is no compilation for inward or outward
+direct investment, there are no portfolio investment data compiled for the nonbank sector,
+and errors and omissions remain large. Moreover, official statistics seem to underestimate
+total imports. Source data for government external assets are not provided to the QCB for
+BOP compilation. Although an estimate for flows of government external assets based on the
+budget data is included in the balance of payments, no information is provided on the
+
+6
+government’s stock of external assets, which makes it difficult to appraise the level of
+investment income with any degree of confidence. In addition, there is an inconsistency in
+coverage in flows and stocks of official reserves. In the balance of payments, flows of
+official reserves include changes in the stock of QCB reserves and an estimate for the change
+in stock of the external assets of the government. However the stock of official reserves
+published in IFS includes only the stock of the QCB. The authorities have worked with STA
+in an attempt to report their BOP data in Balance of Payments Manual 5/e (BPM5) format,
+however there has been insufficient detailed information available to complete this process.
+External debt
+No official information is published on the amount or breakdown of external debt. However,
+detailed data on the country’s medium- and long-term external debt are provided to missions
+during the Article IV consultation discussions. In the recent period, Qatar has issued several
+international bonds. It is, therefore, important to improve the information flow on external
+debt and its maturity profile.
+II. DATA STANDARDS AND QUALITY
+Qatar is a General Data Dissemination System (GDDS) participant since December 2005.
+The GDDS mission of April 2007 updated the GDDS Summary Table II Data Coverage,
+Periodicity, and Timeliness; assessed dissemination practices relative to the requirements of
+the Special Data Dissemination Standard (SDDS) for coverage, periodicity, and timeliness;
+and identified major milestones that Qatar would have to reach to graduate from the GDDS
+to the SDDS. To enhance data dissemination practices, staff assisted the authorities in
+developing a National Summary Data Page (NSDP) and an Advance Release Calendar
+(ARC).
+
+7
+Qatar: Table of Common Indicators Required for Surveillance
+(As of January 4, 2010)
+Date of latest
+observation
+
+Date received
+
+Frequency
+of
+6
+Data
+
+Frequency
+of
+6
+Reporting
+
+Frequency
+of
+6
+Publication
+
+Exchange Rates
+
+Nov. 2009
+
+Dec. 2009
+
+M
+
+M
+
+M
+
+International Reserve Assets of the Monetary
+1
+Authorities
+
+Nov. 2009
+
+Dec. 2009
+
+M
+
+M
+
+M
+
+Reserve/Base Money
+
+Nov. 2009
+
+Dec. 2009
+
+M
+
+M
+
+M
+
+Broad Money
+
+Nov. 2009
+
+Dec. 2009
+
+M
+
+M
+
+M
+
+Central Bank Balance Sheet
+
+Nov. 2009
+
+Dec. 2009
+
+M
+
+M
+
+M
+
+Consolidated Balance Sheet of the Banking System
+
+Nov. 2009
+
+Dec. 2009
+
+M
+
+M
+
+M
+
+Interest Rates
+
+Nov. 2009
+
+Dec. 2009
+
+M
+
+M
+
+M
+
+Consumer Price Index
+
+Oct 2009
+
+Nov. 2009
+
+M
+
+M
+
+M
+
+Revenue, Expenditure, Balance and Composition of
+3
+4
+Financing – General Government
+
+...
+
+...
+
+NA
+
+NA
+
+NA
+
+Revenue, Expenditure, Balance and Composition of
+3
+Financing – Central Government
+
+2008/09
+
+May 2009
+
+Q
+
+I
+
+I
+
+Stocks of Central Government and Central
+5
+Government-Guaranteed Debt
+
+2009
+
+Nov 2009
+
+A
+
+I
+
+I
+
+External Current Account Balance
+
+2008
+
+March 2009
+
+A
+
+A
+
+Q
+
+Exports and Imports of Goods and Services
+
+2008
+
+March 2009
+
+A
+
+A
+
+Q
+
+GDP/GNP
+
+2009 (Q3)
+
+Dec. 2009
+
+Q
+
+I
+
+I
+
+Gross External Debt
+
+2009
+
+Nov 2009
+
+A
+
+I
+
+I
+
+International Investment Position7
+
+Oct. 2009
+(incomplete)
+
+Nov. 2009
+
+I
+
+I
+
+NA
+
+2
+
+1
+
+Includes reserve assets pledged or otherwise encumbered as well as net derivative positions.
+Both market-based and officially determined, including discount rates, money market rates, rates on treasury bills, notes and bonds.
+3
+Foreign, domestic bank, and domestic nonbank financing.
+4
+The general government consists of the central government (budgetary funds, extra budgetary funds, and social security funds) and state
+and local governments.
+5
+Including currency and maturity composition.
+6
+Daily (D), weekly (W), monthly (M), quarterly (Q), annually (A), irregular (I); and not available (NA).
+7
+Includes external gross financial asset and liability positions vis-avis nonresidents.
+2
+
+Public Information Notice (PIN) No. 10/22
+FOR IMMEDIATE RELEASE
+February, 17 2010
+
+International Monetary Fund
+700 19th Street, NW
+Washington, D. C. 20431 USA
+
+IMF Executive Board Concludes 2009 Article IV Consultation
+with Qatar
+On February 8, 2010, the Executive Board of the International Monetary Fund (IMF)
+concluded the Article IV consultation with Qatar on a lapse of time basis.1
+Background
+Qatar continued to deliver an impressive economic performance in 2009, despite the
+global slowdown. Overall real GDP growth is estimated at 9 percent, following a
+16 percent growth in 2008, underpinned by expansions in the production of liquefied
+natural gas (LNG) and condensates, and a strong performance in the nonhydrocarbon
+sector. A sharp fall in domestic house rents has led to deflation in 2009—the sharpest
+among the countries of the Gulf Cooperation Council (GCC). Fiscal policy continued to
+support growth through continued development spending, albeit with re-prioritization of a
+few government projects. The external current account is estimated to have recorded a
+large surplus (about 15.7 percent of GDP) on account of the rebound in the prices of oil
+and gas, and the central bank’s gross reserves strengthened further to around 5 months
+of imports of goods and services.
+The global turmoil and the recent developments in Dubai have had a limited impact on
+the banking system. Recent preemptive equity injections and asset purchases by the
+authorities have helped to further improve the resilience of the system. Although the
+underlying fundamentals remain strong, weak sentiment stemming from the global
+1
+
+Under Article IV of the IMF's Articles of Agreement, the IMF holds bilateral discussions with
+members, usually every year. A staff team visits the country, collects economic and financial
+information, and discusses with officials the country's economic developments and policies.
+On return to headquarters, the staff prepares a report, which forms the basis for discussion
+by the Executive Board. At the conclusion of the discussion, the Managing Director, as
+Chairman of the Board, summarizes the views of Executive Directors, and this summary is
+transmitted to the country's authorities. An explanation of any qualifiers used in summings
+up can be found here: http://www.imf.org/external/np/sec/misc/qualifiers.htm.
+
+2
+financial crisis and the recent Dubai restructuring have weighed on share prices, with
+the equity market rebounding only marginally in 2009.
+Qatar’s growth performance is expected to be even stronger in 2010, driven by a rapid
+expansion in LNG production (and related industries) and a pick up in manufacturing
+and construction. Following the deflation experienced in 2009, inflation is expected at
+around 1 percent in 2010, on account of increases in international prices for food and
+raw materials and the impact on domestic prices of planned infrastructure investments.
+The fiscal and external current accounts are projected to remain in surplus in 2010,
+mainly reflecting favorable oil prices.
+Qatar’s medium-term outlook remains positive, with continuing strong growth, moderate
+inflation, and fiscal and external current account surpluses. The main risks to this
+outlook include a slow global recovery, a large further decline in real estate prices,
+reduced availability of financing for projects, and additional unexpected adverse
+financial developments in the region. The projected high medium-term growth rates
+have the potential of overheating the economy unless the government continues to
+prioritize and sequence its spending towards infrastructure projects.
+Executive Board Assessment
+Executive Directors commended the Qatari authorities for successfully steering the
+economy through the global financial crisis and enhancing the growth prospects and
+financial stability of the Qatari economy. They noted that supportive macroeconomic
+policies have helped maintain investment, which contributed to strong growth, and to
+sizeable fiscal and external surpluses. The central bank’s macro-prudential policies, as
+well as timely and decisive intervention helped moderate the impact of the global crisis
+on the domestic banking system.
+Directors considered the medium-term outlook to be favorable, but noted that a key
+challenge facing the authorities is to dampen the potential risk of overheating stemming
+from their growth strategy and gradual recovery of international commodity prices. In this
+regard, Directors encouraged the authorities to prioritize infrastructure projects carefully
+in order to mitigate the emergence of supply bottlenecks and cost-push inflation.
+Directors also underscored the need for sustained efforts to increase absorptive
+capacity and diversify the economy away from hydrocarbon production and exports.
+Directors also agreed that Qatar’s growth strategy—which depends on investments
+financed through debt—could benefit from the establishment of a formal institutional
+structure to develop a medium-term debt management strategy.
+Directors welcomed the authorities’ intention to use the available fiscal space prudently,
+and to enhance implementation capacity and uphold intergenerational equity in resource
+revenue use. They supported the emphasis on building capacity in infrastructure and
+easing supply bottlenecks through project prioritization. Directors concurred that the
+
+3
+fiscal stance is appropriate and urged the authorities to maintain their capital spending—
+particularly since there are no fiscal sustainability concerns—until private sector activity
+becomes firmly entrenched.
+Directors commended the authorities for their timely intervention in the financial sector,
+which improved liquidity and provided room for lending by banks. Nevertheless, they
+underscored the importance of ensuring that banks do not rebuild excessively risky
+asset portfolios. In this context, they encouraged the authorities to strengthen their risk
+management practices and the overall supervision of the banking system. Directors
+were encouraged by the authorities’ commitment to establishing a single regulator of
+financial services in the near future, and reiterated the need to close any regulatory
+gaps in the transition period.
+Directors noted the resilience of the banking system, particularly in the face of the global
+crisis, as evidenced by the high capital, liquidity, and profitability levels. They welcomed
+the authorities’ commitment to preserving financial stability, and urged them to continue
+to monitor closely the evolving regional and global financial risks. In this context,
+Directors noted that the central bank had initiated a comprehensive review of its
+prudential regulations and monetary policy instruments.
+Directors agreed that the Qatari riyal is in line with fundamentals and that the peg to the
+U.S. dollar remains appropriate. They welcomed the commitment of the Qatari
+authorities to the GCC Monetary Union, and commended the authorities on the recent
+launching of the Monetary Council.
+Directors urged the authorities to continue to improve the quality of statistics, particularly
+in light of Qatar’s increasing integration with the global economy and the envisaged
+GCC monetary union. In this regard, they encouraged the authorities to build on the
+progress made since joining the General Data Dissemination Standards in 2005, in
+particular, by improving the compilation of national income and balance of payments
+data. They also welcomed the authorities’ intention to seek technical assistance to
+strengthen the balance of payments statistics and compile comprehensive data on the
+international investment position.
+It is expected that the next Article IV consultation with Qatar will be held on the standard
+12-month cycle.
+Public Information Notices (PINs) form part of the IMF's efforts to promote transparency of the IMF's
+views and analysis of economic developments and policies. With the consent of the country
+(or countries) concerned, PINs are issued after Executive Board discussions of Article IV consultations
+with member countries, of its surveillance of developments at the regional level, of post-program
+monitoring, and of ex post assessments of member countries with longer-term program engagements.
+PINs are also issued after Executive Board discussions of general policy matters, unless otherwise
+decided by the Executive Board in a particular case. The staff report (use the free Adobe Acrobat
+Reader to view this pdf file) for the 2009 Article IV Consultation with Qatar is also available.
+
+4
+Qatar: Selected Economic and Financial Indicators, 2005–10
+Proj.
+
+Production and Prices
+Real GDP (in percent per annum)
+Hydrocarbon 1/
+Nonhydrocarbon GDP
+Nominal GDP (in billion U.S dollars)
+Consumer price index (period average)
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+9.2
+6.0
+13.1
+42.5
+8.8
+
+15.0
+10.7
+19.9
+56.9
+11.8
+
+13.7
+12.9
+14.5
+71.0
+13.8
+
+15.8
+17.1
+14.5
+100.4
+15.0
+
+9.0
+10.0
+8.0
+82.9
+-5.5
+
+18.5
+25.2
+11.5
+108.9
+1.0
+
+(In percent of GDP on fiscal year basis) 2/
+Public Finance
+Total revenue
+Hydrocarbon revenue
+Other revenue
+Total expenditure and net landing
+Current expenditure, of which:
+Wages and salaries
+Capital expenditure
+Overall fiscal balance (deficit -)
+
+39.2
+27.7
+11.5
+30.3
+19.5
+4.0
+10.7
+8.9
+
+39.1
+25.2
+13.9
+30.5
+22.6
+5.9
+7.9
+8.6
+
+41.3
+24.8
+16.5
+29.7
+17.8
+5.2
+11.8
+11.6
+
+40.3
+22.9
+17.4
+28.3
+18.8
+5.4
+9.5
+12.0
+
+46.1
+19.5
+26.6
+34.3
+22.6
+6.7
+11.7
+11.8
+
+39.8
+21.6
+18.3
+31.0
+19.3
+5.4
+11.7
+8.9
+
+16.4
+7.0
+
+11.6
+11.6
+
+(Annual change in percent)
+Money
+Broad money
+Claims on private sector
+
+44.6
+63.5
+
+38.0
+45.9
+
+39.5
+51.3
+
+19.7
+42.4
+
+(In million U.S. dollars, unless otherwise stated)
+External Sector
+Exports of goods and services, of which:
+Crude oil and refined petroleum products
+LNG and related exports
+Imports of goods and services
+Current account
+In percent of GDP
+Central Bank reserves, net
+In months of imports of goods and services 3/
+Exchange rates (riyals/U.S. dollars)
+Real effective exchange rate (percent change)
+
+28,709
+14,122
+8,738
+-12,575
+14,100
+33.2
+4,555
+2.5
+3.64
+6.9
+
+39,276
+17,840
+13,360
+-21,767
+16,113
+28.3
+5,410
+2.4
+3.64
+8.1
+
+51,482
+21,178
+18,710
+-27,172
+21,823
+30.7
+9,546
+3.3
+3.64
+3.1
+
+Sources: Data provided by the authorities; and IMF staff estimates and projections.
+1/ Staff estimates; include crude oil, LNG, propane, butane, and condensate.
+2/ Fiscal year begins in April.
+3/ Next 12 months.
+
+71,193
+28,092
+30,808
+-34,848
+33,138
+33.0
+9,832
+3.4
+3.64
+3.6
+
+52,171
+17,202
+23,615
+-34,260
+12,997
+15.7
+19,238
+5.1
+3.64
+13.5
+
+76,415
+25,182
+35,503
+-45,687
+24,728
+22.7
+20,257
+4.7
+...
+...
+
+
