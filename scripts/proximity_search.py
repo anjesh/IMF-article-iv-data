@@ -27,7 +27,7 @@ function to stem words for the search_words for clarity as it contains list of a
 """
 def stem_search_words(search_words):
     stemmed_search_words = {}
-    for w1 in search_words.keys():
+    for w1 in search_words:
         stemmed_search_words[stem(w1)] = []
         for w2 in search_words[w1]:
             stemmed_search_words[stem(w1)].append(stem(w2))
@@ -47,7 +47,7 @@ def find_words_in_proximity_in_txtfile(text_filename, search_words, proximi = 50
         for w1 in text_words:
             count += 1
             # proximity word is found
-            if w1 in search_words.keys():
+            if w1 in search_words:
                 if not w1 in count_words:
                     count_words[w1] = {}
                 for w2 in search_words[w1]:
@@ -62,9 +62,9 @@ def find_words_in_proximity_in_txtfile(text_filename, search_words, proximi = 50
 search_words = stem_search_words(search_words)
 with open(file_pattern_count, "w") as fout:
     header = ["country", "year", "title", "page_link", "pdf_link", "txt_file", "size_kb"]
-    for word in search_words.keys():
-        for w in search_words[word]:
-            header.append(word+"-"+w)
+    for w1 in search_words:
+        for w2 in search_words[w1]:
+            header.append(w1+"-"+w2)
     csvwriter = csv.DictWriter(fout, header)
     csvwriter.writeheader()
     # read the article4 file rows to process each file
@@ -86,7 +86,7 @@ with open(file_pattern_count, "w") as fout:
             text_filepath = os.path.join(dir_text_files, document["txt_file"])            
             count_words = find_words_in_proximity_in_txtfile(text_filepath, search_words)
             if count_words.keys():
-                for word in search_words.keys():
-                    for w in search_words[word]:
-                        document[word+"-"+w] = count_words[word][w] if word in count_words.keys() and w in count_words[word] else ""
+                for w1 in search_words:
+                    for w2 in search_words[w1]:
+                        document[w1+"-"+w2] = count_words[w1][w2] if w1 in count_words and w2 in count_words[w1] else ""
             csvwriter.writerow(document)
